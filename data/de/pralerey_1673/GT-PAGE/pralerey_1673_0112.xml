@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:16:42</Created>
+		<LastChange>2026-11-23T11:16:42</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/112 revision 3271178 of 2018-07-31T16:12:10Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0112.png" imageWidth="732" imageHeight="1288">
+		<ReadingOrder>
+			<OrderedGroup id="ro10264962462122106134" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 732,0 732,155 0,155" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,1095 732,1095 732,1288 0,1288" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="132,58 731,58 731,1115 132,1115" />
+			<!-- line left out: id="r2l0" points="132,106 183,106 189,98 206,97 226,97 226,107 235,107 252,108 252,98 269,97 328,97 328,105 346,105 371,106 382,65 423,62 454,58 468,58 468,99 501,99 559,97 586,97 586,106 609,104 635,104 657,107 657,76 679,76 709,80 709,147 679,151 657,151 657,130 609,130 586,129 586,136 559,136 504,131 468,129 468,140 454,140 454,128 423,128 423,134 382,134 346,129 328,129 328,136 298,136 269,136 269,129 252,129 252,136 226,136 206,136 183,132 132,132" baseline="132,132 182,131 370,128 382,128 609,129 709,131" reason: differs: "ereoeib" against "re schr" | Wikisource:  | next_nc_e1: vor Tagleuchtere oeiben Ja es wer | german_print2_15: vor Tagleuchtere hcrigen X. Ja es wer⸗ -->
+			<!-- line left out: id="r2l1" points="135,144 153,144 184,149 196,142 223,142 231,149 242,148 272,148 284,139 292,139 292,148 303,148 304,139 325,139 349,139 363,140 374,147 390,147 391,140 408,140 431,138 465,138 465,147 492,147 492,138 511,138 511,148 568,148 568,131 587,131 587,141 603,138 611,138 611,131 627,131 627,141 633,141 633,148 658,148 667,145 692,145 707,131 709,131 709,153 707,153 692,174 667,174 633,169 633,176 611,176 602,173 587,176 568,176 558,169 511,170 465,170 431,170 408,169 391,168 374,167 363,174 349,175 333,175 333,167 304,167 303,175 284,175 272,169 231,169 224,169 223,176 206,176 206,169 196,169 184,175 162,175 153,169 135,169" baseline="135,169 362,166 374,166 709,170" reason: models differ | Wikisource: den ihnen gleich alle Baurn nachöhmen/ | next_nc_e1: den ihnen gleich alle Baurn nachoͤhmen/ | german_print2_15: den ihnen gleich alle Baurn nachohmen -->
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="134,179 152,179 162,173 190,173 190,184 224,188 224,180 241,180 241,173 257,173 257,180 307,180 307,187 318,187 321,178 429,178 429,185 454,186 495,181 531,181 537,187 555,187 563,177 607,177 607,188 633,188 633,177 649,177 657,180 661,187 687,187 694,191 709,181 709,193 694,208 687,208 687,214 624,215 624,208 576,208 576,215 563,215 563,208 505,208 488,210 465,210 454,208 429,207 429,214 387,212 362,207 362,214 321,214 318,207 279,207 273,213 257,216 241,216 241,208 199,208 190,216 174,216 174,208 152,208 152,216 134,216" />
+				<Baseline points="134,208 530,207 709,209" />
+				<TextEquiv index="1">
+					<Unicode>ſonderlich die Preißgauer/ die vorlaͤngſt ge⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l3" points="136,226 152,226 152,219 172,219 200,219 200,226 229,226 235,218 250,218 250,226 317,226 317,220 337,220 357,228 369,228 375,216 419,216 419,228 434,228 434,218 443,218 457,219 457,226 491,225 503,225 520,226 528,218 541,218 541,226 553,226 598,224 609,224 629,226 629,219 646,219 692,219 692,253 646,253 629,253 629,247 609,249 598,249 569,247 569,254 552,254 552,247 541,247 541,253 528,253 520,247 503,251 491,251 434,247 434,254 402,254 402,248 375,248 369,254 357,254 347,247 318,247 275,247 274,253 257,253 250,251 200,252 172,252 152,252 136,247" baseline="136,246 692,247" reason: differs: "it3Sylb" against "t 3. Sy" | Wikisource:  | next_nc_e1: wohnt ſeyn mit 3 Sylben zu ſagen/ welchs | german_print2_15: wohnt ſeyn mit; Sylben zu ſagen / welchs -->
+			<!-- line left out: id="r2l4" points="139,265 155,265 155,251 175,251 175,265 188,265 231,266 242,257 260,257 260,265 295,265 314,266 325,258 337,258 399,257 416,257 451,257 460,265 472,265 530,260 534,260 575,256 583,256 592,258 592,266 603,266 603,256 649,256 649,266 663,261 671,261 691,265 691,289 685,293 670,293 663,287 649,287 649,293 618,293 603,293 603,286 592,286 592,293 575,293 566,287 534,287 530,287 489,286 489,292 472,292 460,287 460,293 434,293 434,287 416,287 416,293 399,293 388,285 337,286 295,286 260,286 260,292 242,292 231,286 216,286 216,293 201,293 188,286 175,286 175,297 155,297 155,286 139,286" baseline="139,286 187,285 242,285 691,287" reason: second model: differs: "wenr" against "elch" | Wikisource: wengr haun? da hingegen die hoffärtige | next_nc_e1: wen gr haun? da hingegen die hoffaͤrtige | german_print2_15: wenr haun? da hingegen die hoffaͤrtige -->
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="141,295 181,295 182,305 229,303 229,297 246,295 263,295 296,297 323,304 356,303 369,298 402,298 418,307 436,307 439,317 448,317 460,296 499,296 499,305 512,305 512,299 520,298 547,298 547,305 564,305 581,297 606,297 606,305 628,305 628,299 654,299 654,305 694,301 712,324 712,332 654,325 654,332 628,332 628,326 606,326 606,333 581,333 564,326 521,327 512,330 479,330 439,325 436,331 141,330" />
+				<Baseline points="141,326 418,325 581,326 712,329" />
+				<TextEquiv index="1">
+					<Unicode>Sprachhelden mit 7. Sylben ſprechen/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="143,343 157,343 157,336 174,336 221,336 221,343 234,340 248,340 273,343 273,336 289,336 289,344 300,344 300,336 318,336 318,344 339,342 350,336 375,336 419,336 420,345 436,345 436,338 463,338 463,345 481,345 498,337 511,337 534,344 544,339 585,339 613,344 613,336 623,336 623,345 634,340 652,340 694,344 694,366 420,365 419,371 401,371 234,365 221,365 221,371 193,371 185,366 174,371 157,371 157,364 143,364" />
+				<Baseline points="143,364 694,366" />
+				<TextEquiv index="1">
+					<Unicode>welches wollet ihr haben? und alsdann</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l7" points="146,382 161,379 176,379 186,382 198,379 214,379 243,384 254,378 262,378 290,378 346,382 358,383 363,375 395,375 395,384 411,383 429,383 430,375 446,375 462,374 478,374 488,375 488,383 498,383 514,384 514,374 522,374 531,383 558,383 558,377 568,377 602,379 645,374 675,374 675,382 697,382 711,376 713,376 713,416 711,416 697,405 675,405 675,412 645,412 639,405 602,405 560,405 531,405 522,411 514,411 514,405 486,405 478,404 462,404 462,411 444,411 430,408 395,403 395,409 363,409 358,403 317,403 317,410 299,410 290,403 176,404 146,404" baseline="146,403 363,403 586,404 713,405" reason: second model: differs: "mPa·" against " Papyr " | Wikisource: werden die gute Haußhälter mit dem Pa | next_nc_e1: werden die gute Haußhaͤlter mit dem Pa⸗ | german_print2_15: werden die gute Haußhaͤlter mit dem Pa · -->
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="145,421 212,422 212,413 330,413 330,421 344,421 352,413 369,413 378,416 378,423 430,422 439,416 456,416 456,423 499,422 499,409 519,409 519,422 558,422 558,412 585,412 585,423 613,420 632,420 636,413 643,413 643,444 603,443 603,450 585,450 585,443 573,443 573,450 558,450 558,444 519,444 519,464 499,464 499,452 488,452 488,445 413,444 413,460 396,460 396,444 369,449 352,449 344,442 330,444 281,444 266,448 212,448 212,442 180,442 180,450 145,450" />
+				<Baseline points="145,442 643,443" />
+				<TextEquiv index="1">
+					<Unicode>pyr auch beſſer hinauslangen moͤgen!</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l9" points="205,451 241,451 241,461 269,456 277,456 347,456 405,456 405,462 417,462 425,456 443,456 476,456 477,461 518,456 550,456 574,457 611,461 615,452 636,450 653,450 713,450 713,501 684,501 684,489 666,489 666,483 653,483 653,501 636,501 636,483 550,483 535,484 503,484 325,483 277,483 241,484 205,484" baseline="205,484 256,482 370,482 713,483" reason: second model: differs: "ich," against "ichthum" | Wikisource: Da werden wir dann mit dem Reich | next_nc_e1: Da werden wir dann mit dem Reich⸗ | german_print2_15: Da werden wir dann mit dem Reich, -->
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="145,498 157,498 157,490 177,490 177,499 221,498 223,486 240,486 240,499 267,500 284,490 308,490 309,496 326,496 337,500 352,491 367,486 384,486 392,492 412,492 412,499 423,499 423,486 437,486 437,501 448,501 461,493 480,493 487,486 502,486 502,492 514,492 514,486 528,486 528,500 544,500 545,492 558,492 558,501 596,499 596,486 613,486 613,492 624,492 632,500 712,498 712,501 701,522 648,521 648,527 632,527 613,533 596,533 596,521 570,520 570,528 554,528 528,521 528,533 514,533 514,523 502,523 502,533 487,533 480,528 461,528 448,522 437,522 437,533 423,533 423,521 412,526 392,526 384,533 367,533 367,522 258,521 240,521 240,533 223,533 221,521 177,521 177,529 157,529 157,522 145,522" />
+				<Baseline points="145,522 220,520 712,522" />
+				<TextEquiv index="1">
+					<Unicode>thum und Adel unſerer Heldenſprach pran⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="147,538 219,535 318,539 330,533 377,533 431,540 438,532 451,530 469,530 469,540 505,530 522,530 522,540 536,540 536,530 566,530 592,530 592,536 604,532 618,532 618,539 640,541 640,533 668,532 668,539 688,534 699,534 699,564 688,564 668,561 668,567 649,567 648,561 618,561 618,567 604,567 592,563 536,563 481,561 431,566 413,566 356,562 207,563 167,560 167,567 147,567" />
+				<Baseline points="147,560 604,561 699,563" />
+				<TextEquiv index="1">
+					<Unicode>gen/ wann wir den Auslaͤndern weiſen/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l12" points="145,572 164,572 164,578 179,578 179,570 196,570 220,572 254,572 336,573 384,573 425,573 444,573 444,580 459,579 488,579 497,569 524,569 526,575 551,574 567,574 605,579 610,572 613,572 613,579 626,579 627,572 644,572 644,579 675,579 675,572 690,572 698,577 698,600 690,600 690,607 667,607 667,600 644,601 627,601 613,600 613,607 610,607 605,600 561,600 539,602 526,602 471,601 459,601 459,607 434,608 408,608 408,600 384,600 384,608 379,608 374,600 329,600 320,600 207,599 196,605 179,605 163,600 145,599" baseline="145,599 320,599 698,600" reason: differs: "sdeiein" against " dem ei" | Wikisource:  | next_nc_e1: daß wir aus dei eintzigen E/ dem allerge⸗ | german_print2_15: daß wir aus dem eintzigen E / dem allerge⸗ -->
+			<!-- line left out: id="r2l13" points="143,607 154,607 190,607 190,615 201,615 201,607 216,607 241,607 266,607 291,607 300,608 300,616 311,616 351,614 366,614 422,614 439,619 449,606 495,606 514,606 563,608 593,610 613,608 647,608 679,608 692,609 692,620 714,620 714,643 692,645 657,645 647,640 593,640 563,645 545,645 514,644 457,644 449,644 439,638 422,639 333,639 300,637 300,645 291,648 266,648 241,648 201,648 201,638 179,638 179,648 154,648 143,648" baseline="143,639 326,638 714,637" reason: differs: "braͤu" against "ller" | Wikisource:  | next_nc_e1: braͤuchlichſten aus den fuͤnff Stim⸗Buch⸗ | german_print2_15: braͤuchlichſten aus den fuͤnff Stim⸗Buch⸗ -->
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="144,649 157,646 172,646 201,646 228,646 272,648 463,648 463,656 474,656 474,648 489,648 489,656 576,655 585,648 610,648 610,656 621,656 621,648 639,648 639,655 651,655 651,647 668,647 668,656 683,656 686,647 702,647 728,661 731,661 731,663 728,663 702,682 686,682 668,677 668,685 651,685 651,678 639,678 639,685 621,685 621,677 528,682 517,682 489,678 489,684 474,684 474,678 463,678 463,684 325,683 325,677 272,677 272,684 247,684 228,677 201,677 201,685 184,685 184,677 172,677 172,685 144,685" />
+				<Baseline points="144,677 731,677" />
+				<TextEquiv index="1">
+					<Unicode>ſtaben (die doch ſo ſchwer zu entbehren)</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="144,687 161,687 161,696 181,695 181,687 207,687 214,698 250,695 271,695 271,710 277,710 285,686 312,686 312,695 342,695 342,686 360,686 360,695 466,695 466,686 495,686 503,694 521,694 530,686 565,685 586,685 586,695 598,695 598,685 623,685 642,694 657,689 700,690 700,716 615,722 565,722 565,716 548,716 548,722 530,722 521,715 495,715 495,721 401,720 383,723 342,723 342,716 312,716 312,723 285,723 277,715 214,716 195,723 181,723 181,717 161,717 161,723 144,723" />
+				<Baseline points="144,717 276,715 530,715 700,717" />
+				<TextEquiv index="1">
+					<Unicode>ſovil 100. hinweg zu werffen haben! wird</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="144,729 163,729 175,734 184,735 195,726 217,726 217,734 238,734 238,720 253,720 271,725 280,720 299,720 305,734 322,734 336,725 351,720 369,720 369,734 405,734 405,726 423,726 439,734 449,734 449,726 464,726 464,733 475,733 475,726 508,724 557,724 557,733 608,734 617,727 646,726 663,726 663,733 674,729 698,729 698,758 684,758 684,765 676,765 674,758 663,754 663,761 636,762 617,762 617,755 557,756 557,762 475,761 475,755 464,755 464,761 449,761 449,755 423,760 405,760 376,755 376,762 369,762 369,769 351,769 351,757 299,755 299,769 280,769 280,761 253,761 253,769 238,769 238,755 217,757 144,756" />
+				<Baseline points="144,756 698,755" />
+				<TextEquiv index="1">
+					<Unicode>der Teutſchen Sprach auch beſſer anſtehen/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="144,774 165,774 165,766 175,766 191,770 318,772 383,769 395,773 437,773 451,765 479,765 479,772 509,772 520,764 535,764 545,770 562,770 563,764 604,764 604,774 613,774 624,766 648,767 649,773 675,773 675,761 686,761 686,772 700,772 700,794 649,794 640,801 624,801 613,794 604,794 604,800 590,800 579,794 535,799 520,799 509,793 408,795 144,796" />
+				<Baseline points="144,796 278,794 700,793" />
+				<TextEquiv index="1">
+					<Unicode>als wann man deren eben ſovil ſo hinten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="143,802 164,802 199,810 233,810 288,806 320,806 332,812 400,807 474,811 479,802 526,802 556,802 566,811 579,808 595,808 605,802 647,802 647,812 665,810 684,810 684,803 701,803 701,835 647,835 626,835 595,832 556,832 526,835 494,835 479,835 264,833 143,834" />
+				<Baseline points="143,834 479,832 701,835" />
+				<TextEquiv index="1">
+					<Unicode>als vorn wie an einem Bettlers⸗Mantel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l19" points="144,851 161,851 161,842 188,842 230,842 231,850 241,850 241,842 258,842 269,845 320,850 329,843 350,841 382,841 382,850 392,850 433,850 433,841 450,841 459,849 464,841 488,841 488,850 506,850 528,850 528,844 534,844 561,844 561,850 589,850 595,843 611,842 625,842 626,843 626,853 639,853 639,846 645,846 647,842 677,842 700,842 700,872 625,872 611,872 589,871 578,871 577,878 560,878 560,871 512,871 488,870 488,878 450,878 433,878 433,872 415,872 404,878 394,878 392,872 381,872 370,871 370,878 350,878 329,877 320,872 311,872 293,871 284,878 258,878 241,878 231,873 214,872 214,879 200,879 197,872 188,879 161,879 144,874" baseline="144,871 700,869" reason: models differ | Wikisource: ohnnöthig anflickt; massen einige Scriben | next_nc_e1: ohnnoͤthig anflickt; maſſen einige Scriben- | german_print2_15: ohnnoͤthig anflickt; maſſen einige Scriben -->
+			<!-- line left out: id="r2l20" points="143,889 195,888 245,888 245,881 262,881 263,889 299,889 318,890 318,882 346,882 346,889 358,889 386,889 412,885 437,883 441,883 485,879 517,879 556,880 556,889 568,889 568,883 578,883 578,890 607,890 624,891 624,877 643,877 643,890 657,890 657,884 680,884 718,886 718,936 692,936 692,919 678,919 678,911 664,913 643,913 643,940 624,940 624,919 613,919 607,913 595,913 568,912 556,912 543,911 531,917 485,917 475,911 423,914 412,914 387,911 374,910 374,917 357,917 357,911 346,911 346,917 308,917 299,910 263,910 262,917 245,917 245,910 207,914 195,914 168,912 143,912" baseline="143,912 224,910 308,910 543,911 718,914" reason: second model: differs: "ing:" against "inge Ke" | Wikisource: ten zu thun pflegen/ die sich keine gering | next_nc_e1: ten zu thun pfiegen/ die ſich keine gering | german_print2_15: ten zu thun pflegen / die ſich keine gering: -->
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="145,918 179,918 179,927 191,927 191,920 213,920 220,928 251,928 261,920 276,920 276,928 318,928 327,921 343,921 343,928 355,924 370,924 407,929 407,920 455,920 455,928 468,928 468,949 355,950 276,955 261,955 251,949 232,953 179,951 150,955 146,955 145,951" />
+				<Baseline points="145,949 468,950" />
+				<TextEquiv index="1">
+					<Unicode>Kerl zu ſeyn beduncken.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="225,957 283,957 330,961 347,966 458,967 465,958 490,958 497,962 512,967 512,958 526,958 526,967 540,967 545,958 559,958 559,969 569,969 571,958 589,958 595,934 616,934 616,959 632,959 632,967 647,967 655,957 676,957 683,961 706,966 714,938 717,938 717,964 714,964 706,989 655,989 647,1003 632,1003 632,996 616,996 616,1007 595,1007 589,995 571,995 569,988 559,988 559,994 545,994 526,990 433,989 402,990 379,993 335,993 288,988 283,995 225,995" />
+				<Baseline points="225,988 717,989" />
+				<TextEquiv index="1">
+					<Unicode>Ich bin zwar von keiner ſo hohen Ein⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="144,996 162,996 204,996 204,1004 223,1004 247,1008 247,996 249,996 284,1002 292,998 378,998 387,1006 416,1001 423,998 452,998 460,1006 469,1006 469,998 486,998 486,1006 521,1006 521,998 552,1000 562,998 578,998 578,1007 607,1008 613,996 621,996 644,996 668,996 715,1002 715,1006 706,1032 654,1033 654,1027 630,1027 621,1033 613,1033 607,1027 590,1029 578,1034 552,1035 521,1035 521,1028 486,1027 486,1035 469,1035 469,1028 452,1033 423,1033 414,1028 387,1027 378,1034 292,1034 232,1033 223,1026 204,1026 204,1033 187,1033 187,1027 144,1026" />
+				<Baseline points="144,1026 715,1027" />
+				<TextEquiv index="1">
+					<Unicode>bildung/ daß ich mich unterſtehen doͤrffte/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l24" points="146,1035 163,1035 219,1035 219,1043 228,1043 235,1035 279,1035 279,1045 303,1043 320,1043 320,1036 348,1036 348,1029 378,1029 388,1035 534,1035 576,1038 576,1046 589,1041 605,1041 714,1040 717,1040 717,1057 714,1057 706,1069 647,1069 617,1070 589,1070 576,1075 378,1079 348,1079 320,1075 320,1069 303,1069 292,1068 292,1075 263,1075 235,1073 219,1068 219,1075 163,1075 146,1075" baseline="146,1067 388,1067 657,1068 717,1069" reason: differs: "irn/ſon" against "rn sond" | Wikisource:  | next_nc_e1: unſere Sprach zu reformirn/ ſondern war | german_print2_15: unſere Sprach zu reformirn / ſondern war -->
+			<!-- line left out: id="r2l25" points="662,1084 694,1083 717,1083 717,1115 694,1115 694,1107 680,1108 662,1108" baseline="662,1108 717,1107" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: nur | german_print2_15: nur -->
+			<TextEquiv index="1">
+				<Unicode>ſonderlich die Preißgauer/ die vorlaͤngſt ge⸗
+Sprachhelden mit 7. Sylben ſprechen/
+welches wollet ihr haben? und alsdann
+pyr auch beſſer hinauslangen moͤgen!
+thum und Adel unſerer Heldenſprach pran⸗
+gen/ wann wir den Auslaͤndern weiſen/
+ſtaben (die doch ſo ſchwer zu entbehren)
+ſovil 100. hinweg zu werffen haben! wird
+der Teutſchen Sprach auch beſſer anſtehen/
+als wann man deren eben ſovil ſo hinten
+als vorn wie an einem Bettlers⸗Mantel
+Kerl zu ſeyn beduncken.
+Ich bin zwar von keiner ſo hohen Ein⸗
+bildung/ daß ich mich unterſtehen doͤrffte/</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+vor Tagleuchtere schreiben / etc. Ja es werden ihnen gleich alle Baurn nachöhmen / sonderlich die Preißgauer / die vorlängst gewohnt seyn mit 3. Sylben zu sagen / welchs wengr haun? da hingegen die hoffärtige Sprachhelden mit 7. Sylben sprechen / welches wollet ihr haben? und alsdann werden die gute Haußhälter mit dem Papyr auch besser hinauslangen mögen!
+Da werden wir dann mit dem Reichthum und Adel unserer Heldensprach prangen / wann wir den Ausländern weisen / daß wir aus dem eintzigen E / dem allergebräuchlichsten aus den fünff Stimm-Buchstaben (die doch so schwer zu entbehren) sovil 100. hinweg zu werffen haben! wird der Teutschen Sprach auch besser anstehen / als wann man deren eben sovil so hinten als vorn wie an einem Bettlers-Mantel ohnnöthig anflickt; massen einige Scribenten zu thun pflegen / die sich keine geringe Kerl zu seyn beduncken.
+Ich bin zwar von keiner so hohen Einbildung / daß ich mich unterstehen dörffte / unsere Sprach zu reformirn sondern war
+-->
+	</Page>
+</PcGts>

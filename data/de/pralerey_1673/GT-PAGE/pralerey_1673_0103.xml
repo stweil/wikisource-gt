@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:16:29</Created>
+		<LastChange>2026-11-23T11:16:29</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/103 revision 3271168 of 2018-07-31T16:12:07Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0103.png" imageWidth="732" imageHeight="1293">
+		<ReadingOrder>
+			<OrderedGroup id="ro11346669516235086056" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="0,74 647,74 647,934 0,934" />
+			<!-- line left out: id="r0l0" points="308,76 331,74 350,74 350,88 357,88 357,96 350,101 330,102 308,102" baseline="308,101 357,102" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 97.
+ | german_print2_15: 97.
+ -->
+			<!-- line left out: id="r0l1" points="14,106 42,103 60,103 98,104 117,108 134,99 170,99 171,109 181,109 181,101 196,101 198,109 231,109 287,109 304,108 333,105 370,105 370,113 392,110 409,107 429,105 446,105 446,111 453,111 474,113 474,105 483,105 519,107 519,114 547,113 565,113 619,113 644,128 647,128 647,129 644,129 619,146 602,146 601,138 566,138 565,144 547,144 528,137 518,137 499,136 483,143 474,143 474,136 454,136 453,143 429,143 429,136 409,136 370,135 370,143 350,143 333,141 320,134 232,134 182,133 170,134 134,134 61,132 42,131 14,109" baseline="14,131 333,134 482,136 547,137 647,139" reason: differs: "dere" against "Stät" | Wikisource:  | next_nc_e1: deren Staͤtten vnd Provintzen in gantz | german_print2_15: deren Staͤtten vnd Provintzen in ganz -->
+			<TextLine id="r0l2" custom="readingOrder {index:2;}">
+				<Coords points="14,165 43,140 71,140 72,150 113,149 113,141 134,141 160,142 160,149 174,149 193,145 236,145 237,151 264,152 276,143 318,143 318,151 363,152 373,144 415,144 415,154 560,147 562,156 614,155 614,177 562,176 560,184 544,184 544,176 534,176 526,184 501,184 501,176 476,176 467,182 442,182 442,175 427,175 427,181 396,182 396,176 276,175 160,172 149,176 113,177 113,171 14,172" />
+				<Baseline points="14,172 220,172 614,177" />
+				<TextEquiv index="1">
+					<Unicode>Teutſchland der Statt Speyr und ihrem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l3" custom="readingOrder {index:3;}">
+				<Coords points="12,193 150,193 161,180 176,175 191,175 191,190 201,190 202,184 221,184 228,175 243,175 243,182 254,182 265,191 295,191 295,184 306,184 310,180 329,180 347,183 347,192 371,191 371,183 393,183 393,175 432,175 439,189 512,188 512,195 524,195 524,189 609,194 609,216 512,216 439,214 432,224 393,224 371,219 371,213 347,212 347,220 329,220 329,213 306,213 284,211 283,219 265,219 254,212 243,212 243,224 228,224 221,216 202,216 191,211 191,224 176,224 176,212 12,207" />
+				<Baseline points="12,207 149,211 609,216" />
+				<TextEquiv index="1">
+					<Unicode>naͤchſten Bezirck gebuͤhre/ dañ da wird man</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l4" points="40,221 56,221 72,222 141,227 170,227 183,228 201,229 213,221 262,221 262,229 274,224 283,222 310,222 370,221 388,221 404,224 404,231 416,231 427,233 427,224 445,224 445,232 461,232 461,225 491,223 536,223 536,232 545,232 558,233 558,226 577,223 593,223 610,225 610,262 577,262 577,255 558,255 536,254 536,262 520,262 491,257 471,255 461,255 445,254 445,260 427,260 427,253 380,253 380,260 370,260 329,259 320,259 283,258 275,252 262,252 262,258 233,258 214,258 213,252 183,251 141,250 141,256 123,256 111,248 72,249 40,249" baseline="40,248 123,249 320,251 610,255" reason: models differ | Wikisource: einen guten Strich biß überhalb Durlach | next_nc_e1: einen guten Strich biß uͤberhalb Durlach | german_print2_15: einen guten Strich biß uberhalb Durlach -->
+			<TextLine id="r0l5" custom="readingOrder {index:5;}">
+				<Coords points="40,265 60,265 110,257 147,257 147,268 161,264 178,264 208,268 225,260 242,260 270,263 271,271 294,269 294,260 330,260 344,270 377,269 377,263 408,263 440,264 440,270 504,270 504,264 523,264 533,271 550,271 551,264 571,264 571,272 608,272 608,295 590,300 565,300 565,294 523,294 523,300 504,300 504,294 486,294 467,300 451,300 451,292 424,292 408,298 377,298 377,292 344,291 330,298 294,298 294,291 242,291 242,297 178,299 178,289 147,289 147,299 128,299 128,290 40,288" />
+				<Baseline points="40,288 608,295" />
+				<TextEquiv index="1">
+					<Unicode>und Baden hinauff auch bey manchen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l6" custom="readingOrder {index:6;}">
+				<Coords points="40,296 77,296 78,306 113,305 156,307 186,301 201,301 201,308 213,308 214,299 237,299 237,308 255,309 262,300 295,300 295,308 329,308 329,300 344,300 395,301 395,310 417,301 432,301 432,309 453,309 460,303 501,303 517,305 517,311 543,309 551,305 569,304 580,304 580,310 608,311 608,333 470,333 432,337 417,337 417,331 395,331 395,337 373,337 329,336 310,331 295,336 279,336 77,328 40,328" />
+				<Baseline points="40,327 608,334" />
+				<TextEquiv index="1">
+					<Unicode>Bauern/ beſſer Teutſch finden als in vilen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l7" custom="readingOrder {index:7;}">
+				<Coords points="39,342 117,345 117,338 133,338 134,346 191,347 196,334 217,334 235,338 235,347 247,347 247,338 264,338 264,345 314,348 368,348 368,341 378,334 393,334 405,339 405,348 416,346 433,346 479,350 479,344 496,344 506,350 516,347 534,347 544,340 590,340 590,350 605,350 605,372 467,372 405,369 405,376 393,381 378,381 369,370 317,372 264,369 217,370 217,381 196,381 191,368 134,368 133,374 117,374 117,368 39,367" />
+				<Baseline points="39,367 605,370" />
+				<TextEquiv index="1">
+					<Unicode>vornehmen Staͤtten; welches meines Da⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l8" custom="readingOrder {index:8;}">
+				<Coords points="16,394 38,382 86,384 86,377 102,377 103,385 119,385 119,378 140,378 140,385 152,385 195,381 244,383 252,376 285,376 308,376 342,376 364,379 372,387 385,387 385,380 425,380 425,388 446,388 446,380 462,380 462,387 491,388 497,381 508,380 545,380 545,389 552,389 562,384 577,381 603,383 603,410 577,411 545,409 545,417 520,417 508,417 508,409 385,410 350,408 342,415 293,415 285,408 269,408 269,415 252,415 244,407 211,408 103,405 102,412 86,412 86,406 38,406 16,399" />
+				<Baseline points="16,405 603,408" />
+				<TextEquiv index="1">
+					<Unicode>vorhaltens das Kaͤyſerl. alldorten befindli⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l9" custom="readingOrder {index:9;}">
+				<Coords points="38,415 61,415 69,422 80,422 89,415 115,415 115,424 151,423 151,415 171,415 171,424 211,424 215,430 223,430 223,415 243,415 262,417 263,425 296,417 323,417 332,415 334,415 371,422 433,416 486,416 506,419 506,429 512,429 520,418 555,418 556,429 571,429 571,422 588,422 599,427 599,448 555,450 496,449 496,455 472,455 472,448 447,448 447,455 433,455 421,454 414,448 371,448 334,454 296,454 288,447 243,448 243,454 223,454 223,443 211,447 171,447 171,454 151,454 151,447 69,445 68,451 57,451 38,446" />
+				<Baseline points="38,445 599,448" />
+				<TextEquiv index="1">
+					<Unicode>che Cammer⸗Gericht/ die Fuͤrſtl: Bad:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l10" custom="readingOrder {index:10;}">
+				<Coords points="40,453 80,453 80,463 106,463 106,456 125,453 144,453 160,455 160,466 242,456 287,456 339,464 347,455 386,455 386,464 398,460 483,460 492,468 517,466 517,460 589,460 600,465 600,489 563,487 553,494 517,494 508,489 436,487 422,496 398,496 398,486 386,486 386,496 367,496 367,488 215,486 160,490 125,490 106,485 80,484 80,490 58,490 40,485" />
+				<Baseline points="40,484 563,487 600,489" />
+				<TextEquiv index="1">
+					<Unicode>Durlach: und Baden Bad: wie auch die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l11" points="43,493 80,493 103,493 130,493 130,503 140,503 141,494 155,493 173,493 173,505 190,495 231,495 231,503 255,503 284,503 284,495 299,495 340,495 340,506 347,506 359,496 397,496 443,496 470,496 470,505 514,505 531,504 543,504 560,505 572,499 583,499 583,505 600,505 600,528 572,528 531,527 531,534 514,534 514,527 467,527 467,534 443,534 397,534 378,534 359,532 347,526 340,531 326,532 299,532 284,532 284,526 270,531 244,532 213,532 190,527 173,525 173,531 141,531 140,524 130,524 130,531 115,531 90,529 80,524 60,524 60,531 43,531" baseline="43,524 559,527 600,528" reason: second model: differs: "ffl.Spe" against "ffl: Sp" | Wikisource: Bischoffl: Speyerisch: Hoffhaltungen in | next_nc_e1: Biſchoffl: Speyeriſch: Hoffhaltungen in | german_print2_15: Biſchoffl. Speyeriſch: Hoffhaltungen in -->
+			<TextLine id="r0l12" custom="readingOrder {index:12;}">
+				<Coords points="41,536 60,536 84,541 92,534 131,534 131,542 142,542 143,534 175,534 185,535 185,543 215,543 215,534 229,534 260,534 292,534 292,541 349,542 357,538 404,538 456,543 467,537 490,537 502,543 528,536 586,536 586,543 599,543 599,567 502,566 490,572 467,572 456,565 305,563 292,570 274,571 215,571 215,565 185,565 175,571 157,571 143,570 142,564 131,564 131,571 113,571 113,564 41,562" />
+				<Baseline points="41,562 467,565 599,564" />
+				<TextEquiv index="1">
+					<Unicode>der Nachbarſchafft: und dann ſo vil Ge⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l13" custom="readingOrder {index:13;}">
+				<Coords points="40,572 52,572 52,581 63,581 63,572 86,572 93,580 129,581 129,573 218,573 223,581 242,581 259,577 274,577 291,581 291,573 378,573 379,581 417,577 504,575 537,578 587,578 602,583 602,610 567,610 510,605 504,612 485,612 460,612 454,605 395,607 379,604 378,610 351,610 345,604 305,603 305,610 291,610 291,603 223,603 218,610 192,610 186,603 176,603 176,610 119,610 115,603 86,603 86,609 63,609 63,601 52,603 40,603" />
+				<Baseline points="40,603 119,602 602,606" />
+				<TextEquiv index="1">
+					<Unicode>lehrte geiſtlich und weltliche/ die ſich immer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l14" custom="readingOrder {index:14;}">
+				<Coords points="40,615 51,615 68,620 79,613 110,612 132,615 144,620 144,612 161,612 161,620 172,620 176,612 212,612 212,619 276,620 276,611 293,611 327,611 347,611 374,613 374,621 402,617 415,617 442,619 453,622 497,622 497,613 543,614 550,622 581,622 594,626 594,650 585,650 581,644 550,644 549,651 537,651 537,645 511,649 497,649 402,646 347,642 347,649 276,649 276,642 212,644 176,644 161,642 161,649 129,649 129,641 110,642 90,646 79,646 40,641" />
+				<Baseline points="40,641 594,644" />
+				<TextEquiv index="1">
+					<Unicode>in ſelbiger Statt auffhalten/ verurſachen;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l15" custom="readingOrder {index:15;}">
+				<Coords points="37,653 55,653 56,660 71,660 71,649 87,645 121,645 132,649 164,652 170,661 186,659 204,659 204,652 248,652 258,656 296,659 349,659 360,661 360,652 428,653 428,661 461,660 469,657 509,653 538,654 538,662 552,662 570,653 585,653 585,660 596,660 596,684 572,684 538,688 501,689 494,683 412,687 404,682 394,682 389,688 360,688 360,680 349,682 258,686 248,689 231,689 223,682 218,682 218,689 204,689 204,682 187,682 187,688 144,688 144,680 136,680 132,686 121,686 121,693 87,693 87,686 71,686 71,679 37,679" />
+				<Baseline points="37,679 596,684" />
+				<TextEquiv index="1">
+					<Unicode>dañ diß iſt gewiß/ wer mehr lißt und ſchreibt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l16" custom="readingOrder {index:16;}">
+				<Coords points="37,699 47,699 47,690 80,690 87,697 99,697 132,692 186,690 186,698 197,698 206,690 247,690 247,699 270,699 270,686 285,686 285,694 369,691 369,698 411,699 411,686 426,686 426,692 440,692 440,699 451,699 461,692 473,692 473,686 488,686 488,700 500,700 500,686 514,686 520,693 549,693 562,700 588,700 596,705 596,721 588,724 562,723 549,729 514,733 500,733 500,722 488,722 488,733 473,733 473,724 440,722 440,728 426,733 411,733 411,722 369,721 369,728 341,728 334,721 292,722 285,733 270,733 270,721 247,721 247,728 206,728 197,721 172,722 37,719" />
+				<Baseline points="37,718 596,721" />
+				<TextEquiv index="1">
+					<Unicode>als er mit Leuthen die nicht recht Teutſch re⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l17" points="36,731 55,731 55,737 102,734 114,734 114,725 128,725 128,731 143,731 152,725 167,725 208,725 208,731 219,731 227,740 242,739 260,739 289,740 308,740 308,729 338,729 338,739 352,737 358,737 358,729 361,729 408,734 425,738 431,731 441,731 441,739 455,739 455,725 469,725 469,740 481,739 536,739 544,738 563,738 587,739 596,744 596,760 587,762 563,763 544,763 482,762 469,762 469,772 455,772 455,762 384,762 322,760 308,760 289,757 242,758 227,758 219,766 208,766 208,772 190,772 190,760 177,760 167,772 152,772 152,760 128,760 128,772 114,772 114,761 102,761 67,759 55,759 36,758" baseline="36,758 596,760" reason: models differ | Wikisource: den/ mündlich conversirt/ der lernet unver | next_nc_e1: den/ muͤndlich converſirt/ der lernet unver⸗ | german_print2_15: den / mündlich converſirt / der lernet unver⸗ -->
+			<TextLine id="r0l18" custom="readingOrder {index:18;}">
+				<Coords points="13,801 37,775 90,777 90,769 114,768 125,768 131,776 144,771 153,771 153,777 170,773 186,773 218,777 225,773 311,774 360,770 400,770 400,779 450,778 450,771 485,771 494,779 519,779 519,772 534,771 551,771 559,778 582,775 594,775 594,804 551,801 551,808 519,808 519,801 495,801 495,807 467,808 450,808 450,800 400,805 360,805 226,800 114,800 13,803" />
+				<Baseline points="13,798 594,801" />
+				<TextEquiv index="1">
+					<Unicode>merckt eins und anders alſo ausſprechen/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l19" points="4,829 32,815 61,811 81,811 91,814 128,814 161,816 168,809 178,809 178,816 189,816 189,809 214,809 214,817 250,817 258,813 283,813 319,817 326,809 349,809 362,810 362,817 387,812 395,810 410,810 410,818 422,817 439,817 458,818 458,812 483,812 483,819 509,819 509,813 520,813 520,820 535,819 559,818 575,818 575,808 594,808 594,840 576,841 559,841 535,840 528,847 509,847 483,847 458,847 446,846 439,839 395,839 362,838 362,845 326,845 319,839 302,843 291,843 232,839 214,838 214,845 189,845 189,838 178,839 144,842 133,842 61,839 32,838 4,834" baseline="4,838 326,838 446,839 535,840 594,841" reason: models differ | Wikisource: wie ers zu lesen und zu schreiben pflegt; wann | next_nc_e1: wie ers zu leſen und zu ſchreiben pflegt; wañ | german_print2_15: wie ers zu leſen und zu ſchreiben pflegt; wan -->
+			<TextLine id="r0l20" custom="readingOrder {index:20;}">
+				<Coords points="0,854 34,851 52,851 68,855 185,855 199,852 223,852 293,857 294,848 338,848 366,850 367,857 379,857 379,848 390,848 424,848 431,858 444,858 454,852 484,852 484,858 500,854 516,854 527,857 536,850 555,850 555,857 582,859 582,865 593,865 593,870 582,870 582,877 546,877 527,880 424,883 396,883 366,879 323,886 294,886 293,878 132,882 0,879" />
+				<Baseline points="0,877 423,878 593,880" />
+				<TextEquiv index="1">
+					<Unicode>dann zween oder mehr zierlich redende lite-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l21" custom="readingOrder {index:21;}">
+				<Coords points="0,893 50,891 50,897 61,897 61,891 159,895 174,897 174,891 190,891 202,895 271,895 271,888 280,887 303,887 303,896 381,894 392,897 392,891 408,891 421,895 438,891 505,892 509,898 526,898 526,889 536,889 536,897 547,897 547,891 556,888 584,888 584,901 594,901 594,917 584,917 584,926 556,926 556,918 527,918 527,925 509,925 505,919 394,917 294,917 294,925 271,925 271,919 260,924 243,924 233,918 88,918 63,915 50,915 50,934 0,934" />
+				<Baseline points="0,915 594,917" />
+				<TextEquiv index="1">
+					<Unicode>rati von andern gehoͤret werden/ die gleich⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Teutſchland der Statt Speyr und ihrem
+naͤchſten Bezirck gebuͤhre/ dañ da wird man
+und Baden hinauff auch bey manchen
+Bauern/ beſſer Teutſch finden als in vilen
+vornehmen Staͤtten; welches meines Da⸗
+vorhaltens das Kaͤyſerl. alldorten befindli⸗
+che Cammer⸗Gericht/ die Fuͤrſtl: Bad:
+Durlach: und Baden Bad: wie auch die
+der Nachbarſchafft: und dann ſo vil Ge⸗
+lehrte geiſtlich und weltliche/ die ſich immer
+in ſelbiger Statt auffhalten/ verurſachen;
+dañ diß iſt gewiß/ wer mehr lißt und ſchreibt
+als er mit Leuthen die nicht recht Teutſch re⸗
+merckt eins und anders alſo ausſprechen/
+dann zween oder mehr zierlich redende lite-
+rati von andern gehoͤret werden/ die gleich⸗</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {3;}">
+			<Coords points="0,275 19,275 19,801 0,801" />
+			<!-- line left out: id="r1l0" points="0,275 19,275 19,801 0,801" baseline="9,801 13,275" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: —  —= —
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="0,922 596,922 596,1123 0,1123" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="12,939 33,927 106,927 106,935 152,935 152,927 199,926 221,930 221,922 279,922 283,935 324,936 324,926 333,926 343,935 420,934 450,936 459,928 503,928 504,937 524,928 539,928 539,936 584,936 592,940 592,955 584,958 503,959 361,956 361,963 343,963 333,956 283,957 279,967 221,967 221,958 199,963 172,963 172,957 141,956 141,963 125,963 125,956 33,957 12,942" />
+				<Baseline points="12,957 592,956" />
+				<TextEquiv index="1">
+					<Unicode>wol ungelehrt oder wol gar nur Weiber o⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="33,969 50,969 50,975 73,975 80,965 115,965 129,970 154,969 178,974 183,967 197,967 197,974 233,975 233,967 293,964 313,964 324,967 324,974 381,974 387,966 407,966 407,974 421,969 431,969 432,975 511,976 511,968 557,968 557,976 574,976 574,968 586,968 586,979 592,979 592,995 586,998 534,997 534,1004 520,1004 520,997 432,997 431,1003 421,1003 417,997 407,997 407,1003 387,1003 381,996 324,997 324,1003 302,1003 302,995 293,995 285,1002 233,1003 233,996 221,996 220,1003 183,1003 178,996 139,996 115,998 33,996" />
+				<Baseline points="33,996 592,995" />
+				<TextEquiv index="1">
+					<Unicode>der Kinder ſeyn/ ſo oͤhmen ſie jenen alſobal⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l2" points="0,1014 34,1010 52,1010 123,1009 140,1009 178,1009 214,1015 229,1015 230,1006 241,1005 258,1005 265,1014 294,1014 294,1005 315,1005 331,1006 332,1014 367,1014 367,1008 383,1008 395,1013 433,1014 448,1015 448,1008 478,1008 489,1015 506,1015 506,1007 538,1007 543,1015 571,1015 571,1009 580,1009 591,1013 591,1037 571,1038 543,1038 489,1037 478,1043 448,1043 448,1037 395,1037 382,1037 353,1035 332,1034 331,1042 294,1042 294,1035 282,1035 282,1043 258,1043 230,1043 229,1035 169,1036 98,1036 52,1036 11,1037 0,1037" baseline="0,1037 78,1036 202,1035 406,1035 591,1037" reason: second model: differs: "lmie" against " mit Fl" | Wikisource: den entweder ohngefehr oder auch wol mit | next_nc_e1: den entweder ohngefehr oder auch wol mit | german_print2_15: den entweder ohngefehr oder auch wol mie -->
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="0,1054 11,1054 37,1045 62,1045 72,1047 139,1045 139,1053 162,1052 173,1044 215,1044 215,1054 257,1054 258,1045 285,1045 296,1053 324,1052 324,1045 360,1045 367,1056 375,1056 386,1049 402,1049 419,1053 419,1046 443,1046 443,1053 475,1053 522,1050 593,1053 593,1076 461,1078 443,1083 419,1083 419,1076 360,1080 324,1080 315,1077 285,1082 258,1082 227,1077 227,1084 198,1084 198,1078 139,1076 139,1082 81,1082 71,1077 62,1083 37,1083 11,1076 0,1076" />
+				<Baseline points="0,1076 103,1071 116,1069 161,1077 593,1076" />
+				<TextEquiv index="1">
+					<Unicode>Fleiß ihre Sprach nach; dahero es dann</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l4" points="341,1083 369,1083 391,1095 405,1095 499,1085 513,1085 513,1094 529,1093 549,1093 575,1090 596,1090 596,1120 575,1123 557,1123 549,1117 528,1118 405,1122 391,1122 369,1116 341,1116" baseline="341,1117 596,1115" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: E 5 kompt/
+ | german_print2_15: E 5 kompt /
+ -->
+			<TextEquiv index="1">
+				<Unicode>wol ungelehrt oder wol gar nur Weiber o⸗
+der Kinder ſeyn/ ſo oͤhmen ſie jenen alſobal⸗
+Fleiß ihre Sprach nach; dahero es dann</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="688,0 732,0 732,1293 688,1293" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Stätten vnd Provintzen in gantz
+Teutschland der Statt Speyr und ihrem
+nächsten Bezirck gebühre / dann da wird man
+einen guten Strich biß überhalb Durlach
+und Baden hinauff auch bey manchen
+Bauern / besser Teutsch finden als in vilen
+vornehmen Stätten; welches meines Davorhaltens
+das Käyserl. alldorten befindliche
+Cammer-Gericht / die Fürstl: Bad:
+Durlach: und Baden Bad: wie auch die
+Bischoffl: Speyerisch: Hoffhaltungen in
+der Nachbarschafft: und dann so vil Gelehrte
+geistlich und weltliche / die sich immer
+in selbiger Statt auffhalten / verursachen;
+dann diß ist gewiß / wer mehr lißt und schreibt
+als er mit Leuthen die nicht recht Teutsch reden /
+mündlich conversirt / der lernet unvermerckt
+eins und anders also aussprechen /
+wie ers zu lesen und zu schreiben pflegt; wann
+dann zween oder mehr zierlich redende literati
+von andern gehöret werden / die gleichwol
+ungelehrt oder wol gar nur Weiber oder
+Kinder seyn / so öhmen sie jenen alsobalden
+entweder ohngefehr oder auch wol mit
+Fleiß ihre Sprach nach; dahero es dann
+-->
+	</Page>
+</PcGts>

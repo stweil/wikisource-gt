@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:12:32</Created>
+		<LastChange>2026-11-23T11:12:32</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:De_Schachzabel_Spiel_(Köbel).djvu/43 revision 3255050 of 2018-07-31T14:15:11Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="schachzabel_1520_0043.png" imageWidth="1568" imageHeight="2236">
+		<ReadingOrder>
+			<OrderedGroup id="ro12270025452494378803" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="0,0 1348,0 1348,31 0,31" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="198,146 1121,146 1121,394 198,394" />
+			<!-- line left out: id="r1l0" points="978,147 1044,146 1121,146 1121,188 1036,189 978,189" baseline="978,189 1121,188" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: X. | german_print2_15:  -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="459,201 567,201 570,223 595,223 595,211 700,211 703,222 740,222 740,213 776,213 776,201 818,201 818,220 855,220 855,201 897,201 937,202 937,276 897,276 897,290 776,290 776,276 570,276 567,284 510,284 510,290 459,290" />
+				<Baseline points="459,285 937,274" />
+				<TextEquiv index="1">
+					<Unicode>Widderteyl.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l2" points="198,319 382,316 508,316 522,304 649,304 653,322 703,322 703,305 773,305 789,331 809,331 809,321 889,321 889,301 943,301 964,319 1052,319 1052,348 1071,348 1071,369 1052,371 991,373 964,373 943,385 889,385 889,377 841,377 789,374 773,388 703,388 703,375 649,378 547,378 522,377 508,390 356,394 198,394" baseline="198,379 507,376 789,374 1071,369" reason: second model: differs: "VnRK" against "Eyn " | Wikisource: yn Künig auff ac. | next_nc_e1: yn künig auff a c.
+ | german_print2_15: Vn RKünig auff ac.
+ -->
+			<TextEquiv index="1">
+				<Unicode>Widderteyl.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="185,390 878,390 878,719 185,719" />
+			<!-- line left out: id="r2l0" points="296,396 378,393 427,393 430,405 487,400 513,400 513,393 560,393 560,408 571,408 572,396 605,396 605,407 633,407 633,395 650,395 650,405 694,404 734,404 745,405 749,390 786,390 801,404 835,403 868,403 868,418 878,418 878,429 868,429 868,442 835,442 825,434 801,434 786,442 749,442 745,434 719,434 675,435 634,435 634,446 603,446 603,435 560,435 537,435 537,449 487,449 477,440 430,440 378,436 358,447 296,447" baseline="296,437 476,435 674,434 878,429" reason: differs: "ynKaͤnig" against "n Koͤnig" | Wikisource:  | next_nc_e1: Eyn Kaͤnigin auff a g. | german_print2_15: Eyn Rhoͤnigin auff ag. -->
+			<!-- line left out: id="r2l1" points="213,453 354,453 354,446 424,446 425,461 475,461 485,446 526,446 526,461 569,461 569,451 597,451 599,460 713,460 717,444 751,444 826,447 826,458 853,458 853,497 795,497 795,488 771,488 751,497 717,497 713,489 686,491 660,491 569,490 553,490 526,489 526,496 485,496 389,495 354,495 354,481 213,481" baseline="213,490 474,489 750,488 853,488" reason: differs: "EEyn" against "f ag" | Wikisource:  | next_nc_e1: EEyn Fenden auff bg. | german_print2_15: Wyn Fenden auff bg. -->
+			<!-- line left out: id="r2l2" points="185,498 250,498 250,513 286,513 298,503 327,503 348,504 349,512 419,512 496,515 496,502 547,502 566,508 613,508 613,515 635,515 635,543 613,545 566,545 547,551 496,551 496,544 481,544 453,543 419,542 327,546 298,546 216,545 185,544" baseline="185,544 437,542 453,542 635,543" reason: differs: "EynR" against "f bg" | Wikisource:  | next_nc_e1: Eyn Ritter auff de. | german_print2_15: Eyn KRitter auff de. -->
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="186,554 247,554 247,567 287,567 298,554 346,554 346,568 381,567 383,558 407,558 411,567 455,567 518,570 520,556 555,556 626,558 626,570 651,570 651,604 619,604 610,599 605,609 583,609 520,604 503,599 490,598 346,596 346,603 217,602 186,599" />
+				<Baseline points="186,594 454,598 651,599" />
+				<TextEquiv index="1">
+					<Unicode>Eyn Fenden auff fh.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="185,608 247,608 247,621 285,621 296,606 338,606 367,606 367,622 379,622 380,612 407,612 409,622 454,622 518,625 521,610 559,610 578,627 606,624 661,625 661,655 578,654 559,662 521,662 518,654 493,653 379,651 367,655 185,653" />
+				<Baseline points="185,653 284,651 465,651 661,654" />
+				<TextEquiv index="1">
+					<Unicode>Eyn Fenden auff em.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l5" points="187,662 250,662 250,674 287,674 300,664 349,664 352,677 377,677 378,663 424,663 450,664 450,677 464,677 465,664 502,664 575,666 575,678 604,678 604,719 544,719 530,715 465,714 464,705 450,705 450,714 437,714 378,710 329,708 287,710 219,710 187,707" baseline="187,707 286,705 423,709 437,707 501,706 530,706 604,708" reason: differs: "achvffh" against "ch auff" | Wikisource:  | next_nc_e1: Eyn Rach vff hp.
+ | german_print2_15: Eyn Rach vff hp.
+ -->
+			<TextEquiv index="1">
+				<Unicode>Eyn Fenden auff fh.
+Eyn Fenden auff em.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="189,709 1214,709 1214,807 189,807" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="189,723 291,723 291,735 351,735 379,718 432,716 531,716 531,739 559,739 562,722 632,722 660,737 686,737 686,714 724,714 724,732 760,732 760,714 816,714 851,733 926,733 943,713 979,713 979,730 1015,730 1017,709 1061,709 1087,724 1214,723 1214,777 1061,782 1015,786 979,786 979,794 943,794 926,786 851,786 816,800 760,800 760,791 724,791 724,800 686,800 686,791 660,791 632,807 562,807 559,794 531,794 531,807 494,807 494,796 469,796 469,807 432,807 432,789 291,794 189,794" />
+				<Baseline points="189,795 350,789 660,792 943,783 1087,781 1214,776" />
+				<TextEquiv index="1">
+					<Unicode>Der König auff a. ſoll am</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Der König auff a. ſoll am</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="225,804 1120,804 1120,865 225,865" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="225,862 271,862 282,817 327,818 329,804 355,804 358,815 377,815 447,820 449,810 474,810 476,821 508,821 530,824 530,816 589,816 591,824 618,819 654,819 662,806 683,806 683,820 695,818 780,818 796,820 799,804 831,804 865,807 867,815 906,815 916,808 961,805 990,805 991,813 1019,809 1034,809 1053,805 1120,807 1120,836 1073,836 1073,849 1034,849 1034,839 961,846 865,844 796,847 683,848 683,858 662,858 654,850 617,852 589,857 530,857 523,853 508,860 476,860 474,849 447,853 430,853 421,847 376,847 355,845 282,845 271,865 225,865" />
+				<Baseline points="225,843 430,847 507,852 830,844 916,844 1120,840" />
+				<TextEquiv index="1">
+					<Unicode>achten ʒuͦg Matt ſein mit der Künigin.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>achten ʒuͦg Matt ſein mit der Künigin.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="184,855 1211,855 1211,1453 184,1453" />
+			<!-- line left out: id="r5l0" points="355,866 392,866 809,873 819,873 819,884 392,886 355,886" baseline="355,886 391,886 809,878 819,878" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 4 .
+ | german_print2_15:  -->
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="213,909 383,909 404,876 471,876 471,893 519,893 523,873 599,873 614,882 664,882 667,890 753,890 769,881 786,881 786,889 829,889 829,882 861,881 893,881 893,887 977,884 1021,884 1021,861 1093,861 1113,878 1143,878 1143,855 1211,855 1211,940 1143,940 1143,933 1113,933 1093,947 1021,947 1021,939 829,944 614,945 599,957 523,957 519,947 404,947 383,962 213,962" />
+				<Baseline points="213,946 977,940 1092,936 1211,940" />
+				<TextEquiv index="1">
+					<Unicode>Eüch den ritter vff cf.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l2" points="336,963 459,963 462,973 513,973 527,961 551,961 580,962 582,972 607,972 609,961 654,961 665,972 676,972 676,957 700,957 700,971 717,971 720,957 757,957 820,959 820,1006 757,1007 700,1007 676,1007 676,1000 665,1000 654,1008 609,1008 607,1002 580,1006 551,1008 527,1008 459,1004 384,1008 336,1008" baseline="336,1008 512,1003 665,1000 820,998" reason: second model: differs: "WDas" against "Das " | Wikisource: Das Rach auff h. | next_nc_e1: Das Rach auff h.
+ | german_print2_15: WDas Kach auff h.
+ -->
+			<!-- line left out: id="r5l3" points="195,1023 350,1023 404,1017 468,1017 468,1028 504,1028 515,1016 551,1015 585,1015 609,1018 611,1027 627,1025 639,1025 642,1015 693,1015 703,1026 744,1026 744,1011 794,1011 844,1012 844,1024 868,1024 868,1053 822,1053 800,1052 794,1062 744,1062 744,1055 727,1056 703,1056 693,1065 642,1065 639,1052 624,1056 611,1056 585,1055 585,1065 551,1065 350,1061 195,1061" baseline="195,1060 515,1058 692,1054 868,1052" reason: differs: "lDen" against "Den " | Wikisource:  | next_nc_e1: l Den Rünigk auff be.
+ | german_print2_15:  -->
+			<!-- line left out: id="r5l4" points="185,1074 244,1074 244,1087 285,1087 296,1081 344,1078 357,1077 380,1077 380,1084 396,1084 397,1073 444,1073 451,1084 479,1083 492,1082 504,1082 508,1069 591,1069 628,1073 631,1095 642,1095 642,1109 628,1110 564,1110 543,1119 508,1119 504,1111 479,1112 451,1112 444,1122 397,1122 396,1113 380,1113 357,1112 352,1082 344,1082 338,1118 296,1118 215,1116 185,1115" baseline="185,1115 443,1111 542,1110 642,1109" reason: second model: differs: "DenK" against "f be" | Wikisource: Den Künig auff bd. | next_nc_e1: Den Künig auff bd.
+ | german_print2_15: Den KRünig auff bd.
+ -->
+			<TextLine id="r5l5" custom="readingOrder {index:5;}">
+				<Coords points="184,1127 244,1127 244,1139 290,1139 299,1129 353,1128 353,1139 379,1139 380,1125 436,1123 450,1123 450,1137 463,1137 464,1123 500,1123 562,1127 562,1164 519,1164 500,1173 464,1173 463,1165 450,1165 450,1173 380,1173 184,1170" />
+				<Baseline points="184,1170 289,1169 299,1171 424,1166 562,1163" />
+				<TextEquiv index="1">
+					<Unicode>Das Rach vff d.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l6" custom="readingOrder {index:6;}">
+				<Coords points="185,1180 245,1180 245,1193 291,1193 299,1182 328,1178 358,1178 358,1192 380,1192 381,1178 426,1178 436,1190 489,1191 491,1176 528,1176 620,1178 620,1219 554,1218 528,1226 491,1226 489,1220 436,1221 426,1227 358,1227 328,1227 185,1223" />
+				<Baseline points="185,1224 620,1218" />
+				<TextEquiv index="1">
+					<Unicode>Das Rach auff di.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l7" custom="readingOrder {index:7;}">
+				<Coords points="186,1235 240,1235 241,1247 285,1247 296,1233 338,1233 338,1248 380,1247 381,1240 407,1240 456,1244 472,1229 486,1229 486,1245 499,1243 524,1243 529,1229 565,1229 586,1243 605,1243 605,1230 652,1230 652,1280 605,1280 605,1272 586,1272 565,1281 529,1281 524,1272 486,1273 486,1281 472,1281 456,1274 338,1276 338,1282 296,1282 285,1276 186,1276" />
+				<Baseline points="186,1276 652,1270" />
+				<TextEquiv index="1">
+					<Unicode>Den Fenden auff af.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l8" points="186,1288 243,1288 275,1290 321,1295 321,1286 351,1286 351,1292 377,1292 377,1300 393,1300 395,1289 411,1289 411,1299 440,1299 440,1286 481,1286 499,1299 526,1297 551,1297 555,1282 591,1282 640,1284 651,1294 713,1293 741,1292 767,1292 767,1283 795,1283 886,1284 886,1292 907,1288 940,1288 940,1320 905,1321 886,1326 810,1326 769,1322 741,1322 713,1321 695,1332 651,1332 640,1322 614,1322 591,1332 555,1332 551,1324 525,1327 441,1327 441,1336 410,1336 410,1327 393,1329 351,1329 351,1336 321,1336 289,1334 186,1331" baseline="186,1331 289,1331 480,1326 590,1323 639,1322 940,1319" reason: differs: "Mat." against "Matt. S" | Wikisource:  | next_nc_e1: Die Künigin auff b g. vnd Mat.
+ | german_print2_15: Die RKünigin auff bg. vnd Mat.
+ -->
+			<!-- line left out: id="r5l9" points="316,1355 379,1355 379,1349 444,1349 507,1349 582,1350 582,1359 619,1359 676,1359 676,1345 730,1345 733,1351 761,1349 788,1349 790,1358 816,1356 873,1356 887,1346 917,1342 944,1342 945,1352 966,1352 982,1354 982,1338 1006,1338 1006,1352 1018,1352 1018,1337 1046,1337 1048,1352 1066,1349 1096,1349 1096,1381 1048,1381 1046,1390 1018,1390 1018,1382 1006,1382 1006,1391 982,1391 982,1384 916,1385 873,1386 814,1387 790,1387 761,1386 753,1392 730,1395 676,1395 676,1388 662,1389 582,1391 525,1391 507,1401 461,1401 461,1392 444,1394 411,1394 411,1404 316,1404" baseline="316,1395 506,1391 636,1388 872,1385 887,1385 1096,1381" reason: second model: differs: "PSic" against "Matt" | Wikisource: Sich eben auff/ dann übersehen | next_nc_e1:  Sich eben auff/ dann überſehen
+ | german_print2_15: P Sich eben auff / dann überſehen
+ -->
+			<TextLine id="r5l10" custom="readingOrder {index:10;}">
+				<Coords points="524,1403 540,1401 572,1401 586,1414 658,1415 659,1400 686,1400 701,1412 716,1412 716,1397 734,1397 734,1412 767,1412 767,1397 787,1397 787,1410 806,1410 808,1400 825,1400 825,1412 842,1412 842,1400 856,1400 856,1408 887,1408 887,1441 808,1440 806,1450 767,1449 767,1441 734,1441 734,1450 716,1450 716,1440 701,1440 686,1450 659,1450 658,1442 586,1444 572,1453 540,1453 540,1444 524,1444" />
+				<Baseline points="524,1444 685,1441 887,1441" />
+				<TextEquiv index="1">
+					<Unicode>iſt auch verſpielt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Eüch den ritter vff cf.
+Das Rach vff d.
+Das Rach auff di.
+Den Fenden auff af.
+iſt auch verſpielt.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="179,302 381,302 381,496 179,496" />
+		</GraphicRegion>
+		<GraphicRegion id="r7">
+			<Coords points="188,859 399,859 399,1064 188,1064" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="184,1457 249,1457 249,1604 184,1604" />
+		</GraphicRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="190,1541 1226,1541 1226,1883 190,1883" />
+			<!-- line left out: id="r9l0" points="195,1558 301,1555 340,1555 342,1545 391,1545 394,1573 412,1573 412,1559 439,1559 441,1572 469,1571 487,1571 487,1557 513,1557 516,1569 569,1568 581,1568 581,1541 601,1541 601,1555 614,1555 617,1567 655,1567 683,1558 707,1555 722,1554 788,1552 814,1552 816,1566 835,1564 849,1564 849,1552 863,1552 881,1563 909,1562 935,1562 936,1554 962,1554 963,1563 981,1562 1020,1562 1020,1550 1037,1550 1037,1561 1053,1561 1053,1548 1080,1548 1082,1555 1098,1555 1100,1546 1127,1546 1127,1556 1168,1555 1193,1555 1193,1541 1223,1541 1223,1584 1194,1584 1194,1603 1168,1603 1159,1595 1127,1595 1127,1586 1098,1587 1082,1587 1080,1595 1053,1595 1053,1588 1037,1590 1001,1591 962,1591 881,1591 863,1604 835,1604 835,1594 788,1594 767,1593 749,1602 722,1602 722,1594 707,1594 705,1600 683,1600 655,1594 635,1595 617,1595 614,1603 601,1603 601,1612 581,1612 581,1596 569,1596 568,1602 546,1602 543,1608 516,1608 487,1607 487,1598 468,1600 441,1600 439,1607 412,1607 412,1600 391,1601 342,1601 301,1600 195,1595" baseline="195,1604 291,1602 301,1602 654,1595 683,1594 748,1593 881,1592 1158,1585 1223,1584" reason: differs: "ASch" against "Nym " | Wikisource:  | next_nc_e1: A Schachtzycher/ diß kůrtz vnderrichtũg zů | german_print2_15: Schachgycher / diß kůrtz vnderrichtũg zuͦ -->
+			<!-- line left out: id="r9l1" points="192,1632 210,1632 234,1631 287,1630 314,1628 340,1628 341,1616 363,1616 363,1626 384,1626 397,1625 412,1625 413,1613 464,1613 498,1617 502,1625 521,1625 521,1613 538,1613 538,1622 582,1619 605,1619 614,1607 651,1606 675,1606 722,1606 722,1619 739,1619 758,1620 759,1608 786,1608 788,1619 817,1619 818,1608 833,1608 834,1619 852,1619 852,1607 901,1607 901,1615 925,1615 926,1606 961,1602 1031,1602 1073,1600 1101,1600 1104,1612 1122,1612 1129,1603 1155,1603 1158,1609 1173,1609 1191,1611 1192,1597 1221,1597 1221,1644 1192,1644 1191,1637 1155,1639 1122,1640 1069,1642 1044,1642 1031,1670 961,1670 961,1651 926,1651 925,1644 901,1647 881,1647 878,1654 852,1654 852,1647 833,1648 818,1648 817,1659 788,1659 759,1656 758,1649 741,1649 722,1648 722,1659 675,1659 651,1659 651,1650 563,1652 498,1654 473,1654 464,1664 413,1664 412,1655 384,1655 363,1655 363,1666 341,1666 340,1658 311,1659 234,1659 234,1665 211,1665 192,1660" baseline="192,1660 273,1658 287,1658 463,1654 473,1653 604,1650 614,1650 961,1644 1026,1642 1129,1639 1221,1637" reason: differs: "eyma" against "ng z" | Wikisource:  | next_nc_e1: eym anfangk deines Schachtziehẽs/ vnd übe dich | german_print2_15: eym anfangk deines Schachtziehẽs / vnd übe dich -->
+			<!-- line left out: id="r9l2" points="191,1676 204,1676 204,1670 224,1670 224,1686 240,1685 262,1685 264,1672 291,1672 323,1672 323,1685 341,1685 341,1670 368,1670 405,1672 407,1681 433,1680 453,1678 468,1678 468,1668 497,1663 537,1663 537,1677 566,1676 622,1676 624,1665 662,1663 678,1663 678,1675 694,1675 695,1661 721,1661 779,1663 779,1675 811,1673 837,1673 866,1672 883,1672 884,1660 910,1660 948,1663 950,1670 979,1669 1050,1667 1074,1665 1133,1661 1160,1661 1207,1661 1226,1664 1226,1713 1200,1713 1200,1692 1160,1692 1160,1713 1133,1713 1133,1694 1102,1695 1074,1695 1073,1704 1050,1704 1050,1697 1012,1699 948,1700 922,1700 910,1709 884,1709 883,1701 864,1703 760,1703 721,1708 695,1708 622,1704 606,1705 555,1706 537,1706 537,1715 497,1715 492,1709 484,1709 431,1708 405,1709 378,1709 368,1718 341,1718 341,1712 323,1712 293,1711 291,1720 264,1720 240,1717 224,1713 224,1725 191,1725" baseline="191,1713 378,1709 491,1707 734,1702 1011,1697 1032,1696 1226,1691" reason: second model: differs: "fley" against "dich" | Wikisource: fleyßlich darinn/ so will ich dir nach dem eyn weit | next_nc_e1: fleyßlich darmñ/ ſo will ich dir nach dem eyn weit⸗ | german_print2_15: fleyßlich darꝛñ / ſo will ich dir nach dem eyn weit⸗ -->
+			<TextLine id="r9l3" custom="readingOrder {index:3;}">
+				<Coords points="194,1731 208,1731 208,1721 238,1721 239,1730 259,1730 259,1721 280,1721 306,1723 306,1738 383,1736 385,1723 447,1722 450,1733 479,1734 479,1723 506,1723 506,1733 522,1733 522,1719 548,1719 552,1729 570,1729 571,1718 601,1718 601,1706 663,1706 663,1718 668,1718 679,1728 705,1728 707,1717 722,1717 722,1729 740,1729 740,1718 791,1714 817,1714 834,1718 865,1719 865,1712 958,1714 965,1724 996,1724 1015,1720 1072,1722 1073,1711 1088,1711 1089,1718 1226,1716 1226,1746 1153,1749 1073,1750 1072,1761 1050,1761 1050,1752 996,1753 996,1764 965,1764 919,1761 919,1753 909,1753 906,1764 834,1764 834,1755 820,1755 817,1763 791,1763 781,1757 679,1757 668,1764 663,1764 663,1780 601,1780 601,1764 571,1764 552,1759 548,1765 522,1765 482,1761 348,1764 348,1776 317,1776 314,1765 306,1765 306,1774 280,1776 259,1776 259,1767 225,1769 225,1776 208,1776 208,1769 194,1769" />
+				<Baseline points="194,1769 601,1757 965,1753 1226,1745" />
+				<TextEquiv index="1">
+					<Unicode>laͤüffigerñ bericht/ mit vielñ hüpſchẽ geteylten vñ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l4" custom="readingOrder {index:4;}">
+				<Coords points="190,1793 235,1793 235,1779 260,1779 260,1793 297,1790 356,1790 356,1779 370,1779 371,1786 433,1787 447,1772 503,1772 503,1787 523,1787 525,1776 541,1775 574,1775 575,1786 594,1784 621,1784 630,1773 646,1773 646,1783 672,1783 680,1770 728,1770 728,1783 746,1783 748,1769 787,1769 816,1770 823,1780 871,1781 871,1771 897,1771 900,1779 919,1777 945,1777 948,1793 960,1793 960,1807 945,1809 855,1809 855,1819 823,1819 816,1811 525,1814 523,1825 478,1825 478,1816 357,1818 357,1829 334,1829 334,1820 279,1821 279,1833 235,1833 235,1826 190,1825" />
+				<Baseline points="190,1823 447,1815 960,1807" />
+				<TextEquiv index="1">
+					<Unicode>vngeteylten Spielen in Truͦck geben.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l5" custom="readingOrder {index:5;}">
+				<Coords points="413,1834 472,1834 472,1847 487,1847 488,1837 543,1837 560,1831 595,1831 595,1845 617,1845 634,1830 687,1830 687,1844 714,1841 749,1841 762,1831 789,1831 790,1843 827,1842 827,1827 851,1827 920,1827 920,1838 956,1838 958,1853 970,1853 970,1867 956,1869 920,1869 920,1879 879,1879 877,1870 851,1870 851,1879 827,1879 827,1872 789,1870 617,1880 595,1883 560,1883 543,1875 413,1877" />
+				<Baseline points="413,1884 634,1878 762,1871 970,1868" />
+				<TextEquiv index="1">
+					<Unicode>Vnnd ſey Gott beuolhen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>laͤüffigerñ bericht/ mit vielñ hüpſchẽ geteylten vñ
+vngeteylten Spielen in Truͦck geben.
+Vnnd ſey Gott beuolhen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="197,1892 1221,1892 1221,1990 197,1990" />
+			<!-- line left out: id="r10l0" points="197,1916 247,1916 268,1908 338,1908 384,1910 385,1916 417,1916 450,1921 450,1899 496,1899 501,1919 536,1919 536,1900 583,1900 583,1911 614,1911 656,1915 657,1896 738,1895 822,1895 827,1911 923,1911 959,1912 1005,1913 1010,1892 1059,1892 1061,1910 1097,1908 1145,1907 1221,1907 1221,1964 1145,1964 1142,1977 1097,1977 1096,1963 1061,1963 1059,1979 1010,1979 1005,1970 960,1970 923,1966 923,1980 875,1980 827,1979 822,1971 710,1972 657,1972 656,1986 628,1986 614,1974 496,1975 417,1976 385,1976 338,1975 338,1982 268,1982 247,1990 197,1990" baseline="197,1981 268,1979 613,1974 628,1973 738,1971 1221,1963" reason: differs: "¶Cet" against "Getr" | Wikisource:  | next_nc_e1: ¶ Cetrůckt ʒů Oppenheym | german_print2_15: ¶ Cetruůckt ʒů ppenheym -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Widderteyl.
+Eyn Künig auff ac.
+Eyn Koͤnigin auff ag.
+Eyn Fenden auff bg.
+Eyn Ritter auf dc.
+Eyn Fenden auff fh.
+Eyn Fenden auff em.
+Eyn Rach auff hp.
+Der König auff a. soll am
+achten zuͦg Matt sein mit der Künigin.
+ZEüch den ritter vff cf.
+Das Rach auff h.
+Den Künigk auff be.
+Den Künig auff bd.
+Das Rach vff d.
+Das Rach auff di.
+Den Fenden auff af.
+Die Künigin auff bg. vnd Matt.
+Sich eben auff / dann übersehen
+ist auch verspielt.
+Nym hien / du angender
+Schachgyeher / diß kuͦrtz vnderrichtung zuͦ eym anfangk deines Schachziehens / vnd übe dich fleyßlich darinn / so will ich dir nach dem eyn weitlaͤüffigernn bericht / mit vielnn hüpschen geteylten vnd vngeteylten Spielen in Truͦck geben.
+Vnnd sey Gott beuolhen.
+Getruͦckt zuͦ Oppenheym
+-->
+	</Page>
+</PcGts>

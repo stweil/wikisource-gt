@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:16:27</Created>
+		<LastChange>2026-11-23T11:16:27</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/102 revision 3271167 of 2018-07-31T16:12:06Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0102.png" imageWidth="732" imageHeight="1331">
+		<ReadingOrder>
+			<OrderedGroup id="ro15844485424319715004" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 732,0 732,1331 0,1331" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="133,72 718,72 718,307 133,307" />
+			<!-- line left out: id="r1l0" points="383,82 401,82 401,72 438,72 438,103 424,107 383,107" baseline="383,101 438,104" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 96.
+ | german_print2_15: 962
+ -->
+			<!-- line left out: id="r1l1" points="302,146 349,146 349,165 364,162 392,162 418,165 418,150 543,150 718,151 718,206 543,211 418,211 418,194 392,194 392,211 364,211 364,192 349,192 349,211 302,211" baseline="302,190 542,197 586,200 718,206" reason: differs: "apurX." against "aput XI" | Wikisource:  | next_nc_e1: Capur X.
+ | german_print2_15: Capnt XIJ.
+ -->
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="133,215 190,215 200,225 276,225 312,227 312,234 334,234 334,217 347,217 364,226 391,226 391,237 403,237 403,207 419,207 419,228 433,228 433,238 448,238 454,221 478,218 562,218 593,221 594,237 696,238 696,275 643,277 516,277 516,269 500,269 500,277 478,277 478,270 454,270 448,306 419,310 403,310 403,265 200,265 190,249 133,249" />
+				<Baseline points="133,258 275,264 346,265 696,282" />
+				<TextEquiv index="1">
+					<Unicode>Wo das beſte Teutſch zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l3" points="412,283 478,283 478,307 426,307 412,306" baseline="412,306 478,308" reason: models differ | Wikisource: nden | next_nc_e1: nden
+ | german_print2_15: nden.
+ -->
+			<TextEquiv index="1">
+				<Unicode>Wo das beſte Teutſch zu</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="113,308 719,308 719,1157 113,1157" />
+			<!-- line left out: id="r2l0" points="122,311 235,311 261,312 286,312 307,313 313,320 329,320 329,308 345,308 345,320 356,320 356,308 375,308 375,320 382,320 403,317 429,317 429,308 445,308 445,317 448,317 448,323 460,323 474,324 485,308 501,308 501,323 516,323 530,324 530,317 541,317 541,308 570,308 581,316 591,316 591,308 633,308 638,320 659,320 667,318 683,318 718,318 718,351 667,351 638,350 633,361 570,361 541,361 541,348 516,348 516,355 501,355 501,361 485,361 474,348 459,348 445,347 445,361 429,361 429,347 403,347 375,345 375,361 356,361 356,344 345,344 345,361 329,361 329,344 313,344 286,343 286,351 261,351 241,351 235,388 122,388" baseline="122,343 241,343 313,344 381,345 569,349 581,349 718,351" reason: differs: "Jhab" against ". Ic" | Wikisource:  | next_nc_e1: J habe etwan einen groben Eſel einen | german_print2_15: Be⸗ habe etwan einen groben Eſel einen -->
+			<!-- line left out: id="r2l1" points="190,361 221,357 246,357 291,361 291,349 310,349 325,353 335,356 376,358 386,364 391,355 421,355 441,356 441,349 456,349 456,356 469,356 469,365 497,365 520,366 520,349 536,349 544,357 560,357 600,361 611,366 615,357 638,356 664,356 665,368 677,368 677,360 688,358 700,358 700,389 678,390 654,392 615,392 598,390 590,389 574,388 560,394 544,394 536,400 520,400 520,388 508,388 497,394 469,396 456,400 441,400 432,387 421,387 421,394 391,394 386,366 376,384 366,385 353,385 325,384 325,390 310,390 310,400 291,400 291,384 236,384 210,384 190,384" baseline="190,383 291,384 386,385 559,389 700,389" reason: models differ | Wikisource: andern seines gleichen auff die Kürbe | next_nc_e1: andern ſeines gleichen auff die Kuͤrbe | german_print2_15: andern ſeines gleichen auff die Kürbe -->
+			<!-- line left out: id="r2l2" points="123,392 154,392 170,395 184,400 201,401 223,392 232,392 258,392 259,402 272,401 304,401 318,388 335,388 335,398 347,398 347,388 364,388 364,401 377,401 404,403 404,388 421,388 421,403 445,403 457,396 471,396 471,388 485,388 485,397 496,397 496,388 513,388 513,397 514,397 553,397 553,388 567,388 567,398 582,398 582,388 599,388 599,398 606,398 607,405 624,399 646,399 646,407 657,407 657,400 672,400 691,397 718,397 718,438 691,438 691,430 646,432 624,432 607,426 606,441 599,445 567,445 553,445 553,428 532,429 514,434 513,434 513,445 496,445 496,434 485,434 485,445 471,445 471,434 457,434 445,428 433,428 421,426 421,445 404,445 404,426 389,426 364,425 364,445 347,445 347,424 335,424 335,445 318,445 304,424 286,425 272,425 243,424 243,432 223,432 201,424 154,424 123,424" baseline="123,423 318,424 624,427 718,431" reason: second model: differs: "reieſch" against " eine s" | Wikisource: laden hören oder eine schandliche Arbeit | next_nc_e1: laden hoͤren oder eine ſchandliche Arbeit | german_print2_15: laden hoͤren oder eie ſchandliche Arbeſt -->
+			<!-- line left out: id="r2l3" points="125,433 159,433 159,440 177,440 188,441 188,434 202,433 221,433 236,434 247,442 271,442 271,434 282,434 282,442 293,437 303,435 306,429 322,429 364,429 390,435 403,435 403,429 422,429 422,437 433,437 433,429 481,429 481,437 494,437 494,429 526,429 526,445 541,445 553,437 566,437 566,429 585,429 611,429 611,446 624,445 644,442 657,442 657,429 669,429 669,441 683,439 719,439 719,500 683,500 679,477 669,481 657,481 657,470 644,470 611,469 611,481 585,481 566,481 566,470 553,470 526,469 526,481 494,481 494,474 481,474 481,481 433,481 433,467 422,467 422,481 403,481 403,467 379,469 364,469 364,481 322,481 306,481 303,471 294,466 281,466 271,472 247,472 198,470 198,464 176,464 159,463 159,470 125,470" baseline="125,463 247,464 378,468 390,467 644,470 719,471" reason: second model: differs: "(wel" against "beit" | Wikisource: (welche gleichwol kein Herrn Gebott ist) | next_nc_e1: (welche gleichwol kein Herrn Gebott iſt ) | german_print2_15: (welche gleichwol kein Herrn Gebott iſt 2 -->
+			<!-- line left out: id="r2l4" points="124,475 138,475 176,475 181,481 193,481 193,469 212,469 237,469 285,469 374,469 403,469 404,474 404,483 443,483 457,469 473,469 473,477 486,477 486,469 514,469 528,476 540,476 540,469 556,469 581,469 581,477 591,477 591,485 599,485 630,483 638,483 683,486 683,478 709,478 709,514 683,514 638,510 630,509 591,516 581,520 556,520 514,520 473,520 457,520 443,508 425,508 403,507 403,520 374,520 298,520 298,513 285,513 285,520 237,520 212,520 193,520 193,504 181,504 124,503" baseline="124,503 175,503 457,508 709,508" reason: differs: "ftllaͤti" against "fllätig" | Wikisource:  | next_nc_e1: mit unftllaͤtigen Worten thun heiſſen daran | german_print2_15: mit unfllaͤtigen Worten thun heiſſen daran -->
+			<!-- line left out: id="r2l5" points="120,508 138,508 138,520 149,520 159,512 178,512 178,521 197,521 197,512 212,512 243,512 243,521 256,519 275,518 291,517 300,515 311,515 329,517 329,508 343,508 343,517 353,517 364,524 372,523 402,523 408,515 449,515 475,515 514,515 542,518 542,508 583,508 583,518 596,518 596,508 637,508 645,518 680,518 702,519 702,536 716,536 716,547 702,547 702,563 662,563 645,560 637,570 596,570 596,563 583,563 583,570 542,570 542,563 499,563 499,556 475,556 475,563 448,563 430,563 430,549 408,549 391,548 373,547 373,553 364,553 343,551 343,570 329,570 329,546 321,546 311,552 300,552 300,546 269,549 243,551 212,551 197,551 197,544 178,544 178,551 159,551 149,544 138,544 138,570 120,570" baseline="120,551 268,549 275,549 408,554 542,558 596,557 640,558 716,561" reason: second model: differs: "ncke/di" against "nckte/ " | Wikisource: er henckte/ diß ist gut Teutsch; Ich kan aber | next_nc_e1: er henckte/ diß iſt gut Teutſch; Jch kan aber | german_print2_15: er hencke / diß iſt gut Teutſch; Ich kan aber -->
+			<!-- line left out: id="r2l6" points="125,549 141,549 180,549 195,554 195,561 206,561 231,563 246,562 254,562 254,549 270,549 270,556 282,556 292,557 292,563 319,563 324,554 359,554 359,563 383,563 383,554 399,554 399,564 418,564 423,549 439,549 465,549 465,558 481,558 481,566 488,566 499,559 510,559 510,567 523,567 523,558 525,549 542,549 568,549 568,558 569,558 569,564 587,559 638,559 693,559 702,562 702,592 693,592 693,598 673,598 667,592 580,596 569,598 568,602 542,602 525,602 523,598 523,589 510,590 481,590 481,596 465,596 465,602 439,602 423,602 418,588 399,593 383,593 376,588 359,587 359,593 324,593 319,587 310,587 310,593 289,593 282,592 270,592 270,602 254,602 254,585 231,585 231,593 214,593 206,586 195,590 180,590 180,602 164,602 158,589 141,589 141,602 125,602" baseline="125,584 214,585 423,588 487,589 673,592 702,593" reason: second model: differs: "ſolc" against "aber" | Wikisource: solche garstige Zotten nicht loben/ wann sie | next_nc_e1: ſolche garſtige Zotten nicht loben/ wann ſie | german_print2_15: ſolche garſtige Zorten nicht loben/ wanm ſie -->
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="124,593 136,593 162,593 173,593 204,593 209,602 222,602 222,596 341,595 352,598 388,603 388,597 404,597 404,604 424,604 432,597 474,597 474,603 500,603 509,596 539,596 556,599 556,605 567,605 567,599 616,598 616,608 631,608 646,630 717,630 717,633 662,633 631,638 616,638 616,632 586,632 539,637 432,636 432,628 404,627 404,636 388,636 388,627 352,627 341,632 222,632 222,625 204,630 124,630" />
+				<Baseline points="124,624 538,629 717,633" />
+				<TextEquiv index="1">
+					<Unicode>gleich noch ſo fein teutſch/ ſo vil die Aus⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l8" points="123,632 152,632 152,642 164,641 175,641 175,632 191,632 211,633 217,643 231,643 231,635 265,635 265,643 276,643 276,635 293,635 293,643 304,643 304,635 321,635 337,640 343,628 356,628 356,635 369,635 375,637 375,644 435,644 476,645 476,628 491,628 506,637 562,637 562,647 583,645 602,645 612,639 615,639 633,640 641,642 651,639 688,639 688,648 705,648 705,680 664,680 651,680 651,670 633,670 633,678 615,680 612,680 602,669 562,669 562,675 506,675 491,684 476,684 476,668 410,668 409,674 391,674 391,666 369,668 356,668 356,684 343,684 337,666 321,666 321,672 276,672 276,665 265,666 251,666 251,672 231,672 231,665 211,670 175,670 175,664 152,664 152,670 123,670" baseline="123,664 336,666 601,669 705,671" reason: second model: differs: "ngerkli" against "nget kl" | Wikisource: sprach anlanget klingen vnd heraus fliessen | next_nc_e1: ſprach anlanget klingen vnd heraus flieſſen | german_print2_15: ſprach anlanger klingen vnd heraus flieſſen -->
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="122,680 142,680 142,672 157,672 179,682 281,683 281,676 363,676 363,668 412,668 412,676 497,676 505,685 524,681 563,677 609,677 618,687 630,687 630,680 654,680 661,688 679,686 703,686 716,689 716,713 703,713 703,721 679,721 661,717 654,711 619,710 619,716 588,716 563,711 505,709 497,715 412,715 412,725 363,725 363,715 313,715 313,706 299,706 299,715 281,715 281,707 264,711 179,711 168,703 122,705" />
+				<Baseline points="122,705 167,704 716,712" />
+				<TextEquiv index="1">
+					<Unicode>als wann einem der Halß mit Speck ge⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l10" points="119,706 135,706 135,712 149,712 149,706 165,706 165,712 167,712 173,706 186,706 193,716 216,716 216,723 228,722 235,722 260,723 260,706 287,706 310,706 310,713 313,713 313,727 320,727 324,715 341,715 341,724 353,723 368,723 368,715 414,715 414,724 426,724 446,725 446,717 495,717 518,718 524,706 537,706 537,726 577,721 584,718 601,718 628,718 701,723 713,712 716,712 716,756 628,756 584,756 584,750 537,750 537,760 524,760 518,756 446,756 446,748 414,753 353,753 353,746 320,749 311,749 310,760 287,760 260,760 260,747 216,748 193,748 186,760 173,760 167,752 165,752 165,760 149,760 149,752 135,752 135,760 119,760" baseline="119,745 548,749 716,750" reason: differs: "ſchinie" against "schmier" | Wikisource:  | next_nc_e1: ſchiniert waͤre; begehre auch hier nichts dar⸗ | german_print2_15: ſchiniert waͤre; begehre auch hier nichts dar⸗ -->
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="123,760 238,763 238,756 299,756 299,763 320,760 361,758 361,765 373,764 388,760 428,758 428,765 542,766 547,758 573,758 573,767 615,768 615,758 636,758 636,765 686,768 686,759 716,759 716,791 636,797 615,797 615,790 592,790 592,797 573,797 524,794 413,794 413,788 361,787 361,794 347,794 299,790 184,790 123,784" />
+				<Baseline points="123,785 716,792" />
+				<TextEquiv index="1">
+					<Unicode>von zu melden/ ſondern nur zu ſagen/ wo</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="123,799 192,795 203,795 210,799 243,803 243,795 271,795 297,796 297,804 322,804 322,796 360,796 361,804 384,801 469,799 469,806 481,806 481,800 502,800 502,806 512,806 531,803 586,800 603,803 616,808 616,800 677,800 690,801 690,808 699,808 699,833 690,833 690,839 643,839 643,832 632,832 632,839 616,839 616,832 594,836 586,839 580,839 481,836 481,830 456,829 456,836 450,836 435,829 361,828 360,834 332,834 323,828 297,828 297,834 243,834 243,828 211,828 203,834 192,834 180,825 123,825" />
+				<Baseline points="123,826 384,828 699,833" />
+				<TextEquiv index="1">
+					<Unicode>vnd durch welche das beſte und zierlichſte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l13" points="121,832 158,832 183,832 238,845 283,840 320,840 335,840 384,844 397,841 470,841 480,861 539,861 539,865 496,866 470,869 397,869 384,868 344,868 335,874 333,874 333,868 320,868 320,874 301,874 301,867 271,868 257,868 257,874 238,874 183,868 139,868 121,867" baseline="121,867 539,867" reason: second model: differs: "de.." against "e. Den " | Wikisource: Teutsch geredet werde. | next_nc_e1: Teutſch geredet werde. | german_print2_15: Teutſch geredet werde. . -->
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="135,882 170,882 201,874 239,874 239,883 270,883 276,876 309,876 309,884 327,884 327,876 373,876 410,880 422,885 422,877 444,877 444,886 457,886 471,876 506,876 564,878 564,887 591,885 644,887 650,880 685,880 685,888 697,888 697,912 564,910 564,917 539,917 488,916 488,909 444,908 444,914 422,914 422,908 386,907 386,914 373,915 327,915 327,907 293,907 293,915 276,915 239,910 135,909" />
+				<Baseline points="135,909 383,908 697,912" />
+				<TextEquiv index="1">
+					<Unicode>Den Ruhm dieſer Ehr hat von lan⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="119,919 173,919 190,924 190,918 225,918 248,923 267,925 277,917 308,917 308,924 437,921 449,926 456,918 504,918 504,928 542,927 547,919 596,919 596,928 692,929 698,934 698,952 681,953 681,959 642,959 642,952 624,952 624,959 596,959 577,959 577,952 334,952 308,948 308,954 277,954 267,947 248,949 190,949 187,927 173,951 119,951" />
+				<Baseline points="119,948 266,946 698,953" />
+				<TextEquiv index="1">
+					<Unicode>gen Zeiten her zwar die Statt Mayntz ge⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="116,954 136,954 137,962 155,962 155,955 170,955 172,962 181,962 181,954 183,954 238,961 255,965 255,957 432,958 432,968 474,968 474,959 484,959 484,965 533,963 548,967 559,963 568,963 568,969 612,969 628,961 686,961 686,969 696,969 696,993 518,993 484,991 474,994 456,994 432,989 432,995 414,995 414,988 405,988 395,996 362,996 362,988 321,988 321,994 255,994 238,990 181,990 172,986 137,984 136,990 116,990" />
+				<Baseline points="116,983 182,987 456,989 696,993" />
+				<TextEquiv index="1">
+					<Unicode>habt/ welches ich ihr als meiner lieben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="114,993 131,993 131,1002 186,999 232,1005 232,995 249,995 249,1006 269,1005 289,1001 382,1006 399,999 432,999 433,1008 488,1007 582,1009 600,1000 634,1000 634,1010 696,1010 696,1034 619,1032 618,1040 600,1040 582,1032 552,1032 552,1039 519,1039 507,1031 476,1030 475,1038 458,1038 458,1030 433,1030 432,1036 399,1038 382,1029 211,1028 169,1024 168,1036 149,1036 148,1024 114,1026" />
+				<Baseline points="114,1026 696,1034" />
+				<TextEquiv index="1">
+					<Unicode>Landsmaͤnnin von Hertzen gern goͤnnen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="115,1034 130,1034 130,1040 145,1040 146,1034 174,1034 191,1035 192,1043 216,1044 259,1045 259,1039 285,1039 286,1046 313,1046 319,1040 327,1038 381,1038 381,1046 407,1047 447,1043 463,1043 481,1048 481,1041 579,1041 579,1049 608,1044 626,1044 658,1046 658,1053 675,1051 696,1051 696,1074 675,1074 675,1080 649,1080 626,1080 608,1080 579,1072 579,1078 543,1078 543,1072 525,1072 525,1078 509,1078 463,1071 424,1070 424,1076 406,1076 406,1069 381,1069 381,1075 327,1076 327,1068 313,1070 226,1072 216,1066 192,1065 191,1072 158,1072 158,1064 130,1064 130,1072 115,1072" />
+				<Baseline points="115,1064 696,1074" />
+				<TextEquiv index="1">
+					<Unicode>moͤchte; aber ich ſorge daß ſolcher jetziger</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="113,1073 142,1073 142,1083 154,1083 154,1076 173,1076 177,1084 205,1077 237,1077 237,1084 248,1084 263,1087 263,1077 281,1077 281,1086 296,1086 305,1089 313,1079 342,1079 342,1086 357,1082 373,1082 399,1086 452,1086 472,1089 479,1083 488,1080 505,1080 505,1090 542,1089 550,1085 581,1083 617,1083 617,1090 689,1091 695,1096 695,1112 689,1114 523,1114 505,1112 505,1120 488,1120 488,1112 479,1112 472,1120 435,1120 435,1112 313,1115 305,1109 281,1109 281,1117 263,1117 263,1108 254,1108 237,1114 205,1114 197,1109 154,1109 142,1114 113,1114" />
+				<Baseline points="113,1109 172,1107 695,1112" />
+				<TextEquiv index="1">
+					<Unicode>Zeit nicht ihr: ſondern vor ihr und allen an⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l20" points="381,1123 394,1123 634,1125 646,1130 686,1131 686,1156 670,1157 658,1157 646,1156 635,1156 616,1153 466,1132 453,1132 394,1139 381,1139" baseline="381,1150 393,1150 616,1153 686,1156" reason: differs: "F8de" against "dere" | Wikisource:  | next_nc_e1: F 8 deren | german_print2_15:  -->
+			<TextEquiv index="1">
+				<Unicode>gleich noch ſo fein teutſch/ ſo vil die Aus⸗
+als wann einem der Halß mit Speck ge⸗
+von zu melden/ ſondern nur zu ſagen/ wo
+vnd durch welche das beſte und zierlichſte
+Den Ruhm dieſer Ehr hat von lan⸗
+gen Zeiten her zwar die Statt Mayntz ge⸗
+habt/ welches ich ihr als meiner lieben
+Landsmaͤnnin von Hertzen gern goͤnnen
+moͤchte; aber ich ſorge daß ſolcher jetziger
+Zeit nicht ihr: ſondern vor ihr und allen an⸗</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Caput XI.
+Wo das beste Teutsch zu finden.
+Ich habe etwan einen groben Esel einen andern seines gleichen auff die Kürbe laden hören oder eine schandliche Arbeit (welche gleichwol kein Herrn Gebott ist) mit unfllätigen Worten thun heissen daran er henckte / diß ist gut Teutsch; Ich kan aber solche garstige Zotten nicht loben / wann sie gleich noch so fein teutsch / so vil die Aussprach anlanget klingen vnd heraus fliessen als wann einem der Halß mit Speck geschmiert wäre; begehre auch hier nichts darvon zu melden / sondern nur zu sagen / wo vnd durch welche das beste und zierlichste Teutsch geredet werde.
+Den Ruhm dieser Ehr hat von langen Zeiten her zwar die Statt Mayntz gehabt / welches ich ihr als meiner lieben Landsmännin von Hertzen gern gönnen möchte; aber ich sorge daß solcher jetziger Zeit nicht ihr: sondern vor ihr und allen anderen
+-->
+	</Page>
+</PcGts>

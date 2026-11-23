@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:16:33</Created>
+		<LastChange>2026-11-23T11:16:33</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/106 revision 3271171 of 2018-07-31T16:12:08Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0106.png" imageWidth="732" imageHeight="1315">
+		<ReadingOrder>
+			<OrderedGroup id="ro14354864620291178149" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 732,0 732,112 0,112" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,1149 732,1149 732,1315 0,1315" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="111,45 723,45 723,1137 111,1137" />
+			<!-- line left out: id="r2l0" points="383,62 397,59 400,45 417,45 417,59 441,59 441,72 450,72 450,82 441,82 417,80 417,93 400,93 398,82 383,82" baseline="383,81 450,81" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 100. | german_print2_15: 100. -->
+			<!-- line left out: id="r2l1" points="116,91 124,89 140,89 180,89 180,97 203,97 203,90 214,89 232,89 232,97 243,88 273,88 273,96 291,94 309,94 309,88 324,88 324,99 336,98 360,98 360,88 376,88 397,90 433,93 433,99 456,95 476,93 516,93 559,93 616,92 657,92 663,84 699,84 699,135 663,135 663,125 611,128 599,131 570,131 570,125 535,125 491,125 469,127 456,127 433,124 433,130 404,130 360,129 360,122 336,122 336,129 318,129 309,127 309,121 292,122 232,122 232,128 203,128 203,122 180,122 180,128 140,128 124,128 116,124" baseline="116,122 243,122 541,123 699,125" reason: second model: differs: "rdein/d" against " dem/ d" | Wikisource: leichteste Aussprach hat/ oder dem/ der am | next_nc_e1: leichteſte Ausſprach hat/ oder dem/ der am | german_print2_15: leichteſte Ausſprach hat / oder dein / der am -->
+			<!-- line left out: id="r2l2" points="114,139 127,139 127,131 141,131 153,133 153,140 178,139 196,139 196,131 213,131 237,131 237,141 251,141 251,133 282,133 282,139 313,139 348,139 348,132 365,132 365,140 391,140 391,132 401,132 401,139 432,139 432,164 412,164 391,163 391,169 348,169 339,168 320,168 313,162 282,166 261,166 237,162 237,168 213,168 196,168 196,162 166,163 153,164 141,168 127,168 114,163" baseline="114,163 312,162 320,162 432,164" reason: second model has no such line | Wikisource: allermehristen papplet. | next_nc_e1: allermehriſten papplet. | german_print2_15:  -->
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="160,203 175,170 220,170 221,180 244,180 244,166 263,166 264,179 277,175 324,179 333,166 348,166 359,171 359,179 375,179 385,172 401,172 401,166 416,166 420,173 449,173 456,166 471,166 479,175 541,172 541,166 557,166 557,176 598,176 608,174 625,174 625,180 694,180 694,205 557,205 557,215 541,215 533,205 479,205 471,215 456,215 449,210 416,215 401,215 385,211 375,202 348,202 348,215 333,215 324,209 306,209 306,202 264,202 263,215 244,215 244,202 160,206" />
+				<Baseline points="160,203 385,202 694,205" />
+				<TextEquiv index="1">
+					<Unicode>Von eintzelen Perſonen aber reden am</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="114,211 139,211 167,212 167,220 245,218 245,211 259,211 305,211 317,215 336,218 344,212 415,212 421,221 447,221 447,215 456,215 456,221 469,221 496,220 508,214 583,214 632,216 632,222 643,222 651,214 678,214 678,221 689,221 689,227 694,227 694,243 689,245 678,246 583,251 569,251 569,245 556,245 556,251 542,251 542,245 529,245 529,251 512,251 512,245 497,245 497,251 478,251 469,244 421,244 415,250 344,250 344,242 317,244 305,248 245,248 235,242 167,242 167,248 125,248 125,242 114,242" />
+				<Baseline points="114,242 694,243" />
+				<TextEquiv index="1">
+					<Unicode>beſten teutſch/ erſtlich wie gemeldt/ die Ge⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="117,252 130,252 130,260 141,260 141,251 168,251 187,251 243,251 247,257 275,251 305,251 305,259 317,259 317,252 332,252 338,259 402,257 424,253 465,253 465,262 477,262 477,253 592,253 592,262 629,262 629,255 647,255 647,261 661,261 661,253 682,253 722,257 722,289 682,285 682,292 661,292 661,286 647,291 629,291 629,284 592,285 592,292 566,292 477,290 477,284 465,284 465,290 424,290 412,283 332,283 332,289 317,289 317,282 243,286 216,286 168,282 168,289 141,289 141,282 117,283" />
+				<Baseline points="117,281 722,286" />
+				<TextEquiv index="1">
+					<Unicode>lehrte/ ſo vil leſen und ſchreiben; Zweytens</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="118,295 148,294 160,299 167,290 209,290 209,298 237,299 237,290 266,290 269,291 269,299 298,299 308,292 327,292 327,299 365,296 404,296 438,298 549,297 549,303 561,303 569,295 605,295 610,303 641,303 641,297 649,295 670,295 670,302 685,299 696,299 714,317 719,317 719,333 714,333 670,325 670,332 649,332 649,325 549,326 513,328 420,328 327,323 327,329 308,329 298,323 266,323 266,329 251,329 237,327 237,321 209,321 209,329 190,329 190,323 118,322" />
+				<Baseline points="118,322 610,325 719,329" />
+				<TextEquiv index="1">
+					<Unicode>die Kauffleuthe und andere/ die vil raiſen/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="116,339 257,338 296,340 296,332 333,332 375,335 375,341 385,341 393,332 436,332 456,333 487,338 540,342 540,328 573,328 573,342 585,334 649,334 656,342 717,344 717,363 697,369 649,372 599,372 599,366 585,366 573,378 540,378 508,374 500,366 444,366 436,374 418,374 418,366 393,366 348,363 333,370 296,370 296,363 116,362" />
+				<Baseline points="116,361 348,363 717,369" />
+				<TextEquiv index="1">
+					<Unicode>warunter auch die Soldaten zu rechnen;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="121,374 148,374 180,371 216,372 216,379 238,380 238,371 279,371 289,373 289,380 299,380 308,373 349,373 349,379 362,379 362,373 381,373 429,375 429,382 457,379 473,379 485,382 485,375 512,375 512,367 546,367 546,375 636,375 648,383 674,383 674,377 703,377 715,384 720,384 720,402 703,406 648,406 636,413 560,413 560,407 546,407 546,418 512,418 512,407 485,407 458,404 458,413 441,413 441,405 393,407 333,407 289,403 289,412 238,412 238,401 198,402 190,412 180,412 174,402 121,402" />
+				<Baseline points="121,401 720,406" />
+				<TextEquiv index="1">
+					<Unicode>das allerbeſte aber/ beydes in Reden und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="122,410 197,410 242,412 242,419 312,421 313,415 389,413 404,416 404,422 459,422 477,418 554,417 571,419 680,419 701,423 714,404 721,404 721,451 714,451 622,447 404,445 389,445 389,451 363,451 350,443 227,442 197,447 122,447" />
+				<Baseline points="122,443 272,442 721,446" />
+				<TextEquiv index="1">
+					<Unicode>Schreiben wird hin und wider in den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="121,448 253,448 253,458 280,459 292,452 312,452 321,444 337,444 347,459 365,454 375,454 375,462 390,462 390,444 405,444 405,461 465,462 474,460 550,460 570,463 576,468 588,460 653,453 672,453 672,463 705,463 711,453 718,453 718,485 588,488 571,472 570,486 529,488 448,488 405,485 405,496 390,496 366,490 347,490 337,496 321,496 312,484 253,482 253,488 121,488" />
+				<Baseline points="121,480 433,485 718,485" />
+				<TextEquiv index="1">
+					<Unicode>Fuͤrſtlichen Cantzleyen gefunden/ allwo</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="124,498 191,498 202,492 255,492 255,499 273,499 279,488 295,488 295,500 323,501 324,495 366,499 376,488 395,488 395,497 406,497 406,488 425,488 425,502 477,503 477,497 503,497 508,503 519,503 519,494 685,494 685,503 699,503 699,536 643,536 629,531 603,526 603,536 519,536 519,526 425,525 425,540 406,540 406,526 395,526 395,540 376,540 376,523 295,522 295,540 279,540 273,521 124,522" />
+				<Baseline points="124,522 202,521 699,527" />
+				<TextEquiv index="1">
+					<Unicode>man einen weit andern und anſehenlichern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="124,530 152,530 152,537 172,537 172,530 183,530 183,540 227,540 238,531 282,531 291,535 326,537 344,540 344,533 401,534 401,542 450,541 460,535 506,534 507,543 538,545 543,534 587,534 587,544 625,544 625,535 662,534 692,536 692,548 698,548 698,564 692,568 662,574 625,574 625,567 597,567 597,574 571,574 571,568 507,566 506,572 477,572 477,565 450,566 429,571 413,571 413,565 303,567 282,562 282,568 238,568 227,558 173,557 173,566 136,566 136,558 124,558" />
+				<Baseline points="124,556 325,563 698,568" />
+				<TextEquiv index="1">
+					<Unicode>Stylum findet/ als bey etlichen Sprachhel⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l13" points="125,573 152,573 218,573 248,578 267,580 267,574 291,574 291,580 314,576 331,576 331,582 347,581 356,576 372,576 394,579 431,582 442,583 442,574 460,574 460,583 476,583 476,575 488,575 488,583 510,583 585,584 585,576 604,576 604,584 667,584 682,585 682,576 700,576 721,581 721,616 718,616 700,607 586,608 572,608 561,607 535,607 488,606 476,606 460,605 460,613 442,613 442,605 431,605 431,612 413,612 407,605 372,605 283,605 248,605 235,605 187,604 152,604 136,604 125,601" baseline="125,600 228,601 406,605 413,605 721,606" reason: differs: "ezwaͤrda" against " zwar d" | Wikisource:  | next_nc_e1: den/ die zwaͤr darvor gehalten werden wol⸗ | german_print2_15: den / die zwar darvor gehalten werden wol ⸗ -->
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="121,605 137,605 172,605 183,613 194,610 205,610 215,618 217,609 229,609 229,618 241,613 251,613 255,609 289,609 309,613 309,605 344,605 350,615 407,616 407,623 432,618 456,618 467,623 478,615 496,615 496,623 535,623 535,616 561,616 561,605 577,605 577,624 585,624 601,616 623,616 623,625 640,625 640,617 651,617 660,605 680,605 680,616 698,616 698,654 680,658 660,658 660,646 641,646 641,653 622,653 601,648 577,646 577,658 561,658 544,653 535,652 535,646 478,647 350,645 344,658 309,658 309,650 268,650 251,648 251,641 229,641 229,650 217,650 217,641 183,644 172,658 137,658 121,658" />
+				<Baseline points="121,642 215,641 432,645 698,646" />
+				<TextEquiv index="1">
+					<Unicode>len/ ob wiſſten ſie allein die Teutſche Sprach</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="126,657 157,657 180,659 180,649 212,649 212,660 236,655 256,655 256,649 272,649 272,655 300,660 300,649 304,649 331,657 360,660 390,657 398,654 418,654 418,661 503,663 503,656 530,656 530,662 544,662 544,656 586,655 586,664 602,664 602,656 618,656 618,664 647,664 647,657 664,657 664,664 688,664 700,668 717,660 723,660 723,696 717,696 700,683 688,687 618,686 618,693 602,693 602,686 586,688 398,687 360,684 340,684 334,692 331,692 304,683 256,683 236,679 197,677 197,683 157,681 140,686 126,686" />
+				<Baseline points="126,681 167,678 303,684 375,683 723,686" />
+				<TextEquiv index="1">
+					<Unicode>zu reformirn/ und ſie von aller Unſauber⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="123,685 139,685 165,692 185,694 204,698 204,690 215,690 215,699 226,699 227,685 244,685 267,685 267,699 289,695 337,695 350,700 361,701 363,692 473,692 473,703 497,699 509,699 540,703 558,695 571,695 571,685 591,685 591,703 606,703 606,697 616,697 616,703 671,701 700,697 721,697 721,730 671,730 633,727 633,733 616,733 616,726 591,726 591,739 571,739 571,727 497,725 484,735 372,735 363,730 361,723 267,722 267,739 244,739 227,739 226,721 205,722 205,728 193,728 175,723 139,721 139,739 123,739" />
+				<Baseline points="123,721 497,725 721,729" />
+				<TextEquiv index="1">
+					<Unicode>keit/ gleichwie der Dreſcher den Waitzen zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="128,730 140,728 165,728 165,737 205,737 205,728 221,728 221,739 239,736 312,732 332,732 332,740 350,736 367,736 377,733 444,734 460,738 497,743 497,737 508,737 508,744 554,743 566,735 582,735 582,724 598,724 598,738 614,738 680,744 680,737 704,737 718,754 718,757 704,766 598,767 598,776 582,776 582,768 543,768 525,772 507,772 507,766 444,765 444,771 427,771 427,765 411,770 377,770 377,764 332,764 332,770 312,770 303,763 250,765 150,765 141,762 128,762" />
+				<Baseline points="128,762 718,766" />
+				<TextEquiv index="1">
+					<Unicode>laͤutern/ da ſie doch ihre aigne Sitten nit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="127,779 154,779 154,773 170,773 170,779 188,779 188,773 198,773 198,779 215,779 215,773 225,773 225,779 258,778 276,780 295,773 301,773 353,773 362,780 381,777 396,777 407,781 422,777 467,777 505,775 534,775 540,781 572,776 647,776 702,779 702,811 647,813 505,812 496,807 396,806 353,810 342,814 327,814 327,804 312,804 312,814 295,814 276,808 264,808 258,801 223,801 216,811 196,811 190,797 170,797 170,811 154,811 146,798 127,798" />
+				<Baseline points="127,800 486,806 702,808" />
+				<TextEquiv index="1">
+					<Unicode>corrigirn; dieſe vermeine ich/ welche das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="124,809 160,809 160,817 200,817 200,811 239,811 251,817 281,817 315,814 443,813 443,822 455,822 455,816 471,816 517,824 526,815 700,815 720,840 720,845 700,853 625,855 592,855 592,847 581,847 581,855 526,855 517,846 443,851 392,851 384,844 200,848 200,840 143,841 143,848 124,848" />
+				<Baseline points="124,840 392,844 720,845" />
+				<TextEquiv index="1">
+					<Unicode>Teutſch von allen frembden Woͤrtern ge⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="126,857 159,852 169,852 169,858 180,858 180,852 195,852 214,853 214,859 240,857 250,851 270,851 303,856 318,861 318,852 365,852 366,861 419,862 419,852 431,852 443,863 458,863 458,854 513,854 513,863 531,858 557,858 566,855 592,855 592,864 611,864 618,855 700,856 721,874 721,881 677,892 660,892 629,890 611,887 513,886 513,892 474,892 458,892 458,884 443,884 431,890 419,890 384,884 339,883 333,890 308,890 303,882 214,882 214,888 180,888 180,880 126,880" />
+				<Baseline points="126,880 721,887" />
+				<TextEquiv index="1">
+					<Unicode>rainiget und gelaͤutert wiſſen wollen; ihre</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l21" points="111,916 124,888 144,888 192,888 192,897 236,897 253,894 275,891 295,889 315,889 315,901 342,901 342,889 377,889 401,889 401,901 429,896 467,896 467,903 504,903 504,896 601,896 623,896 634,897 634,905 657,903 699,903 699,926 649,930 634,933 607,933 602,926 585,925 578,932 520,932 504,932 504,926 441,926 429,926 401,924 401,930 376,930 376,924 358,924 358,930 342,930 342,923 319,924 315,924 315,930 295,930 295,923 275,923 192,922 144,922 124,922 111,918" baseline="111,918 266,922 275,922 486,926 495,926 699,926" reason: models differ | Wikisource: Leiber und Gemüther aber nichts desto we | next_nc_e1: Leiber und Gemuͤther aber nichts deſto we⸗ | german_print2_15: Leiber und Gemüther aber nichts deſto we⸗ -->
+			<!-- line left out: id="r2l22" points="125,936 147,931 158,931 158,937 175,937 188,938 243,939 243,931 283,927 299,927 299,940 325,940 337,941 337,927 353,927 376,932 385,927 401,927 401,934 423,934 423,927 439,927 439,943 463,943 481,934 500,934 509,935 537,937 552,938 552,944 589,944 599,927 614,927 614,944 636,941 655,936 678,936 678,946 690,946 699,951 699,958 690,963 655,963 645,969 636,969 614,966 614,978 599,978 590,973 589,967 571,967 537,966 537,974 519,974 519,966 500,969 481,969 439,966 439,978 423,978 423,971 401,971 401,978 385,978 385,971 376,971 376,965 361,965 360,971 353,971 353,978 337,978 337,963 307,963 299,978 283,978 283,968 267,968 262,962 243,962 201,961 175,961 175,967 156,967 148,960 125,960" baseline="125,959 267,962 462,966 481,966 655,969 699,970" reason: models differ | Wikisource: niger mit Frantzösischen Kleydungen/ Ba | next_nc_e1: niger mit Frantzoͤſiſchen Kleydungen/ Ba- | german_print2_15: niger mit Frantzoͤſiſchen Kleydungen / Ba⸗ -->
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="123,978 139,978 139,971 159,971 187,971 197,977 315,972 337,973 346,976 395,981 404,974 431,974 440,977 440,984 459,982 484,975 502,975 502,983 533,984 538,975 575,974 575,985 588,985 589,974 612,974 620,977 620,985 632,985 632,976 671,974 671,985 693,983 693,989 700,989 700,1004 693,1008 632,1007 612,1010 538,1010 502,1006 502,1013 476,1013 459,1013 459,1006 418,1005 418,1013 404,1013 395,1004 302,1004 250,1002 187,1006 159,1006 159,995 140,998 123,998" />
+				<Baseline points="123,998 532,1006 700,1004" />
+				<TextEquiv index="1">
+					<Unicode>rüquen und kleinen wintzigen Knoͤbelbaͤrt⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l24" points="123,1017 138,1014 170,1014 196,1012 231,1012 231,1018 246,1018 303,1019 309,1013 330,1013 330,1021 348,1020 368,1016 376,1013 406,1013 415,1019 432,1019 467,1023 479,1024 479,1015 498,1015 519,1015 549,1015 559,1021 577,1021 619,1022 619,1014 655,1014 663,1024 690,1024 690,1018 719,1014 721,1014 721,1029 719,1029 704,1055 690,1055 690,1048 664,1048 664,1054 655,1055 639,1055 639,1047 577,1048 549,1053 533,1053 533,1047 519,1047 519,1053 498,1053 479,1053 479,1047 467,1047 438,1046 415,1045 406,1051 376,1051 376,1044 348,1044 330,1043 330,1051 309,1051 303,1042 231,1046 196,1046 188,1056 158,1056 138,1056 138,1048 123,1048" baseline="123,1038 302,1042 348,1043 549,1047 559,1047 721,1049" reason: differs: "gen/" against "gen) gl" | Wikisource:  | next_nc_e1: gern (wann ſie nichts mehrers vermoͤgen/ | german_print2_15: gern (wann ſie nichts mehrers vermoͤgen) -->
+			<!-- line left out: id="r2l25" points="119,1058 131,1058 131,1049 153,1049 153,1057 169,1057 169,1049 185,1049 201,1052 239,1054 263,1060 277,1060 277,1045 293,1045 301,1061 311,1061 311,1050 327,1045 340,1045 340,1053 351,1053 374,1054 374,1045 391,1045 391,1062 417,1062 428,1054 445,1054 452,1045 468,1045 468,1063 479,1063 479,1045 495,1045 495,1062 510,1062 520,1045 536,1045 536,1056 562,1056 562,1049 579,1049 579,1056 591,1056 591,1049 604,1049 609,1057 627,1057 627,1049 651,1049 651,1058 663,1058 663,1049 677,1049 686,1060 701,1060 701,1090 686,1090 677,1107 651,1107 627,1107 627,1093 609,1093 604,1107 591,1107 591,1089 579,1089 579,1107 562,1107 562,1088 546,1088 546,1095 536,1099 520,1099 510,1095 495,1099 479,1099 479,1088 468,1088 468,1099 452,1099 445,1094 428,1094 417,1086 401,1087 391,1087 391,1099 374,1099 374,1093 359,1093 359,1085 340,1085 340,1099 327,1099 327,1084 312,1085 301,1085 293,1099 277,1099 277,1084 255,1085 223,1085 207,1082 201,1088 185,1092 169,1092 169,1081 153,1081 148,1092 119,1092" baseline="119,1080 200,1081 254,1085 263,1084 562,1088 563,1088 701,1090" reason: second model: differs: "turꝛlic" against "türlich" | Wikisource: gleich den natürlichen Frantzosen verstellen/ | next_nc_e1: gleich den natuͤꝛlichen Frantzoſen verſtellen/ | german_print2_15: gleich den naturꝛlichen Frantzoſen verſtellen / -->
+			<!-- line left out: id="r2l26" points="626,1104 659,1104 700,1104 722,1108 722,1112 720,1112 700,1128 682,1129 670,1129 639,1128 638,1137 626,1137" baseline="626,1128 722,1129" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: zieren
+ | german_print2_15: zieren
+ -->
+			<TextEquiv index="1">
+				<Unicode>Von eintzelen Perſonen aber reden am
+beſten teutſch/ erſtlich wie gemeldt/ die Ge⸗
+lehrte/ ſo vil leſen und ſchreiben; Zweytens
+die Kauffleuthe und andere/ die vil raiſen/
+warunter auch die Soldaten zu rechnen;
+das allerbeſte aber/ beydes in Reden und
+Schreiben wird hin und wider in den
+Fuͤrſtlichen Cantzleyen gefunden/ allwo
+man einen weit andern und anſehenlichern
+Stylum findet/ als bey etlichen Sprachhel⸗
+len/ ob wiſſten ſie allein die Teutſche Sprach
+zu reformirn/ und ſie von aller Unſauber⸗
+keit/ gleichwie der Dreſcher den Waitzen zu
+laͤutern/ da ſie doch ihre aigne Sitten nit
+corrigirn; dieſe vermeine ich/ welche das
+Teutſch von allen frembden Woͤrtern ge⸗
+rainiget und gelaͤutert wiſſen wollen; ihre
+rüquen und kleinen wintzigen Knoͤbelbaͤrt⸗</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="713,7 732,7 732,203 713,203" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+leichteste Aussprach hat / oder dem / der am allermehristen papplet.
+Von eintzelen Personen aber reden am besten teutsch / erstlich wie gemeldt / die Gelehrte / so vil lesen und schreiben; Zweytens die Kauffleuthe und andere / die vil raisen / warunter auch die Soldaten zu rechnen; das allerbeste aber / beydes in Reden und Schreiben wird hin und wider in den Fürstlichen Cantzleyen gefunden / allwo man einen weit andern und ansehenlichern Stylum findet / als bey etlichen Sprachhelden / die zwar darvor gehalten werden wollen / ob wissten sie allein die Teutsche Sprach zu reformirn / und sie von aller Unsauberkeit / gleichwie der Drescher den Waitzen zu läutern / da sie doch ihre aigne Sitten nit corrigirn; diese vermeine ich / welche das Teutsch von allen frembden Wörtern gerainiget und geläutert wissen wollen; ihre Leiber und Gemüther aber nichts desto weniger mit Frantzösischen Kleydungen / Barüquen und kleinen wintzigen Knöbelbärtgern (wann sie nichts mehrers vermögen) gleich den natürlichen Frantzosen verstellen /
+-->
+	</Page>
+</PcGts>

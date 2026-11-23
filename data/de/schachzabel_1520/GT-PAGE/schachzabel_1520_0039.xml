@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:12:27</Created>
+		<LastChange>2026-11-23T11:12:27</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:De_Schachzabel_Spiel_(Köbel).djvu/39 revision 3255046 of 2018-07-31T14:15:09Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="schachzabel_1520_0039.png" imageWidth="1560" imageHeight="2220">
+		<ReadingOrder>
+			<OrderedGroup id="ro13249588941815032018" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="862,145 1095,145 1095,192 862,192" />
+			<!-- line left out: id="r0l0" points="862,146 925,145 994,145 1095,145 1095,190 994,192 925,192 862,190" baseline="862,190 1095,190" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: XVIII.
+ | german_print2_15: XVIII.
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="180,201 1186,201 1186,440 180,440" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="459,201 566,201 592,204 592,211 642,211 644,220 717,220 717,214 749,214 749,220 830,220 832,201 875,201 875,275 832,275 830,288 783,288 783,273 642,276 570,275 566,285 513,288 459,288" />
+				<Baseline points="459,277 875,273" />
+				<TextEquiv index="1">
+					<Unicode>Widerteyl.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="180,339 332,339 501,327 504,327 606,327 606,343 643,343 643,327 694,327 694,346 770,346 770,339 828,339 828,346 913,345 930,332 990,327 1067,327 1068,346 1114,346 1117,329 1186,329 1186,416 1117,416 1114,403 1041,403 1041,416 990,416 990,406 930,406 913,400 828,399 828,414 770,414 770,400 694,399 694,414 643,414 643,397 606,397 606,409 501,409 332,440 180,440" />
+				<Baseline points="180,406 331,405 501,398 1186,402" />
+				<TextEquiv index="1">
+					<Unicode>En ſchwartʒen Künig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Widerteyl.
+En ſchwartʒen Künig</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="160,414 1004,414 1004,630 160,630" />
+			<!-- line left out: id="r2l0" points="282,459 296,459 323,415 364,415 423,415 423,428 441,428 441,417 472,417 487,427 514,427 529,428 529,414 582,414 600,428 620,428 626,419 653,419 656,443 666,443 666,454 653,455 620,457 600,457 582,463 529,463 529,456 514,457 423,457 402,457 401,467 323,467 282,466" baseline="282,457 471,456 666,455" reason: differs: "ſſtel" against "stell" | Wikisource:  | next_nc_e1: ſſtell auff cd.
+ | german_print2_15: ſtell auff d.
+ -->
+			<!-- line left out: id="r2l1" points="162,465 348,465 408,470 408,480 459,480 474,466 509,466 537,469 538,481 560,481 560,466 586,466 586,481 608,481 655,481 668,469 703,468 729,468 729,480 748,480 748,468 822,468 822,482 836,482 865,483 865,468 903,468 1004,471 1004,524 944,524 944,513 924,513 903,520 865,520 865,513 836,513 822,511 822,520 808,520 794,514 729,514 703,514 668,513 655,519 628,519 628,508 608,509 586,509 586,519 560,519 560,510 537,515 509,518 484,519 474,519 459,512 348,517 162,517" baseline="162,517 458,516 474,516 654,508 793,513 808,512 1004,513" reason: second model: differs: "MVBD" against "f cd" | Wikisource: Das schwartz Rach auff bh. | next_nc_e1: Das ſchwartz Rach auff bh. | german_print2_15: MVBDae ſchwarg Rach auff bh. -->
+			<!-- line left out: id="r2l2" points="160,526 216,526 216,538 266,538 289,540 289,531 315,531 315,537 328,537 328,531 358,531 398,536 416,522 438,522 438,536 450,536 450,524 477,524 479,535 506,535 506,522 532,522 559,522 559,534 570,534 597,535 609,523 673,523 673,536 690,536 690,523 745,521 761,521 761,534 773,534 774,521 812,521 871,525 895,527 895,566 846,566 829,564 812,571 774,571 773,563 761,563 761,571 745,571 673,567 609,567 597,574 559,574 532,574 506,574 506,565 479,565 477,571 450,571 450,565 438,565 438,572 416,572 398,565 330,568 266,569 216,571 160,571" baseline="160,569 397,565 596,564 811,563 895,566" reason: differs: "acttzRa" against "artz Ra" | Wikisource:  | next_nc_e1: Das ander ſchwacttz Rach vff bi. | german_print2_15: Das ander ſchwartz KRach vff bi. -->
+			<!-- line left out: id="r2l3" points="161,581 216,581 217,593 263,593 278,577 300,577 300,593 312,593 312,581 339,581 340,591 368,591 368,577 395,577 395,590 430,589 480,589 507,590 515,577 562,577 588,579 589,589 635,589 668,590 668,573 692,573 692,588 705,588 708,573 745,573 760,590 780,590 786,578 810,578 810,605 822,605 822,619 780,620 760,620 745,627 708,627 705,619 692,619 692,627 668,627 668,620 562,620 507,621 480,621 480,630 430,630 430,620 395,620 395,630 368,630 368,620 340,620 339,630 312,630 312,622 300,622 300,630 278,630 263,624 216,626 161,626" baseline="161,626 262,623 506,620 744,619 822,619" reason: differs: "Denſ" against "f bi" | Wikisource:  | next_nc_e1: Den ſchwarten Alten auff ck.
+ | german_print2_15: Den ſchwargen Alten auff ck.
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="164,704 1190,704 1190,905 164,905" />
+			<!-- line left out: id="r3l0" points="164,711 261,711 261,725 351,722 395,722 395,708 447,708 447,724 513,724 513,708 592,704 623,704 723,704 724,722 773,722 774,705 911,704 930,704 948,706 948,725 988,725 993,704 1040,704 1091,706 1091,724 1141,724 1190,725 1190,782 988,783 948,783 948,789 888,792 797,792 797,777 773,779 723,780 671,780 592,779 568,793 513,794 463,794 463,776 447,776 447,794 395,794 395,778 327,779 261,779 261,786 164,786" baseline="164,783 326,778 911,778 1039,779 1190,783" reason: differs: "Derw" against "f ck" | Wikisource:  | next_nc_e1: Der weyſz Künigk ſoll inn | german_print2_15: Der weyß Künigk ſoll inn -->
+			<!-- line left out: id="r3l1" points="257,794 279,794 309,796 321,794 347,794 355,807 383,806 400,806 401,794 459,794 459,809 519,808 537,808 538,799 566,799 567,808 598,807 644,807 667,799 747,799 747,806 765,805 801,805 849,807 849,800 879,800 879,807 908,807 908,800 935,800 936,808 983,808 1033,809 1049,810 1049,794 1101,794 1101,846 1049,846 1049,839 1035,839 879,838 747,841 667,841 626,837 599,836 599,847 567,847 566,837 538,837 537,844 519,844 478,839 459,838 459,848 433,848 401,844 383,843 383,837 356,838 347,838 347,848 321,848 321,836 309,837 279,837 279,848 257,848" baseline="257,837 643,836 825,836 1101,839" reason: second model: differs: "enʒzehe" against "enzehen" | Wikisource: siebenzehen zügen Matt werden auff | next_nc_e1: ſiebenzehen zügen Matt werden auff | german_print2_15: ſiebenʒzehen zügen Matt werden auff -->
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="350,853 379,853 381,861 441,860 455,852 465,852 465,863 501,862 501,852 544,852 607,855 654,860 661,847 679,843 697,843 697,860 721,857 739,857 739,851 758,851 772,860 834,860 834,843 855,843 879,849 901,849 901,861 921,861 922,851 938,851 995,855 997,862 1035,862 1035,892 997,893 901,891 901,901 855,905 834,905 834,890 758,892 697,890 697,905 679,905 679,899 661,899 654,890 350,892" />
+				<Baseline points="350,892 440,890 772,889 1035,893" />
+				<TextEquiv index="1">
+					<Unicode>dem veld da er ſtat/ vnnd ſoll der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>dem veld da er ſtat/ vnnd ſoll der</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="162,324 337,324 337,478 162,478" />
+		</GraphicRegion>
+		<GraphicRegion id="r5">
+			<Coords points="172,1088 374,1088 374,1293 172,1293" />
+		</GraphicRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="179,902 1191,902 1191,1235 179,1235" />
+			<!-- line left out: id="r6l0" points="443,902 466,902 466,917 479,917 479,905 507,905 508,915 535,915 535,902 561,902 561,915 626,915 635,904 649,904 649,917 663,917 663,904 696,904 702,915 730,913 746,911 764,911 803,914 803,906 825,906 825,913 838,913 863,914 895,916 895,906 916,906 916,947 898,947 898,955 864,955 863,945 838,945 838,951 825,955 770,955 764,944 731,944 663,945 635,945 626,954 579,954 579,948 561,948 561,956 535,956 535,947 508,947 507,956 479,956 479,946 466,946 466,955 443,955" baseline="443,946 625,944 763,944 916,947" reason: differs: "wargalt" against "wartz a" | Wikisource:  | next_nc_e1: ſchwarg alt nit gezogẽ | german_print2_15: ſchwarg alt nit gezogẽ -->
+			<TextLine id="r6l1" custom="readingOrder {index:1;}">
+				<Coords points="589,968 615,968 615,960 642,960 642,968 672,968 672,960 700,960 702,968 750,968 751,982 763,982 763,997 750,999 700,999 642,999 615,999 589,998" />
+				<Baseline points="589,998 763,997" />
+				<TextEquiv index="1">
+					<Unicode>werden.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l2" points="179,1096 381,1093 450,1089 502,1086 579,1086 606,1095 658,1095 662,1105 715,1105 759,1107 774,1090 829,1086 884,1086 884,1103 913,1103 913,1086 990,1086 1003,1105 1037,1105 1037,1084 1123,1084 1191,1089 1191,1162 1142,1162 1123,1172 1037,1172 1037,1161 1003,1161 990,1172 913,1172 913,1160 884,1160 884,1172 829,1172 829,1165 774,1165 658,1162 606,1162 579,1172 502,1172 501,1163 449,1166 381,1166 368,1194 179,1194" baseline="179,1162 989,1160 1003,1160 1191,1162" reason: second model: differs: "Eich" against "ZEüc" | Wikisource: Eüch das Rach vff b | next_nc_e1: Eüch das Rach yff b | german_print2_15: Eich das Pach pff b -->
+			<TextLine id="r6l3" custom="readingOrder {index:3;}">
+				<Coords points="181,1173 436,1173 437,1192 482,1192 497,1174 507,1174 507,1183 538,1183 538,1174 574,1174 574,1189 591,1189 592,1177 675,1174 690,1174 690,1188 728,1189 731,1174 767,1174 785,1188 824,1188 843,1190 843,1217 785,1217 767,1226 731,1226 728,1218 690,1218 690,1226 660,1228 608,1228 608,1218 574,1219 574,1228 552,1228 552,1219 538,1222 507,1222 507,1228 497,1228 482,1222 436,1226 373,1226 370,1235 181,1235" />
+				<Baseline points="181,1223 843,1216" />
+				<TextEquiv index="1">
+					<Unicode>Den Koͤnigk auff ce.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>werden.
+Den Koͤnigk auff ce.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="168,1228 957,1228 957,1890 168,1890" />
+			<!-- line left out: id="r7l0" points="239,1231 378,1231 389,1241 438,1241 489,1245 507,1236 517,1236 517,1248 535,1245 561,1245 561,1236 588,1236 590,1244 629,1244 640,1232 662,1231 692,1231 692,1242 718,1242 719,1230 765,1230 775,1243 790,1243 790,1228 815,1228 815,1243 829,1243 831,1228 869,1228 933,1229 933,1241 957,1241 957,1275 908,1275 886,1272 869,1282 831,1282 829,1273 815,1273 815,1282 790,1282 790,1276 765,1281 719,1281 718,1272 672,1275 640,1275 561,1274 533,1275 438,1280 389,1280 378,1290 239,1290" baseline="239,1291 488,1275 507,1275 628,1271 764,1270 886,1266 957,1264" reason: second model: differs: "bc.·" against "c. Das " | Wikisource: Das ander Roch auff bc. | next_nc_e1: Das ander Roch auff bc. | german_print2_15: Das ander Roch auff bc.· -->
+			<!-- line left out: id="r7l1" points="168,1302 196,1302 196,1286 227,1286 227,1314 248,1314 273,1308 292,1308 313,1312 315,1304 329,1304 352,1308 370,1294 420,1294 420,1303 463,1303 465,1290 492,1290 509,1300 536,1298 552,1298 552,1284 602,1284 648,1285 651,1297 683,1297 683,1312 694,1312 694,1324 683,1324 683,1334 648,1335 624,1335 552,1333 552,1327 537,1328 492,1329 445,1331 420,1331 420,1337 370,1337 329,1336 315,1336 297,1335 292,1347 273,1347 248,1341 227,1341 227,1351 196,1351 196,1344 168,1344" baseline="168,1344 247,1340 273,1339 351,1335 370,1333 491,1329 624,1325 694,1323" reason: differs: "ſelvRoc" against "selb Ro" | Wikisource:  | next_nc_e1: Das ſelv Roch auff fg. | german_print2_15: Das ſeib Koch auff fg. -->
+			<TextLine id="r7l2" custom="readingOrder {index:2;}">
+				<Coords points="168,1356 230,1356 230,1363 273,1363 283,1348 311,1348 336,1350 337,1359 361,1359 364,1348 408,1348 418,1356 471,1355 474,1339 510,1339 589,1343 592,1370 602,1370 602,1380 524,1380 510,1388 474,1388 445,1385 418,1385 408,1394 364,1394 361,1388 337,1388 336,1394 273,1395 230,1399 168,1399" />
+				<Baseline points="168,1400 283,1391 602,1379" />
+				<TextEquiv index="1">
+					<Unicode>Das Roch auff bd.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l3" custom="readingOrder {index:3;}">
+				<Coords points="168,1410 229,1410 273,1415 343,1415 344,1406 370,1406 372,1413 409,1413 421,1398 452,1394 477,1394 477,1408 498,1408 500,1394 563,1389 576,1389 576,1404 616,1404 619,1389 656,1389 698,1391 701,1400 730,1400 730,1433 701,1433 698,1442 619,1441 616,1434 576,1434 576,1441 545,1443 500,1443 498,1436 477,1436 477,1443 370,1443 317,1445 229,1453 168,1453" />
+				<Baseline points="168,1450 408,1441 544,1434 730,1432" />
+				<TextEquiv index="1">
+					<Unicode>Das ander Roch auff fi.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l4" custom="readingOrder {index:4;}">
+				<Coords points="170,1463 231,1463 231,1469 310,1469 311,1457 350,1457 350,1468 378,1468 389,1452 423,1451 452,1451 452,1463 467,1463 470,1451 515,1451 533,1460 547,1460 547,1444 572,1444 572,1460 587,1460 590,1444 626,1444 692,1445 692,1458 716,1458 716,1487 646,1486 626,1496 590,1496 587,1489 572,1489 572,1496 547,1496 547,1488 533,1488 515,1498 470,1498 467,1492 452,1492 452,1498 310,1499 277,1504 231,1507 170,1507" />
+				<Baseline points="170,1506 276,1499 389,1496 533,1489 716,1486" />
+				<TextEquiv index="1">
+					<Unicode>Das ober Roch auff be.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l5" custom="readingOrder {index:5;}">
+				<Coords points="169,1518 225,1518 226,1526 272,1526 283,1506 299,1506 299,1517 327,1517 327,1506 369,1506 369,1521 381,1521 381,1509 397,1506 447,1506 463,1517 517,1516 518,1500 555,1500 568,1513 585,1513 585,1501 628,1501 628,1551 585,1551 585,1541 568,1541 555,1551 518,1551 517,1545 463,1545 447,1557 397,1557 397,1548 369,1550 369,1557 344,1557 344,1551 327,1556 226,1556 225,1562 169,1562" />
+				<Baseline points="169,1560 463,1545 628,1539" />
+				<TextEquiv index="1">
+					<Unicode>Den Koͤnigk auff ef.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l6" custom="readingOrder {index:6;}">
+				<Coords points="171,1571 228,1571 228,1578 339,1578 339,1568 365,1568 367,1574 405,1574 414,1560 446,1557 475,1557 475,1572 494,1572 494,1557 539,1557 551,1567 563,1567 563,1552 588,1552 588,1567 603,1567 606,1552 643,1552 722,1553 722,1596 689,1596 689,1616 680,1616 680,1605 606,1602 603,1596 588,1596 588,1602 563,1602 551,1597 539,1606 494,1606 494,1600 475,1600 475,1606 365,1604 228,1614 171,1614" />
+				<Baseline points="171,1614 285,1608 538,1598 722,1594" />
+				<TextEquiv index="1">
+					<Unicode>Das ander Rach auff fk:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l7" custom="readingOrder {index:7;}">
+				<Coords points="171,1624 230,1624 230,1632 305,1632 305,1619 346,1619 348,1629 386,1629 397,1617 450,1617 451,1625 476,1625 477,1612 522,1612 532,1622 585,1622 588,1607 624,1607 678,1609 678,1619 700,1619 700,1650 654,1650 636,1648 624,1659 588,1659 585,1651 558,1651 522,1654 450,1655 430,1659 346,1658 277,1665 230,1668 171,1668" />
+				<Baseline points="171,1667 292,1660 521,1652 623,1649 700,1650" />
+				<TextEquiv index="1">
+					<Unicode>Das ober Roch auff bi.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l8" custom="readingOrder {index:8;}">
+				<Coords points="171,1678 198,1673 228,1673 228,1689 252,1689 252,1673 286,1673 286,1688 298,1688 298,1678 313,1675 392,1668 417,1668 417,1682 429,1682 431,1668 476,1668 487,1676 504,1676 504,1663 552,1663 564,1676 590,1676 598,1663 626,1663 630,1690 640,1690 640,1703 630,1703 626,1712 598,1712 590,1706 564,1706 552,1714 504,1714 504,1705 487,1705 476,1714 431,1714 429,1708 417,1708 417,1715 286,1714 286,1727 252,1727 252,1718 228,1718 228,1727 198,1727 171,1722" />
+				<Baseline points="171,1720 338,1712 640,1702" />
+				<TextEquiv index="1">
+					<Unicode>Daſſelb Rach vff ah.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l9" custom="readingOrder {index:9;}">
+				<Coords points="172,1732 231,1732 231,1740 340,1739 340,1731 377,1731 377,1737 406,1737 413,1724 438,1722 468,1722 470,1735 493,1735 494,1720 539,1720 549,1731 590,1730 590,1717 661,1714 705,1714 729,1715 729,1768 681,1768 681,1756 661,1756 641,1766 590,1766 590,1760 549,1758 539,1768 446,1767 377,1770 353,1770 340,1768 231,1775 172,1775" />
+				<Baseline points="172,1776 286,1769 729,1754" />
+				<TextEquiv index="1">
+					<Unicode>Das ander Rach auff bf.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l10" custom="readingOrder {index:10;}">
+				<Coords points="170,1781 199,1781 226,1786 226,1797 251,1797 251,1781 288,1781 288,1796 299,1796 299,1784 352,1779 419,1779 419,1789 429,1789 432,1779 477,1779 494,1787 511,1787 511,1771 535,1771 535,1786 548,1786 549,1771 586,1771 651,1773 651,1783 678,1783 678,1815 627,1815 608,1813 586,1824 549,1824 548,1816 535,1816 535,1824 511,1824 511,1816 494,1816 477,1824 432,1824 429,1818 419,1818 419,1824 288,1822 288,1832 251,1832 251,1826 226,1830 199,1832 170,1832" />
+				<Baseline points="170,1828 339,1821 352,1822 476,1817 678,1812" />
+				<TextEquiv index="1">
+					<Unicode>Daſſelb Roch auff be.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l11" custom="readingOrder {index:11;}">
+				<Coords points="173,1835 201,1835 201,1841 229,1841 229,1852 249,1852 249,1835 343,1836 354,1847 377,1847 377,1830 418,1830 507,1833 507,1873 429,1872 418,1883 377,1883 377,1876 291,1879 291,1890 249,1890 249,1883 201,1890 173,1890" />
+				<Baseline points="173,1886 342,1877 507,1872" />
+				<TextEquiv index="1">
+					<Unicode>Daſſelb vff bd.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Das Roch auff bd.
+Das ander Roch auff fi.
+Das ober Roch auff be.
+Den Koͤnigk auff ef.
+Das ander Rach auff fk:
+Das ober Roch auff bi.
+Daſſelb Rach vff ah.
+Das ander Rach auff bf.
+Daſſelb Roch auff be.
+Daſſelb vff bd.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Widerteyl.
+DEn schwartzen Künig
+stell auff cd.
+Das schwartz Rach auff bh.
+Das ander schwartz Rach vff bi.
+Den schwartzen Alten auff ck.
+Der weyß Künigk soll inn
+siebenzehen zügen Matt werden auff
+dem veld da er stat / vnnd soll der
+schwartz alt nit gezogen
+werden.
+ZEüch das Rach vff b
+Den Koͤnigk auff ce.
+Das ander Roch auff bc.
+Das selb Roch auff fg.
+Das Roch auff bd.
+Das ander Roch auff fi.
+Das ober Roch auff be.
+Den Koͤnigk auff ef.
+Das ander Rach auff fk:
+Das ober Roch auff bi.
+Dasselb Rach vff ah.
+Das ander Rach auff bf.
+Dasselb Roch auff be.
+Dasselb vff bd.
+-->
+	</Page>
+</PcGts>

@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:17:00</Created>
+		<LastChange>2026-11-23T11:17:00</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/124 revision 3271191 of 2018-07-31T16:12:14Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0124.png" imageWidth="732" imageHeight="1276">
+		<ReadingOrder>
+			<OrderedGroup id="ro15114132554956468973" caption="Regions reading order">
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 732,0 732,56 0,56" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,1095 637,1095 637,1112 0,1112" />
+		</GraphicRegion>
+		<GraphicRegion id="r2">
+			<Coords points="717,27 732,27 732,56 717,56" />
+		</GraphicRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="141,54 722,54 722,487 141,487" />
+			<!-- line left out: id="r3l0" points="396,69 412,69 429,70 429,54 448,54 448,68 465,68 465,96 448,96 448,104 429,104 429,92 412,93 396,93" baseline="396,93 465,93" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 118. | german_print2_15:  -->
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="143,107 163,107 163,101 230,98 252,98 252,108 264,108 264,98 295,98 295,108 321,108 337,102 376,102 389,108 400,108 426,104 541,108 541,100 625,99 649,99 649,110 680,108 717,108 717,133 680,133 649,131 649,139 625,139 541,137 525,132 470,130 470,137 453,137 453,131 400,134 347,131 295,136 264,136 264,130 252,130 252,136 181,133 143,133" />
+				<Baseline points="143,132 320,130 717,132" />
+				<TextEquiv index="1">
+					<Unicode>mit Waffen nit zwingen noch im Zaum</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="142,142 190,142 190,148 230,148 241,140 284,140 284,148 332,140 348,140 348,149 393,140 413,140 433,140 442,148 505,148 511,140 547,140 548,148 560,143 569,143 591,148 608,149 608,142 660,142 669,150 697,149 703,153 703,169 697,171 685,171 685,177 669,177 660,171 633,176 608,176 559,171 526,176 511,176 505,170 433,173 393,173 348,169 348,175 264,174 230,171 174,170 174,177 142,177" />
+				<Baseline points="142,170 703,170" />
+				<TextEquiv index="1">
+					<Unicode>halten kan/ ſo muß man Seitenſpiel ge⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="141,181 162,181 162,188 210,188 211,180 240,180 240,188 272,187 272,202 300,200 319,178 359,178 359,187 392,187 392,178 412,178 470,180 470,188 484,188 484,180 555,180 591,182 591,189 602,189 613,179 649,179 649,188 660,188 660,180 688,179 688,187 702,187 702,209 688,209 688,215 660,215 660,209 649,209 649,215 634,215 563,209 555,215 521,215 512,209 319,210 302,203 281,208 240,208 240,214 211,214 141,209" />
+				<Baseline points="141,209 702,209" />
+				<TextEquiv index="1">
+					<Unicode>brauchen. Darumb lobe ich die Ruſſen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l4" points="141,227 159,222 177,222 202,227 220,217 237,213 257,213 257,227 269,227 269,213 286,213 318,213 318,226 333,221 342,221 372,225 372,213 389,213 407,221 415,218 456,218 482,219 482,226 505,221 512,218 530,218 530,227 541,227 544,218 570,218 597,218 615,219 623,221 634,226 634,218 648,218 692,219 692,225 701,225 701,248 692,253 671,254 648,254 615,254 570,254 544,254 541,247 530,247 530,253 512,253 512,247 493,248 482,248 482,254 462,254 407,250 389,259 372,259 372,247 333,248 318,248 318,259 300,259 300,250 286,250 286,259 269,259 269,246 257,246 257,259 237,259 237,248 161,249 141,249" baseline="141,249 201,248 505,247 544,247 701,248" reason: second model: differs: "heijniſ" against "heimisc" | Wikisource: oder Moscowiter/ daß sie ihr Inheimische | next_nc_e1: oder Moſcowiter/ daß ſie ihr Inheimiſche | german_print2_15: oder Moſcowiter / daß ſie ihr Inheijniſche -->
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="141,264 175,265 183,257 220,256 220,265 233,265 233,256 283,256 291,258 291,265 303,265 303,256 321,256 321,266 338,266 338,257 347,257 347,264 419,261 463,257 501,257 501,265 547,265 547,259 579,256 607,256 614,254 652,254 676,254 693,259 693,270 700,270 700,285 693,285 693,294 652,294 628,294 614,294 607,291 547,290 531,287 487,293 463,293 455,286 398,288 338,288 321,292 303,292 303,286 291,287 283,292 233,291 220,286 220,292 183,292 175,286 158,286 158,292 141,292" />
+				<Baseline points="141,286 700,285" />
+				<TextEquiv index="1">
+					<Unicode>zu Hauß behalten/ und ſich nach Muͤglich⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="142,295 160,295 181,298 181,304 191,304 203,297 211,296 314,296 329,301 336,295 350,295 378,298 400,303 412,296 474,297 475,304 486,304 496,295 505,295 525,295 549,295 578,295 608,295 619,295 655,297 664,304 722,302 722,331 655,329 619,331 496,331 486,324 475,324 474,331 420,331 378,325 336,325 314,332 267,332 267,325 250,330 249,332 226,332 211,332 211,325 142,327" />
+				<Baseline points="142,327 203,325 722,323" />
+				<TextEquiv index="1">
+					<Unicode>keit befleiſſen/ keine ſolche ſchaͤdliche Neue⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="142,341 244,342 261,336 278,336 306,341 325,335 351,335 351,342 399,342 409,334 414,334 432,337 432,343 440,343 450,334 491,334 514,334 541,334 542,344 581,341 609,341 626,334 635,334 635,343 651,343 651,334 678,334 678,343 696,343 696,355 702,355 702,365 678,369 651,369 651,363 635,365 632,369 581,368 577,345 570,364 529,370 514,370 514,364 491,364 491,370 458,370 450,369 440,363 432,367 414,370 409,370 399,364 362,365 351,370 270,370 261,370 244,363 215,363 214,369 186,369 178,365 161,369 142,369" />
+				<Baseline points="142,365 243,363 702,365" />
+				<TextEquiv index="1">
+					<Unicode>rungen bey ihnen einſchleichen zu laſſen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l8" custom="readingOrder {index:8;}">
+				<Coords points="142,373 192,374 192,366 212,366 212,381 232,381 233,375 240,375 240,381 264,381 265,373 285,373 285,381 313,377 349,381 364,370 383,370 397,374 398,382 411,382 411,376 421,376 421,382 466,382 488,373 515,373 515,382 526,382 526,375 552,373 561,373 579,380 652,381 660,374 703,374 703,409 634,409 624,402 579,404 561,410 535,410 535,403 515,403 515,410 488,410 466,402 437,402 437,409 419,409 419,402 368,403 368,409 364,409 349,403 285,404 285,410 265,410 264,404 212,405 212,414 192,414 192,403 179,405 142,405" />
+				<Baseline points="142,403 703,402" />
+				<TextEquiv index="1">
+					<Unicode>Ob wir ſie im uͤbrigen gleich vor grobe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l9" points="142,410 182,410 182,420 197,420 197,412 211,410 229,410 229,420 255,420 287,421 294,412 313,412 313,420 329,420 329,412 338,412 338,419 360,419 377,421 383,410 440,410 456,412 457,419 480,419 498,421 498,434 504,434 504,442 498,444 456,447 399,447 383,447 377,441 360,442 329,442 313,441 313,447 294,447 229,444 211,444 197,442 182,443 161,444 142,444" baseline="142,443 286,442 504,442" reason: differs: "GBar" against "Barb" | Wikisource:  | next_nc_e1: GBarbaren halten moͤchten.
+ | german_print2_15: Barbaren halten moͤchten.
+ -->
+			<TextLine id="r3l10" custom="readingOrder {index:10;}">
+				<Coords points="201,450 235,450 235,457 257,457 264,450 279,450 279,459 293,459 293,450 320,450 336,451 338,459 376,459 376,450 393,450 393,459 434,459 434,450 474,450 474,459 486,459 497,451 512,451 512,458 575,454 593,450 607,450 632,450 644,457 701,457 701,483 630,485 630,479 617,480 607,485 593,485 575,481 541,479 541,486 523,486 523,480 512,480 512,486 497,486 486,479 474,479 474,486 434,486 434,480 415,481 393,486 376,486 370,481 338,480 336,487 302,487 293,481 279,481 279,487 235,487 201,487" />
+				<Baseline points="201,482 497,479 701,480" />
+				<TextEquiv index="1">
+					<Unicode>Ja/ moͤchte mancher ſagen/ ſoll man</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>mit Waffen nit zwingen noch im Zaum
+halten kan/ ſo muß man Seitenſpiel ge⸗
+brauchen. Darumb lobe ich die Ruſſen
+zu Hauß behalten/ und ſich nach Muͤglich⸗
+keit befleiſſen/ keine ſolche ſchaͤdliche Neue⸗
+rungen bey ihnen einſchleichen zu laſſen.
+Ob wir ſie im uͤbrigen gleich vor grobe
+Ja/ moͤchte mancher ſagen/ ſoll man</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r4">
+			<Coords points="711,361 720,361 720,471 711,471" />
+		</SeparatorRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="132,489 723,489 723,1100 132,1100" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="143,492 175,491 175,497 189,497 189,491 271,490 279,491 279,499 309,498 316,489 358,489 358,498 398,498 399,489 439,489 439,497 456,497 467,490 475,490 475,498 565,495 576,489 588,489 588,498 617,493 700,492 700,521 618,519 588,524 576,524 553,522 500,521 467,522 439,518 439,525 399,525 398,518 368,518 368,524 358,525 341,525 316,520 143,519" />
+				<Baseline points="143,519 667,518 700,521" />
+				<TextEquiv index="1">
+					<Unicode>drumb keine Sprachen lernen/ ſonder ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="142,536 182,536 208,531 216,527 247,527 252,533 268,533 268,527 285,527 285,537 323,537 323,528 414,529 424,530 424,537 436,537 445,529 459,529 460,537 488,537 488,521 509,517 549,517 550,521 562,532 577,532 594,536 605,528 611,528 611,534 630,529 647,529 647,536 658,536 659,528 692,528 692,534 699,534 699,558 692,563 663,563 658,557 622,558 611,563 549,561 549,572 509,572 509,561 424,559 354,563 340,558 340,564 303,567 268,567 268,558 252,558 247,567 230,567 216,565 216,558 142,560" />
+				<Baseline points="142,559 593,557 699,558" />
+				<TextEquiv index="1">
+					<Unicode>unwiſſender gEſell bleiben/ wie du villeicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l2" custom="readingOrder {index:2;}">
+				<Coords points="143,575 158,575 158,569 167,569 167,577 210,576 221,569 341,568 369,569 369,575 387,572 432,570 432,576 446,576 446,570 475,570 475,577 484,577 494,567 519,567 519,576 580,571 616,572 632,564 639,564 700,564 716,567 716,589 711,589 700,598 681,602 658,602 658,596 639,596 639,602 605,598 519,597 519,603 494,603 484,596 416,597 399,603 387,603 378,596 341,600 279,603 245,603 245,597 185,596 158,600 143,600" />
+				<Baseline points="143,596 632,596 716,598" />
+				<TextEquiv index="1">
+					<Unicode>einer biſt? Nein/ mein Freund/ behuͤt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l3" custom="readingOrder {index:3;}">
+				<Coords points="142,605 207,605 208,613 219,611 274,610 307,611 337,615 337,607 372,607 390,605 417,605 428,614 455,606 514,606 514,612 600,605 617,605 617,614 649,613 649,605 666,605 688,607 699,612 718,631 720,631 720,633 699,635 666,635 666,642 649,642 649,636 617,635 617,642 600,642 588,635 551,635 531,642 478,642 455,641 445,637 428,635 417,641 390,641 390,634 381,634 372,640 337,640 330,635 245,637 142,636" />
+				<Baseline points="142,636 315,634 428,636 530,640 551,635 720,633" />
+				<TextEquiv index="1">
+					<Unicode>GOtt/ das rath ich nicht; die frembde</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l4" custom="readingOrder {index:4;}">
+				<Coords points="139,643 178,643 179,652 194,647 209,647 224,652 224,643 241,643 253,644 253,652 282,652 294,644 332,644 332,652 348,648 365,648 377,652 439,653 458,644 584,644 603,652 623,648 631,644 658,644 698,647 715,662 720,662 720,677 631,678 623,674 584,679 564,679 564,673 542,673 542,679 505,680 461,680 458,680 421,675 349,673 332,673 332,680 253,680 224,680 224,673 196,674 196,680 158,680 139,677" />
+				<Baseline points="139,674 720,672" />
+				<TextEquiv index="1">
+					<Unicode>Sprachen ſchaden an ſich ſelbſt nichts/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l5" custom="readingOrder {index:5;}">
+				<Coords points="140,683 168,683 168,692 185,688 194,683 209,683 209,692 252,686 262,686 262,692 472,691 477,685 488,685 488,691 505,691 505,685 524,685 530,691 543,691 543,685 552,685 552,692 579,692 579,681 594,681 678,683 679,689 690,689 697,694 718,681 719,681 719,684 697,710 690,711 678,716 653,716 635,711 634,717 594,718 570,718 570,712 415,712 415,719 394,719 394,713 368,713 368,719 347,719 347,712 331,712 330,719 314,719 314,712 273,714 209,712 209,720 194,720 187,713 168,713 168,720 140,720" />
+				<Baseline points="140,713 719,711" />
+				<TextEquiv index="1">
+					<Unicode>ſonder die angenommene mit eingeſchliche⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l6" custom="readingOrder {index:6;}">
+				<Coords points="141,730 174,730 184,721 225,721 240,724 250,729 272,730 272,721 292,721 292,733 304,733 322,722 374,722 387,730 400,730 400,724 410,724 410,730 428,726 444,726 471,730 476,723 497,723 539,730 539,724 577,720 610,720 645,720 645,728 664,724 696,724 720,737 723,737 723,742 696,750 645,751 645,757 611,757 577,752 497,751 354,752 304,754 141,753" />
+				<Baseline points="141,753 173,751 723,749" />
+				<TextEquiv index="1">
+					<Unicode>ne Sitten; Als einsmals ein Schmied</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l7" custom="readingOrder {index:7;}">
+				<Coords points="139,768 155,763 189,763 200,769 278,769 291,760 333,760 333,769 370,768 406,765 422,765 440,769 448,760 480,760 499,768 512,768 512,762 520,762 520,768 543,768 543,762 560,762 560,768 567,768 579,759 614,759 620,761 620,768 636,768 637,760 664,755 696,755 696,801 664,801 664,792 637,792 614,789 499,789 480,796 448,796 440,791 370,789 370,796 347,797 332,797 332,790 313,790 313,797 293,797 293,790 139,791" />
+				<Baseline points="139,791 386,789 696,789" />
+				<TextEquiv index="1">
+					<Unicode>mit neuen Aexten durch einen Wald zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l8" custom="readingOrder {index:8;}">
+				<Coords points="138,799 171,799 181,801 182,808 213,808 213,798 237,798 237,806 279,802 300,807 309,804 338,804 370,808 370,800 418,799 418,808 430,808 430,799 445,799 459,800 459,808 507,808 507,801 578,797 594,797 621,797 621,807 647,806 679,801 692,801 692,827 537,830 458,830 445,828 445,834 377,834 344,829 338,835 309,835 300,829 278,828 270,836 251,836 246,829 198,829 171,832 138,832" />
+				<Baseline points="138,828 692,826" />
+				<TextEquiv index="1">
+					<Unicode>Marckt gieng/ erſchracken alle Baͤum und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l9" points="137,847 149,847 149,837 164,837 199,837 199,845 213,845 235,845 252,846 263,840 274,838 290,838 291,846 305,845 316,845 334,846 341,836 400,836 414,840 441,842 503,844 528,845 555,846 563,840 583,840 584,846 612,846 624,836 633,836 633,846 666,846 666,836 690,836 690,872 681,873 666,873 666,866 640,866 640,873 624,873 612,866 555,869 521,869 511,869 447,866 431,872 413,872 413,865 400,865 400,872 375,872 360,872 341,867 304,866 291,866 290,873 274,873 274,866 222,867 208,867 199,866 171,864 164,864 164,870 137,870" baseline="137,867 251,866 502,865 511,865 690,866" reason: second model: differs: "iſixrte" against "isirten" | Wikisource: avisirten ihren König/ was vor eine grosse | next_nc_e1: aviſirten ihren Koͤnig/ was vor eine groſſe | german_print2_15: aviſixrten ihren Koͤnig / was vor eine groſſe -->
+			<TextLine id="r5l10" custom="readingOrder {index:10;}">
+				<Coords points="137,875 197,875 206,883 233,883 252,875 279,875 279,884 316,885 329,874 355,874 355,884 366,884 366,878 375,878 375,884 392,880 408,880 443,884 459,880 475,880 484,874 524,874 524,885 547,886 547,880 564,880 587,884 587,877 602,877 603,884 689,884 689,908 643,908 564,905 394,905 355,910 233,911 206,911 206,905 182,904 182,910 158,911 137,911" />
+				<Baseline points="137,904 689,903" />
+				<TextEquiv index="1">
+					<Unicode>Maͤng ihrer Feind und Verderber vor⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l11" points="135,914 155,914 155,923 172,922 182,922 182,914 200,914 207,919 257,923 257,913 287,913 287,924 299,922 311,922 316,915 349,914 363,909 384,909 384,921 409,913 424,909 438,909 464,909 472,923 489,923 504,915 513,914 528,914 528,923 539,923 539,914 550,914 550,924 561,922 571,922 615,922 615,914 628,914 634,922 660,922 660,913 692,913 717,930 719,930 719,938 717,938 692,949 660,949 660,942 615,943 582,943 560,945 550,949 539,949 528,944 514,943 514,949 504,949 464,955 438,955 424,955 409,950 384,944 384,955 363,955 363,945 349,945 311,943 287,943 274,944 208,944 200,951 182,951 182,944 172,944 155,943 155,951 135,951" baseline="135,943 627,942 719,942" reason: differs: "fraagte" against "fragte/" | Wikisource:  | next_nc_e1: handen waͤre! Der Koͤnig fraagte/ ob auch | german_print2_15: handen waͤre! Der König fraate / ob auch -->
+			<TextLine id="r5l12" custom="readingOrder {index:12;}">
+				<Coords points="133,955 146,955 146,962 186,962 214,958 310,957 320,954 336,954 337,963 383,962 393,955 407,955 409,962 435,963 446,956 461,956 462,963 489,963 498,953 528,953 551,957 574,958 602,962 608,954 657,953 670,953 670,960 682,960 688,964 688,979 682,981 635,982 635,988 608,988 602,982 560,983 528,988 498,988 474,983 446,981 435,988 421,988 418,980 407,982 337,982 336,989 320,989 320,982 239,981 146,982 146,989 133,989" />
+				<Baseline points="133,982 688,981" />
+				<TextEquiv index="1">
+					<Unicode>jemand aus ihnen bey den Feinden ſich be⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l13" custom="readingOrder {index:13;}">
+				<Coords points="133,990 163,990 172,1001 181,996 198,996 210,1001 215,994 257,996 299,993 328,993 347,1000 362,1000 362,994 408,994 419,999 423,992 449,992 450,1001 519,1001 528,992 582,992 600,1001 602,991 678,991 678,997 688,997 688,1020 678,1020 678,1027 639,1027 633,1019 590,1018 582,1026 528,1027 519,1021 477,1022 476,1028 460,1028 460,1021 328,1025 299,1025 228,1021 172,1021 163,1027 133,1027" />
+				<Baseline points="133,1021 688,1017" />
+				<TextEquiv index="1">
+					<Unicode>faͤnde? das iſt/ ob die Aext auch Helm haͤt⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l14" custom="readingOrder {index:14;}">
+				<Coords points="132,1032 217,1029 250,1029 298,1030 298,1040 310,1040 310,1030 381,1030 381,1039 408,1035 424,1035 455,1040 471,1038 489,1038 489,1030 511,1030 519,1039 546,1034 554,1034 563,1037 573,1030 610,1030 618,1039 688,1037 688,1058 676,1058 676,1064 519,1062 511,1069 489,1069 489,1063 464,1063 442,1066 399,1066 381,1069 356,1069 355,1061 335,1066 217,1065 181,1062 132,1062" />
+				<Baseline points="132,1061 640,1059 688,1065" />
+				<TextEquiv index="1">
+					<Unicode>ten? Und als ihm darauff mit Nein ge⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l15" points="637,1077 653,1076 662,1076 670,1075 688,1075 688,1099 662,1099 654,1100 637,1100" baseline="637,1100 688,1098" reason: second model has no such line | Wikisource: ant | next_nc_e1: ant⸗
+ | german_print2_15:  -->
+			<TextEquiv index="1">
+				<Unicode>drumb keine Sprachen lernen/ ſonder ein
+unwiſſender gEſell bleiben/ wie du villeicht
+einer biſt? Nein/ mein Freund/ behuͤt
+GOtt/ das rath ich nicht; die frembde
+Sprachen ſchaden an ſich ſelbſt nichts/
+ſonder die angenommene mit eingeſchliche⸗
+ne Sitten; Als einsmals ein Schmied
+mit neuen Aexten durch einen Wald zu
+Marckt gieng/ erſchracken alle Baͤum und
+Maͤng ihrer Feind und Verderber vor⸗
+jemand aus ihnen bey den Feinden ſich be⸗
+faͤnde? das iſt/ ob die Aext auch Helm haͤt⸗
+ten? Und als ihm darauff mit Nein ge⸗</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="707,614 724,614 724,794 707,794" />
+		</GraphicRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {3;}">
+			<Coords points="714,812 722,812 722,854 714,854" />
+			<!-- line left out: id="r7l0" points="714,812 722,812 722,854 714,854" baseline="720,854 720,812" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: —
+ | german_print2_15: —
+ -->
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="0,1095 732,1095 732,1276 0,1276" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+mit Waffen nit zwingen noch im Zaum halten kan / so muß man Seitenspiel gebrauchen. Darumb lobe ich die Russen oder Moscowiter / daß sie ihr Inheimische zu Hauß behalten / und sich nach Müglichkeit befleissen / keine solche schädliche Neuerungen bey ihnen einschleichen zu lassen. Ob wir sie im übrigen gleich vor grobe Barbaren halten möchten.
+Ja / möchte mancher sagen / soll man drumb keine Sprachen lernen / sonder ein unwissender gEsell bleiben / wie du villeicht einer bist? Nein / mein Freund / behüt GOtt / das rath ich nicht; die frembde Sprachen schaden an sich selbst nichts / sonder die angenommene mit eingeschlichene Sitten; Als einsmals ein Schmied mit neuen Aexten durch einen Wald zu Marckt gieng / erschracken alle Bäum und avisirten ihren König /was vor eine grosse Mäng ihrer Feind und Verderber vorhanden wäre! Der König fragte / ob auch jemand aus ihnen bey den Feinden sich befände? das ist / ob die Aext auch Helm hätten? Und als ihm darauff mit Nein geantwortet
+-->
+	</Page>
+</PcGts>

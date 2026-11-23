@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T12:27:45</Created>
+		<LastChange>2026-11-23T12:27:45</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Ein_nützlich_Bergbüchlin_(1527).pdf/11 revision 5090263 of 2026-11-07T08:00:53Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="bergbuechlin_1527_0011.png" imageWidth="1000" imageHeight="1650">
+		<ReadingOrder>
+			<OrderedGroup id="ro13678866012493735388" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="58,44 856,44 856,411 58,411" />
+			<TextLine id="r0l0" custom="readingOrder {index:0;}">
+				<Coords points="60,60 121,61 134,52 193,52 193,61 220,56 234,56 241,44 258,44 264,52 284,52 295,60 322,60 322,44 339,44 339,51 354,51 380,56 457,59 457,51 494,51 494,58 511,58 521,51 541,51 541,57 570,57 578,48 642,48 666,50 672,61 708,61 710,44 727,44 727,53 738,53 746,62 768,62 768,54 785,54 805,60 815,60 818,44 835,44 835,62 850,62 850,88 835,88 835,98 818,98 818,88 783,90 770,85 770,93 738,93 727,98 710,98 708,86 666,90 585,90 541,93 457,93 457,85 380,84 359,84 354,90 339,90 339,98 322,98 322,83 307,86 258,91 258,98 241,98 241,84 154,91 134,91 121,85 92,85 92,94 60,94" />
+				<Baseline points="60,85 578,82 850,86" />
+				<TextEquiv index="1">
+					<Unicode>ynn ſechs teyl/ auff den auffgang ſechſe ʒu ſetʒẽ/ dar</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l1" points="60,102 75,102 75,96 94,96 124,96 147,101 147,87 171,87 171,101 182,97 196,97 198,111 207,111 210,102 229,102 229,112 236,112 240,102 286,102 286,87 314,87 321,101 341,101 360,102 362,93 391,93 396,99 415,99 468,100 490,97 517,97 535,99 579,98 594,98 604,99 605,91 614,91 623,101 645,99 664,99 720,101 757,101 775,102 796,103 796,95 816,95 816,87 856,87 856,139 816,139 816,127 796,127 796,135 773,135 773,125 744,125 730,125 688,124 605,122 579,121 558,122 517,124 489,124 415,124 396,124 391,130 362,130 353,122 341,123 321,123 314,139 286,139 286,123 272,123 251,122 229,121 229,129 210,129 207,121 196,123 173,128 171,128 171,139 147,139 147,128 94,128 75,128 60,123" baseline="60,123 147,121 310,122 557,121 566,121 688,123 816,127 856,128" reason: differs: "ach.7.8" against "ch 7. 8" | Wikisource:  | next_nc_e1: nach. 7. 8.9.10. 11. auff die andern teil vor mittag/ vñ | german_print2_15: nach. 7. 8.9. 10. 1. auff die andern teil vor mittag / vñ -->
+			<!-- line left out: id="r0l2" points="59,135 81,135 108,140 108,134 126,134 185,134 192,141 205,141 205,133 223,133 260,133 284,138 299,141 330,140 348,140 361,138 395,138 408,140 408,127 426,127 426,137 435,137 472,139 472,147 480,147 483,139 505,139 517,141 517,133 536,133 545,137 566,140 566,150 575,150 577,139 592,139 593,149 601,149 603,140 619,140 619,133 633,133 633,127 660,127 688,127 753,127 753,133 760,133 765,142 785,142 829,142 850,143 850,165 829,168 801,173 784,173 784,167 760,169 753,169 753,177 688,177 660,177 633,177 633,169 619,169 603,167 601,160 575,160 566,161 536,161 536,170 517,170 517,162 506,162 472,161 456,160 448,160 435,170 426,170 426,177 408,177 408,162 319,162 264,162 260,168 223,168 205,168 205,161 192,161 185,168 154,168 154,161 135,163 126,168 108,168 108,162 88,162 81,161 59,161" baseline="59,161 330,160 659,160 850,163" reason: differs: "darn" against "ag/ " | Wikisource:  | next_nc_e1: darnach auff den mittag. 12. vnd.i.2.3. 4. . auff dy an | german_print2_15: darnach auff den mittag. 12. vnd. 1. 2. 3. 4. 5. auff dy an -->
+			<!-- line left out: id="r0l3" points="58,173 88,173 88,179 110,179 136,178 149,178 179,181 180,172 189,172 200,180 221,179 238,174 271,174 282,180 323,179 336,178 350,178 368,177 390,175 412,173 456,173 456,179 480,179 521,174 552,174 600,178 602,171 631,171 635,178 654,177 670,177 714,180 714,172 734,172 734,180 749,180 761,182 761,172 781,172 781,178 790,178 847,178 847,205 814,205 790,203 781,205 761,205 749,204 734,202 653,201 635,201 631,208 602,208 600,199 581,200 562,200 552,206 521,206 501,202 468,200 468,207 436,207 412,202 390,201 390,209 368,209 368,200 350,201 313,202 271,204 238,204 180,202 179,209 163,209 161,201 149,202 136,202 71,201 58,200" baseline="58,200 635,200 847,202" reason: differs: "dernt" against "dy an" | Wikisource:  | next_nc_e1: dern teyl nach mittag/ Darnach auff den abendt.. | german_print2_15: dern teyl nach miutag / Darnach auff den abendt. S. -->
+			<!-- line left out: id="r0l4" points="59,217 82,217 136,217 136,206 161,206 194,206 222,206 265,206 271,220 282,219 335,219 345,210 373,210 376,216 395,216 419,217 447,218 469,215 499,215 577,216 594,217 594,210 604,210 611,220 632,218 650,218 650,212 673,212 673,218 690,215 710,215 725,218 781,220 781,214 818,214 849,216 849,246 837,246 725,242 710,241 690,240 682,246 667,246 611,241 594,240 594,246 578,246 577,238 562,240 520,240 428,240 405,239 395,240 376,240 373,246 345,246 342,240 322,241 305,241 282,240 271,239 265,251 222,251 194,251 161,251 136,251 136,244 94,244 83,240 59,239" baseline="59,239 550,239 849,242" reason: differs: "vnd." against "t. 6" | Wikisource:  | next_nc_e1: vnd. 7. 9. 9. 10. I. auff die andern teyl nach dem abẽd/ | german_print2_15: vnd. 7. 3. 9. 10. u. auff die andern teyl nach dem abẽd / -->
+			<TextLine id="r0l5" custom="readingOrder {index:5;}">
+				<Coords points="58,249 98,249 98,258 167,259 167,253 208,250 218,250 218,258 247,259 249,250 276,250 284,258 315,253 393,258 393,250 410,250 410,257 420,257 421,250 455,250 477,252 477,244 514,244 580,244 610,244 664,244 697,244 727,244 727,252 738,252 738,244 790,244 790,252 847,256 847,282 823,283 803,281 800,288 790,292 727,292 697,292 664,292 610,292 580,292 514,292 477,292 438,288 421,284 420,278 410,278 410,288 393,288 393,278 284,279 276,286 249,286 247,280 236,281 218,286 208,286 167,285 149,281 98,279 98,285 78,285 78,279 58,279" />
+				<Baseline points="58,279 672,278 847,282" />
+				<TextEquiv index="1">
+					<Unicode>Darnach auff mitternacht. 12. vnd. 1. 2. 3. 4. 5. auff die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l6" points="58,295 72,295 72,289 100,289 119,293 183,297 198,299 200,289 209,289 220,299 241,297 260,297 261,291 282,291 282,297 334,295 370,295 410,296 410,289 428,289 459,289 459,295 470,290 494,290 502,296 513,296 513,288 550,284 566,284 576,291 586,291 613,296 613,284 628,284 634,292 652,292 673,296 674,289 697,289 706,297 724,297 724,291 744,291 744,297 765,297 772,291 788,291 788,298 807,298 824,300 824,291 834,291 835,297 849,297 849,322 834,323 824,323 824,330 807,330 807,322 788,322 788,330 772,330 765,328 744,328 744,318 724,319 706,319 697,327 674,327 673,319 664,319 634,318 628,334 613,334 613,322 600,322 576,318 566,334 550,334 547,317 528,319 494,320 470,322 428,322 410,322 384,318 355,318 332,319 322,320 292,324 280,324 261,321 209,320 200,320 198,327 184,327 183,319 91,319 72,319 58,317" baseline="58,317 600,317 696,318 849,320" reason: second model: differs: "muterna" against "mittern" | Wikisource: ander teyl nach mitternacht/ als die zeit ist abgeteylt | next_nc_e1: ander teyl nach mitternacht/ als die zeit iſt abgeteylt | german_print2_15: ander teyl nach muternacht / als die zeit iſt abgeteylt -->
+			<TextLine id="r0l7" custom="readingOrder {index:7;}">
+				<Coords points="58,334 80,334 90,330 131,330 159,335 206,338 216,326 227,326 238,329 239,336 257,336 258,326 267,326 288,328 289,335 323,335 335,328 361,328 361,336 398,332 405,328 422,328 422,335 437,335 450,327 468,326 488,326 510,334 511,326 537,326 537,336 575,334 624,335 624,329 673,329 674,338 688,336 725,335 741,335 754,337 756,328 772,328 772,336 846,337 846,363 786,362 772,360 674,359 673,366 644,366 624,366 624,359 575,363 511,362 510,356 496,357 488,362 468,362 468,355 422,356 422,366 398,366 344,366 335,366 323,357 267,358 238,362 216,362 90,361 81,356 58,355" />
+				<Baseline points="58,355 846,359" />
+				<TextEquiv index="1">
+					<Unicode>nach dem halben ſeyger. Dieſes ʒu mehrer erkente⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l8" custom="readingOrder {index:8;}">
+				<Coords points="58,373 72,373 72,362 87,362 90,369 114,369 124,375 161,375 161,367 171,367 171,374 182,374 182,362 200,362 200,373 243,374 243,366 303,366 323,368 343,374 358,375 359,368 393,366 421,366 421,372 449,372 449,366 467,366 467,372 481,372 481,395 467,395 467,403 449,403 449,396 436,396 435,403 385,405 359,405 358,397 323,398 323,405 262,401 200,400 200,411 182,411 171,407 171,398 124,398 114,405 90,405 87,411 72,411 72,396 58,396" />
+				<Baseline points="58,396 481,395" />
+				<TextEquiv index="1">
+					<Unicode>nis/ volget nach dieſe figur.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ynn ſechs teyl/ auff den auffgang ſechſe ʒu ſetʒẽ/ dar
+Darnach auff mitternacht. 12. vnd. 1. 2. 3. 4. 5. auff die
+nach dem halben ſeyger. Dieſes ʒu mehrer erkente⸗
+nis/ volget nach dieſe figur.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="107,428 801,428 801,504 107,504" />
+			<!-- line left out: id="r1l0" points="107,432 149,432 149,440 178,440 208,428 211,428 260,428 260,437 276,434 295,434 308,437 308,428 310,428 397,430 397,440 442,438 480,438 482,429 496,429 496,438 523,438 523,429 546,429 659,429 659,435 705,435 705,429 725,429 753,429 753,438 767,437 782,433 801,433 801,459 767,460 753,460 753,466 725,468 695,468 685,458 659,458 659,467 555,469 523,469 430,467 397,471 353,471 308,463 295,462 260,463 211,463 149,466 107,466" baseline="107,466 177,463 309,463 801,467" reason: differs: "Dasgefi" against "as drit" | Wikisource:  | next_nc_e1: Das gefierde Der mittagt. Das gefierd | german_print2_15: Das gefierde Der mittagt. Das gefierd -->
+			<!-- line left out: id="r1l1" points="129,480 143,479 159,479 159,470 177,470 218,470 243,474 273,473 293,471 309,471 556,441 584,441 607,475 652,475 652,466 693,466 693,475 704,475 718,476 749,474 769,471 784,471 784,500 738,500 704,502 652,502 652,491 641,496 619,500 607,500 584,482 556,482 309,500 264,501 242,501 218,498 177,498 177,504 142,504 129,504" baseline="129,499 749,499 784,500" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: zwiſchen dẽ 9 zwiſchen dẽ
+ | german_print2_15: zwiſchen dẽ 8 zwiſchen dẽ
+ -->
+		</TextRegion>
+		<GraphicRegion id="r2">
+			<Coords points="131,485 751,485 751,1129 131,1129" />
+		</GraphicRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="59,495 850,495 850,1116 59,1116" />
+			<!-- line left out: id="r3l0" points="68,495 99,495 125,515 175,515 207,515 207,509 232,508 274,508 663,513 698,513 710,514 730,516 781,517 781,510 798,510 798,539 760,539 750,548 729,548 729,538 711,538 675,537 274,540 232,540 207,539 207,548 187,548 187,538 156,539 125,539 99,547 68,547" baseline="68,534 232,534 642,537 760,538 798,539" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: S moꝛgẽ vñ mittag vñ | german_print2_15: 8 moꝛgẽ vñ mittag vñ S -->
+			<!-- line left out: id="r3l1" points="683,555 703,551 723,551 723,557 738,557 759,553 781,553 789,570 795,570 795,578 781,579 758,580 738,580 723,579 703,579 683,576" baseline="683,579 795,581" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: abend. | german_print2_15:  -->
+			<!-- line left out: id="r3l2" points="65,574 83,574 98,579 798,586 850,586 850,608 798,608 98,597 83,597 83,605 65,605" baseline="65,597 97,597 798,604 850,605" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 3. — | german_print2_15: — — -->
+			<!-- line left out: id="r3l3" points="67,601 102,601 810,611 840,611 840,633 810,633 102,622 67,622" baseline="67,629 101,629 810,633 840,633" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — & | german_print2_15:  -->
+			<!-- line left out: id="r3l4" points="69,625 98,625 98,662 69,662" baseline="69,671 98,671" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: S | german_print2_15:  -->
+			<!-- line left out: id="r3l5" points="799,678 840,678 840,746 799,746" baseline="799,746 840,746" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 8 | german_print2_15:  -->
+			<!-- line left out: id="r3l6" points="60,710 100,710 100,736 60,736" baseline="60,720 100,720" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: S | german_print2_15:  -->
+			<!-- line left out: id="r3l7" points="72,743 99,743 99,778 72,778" baseline="72,778 99,778" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 8 | german_print2_15:  -->
+			<!-- line left out: id="r3l8" points="810,776 841,776 841,797 810,797" baseline="810,797 841,797" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: —& | german_print2_15:  -->
+			<!-- line left out: id="r3l9" points="771,859 783,859 809,833 841,833 841,858 783,863 771,863" baseline="771,863 841,862" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ES | german_print2_15:  -->
+			<!-- line left out: id="r3l10" points="71,866 781,865 806,861 839,861 839,882 806,882 781,868 101,891 71,891" baseline="71,891 100,891 781,895 839,895" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: E E— | german_print2_15:  -->
+			<!-- line left out: id="r3l11" points="70,894 113,894 113,943 70,943" baseline="70,943 113,943" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: S | german_print2_15:  -->
+			<!-- line left out: id="r3l12" points="59,932 112,932 730,941 768,941 801,949 841,949 841,978 801,978 112,977 59,977" baseline="59,976 841,976" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: E  β | german_print2_15: E *ι E -->
+			<!-- line left out: id="r3l13" points="72,979 101,979 693,1004 703,1004 750,973 841,973 841,1010 803,1011 703,1012 693,1012 101,1004 72,1004" baseline="72,1004 100,1004 693,1012 841,1010" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: S D  E | german_print2_15: E  6. E -->
+			<!-- line left out: id="r3l14" points="63,1077 106,1077 703,1056 842,1056 842,1099 703,1099 106,1116 63,1116" baseline="63,1095 703,1099 842,1095" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: α ſ
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="289,1125 624,1125 624,1182 289,1182" />
+			<!-- line left out: id="r4l0" points="289,1129 334,1129 360,1131 368,1141 392,1141 406,1142 409,1133 431,1132 455,1132 455,1141 477,1141 537,1142 537,1132 576,1132 576,1139 609,1139 609,1125 624,1125 624,1182 609,1182 609,1175 573,1175 573,1169 558,1169 558,1175 455,1175 431,1175 431,1169 406,1170 360,1171 309,1171 289,1170" baseline="289,1170 609,1167 624,1167" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Die mitternacht ·
+ | german_print2_15: Die mitternacht ·
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="67,1200 855,1200 855,1443 67,1443" />
+			<!-- line left out: id="r5l0" points="67,1209 144,1209 144,1216 226,1215 275,1215 351,1217 381,1218 381,1224 412,1224 432,1205 494,1205 494,1220 511,1220 511,1200 544,1200 544,1218 576,1218 597,1215 655,1215 655,1200 679,1200 692,1220 738,1215 785,1215 786,1221 818,1218 850,1218 850,1269 817,1270 785,1271 657,1272 577,1272 576,1286 544,1288 511,1288 511,1271 494,1271 494,1288 432,1288 412,1272 247,1272 144,1272 67,1272" baseline="67,1272 213,1270 678,1269 850,1269" reason: second model: differs: "Dasd" against "as d" | Wikisource: Das dritte Capitel oder | next_nc_e1: Das dꝛitte Capitel oder | german_print2_15: Das dutte Capitel oder -->
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="73,1292 93,1292 131,1296 132,1283 168,1282 198,1282 206,1294 260,1293 287,1296 295,1290 322,1290 325,1296 380,1295 392,1282 443,1282 443,1295 479,1294 479,1283 504,1282 529,1282 529,1297 543,1295 631,1296 631,1287 657,1287 666,1294 738,1292 764,1292 784,1294 784,1283 852,1284 852,1322 829,1322 829,1333 784,1332 784,1321 765,1321 764,1333 738,1333 738,1321 690,1323 529,1323 529,1333 504,1333 504,1325 480,1325 480,1333 458,1333 458,1322 443,1322 443,1333 392,1333 380,1323 262,1324 206,1322 198,1334 168,1334 168,1322 132,1323 131,1333 109,1333 109,1322 73,1322" />
+				<Baseline points="73,1322 852,1322" />
+				<TextEquiv index="1">
+					<Unicode>teyl iſt von dem ſtreychen vnd ausgehẽd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l2" custom="readingOrder {index:2;}">
+				<Coords points="71,1338 99,1338 101,1347 145,1345 349,1344 349,1328 372,1328 372,1335 402,1332 419,1328 441,1328 441,1334 479,1334 481,1349 499,1349 500,1364 510,1364 528,1336 547,1336 547,1328 569,1328 569,1345 586,1345 586,1328 604,1328 604,1338 625,1336 653,1336 653,1349 667,1349 669,1338 722,1341 725,1347 769,1344 854,1342 854,1374 796,1372 795,1384 769,1384 761,1373 722,1373 667,1378 650,1378 604,1374 604,1390 586,1390 586,1375 569,1375 569,1390 547,1390 547,1377 461,1374 461,1385 441,1390 419,1390 419,1375 372,1374 372,1390 349,1390 349,1376 291,1376 273,1373 262,1384 210,1384 210,1373 174,1375 71,1373" />
+				<Baseline points="71,1373 769,1372 854,1374" />
+				<TextEquiv index="1">
+					<Unicode>der genge vnd kluͤffte. Streichẽ der gen⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l3" points="72,1392 101,1392 120,1397 126,1388 133,1386 170,1386 178,1398 200,1398 200,1386 237,1386 237,1399 264,1399 273,1386 308,1386 308,1399 323,1399 340,1401 341,1387 360,1386 383,1386 405,1389 405,1397 432,1397 432,1388 448,1388 451,1397 475,1397 500,1400 500,1389 529,1389 529,1402 554,1399 579,1399 579,1386 603,1386 660,1386 660,1397 671,1396 708,1396 714,1388 741,1387 754,1387 754,1397 781,1394 810,1394 855,1394 855,1426 828,1426 810,1424 810,1436 781,1436 773,1424 754,1425 741,1426 714,1426 671,1425 670,1436 651,1436 651,1427 603,1427 603,1436 579,1436 579,1428 554,1428 543,1439 527,1439 527,1431 500,1431 477,1430 451,1428 448,1437 433,1440 404,1440 404,1432 383,1432 383,1440 360,1440 360,1428 308,1428 308,1439 290,1440 273,1440 264,1426 237,1426 237,1437 170,1438 133,1438 133,1425 126,1425 102,1423 101,1443 72,1443" baseline="72,1424 126,1424 554,1429 707,1425 772,1424 781,1424 855,1426" reason: differs: "geiſt" against "gg is" | Wikisource:  | next_nc_e1: ge iſt yhre ſtreckũg/ nach welcher die gen | german_print2_15: ge iſt yhre ſtreckũg / nach welcher die gen -->
+			<TextEquiv index="1">
+				<Unicode>teyl iſt von dem ſtreychen vnd ausgehẽd
+der genge vnd kluͤffte. Streichẽ der gen⸗</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+ynn sechs teyl / auff den auffgang sechse zu setzen / darnach
+7. 8. 9.10. 11. auff die andern teil vor mittag / vnd
+darnach auff den mittag. 12. vnd 1. 2. 3. 4. 5. auff dy andern
+teyl nach mittag / Darnach auff den abendt. 6.
+vnd. 7. 8. 9. 10. 11. auff die andern teyl nach dem abend /
+Darnach auff mitternacht. 12. vnd. 1. 2. 3. 4. 5. auff die
+ander teyl nach mitternacht / als die zeit ist abgeteylt
+nach dem halben seyger. Dieses zu mehrer erkentenis /
+volget nach diese figur.
+Das dritte Capitel oder
+teyl ist von dem streychen vnd ausgehend
+der genge und klüffte. Streichen der gengg
+ist yhre streckung / nach welcher die genge
+-->
+	</Page>
+</PcGts>

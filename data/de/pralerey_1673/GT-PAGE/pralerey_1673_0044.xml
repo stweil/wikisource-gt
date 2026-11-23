@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:15:02</Created>
+		<LastChange>2026-11-23T11:15:02</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/44 revision 3271227 of 2018-07-31T16:12:26Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0044.png" imageWidth="732" imageHeight="1337">
+		<ReadingOrder>
+			<OrderedGroup id="ro8434756801428277830" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 732,0 732,35 0,35" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="262,23 416,23 416,35 262,35" />
+			<!-- line left out: id="r1l0" points="262,23 416,23 416,35 262,35" baseline="262,34 416,31" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: —
+ | german_print2_15: —
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="115,71 718,71 718,598 115,598" />
+			<!-- line left out: id="r2l0" points="399,75 419,71 438,71 438,87 446,87 446,96 438,100 414,103 399,103" baseline="399,98 446,98" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 38. | german_print2_15:  -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="117,113 136,112 145,109 159,109 159,116 180,116 186,106 245,106 277,115 277,106 300,106 311,108 311,98 327,98 327,106 353,106 353,113 372,113 400,116 400,109 420,109 422,129 435,103 500,104 500,111 547,110 552,102 622,102 622,108 659,105 659,98 698,98 698,150 659,150 659,141 552,141 512,139 500,135 500,142 435,142 422,134 420,142 376,143 372,136 353,138 337,142 327,142 327,150 311,150 311,136 300,138 278,138 278,145 186,144 167,141 159,146 145,146 136,142 117,141" />
+				<Baseline points="117,142 435,134 698,133" />
+				<TextEquiv index="1">
+					<Unicode>diſer Tempel iſt in 46. Jahren erbaut; da⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="117,147 152,147 167,151 167,158 227,158 227,152 244,151 285,145 313,145 313,155 326,155 327,146 336,146 336,154 376,153 377,145 391,145 391,153 458,155 461,132 474,132 483,146 507,146 507,152 518,152 518,146 553,147 569,151 569,144 618,146 620,132 636,132 709,150 714,150 714,178 636,190 620,190 618,175 595,174 582,181 569,181 569,175 483,176 483,184 474,184 474,190 461,190 458,184 439,184 439,176 391,176 391,184 377,184 367,177 264,183 255,183 244,180 211,179 211,186 117,184" />
+				<Baseline points="117,183 285,178 714,173" />
+				<TextEquiv index="1">
+					<Unicode>ruͤber er diſe Erleuterung gibt/ daß die Zahl</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l3" points="115,196 127,196 127,180 146,180 146,200 161,200 187,201 187,193 210,189 263,189 292,189 292,197 317,196 328,196 328,189 338,189 384,190 423,190 469,191 482,193 496,194 501,185 531,185 540,184 590,184 679,185 690,190 690,221 609,222 590,223 540,223 531,222 501,222 482,219 467,219 401,218 367,218 338,228 328,228 328,219 292,219 292,226 263,228 210,228 206,221 187,223 146,223 146,232 127,232 127,224 115,224" baseline="115,224 172,222 205,221 337,218 440,217 690,215" reason: differs: "r46Jahr" against " 46. Ja" | Wikisource:  | next_nc_e1: der 46 Jahren/ darin der Tempel erbaut | german_print2_15: der 46. Jahren / darin der Tempel erbaut -->
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="117,241 174,236 265,233 288,233 321,237 327,227 370,227 394,231 406,236 406,228 435,228 435,236 446,236 446,227 465,227 465,235 490,235 508,226 553,226 560,231 567,226 606,227 606,221 621,221 632,226 632,233 659,234 659,225 672,225 687,227 687,238 695,238 695,262 672,263 659,266 637,266 632,262 621,262 621,270 606,270 606,257 589,262 560,266 446,266 446,260 370,258 370,266 351,266 351,259 268,261 225,265 191,265 164,263 146,265 117,265" />
+				<Baseline points="117,264 320,260 695,256" />
+				<TextEquiv index="1">
+					<Unicode>worden/ eine Andeutung geweſen ſey ſei⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="119,282 130,278 169,278 177,272 197,270 272,270 272,279 296,279 296,270 314,269 344,269 344,279 355,277 373,277 373,269 392,269 402,277 413,277 414,269 440,269 457,274 481,276 481,267 576,267 586,275 611,275 612,265 643,265 675,267 682,273 717,273 717,306 682,306 675,304 643,307 612,307 611,298 586,299 576,305 513,305 513,299 500,299 500,305 481,305 481,299 457,303 443,303 402,299 401,306 373,306 373,300 304,307 296,307 284,302 272,300 272,307 242,307 234,302 213,307 197,307 169,304 119,305" />
+				<Baseline points="119,305 303,301 717,297" />
+				<TextEquiv index="1">
+					<Unicode>nes leiblichen Tempels/ welchen er Ihme</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="120,313 189,313 195,321 232,320 232,312 248,312 314,319 318,309 348,309 366,311 375,309 447,309 463,313 525,313 544,316 544,305 561,305 578,308 588,305 604,305 604,315 636,315 637,305 697,305 709,313 715,313 715,340 697,345 588,345 588,339 561,338 561,345 544,345 508,341 418,342 411,348 384,348 366,342 348,342 348,348 318,348 314,342 254,341 248,348 232,348 232,342 195,342 189,351 145,351 120,351" />
+				<Baseline points="120,343 537,339 715,340" />
+				<TextEquiv index="1">
+					<Unicode>ſelbſt auß dem Fleiſch Adams erbauet/ dan</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="121,363 130,363 130,353 147,353 152,355 171,353 200,353 207,360 234,355 280,355 280,361 298,356 343,355 363,351 400,351 400,359 433,358 433,351 453,351 453,358 476,358 480,349 522,349 574,356 582,367 586,353 630,346 655,346 680,346 695,347 695,388 630,387 624,379 604,379 604,392 586,392 582,372 574,380 476,386 453,390 416,390 416,381 356,383 207,384 200,391 188,393 171,393 171,385 147,385 147,393 121,393" />
+				<Baseline points="121,385 268,382 695,378" />
+				<TextEquiv index="1">
+					<Unicode>gleich wie in dem Namen Adam die Zahl</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="121,398 150,398 163,403 167,393 205,392 224,396 233,392 322,392 322,400 334,400 334,392 351,389 490,389 527,385 572,385 692,389 692,428 572,428 572,434 527,434 527,428 472,428 472,421 457,421 457,427 444,428 380,428 380,422 351,422 343,430 334,430 334,423 322,423 322,430 233,430 233,424 205,424 205,430 132,430 121,426" />
+				<Baseline points="121,424 527,420 692,420" />
+				<TextEquiv index="1">
+					<Unicode>der Griechiſchen Buchſtaben 46. machen/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="120,444 135,444 135,433 198,433 206,435 214,433 281,431 335,431 364,434 364,441 382,437 399,436 418,431 431,431 431,425 447,425 481,425 492,437 511,433 521,433 521,439 545,434 568,433 581,433 581,439 596,435 612,435 651,439 651,433 668,433 679,429 699,429 699,461 633,466 596,466 596,460 557,463 492,462 481,476 469,476 469,458 454,458 454,466 447,466 447,476 431,476 431,458 418,458 410,465 383,463 341,465 306,460 306,470 281,470 281,460 248,460 243,472 214,472 214,466 198,466 198,472 135,472 120,470" />
+				<Baseline points="120,467 611,460 699,461" />
+				<TextEquiv index="1">
+					<Unicode>nemblich Alpha eins/ delta vier/ das ander</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="120,475 132,475 132,466 148,466 148,486 163,486 163,475 174,475 174,466 189,466 200,486 203,481 228,477 242,477 242,466 258,466 258,483 267,483 285,477 298,477 298,466 317,466 343,466 347,476 413,476 424,482 437,482 437,466 452,466 465,475 554,474 554,480 565,480 574,474 585,474 590,466 606,466 671,471 671,479 696,479 696,508 622,508 622,502 606,502 606,518 590,518 585,502 574,502 565,510 512,510 485,503 465,503 452,518 437,518 437,499 402,504 347,505 343,518 317,518 298,518 298,506 258,506 258,518 242,518 228,513 203,509 200,503 189,518 174,518 164,514 148,518 132,518 132,505 120,505" />
+				<Baseline points="120,509 369,504 696,501" />
+				<TextEquiv index="1">
+					<Unicode>alpha wider eins/ und mi viertzig/ alſo ſey</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="120,525 149,525 149,507 165,507 165,517 208,519 222,523 222,507 237,507 241,515 297,514 297,522 311,522 311,514 386,515 386,521 407,520 442,512 458,512 458,520 477,513 528,513 528,520 575,522 575,515 593,515 594,535 601,535 612,511 632,511 632,519 659,520 659,507 675,507 675,519 694,519 694,543 675,543 675,560 659,560 659,549 647,549 647,542 632,544 612,544 575,541 575,550 556,550 545,543 470,543 419,545 371,544 371,552 356,552 351,546 330,546 330,556 265,556 265,548 241,548 237,560 222,560 222,546 192,546 180,553 165,553 165,560 149,560 149,549 120,549" />
+				<Baseline points="120,549 508,542 694,543" />
+				<TextEquiv index="1">
+					<Unicode>auch der Tempel ſeines Leibs in 46. Tagen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="119,561 149,562 162,556 178,556 178,547 197,547 197,556 199,556 199,564 210,564 210,547 226,547 226,563 263,564 263,555 274,555 277,547 293,547 293,556 305,556 315,563 328,563 328,547 344,547 350,562 384,561 394,553 411,553 411,561 430,560 442,555 451,555 451,562 497,556 525,556 565,561 565,553 582,551 596,551 596,561 628,560 628,551 653,551 653,559 698,560 718,562 718,588 714,588 698,594 664,594 664,585 653,585 653,594 628,594 628,585 594,586 471,584 467,591 449,591 449,584 411,585 411,592 370,592 370,586 344,588 344,598 328,598 315,594 305,588 293,588 293,598 277,598 277,588 252,587 226,588 226,598 210,598 210,587 197,590 197,598 178,598 178,590 119,590" />
+				<Baseline points="119,590 304,585 718,584" />
+				<TextEquiv index="1">
+					<Unicode>in Mutterleib gantz fertig und vollkommen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>diſer Tempel iſt in 46. Jahren erbaut; da⸗
+ruͤber er diſe Erleuterung gibt/ daß die Zahl
+worden/ eine Andeutung geweſen ſey ſei⸗
+nes leiblichen Tempels/ welchen er Ihme
+ſelbſt auß dem Fleiſch Adams erbauet/ dan
+gleich wie in dem Namen Adam die Zahl
+der Griechiſchen Buchſtaben 46. machen/
+nemblich Alpha eins/ delta vier/ das ander
+alpha wider eins/ und mi viertzig/ alſo ſey
+auch der Tempel ſeines Leibs in 46. Tagen
+in Mutterleib gantz fertig und vollkommen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="109,601 722,601 722,681 109,681" />
+			<!-- line left out: id="r3l0" points="118,606 148,606 174,607 174,601 190,601 224,604 224,618 250,618 250,631 220,631 204,630 176,630 162,631 148,631 148,641 118,641" baseline="118,632 250,630" reason: second model: differs: ".wor" against "word" | Wikisource: worden. | next_nc_e1: worden. | german_print2_15: . worden. -->
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="109,646 161,646 257,636 263,636 263,643 294,643 308,645 308,636 317,636 317,628 333,628 333,643 357,643 357,636 383,636 383,628 425,628 425,643 436,643 436,628 469,628 471,634 482,634 482,628 498,628 498,634 509,634 509,628 527,628 542,634 558,634 558,643 575,643 575,634 594,634 594,643 608,643 608,634 677,634 677,643 702,643 719,634 722,634 722,652 542,652 527,681 509,681 509,667 498,667 498,681 482,681 482,667 469,667 469,681 436,681 436,668 425,668 425,681 383,681 383,675 357,675 357,667 333,667 333,681 317,681 317,669 263,668 263,674 257,674 161,667 109,667" />
+				<Baseline points="109,672 722,660" />
+				<TextEquiv index="1">
+					<Unicode>Auch wollen erſtermelter Auguſtinus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Auch wollen erſtermelter Auguſtinus</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="113,673 727,673 727,1172 113,1172" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="117,679 220,678 220,688 252,688 252,678 271,678 271,688 287,687 288,678 307,678 307,687 382,684 382,677 454,677 454,684 478,684 486,673 550,673 550,684 561,684 561,677 568,673 587,673 587,685 665,683 681,684 681,691 693,691 694,683 718,683 718,696 681,696 681,708 587,703 587,715 568,715 562,703 550,703 550,712 541,715 493,715 486,712 454,708 454,715 436,715 431,708 419,715 382,715 382,708 307,706 307,716 288,716 287,706 271,705 271,716 252,716 252,706 220,706 220,716 194,717 145,717 145,708 132,708 132,717 117,717" />
+				<Baseline points="117,708 343,704 718,702" />
+				<TextEquiv index="1">
+					<Unicode>ſuper Joannem: nach ihm Cyprianus tra-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l1" points="117,719 154,719 154,728 167,728 167,719 213,719 213,730 228,730 233,719 262,719 286,719 340,717 358,717 368,721 368,727 385,727 404,728 408,737 417,737 429,725 443,720 483,720 492,714 502,714 502,725 528,725 528,714 557,714 613,714 613,723 631,723 638,716 656,716 656,723 667,723 683,724 696,728 696,746 683,746 683,754 667,754 667,747 631,748 613,753 572,753 572,746 563,746 557,754 528,754 528,748 502,748 502,754 492,754 417,750 408,750 358,746 286,748 262,748 213,748 117,748" baseline="117,748 311,746 492,744 630,743 696,743" reason: models differ | Wikisource: ctat: de Sinai & Sion, und nach disen bey | next_nc_e1: ctat: de Sinai & Sion, und nach diſen bey⸗ | german_print2_15: Rat: de Sinai & Sion, und nach diſen bey⸗ -->
+			<!-- line left out: id="r4l2" points="118,765 149,765 167,769 175,760 192,759 211,759 250,759 250,749 281,749 281,759 392,757 422,757 422,769 435,769 435,757 454,757 454,768 499,765 513,765 526,767 526,757 542,757 566,760 578,753 598,753 613,755 613,765 625,764 639,764 648,756 664,756 664,766 683,766 700,769 700,786 683,790 664,794 648,794 639,788 584,788 578,788 542,784 542,795 526,795 526,786 467,786 454,786 454,795 418,795 418,786 392,786 382,797 281,801 250,801 211,797 192,797 192,789 167,794 130,794 118,793" baseline="118,789 565,785 578,785 638,789 648,788 700,788" reason: differs: "edainſe" against "eda: in" | Wikisource:  | next_nc_e1: den Beda in ſeinem Comentario uͤber Jo- | german_print2_15: den Beda in ſeinem Comentario uͦber Jo- -->
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="119,813 281,809 281,800 299,800 306,793 325,793 325,804 338,804 338,793 356,793 401,797 401,807 414,807 414,797 478,797 498,799 498,806 510,806 544,801 564,801 577,805 577,799 681,797 681,805 696,805 696,818 719,818 719,832 695,832 681,828 681,835 635,836 628,828 618,830 539,832 529,835 504,835 497,831 478,830 478,838 414,838 414,831 401,831 401,838 385,838 385,832 360,832 356,844 338,844 338,832 325,832 325,844 306,844 299,838 281,838 281,832 264,834 245,834 119,831" />
+				<Baseline points="119,834 627,830 719,832" />
+				<TextEquiv index="1">
+					<Unicode>annem, auß den Buchſtaben/ damit diſer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l4" custom="readingOrder {index:4;}">
+				<Coords points="117,843 154,843 154,852 171,850 211,850 216,841 225,841 234,850 247,850 247,842 286,841 286,850 300,850 300,843 308,841 324,841 324,849 394,849 394,842 473,839 473,847 501,847 501,839 576,839 577,848 589,848 601,841 618,841 636,846 636,838 714,834 721,834 721,854 714,854 699,876 636,876 636,869 601,868 589,875 576,876 534,876 526,871 518,876 501,876 501,870 488,871 473,876 415,872 286,872 286,878 247,879 247,873 234,873 234,881 216,881 211,874 117,875" />
+				<Baseline points="117,875 367,871 721,869" />
+				<TextEquiv index="1">
+					<Unicode>Name geſchriben wird/ erweiſen; daß die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l5" custom="readingOrder {index:5;}">
+				<Coords points="116,882 131,882 131,873 150,873 150,887 163,887 163,873 181,873 181,892 210,886 224,886 255,891 255,873 274,873 274,890 291,890 291,881 366,881 366,888 401,888 409,878 478,878 478,888 490,888 490,878 517,878 517,888 539,888 539,878 558,878 558,884 619,884 675,883 675,877 705,877 715,905 718,905 718,918 604,914 558,919 539,919 539,911 517,911 517,918 490,918 490,911 478,911 478,919 409,919 401,913 291,920 291,914 274,914 274,924 255,924 255,914 224,916 181,915 181,924 163,924 163,915 150,915 150,924 131,924 131,916 116,916" />
+				<Baseline points="116,915 718,909" />
+				<TextEquiv index="1">
+					<Unicode>Erde/ darauß Adam erſchaffen/ von den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l6" custom="readingOrder {index:6;}">
+				<Coords points="115,931 136,927 146,927 158,932 171,933 185,923 214,923 214,931 231,926 308,926 352,921 368,917 389,917 399,923 419,921 440,921 440,928 467,928 478,930 478,921 496,921 496,928 514,928 527,930 527,921 585,921 587,926 693,928 708,922 719,922 719,955 585,952 585,960 564,960 564,952 548,952 548,960 527,960 527,951 496,952 496,960 465,959 465,953 440,953 440,960 419,960 418,953 389,953 389,966 368,966 368,953 158,956 158,962 145,962 137,957 115,957" />
+				<Baseline points="115,956 719,949" />
+				<TextEquiv index="1">
+					<Unicode>vier Enden der Welt hergenommen wor⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l7" custom="readingOrder {index:7;}">
+				<Coords points="115,969 134,969 181,974 200,968 265,968 274,971 299,963 336,963 344,970 375,970 383,962 404,962 404,971 420,967 437,965 508,962 508,970 519,970 519,962 576,960 612,960 612,969 623,965 651,965 692,968 703,956 721,956 721,990 678,993 612,992 576,988 556,999 497,999 486,993 430,996 404,994 404,1000 383,1000 375,994 344,994 344,1001 336,1002 299,1002 274,996 200,995 181,1002 171,1002 165,996 146,998 115,997" />
+				<Baseline points="115,997 721,990" />
+				<TextEquiv index="1">
+					<Unicode>den; dann/ ſagen ſie/ das erſte A bedeute</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l8" points="113,1004 132,1004 167,1004 167,1016 178,1014 192,1014 208,1015 208,1004 247,1004 304,1007 334,1006 340,1005 365,1005 376,1013 394,1013 394,1007 426,1007 426,1013 451,1011 464,1011 501,1007 505,1007 611,1010 617,1001 641,1000 691,1000 692,1030 727,1030 727,1045 719,1045 698,1031 692,1031 691,1040 661,1045 641,1045 641,1035 617,1035 594,1034 582,1034 582,1040 563,1040 563,1033 552,1033 552,1041 533,1041 505,1034 426,1034 394,1034 376,1031 365,1042 340,1042 340,1034 329,1036 277,1036 228,1034 192,1033 179,1034 113,1034" baseline="113,1034 277,1031 504,1030 610,1034 727,1034" reason: second model: differs: "uff," against "uffgang" | Wikisource: Anatolin, das ist orientem, gegen Auff | next_nc_e1: Anatolin, das iſt orientem, gegen Auff⸗ | german_print2_15: Anatolin, das iſt orientem, gegen Auff, -->
+			<!-- line left out: id="r4l9" points="115,1055 188,1055 209,1056 209,1049 228,1049 240,1053 253,1054 266,1043 283,1043 283,1035 299,1035 299,1047 315,1047 315,1053 362,1053 377,1042 393,1042 431,1045 459,1047 465,1045 481,1045 481,1051 499,1051 505,1042 522,1041 539,1041 564,1041 564,1053 580,1053 583,1063 593,1063 604,1046 630,1046 667,1043 700,1043 700,1079 667,1079 667,1072 652,1073 593,1074 539,1074 499,1075 413,1075 377,1072 362,1081 352,1081 328,1077 315,1077 315,1084 299,1089 283,1089 283,1079 266,1079 240,1077 193,1077 188,1084 171,1084 170,1078 136,1078 136,1085 115,1085" baseline="115,1078 187,1077 413,1073 592,1071 604,1071 700,1073" reason: second model: differs: "gang" against "n Au" | Wikisource: gang oder Osten; D bedeut Disin, das ist | next_nc_e1: gang oder Oſten; D bedeut Diſin, das iſt | german_print2_15: gang oder Oſten; D bedeut Diſin, das iſi -->
+			<TextLine id="r4l10" custom="readingOrder {index:10;}">
+				<Coords points="114,1097 127,1097 127,1086 147,1086 147,1097 158,1097 158,1086 209,1086 236,1090 236,1105 244,1105 250,1095 267,1093 332,1094 336,1085 360,1082 377,1082 398,1087 398,1093 422,1094 453,1093 453,1082 498,1078 558,1078 644,1078 726,1078 726,1133 644,1133 558,1133 498,1133 453,1129 453,1117 440,1117 440,1124 419,1124 409,1119 377,1119 377,1129 360,1129 360,1119 299,1119 299,1126 280,1126 280,1118 269,1118 269,1126 250,1126 244,1120 189,1120 180,1117 178,1120 127,1120 114,1116" />
+				<Baseline points="114,1121 726,1113" />
+				<TextEquiv index="1">
+					<Unicode>occaſum, gegen Nidergang oder Weſt/ das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l11" points="603,1132 615,1131 652,1131 668,1130 714,1126 723,1126 723,1172 714,1172 695,1156 668,1156 668,1162 653,1162 652,1155 640,1156 616,1160 603,1160" baseline="603,1156 723,1155" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: zweyte
+ | german_print2_15:  -->
+			<TextEquiv index="1">
+				<Unicode>ſuper Joannem: nach ihm Cyprianus tra-
+annem, auß den Buchſtaben/ damit diſer
+Name geſchriben wird/ erweiſen; daß die
+Erde/ darauß Adam erſchaffen/ von den
+vier Enden der Welt hergenommen wor⸗
+den; dann/ ſagen ſie/ das erſte A bedeute
+occaſum, gegen Nidergang oder Weſt/ das</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="0,1304 732,1304 732,1337 0,1337" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+diser Tempel ist in 46. Jahren erbaut; darüber er dise Erleuterung gibt / daß die Zahl der 46. Jahren / darin der Tempel erbaut worden / eine Andeutung gewesen sey seines leiblichen Tempels / welchen er Ihme selbst auß dem Fleisch Adams erbauet / dann gleich wie in dem Namen Adam die Zahl der Griechischen Buchstaben 46. machen / nemblich Alpha eins / delta vier / das ander alpha wider eins / und mi viertzig / also sey auch der Tempel seines Leibs in 46. Tagen in Mutterleib gantz fertig und vollkommen worden.
+Auch wollen erstermelter Augustinus super Joannem: nach ihm Cyprianus tractat: de Sinai & Sion, und nach disen beyden Beda: in seinem Comentario über Joannem, auß den Buchstaben / damit diser Name geschriben wird / erweisen; daß die Erde / darauß Adam erschaffen / von den vier Enden der Welt hergenommen worden; dann / sagen sie / das erste A bedeute Anatolin, das ist orientem, gegen Auffgang oder Osten; D bedeut Disin, das ist occasum, gegen Nidergang oder West / das
+-->
+	</Page>
+</PcGts>

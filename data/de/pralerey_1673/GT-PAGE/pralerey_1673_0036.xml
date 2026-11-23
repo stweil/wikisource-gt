@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:14:50</Created>
+		<LastChange>2026-11-23T11:14:50</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/36 revision 3271218 of 2018-07-31T16:12:23Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0036.png" imageWidth="732" imageHeight="1317">
+		<ReadingOrder>
+			<OrderedGroup id="ro1484995263257213270" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,1135 732,1135 732,1317 0,1317" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,0 732,0 732,35 0,35" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="108,86 710,86 710,164 108,164" />
+			<!-- line left out: id="r2l0" points="395,87 411,86 432,86 432,100 439,100 439,108 407,111 395,111" baseline="395,106 439,108" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 30. | german_print2_15:  -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="108,120 126,120 126,129 154,128 154,117 191,117 191,126 213,118 258,117 258,126 264,126 272,116 309,116 319,119 319,125 363,121 387,117 413,117 417,110 430,110 468,110 484,115 492,110 508,110 532,110 559,110 559,124 567,124 579,116 599,116 599,123 626,121 637,116 653,116 653,122 669,118 710,116 710,147 559,147 559,164 532,164 508,164 492,164 484,154 468,154 468,164 455,164 455,148 430,148 430,164 417,164 413,155 338,156 338,150 309,152 272,152 258,150 258,160 242,160 229,157 213,157 204,151 191,151 191,160 178,160 176,151 167,160 154,160 154,152 126,152 126,160 108,160" />
+				<Baseline points="108,152 710,146" />
+				<TextEquiv index="1">
+					<Unicode>ſo naͤrriſche Ding/ ſo laͤcherliche Fratzen/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ſo naͤrriſche Ding/ ſo laͤcherliche Fratzen/</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="109,156 681,156 681,283 109,283" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="111,162 128,162 128,170 137,170 146,161 166,160 189,160 189,169 229,168 238,158 263,158 264,168 281,166 332,167 332,158 400,158 414,167 427,167 427,158 436,158 436,165 465,161 481,161 492,165 505,156 550,156 578,156 622,156 622,165 646,163 680,163 680,186 622,187 622,194 607,194 607,186 588,186 588,194 532,194 505,189 466,188 436,189 400,193 332,197 332,189 264,189 263,197 238,197 229,190 189,191 189,197 166,197 128,192 128,198 111,198" />
+				<Baseline points="111,192 680,186" />
+				<TextEquiv index="1">
+					<Unicode>ſo lahme Zotten/ ſo elende Mißgeburten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l1" points="109,210 127,209 136,209 136,200 171,200 207,202 207,208 219,208 225,198 273,198 298,199 345,198 386,198 433,198 441,205 455,205 455,197 470,197 514,194 548,194 562,198 562,205 570,205 580,197 595,194 611,194 626,196 634,202 662,202 674,204 681,208 681,224 674,226 662,227 626,232 611,234 595,234 595,228 580,228 562,227 562,234 523,234 470,234 455,234 455,228 441,228 433,234 401,234 396,228 386,234 345,234 345,228 329,232 298,235 273,235 255,235 219,231 197,231 180,230 171,236 136,236 129,232 109,232" baseline="109,232 218,230 385,228 625,226 681,226" reason: models differ | Wikisource: auff die Bahn/ daß ich mich kühnlich ver | next_nc_e1: auff die Bahn/ daß ich mich kuͤhnlich ver⸗ | german_print2_15: auff die Bahn / daß ich mich kühnlich ver⸗ -->
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="109,241 169,241 169,248 192,248 197,239 215,239 217,248 228,248 228,239 254,239 254,248 284,247 293,239 305,239 305,247 321,247 339,243 378,246 378,231 397,231 422,231 437,240 445,237 473,237 491,245 507,245 519,241 581,244 592,235 608,231 624,231 653,231 653,244 664,244 664,235 679,235 679,277 664,277 664,267 653,267 653,283 638,283 638,273 624,273 624,283 608,283 608,268 491,268 473,274 445,274 445,268 437,268 422,283 397,283 378,283 378,269 350,271 244,271 244,278 228,278 228,271 217,271 215,278 197,278 192,270 169,271 169,279 109,279" />
+				<Baseline points="109,271 679,267" />
+				<TextEquiv index="1">
+					<Unicode>ſichert halten kan/ wann ich meinem Schul⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ſo lahme Zotten/ ſo elende Mißgeburten
+ſichert halten kan/ wann ich meinem Schul⸗</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="111,272 709,272 709,322 111,322" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="111,281 125,281 125,289 138,289 138,281 194,281 194,287 232,282 263,282 333,288 333,279 342,279 342,287 353,287 354,281 362,278 378,278 378,272 397,272 397,287 421,287 432,277 444,272 459,272 467,280 492,279 492,286 560,285 560,276 606,276 606,284 647,284 647,276 669,276 669,283 682,283 709,298 709,304 669,307 669,315 637,314 637,306 606,315 560,315 560,308 459,308 459,322 444,322 444,309 397,308 397,322 378,322 378,316 362,316 362,309 333,310 333,317 314,317 314,311 194,310 194,318 138,318 138,312 125,312 125,318 111,318" />
+				<Baseline points="111,312 273,309 709,305" />
+				<TextEquiv index="1">
+					<Unicode>meiſter mit dergleichen Grillen auffgezogen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>meiſter mit dergleichen Grillen auffgezogen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="111,315 679,315 679,356 111,356" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="111,321 126,321 126,329 178,327 228,328 235,317 241,317 241,327 261,327 261,317 284,317 291,324 336,322 336,328 348,328 348,322 378,319 397,319 397,327 419,325 466,326 466,318 483,318 483,326 519,327 525,319 561,319 561,326 588,325 634,320 650,320 666,324 666,315 679,315 679,351 617,350 600,348 588,353 572,353 561,348 561,355 525,355 519,348 483,347 483,355 466,355 466,347 431,352 419,352 397,349 397,356 378,356 336,351 315,353 235,353 161,351 111,352" />
+				<Baseline points="111,351 679,346" />
+				<TextEquiv index="1">
+					<Unicode>kommen waͤre/ wie ſie zu thun pflegen/ daß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>kommen waͤre/ wie ſie zu thun pflegen/ daß</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="111,355 711,355 711,398 111,398" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="111,368 164,367 164,359 214,359 266,367 266,358 282,358 282,367 307,367 307,358 342,358 342,367 359,367 370,358 374,358 374,365 407,366 407,358 435,358 435,365 455,367 465,358 483,356 499,356 500,365 534,365 534,356 553,356 553,363 602,361 618,365 619,357 645,355 690,355 708,369 711,369 711,382 708,382 690,393 619,393 618,386 586,387 553,395 534,395 534,387 483,387 483,395 465,395 455,387 444,387 443,395 407,395 407,388 374,395 342,390 342,398 307,398 307,390 282,389 282,398 266,398 266,390 225,390 214,396 164,396 139,392 111,392" />
+				<Baseline points="111,392 711,385" />
+				<TextEquiv index="1">
+					<Unicode>er mich dermaſſen zerfitzt haͤtte/ daß ich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>er mich dermaſſen zerfitzt haͤtte/ daß ich</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="111,395 680,395 680,476 111,476" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="111,410 130,407 224,407 230,395 239,395 239,407 253,407 253,395 278,395 306,398 306,407 347,407 347,401 381,401 404,406 404,400 413,400 413,407 431,407 439,396 470,396 529,401 589,400 647,405 648,399 680,400 680,425 618,426 617,433 601,433 601,426 506,430 486,434 454,434 381,429 306,429 306,436 253,436 253,430 239,430 239,436 230,436 224,429 195,429 194,436 177,436 176,430 130,430 130,439 111,439" />
+				<Baseline points="111,430 680,425" />
+				<TextEquiv index="1">
+					<Unicode>gumpen muͤſſen wie ein Eſel/ dem irgends</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l1" custom="readingOrder {index:1;}">
+				<Coords points="112,448 126,443 134,443 134,449 199,447 199,441 209,441 209,448 239,449 244,439 341,440 341,446 366,447 366,440 403,437 432,437 432,446 456,446 456,437 503,437 511,446 524,446 530,436 564,436 593,438 593,446 604,446 606,436 613,436 623,444 637,439 654,439 666,443 678,444 678,466 604,467 593,472 574,472 564,469 563,472 549,472 503,467 503,473 479,474 470,476 456,476 448,469 432,469 432,476 403,476 351,469 299,468 299,475 244,475 239,469 112,472" />
+				<Baseline points="112,471 678,465" />
+				<TextEquiv index="1">
+					<Unicode>einer eine Hand voll ſcharpffer Diſtel oder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>gumpen muͤſſen wie ein Eſel/ dem irgends
+einer eine Hand voll ſcharpffer Diſtel oder</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="112,477 713,477 713,515 112,515" />
+			<TextLine id="r8l0" custom="readingOrder {index:0;}">
+				<Coords points="112,480 152,479 161,487 211,487 219,479 304,479 315,487 364,485 393,482 423,482 447,477 497,477 512,478 512,486 525,486 525,477 542,477 542,486 573,484 625,485 625,477 646,477 646,485 663,482 674,482 674,498 683,498 713,485 713,488 683,506 663,505 663,513 646,513 646,506 614,506 614,513 573,514 573,508 542,508 542,515 525,515 525,507 512,507 512,515 477,515 477,509 364,508 315,508 295,514 264,514 254,509 236,514 219,514 211,509 162,510 152,514 112,512" />
+				<Baseline points="112,512 303,508 713,505" />
+				<TextEquiv index="1">
+					<Unicode>Brenn⸗Neſſel unter den Schwantz gelegt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Brenn⸗Neſſel unter den Schwantz gelegt.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="114,515 684,515 684,800 114,800" />
+			<TextLine id="r9l0" custom="readingOrder {index:0;}">
+				<Coords points="171,518 262,520 262,528 292,523 308,523 321,527 329,518 358,518 358,527 385,526 395,516 425,516 425,526 454,526 463,516 471,516 494,523 551,523 563,516 578,518 598,516 612,520 645,519 653,515 670,515 670,523 682,523 682,545 670,545 670,553 653,553 653,546 598,548 425,548 425,554 386,554 385,548 358,550 262,549 204,557 171,557" />
+				<Baseline points="171,549 682,545" />
+				<TextEquiv index="1">
+					<Unicode>Ihr elende Tropffen! was bildet ihr</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l1" custom="readingOrder {index:1;}">
+				<Coords points="114,559 128,559 128,567 141,567 141,559 175,559 181,568 193,568 193,561 202,561 202,568 221,568 227,561 269,562 284,567 284,559 314,558 332,558 332,566 394,565 420,567 426,556 450,555 491,555 491,565 614,565 614,557 634,557 634,565 645,565 645,556 661,556 661,563 682,561 682,586 661,585 661,592 645,592 645,586 634,586 634,593 614,593 614,586 491,589 332,588 332,595 314,595 314,589 301,594 284,594 239,590 202,590 181,588 175,597 128,597 114,597" />
+				<Baseline points="114,592 174,589 682,585" />
+				<TextEquiv index="1">
+					<Unicode>euch ein? daß ihr euere Vaͤtter vnterſtehet</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l2" custom="readingOrder {index:2;}">
+				<Coords points="115,607 146,607 154,599 164,599 164,608 256,601 270,601 270,607 282,607 282,601 309,598 328,598 328,606 338,606 344,596 377,596 387,600 387,606 398,606 398,596 414,596 431,601 495,606 502,597 595,597 606,604 617,604 617,597 634,597 634,604 671,604 683,606 683,626 634,627 634,633 617,633 617,626 579,627 579,633 452,632 398,630 387,628 377,630 344,630 328,628 328,636 309,636 302,630 270,630 247,632 176,630 146,635 115,635" />
+				<Baseline points="115,630 683,626" />
+				<TextEquiv index="1">
+					<Unicode>zu lernen/ wie ſie Kinder zur Schul thun:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l3" custom="readingOrder {index:3;}">
+				<Coords points="115,644 169,644 199,647 242,648 247,638 267,635 307,635 316,645 339,640 368,640 368,631 403,631 403,640 416,638 438,638 438,645 446,645 450,637 484,637 484,646 508,645 547,639 557,639 557,645 569,645 588,636 609,636 610,645 650,644 650,631 668,631 683,635 683,672 668,672 668,680 650,680 650,666 627,666 627,673 610,673 588,669 484,668 484,675 450,675 446,668 438,668 438,675 416,675 403,672 403,680 368,680 368,672 307,670 297,672 218,670 115,671" />
+				<Baseline points="115,670 683,666" />
+				<TextEquiv index="1">
+					<Unicode>und euere Muͤtter/ wie ſie ihnen die Sprach</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l4" custom="readingOrder {index:4;}">
+				<Coords points="117,681 133,681 133,687 147,687 147,681 167,681 175,689 254,684 270,684 289,687 295,678 343,678 343,687 374,685 410,685 417,683 484,686 492,679 513,679 513,686 561,682 657,684 657,676 674,676 675,688 683,688 683,703 675,703 674,713 657,713 657,706 591,708 513,707 513,713 438,710 343,709 343,715 312,715 295,715 289,711 117,711" />
+				<Baseline points="117,711 683,704" />
+				<TextEquiv index="1">
+					<Unicode>mit eurer durchſaurten/ an ſtatt der wah⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l5" custom="readingOrder {index:5;}">
+				<Coords points="118,728 194,727 203,723 238,720 247,720 247,727 264,727 264,720 317,720 317,727 392,727 392,714 419,714 434,719 461,714 477,714 477,727 501,727 507,717 534,714 553,714 553,726 608,726 608,714 623,714 623,724 640,724 640,718 657,714 683,714 683,752 657,752 657,746 623,746 623,752 534,752 486,748 486,757 461,757 442,753 434,749 419,749 419,757 407,757 407,748 346,748 317,754 264,754 252,750 247,754 202,750 118,752" />
+				<Baseline points="118,752 227,749 683,746" />
+				<TextEquiv index="1">
+					<Unicode>ren und rechten natuͤrlichen Muttermilch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l6" custom="readingOrder {index:6;}">
+				<Coords points="120,768 133,768 133,762 144,762 152,752 166,752 187,752 195,757 196,768 206,768 206,752 220,752 220,767 240,768 254,760 290,760 290,767 321,767 323,760 376,756 400,756 423,758 424,766 452,766 452,758 470,758 471,766 482,766 482,756 510,756 528,760 563,757 581,757 581,766 601,761 684,762 684,787 581,787 581,794 563,794 563,787 553,787 544,794 527,794 527,788 499,795 482,795 482,787 471,787 470,795 452,795 452,787 400,789 400,795 380,795 380,789 220,790 220,800 187,800 166,800 152,800 152,791 120,792" />
+				<Baseline points="120,792 376,788 684,786" />
+				<TextEquiv index="1">
+					<Unicode>einfloͤtzen ſollen? Warhafftig ihr dauret</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Ihr elende Tropffen! was bildet ihr
+euch ein? daß ihr euere Vaͤtter vnterſtehet
+zu lernen/ wie ſie Kinder zur Schul thun:
+und euere Muͤtter/ wie ſie ihnen die Sprach
+mit eurer durchſaurten/ an ſtatt der wah⸗
+ren und rechten natuͤrlichen Muttermilch
+einfloͤtzen ſollen? Warhafftig ihr dauret</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="121,798 715,798 715,840 121,840" />
+			<TextLine id="r10l0" custom="readingOrder {index:0;}">
+				<Coords points="121,800 138,800 138,808 160,800 190,800 190,806 288,808 295,799 321,799 321,807 357,798 373,798 373,807 393,807 393,798 443,798 462,798 498,798 552,798 553,807 580,807 581,798 596,798 617,801 625,798 627,798 635,804 669,799 685,799 712,822 715,822 715,834 685,826 635,827 627,834 625,834 625,827 597,827 596,834 581,834 580,827 553,828 552,834 479,834 460,832 443,828 443,834 421,835 393,835 393,828 373,829 373,835 357,835 357,828 345,828 334,840 301,840 295,840 288,829 208,829 190,835 160,835 151,832 138,835 121,835" />
+				<Baseline points="121,832 345,827 715,826" />
+				<TextEquiv index="1">
+					<Unicode>mich/ wann ihr durch ſolche Thorheit und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>mich/ wann ihr durch ſolche Thorheit und</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="121,836 685,836 685,1159 121,1159" />
+			<TextLine id="r11l0" custom="readingOrder {index:0;}">
+				<Coords points="121,846 194,848 194,841 273,838 322,838 322,847 333,847 333,839 368,836 377,836 385,839 386,846 401,846 402,836 426,836 426,846 450,846 458,840 470,840 470,846 499,847 499,840 535,840 547,845 555,839 570,839 570,846 597,847 605,841 628,841 667,846 667,836 676,836 676,849 683,849 683,867 667,868 605,866 597,874 582,874 582,868 547,870 458,870 426,867 426,873 402,873 386,868 385,875 333,875 333,868 322,868 322,875 306,875 273,870 267,883 247,883 247,876 234,876 234,883 219,883 219,870 184,870 184,877 165,877 165,870 121,872" />
+				<Baseline points="121,871 449,867 683,867" />
+				<TextEquiv index="1">
+					<Unicode>vergebliche Mühe hoffen wollet/ bey der al⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r11l1" points="122,880 134,880 157,879 174,879 196,880 196,887 214,887 214,879 237,879 237,887 252,883 268,882 278,882 278,888 289,888 289,879 313,879 313,886 326,886 344,888 356,877 382,877 382,888 395,886 406,886 406,877 420,877 433,878 433,885 452,885 457,893 466,893 472,880 488,880 488,887 501,882 509,882 510,888 527,887 572,882 588,882 618,886 633,876 672,876 672,884 684,884 684,907 601,908 588,908 588,914 572,914 572,908 556,908 544,907 544,915 527,915 527,908 500,909 486,909 472,908 457,905 452,914 420,915 406,915 406,907 395,908 382,908 382,915 356,915 313,912 303,915 277,915 277,909 254,911 237,915 214,915 181,910 174,915 157,915 157,909 145,911 122,911" baseline="122,911 343,909 617,907 684,907" reason: models differ | Wikisource: lerlobwürdigsten Frucht-bringenden Ge | next_nc_e1: lerlobwuͤrdigſten Frucht⸗bringenden Ge⸗ | german_print2_15: lerlobwürdigſten Frucht⸗bringenden Ge⸗ -->
+			<TextLine id="r11l2" custom="readingOrder {index:2;}">
+				<Coords points="124,920 139,918 156,918 163,922 187,918 202,918 202,929 214,929 214,918 242,918 242,927 329,927 334,917 370,917 371,927 410,926 410,917 426,917 426,926 515,926 515,920 531,920 531,928 544,928 545,921 553,921 554,928 601,925 619,922 669,926 669,920 683,920 683,946 629,950 589,949 589,955 573,955 571,948 544,948 500,952 447,949 242,949 242,955 230,957 214,957 214,950 202,950 202,957 156,957 139,957 124,957" />
+				<Baseline points="124,950 683,946" />
+				<TextEquiv index="1">
+					<Unicode>ſellſchafft euern Banner anzubringen/ und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l3" custom="readingOrder {index:3;}">
+				<Coords points="124,967 206,967 218,959 235,958 254,958 259,967 288,967 288,958 326,959 326,966 354,966 365,963 382,963 406,967 406,960 422,960 422,967 614,967 626,957 629,957 646,957 654,957 683,959 683,986 639,989 541,988 541,996 501,996 501,990 473,995 457,995 445,990 422,988 394,988 394,999 381,999 381,988 354,989 326,994 288,994 278,989 259,989 254,999 235,999 235,991 124,991" />
+				<Baseline points="124,991 626,988 683,984" />
+				<TextEquiv index="1">
+					<Unicode>euerer Teutſchverderberey wegen an ſelbi⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r11l4" points="126,1008 144,1008 183,1008 191,996 196,996 234,996 262,996 273,1000 273,1007 284,1007 284,996 309,996 337,996 337,1007 350,1007 350,999 359,999 390,996 406,996 415,1000 415,1007 445,1007 453,998 490,998 490,1007 517,1006 529,1001 538,1001 538,1008 557,1007 585,1007 594,997 628,997 635,998 635,1005 683,1005 683,1026 666,1027 635,1027 635,1033 612,1033 569,1029 530,1030 490,1031 453,1031 436,1029 415,1034 406,1036 390,1036 367,1034 367,1028 350,1029 337,1029 337,1036 309,1036 297,1036 297,1029 284,1029 273,1028 273,1035 262,1036 234,1036 208,1036 191,1036 183,1030 144,1030 144,1038 126,1038" baseline="126,1030 683,1025" reason: models differ | Wikisource: gem höchstrühmlichsten Ort einen Ehren | next_nc_e1: gem hoͤchſtruͤhmlichſten Ort einen Ehren⸗ | german_print2_15: gem hoͤchſtruhmlichſten Ort einen Ehren⸗ -->
+			<TextLine id="r11l5" custom="readingOrder {index:5;}">
+				<Coords points="127,1039 170,1040 170,1048 184,1046 208,1046 208,1033 235,1033 235,1046 248,1039 303,1039 303,1048 381,1047 381,1040 404,1040 404,1046 417,1046 417,1040 435,1040 435,1046 509,1047 519,1039 522,1039 522,1048 548,1048 548,1039 584,1037 599,1039 661,1037 661,1046 683,1044 683,1066 661,1068 661,1074 633,1074 623,1069 588,1068 588,1074 575,1075 519,1075 447,1070 363,1069 351,1075 341,1075 313,1070 303,1076 235,1076 235,1082 208,1082 208,1076 184,1076 184,1069 160,1070 160,1078 127,1078" />
+				<Baseline points="127,1070 683,1067" />
+				<TextEquiv index="1">
+					<Unicode>Platz zu finden; allwo man euch billicher</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l6" custom="readingOrder {index:6;}">
+				<Coords points="129,1087 146,1082 184,1079 223,1079 223,1086 234,1086 243,1079 261,1079 261,1087 291,1087 293,1073 307,1073 307,1087 340,1087 341,1080 361,1077 385,1077 385,1086 440,1087 440,1077 473,1087 494,1087 494,1079 513,1079 527,1086 548,1081 558,1081 568,1086 573,1077 599,1077 616,1079 616,1087 670,1087 670,1081 684,1081 684,1109 616,1108 616,1116 599,1116 599,1110 440,1115 424,1110 412,1109 412,1115 341,1115 307,1113 307,1121 293,1121 291,1110 261,1110 261,1116 243,1116 234,1110 223,1110 223,1116 206,1116 163,1112 129,1112" />
+				<Baseline points="129,1112 177,1110 293,1111 684,1108" />
+				<TextEquiv index="1">
+					<Unicode>mit Ruthen zu ſtaͤupen: als mit Ehr und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r11l7" points="131,1119 164,1119 178,1120 188,1127 218,1127 225,1120 233,1117 245,1117 251,1127 265,1127 276,1128 276,1117 292,1117 292,1128 310,1127 341,1127 346,1120 358,1118 373,1118 414,1118 420,1126 440,1126 633,1117 678,1117 678,1129 685,1129 685,1147 678,1150 633,1150 421,1157 414,1158 373,1158 358,1158 358,1151 323,1152 310,1152 277,1151 245,1152 218,1156 188,1156 164,1152 164,1159 131,1159" baseline="131,1152 217,1151 633,1150 685,1150" reason: differs: "Lobz" against "r un" | Wikisource:  | next_nc_e1: Lob zu becroͤnen befugt. Be⸗
+ | german_print2_15: Lob zu becroͤnen befugt. Be⸗
+ -->
+			<TextEquiv index="1">
+				<Unicode>vergebliche Mühe hoffen wollet/ bey der al⸗
+ſellſchafft euern Banner anzubringen/ und
+euerer Teutſchverderberey wegen an ſelbi⸗
+Platz zu finden; allwo man euch billicher
+mit Ruthen zu ſtaͤupen: als mit Ehr und</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {3;}">
+			<Coords points="706,1044 713,1044 713,1059 706,1059" />
+			<!-- line left out: id="r12l0" points="706,1044 713,1044 713,1059 706,1059" baseline="712,1059 712,1044" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — | german_print2_15: — -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+so närrische Ding / so lächerliche Fratzen / so lahme Zotten / so elende Mißgeburten auff die Bahn / daß ich mich kühnlich versichert halten kan / wann ich meinem Schulmeister mit dergleichen Grillen auffgezogen kommen wäre / wie sie zu thun pflegen / daß er mich dermassen zerfitzt hätte / daß ich gumpen müssen wie ein Esel / dem irgends einer eine Hand voll scharpffer Distel oder Brenn-Nessel unter den Schwantz gelegt.
+Ihr elende Tropffen! was bildet ihr euch ein? daß ihr euere Vätter vnterstehet zu lernen / wie sie Kinder zur Schul thun: und euere Mütter / wie sie ihnen die Sprach mit eurer durchsaurten / an statt der wahren und rechten natürlichen Muttermilch einflötzen sollen? Warhafftig ihr dauret mich / wann ihr durch solche Thorheit und vergebliche Mühe hoffen wollet / bey der allerlobwürdigsten Frucht-bringenden Gesellschafft euern Banner anzubringen / und euerer Teutschverderberey wegen an selbigem höchstrühmlichsten Ort einen Ehren-Platz zu finden; allwo man euch billicher mit Ruthen zu stäupen: als mit Ehr und Lob zu becrönen befugt.
+-->
+	</Page>
+</PcGts>

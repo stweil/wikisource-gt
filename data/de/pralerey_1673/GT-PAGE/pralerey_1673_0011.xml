@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:14:13</Created>
+		<LastChange>2026-11-23T11:14:13</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/11 revision 3271175 of 2018-07-31T16:12:09Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0011.png" imageWidth="732" imageHeight="1319">
+		<ReadingOrder>
+			<OrderedGroup id="ro14562571035298216023" caption="Regions reading order">
+				<RegionRefIndexed index="3" regionRef="r3" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 732,0 732,222 0,222" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,1103 732,1103 732,1319 0,1319" />
+		</GraphicRegion>
+		<GraphicRegion id="r2">
+			<Coords points="607,46 732,46 732,163 607,163" />
+		</GraphicRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="39,83 646,83 646,1164 39,1164" />
+			<!-- line left out: id="r3l0" points="313,83 331,83 332,98 340,98 340,107 332,107 331,114 313,114" baseline="313,107 340,107" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: §. | german_print2_15: f. -->
+			<!-- line left out: id="r3l1" points="39,115 52,115 52,127 69,127 69,119 82,119 82,128 93,128 93,117 119,117 119,124 147,124 149,115 164,115 192,115 192,125 204,123 254,123 292,123 308,120 333,115 363,115 363,105 380,105 380,121 419,121 432,122 432,110 456,110 470,113 470,105 509,105 539,109 561,109 600,110 600,117 607,117 607,140 600,140 600,150 577,150 577,143 561,143 561,150 538,150 513,145 509,164 470,164 470,145 456,145 456,151 432,151 432,144 419,145 394,146 380,146 380,164 363,164 353,154 333,154 324,146 310,147 222,147 222,155 204,155 204,148 192,148 192,160 175,160 175,147 164,148 147,149 119,150 95,153 82,158 69,160 39,160" baseline="39,152 264,147 323,146 393,145 470,144 513,144 607,140" reason: differs: "ſamenbr" against "sammen " | Wikisource:  | next_nc_e1: zuſamenbringen: und Jhme alſo die Chriſt⸗ | german_print2_15: zuſamen bringen: und Ihme alſo die Chriſt⸗ -->
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="40,161 87,161 87,168 97,168 102,157 133,157 141,161 148,157 180,157 185,166 221,165 222,156 246,156 246,166 267,167 267,157 283,157 283,165 309,165 309,156 325,156 325,164 349,164 358,153 364,153 386,153 386,164 415,162 447,162 447,176 454,176 454,184 415,185 405,192 386,192 386,185 364,186 364,192 325,187 325,193 309,193 301,188 256,188 246,193 222,193 214,187 185,188 180,195 148,195 148,189 133,191 87,191 87,201 58,201 58,191 40,191" />
+				<Baseline points="40,191 454,184" />
+				<TextEquiv index="1">
+					<Unicode>liche Kirch aufferbauen koͤnten.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="56,205 83,205 117,198 191,197 191,206 204,206 204,197 229,197 229,206 257,201 315,195 346,195 347,204 363,204 363,196 406,191 409,191 409,203 424,201 477,201 477,192 508,192 525,195 566,191 597,191 597,198 610,198 638,191 641,191 641,195 638,195 610,222 597,222 597,229 583,233 566,233 566,224 515,224 515,231 508,233 477,233 477,224 409,225 409,233 378,225 347,225 346,233 315,233 257,227 229,233 191,233 163,236 83,239 56,239" />
+				<Baseline points="56,230 377,225 641,223" />
+				<TextEquiv index="1">
+					<Unicode>Iſt alſo die Gab unterſchiedliche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l4" points="40,237 78,237 78,246 94,246 123,247 123,238 139,237 154,237 154,246 242,241 273,241 286,245 310,242 320,242 332,234 342,234 389,234 390,243 400,243 409,235 420,235 447,235 465,236 465,242 488,237 520,237 626,238 639,251 646,251 646,254 639,254 626,269 584,269 584,263 539,264 520,265 447,265 420,265 390,265 389,272 361,272 352,267 342,272 332,272 257,271 204,273 192,273 154,268 154,276 123,276 123,270 94,270 94,276 60,276 40,276" baseline="40,270 192,268 409,265 538,263 646,262" reason: second model: differs: "nut/" against "nutzlic" | Wikisource: Sprachen zu reden/ nicht allein eine nutz | next_nc_e1: Sprachen zu reden/ nicht allein eine nutz⸗ | german_print2_15: Sprachen zu reden / nicht allein eine nut / -->
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="42,280 91,280 91,287 179,276 263,276 271,285 296,285 296,277 314,277 314,285 339,284 360,279 385,278 395,278 433,284 441,284 458,273 525,273 525,281 580,280 580,270 613,270 613,309 580,309 580,303 525,304 525,310 458,310 441,304 412,304 412,312 394,312 386,306 352,308 314,307 314,315 296,315 296,308 263,308 263,315 169,315 162,309 91,311 91,322 75,322 75,316 61,316 54,322 42,322" />
+				<Baseline points="42,311 613,302" />
+				<TextEquiv index="1">
+					<Unicode>liche und hoͤchſtnothwendige: ſonder auch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="43,329 57,329 57,323 66,323 66,329 95,328 100,319 125,317 147,317 148,326 159,326 169,318 223,317 223,326 236,318 267,318 267,325 283,325 283,318 344,322 344,316 370,316 370,323 392,323 401,313 411,313 411,323 439,323 439,313 475,313 475,322 487,322 495,315 538,313 556,313 566,315 576,312 602,312 602,318 612,318 612,341 602,341 602,351 587,351 577,343 564,343 556,351 538,351 533,344 504,344 475,345 475,353 447,353 447,344 411,344 411,353 401,353 392,346 370,346 370,354 344,354 329,351 236,349 223,347 223,355 179,355 179,349 137,349 137,355 125,355 84,351 43,351" />
+				<Baseline points="43,351 612,342" />
+				<TextEquiv index="1">
+					<Unicode>eine Goͤttliche Gab/ ohne welche die hiebe⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="45,364 73,364 91,368 101,360 116,360 116,367 145,367 145,359 153,357 169,357 169,367 191,367 191,357 237,357 246,367 262,365 289,365 289,347 305,347 311,357 331,357 331,365 360,364 372,353 385,353 385,347 401,347 416,352 421,347 438,347 438,353 450,353 450,362 465,362 465,347 480,347 481,356 521,360 521,351 540,351 545,360 571,360 571,351 597,351 597,357 615,357 615,381 597,381 588,389 571,389 571,383 540,383 540,389 521,389 481,384 480,400 465,400 465,386 438,385 438,400 421,400 421,384 401,384 401,400 385,400 385,386 331,393 311,393 305,400 289,400 289,388 263,388 263,396 191,394 191,388 179,389 169,394 153,394 116,390 45,392" />
+				<Baseline points="45,391 479,385 615,380" />
+				<TextEquiv index="1">
+					<Unicode>vor barbariſch geweſene Voͤlcker immerhin</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l8" custom="readingOrder {index:8;}">
+				<Coords points="46,404 58,404 84,409 89,399 113,399 122,404 140,407 140,400 168,399 168,407 203,407 208,397 218,397 218,406 229,406 229,398 244,398 244,407 274,403 327,400 343,400 375,404 375,398 424,397 456,399 462,393 506,393 541,393 541,400 553,400 563,393 609,393 609,402 618,402 643,413 643,416 609,419 609,429 563,429 553,423 541,423 541,431 487,431 462,426 441,425 424,425 424,432 408,432 398,425 328,427 285,430 229,428 168,429 168,437 140,437 140,429 113,430 113,437 89,437 46,432" />
+				<Baseline points="46,432 563,422 643,418" />
+				<TextEquiv index="1">
+					<Unicode>im Finſtern leben/ und wie das Viehe ſter⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l9" custom="readingOrder {index:9;}">
+				<Coords points="48,441 66,441 66,448 95,449 101,436 115,436 115,448 126,448 126,436 177,436 177,446 201,446 201,436 227,442 244,442 261,446 267,437 288,437 288,446 298,446 303,437 339,437 349,443 378,443 464,433 487,432 504,432 504,441 526,441 526,435 542,432 570,432 590,432 620,437 621,467 623,467 623,470 542,470 542,464 508,465 504,470 396,466 396,473 378,473 378,466 367,466 367,473 303,474 298,468 288,468 288,476 267,476 261,468 227,468 203,478 201,478 201,469 177,470 177,478 139,478 126,478 126,470 115,470 115,478 101,478 95,470 48,471" />
+				<Baseline points="48,471 623,463" />
+				<TextEquiv index="1">
+					<Unicode>ben muͤſſten; da ſie hingegen in Genieſſung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l10" custom="readingOrder {index:10;}">
+				<Coords points="50,485 59,480 76,480 76,488 92,489 92,480 136,480 136,487 166,488 173,481 220,481 230,485 245,487 245,481 314,481 355,477 377,477 377,483 395,483 395,477 404,477 404,484 421,483 434,479 468,482 468,473 485,473 485,482 506,483 506,473 534,469 573,469 577,480 594,480 594,471 604,471 619,475 619,501 577,503 573,524 534,524 534,512 506,512 506,504 485,504 485,512 468,512 468,505 444,509 434,509 422,505 422,512 404,512 404,505 377,505 377,512 276,508 220,508 220,520 173,520 166,510 106,510 106,517 92,517 92,511 79,511 76,517 59,517 59,510 50,510" />
+				<Baseline points="50,511 619,502" />
+				<TextEquiv index="1">
+					<Unicode>derſelben jetzunder das jenige/ warzu ſie als</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l11" custom="readingOrder {index:11;}">
+				<Coords points="53,519 95,520 95,529 115,529 115,520 133,519 163,519 163,527 193,527 201,515 304,515 304,525 312,525 319,522 366,521 373,516 443,516 451,522 500,522 515,524 526,515 584,511 610,511 610,522 621,522 632,536 634,536 634,538 610,539 610,549 469,545 469,552 427,552 427,545 389,546 389,552 373,552 373,546 340,550 319,550 304,548 304,555 201,555 193,549 163,549 163,556 149,557 115,557 115,550 95,552 72,557 53,557" />
+				<Baseline points="53,551 634,542" />
+				<TextEquiv index="1">
+					<Unicode>Menſchen erſchaffen/ vollbringen: und ih⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l12" custom="readingOrder {index:12;}">
+				<Coords points="54,569 94,569 99,559 168,559 168,567 198,567 203,558 238,557 277,553 290,553 290,565 301,565 301,553 329,553 357,556 357,564 385,564 391,554 404,553 449,553 456,562 529,561 529,554 563,554 611,560 611,550 624,550 624,582 563,585 530,585 502,590 491,590 487,584 456,586 449,590 430,590 405,586 277,588 273,594 238,594 203,594 180,590 137,592 54,592" />
+				<Baseline points="54,592 624,582" />
+				<TextEquiv index="1">
+					<Unicode>rer Seelen Heyl wuͤrcken koͤnnen; und wol</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l13" custom="readingOrder {index:13;}">
+				<Coords points="56,604 167,603 192,607 198,597 251,597 251,605 257,605 267,597 285,597 285,606 299,606 299,597 318,597 318,603 329,603 335,594 366,594 366,603 382,603 382,596 397,596 425,593 448,593 448,602 477,602 477,595 486,593 515,593 515,600 533,597 550,597 576,600 580,591 613,591 620,596 620,619 613,619 613,629 580,629 576,623 515,624 515,630 486,630 466,625 448,630 425,630 415,628 318,627 318,634 285,635 267,635 257,628 251,628 251,635 236,635 236,629 216,629 207,635 198,635 154,630 111,632 56,631" />
+				<Baseline points="56,632 191,628 526,623 620,620" />
+				<TextEquiv index="1">
+					<Unicode>dem/ der dieſe hohe Gab (welche der H.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l14" custom="readingOrder {index:14;}">
+				<Coords points="55,641 71,639 91,639 91,649 104,647 121,647 121,639 140,639 211,645 223,637 240,637 240,630 256,630 256,638 297,640 297,630 313,630 313,644 325,644 329,635 361,635 361,644 405,643 405,634 423,634 424,643 467,642 545,639 545,627 563,627 589,627 613,627 624,631 624,662 613,662 613,674 598,674 597,670 589,674 545,674 545,664 535,664 529,671 512,671 512,665 474,664 474,671 463,671 463,665 424,665 423,673 389,672 389,666 361,666 361,673 329,673 313,668 313,684 297,684 297,671 256,670 256,684 240,684 240,670 91,670 91,680 55,680" />
+				<Baseline points="55,671 624,662" />
+				<TextEquiv index="1">
+					<Unicode>Paulus der Gab der Propheceyung vergli⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l15" custom="readingOrder {index:15;}">
+				<Coords points="56,680 86,680 86,688 116,689 120,681 184,687 184,678 282,677 283,684 315,681 332,681 337,675 372,675 372,683 386,678 429,674 441,676 441,683 452,683 452,674 473,674 473,681 490,681 523,675 575,675 581,668 592,668 626,668 626,702 613,702 613,709 505,708 490,706 490,712 452,712 452,706 429,706 429,712 425,712 417,706 372,707 332,712 315,712 283,708 282,719 247,719 247,710 218,710 212,719 186,719 170,719 170,710 130,715 86,711 86,718 56,718" />
+				<Baseline points="56,712 626,702" />
+				<TextEquiv index="1">
+					<Unicode>chen) durch GOttes Gnad beſitzt/ und ſol⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l16" custom="readingOrder {index:16;}">
+				<Coords points="57,720 88,720 88,728 139,727 150,719 226,723 237,717 258,715 373,715 396,720 409,714 475,714 475,723 535,721 551,712 567,712 585,712 616,712 616,718 630,718 630,742 616,742 616,748 505,749 475,744 475,752 431,752 409,747 373,746 373,756 326,756 317,754 317,747 302,747 302,756 258,756 237,751 165,749 165,758 150,758 139,750 123,754 88,751 88,757 57,757" />
+				<Baseline points="57,752 630,742" />
+				<TextEquiv index="1">
+					<Unicode>che zu ſeines Schoͤpffers Ehr: zu ſeiner</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l17" custom="readingOrder {index:17;}">
+				<Coords points="53,760 95,760 95,769 118,769 118,760 140,760 140,768 158,768 164,759 201,759 201,765 224,768 224,759 249,759 257,765 270,761 309,761 347,764 353,756 368,756 386,757 386,763 415,760 434,755 456,752 499,752 525,752 549,760 549,752 563,752 574,760 594,760 594,753 626,753 626,783 574,784 563,792 549,792 549,785 535,785 535,792 456,792 456,786 377,787 368,792 318,792 287,789 224,797 201,797 184,797 140,791 108,792 95,794 53,794" />
+				<Baseline points="53,793 318,787 626,783" />
+				<TextEquiv index="1">
+					<Unicode>Seelen Heyl/ und zu ſeines Naͤchſten und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l18" custom="readingOrder {index:18;}">
+				<Coords points="53,798 100,798 100,809 116,807 163,807 163,799 173,798 283,798 283,806 299,804 337,805 337,797 372,797 379,803 390,803 390,796 406,796 436,796 459,796 459,803 470,803 470,831 459,834 435,834 435,826 406,826 406,834 390,834 390,826 372,828 322,827 315,836 299,836 299,828 283,828 283,836 264,836 264,830 247,830 240,836 224,839 204,839 204,830 191,830 191,839 174,839 174,830 116,831 116,839 99,839 99,833 78,833 78,839 53,839" />
+				<Baseline points="53,833 379,826 470,826" />
+				<TextEquiv index="1">
+					<Unicode>Vatterlands Nutz wol anlegt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l19" points="133,837 171,837 171,846 185,846 210,847 210,839 228,839 228,848 245,848 245,838 269,838 269,845 282,845 300,846 312,838 323,838 323,845 337,845 337,838 359,838 380,837 390,837 390,843 401,843 405,835 434,835 441,833 456,833 486,835 496,833 506,833 515,841 531,836 568,836 626,838 626,858 634,858 634,861 626,861 626,875 579,875 531,871 496,866 486,872 456,873 433,873 433,867 339,867 300,868 282,869 269,869 269,876 245,876 245,869 228,869 228,877 210,877 210,871 171,871 154,871 154,877 133,877" baseline="133,871 299,868 400,866 634,864" reason: differs: "ndat" against "d ander" | Wikisource:  | next_nc_e1: Derohalben wie die Apoſtel und at⸗ | german_print2_15: Derohalben wie die Apoſtel und an⸗ -->
+			<!-- line left out: id="r3l20" points="56,884 87,884 112,888 122,879 192,879 233,879 233,885 264,880 274,880 274,886 304,881 321,881 333,884 346,885 357,874 392,874 417,877 417,883 428,883 446,884 457,873 494,873 538,873 565,878 581,882 581,875 630,875 630,915 600,915 581,915 581,904 565,904 565,915 548,915 494,912 475,912 428,907 417,907 417,914 392,914 373,914 373,907 293,909 264,909 253,916 192,916 160,916 144,916 56,912" baseline="56,913 122,911 345,907 630,904" reason: differs: "dere" against "und " | Wikisource:  | next_nc_e1: dere Glaubige in der Erſten Kirch damie | german_print2_15: dere Glaubige in der Erſten Kirch damie -->
+			<TextLine id="r3l21" custom="readingOrder {index:21;}">
+				<Coords points="58,922 76,922 76,930 119,929 119,920 136,920 136,927 205,919 205,928 217,928 217,920 227,919 280,918 280,925 296,925 296,917 323,917 323,924 364,924 364,915 465,915 465,923 479,923 490,913 559,913 620,913 620,920 632,920 632,947 620,952 490,952 479,946 429,947 419,953 364,953 364,947 323,948 323,956 307,956 307,948 280,948 280,956 200,956 105,952 105,959 87,959 87,952 58,953" />
+				<Baseline points="58,952 632,944" />
+				<TextEquiv index="1">
+					<Unicode>begabt/ alſo haben auch alle Chriſtliche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l22" custom="readingOrder {index:22;}">
+				<Coords points="59,961 109,960 109,970 141,970 141,960 255,959 277,963 277,956 356,956 356,963 387,965 396,954 405,954 413,956 413,965 424,965 424,957 439,954 474,954 481,964 520,964 533,957 594,953 618,953 618,961 630,961 630,991 605,991 605,984 520,991 509,991 474,986 474,993 424,994 424,986 405,987 405,994 396,994 387,988 333,988 333,994 277,994 269,989 255,996 240,998 193,999 168,999 168,987 98,988 98,999 78,999 59,998" />
+				<Baseline points="59,992 630,984" />
+				<TextEquiv index="1">
+					<Unicode>Theologi ſich derſelben befliſſen; und be⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l23" points="61,1000 76,1000 85,1002 85,1009 117,1008 136,1003 150,1003 163,1008 163,988 179,988 187,1000 207,1000 208,1023 216,1023 218,998 245,998 245,1009 256,1009 256,996 273,996 273,1008 297,1008 297,996 327,996 327,1007 338,1007 338,996 355,996 355,1007 375,1007 376,988 389,988 389,995 416,995 453,995 462,992 479,992 551,992 551,1005 562,1005 562,992 582,992 582,1004 596,1004 596,992 616,992 632,996 632,1031 596,1031 596,1022 582,1022 582,1031 562,1031 562,1022 551,1022 551,1031 521,1031 521,1023 479,1023 479,1031 462,1031 453,1024 399,1024 389,1024 389,1043 376,1043 375,1025 355,1025 355,1037 338,1037 338,1025 314,1025 314,1037 297,1037 297,1026 281,1026 281,1037 256,1037 256,1026 245,1027 216,1031 208,1031 207,1037 187,1037 179,1043 163,1043 163,1031 129,1031 118,1031 118,1039 100,1039 100,1032 85,1033 76,1035 61,1035" baseline="61,1033 136,1030 187,1028 215,1027 374,1024 632,1021" reason: second model: differs: "num." against "num, da" | Wikisource: klagt der H. Augustinus lib. Confessionum, | next_nc_e1: klagt der H. Auguſtinus lib. Confeſſioaum, | german_print2_15: klagt der H. Auguſtinus lib. Confeſſienum. -->
+			<TextLine id="r3l24" custom="readingOrder {index:24;}">
+				<Coords points="61,1045 79,1045 95,1050 95,1041 117,1039 147,1039 147,1049 158,1049 159,1040 207,1039 227,1041 227,1048 245,1048 252,1037 292,1037 300,1046 316,1046 316,1037 329,1036 358,1036 358,1045 377,1045 442,1038 525,1039 537,1043 542,1034 589,1034 597,1041 617,1041 617,1034 635,1034 635,1076 570,1076 570,1068 470,1067 394,1068 394,1076 375,1076 375,1069 358,1069 358,1076 316,1076 316,1070 292,1070 292,1076 252,1076 245,1070 216,1071 207,1077 188,1079 159,1079 158,1071 147,1071 147,1079 131,1079 131,1072 117,1072 111,1080 95,1080 95,1072 79,1077 61,1077" />
+				<Baseline points="61,1072 480,1066 635,1067" />
+				<TextEquiv index="1">
+					<Unicode>daß Er ſich in ſeiner Jugend in dem Spra⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l25" points="65,1080 103,1080 103,1088 123,1088 127,1080 140,1080 183,1080 183,1087 193,1087 220,1088 220,1079 259,1079 259,1088 272,1088 283,1075 292,1075 332,1075 347,1078 347,1085 362,1081 373,1081 395,1085 395,1076 411,1076 455,1076 455,1084 475,1079 487,1076 504,1076 504,1083 532,1083 546,1076 550,1076 637,1076 637,1114 546,1114 532,1108 504,1108 504,1116 487,1116 487,1108 475,1108 467,1117 453,1117 427,1116 427,1110 418,1110 411,1117 395,1117 395,1109 373,1112 362,1112 347,1111 332,1111 332,1119 316,1119 316,1112 302,1112 302,1119 283,1119 272,1112 259,1112 259,1119 220,1119 199,1114 183,1113 183,1119 140,1119 103,1120 65,1120" baseline="65,1115 122,1114 372,1110 531,1108 546,1108 637,1109" reason: models differ | Wikisource: chen nicht mehr geübt/ welche ihm jetzund | next_nc_e1: chen nicht mehr geuͤbt/ welche ihm jetzund | german_print2_15: chen nicht mehr geübt / welche ihm jetzund -->
+			<!-- line left out: id="r3l26" points="351,1117 380,1117 401,1126 417,1126 549,1109 569,1109 569,1123 581,1123 586,1113 637,1113 637,1123 638,1123 638,1125 637,1125 637,1149 581,1153 569,1153 569,1164 549,1164 417,1156 401,1156 351,1153" baseline="351,1153 638,1149" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: A 5 zu Eo | german_print2_15: A 5 m Ev -->
+			<TextEquiv index="1">
+				<Unicode>liche Kirch aufferbauen koͤnten.
+Iſt alſo die Gab unterſchiedliche
+liche und hoͤchſtnothwendige: ſonder auch
+eine Goͤttliche Gab/ ohne welche die hiebe⸗
+vor barbariſch geweſene Voͤlcker immerhin
+im Finſtern leben/ und wie das Viehe ſter⸗
+ben muͤſſten; da ſie hingegen in Genieſſung
+derſelben jetzunder das jenige/ warzu ſie als
+Menſchen erſchaffen/ vollbringen: und ih⸗
+rer Seelen Heyl wuͤrcken koͤnnen; und wol
+dem/ der dieſe hohe Gab (welche der H.
+Paulus der Gab der Propheceyung vergli⸗
+chen) durch GOttes Gnad beſitzt/ und ſol⸗
+che zu ſeines Schoͤpffers Ehr: zu ſeiner
+Seelen Heyl/ und zu ſeines Naͤchſten und
+Vatterlands Nutz wol anlegt.
+begabt/ alſo haben auch alle Chriſtliche
+Theologi ſich derſelben befliſſen; und be⸗
+daß Er ſich in ſeiner Jugend in dem Spra⸗</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+zusammen bringen: und Ihme also die Christliche Kirch aufferbauen könten.
+Ist also die Gab unterschiedliche Sprachen zu reden / nicht allein eine nutzliche und höchstnothwendige: sonder auch eine Göttliche Gab / ohne welche die hiebevor barbarisch gewesene Völcker immerhin im Finstern leben / und wie das Viehe sterben müssten; da sie hingegen in Geniessung derselben jetzunder das jenige / warzu sie als Menschen erschaffen / vollbringen: und ihrer Seelen Heyl würcken können; und wol dem / der diese hohe Gab (welche der H. Paulus der Gab der Propheceyung verglichen) durch GOttes Gnad besitzt / und solche zu seines Schöpffers Ehr: zu seiner Seelen Heyl / und zu seines Nächsten und Vatterlands Nutz wol anlegt.
+Derohalben wie die Apostel und andere Glaubige in der Ersten Kirch damit begabt / also haben auch alle Christliche Theologi sich derselben beflissen; und beklagt der H. Augustinus lib. Confessionum, daß Er sich in seiner Jugend in dem Sprachen nicht mehr geübt / welche ihm jetzund
+-->
+	</Page>
+</PcGts>

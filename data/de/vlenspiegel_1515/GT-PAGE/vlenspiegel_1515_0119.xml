@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T08:03:04</Created>
+		<LastChange>2026-11-23T08:03:04</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Ein_kurtzweilig_lesen_von_Dyl_Vlenspiegel.djvu/119 revision 3306529 of 2018-07-31T21:30:30Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="vlenspiegel_1515_0119.png" imageWidth="1416" imageHeight="2098">
+		<ReadingOrder>
+			<OrderedGroup id="ro16183810468779234332" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="443,130 956,130 956,210 443,210" />
+			<!-- line left out: id="r0l0" points="443,130 567,130 567,148 655,144 778,144 817,134 831,134 925,134 956,139 956,206 925,208 831,208 778,210 567,210 443,210" baseline="443,210 610,207 956,206" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Das L.x blat
+ | german_print2_15: Das LX blat
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="130,226 1239,226 1239,426 130,426" />
+			<!-- line left out: id="r1l0" points="135,243 156,243 156,250 175,250 175,243 216,242 252,242 252,250 276,250 290,241 308,241 308,226 333,226 333,250 366,248 388,248 388,226 413,226 413,250 447,248 450,241 471,241 471,248 490,248 490,241 515,241 543,245 543,226 564,226 564,233 579,233 579,226 603,226 637,231 662,231 662,244 684,244 725,246 725,237 746,237 787,235 812,235 812,243 839,243 839,235 867,235 892,239 892,247 940,245 956,245 956,231 981,231 981,246 994,246 994,231 1043,231 1055,237 1089,237 1089,246 1113,246 1142,248 1142,230 1214,230 1214,260 1231,260 1231,278 1214,278 1214,290 1185,291 1129,291 1113,279 1089,280 1055,280 1043,288 994,288 994,279 981,279 981,288 956,288 956,281 933,282 892,283 874,283 843,279 843,293 787,293 780,280 753,281 692,281 662,279 662,286 641,286 641,279 635,279 603,276 603,297 579,297 579,286 564,286 564,297 543,297 543,279 525,281 515,284 471,284 450,284 430,283 413,283 413,297 388,297 388,281 349,282 333,282 333,297 308,297 308,284 252,285 208,286 156,286 135,286" baseline="135,284 348,282 366,282 429,283 447,284 542,279 602,278 603,278 1231,277" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: wie ein ein war woꝛt iſt das vnd gab im auch ein yſen. | german_print2_15: wie ein ein war woꝛt iſt das vnd gab im anuch ein yſen. -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="134,299 223,299 227,285 249,285 249,299 266,299 266,285 288,285 298,295 356,295 364,292 386,292 386,313 403,313 403,292 464,292 464,301 486,301 486,307 505,307 505,292 527,292 527,299 547,299 552,308 633,307 639,291 698,291 698,306 739,306 739,291 766,291 766,307 832,308 832,296 854,296 854,309 867,309 867,296 927,291 976,291 976,307 1036,309 1036,292 1098,292 1098,300 1121,300 1127,308 1163,308 1163,298 1239,298 1239,343 1098,343 1098,354 1036,354 1013,352 1003,342 976,342 976,352 927,352 920,345 832,345 723,341 610,341 527,345 527,354 484,354 484,343 464,343 464,354 403,354 403,343 386,343 386,354 364,354 356,346 288,346 288,363 266,363 266,348 249,348 249,363 227,363 187,359 187,345 157,344 157,359 134,359" />
+				<Baseline points="134,344 552,344 632,339 790,344 1120,342 1239,343" />
+				<TextEquiv index="1">
+					<Unicode>Alſo reit Vlenſpiegel von dannen vnnd ſein pferd ward</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="130,350 156,350 156,370 174,370 220,375 220,366 301,365 301,357 427,357 427,370 448,370 448,357 470,357 470,370 481,370 481,387 494,387 494,404 481,404 481,416 301,416 301,406 242,413 156,413 156,426 130,426" />
+				<Baseline points="130,413 279,408 494,411" />
+				<TextEquiv index="1">
+					<Unicode>im wol beſchagen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Alſo reit Vlenſpiegel von dannen vnnd ſein pferd ward
+im wol beſchagen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="127,418 1236,418 1236,761 127,761" />
+			<!-- line left out: id="r2l0" points="134,435 181,435 181,425 221,425 221,442 245,442 246,452 303,450 343,450 343,425 383,425 383,448 414,447 506,447 506,425 546,425 546,437 572,437 572,449 591,449 591,425 644,425 644,446 708,445 734,445 745,418 826,418 826,441 861,441 861,434 890,434 900,448 973,448 999,449 1032,450 1039,427 1155,427 1155,447 1228,447 1228,505 1185,505 1155,503 1155,527 1039,527 1032,503 999,504 973,505 900,505 865,501 865,518 793,518 793,508 745,508 682,504 644,499 644,514 591,514 591,503 572,503 572,512 546,514 506,514 506,503 463,505 414,505 383,504 383,514 343,514 343,506 299,510 245,511 221,514 181,514 181,508 134,508" baseline="134,508 733,504 889,502 900,502 1228,504" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Die.xI.m.bhiſtoꝛi ſagt wie Vlen | german_print2_15: Die.xi.i.hiſtoꝛi ſagt wie Ylen -->
+			<!-- line left out: id="r2l1" points="130,519 173,519 173,528 188,528 188,541 204,536 232,536 247,539 247,528 262,528 266,537 287,537 287,527 300,527 300,534 343,534 365,515 385,515 475,515 523,515 523,531 539,531 539,515 586,515 586,531 618,531 623,515 689,515 689,531 713,531 713,524 732,524 732,530 759,527 767,527 767,519 789,519 789,527 816,527 816,519 843,519 917,520 925,533 943,530 965,530 970,522 985,522 985,532 1012,532 1030,519 1078,519 1078,534 1092,532 1120,530 1138,530 1236,530 1236,571 1190,571 1190,564 1122,564 1122,577 1092,577 1092,564 1078,564 1078,577 1052,577 1052,571 1030,571 1012,563 984,563 970,562 945,561 849,561 819,560 752,561 713,562 618,564 586,564 586,572 539,572 539,561 523,561 523,572 475,572 385,572 365,572 343,566 300,567 262,568 232,568 232,582 204,582 204,569 173,569 173,578 147,582 130,582" baseline="130,568 365,565 751,561 916,560 925,560 1236,565" reason: differs: "ſpie" against "agen" | Wikisource:  | next_nc_e1: ſpiegel eim ſchuchmacher dient/ vnd wie er in fragt waz | german_print2_15: ſpiegel eim ſchuchmacher dient / vnd wie er in fragt waz -->
+			<!-- line left out: id="r2l2" points="132,581 185,581 185,600 219,600 219,567 240,567 240,598 276,596 295,596 295,580 346,576 422,576 422,582 447,582 492,583 501,575 538,575 538,581 551,581 551,587 568,587 568,575 597,575 597,567 654,567 654,575 657,575 662,589 689,589 689,576 710,576 818,571 920,571 945,573 950,588 976,588 976,581 1002,581 1002,594 1023,594 1023,581 1055,581 1057,593 1089,593 1089,585 1139,582 1189,582 1204,583 1204,593 1230,593 1230,626 1089,626 1057,625 1055,633 1023,633 1023,624 1002,624 1002,635 950,635 945,629 920,632 818,632 725,629 725,622 710,622 710,629 689,629 689,623 662,623 654,640 597,640 597,623 538,623 538,633 501,633 492,625 471,626 446,626 422,625 422,635 346,635 312,626 297,626 297,636 276,636 257,630 240,630 240,640 219,640 219,632 185,636 132,636" baseline="132,626 818,621 1118,625 1230,627" reason: models differ | Wikisource: form er zuͦ schneiden solt/ der meister sprach groß vnd klein | next_nc_e1: foꝛm er ʒů ſchneidẽ ſolt/ der meiſter ſpꝛach groß vñ klein | german_print2_15: foem er zů ſchneidẽ ſolt / der meiſter ſpꝛach groß vñ klein -->
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="127,651 148,651 148,657 169,657 169,651 200,651 204,643 254,643 254,657 276,657 281,640 403,640 403,653 431,653 439,642 582,637 634,637 634,651 682,646 701,646 701,638 742,638 742,651 773,648 806,648 806,637 839,637 884,644 884,652 901,652 901,640 940,642 957,646 957,666 972,666 979,640 1009,638 1077,638 1192,639 1235,642 1235,689 1207,689 1192,687 1192,699 1104,699 1091,695 1009,692 1009,684 842,682 839,690 806,690 806,680 742,681 742,691 701,691 701,680 674,683 582,682 573,689 517,694 439,694 431,685 403,685 403,694 281,694 276,688 254,691 127,692" />
+				<Baseline points="127,688 281,689 430,684 842,681 979,681 1076,685 1235,687" />
+				<TextEquiv index="1">
+					<Unicode>wie der ſchwein hirt ʒuͦ dem thoꝛ vß treibt. Alſo ſchneid</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l4" points="128,719 171,719 178,689 261,689 261,697 277,697 277,689 338,689 338,697 341,697 341,715 370,712 382,712 394,689 414,689 414,702 434,702 434,689 476,689 538,694 538,701 569,701 569,694 590,694 590,708 605,708 605,694 626,694 626,708 632,708 642,697 802,697 814,708 848,708 848,699 884,698 1009,698 1009,707 1026,707 1033,700 1082,700 1186,704 1186,729 1199,729 1199,749 1175,749 1139,749 1082,752 1033,752 995,747 941,747 884,747 736,743 626,744 590,744 552,744 537,744 499,743 476,761 434,761 434,746 414,746 414,761 394,761 382,738 371,738 371,747 341,747 341,757 338,761 261,761 178,761 171,752 128,752" baseline="128,737 381,738 475,743 499,742 746,742 884,743 1089,747 1199,749" reason: differs: "oͤck.vñvᷣ" against "ck etc." | Wikisource:  | next_nc_e1: er zu/ochſen/ küw/ kelber/ boͤck . vñ vᷣderbt dz leder.
+ | german_print2_15: er ꝛũ/ochſen / küw / kelber / boͤck c. vñ vᷣderbt dz leder.
+ -->
+			<TextEquiv index="1">
+				<Unicode>wie der ſchwein hirt ʒuͦ dem thoꝛ vß treibt. Alſo ſchneid</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="104,878 1245,878 1245,1830 104,1830" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+wie ein⟦⟧ war wort ist das vnd gab im auch ein ysen.
+Also reit Vlenspiegel von dannen vnnd sein pferd ward im wol beschagen.
+eim schuͦchmacher dient / vnd wie er in fragt waz
+form er zuͦ schneiden solt / der meister sprach groß vnd klein
+wie der schwein hirt zuͦ dem thor vß treibt. Also schneid
+er zuͦ / ochsen / küw / kelber / boͤck etc. vnd verderbt dz leder.
+-->
+	</Page>
+</PcGts>

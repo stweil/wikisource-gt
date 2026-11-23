@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:15:25</Created>
+		<LastChange>2026-11-23T11:15:25</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/60 revision 3271245 of 2018-07-31T16:12:32Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0060.png" imageWidth="732" imageHeight="1336">
+		<ReadingOrder>
+			<OrderedGroup id="ro10866374453560631092" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 732,0 732,979 0,979" />
+		</GraphicRegion>
+		<SeparatorRegion id="r1">
+			<Coords points="0,552 2,552 2,857 0,857" />
+		</SeparatorRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {3;}">
+			<Coords points="77,847 88,847 88,855 77,855" />
+			<!-- line left out: id="r2l0" points="77,847 88,847 88,855 77,855" baseline="87,855 87,847" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: /
+ | german_print2_15: 7
+ -->
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="708,34 732,34 732,95 708,95" />
+		</GraphicRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="107,100 732,100 732,391 107,391" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="107,109 128,109 138,100 155,100 155,108 249,109 249,100 290,100 291,108 333,109 333,100 335,100 395,101 395,110 483,105 578,103 594,142 597,101 618,101 618,109 629,109 631,101 671,101 671,110 710,110 732,114 732,128 712,128 710,139 703,139 703,145 695,145 695,139 676,139 676,145 671,149 631,149 629,133 618,133 618,140 601,145 594,145 578,134 538,134 510,142 483,142 477,132 443,134 357,134 335,140 333,140 333,133 266,140 249,140 249,134 155,133 155,140 138,140 128,134 107,134" />
+				<Baseline points="107,133 538,133 732,135" />
+				<TextEquiv index="1">
+					<Unicode>verunteutſchten Namen/ die ſie ihren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l1" points="107,142 179,142 179,152 194,152 194,145 203,142 230,142 230,150 237,150 289,150 289,142 306,142 315,151 330,151 341,150 361,150 362,142 377,142 384,149 402,149 433,151 451,152 451,143 480,143 480,151 491,150 542,150 542,143 556,138 590,138 593,150 613,150 634,152 634,142 652,142 666,150 712,150 712,157 715,157 715,190 709,190 666,188 652,181 634,181 634,173 623,175 611,175 593,174 590,186 556,186 542,182 542,174 510,174 510,181 491,181 491,174 480,174 480,180 468,182 451,182 441,180 433,173 402,173 402,180 377,180 362,180 361,173 341,177 329,177 315,173 306,180 289,180 289,173 250,174 230,179 203,179 194,174 179,174 179,180 126,180 107,180" baseline="107,173 715,173" reason: second model: differs: "vor." against "or Grie" | Wikisource: Schrifften vorzusetzen pflegen/ sie mehr vor | next_nc_e1: Schrifften vorzuſetzen pflegen/ ſie mehꝛ vor | german_print2_15: Schrifften vorzuſetzen pflegen / ſie mehꝛ vor . -->
+			<!-- line left out: id="r4l2" points="107,183 126,183 141,184 141,193 156,193 157,186 167,186 167,192 180,192 180,183 210,183 211,192 264,187 291,187 319,191 333,182 356,182 366,190 391,185 401,185 401,192 419,191 426,191 426,182 442,182 442,188 459,188 484,192 484,184 513,184 529,192 555,192 555,184 571,184 571,193 587,192 609,192 618,178 634,178 646,195 732,195 732,218 669,218 661,217 646,217 634,233 618,233 618,215 555,215 542,215 542,221 529,221 513,215 459,215 426,215 366,214 356,215 333,215 224,214 211,214 210,220 180,220 180,214 156,215 141,216 126,220 107,220" baseline="107,216 243,213 318,213 529,214 646,216 732,218" reason: second model: differs: "Grie" against "r vo" | Wikisource: Griechen oder Lateiner/ als geborne Teut | next_nc_e1: Griechen oder Lateiner/ als geborne Teut | german_print2_15: Griechen oder Lateiner / als geborne Tellt / -->
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="107,224 149,224 150,231 161,231 169,224 188,224 189,232 207,232 208,223 218,223 218,231 300,231 300,224 311,223 329,223 375,231 380,223 396,223 475,224 476,233 493,232 502,228 542,224 562,224 562,232 586,227 647,224 711,224 711,264 647,264 638,256 562,255 562,262 542,262 528,255 495,255 495,263 411,262 396,256 311,256 251,254 189,254 188,261 169,261 161,254 150,254 148,261 107,261" />
+				<Baseline points="107,254 572,255 711,257" />
+				<TextEquiv index="1">
+					<Unicode>ſche halten würdet) ſo ſeynd ſie mir doch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l4" custom="readingOrder {index:4;}">
+				<Coords points="109,265 131,266 131,273 143,273 143,265 160,265 161,272 173,272 180,264 201,261 243,261 254,265 264,272 274,272 288,264 300,264 309,265 310,273 322,273 322,264 340,264 340,272 364,269 406,268 419,273 419,264 452,264 463,273 477,273 477,267 487,267 487,273 547,273 557,267 567,267 567,273 579,268 595,268 596,274 626,274 638,266 671,266 704,267 726,274 732,274 732,279 726,279 704,304 691,306 651,306 638,304 626,298 580,296 567,296 567,302 557,302 547,296 487,296 452,302 419,302 419,295 340,295 340,301 322,301 322,295 309,300 300,301 201,300 143,295 109,295" />
+				<Baseline points="109,295 546,295 732,299" />
+				<TextEquiv index="1">
+					<Unicode>liebe Gaͤſt; ſtehets doch einem jeden frey/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l5" custom="readingOrder {index:5;}">
+				<Coords points="109,304 161,304 190,306 191,312 201,312 201,306 217,306 217,312 242,312 249,304 290,304 290,312 315,313 315,305 384,305 385,313 397,313 397,306 407,306 407,313 492,314 492,305 504,305 504,314 515,314 515,305 561,305 561,314 574,310 586,310 636,315 694,315 694,326 711,326 711,349 654,349 649,338 561,337 561,344 515,344 515,336 473,341 461,341 418,336 385,336 384,343 353,343 315,336 315,343 273,343 249,341 242,335 167,335 161,341 109,341" />
+				<Baseline points="109,334 711,338" />
+				<TextEquiv index="1">
+					<Unicode>ſich einen Hegel ſchelten zulaſſen/ warumb</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l6" points="110,344 126,344 126,354 139,354 139,344 149,344 149,352 172,352 214,353 214,347 247,347 254,353 294,350 317,345 349,345 364,346 376,345 385,345 434,349 491,354 500,355 510,356 511,347 533,347 533,356 546,356 557,346 574,345 593,345 634,345 652,348 667,350 667,340 712,340 712,391 667,391 667,384 652,387 635,387 634,379 601,380 593,380 593,387 574,387 574,380 557,380 533,378 533,384 511,384 510,378 491,379 472,379 418,378 393,377 385,384 364,384 364,376 339,376 339,384 317,384 312,376 172,376 160,376 139,375 126,374 126,382 110,382" baseline="110,375 254,375 545,379 557,379 712,380" reason: models differ | Wikisource: solten wir uns selbst dann unser Gebühr nit | next_nc_e1: ſolten wir uns ſelbſt dann unſer Gebuͤhr nit
+ | german_print2_15: ſolten wir uns ſelbſt dann unſer Gebuͦhr nit
+ -->
+			<TextEquiv index="1">
+				<Unicode>verunteutſchten Namen/ die ſie ihren
+ſche halten würdet) ſo ſeynd ſie mir doch
+liebe Gaͤſt; ſtehets doch einem jeden frey/
+ſich einen Hegel ſchelten zulaſſen/ warumb</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="690,288 732,288 732,364 690,364" />
+		</GraphicRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="111,384 710,384 710,549 111,549" />
+			<!-- line left out: id="r6l0" points="112,393 132,393 132,384 158,384 158,393 168,393 220,393 226,387 241,387 241,416 188,416 158,416 158,423 132,423 112,423" baseline="112,415 241,416" reason: second model has no such line | Wikisource: gönnen? | next_nc_e1: goͤnnen? | german_print2_15:  -->
+			<TextLine id="r6l1" custom="readingOrder {index:1;}">
+				<Coords points="184,425 242,425 264,428 374,429 381,435 393,432 410,432 434,436 434,427 445,427 462,428 477,432 514,437 515,426 642,427 642,438 687,432 702,432 710,434 710,449 702,449 702,465 687,465 642,460 642,467 626,467 626,460 615,460 614,467 584,467 539,466 533,460 462,459 462,465 443,465 443,459 252,457 242,463 213,463 213,457 201,457 201,463 184,463" />
+				<Baseline points="184,456 710,461" />
+				<TextEquiv index="1">
+					<Unicode>Ach wie wird es alßdann ſo ſchoͤn und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l2" custom="readingOrder {index:2;}">
+				<Coords points="112,465 137,465 137,472 165,473 165,466 185,465 202,465 234,466 234,474 282,473 310,475 310,466 472,469 494,472 494,478 536,477 546,469 588,469 588,478 632,478 637,470 652,470 652,479 673,478 689,474 700,474 700,511 689,511 689,501 674,501 674,507 652,508 637,508 632,501 573,501 572,508 546,508 536,505 511,507 435,507 403,505 395,499 281,499 223,496 214,504 185,504 185,496 137,497 137,504 112,504" />
+				<Baseline points="112,496 700,502" />
+				<TextEquiv index="1">
+					<Unicode>herꝛlich lauten/ und ſo luſtig zuhoͤren ſeyn/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l3" custom="readingOrder {index:3;}">
+				<Coords points="111,513 198,513 208,507 211,507 211,514 227,514 227,507 246,507 246,513 298,506 345,506 345,517 401,516 448,509 482,509 482,519 494,519 494,510 510,510 510,520 534,519 534,509 580,510 581,519 593,519 607,511 622,511 622,520 631,520 637,512 670,512 670,520 686,520 686,512 706,512 706,547 686,547 669,543 622,542 622,548 607,548 593,542 581,542 580,549 550,549 550,542 521,542 521,548 510,549 494,549 494,541 482,541 482,549 464,549 464,541 401,541 313,536 258,538 111,536" />
+				<Baseline points="111,536 380,538 706,543" />
+				<TextEquiv index="1">
+					<Unicode>wann alle Diſcurs und Geſpraͤche ſo bund</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Ach wie wird es alßdann ſo ſchoͤn und
+herꝛlich lauten/ und ſo luſtig zuhoͤren ſeyn/
+wann alle Diſcurs und Geſpraͤche ſo bund</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="40,535 709,535 709,589 40,589" />
+			<!-- line left out: id="r7l0" points="40,535 124,535 124,542 134,542 150,546 150,554 177,554 188,546 218,546 267,546 267,554 285,554 299,547 333,547 376,547 424,549 424,558 435,558 435,550 456,550 456,558 466,558 485,559 485,549 507,549 554,554 595,554 644,554 656,560 667,555 683,551 693,551 709,552 709,589 690,589 690,583 668,583 554,583 507,587 485,587 435,582 424,581 424,587 407,587 391,581 376,586 346,586 346,579 333,579 333,586 315,586 315,580 249,580 231,579 205,580 188,580 150,578 134,577 124,578 94,578 84,558 40,558" baseline="40,576 176,577 545,582 709,583" reason: second model: differs: "üuberm" against "bund ü" | Wikisource: über meiner Taffel fallen/ wie die edle | next_nc_e1: uͤber meiner Taffel fallen/ wie die edle
+ | german_print2_15: üuber meiner Taffel fallen / wie die edle
+ -->
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="109,580 729,580 729,715 109,715" />
+			<TextLine id="r8l0" custom="readingOrder {index:0;}">
+				<Coords points="111,585 131,580 168,580 180,584 181,595 194,595 194,586 220,586 220,595 282,587 302,587 302,580 323,580 323,597 368,598 368,592 386,589 415,589 415,598 428,598 440,589 457,589 457,580 474,580 483,597 560,599 578,595 606,592 659,592 669,600 702,600 702,626 681,626 669,624 668,631 643,631 635,630 635,624 559,624 501,621 501,628 483,628 474,635 457,635 457,623 415,622 415,629 386,629 377,628 377,621 354,620 354,627 336,627 336,620 323,620 323,635 302,635 302,628 251,626 250,619 181,618 180,625 168,625 168,635 131,635 131,625 111,625" />
+				<Baseline points="111,617 266,621 594,623 702,625" />
+				<TextEquiv index="1">
+					<Unicode>Schecken/ Bayriſche Katzen und Tyger⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l1" custom="readingOrder {index:1;}">
+				<Coords points="111,626 150,626 150,635 167,630 191,626 200,626 234,628 234,635 246,635 246,628 264,628 264,636 345,634 367,638 367,632 377,632 377,638 400,638 407,630 509,631 509,640 521,640 521,631 538,631 538,640 549,640 549,631 584,632 593,640 683,641 684,635 702,635 724,662 729,662 729,666 568,663 568,672 549,672 549,663 538,663 538,669 521,669 521,663 509,663 509,672 477,672 431,668 407,669 400,661 219,660 191,655 184,670 167,670 167,659 150,659 150,670 130,670 111,666" />
+				<Baseline points="111,658 729,663" />
+				<TextEquiv index="1">
+					<Unicode>hund! wann es ein ſolch Gehack unterei⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l2" custom="readingOrder {index:2;}">
+				<Coords points="109,675 140,675 140,664 158,664 166,671 259,674 316,671 445,673 452,680 470,680 470,670 530,670 554,674 554,682 565,682 565,676 582,676 596,680 608,681 614,672 643,672 670,675 670,681 697,680 697,704 643,702 643,711 614,711 608,703 554,704 554,710 501,709 501,703 470,710 452,710 445,703 372,702 368,708 316,708 216,704 158,699 158,715 140,715 140,699 109,699" />
+				<Baseline points="109,699 697,704" />
+				<TextEquiv index="1">
+					<Unicode>nander gibt/ daß es nit gleich jeder Idiot</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Schecken/ Bayriſche Katzen und Tyger⸗
+hund! wann es ein ſolch Gehack unterei⸗
+nander gibt/ daß es nit gleich jeder Idiot</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="101,706 698,706 698,748 101,748" />
+			<TextLine id="r9l0" custom="readingOrder {index:0;}">
+				<Coords points="101,709 128,714 128,706 147,706 178,706 207,708 207,716 288,718 288,709 348,710 348,719 371,710 401,710 401,720 419,720 425,711 439,711 439,720 476,720 476,709 488,709 496,721 510,721 510,713 526,713 533,720 568,714 580,714 580,720 597,720 598,712 641,712 649,721 668,721 668,712 692,712 692,725 698,725 698,743 598,745 401,742 401,748 371,748 361,743 348,742 348,748 288,748 288,741 219,740 207,740 207,746 128,746 111,741 101,713" />
+				<Baseline points="101,741 698,743" />
+				<TextEquiv index="1">
+					<Unicode>verſtehen: noch wiſſen kan/ ob es in Knack⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>verſtehen: noch wiſſen kan/ ob es in Knack⸗</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="106,743 732,743 732,1156 106,1156" />
+			<!-- line left out: id="r10l0" points="112,758 128,758 128,752 137,752 137,743 153,743 190,747 190,758 202,758 202,749 219,749 219,756 231,756 241,747 257,747 257,758 270,758 270,747 296,747 324,752 331,759 342,759 342,743 354,743 380,743 403,743 403,753 410,753 411,760 421,760 436,752 454,752 454,760 478,755 488,755 488,743 504,743 504,760 516,760 533,751 546,751 565,751 584,751 619,753 635,752 648,752 648,762 667,757 682,757 707,761 707,787 681,787 619,786 584,791 579,791 579,784 565,784 565,791 546,791 533,791 516,784 504,784 504,795 488,795 480,783 411,783 403,795 380,795 354,795 342,795 331,790 296,788 280,788 271,782 257,782 257,788 241,788 241,780 203,781 158,781 153,795 137,795 130,780 112,780" baseline="112,780 158,780 533,784 667,784 707,787" reason: differs: "oder" against "- od" | Wikisource:  | next_nc_e1: oder Leberwuͤrſt gefuͤllt werden ſoll!l Aber da | german_print2_15: oder Leberwuͤrſt gefuͤllt werden ſolll Aber da -->
+			<!-- line left out: id="r10l1" points="110,786 126,786 126,797 137,797 137,786 182,786 193,788 193,797 211,797 232,798 232,792 278,790 293,790 293,800 304,800 304,793 314,793 314,800 345,800 357,792 388,792 404,793 404,801 415,797 433,797 453,800 495,801 495,793 505,792 518,792 533,793 543,803 561,802 573,802 573,794 589,794 589,802 601,802 614,803 627,794 644,794 653,797 698,802 714,831 715,831 715,834 714,834 670,830 644,825 644,832 627,832 614,825 601,826 589,826 573,825 562,825 562,833 543,833 533,832 518,833 505,833 495,831 495,825 466,825 433,825 415,825 388,824 388,833 372,833 372,824 333,824 305,823 278,823 232,822 193,821 193,829 154,829 137,829 137,821 126,821 126,829 110,829" baseline="110,820 210,821 278,822 627,825 715,826" reason: second model: differs: "müuſ" against "er d" | Wikisource: müssen wir keine Alles-teutsch-geber hinzu | next_nc_e1: muͤſſen wir keine Alles⸗teutſch⸗geber hinzu | german_print2_15: müuſſen wir keine Alles keutſch⸗geber hinzu -->
+			<TextLine id="r10l2" custom="readingOrder {index:2;}">
+				<Coords points="109,829 126,829 126,838 141,836 158,836 158,829 180,829 180,837 231,838 238,830 241,830 251,832 251,840 266,840 267,830 310,830 310,838 339,833 360,833 360,841 397,840 406,832 452,833 466,836 474,833 493,833 500,843 522,843 522,835 565,834 590,834 590,842 599,842 609,836 629,836 635,843 655,843 664,834 695,834 695,873 664,873 664,867 635,866 629,873 609,873 609,866 590,866 590,872 559,874 522,874 522,866 452,865 452,872 419,872 419,864 360,865 360,871 339,871 329,863 310,867 238,867 109,862" />
+				<Baseline points="109,861 695,867" />
+				<TextEquiv index="1">
+					<Unicode>kommen laſſen/ ſie moͤchten euch ſonſt nach</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r10l3" points="108,873 120,870 139,870 139,879 152,878 165,878 179,879 191,870 216,870 226,877 244,872 260,871 298,871 303,872 323,874 323,881 364,881 364,871 371,871 407,873 420,874 420,882 458,882 475,883 475,874 494,874 494,883 513,883 594,884 594,875 626,875 637,884 666,884 666,875 690,875 690,889 697,889 732,892 732,895 730,895 697,905 690,905 690,914 666,914 666,907 637,907 626,914 594,914 594,907 559,907 548,914 531,914 531,908 512,908 494,906 494,913 475,913 475,904 458,905 432,909 420,909 407,906 371,911 364,911 364,904 340,904 339,911 321,911 321,903 298,903 298,911 272,911 260,911 260,904 216,907 191,907 179,901 139,901 139,908 120,908 120,902 108,902" baseline="108,901 220,902 547,906 732,905" reason: models differ | Wikisource: ihrer so vilfältigen Abzwagung auch auß | next_nc_e1: ihrer ſo vilfaͤltigen Abzwagung auch auß- | german_print2_15: ihrer ſo vilfaͤltigen Abzwagung auch auß⸗ -->
+			<TextLine id="r10l4" custom="readingOrder {index:4;}">
+				<Coords points="109,919 137,919 137,913 147,912 162,912 163,919 201,918 220,913 262,913 262,919 294,921 308,925 317,912 334,912 334,921 371,921 401,917 412,914 430,914 430,922 444,922 456,914 474,914 474,923 485,923 485,914 531,914 548,917 548,924 558,924 567,916 584,916 607,918 607,925 621,925 621,919 630,919 630,925 684,925 684,916 710,916 724,933 732,933 732,956 684,956 607,948 584,948 584,954 567,954 558,948 548,951 531,951 531,957 485,957 485,946 474,946 474,953 456,953 444,946 430,946 430,952 412,952 412,945 220,947 137,945 109,942" />
+				<Baseline points="109,942 194,943 307,947 317,949 390,945 732,949" />
+				<TextEquiv index="1">
+					<Unicode>reiben wollen; dann ihr handelt hierinnen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l5" custom="readingOrder {index:5;}">
+				<Coords points="108,953 120,951 138,951 139,960 179,961 184,952 198,950 250,950 281,950 281,961 329,962 339,955 344,955 344,962 357,962 357,955 375,955 375,962 429,955 449,955 449,964 461,960 478,960 518,964 546,960 604,960 615,966 664,961 696,961 716,971 722,971 722,988 716,988 696,997 664,997 664,988 646,988 626,994 615,994 604,963 597,963 597,988 518,988 518,998 499,998 499,992 478,994 429,994 415,991 415,985 344,984 344,994 339,994 233,992 233,984 139,982 138,989 120,989 120,982 108,982" />
+				<Baseline points="108,982 722,990" />
+				<TextEquiv index="1">
+					<Unicode>ihrer Mainung allerdings zuwider; und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l6" custom="readingOrder {index:6;}">
+				<Coords points="106,994 176,991 176,1000 207,997 287,997 300,1002 350,1003 366,994 380,994 380,987 400,987 400,1003 411,1003 411,987 428,987 428,1004 500,1002 536,1004 546,1002 605,1002 640,1006 645,998 683,998 684,1006 732,1005 732,1035 645,1038 645,1030 593,1033 564,1030 517,1029 517,1036 491,1036 463,1027 428,1027 428,1042 411,1042 411,1027 400,1027 400,1042 380,1042 380,1027 340,1025 243,1024 243,1033 225,1033 225,1023 207,1023 199,1029 136,1028 126,1023 106,1023" />
+				<Baseline points="106,1022 732,1032" />
+				<TextEquiv index="1">
+					<Unicode>diß ſey von denen Ducaten geredet/ welche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l7" custom="readingOrder {index:7;}">
+				<Coords points="106,1038 156,1038 267,1042 267,1034 283,1034 293,1043 334,1044 334,1036 345,1034 379,1034 379,1045 388,1045 392,1035 464,1036 464,1046 483,1046 483,1038 493,1038 538,1046 538,1038 555,1038 555,1047 610,1047 610,1039 624,1038 644,1038 644,1047 684,1047 684,1038 732,1039 732,1081 684,1081 684,1071 668,1071 668,1081 624,1081 561,1072 555,1072 555,1081 538,1081 491,1075 483,1071 464,1069 464,1075 445,1078 392,1078 388,1066 379,1066 379,1073 345,1073 344,1066 293,1066 292,1073 267,1073 267,1064 136,1068 136,1062 120,1062 120,1068 106,1068" />
+				<Baseline points="106,1061 387,1067 732,1072" />
+				<TextEquiv index="1">
+					<Unicode>zwar an ungewiſſer Schuld anzunehmen:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l8" custom="readingOrder {index:8;}">
+				<Coords points="108,1080 128,1080 128,1072 138,1072 138,1081 151,1081 151,1074 161,1072 194,1072 194,1080 209,1080 209,1072 225,1072 244,1074 297,1075 297,1083 408,1084 463,1080 463,1087 481,1087 481,1081 492,1081 492,1088 508,1085 534,1084 544,1078 604,1078 604,1088 653,1088 653,1080 663,1080 668,1087 732,1086 732,1098 715,1098 700,1119 668,1119 663,1111 641,1111 641,1118 624,1118 624,1111 589,1112 589,1118 569,1118 521,1114 509,1119 490,1119 483,1112 452,1113 438,1111 396,1110 396,1117 356,1117 356,1111 310,1109 254,1113 244,1107 225,1112 209,1112 209,1106 194,1106 194,1112 161,1112 152,1106 137,1106 129,1112 108,1112" />
+				<Baseline points="108,1112 323,1109 732,1111" />
+				<TextEquiv index="1">
+					<Unicode>gleichwol aber wegen einiger Maͤngel zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r10l9" points="605,1128 634,1128 634,1121 659,1121 659,1129 669,1129 683,1125 730,1125 730,1148 715,1148 698,1156 683,1156 657,1155 617,1154 605,1153" baseline="605,1153 730,1156" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: tadlen/
+ | german_print2_15: tadlen /
+ -->
+			<TextEquiv index="1">
+				<Unicode>kommen laſſen/ ſie moͤchten euch ſonſt nach
+reiben wollen; dann ihr handelt hierinnen
+ihrer Mainung allerdings zuwider; und
+diß ſey von denen Ducaten geredet/ welche
+zwar an ungewiſſer Schuld anzunehmen:
+gleichwol aber wegen einiger Maͤngel zu</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r11">
+			<Coords points="0,936 732,936 732,1336 0,1336" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+verunteutschten Namen / die sie ihren Schrifften vorzusetzen pflegen / sie mehr vor Griechen oder Lateiner / als geborne Teutsche halten würdet) so seynd sie mir doch liebe Gäst; stehets doch einem jeden frey / sich einen Hegel schelten zulassen / warumb solten wir uns selbst dann unser Gebühr nit gönnen?
+Ach wie wird es alßdann so schön und herrlich lauten / und so lustig zuhören seyn / wann alle Discurs und Gespräche so bund über meiner Taffel fallen / wie die edle Schecken / Bayrische Katzen und Tygerhund! wann es ein solch Gehack untereinander gibt / daß es nit gleich jeder Idiot verstehen: noch wissen kan / ob es in Knack- oder Leberwürst gefüllt werden soll! Aber da müssen wir keine Alles-teutsch-geber hinzu kommen lassen / sie möchten euch sonst nach ihrer so vilfältigen Abzwagung auch außreiben wollen; dann ihr handelt hierinnen ihrer Mainung allerdings zuwider; und diß sey von denen Ducaten geredet / welche zwar an ungewisser Schuld anzunehmen: gleichwol aber wegen einiger Mängel zu
+-->
+	</Page>
+</PcGts>

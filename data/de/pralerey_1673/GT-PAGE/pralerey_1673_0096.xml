@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:16:19</Created>
+		<LastChange>2026-11-23T11:16:19</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/96 revision 3271284 of 2018-07-31T16:12:44Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0096.png" imageWidth="732" imageHeight="1349">
+		<ReadingOrder>
+			<OrderedGroup id="ro13555637830104653306" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 732,0 732,42 0,42" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,879 32,879 32,927 0,927" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="114,88 732,88 732,331 114,331" />
+			<!-- line left out: id="r2l0" points="393,88 438,88 438,99 465,99 465,112 438,117 393,117" baseline="393,117 465,117" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 90. | german_print2_15: 90. -->
+			<!-- line left out: id="r2l1" points="115,123 128,123 171,123 171,131 183,131 183,123 206,122 230,120 248,120 280,120 280,128 310,127 325,127 335,112 353,112 353,126 367,126 377,127 389,128 390,121 422,120 440,120 440,112 458,112 458,119 473,119 473,112 490,112 538,112 538,126 549,126 549,112 567,112 567,124 572,124 595,125 615,116 675,116 693,119 693,129 696,129 696,150 693,150 693,162 639,162 622,162 622,155 615,155 572,152 567,152 567,170 549,170 549,151 538,151 538,170 520,170 520,164 497,164 490,170 473,170 473,156 458,156 458,170 440,170 440,158 410,163 390,163 389,151 367,151 367,165 353,170 335,170 325,151 311,152 280,155 254,155 206,155 194,162 183,162 183,156 171,156 171,162 128,162 115,162" baseline="115,156 324,152 335,151 696,150" reason: differs: "lich" against "Wört" | Wikisource:  | next_nc_e1: licher Woͤrter eytel Mißgeburten erſchei | german_print2_15: licher Woͤrter eytel Mißgeburten erſchet / -->
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="115,175 187,174 187,167 248,167 255,172 276,173 285,167 324,166 408,166 437,171 437,157 454,157 459,169 476,164 495,164 495,157 512,157 542,165 732,163 732,201 672,201 570,197 555,192 555,198 512,199 512,215 495,215 495,201 478,204 459,204 454,215 437,215 437,201 422,201 408,192 393,192 393,202 355,202 355,192 309,192 299,199 187,199 150,197 136,199 115,199" />
+				<Baseline points="115,204 672,198 732,201" />
+				<TextEquiv index="1">
+					<Unicode>nen muͤſſen/ oder es wenigſt das Anſehen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="114,208 143,208 177,211 202,216 202,205 214,205 229,210 254,213 254,203 294,203 294,211 317,211 324,201 373,201 396,206 434,202 467,201 615,201 624,236 635,236 635,201 682,206 682,199 690,199 690,206 697,206 707,214 732,214 732,242 697,245 563,243 563,234 542,234 537,240 467,240 467,232 378,233 373,239 324,239 294,235 229,235 177,239 155,239 155,246 114,246" />
+				<Baseline points="114,237 732,228" />
+				<TextEquiv index="1">
+					<Unicode>hat/ als wolte ſich das dapffer Teutſch wie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="116,252 147,250 147,256 158,256 167,248 205,246 205,256 223,253 251,252 292,247 305,247 305,253 325,253 339,247 352,247 352,237 371,237 371,249 385,249 388,241 422,241 422,252 433,252 433,241 449,241 493,251 493,243 523,243 544,241 602,241 622,246 635,242 687,242 732,244 732,283 708,283 698,277 687,277 687,283 621,280 621,273 609,273 602,283 586,283 586,275 573,275 573,283 544,283 534,274 523,274 523,280 493,280 493,273 477,273 477,283 433,283 433,274 422,274 422,280 388,280 385,274 371,274 371,289 352,289 352,273 305,275 305,285 292,285 284,274 116,280" />
+				<Baseline points="116,279 324,274 732,274" />
+				<TextEquiv index="1">
+					<Unicode>die Narren in der Faßnacht verkleyden/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l5" points="116,292 126,292 126,286 142,286 170,286 207,286 207,295 227,294 249,293 267,293 267,285 285,285 285,293 325,293 325,287 334,284 350,284 350,291 357,291 369,283 395,282 412,282 442,282 442,293 458,293 458,282 475,282 475,293 488,293 488,283 510,283 510,293 524,293 535,275 552,275 552,292 565,292 565,282 580,282 580,292 597,288 610,288 628,292 640,284 732,284 732,324 668,324 628,321 610,321 610,314 598,314 598,322 579,322 579,315 552,315 552,331 535,331 524,314 510,315 488,315 488,321 458,321 458,315 412,315 412,321 395,321 369,316 357,327 344,327 344,320 334,320 325,315 313,315 313,326 284,326 267,323 267,316 249,317 191,318 181,318 181,324 142,324 126,324 116,320" baseline="116,320 219,317 356,314 732,314" reason: second model: differs: "bene" against "benange" | Wikisource: dieselbe naßweise Stümpler mögen oben | next_nc_e1: dieſelbe naßweiſe Stuͤmpler moͤgen oben⸗
+ | german_print2_15: dieſelbe naßweiſe Stuͤmpler moͤgen obene
+ -->
+			<TextEquiv index="1">
+				<Unicode>nen muͤſſen/ oder es wenigſt das Anſehen
+hat/ als wolte ſich das dapffer Teutſch wie
+die Narren in der Faßnacht verkleyden/</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="111,321 732,321 732,370 111,370" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="111,341 118,341 118,331 149,331 149,337 260,334 267,326 277,326 277,335 293,335 293,327 308,327 309,334 324,334 324,321 356,321 380,321 380,327 395,327 395,334 425,333 432,325 466,325 466,333 506,325 540,326 540,333 577,332 605,328 623,328 633,321 653,321 732,323 732,364 674,363 671,370 658,370 653,354 605,354 578,360 540,357 540,363 491,363 491,356 466,356 466,363 449,363 432,358 413,356 413,363 394,363 394,355 380,355 380,363 363,363 363,355 341,355 341,363 324,363 324,356 238,356 238,364 218,364 218,357 179,358 178,366 160,366 159,359 149,361 118,361 118,348 111,348" />
+				<Baseline points="111,362 259,356 595,351 732,344" />
+				<TextEquiv index="1">
+					<Unicode>angeregte lobwuͤrdige Teutſche zu den klu⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>angeregte lobwuͤrdige Teutſche zu den klu⸗</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="114,361 732,361 732,1171 114,1171" />
+			<!-- line left out: id="r4l0" points="120,379 141,378 173,378 180,368 195,367 214,367 226,368 244,370 244,376 267,376 267,367 290,367 290,375 336,373 354,373 377,374 377,365 393,365 393,372 417,369 427,365 443,365 443,374 460,374 460,365 467,365 491,369 536,369 536,361 567,361 573,369 583,365 601,365 601,374 613,373 632,373 632,365 639,365 646,371 663,371 699,372 710,387 713,387 713,401 663,404 646,404 632,402 632,395 601,395 601,402 583,402 583,396 573,396 567,412 536,412 536,397 491,397 467,402 443,402 427,402 426,396 393,396 393,402 377,402 377,396 322,398 303,398 290,396 290,404 267,404 267,397 244,398 226,398 226,405 195,405 195,399 154,400 142,400 142,408 120,408" baseline="120,400 172,399 321,397 466,396 638,395 713,395" reason: second model: differs: "rgam" against " gantze" | Wikisource: gen Chinesern verweisen/ die in ihrer gan | next_nc_e1: gen Chineſern verweiſen/ die in ihrer gan | german_print2_15: gen Chineſern verweiſen / die in ihrer gam -->
+			<!-- line left out: id="r4l1" points="116,448 122,417 142,417 174,418 182,408 227,408 227,417 239,416 271,416 271,408 301,408 326,411 358,412 363,405 390,401 406,401 432,401 432,409 455,409 455,415 461,415 473,408 486,408 486,416 497,416 497,408 499,401 515,401 515,408 526,408 526,401 558,401 558,407 569,407 569,401 588,401 588,407 592,407 613,413 639,409 647,407 669,405 703,405 709,414 732,414 732,447 703,450 669,450 665,441 616,441 613,441 592,419 592,444 588,444 588,454 569,454 569,444 558,444 558,454 526,454 526,438 515,438 515,454 499,454 499,438 486,438 455,438 455,445 432,445 432,454 406,454 390,454 389,436 358,437 343,438 307,438 301,445 271,445 271,438 240,438 240,446 208,446 182,441 143,440 142,449 121,450 116,450" baseline="116,441 173,440 300,438 388,437 664,436 732,436" reason: second model: differs: "tzen" against "er g" | Wikisource: tzen Sprach das R nicht brauchen; will ihn | next_nc_e1: tzen Sprach das R nicht brauchen; will ihn | german_print2_15: tzen Sprach das K nicht brauchen; will ih ) -->
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="120,459 195,459 195,448 254,448 261,458 288,457 288,441 307,441 316,455 365,456 365,450 376,450 376,456 385,456 394,450 424,450 424,458 450,456 450,449 493,449 493,457 533,456 533,449 552,449 600,455 600,441 619,441 619,455 732,454 732,488 691,488 691,482 672,482 672,476 619,477 619,492 600,492 600,477 555,479 552,486 533,486 533,478 493,478 493,486 450,486 450,479 376,480 366,484 334,487 307,492 288,492 280,487 195,486 195,480 120,482" />
+				<Baseline points="120,482 261,479 732,475" />
+				<TextEquiv index="1">
+					<Unicode>nen auch gantz nit verwehren/ wann ſie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l3" points="118,494 133,492 164,492 172,499 219,499 219,490 238,490 276,490 276,483 292,483 299,492 322,490 339,490 339,497 353,497 353,490 371,490 377,493 407,497 410,490 443,490 443,498 457,498 467,487 486,487 512,487 572,487 572,496 611,496 611,490 643,490 666,495 666,450 712,450 712,530 666,530 666,516 643,518 572,518 572,526 557,526 557,519 531,519 531,526 512,526 467,526 467,520 443,522 410,522 395,520 395,528 371,528 353,528 353,520 339,520 339,526 322,526 316,520 292,520 292,534 276,534 276,527 238,527 219,527 219,520 203,522 164,522 164,530 133,530 133,524 118,524" baseline="118,524 202,521 276,520 712,516" reason: models differ | Wikisource: ihnen auch die jenige Großdüncker mit au | next_nc_e1: ihnen auch die jenige Großduͤncker mit au | german_print2_15: ihnen auch die jenige Großdüncker mit anf -->
+			<TextLine id="r4l4" custom="readingOrder {index:4;}">
+				<Coords points="123,536 162,536 175,540 182,531 231,531 231,539 311,539 311,531 327,531 327,539 356,538 356,531 358,531 478,533 485,538 494,529 562,529 572,527 590,527 604,529 604,536 629,537 629,527 653,527 680,531 703,532 732,537 732,561 703,561 653,558 590,559 590,567 572,567 562,559 527,559 526,567 494,567 485,560 395,561 358,569 356,569 356,560 300,560 300,569 231,569 209,569 209,562 162,565 123,565" />
+				<Baseline points="123,563 732,556" />
+				<TextEquiv index="1">
+					<Unicode>den Weeg geben/ die ein Handwerck da⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l5" custom="readingOrder {index:5;}">
+				<Coords points="176,573 193,573 199,580 216,580 216,559 233,559 233,580 244,580 245,572 264,572 264,559 281,559 281,579 295,579 295,559 311,559 323,575 342,575 354,577 407,580 407,573 424,571 439,571 439,579 450,579 450,559 467,559 467,571 481,571 481,559 518,559 518,578 550,579 550,559 565,559 577,568 601,568 601,577 640,577 640,569 670,563 690,563 690,575 704,575 710,563 732,563 732,610 670,610 640,604 640,598 629,600 577,601 565,614 550,614 550,599 518,600 518,614 481,614 481,601 467,601 467,614 450,614 450,600 439,602 323,602 311,614 295,614 295,602 281,602 281,614 264,614 264,607 245,607 244,601 233,601 233,614 216,614 216,603 193,608 176,608" />
+				<Baseline points="176,603 732,597" />
+				<TextEquiv index="1">
+					<Unicode>ß machen/ der vollkommenen Teutſchen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l6" points="163,613 178,613 241,613 247,621 258,621 258,612 274,612 285,614 285,621 309,621 309,612 326,612 327,621 344,620 354,615 389,611 406,611 406,620 424,620 424,611 453,611 469,612 485,614 499,619 504,608 559,608 565,609 567,618 603,618 617,619 626,611 641,611 641,625 654,625 654,619 669,617 679,615 704,615 704,624 732,624 732,649 704,649 704,638 680,643 670,646 654,646 654,639 617,640 591,641 559,641 469,641 453,643 424,643 414,642 406,647 389,647 379,641 327,641 326,648 309,648 309,641 297,642 285,643 274,648 241,648 221,650 163,650" baseline="163,644 378,641 732,638" reason: second model: differs: "prac" against "Spra" | Wikisource: prach allerhand frembde Wörter beyzu | next_nc_e1: prach allerhand frembde Woͤrter beyzu⸗
+ | german_print2_15: prach allerhand frembde Wörter beyzu⸗/
+ -->
+			<TextLine id="r4l7" custom="readingOrder {index:7;}">
+				<Coords points="114,658 165,651 230,651 230,644 274,644 274,651 431,651 431,661 448,659 504,659 504,648 576,652 576,658 589,658 599,649 660,649 669,650 669,658 712,659 712,675 710,675 705,686 679,686 669,679 576,680 576,688 513,688 513,680 431,681 431,688 390,688 359,692 274,696 230,696 208,692 208,684 181,684 181,692 165,692 165,686 152,686 143,692 123,692 123,686 114,686" />
+				<Baseline points="114,686 712,677" />
+				<TextEquiv index="1">
+					<Unicode>flicken/ und durch ſolche unnoͤthige Ankley⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l8" custom="readingOrder {index:8;}">
+				<Coords points="116,696 133,696 133,687 151,687 151,703 201,704 201,698 219,697 228,697 228,703 239,703 239,694 260,693 295,696 295,702 347,700 347,693 409,692 418,692 418,699 452,701 452,694 472,694 472,701 483,701 483,692 510,692 510,699 522,699 522,692 564,691 605,691 613,698 623,693 635,693 658,698 707,697 707,730 690,730 690,719 624,724 538,720 537,728 522,728 522,720 510,720 510,728 494,728 494,722 472,721 472,728 452,728 452,722 428,723 418,728 402,730 347,730 347,723 313,723 313,730 294,730 294,723 271,724 261,728 239,728 203,723 203,732 191,732 178,726 160,726 151,736 133,736 133,726 116,726" />
+				<Baseline points="116,725 707,718" />
+				<TextEquiv index="1">
+					<Unicode>bung dieſelbige mehr verſtellen/ als zieren;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l9" custom="readingOrder {index:9;}">
+				<Coords points="116,756 123,756 125,737 189,736 189,743 221,735 232,735 232,742 244,742 244,736 274,733 297,733 297,742 337,742 337,735 409,732 456,732 475,733 476,741 492,740 501,735 534,733 553,733 553,740 581,740 581,732 599,732 599,739 667,734 683,730 706,730 730,751 732,751 732,764 683,765 599,761 599,768 581,768 571,761 476,762 475,768 308,768 297,765 297,771 290,774 231,774 223,772 205,772 196,765 189,765 189,773 167,773 167,765 158,765 154,775 125,775 123,759 116,759" />
+				<Baseline points="116,767 195,765 409,764 526,759 732,760" />
+				<TextEquiv index="1">
+					<Unicode>ja ihr gleichſamb die Schand anthun/ als</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l10" points="128,785 145,785 145,767 167,767 167,785 185,785 211,784 222,784 223,775 239,775 239,767 254,767 264,776 282,776 297,783 327,778 354,778 382,782 413,783 426,773 451,773 493,773 544,773 553,781 594,780 612,780 627,781 627,772 644,771 657,771 657,781 670,779 695,777 723,776 732,776 732,813 723,813 705,806 698,809 670,809 670,801 644,802 612,803 595,807 576,807 575,801 553,801 544,809 525,809 525,802 501,803 493,808 451,810 426,810 318,805 282,806 264,806 254,817 239,817 223,812 222,806 185,807 167,807 167,817 145,817 145,809 128,809" baseline="128,808 211,806 264,805 543,801 732,800" reason: differs: "ſiemund" against "ie in u" | Wikisource:  | next_nc_e1: wann ſie m und vor ſich ſelbſt unvollkom- | german_print2_15: wann ſie m und vor ſich ſelbſt unvollkom -->
+			<TextLine id="r4l11" custom="readingOrder {index:11;}">
+				<Coords points="131,815 162,815 162,825 185,826 185,815 192,815 222,824 233,824 233,815 278,815 278,803 307,803 316,824 411,824 411,815 429,813 480,813 513,822 524,814 545,814 545,823 560,823 560,814 628,812 678,807 732,807 732,854 678,854 667,848 497,851 497,843 480,843 480,849 446,852 411,850 399,846 398,852 381,852 381,845 316,846 307,858 278,858 278,850 131,848" />
+				<Baseline points="131,848 191,846 732,840" />
+				<TextEquiv index="1">
+					<Unicode>men: und ſo mangelhafftig ſey/ daß ſie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l12" points="127,858 145,858 145,866 155,866 156,858 176,858 176,867 195,867 195,859 211,859 227,861 241,866 248,856 268,855 287,855 309,855 311,865 335,864 368,859 379,859 406,859 416,846 433,846 433,864 460,864 461,856 476,856 476,863 489,863 514,863 521,864 534,858 574,858 603,862 634,858 657,853 672,853 680,850 705,850 706,865 732,865 732,896 706,896 705,882 683,883 672,885 657,885 634,884 603,883 585,884 476,884 460,885 433,885 433,900 416,900 406,886 326,886 288,887 196,888 176,888 176,896 156,896 156,888 145,888 145,896 127,896" baseline="127,888 240,887 405,885 520,884 643,883 657,883 732,879" reason: second model: differs: "ſon," against "sonder " | Wikisource: frembde Wörter nit entberen könnte/ son | next_nc_e1: frembde Woͤrter nit entberen koͤnnte/ ſon⸗ | german_print2_15: frembde Woͤrter nit entberen koͤnnte / ſon, -->
+			<!-- line left out: id="r4l13" points="128,898 158,898 158,907 171,907 176,901 193,901 227,903 248,901 257,901 258,907 286,905 325,905 325,899 340,899 345,906 381,901 398,901 410,904 468,904 501,905 509,899 526,897 539,897 539,905 556,905 569,894 585,893 604,893 604,903 614,903 615,894 632,893 658,893 705,894 705,900 732,900 732,936 704,936 687,934 687,922 668,923 642,924 632,926 615,926 604,924 604,936 585,936 585,926 569,926 526,925 501,926 468,926 425,926 381,927 363,927 340,926 326,927 227,928 171,928 158,930 128,930" baseline="128,930 176,927 345,925 732,922" reason: second model: differs: "derd" against "e/ s" | Wikisource: der das ein und andere von den Außländi | next_nc_e1: der das ein und andere von den Außlaͤndi⸗ | german_print2_15: der das ein und andere von den Außlaͤndi⸗ g -->
+			<TextLine id="r4l14" custom="readingOrder {index:14;}">
+				<Coords points="130,939 175,939 186,944 238,944 247,938 268,938 268,947 280,947 280,938 298,938 298,945 341,945 341,938 363,938 377,941 399,953 404,940 441,940 460,945 474,937 488,937 488,944 500,944 500,937 525,937 536,944 604,944 604,935 619,935 638,937 639,943 672,942 672,935 680,935 732,937 732,977 712,977 706,965 662,964 619,964 619,977 604,977 604,964 525,966 404,966 399,958 377,969 367,969 363,975 341,975 341,968 298,967 298,975 280,975 280,967 175,968 175,977 147,977 130,977" />
+				<Baseline points="130,969 584,964 732,965" />
+				<TextEquiv index="1">
+					<Unicode>ſchen entlehnen/ oder wol gar erbettlen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l15" custom="readingOrder {index:15;}">
+				<Coords points="129,987 145,987 145,979 180,979 203,981 214,979 256,982 257,988 272,988 279,982 296,982 304,971 321,971 321,977 373,980 373,986 385,986 390,975 492,975 492,986 515,986 522,976 627,975 627,984 673,984 673,978 682,978 682,984 697,980 731,980 731,1014 681,1013 674,1006 627,1005 627,1012 610,1012 610,1005 600,1005 588,1011 562,1011 552,1006 522,1011 492,1006 492,1013 439,1013 439,1007 427,1007 427,1013 409,1013 390,1008 346,1006 332,1014 321,1018 304,1018 304,1007 214,1011 203,1009 129,1011" />
+				<Baseline points="129,1011 213,1007 731,1004" />
+				<TextEquiv index="1">
+					<Unicode>muſte; da doch die Tropffen ſelbſt ihre aig⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l16" custom="readingOrder {index:16;}">
+				<Coords points="127,1027 161,1028 167,1019 199,1019 209,1021 210,1027 279,1028 279,1019 314,1018 314,1029 336,1030 337,1018 365,1018 380,1022 409,1022 423,1016 431,1016 431,1025 442,1025 443,1016 467,1016 475,1019 485,1027 546,1027 546,1018 554,1018 554,1026 609,1025 623,1022 677,1026 677,1007 693,1007 732,1011 732,1070 693,1074 677,1074 677,1047 636,1050 586,1047 533,1047 532,1056 485,1056 475,1049 467,1049 467,1056 451,1056 442,1050 431,1050 431,1056 423,1056 409,1048 371,1048 365,1056 337,1056 336,1048 314,1048 314,1056 279,1055 254,1050 127,1052" />
+				<Baseline points="127,1051 364,1048 732,1046" />
+				<TextEquiv index="1">
+					<Unicode>ne Mutterſprach nit voͤllig gelernet/ noch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l17" custom="readingOrder {index:17;}">
+				<Coords points="127,1068 149,1068 149,1059 184,1059 184,1067 196,1067 217,1070 217,1060 272,1060 272,1069 283,1069 284,1061 301,1061 301,1069 333,1068 333,1079 339,1079 339,1086 333,1090 301,1090 301,1098 284,1098 283,1089 272,1089 272,1096 259,1098 233,1098 217,1098 217,1090 184,1091 184,1098 149,1098 143,1095 127,1092" />
+				<Baseline points="127,1092 339,1088" />
+				<TextEquiv index="1">
+					<Unicode>recht verſtehen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l18" points="211,1097 259,1097 259,1106 286,1106 293,1100 340,1100 340,1109 380,1109 387,1099 402,1097 421,1097 421,1109 432,1109 432,1101 450,1097 475,1092 513,1092 563,1092 567,1105 586,1105 606,1104 622,1104 626,1086 652,1086 652,1096 713,1096 713,1129 681,1129 681,1177 652,1181 626,1181 622,1130 586,1132 567,1132 563,1145 513,1145 475,1145 432,1140 432,1133 421,1133 421,1140 402,1140 402,1133 356,1134 259,1134 211,1134" baseline="211,1134 285,1133 621,1129 713,1129" reason: differs: "sTen" against " Teutsc" | Wikisource:  | next_nc_e1: Das Wort Gehey iſt bey uns Ten
+ | german_print2_15: Das Wort Gehey iſt bey uns Ten,
+ -->
+			<TextLine id="r4l19" custom="readingOrder {index:19;}">
+				<Coords points="673,1146 685,1142 713,1142 713,1171 685,1171 673,1170" />
+				<Baseline points="673,1170 713,1171" />
+				<TextEquiv index="1">
+					<Unicode>en</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>nen auch gantz nit verwehren/ wann ſie
+den Weeg geben/ die ein Handwerck da⸗
+ß machen/ der vollkommenen Teutſchen
+flicken/ und durch ſolche unnoͤthige Ankley⸗
+bung dieſelbige mehr verſtellen/ als zieren;
+ja ihr gleichſamb die Schand anthun/ als
+men: und ſo mangelhafftig ſey/ daß ſie
+ſchen entlehnen/ oder wol gar erbettlen
+muſte; da doch die Tropffen ſelbſt ihre aig⸗
+ne Mutterſprach nit voͤllig gelernet/ noch
+recht verſtehen.
+en</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Wörter eytel Mißgeburten erscheinen müssen / oder es wenigst das Ansehen hat / als wolte sich das dapffer Teutsch wie die Narren in der Faßnacht verkleyden / dieselbe naßweise Stümpler mögen obenangeregte lobwürdige Teutsche zu den klugen Chinesern verweisen / die in ihrer gantzen Sprach das R nicht brauchen; will ihnen auch gantz nit verwehren / wann sie ihnen auch die jenige Großdüncker mit auff den Weeg geben / die ein Handwerck darauß machen / der vollkommenen Teutschen Sprach allerhand frembde Wörter beyzuflicken / und durch solche unnöthige Ankleybung dieselbige mehr verstellen / als zieren; ja ihr gleichsamb die Schand anthun / als wann sie in und vor sich selbst unvollkommen: und so mangelhafftig sey / daß sie frembde Wörter nit entberen könnte / sonder das ein und andere von den Außländischen entlehnen / oder wol gar erbettlen muste; da doch die Tropffen selbst ihre aigne Muttersprach nit völlig gelernet / noch recht verstehen.
+Das Wort Gehey ist bey uns Teutschen
+-->
+	</Page>
+</PcGts>

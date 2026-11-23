@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:14:07</Created>
+		<LastChange>2026-11-23T11:14:07</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/7 revision 3271255 of 2018-07-31T16:12:35Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0007.png" imageWidth="732" imageHeight="1334">
+		<ReadingOrder>
+			<OrderedGroup id="ro9673497231455820464" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="46,88 583,88 583,170 46,170" />
+			<!-- line left out: id="r0l0" points="46,147 86,147 86,126 236,126 236,88 289,88 583,92 583,161 299,161 289,170 236,170 236,160 86,160 86,152 46,152" baseline="46,159 583,161" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: eh h h
+ | german_print2_15:  s ern r r ehs rere -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="59,219 613,219 613,381 59,381" />
+			<!-- line left out: id="r1l0" points="230,219 276,219 276,243 296,238 323,238 369,238 378,223 398,223 589,231 613,231 613,263 589,263 417,269 398,269 398,280 378,280 369,268 323,268 323,287 296,287 296,269 230,269" baseline="230,269 368,268 416,268 613,270" reason: differs: "tJ.F" against "I. Lob" | Wikisource:  | next_nc_e1: Caput J. F | german_print2_15: Caput J. S -->
+			<!-- line left out: id="r1l1" points="59,293 92,293 93,306 116,306 116,294 140,294 178,297 178,305 195,305 214,306 225,294 287,294 287,307 304,307 326,306 350,306 350,294 390,294 436,296 437,307 462,307 463,298 502,298 502,305 525,305 572,306 572,324 587,324 587,338 572,341 544,341 525,338 525,346 500,346 500,339 462,340 390,342 372,347 350,347 350,338 325,339 305,339 304,347 261,347 225,343 195,339 178,337 153,335 140,381 116,381 116,336 92,340 59,340" baseline="59,335 587,338" reason: second model: differs: "Loßd" against "ut I" | Wikisource: Lob der Sprachkündigen. | next_nc_e1: Lob der Sprachkuͤndigen.
+ | german_print2_15: Loß der Sprachkuͤndigen.
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="34,353 610,353 610,528 34,528" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="95,353 168,353 169,362 191,357 227,357 241,362 241,371 252,371 252,362 276,362 282,370 307,370 307,362 324,362 324,370 337,370 337,362 401,364 470,372 470,366 486,366 493,372 506,368 564,367 564,373 576,373 576,366 608,368 608,395 471,394 415,397 401,393 401,400 380,400 380,393 371,393 364,400 337,400 337,392 324,392 324,400 300,400 282,400 276,393 235,393 227,400 191,400 191,393 169,393 168,399 95,399" />
+				<Baseline points="95,393 282,392 521,393 608,395" />
+				<TextEquiv index="1">
+					<Unicode>ehr als gewiß iſts/ und es wirds</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l1" points="149,414 168,411 191,411 191,402 232,402 240,411 259,411 259,405 267,405 290,410 290,404 310,404 310,410 335,410 357,411 357,404 373,404 373,411 387,411 387,404 427,402 433,397 449,397 449,406 460,406 460,412 474,412 486,402 502,397 518,397 519,402 519,411 532,411 545,413 545,405 555,405 555,397 571,397 581,402 582,397 598,397 598,412 610,412 610,435 598,435 598,450 582,450 582,435 571,435 571,450 555,450 555,442 545,442 545,434 532,435 518,435 518,450 502,450 502,435 460,435 449,434 449,450 433,450 433,434 427,434 418,440 387,440 387,433 375,434 373,434 373,440 357,440 357,434 334,434 323,433 310,433 310,440 290,440 290,433 260,433 240,433 232,440 210,440 210,446 191,446 191,434 168,434 167,446 149,446" baseline="149,434 240,433 486,434 610,435" reason: second model has no such line | Wikisource: auch nimmermehr kein Verstän | next_nc_e1: auch nimmermehr kein Verſtaͤn⸗ | german_print2_15:  -->
+			<!-- line left out: id="r2l2" points="149,441 184,441 192,446 192,452 207,452 207,441 222,441 222,452 247,449 266,449 308,452 308,445 330,445 330,452 347,451 373,451 373,445 394,445 432,444 441,444 481,444 568,446 609,446 609,477 544,477 523,481 441,481 432,481 373,477 330,474 300,474 266,474 222,474 222,481 191,481 184,474 149,474" baseline="149,473 432,474 527,475 609,477" reason: models differ | Wikisource: diger verneinen/ daß es einem | next_nc_e1: diger verneinen/ daß es einem | german_print2_15: Ldiger verneinen / daß es einem -->
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="34,482 69,482 69,468 77,468 77,494 108,493 108,463 129,463 129,490 152,490 155,459 175,459 175,484 194,484 194,493 224,494 224,484 254,484 254,459 274,459 274,492 293,492 301,486 339,485 349,485 349,491 360,491 366,482 412,482 412,492 423,492 423,485 437,482 537,482 547,493 562,491 608,491 608,516 366,516 322,514 318,520 301,520 293,514 274,514 274,528 254,528 254,519 224,520 194,517 175,517 175,528 155,528 152,517 129,515 34,515" />
+				<Baseline points="34,515 608,515" />
+				<TextEquiv index="1">
+					<Unicode>Manns⸗Menſchen (die Weibsbilder wer⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ehr als gewiß iſts/ und es wirds
+Manns⸗Menſchen (die Weibsbilder wer⸗</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {3;}">
+			<Coords points="0,117 15,117 15,363 0,363" />
+			<!-- line left out: id="r3l0" points="0,117 15,117 15,363 0,363" baseline="13,363 12,136" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: —  —
+ | german_print2_15: —
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="0,523 626,523 626,1099 0,1099" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="35,528 61,528 84,533 93,525 173,525 183,532 201,532 245,529 270,524 297,524 302,532 331,532 341,523 355,523 372,524 372,533 384,533 384,524 407,523 447,523 463,524 463,533 470,533 485,525 497,525 497,533 527,533 532,525 554,525 562,529 563,535 612,527 620,527 620,529 612,529 609,556 554,560 463,556 463,562 422,562 400,562 384,562 384,555 355,555 355,562 341,562 331,555 297,560 270,560 270,554 183,555 173,561 144,561 144,555 101,554 101,561 93,561 84,555 35,555" />
+				<Baseline points="35,555 620,556" />
+				<TextEquiv index="1">
+					<Unicode>den billich von dieſem Geſchaͤfft in ſeiner</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="34,573 65,573 65,564 80,564 80,574 92,574 93,568 100,564 130,564 195,564 195,574 211,574 211,564 262,564 307,564 307,573 332,572 332,564 380,564 416,564 416,574 472,565 485,565 485,572 511,573 511,565 529,565 541,574 561,574 561,568 568,565 598,565 598,572 608,572 608,597 598,597 598,603 568,603 568,596 550,596 550,606 541,606 529,596 458,599 416,596 416,602 387,602 387,595 369,595 369,601 332,602 332,595 321,595 321,601 291,602 291,594 262,594 262,602 211,601 211,595 195,597 188,602 154,597 147,603 100,602 100,595 80,595 80,603 34,603" />
+				<Baseline points="34,595 608,597" />
+				<TextEquiv index="1">
+					<Unicode>gewiſſen Maaß ausgeſchloſſen/ weil nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="35,606 84,606 93,614 163,608 172,605 187,605 197,614 227,611 242,611 256,613 257,605 288,605 308,602 334,602 334,613 451,613 469,609 484,609 494,603 508,603 508,614 519,614 519,605 529,603 549,603 564,606 564,614 609,613 612,636 626,636 626,645 612,645 609,637 564,636 564,644 519,643 519,636 508,636 508,645 494,645 484,635 382,637 334,635 334,641 298,643 257,641 256,635 215,634 214,643 197,643 187,635 35,636" />
+				<Baseline points="35,636 308,635 626,638" />
+				<TextEquiv index="1">
+					<Unicode>viel auf die geraifte Frauen und erfahrne</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="32,644 67,644 67,653 111,654 111,644 132,644 132,654 202,654 202,646 219,646 227,644 256,644 256,653 318,652 320,647 328,647 328,653 340,648 361,645 446,645 446,653 457,653 464,642 484,642 513,642 522,646 529,656 538,656 553,646 570,646 570,654 610,654 617,677 623,677 623,679 580,678 570,683 553,683 538,677 446,676 446,683 417,683 410,691 389,691 377,680 361,680 342,676 292,675 287,692 268,692 268,676 244,676 244,692 227,692 219,683 202,683 202,676 190,676 190,683 172,683 168,676 132,675 132,683 98,683 98,675 67,675 67,683 32,683" />
+				<Baseline points="32,675 464,676 623,678" />
+				<TextEquiv index="1">
+					<Unicode>Jungfern gehalten wird) nicht uͤbel: ſon⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l4" custom="readingOrder {index:4;}">
+				<Coords points="33,690 51,690 64,694 108,694 108,686 143,686 143,694 199,695 199,686 264,690 276,693 276,687 284,687 310,692 310,699 318,699 324,693 335,689 377,689 385,683 392,683 412,683 436,686 459,683 473,683 479,695 484,685 537,685 537,694 548,694 548,685 564,685 578,688 578,694 607,692 607,722 594,722 578,718 578,724 548,724 548,718 537,718 537,724 444,723 444,716 392,717 392,723 385,723 377,716 310,716 284,721 185,717 143,717 143,726 108,726 108,716 33,716" />
+				<Baseline points="33,716 385,716 607,718" />
+				<TextEquiv index="1">
+					<Unicode>der recht wol/ zier⸗ und loͤblich anſtehet/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l5" custom="readingOrder {index:5;}">
+				<Coords points="35,734 147,734 152,718 168,718 168,733 179,729 209,727 209,718 224,718 224,725 272,725 272,734 312,734 312,718 330,718 330,726 343,726 343,718 362,718 378,722 387,734 400,734 400,725 428,725 428,734 440,734 440,726 459,726 459,735 493,735 493,725 513,725 513,735 525,735 546,726 607,727 607,758 513,763 513,772 493,772 493,758 459,757 459,764 440,764 440,757 428,757 428,764 414,764 414,772 387,772 378,756 362,756 362,768 312,768 312,756 290,756 290,763 271,763 249,759 224,757 224,768 209,768 209,757 168,758 168,768 152,768 147,757 35,757" />
+				<Baseline points="35,756 607,759" />
+				<TextEquiv index="1">
+					<Unicode>wann er vieler Sprachen erfahren; Und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l6" custom="readingOrder {index:6;}">
+				<Coords points="0,771 60,775 115,775 121,769 165,766 214,766 230,768 230,775 265,770 315,771 321,765 336,763 352,763 366,766 366,774 379,774 379,763 410,763 410,775 421,771 447,769 447,776 495,773 495,744 514,744 537,748 537,775 598,776 606,780 606,797 598,799 586,799 586,805 568,805 562,798 537,798 537,805 514,809 495,809 495,797 464,797 464,804 447,804 447,797 394,797 394,804 379,804 379,795 366,797 352,797 352,804 336,804 321,799 301,797 230,797 230,803 199,803 199,797 179,797 179,803 165,803 160,797 60,797 0,800" />
+				<Baseline points="0,797 606,797" />
+				<TextEquiv index="1">
+					<Unicode>wann ein ſolcher das Lobwuͤrdige/ ſo er ge⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l7" custom="readingOrder {index:7;}">
+				<Coords points="32,806 54,806 55,816 136,812 182,808 198,808 198,815 211,815 220,804 275,804 275,814 294,814 294,804 310,804 313,810 347,806 373,806 395,809 402,806 419,806 419,814 435,814 443,806 469,806 469,800 485,800 486,815 522,815 522,800 549,800 549,808 558,808 558,816 582,816 590,812 608,812 608,839 502,839 502,845 469,845 419,841 373,841 294,844 294,837 275,837 275,843 250,843 250,837 237,837 237,844 209,844 209,837 153,839 32,839" />
+				<Baseline points="32,839 170,837 608,839" />
+				<TextEquiv index="1">
+					<Unicode>lernet und begriffen/ ſeinem Vatterland</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l8" custom="readingOrder {index:8;}">
+				<Coords points="31,855 88,856 95,848 112,848 112,855 123,855 124,849 158,848 158,856 174,856 193,855 210,850 252,846 308,846 308,854 341,854 347,845 365,845 407,845 437,845 447,848 447,856 539,855 545,848 580,848 580,856 598,856 598,862 606,862 606,879 539,883 482,883 456,879 447,885 393,885 393,878 381,878 381,884 365,885 347,885 341,878 313,878 308,885 281,885 252,885 246,878 174,879 158,884 124,884 123,877 101,878 101,884 95,884 88,878 59,883 31,883" />
+				<Baseline points="31,878 474,878 606,880" />
+				<TextEquiv index="1">
+					<Unicode>zum beſten: und ſeinem Naͤchſten zum Nu⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l9" custom="readingOrder {index:9;}">
+				<Coords points="0,896 102,895 112,888 126,888 126,896 148,896 148,888 170,888 170,897 264,895 264,889 316,889 316,895 392,887 477,887 477,896 494,896 498,889 543,889 543,882 567,882 575,890 606,890 606,936 598,936 598,928 584,928 584,936 578,936 575,928 567,940 543,940 543,926 503,926 503,919 477,919 477,927 392,927 386,919 348,919 316,917 316,925 282,926 264,926 254,919 243,919 243,926 225,926 217,919 197,919 187,926 169,926 169,920 126,920 126,926 0,925" />
+				<Baseline points="0,919 606,919" />
+				<TextEquiv index="1">
+					<Unicode>tzen anzulegen genaigt und befliſſen iſt/ ſo iſt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l10" custom="readingOrder {index:10;}">
+				<Coords points="32,937 59,937 68,930 108,930 114,928 143,928 154,937 195,937 195,929 212,929 212,937 290,936 290,928 308,928 308,937 321,937 321,928 338,928 338,936 399,933 425,928 479,928 479,936 501,936 564,932 598,932 598,942 606,942 606,959 584,965 479,965 425,965 416,959 321,964 321,957 308,957 308,964 290,964 290,958 249,963 236,963 212,959 212,965 195,965 195,959 184,962 143,965 114,965 108,960 32,960" />
+				<Baseline points="32,960 226,958 606,959" />
+				<TextEquiv index="1">
+					<Unicode>er billich mehr zu ehren und hervor zu zie⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l11" custom="readingOrder {index:11;}">
+				<Coords points="32,968 52,968 52,977 62,977 69,974 107,970 155,968 169,968 178,978 190,978 190,968 203,968 217,971 225,977 264,977 264,968 292,968 292,977 309,972 336,968 358,968 382,977 382,968 398,968 398,978 451,974 468,974 480,977 510,978 515,969 530,969 530,978 546,978 563,974 574,969 591,969 591,975 604,975 604,1002 515,1003 489,1001 398,999 398,1006 382,1006 382,999 358,999 358,1006 336,1006 325,998 311,999 292,1004 264,1004 264,998 225,999 217,1013 190,1013 190,999 169,999 169,1005 155,1005 155,999 96,1001 69,1001 52,999 52,1006 32,1006" />
+				<Baseline points="32,999 417,999 604,1002" />
+				<TextEquiv index="1">
+					<Unicode>hen/ als ſonſt tauſend ſeiner andern Lands⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l12" custom="readingOrder {index:12;}">
+				<Coords points="0,1004 21,1004 45,1009 45,1018 83,1017 83,1009 150,1012 150,1018 163,1018 173,1011 210,1011 210,1018 223,1018 232,1009 250,1009 261,1012 300,1017 333,1016 346,1008 392,1009 392,1018 441,1018 441,1010 457,1009 510,1009 510,1018 527,1015 604,1014 604,1042 527,1044 510,1041 510,1048 457,1048 423,1047 406,1041 392,1041 392,1048 377,1048 377,1042 261,1039 261,1055 249,1055 249,1045 232,1045 173,1040 163,1046 149,1046 149,1039 116,1043 100,1047 83,1047 83,1040 33,1041 21,1057 0,1057" />
+				<Baseline points="0,1040 173,1039 604,1042" />
+				<TextEquiv index="1">
+					<Unicode>leuth/ die nur hinterm Ofen geſeſſen/ und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l13" points="3,1060 34,1058 55,1058 55,1050 63,1049 114,1049 126,1059 138,1055 178,1055 219,1056 234,1049 247,1047 263,1047 263,1058 273,1058 347,1055 386,1051 437,1050 465,1049 524,1049 535,1050 546,1061 562,1056 591,1056 606,1059 606,1085 573,1085 564,1084 535,1085 524,1085 524,1092 465,1092 437,1091 429,1084 361,1086 347,1086 322,1085 263,1085 247,1085 234,1083 191,1082 156,1082 114,1082 96,1082 96,1099 78,1099 78,1087 63,1087 56,1080 34,1080 20,1099 3,1099" baseline="3,1079 546,1084 606,1085" reason: models differ | Wikisource: nichts anders können/ als Aepffel oder | next_nc_e1: nichts anders koͤnnen/ als Aepffel oder
+ | german_print2_15: nichts anders konnen / als Aepffel oder
+ -->
+			<TextEquiv index="1">
+				<Unicode>den billich von dieſem Geſchaͤfft in ſeiner
+gewiſſen Maaß ausgeſchloſſen/ weil nicht
+viel auf die geraifte Frauen und erfahrne
+Jungfern gehalten wird) nicht uͤbel: ſon⸗
+der recht wol/ zier⸗ und loͤblich anſtehet/
+wann er vieler Sprachen erfahren; Und
+wann ein ſolcher das Lobwuͤrdige/ ſo er ge⸗
+lernet und begriffen/ ſeinem Vatterland
+zum beſten: und ſeinem Naͤchſten zum Nu⸗
+tzen anzulegen genaigt und befliſſen iſt/ ſo iſt
+er billich mehr zu ehren und hervor zu zie⸗
+hen/ als ſonſt tauſend ſeiner andern Lands⸗
+leuth/ die nur hinterm Ofen geſeſſen/ und</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="0,1086 607,1086 607,1175 0,1175" />
+			<!-- line left out: id="r5l0" points="0,1086 11,1086 72,1088 134,1091 134,1098 140,1098 173,1098 211,1099 211,1132 184,1136 177,1136 152,1133 140,1136 134,1136 134,1125 72,1125 35,1125 0,1123" baseline="0,1125 134,1128 211,1130" reason: models differ | Wikisource: Birn braten. | next_nc_e1: Birn braten. | german_print2_15: Birn braten⸗ -->
+			<!-- line left out: id="r5l1" points="348,1130 542,1130 607,1132 607,1175 544,1175 348,1174" baseline="348,1172 607,1174" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: De
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="0,681 19,681 19,908 0,908" />
+		</GraphicRegion>
+		<GraphicRegion id="r7">
+			<Coords points="0,1196 732,1196 732,1334 0,1334" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="0,0 732,0 732,108 0,108" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Caput I.
+Lob der Sprachkündigen.
+Mehr als gewiß ists / und es wirds auch nimmermehr kein Verständiger verneinen / daß es einem Manns-Menschen (die Weibsbilder werden billich von diesem Geschäfft in seiner gewissen Maaß ausgeschlossen / weil nicht viel auf die geraifte Frauen und erfahrne Jungfern gehalten wird) nicht übel: sonder recht wol / zier- und löblich anstehet / wann er vieler Sprachen erfahren; Und wann ein solcher das Lobwürdige / so er gelernet und begriffen / seinem Vatterland zum besten: und seinem Nächsten zum Nutzen anzulegen genaigt und beflissen ist / so ist er billich mehr zu ehren und hervor zu ziehen / als sonst tausend seiner andern Landsleuth / die nur hinterm Ofen gesessen / und nichts anders können / als Aepffel oder Birn braten.
+-->
+	</Page>
+</PcGts>

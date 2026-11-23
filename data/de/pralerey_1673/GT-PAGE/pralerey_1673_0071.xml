@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:15:42</Created>
+		<LastChange>2026-11-23T11:15:42</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/71 revision 3271257 of 2018-07-31T16:12:36Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0071.png" imageWidth="732" imageHeight="1292">
+		<ReadingOrder>
+			<OrderedGroup id="ro13552050896396747589" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 732,0 732,197 0,197" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="594,19 732,19 732,121 594,121" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="0,62 648,62 648,1095 0,1095" />
+			<!-- line left out: id="r2l0" points="288,64 308,64 346,62 435,62 435,74 346,74 344,97 310,97 288,92" baseline="288,92 435,92" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 65. | german_print2_15: 65.
+ -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="4,100 92,100 92,108 108,104 126,104 165,108 174,102 197,102 218,106 264,109 264,100 302,100 302,110 313,105 325,102 351,100 365,100 365,109 392,109 399,101 485,100 485,109 514,104 522,104 522,96 536,96 554,102 569,102 569,109 596,109 596,124 598,124 598,129 596,133 554,133 547,139 536,144 522,144 522,132 485,133 485,139 417,139 399,138 392,132 365,132 365,138 325,138 313,136 302,132 302,138 264,138 264,131 137,134 125,131 111,130 111,138 4,138" />
+				<Baseline points="4,132 253,131 598,133" />
+				<TextEquiv index="1">
+					<Unicode>Maͤgden; deren naͤrriſchen Hoffart ich la⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l2" points="6,142 35,140 70,140 70,149 95,149 101,136 118,136 118,146 132,146 144,148 144,140 164,140 197,145 197,136 214,136 214,148 224,148 240,149 267,141 288,141 288,149 298,149 322,150 322,142 340,142 355,141 403,141 403,150 414,149 437,149 452,150 452,144 470,144 478,150 518,150 528,144 538,144 564,146 598,148 598,173 549,173 538,178 528,178 470,175 452,175 403,173 355,173 340,172 288,176 267,176 240,170 224,171 214,171 214,184 197,184 197,173 164,176 144,176 144,170 118,170 118,184 101,184 95,171 70,171 70,178 6,178" baseline="6,170 101,170 267,171 598,173" reason: models differ | Wikisource: chen muß/ wann sie alle Wort einem jeden | next_nc_e1: chen muß/ wann ſie alle Wort einem jeden | german_print2_15: ichen muß / wann ſie alle Wort einem jeden
+ -->
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="6,181 80,178 147,178 167,179 167,187 216,187 216,170 232,170 239,179 260,179 273,188 317,186 317,179 333,179 351,182 351,189 369,189 369,179 411,179 437,181 437,170 530,170 530,181 541,181 541,170 597,170 597,222 541,222 541,215 530,215 530,222 437,222 437,215 411,218 369,218 361,211 351,211 351,218 317,218 317,211 273,210 260,216 239,216 232,222 216,222 216,210 179,211 167,214 147,216 80,216 70,211 35,211 6,186" />
+				<Baseline points="6,210 597,211" />
+				<TextEquiv index="1">
+					<Unicode>Buchſtaben nach ausſpꝛechen wollen; wel⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l4" points="4,218 61,218 61,227 111,226 129,226 129,213 148,213 148,226 213,226 243,227 258,220 274,220 274,213 291,213 291,220 292,220 293,228 304,223 337,221 351,220 370,220 402,220 411,228 424,228 463,228 478,229 478,221 506,221 506,228 535,225 553,220 580,220 606,224 628,259 635,259 635,262 628,262 578,260 578,251 546,254 535,254 506,252 506,258 478,258 478,251 424,252 402,257 370,257 337,257 314,250 305,251 293,251 291,266 274,266 274,251 231,251 201,250 201,256 183,256 183,250 148,250 148,266 129,266 129,252 101,256 83,256 73,249 61,249 61,255 32,255 4,252" baseline="4,252 72,249 83,249 635,251" reason: models differ | Wikisource: che gezwungene Weiß mich ermahnet/ als | next_nc_e1: che gezwungene Weiß mich ermahnet/ als | german_print2_15: iche gezwungene Weiß mich ermahnet / als
+ -->
+			<!-- line left out: id="r2l5" points="1,287 15,287 27,265 57,265 72,266 72,258 82,258 82,266 122,266 133,259 152,259 152,266 199,261 226,261 262,263 266,254 281,254 330,254 330,261 341,261 352,254 367,254 391,254 404,259 404,267 428,265 441,265 441,254 456,254 456,264 463,264 484,269 495,270 508,261 522,261 641,261 641,264 508,264 495,290 456,290 456,303 441,303 441,290 428,290 413,296 404,298 391,303 367,303 352,303 341,297 330,297 330,303 281,303 266,303 262,289 237,290 217,290 199,290 190,289 152,288 152,294 133,294 122,288 57,288 27,288 15,299 1,299" baseline="1,287 173,288 494,290 641,293" reason: models differ | Wikisource: wolten sie andere ererst recht reden lernen/ | next_nc_e1: wolten ſie andere ererſt recht reden lernen/ | german_print2_15: wolten ſie andere ererſt recht reden lernen
+ -->
+			<!-- line left out: id="r2l6" points="3,311 14,311 28,305 54,300 113,300 113,306 130,305 156,305 188,306 189,298 198,298 198,305 220,305 232,297 272,297 272,307 289,307 289,300 304,300 353,300 361,302 361,308 372,308 372,300 389,300 389,308 399,308 409,309 418,299 447,299 447,308 465,308 500,307 548,304 564,304 580,302 600,302 600,330 580,331 535,331 500,331 500,337 483,337 483,331 447,331 447,337 418,337 409,330 389,330 389,336 372,336 372,330 353,330 353,336 331,336 320,329 272,330 232,330 198,328 156,328 113,328 113,334 91,334 78,328 14,331 3,331" baseline="3,327 600,329" reason: second model: differs: "Rwie" against "/ wi" | Wikisource: wie jener alte Krebs seinen Jungen das | next_nc_e1: wie jener alte Krebs ſeinen Jungen das | german_print2_15: Rwie jener alte Krebs ſeinen Jungen das
+ -->
+			<!-- line left out: id="r2l7" points="8,372 31,346 49,345 62,344 78,343 96,339 106,339 115,336 140,336 168,337 176,336 191,336 193,345 205,345 211,337 227,335 255,335 277,335 316,335 316,352 330,347 348,347 360,348 360,339 376,339 376,347 388,347 388,337 407,337 411,350 419,350 436,344 451,344 504,344 504,331 531,331 531,344 555,340 583,340 583,346 595,346 595,369 583,369 583,375 555,375 531,370 531,382 504,382 504,370 419,372 411,372 376,369 376,376 360,376 360,369 348,369 348,376 330,376 325,367 316,367 316,378 277,378 262,378 262,368 239,368 239,378 211,378 205,367 193,367 191,375 162,375 154,373 140,368 140,375 128,375 128,367 117,368 97,368 78,368 62,367 50,366 50,375 8,375" baseline="8,367 330,368 504,369 595,370" reason: second model: differs: "grav" against "n da" | Wikisource: gravitätische Fürsich-gehen; dann es ste | next_nc_e1: gravitaͤtiſche Fuͤrſich⸗ gehen; dann es ſte⸗ | german_print2_15: gravituͤtiſche Fuͤrſich⸗gehen; dann es ſte⸗
+ -->
+			<!-- line left out: id="r2l8" points="0,380 50,380 76,378 91,377 108,377 108,385 119,385 119,371 137,371 137,384 180,384 180,375 216,375 227,383 289,383 312,393 316,386 340,386 340,380 362,380 389,382 427,386 434,377 468,377 499,377 529,377 532,380 532,386 543,386 543,378 567,377 590,377 606,379 606,409 590,409 590,416 567,416 543,416 543,409 532,409 532,416 468,416 434,416 427,409 342,409 316,409 312,395 289,412 216,413 180,413 180,406 152,408 137,408 137,420 119,420 119,407 108,407 108,413 91,413 91,407 76,407 50,406 50,413 27,415 0,415" baseline="0,406 167,406 606,409" reason: models differ | Wikisource: het ihnen offt an/ wie dem Zaunstecken | next_nc_e1: het ihnen offt an/ wie dem Zaunſtecken | german_print2_15: a het ihnen offt an / wie dem Zaunſtecken
+ -->
+			<!-- line left out: id="r2l9" points="1,416 72,416 72,423 102,423 102,416 185,416 185,424 194,424 205,414 228,414 238,417 238,425 248,425 264,421 272,421 272,410 287,410 287,426 304,422 314,422 333,425 333,410 352,410 352,421 375,418 385,418 385,426 402,425 413,425 413,418 428,418 428,426 452,426 452,418 474,418 474,410 519,410 519,426 596,426 596,452 576,452 558,449 540,449 519,448 519,459 474,459 474,452 428,452 413,452 375,449 352,448 352,459 333,459 333,448 314,452 304,452 287,449 287,459 272,459 265,454 248,454 248,448 228,449 205,449 194,440 1,440" baseline="1,448 193,447 205,447 518,448 596,452" reason: second model: differs: "icgM" against "Mens" | Wikisource: Menschliche Kleyder/ und lautet/ als wann | next_nc_e1: Menſchliche Kleyder/ und lautet/ als wann | german_print2_15: icg Menſchliche Kleyder / und lautet / als wann
+ -->
+			<!-- line left out: id="r2l10" points="0,455 23,455 32,463 117,458 149,458 187,462 204,455 256,455 256,477 280,454 296,454 340,454 347,457 373,460 373,466 396,466 396,454 412,454 421,458 433,466 453,466 453,460 488,457 521,457 521,465 548,465 548,459 562,457 581,457 581,465 597,465 597,488 581,488 581,495 548,495 548,488 521,489 488,489 412,488 412,494 396,494 396,488 373,488 347,488 347,494 321,494 311,489 296,494 280,494 256,483 187,487 149,487 120,487 117,487 64,486 32,486 23,496 0,496" baseline="0,486 117,484 260,483 280,487 597,488" reason: second model: differs: "6man" against "wann" | Wikisource: man einen s. h. Kühedreck mit Ruthen | next_nc_e1: man einen ſ. h. Kuͤhedreck mit Ruthen | german_print2_15: 6 man einen ſ. h. Kuͤhedreck mit Ruthen
+ -->
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="0,498 53,496 54,502 114,501 124,504 133,494 169,494 169,502 261,503 261,496 297,496 300,490 314,490 314,504 331,504 331,498 340,497 420,496 421,504 433,504 456,500 465,497 483,497 483,506 495,504 520,505 531,496 551,496 558,490 572,490 572,504 591,504 598,508 598,525 591,527 572,527 572,538 558,538 551,529 483,528 483,534 465,534 465,527 421,528 420,534 366,534 340,532 332,527 314,527 314,538 300,538 297,532 261,532 261,526 199,525 199,532 180,532 180,525 169,525 169,532 115,531 114,525 54,524 53,531 34,531 0,528" />
+				<Baseline points="0,523 456,527 598,525" />
+				<TextEquiv index="1">
+					<Unicode>hauet; pflegen auch mit ſolcher ihrer Uber⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="0,532 62,532 78,537 78,543 103,541 103,532 118,532 118,541 147,541 154,532 181,532 194,533 194,541 213,542 225,540 242,540 281,543 281,536 299,536 299,544 338,544 338,536 355,536 355,543 416,538 452,538 452,544 463,544 470,536 481,536 481,544 519,544 519,536 565,536 565,528 604,528 604,578 565,578 536,574 536,567 481,567 481,574 470,574 463,567 427,567 403,570 390,570 355,565 355,573 281,573 246,566 201,565 194,571 77,571 77,564 62,564 62,571 31,570 6,540 0,540" />
+				<Baseline points="0,563 416,565 604,568" />
+				<TextEquiv index="1">
+					<Unicode>ſteigung oͤffters anzugehen/ wie neulich ei⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="33,582 44,579 92,579 113,581 113,573 181,573 181,580 198,580 217,577 247,577 269,582 271,574 300,574 300,583 314,583 314,574 331,574 331,583 344,583 344,574 373,574 373,583 413,584 413,578 492,576 492,584 509,584 509,569 525,569 536,575 551,575 551,569 568,569 568,584 600,584 600,606 568,606 568,617 551,617 551,607 536,607 525,617 509,617 509,607 492,612 469,612 469,605 373,610 358,612 314,612 314,605 300,605 300,612 271,612 269,604 233,605 181,603 181,613 113,613 113,603 92,607 44,607 33,604" />
+				<Baseline points="33,604 600,606" />
+				<TextEquiv index="1">
+					<Unicode>ner/ welcher einer Jungfer mit diſen Wor⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l14" points="0,612 7,612 33,621 83,620 90,620 90,608 107,608 133,608 141,622 295,622 313,613 371,613 376,622 390,622 390,616 407,616 407,623 418,623 418,616 438,616 438,622 449,621 489,620 504,620 504,608 518,608 518,622 531,622 543,608 560,608 603,608 603,656 560,656 543,656 531,645 518,645 518,656 504,656 504,646 438,646 371,651 347,652 313,652 295,643 152,643 141,643 133,656 107,656 90,656 90,643 75,644 33,644 7,650 0,650" baseline="0,644 83,642 603,646" reason: models differ | Wikisource: ten eins zubrachte: Ich wollete von Her | next_nc_e1: ten eins zubrachte: Jch wollete von Her⸗ | german_print2_15: a ten eins zubrachte: Ich wollete von Her⸗
+ -->
+			<!-- line left out: id="r2l15" points="9,682 31,659 79,659 143,659 195,654 254,654 254,660 283,659 292,659 292,649 307,649 307,655 332,655 332,662 361,662 361,653 371,653 380,657 389,654 405,654 405,661 428,661 468,662 477,663 489,653 504,653 504,662 523,662 533,649 551,649 551,662 590,662 599,666 599,683 590,685 571,685 571,692 551,696 533,696 533,685 504,685 504,691 489,691 477,684 468,685 441,685 428,686 404,686 391,685 378,685 349,684 349,691 331,691 331,685 310,685 307,696 292,696 292,685 283,685 161,683 143,682 128,681 128,689 101,689 97,682 61,683 50,683 50,689 31,689 9,687" baseline="9,683 96,682 172,682 599,684" reason: models differ | Wikisource: tzenn gerne meiner vielgeliebetenn Jungen | next_nc_e1: tzenn gerne meiner vielgeliebetenn Jungen⸗ | german_print2_15: n tzenn gerne meiner vielgeliebatenn Jungen⸗ -->
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="29,691 44,691 44,700 138,699 142,690 183,690 188,696 211,691 228,691 228,700 241,700 241,692 254,692 254,700 265,695 276,695 291,700 291,691 427,693 450,692 450,701 462,701 462,693 484,693 484,686 529,686 604,686 604,735 529,735 484,735 484,725 450,724 450,730 435,730 435,724 410,724 410,730 319,730 319,724 253,724 189,722 183,722 183,728 142,728 138,721 44,723 44,729 29,729" />
+				<Baseline points="29,723 203,722 604,724" />
+				<TextEquiv index="1">
+					<Unicode>frauenn diſes kaleine Galaͤſeleinn mit Wei⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="30,739 111,739 111,732 126,732 126,739 140,739 140,733 168,733 168,739 216,738 235,740 244,732 284,731 329,731 329,740 341,740 341,733 372,731 393,731 393,740 485,732 513,732 513,741 566,742 566,732 581,732 581,741 602,741 602,764 581,764 581,770 548,770 540,764 513,763 513,769 485,769 475,763 432,762 393,769 349,769 329,764 305,763 305,769 284,769 244,768 235,762 186,761 186,768 168,768 168,761 126,761 93,766 30,762" />
+				<Baseline points="30,762 602,764" />
+				<TextEquiv index="1">
+					<Unicode>ne zubringenn. Welchem die Jungfer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="32,779 195,778 224,770 268,770 268,778 323,780 338,771 381,771 381,777 481,780 488,771 516,771 517,780 565,781 565,771 582,771 582,780 602,780 602,803 582,803 582,810 543,810 535,803 517,803 516,809 488,809 481,802 381,802 381,809 338,809 323,802 32,802" />
+				<Baseline points="32,802 224,801 602,803" />
+				<TextEquiv index="1">
+					<Unicode>antwortet: Wann ihrs eurer Jungen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l19" points="31,809 57,809 57,818 78,818 78,809 95,809 95,818 135,818 146,810 158,810 158,817 172,817 185,818 185,810 207,810 214,817 225,817 243,818 243,811 259,811 290,811 290,820 317,819 336,819 336,811 348,811 409,811 450,816 450,810 473,810 510,810 548,812 548,820 570,819 604,819 623,824 623,833 610,833 604,846 570,846 548,842 548,849 531,849 531,843 510,848 473,848 459,848 459,841 431,841 409,848 348,849 336,849 336,842 317,842 317,849 290,849 273,849 273,841 244,841 225,845 214,845 135,841 104,841 95,847 78,847 78,841 69,841 57,840 57,847 31,847" baseline="31,840 146,840 431,841 623,842" reason: second model: hyphen at the line end, but the word ends in Wikisource | Wikisource: Frauen wolt zubringen/ so dörfft ihr zu | next_nc_e1: Frauen wolt zubringen/ ſo doͤrfft ihr zu | german_print2_15: Frauen wolt zubringen / ſo doͤrfft ihr zu⸗ -->
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="26,852 42,852 42,858 56,858 56,852 79,852 85,858 115,849 147,849 147,857 154,857 165,849 207,849 207,857 280,858 284,849 312,848 327,848 366,848 366,857 421,858 510,853 525,853 578,859 578,853 592,853 603,857 603,882 534,884 524,882 460,881 460,888 441,888 433,881 357,881 357,887 312,887 295,881 147,880 147,886 115,886 107,881 26,882" />
+				<Baseline points="26,882 78,880 603,881" />
+				<TextEquiv index="1">
+					<Unicode>mir nicht kommen! Haͤtte er geredet/ wie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l21" points="31,898 54,894 71,894 97,896 133,896 133,881 148,881 148,889 160,889 168,891 168,897 198,897 211,898 227,888 242,888 242,881 261,881 261,898 275,897 309,897 356,898 356,889 369,889 369,898 380,898 380,889 395,889 395,898 406,897 420,897 420,889 433,889 458,896 463,890 485,890 493,898 508,898 508,889 537,889 537,899 576,897 602,897 602,922 576,922 536,921 523,920 523,927 508,927 508,920 493,920 485,927 433,927 420,927 406,925 395,920 395,927 380,927 380,920 356,920 347,927 328,927 309,921 276,921 261,921 261,931 242,931 242,921 227,921 168,920 160,925 148,925 148,931 133,931 133,920 97,921 43,922 31,922" baseline="31,922 70,921 132,920 210,919 328,920 432,925 493,922 561,921 602,922" reason: differs: "ernet/ſ" against "erntet/" | Wikisource:  | next_nc_e1: ers von ſeiner Mutter gelernet/ ſo waͤre er | german_print2_15: ers von ſeiner Mutter gelernet / ſo waͤre er -->
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="29,928 39,928 73,931 73,938 85,938 85,932 92,928 123,928 123,936 133,936 139,929 154,929 154,937 163,937 167,928 207,928 207,937 219,937 219,931 229,928 254,928 265,929 268,938 289,938 289,932 300,932 311,937 314,930 356,930 356,938 377,937 411,930 427,930 427,937 482,936 510,933 527,933 572,938 572,965 427,960 427,966 411,966 411,960 365,960 365,967 339,967 339,960 265,965 229,965 220,959 207,959 207,965 167,965 163,959 154,959 154,966 139,966 133,959 123,959 123,965 92,965 85,961 47,962 39,965 29,965" />
+				<Baseline points="29,962 132,959 572,959" />
+				<TextEquiv index="1">
+					<Unicode>villeicht ſo hoͤniſch nit abgewiſen worden;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l23" points="104,969 137,969 148,971 158,969 176,969 176,976 202,976 217,977 217,967 232,967 271,967 272,977 322,976 343,976 352,969 400,968 408,968 453,968 499,968 499,977 523,976 533,976 581,977 581,968 593,968 593,980 601,980 601,997 593,999 582,1000 569,1000 540,999 511,998 511,1005 484,1005 484,998 473,998 473,1005 453,1005 427,1004 417,999 408,1005 390,1006 352,1006 352,999 298,1000 272,1000 258,999 258,1005 207,1005 202,999 176,999 176,1005 158,1005 158,999 138,999 137,1005 104,1005" baseline="104,999 201,998 601,997" reason: second model has no such line | Wikisource: Hieher gehören auch dieselbige/ wel | next_nc_e1: Hieher gehoͤren auch dieſelbige/ wel⸗ | german_print2_15:  -->
+			<TextLine id="r2l24" custom="readingOrder {index:24;}">
+				<Coords points="0,1044 34,1008 142,1008 142,1016 225,1016 225,1009 291,1010 291,1017 347,1016 347,1009 402,1007 431,1007 431,1017 472,1016 472,1008 500,1007 507,1007 568,1008 575,1015 602,1015 602,1038 568,1038 568,1051 514,1051 507,1044 472,1044 472,1038 390,1043 347,1043 323,1038 256,1044 225,1044 225,1037 142,1039 142,1045 123,1045 123,1039 110,1039 110,1045 34,1045 5,1051 0,1051" />
+				<Baseline points="0,1039 602,1038" />
+				<TextEquiv index="1">
+					<Unicode>che nimmermehr ein recht Teutſch Wort</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l25" points="0,1045 19,1045 106,1050 106,1038 134,1038 134,1056 146,1056 160,1046 174,1046 174,1038 191,1038 198,1048 223,1048 223,1056 288,1056 288,1046 305,1046 338,1047 338,1056 351,1055 359,1055 359,1046 392,1046 393,1056 423,1056 423,1048 445,1048 445,1038 554,1038 554,1048 604,1048 648,1053 648,1056 643,1056 604,1091 554,1095 445,1095 423,1091 423,1080 392,1085 377,1085 377,1091 359,1091 359,1077 338,1077 338,1085 312,1086 305,1091 288,1091 288,1080 236,1081 223,1081 191,1080 191,1095 174,1095 174,1083 160,1083 134,1081 134,1095 106,1095 106,1081 19,1082 0,1082" baseline="0,1082 81,1081 553,1077 648,1079" reason: second model: differs: "nmit" against "mit " | Wikisource: mit einer Silben außsprechen/ sondern dem | next_nc_e1: mit einer Silben außſprechen/ ſondern dem
+ | german_print2_15: n mit einer Silben außſprechen / ſondern dem
+ -->
+			<TextEquiv index="1">
+				<Unicode>Maͤgden; deren naͤrriſchen Hoffart ich la⸗
+Buchſtaben nach ausſpꝛechen wollen; wel⸗
+hauet; pflegen auch mit ſolcher ihrer Uber⸗
+ſteigung oͤffters anzugehen/ wie neulich ei⸗
+ner/ welcher einer Jungfer mit diſen Wor⸗
+frauenn diſes kaleine Galaͤſeleinn mit Wei⸗
+ne zubringenn. Welchem die Jungfer
+antwortet: Wann ihrs eurer Jungen
+mir nicht kommen! Haͤtte er geredet/ wie
+villeicht ſo hoͤniſch nit abgewiſen worden;
+che nimmermehr ein recht Teutſch Wort</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="0,197 24,197 24,433 0,433" />
+		</GraphicRegion>
+		<GraphicRegion id="r4">
+			<Coords points="0,1158 732,1158 732,1292 0,1292" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Mägden; deren närrischen Hoffart ich lachen muß / wann sie alle Wort einem jeden Buchstaben nach aussprechen wollen; welche gezwungene Weiß mich ermahnet / als wolten sie andere ererst recht reden lernen / wie jener alte Krebs seinen Jungen das gravitätische Fürsich-gehen; dann es stehet ihnen offt an / wie dem Zaunstecken Menschliche Kleyder / und lautet / als wann man einen s. h. Kühedreck mit Ruthen hauet; pflegen auch mit solcher ihrer Ubersteigung öffters anzugehen / wie neulich einer / welcher einer Jungfer mit disen Worten eins zubrachte: Ich wollete von Hertzenn gerne meiner vielgeliebetenn Jungenfrauenn dises kaleine Galäseleinn mit Weine zubringenn. Welchem die Jungfer antwortet: Wann ihrs eurer Jungen Frauen wolt zubringen / so dörfft ihr zu mir nicht kommen! Hätte er geredet / wie ers von seiner Mutter gelerntet / so wäre er villeicht so hönisch nit abgewisen worden;
+Hieher gehören auch dieselbige / welche nimmermehr ein recht Teutsch Wort mit einer Silben außsprechen / sondern dem
+-->
+	</Page>
+</PcGts>

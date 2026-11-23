@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T08:06:10</Created>
+		<LastChange>2026-11-23T08:06:10</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Ein_kurtzweilig_lesen_von_Dyl_Vlenspiegel.djvu/259 revision 3306684 of 2018-07-31T21:31:22Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="vlenspiegel_1515_0259.png" imageWidth="1370" imageHeight="2098">
+		<ReadingOrder>
+			<OrderedGroup id="ro13208865669944151872" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="209,177 855,177 855,342 209,342" />
+			<!-- line left out: id="r0l0" points="209,184 327,184 327,198 377,198 434,192 487,192 614,193 676,194 725,177 819,177 819,189 855,189 855,250 819,252 725,252 614,250 552,251 487,254 377,258 271,258 209,256" baseline="209,256 434,255 675,249 855,250" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Das Cxxx blat | german_print2_15: Das CXXX blat -->
+			<TextLine id="r0l1" custom="readingOrder {index:1;}">
+				<Coords points="479,279 541,279 541,300 559,300 559,287 593,285 622,285 622,297 670,297 670,285 700,285 712,287 712,298 739,298 739,279 769,279 769,297 795,297 795,331 769,331 769,342 739,342 739,332 712,332 700,330 700,341 645,341 645,329 622,329 622,341 593,341 593,329 559,329 559,342 511,342 511,331 479,331" />
+				<Baseline points="479,331 795,332" />
+				<TextEquiv index="1">
+					<Unicode>Epithaphium.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Epithaphium.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="275,495 938,495 938,624 275,624" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="275,495 389,495 389,514 426,514 436,504 486,504 502,509 502,517 527,517 539,502 561,502 561,519 576,519 576,508 657,510 657,516 678,516 678,510 745,510 780,514 788,504 916,504 916,517 938,517 938,550 916,550 916,557 895,557 895,548 875,548 875,557 788,557 780,548 561,549 561,556 539,556 527,548 486,549 486,558 436,558 426,550 389,550 389,561 275,561" />
+				<Baseline points="275,549 788,548 938,550" />
+				<TextEquiv index="1">
+					<Unicode>Diſſen ſtein ſol niemans erhaben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="298,560 355,560 355,568 367,568 367,577 391,577 391,560 412,560 432,565 432,581 451,581 451,568 466,568 474,560 495,560 495,569 516,569 516,560 537,560 537,569 552,566 588,566 588,579 610,579 611,570 639,565 685,565 685,577 698,577 715,566 768,566 768,574 788,574 788,566 814,566 814,578 837,578 837,567 879,566 879,577 911,577 912,593 925,593 925,608 879,609 879,619 853,619 853,607 837,609 814,609 814,619 747,619 747,609 685,609 685,620 639,620 629,610 588,610 588,619 541,624 464,624 464,609 452,609 452,621 412,624 391,624 391,611 347,612 347,624 326,624 326,612 298,612" />
+				<Baseline points="298,612 925,608" />
+				<TextEquiv index="1">
+					<Unicode>Vlenſpiegel ſtat hie begraben.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Diſſen ſtein ſol niemans erhaben
+Vlenſpiegel ſtat hie begraben.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r2">
+			<Coords points="236,686 959,686 959,1584 236,1584" />
+		</GraphicRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="127,1675 1104,1675 1104,1885 127,1885" />
+			<!-- line left out: id="r3l0" points="127,1684 266,1684 266,1692 283,1692 283,1684 328,1684 328,1692 330,1692 445,1693 445,1707 460,1707 460,1675 483,1675 483,1694 506,1694 506,1675 556,1675 564,1701 597,1701 615,1675 639,1675 639,1687 657,1687 657,1675 706,1675 706,1687 707,1687 707,1703 724,1703 724,1675 748,1675 748,1696 766,1696 766,1675 805,1675 805,1703 825,1703 855,1693 871,1693 871,1704 887,1704 899,1685 933,1685 933,1704 952,1699 972,1699 983,1679 1080,1679 1080,1689 1104,1689 1104,1735 1080,1735 1080,1746 983,1746 972,1733 952,1735 887,1736 855,1736 825,1750 805,1750 805,1758 766,1758 766,1739 748,1739 748,1758 724,1758 724,1738 707,1739 706,1739 706,1758 657,1758 657,1739 639,1739 639,1758 615,1758 597,1749 564,1749 556,1758 506,1758 506,1746 483,1746 483,1758 460,1758 460,1740 445,1740 445,1753 413,1753 395,1739 339,1739 328,1738 266,1738 127,1738" baseline="127,1738 329,1737 596,1736 971,1734 983,1734 1104,1735" reason: differs: "baned,G" against "hannes," | Wikisource:  | next_nc_e1: Getruckt võ Jobaned, Grieninger in der freien | german_print2_15: Getruett võ JYobanee, Grieninger in der freicll -->
+			<!-- line left out: id="r3l1" points="268,1754 313,1754 313,1766 328,1766 328,1760 348,1760 355,1752 424,1752 424,1763 454,1763 454,1769 467,1769 467,1752 498,1752 567,1752 567,1764 587,1764 587,1752 613,1752 613,1764 623,1764 647,1768 647,1751 700,1751 747,1753 747,1768 768,1768 768,1761 785,1761 791,1755 828,1755 828,1748 849,1748 849,1754 869,1754 869,1748 931,1748 931,1764 944,1764 944,1797 931,1797 931,1807 869,1807 869,1800 849,1800 849,1807 828,1807 828,1800 785,1801 769,1802 747,1802 747,1809 647,1809 647,1799 630,1799 623,1813 467,1813 467,1802 449,1802 424,1801 424,1813 398,1813 398,1803 355,1803 328,1799 313,1799 313,1814 268,1814" baseline="268,1798 791,1801 944,1797" reason: second model: differs: "ſtat" against "reie" | Wikisource: stat Straßburg/ vff sant Adolffo | next_nc_e1: ſtat Straßburg/ vff ſant Adolffo | german_print2_15: ſtat Straßburg / vff ſant Adoͤlffo -->
+			<!-- line left out: id="r3l2" points="332,1822 353,1818 377,1818 377,1826 407,1826 416,1817 448,1813 472,1813 497,1822 520,1822 520,1813 545,1813 545,1830 575,1830 575,1845 591,1845 598,1813 670,1813 670,1845 685,1845 692,1831 787,1831 788,1849 802,1849 810,1830 871,1830 871,1842 888,1842 888,1864 871,1864 871,1878 810,1878 802,1866 670,1871 598,1871 575,1868 545,1868 545,1885 472,1885 448,1885 448,1876 407,1877 377,1877 377,1885 353,1885 351,1877 351,1864 332,1864" baseline="332,1868 416,1867 888,1864" reason: differs: "miat.M." against " iar .M" | Wikisource:  | next_nc_e1: tag Im iat. M. ccc. xv⸗ | german_print2_15: tag Im iar. M. ccc. Ev⸗ -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Epithaphium.
+Dissen stein sol niemans erhaben
+Vlenspiegel stat hie begraben.
+Getruckt von Johannes, Grieninger in der freien stat Straßburg / vff sant Adolffotag Im iar .M.ccccc.xv.
+-->
+	</Page>
+</PcGts>

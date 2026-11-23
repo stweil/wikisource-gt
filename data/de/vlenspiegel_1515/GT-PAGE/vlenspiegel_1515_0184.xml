@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T08:04:21</Created>
+		<LastChange>2026-11-23T08:04:21</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Ein_kurtzweilig_lesen_von_Dyl_Vlenspiegel.djvu/184 revision 3306601 of 2018-07-31T21:30:55Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="vlenspiegel_1515_0184.png" imageWidth="1456" imageHeight="2098">
+		<ReadingOrder>
+			<OrderedGroup id="ro12771357086816489224" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="202,122 1326,122 1326,478 202,478" />
+			<!-- line left out: id="r0l0" points="448,122 544,122 544,141 632,141 643,127 815,127 835,130 835,146 880,146 880,131 904,131 923,134 923,127 963,127 963,134 997,134 997,127 1036,127 1036,232 901,232 901,208 881,208 881,225 828,225 828,217 815,217 815,232 739,232 739,206 705,206 705,232 643,232 632,201 544,201 544,221 448,221" baseline="448,198 631,202 643,202 1036,211" reason: differs: "Vonv" against "ferd" | Wikisource:  | next_nc_e1: Von vlenſpiegel | german_print2_15: Don vlenſpiegel -->
+			<!-- line left out: id="r0l1" points="472,302 512,302 552,302 631,303 690,303 690,295 733,295 733,303 742,303 782,308 836,308 916,311 1093,309 1128,309 1128,354 1029,357 938,357 938,344 916,344 916,357 905,357 836,343 782,343 733,343 733,361 690,361 690,343 654,348 620,348 552,338 472,338" baseline="472,338 620,338 905,344 1093,348 1128,349" reason: models differ | Wikisource: / vnd setzt im den schwantz wid | next_nc_e1: /vnd ſetzt im den ſchwantz wid | german_print2_15: vnd ſetzt im den ſchwantz wid -->
+			<!-- line left out: id="r0l2" points="202,305 231,301 266,301 297,348 352,348 352,301 411,301 411,352 452,352 452,301 476,301 507,364 537,364 537,350 576,350 596,301 643,301 643,353 675,353 730,354 784,362 834,362 852,367 859,357 877,357 877,350 903,350 903,363 918,363 918,350 948,350 951,378 969,378 969,314 995,314 995,363 1008,363 1008,371 1030,371 1030,314 1055,314 1147,314 1160,322 1175,322 1175,314 1201,314 1201,325 1252,322 1326,322 1326,425 1215,426 1201,426 1201,436 1175,436 1175,417 1160,417 1147,436 1099,436 1099,414 1076,414 1055,436 1030,436 1030,414 1008,414 1008,421 995,421 995,436 969,436 969,419 948,423 918,423 918,410 903,410 903,423 877,423 877,406 834,411 784,411 730,405 706,405 675,411 643,411 643,478 596,478 576,409 537,409 507,408 476,478 452,478 452,412 411,412 411,478 266,478 231,478 231,402 202,402" baseline="202,402 297,402 475,409 729,408 951,411 1054,421 1160,423 1326,427" reason: differs: "dera" against "er a" | Wikisource:  | next_nc_e1: der affan ch nac d et kein pſerd mer bey o
+ | german_print2_15: aafminncnaddene kein pſedmer ber ben
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="212,428 1328,428 1328,700 212,700" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="332,428 411,428 411,472 332,472" />
+				<Baseline points="332,472 411,472" />
+				<TextEquiv index="1">
+					<Unicode>ntʒ.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l1" points="212,490 360,490 379,495 379,483 446,483 446,495 471,495 471,483 545,483 545,499 564,499 564,487 614,483 645,483 645,489 659,489 659,483 738,483 738,505 779,505 779,489 827,489 827,479 958,479 973,518 1048,518 1050,502 1074,502 1074,521 1108,521 1203,507 1226,507 1226,524 1301,524 1327,528 1327,570 1306,570 1301,582 1215,582 1203,582 1108,571 1074,575 1048,577 973,577 958,593 827,593 827,567 779,567 738,565 738,571 659,571 659,559 645,559 645,571 614,571 564,567 564,554 545,554 545,571 471,571 471,563 446,563 446,571 379,571 379,563 303,564 212,564" baseline="212,564 359,560 370,560 827,566 850,567 957,573 1107,575 1203,578 1327,570" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Die IxXVI.hiſtoꝛi ſagt wie len⸗ | german_print2_15: Die xV. hiſtoꝛi ſagt wie Tlen⸗ -->
+			<!-- line left out: id="r1l2" points="213,575 242,575 290,575 321,577 321,590 338,590 338,578 368,576 436,576 436,586 456,586 456,576 481,576 481,586 494,586 523,588 523,571 543,571 628,571 628,586 655,586 672,578 776,578 776,591 793,591 793,578 813,578 826,502 969,502 969,598 1012,598 1012,589 1065,589 1065,498 1107,498 1230,594 1255,594 1255,604 1274,604 1274,594 1298,594 1328,594 1328,650 1302,654 1230,654 1107,660 1065,660 1065,635 1012,635 969,634 813,638 793,638 793,626 776,626 776,638 672,638 655,621 628,621 628,636 588,636 523,636 508,634 494,622 321,622 321,633 290,635 242,635 213,635" baseline="213,635 352,633 368,633 826,635 1106,640 1230,641 1328,642" reason: differs: "ſpie" against "antz" | Wikisource:  | next_nc_e1: ſpiegel einem pfuffen treiger  wie groß | german_print2_15: ſpiegel einem pfüffen treiger 2 wie dl groß -->
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="214,638 232,637 317,637 372,637 410,637 417,640 417,649 436,649 443,638 525,638 525,666 537,666 537,689 525,689 525,700 443,700 436,686 417,686 417,699 331,699 331,688 317,688 317,699 214,699" />
+				<Baseline points="214,699 537,700" />
+				<TextEquiv index="1">
+					<Unicode>ſchalckheit thet.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ntʒ.
+ſchalckheit thet.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r2">
+			<Coords points="181,816 1339,816 1339,1840 181,1840" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+behielt seind pferd / vnnd Vlenspiegel zoch mitt seinem
+pferd hinweg / vnd setzt im den schwantz wider an / vnd
+der kouffman zoch nach der zeit kein pferd mer bey dem
+schwantz.
+einem pfüffen treiger zuͦ Lüneburgk ein groß schalckheit thet.
+-->
+	</Page>
+</PcGts>

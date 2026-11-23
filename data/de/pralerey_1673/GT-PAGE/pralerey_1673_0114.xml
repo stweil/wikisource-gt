@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:16:45</Created>
+		<LastChange>2026-11-23T11:16:45</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/114 revision 3271180 of 2018-07-31T16:12:11Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0114.png" imageWidth="732" imageHeight="1285">
+		<ReadingOrder>
+			<OrderedGroup id="ro10211870489366674120" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,1064 732,1064 732,1285 0,1285" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="124,72 708,72 708,535 124,535" />
+			<!-- line left out: id="r1l0" points="370,75 387,72 428,72 431,86 441,86 441,97 428,100 412,100 409,93 387,93 370,92" baseline="370,92 441,93" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 108. | german_print2_15: 10%. -->
+			<!-- line left out: id="r1l1" points="124,115 141,115 148,107 164,107 221,107 223,115 235,115 244,105 260,105 260,98 275,98 284,105 308,104 326,104 326,111 362,111 375,112 375,98 390,98 398,109 425,108 435,104 473,104 473,98 489,98 511,98 520,102 530,110 543,105 552,105 552,111 563,111 563,102 578,102 598,104 598,98 628,98 628,104 691,104 708,106 708,140 706,140 628,136 628,149 598,149 598,136 578,141 563,141 563,134 552,135 543,135 530,134 520,140 511,140 511,149 489,149 473,149 473,141 435,141 435,134 415,137 397,142 390,142 390,149 375,149 375,135 362,136 350,139 339,139 308,135 300,143 284,143 275,149 260,149 260,137 223,137 221,144 205,145 164,145 148,145 141,141 124,141" baseline="124,141 234,137 308,135 627,134 708,134" reason: differs: "reut" against "Rist" | Wikisource:  | next_nc_e1: reutſche Riſt bezeugt/ daß ſich einer die latei⸗ | german_print2_15: teutſche Riſt bezeugt / daß ſich einer die latti ⸗ -->
+			<!-- line left out: id="r1l2" points="125,138 143,138 143,152 156,152 156,138 172,138 172,148 185,148 185,138 204,138 204,155 211,155 227,146 242,146 242,138 258,138 268,154 282,153 297,153 297,138 315,138 335,150 364,150 394,148 411,144 422,144 422,153 437,153 437,142 453,142 564,138 605,138 687,142 687,183 615,183 605,189 564,189 564,181 545,183 529,183 529,174 516,174 516,183 453,183 420,183 420,175 346,178 335,178 315,189 297,189 297,175 282,176 268,176 267,182 258,182 258,189 242,189 242,178 227,178 204,177 204,189 172,189 156,189 156,179 143,179 143,189 125,189" baseline="125,177 314,175 420,174 615,174 687,175" reason: second model: differs: "niſc" against "late" | Wikisource: nische Sprach zu reden geschämt/ aus Forcht | next_nc_e1: niſche Sprach zu redẽ geſchaͤmt/ aus Forcht | german_print2_15: niſche Sprach zu rede geſchaͤmt / aus Forcht -->
+			<!-- line left out: id="r1l3" points="126,194 143,194 174,194 174,185 216,185 236,186 236,193 247,193 266,191 293,191 315,192 321,183 345,183 355,185 355,191 373,190 385,190 428,191 428,177 446,177 446,183 459,183 460,191 470,191 470,183 479,182 492,177 507,177 535,177 548,181 548,191 561,191 561,183 596,183 596,177 611,177 617,190 648,190 648,177 663,177 663,190 672,190 688,191 688,214 663,214 663,226 648,226 648,213 633,213 633,220 617,220 611,226 596,226 581,222 571,214 561,214 548,213 548,220 535,220 535,226 507,226 492,226 484,220 470,220 470,213 460,213 459,219 446,219 446,226 428,226 428,213 401,214 373,214 355,215 293,215 247,216 236,221 189,221 174,221 155,218 126,218" baseline="126,218 154,217 258,215 314,214 570,213 688,213" reason: second model: differs: "ermoͤch" against "orcht " | Wikisource: er möchte vor keinen rechtschaffnen Potzmar | next_nc_e1: er moͤchte vor keinen rechtſchaffnẽ Potzmar⸗ | german_print2_15: er moͤchte vor keinen rechtſchaffne Potzmar⸗ -->
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="128,233 229,232 256,223 279,222 296,222 303,224 303,231 331,228 350,228 362,230 362,222 379,222 379,232 390,232 390,225 400,225 415,229 415,222 439,222 439,232 452,232 452,222 466,218 554,218 560,222 567,231 620,229 662,231 666,225 688,225 688,253 567,254 554,264 466,264 452,259 452,253 439,258 391,260 362,260 362,253 296,254 296,260 279,260 279,254 128,257" />
+				<Baseline points="128,257 253,254 688,254" />
+				<TextEquiv index="1">
+					<Unicode>terer und Blutvergieſſer: ſondern nur vor ei⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="129,273 179,273 185,263 207,261 257,261 257,271 271,271 272,264 279,263 294,263 308,268 309,261 337,261 337,267 353,267 387,271 387,262 404,262 406,265 421,270 421,262 440,262 440,270 495,270 495,261 509,261 541,265 553,269 570,270 570,261 586,257 611,257 688,261 688,300 611,304 586,304 571,300 553,300 553,292 509,292 509,300 495,300 495,292 405,292 404,299 387,299 387,293 376,293 376,299 358,299 353,292 337,292 337,299 309,299 308,292 294,297 279,297 257,293 257,299 207,299 129,296" />
+				<Baseline points="129,295 688,289" />
+				<TextEquiv index="1">
+					<Unicode>nen Schulfuchs gehalten werden/ da hinge⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l6" points="132,312 153,311 206,310 223,306 240,306 252,310 276,310 290,301 310,301 311,310 344,310 344,297 358,297 358,311 370,310 396,306 400,301 417,301 429,309 437,309 437,302 451,302 479,301 488,301 496,304 507,309 507,301 535,301 535,309 546,309 546,301 559,301 559,309 581,309 581,301 595,301 608,303 608,310 629,309 642,309 651,304 665,304 689,309 689,331 652,332 608,332 595,333 559,333 535,333 521,333 508,331 488,331 475,332 451,332 429,332 417,338 404,339 396,339 395,332 380,332 370,339 358,339 358,345 344,345 344,331 322,333 206,333 153,333 153,341 132,341" baseline="132,333 416,331 623,330 689,331" reason: second model: differs: "rng'oſſ" against "rngross" | Wikisource: gen andere Gerngrosse viel lieber Latein reden | next_nc_e1: gen andere Gerngꝛoſſe viel lieberLatein reden | german_print2_15: gen andere Gerng'oſſe viel lieber atein reden -->
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="133,343 150,343 150,350 179,351 180,343 189,343 189,349 211,349 233,346 245,346 266,349 266,341 321,341 321,335 360,335 360,341 366,341 370,350 383,346 452,348 457,341 469,339 496,339 503,348 526,348 533,339 551,339 551,352 570,348 614,348 615,340 630,340 635,348 690,347 690,370 630,375 551,374 551,380 533,380 533,371 504,371 504,380 481,380 481,370 470,372 370,372 366,380 360,384 321,384 285,380 266,380 266,372 245,374 133,374" />
+				<Baseline points="133,372 690,370" />
+				<TextEquiv index="1">
+					<Unicode>wolten/ wann ſie es nur koͤnten; muß man</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="130,383 162,383 177,388 186,387 190,383 239,383 284,388 300,383 334,383 356,388 363,382 373,382 399,384 411,387 468,388 469,382 529,380 529,388 554,388 554,380 569,380 569,388 585,388 593,378 634,378 664,380 664,387 691,387 691,410 640,411 634,419 593,419 585,411 569,416 499,416 373,411 373,417 363,417 356,411 287,411 284,396 276,411 246,411 246,417 186,417 177,412 162,417 144,417 144,411 130,411" />
+				<Baseline points="130,411 691,410" />
+				<TextEquiv index="1">
+					<Unicode>derowegen einen jeden mit ſeinem Kolben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l9" points="132,420 149,420 173,420 181,427 193,425 229,420 241,420 241,414 259,414 269,426 281,426 281,420 297,420 327,424 327,414 342,414 363,419 364,427 375,427 400,419 409,419 409,428 425,428 425,418 458,418 458,427 472,427 472,441 480,441 599,427 655,427 655,457 599,457 480,449 458,449 458,459 425,459 409,459 409,449 400,449 363,455 346,455 342,463 327,463 327,456 281,456 281,450 259,450 259,463 241,463 241,450 193,451 173,451 173,458 149,458 132,458" baseline="132,451 207,450 599,448 655,448" reason: differs: "en.E" against "n. Sons" | Wikisource:  | next_nc_e1: ſeines Weegs gehen laſſen. E | german_print2_15: ſeines Weegs gehen laſſen. e⸗ -->
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="209,458 246,458 247,467 281,466 281,459 301,459 301,466 331,467 345,458 398,458 404,461 404,467 444,463 454,458 518,457 543,457 563,464 641,464 656,457 666,457 691,457 691,494 656,494 641,487 605,490 498,488 472,496 454,496 445,489 398,489 398,496 351,496 345,496 331,489 301,494 281,494 281,488 262,489 228,494 209,494" />
+				<Baseline points="209,490 691,487" />
+				<TextEquiv index="1">
+					<Unicode>Sonſten ſcheinets/ als wann die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="130,504 186,503 186,497 223,497 223,505 236,505 237,512 249,497 290,497 290,506 320,505 329,497 397,497 397,505 423,505 424,497 519,497 536,493 560,493 570,497 570,504 593,505 593,497 604,493 628,493 660,493 670,502 692,503 692,526 671,526 671,533 660,535 644,535 629,533 628,527 616,527 616,535 593,535 593,527 569,528 560,535 547,535 547,527 536,527 527,500 519,527 470,527 450,534 424,534 423,528 405,528 397,534 329,534 329,528 306,528 306,534 288,534 249,529 237,514 236,528 223,528 223,534 186,533 186,527 130,529" />
+				<Baseline points="130,529 692,526" />
+				<TextEquiv index="1">
+					<Unicode>teutſche Sprach auch viel uͤberfluͤſſiger</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>terer und Blutvergieſſer: ſondern nur vor ei⸗
+nen Schulfuchs gehalten werden/ da hinge⸗
+wolten/ wann ſie es nur koͤnten; muß man
+derowegen einen jeden mit ſeinem Kolben
+Sonſten ſcheinets/ als wann die
+teutſche Sprach auch viel uͤberfluͤſſiger</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="129,530 732,530 732,658 129,658" />
+			<!-- line left out: id="r2l0" points="129,530 156,530 156,536 171,536 171,530 201,530 226,530 226,544 235,544 248,530 261,530 267,536 284,536 284,544 295,543 306,543 316,541 335,540 358,540 386,536 401,536 414,539 414,545 426,545 438,546 438,536 448,536 448,543 459,543 473,545 482,536 496,536 496,545 507,545 507,539 523,539 564,543 591,544 601,557 716,557 716,582 711,582 693,566 681,571 654,571 646,566 610,566 610,572 601,572 508,567 496,567 482,566 473,572 458,572 458,566 426,567 401,572 388,572 326,570 316,570 268,567 268,574 261,574 261,586 248,586 235,569 226,569 226,586 201,586 171,586 171,579 156,579 156,586 129,586" baseline="129,569 335,567 472,566 716,566" reason: second model: differs: "rlenbed" against "rley be" | Wikisource: Wörter hätte/ die einerley bedeuten (welche | next_nc_e1: Woͤrter haͤtte/ die einerley bedeuten (welche | german_print2_15: Woͤrter haͤtte / die einerlen bedeuten (welche -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="130,581 142,581 142,570 158,570 158,584 164,584 185,578 198,578 198,570 218,570 218,582 230,582 235,576 330,575 330,583 358,584 364,570 380,570 380,583 391,583 391,570 406,570 436,574 436,583 482,578 543,584 548,575 584,575 590,584 732,584 732,600 646,600 646,610 634,610 634,602 584,602 584,612 548,612 543,605 482,608 436,604 436,618 406,623 391,623 391,605 380,605 380,623 364,623 358,605 330,605 330,619 294,619 294,608 279,608 271,619 255,619 255,606 218,607 218,623 198,623 198,606 158,606 158,623 142,623 142,606 130,606" />
+				<Baseline points="130,606 548,604 732,600" />
+				<TextEquiv index="1">
+					<Unicode>von den Griechen und Lateinern Synonyma</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="130,622 148,617 162,617 175,621 175,609 193,609 193,622 205,622 205,609 223,609 223,621 282,620 282,609 300,609 300,615 313,615 313,621 344,621 348,614 360,614 392,619 453,617 554,619 597,622 597,609 615,609 640,615 714,615 714,617 640,617 627,644 615,644 615,658 597,658 597,643 392,644 360,648 300,643 300,658 282,658 274,649 251,649 223,644 223,658 205,658 205,644 193,644 193,658 175,658 175,645 151,646 151,654 130,654" />
+				<Baseline points="130,646 251,643 714,641" />
+				<TextEquiv index="1">
+					<Unicode>genannt werden) von denen man als ohn⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>von den Griechen und Lateinern Synonyma
+genannt werden) von denen man als ohn⸗</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="129,650 695,650 695,773 129,773" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="131,662 139,662 139,653 176,653 203,655 203,661 231,653 251,653 261,660 274,660 302,659 302,652 336,652 341,660 353,660 353,654 367,651 395,651 395,661 420,660 420,652 450,653 476,650 511,650 511,659 583,661 583,652 646,652 647,660 661,660 661,652 678,652 689,656 689,686 678,688 661,688 661,682 559,685 476,685 439,683 438,689 420,689 420,683 395,684 383,689 367,689 367,683 261,684 251,690 231,690 231,682 223,682 219,690 194,691 154,691 139,691 139,685 131,685" />
+				<Baseline points="131,685 218,683 689,682" />
+				<TextEquiv index="1">
+					<Unicode>noͤthig ihrer viel entrathen koͤnte; als Roß/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="130,692 148,692 148,686 171,686 171,700 200,700 200,692 215,692 226,705 315,705 330,691 349,691 349,699 405,697 499,702 512,690 534,690 535,699 545,699 545,686 564,686 564,692 585,692 592,696 607,690 633,690 639,686 658,686 688,696 688,731 677,731 674,721 658,721 658,738 639,738 633,722 585,725 564,721 564,738 545,738 545,722 499,724 464,722 453,724 405,725 349,722 349,728 330,728 287,722 215,726 171,724 171,738 148,738 148,724 130,724" />
+				<Baseline points="130,724 214,722 591,720 688,721" />
+				<TextEquiv index="1">
+					<Unicode>Gaul/ Pferd; Frau/ Weib; Knab/ Bueb/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="129,731 149,731 149,725 169,725 169,739 214,739 230,731 245,731 245,725 259,725 273,729 273,739 307,739 307,731 318,731 327,733 327,739 375,740 381,730 424,730 424,738 458,738 492,736 496,730 568,729 568,736 587,736 602,738 602,731 612,731 612,738 627,738 629,730 650,725 695,725 695,773 650,773 650,762 627,767 611,767 611,760 568,760 568,768 521,768 521,762 424,761 424,767 362,768 345,768 345,761 309,761 309,768 292,768 292,762 259,761 259,773 245,773 198,769 198,762 169,762 169,773 149,773 129,769" />
+				<Baseline points="129,762 695,759" />
+				<TextEquiv index="1">
+					<Unicode>Jung/ Juͤngling; Butter/ Schmaltz/ An⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>noͤthig ihrer viel entrathen koͤnte; als Roß/
+Gaul/ Pferd; Frau/ Weib; Knab/ Bueb/
+Jung/ Juͤngling; Butter/ Schmaltz/ An⸗</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r4">
+			<Coords points="709,213 718,213 718,755 709,755" />
+		</SeparatorRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="130,765 717,765 717,812 130,812" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="130,771 159,771 169,779 178,779 178,771 217,771 217,765 231,765 239,771 284,769 302,773 327,775 334,769 346,765 361,765 387,765 387,777 393,777 401,769 418,769 431,771 431,765 446,765 463,770 495,770 515,777 515,771 530,769 578,769 578,775 626,778 626,772 671,773 717,771 717,776 654,776 642,799 601,800 578,806 547,806 547,799 485,800 463,806 446,806 446,812 431,812 431,800 387,799 387,812 361,812 346,812 346,806 302,807 294,801 284,806 263,806 263,800 239,801 231,812 217,812 187,802 130,802" />
+				<Baseline points="130,801 717,797" />
+				<TextEquiv index="1">
+					<Unicode>cken; holdſelig/ freundlich/ lieblich/ und der⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>cken; holdſelig/ freundlich/ lieblich/ und der⸗</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="124,808 691,808 691,1085 124,1085" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="128,818 138,818 138,810 208,811 208,818 239,818 244,809 291,811 291,818 322,818 327,811 350,811 372,808 408,808 418,812 451,817 457,810 473,810 474,817 485,813 564,816 569,822 588,817 606,817 606,809 632,809 632,816 683,816 690,820 690,836 683,838 632,839 457,838 451,845 435,845 435,839 372,840 273,838 267,845 244,845 239,839 208,839 208,845 194,847 176,847 176,840 156,840 156,847 128,847" />
+				<Baseline points="128,840 690,837" />
+				<TextEquiv index="1">
+					<Unicode>gleichen ſo nur ein Ding bedeutet; aber un⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l1" custom="readingOrder {index:1;}">
+				<Coords points="129,856 203,851 203,857 214,857 214,847 235,847 235,856 301,856 301,850 318,850 328,856 342,856 342,848 419,848 428,846 438,846 471,846 489,846 489,856 495,856 505,846 571,846 571,854 629,856 641,848 660,848 660,856 674,852 690,852 690,877 675,877 675,885 650,885 641,885 629,877 489,877 489,884 437,884 437,877 398,884 342,884 342,878 235,877 235,884 214,884 214,878 129,880" />
+				<Baseline points="129,880 317,876 690,877" />
+				<TextEquiv index="1">
+					<Unicode>ter dieſen und mehr ſolchen Woͤrtern ſeyn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l2" custom="readingOrder {index:2;}">
+				<Coords points="128,891 147,891 172,894 172,887 220,887 220,879 234,879 234,886 251,886 260,889 290,893 293,886 321,886 321,894 339,894 339,886 349,883 441,883 441,889 450,889 450,895 486,895 496,897 503,885 518,885 527,894 538,894 538,885 552,885 560,890 585,893 590,887 610,887 610,894 621,894 625,886 654,886 661,894 677,894 677,888 689,888 689,915 661,916 661,922 625,922 621,916 610,916 610,922 590,922 585,916 561,916 552,922 503,922 496,916 490,916 486,923 469,923 468,916 441,916 441,923 349,923 339,922 339,916 260,916 234,917 234,927 220,927 220,917 192,922 128,922" />
+				<Baseline points="128,917 689,916" />
+				<TextEquiv index="1">
+					<Unicode>drumb keine Außwuͤrffling: ſonder ſie ſeynd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l3" custom="readingOrder {index:3;}">
+				<Coords points="128,935 138,935 138,928 166,928 166,935 178,935 185,927 194,927 194,934 238,933 238,920 253,920 253,933 265,933 276,924 290,924 291,933 314,933 314,920 332,920 332,933 344,933 344,920 361,920 361,933 382,930 393,930 407,933 413,925 429,925 430,933 455,933 455,924 502,925 532,929 532,920 572,920 572,929 600,931 608,925 644,925 644,933 684,932 691,936 691,952 684,955 572,956 572,967 532,967 532,956 473,963 455,963 455,955 382,959 361,954 361,967 332,967 314,967 314,955 291,955 290,963 276,963 265,956 253,956 253,967 238,967 238,956 128,957" />
+				<Baseline points="128,957 691,952" />
+				<TextEquiv index="1">
+					<Unicode>alle lauter Zeugen/ zu beweiſen wie vollkom⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l4" custom="readingOrder {index:4;}">
+				<Coords points="126,972 187,973 193,964 258,964 266,973 278,973 278,959 291,959 326,963 326,972 377,967 380,959 394,959 394,969 405,969 411,963 445,963 445,972 479,972 479,964 530,966 530,972 571,971 579,966 603,966 608,972 642,972 648,964 690,964 690,1000 648,1000 642,993 520,994 515,1000 479,1000 479,994 450,994 445,1003 411,1003 405,993 394,993 394,1007 380,1007 380,993 305,994 291,1007 278,1007 278,994 266,994 258,1000 193,1000 157,996 126,996" />
+				<Baseline points="126,995 690,993" />
+				<TextEquiv index="1">
+					<Unicode>men reich uñ nett das Teutſch in und an ſich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l5" custom="readingOrder {index:5;}">
+				<Coords points="125,1004 238,1004 240,1014 263,1012 276,1007 320,1008 360,1006 436,1006 477,1008 484,1002 501,1002 516,1005 516,1011 548,1011 548,1000 563,1000 571,1008 587,1008 607,1011 607,1000 633,1000 656,1000 678,1000 690,1002 690,1037 678,1042 618,1042 618,1032 596,1032 587,1042 548,1042 548,1032 501,1033 501,1040 484,1040 477,1032 263,1033 238,1039 181,1043 165,1043 157,1034 149,1034 149,1043 125,1043" />
+				<Baseline points="125,1034 325,1032 690,1032" />
+				<TextEquiv index="1">
+					<Unicode>ſelbſt ſey; eins und anders fein austruͤcklich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l6" custom="readingOrder {index:6;}">
+				<Coords points="124,1049 157,1049 166,1042 209,1042 209,1050 227,1050 227,1042 291,1042 318,1046 369,1047 381,1041 397,1041 397,1050 433,1042 468,1042 478,1049 496,1049 496,1034 515,1034 515,1049 559,1049 559,1034 578,1034 585,1040 606,1040 624,1050 633,1047 690,1047 690,1077 676,1077 675,1070 652,1070 652,1077 585,1078 578,1085 559,1085 559,1074 515,1074 515,1085 496,1085 496,1073 478,1073 468,1079 433,1079 433,1072 397,1074 397,1080 381,1080 331,1074 301,1076 291,1079 124,1078" />
+				<Baseline points="124,1075 690,1070" />
+				<TextEquiv index="1">
+					<Unicode>zu unterſcheiden/ ſo daß man auch gantz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>gleichen ſo nur ein Ding bedeutet; aber un⸗
+ter dieſen und mehr ſolchen Woͤrtern ſeyn
+drumb keine Außwuͤrffling: ſonder ſie ſeynd
+alle lauter Zeugen/ zu beweiſen wie vollkom⸗
+men reich uñ nett das Teutſch in und an ſich
+ſelbſt ſey; eins und anders fein austruͤcklich
+zu unterſcheiden/ ſo daß man auch gantz</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {3;}">
+			<Coords points="715,894 722,894 722,1068 715,1068" />
+			<!-- line left out: id="r7l0" points="715,894 722,894 722,1068 715,1068" baseline="719,1068 719,894" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — —
+ | german_print2_15: — —
+ -->
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="617,1080 719,1080 719,1126 617,1126" />
+			<!-- line left out: id="r8l0" points="617,1080 631,1080 631,1088 642,1088 643,1082 658,1082 677,1087 690,1088 718,1100 719,1100 719,1126 718,1126 690,1110 677,1112 642,1112 617,1112" baseline="617,1112 719,1110" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: keiner
+ | german_print2_15: keiner
+ -->
+		</TextRegion>
+		<GraphicRegion id="r9">
+			<Coords points="0,0 732,0 732,181 0,181" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Rist bezeugt / daß sich einer die lateinische Sprach zu reden geschämt / aus Forcht er möchte vor keinen rechtschaffnen Potzmarterer und Blutvergiesser: sondern nur vor einen Schulfuchs gehalten werden / da hingegen andere Gerngrosse viel lieber Latein reden wolten / wann sie es nur könten; muß man derowegen einen jeden mit seinem Kolben seines Weegs gehen lassen.
+Sonsten scheinets / als wann die teutsche Sprach auch viel überflüssiger Wörter hätte / die einerley bedeuten (welche von den Griechen und Lateinern Synonyma genannt werden) von denen man als ohnnöthig ihrer viel entrathen könte; als Roß / Gaul / Pferd; Frau / Weib; Knab / Bueb / Jung / Jüngling; Butter / Schmaltz / Ancken; holdselig / freundlich / lieblich / und dergleichen so nur ein Ding bedeutet; aber unter diesen und mehr solchen Wörtern seyn drumb keine Außwürffling: sonder sie seynd alle lauter Zeugen / zu beweisen wie vollkommen reich und nett das Teutsch in und an sich selbst sey; eins und anders fein austrücklich zu unterscheiden / so daß man auch gantz
+-->
+	</Page>
+</PcGts>

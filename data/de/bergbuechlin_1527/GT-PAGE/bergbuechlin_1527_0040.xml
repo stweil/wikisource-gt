@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T12:29:02</Created>
+		<LastChange>2026-11-23T12:29:02</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Ein_nützlich_Bergbüchlin_(1527).pdf/40 revision 5090249 of 2026-11-07T08:00:27Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="bergbuechlin_1527_0040.png" imageWidth="1000" imageHeight="1661">
+		<ReadingOrder>
+			<OrderedGroup id="ro10303651868850381446" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="132,25 940,25 940,168 132,168" />
+			<!-- line left out: id="r0l0" points="132,33 201,31 210,31 241,31 241,40 272,40 277,33 290,33 330,32 357,32 367,34 388,35 399,37 419,41 433,44 440,35 459,35 468,36 468,44 483,44 483,31 499,31 545,31 545,25 595,25 595,31 611,31 611,25 666,25 666,31 679,31 687,50 711,50 718,48 777,46 783,46 783,55 798,55 798,46 823,46 823,52 848,52 864,50 890,50 915,51 935,56 935,82 915,87 890,92 864,92 864,84 848,86 814,87 769,89 718,89 711,85 687,85 679,78 666,78 666,96 611,96 611,78 595,78 595,96 545,96 545,78 499,78 483,78 483,68 468,69 433,69 419,69 419,77 396,77 396,68 366,68 357,77 345,77 330,74 324,66 290,66 277,66 220,65 192,66 132,66" baseline="132,62 330,66 440,68 545,70 594,71 665,74 687,75 768,79 777,79 847,83 935,82" reason: differs: "fftvond" against "fft, vo" | Wikisource:  | next_nc_e1: So aber die ſelbige klufft von dem gang eylt/ iſt zu | german_print2_15: So aber die ſelbige klufft von dem gang eylt / iſt zu -->
+			<TextLine id="r0l1" custom="readingOrder {index:1;}">
+				<Coords points="133,74 156,74 156,82 171,82 171,72 192,72 192,81 250,81 250,72 267,72 267,78 355,82 363,75 413,75 413,85 424,85 424,75 445,75 445,85 469,85 469,76 506,75 524,78 531,85 655,85 670,90 700,93 700,85 769,85 785,90 785,98 811,94 831,94 851,99 879,99 879,85 940,85 940,138 913,138 913,130 899,130 899,138 879,138 879,124 832,124 785,121 720,121 700,117 655,112 655,121 638,121 629,112 488,114 488,108 445,108 445,114 424,114 424,106 413,106 413,114 363,114 355,106 288,108 267,113 218,113 218,103 192,102 192,111 171,111 171,104 133,105" />
+				<Baseline points="133,101 638,112 811,122 940,126" />
+				<TextEquiv index="1">
+					<Unicode>beſorgen/ das ſchwerlich etwas mercklichs darauff</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l2" points="132,120 168,120 175,112 196,112 196,122 209,122 209,112 230,112 230,123 245,118 289,114 313,114 313,122 327,122 327,115 349,115 349,122 364,121 377,121 377,115 399,115 399,108 436,108 436,115 445,115 451,124 468,123 513,123 557,123 574,126 624,125 662,125 704,126 710,128 755,129 756,135 765,135 826,136 864,139 864,129 885,129 885,139 894,139 935,139 935,168 885,168 864,168 864,162 755,163 733,163 725,156 710,156 704,163 687,163 680,154 643,154 615,152 594,152 574,151 557,151 536,150 490,149 445,150 436,150 436,158 399,158 399,150 377,150 349,149 327,149 313,146 313,152 289,152 281,145 230,145 147,148 132,148" baseline="132,142 399,146 435,146 614,151 724,156 733,157 935,165" reason: second model: differs: "iehmaus" against "e hinau" | Wikisource: zu bawen stehet/ Es were denn das sie hinauswartz | next_nc_e1: zu bawen ſtehet/ Es were denn das ſie yinauswartz
+ | german_print2_15: zu bawen ſtehet / Es were denn das ſie hmauswartz
+ -->
+			<TextEquiv index="1">
+				<Unicode>beſorgen/ das ſchwerlich etwas mercklichs darauff</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="130,153 1000,153 1000,208 130,208" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="130,159 189,159 204,161 301,163 311,158 343,158 358,163 400,161 480,162 480,153 499,153 499,163 507,163 523,167 523,158 550,158 550,166 577,162 610,165 616,153 635,153 635,167 649,167 649,153 668,153 668,171 682,171 682,153 701,153 728,166 763,166 771,174 865,176 865,170 936,172 936,197 972,173 1000,173 1000,184 972,184 941,200 936,200 936,208 898,208 890,202 793,200 793,207 771,207 739,202 738,196 728,196 701,206 682,206 682,195 668,195 668,206 649,206 649,193 635,193 635,206 616,206 616,193 577,194 523,190 523,197 506,197 499,206 480,206 480,196 400,195 394,187 301,187 205,184 204,193 187,193 187,183 146,188 130,188" />
+				<Baseline points="130,183 400,186 482,188 587,193 728,195 826,199 1000,201" />
+				<TextEquiv index="1">
+					<Unicode>ʒu eynem andern gang eylete/ darumb iſt gar retlich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ʒu eynem andern gang eylete/ darumb iſt gar retlich</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="127,189 935,189 935,405 127,405" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="128,200 181,200 192,193 246,193 268,195 268,204 283,204 291,196 314,196 314,204 329,204 348,201 360,201 360,194 396,194 397,203 417,203 419,194 458,195 476,200 476,189 519,189 520,206 588,203 607,207 642,209 654,203 666,203 678,208 696,211 696,203 771,204 780,213 834,212 842,218 865,218 865,211 932,210 932,243 823,244 780,237 771,244 729,244 722,236 696,236 678,234 678,245 654,245 642,233 607,232 607,242 585,242 575,232 555,232 542,230 542,240 520,240 519,249 476,249 476,229 458,231 438,236 420,236 419,231 378,227 378,236 348,236 348,228 314,232 192,232 181,224 128,224" />
+				<Baseline points="128,224 192,224 654,233 932,243" />
+				<TextEquiv index="1">
+					<Unicode>wo ſolche hengklufft/ die gedigen golt fuͤren/ võ dẽ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="128,240 213,240 238,241 254,244 254,236 265,236 265,244 281,244 375,241 382,234 402,234 402,242 418,242 418,234 440,234 440,242 483,239 508,241 524,246 524,229 541,229 548,248 640,249 640,243 658,243 658,251 669,251 671,243 699,243 705,250 761,251 768,245 795,245 827,248 838,253 859,256 887,258 917,254 931,254 931,281 867,281 859,289 837,289 837,280 806,280 795,285 778,289 768,289 761,276 699,281 671,281 669,275 658,275 658,281 640,281 640,274 548,275 541,293 524,293 524,271 402,267 402,274 382,274 375,267 254,268 254,276 237,276 237,265 221,265 213,274 164,275 164,266 153,266 153,275 128,275" />
+				<Baseline points="128,273 212,274 496,269 619,275 768,277 931,282" />
+				<TextEquiv index="1">
+					<Unicode>gang eylen vnd fallen/ das man auff das ſelbig ortt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="127,280 147,280 194,275 241,275 241,284 253,284 253,275 270,275 270,284 286,284 286,275 330,275 330,283 369,280 385,277 397,277 397,283 442,282 442,275 476,275 476,283 525,286 615,287 647,291 655,282 675,282 675,293 688,293 689,285 706,282 727,282 727,292 754,292 765,289 797,289 806,295 840,295 840,289 880,289 888,297 932,298 932,321 880,324 840,324 827,320 806,319 797,325 765,325 765,315 727,315 727,325 706,325 675,316 675,323 655,323 647,315 595,315 576,313 568,324 546,324 546,312 526,312 490,308 476,308 476,316 459,316 459,324 442,324 442,307 330,307 330,315 303,317 253,317 253,308 241,313 223,317 206,317 194,315 187,307 127,307" />
+				<Baseline points="127,303 369,305 567,312 932,321" />
+				<TextEquiv index="1">
+					<Unicode>mit ſchurpffen ein erfarung oder ſuchung/ nach an</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l3" points="129,318 183,318 183,325 211,323 235,323 265,321 294,321 337,318 351,313 386,313 412,315 412,309 444,309 444,315 452,315 460,324 480,324 480,317 510,317 510,327 523,327 552,329 563,330 563,324 588,324 593,330 614,330 626,332 626,323 644,323 684,323 714,323 714,332 727,332 727,323 754,323 754,329 772,329 813,329 825,331 839,334 845,327 861,327 905,327 935,327 935,369 879,369 867,369 867,361 861,361 845,360 813,359 754,357 754,364 737,364 737,358 727,358 714,357 714,364 684,364 644,364 626,364 626,357 616,357 593,355 530,354 510,351 510,357 491,357 490,350 480,350 452,349 444,349 444,368 412,368 412,349 351,349 329,347 294,347 294,355 282,358 265,358 265,348 250,350 235,350 235,358 211,358 203,349 179,349 146,349 129,349" baseline="129,346 337,347 460,349 522,351 587,354 783,358 792,358 935,363" reason: second model: differs: "keirdie" against "keit di" | Wikisource: dern gengen thu/ vnd also mit vorsichtikeit die klüfft | next_nc_e1: dern gengen thu/ vñ alſo mit vorſichtikeit die kluͤfft | german_print2_15: dern gengen thu / vñ alſo mit vorſichtikeir die kluͤfft -->
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="128,362 152,362 160,356 212,359 220,356 256,356 279,358 279,352 331,352 331,358 441,360 506,358 506,367 537,368 562,364 633,364 656,368 656,375 724,376 724,367 744,367 744,373 833,374 833,383 843,383 843,397 811,399 694,401 614,399 594,396 546,394 537,400 521,400 521,392 485,391 478,400 456,400 456,388 441,388 441,400 422,400 399,397 392,386 331,391 331,405 279,405 279,391 239,391 239,397 128,397" />
+				<Baseline points="128,389 345,386 399,387 686,399 843,397" />
+				<TextEquiv index="1">
+					<Unicode>geſchick/ vnd die geng bey einander erbawen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>wo ſolche hengklufft/ die gedigen golt fuͤren/ võ dẽ
+gang eylen vnd fallen/ das man auff das ſelbig ortt
+mit ſchurpffen ein erfarung oder ſuchung/ nach an
+geſchick/ vnd die geng bey einander erbawen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="127,407 930,407 930,499 127,499" />
+			<!-- line left out: id="r3l0" points="127,407 202,407 204,416 245,413 281,413 313,429 354,429 532,429 585,418 606,418 607,409 658,409 671,425 720,425 720,412 767,412 779,424 827,424 930,424 930,479 827,482 720,482 671,482 658,475 585,475 532,463 281,467 205,467 205,487 202,487 202,499 127,499" baseline="127,500 280,496 313,496 531,484 585,479 930,478" reason: differs: "Dsa.vi." against "sa vi. " | Wikisource:  | next_nc_e1: Dsa. vi.Cap. iſt võ dem
+ | german_print2_15: Ds2. vl. Cap. iſt võ dem
+ -->
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="124,576 618,576 618,871 124,871" />
+		</GraphicRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="540,491 936,491 936,686 540,686" />
+			<!-- line left out: id="r5l0" points="704,491 721,491 722,498 735,498 735,491 755,491 755,502 770,502 770,491 790,491 790,503 801,501 832,500 833,491 849,491 849,500 863,500 863,532 849,534 832,534 832,525 801,527 790,527 790,534 735,534 722,530 704,526" baseline="704,527 863,533" reason: differs: "(Zey" against "n de" | Wikisource:  | next_nc_e1: (Zeynertz. | german_print2_15: (Seynertz. -->
+			<!-- line left out: id="r5l1" points="649,524 675,520 704,520 704,539 716,539 763,540 763,520 787,520 787,547 806,547 806,520 827,520 827,544 845,544 862,542 868,542 868,520 888,520 888,542 912,542 913,532 931,532 931,581 913,581 888,580 888,590 868,590 868,580 862,580 862,574 845,576 827,576 827,590 787,590 763,590 763,582 745,582 716,568 704,568 704,590 675,590 675,567 649,567" baseline="649,566 715,568 745,570 931,576" reason: second model has no such line | Wikisource: Das Zeynertz/ | next_nc_e1: Das Zcynertz/ | german_print2_15:  -->
+			<!-- line left out: id="r5l2" points="540,586 566,582 596,582 666,582 667,590 707,590 712,584 738,584 739,595 785,594 805,594 827,596 827,589 860,589 860,595 897,595 936,595 936,625 897,625 852,630 827,630 827,624 805,624 805,630 785,630 755,619 701,619 566,614 540,610" baseline="540,612 684,619 701,619 936,625" reason: differs: "Hode" against "oder" | Wikisource:  | next_nc_e1: Hoder der zwitter | german_print2_15:  -->
+			<!-- line left out: id="r5l3" points="591,633 598,633 618,641 660,641 660,633 676,633 676,643 693,643 693,635 743,635 757,644 786,644 795,635 822,635 822,646 844,646 845,637 860,637 860,647 876,647 876,635 916,635 916,643 936,643 936,678 915,678 844,676 822,676 822,686 786,686 757,686 743,673 693,673 618,670 591,669" baseline="591,669 757,672 936,678" reason: second model has no such line | Wikisource: wirdt gewirckt | next_nc_e1: wirdt gewirckt
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="346,682 937,682 937,1095 346,1095" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="586,682 594,682 611,692 650,692 661,695 663,684 697,684 714,696 771,696 771,686 815,686 815,698 862,698 869,689 895,689 896,700 937,699 937,731 913,731 895,727 815,725 815,736 771,736 771,725 756,725 756,736 733,736 733,723 714,723 697,734 663,734 661,722 611,723 594,691 586,691" />
+				<Baseline points="586,721 937,727" />
+				<TextEquiv index="1">
+					<Unicode>auſs eynflus des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l1" points="452,757 799,757 823,737 851,737 851,750 862,750 875,751 877,742 921,742 921,749 935,749 935,796 920,796 877,793 875,777 862,778 851,778 851,791 823,791 799,777 720,778 694,778 669,777 653,776 653,791 596,792 452,792" baseline="452,776 823,777 935,780" reason: second model: differs: "Be:⸗" against "Plan" | Wikisource: Planeten Jupi | next_nc_e1: Planeten Jupi⸗ | german_print2_15: Be:⸗Planeten Jupi⸗ -->
+			<!-- line left out: id="r6l2" points="378,788 537,786 630,786 630,800 669,800 699,801 767,801 804,803 844,802 871,802 889,804 889,796 931,796 931,835 889,835 871,834 844,834 844,845 822,845 822,832 767,833 699,833 686,833 630,830 630,844 537,844 378,841" baseline="378,825 668,830 784,832 931,835" reason: second model: differs: "ttee" against "n Ju" | Wikisource: ter von reynem | next_nc_e1: ter von reynem | german_print2_15: tteer von reynem -->
+			<!-- line left out: id="r6l3" points="346,843 452,839 483,839 629,842 630,854 648,854 648,839 677,839 725,839 760,843 787,844 787,858 805,857 826,857 826,847 862,847 862,835 933,835 933,905 862,905 862,894 826,894 826,887 805,887 760,886 745,886 745,901 700,901 700,886 677,886 677,901 648,901 648,884 630,884 629,897 548,897 483,860 452,860 346,858" baseline="346,880 862,886 933,888" reason: differs: "aaue" against "quec" | Wikisource:  | next_nc_e1: aaueckſilber/ vnd | german_print2_15: /ARNaueck ſilber / vnd -->
+			<TextLine id="r6l4" custom="readingOrder {index:4;}">
+				<Coords points="585,909 639,906 692,906 699,898 742,898 742,907 765,907 765,898 802,898 855,895 915,895 915,902 931,902 931,938 915,938 915,945 790,945 765,945 765,935 720,936 720,945 699,945 692,938 639,938 609,935 595,926 585,926" />
+				<Baseline points="585,934 855,935 931,938" />
+				<TextEquiv index="1">
+					<Unicode>von wenigẽ ſch⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l5" points="496,960 756,960 773,954 816,954 816,945 838,945 851,955 901,955 929,956 929,988 900,988 874,987 874,995 851,995 838,983 816,984 790,984 773,982 756,991 741,991 741,982 717,982 717,992 664,992 664,980 653,981 612,981 545,992 496,992" baseline="496,978 755,982 773,982 929,988" reason: second model: differs: "Mmwe" against "weff" | Wikisource: weffel/ vnd ynn | next_nc_e1: weffel/ vnd ynn | german_print2_15: Mmweffel / vnd ynn -->
+			<!-- line left out: id="r6l6" points="418,992 576,992 637,993 638,1003 676,1003 691,995 705,995 705,1003 720,1003 754,1004 754,995 778,995 778,1004 799,1004 801,995 873,995 901,997 901,1006 929,1006 929,1051 900,1051 900,1038 874,1038 873,1045 841,1048 815,1048 815,1034 799,1035 778,1035 778,1051 754,1051 754,1033 705,1033 705,1051 691,1051 676,1031 637,1032 584,1032 576,1016 418,1016" baseline="418,1028 675,1032 691,1032 929,1038" reason: second model: differs: "Ader" against "d yn" | Wikisource: der vermischung | next_nc_e1: der vermiſchũg | german_print2_15:  Ader vermiſchug -->
+			<TextLine id="r6l7" custom="readingOrder {index:7;}">
+				<Coords points="529,1061 594,1061 610,1045 651,1042 683,1042 683,1056 702,1056 711,1044 736,1044 736,1058 754,1058 754,1047 777,1044 799,1044 799,1060 838,1059 934,1061 934,1093 777,1091 754,1088 683,1085 683,1095 651,1095 651,1083 594,1085 529,1085" />
+				<Baseline points="529,1085 701,1085 934,1093" />
+				<TextEquiv index="1">
+					<Unicode>diſer beiden wer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>auſs eynflus des
+von wenigẽ ſch⸗
+diſer beiden wer</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="83,1157 999,1157 999,1506 83,1506" />
+			<!-- line left out: id="r7l0" points="484,1177 523,1177 775,1167 794,1167 839,1157 842,1157 842,1168 858,1166 881,1166 881,1157 930,1157 930,1196 906,1200 842,1200 839,1200 794,1194 523,1196 484,1196" baseline="484,1194 793,1194 930,1196" reason: second model has no such line | Wikisource: ge grobe | next_nc_e1: S e grobe | german_print2_15:  -->
+			<!-- line left out: id="r7l1" points="137,1169 346,1165 378,1165 464,1168 490,1198 547,1198 649,1200 649,1159 672,1159 672,1213 695,1213 695,1159 718,1159 718,1217 746,1217 746,1163 785,1163 785,1206 800,1206 810,1165 841,1165 841,1221 860,1221 868,1208 911,1208 911,1216 937,1216 937,1248 911,1249 841,1249 841,1261 810,1261 800,1250 785,1250 785,1260 718,1265 695,1265 695,1246 672,1246 672,1265 649,1265 649,1252 635,1254 607,1254 547,1220 464,1224 411,1226 346,1226 250,1217 137,1217" baseline="137,1252 937,1248" reason: differs: "ter." against "schw" | Wikisource:  | next_nc_e1: ter. 2 ſchweyfelige bꝛa | german_print2_15: ter. ſchweyſelige bꝛa -->
+			<!-- line left out: id="r7l2" points="129,1247 158,1247 161,1256 175,1256 175,1247 240,1243 274,1243 293,1251 321,1251 345,1251 364,1254 374,1266 401,1266 415,1267 415,1255 448,1255 459,1267 477,1267 477,1254 492,1254 492,1265 516,1264 540,1264 567,1265 567,1255 593,1255 593,1266 632,1266 639,1257 654,1257 654,1267 679,1267 775,1269 813,1272 813,1261 846,1261 846,1269 867,1269 885,1268 913,1268 913,1259 934,1259 995,1283 999,1283 999,1295 995,1295 934,1307 913,1307 913,1298 867,1298 815,1299 776,1299 775,1313 748,1313 748,1300 724,1302 700,1302 679,1299 652,1299 593,1297 567,1296 540,1296 448,1296 374,1296 364,1303 308,1303 293,1303 274,1298 274,1317 240,1317 240,1298 175,1298 175,1283 158,1284 129,1284" baseline="129,1283 240,1287 273,1288 293,1292 363,1293 631,1297 999,1295" reason: second model: differs: "dem.dy" against "ge brad" | Wikisource: dem. dy sich mit einander incorperieren/ | next_nc_e1: dem. dy ſich mit einander incorperieren/ | german_print2_15: dem. dy ſich mit einander incorperieren, -->
+			<!-- line left out: id="r7l3" points="126,1307 156,1307 169,1310 169,1299 210,1299 219,1309 247,1309 267,1310 303,1313 325,1314 351,1316 351,1307 365,1307 365,1317 379,1317 379,1307 404,1307 404,1320 469,1320 493,1321 502,1311 546,1311 546,1320 559,1320 618,1321 650,1322 650,1310 675,1310 675,1318 704,1318 727,1321 727,1310 747,1310 788,1314 788,1321 800,1321 800,1314 821,1314 821,1320 837,1318 900,1317 937,1317 942,1337 989,1337 989,1362 942,1362 937,1353 902,1353 902,1361 871,1361 864,1348 838,1348 838,1358 800,1358 785,1356 762,1355 747,1348 728,1350 675,1350 618,1351 559,1351 469,1355 450,1355 404,1350 404,1360 362,1360 362,1343 351,1345 326,1345 325,1354 302,1354 302,1340 286,1341 266,1341 210,1339 156,1339 126,1339" baseline="126,1350 746,1348 762,1348 989,1350" reason: differs: "nge/" against " genant" | Wikisource:  | next_nc_e1: vnd vereynigen zu einem metal (tzyn ge/ | german_print2_15: vnd vereynigen zu einem metal (tzyn ge⸗ -->
+			<TextLine id="r7l4" custom="readingOrder {index:4;}">
+				<Coords points="83,1370 94,1370 128,1360 208,1359 210,1353 251,1353 261,1365 314,1364 382,1368 382,1361 476,1362 478,1376 569,1375 569,1361 596,1361 596,1372 653,1372 653,1361 688,1361 688,1368 759,1369 772,1359 798,1359 798,1371 840,1370 840,1364 867,1364 869,1372 930,1371 930,1422 888,1422 888,1404 869,1404 816,1400 816,1420 796,1420 796,1400 715,1400 715,1412 684,1412 684,1404 653,1404 635,1400 596,1401 596,1412 569,1412 569,1402 478,1402 476,1410 430,1410 430,1400 409,1400 409,1410 382,1410 382,1398 210,1398 208,1390 181,1392 128,1391 94,1380 83,1380" />
+				<Baseline points="83,1398 261,1395 340,1396 535,1402 772,1400 930,1403" />
+				<TextEquiv index="1">
+					<Unicode>nant) von welchem vnartigen bradem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l5" points="128,1416 148,1416 148,1405 164,1405 164,1413 186,1413 195,1404 211,1404 211,1413 227,1413 227,1402 265,1402 294,1406 294,1420 308,1418 330,1418 390,1420 417,1421 425,1412 460,1412 460,1425 482,1425 492,1412 516,1412 542,1415 550,1427 570,1427 570,1414 587,1414 587,1425 602,1425 602,1410 650,1410 650,1423 692,1423 692,1415 718,1414 746,1411 772,1411 772,1421 797,1421 812,1422 812,1393 843,1393 843,1410 862,1410 862,1393 886,1393 886,1410 904,1410 904,1393 933,1393 933,1506 886,1506 843,1506 812,1506 786,1502 786,1454 772,1456 746,1456 736,1467 718,1467 718,1456 665,1456 650,1452 650,1467 627,1467 602,1466 602,1454 587,1458 572,1459 550,1459 516,1465 492,1465 492,1459 481,1459 460,1458 460,1465 425,1465 417,1453 391,1453 390,1462 355,1462 338,1462 330,1451 308,1451 307,1462 289,1462 289,1453 263,1453 246,1451 246,1462 227,1462 207,1461 207,1443 186,1448 164,1451 148,1451 128,1448" baseline="128,1460 735,1456 933,1454" reason: differs: "chstzyn" against "hs zyn " | Wikisource:  | next_nc_e1: ein iglichs tzyn ſtarck riechend/ knuſchig
+ | german_print2_15: ein iglichs tzyn ſtarck riechend/ knuſchig
+ -->
+			<TextEquiv index="1">
+				<Unicode>nant) von welchem vnartigen bradem</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="124,857 609,857 609,1234 124,1234" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+So aber die selbige klufft, von dem gang eylt / ist zu
+besorgen / das schwerlich etwas mercklichs darauff
+zu bawen stehet / Es were denn das sie hinauswartz
+zu eynem andern gang eylete / darumb ist gar retlich
+wo solche hengklufft / die gedigen golt füren / von den
+gang eylen vnd fallen / das man auff das selbig ortt
+mit schurpffen ein erfarung oder suchung / nach andern
+gengen thu / vnd also mit vorsichtikeit die klüfft
+geschick / vnd die geng bey einander erbawen.
+Dsa vi. Cap. ist von dem Zeynertz.
+Das Zeynertz /
+oder der zwitter
+wirdt gewirckt
+auss eynflus des
+Planeten Jupiter
+von reynem
+quecksilber / vnd
+von wenigen schweffel /
+vnd ynn
+der vermischung
+diser beiden werden
+vndermengt
+vnardige grobe
+schweyfelige bradem.
+dy sich mit einander incorperieren /
+vnd vereynigen zu einem metal (tzyn genant)
+von welchem vnartigen bradem
+ein iglichs zyn starck riechend / knirschig
+-->
+	</Page>
+</PcGts>

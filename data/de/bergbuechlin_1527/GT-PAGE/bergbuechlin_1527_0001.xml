@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T12:27:17</Created>
+		<LastChange>2026-11-23T12:27:17</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Ein_nützlich_Bergbüchlin_(1527).pdf/1 revision 4871120 of 2026-03-29T06:52:33Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="bergbuechlin_1527_0001.png" imageWidth="1000" imageHeight="1645">
+		<ReadingOrder>
+			<OrderedGroup id="ro8536302464605849951" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="30,9 1000,9 1000,262 30,262" />
+			<!-- line left out: id="r0l0" points="30,26 129,26 129,49 157,49 157,30 207,30 248,66 302,66 302,9 352,9 352,46 385,46 473,49 474,9 516,9 516,52 545,52 547,72 575,72 575,29 656,29 670,47 778,47 786,70 835,66 886,66 886,15 1000,15 1000,190 886,190 886,169 835,169 786,168 778,189 656,193 575,193 575,166 385,166 352,166 352,193 302,193 302,163 207,164 157,164 30,162" baseline="30,162 206,163 655,167 670,167 1000,169" reason: differs: "Eiñnüt" against "Ein nü" | Wikisource:  | next_nc_e1: Eiñ nützlich Berg | german_print2_15: Ein nützlich Berg -->
+			<TextLine id="r0l1" custom="readingOrder {index:1;}">
+				<Coords points="100,190 187,189 187,205 218,205 218,187 234,187 234,204 260,204 260,185 302,185 302,203 532,207 532,191 556,189 604,189 605,208 624,208 624,189 763,191 765,209 798,209 799,203 863,205 863,190 906,190 906,262 863,262 534,257 355,258 187,255 144,258 100,258" />
+				<Baseline points="100,258 337,255 906,261" />
+				<TextEquiv index="1">
+					<Unicode>büchlin von allen Metal⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>büchlin von allen Metal⸗</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="147,262 827,262 827,416 147,416" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="147,266 163,266 163,278 206,277 229,269 249,267 263,267 263,277 284,277 304,269 324,269 324,262 346,262 346,277 360,277 361,267 460,267 506,269 507,281 524,279 545,279 545,270 572,270 572,262 672,262 672,270 690,267 827,267 827,321 672,325 572,325 545,321 545,306 460,306 460,321 438,321 438,305 411,305 404,314 375,314 375,305 346,307 346,325 324,325 324,304 249,305 249,314 229,314 206,304 147,306" />
+				<Baseline points="147,306 205,304 304,304 827,309" />
+				<TextEquiv index="1">
+					<Unicode>len/ als Golt/ Silber/ Zcyn/ Kupfer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l1" points="208,328 228,328 237,318 255,318 255,328 272,328 273,318 291,317 338,317 377,318 377,328 400,328 410,316 440,316 440,329 455,329 455,320 469,320 469,329 492,329 494,321 512,318 566,318 575,320 575,331 639,331 639,318 656,318 656,332 676,332 677,323 692,323 695,332 732,331 746,331 747,325 771,325 771,359 695,359 692,368 656,368 639,368 639,358 614,358 614,367 592,367 591,355 575,356 566,356 566,368 545,368 545,357 512,357 508,365 494,365 492,355 467,355 455,354 440,353 440,366 410,366 400,356 377,356 377,364 338,364 316,364 316,355 291,355 289,362 237,362 237,355 227,355 208,354" baseline="208,354 410,355 512,356 695,358 771,359" reason: differs: "ertz/E" against "erz/ E" | Wikisource:  | next_nc_e1: ertz/ Eiſen ſtein/ Bleyertz/ vnd | german_print2_15: ertz / Eiſen ſtein / Bleyertz / vnd -->
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="314,378 343,376 405,378 414,366 460,366 460,379 498,379 498,366 523,366 595,366 605,369 605,381 652,383 652,413 623,413 623,406 605,406 595,416 566,416 541,416 541,406 523,406 523,416 498,416 498,404 484,406 436,405 436,416 414,416 405,405 366,408 343,408 314,405" />
+				<Baseline points="314,405 652,408" />
+				<TextEquiv index="1">
+					<Unicode>vom Queckſilber.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>len/ als Golt/ Silber/ Zcyn/ Kupfer
+vom Queckſilber.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r2">
+			<Coords points="130,420 1000,420 1000,1645 130,1645" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Ein nützlich Bergbüchlin
+von allen Metallen /
+als Golt / Silber / Zcyn / Kupfererz /
+Eisenstein / Bleyertz / vnd
+vom Quecksilber.
+-->
+	</Page>
+</PcGts>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T08:04:07</Created>
+		<LastChange>2026-11-23T08:04:07</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Ein_kurtzweilig_lesen_von_Dyl_Vlenspiegel.djvu/173 revision 3306589 of 2018-07-31T21:30:50Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="vlenspiegel_1515_0173.png" imageWidth="1374" imageHeight="2098">
+		<ReadingOrder>
+			<OrderedGroup id="ro2287328911449265582" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="73,152 1208,152 1208,581 73,581" />
+			<!-- line left out: id="r0l0" points="243,171 410,171 504,170 626,170 738,170 801,170 896,152 899,152 1003,152 1003,162 1031,162 1031,225 1003,226 941,228 896,228 751,236 458,236 410,244 243,244" baseline="243,245 409,238 458,237 800,229 896,227 1031,225" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Das LXxXXVI blat | german_print2_15: Das LXXXVII blat -->
+			<!-- line left out: id="r0l1" points="93,280 158,280 166,273 171,267 194,267 194,273 210,273 210,267 252,267 276,272 284,267 337,267 337,254 393,254 398,268 429,268 429,278 451,278 451,269 477,269 534,273 534,262 585,262 656,264 681,265 681,274 737,274 737,258 759,258 811,258 860,260 860,275 873,275 873,258 896,258 947,254 1002,254 1037,254 1037,273 1056,273 1056,261 1093,261 1135,261 1179,261 1182,262 1182,269 1203,269 1203,305 1182,307 1092,307 1037,306 1037,332 1020,332 1010,319 1002,319 1002,332 947,332 947,319 896,319 873,319 873,306 856,306 845,304 845,315 759,315 737,315 737,307 700,308 681,309 594,309 563,307 563,320 534,320 534,309 518,309 518,321 486,321 477,310 453,312 429,312 429,323 398,323 393,332 337,332 337,321 306,321 306,328 276,328 210,328 210,319 194,319 194,328 171,328 171,319 158,323 93,323" baseline="93,317 157,316 337,314 486,310 584,307 1001,304 1009,304 1203,305" reason: differs: "bermei" against "meiste" | Wikisource:  | next_nc_e1: ber meiſttr/ ich hab gthõ als ir mich hießẽ. Iſt es vderbt | german_print2_15: ber meiſttr/ ich hab gthõ al ir mich hießẽ. Iſt es vöderbt -->
+			<TextLine id="r0l2" custom="readingOrder {index:2;}">
+				<Coords points="92,337 124,337 124,350 142,350 149,336 194,337 202,347 212,344 300,344 304,331 321,328 367,328 367,344 392,344 392,331 399,328 451,328 451,314 484,314 484,328 598,328 601,337 617,337 617,325 640,325 640,335 658,335 658,325 701,326 701,332 726,332 726,325 786,325 797,319 874,319 912,314 951,314 975,322 990,318 1035,318 1035,335 1055,335 1055,325 1068,325 1068,318 1133,318 1133,334 1156,334 1156,318 1180,318 1180,333 1208,333 1208,367 1180,367 1180,377 1156,377 1156,367 1133,367 1133,377 1068,377 1068,370 1035,368 1035,374 1009,377 990,377 975,376 963,369 951,369 951,397 912,397 912,369 885,369 885,382 797,382 786,368 749,368 749,381 697,381 697,369 682,370 682,381 658,381 658,370 640,370 640,381 617,381 587,375 587,383 503,383 503,375 484,375 484,397 451,397 451,375 417,375 417,388 399,388 393,377 367,377 367,383 345,388 304,388 300,379 272,382 202,382 194,393 160,393 160,382 149,382 142,391 120,391 92,386" />
+				<Baseline points="92,381 304,379 483,372 1208,366" />
+				<TextEquiv index="1">
+					<Unicode>dʒ iſt ewer ſchult/ er ward ʒoꝛnig vñ ſagt/ du ſchalckſnar</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l3" points="95,407 123,407 123,413 138,413 138,397 195,397 258,397 258,409 273,409 273,398 300,398 308,389 341,389 402,389 409,403 442,403 442,389 474,389 476,401 504,401 504,386 559,386 559,401 570,400 627,400 627,385 649,385 730,385 752,387 752,398 765,398 765,385 817,385 817,378 871,378 877,388 907,388 907,398 932,398 932,390 959,390 966,382 997,382 1029,382 1037,385 1037,398 1082,397 1107,397 1107,386 1129,386 1201,386 1201,432 1167,432 1129,432 1029,432 933,432 907,432 907,444 877,444 871,454 817,454 817,439 787,444 765,444 765,431 752,431 752,444 689,444 689,433 649,433 649,444 627,444 627,432 559,432 530,434 476,434 474,444 442,444 442,434 409,434 402,444 352,444 352,437 341,438 276,441 258,441 258,450 227,450 219,442 195,445 165,449 123,449 95,449" baseline="95,446 218,442 308,438 409,435 593,431 1201,430" reason: differs: "deierar" against "deiner " | Wikisource:  | next_nc_e1: darũb heb dich vß meĩer werekſtat/ ich hab deier arbeit | german_print2_15: darãb heb dich vß meier wererſtat /ich hab deier arbeit -->
+			<!-- line left out: id="r0l4" points="95,460 135,460 135,466 150,466 150,474 172,474 172,462 194,462 203,471 222,471 222,440 281,440 281,455 299,455 311,440 333,440 339,457 348,457 348,440 365,440 365,452 402,450 464,450 501,450 520,454 525,446 586,446 628,446 658,448 673,452 673,464 688,464 688,457 719,457 734,462 734,448 748,448 756,463 789,463 789,449 823,447 856,447 856,463 881,462 909,460 925,460 925,447 951,447 991,450 991,440 1030,440 1030,450 1048,449 1087,449 1123,449 1123,463 1138,459 1169,459 1188,460 1188,453 1207,453 1207,490 1188,493 1140,494 1123,495 1030,495 1030,515 991,515 991,495 951,496 925,496 910,495 881,496 854,496 823,495 719,494 719,507 688,507 688,496 671,496 658,495 658,508 606,508 606,497 586,497 586,508 564,508 564,499 525,499 501,497 501,507 480,507 480,498 464,498 464,507 431,507 388,509 365,509 365,515 348,515 348,500 339,500 333,515 281,515 222,515 222,503 194,506 174,507 150,509 95,509" baseline="95,510 193,505 311,501 519,497 747,494 756,494 1048,495 1207,491" reason: differs: "kein" against "rbei" | Wikisource:  | next_nc_e1: keinẽ nutz. Alſo ſchied Vlẽſpiegel võ dannẽ/ vñ vᷣdienet | german_print2_15: keinẽ nutzʒ. Alſo ſchied Vlẽſpiegel võ dannẽ / vñ vᷣdienet -->
+			<!-- line left out: id="r0l5" points="73,533 79,533 93,539 121,539 121,528 153,528 184,530 184,517 206,517 206,534 223,534 223,517 288,517 288,530 315,530 322,514 354,514 394,514 429,516 429,527 478,527 482,514 485,514 533,514 533,526 574,526 574,514 591,514 597,529 615,526 672,526 672,515 697,515 697,525 718,525 718,515 740,515 749,508 778,508 778,524 795,524 804,516 822,513 862,513 885,517 889,509 922,509 922,525 946,523 1002,523 1044,525 1053,514 1103,511 1126,511 1146,514 1146,525 1164,525 1164,511 1191,511 1191,536 1205,536 1205,553 1191,553 1191,564 1164,564 1164,556 1146,556 1146,567 1103,567 1096,558 946,558 938,565 918,565 918,557 885,558 862,558 862,568 822,568 822,557 804,557 795,563 774,563 774,555 740,558 686,558 639,558 591,559 429,560 394,561 315,562 288,562 288,581 250,581 223,581 223,567 206,567 206,581 161,581 153,572 123,573 93,573 79,535 73,535" baseline="73,564 152,563 314,561 477,559 590,558 804,556 1103,557 1205,553" reason: second model: differs: "nitg" against "iene" | Wikisource: nit grossen danck/ wiewol er alles dz thet dz man in hieß. | next_nc_e1: nit groſſen dãck/ wiewol er alles dz thet dz man in hieß.
+ | german_print2_15: nit groſſen dãck / wiewol er alles dʒz thet dz man in hieß.
+ -->
+			<TextEquiv index="1">
+				<Unicode>dʒ iſt ewer ſchult/ er ward ʒoꝛnig vñ ſagt/ du ſchalckſnar</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="94,587 1209,587 1209,800 94,800" />
+			<!-- line left out: id="r1l0" points="96,603 141,603 141,587 180,587 180,601 204,601 204,618 260,618 260,612 324,612 324,587 395,587 395,612 431,611 478,611 478,598 528,597 539,597 539,587 572,587 605,591 605,611 637,611 637,587 670,587 670,609 711,609 723,594 764,594 764,612 789,612 789,588 827,588 827,601 869,601 881,613 952,613 952,595 975,595 975,612 1016,612 1021,593 1105,592 1125,592 1125,613 1160,610 1204,610 1204,665 1124,665 1106,664 1106,680 1021,680 1016,665 975,666 881,666 869,725 827,729 789,729 789,666 764,666 764,674 723,674 711,681 670,685 637,685 637,667 605,667 605,677 572,677 572,685 539,685 530,666 479,669 431,669 395,665 395,685 324,685 324,670 265,671 204,673 180,673 180,685 141,685 141,677 96,677" baseline="96,677 710,666 1204,664" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Die..xXIII.hiſtoꝛy ſagt wie Blen | german_print2_15: Die.L. xXxii.hiſtoꝛy ſagt wie Blen -->
+			<!-- line left out: id="r1l1" points="94,687 150,687 150,702 167,697 183,697 183,687 206,687 226,688 233,699 253,699 253,687 271,687 271,698 295,698 307,688 327,688 327,678 344,678 344,686 386,686 386,699 404,697 420,697 420,678 468,678 468,695 489,695 489,678 557,678 557,694 584,694 623,695 623,674 646,674 646,692 675,692 675,685 702,685 726,692 746,692 746,674 769,674 769,692 780,692 805,685 825,674 847,674 847,693 863,693 896,694 896,682 942,682 942,692 967,692 973,682 989,682 989,693 1013,692 1038,692 1038,682 1060,682 1088,685 1088,692 1118,692 1124,681 1166,681 1182,684 1182,693 1209,693 1209,724 1182,726 1166,727 1088,727 1013,727 942,728 896,728 868,727 847,726 847,753 825,753 805,727 769,726 769,753 746,753 746,725 702,726 675,726 646,725 646,753 623,753 623,724 584,725 557,725 557,732 468,732 420,732 386,729 344,732 327,732 295,729 254,730 226,731 206,731 206,749 183,749 167,746 167,735 150,735 150,749 94,749" baseline="94,732 225,730 294,729 583,726 701,725 726,725 1209,724" reason: differs: "ſpie" against "hieß" | Wikisource:  | next_nc_e1: ſpiegel ein bꝛillenmacher ward/ vnd in allen landen kein | german_print2_15: ſpiegel ein bꝛillenmacher ward / vnd in allen landen kein -->
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="96,767 115,767 115,750 141,750 141,756 156,756 156,750 217,750 222,761 253,761 253,749 279,746 386,746 386,757 438,756 438,746 464,746 464,754 508,754 524,737 566,737 566,755 598,755 598,747 626,747 626,770 647,770 647,786 626,788 508,788 464,792 438,792 416,790 386,792 217,793 178,800 141,800 96,800" />
+				<Baseline points="96,800 216,793 507,787 647,786" />
+				<TextEquiv index="1">
+					<Unicode>arbeit vberkummen kund.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>arbeit vberkummen kund.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="123,1101 188,1101 188,1234 123,1234" />
+			<!-- line left out: id="r2l0" points="123,1101 165,1101 165,1111 123,1111" baseline="123,1111 165,1111" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — | german_print2_15: —,= -->
+			<!-- line left out: id="r2l1" points="123,1114 159,1114 159,1135 123,1135" baseline="123,1132 159,1132" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — | german_print2_15: E -->
+			<!-- line left out: id="r2l2" points="125,1134 180,1134 180,1152 125,1152" baseline="125,1147 180,1146" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — | german_print2_15: — -->
+			<!-- line left out: id="r2l3" points="126,1155 160,1155 160,1171 126,1171" baseline="126,1168 160,1168" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — | german_print2_15: — -->
+			<!-- line left out: id="r2l4" points="126,1171 161,1171 161,1185 126,1185" baseline="126,1182 161,1182" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — | german_print2_15: — -->
+			<!-- line left out: id="r2l5" points="126,1185 175,1185 175,1197 126,1197" baseline="126,1197 175,1194" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — | german_print2_15: — -->
+			<!-- line left out: id="r2l6" points="127,1197 179,1197 179,1211 127,1211" baseline="127,1211 179,1209" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — | german_print2_15: — -->
+			<!-- line left out: id="r2l7" points="126,1215 188,1215 188,1234 126,1234" baseline="126,1234 188,1231" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: —
+ | german_print2_15: —
+ -->
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="86,816 1238,816 1238,1868 86,1868" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+meister / ich hab gthon als ir mich hießen. Ist es verderbt
+dz ist ewer schult / er ward zornig vnd sagt / du schalcksnar
+darumb heb dich vß meiner werckstat / ich hab deiner arbeit
+keinen nutz. Also schied Vlenspiegel von dannen / vnd verdienet
+nit grossen danck / wiewol er alles dz thet dz man in hieß.
+ein brillenmacher ward / vnd in allen landen kein arbeit vberkummen kund.
+-->
+	</Page>
+</PcGts>

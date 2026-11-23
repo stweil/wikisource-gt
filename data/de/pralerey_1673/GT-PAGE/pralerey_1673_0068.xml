@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:15:37</Created>
+		<LastChange>2026-11-23T11:15:37</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/68 revision 3271253 of 2018-07-31T16:12:34Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0068.png" imageWidth="732" imageHeight="1338">
+		<ReadingOrder>
+			<OrderedGroup id="ro9935023544139605057" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 732,0 732,251 0,251" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="441,57 732,57 732,113 441,113" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="113,71 732,71 732,925 113,925" />
+			<!-- line left out: id="r2l0" points="334,81 348,81 391,71 412,71 412,78 433,77 476,77 476,99 433,99 412,98 348,95 334,95" baseline="334,94 476,95" reason: no text of Wikisource found | Wikisource:  | next_nc_e1:  62. | german_print2_15:  -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="115,115 137,115 146,109 182,109 183,116 213,116 291,110 301,110 301,116 313,116 320,108 355,108 356,115 374,115 393,112 409,112 420,118 451,117 451,107 467,107 468,115 509,115 512,135 540,108 578,108 578,116 607,116 607,109 707,108 728,120 732,120 732,121 728,121 707,148 624,148 624,141 578,141 578,148 559,148 559,141 509,139 439,139 438,146 420,146 409,139 356,140 355,146 320,146 313,140 165,142 165,151 137,151 115,151" />
+				<Baseline points="115,142 263,140 540,140 732,142" />
+				<TextEquiv index="1">
+					<Unicode>groben an die Hand geben. Neulich kam</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="114,155 139,155 159,159 166,151 231,150 232,160 258,160 263,149 300,149 300,158 310,158 311,149 375,149 375,142 415,142 419,158 430,158 430,152 475,148 491,148 491,142 506,142 534,142 559,142 559,157 638,158 638,142 653,142 653,160 720,159 720,162 665,182 653,182 653,192 638,192 629,182 559,181 559,192 534,192 506,192 491,192 491,183 419,179 415,192 375,192 375,184 341,188 325,188 325,180 300,180 300,188 263,188 258,181 232,182 231,188 216,188 183,182 183,188 166,188 159,182 139,184 114,184" />
+				<Baseline points="114,183 412,179 720,183" />
+				<TextEquiv index="1">
+					<Unicode>ein ſolcher Jockel/ der ein Obriſter unter den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l3" points="113,191 156,191 156,199 211,199 211,191 229,191 229,200 267,195 270,195 295,192 324,188 360,188 421,188 421,198 439,195 463,195 483,194 492,194 509,198 518,190 555,190 569,191 569,198 583,194 591,193 606,190 621,190 621,199 638,199 670,200 670,190 704,190 704,224 670,224 642,223 621,222 621,230 591,230 591,222 583,222 555,221 555,230 536,230 536,223 518,223 439,221 421,221 421,228 360,228 324,228 318,222 270,222 229,224 156,224 113,224" baseline="113,224 237,222 317,221 518,221 642,222 704,224" reason: second model: differs: "acheuse" against "achaeus" | Wikisource: Bauern/ wie Zachaeus ein Obrister unter | next_nc_e1: Bauern/ wie Zachceus ein Obriſter unter | german_print2_15: Bauern / wie Zacheus ein Obriſter unter -->
+			<!-- line left out: id="r2l4" points="115,236 134,236 167,240 173,230 189,226 204,226 217,230 236,233 236,239 245,239 315,238 371,236 379,236 410,238 452,233 494,233 494,226 528,226 532,239 556,234 585,234 585,240 604,240 625,241 635,242 642,232 675,232 684,233 705,237 732,242 732,260 728,260 705,268 675,270 642,270 635,263 585,263 556,263 532,262 528,278 494,278 452,274 435,269 429,262 410,266 398,266 371,265 351,262 245,262 204,262 204,278 189,278 189,270 173,270 167,263 115,263" baseline="115,263 301,261 532,262 642,263 732,264" reason: second model: differs: "denZ" against "unte" | Wikisource: den Zöllnern war/ zu mir in meinen Blu | next_nc_e1: den Zoͤllnern war/ zu mir in meinen Blu⸗ | german_print2_15: den Zoͤllnern war / zu mir in meinen Bli ⸗ -->
+			<!-- line left out: id="r2l5" points="116,280 155,280 155,271 174,271 174,280 190,280 190,271 224,271 225,280 258,279 269,279 322,275 349,275 387,279 387,272 403,272 404,280 458,280 458,274 499,272 527,272 539,275 562,280 570,282 580,283 587,273 621,273 621,282 632,281 646,281 646,271 677,271 709,271 729,277 732,277 732,279 729,279 709,304 696,304 696,312 646,312 646,304 621,304 587,304 527,303 527,309 499,309 492,303 388,303 322,303 269,302 258,303 208,304 174,304 149,304 116,304" baseline="116,304 300,302 375,302 587,303 732,304" reason: second model: differs: "men⸗" against "en B" | Wikisource: men-Garten/ der eben mit seinen Gewäch | next_nc_e1: men⸗Garten/ der eben mit ſeinen Gewaͤch⸗ | german_print2_15: men⸗Garten / der eben mit ſeinen Gewaͤch / -->
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="116,313 134,313 141,320 173,315 184,315 184,321 203,321 221,312 243,312 252,315 253,321 321,321 321,313 347,314 347,321 372,321 372,313 388,313 389,321 401,321 402,314 422,314 422,321 452,321 472,311 496,311 519,321 530,322 530,316 595,316 596,323 672,322 680,319 700,319 700,352 673,353 659,353 644,352 644,344 608,345 497,343 496,350 472,350 452,343 422,342 422,349 402,349 401,343 347,344 336,349 321,349 321,343 286,344 243,349 221,349 203,343 134,343 134,350 116,350" />
+				<Baseline points="116,343 560,343 700,346" />
+				<TextEquiv index="1">
+					<Unicode>ſen in ſeiner allerbeſten Zierde brangete;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l7" points="119,352 163,352 168,358 188,358 227,357 246,357 295,357 308,360 344,360 358,353 361,353 406,353 429,354 429,361 442,361 452,354 467,354 476,357 505,359 509,351 528,351 552,351 552,363 577,358 603,358 616,363 625,354 636,354 687,354 694,363 732,363 732,391 675,392 652,392 644,386 636,386 636,392 625,392 616,386 594,386 528,384 467,389 441,389 441,383 413,383 406,390 358,390 344,383 308,384 295,384 279,383 279,393 260,393 260,384 246,384 246,393 227,393 227,383 200,384 119,384" baseline="119,384 343,383 509,383 732,387" reason: second model: differs: "lfaͤ." against "lfärbig" | Wikisource: Er verwunderte sich beydes über die vilfär | next_nc_e1: Er verwunderte ſich beydes uͤber die vilfaͤr | german_print2_15: Er verwunderte ſich beydes uͤber die vilfaͤ. -->
+			<!-- line left out: id="r2l8" points="117,394 136,394 147,396 147,403 163,402 176,402 184,393 221,393 221,402 232,402 232,395 250,395 259,396 260,403 275,403 275,393 291,393 291,402 304,402 304,393 319,393 357,398 416,398 421,390 441,390 466,390 466,403 489,400 504,398 516,398 536,404 554,403 578,403 578,396 588,396 597,395 619,395 619,386 635,386 635,405 639,405 732,406 732,415 658,415 639,427 635,427 635,437 619,437 619,431 597,431 588,426 578,426 553,425 536,425 484,424 441,424 357,425 325,425 319,432 291,432 259,432 247,432 247,425 232,425 221,424 221,432 202,432 202,425 184,425 163,424 163,432 145,432 136,425 117,425" baseline="117,425 175,424 536,424 732,428" reason: differs: "Auß/" against "Außthei" | Wikisource:  | next_nc_e1: bige Tullipanen/ und uͤber die artliche Auß/ | german_print2_15: bige Tullipanen / und uͤber die artliche Auß⸗ -->
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="117,442 129,442 129,434 157,434 180,435 180,442 216,443 245,439 262,439 288,443 294,434 332,433 332,444 344,439 361,439 387,443 408,444 408,438 424,438 450,444 457,433 493,433 493,443 516,442 516,435 535,435 586,440 627,440 647,445 665,446 673,432 707,432 720,440 732,440 732,474 673,474 665,467 544,466 535,472 516,472 516,465 245,465 233,472 216,472 216,465 157,465 157,472 129,472 117,467" />
+				<Baseline points="117,467 232,465 457,465 732,468" />
+				<TextEquiv index="1">
+					<Unicode>theilung der Laͤnder oder Beth/ darinn ſie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="117,474 131,474 141,476 141,483 176,478 194,478 206,483 206,474 226,474 237,479 290,483 290,476 306,476 306,470 325,470 325,483 341,478 369,477 369,484 403,479 420,479 431,483 446,484 459,475 481,475 488,470 503,470 503,485 528,485 528,475 543,475 556,481 717,481 717,486 556,486 543,513 511,513 503,520 488,520 481,507 431,506 325,506 325,520 306,520 306,505 237,507 141,506 141,514 117,514" />
+				<Baseline points="117,506 542,506 717,510" />
+				<TextEquiv index="1">
+					<Unicode>ſtunden/ umb willen der Tropff dergleichen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="120,516 137,516 137,524 150,524 150,516 186,516 195,524 216,524 216,518 224,518 224,524 256,524 256,516 275,516 302,516 326,517 333,524 363,525 363,516 380,516 404,516 404,524 417,524 440,521 480,524 499,521 521,520 607,520 615,527 672,527 672,518 705,518 705,556 672,556 672,549 615,550 440,548 404,546 404,553 363,551 352,546 352,554 333,554 326,547 302,547 302,553 256,553 256,547 216,546 195,546 186,553 150,553 150,547 137,547 137,553 120,553" />
+				<Baseline points="120,547 333,546 521,547 705,550" />
+				<TextEquiv index="1">
+					<Unicode>noch niemahls geſehen/ und damit er auch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="119,556 136,556 183,565 193,556 305,555 330,557 330,565 355,565 356,556 382,556 382,566 400,566 400,555 421,551 495,551 511,558 522,558 530,551 546,551 574,551 574,567 585,567 596,551 611,551 652,551 677,551 686,564 702,564 702,595 688,597 677,601 652,601 611,601 596,601 585,589 574,589 574,601 546,601 530,601 530,588 511,588 503,594 495,594 495,601 421,601 421,594 400,594 400,587 382,588 382,594 356,594 355,586 338,586 338,593 314,593 305,595 250,594 250,586 236,588 236,595 218,595 218,588 136,587 136,593 119,593" />
+				<Baseline points="119,586 502,587 702,592" />
+				<TextEquiv index="1">
+					<Unicode>ſeine Wiſſenſchafften hoͤren laſſen moͤchte/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="117,605 183,605 268,601 320,602 329,596 373,596 373,606 389,606 389,597 407,597 419,606 427,606 427,600 458,600 480,605 500,606 500,600 562,601 562,633 568,633 573,598 611,598 620,600 620,607 703,608 718,624 721,624 721,633 568,636 562,636 562,630 419,628 407,635 389,635 389,628 373,628 373,635 353,635 353,629 117,628" />
+				<Baseline points="117,628 419,628 721,633" />
+				<TextEquiv index="1">
+					<Unicode>nannte er das Beth mitten im Blumen⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l14" points="115,634 126,634 169,634 182,636 214,637 214,644 226,642 247,637 263,637 281,640 288,646 301,646 301,640 311,640 311,646 329,646 335,637 370,637 396,637 405,644 423,644 430,637 450,637 450,648 471,648 471,637 487,637 487,648 501,648 501,642 511,642 511,649 524,647 564,647 564,641 574,641 574,648 591,648 598,641 608,640 627,639 654,639 654,649 674,648 685,645 708,645 724,668 732,668 732,671 708,672 687,673 674,673 654,672 643,671 643,678 598,678 591,670 543,671 524,671 501,666 487,671 471,671 460,666 450,665 430,665 423,675 396,675 370,675 354,675 354,669 302,669 263,669 263,675 247,675 247,668 224,669 214,669 214,675 202,675 181,670 169,669 169,675 138,675 115,675" baseline="115,668 280,668 598,670 732,671" reason: models differ | Wikisource: stück/ so wie ein Creutz formirt, ein schönes | next_nc_e1: ſtuͤck/ ſo wie ein Creutz formirt, ein ſchoͤnes | german_print2_15: ſtück / ſo wie ein Creutz formirt, ein ſchoͤnes -->
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="116,677 134,673 157,673 157,688 173,688 173,673 196,673 196,688 228,688 228,677 249,677 249,689 263,689 263,678 274,673 293,673 293,689 316,686 356,685 356,678 385,673 400,673 400,688 428,683 437,683 437,677 489,677 495,688 518,688 518,680 550,680 552,688 563,688 574,680 585,680 585,688 625,688 626,682 635,682 635,689 664,681 673,680 702,680 732,684 732,721 703,721 664,718 664,711 552,711 550,718 518,718 518,712 489,717 437,717 437,710 400,710 400,725 385,725 385,715 364,715 364,709 316,710 293,707 293,725 274,725 274,706 196,706 196,725 173,725 173,706 157,706 157,725 134,725 134,706 116,706" />
+				<Baseline points="116,705 732,713" />
+				<TextEquiv index="1">
+					<Unicode>Nammedelle, welches auff recht lateiniſch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="117,718 157,718 157,729 185,729 185,718 218,714 264,714 367,718 387,720 387,727 431,727 440,721 458,721 458,729 469,729 469,720 517,720 519,726 581,724 620,725 620,714 637,714 637,726 668,724 732,724 732,756 700,756 692,754 637,752 637,762 620,762 620,751 517,755 440,755 412,750 412,756 400,756 400,750 387,755 367,758 264,762 218,762 185,758 185,746 168,746 168,758 137,758 137,747 117,747" />
+				<Baseline points="117,747 732,751" />
+				<TextEquiv index="1">
+					<Unicode>Agnus Dei geſagt ſeyn ſolte/ und das da⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l17" points="118,759 139,759 139,768 181,768 187,762 215,760 228,760 228,768 254,768 254,760 275,760 280,768 295,763 356,762 368,762 368,768 380,768 386,759 413,759 413,770 439,770 439,759 458,759 486,760 486,771 527,770 542,770 542,764 561,764 573,769 586,770 592,760 628,760 628,770 640,770 640,762 657,762 657,770 674,770 674,762 684,762 684,769 699,769 732,772 732,795 682,795 657,794 657,800 640,800 640,793 628,794 592,794 573,793 561,793 527,792 486,789 458,788 458,797 429,797 429,787 380,791 331,791 275,792 228,792 165,792 139,792 139,798 118,798" baseline="118,792 339,790 527,790 732,795" reason: second model: differs: "apfſule" against "apsulen" | Wikisource: hero/ weil wir die Capsulen oder Behalt | next_nc_e1: hero/ weil wir die Capſulen oder Behalt⸗ | german_print2_15: hero / weil wir die Capfſulen oder Behalt ⸗ -->
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="119,809 129,809 129,801 140,801 140,808 160,808 160,800 199,800 199,808 222,805 243,805 266,809 266,801 320,801 320,825 328,825 342,799 377,799 406,799 407,811 442,811 443,804 453,804 453,811 523,810 524,802 548,802 548,810 605,809 672,811 710,805 732,805 732,835 636,835 605,838 575,838 548,834 548,840 534,840 534,834 442,829 425,829 424,839 407,839 406,828 377,828 377,839 358,839 358,830 320,831 320,839 280,839 267,804 267,833 199,832 199,840 160,840 160,832 119,832" />
+				<Baseline points="119,832 505,830 557,834 732,835" />
+				<TextEquiv index="1">
+					<Unicode>nuſſen der H. Reliquien alſo zunennen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l19" points="116,850 132,850 132,841 157,841 157,849 198,849 209,850 209,841 229,841 273,845 347,850 347,837 367,837 415,844 418,844 449,843 465,843 465,849 479,845 500,843 511,843 516,850 558,850 568,851 599,847 618,847 638,847 638,853 654,853 655,844 668,843 699,843 699,883 668,883 668,875 655,875 654,883 636,883 636,875 618,875 599,875 556,874 546,873 545,881 516,881 511,874 465,874 449,874 418,873 322,873 242,874 229,874 229,880 209,880 209,872 198,873 185,873 185,879 157,880 132,880 116,879" baseline="116,873 255,872 415,872 516,873 699,875" reason: second model: differs: "ichP" against "ch ein " | Wikisource: pflegen/ darumb/ dieweil gemeiniglich | next_nc_e1: pflegen/ darumb/ dieweil gemeiniglich | german_print2_15: pflegen / darumb / dieweil gemeiniglich P -->
+			<!-- line left out: id="r2l20" points="116,889 131,884 140,884 140,891 158,891 164,881 179,880 202,880 202,889 215,889 215,880 230,880 246,882 256,884 256,891 275,891 275,885 296,885 296,875 338,875 341,890 406,890 411,882 429,882 429,892 447,892 513,893 517,882 541,882 548,894 574,894 575,887 590,882 618,882 618,894 639,894 645,887 667,887 667,893 684,889 699,889 732,893 732,920 699,920 685,916 645,916 605,911 605,921 590,921 590,911 575,911 568,921 548,921 548,910 513,911 462,911 429,910 429,919 411,919 406,913 341,913 338,925 296,925 296,913 246,914 230,915 202,915 179,915 164,915 130,914 116,914" baseline="116,914 512,911 517,911 645,914 732,917" reason: differs: "tæeins" against "ae eins" | Wikisource:  | next_nc_e1: ein Laͤmlein/ wie man Joanne Baptiſtæ eins
+ | german_print2_15: ein Laͤmlein / wie man Joanne Baptiſtæ eins
+ -->
+			<TextEquiv index="1">
+				<Unicode>groben an die Hand geben. Neulich kam
+ein ſolcher Jockel/ der ein Obriſter unter den
+ſen in ſeiner allerbeſten Zierde brangete;
+theilung der Laͤnder oder Beth/ darinn ſie
+ſtunden/ umb willen der Tropff dergleichen
+noch niemahls geſehen/ und damit er auch
+ſeine Wiſſenſchafften hoͤren laſſen moͤchte/
+nannte er das Beth mitten im Blumen⸗
+Nammedelle, welches auff recht lateiniſch
+Agnus Dei geſagt ſeyn ſolte/ und das da⸗
+nuſſen der H. Reliquien alſo zunennen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="0,251 732,251 732,1182 0,1182" />
+		</GraphicRegion>
+		<GraphicRegion id="r4">
+			<Coords points="707,414 723,414 723,655 707,655" />
+		</GraphicRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="84,921 732,921 732,1167 84,1167" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="115,929 146,930 146,922 164,922 164,930 194,930 194,922 222,922 222,930 241,930 241,922 245,922 290,926 309,931 330,931 330,921 346,921 346,931 358,931 358,921 383,921 386,931 445,932 445,924 464,924 464,932 477,932 477,924 509,924 509,932 650,933 651,926 671,926 671,933 685,930 698,930 701,937 707,937 707,943 701,943 698,960 685,960 671,957 671,964 651,964 650,957 603,957 572,955 557,962 546,962 536,955 509,956 509,962 477,962 477,955 464,955 464,962 445,962 445,955 383,959 358,959 358,953 346,953 346,959 330,959 322,954 273,955 241,961 241,954 221,954 213,961 194,961 194,953 164,954 164,961 146,961 146,954 129,959 115,959" />
+				<Baseline points="115,954 707,955" />
+				<TextEquiv index="1">
+					<Unicode>zumahlet/ darauff entworffen; er wuſte/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="114,966 128,966 128,959 144,959 144,971 150,971 172,963 188,959 206,959 206,966 246,964 246,973 275,972 275,964 310,964 398,968 460,966 460,973 604,974 616,966 636,966 637,976 696,975 696,994 654,994 654,1005 637,1005 636,993 604,997 495,996 495,1003 481,1003 471,995 460,995 460,1002 446,1002 437,995 294,994 294,1001 275,1001 275,994 246,994 246,1001 232,1001 218,994 206,994 206,1009 188,1009 188,1000 172,1000 150,993 144,993 144,1009 128,1009 128,993 114,993" />
+				<Baseline points="114,993 696,997" />
+				<TextEquiv index="1">
+					<Unicode>daß wir ſowol mit dem ſo genanten Agnus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l2" custom="readingOrder {index:2;}">
+				<Coords points="84,1025 113,1001 146,1001 170,1006 177,1012 196,1012 196,1004 253,1008 284,1013 290,1004 352,1004 359,1015 411,1016 411,1004 428,1004 428,1016 459,1016 468,1006 486,1006 488,1031 503,1007 529,1007 529,1017 543,1017 543,1006 553,1006 553,1017 600,1016 600,1010 609,1010 609,1018 626,1018 627,1010 681,1015 681,1009 697,1009 704,1015 723,1015 723,1025 704,1025 697,1038 648,1038 626,1034 529,1034 459,1037 411,1037 352,1031 253,1036 113,1030 84,1027" />
+				<Baseline points="84,1030 723,1033" />
+				<TextEquiv index="1">
+					<Unicode>Dei als den Tuboriner: S. Valentini und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l3" points="110,1042 132,1038 153,1038 153,1052 170,1052 208,1048 218,1045 249,1045 259,1053 271,1053 291,1054 305,1045 339,1045 339,1054 357,1053 375,1053 393,1054 426,1055 432,1049 461,1047 479,1047 479,1057 496,1057 567,1057 576,1047 612,1047 612,1058 641,1058 641,1047 659,1047 667,1048 668,1057 698,1057 709,1049 732,1049 732,1084 709,1084 698,1075 668,1075 659,1084 641,1084 641,1075 612,1075 612,1084 594,1084 594,1075 546,1075 479,1074 479,1083 461,1083 432,1079 394,1077 393,1084 376,1084 375,1076 346,1077 339,1077 339,1084 321,1084 321,1077 305,1077 271,1075 259,1074 257,1081 246,1081 218,1079 208,1075 189,1075 170,1074 170,1080 153,1085 132,1085 132,1076 110,1076" baseline="110,1074 566,1074 732,1075" reason: differs: "annæCor" against "annae C" | Wikisource:  | next_nc_e1: Spaniſchen Creutzen/ Joannæ Corallen | german_print2_15: Spaniſchen Ereutzen / Joannæ Corallen -->
+			<TextLine id="r5l4" custom="readingOrder {index:4;}">
+				<Coords points="108,1090 119,1090 119,1081 138,1081 138,1092 163,1085 188,1081 203,1081 230,1086 240,1094 259,1094 259,1087 288,1087 295,1090 328,1087 361,1087 370,1089 387,1087 441,1087 441,1095 454,1095 454,1087 467,1087 526,1088 526,1097 542,1097 542,1088 610,1088 624,1089 624,1097 643,1096 662,1091 671,1091 703,1101 703,1117 690,1120 624,1120 624,1127 542,1127 542,1120 526,1121 516,1127 454,1126 454,1120 441,1120 441,1126 406,1126 397,1120 362,1117 361,1124 322,1125 322,1117 308,1120 295,1120 288,1126 272,1126 272,1118 240,1118 230,1124 213,1124 203,1131 188,1131 188,1124 168,1124 166,1116 138,1117 138,1131 119,1131 119,1116 108,1116" />
+				<Baseline points="108,1116 466,1121 703,1118" />
+				<TextEquiv index="1">
+					<Unicode>und ſonſt underſchidlichen Ablaß⸗Pfennin⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l5" custom="readingOrder {index:5;}">
+				<Coords points="642,1138 661,1136 716,1136 716,1159 691,1161 662,1161 662,1167 642,1167" />
+				<Baseline points="642,1161 716,1159" />
+				<TextEquiv index="1">
+					<Unicode>gen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>zumahlet/ darauff entworffen; er wuſte/
+daß wir ſowol mit dem ſo genanten Agnus
+Dei als den Tuboriner: S. Valentini und
+und ſonſt underſchidlichen Ablaß⸗Pfennin⸗
+gen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="0,1116 732,1116 732,1338 0,1338" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+groben an die Hand geben. Neulich kam ein solcher Jockel / der ein Obrister unter den Bauern / wie Zachaeus ein Obrister unter den Zöllnern war / zu mir in meinen Blumen-Garten / der eben mit seinen Gewächsen in seiner allerbesten Zierde brangete; Er verwunderte sich beydes über die vilfärbige Tullipanen / und über die artliche Außtheilung der Länder oder Beth / darinn sie stunden / umb willen der Tropff dergleichen noch niemahls gesehen / und damit er auch seine Wissenschafften hören lassen möchte / nannte er das Beth mitten im Blumenstück / so wie ein Creutz formirt, ein schönes Nammedelle, welches auff recht lateinisch Agnus Dei gesagt seyn solte / und das dahero / weil wir die Capsulen oder Behaltnussen der H. Reliquien also zunennen pflegen / darumb / dieweil gemeiniglich ein Lämlein / wie man Joanne Baptistae eins zumahlet / darauff entworffen; er wuste / daß wir sowol mit dem so genanten Agnus Dei als den Tuboriner: S. Valentini und Spanischen Creutzen / Joannae Corallen und sonst underschidlichen Ablaß-Pfenningen
+-->
+	</Page>
+</PcGts>

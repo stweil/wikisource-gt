@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:14:12</Created>
+		<LastChange>2026-11-23T11:14:12</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/10 revision 3271164 of 2018-07-31T16:12:06Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0010.png" imageWidth="732" imageHeight="1324">
+		<ReadingOrder>
+			<OrderedGroup id="ro14369982194447163243" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 732,0 732,114 0,114" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="719,38 732,38 732,182 719,182" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="99,99 724,99 724,1150 99,1150" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="130,110 160,111 161,101 178,101 178,110 190,110 195,100 218,99 238,99 238,111 265,112 265,99 285,99 310,102 311,113 324,111 353,111 362,103 393,103 408,104 409,110 421,110 442,114 446,105 487,105 497,107 497,113 546,109 554,106 582,106 591,113 608,113 612,106 699,106 699,116 717,116 717,146 658,146 638,146 638,140 362,139 311,133 310,139 265,138 265,131 238,132 238,139 218,139 218,133 178,132 178,139 161,139 160,131 130,131" />
+				<Baseline points="130,131 521,136 717,145" />
+				<TextEquiv index="1">
+					<Unicode>rohe Vorfahren ſich/ als ein wildes Volck/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="127,150 137,150 138,141 152,139 185,139 186,150 196,150 208,142 222,142 222,152 231,152 240,144 255,144 257,152 272,152 274,143 339,148 339,154 347,154 354,144 402,144 421,147 437,145 454,145 455,153 468,148 508,145 543,147 550,145 586,145 601,147 601,154 644,158 644,152 702,152 713,141 719,141 719,189 702,194 652,194 652,180 600,182 586,179 586,185 508,185 508,175 455,175 454,182 437,182 437,174 402,174 402,182 382,182 382,175 222,172 222,179 208,179 196,171 186,171 185,179 157,179 157,172 127,172" />
+				<Baseline points="127,171 487,175 719,181" />
+				<TextEquiv index="1">
+					<Unicode>nicht ſo bald der Weisheit befliſſen/ wie die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l2" points="124,181 165,181 191,181 217,181 238,184 238,192 267,188 286,184 319,184 321,194 332,194 333,185 343,185 343,194 362,193 374,193 374,184 391,184 391,193 411,189 436,185 470,185 470,194 481,194 482,188 498,185 514,185 530,186 531,196 553,193 591,188 605,188 605,198 621,197 632,197 644,193 652,188 686,188 701,190 713,202 718,202 718,228 686,228 670,228 652,224 605,221 579,222 553,222 544,218 531,217 530,224 498,224 498,216 482,216 470,215 470,224 453,224 453,217 424,218 411,218 391,214 391,220 374,220 362,215 340,214 321,213 319,220 286,220 278,213 218,213 217,219 198,220 175,220 164,219 164,213 143,213 143,220 124,220" baseline="124,213 286,213 436,215 591,218 718,223" reason: differs: "ræer/Gr" against "raeer/ " | Wikisource:  | next_nc_e1: Aegyptier/ Hebræer/ Griechen/ Lateiner/ | german_print2_15: Aegyptier/ Hebraer/ Griechen / Lateiner / -->
+			<!-- line left out: id="r2l3" points="122,231 152,226 177,226 236,226 250,231 274,231 281,222 310,221 323,221 345,221 378,224 378,233 386,233 399,234 406,227 426,227 426,235 436,235 437,225 464,225 470,234 491,234 513,231 546,230 552,230 583,230 590,238 624,238 624,230 651,230 659,239 677,239 703,237 720,237 720,271 703,271 702,264 677,269 624,269 624,260 606,260 583,259 552,259 527,260 513,260 491,256 464,255 464,263 437,263 436,255 426,255 426,262 406,262 399,256 345,256 323,256 310,256 281,255 250,253 237,253 185,252 122,251" baseline="122,250 398,254 590,258 720,261" reason: second model: differs: "undand" against "iner/ " | Wikisource: und andere Völcker gethan/ die auch an | next_nc_e1: und andere Voͤlcker gethan/ die auch an⸗ | german_print2_15: und andere Voͤlcker gethan / die auch an. -->
+			<!-- line left out: id="r2l4" points="120,261 151,261 152,272 171,271 188,271 189,262 206,262 207,271 217,271 217,262 233,261 252,261 252,268 264,268 343,268 364,272 395,272 422,273 440,274 480,274 494,267 497,267 497,273 506,273 519,270 532,267 556,267 577,268 577,277 584,277 628,278 643,272 651,270 667,270 667,279 680,279 702,280 713,269 724,269 724,299 702,303 677,303 667,309 651,309 651,300 611,304 584,305 572,305 555,300 544,298 544,305 532,305 532,297 519,297 506,295 506,301 497,305 494,305 480,296 450,296 450,303 432,303 422,295 395,298 364,298 252,299 217,299 217,293 207,293 189,292 188,299 171,299 170,291 152,291 151,298 131,299 120,299" baseline="120,291 289,293 432,295 494,296 724,300" reason: models differ | Wikisource: fänglich/ und zwar gar zeitlich zu ihrer | next_nc_e1: faͤnglich/ und zwar gar zeitlich zu ihrer | german_print2_15: fänglich / und zwar gar zeitlich zu ihrer -->
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="120,301 164,301 164,311 207,311 208,301 236,301 267,303 268,311 315,312 315,303 335,303 335,312 368,313 383,304 423,304 423,314 438,314 439,305 489,307 489,314 501,314 501,304 517,304 533,307 533,316 598,318 598,308 614,308 614,319 634,319 643,316 669,316 677,320 698,321 698,349 675,349 675,342 643,342 614,340 614,346 598,346 598,339 573,338 517,337 517,343 501,343 501,335 489,335 489,343 454,343 454,336 423,335 423,343 403,343 403,336 335,334 335,342 315,342 314,334 295,333 295,342 280,342 280,332 252,332 236,340 208,340 207,331 176,332 176,338 164,340 144,340 144,333 120,333" />
+				<Baseline points="120,333 252,332 550,337 698,343" />
+				<TextEquiv index="1">
+					<Unicode>Sprach bequeme Buchſtaben erfunden;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="116,347 136,347 152,350 153,342 170,342 175,351 212,350 212,343 236,340 271,340 271,351 306,352 306,343 322,343 356,345 356,352 371,352 379,350 480,349 512,354 530,355 616,353 655,358 698,360 698,382 684,383 675,383 595,380 412,380 354,375 344,381 315,381 306,380 295,376 271,373 271,381 252,381 252,375 153,378 152,371 116,372" />
+				<Baseline points="116,371 529,377 698,383" />
+				<TextEquiv index="1">
+					<Unicode>daß nun Teutſchland zu einem und dem an⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="115,384 157,384 157,391 202,390 215,392 216,382 228,382 228,392 241,390 294,388 321,384 339,384 339,393 368,392 442,394 452,385 480,385 480,394 498,396 500,388 521,388 529,397 548,397 548,390 571,390 571,398 618,398 636,395 652,395 676,400 676,390 717,390 717,403 701,433 676,433 676,422 500,424 498,416 480,416 480,423 455,423 452,389 442,416 339,415 339,421 321,421 294,417 279,413 277,421 260,421 260,413 203,413 202,419 185,419 177,413 115,412" />
+				<Baseline points="115,412 452,416 717,423" />
+				<TextEquiv index="1">
+					<Unicode>dern gelangt/ hat man ſonſt niemand als</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="113,426 132,426 143,431 160,432 167,421 190,420 211,420 211,432 253,432 254,423 269,420 290,420 314,420 315,433 326,433 326,420 343,420 343,426 360,426 360,434 417,433 458,429 475,429 475,436 500,436 500,428 540,428 540,437 586,438 595,432 608,432 608,439 623,439 633,430 688,430 700,432 700,469 674,469 657,469 657,462 646,462 646,469 633,469 623,461 608,461 608,467 595,467 574,465 567,459 521,458 521,465 500,465 500,458 446,461 417,461 377,456 377,463 358,463 358,455 343,455 343,464 326,464 326,455 295,455 290,464 269,464 254,461 253,453 238,454 211,464 167,464 160,456 143,456 132,453 113,452" />
+				<Baseline points="113,452 458,456 700,464" />
+				<TextEquiv index="1">
+					<Unicode>den Sprachkuͤndigen zu dancken; ja nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="108,463 172,462 181,462 233,462 233,468 275,463 293,463 293,473 320,468 328,463 345,463 345,474 403,474 403,466 436,466 479,470 479,476 496,476 496,467 514,467 538,471 572,471 597,474 606,470 657,470 702,472 709,476 709,511 680,511 669,511 623,506 606,506 606,500 538,500 514,504 496,504 496,498 453,499 436,503 403,503 403,496 371,496 363,505 328,505 328,495 293,495 293,501 275,501 233,493 233,499 207,499 207,493 189,493 181,499 172,499 166,493 108,493" />
+				<Baseline points="108,493 462,497 709,502" />
+				<TextEquiv index="1">
+					<Unicode>nur dieſes/ ſonder auch/ daß wir durch ſie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="106,505 133,504 133,497 149,497 176,501 176,510 189,510 189,502 202,502 202,511 238,506 255,506 266,511 304,509 327,504 392,504 393,513 415,511 510,508 566,508 566,514 593,510 643,510 651,514 651,521 668,519 699,519 700,537 702,537 702,549 700,549 699,543 668,543 668,549 651,549 651,542 623,542 619,549 593,548 587,539 566,543 510,543 459,540 350,539 327,536 149,533 149,553 133,553 133,532 106,532" />
+				<Baseline points="106,532 442,536 702,544" />
+				<TextEquiv index="1">
+					<Unicode>die Erkandtnus GOttes und ſeines heiligen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="100,543 153,541 188,541 188,547 237,549 254,548 276,543 322,543 349,546 349,554 380,549 399,549 420,554 420,544 440,544 440,554 462,554 462,544 490,544 490,556 520,557 520,544 539,544 548,554 572,554 639,559 695,559 695,582 572,583 539,586 507,586 507,578 490,583 440,586 420,586 420,576 361,578 301,578 254,573 254,583 237,583 237,573 188,573 188,580 168,580 168,573 108,573 108,580 100,580" />
+				<Baseline points="100,572 571,579 695,583" />
+				<TextEquiv index="1">
+					<Unicode>Worts und Willens empfangen/ wannen⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="99,609 103,580 124,580 125,590 167,590 176,584 187,584 187,591 202,591 203,584 308,584 308,593 319,593 320,585 331,585 340,587 340,593 369,594 376,584 417,584 417,594 429,594 429,588 437,586 472,584 501,589 507,596 538,596 545,588 563,588 563,599 576,599 576,587 620,587 620,598 667,592 695,592 695,622 639,624 620,620 620,627 576,627 576,619 563,619 563,625 545,625 538,618 521,621 507,621 481,617 472,623 437,623 437,615 417,615 417,623 397,623 397,616 376,616 357,614 356,622 338,622 338,615 308,615 308,621 286,622 274,614 125,613 124,619 103,619 99,613" />
+				<Baseline points="99,612 507,617 695,622" />
+				<TextEquiv index="1">
+					<Unicode>hero wir die ſeelige Ewigkeit zu hoffen/ in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="103,625 123,625 123,631 134,631 134,624 164,624 178,629 183,621 211,621 211,631 224,631 224,624 252,624 261,621 280,621 327,621 327,633 390,628 390,634 403,634 403,628 455,626 464,628 464,635 500,632 514,632 543,636 571,633 587,633 600,638 614,639 620,630 645,627 696,627 696,662 620,663 588,660 530,659 530,665 512,665 512,657 500,657 500,665 481,665 481,656 455,656 455,662 436,662 427,655 378,655 370,663 342,663 342,655 327,655 327,663 261,663 252,660 224,660 224,653 134,653 103,651" />
+				<Baseline points="103,651 436,656 696,663" />
+				<TextEquiv index="1">
+					<Unicode>deren Ermanglung wir hingegen der Ver⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="103,665 120,665 139,670 155,671 155,661 174,661 200,661 241,661 254,664 254,670 266,670 266,664 305,664 305,671 358,672 367,667 393,667 393,673 461,674 472,666 489,666 489,674 502,674 502,666 572,666 572,677 602,678 602,706 593,706 590,699 572,699 572,706 556,706 547,704 529,706 513,706 513,698 489,697 489,706 472,706 461,696 367,696 305,693 305,699 276,699 266,694 254,693 254,699 247,699 241,692 138,693 103,691" />
+				<Baseline points="103,691 602,699" />
+				<TextEquiv index="1">
+					<Unicode>dambnus nicht entrinnen moͤchten;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="175,700 213,700 213,709 267,709 273,703 301,703 301,709 322,704 359,703 359,712 378,712 378,706 390,706 390,713 401,713 405,703 475,703 475,714 495,714 505,696 525,696 525,714 539,714 544,707 581,707 591,712 608,717 608,707 627,707 649,710 649,719 664,719 664,713 696,714 696,741 525,742 525,749 505,749 495,738 475,738 475,745 439,745 439,736 388,736 359,734 359,740 322,740 322,733 301,733 301,740 273,740 267,733 175,734" />
+				<Baseline points="175,731 696,741" />
+				<TextEquiv index="1">
+					<Unicode>Dann gleichwie GOtt zu Nimbrods</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="103,773 105,738 132,738 132,750 144,750 144,744 221,746 246,750 246,734 262,734 262,743 311,742 316,734 332,734 332,752 346,752 347,744 365,744 365,751 377,746 396,745 396,753 456,750 490,750 501,754 506,746 553,746 553,756 593,757 593,749 615,749 622,757 659,752 684,752 684,758 695,758 695,781 611,786 611,780 562,784 553,786 533,786 533,779 506,779 456,775 447,782 434,782 434,775 365,774 365,781 347,781 346,774 332,774 332,790 316,790 311,781 262,779 262,790 246,790 246,772 132,772 132,778 103,778" />
+				<Baseline points="103,772 288,773 695,782" />
+				<TextEquiv index="1">
+					<Unicode>Zeiten durch Zertheilung der Sprachen die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="100,780 151,780 151,789 181,790 181,781 208,780 228,780 228,790 271,787 380,787 480,793 574,792 590,797 590,789 634,789 634,798 649,794 666,794 696,797 722,802 722,832 714,832 696,822 666,822 666,828 649,828 644,821 607,825 590,825 590,819 551,821 490,821 434,816 392,815 181,817 151,812 100,812" />
+				<Baseline points="100,811 441,815 722,822" />
+				<TextEquiv index="1">
+					<Unicode>Menſchen voneinander trennet/ daß ſie den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l18" points="100,829 116,829 116,821 136,821 174,821 174,830 191,830 191,822 207,822 208,828 220,828 238,826 254,826 286,828 330,829 342,832 342,824 362,824 362,832 372,832 373,824 406,824 420,826 420,833 434,833 451,834 457,824 486,824 517,824 517,835 536,835 591,836 600,827 645,827 692,830 692,867 669,867 669,860 645,860 645,867 625,867 625,860 572,863 561,863 553,857 517,857 517,863 485,863 457,859 420,855 420,862 389,862 389,854 362,854 362,862 342,862 342,854 328,854 316,853 316,861 297,861 286,853 267,853 220,852 191,852 174,851 174,859 136,859 116,859 116,851 100,851" baseline="100,850 285,852 457,855 692,861" reason: second model: differs: "nThinnz" against " Thurn " | Wikisource: vorhabenden gewaltigen Thurn zu Baby | next_nc_e1: vorhabenden gewaltigen Thurn zu Baby⸗ | german_print2_15: vorhabenden gewaltigen Thinn zu Baby⸗ -->
+			<!-- line left out: id="r2l19" points="107,862 118,862 118,871 135,870 183,870 183,864 190,861 222,861 222,869 262,869 280,867 295,864 312,864 312,871 325,871 325,864 342,864 342,872 359,871 372,871 372,864 411,864 421,872 439,872 463,873 463,866 488,862 508,862 529,862 549,867 562,872 579,875 579,862 599,862 599,877 610,877 634,869 664,869 694,870 717,873 717,897 714,897 694,909 670,909 670,901 610,905 579,905 579,899 549,904 529,905 501,905 488,905 488,897 463,897 392,896 327,896 295,896 262,892 243,892 222,891 222,898 190,898 190,891 107,891" baseline="107,891 243,891 410,895 421,895 609,900 717,902" reason: models differ | Wikisource: lon nicht auszubauen vermöchten; Also | next_nc_e1: lon nicht auszubauen vermoͤchten; Alſo | german_print2_15: lon nicht auszubauen vermöchten; Alſo -->
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="105,901 136,901 136,908 154,908 160,900 201,900 207,906 225,902 273,902 295,905 295,911 321,912 327,902 392,902 392,911 403,911 403,902 424,902 424,911 438,914 438,906 467,902 485,902 492,906 492,913 539,914 539,908 587,908 587,917 621,908 635,906 687,906 687,923 691,923 691,939 677,945 652,945 621,945 615,939 587,944 539,944 539,938 492,936 492,943 446,943 446,935 424,935 424,943 403,943 403,935 392,935 392,943 371,943 371,935 360,940 327,940 321,932 273,936 236,936 136,930 136,937 105,937" />
+				<Baseline points="105,929 515,937 691,939" />
+				<TextEquiv index="1">
+					<Unicode>hat Er nach der Himmelfahrt unſers Erloͤ⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="105,941 122,941 122,949 144,946 184,945 204,949 218,950 218,940 247,940 292,941 292,950 305,950 312,946 331,941 351,941 351,951 395,952 407,944 430,944 439,948 439,954 497,947 530,947 530,968 548,948 629,948 629,954 676,954 694,958 717,969 717,987 715,987 674,982 629,979 629,987 602,987 602,979 585,979 585,987 568,987 568,980 548,980 530,973 530,984 497,984 485,976 430,981 331,981 331,973 292,974 247,978 218,978 218,971 122,971 122,978 105,978" />
+				<Baseline points="105,971 168,970 717,982" />
+				<TextEquiv index="1">
+					<Unicode>ſers durch Sendung ſeines H. Geiſts den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="107,980 143,980 143,990 171,990 172,982 192,982 192,990 204,990 204,982 214,982 214,989 242,984 268,984 269,990 280,990 288,982 321,982 321,992 338,992 338,984 353,984 363,993 393,992 393,986 408,986 408,992 467,988 498,988 508,995 538,995 545,989 601,989 602,997 625,998 625,989 644,989 644,998 676,993 692,993 692,1021 644,1020 644,1026 625,1026 625,1020 602,1019 601,1025 564,1026 545,1026 545,1019 382,1015 382,1022 363,1022 353,1013 192,1011 192,1017 172,1017 171,1011 155,1011 155,1017 123,1017 123,1011 107,1011" />
+				<Baseline points="107,1010 288,1012 692,1021" />
+				<TextEquiv index="1">
+					<Unicode>Apoſteln die Gab geben mit mancherhand</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="104,1018 109,1018 137,1019 137,1029 262,1030 301,1026 318,1026 332,1031 360,1030 387,1026 430,1026 430,1033 450,1028 479,1024 499,1024 499,1035 519,1031 536,1031 536,1037 548,1037 548,1028 664,1030 665,1038 677,1035 694,1035 713,1048 717,1048 717,1060 713,1060 694,1066 637,1065 628,1060 619,1067 603,1067 548,1066 548,1058 499,1063 479,1063 470,1056 360,1058 332,1054 290,1053 173,1056 154,1051 137,1049 137,1058 108,1058 104,1022" />
+				<Baseline points="104,1049 717,1061" />
+				<TextEquiv index="1">
+					<Unicode>Zungen zu reden/ damit ſie durch ſolches</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l24" custom="readingOrder {index:24;}">
+				<Coords points="108,1058 153,1058 171,1068 196,1068 196,1060 242,1064 253,1069 264,1060 313,1060 313,1072 325,1072 325,1060 346,1060 378,1063 378,1072 391,1072 424,1068 498,1068 498,1075 515,1075 525,1097 527,1070 559,1068 599,1068 631,1072 631,1079 645,1079 645,1069 684,1070 684,1078 716,1079 716,1113 713,1113 694,1103 662,1101 662,1117 645,1117 645,1107 630,1107 630,1100 599,1099 599,1117 581,1117 581,1100 515,1103 424,1103 391,1101 378,1104 346,1107 325,1107 325,1100 313,1100 313,1107 264,1107 253,1099 196,1095 196,1102 171,1102 171,1095 153,1097 132,1102 108,1102" />
+				<Baseline points="108,1092 204,1096 424,1101 559,1101 716,1108" />
+				<TextEquiv index="1">
+					<Unicode>Mittel die Menſchen wieder in Einigkeit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l25" points="580,1109 626,1109 668,1109 668,1117 694,1117 712,1123 714,1123 714,1127 712,1127 694,1147 668,1150 626,1150 580,1150" baseline="580,1144 714,1148" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: zuſaſben
+ | german_print2_15: zuſondnS
+ -->
+			<TextEquiv index="1">
+				<Unicode>rohe Vorfahren ſich/ als ein wildes Volck/
+nicht ſo bald der Weisheit befliſſen/ wie die
+Sprach bequeme Buchſtaben erfunden;
+daß nun Teutſchland zu einem und dem an⸗
+dern gelangt/ hat man ſonſt niemand als
+den Sprachkuͤndigen zu dancken; ja nicht
+nur dieſes/ ſonder auch/ daß wir durch ſie
+die Erkandtnus GOttes und ſeines heiligen
+Worts und Willens empfangen/ wannen⸗
+hero wir die ſeelige Ewigkeit zu hoffen/ in
+deren Ermanglung wir hingegen der Ver⸗
+dambnus nicht entrinnen moͤchten;
+Dann gleichwie GOtt zu Nimbrods
+Zeiten durch Zertheilung der Sprachen die
+Menſchen voneinander trennet/ daß ſie den
+hat Er nach der Himmelfahrt unſers Erloͤ⸗
+ſers durch Sendung ſeines H. Geiſts den
+Apoſteln die Gab geben mit mancherhand
+Zungen zu reden/ damit ſie durch ſolches
+Mittel die Menſchen wieder in Einigkeit</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="0,1191 713,1191 713,1314 0,1314" />
+		</GraphicRegion>
+		<GraphicRegion id="r4">
+			<Coords points="0,1314 732,1314 732,1324 0,1324" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+rohe Vorfahren sich / als ein wildes Volck / nicht so bald der Weisheit beflissen / wie die Aegyptier / Hebraeer / Griechen / Lateiner / und andere Völcker gethan / die auch anfänglich / und zwar gar zeitlich zu ihrer Sprach bequeme Buchstaben erfunden; daß nun Teutschland zu einem und dem andern gelangt / hat man sonst niemand als den Sprachkündigen zu dancken; ja nicht nur dieses / sonder auch / daß wir durch sie die Erkandtnus GOttes und seines heiligen Worts und Willens empfangen / wannenhero wir die seelige Ewigkeit zu hoffen / in deren Ermanglung wir hingegen der Verdambnus nicht entrinnen möchten;
+Dann gleichwie GOtt zu Nimbrods Zeiten durch Zertheilung der Sprachen die Menschen voneinander trennet / daß sie den vorhabenden gewaltigen Thurn zu Babylon nicht auszubauen vermöchten; Also hat Er nach der Himmelfahrt unsers Erlösers durch Sendung seines H. Geists den Aposteln die Gab geben mit mancherhand Zungen zu reden / damit sie durch solches Mittel die Menschen wieder in Einigkeit
+-->
+	</Page>
+</PcGts>

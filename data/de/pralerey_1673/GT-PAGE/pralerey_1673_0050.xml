@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:15:10</Created>
+		<LastChange>2026-11-23T11:15:10</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/50 revision 3271234 of 2018-07-31T16:12:28Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0050.png" imageWidth="732" imageHeight="1350">
+		<ReadingOrder>
+			<OrderedGroup id="ro6497951289806727778" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 732,0 732,92 0,92" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,334 55,334 55,1001 0,1001" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="134,72 732,72 732,153 134,153" />
+			<!-- line left out: id="r2l0" points="367,79 446,79 446,72 492,72 492,102 447,102 447,109 426,111 367,111" baseline="367,108 492,109" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 44. | german_print2_15: 44 -->
+			<!-- line left out: id="r2l1" points="134,112 165,112 165,119 179,119 196,116 209,116 217,110 265,110 265,117 283,117 315,117 315,110 326,110 326,118 338,117 347,114 375,110 404,110 427,110 470,110 486,115 505,118 505,112 516,112 544,117 560,114 583,109 600,108 619,108 644,108 644,116 660,116 660,108 676,108 706,108 715,119 732,119 732,149 676,149 660,149 660,143 628,143 619,149 600,149 583,145 544,143 544,153 523,153 516,144 505,144 486,143 470,143 470,149 427,149 404,149 375,149 347,144 326,142 318,142 318,150 298,150 298,143 265,143 265,150 242,150 242,144 209,147 196,147 179,145 165,146 134,146" baseline="134,143 371,142 375,142 732,143" reason: differs: "men/" against "Wurt" | Wikisource:  | next_nc_e1: men/ Wurtzlen/ Fruchten/ und Kraͤutern
+ | german_print2_15: men / Wurtzlen / Früchten / und Kraͤutern
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="114,596 706,596 706,650 114,650" />
+			<!-- line left out: id="r3l0" points="114,632 136,604 175,604 175,614 207,614 207,605 240,605 241,613 251,608 288,608 288,596 341,596 341,608 355,603 396,603 396,614 430,613 447,613 448,605 472,602 499,602 527,603 527,613 542,613 542,602 561,602 561,609 583,609 613,611 629,612 647,613 660,602 693,602 693,609 706,609 706,631 647,635 613,635 561,640 527,640 503,640 499,635 472,635 448,633 414,631 376,633 347,636 341,636 341,650 288,650 288,636 251,636 214,635 214,646 191,646 191,636 175,638 136,638 114,634" baseline="114,634 346,633 464,633 706,634" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Buxbaum von Buxus: Calmes von Ca-
+ | german_print2_15: Buxbaum von Buxus: Calmes von Ca-
+ -->
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="681,32 732,32 732,92 681,92" />
+		</GraphicRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="133,152 732,152 732,603 133,603" />
+			<!-- line left out: id="r5l0" points="134,162 156,162 190,163 195,157 213,157 213,163 244,163 250,152 277,152 277,161 304,160 322,160 322,152 342,152 374,152 374,161 396,161 399,153 418,153 419,161 430,161 430,152 472,152 472,161 488,160 529,160 547,161 548,155 565,155 576,162 591,162 591,156 609,156 665,160 665,153 710,153 715,161 732,161 732,200 693,200 675,197 666,186 640,186 621,184 592,184 565,185 548,185 529,184 489,185 452,185 374,183 374,190 357,190 357,182 342,182 342,190 322,190 322,183 293,183 277,183 277,190 250,190 190,185 172,186 156,188 134,188" baseline="134,185 243,183 633,183 732,186" reason: second model: differs: "vonde" against "utern" | Wikisource: von den Frembden bekommen/ oder weni | next_nc_e1: von den Frembden bekommen/ oder weni⸗ | german_print2_15: von den Frembden bekommen / oder wen ½ -->
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="134,206 145,206 145,197 260,199 268,203 272,193 306,193 306,202 317,202 317,194 343,193 359,193 359,202 372,202 372,193 411,193 415,200 429,200 429,188 445,188 445,202 451,202 496,188 512,188 520,202 583,202 583,193 594,193 594,202 658,201 658,192 699,192 722,194 722,231 658,232 658,224 520,225 512,239 496,239 496,231 485,231 485,225 445,224 445,239 429,239 429,224 415,224 411,232 372,232 372,225 359,225 359,232 343,232 343,224 318,226 191,225 185,233 161,235 134,235" />
+				<Baseline points="134,226 450,224 722,225" />
+				<TextEquiv index="1">
+					<Unicode>giſt deren Gebrauch von ihnen erlernet/ ih</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l2" points="135,245 148,245 148,230 164,230 164,245 192,244 206,244 206,230 226,230 253,235 297,235 297,243 328,241 354,241 354,235 371,235 385,237 385,245 399,245 399,235 415,235 428,236 428,243 442,243 458,245 458,235 494,235 494,242 505,242 505,235 558,235 558,244 571,244 571,235 591,235 591,242 603,242 603,235 636,230 665,230 677,240 692,240 692,234 710,234 732,237 732,281 704,281 694,266 677,266 671,272 665,272 665,285 636,285 636,272 603,272 603,266 591,266 591,276 558,276 558,267 511,272 505,272 505,265 494,265 494,272 458,272 458,265 415,265 415,272 383,272 383,265 371,265 371,272 354,272 354,266 311,266 297,265 297,273 279,273 279,265 266,265 253,272 234,272 226,285 206,285 206,266 181,268 164,268 164,285 148,285 148,270 135,270" baseline="135,267 192,266 322,265 510,265 732,266" reason: second model: differs: "ovii" against " vil ih" | Wikisource: nen auch ihre mitgebrachte Namen so vil | next_nc_e1: nen auch ihre mitgebrachte Namen ſo vil | german_print2_15: nen auch ihre mitgebrachte Namen ſo vii -->
+			<TextLine id="r5l3" custom="readingOrder {index:3;}">
+				<Coords points="136,280 146,278 179,278 186,286 202,286 203,277 212,277 212,284 228,284 240,276 258,276 258,284 290,283 295,269 308,269 308,275 336,275 378,282 378,269 395,269 395,284 475,284 475,276 480,269 493,269 533,269 533,284 547,284 559,274 588,269 602,269 602,285 652,284 653,278 663,278 672,291 675,275 710,275 712,292 716,292 716,323 712,323 710,312 675,312 675,304 663,308 617,308 617,315 602,315 602,327 588,327 588,308 559,308 533,306 533,327 519,327 519,315 501,315 493,327 480,327 478,315 445,315 439,306 395,307 395,327 378,327 378,306 349,305 336,312 308,312 308,327 295,327 295,307 258,309 186,308 179,317 146,317 136,312" />
+				<Baseline points="136,308 559,307 716,309" />
+				<TextEquiv index="1">
+					<Unicode>ihr alt Teutſch immer zulaſſen moͤgen/ nit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l4" points="137,327 206,326 226,326 226,311 248,311 248,324 264,324 294,324 313,325 313,315 350,315 350,325 366,325 366,316 387,316 392,311 406,311 420,325 448,320 458,320 489,325 489,311 504,311 504,325 540,324 553,324 578,326 578,319 625,319 645,319 683,324 683,316 700,316 709,319 713,328 717,328 717,356 713,356 709,348 664,348 654,348 654,355 645,357 625,357 578,357 578,349 566,349 553,348 504,348 504,361 489,361 489,348 423,349 420,349 406,361 392,361 387,348 350,349 314,353 311,353 277,349 265,349 248,348 248,361 226,361 226,349 190,350 157,350 157,357 137,357" baseline="137,350 293,348 663,347 717,348" reason: differs: "ſtjjetz" against "t jetzt" | Wikisource:  | next_nc_e1: genommen; Solten wir nun ererſtjjetzt alll | german_print2_15: genommen; Solten wir nun ererſt jetzt allt -->
+			<!-- line left out: id="r5l5" points="136,358 149,358 211,358 211,367 221,367 237,357 255,357 255,350 272,350 272,357 274,357 274,367 292,365 331,365 331,356 348,356 348,365 363,365 363,357 380,357 390,356 407,356 407,366 418,366 418,356 435,356 461,356 461,366 478,366 487,354 548,354 565,357 565,366 574,366 584,368 591,362 623,361 639,360 648,360 660,364 675,366 675,356 710,356 712,368 732,368 732,404 693,404 675,404 675,389 604,391 591,391 584,398 573,398 565,396 548,398 516,398 516,390 478,393 461,397 435,397 418,397 418,389 392,389 364,389 348,389 348,397 292,397 291,389 274,391 272,391 272,408 255,408 255,391 237,391 211,390 211,398 164,398 136,398" baseline="136,391 290,389 732,389" reason: models differ | Wikisource: solche Ding umbtäuffen müssen/ dieweil | next_nc_e1: ſolche Ding umbtaͤuffen muͤſſen/ dieweil | german_print2_15: ſolche Ding umbtaͤuffen müſſen / dieweil -->
+			<TextLine id="r5l6" custom="readingOrder {index:6;}">
+				<Coords points="135,408 149,406 205,408 205,399 242,399 305,407 310,397 338,397 365,406 365,400 374,400 374,407 422,406 440,402 457,402 485,406 502,402 517,402 517,390 536,390 536,406 554,406 568,408 582,398 607,398 607,408 634,408 634,390 653,390 653,398 667,398 667,390 689,390 689,405 710,403 732,403 732,438 710,438 689,435 689,442 667,442 667,435 653,435 653,442 634,442 624,437 605,437 605,431 536,430 536,442 517,442 517,429 505,433 483,433 441,429 305,432 249,430 242,436 205,436 135,433" />
+				<Baseline points="135,433 164,431 241,430 732,429" />
+				<TextEquiv index="1">
+					<Unicode>es nach dem Latein und andern Sprachen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l7" custom="readingOrder {index:7;}">
+				<Coords points="133,440 183,440 183,448 203,448 213,440 244,440 244,448 253,448 273,442 290,442 291,449 303,444 327,442 346,442 346,448 374,448 384,442 395,442 395,448 410,448 410,442 446,439 460,439 460,447 471,447 471,441 487,439 521,439 521,447 537,447 540,439 567,434 618,434 732,440 732,472 726,472 713,478 629,478 618,476 618,486 567,486 567,476 540,476 521,471 521,478 487,478 471,477 471,470 460,470 460,478 446,478 433,471 346,471 346,481 327,481 327,471 303,471 302,481 291,481 253,471 232,472 232,482 213,482 213,473 183,473 183,482 133,482" />
+				<Baseline points="133,473 252,471 732,472" />
+				<TextEquiv index="1">
+					<Unicode>ſchmackt (dann wir wiſſen/ daß Oſter⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l8" custom="readingOrder {index:8;}">
+				<Coords points="135,482 148,482 148,489 161,489 161,475 179,475 179,491 198,491 205,493 216,501 217,489 264,490 284,479 293,479 293,491 305,491 305,479 408,480 408,490 470,490 470,480 556,480 556,490 568,490 568,482 585,482 585,489 678,486 691,483 716,483 716,529 691,529 691,512 627,511 627,519 597,519 597,511 568,512 568,519 535,519 535,513 490,513 472,519 440,519 440,508 408,508 408,516 366,516 336,514 305,514 305,508 293,508 293,514 217,513 216,505 205,520 194,520 194,513 179,513 179,524 161,524 161,514 135,514" />
+				<Baseline points="135,504 716,512" />
+				<TextEquiv index="1">
+					<Unicode>lucey von ariſto: longa: Spargen von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l9" custom="readingOrder {index:9;}">
+				<Coords points="136,534 153,534 153,523 170,523 182,527 182,533 196,533 255,532 255,523 287,521 301,521 301,531 329,530 329,522 346,522 358,524 358,530 406,528 440,532 453,520 477,520 505,520 505,531 535,532 535,522 546,522 546,532 578,531 578,523 605,524 605,532 613,532 624,521 659,521 659,530 715,527 715,564 701,564 701,552 624,553 605,550 477,550 406,553 287,554 261,561 255,561 255,550 243,550 243,561 224,561 224,550 182,550 182,561 162,561 154,551 136,551" />
+				<Baseline points="136,553 453,550 624,550 715,553" />
+				<TextEquiv index="1">
+					<Unicode>aſparago: Lorbeer von Baccalauri: Bora⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l10" points="137,574 155,572 170,572 194,571 212,571 228,572 245,573 258,563 277,563 277,573 295,570 308,570 322,572 352,572 381,573 395,561 423,561 429,572 441,571 488,568 500,568 534,569 550,570 568,571 577,562 614,562 647,566 660,570 673,569 686,569 686,562 704,562 704,572 716,572 716,595 704,595 704,601 686,601 686,590 660,591 647,591 647,601 614,601 595,601 595,592 568,594 475,594 475,600 441,600 432,594 423,595 395,595 381,589 371,590 352,590 352,602 332,602 322,591 245,594 228,595 187,596 156,596 156,603 137,603" baseline="137,596 258,592 577,593 716,594" reason: differs: "ata;" against "ata: Bu" | Wikisource:  | next_nc_e1: gen von Borrago: Kappes von Capitata;
+ | german_print2_15: gen von Borrago: Kappes von Capitata:
+ -->
+			<TextEquiv index="1">
+				<Unicode>giſt deren Gebrauch von ihnen erlernet/ ih
+ihr alt Teutſch immer zulaſſen moͤgen/ nit
+es nach dem Latein und andern Sprachen
+ſchmackt (dann wir wiſſen/ daß Oſter⸗
+lucey von ariſto: longa: Spargen von
+aſparago: Lorbeer von Baccalauri: Bora⸗</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="135,642 732,642 732,1218 135,1218" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="136,646 197,646 197,656 229,656 233,644 274,644 274,654 286,654 286,646 295,644 323,644 334,650 375,652 382,654 393,644 414,644 414,654 429,654 429,644 439,644 439,652 461,652 471,655 484,643 552,643 552,653 580,653 590,646 616,646 642,653 660,651 710,652 719,642 732,642 732,656 719,656 710,676 484,676 414,673 375,676 334,675 323,683 295,683 295,676 274,676 274,683 254,683 254,677 136,677" />
+				<Baseline points="136,675 334,676 393,671 732,676" />
+				<TextEquiv index="1">
+					<Unicode>lamus: Kalch von Calx: Bibernellen von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l1" custom="readingOrder {index:1;}">
+				<Coords points="135,686 202,685 202,697 213,697 213,689 223,689 223,697 242,697 243,685 277,685 277,696 306,696 315,685 331,685 331,679 346,679 346,685 391,684 391,693 437,692 471,694 478,684 501,684 508,688 508,696 572,695 581,684 607,684 607,694 621,694 621,683 640,683 640,693 653,693 653,686 680,686 680,692 709,692 720,683 723,683 723,686 720,686 709,716 581,717 528,713 528,723 508,723 508,712 471,716 391,717 391,723 346,723 346,729 331,729 331,723 315,723 306,717 277,714 262,714 262,724 246,724 246,714 223,714 215,724 184,724 184,715 171,715 171,724 152,724 152,716 135,716" />
+				<Baseline points="135,716 470,714 723,716" />
+				<TextEquiv index="1">
+					<Unicode>Pimpinella: Pfeffer von Piper: Camillen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l2" points="140,736 160,736 193,736 205,727 232,726 251,726 252,738 284,738 284,726 304,726 304,736 311,736 350,736 350,728 381,728 381,736 407,736 420,725 449,725 457,729 457,735 472,734 493,734 493,725 521,725 521,735 537,735 537,725 547,725 557,733 577,733 612,735 624,724 652,724 652,736 665,736 665,719 685,719 685,735 709,735 714,719 719,719 719,763 651,763 651,753 612,757 557,757 547,765 537,765 537,757 521,757 521,765 493,765 493,757 473,757 473,763 449,764 435,765 420,765 407,758 398,758 379,756 353,755 353,763 337,763 336,755 304,755 304,763 284,763 284,755 193,759 160,761 140,761" baseline="140,761 192,757 406,756 719,755" reason: second model: differs: "ypa." against "ypariss" | Wikisource: von Chamemelon: Zipressen von Cypa | next_nc_e1: von Chamemelon: Zipreſſen von Cypa⸗ | german_print2_15: von Chamemelon: Zipreſſen von Cypa. -->
+			<TextLine id="r6l3" custom="readingOrder {index:3;}">
+				<Coords points="141,768 192,768 192,779 218,777 225,770 243,769 261,769 261,777 273,777 273,769 287,769 287,776 312,776 312,768 324,768 324,776 354,774 530,776 541,767 587,767 636,767 636,773 708,773 714,787 723,787 723,799 636,805 565,805 565,799 479,797 398,799 312,799 312,807 282,807 273,806 273,800 243,801 141,799" />
+				<Baseline points="141,799 723,799" />
+				<TextEquiv index="1">
+					<Unicode>riſſo: Neſpeln von Meſpila: Balſam von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l4" points="143,810 169,810 169,821 182,821 182,810 193,809 228,809 228,820 298,818 308,818 323,807 360,807 360,817 389,816 400,816 400,807 430,802 476,802 624,807 628,816 644,816 653,806 682,806 703,810 703,821 707,821 707,838 703,839 682,840 644,842 624,846 476,850 430,850 400,846 389,843 376,840 360,841 342,846 323,846 308,839 298,839 245,838 228,840 208,840 184,838 169,840 143,840" baseline="143,838 618,835 707,835" reason: second model: differs: ":Kin" against " Kirsch" | Wikisource: Balsamum: Borzel von Portulaca: Kir | next_nc_e1: Balſamum: Borzel von Portulaca: Kir⸗ | german_print2_15: Balſamum: Borzel von Portulaca: Kin⸗ -->
+			<TextLine id="r6l5" custom="readingOrder {index:5;}">
+				<Coords points="144,852 189,851 204,855 272,860 285,849 321,848 367,848 383,850 387,860 395,860 407,849 502,849 502,858 540,856 594,858 604,849 618,848 636,848 677,848 677,859 710,859 710,865 717,865 717,881 540,880 528,887 424,888 407,887 395,880 339,880 189,883 189,890 162,890 144,890" />
+				<Baseline points="144,883 218,882 271,878 604,878 717,881" />
+				<TextEquiv index="1">
+					<Unicode>ſchen von Ceraſa: Pferſing von Perſica:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l6" custom="readingOrder {index:6;}">
+				<Coords points="136,904 143,892 177,892 177,899 189,899 189,889 206,889 215,893 215,900 233,900 234,889 250,889 251,900 281,900 282,891 291,891 297,897 349,899 355,890 384,889 412,889 422,894 422,901 451,897 452,889 469,889 469,897 483,897 499,901 509,894 584,894 628,899 628,891 648,889 694,889 694,898 712,898 715,913 730,913 730,933 715,933 712,922 694,922 694,933 665,933 648,933 648,921 628,921 628,929 610,929 610,921 452,921 412,918 402,921 384,921 378,919 349,922 268,922 268,929 251,929 250,923 215,923 215,930 206,931 189,931 189,923 177,923 177,931 143,931 136,907" />
+				<Baseline points="136,923 348,920 730,921" />
+				<TextEquiv index="1">
+					<Unicode>Paſtnaͤgel von Paſtinaca: und dergleichen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l7" points="145,942 184,941 195,939 205,939 205,932 240,932 254,933 254,940 298,938 317,935 326,933 339,932 375,932 375,940 405,940 405,932 425,932 425,940 459,939 499,939 499,931 508,927 524,927 537,938 554,938 586,940 593,931 618,931 646,931 673,932 713,934 713,949 732,949 732,967 673,967 646,969 625,969 618,968 593,968 537,963 524,974 508,974 499,969 499,963 317,964 272,964 254,964 240,963 240,970 205,970 195,969 184,969 145,965" baseline="145,964 333,963 585,962 593,962 732,963" reason: second model: differs: "bar.vil" against "ar vil " | Wikisource: unzahlbar vil Namen mehr von frembden | next_nc_e1: unzahlbar vil Namen mehr von frembden | german_print2_15: unzahlbar. vil Namen mehr von frembden -->
+			<TextLine id="r6l8" custom="readingOrder {index:8;}">
+				<Coords points="142,974 186,973 186,983 232,982 232,973 263,973 263,981 274,976 302,972 334,972 334,982 349,982 349,972 373,972 373,980 420,982 447,973 511,971 548,971 548,981 562,981 575,972 644,972 644,980 694,980 694,972 717,972 717,1010 694,1010 694,1004 665,1004 644,1006 548,1004 548,1011 447,1011 420,1003 373,1005 263,1005 263,1011 232,1011 214,1006 202,1005 202,1012 162,1012 142,1007" />
+				<Baseline points="142,1007 672,1003 717,1005" />
+				<TextEquiv index="1">
+					<Unicode>Sprachen kommen (HErꝛ GOtt wie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l9" custom="readingOrder {index:9;}">
+				<Coords points="140,1024 154,1024 154,1012 197,1012 202,1019 307,1017 307,1023 325,1023 339,1014 370,1014 370,1021 387,1021 399,1023 399,1014 417,1014 417,1021 433,1021 472,1013 548,1013 560,1022 580,1022 580,1014 690,1014 690,1020 702,1020 702,1014 712,1014 712,1052 671,1052 671,1045 652,1045 642,1051 628,1052 580,1052 580,1045 560,1045 548,1051 488,1051 488,1045 417,1045 417,1053 399,1053 399,1045 387,1045 387,1053 370,1053 360,1051 347,1053 339,1053 325,1046 245,1046 240,1024 232,1046 140,1047" />
+				<Baseline points="140,1046 712,1045" />
+				<TextEquiv index="1">
+					<Unicode>wuͤrde es ein ſeltzames miſch maſch abge</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l10" custom="readingOrder {index:10;}">
+				<Coords points="140,1056 158,1056 158,1065 193,1059 229,1056 250,1056 250,1050 269,1050 286,1065 344,1064 344,1055 364,1055 364,1063 537,1063 552,1066 552,1055 569,1055 579,1062 606,1062 606,1055 660,1054 668,1061 708,1060 708,1067 712,1067 712,1083 708,1087 569,1087 569,1093 554,1094 536,1094 536,1087 487,1086 487,1093 470,1093 455,1086 286,1086 269,1098 250,1098 250,1087 190,1086 140,1088" />
+				<Baseline points="140,1088 215,1086 712,1083" />
+				<TextEquiv index="1">
+					<Unicode>ben? Wo wolte man genugſame Gevat⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l11" points="142,1105 155,1105 177,1106 177,1097 190,1097 190,1105 220,1104 237,1104 272,1106 272,1096 291,1096 292,1106 322,1105 351,1105 351,1096 353,1096 387,1104 440,1104 448,1093 458,1093 458,1104 469,1104 469,1093 515,1093 515,1101 533,1101 543,1113 546,1097 568,1097 568,1104 579,1104 595,1096 613,1096 623,1099 681,1099 681,1089 715,1089 715,1142 681,1142 681,1127 659,1131 648,1131 634,1129 613,1127 613,1136 595,1136 579,1130 568,1130 568,1137 546,1137 543,1115 533,1130 488,1130 458,1130 448,1130 387,1129 353,1136 351,1136 351,1129 334,1130 322,1130 292,1129 291,1136 272,1136 272,1129 237,1130 201,1130 190,1132 177,1132 167,1131 153,1131 142,1130" baseline="142,1130 241,1128 681,1127 715,1127" reason: models differ | Wikisource: terleut nehmen? wer würde sie hierzu er | next_nc_e1: terleut nehmen? wer wuͤrde ſie hierzu er⸗ | german_print2_15: terleut nehmen? wer wuͤrde ſie hierzu er -->
+			<!-- line left out: id="r6l12" points="622,1138 648,1138 648,1144 684,1144 684,1138 729,1138 729,1218 684,1218 684,1171 622,1171" baseline="622,1171 729,1173" reason: second model: differs: "Gten" against "bitt" | Wikisource: ten | next_nc_e1: wen
+ | german_print2_15: Gtens
+ -->
+			<TextEquiv index="1">
+				<Unicode>lamus: Kalch von Calx: Bibernellen von
+Pimpinella: Pfeffer von Piper: Camillen
+riſſo: Neſpeln von Meſpila: Balſam von
+ſchen von Ceraſa: Pferſing von Perſica:
+Paſtnaͤgel von Paſtinaca: und dergleichen
+Sprachen kommen (HErꝛ GOtt wie
+wuͤrde es ein ſeltzames miſch maſch abge
+ben? Wo wolte man genugſame Gevat⸗</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r7">
+			<Coords points="712,609 718,609 718,714 712,714" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r8">
+			<Coords points="708,1015 717,1015 717,1149 708,1149" />
+		</SeparatorRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="419,1203 440,1203 440,1215 419,1215" />
+			<!-- line left out: id="r9l0" points="419,1203 440,1203 440,1215 419,1215" baseline="419,1213 440,1213" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: „*
+ | german_print2_15: „
+ -->
+		</TextRegion>
+		<GraphicRegion id="r10">
+			<Coords points="0,1312 732,1312 732,1350 0,1350" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Wurtzlen / Früchten / und Kräutern von den Frembden bekommen / oder wenigist deren Gebrauch von ihnen erlernet / ihnen auch ihre mitgebrachte Namen so vil ihr alt Teutsch immer zulassen mögen / nit genommen; Solten wir nun ererst jetzt alle solche Ding umbtäuffen müssen / dieweil es nach dem Latein und andern Sprachen schmackt (dann wir wissen / daß Osterlucey von aristo: longa: Spargen von asparago: Lorbeer von Baccalauri: Boragen von Borrago: Kappes von Capitata: Buxbaum von Buxus: Calmes von Calamus: Kalch von Calx: Bibernellen von Pimpinella: Pfeffer von Piper: Camillen von Chamemelon: Zipressen von Cyparisso: Nespeln von Mespila: Balsam von Balsamum: Borzel von Portulaca: Kirschen von Cerasa: Pfersing von Persica: Pastnägel von Pastinaca: und dergleichen unzahlbar vil Namen mehr von frembden Sprachen kommen (HErr GOtt wie würde es ein seltzames misch masch abgeben? Wo wolte man genugsame Gevatterleut nehmen? wer würde sie hierzu erbitten?
+-->
+	</Page>
+</PcGts>

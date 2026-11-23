@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T12:27:58</Created>
+		<LastChange>2026-11-23T12:27:58</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Ein_nützlich_Bergbüchlin_(1527).pdf/17 revision 5089078 of 2026-11-05T07:55:19Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="bergbuechlin_1527_0017.png" imageWidth="1000" imageHeight="1650">
+		<ReadingOrder>
+			<OrderedGroup id="ro7714918256541690941" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="104,0 802,0 802,968 104,968" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {3;}">
+			<Coords points="56,456 110,456 110,702 56,702" />
+			<!-- line left out: id="r1l0" points="56,456 110,456 110,702 56,702" baseline="96,702 96,456" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Der morgen
+ | german_print2_15: Der morgen
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="50,981 842,981 842,1460 50,1460" />
+			<!-- line left out: id="r2l0" points="292,981 335,981 335,994 394,994 394,981 416,981 444,983 444,990 462,990 542,991 542,981 593,981 594,989 612,989 612,1021 594,1021 593,1030 542,1030 542,1023 499,1023 444,1022 416,1022 416,1030 394,1030 394,1023 335,1024 292,1024" baseline="292,1024 364,1022 612,1021" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Die mitternacht | german_print2_15: Die mitternacht -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="84,1027 122,1027 122,1042 138,1042 138,1033 318,1033 334,1034 335,1040 379,1040 407,1043 407,1036 459,1036 538,1042 538,1033 571,1033 571,1039 591,1039 599,1032 699,1032 709,1037 728,1040 733,1031 756,1031 756,1038 772,1038 772,1029 814,1029 831,1032 831,1062 795,1064 699,1064 699,1070 599,1070 591,1064 571,1064 571,1072 521,1072 514,1065 435,1068 435,1074 407,1074 407,1067 379,1066 379,1074 357,1074 350,1065 334,1069 101,1070 84,1068" />
+				<Baseline points="84,1067 831,1061" />
+				<TextEquiv index="1">
+					<Unicode>Auch ſind etliche genge/ die yhre ſtreichen haben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="50,1075 70,1075 70,1081 111,1082 120,1072 207,1072 207,1080 238,1080 243,1071 262,1071 262,1080 273,1080 273,1072 284,1072 284,1079 337,1075 355,1080 413,1080 463,1074 480,1074 480,1080 499,1079 510,1074 553,1076 575,1080 575,1074 674,1076 701,1079 710,1071 729,1071 729,1078 740,1078 740,1069 751,1069 770,1072 833,1076 833,1114 819,1114 818,1100 804,1100 804,1107 781,1107 770,1098 729,1100 729,1108 636,1104 530,1104 530,1113 510,1113 510,1103 479,1104 465,1102 465,1113 442,1113 429,1104 305,1107 262,1103 262,1110 243,1110 238,1103 207,1103 207,1110 120,1110 70,1105 70,1112 50,1112" />
+				<Baseline points="50,1105 833,1100" />
+				<TextEquiv index="1">
+					<Unicode>ynn flachem feld/ darvon genant wird das feld ge⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="51,1118 139,1116 148,1110 184,1110 184,1117 199,1117 199,1110 233,1110 257,1112 323,1112 357,1116 357,1106 373,1106 373,1114 389,1114 413,1119 413,1112 428,1112 428,1106 443,1106 498,1111 498,1119 509,1114 519,1112 618,1110 674,1110 690,1112 786,1110 801,1114 834,1116 834,1141 801,1141 786,1137 715,1137 714,1145 696,1145 690,1139 674,1139 674,1145 619,1145 559,1148 519,1148 519,1142 498,1141 498,1148 457,1147 443,1160 428,1160 428,1145 414,1145 414,1151 398,1151 389,1143 373,1143 373,1160 357,1160 357,1143 323,1148 286,1148 269,1144 245,1141 245,1148 233,1152 199,1152 199,1140 184,1140 184,1156 148,1156 139,1142 120,1142 120,1150 101,1150 101,1141 89,1144 75,1144 75,1150 51,1150" />
+				<Baseline points="51,1141 834,1141" />
+				<TextEquiv index="1">
+					<Unicode>pend. Auch etliche die yhr ſtreichen haben ynn dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="51,1157 74,1157 88,1160 88,1150 107,1150 107,1158 129,1158 129,1148 165,1148 171,1156 191,1153 225,1153 289,1157 310,1160 319,1154 386,1154 407,1152 429,1152 429,1158 447,1158 447,1149 457,1149 512,1152 512,1159 536,1159 550,1152 671,1152 744,1154 744,1146 765,1146 765,1153 779,1152 780,1146 799,1146 799,1152 822,1149 834,1149 834,1182 779,1182 765,1178 698,1178 698,1185 679,1185 671,1177 636,1177 636,1184 626,1189 608,1189 608,1177 583,1177 583,1189 579,1189 579,1180 536,1183 469,1185 458,1185 448,1183 429,1187 407,1187 407,1181 355,1183 269,1182 268,1189 250,1189 242,1180 145,1180 145,1189 129,1189 129,1180 115,1180 107,1188 88,1188 88,1181 74,1181 74,1189 51,1189" />
+				<Baseline points="51,1181 535,1178 834,1179" />
+				<TextEquiv index="1">
+					<Unicode>geſenck oder ynn dem thal/ vom morgen yn abend/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="50,1195 104,1195 119,1197 125,1189 180,1189 180,1195 206,1195 216,1191 228,1189 289,1191 289,1183 341,1183 341,1191 376,1192 395,1197 415,1198 425,1192 500,1188 608,1189 654,1191 792,1191 798,1187 834,1187 834,1218 684,1218 633,1216 632,1224 615,1224 586,1223 586,1215 571,1215 571,1230 542,1230 532,1219 518,1219 518,1230 500,1230 492,1220 341,1223 341,1237 289,1237 289,1223 228,1223 228,1216 180,1217 180,1223 125,1222 104,1220 62,1220 50,1218" />
+				<Baseline points="50,1220 607,1216 834,1218" />
+				<TextEquiv index="1">
+					<Unicode>oder herwider/ vnd von dem mittag ynn die mitter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l6" points="50,1231 74,1231 83,1219 99,1219 99,1228 123,1228 145,1229 188,1230 217,1233 225,1224 247,1224 247,1231 264,1231 265,1224 285,1224 285,1233 299,1233 299,1224 315,1224 315,1230 326,1230 326,1224 345,1224 345,1235 367,1232 379,1232 408,1235 429,1231 454,1227 474,1225 485,1225 485,1233 506,1228 530,1228 566,1230 615,1231 661,1229 690,1229 702,1230 752,1233 759,1223 780,1223 780,1233 794,1231 808,1231 824,1227 838,1227 838,1259 795,1259 764,1259 759,1259 661,1258 597,1257 566,1256 530,1257 485,1259 431,1259 408,1260 379,1264 345,1264 315,1264 299,1264 299,1258 285,1258 285,1264 265,1264 265,1258 247,1259 225,1259 202,1256 168,1257 145,1261 123,1261 99,1261 99,1273 83,1273 83,1259 50,1259" baseline="50,1259 144,1257 216,1256 759,1257 838,1259" reason: second model: differs: "rwier/v" against "rwider/" | Wikisource: nacht/ oder herwider/ vnd als vor von andern örte | next_nc_e1: nacht/ oder herwider/ vnd als vor von andern oͤrte⸗ | german_print2_15: nacht / oder herwier / vnd als vor von andern oͤrte⸗ -->
+			<!-- line left out: id="r2l7" points="52,1268 71,1268 71,1274 84,1274 112,1271 133,1271 190,1273 190,1260 209,1260 242,1260 242,1280 259,1280 259,1300 209,1300 190,1300 148,1297 103,1298 71,1300 52,1300" baseline="52,1300 112,1297 162,1296 259,1295" reason: second model has no such line | Wikisource: ren der welt. | next_nc_e1: ren der welt.
+ | german_print2_15:  -->
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="70,1345 96,1306 141,1304 188,1304 188,1315 203,1315 203,1308 214,1304 243,1301 261,1301 271,1310 297,1307 319,1307 332,1310 332,1300 351,1300 351,1309 363,1306 383,1305 445,1306 472,1303 493,1303 539,1307 545,1298 585,1298 585,1309 624,1298 641,1298 641,1310 686,1308 706,1308 722,1310 768,1308 800,1310 800,1304 823,1304 823,1298 834,1298 834,1337 823,1337 823,1343 800,1343 800,1334 768,1334 768,1343 745,1343 737,1334 641,1340 545,1340 539,1334 384,1333 384,1342 363,1342 363,1335 351,1335 351,1341 332,1341 319,1336 319,1343 243,1343 181,1338 171,1344 141,1344 139,1336 96,1337 74,1347 70,1347" />
+				<Baseline points="70,1337 464,1333 834,1333" />
+				<TextEquiv index="1">
+					<Unicode>Alſo viel ſey geſagt von dem ſtreichen der geng/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l9" points="51,1342 77,1342 106,1342 106,1351 128,1351 154,1351 203,1352 242,1353 242,1347 263,1347 322,1348 430,1348 439,1341 461,1341 461,1348 479,1348 520,1347 535,1347 547,1350 547,1341 566,1341 592,1346 597,1352 613,1347 670,1343 680,1343 690,1350 712,1350 746,1347 766,1344 793,1344 822,1377 827,1377 827,1382 822,1382 793,1372 746,1373 726,1373 712,1371 712,1384 690,1384 680,1376 592,1379 566,1382 547,1382 547,1375 535,1375 521,1372 521,1382 500,1382 499,1372 461,1377 439,1377 391,1375 322,1376 301,1376 289,1374 289,1385 271,1385 263,1376 243,1380 230,1380 203,1378 182,1377 161,1376 128,1375 128,1382 105,1382 96,1375 66,1375 66,1382 51,1382" baseline="51,1375 827,1372" reason: differs: "voͤlge" against "volge" | Wikisource:  | next_nc_e1: voͤlger nun zu reden von hangends vnd ligende. | german_print2_15: volger nun zu reden von hangends vnd ligende. -->
+			<!-- line left out: id="r2l10" points="102,1384 138,1384 228,1387 269,1387 302,1389 302,1382 313,1382 341,1382 356,1383 357,1390 372,1388 434,1388 454,1387 484,1383 516,1383 568,1383 576,1386 615,1381 636,1381 638,1391 657,1386 698,1386 698,1392 712,1392 712,1385 733,1385 775,1383 798,1383 799,1390 819,1390 819,1379 840,1379 840,1423 819,1423 799,1422 798,1412 733,1412 712,1413 698,1413 698,1426 676,1426 676,1415 656,1416 636,1420 615,1420 605,1413 583,1414 568,1414 568,1424 548,1424 540,1417 516,1417 516,1423 454,1423 454,1414 416,1414 416,1424 394,1424 388,1417 373,1418 356,1422 341,1425 323,1425 323,1415 302,1415 302,1425 281,1425 281,1414 269,1417 228,1419 138,1422 102,1422" baseline="102,1416 474,1415 604,1413 775,1411 840,1411" reason: differs: "Item" against "ends" | Wikisource:  | next_nc_e1: Item ein ieglicher gang hat ſein haugenda vnd | german_print2_15: Item ein leglicher gang hat ſein haungenda vnd -->
+			<!-- line left out: id="r2l11" points="591,1417 717,1414 729,1414 729,1424 739,1424 760,1426 773,1428 773,1412 794,1412 794,1422 809,1422 809,1412 826,1412 842,1412 842,1453 826,1453 826,1460 809,1460 809,1453 794,1453 794,1460 773,1460 773,1451 760,1451 760,1460 738,1460 729,1454 614,1455 591,1455" baseline="591,1455 717,1453 842,1453" reason: differs: "blig" against "in h" | Wikisource:  | next_nc_e1: b ligends/ | german_print2_15: b ligend / -->
+			<TextEquiv index="1">
+				<Unicode>Auch ſind etliche genge/ die yhre ſtreichen haben
+ynn flachem feld/ darvon genant wird das feld ge⸗
+pend. Auch etliche die yhr ſtreichen haben ynn dem
+geſenck oder ynn dem thal/ vom morgen yn abend/
+oder herwider/ vnd von dem mittag ynn die mitter
+Alſo viel ſey geſagt von dem ſtreichen der geng/</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Auch sind etliche genge / die yhre streichen haben
+ynn flachem feld / darvon genant wird das feld gepend.
+Auch etliche die yhr streichen haben ynn dem
+gesenck oder ynn dem thal / vom morgen yn abend /
+oder herwider / vnd von dem mittag ynn die mitternacht /
+oder herwider / vnd als vor von andern örteren
+der welt.
+Also viel sey gesagt von dem streichen der geng /
+volget nun zu reden von hangends vnd ligends.
+Item ein ieglicher gang hat sein hangends vnd
+-->
+	</Page>
+</PcGts>

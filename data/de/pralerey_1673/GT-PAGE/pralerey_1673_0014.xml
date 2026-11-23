@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:14:18</Created>
+		<LastChange>2026-11-23T11:14:18</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/14 revision 3271194 of 2018-07-31T16:12:15Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0014.png" imageWidth="732" imageHeight="1314">
+		<ReadingOrder>
+			<OrderedGroup id="ro2967267449939989979" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 732,0 732,1314 0,1314" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="22,89 727,89 727,1037 22,1037" />
+			<!-- line left out: id="r1l0" points="385,89 403,89 403,102 411,102 411,110 403,110 403,116 385,116" baseline="385,116 411,116" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 8. | german_print2_15: 3. -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="109,122 123,120 157,120 189,120 230,129 230,120 276,120 276,128 296,127 325,122 336,122 336,128 356,124 378,124 379,131 409,129 423,124 449,121 492,121 492,129 557,128 620,130 682,126 682,161 672,161 668,152 638,153 638,160 620,160 620,153 585,152 585,159 567,159 557,152 276,152 276,159 230,159 230,152 189,153 189,159 123,159 109,155" />
+				<Baseline points="109,155 291,152 682,153" />
+				<TextEquiv index="1">
+					<Unicode>Athenienſern mit einem Narren gangen/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="108,163 124,163 124,171 136,171 136,163 195,163 195,170 231,162 250,162 250,171 281,169 320,164 330,164 342,169 347,161 368,160 395,160 396,170 437,170 472,167 490,170 491,162 515,162 550,163 555,170 606,172 614,163 670,163 670,169 687,169 697,192 699,192 699,195 670,192 670,199 640,199 614,199 606,192 555,192 550,199 520,199 515,192 250,192 250,199 231,199 231,192 195,193 195,199 136,199 136,193 124,193 124,199 108,199" />
+				<Baseline points="108,193 699,192" />
+				<TextEquiv index="1">
+					<Unicode>welchen ihnen die Roͤmer/ als ſie von ihnen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="108,202 142,202 142,210 154,210 154,202 169,202 175,208 192,208 204,210 209,203 225,203 225,209 267,210 267,202 285,202 286,210 305,208 305,202 310,202 343,206 390,204 390,210 434,211 440,203 461,203 461,211 476,211 476,203 493,203 493,209 564,211 568,201 598,201 625,201 633,210 662,210 675,212 687,217 697,203 721,203 721,230 697,230 687,223 675,223 675,229 634,229 634,239 616,239 616,229 598,229 564,232 493,233 493,239 476,239 476,232 461,232 461,239 440,239 434,232 343,232 343,239 305,239 305,231 286,231 285,238 267,238 267,231 255,231 255,239 237,239 237,232 192,233 192,240 169,240 154,240 154,233 124,234 124,240 108,240" />
+				<Baseline points="108,234 203,232 721,230" />
+				<TextEquiv index="1">
+					<Unicode>Geſetze begehrt/ zu einer ſtummen Diſputa-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="106,246 130,246 130,252 184,249 184,242 198,242 198,250 250,250 251,243 301,242 301,248 327,246 354,249 354,241 372,241 392,241 396,249 408,249 408,241 468,241 468,250 478,250 480,242 497,242 497,251 533,250 533,241 540,241 565,248 580,243 621,242 621,250 633,250 636,242 720,242 720,247 717,247 686,274 636,274 621,272 621,279 602,279 595,272 565,272 540,280 533,280 533,272 497,272 497,280 480,280 478,271 468,271 468,279 466,280 439,280 408,280 396,275 378,272 327,274 278,272 278,279 251,279 250,272 238,272 237,279 220,279 220,272 198,272 198,279 184,279 184,272 149,270 106,270" />
+				<Baseline points="106,270 720,272" />
+				<TextEquiv index="1">
+					<Unicode>tion vorgeſtellt/ umb zuerfahren/ ob ſie/ die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="105,282 125,280 174,280 174,289 187,289 254,282 254,290 283,290 283,282 319,278 333,278 333,290 345,290 345,278 365,278 365,290 378,285 404,285 453,290 453,283 478,283 478,291 504,290 539,287 547,281 562,281 562,291 573,291 573,282 610,282 610,290 621,290 633,281 679,281 679,294 690,294 690,316 679,319 664,319 664,312 650,312 650,319 633,319 621,312 610,312 610,318 582,318 582,312 562,312 562,318 453,315 435,311 421,317 404,317 404,311 333,311 333,317 311,318 283,318 283,312 254,312 254,318 174,314 105,313" />
+				<Baseline points="105,313 310,311 690,312" />
+				<TextEquiv index="1">
+					<Unicode>Roͤmer/ auch wuͤrdig wären/ ſolche heil⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="68,352 74,352 106,322 124,322 124,331 135,329 177,329 189,320 222,320 251,320 275,321 286,328 305,328 312,325 352,320 384,320 384,330 396,330 396,322 408,320 423,320 423,327 478,329 523,330 523,321 594,322 594,330 640,325 662,325 684,328 684,352 594,352 594,359 523,359 523,352 490,353 478,362 459,362 459,356 435,359 408,359 396,357 396,351 366,352 366,359 352,359 339,351 286,351 275,357 189,357 124,352 124,360 106,360 68,354" />
+				<Baseline points="68,353 274,351 684,352" />
+				<TextEquiv index="1">
+					<Unicode>ſame Recht und Geſetz zu empfahen oder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="101,355 121,355 121,364 133,364 133,355 150,355 150,362 166,362 166,369 177,369 177,363 203,360 215,355 236,355 236,369 295,363 305,363 305,369 316,369 323,360 371,360 371,370 382,370 382,364 398,362 413,362 417,370 478,365 508,365 541,362 576,362 576,371 588,371 588,360 606,360 606,370 650,370 651,360 666,360 667,369 687,369 719,360 719,393 650,392 606,394 541,394 399,392 399,398 382,398 382,392 371,392 371,398 350,398 350,392 236,391 236,402 215,402 215,392 166,397 150,402 133,402 133,392 121,392 121,402 101,402" />
+				<Baseline points="101,392 323,391 719,393" />
+				<TextEquiv index="1">
+					<Unicode>nicht? Alwo die Weiſe von dem Narren be⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="104,409 238,408 281,402 298,402 298,409 313,409 318,402 332,402 332,431 166,431 166,439 147,439 147,431 104,432" />
+				<Baseline points="104,432 332,431" />
+				<TextEquiv index="1">
+					<Unicode>trogen worden?</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="182,440 192,439 236,439 236,451 262,448 279,448 279,440 295,440 295,449 347,446 382,446 433,449 433,443 450,443 450,449 501,448 520,439 547,439 547,449 612,448 629,451 629,441 652,441 652,449 675,445 688,445 715,439 719,439 719,478 652,472 652,478 629,478 629,472 614,472 612,479 595,479 595,471 547,471 547,478 534,479 520,479 501,471 347,471 332,478 306,478 306,471 295,476 279,476 279,470 236,472 192,472 182,450" />
+				<Baseline points="182,472 244,470 719,472" />
+				<TextEquiv index="1">
+					<Unicode>Man ſagt von einem Frantzoſen/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l10" points="103,479 116,479 116,488 144,488 144,480 153,479 185,479 185,488 209,488 213,480 221,480 261,480 270,486 285,486 297,489 297,475 310,475 340,480 356,483 356,489 388,489 400,490 407,481 426,480 440,480 440,489 451,489 451,481 465,481 489,480 530,480 569,480 569,489 585,485 621,481 647,480 663,480 673,481 673,489 692,489 716,499 718,499 718,503 716,503 692,511 673,512 569,517 554,519 530,519 505,519 489,519 489,512 465,512 465,518 451,518 451,511 440,511 440,519 426,519 426,512 388,512 340,515 321,515 310,523 297,523 297,510 270,510 261,517 213,517 209,511 185,511 185,517 153,517 153,511 116,511 116,517 103,517" baseline="103,511 321,511 718,512" reason: models differ | Wikisource: welcher sich von seiner Gesellschafft in Cöln | next_nc_e1: welcher ſich von ſeiner Geſellſchafft in Coͤln | german_print2_15: welcher ſich von ſeiner Geſellſchafft in Cöln -->
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="24,552 32,552 70,520 114,520 114,527 148,520 164,520 164,528 206,528 211,520 229,516 271,516 312,516 383,516 410,521 411,528 483,529 483,522 498,522 509,530 519,530 519,520 535,520 549,522 549,529 566,529 576,520 610,520 610,530 636,530 637,521 689,521 718,550 720,550 720,566 689,557 637,557 636,551 610,551 610,559 576,559 576,552 535,552 535,559 509,558 498,551 411,552 410,558 393,558 383,570 323,570 323,559 312,559 312,570 283,570 283,559 271,559 271,570 229,570 229,559 211,559 206,551 164,550 164,559 148,559 148,550 114,551 114,559 24,559" />
+				<Baseline points="24,551 720,551" />
+				<TextEquiv index="1">
+					<Unicode>verirꝛet/ und ſo lang herumb gelauffen/ biß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l12" custom="readingOrder {index:12;}">
+				<Coords points="48,564 104,563 115,560 133,560 133,568 190,564 220,564 234,568 255,560 296,560 296,568 371,568 399,560 446,560 446,569 481,569 481,560 519,560 519,569 539,569 542,562 620,559 662,559 662,568 690,568 723,572 723,600 718,600 690,591 562,592 548,564 542,564 539,591 519,591 519,598 481,598 472,592 446,592 446,598 425,598 425,592 409,592 409,598 399,598 371,590 345,590 344,597 327,597 327,590 296,591 296,597 255,596 234,590 133,590 133,597 115,597 115,590 104,590 48,578" />
+				<Baseline points="48,590 723,592" />
+				<TextEquiv index="1">
+					<Unicode>ihre der Hunger dermaſſen im Ma⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l13" points="35,609 80,608 155,608 168,601 172,601 187,606 198,608 198,601 225,601 225,607 236,607 278,604 309,600 318,600 361,600 375,608 401,608 411,602 418,602 447,602 447,609 470,604 486,602 497,602 497,608 532,605 569,600 585,600 585,610 596,609 614,609 615,600 647,600 657,601 657,610 672,610 672,600 688,600 688,637 672,637 672,631 647,631 647,638 615,638 614,631 577,631 577,638 569,638 549,630 532,630 532,638 514,638 514,631 457,631 447,632 427,632 418,638 411,638 401,631 375,631 361,637 318,637 309,637 278,633 236,630 225,630 225,637 198,637 198,629 172,629 172,637 80,637 35,612" baseline="35,629 309,629 688,631" reason: second model: differs: "geenve" against "gen ve" | Wikisource: gen vexiert/ daß er allerdings krafftloß | next_nc_e1: gen vexiert/ daß er allerdings krafftloß | german_print2_15: geen vexiert / daß er allerdings krafftloß -->
+			<TextLine id="r1l14" custom="readingOrder {index:14;}">
+				<Coords points="103,642 123,642 123,648 152,645 170,645 187,647 213,642 231,642 253,647 265,648 265,642 282,642 295,647 342,640 351,640 351,648 381,648 381,640 399,640 410,648 469,648 469,639 506,639 511,648 563,648 563,640 601,640 608,649 635,645 663,645 722,640 722,673 608,671 601,677 563,677 563,671 511,671 506,677 469,677 469,671 370,670 317,673 266,669 231,673 210,673 103,669" />
+				<Baseline points="103,669 722,672" />
+				<TextEquiv index="1">
+					<Unicode>darvon worden/ weil er auff teutſch weder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l15" custom="readingOrder {index:15;}">
+				<Coords points="104,678 144,678 144,688 161,688 161,682 182,679 199,679 209,687 230,687 237,678 319,678 327,688 363,688 363,679 401,678 418,678 418,688 437,688 437,678 453,678 453,684 514,685 547,681 568,681 579,688 625,688 625,682 726,683 726,696 719,696 692,711 679,711 679,718 625,718 625,711 503,714 471,710 471,716 453,719 437,719 437,710 418,709 418,719 401,719 387,710 319,711 274,716 237,716 237,709 199,714 104,715" />
+				<Baseline points="104,712 198,710 726,711" />
+				<TextEquiv index="1">
+					<Unicode>Speiß noch Tranck fordern/ viel weniger</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l16" custom="readingOrder {index:16;}">
+				<Coords points="104,727 143,727 143,718 189,718 205,722 226,723 236,727 250,728 254,719 333,719 333,727 371,728 378,719 393,719 393,728 430,728 430,719 444,719 444,729 469,729 475,719 510,719 510,729 535,728 535,719 552,719 552,728 574,726 590,721 664,720 664,726 694,726 696,734 698,734 698,736 696,736 694,751 664,751 664,757 616,757 616,751 584,754 475,754 444,751 444,757 421,757 421,750 393,751 393,757 353,757 353,750 333,750 333,757 319,757 319,749 294,750 294,757 277,757 254,756 250,749 197,749 189,755 143,755 104,750" />
+				<Baseline points="104,749 698,751" />
+				<TextEquiv index="1">
+					<Unicode>nach ſeiner Herberg fragen koͤnnen/ biß ihm</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l17" custom="readingOrder {index:17;}">
+				<Coords points="107,767 121,767 131,759 149,759 203,759 216,767 229,767 229,760 240,760 240,767 310,766 343,768 358,759 374,759 410,767 410,759 427,759 427,768 441,768 458,760 551,761 551,769 605,768 643,763 661,763 690,768 690,791 639,794 605,792 534,794 458,794 427,790 427,797 410,797 410,790 374,790 374,797 358,797 343,790 216,789 203,795 131,795 121,790 107,790" />
+				<Baseline points="107,790 289,789 638,793 643,791 690,790" />
+				<TextEquiv index="1">
+					<Unicode>endlich einer von ſeinen Landsleuten/ den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l18" custom="readingOrder {index:18;}">
+				<Coords points="107,806 219,803 233,807 241,798 279,798 295,799 295,809 311,809 311,803 328,803 340,807 349,798 366,798 366,806 394,807 394,798 411,798 426,799 426,807 465,807 465,799 493,799 493,808 535,807 535,799 555,799 560,805 575,805 597,798 603,798 603,808 633,808 633,798 658,798 658,808 682,807 690,809 690,828 682,830 671,830 671,838 654,838 633,837 633,831 603,831 603,838 597,838 535,833 426,830 426,837 394,837 394,830 366,830 366,837 349,837 349,830 313,829 313,837 295,837 295,830 279,830 279,837 262,837 262,831 107,830" />
+				<Baseline points="107,830 134,828 690,829" />
+				<TextEquiv index="1">
+					<Unicode>er an der Kleydertracht erkant/ auffge⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l19" custom="readingOrder {index:19;}">
+				<Coords points="106,838 130,839 130,847 141,847 141,838 170,838 170,848 192,848 192,838 194,838 201,844 258,847 258,840 295,840 296,847 374,847 377,834 395,834 417,842 417,848 448,848 463,840 475,840 475,834 493,834 502,848 512,848 513,840 561,838 588,840 588,849 613,848 613,838 628,838 628,844 650,844 650,834 694,834 694,883 650,883 650,874 628,879 613,879 604,878 604,871 561,871 561,879 513,878 512,871 493,871 493,883 475,883 463,879 448,870 417,870 407,876 395,876 395,883 377,883 374,870 309,871 296,869 295,876 266,876 266,869 214,873 194,878 185,876 170,878 141,878 141,869 130,869 130,875 120,878 106,878" />
+				<Baseline points="106,869 694,870" />
+				<TextEquiv index="1">
+					<Unicode>ſtoſſen/ welchem er ſeine Noth geklagt/ der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l20" custom="readingOrder {index:20;}">
+				<Coords points="109,880 119,878 138,878 138,887 162,882 177,882 177,874 191,874 191,888 202,888 202,880 212,880 212,887 242,887 249,879 273,878 323,878 323,888 394,888 395,882 404,882 404,888 416,888 416,878 438,878 445,888 464,884 556,880 563,880 563,887 574,887 574,880 623,880 631,887 689,887 689,916 666,916 633,911 633,918 556,918 542,911 464,912 445,910 438,916 416,916 416,910 355,909 354,917 336,917 323,909 323,917 273,917 273,910 191,909 191,922 177,922 177,909 138,909 138,916 119,916 119,909 109,909" />
+				<Baseline points="109,909 689,911" />
+				<TextEquiv index="1">
+					<Unicode>ihn in eine Gaſſe gewieſen/ und geſagt/ er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l21" custom="readingOrder {index:21;}">
+				<Coords points="110,926 124,923 141,923 151,926 163,923 208,921 262,921 262,915 305,915 348,915 348,927 361,927 361,915 377,915 416,919 416,928 432,923 445,923 445,915 459,915 459,927 502,922 534,922 544,928 557,928 557,922 567,922 567,928 692,924 693,948 697,948 697,956 668,952 459,950 459,963 445,963 445,949 416,950 416,956 395,956 388,953 377,963 361,963 361,950 348,950 348,963 331,963 331,956 316,956 305,963 262,963 222,959 208,959 208,949 110,949" />
+				<Baseline points="110,949 376,949 697,952" />
+				<TextEquiv index="1">
+					<Unicode>werde dort ein Hauß finden mit einem aus⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l22" custom="readingOrder {index:22;}">
+				<Coords points="22,960 74,958 161,959 161,966 192,967 192,958 224,958 224,966 285,967 310,966 310,960 329,960 329,968 360,968 369,958 437,958 506,968 506,959 515,959 515,968 555,968 571,954 592,954 592,968 605,968 605,954 623,954 636,960 652,960 652,954 674,954 674,967 690,967 690,991 674,991 674,1004 652,1004 652,997 636,997 623,1004 605,1004 605,991 592,991 592,1004 571,1004 555,991 515,990 515,1000 506,1000 506,990 481,993 437,990 437,997 389,997 369,992 329,990 329,997 310,997 310,990 224,989 224,997 205,997 205,989 161,989 161,997 74,997 22,994" />
+				<Baseline points="22,988 690,991" />
+				<TextEquiv index="1">
+					<Unicode>gehenckten rothen Schild/ alwo man ihm</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l23" custom="readingOrder {index:23;}">
+				<Coords points="27,1003 148,1003 187,1006 192,998 220,998 249,998 249,1008 293,1007 333,1000 353,999 370,999 384,1002 384,1008 398,1008 398,999 429,999 429,1007 509,1007 509,1000 525,1000 541,1005 546,999 578,999 578,1008 589,1008 589,1000 598,1000 646,1007 646,1000 662,1000 662,1006 692,1006 695,1000 727,999 727,1029 717,1029 695,1017 692,1031 647,1030 647,1037 618,1037 614,1030 546,1032 440,1030 333,1031 249,1029 249,1037 225,1037 219,1036 219,1030 205,1030 205,1037 125,1037 27,1031" />
+				<Baseline points="27,1031 186,1029 727,1029" />
+				<TextEquiv index="1">
+					<Unicode>gnug Eſſen und Trincken umbs Geld geben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Athenienſern mit einem Narren gangen/
+welchen ihnen die Roͤmer/ als ſie von ihnen
+Geſetze begehrt/ zu einer ſtummen Diſputa-
+tion vorgeſtellt/ umb zuerfahren/ ob ſie/ die
+Roͤmer/ auch wuͤrdig wären/ ſolche heil⸗
+ſame Recht und Geſetz zu empfahen oder
+nicht? Alwo die Weiſe von dem Narren be⸗
+trogen worden?
+Man ſagt von einem Frantzoſen/
+verirꝛet/ und ſo lang herumb gelauffen/ biß
+ihre der Hunger dermaſſen im Ma⸗
+darvon worden/ weil er auff teutſch weder
+Speiß noch Tranck fordern/ viel weniger
+nach ſeiner Herberg fragen koͤnnen/ biß ihm
+endlich einer von ſeinen Landsleuten/ den
+er an der Kleydertracht erkant/ auffge⸗
+ſtoſſen/ welchem er ſeine Noth geklagt/ der
+ihn in eine Gaſſe gewieſen/ und geſagt/ er
+werde dort ein Hauß finden mit einem aus⸗
+gehenckten rothen Schild/ alwo man ihm
+gnug Eſſen und Trincken umbs Geld geben</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="23,1031 723,1031 723,1152 23,1152" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="113,1046 129,1046 129,1035 162,1035 172,1042 189,1042 211,1048 222,1048 240,1031 260,1031 260,1037 278,1037 279,1047 367,1046 379,1031 395,1031 395,1037 406,1037 406,1031 425,1031 425,1047 435,1047 446,1039 466,1039 466,1049 478,1049 478,1040 488,1040 488,1048 520,1044 595,1048 595,1039 615,1039 615,1031 630,1031 634,1040 678,1040 678,1046 701,1046 722,1053 722,1062 701,1071 678,1071 678,1081 630,1085 615,1085 615,1078 595,1078 595,1071 554,1071 554,1078 541,1078 504,1071 504,1078 487,1078 487,1071 466,1071 466,1077 446,1077 435,1071 425,1071 425,1085 406,1085 406,1071 395,1071 395,1085 379,1085 367,1070 349,1070 349,1079 330,1080 311,1080 307,1070 260,1071 260,1085 240,1085 222,1075 211,1075 202,1069 174,1069 174,1078 160,1078 160,1069 145,1069 145,1078 129,1078 129,1069 113,1069" />
+				<Baseline points="113,1069 722,1071" />
+				<TextEquiv index="1">
+					<Unicode>wuͤrde; Der gute Kerl folgt/ gerath aber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l1" points="23,1084 158,1081 193,1081 230,1083 236,1076 276,1076 276,1086 288,1086 288,1079 315,1079 324,1082 338,1087 338,1076 355,1076 355,1084 375,1079 462,1079 489,1084 520,1084 520,1072 536,1072 546,1088 582,1088 582,1079 620,1074 639,1074 678,1074 678,1086 700,1086 700,1122 678,1122 678,1163 639,1163 620,1163 619,1117 599,1122 582,1122 582,1113 572,1113 546,1112 536,1127 520,1127 494,1122 492,1116 462,1118 375,1118 367,1111 355,1111 355,1119 338,1119 338,1112 315,1112 288,1112 276,1110 276,1119 236,1119 193,1114 173,1114 158,1111 29,1096 23,1096" baseline="23,1111 461,1111 700,1113" reason: second model: differs: "iner" against "inen" | Wikisource: in eines Balbiers Hauß/ das auch einen | next_nc_e1: in eines Balbiers Hauß/ das auch einen | german_print2_15: in eines Balbiers Hauß / das auch einer -->
+			<!-- line left out: id="r2l2" points="610,1127 627,1127 627,1120 662,1120 670,1122 697,1126 720,1120 723,1120 723,1142 720,1142 697,1152 662,1152 610,1152" baseline="610,1152 723,1152" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: rothen | german_print2_15: rothen -->
+			<TextEquiv index="1">
+				<Unicode>wuͤrde; Der gute Kerl folgt/ gerath aber</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Atheniensern mit einem Narren gangen / welchen ihnen die Römer / als sie von ihnen Gesetze begehrt / zu einer stummen Disputation vorgestellt / umb zuerfahren / ob sie / die Römer / auch würdig wären / solche heilsame Recht und Gesetz zu empfahen oder nicht? Alwo die Weise von dem Narren betrogen worden?
+Man sagt von einem Frantzosen / welcher sich von seiner Gesellschafft in Cöln verirret / und so lang herumb gelauffen / biß ihre der Hunger dermassen im Magen vexiert / daß er allerdings krafftloß darvon worden / weil er auff teutsch weder Speiß noch Tranck fordern / viel weniger nach seiner Herberg fragen können / biß ihm endlich einer von seinen Landsleuten / den er an der Kleydertracht erkant / auffgestossen / welchem er seine Noth geklagt / der ihn in eine Gasse gewiesen / und gesagt / er werde dort ein Hauß finden mit einem ausgehenckten rothen Schild / alwo man ihm gnug Essen und Trincken umbs Geld geben würde; Der gute Kerl folgt / gerath aber in eines Balbiers Hauß / das auch einen
+-->
+	</Page>
+</PcGts>

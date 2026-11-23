@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T08:05:00</Created>
+		<LastChange>2026-11-23T08:05:00</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Ein_kurtzweilig_lesen_von_Dyl_Vlenspiegel.djvu/216 revision 3306637 of 2018-07-31T21:31:07Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="vlenspiegel_1515_0216.png" imageWidth="1456" imageHeight="2098">
+		<ReadingOrder>
+			<OrderedGroup id="ro10575709962918182413" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="1069,270 1287,270 1287,311 1069,311" />
+			<!-- line left out: id="r0l0" points="1069,270 1120,270 1188,274 1287,277 1287,309 1188,311 1159,311 1069,309" baseline="1069,309 1287,309" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: NNX
+ | german_print2_15: NRR
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="1156,340 1287,340 1287,380 1156,380" />
+			<!-- line left out: id="r1l0" points="1156,340 1287,340 1287,380 1156,380" baseline="1156,380 1287,380" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: e
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r2">
+			<Coords points="212,1108 1324,1108 1324,1539 212,1539" />
+		</GraphicRegion>
+		<GraphicRegion id="r3">
+			<Coords points="964,1119 1324,1119 1324,1256 964,1256" />
+		</GraphicRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="425,1183 505,1183 505,1244 425,1244" />
+			<!-- line left out: id="r4l0" points="425,1187 456,1183 487,1183 487,1214 456,1214 425,1209" baseline="425,1209 487,1209" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ie | german_print2_15: S -->
+			<!-- line left out: id="r4l1" points="425,1210 446,1210 462,1213 470,1201 505,1201 505,1244 470,1244 462,1235 446,1240 425,1240" baseline="425,1234 505,1235" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ins
+ | german_print2_15: N
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="203,1302 1326,1302 1326,1847 203,1847" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="248,1318 471,1318 483,1302 553,1302 635,1306 653,1311 653,1302 655,1302 718,1330 794,1328 880,1329 880,1311 935,1311 935,1319 965,1319 1062,1310 1146,1310 1146,1328 1168,1328 1168,1310 1248,1310 1299,1314 1301,1337 1322,1337 1322,1376 1301,1376 1299,1385 1248,1388 880,1388 838,1386 796,1389 655,1390 653,1390 653,1384 635,1384 635,1390 581,1390 581,1382 553,1385 471,1388 248,1388" />
+				<Baseline points="248,1388 1322,1384" />
+				<TextEquiv index="1">
+					<Unicode>Efftig wanðt Vlenſpie⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l1" points="483,1408 512,1408 512,1415 528,1415 528,1401 544,1401 550,1410 579,1410 579,1400 609,1400 619,1325 711,1325 714,1398 748,1398 748,1410 769,1410 769,1398 809,1396 914,1396 914,1415 1106,1414 1133,1414 1133,1398 1147,1398 1147,1413 1163,1413 1163,1456 1147,1460 1133,1460 1133,1446 914,1449 809,1449 802,1461 748,1461 714,1461 711,1448 619,1448 581,1445 531,1447 512,1447 512,1456 483,1456" baseline="483,1448 608,1445 619,1445 1106,1447 1163,1448" reason: differs: "lvñ8gen" against "nd kam " | Wikisource:  | next_nc_e1: gel vñ 8 gen dt wʒz | german_print2_15:  -->
+			<!-- line left out: id="r5l2" points="469,1467 502,1467 502,1474 515,1474 515,1467 541,1467 577,1472 617,1474 618,1464 648,1464 676,1465 676,1475 701,1475 715,1460 735,1460 796,1460 796,1475 819,1475 819,1465 835,1460 879,1460 879,1474 913,1474 918,1462 951,1462 951,1477 976,1477 978,1452 999,1452 999,1476 1021,1476 1038,1460 1049,1460 1049,1476 1076,1476 1082,1463 1147,1463 1147,1477 1171,1477 1179,1461 1237,1461 1244,1467 1306,1467 1306,1478 1323,1478 1323,1511 1306,1512 1179,1512 1121,1510 1076,1509 1049,1510 1021,1511 999,1511 999,1526 978,1526 976,1512 948,1512 918,1511 913,1522 835,1522 835,1508 820,1510 796,1510 796,1522 770,1522 749,1519 735,1511 715,1511 659,1510 618,1509 587,1508 577,1520 515,1520 515,1507 502,1509 469,1509" baseline="469,1509 576,1508 587,1508 659,1509 1082,1509 1179,1510 1323,1512" reason: second model has no such line | Wikisource: tage vnd in der herberg da er in was da wont | next_nc_e1: tage vñ in ð herberg da er in was da wõt
+ | german_print2_15:  -->
+			<!-- line left out: id="r5l3" points="258,1522 447,1522 480,1537 503,1537 503,1525 547,1525 556,1519 622,1519 622,1540 671,1539 697,1539 697,1523 729,1523 729,1540 741,1540 741,1523 790,1523 790,1515 811,1515 811,1523 816,1523 822,1540 914,1540 924,1523 934,1523 934,1542 962,1542 962,1531 975,1531 975,1523 1025,1523 1029,1541 1059,1541 1059,1527 1085,1527 1094,1536 1126,1536 1126,1529 1163,1529 1163,1538 1182,1536 1217,1536 1275,1538 1301,1541 1326,1542 1326,1576 1301,1578 1275,1578 1275,1589 1235,1589 1182,1587 1182,1573 1163,1573 1163,1587 1141,1587 1139,1573 1126,1571 1126,1584 1094,1584 1085,1571 1061,1573 1029,1573 1025,1581 975,1581 975,1575 934,1575 934,1581 924,1581 914,1575 853,1575 816,1574 811,1574 811,1593 790,1593 790,1574 663,1575 622,1575 622,1582 556,1582 547,1572 447,1576 258,1576" baseline="258,1571 546,1572 1094,1573 1235,1574 1326,1576" reason: second model: differs: "einf" against "wont" | Wikisource: ein frum man/ der was reich vnd gieng gern | next_nc_e1: ein frum man/ ð was reich vñ gieng gern | german_print2_15:  ein frum man/ßð was reich vñ gieng gern -->
+			<TextLine id="r5l4" custom="readingOrder {index:4;}">
+				<Coords points="208,1587 224,1587 224,1597 252,1597 276,1606 285,1606 295,1585 309,1585 309,1599 329,1599 338,1570 357,1570 398,1570 398,1585 411,1585 411,1570 455,1570 455,1598 473,1598 473,1570 501,1570 520,1599 563,1598 590,1601 591,1594 610,1594 626,1603 658,1603 676,1605 676,1584 699,1584 699,1603 717,1603 717,1584 812,1584 812,1593 826,1593 836,1585 910,1585 915,1603 943,1603 943,1592 960,1592 975,1597 981,1603 1045,1603 1045,1590 1067,1585 1098,1585 1098,1602 1138,1601 1144,1586 1228,1586 1228,1593 1241,1593 1241,1586 1265,1586 1265,1593 1267,1593 1267,1602 1283,1599 1304,1599 1322,1603 1322,1640 1265,1639 1265,1647 1241,1647 1241,1639 1228,1639 1228,1647 1205,1647 1205,1638 1192,1638 1192,1647 1144,1647 1138,1634 1059,1636 975,1636 915,1637 910,1644 886,1647 836,1647 826,1635 812,1635 812,1643 759,1643 759,1636 743,1639 741,1643 676,1643 658,1638 520,1634 501,1653 473,1653 473,1633 455,1633 455,1653 411,1653 411,1644 398,1644 398,1653 375,1653 372,1644 372,1630 357,1630 357,1653 338,1653 329,1632 295,1631 285,1618 276,1618 252,1630 208,1631" />
+				<Baseline points="208,1631 276,1630 1144,1634 1322,1640" />
+				<TextEquiv index="1">
+					<Unicode>in die kirchen/ vnnd vermoͤcht ſich nit wol der ſpilleutt/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l5" custom="readingOrder {index:5;}">
+				<Coords points="203,1644 295,1640 327,1640 327,1647 374,1649 391,1661 415,1661 415,1640 442,1640 442,1661 482,1661 482,1640 508,1640 531,1661 550,1656 584,1656 584,1665 626,1665 634,1649 664,1649 664,1665 685,1665 685,1649 712,1649 712,1665 733,1665 733,1649 760,1649 760,1665 795,1665 799,1651 832,1651 832,1666 1027,1664 1035,1649 1067,1649 1067,1665 1091,1665 1101,1654 1164,1654 1164,1665 1215,1664 1259,1667 1277,1653 1298,1653 1298,1668 1325,1668 1325,1701 1221,1700 1215,1713 1184,1713 1184,1700 1164,1700 1164,1713 1101,1713 1091,1698 1007,1697 680,1700 550,1698 531,1694 508,1717 482,1717 482,1695 442,1695 442,1717 415,1717 415,1694 345,1695 327,1691 327,1717 295,1717 295,1696 203,1696" />
+				<Baseline points="203,1696 295,1694 391,1694 1101,1697 1325,1701" />
+				<TextEquiv index="1">
+					<Unicode>Wa die waren oder kamen/ da er was/ da gieng er da</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l6" custom="readingOrder {index:6;}">
+				<Coords points="204,1721 293,1723 294,1740 314,1740 330,1706 436,1707 436,1715 460,1715 460,1725 476,1725 476,1707 516,1702 577,1702 589,1707 622,1712 656,1712 656,1719 669,1719 677,1730 749,1728 838,1728 838,1717 853,1717 853,1728 975,1727 975,1715 1018,1715 1018,1729 1034,1729 1034,1717 1066,1717 1066,1725 1089,1725 1095,1715 1126,1715 1126,1731 1236,1729 1250,1714 1281,1714 1281,1730 1324,1730 1324,1762 1018,1762 1018,1772 975,1772 975,1761 839,1761 749,1763 677,1762 656,1760 656,1767 633,1767 633,1760 622,1760 622,1767 594,1767 589,1759 577,1759 577,1780 516,1780 516,1759 460,1758 460,1771 427,1771 419,1759 330,1759 204,1756" />
+				<Baseline points="204,1756 1324,1762" />
+				<TextEquiv index="1">
+					<Unicode>von. Da hett derſelb mann ein wonheit/ das er des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l7" points="203,1782 247,1782 281,1782 316,1786 326,1776 419,1772 458,1772 458,1778 475,1778 475,1772 492,1772 502,1789 532,1788 557,1788 557,1774 606,1774 606,1780 623,1780 623,1774 646,1774 646,1791 677,1791 737,1790 761,1790 761,1777 808,1776 824,1776 824,1788 837,1788 837,1776 897,1776 919,1779 919,1768 942,1768 942,1789 959,1789 959,1768 981,1768 998,1792 1019,1792 1063,1793 1063,1768 1084,1768 1111,1784 1127,1783 1164,1783 1190,1787 1196,1780 1212,1780 1212,1793 1241,1793 1248,1778 1278,1778 1278,1791 1324,1791 1324,1826 1278,1828 1212,1829 1196,1829 1164,1828 1164,1840 1127,1840 1127,1828 1111,1828 1084,1847 1063,1847 1063,1828 1047,1831 1018,1831 998,1830 981,1847 959,1847 959,1828 942,1828 942,1847 919,1847 919,1839 868,1839 839,1839 808,1839 789,1830 762,1835 737,1835 726,1825 698,1826 677,1826 646,1825 646,1836 623,1836 623,1825 606,1825 606,1836 557,1836 557,1825 532,1825 502,1824 492,1843 475,1843 475,1825 458,1825 458,1843 419,1843 412,1824 326,1824 281,1821 221,1821 203,1821" baseline="203,1820 315,1821 725,1827 737,1827 1324,1826" reason: second model: differs: "ꝛare" against "iare" | Wikisource: iares eins sein nachburen zuͦ gast het/ vnnd thet in den | next_nc_e1: tares eins ſein nachburen zů gaſt het/ vnnd thet in den
+ | german_print2_15: ꝛares eins ſein nachburen zů gaſt het / vnnd thet in den
+ -->
+			<TextEquiv index="1">
+				<Unicode>Efftig wanðt Vlenſpie⸗
+in die kirchen/ vnnd vermoͤcht ſich nit wol der ſpilleutt/
+Wa die waren oder kamen/ da er was/ da gieng er da
+von. Da hett derſelb mann ein wonheit/ das er des</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r6">
+			<Coords points="273,1438 369,1438 369,1444 273,1444" />
+		</SeparatorRegion>
+		<GraphicRegion id="r7">
+			<Coords points="182,1312 480,1312 480,1610 182,1610" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+HEfftig wandert Vlenspiegel
+vnd kam gen Nürnberg vnd wz da .xiii
+tage vnd in der herberg da er in was da wont
+ein frum man / der was reich vnd gieng gern
+in die kirchen / vnnd vermoͤcht sich nit wol der spilleutt /
+Wa die waren oder kamen / da er was / da gieng er davon.
+Da hett derselb mann ein wonheit / das er des
+iares eins sein nachburen zuͦ gast het / vnnd thet in den
+-->
+	</Page>
+</PcGts>

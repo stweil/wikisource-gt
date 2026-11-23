@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:15:49</Created>
+		<LastChange>2026-11-23T11:15:49</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/76 revision 3271262 of 2018-07-31T16:12:37Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0076.png" imageWidth="732" imageHeight="1325">
+		<ReadingOrder>
+			<OrderedGroup id="ro16597340519166451982" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 732,0 732,32 0,32" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="682,25 732,25 732,32 682,32" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="36,112 732,112 732,1042 36,1042" />
+			<!-- line left out: id="r2l0" points="131,116 150,116 162,121 176,122 179,113 214,113 214,124 227,124 227,116 245,116 245,122 264,122 332,118 341,116 360,116 386,116 386,122 412,118 447,118 461,119 461,126 472,121 488,121 504,122 509,113 544,113 571,113 571,119 591,119 608,120 682,120 682,112 723,112 723,175 682,175 655,171 655,161 620,161 590,159 590,151 571,151 571,161 544,161 509,161 504,150 486,150 461,149 461,156 429,156 429,150 412,150 386,148 386,156 361,156 341,153 341,147 332,147 325,154 292,154 292,146 214,148 179,148 160,146 131,144" baseline="131,144 332,147 607,151 620,151 723,153" reason: differs: "rahi/J" against "raham/ " | Wikisource:  | next_nc_e1: der Ordnung ihres Alters Abrah i/ J | german_print2_15:  -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="131,155 151,155 160,165 222,164 232,160 257,156 298,156 306,166 320,166 320,159 371,158 371,167 394,167 395,158 412,158 413,167 426,167 426,161 436,158 472,158 484,161 569,160 569,169 607,170 647,170 689,167 689,156 705,156 705,172 720,172 720,205 705,209 689,209 689,202 676,202 653,192 619,192 615,178 607,200 578,203 521,203 505,194 492,194 472,190 472,196 436,196 434,189 412,194 395,194 394,188 383,188 382,195 371,196 364,196 351,187 306,187 298,194 257,194 250,186 160,186 151,192 131,192" />
+				<Baseline points="131,185 720,194" />
+				<TextEquiv index="1">
+					<Unicode>ſaac und Jacob geheiſſen/ wann nun die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l2" points="129,194 163,194 164,204 173,204 200,205 200,196 218,196 219,204 242,204 263,203 272,203 280,190 298,190 298,205 316,200 324,200 372,200 373,206 384,206 393,197 422,197 422,206 433,206 440,203 471,203 505,203 528,204 556,209 556,201 601,201 601,211 620,207 626,202 664,202 687,206 711,209 711,239 696,241 687,242 673,242 664,241 642,241 626,240 620,210 611,233 601,233 601,244 556,244 556,232 544,232 528,231 528,241 515,241 505,231 478,231 471,238 433,240 422,240 393,236 384,228 315,228 298,228 298,248 280,248 272,228 263,228 163,227 129,227" baseline="129,227 280,227 383,228 610,233 620,233 711,235" reason: second model has no such line | Wikisource: Knaben/ wie die Jugend zuthun pflegt/ | next_nc_e1: Knaben/ wie die Jugend zuthun pflegt/ | german_print2_15:  -->
+			<!-- line left out: id="r2l3" points="132,235 145,235 145,244 162,244 170,235 193,235 215,240 244,245 257,236 271,231 289,231 289,246 299,246 301,231 315,231 315,237 356,237 356,246 368,245 381,244 393,244 393,231 414,231 414,237 428,237 442,246 448,239 463,237 477,237 503,237 532,240 548,242 548,231 594,231 594,242 607,242 607,231 649,231 649,242 711,242 724,256 732,256 732,283 711,286 649,290 594,290 548,290 526,286 518,279 503,279 503,286 489,286 489,272 477,272 477,286 463,286 463,278 448,278 442,247 428,270 414,270 414,290 393,290 393,269 381,270 368,270 356,268 356,276 341,276 315,275 315,290 301,290 299,273 289,273 289,290 271,290 271,273 257,273 244,266 193,271 170,271 169,265 145,265 145,271 132,271" baseline="132,264 328,268 341,268 442,270 593,274 607,274 710,276 732,277" reason: differs: "e/uundd" against "/ und d" | Wikisource:  | next_nc_e1: auff der Gaſſe herumb ſtrolte/ uund die Mutr⸗ | german_print2_15: auff der Gaſſe herumb ſtrolte / und die Mitt⸗ -->
+			<!-- line left out: id="r2l4" points="124,295 133,283 146,283 171,284 178,278 188,275 206,275 206,284 221,284 247,284 289,285 289,279 307,279 307,286 334,286 334,279 345,279 345,285 369,285 381,284 405,280 415,280 415,271 443,271 443,288 455,288 462,290 481,281 487,281 510,282 510,290 529,286 543,286 560,289 560,283 573,283 580,271 590,271 603,278 614,278 614,271 628,271 628,285 638,285 729,290 729,310 638,314 628,314 628,330 614,330 614,314 603,314 590,330 580,330 573,326 560,326 560,320 542,320 542,312 510,312 510,318 488,318 487,311 443,311 443,330 415,330 415,312 381,312 369,310 345,310 334,309 334,316 307,316 289,316 289,308 258,308 251,307 233,306 206,306 206,313 188,313 188,305 146,306 133,306 124,298" baseline="124,304 178,305 251,307 397,311 405,311 518,312 637,314 729,316" reason: second model: differs: "teri" against "er i" | Wikisource: ter ihrer manglete/ stund sie unter die Thür | next_nc_e1: ter ihrer manglete/ ſtund ſie unter die Thuͤr | german_print2_15: ter ihrer manglere / ſtund ſie untendie Thur -->
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="124,317 132,317 134,325 153,320 196,316 249,316 249,326 304,324 321,319 343,319 383,326 383,320 499,320 541,323 593,323 608,325 608,333 621,330 637,330 638,324 655,324 655,333 670,333 670,320 701,320 701,327 728,327 728,358 701,358 701,365 670,365 670,356 655,356 655,363 638,363 637,355 541,354 541,360 516,360 516,353 499,353 499,360 480,360 454,359 449,351 399,355 348,355 321,353 302,349 264,353 196,353 190,345 134,345 132,336 124,336" />
+				<Baseline points="124,344 728,358" />
+				<TextEquiv index="1">
+					<Unicode>und ſchrye auß vollem Halß/ Abrabam/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l6" points="125,384 133,384 133,355 189,355 190,365 220,365 220,372 228,372 243,357 258,357 258,350 276,350 276,367 288,367 288,350 306,350 306,360 322,360 322,367 334,357 379,357 401,359 406,367 419,367 419,359 433,359 469,363 477,362 497,362 497,371 514,369 526,369 526,362 559,362 559,350 614,350 614,362 628,359 711,359 723,366 727,366 727,400 723,400 713,407 614,411 559,411 526,407 526,393 514,393 497,392 497,398 480,401 467,401 467,392 439,392 419,391 406,390 401,397 361,397 361,389 334,389 322,388 306,388 306,411 288,411 288,389 276,389 276,411 258,411 258,395 243,395 228,387 220,387 190,386 189,397 162,397 133,394 133,387 125,387" baseline="125,386 227,387 406,390 559,394 613,396 712,400 727,400" reason: second model: differs: "cobdase" against "cob! da" | Wikisource: Isaac/ Jacob! das ermahnete mich allzeit/ | next_nc_e1: Jſaac/ Jacob! das ermahnete mich altzeit/ | german_print2_15: Iſaae/ Jacob  das erinahnete mieh allzeit/ -->
+			<!-- line left out: id="r2l7" points="119,402 171,402 198,405 198,391 219,391 234,395 234,406 268,402 282,401 290,401 290,407 309,407 326,408 336,399 350,399 350,391 382,391 382,401 399,401 399,409 423,405 438,405 451,409 471,410 475,399 520,399 540,402 540,408 567,407 574,404 593,404 607,408 619,410 632,411 638,405 694,405 725,409 725,445 694,445 694,436 681,437 679,437 679,445 662,445 662,437 632,442 615,442 606,441 606,435 593,435 593,443 574,443 574,435 540,436 499,436 475,433 438,432 438,442 423,442 406,431 398,431 382,430 382,449 350,449 350,437 336,437 326,428 283,429 268,429 219,428 219,449 198,449 198,427 183,427 171,403 119,403" baseline="119,427 183,427 268,428 405,430 561,435 567,435 725,437" reason: second model: differs: "alsw" against "zeit" | Wikisource: als wann eine Judin den GOtt ihrer Vät | next_nc_e1: als wann eine Judin den GOtt ihrer Vaͤt | german_print2_15: als wann eine Judin den GOttihrer Vaͤt. -->
+			<!-- line left out: id="r2l8" points="124,452 132,452 132,441 170,441 195,445 195,437 212,437 212,445 225,445 225,437 306,437 306,447 313,447 330,445 345,445 375,448 382,444 416,440 431,440 431,433 449,433 449,450 502,445 512,443 541,443 548,450 561,450 571,453 572,447 592,447 616,450 624,441 662,441 671,443 692,444 705,447 725,460 727,460 727,464 705,465 692,465 692,483 670,483 662,489 624,489 616,483 595,483 592,476 572,476 560,475 548,474 541,480 512,480 505,474 502,474 477,484 460,484 459,472 449,472 449,493 431,493 431,472 416,472 375,471 345,474 306,474 302,475 257,475 195,475 195,467 132,467 124,462" baseline="124,467 175,467 402,470 540,474 548,474 595,475 727,478" reason: models differ | Wikisource: ter angeruffen; und wann ich nit gewüst/ | next_nc_e1: ter angeruffen; und wann ich nit gewuͤſt/ | german_print2_15: ter angeruffen; und wann ich nit gewuſt / -->
+			<!-- line left out: id="r2l9" points="120,489 132,489 132,476 133,472 153,472 195,472 212,477 212,485 228,480 242,480 242,472 255,472 255,486 278,486 286,478 305,476 321,476 360,476 381,480 444,482 444,489 462,489 475,490 475,482 489,482 525,484 525,472 600,472 600,484 613,484 613,472 639,472 639,484 711,484 718,492 727,492 727,512 718,512 711,524 639,528 600,528 525,528 496,524 489,518 475,518 475,512 444,512 444,524 399,524 381,524 372,522 372,515 360,515 360,524 347,524 347,509 329,509 329,516 321,516 321,524 305,524 305,510 267,510 255,509 255,528 242,528 242,508 228,508 219,518 206,518 195,514 195,528 179,528 166,517 153,517 153,528 133,528 132,517 132,503 120,503" baseline="120,503 228,507 403,511 525,515 599,515 727,518" reason: second model: differs: "hete" against "hette i" | Wikisource: daß sie eine Christin gewesen wäre/ so het | next_nc_e1: daß ſie eine Chriſtin geweſen wäre/ ſo het | german_print2_15: daß ſie eine Chriſtin geweſen waͤre/ ſo hete -->
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="90,526 99,526 172,515 197,515 207,517 217,511 238,511 238,518 251,518 251,511 268,511 268,525 311,527 311,511 328,511 370,511 370,519 382,519 382,511 410,511 432,524 510,524 510,531 530,528 551,528 551,521 611,521 611,511 657,511 657,521 710,520 710,566 657,571 611,571 551,567 551,556 510,555 510,561 449,562 449,552 432,553 410,571 382,571 382,559 370,559 370,571 328,571 311,571 311,551 268,550 268,571 251,571 251,549 238,549 238,571 217,571 217,550 197,555 172,555 99,527 90,527" />
+				<Baseline points="90,546 710,558" />
+				<TextEquiv index="1">
+					<Unicode>ich glauben muͤſſen/ daß ſie mehr von der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l11" points="122,576 131,576 133,556 239,556 239,566 252,561 261,561 278,562 281,556 298,556 298,567 313,567 313,556 331,556 331,567 345,562 381,562 381,568 393,568 393,562 414,562 414,570 449,566 461,566 508,566 530,570 535,564 549,564 549,552 566,552 566,566 592,566 592,552 609,552 621,565 636,565 636,552 653,552 653,572 664,567 679,567 679,552 697,552 697,566 708,566 708,606 697,610 679,610 664,605 664,598 653,598 653,610 636,610 636,598 621,598 609,610 592,610 592,597 566,597 566,610 549,610 549,597 535,597 461,595 440,598 381,598 335,598 275,598 275,589 261,590 239,595 233,598 200,598 165,598 133,594 131,583 122,583" baseline="122,588 334,596 439,595 449,595 535,596 608,597 708,599" reason: second model: differs: "ibet" against "iber Ar" | Wikisource: Beschneidung (zwar wider aller Weiber | next_nc_e1: Beſchneidung (zwar wider aller Weiber | german_print2_15: Beſchneidung (zwar wider aller Weibet -->
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="124,620 130,620 146,636 148,620 205,598 236,599 262,605 275,605 290,608 307,609 319,603 333,603 333,594 354,594 354,609 367,609 383,601 415,601 415,594 432,594 432,611 445,611 445,602 463,602 472,618 610,618 622,605 646,605 646,611 656,611 712,623 718,623 718,639 432,639 432,651 415,651 415,635 383,635 354,632 354,651 333,651 333,642 319,642 307,632 273,632 262,630 250,640 234,640 234,629 146,637 130,626 124,626" />
+				<Baseline points="124,626 205,632 366,632 462,640 622,638 718,639" />
+				<TextEquiv index="1">
+					<Unicode>Art) als von dem Tauff gehalten; Es hat</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="124,648 129,643 153,643 153,633 173,633 234,633 234,645 288,640 311,640 311,647 322,647 322,640 399,640 421,651 439,651 439,643 521,644 547,649 579,649 582,641 612,641 637,646 667,647 675,645 689,645 689,651 706,651 706,686 689,686 689,693 675,693 667,688 645,688 645,678 612,677 612,697 582,697 579,676 322,678 322,672 311,672 311,678 292,678 287,672 234,670 234,687 214,687 214,670 186,675 173,675 173,687 153,687 153,670 129,670 124,666" />
+				<Baseline points="124,668 706,679" />
+				<TextEquiv index="1">
+					<Unicode>auch eben damahls/ als wir das Winter⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="123,676 238,676 238,687 261,687 273,689 273,672 304,672 331,672 334,687 363,689 363,681 380,681 380,672 396,672 396,681 438,682 446,690 458,689 459,672 479,672 479,689 490,689 490,672 506,672 506,693 523,693 526,703 543,688 575,688 617,683 634,683 634,694 645,694 645,687 662,683 705,683 705,723 662,723 645,718 634,717 634,723 617,723 592,718 543,717 526,706 523,716 506,716 506,727 479,727 459,727 458,722 432,714 418,713 409,719 396,719 396,727 380,727 380,713 364,713 364,722 344,722 344,711 331,711 331,727 304,727 273,727 273,712 238,711 238,719 123,719" />
+				<Baseline points="123,710 418,713 705,719" />
+				<TextEquiv index="1">
+					<Unicode>Quartier anfaͤnglich bezogen/ ein Soldat/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l15" points="122,732 130,732 130,725 150,725 150,719 154,714 171,714 218,714 250,714 273,720 300,720 328,722 337,723 337,730 348,730 348,721 370,721 416,723 416,731 475,731 522,731 539,729 562,729 578,714 599,714 599,726 614,726 614,714 632,714 632,729 658,727 665,725 669,714 686,714 686,725 706,725 707,736 712,736 712,744 707,744 706,766 686,766 686,772 669,772 665,766 664,757 639,758 632,758 632,772 599,772 578,772 562,757 539,757 505,756 462,755 416,755 370,760 348,760 348,751 337,752 300,752 273,752 250,772 230,772 230,751 218,751 218,772 201,772 188,756 171,756 171,772 154,772 154,756 131,757 122,757" baseline="122,748 273,751 492,755 561,756 712,759" reason: second model: differs: "hdeiner" against " dem er" | Wikisource: nach dem er diese Namen vom Weib offt | next_nc_e1: nach dem er dieſe Namen vom Weib offt | german_print2_15: nach dein er dieſe Namen vom Weib offt -->
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="126,770 132,767 178,768 178,758 192,754 210,754 210,763 232,760 247,760 247,754 262,754 271,759 271,769 302,769 302,754 317,754 320,766 355,766 355,759 385,759 434,763 434,771 462,772 462,764 469,763 505,764 515,767 515,774 528,774 528,765 558,765 558,759 601,759 601,765 613,765 613,759 656,759 656,765 710,765 720,774 724,774 724,781 720,781 710,810 656,814 601,814 558,814 528,810 528,798 505,802 485,802 485,810 469,810 469,802 462,802 462,794 434,794 434,810 414,810 414,800 385,800 385,814 355,814 355,793 320,795 317,803 302,803 302,793 262,792 262,803 247,803 232,798 220,791 210,791 210,803 192,803 192,797 164,799 164,791 132,790 126,777" />
+				<Baseline points="126,790 724,800" />
+				<TextEquiv index="1">
+					<Unicode>rueffen hoͤren/ den Haußwirth vor ein Ju⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l17" points="36,806 114,802 179,802 183,809 203,804 215,800 233,800 261,802 261,809 272,809 310,807 323,807 367,806 413,804 447,804 447,811 472,811 506,813 522,811 567,811 599,814 599,808 615,808 650,808 675,808 703,808 704,809 716,837 721,837 721,846 703,848 675,848 648,848 648,839 624,839 615,848 599,848 599,838 588,840 576,840 542,837 542,844 522,844 522,836 506,836 506,844 492,844 492,836 447,836 447,842 413,842 413,834 351,834 323,836 310,836 284,833 233,832 233,839 215,839 215,832 204,832 204,839 179,840 114,840 50,821 36,821" baseline="36,829 114,831 322,835 339,833 471,835 721,841" reason: second model: differs: "DdDe" against "den " | Wikisource: den gehalten/ und ihme etwas zuverscha | next_nc_e1: den gehalten/ und ihme etwas zuverſcha⸗ | german_print2_15: DdDen gehalten / und ihme etwas zuverſcha⸗ -->
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="38,839 76,839 111,875 128,840 154,839 174,839 174,848 205,848 217,841 222,841 222,850 247,850 247,841 332,841 356,846 395,851 406,844 418,844 418,852 433,852 433,844 447,844 448,854 494,854 494,847 528,847 528,854 541,854 547,844 566,844 582,847 583,856 594,856 594,848 604,848 613,856 651,849 693,849 693,856 705,856 705,879 693,879 693,886 668,886 651,886 651,878 547,879 494,878 463,875 368,874 356,880 267,880 267,872 236,872 236,880 217,880 205,872 174,872 174,879 111,878 76,843 38,843" />
+				<Baseline points="38,870 482,875 705,880" />
+				<TextEquiv index="1">
+					<Unicode>chern gebracht/ er waͤre aber uͤbel angan⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="92,883 193,883 193,876 236,876 236,883 384,880 399,884 399,893 411,893 412,885 420,885 431,893 449,893 449,885 529,885 529,894 540,889 551,889 568,894 568,885 579,885 591,896 609,896 609,889 627,889 662,892 673,895 673,889 692,889 702,894 702,932 692,932 692,920 627,919 627,932 609,932 609,919 579,924 550,924 550,917 529,917 529,924 474,924 462,923 462,915 384,914 351,919 303,920 249,920 236,916 236,936 193,936 193,916 179,920 128,920 92,886" />
+				<Baseline points="92,910 431,914 702,920" />
+				<TextEquiv index="1">
+					<Unicode>gen/ und eben ſo uͤbel abgefertigt worden/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l20" points="143,926 169,925 186,925 203,930 203,921 220,921 220,931 285,931 285,924 320,924 349,927 349,933 365,931 381,931 381,924 430,924 454,925 463,934 483,934 483,928 491,926 502,926 521,925 550,925 550,937 562,937 562,931 571,928 593,928 603,936 623,936 637,929 672,924 696,924 696,955 674,955 674,964 637,964 593,960 593,966 571,966 570,958 550,959 521,959 491,958 483,957 463,956 430,955 430,961 381,961 381,955 365,955 320,954 220,954 220,962 203,962 203,954 185,954 169,952 152,929 143,929" baseline="143,953 329,954 463,956 501,957 622,961 637,961 696,962" reason: second model: differs: "eraim" against "r am se" | Wikisource: dafern wir damahls nit Meister am | next_nc_e1: dafern wir damahls nit Meiſter am | german_print2_15: dafern wir damahls nit Meiſter aim -->
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="259,962 308,963 317,965 317,972 367,972 371,962 390,958 459,958 602,962 602,979 631,979 631,992 602,992 602,1008 459,1012 390,1012 371,1008 367,995 335,994 335,1003 316,1003 308,996 283,1000 271,1000 271,1008 259,1008" />
+				<Baseline points="259,995 474,997 631,1002" />
+				<TextEquiv index="1">
+					<Unicode>ſelbigen Orth geweſen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="318,1020 365,1013 394,1013 394,1003 411,1003 411,1014 444,1010 475,1010 510,1016 552,1016 552,1022 510,1022 475,1042 444,1042 424,1039 365,1038 318,1022" />
+				<Baseline points="318,1037 552,1044" />
+				<TextEquiv index="1">
+					<Unicode>waͤren.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ſaac und Jacob geheiſſen/ wann nun die
+und ſchrye auß vollem Halß/ Abrabam/
+ich glauben muͤſſen/ daß ſie mehr von der
+Art) als von dem Tauff gehalten; Es hat
+auch eben damahls/ als wir das Winter⸗
+Quartier anfaͤnglich bezogen/ ein Soldat/
+rueffen hoͤren/ den Haußwirth vor ein Ju⸗
+chern gebracht/ er waͤre aber uͤbel angan⸗
+gen/ und eben ſo uͤbel abgefertigt worden/
+ſelbigen Orth geweſen
+waͤren.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r3">
+			<Coords points="713,848 722,848 722,960 713,960" />
+		</SeparatorRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="574,1099 699,1099 699,1179 574,1179" />
+			<!-- line left out: id="r4l0" points="574,1110 614,1110 625,1112 625,1099 652,1099 652,1107 685,1107 685,1120 699,1120 699,1154 685,1154 685,1175 652,1179 625,1179 625,1154 614,1156 574,1156" baseline="574,1155 699,1154" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Caput
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="715,1172 722,1172 722,1180 715,1180" />
+			<!-- line left out: id="r5l0" points="715,1172 722,1172 722,1180 715,1180" baseline="715,1178 722,1178" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 5
+ | german_print2_15: 5*
+ -->
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="0,1246 732,1246 732,1325 0,1325" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+der Ordnung ihres Alters Abraham / Isaac und Jacob geheissen / wann nun die Knaben / wie die Jugend zuthun pflegt / auff der Gasse herumb strolte / und die Mutter ihrer manglete / stund sie unter die Thür und schrye auß vollem Halß / Abrabam / Isaac / Jacob! das ermahnete mich allzeit / als wann eine Judin den GOtt ihrer Vätter angeruffen; und wann ich nit gewüst / daß sie eine Christin gewesen wäre / so hette ich glauben müssen / daß sie mehr von der Beschneidung (zwar wider aller Weiber Art) als von dem Tauff gehalten; Es hat auch eben damahls / als wir das Winter-Quartier anfänglich bezogen / ein Soldat / nach dem er diese Namen vom Weib offt rueffen hören / den Haußwirth vor ein Juden gehalten / und ihme etwas zuverschachern gebracht / er wäre aber übel angangen / und eben so übel abgefertigt worden / dafern wir damahls nit Meister am selbigen Orth gewesen wären.
+-->
+	</Page>
+</PcGts>

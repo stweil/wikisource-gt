@@ -1,0 +1,46 @@
+schema: https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json
+title: wikisource-gt
+url: https://github.com/stweil/wikisource-gt
+authors:
+  - name: Stefan
+    surname: Weil
+    roles:
+      - project-manager
+  - name: Wikisource contributors
+    surname: (see CONTRIBUTORS.md of each work)
+    roles:
+      - transcriber
+description: >-
+  Line ground truth for OCR training and evaluation, made from proofread
+  texts of Wikisource and the scans they were transcribed from.
+
+  Wikisource normalises the spelling (round s for long s, expanded
+  abbreviations, r for r rotunda). The forms of the print were restored with
+  the help of two OCR models; lines where that was not safe are left out and
+  kept as XML comments. See the README for the method and the transcription
+  rules. The page images are not part of the repository; get_images.sh
+  downloads them from Wikimedia Commons.
+project-name: Ground truth from Wikisource
+project-website: https://github.com/stweil/wikisource-gt
+language:
+  - deu
+script:
+  - Latn
+  - Goth
+script-type: print
+time:
+  notBefore: '1515'
+  notAfter: '1697'
+hands:
+  count: unknown
+  level: level2
+transcription-guidelines: >-
+  OCR-D ground truth guidelines, level 2
+  (https://ocr-d.de/en/gt-guidelines/trans/), with additional conventions of
+  the ground truth of Mannheim University Library; see README.md, section
+  "Transcription rules".
+license:
+  - name: CC BY-SA 4.0
+    url: https://creativecommons.org/licenses/by-sa/4.0/
+gtTyp: data_line
+format: Page-XML

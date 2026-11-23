@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T08:03:50</Created>
+		<LastChange>2026-11-23T08:03:50</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Ein_kurtzweilig_lesen_von_Dyl_Vlenspiegel.djvu/159 revision 3306573 of 2018-07-31T21:30:45Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="vlenspiegel_1515_0159.png" imageWidth="1374" imageHeight="2098">
+		<ReadingOrder>
+			<OrderedGroup id="ro478282146668295757" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="179,172 868,172 868,251 179,251" />
+			<!-- line left out: id="r0l0" points="179,172 296,172 296,189 394,187 573,187 636,190 732,176 735,176 798,176 798,187 868,187 868,250 778,251 732,251 445,249 400,249 346,248 240,248 179,246" baseline="179,246 394,247 868,250" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Das LXXx blat
+ | german_print2_15: Das LXxxX blat
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="50,277 1159,277 1159,588 50,588" />
+			<!-- line left out: id="r1l0" points="53,288 84,286 109,286 109,277 136,277 172,280 172,292 189,288 204,288 204,279 261,279 284,281 284,292 312,292 322,277 354,277 354,294 381,294 403,296 412,280 451,280 476,282 476,293 503,290 534,290 534,297 550,297 550,282 580,282 580,293 601,293 603,282 628,282 628,294 648,294 648,282 677,282 687,294 704,294 746,295 771,297 771,288 808,285 846,285 846,292 877,292 882,282 914,282 914,297 962,297 971,287 985,287 985,299 1001,299 1001,289 1007,287 1028,287 1082,284 1114,284 1114,302 1139,302 1139,293 1159,293 1159,323 1142,323 1142,334 1113,334 1001,332 985,331 971,331 939,330 877,330 846,330 846,340 808,340 799,331 771,331 746,329 715,328 704,321 687,321 677,336 648,336 648,325 628,325 628,336 603,336 601,327 580,330 550,330 534,325 534,336 503,336 494,325 451,325 451,338 412,338 403,324 381,325 353,325 322,324 284,323 229,322 190,322 171,322 136,321 109,321 53,319" baseline="53,319 146,320 402,324 715,327 798,331 876,330 971,330 1082,332 1159,334" reason: second model: differs: "encekin" against "enck in" | Wikisource: vnd benck in das feür gehawen/ vnd hat das leder da | next_nc_e1: vnd benck in das feür gehawen/ vnd hat das leder da⸗ | german_print2_15: vnd bencek in das feür gehawen / vnd hat das leder da⸗ -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="51,339 73,339 73,349 95,349 95,339 125,339 132,352 145,352 145,340 183,340 185,352 207,352 207,339 235,339 243,349 273,349 319,353 357,354 370,358 370,342 413,342 413,351 430,349 448,349 466,354 492,355 494,371 508,371 521,332 584,332 584,344 624,341 673,341 673,356 693,356 693,341 720,341 720,356 781,359 828,360 828,351 876,347 898,347 898,360 914,360 914,347 948,347 948,361 992,358 1098,359 1124,361 1124,354 1152,354 1152,394 994,392 780,392 720,389 720,395 693,395 693,389 673,389 673,395 624,395 615,387 413,386 413,397 392,399 370,399 370,388 357,388 357,399 327,399 319,385 273,383 273,396 243,396 235,383 208,383 208,391 185,391 183,384 51,382" />
+				<Baseline points="51,382 124,381 1021,391 1152,394" />
+				<TextEquiv index="1">
+					<Unicode>mit all ʒuͦ gar geſotten. Die fraw ward weinen vnnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="50,397 77,397 77,413 106,414 106,397 128,397 170,397 179,398 179,431 190,431 197,398 237,398 237,416 254,416 255,404 266,404 285,409 285,398 306,398 306,416 343,416 351,405 368,405 368,418 408,418 417,398 433,398 433,404 448,404 448,419 466,419 466,398 506,398 506,413 517,413 517,406 532,406 532,413 560,413 560,406 606,408 606,398 653,399 653,419 764,420 765,414 810,407 861,407 861,421 875,421 875,407 897,407 920,410 926,421 978,420 978,405 1029,405 1036,423 1061,421 1094,421 1123,423 1123,416 1152,416 1152,456 1061,454 1036,449 1029,463 978,463 978,454 897,454 897,464 875,464 875,453 861,458 836,458 836,464 798,464 791,453 737,452 653,451 653,458 630,461 606,461 606,448 561,449 561,461 530,461 530,449 506,449 506,458 466,458 466,448 448,448 448,457 433,461 417,461 408,448 306,448 306,458 266,458 266,445 237,449 179,450 170,452 106,452 106,442 93,442 93,452 50,452" />
+				<Baseline points="50,444 694,450 1152,456" />
+				<TextEquiv index="1">
+					<Unicode>ſpꝛach. Folgen im hefftigklichen vnd ſchnel nach/ vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l3" points="52,459 83,459 83,474 101,474 101,464 114,464 114,475 161,475 170,464 185,464 185,476 211,476 257,477 257,464 275,464 299,468 299,480 317,477 338,477 338,496 349,496 360,459 421,459 421,480 464,475 495,475 530,475 530,482 549,480 587,480 596,463 649,463 649,472 690,471 711,471 711,480 735,480 735,471 752,471 752,482 778,482 787,474 801,469 845,469 854,476 881,476 881,486 899,486 899,480 929,480 929,486 946,485 969,485 980,470 1012,470 1025,473 1025,485 1100,485 1101,475 1114,475 1150,476 1150,516 1114,517 1052,518 1024,518 1012,516 1012,522 980,522 969,515 946,516 929,516 929,527 899,527 899,516 880,516 854,515 845,523 801,523 801,514 752,515 711,515 690,515 681,524 596,524 587,512 549,512 530,511 530,523 495,523 464,523 458,511 349,511 336,511 319,509 299,512 274,512 211,508 184,508 132,507 101,506 83,503 83,512 52,512" baseline="52,503 160,507 220,507 457,511 596,511 680,512 968,516 1150,516" reason: differs: "rgewerſ" against " gerwer" | Wikisource:  | next_nc_e1: holen in wider. Der gewer ſagt nein ich beger ſein nitt | german_print2_15: holen in wider. Der gewer ſagt nein ich beger ſein nitt -->
+			<!-- line left out: id="r1l4" points="50,526 71,526 71,534 87,534 87,526 103,526 129,529 129,538 146,536 185,536 231,540 240,529 263,528 313,528 336,532 347,542 403,541 426,541 463,543 463,531 494,531 510,533 542,533 594,528 641,528 646,544 693,544 693,526 750,526 755,534 772,534 772,546 815,546 826,531 834,531 893,530 953,530 980,530 1010,531 1010,562 1020,562 1020,578 1002,578 980,577 980,588 953,588 893,588 834,586 826,586 815,578 771,578 755,577 750,584 693,584 693,575 675,575 646,574 641,584 594,584 594,575 581,575 573,583 541,583 541,576 527,576 510,575 510,583 494,584 463,584 463,573 403,574 375,574 347,573 313,571 299,573 263,573 192,570 129,568 101,568 89,567 71,568 50,568" baseline="50,567 192,568 425,572 1020,578" reason: differs: "wider/" against "nitt w" | Wikisource:  | next_nc_e1: wider/ er bleib nur vß bitz ich nach im ich ſchick.
+ | german_print2_15: wider / er bleib nur vß bitz ich nach im ich ſchick.
+ -->
+			<TextEquiv index="1">
+				<Unicode>mit all ʒuͦ gar geſotten. Die fraw ward weinen vnnd
+ſpꝛach. Folgen im hefftigklichen vnd ſchnel nach/ vnd</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="54,601 1158,601 1158,699 54,699" />
+			<!-- line left out: id="r2l0" points="54,604 136,604 160,607 161,626 233,623 262,623 390,623 407,612 468,612 468,601 531,601 531,630 570,629 593,629 599,613 639,608 678,608 678,628 706,623 751,618 783,618 793,630 865,630 868,612 889,612 889,631 925,631 932,610 1046,610 1046,627 1079,626 1129,622 1158,622 1158,690 1129,690 1123,683 1079,683 1046,682 1021,682 1019,698 932,698 925,683 865,686 793,686 754,681 754,699 706,699 706,682 623,682 593,683 570,683 531,682 531,692 468,692 468,681 456,681 456,687 407,687 262,686 233,686 217,680 133,680 97,680 54,679" baseline="54,679 233,680 389,685 622,682 639,682 932,683 1158,690" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Die. I.VII hiſtoꝛi ſagt wie Blen⸗
+ | german_print2_15: Die. Lyvu hiſtoꝛi ſagt wie Tlen⸗
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="51,688 1152,688 1152,759 51,759" />
+			<!-- line left out: id="r3l0" points="51,693 76,693 76,709 92,709 92,700 108,700 108,713 125,709 158,709 176,710 176,699 211,695 227,695 227,710 243,708 271,708 276,696 322,694 347,694 347,709 364,709 364,699 379,699 379,707 410,707 410,694 431,694 431,708 450,708 450,694 515,694 515,710 548,708 569,708 569,694 599,694 684,694 699,698 725,701 725,709 743,709 743,694 792,694 805,702 819,702 819,688 844,688 844,706 866,706 885,711 885,688 910,688 910,709 930,709 930,688 949,688 965,713 995,713 995,702 1009,702 1009,713 1051,712 1070,709 1091,709 1099,699 1113,699 1113,708 1152,708 1152,742 1072,742 1009,745 997,746 965,746 949,759 910,759 885,759 885,742 866,743 844,743 844,759 819,759 819,741 805,741 725,740 699,739 684,741 626,741 569,739 569,747 548,747 535,741 515,741 515,750 475,750 410,750 376,747 376,740 364,740 347,738 347,750 322,750 322,742 276,742 244,741 190,742 176,742 158,740 158,755 125,755 125,743 105,743 92,741 92,749 67,749 51,748" baseline="51,741 534,740 805,740 1152,741" reason: differs: "ſpie" against "hick" | Wikisource:  | next_nc_e1: ſpiegel den Weinzepffer zů Lübeck betrog/ als er im
+ | german_print2_15: ſpiegel den Weinzepffer zů Lübeck betrog / als er im
+ -->
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="46,826 1168,826 1168,1901 46,1901" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+vnd benck in das feür gehawen / vnd hat das leder damit
+all zuͦ gar gesotten. Die fraw ward weinen vnnd
+sprach. Folgen im hefftigklichen vnd schnel nach / vnd
+holen in wider. Der gerwer sagt nein ich beger sein nitt
+wider / er bleib nur vß bitz ich nach im schick.
+den Weinzepffer zuͦ Lübeck betrog / als er im
+ein kanten wassers für ein kanten weins gab.
+-->
+	</Page>
+</PcGts>

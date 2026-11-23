@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T12:27:51</Created>
+		<LastChange>2026-11-23T12:27:51</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Ein_nützlich_Bergbüchlin_(1527).pdf/14 revision 5089729 of 2026-11-06T10:04:29Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="bergbuechlin_1527_0014.png" imageWidth="1000" imageHeight="1692">
+		<ReadingOrder>
+			<OrderedGroup id="ro6247196220296866652" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {3;}">
+			<Coords points="112,485 168,485 168,709 112,709" />
+			<!-- line left out: id="r0l0" points="112,485 168,485 168,709 112,709" baseline="147,709 144,485" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: e 2
+ | german_print2_15: Brm 2²£
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="106,47 924,47 924,337 106,337" />
+			<!-- line left out: id="r1l0" points="106,47 130,47 152,59 168,57 190,57 190,68 205,68 207,57 239,57 250,58 282,58 288,67 304,62 316,58 328,58 339,57 372,57 372,66 389,66 398,56 426,56 426,64 437,63 452,58 462,56 518,56 518,64 533,64 541,55 563,54 597,54 603,60 625,55 647,55 647,61 662,61 662,55 683,55 690,61 715,61 755,61 765,54 783,54 783,60 798,60 799,54 836,54 836,60 856,58 902,58 902,51 923,51 923,83 902,83 902,91 876,93 856,93 855,86 836,86 809,85 783,84 783,93 765,93 755,85 734,86 690,86 683,94 662,94 662,85 647,85 647,94 603,94 597,87 581,88 518,88 518,95 488,95 471,95 462,94 452,89 426,88 426,95 398,95 372,90 372,96 339,96 328,92 288,92 282,98 250,98 247,98 190,96 152,96 130,106 106,106" baseline="106,94 129,93 398,89 541,87 690,85 765,84 923,83" reason: differs: "¶Auc" against "Auch" | Wikisource:  | next_nc_e1: ¶ Auch iſt etlichs ſtreichen der geng von mittag yñ | german_print2_15: Auch iſt etlichs ſtreichen der geng von mittag yñ -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="111,104 134,104 189,108 189,100 207,100 225,105 254,108 284,109 284,100 370,100 408,104 408,97 425,97 433,104 449,102 462,97 523,97 523,105 532,105 541,97 564,97 580,102 584,96 603,96 603,103 636,104 637,97 656,97 671,102 688,103 688,96 709,96 729,97 739,103 762,103 762,96 784,96 829,102 910,96 924,96 924,121 885,125 784,126 626,126 603,124 603,130 584,130 580,125 564,130 523,132 483,132 425,127 370,132 351,137 302,137 284,137 254,132 207,131 207,137 189,137 169,133 111,132" />
+				<Baseline points="111,132 924,121" />
+				<TextEquiv index="1">
+					<Unicode>die mitternacht/ vñ etlichs herwiderũb võ der mit⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l2" points="110,147 127,147 156,148 171,149 171,141 188,141 229,141 231,147 269,147 289,150 297,143 318,143 333,145 395,145 396,138 409,138 409,145 423,142 433,142 454,143 475,144 477,152 483,152 497,139 508,139 529,143 634,143 684,143 695,136 707,136 717,143 735,143 735,136 767,136 796,140 811,142 842,143 852,130 859,130 868,134 868,142 885,142 887,130 908,130 924,131 924,162 908,163 868,163 868,171 852,171 842,165 796,166 767,167 735,167 715,166 707,167 695,167 653,165 652,174 636,174 634,165 577,166 543,167 508,168 497,168 477,167 475,175 453,175 453,166 433,167 395,168 354,169 318,170 289,172 270,172 269,180 250,180 243,171 229,173 188,173 171,173 141,171 110,171" baseline="110,171 367,168 683,165 924,162" reason: second model: differs: "tagdasv" against "tag/ da" | Wikisource: ternacht yn den mittag/ das vornym nach dem fallen | next_nc_e1: ternacht yn den mirtag/ das vornym nach dem fallẽ | german_print2_15: ternacht yn den mirtag das vornym nach dem fallẽ -->
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="109,185 184,187 184,179 231,179 231,188 245,184 256,184 256,190 333,185 356,185 356,178 365,178 366,186 393,185 393,178 452,179 452,170 495,170 495,179 551,180 562,184 585,180 604,180 631,183 632,177 652,177 653,185 710,183 710,176 774,176 774,182 816,183 816,174 845,174 887,179 922,181 922,202 887,204 845,210 816,210 810,205 802,215 699,215 689,207 652,206 551,207 551,213 519,213 519,207 495,208 495,225 452,225 452,208 433,210 413,210 413,219 393,219 381,216 380,207 366,207 356,219 333,219 333,209 314,214 245,212 231,210 231,218 200,221 169,221 162,211 109,211" />
+				<Baseline points="109,211 301,211 452,207 922,203" />
+				<TextEquiv index="1">
+					<Unicode>des geſteins ʒugleych/ wie itʒund oben geſagt iſt/ das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="107,222 125,222 125,228 140,228 140,222 153,222 187,227 197,221 238,221 238,229 286,228 286,218 304,218 311,225 339,225 349,227 350,218 359,218 361,224 423,223 423,217 457,217 484,221 563,223 578,219 599,219 686,221 717,225 726,218 746,218 762,222 789,218 826,219 855,222 855,212 865,212 866,222 910,220 910,208 922,208 922,245 855,246 826,250 807,250 807,256 777,256 777,247 666,248 657,256 635,256 635,246 614,247 599,252 578,252 578,246 563,246 563,256 541,256 531,248 464,247 457,253 423,253 423,246 304,250 304,261 275,261 268,253 107,252" />
+				<Baseline points="107,252 197,250 275,252 373,247 922,245" />
+				<TextEquiv index="1">
+					<Unicode>wird aber geteilt nach dem geheng des bergs/ als al</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="107,260 195,261 195,268 228,265 236,261 284,261 323,264 331,258 356,258 356,265 371,265 372,258 381,258 381,266 395,263 433,262 433,285 408,286 393,291 356,289 356,298 331,298 323,291 284,293 284,299 236,299 228,293 195,299 179,299 179,292 131,292 131,301 107,301" />
+				<Baseline points="107,292 331,290 433,291" />
+				<TextEquiv index="1">
+					<Unicode>hie beʒeichnet ſtehet.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l6" points="391,296 434,296 434,302 458,302 466,295 517,295 517,303 536,303 551,301 574,301 588,302 619,303 619,327 589,327 574,326 574,337 551,337 551,328 517,328 434,329 391,329" baseline="391,329 457,326 619,326" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Der Morgen.
+ | german_print2_15: Der Morgen.
+ -->
+			<TextEquiv index="1">
+				<Unicode>die mitternacht/ vñ etlichs herwiderũb võ der mit⸗
+des geſteins ʒugleych/ wie itʒund oben geſagt iſt/ das
+wird aber geteilt nach dem geheng des bergs/ als al
+hie beʒeichnet ſtehet.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="248,340 341,340 341,350 248,350" />
+			<!-- line left out: id="r2l0" points="248,340 341,340 341,350 248,350" baseline="248,349 341,345" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: —
+ | german_print2_15: —
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="170,404 250,404 250,441 170,441" />
+			<!-- line left out: id="r3l0" points="170,404 228,404 228,420 170,420" baseline="170,416 228,415" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — | german_print2_15: — -->
+			<!-- line left out: id="r3l1" points="170,423 250,423 250,441 170,441" baseline="170,441 250,441" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: —
+ | german_print2_15: —
+ -->
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="106,416 170,416 170,425 106,425" />
+		</GraphicRegion>
+		<GraphicRegion id="r5">
+			<Coords points="106,416 933,416 933,455 106,455" />
+		</GraphicRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="180,342 908,342 908,424 180,424" />
+			<!-- line left out: id="r6l0" points="180,346 245,346 445,353 488,353 492,362 501,362 607,356 668,356 737,342 842,342 842,373 737,373 668,365 607,365 488,374 445,374 245,349 202,351 180,351" baseline="180,368 607,363 842,361" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: —— η7 — — | german_print2_15: —— riy⸗ — ES -->
+			<!-- line left out: id="r6l1" points="252,409 621,404 642,404 653,415 761,410 770,410 853,402 908,402 908,423 853,423 770,413 761,413 659,424 653,424 642,411 621,411 282,419 252,419" baseline="252,413 853,411 908,411" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: D —, 2 .
+ | german_print2_15: 8D , 2 W
+ -->
+		</TextRegion>
+		<GraphicRegion id="r7">
+			<Coords points="106,425 933,425 933,1530 106,1530" />
+		</GraphicRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {3;}">
+			<Coords points="933,431 981,431 981,717 933,717" />
+			<!-- line left out: id="r8l0" points="933,431 981,431 981,717 933,717" baseline="976,717 969,431" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: zehu
+ | german_print2_15: pouaa
+ -->
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {3;}">
+			<Coords points="935,983 986,983 986,1248 935,1248" />
+			<!-- line left out: id="r9l0" points="935,983 986,983 986,1248 935,1248" baseline="979,1248 973,983" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: jauzqx aꝛa | german_print2_15: zqusqx a2 -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Auch ist etlichs streichen der geng von mittag ynn
+die mitternacht / vnd etlichs herwiderumb von der mitternacht
+yn den mittag / das vornym nach dem fallen
+des gesteins zugleych / wie itzund oben gesagt ist / das
+wird aber geteilt nach dem geheng des bergs / als alhie
+bezeichnet stehet.
+-->
+	</Page>
+</PcGts>

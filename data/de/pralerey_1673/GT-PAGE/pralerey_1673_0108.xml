@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:16:36</Created>
+		<LastChange>2026-11-23T11:16:36</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/108 revision 3271173 of 2018-07-31T16:12:08Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0108.png" imageWidth="732" imageHeight="1314">
+		<ReadingOrder>
+			<OrderedGroup id="ro916286400340797103" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,63 732,63 732,1314 0,1314" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {3;}">
+			<Coords points="37,327 56,327 56,356 37,356" />
+			<!-- line left out: id="r1l0" points="37,327 56,327 56,356 37,356" baseline="46,356 45,327" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: .*
+ | german_print2_15: „—
+ -->
+		</TextRegion>
+		<GraphicRegion id="r2">
+			<Coords points="437,0 732,0 732,99 437,99" />
+		</GraphicRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="282,134 558,134 558,200 282,200" />
+			<!-- line left out: id="r3l0" points="282,140 322,140 322,155 345,152 373,152 400,154 400,148 419,148 433,134 485,134 532,136 547,164 558,164 558,197 547,197 532,179 505,180 419,181 401,182 373,182 373,200 345,200 345,181 322,182 282,182" baseline="282,183 433,180 558,176" reason: second model has no such line | Wikisource: Caput XII. | next_nc_e1: Caput XII.
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="117,220 695,220 695,399 117,399" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="117,236 166,236 166,243 201,243 206,233 251,232 261,239 286,239 286,233 366,232 366,240 387,240 392,229 423,226 447,226 447,235 497,235 497,226 532,226 543,220 557,220 572,225 572,231 593,231 593,223 615,223 615,230 648,229 648,220 681,220 695,225 695,259 681,259 681,270 661,270 661,259 631,262 572,263 572,270 458,267 458,273 423,273 366,269 366,277 286,277 286,271 262,272 251,277 227,277 206,274 166,272 166,278 117,278" />
+				<Baseline points="117,279 200,273 543,266 695,258" />
+				<TextEquiv index="1">
+					<Unicode>Der Teutſchen Sprach ſonderba⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="119,290 147,290 154,281 190,281 190,289 235,288 235,266 252,266 252,285 264,285 279,279 293,279 293,270 310,270 310,282 317,282 317,288 365,287 365,277 379,277 379,270 396,270 396,279 410,279 410,270 427,270 445,275 455,270 479,266 556,266 692,270 692,317 556,321 479,321 455,317 445,313 427,317 374,317 365,315 365,308 335,309 335,317 293,317 279,312 252,311 252,321 235,321 235,311 190,315 119,314" />
+				<Baseline points="119,315 479,306 692,298" />
+				<TextEquiv index="1">
+					<Unicode>re Art und Aigenſchafft/ ſambt Anregung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l2" points="174,325 192,325 206,330 218,329 232,329 251,330 256,320 279,316 295,316 325,316 339,320 340,327 350,327 350,319 367,319 368,326 382,326 382,316 428,316 435,322 489,322 498,312 504,312 504,320 517,316 527,316 537,312 558,312 558,319 577,319 583,311 593,311 626,311 626,318 637,318 637,311 651,311 651,342 626,342 602,342 577,343 558,344 517,345 489,347 428,348 401,348 401,355 382,355 382,348 368,348 367,355 350,355 350,349 340,349 339,355 295,355 279,355 251,353 206,355 193,355 174,353" baseline="174,353 250,352 256,352 427,347 488,345 583,342 651,340" reason: models differ | Wikisource: deren Reichthumb von vielen über | next_nc_e1: deren Reichthumb von vielen uͤber⸗
+ | german_print2_15: deren Reichthumb von vielen uber⸗
+ -->
+			<!-- line left out: id="r4l3" points="284,358 295,358 350,358 350,367 379,365 390,365 390,358 405,356 451,356 465,357 465,363 488,361 502,361 510,356 526,356 539,361 539,385 526,388 510,388 502,386 451,388 405,388 397,399 390,399 390,388 367,388 367,396 350,397 338,399 315,399 284,399" baseline="284,391 396,388 405,388 539,384" reason: models differ | Wikisource: flüssigen Wörtern. | next_nc_e1: fluͤſſigen Woͤrtern.
+ | german_print2_15: fluſſigen Woͤrtern.
+ -->
+			<TextEquiv index="1">
+				<Unicode>Der Teutſchen Sprach ſonderba⸗
+re Art und Aigenſchafft/ ſambt Anregung</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="124,402 722,402 722,1131 124,1131" />
+			<!-- line left out: id="r5l0" points="125,413 244,413 245,402 261,402 261,415 270,415 288,417 288,402 301,402 322,402 322,422 344,422 353,412 373,412 373,421 384,420 393,420 393,402 406,402 406,412 417,412 417,402 433,402 433,410 444,410 444,402 459,402 465,410 481,408 497,408 497,420 508,420 508,412 517,408 535,408 535,417 546,416 565,415 576,415 581,407 642,407 642,418 653,417 666,417 666,407 683,407 683,417 697,417 697,437 642,437 576,439 535,439 510,437 497,439 481,439 465,438 459,456 444,456 444,448 433,448 433,456 417,456 417,450 406,450 406,456 393,456 385,444 373,445 333,445 333,451 322,456 301,456 288,456 280,445 270,445 270,452 261,456 245,456 244,484 125,484" baseline="125,449 243,446 343,445 353,445 458,439 697,436" reason: differs: "Dflei" against "Der f" | Wikisource:  | next_nc_e1: D fleiſſige Teutſche Scribent Zeilerus | german_print2_15: Der fleiſſige Teutſche Scribent Zeilerus -->
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="202,455 216,455 216,464 242,463 242,455 272,455 272,462 296,457 329,454 397,454 397,461 435,461 435,444 454,444 482,444 507,444 532,444 557,444 579,444 579,457 604,458 604,444 618,444 646,448 646,457 688,456 697,461 697,477 688,479 646,482 626,482 618,494 604,494 604,480 579,480 579,494 557,494 532,494 507,494 482,494 454,494 435,494 435,483 397,484 397,490 369,490 369,484 344,484 344,490 272,486 202,486" />
+				<Baseline points="202,486 697,478" />
+				<TextEquiv index="1">
+					<Unicode>meldet in ſeinem neuverkuͤrtzten Teut⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l2" custom="readingOrder {index:2;}">
+				<Coords points="125,497 152,497 152,484 169,484 169,505 199,506 212,495 229,495 229,484 246,484 246,497 262,494 294,494 294,502 306,502 306,484 326,484 326,494 339,494 352,503 366,503 370,496 428,496 431,512 440,512 453,499 483,500 492,490 528,491 528,499 556,499 568,488 575,488 575,498 586,498 595,493 612,493 632,498 632,488 668,488 668,497 684,492 696,492 696,523 648,520 648,528 632,528 632,521 586,521 586,528 568,528 556,522 465,527 411,523 391,523 389,532 370,532 366,523 352,523 339,530 326,530 326,540 306,540 306,525 279,524 278,531 262,531 246,526 246,540 229,540 229,527 169,527 169,540 152,540 142,536 125,536" />
+				<Baseline points="125,528 439,522 568,521 696,523" />
+				<TextEquiv index="1">
+					<Unicode>ſchen Raißbuch 1662. zu Ulm gedruckt/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l3" points="125,546 144,546 167,546 188,547 188,524 214,524 220,545 235,544 270,544 295,545 297,553 305,553 312,538 329,538 346,541 346,532 363,532 396,535 404,524 434,524 434,532 455,531 471,531 473,540 485,539 514,539 514,532 523,531 555,531 555,539 582,539 586,529 621,529 621,539 650,538 661,538 661,528 696,528 696,567 677,568 661,568 661,561 650,561 638,560 638,568 621,568 586,563 555,562 555,569 523,569 514,568 485,563 473,562 471,569 455,569 434,564 434,578 404,578 396,564 369,564 363,570 346,570 346,564 312,564 297,561 295,573 214,578 188,578 151,574 144,567 125,567" baseline="125,567 188,566 269,565 455,563 696,560" reason: differs: "ap.1.pa" against "p. I. p" | Wikisource:  | next_nc_e1: eap. 1. pag 3. daß in der Teutſchen Sprach | german_print2_15: eap. I. pag 3. daß in der Leutſchen Sprach -->
+			<!-- line left out: id="r5l4" points="127,586 171,586 171,576 188,576 188,585 215,580 250,580 315,583 387,585 396,573 413,572 429,572 429,581 443,581 443,572 460,572 548,569 564,569 585,569 585,579 605,579 605,569 622,569 622,578 644,577 662,577 695,577 695,600 662,602 622,603 605,603 585,602 568,603 523,603 513,609 443,609 443,603 429,603 429,609 413,609 396,605 357,603 356,610 337,610 333,604 286,605 267,606 250,606 250,615 215,615 201,607 188,607 188,613 171,613 171,607 159,610 127,610" baseline="127,609 200,607 285,605 386,603 695,600" reason: differs: "mehr" against "prac" | Wikisource:  | next_nc_e1: mehr dann 2170 Teutſche Woͤrter von | german_print2_15: mehr dann 2170- Teutſche Woͤrter von -->
+			<TextLine id="r5l5" custom="readingOrder {index:5;}">
+				<Coords points="126,619 153,619 153,625 192,625 196,614 237,614 237,625 250,625 250,615 273,615 273,623 303,623 312,614 343,614 354,616 354,622 420,621 421,612 434,612 434,606 453,606 453,622 465,622 465,606 481,606 481,616 493,616 493,606 508,606 522,620 537,620 537,606 553,606 553,619 569,614 586,614 609,619 609,606 623,606 638,619 656,619 656,610 684,610 684,616 696,616 696,642 684,642 684,648 638,648 623,656 609,656 609,641 553,642 553,656 537,656 537,649 522,649 508,656 493,656 493,643 481,643 481,656 465,656 465,643 453,643 453,656 434,656 434,650 421,650 420,644 408,644 407,651 384,652 365,652 365,644 343,644 343,652 312,652 303,645 257,645 251,652 222,652 179,647 153,649 126,649" />
+				<Baseline points="126,647 696,640" />
+				<TextEquiv index="1">
+					<Unicode>einer Sylben ſollen gefunden werden; aber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l6" custom="readingOrder {index:6;}">
+				<Coords points="126,665 140,661 191,656 204,656 204,664 233,664 233,656 286,657 286,664 298,664 298,654 313,654 313,663 319,663 325,651 350,651 350,662 367,662 367,654 383,653 423,653 423,662 449,662 449,653 467,653 494,660 555,659 583,657 686,657 694,661 694,676 686,679 574,681 538,683 467,683 467,689 367,689 367,683 350,683 350,692 325,692 319,684 313,688 298,688 277,684 126,688" />
+				<Baseline points="126,687 694,677" />
+				<TextEquiv index="1">
+					<Unicode>was wolt dieſe Zahl ſeyn/ wann man er⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l7" custom="readingOrder {index:7;}">
+				<Coords points="127,705 168,705 248,694 300,694 355,702 363,693 379,693 379,686 395,686 395,701 409,701 409,686 424,686 424,694 437,692 451,692 451,686 470,686 478,700 497,700 513,691 529,686 545,686 545,699 558,699 558,686 577,686 605,690 621,698 638,698 638,691 649,691 649,698 695,695 695,719 666,719 666,726 648,726 648,719 605,724 585,724 577,738 558,738 558,727 545,727 545,738 529,738 529,723 470,722 470,738 451,738 442,729 424,729 424,738 409,738 409,723 395,723 395,738 379,738 379,724 313,724 300,730 267,730 267,724 255,724 255,730 215,729 185,726 185,734 168,734 168,726 127,727" />
+				<Baseline points="127,727 695,718" />
+				<TextEquiv index="1">
+					<Unicode>wegt/ daß der Teutſchen Sprach aigne</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l8" custom="readingOrder {index:8;}">
+				<Coords points="127,736 170,736 170,743 181,743 195,737 205,736 293,735 293,742 331,742 331,733 374,733 374,742 387,742 402,734 407,734 407,741 418,741 418,734 469,733 487,733 487,740 513,740 523,730 566,730 566,738 579,738 579,730 597,730 629,734 680,733 696,736 696,759 605,760 597,763 500,763 487,761 487,768 469,768 407,763 349,771 311,771 311,763 276,763 236,771 205,771 205,765 170,770 127,770" />
+				<Baseline points="127,766 523,762 628,758 696,759" />
+				<TextEquiv index="1">
+					<Unicode>Art iſt/ beynahe alle ihre Grund⸗ oder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l9" custom="readingOrder {index:9;}">
+				<Coords points="126,776 150,772 172,772 172,784 214,783 214,772 239,772 239,782 259,782 259,772 322,772 323,782 364,781 364,772 478,772 478,781 507,781 507,772 527,772 527,779 557,779 570,769 598,769 598,779 613,779 624,768 638,768 673,768 673,776 696,775 696,798 624,799 613,805 478,806 412,810 364,810 364,804 322,805 316,810 281,810 259,810 259,804 239,804 239,810 214,810 196,806 172,810 126,810" />
+				<Baseline points="126,806 696,798" />
+				<TextEquiv index="1">
+					<Unicode>Stamm⸗Woͤrter (ſo ſonſten bey keiner</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l10" custom="readingOrder {index:10;}">
+				<Coords points="127,824 147,824 165,826 165,820 182,820 182,826 193,824 225,824 235,814 278,814 278,824 321,824 321,814 349,814 377,818 431,816 456,821 465,812 509,812 509,819 522,819 522,812 557,808 562,808 572,811 572,818 585,818 585,810 604,810 613,808 629,808 698,808 698,842 667,847 585,847 585,840 562,840 562,847 509,842 509,849 465,849 456,842 368,843 349,850 321,850 321,844 291,844 291,851 260,851 194,846 127,848" />
+				<Baseline points="127,847 698,839" />
+				<TextEquiv index="1">
+					<Unicode>andern Sprach in der Welt befindlich)</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l11" points="124,864 138,864 138,857 177,857 225,858 258,863 258,857 268,857 268,863 312,863 318,853 362,853 395,853 395,861 418,857 432,853 449,853 449,861 463,860 494,860 511,859 523,859 523,853 557,853 557,859 570,859 575,853 585,853 663,852 672,849 700,849 720,863 722,863 722,865 720,865 700,886 672,886 672,879 636,879 618,881 570,882 557,887 540,887 523,882 511,881 511,887 493,887 493,881 475,881 475,887 449,887 432,887 432,881 408,883 372,883 371,889 345,889 297,885 286,884 259,885 177,886 155,887 124,887" baseline="124,887 186,885 407,882 663,878 722,877" reason: second model: differs: "ben:?un" against "ben? un" | Wikisource: nur mit einer Sylbe darzugeben? und ich | next_nc_e1: nur mit einer Sylbe darzugeben? und ich | german_print2_15: nur mit einer Sylbe darzugeben:? und ich -->
+			<!-- line left out: id="r5l12" points="126,903 141,903 141,894 174,894 174,905 186,905 186,899 215,899 227,893 230,893 237,895 237,902 249,902 249,896 258,893 287,893 287,901 321,901 338,902 348,890 367,890 382,893 383,901 408,901 408,890 424,890 432,897 448,897 479,901 493,892 516,892 516,901 545,901 545,892 564,892 578,896 604,889 612,889 665,888 670,888 699,888 699,926 670,926 665,926 612,924 564,929 545,929 545,922 531,922 531,928 516,929 493,929 460,924 448,922 433,923 424,925 408,925 382,923 367,925 321,928 310,928 287,923 287,929 258,929 249,925 230,929 227,929 187,925 160,926 126,926" baseline="126,926 227,924 348,922 699,918" reason: second model: differs: "würd" against "d ic" | Wikisource: würde leicht zu überreden seyn/ daß ich | next_nc_e1: würde leicht zu uͤberreden ſeyn/ daß ich | german_print2_15: würde leicht zu uüberreden ſeyn / daß ich -->
+			<TextLine id="r5l13" custom="readingOrder {index:13;}">
+				<Coords points="127,944 148,944 148,936 157,936 163,944 194,944 194,937 272,935 272,925 288,925 288,942 299,933 324,932 369,932 375,940 398,940 418,937 509,940 509,925 525,925 551,925 551,938 563,938 574,930 594,930 600,925 616,925 616,938 634,938 635,929 643,925 658,925 672,929 672,938 698,937 698,959 672,959 672,965 658,965 658,977 643,977 643,966 635,966 634,960 616,960 616,977 600,977 594,962 551,962 551,977 525,977 509,977 501,963 484,963 484,969 470,969 460,961 447,963 398,962 369,964 288,963 288,977 272,977 262,966 148,965 148,973 127,973" />
+				<Baseline points="127,964 698,958" />
+				<TextEquiv index="1">
+					<Unicode>glaubte/ alle Woͤrter der gantzen Teutſchen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l14" custom="readingOrder {index:14;}">
+				<Coords points="126,974 167,974 167,983 216,982 217,974 268,972 268,982 280,982 280,972 304,972 348,982 364,971 371,971 371,980 400,982 400,971 414,971 428,972 428,981 464,980 464,972 482,971 511,971 528,979 578,979 594,972 604,972 604,979 652,978 652,972 660,972 702,976 720,982 720,1003 622,1000 528,1002 511,1010 503,1010 482,1007 473,1002 465,1002 465,1010 447,1010 447,1003 414,1002 414,1009 400,1009 400,1003 371,1003 371,1010 364,1010 348,1003 261,1003 246,1009 217,1009 216,1003 186,1002 186,1010 148,1010 126,1010" />
+				<Baseline points="126,1004 720,999" />
+				<TextEquiv index="1">
+					<Unicode>Sprach waͤren anfaͤnglich nur in einer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l15" custom="readingOrder {index:15;}">
+				<Coords points="126,1013 164,1013 165,1023 182,1023 183,1014 264,1014 264,1021 281,1021 300,1018 453,1016 459,1011 491,1011 498,1018 545,1020 572,1019 572,1008 590,1008 590,1019 602,1019 603,1011 628,1010 636,1008 663,1008 670,1018 695,1017 701,1020 701,1037 663,1045 636,1045 602,1040 590,1045 572,1045 563,1040 545,1042 498,1042 491,1048 459,1048 459,1042 336,1045 281,1043 264,1041 264,1050 237,1050 237,1041 183,1043 182,1050 146,1050 126,1050" />
+				<Baseline points="126,1043 213,1041 701,1037" />
+				<TextEquiv index="1">
+					<Unicode>Sylb beſtanden/ wann ich vornemblich er⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l16" custom="readingOrder {index:16;}">
+				<Coords points="128,1058 232,1056 250,1061 250,1051 268,1051 273,1062 309,1062 310,1053 372,1055 372,1062 423,1061 423,1051 447,1051 447,1060 469,1053 490,1053 505,1059 533,1059 533,1048 549,1048 549,1060 568,1060 569,1051 586,1051 591,1059 602,1059 603,1048 640,1048 640,1058 720,1049 720,1053 703,1079 640,1081 640,1089 624,1089 603,1085 595,1079 586,1079 586,1089 569,1089 568,1083 549,1083 549,1089 501,1086 490,1090 469,1090 460,1084 447,1084 447,1092 423,1092 418,1086 371,1086 345,1084 339,1092 310,1092 309,1086 284,1085 268,1089 208,1088 188,1091 143,1091 143,1085 128,1085" />
+				<Baseline points="128,1085 505,1084 720,1079" />
+				<TextEquiv index="1">
+					<Unicode>wege/ daß noch die mehriſte namhaffte und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l17" points="574,1100 604,1100 604,1094 620,1094 627,1088 650,1088 650,1098 667,1098 667,1089 692,1089 692,1101 703,1101 719,1090 721,1090 721,1131 719,1131 703,1118 692,1118 692,1126 667,1126 650,1122 643,1122 643,1131 627,1131 627,1123 605,1123 596,1123 596,1129 574,1129" baseline="574,1123 721,1118" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: gebraͤuch⸗
+ | german_print2_15: gebraͤuch⸗
+ -->
+			<TextEquiv index="1">
+				<Unicode>meldet in ſeinem neuverkuͤrtzten Teut⸗
+ſchen Raißbuch 1662. zu Ulm gedruckt/
+einer Sylben ſollen gefunden werden; aber
+was wolt dieſe Zahl ſeyn/ wann man er⸗
+wegt/ daß der Teutſchen Sprach aigne
+Art iſt/ beynahe alle ihre Grund⸗ oder
+Stamm⸗Woͤrter (ſo ſonſten bey keiner
+andern Sprach in der Welt befindlich)
+glaubte/ alle Woͤrter der gantzen Teutſchen
+Sprach waͤren anfaͤnglich nur in einer
+Sylb beſtanden/ wann ich vornemblich er⸗
+wege/ daß noch die mehriſte namhaffte und</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {3;}">
+			<Coords points="715,406 726,406 726,803 715,803" />
+			<!-- line left out: id="r6l0" points="715,406 726,406 726,803 715,803" baseline="720,803 718,406" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — —- - | german_print2_15: — —¶¶ -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Caput XII.
+Der Teutschen Sprach sonderbare Art und Aigenschafft / sambt Anregung deren Reichthumb von vielen überflüssigen Wörtern.
+Der fleissige Teutsche Scribent Zeilerus meldet in seinem neuverkürtzten Teutschen Raißbuch 1662. zu Ulm gedruckt / cap. I. pag 3. daß in der Teutschen Sprach mehr dann 2170. Teutsche Wörter von einer Sylben sollen gefunden werden; aber was wolt diese Zahl seyn / wann man erwegt / daß der Teutschen Sprach aigne Art ist / beynahe alle ihre Grund- oder Stamm-Wörter (so sonsten bey keiner andern Sprach in der Welt befindlich) nur mit einer Sylbe darzugeben? und ich würde leicht zu überreden seyn / daß ich glaubte / alle Wörter der gantzen Teutschen Sprach wären anfänglich nur in einer Sylb bestanden / wann ich vornemblich erwege / daß noch die mehriste namhaffte und
+-->
+	</Page>
+</PcGts>

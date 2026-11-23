@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:15:12</Created>
+		<LastChange>2026-11-23T11:15:12</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/51 revision 3271235 of 2018-07-31T16:12:29Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0051.png" imageWidth="732" imageHeight="1329">
+		<ReadingOrder>
+			<OrderedGroup id="ro5526208463055321288" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="22,20 522,20 522,37 22,37" />
+			<!-- line left out: id="r0l0" points="22,24 112,22 288,20 522,20 522,36 162,37 112,37 22,33" baseline="22,30 522,29" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — ———
+ | german_print2_15: — ———————
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="27,69 603,69 603,155 27,155" />
+			<!-- line left out: id="r1l0" points="280,83 308,83 308,69 332,69 332,93 340,93 340,103 332,103 332,111 308,111 280,110" baseline="280,111 340,111" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 45. | german_print2_15:  -->
+			<!-- line left out: id="r1l1" points="27,113 55,113 55,119 76,119 76,113 92,113 105,113 139,115 148,102 165,102 165,110 177,110 188,119 215,119 215,102 231,102 257,102 257,120 270,120 281,111 294,111 294,102 310,102 310,118 319,118 346,113 367,113 367,119 378,118 405,116 408,116 429,118 429,106 459,106 459,112 500,112 500,102 545,102 545,112 556,112 556,102 603,102 603,155 556,155 556,143 545,143 545,155 500,155 500,143 471,143 471,149 443,149 433,143 405,143 367,142 367,149 346,149 330,144 310,143 310,155 294,155 294,146 281,146 257,144 257,155 231,155 215,155 208,148 188,148 165,155 148,155 148,143 105,144 27,144" baseline="27,144 125,143 544,141 603,141" reason: differs: "bitt" against "auff" | Wikisource:  | next_nc_e1: bitten? auff weſſen Uncoſten muͤſte man die
+ | german_print2_15: bitten? auff weſſen Uncoſten muͤſte man die
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="0,190 611,190 611,915 0,915" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="26,200 100,201 100,194 144,194 144,201 155,198 171,198 202,201 231,197 236,193 260,193 260,201 279,203 289,193 340,192 340,198 359,199 359,193 396,192 456,192 471,197 479,190 515,190 537,190 565,190 592,193 592,223 574,223 565,229 550,229 550,222 537,222 537,229 479,229 471,223 397,223 397,230 372,231 359,231 359,223 340,224 340,231 322,231 318,226 260,224 260,231 231,231 230,223 202,223 202,230 177,230 171,224 144,224 144,231 115,232 88,232 77,224 50,225 50,232 26,232" />
+				<Baseline points="26,225 592,222" />
+				<TextEquiv index="1">
+					<Unicode>tzen unſers groſſen Teutſchlands außbrai⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l1" points="29,241 41,241 112,238 127,238 157,240 165,230 184,230 218,230 218,237 231,237 231,230 249,230 249,236 257,236 257,242 275,241 296,241 306,243 318,236 327,236 364,241 371,234 399,234 407,240 463,240 484,241 484,233 502,233 538,233 553,236 579,240 579,231 595,231 595,261 581,262 565,262 538,271 502,271 484,271 484,263 463,264 364,265 339,265 306,264 296,265 275,265 275,272 249,272 231,272 231,264 218,264 218,272 206,272 206,264 184,264 184,272 165,272 165,264 52,265 41,267 29,267" baseline="29,265 126,264 595,261" reason: models differ | Wikisource: ten und verkündigen? und wer weiß/ ob | next_nc_e1: ten und verkuͤndigen? und wer weiß/ ob | german_print2_15: ten und verkündigen? und wer weiß / ob -->
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="27,273 57,273 86,278 121,280 139,283 158,277 238,277 238,283 305,282 331,278 379,277 420,277 432,281 464,281 471,271 504,271 552,272 580,279 598,280 598,302 509,304 504,311 471,311 464,304 358,304 267,306 228,304 27,305" />
+				<Baseline points="27,305 598,302" />
+				<TextEquiv index="1">
+					<Unicode>alsdann des einen und andern frembden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l3" points="26,313 63,313 82,317 124,320 216,321 229,323 229,314 244,314 244,323 331,323 346,315 361,315 361,308 380,308 387,322 448,321 468,321 469,314 486,314 486,322 513,322 520,312 548,312 573,312 573,320 590,320 598,324 598,341 590,344 548,344 486,345 415,345 387,345 380,357 361,357 361,345 302,345 290,346 270,346 262,345 244,345 244,352 229,352 229,344 133,344 124,352 92,352 82,345 63,346 46,346 46,352 26,352" baseline="26,345 123,344 598,342" reason: differs: "neu/erſ" against "neu-ers" | Wikisource:  | next_nc_e1: Dings neu/ erſonnene Namen allen Teut⸗ | german_print2_15: Dings neu⸗ erſonnene Namen allen Teut⸗ -->
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="27,355 97,354 163,363 163,353 181,353 181,362 208,362 215,354 236,354 236,363 272,363 281,348 298,348 337,348 337,358 356,358 368,362 407,357 424,357 476,362 476,353 520,353 520,360 535,355 547,355 560,361 582,361 582,352 597,352 597,383 520,384 520,391 476,391 476,384 337,384 337,396 298,396 281,396 272,385 253,385 253,391 215,391 181,386 181,392 163,392 163,384 120,385 120,392 27,392" />
+				<Baseline points="27,385 597,383" />
+				<TextEquiv index="1">
+					<Unicode>ſchen genehm ſeyn wuͤrden oder nicht? ob</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="26,394 56,394 63,402 122,402 122,395 149,395 149,402 177,403 222,401 222,395 253,395 293,397 293,403 303,403 311,394 334,392 353,392 401,392 421,392 429,401 474,400 478,394 500,395 500,402 512,402 512,394 556,394 556,400 598,400 598,424 512,426 421,425 421,432 353,432 334,432 259,425 253,432 222,432 222,426 149,425 63,425 56,432 26,432" />
+				<Baseline points="26,424 598,424" />
+				<TextEquiv index="1">
+					<Unicode>ihnen allen auch die Tauffpaten beliebten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l6" points="29,443 39,439 62,439 107,442 107,435 121,435 154,435 154,441 168,436 178,436 178,461 165,465 154,465 154,471 121,471 107,471 107,465 86,466 54,466 29,466" baseline="29,466 85,465 178,465" reason: second model: differs: "cht:?" against "cht? Da" | Wikisource: oder nicht? | next_nc_e1: oder nicht?
+ | german_print2_15: oder nicht:?
+ -->
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="75,490 84,490 89,473 124,473 125,480 157,480 163,474 326,474 336,478 336,484 405,481 504,480 514,466 532,466 549,473 580,473 580,466 603,466 603,516 580,516 580,505 549,505 532,516 514,516 504,505 477,505 460,512 449,512 449,505 405,505 336,502 89,507 84,494 75,494" />
+				<Baseline points="75,505 244,501 603,505" />
+				<TextEquiv index="1">
+					<Unicode>Das Gumi Arabicum mag man wol</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l8" points="0,516 18,516 32,522 52,522 52,513 95,513 98,524 115,523 135,521 145,521 151,514 186,514 186,523 199,523 199,514 256,514 288,515 367,515 380,516 404,519 404,508 452,508 465,519 478,517 498,517 513,518 526,508 545,508 568,512 574,513 574,520 594,520 594,526 604,526 604,539 594,541 568,541 545,541 545,557 526,557 513,544 481,544 481,550 465,550 452,557 404,557 404,546 380,546 380,552 312,552 294,552 288,546 260,546 256,552 199,552 199,545 186,545 186,552 168,552 168,546 151,546 116,545 116,552 52,552 52,546 18,547 0,547" baseline="0,547 144,545 404,544 604,544" reason: second model: differs: "nauf" against "auff" | Wikisource: auff gut Teutsch Arabisch- und das Colo | next_nc_e1: auff gut Teutſch Arabiſch⸗ und das Colo- | german_print2_15: n auff gut Teutſch Arabiſch⸗ und das Colo- -->
+			<!-- line left out: id="r2l9" points="0,552 19,552 34,565 55,565 55,554 73,554 73,565 99,565 99,559 118,559 119,565 133,565 133,552 152,552 152,565 177,565 189,555 220,555 220,563 233,563 233,557 242,557 242,563 270,559 289,555 306,555 306,564 337,562 352,562 395,562 461,562 480,564 494,556 506,556 506,563 520,563 521,556 542,556 547,563 563,563 563,555 589,555 589,561 603,561 603,586 573,586 564,585 506,585 494,585 480,591 465,591 461,584 442,585 382,586 361,586 352,593 337,593 337,586 306,586 306,593 289,593 289,586 259,586 258,593 240,593 240,586 220,586 203,586 203,593 189,593 177,587 152,592 133,592 133,582 56,582 56,592 34,592 19,584 0,584" baseline="0,587 351,585 541,584 547,584 603,586" reason: models differ | Wikisource: phonium, Geigenhartz nennen; wie aber | next_nc_e1: phonium, Geigenhartz nennen; wie aber | german_print2_15: a phonium, Geigenhartz nennen; wie aber -->
+			<!-- line left out: id="r2l10" points="33,599 67,599 85,600 91,594 131,594 131,605 208,605 217,597 228,597 265,599 300,595 332,595 332,605 344,604 360,604 390,605 390,593 433,593 433,605 477,605 482,615 494,615 502,593 540,593 540,605 580,605 580,594 603,594 603,625 580,625 565,621 565,632 540,632 522,632 522,622 494,627 482,627 433,622 410,627 390,627 292,626 262,626 243,625 208,622 146,623 85,626 49,626 33,625" baseline="33,625 84,624 227,622 603,621" reason: second model: differs: "2das" against "das " | Wikisource: das Caranna? das Tacamahaca, Copal, | next_nc_e1: das Caranna? das Tacamahaca, Copal, | german_print2_15: 2 das Caranna? das Tacamahaca, Copal, -->
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="0,634 62,635 91,639 91,645 105,645 105,634 126,634 126,645 132,645 155,634 179,634 179,645 208,645 208,630 229,630 264,630 264,645 295,645 308,635 340,630 355,630 369,635 369,646 447,645 447,654 454,654 461,645 519,645 519,638 550,639 550,645 565,645 565,638 592,638 592,649 604,649 604,657 592,657 592,663 540,663 454,667 355,663 355,677 340,677 340,662 295,668 274,668 264,677 229,677 208,677 208,663 179,667 155,667 126,662 126,673 105,673 105,663 32,662 24,673 0,673" />
+				<Baseline points="0,662 604,662" />
+				<TextEquiv index="1">
+					<Unicode>Anime, Camphor, Galbanum, ammonia-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l12" points="0,677 20,677 33,685 103,680 110,680 167,675 175,675 185,679 206,683 214,675 236,675 236,685 248,685 248,679 256,675 298,675 298,684 312,684 312,675 383,674 431,674 459,675 459,685 471,685 471,675 508,675 508,683 520,683 534,686 543,676 566,676 566,684 597,684 606,688 606,702 597,706 566,707 543,707 431,703 358,707 334,707 334,713 312,713 312,706 298,706 298,713 256,713 256,707 236,707 236,713 214,713 203,712 184,707 175,713 167,713 157,706 125,707 103,707 33,703 20,718 0,718" baseline="0,707 156,706 606,706" reason: differs: "ſafœdit" against "a foeti" | Wikisource:  | next_nc_e1: cum und dergleichen? Aſſa fœdita nen⸗ | german_print2_15: n eum und dergleichen? Aſſa fœdita nen⸗ -->
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="0,718 137,718 142,724 228,724 238,717 259,717 268,719 268,725 333,717 333,710 349,710 356,715 371,716 371,724 395,725 413,716 434,716 434,725 474,724 474,710 492,710 519,710 558,714 608,714 608,752 563,752 558,748 529,748 519,759 492,759 474,759 474,746 371,746 371,752 356,752 349,759 333,759 333,746 268,747 259,752 238,752 228,746 197,746 197,753 168,752 168,746 30,746 20,755 0,755" />
+				<Baseline points="0,746 608,743" />
+				<TextEquiv index="1">
+					<Unicode>nen wir wegen ſeines boͤſen Geruchs Teuf⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l14" points="0,788 8,788 32,755 49,755 82,755 98,760 120,764 120,755 149,755 152,765 175,763 192,761 233,761 239,754 251,754 251,765 267,765 267,758 283,754 294,754 318,757 325,764 342,764 368,766 368,757 384,757 384,764 396,764 408,765 423,756 438,756 455,758 455,765 525,762 558,759 571,759 609,763 609,786 525,786 513,785 513,794 495,794 495,786 483,786 483,794 465,794 455,786 438,786 438,794 423,794 408,786 396,787 342,787 325,787 318,794 302,794 294,786 283,787 268,787 268,794 239,794 233,786 175,786 162,792 152,792 149,786 134,786 134,794 120,794 120,787 112,787 49,786 49,794 0,794" baseline="0,786 609,786" reason: models differ | Wikisource: felsdreck; was gebührt aber hingegen dem | next_nc_e1: felsdreck; was gebuͤhrt aber hingegen dem | german_print2_15: a felsdreck; was gebuͤhrt aber hingegen dem -->
+			<!-- line left out: id="r2l15" points="0,826 18,826 32,796 58,794 97,794 133,795 152,796 176,799 176,805 188,805 198,818 202,802 218,802 271,800 279,800 279,806 308,803 319,803 361,804 361,797 370,795 401,795 401,803 412,803 484,804 509,804 519,797 553,797 553,804 571,803 587,802 611,802 611,826 570,826 553,827 455,827 401,826 401,834 375,834 361,834 361,826 320,826 319,834 270,836 255,836 248,827 218,828 202,828 202,821 188,823 144,823 75,823 75,840 58,840 58,823 32,823 18,840 0,840" baseline="0,828 295,826 611,826" reason: second model: differs: "Alfla" against "Assa " | Wikisource: Assa dulcis vor ein teutscher neuer Name | next_nc_e1: Aſſa dulcis vor ein teutſcher neuer Name | german_print2_15: Alfla dulcis vor ein teutſcher neuer Name -->
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="0,841 72,844 119,843 127,836 149,836 165,838 166,846 177,844 202,844 206,836 322,836 322,846 332,846 333,840 342,840 353,845 359,839 371,839 375,831 390,831 397,839 435,838 435,846 447,846 447,839 456,837 475,837 475,831 490,831 490,843 499,843 512,835 529,835 529,845 540,845 540,831 556,831 586,835 602,840 602,847 611,847 611,863 602,866 564,867 564,874 556,874 556,881 540,881 540,866 490,867 490,881 475,881 475,873 456,873 456,867 390,867 390,881 375,881 371,868 322,867 305,867 305,873 292,873 292,867 276,868 265,873 250,873 250,867 231,867 231,873 215,873 206,868 175,867 149,872 127,872 90,867 89,874 72,874 72,867 32,866 19,877 0,877" />
+				<Baseline points="0,866 611,866" />
+				<TextEquiv index="1">
+					<Unicode>wegen ſeiner Lieblichkeit? vielleicht Engels⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="0,869 22,869 33,881 50,881 76,885 76,877 89,877 89,869 109,869 109,879 146,875 174,875 174,886 220,886 220,875 235,875 235,886 297,880 313,880 360,876 370,876 370,884 386,884 387,876 403,876 403,885 424,880 435,880 435,886 451,886 462,877 487,877 497,886 519,886 519,875 536,875 536,886 563,885 563,879 572,875 609,875 609,912 572,912 564,908 497,907 487,914 462,914 451,907 435,907 435,914 424,914 417,906 297,907 266,915 241,915 173,914 173,907 109,908 109,915 89,915 89,908 33,907 22,915 0,915" />
+				<Baseline points="0,908 609,906" />
+				<TextEquiv index="1">
+					<Unicode>dreck? Ey pfuy/ das waͤr ja ſo naͤrriſch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>tzen unſers groſſen Teutſchlands außbrai⸗
+alsdann des einen und andern frembden
+ſchen genehm ſeyn wuͤrden oder nicht? ob
+ihnen allen auch die Tauffpaten beliebten
+Das Gumi Arabicum mag man wol
+Anime, Camphor, Galbanum, ammonia-
+nen wir wegen ſeines boͤſen Geruchs Teuf⸗
+wegen ſeiner Lieblichkeit? vielleicht Engels⸗
+dreck? Ey pfuy/ das waͤr ja ſo naͤrriſch</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="35,911 620,911 620,961 35,961" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="35,918 49,918 49,924 64,924 64,918 105,917 105,926 149,925 149,917 158,917 158,925 172,925 173,917 190,917 196,926 206,926 206,911 221,911 221,925 321,918 330,918 342,922 380,921 387,918 402,915 424,916 424,925 444,915 471,911 498,911 620,915 620,956 498,955 498,961 471,961 471,955 444,955 434,949 422,949 415,956 387,956 380,948 330,949 321,951 226,948 221,961 206,961 206,955 173,954 172,947 112,948 112,955 96,955 89,947 35,947" />
+				<Baseline points="35,947 620,946" />
+				<TextEquiv index="1">
+					<Unicode>und gottloß geredet/ als unflaͤtig uñ ſchaͤnd⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>und gottloß geredet/ als unflaͤtig uñ ſchaͤnd⸗</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="0,953 613,953 613,1125 0,1125" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="31,957 47,957 90,953 115,953 141,957 141,966 176,964 210,965 210,980 215,980 215,988 132,988 121,994 115,994 115,1004 90,1004 90,994 52,994 47,989 31,989" />
+				<Baseline points="31,989 215,988" />
+				<TextEquiv index="1">
+					<Unicode>lich es lautet.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l1" points="36,1007 95,997 142,997 153,1000 202,1002 233,1005 279,1005 280,995 306,995 306,983 397,983 397,995 409,995 409,983 450,983 450,995 463,995 463,983 543,983 543,995 555,995 555,983 613,983 613,1040 543,1040 450,1040 397,1040 306,1040 280,1035 279,1027 233,1028 179,1028 142,1028 95,1028 36,1009" baseline="36,1028 178,1027 609,1025 613,1025" reason: second model: differs: "Wainr" against "Wird " | Wikisource: Wird demnach schwer und schier ohn | next_nc_e1: Wird demnach ſchwer und ſchier ohn⸗
+ | german_print2_15: Wainrd demnach ſchwer und ſchier ohn⸗
+ -->
+			<!-- line left out: id="r4l2" points="25,1050 31,1050 36,1036 53,1033 87,1033 87,1048 98,1048 98,1039 109,1039 117,1037 168,1037 210,1040 210,1047 234,1042 246,1042 284,1045 337,1046 345,1044 373,1044 409,1045 415,1039 419,1039 419,1046 432,1046 432,1039 461,1039 486,1036 500,1036 500,1045 515,1045 515,1036 533,1036 562,1037 580,1041 592,1044 612,1045 612,1066 592,1067 548,1068 533,1068 533,1074 515,1074 515,1068 500,1068 500,1074 482,1075 461,1075 461,1068 447,1068 447,1075 432,1075 432,1068 419,1068 419,1075 415,1075 409,1068 337,1068 246,1071 234,1071 217,1068 191,1069 168,1073 144,1074 117,1074 116,1068 99,1068 99,1076 72,1076 72,1068 36,1068 31,1055 25,1055" baseline="25,1068 245,1067 612,1067" reason: second model: differs: "mußg" against "er o" | Wikisource: müglich fallen/ wann man allen frembden | next_nc_e1: muͤglich fallen/ wann man allen frembden | german_print2_15: mußglich fallen / wann man allen frembden -->
+			<!-- line left out: id="r4l3" points="0,1073 21,1073 84,1073 84,1084 95,1084 95,1073 113,1073 122,1076 161,1078 168,1086 185,1086 236,1082 255,1077 294,1077 294,1088 305,1085 318,1085 332,1088 332,1081 354,1081 354,1088 369,1088 369,1078 381,1078 388,1081 409,1086 409,1077 430,1077 430,1083 449,1083 457,1066 475,1066 475,1081 491,1080 499,1079 516,1079 548,1079 569,1081 612,1084 612,1106 586,1106 586,1114 558,1116 534,1116 519,1114 491,1109 475,1108 475,1125 457,1125 449,1112 409,1112 388,1109 333,1105 305,1105 294,1104 294,1112 276,1112 276,1105 249,1109 202,1109 168,1108 161,1115 148,1116 113,1121 95,1121 95,1111 84,1111 84,1121 62,1121 62,1109 36,1109 21,1121 0,1121" baseline="0,1109 184,1108 612,1106" reason: second model: differs: "Gewuͤ" against "mbde" | Wikisource: Gewächsen und Materialien/ die jetziger | next_nc_e1: Gewaͤchſen und Materialien/ die jetziger
+ | german_print2_15:  Gewuͤchſen und Materialien / die jetziger
+ -->
+			<TextEquiv index="1">
+				<Unicode>lich es lautet.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {3;}">
+			<Coords points="0,1121 19,1121 19,1179 0,1179" />
+			<!-- line left out: id="r5l0" points="0,1121 19,1121 19,1179 0,1179" baseline="17,1179 18,1121" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: —
+ | german_print2_15: —
+ -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="27,144 626,144 626,197 27,197" />
+			<!-- line left out: id="r6l0" points="27,158 49,158 60,161 89,162 101,154 117,153 136,153 136,160 155,160 155,153 175,153 175,160 178,160 207,161 221,155 249,155 309,157 311,144 327,144 327,161 356,161 356,155 367,155 376,151 394,151 394,144 406,144 406,160 417,160 417,144 433,144 433,150 444,150 479,152 479,158 496,158 496,167 516,163 626,163 626,167 501,172 496,172 496,182 479,182 479,190 444,191 433,191 433,197 417,197 417,183 406,183 406,197 394,197 394,183 367,183 345,184 327,184 327,197 311,197 309,184 249,184 175,185 136,185 78,185 49,185 27,185" baseline="27,185 88,184 206,183 500,182 516,183 626,178" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: neue Namen in den weitlaͤuffigen Graͤn⸗
+ | german_print2_15: neue Namen in den weitlaͤuffigen Graͤn.
+ -->
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="324,1116 646,1116 646,1156 324,1156" />
+			<!-- line left out: id="r7l0" points="324,1117 549,1116 574,1116 575,1127 587,1127 589,1118 610,1118 641,1142 646,1142 646,1143 610,1148 575,1148 574,1155 385,1156 324,1156" baseline="324,1151 646,1148" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: C Zeit
+ | german_print2_15: E 3 Zeit
+ -->
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="688,0 732,0 732,1329 688,1329" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+auff wessen Uncosten müste man die neue Namen in den weitläuffigen Gräntzen unsers grossen Teutschlands außbraiten und verkündigen? und wer weiß / ob alsdann des einen und andern frembden Dings neu-ersonnene Namen allen Teutschen genehm seyn würden oder nicht? ob ihnen allen auch die Tauffpaten beliebten oder nicht?
+Das Gumi Arabicum mag man wol auff gut Teutsch Arabisch- und das Colophonium, Geigenhartz nennen; wie aber das Caranna? das Tacamahaca, Copal, Anime, Camphor, Galbanum, ammoniacum und dergleichen? Assa foetida nennen wir wegen seines bösen Geruchs Teuffelsdreck; was gebührt aber hingegen dem Assa dulcis vor ein teutscher neuer Name wegen seiner Lieblichkeit? vielleicht Engelsdreck? Ey pfuy / das wär ja so närrisch und gottloß geredet / als unflätig und schändlich es lautet.
+Wird demnach schwer und schier ohnmüglich fallen / wann man allen frembden Gewächsen und Materialien / die jetziger
+-->
+	</Page>
+</PcGts>

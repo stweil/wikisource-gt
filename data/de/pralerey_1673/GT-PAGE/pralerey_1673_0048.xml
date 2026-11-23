@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:15:07</Created>
+		<LastChange>2026-11-23T11:15:07</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/48 revision 3271231 of 2018-07-31T16:12:27Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0048.png" imageWidth="732" imageHeight="1351">
+		<ReadingOrder>
+			<OrderedGroup id="ro10044130584036640012" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 732,0 732,69 0,69" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="394,77 447,77 447,106 394,106" />
+			<!-- line left out: id="r1l0" points="394,77 419,77 441,78 441,90 447,90 447,100 438,100 419,99 419,106 394,106" baseline="394,99 447,100" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 42.
+ | german_print2_15: 42.
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="316,112 523,112 523,178 316,178" />
+			<!-- line left out: id="r2l0" points="316,116 357,116 357,126 382,126 406,129 435,128 448,128 464,122 470,112 523,112 523,160 470,160 464,133 448,160 435,160 434,168 407,168 406,178 381,178 381,160 357,161 316,161" baseline="316,161 523,159" reason: second model has no such line | Wikisource: Caput V. | next_nc_e1: Caput V.
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="128,173 732,173 732,1170 128,1170" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="129,182 213,182 213,173 234,173 243,186 319,181 342,181 343,189 376,189 386,182 397,182 397,173 419,173 419,189 436,189 449,179 467,179 467,173 489,173 489,180 504,180 504,173 522,173 522,187 537,187 543,177 579,177 579,187 594,185 617,185 618,179 650,178 674,179 682,187 712,188 712,206 705,206 705,224 682,224 674,222 633,224 633,217 579,219 522,218 522,232 504,232 504,218 489,218 489,232 467,232 467,219 419,218 419,232 397,232 397,220 243,220 234,232 213,232 153,228 129,228" />
+				<Baseline points="129,223 241,220 435,218 712,218" />
+				<TextEquiv index="1">
+					<Unicode>Daß es wider der alten Teutſchen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l1" points="128,232 149,230 170,230 170,239 240,239 240,230 259,230 259,237 271,237 271,231 323,231 377,228 406,228 406,237 422,237 427,231 436,227 454,227 455,235 469,231 486,231 502,235 502,222 520,222 528,229 547,226 570,226 571,234 584,234 596,235 596,226 609,226 609,235 620,235 620,226 636,226 676,226 676,232 697,232 702,235 702,258 697,260 676,265 649,265 649,259 636,259 636,265 620,265 620,258 571,258 570,265 547,265 544,258 520,258 520,272 502,272 502,258 474,259 455,259 454,266 436,266 436,259 427,259 422,266 406,266 406,259 386,259 386,266 377,266 372,259 337,260 259,260 259,268 240,268 240,262 176,264 170,268 149,268 128,264" baseline="128,264 301,258 702,258" reason: differs: "eitundb" against "eit: un" | Wikisource:  | next_nc_e1: Gewonheit und bey ihnen nit herkom̃ens: | german_print2_15: Gewonheit und bey ihnen nit herkom̃ens: -->
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="131,273 149,273 159,280 177,276 264,273 274,270 293,270 293,278 322,277 322,268 341,268 341,278 354,278 371,269 410,269 410,278 424,278 480,277 480,269 497,269 497,277 510,277 525,275 620,275 674,268 691,268 691,275 706,275 715,277 715,313 711,313 706,305 689,305 674,300 525,299 525,306 507,306 507,299 443,300 427,284 424,300 410,300 410,306 371,306 341,301 341,308 322,308 312,302 149,304 149,311 131,311" />
+				<Baseline points="131,304 715,298" />
+				<TextEquiv index="1">
+					<Unicode>ſonder vilmehr ſehr unbequem und be⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l3" points="133,313 161,311 178,311 178,321 189,321 189,311 206,311 238,311 281,311 283,319 309,315 319,315 367,320 367,310 377,310 387,309 434,309 442,311 442,319 453,318 482,318 482,310 497,310 506,318 525,317 538,317 538,305 598,305 598,318 609,318 609,309 624,305 637,305 673,309 673,317 693,313 705,313 732,317 732,345 692,348 673,349 658,349 624,347 624,341 610,341 610,347 581,347 581,340 570,340 570,347 538,347 538,340 525,341 482,342 442,346 434,349 417,349 397,348 397,342 368,342 368,349 348,349 336,342 319,342 319,348 309,348 298,340 283,340 281,354 264,354 246,350 238,345 214,346 206,346 206,354 189,354 189,346 178,346 178,354 144,354 133,351" baseline="133,346 348,342 658,338 732,337" reason: models differ | Wikisource: schwerlich: ja gleichsamb unmüglich sey/ | next_nc_e1: ſchwerlich: ja gleichſamb unmuͤglich ſey/ | german_print2_15: ſchwerlich: ja gleichſamb unmuglich ſey / -->
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="220,361 232,361 232,354 256,354 256,361 287,361 293,351 345,351 345,359 358,359 358,352 374,352 404,359 421,360 427,350 475,350 524,358 601,358 601,351 638,352 639,358 652,358 675,351 675,389 601,389 601,383 548,382 541,390 523,390 523,382 512,382 512,389 493,389 493,383 475,383 475,391 427,391 421,384 345,383 345,391 293,391 287,384 271,387 248,388 248,394 220,394" />
+				<Baseline points="220,383 675,384" />
+				<TextEquiv index="1">
+					<Unicode>allen frembden Dingen teutſche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l5" points="274,420 292,393 327,393 327,401 344,400 372,400 447,400 457,393 466,393 474,400 486,400 486,393 503,393 503,401 514,400 540,400 540,424 488,424 474,424 474,431 457,431 416,429 372,426 327,425 292,425 274,423" baseline="274,423 540,423" reason: second model has no such line | Wikisource: Namen zu geben. | next_nc_e1: Namen zu geben. | german_print2_15:  -->
+			<!-- line left out: id="r3l6" points="194,441 232,441 232,448 246,448 254,440 288,440 288,448 342,448 352,438 368,438 368,448 402,448 402,442 410,438 424,438 424,444 435,444 435,438 456,438 456,447 475,446 485,446 485,438 503,438 503,445 518,442 556,439 560,439 613,436 632,436 632,445 652,444 674,444 674,423 692,423 692,436 710,436 710,423 732,423 732,473 710,476 674,476 674,469 652,469 632,468 632,476 613,476 613,469 593,470 560,470 537,472 518,472 503,471 503,477 485,477 475,473 424,470 424,477 410,477 410,471 384,472 314,472 288,472 288,478 254,478 246,472 232,472 232,479 194,479" baseline="194,472 644,468 732,466" reason: differs: "HrHe" against "Ihr " | Wikisource:  | next_nc_e1: Hr Hern Landsleuthe/ die ihr euch | german_print2_15: Hr Herin Landsleuthe / die ihr euch -->
+			<!-- line left out: id="r3l7" points="130,501 138,501 164,492 200,489 219,489 249,490 256,480 263,480 263,489 276,489 276,480 291,480 291,489 309,489 309,481 318,480 350,480 350,489 359,489 366,480 413,480 413,489 432,488 451,488 451,480 488,480 488,488 500,488 514,489 514,480 534,480 534,487 545,487 570,487 611,486 629,483 646,483 675,487 675,478 691,478 732,480 732,518 712,518 691,517 691,509 665,509 665,516 646,516 646,508 629,509 612,510 587,515 569,515 545,511 534,512 514,512 500,511 500,518 451,518 451,511 435,512 421,512 421,518 394,518 366,514 350,513 350,520 324,520 309,520 309,513 291,513 291,520 276,520 276,513 263,513 263,520 256,520 249,514 200,514 164,495 138,503 130,503" baseline="130,515 248,513 732,508" reason: differs: "Svorte" against "euch v" | Wikisource:  | next_nc_e1: Svor teutſche Sprachpolierer ausgebt/ | german_print2_15: SBvor teutſche Sprachpolierer ausgebt / -->
+			<TextLine id="r3l8" custom="readingOrder {index:8;}">
+				<Coords points="134,532 148,527 204,524 209,524 209,532 220,532 220,524 238,524 239,531 251,528 295,529 295,523 313,523 341,530 342,523 351,523 351,530 387,530 387,523 405,523 422,525 434,529 479,529 479,515 494,515 494,529 552,527 552,515 567,515 567,527 586,527 586,520 592,515 610,515 652,519 653,525 669,520 684,520 684,526 716,524 716,550 709,552 653,551 652,557 610,556 610,564 592,564 592,557 586,557 586,551 567,551 567,564 552,564 552,552 494,552 494,564 479,564 447,552 405,554 209,555 134,557" />
+				<Baseline points="134,556 716,550" />
+				<TextEquiv index="1">
+					<Unicode>und alles miteinander pur teutſch haben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l9" custom="readingOrder {index:9;}">
+				<Coords points="135,565 150,565 150,572 180,573 180,565 276,563 282,572 328,571 328,563 363,562 363,571 376,571 376,562 414,560 477,560 481,570 532,569 548,567 591,567 614,569 614,557 630,557 630,569 654,568 655,562 713,557 716,557 716,563 713,563 708,595 677,598 655,598 654,592 630,592 630,598 614,598 614,592 481,594 477,600 409,602 376,602 376,596 349,596 346,602 328,602 328,595 310,596 276,601 248,601 248,595 232,599 135,599" />
+				<Baseline points="135,596 716,591" />
+				<TextEquiv index="1">
+					<Unicode>wollet/ ich muß euch noch etwas verweiſen/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l10" custom="readingOrder {index:10;}">
+				<Coords points="134,610 162,610 190,606 206,606 206,615 254,613 262,605 301,605 308,613 320,613 320,607 330,607 330,613 398,612 398,596 411,596 441,596 464,596 464,610 505,611 517,603 544,603 544,596 560,596 569,611 581,611 581,602 599,602 613,604 613,596 625,596 640,610 657,610 657,602 677,604 684,600 708,600 714,626 716,626 716,633 714,633 708,640 684,640 677,633 657,634 657,641 640,641 625,649 613,649 613,632 600,632 599,640 581,640 581,633 560,633 560,649 544,649 544,640 533,640 517,635 474,634 474,641 464,641 464,649 441,649 424,649 421,636 411,636 411,649 398,649 398,636 308,636 301,643 278,645 262,645 262,637 235,637 235,645 219,645 219,638 134,637" />
+				<Baseline points="134,637 624,632 716,633" />
+				<TextEquiv index="1">
+					<Unicode>das beynahe einer unnuͤtzen Thorheit gleich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l11" custom="readingOrder {index:11;}">
+				<Coords points="133,647 202,647 204,657 214,657 235,650 294,647 356,648 356,654 367,654 367,645 379,645 379,632 393,632 393,650 440,648 456,653 456,645 493,643 510,643 510,651 550,652 550,645 574,645 574,652 586,643 624,643 624,652 641,652 643,643 670,643 671,652 699,651 699,636 717,636 717,677 699,677 671,674 670,681 643,681 641,674 510,675 510,682 493,682 493,674 484,674 470,682 456,682 456,676 403,680 393,691 379,691 379,684 367,684 367,678 331,677 324,685 294,685 287,677 235,678 202,686 133,686" />
+				<Baseline points="133,680 578,674 717,676" />
+				<TextEquiv index="1">
+					<Unicode>ſihet; und iſt dieſes/ daß ihr alle Sachen/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l12" custom="readingOrder {index:12;}">
+				<Coords points="135,693 146,691 174,691 205,695 270,692 282,695 301,696 308,686 334,686 334,695 386,695 386,687 418,688 430,693 538,690 594,692 594,684 605,684 605,691 691,691 697,683 705,683 705,723 697,723 691,714 661,713 661,721 642,721 642,715 594,715 584,723 565,723 554,715 473,720 334,718 334,725 308,725 270,720 240,719 174,721 135,720" />
+				<Baseline points="135,721 705,713" />
+				<TextEquiv index="1">
+					<Unicode>die von den Frembden zu vns gelangen/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l13" custom="readingOrder {index:13;}">
+				<Coords points="136,732 185,732 193,738 275,737 283,728 291,728 291,736 304,736 304,728 376,728 376,736 443,733 552,734 552,723 568,723 592,723 592,734 605,732 648,734 653,724 695,724 707,729 707,755 576,756 576,764 552,764 552,757 477,758 426,762 376,759 376,766 319,766 304,766 304,760 291,760 291,766 283,766 275,760 249,762 185,762 167,764 136,764" />
+				<Baseline points="136,762 707,754" />
+				<TextEquiv index="1">
+					<Unicode>mit neuen teutſchen zuvor unerhoͤrten Na⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l14" points="137,779 225,775 237,775 331,777 331,770 351,770 387,770 387,776 398,776 406,770 448,767 495,767 495,776 512,775 550,775 555,767 559,767 595,767 606,774 618,774 618,768 628,768 628,774 645,774 646,765 675,765 675,774 687,773 701,773 701,763 721,763 721,800 701,800 687,797 675,796 675,808 646,808 645,797 606,797 595,804 559,804 555,804 550,798 495,799 408,801 351,801 307,802 257,802 199,804 155,804 137,804" baseline="137,803 198,802 448,799 644,796 721,795" reason: second model: differs: "Fen," against "Fenster" | Wikisource: men nennen wollet. Wann ihr ein Fen | next_nc_e1: men nennen wollet. Wann ihr ein Fen⸗ | german_print2_15: men nennen wollet. Wann ihr ein Fen,⸗ -->
+			<TextLine id="r3l15" custom="readingOrder {index:15;}">
+				<Coords points="138,814 162,814 162,820 215,816 308,820 308,812 337,810 385,810 385,803 401,803 401,818 410,818 437,809 447,809 447,817 475,816 489,811 496,811 497,817 515,817 515,811 534,808 611,807 611,815 651,812 677,808 711,808 716,825 718,825 718,837 663,842 651,842 637,838 637,846 596,846 596,839 583,840 562,845 540,846 524,846 515,840 401,841 401,854 385,854 385,847 337,847 311,843 173,845 162,850 138,850" />
+				<Baseline points="138,845 718,837" />
+				<TextEquiv index="1">
+					<Unicode>ſter/ darumb daß es lateiniſch klingt/ nit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l16" custom="readingOrder {index:16;}">
+				<Coords points="137,861 155,861 155,854 221,852 253,852 253,861 279,861 280,854 300,854 300,861 326,861 345,863 366,852 391,852 391,860 409,860 409,854 479,853 488,853 488,859 535,859 550,849 579,849 604,849 634,850 634,856 646,856 646,849 680,849 680,856 699,851 719,851 719,888 699,888 699,880 680,880 680,887 661,888 646,888 646,880 613,880 612,886 604,888 585,888 579,882 391,882 391,889 366,889 345,883 300,884 300,891 280,891 279,885 253,885 253,891 212,892 174,892 155,892 137,888" />
+				<Baseline points="137,887 466,881 719,879" />
+				<TextEquiv index="1">
+					<Unicode>mehr Fenſter: ſonder einen Tagleuchter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l17" custom="readingOrder {index:17;}">
+				<Coords points="136,895 154,895 155,904 201,903 201,894 221,894 227,902 272,899 314,902 314,884 333,884 340,900 363,900 363,884 383,884 383,901 398,901 413,893 431,893 441,900 501,900 531,890 548,890 548,899 571,894 659,898 659,892 675,888 712,888 719,908 719,911 712,927 675,927 675,921 548,922 548,929 531,929 530,922 383,924 383,937 363,937 363,924 333,924 333,937 314,937 314,926 221,926 221,933 201,933 201,926 136,927" />
+				<Baseline points="136,927 521,921 719,920" />
+				<TextEquiv index="1">
+					<Unicode>benahmet/ warumb nennet ihr dann nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l18" custom="readingOrder {index:18;}">
+				<Coords points="138,945 150,945 150,924 170,924 177,935 240,937 240,943 251,943 257,934 304,934 304,944 328,942 400,941 441,933 458,933 458,924 474,924 501,929 501,941 554,938 572,938 590,941 590,935 608,933 621,933 621,940 634,936 667,935 680,928 719,928 719,933 712,962 667,966 656,966 633,962 527,964 482,963 482,971 474,971 474,978 458,978 458,966 418,965 352,967 304,966 304,973 289,974 257,974 251,968 211,966 196,973 170,978 150,978 150,967 138,967" />
+				<Baseline points="138,967 719,961" />
+				<TextEquiv index="1">
+					<Unicode>auch die Pforten und Thuͤren anders/ de⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l19" custom="readingOrder {index:19;}">
+				<Coords points="137,986 154,983 186,985 192,977 238,977 246,984 305,985 317,973 367,973 367,983 398,984 398,973 453,973 453,984 477,981 528,983 539,977 558,977 588,982 596,972 606,968 622,968 622,980 651,980 651,974 660,974 660,980 676,980 676,968 695,968 695,977 714,977 714,968 720,968 720,1005 477,1005 466,1013 414,1013 398,1013 398,1007 375,1007 367,1013 351,1013 351,1007 329,1008 321,1013 317,1013 238,1010 137,1009" />
+				<Baseline points="137,1009 587,1004 720,1005" />
+				<TextEquiv index="1">
+					<Unicode>ren Namen ebenmaͤſſig von den Lateinern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l20" points="137,1025 158,1025 177,1022 201,1018 233,1018 233,1027 248,1027 248,1020 258,1020 258,1026 270,1026 270,1018 299,1018 299,1027 313,1025 332,1025 339,1018 361,1018 361,1025 386,1025 386,1018 406,1018 414,1017 455,1017 455,1024 461,1024 480,1025 485,1017 519,1015 564,1015 586,1018 586,1005 603,1005 603,1015 619,1014 629,1014 629,1021 651,1021 652,1046 672,1021 683,1017 714,1017 714,1009 722,1009 722,1056 714,1056 714,1045 684,1048 672,1048 652,1047 620,1046 620,1053 603,1053 603,1060 586,1060 586,1046 564,1047 480,1048 461,1048 455,1054 442,1054 442,1047 431,1047 431,1054 406,1054 386,1054 386,1047 373,1048 361,1048 361,1054 339,1054 313,1049 299,1048 299,1056 270,1056 270,1050 233,1050 218,1050 218,1056 201,1056 193,1048 177,1050 137,1050" baseline="137,1050 519,1046 655,1045 722,1045" reason: second model: differs: "tamen?W" against "tammen?" | Wikisource: und Griechen herstammen? Wie solte man | next_nc_e1: und Griechen herſtam̃en? Wie ſolte man | german_print2_15: und Griechen herſtamen? Wie ſolte man -->
+			<!-- line left out: id="r3l21" points="138,1067 155,1067 155,1060 171,1060 172,1066 185,1066 226,1067 226,1059 263,1059 274,1067 287,1067 287,1061 297,1061 297,1068 315,1067 329,1067 335,1059 355,1055 372,1055 400,1055 400,1066 414,1066 435,1067 435,1061 451,1061 464,1066 477,1067 483,1056 505,1055 530,1055 530,1065 540,1065 554,1064 637,1064 638,1053 661,1053 664,1062 683,1062 683,1054 712,1054 719,1058 719,1065 715,1065 712,1085 700,1089 661,1093 638,1093 630,1086 618,1087 530,1087 530,1093 521,1096 483,1096 477,1088 464,1089 400,1089 383,1089 383,1097 355,1097 315,1092 288,1091 199,1091 184,1091 138,1090" baseline="138,1091 198,1090 594,1086 719,1085" reason: models differ | Wikisource: aber wol eine Thür oder Pforten auff euer | next_nc_e1: aber wol eine Thuͤr oder Pforten auff euer | german_print2_15: aber wol eine Thür oder Pforten auff euer -->
+			<!-- line left out: id="r3l22" points="136,1100 154,1100 154,1108 165,1108 165,1100 184,1100 184,1108 204,1108 204,1100 214,1100 214,1108 311,1108 311,1102 321,1102 321,1108 340,1108 361,1100 377,1099 393,1099 393,1107 430,1107 430,1099 448,1099 469,1100 489,1106 517,1105 526,1105 526,1096 561,1096 561,1106 608,1105 636,1105 636,1094 655,1094 683,1095 683,1062 720,1062 720,1168 684,1170 649,1170 649,1128 637,1130 568,1131 561,1131 561,1138 526,1138 526,1131 501,1131 489,1131 469,1137 448,1138 430,1138 421,1132 402,1133 393,1138 377,1138 263,1134 244,1134 204,1133 204,1140 154,1140 136,1140" baseline="136,1135 262,1133 720,1128" reason: differs: "muſe" against "müssen?" | Wikisource:  | next_nc_e1: nagelneu rein Teutſch tauffen muſe
+ | german_print2_15: nagelneu rein Teutſch tauffen mſet
+ -->
+			<TextEquiv index="1">
+				<Unicode>Daß es wider der alten Teutſchen
+ſonder vilmehr ſehr unbequem und be⸗
+allen frembden Dingen teutſche
+und alles miteinander pur teutſch haben
+wollet/ ich muß euch noch etwas verweiſen/
+das beynahe einer unnuͤtzen Thorheit gleich
+ſihet; und iſt dieſes/ daß ihr alle Sachen/
+die von den Frembden zu vns gelangen/
+mit neuen teutſchen zuvor unerhoͤrten Na⸗
+ſter/ darumb daß es lateiniſch klingt/ nit
+mehr Fenſter: ſonder einen Tagleuchter
+benahmet/ warumb nennet ihr dann nicht
+auch die Pforten und Thuͤren anders/ de⸗
+ren Namen ebenmaͤſſig von den Lateinern</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="0,1320 732,1320 732,1351 0,1351" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Caput V.
+Daß es wider der alten Teutschen Gewonheit: und bey ihnen nit herkommens: sonder vilmehr sehr unbequem und beschwerlich: ja gleichsamb unmüglich sey / allen frembden Dingen teutsche Namen zu geben.
+Ihr Herrn Landsleuthe / die ihr euch vor teutsche Sprachpolierer ausgebt / und alles miteinander pur teutsch haben wollet / ich muß euch noch etwas verweisen / das beynahe einer unnützen Thorheit gleich sihet; und ist dieses / daß ihr alle Sachen / die von den Frembden zu vns gelangen / mit neuen teutschen zuvor unerhörten Namen nennen wollet. Wann ihr ein Fenster / darumb daß es lateinisch klingt / nit mehr Fenster: sonder einen Tagleuchter benahmet / warumb nennet ihr dann nicht auch die Pforten und Thüren anders / deren Namen ebenmässig von den Lateinern und Griechen herstammen? Wie solte man aber wol eine Thür oder Pforten auff euer nagelneu rein Teutsch tauffen müssen?
+-->
+	</Page>
+</PcGts>

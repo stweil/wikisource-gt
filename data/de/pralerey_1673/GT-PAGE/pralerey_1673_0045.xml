@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:15:03</Created>
+		<LastChange>2026-11-23T11:15:03</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Deß_Weltberuffenen_Simplicissimi_Pralerey_und_Gepräng_mit_seinem_Teutschen_Michel.djvu/45 revision 3271228 of 2018-07-31T16:12:26Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="pralerey_1673_0045.png" imageWidth="732" imageHeight="1293">
+		<ReadingOrder>
+			<OrderedGroup id="ro5704165005869771678" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 732,0 732,82 0,82" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,1261 732,1261 732,1293 0,1293" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="57,72 623,72 623,507 57,507" />
+			<!-- line left out: id="r2l0" points="60,109 87,106 138,106 151,107 164,99 179,99 224,102 239,104 247,102 266,102 266,108 281,108 299,109 302,72 341,72 362,73 362,81 389,81 398,100 427,100 466,100 470,112 486,112 486,99 515,99 520,121 529,121 539,111 557,110 575,110 603,110 620,111 620,136 603,141 569,141 569,134 558,134 558,141 539,141 529,134 502,134 486,134 466,130 427,134 398,134 389,129 299,133 281,134 247,134 239,133 195,133 179,127 151,132 138,132 138,138 87,138 87,132 75,136 60,136" baseline="60,135 150,132 195,132 620,135" reason: differs: "teAKon," against "e Arcto" | Wikisource:  | next_nc_e1: zweyte A bedeute AKon, id eſt, gegen | german_print2_15: zweyte A bedeute Adon, id eſt, gegen -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="60,141 111,141 139,144 187,144 201,148 211,140 263,140 263,149 343,151 343,141 377,140 377,148 398,144 414,144 436,117 455,117 455,145 470,145 470,117 488,117 499,140 514,140 529,121 552,121 552,150 564,147 572,147 572,117 587,117 590,150 622,150 622,176 590,176 587,185 572,185 564,174 529,172 514,179 499,179 488,185 470,185 470,173 455,173 455,185 436,185 414,173 377,171 377,178 343,178 343,172 317,172 296,176 263,174 236,178 218,178 211,174 163,171 60,172" />
+				<Baseline points="60,172 413,172 529,173 622,176" />
+				<TextEquiv index="1">
+					<Unicode>Nord oder Mitternacht/ und M bedeut</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="59,179 76,178 98,178 128,178 128,190 142,190 142,178 164,178 183,179 189,184 189,190 208,190 208,178 229,178 236,200 248,200 256,180 353,180 353,190 397,190 405,200 417,200 429,189 512,189 514,181 555,181 564,184 564,190 622,191 622,220 601,220 601,214 554,214 554,220 536,220 536,214 492,219 429,219 417,212 326,208 295,212 142,213 142,207 98,207 98,213 76,213 76,207 59,207" />
+				<Baseline points="59,207 622,207" />
+				<TextEquiv index="1">
+					<Unicode>Meſimbriam, Meridiem, gegen Mittag</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="61,228 77,223 89,223 89,214 106,214 106,227 119,227 124,219 144,219 144,196 168,196 168,224 186,224 186,196 200,196 214,229 254,229 254,221 260,221 260,196 275,196 303,196 313,219 326,219 326,196 345,196 350,220 367,220 367,196 382,196 382,218 388,218 388,229 401,229 401,200 418,200 419,229 497,225 518,220 553,220 610,229 620,234 620,251 610,253 581,253 548,257 481,252 461,252 455,258 437,258 437,251 401,253 382,250 382,262 367,262 367,252 350,252 345,262 326,262 326,252 313,252 303,262 275,262 260,262 260,252 214,256 200,262 186,262 186,251 168,251 168,262 144,262 144,252 106,253 106,261 89,261 79,251 61,251" />
+				<Baseline points="61,251 620,251" />
+				<TextEquiv index="1">
+					<Unicode>oder Sud; welche Erklaͤrung und Bedeu⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="61,267 157,259 171,259 171,265 186,265 186,259 194,259 234,261 234,269 289,265 324,265 348,267 407,264 432,267 440,261 458,261 465,259 491,259 539,259 576,261 576,281 583,281 593,270 611,270 620,274 620,291 576,288 515,288 515,296 477,296 467,287 432,290 234,292 194,296 171,296 157,296 157,289 131,288 125,296 74,296 61,296" />
+				<Baseline points="61,291 124,289 620,288" />
+				<TextEquiv index="1">
+					<Unicode>tung diſes Namens von der Sibylla lib. 2.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="60,309 138,309 138,299 149,299 149,309 161,309 161,299 193,299 193,309 223,309 267,307 267,299 307,298 313,298 313,306 326,306 341,309 341,301 353,298 378,298 379,308 389,308 389,298 403,298 403,308 414,308 414,300 475,301 483,308 498,308 498,299 523,299 530,308 539,308 539,299 553,299 563,301 563,309 580,309 580,300 610,299 610,307 622,307 622,331 610,331 610,338 580,338 580,331 563,331 553,338 539,338 539,330 523,330 523,336 498,336 498,330 475,335 414,336 389,336 389,330 367,330 367,336 353,336 353,329 313,330 313,336 307,336 267,335 249,331 233,330 223,327 60,326" />
+				<Baseline points="60,330 622,331" />
+				<TextEquiv index="1">
+					<Unicode>oraculorum auch vorlaͤngſt iſt offenbahrt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="59,342 75,342 87,347 115,342 131,342 131,348 143,348 143,342 189,342 243,348 243,338 290,338 310,339 310,347 338,346 354,343 370,343 399,347 406,339 432,339 432,349 454,348 454,338 484,338 484,349 502,349 505,360 515,360 520,343 547,342 547,348 604,347 604,340 622,340 622,375 604,375 558,370 454,371 432,366 399,368 325,369 325,376 307,376 307,369 290,374 257,376 243,376 243,369 178,371 143,371 116,369 59,371" />
+				<Baseline points="59,369 514,366 622,367" />
+				<TextEquiv index="1">
+					<Unicode>worden/ in nachfolgenden Verſen, die auß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="58,382 88,382 115,386 125,378 168,378 180,381 180,387 191,387 191,378 265,378 265,386 313,382 323,378 333,377 376,377 376,387 393,387 403,381 420,381 427,356 444,356 456,377 470,377 470,386 498,385 505,360 519,360 519,386 542,386 546,378 621,378 621,416 603,416 603,409 584,409 584,416 546,416 542,409 496,411 487,429 467,429 467,410 456,410 444,433 427,433 427,410 403,408 376,415 333,415 307,410 265,409 265,415 191,415 191,408 168,408 168,415 125,415 74,410 58,410" />
+				<Baseline points="58,409 621,409" />
+				<TextEquiv index="1">
+					<Unicode>dem Griechiſchen alſo in das Latein ſeynd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l8" points="57,414 99,414 104,426 117,426 117,418 138,418 138,425 159,425 159,414 164,414 172,425 199,425 225,421 242,421 272,425 288,428 288,449 278,449 172,448 164,456 154,456 137,456 117,455 117,447 105,448 99,448 99,456 68,456 57,456" baseline="57,448 288,448" reason: second model: differs: "üuber" against "übers" | Wikisource: übersetzt worden: | next_nc_e1: uͤberſetzt worden:
+ | german_print2_15: üuberſetzt worden:
+ -->
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="59,457 87,457 97,461 97,468 112,468 112,452 129,452 129,461 143,461 143,467 176,467 190,452 234,452 234,467 294,467 299,456 339,456 339,466 354,466 354,460 360,460 374,465 377,456 395,456 395,435 416,435 423,464 449,464 463,466 463,435 479,435 479,466 490,466 490,435 546,435 546,465 571,464 583,462 586,439 589,439 589,462 623,462 623,485 546,486 546,507 490,507 490,495 479,495 479,507 463,507 463,495 447,495 447,485 424,485 424,503 416,507 395,507 395,485 234,484 234,500 217,500 217,485 204,485 204,500 190,500 176,485 159,490 143,486 129,486 129,500 112,500 112,485 59,486" />
+				<Baseline points="59,486 247,484 623,485" />
+				<TextEquiv index="1">
+					<Unicode>Nimirum Deus is finxit Tetragrammaton</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Nord oder Mitternacht/ und M bedeut
+Meſimbriam, Meridiem, gegen Mittag
+oder Sud; welche Erklaͤrung und Bedeu⸗
+tung diſes Namens von der Sibylla lib. 2.
+oraculorum auch vorlaͤngſt iſt offenbahrt
+worden/ in nachfolgenden Verſen, die auß
+dem Griechiſchen alſo in das Latein ſeynd
+Nimirum Deus is finxit Tetragrammaton</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="60,496 622,496 622,728 60,728" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="203,496 290,496 290,515 298,515 298,528 290,531 223,531 223,524 203,524" />
+				<Baseline points="203,524 298,524" />
+				<TextEquiv index="1">
+					<Unicode>Adam,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="63,535 85,535 85,514 90,514 90,535 113,535 122,539 128,546 141,546 141,507 162,507 206,507 206,545 223,545 234,535 243,535 243,507 255,507 258,528 261,528 261,535 280,535 280,545 295,545 295,525 307,525 319,533 364,533 364,558 374,558 394,537 424,537 439,545 452,545 452,539 487,539 497,545 558,545 558,538 568,538 568,545 602,546 602,564 471,563 471,573 439,573 424,564 394,564 374,571 351,573 351,563 336,563 336,573 319,573 307,563 255,563 255,578 243,578 243,563 206,563 206,578 186,578 186,564 162,564 162,578 141,578 128,574 122,562 113,562 113,572 63,572" />
+				<Baseline points="63,562 602,564" />
+				<TextEquiv index="1">
+					<Unicode>Qui primus fictus eſt, &amp; qui nomine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="212,575 231,575 231,585 246,585 246,575 305,575 305,582 318,582 318,607 280,607 231,607 212,607" />
+				<Baseline points="212,602 318,603" />
+				<TextEquiv index="1">
+					<Unicode>omplet,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l3" points="60,613 115,613 151,613 158,614 167,613 187,613 187,624 203,624 203,613 209,613 233,624 281,624 294,625 294,615 350,615 379,615 379,624 404,624 440,624 440,614 480,614 480,624 497,624 497,614 514,614 514,625 535,625 539,615 583,615 583,624 610,624 610,630 622,630 622,639 610,642 583,643 469,643 415,646 403,646 379,642 379,652 348,652 348,642 325,642 325,652 308,652 308,642 252,646 233,646 209,652 203,652 203,642 187,642 187,652 151,652 115,652 80,652 80,643 60,643" baseline="60,642 622,642" reason: second model: differs: "caſmque" against "casúmqu" | Wikisource: Ortúmque, occasúmque, austrum Bore | next_nc_e1: Ortúmque, occaſũmque, auſtrum Bore- | german_print2_15: Ortümque, occaſmque, auſtrum Bore- -->
+			<!-- line left out: id="r3l4" points="254,664 273,661 299,657 321,657 321,664 365,664 365,648 382,648 382,662 399,662 428,664 428,677 435,677 435,685 427,685 382,682 382,728 365,728 320,724 320,682 254,682" baseline="254,682 435,682" reason: differs: "uege" against "ámqu" | Wikisource:  | next_nc_e1: ue gentem.
+ | german_print2_15: ne Sgenie⸗
+ -->
+			<TextEquiv index="1">
+				<Unicode>Adam,
+Qui primus fictus eſt, &amp; qui nomine
+omplet,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="58,693 627,693 627,960 58,960" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="242,693 284,693 313,693 366,693 366,702 399,701 399,693 448,693 448,730 399,730 389,724 366,724 366,730 359,730 294,729 284,725 264,729 242,729" />
+				<Baseline points="242,730 448,730" />
+				<TextEquiv index="1">
+					<Unicode>Macht teutſch.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l1" points="59,730 96,730 96,739 126,739 141,731 144,731 189,731 189,740 199,740 221,741 235,732 298,732 302,695 330,695 330,701 341,701 388,702 388,733 404,733 405,741 432,741 443,732 481,731 591,731 591,740 601,740 623,741 623,764 591,764 591,772 553,772 550,765 515,766 481,766 421,764 405,763 404,770 386,770 376,764 341,769 316,769 296,766 235,764 189,763 189,769 144,769 141,769 96,765 59,765" baseline="59,765 125,764 220,763 623,762" reason: differs: "tenacht" against "en Mens" | Wikisource:  | next_nc_e1: Den erſten acht en hat GOTTer⸗ | german_print2_15: Den erſten Weuahn hat GOTTer⸗ -->
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="201,773 210,772 241,772 292,772 292,781 308,781 309,775 319,775 319,802 292,803 292,810 241,810 224,810 201,809" />
+				<Baseline points="201,809 319,810" />
+				<TextEquiv index="1">
+					<Unicode>ſchaffen/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="97,819 133,816 154,811 183,811 183,819 244,815 254,820 259,812 293,812 293,820 337,818 368,819 374,811 401,811 459,818 501,819 501,810 521,810 521,819 575,818 576,810 594,810 622,827 627,827 627,842 576,843 521,841 521,848 501,848 501,842 485,842 485,848 467,848 459,841 401,843 259,843 183,841 183,848 154,848 148,841 97,842" />
+				<Baseline points="97,842 627,842" />
+				<TextEquiv index="1">
+					<Unicode>und ihn mit Namen Adam genennt/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l4" points="58,850 115,850 150,850 155,857 173,853 183,853 196,858 211,859 213,851 302,851 316,853 316,859 331,859 331,851 347,851 347,859 377,859 387,845 401,845 401,855 414,855 414,845 427,845 439,858 452,858 464,859 464,849 505,849 505,859 519,858 546,858 546,849 581,849 606,863 617,863 617,867 606,867 581,887 546,887 546,880 505,880 505,887 464,887 464,880 439,880 427,893 414,893 414,881 401,881 401,893 387,893 377,881 333,882 316,882 316,888 240,888 213,883 174,882 155,882 150,888 113,888 93,888 93,882 77,882 77,888 58,888" baseline="58,882 210,881 617,879" reason: differs: "roͤfnen" against "röffnen" | Wikisource:  | next_nc_e1: Welch vier Buchſtaben uns eroͤfnen | german_print2_15: Welch vier Buchſtaben uns eroͤffnen -->
+			<!-- line left out: id="r4l5" points="97,889 120,885 142,885 187,885 187,899 231,898 242,898 242,885 264,885 264,897 297,897 297,885 334,885 334,898 353,898 359,890 373,890 373,884 387,884 387,899 400,899 415,890 433,890 433,897 468,893 507,893 520,897 524,884 551,884 574,889 574,897 585,897 585,888 605,888 605,946 585,946 585,921 551,921 551,950 524,950 520,921 448,921 400,926 387,926 387,932 373,932 359,928 353,921 334,921 334,965 297,965 297,922 278,922 278,960 264,965 242,965 235,961 201,961 201,922 187,922 187,933 170,933 142,928 142,947 120,947 97,943" baseline="97,922 165,921 605,920" reason: differs: "Daße" against "ffne" | Wikisource:  | next_nc_e1: Daß er anommmen ſey von der Welt | german_print2_15: Daß er namutden ſey von der Welt -->
+			<TextLine id="r4l6" custom="readingOrder {index:6;}">
+				<Coords points="235,934 267,934 267,960 235,960" />
+				<Baseline points="235,960 267,960" />
+				<TextEquiv index="1">
+					<Unicode>nd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Macht teutſch.
+ſchaffen/
+und ihn mit Namen Adam genennt/
+nd</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="59,939 620,939 620,1118 59,1118" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="59,968 84,968 126,971 183,969 252,969 252,978 276,979 276,971 291,971 291,978 308,978 308,971 314,971 314,978 379,976 384,968 461,968 467,976 496,976 498,939 515,939 515,968 542,968 542,939 560,939 560,967 578,967 588,943 608,943 608,971 620,971 620,1002 560,998 560,1018 542,1018 536,1014 515,1018 498,1018 496,999 461,1004 433,1004 407,999 387,998 387,1004 349,1000 349,1006 332,1006 332,999 252,999 252,1006 183,1006 183,1000 158,1000 153,1006 122,1006 116,999 84,1002 59,1002" />
+				<Baseline points="59,1002 115,1000 620,998" />
+				<TextEquiv index="1">
+					<Unicode>Und iſt diß Vorbringen billich zu glauben/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="59,1008 72,1008 72,1016 96,1016 96,1008 114,1008 114,1017 142,1018 147,1012 164,1012 176,1017 176,1009 194,1009 204,1016 214,1016 214,1010 254,1010 254,1017 284,1018 290,1008 336,1008 336,1017 359,1017 359,1008 397,1008 397,1016 427,1016 433,1008 454,1005 471,1005 471,1017 482,1017 482,1008 499,1005 516,1005 537,1005 573,1005 574,1007 586,1005 603,1005 603,1015 619,1015 619,1044 586,1044 586,1038 573,1038 573,1044 556,1044 556,1038 516,1038 516,1044 482,1044 482,1038 471,1038 471,1044 454,1044 433,1039 397,1037 397,1045 359,1045 359,1038 336,1038 336,1045 319,1045 290,1040 274,1039 254,1039 254,1045 214,1045 214,1039 204,1039 194,1045 176,1045 176,1039 59,1040" />
+				<Baseline points="59,1038 619,1038" />
+				<TextEquiv index="1">
+					<Unicode>weilen deß erſten Menſchen Nachkoͤmling</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l2" points="59,1046 106,1046 121,1050 121,1057 136,1057 143,1048 169,1048 176,1049 176,1055 213,1051 223,1051 248,1056 252,1047 300,1047 360,1047 369,1048 392,1051 404,1055 420,1056 421,1047 446,1042 468,1042 512,1042 561,1046 561,1054 572,1054 572,1078 561,1083 538,1083 538,1116 523,1116 523,1084 512,1084 512,1120 495,1120 495,1079 476,1080 468,1080 468,1120 446,1120 446,1079 404,1080 391,1080 369,1079 360,1080 341,1081 300,1081 252,1081 235,1080 194,1080 157,1080 143,1079 106,1085 59,1085" baseline="59,1080 419,1078 421,1078 572,1079" reason: differs: "tſoche" against " solche" | Wikisource:  | next_nc_e1: ſich in alle vier Winckel der Weltſoche
+ | german_print2_15: fich in alle vier Winckel der Weleſihe u
+ -->
+			<TextLine id="r5l3" custom="readingOrder {index:3;}">
+				<Coords points="523,1087 538,1087 539,1094 552,1094 552,1087 572,1087 572,1094 585,1094 585,1087 602,1087 606,1098 615,1098 615,1114 602,1118 539,1118 523,1116" />
+				<Baseline points="523,1118 615,1118" />
+				<TextEquiv index="1">
+					<Unicode>bewoh⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Und iſt diß Vorbringen billich zu glauben/
+weilen deß erſten Menſchen Nachkoͤmling
+bewoh⸗</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+zweyte A bedeute Arcton, id est, gegen Nord oder Mitternacht / und M bedeut Mesimbriam, Meridiem, gegen Mittag oder Sud; welche Erklärung und Bedeutung dises Namens von der Sibylla lib. 2. oraculorum auch vorlängst ist offenbahrt worden / in nachfolgenden Versen, die auß dem Griechischen also in das Latein seynd übersetzt worden:
+Nimirum Deus is finxit Tetragrammaton Adam,
+Qui primus fictus est, & qui nomine complet,
+Ortúmque, occasúmque, austrum Boreámque rigentem.
+Macht teutsch.
+Den ersten Menschen hat GOTT erschaffen /
+und ihn mit Namen Adam genennt /
+Welch vier Buchstaben uns eröffnen
+Daß er gnommen sey von der Welt End.
+Und ist diß Vorbringen billich zu glauben / weilen deß ersten Menschen Nachkömling sich in alle vier Winckel der Welt solche zubewohnen /
+-->
+	</Page>
+</PcGts>

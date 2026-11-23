@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:11:20</Created>
+		<LastChange>2026-11-23T11:11:20</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:De_Schachzabel_Spiel_(Köbel).djvu/1 revision 3255019 of 2018-07-31T14:14:58Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="schachzabel_1520_0001.png" imageWidth="1614" imageHeight="2245">
+		<ReadingOrder>
+			<OrderedGroup id="ro5520066051236178683" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="0,0 1614,0 1614,56 0,56" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="256,123 1336,123 1336,399 256,399" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="479,129 523,129 523,123 653,123 653,142 688,142 688,124 735,123 775,123 775,141 845,144 845,129 1053,129 1053,143 1099,143 1099,129 1125,129 1125,146 1160,146 1160,129 1208,129 1208,201 1099,200 1099,209 1014,209 1014,201 896,202 796,199 796,212 735,212 688,209 688,197 653,197 653,212 568,212 523,212 523,199 479,199" />
+				<Baseline points="479,199 1208,201" />
+				<TextEquiv index="1">
+					<Unicode>Schachʒabel Spiel.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l1" points="256,163 678,163 692,223 739,223 739,233 779,232 805,232 805,242 851,242 851,223 886,223 886,242 938,242 938,231 962,231 1023,232 1023,223 1064,223 1064,236 1106,236 1110,242 1125,242 1144,234 1178,231 1214,231 1214,223 1255,223 1255,252 1277,252 1277,230 1336,230 1336,321 1277,321 1277,309 1255,309 1255,325 1214,325 1214,308 1178,308 1144,305 1125,318 1110,318 1106,306 1064,306 1064,325 1023,325 984,320 984,305 962,306 886,306 886,325 851,325 851,306 780,308 739,308 739,325 692,325 678,399 256,399" baseline="256,302 677,306 1144,306 1336,309" reason: differs: "SRit" against "DEß " | Wikisource:  | next_nc_e1: S Ritterlichẽ/ kůnſt
+ | german_print2_15: Ses Ritterlichẽ / kůnſt
+ -->
+			<TextEquiv index="1">
+				<Unicode>Schachʒabel Spiel.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="171,310 1338,310 1338,593 171,593" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="546,320 582,320 582,310 600,310 600,318 623,318 644,322 659,315 689,311 716,311 716,332 729,332 729,319 757,319 758,331 784,331 784,319 820,319 820,311 838,311 838,331 861,331 879,333 879,311 901,311 901,321 959,318 1013,318 1013,333 1036,333 1052,335 1052,325 1087,325 1087,333 1154,333 1182,335 1182,326 1233,326 1233,334 1251,332 1283,332 1283,326 1309,326 1309,334 1336,334 1336,373 1283,373 1283,366 1233,366 1233,373 1207,373 1207,366 1154,367 1037,365 1036,374 987,374 987,365 901,363 901,389 879,389 879,366 861,366 861,373 838,373 838,389 820,389 820,371 785,371 785,385 758,385 757,370 729,370 729,362 716,362 716,389 689,389 689,361 623,362 623,370 600,374 582,374 582,362 560,362 546,359" />
+				<Baseline points="546,360 1336,367" />
+				<TextEquiv index="1">
+					<Unicode>lichẽ Schachtʒabel Spiels vnderwey</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l1" points="505,401 652,401 670,379 675,379 715,384 732,386 732,375 748,375 748,388 778,387 789,387 789,368 813,368 813,386 825,386 854,387 886,388 886,382 898,382 937,387 937,376 956,376 973,387 1002,387 1041,389 1041,374 1081,374 1081,390 1128,386 1144,382 1181,382 1181,368 1228,368 1228,382 1250,378 1279,378 1279,390 1317,389 1338,389 1338,421 1298,421 1279,420 1279,430 1250,430 1228,427 1228,434 1181,434 1181,427 1144,427 1144,421 1127,422 1099,422 1081,421 1081,430 1041,430 1041,419 1021,420 937,420 913,418 898,424 888,429 853,429 853,419 813,419 813,434 789,434 789,418 733,418 675,421 652,425 635,428 608,428 608,417 591,417 567,416 567,424 533,428 505,428" baseline="505,416 670,417 1338,421" reason: models differ | Wikisource: sung/ erclaͤrung/ vnd verstant/ wo here | next_nc_e1:  ſung/ erclaͤrung/ vñ verſtant/ wo here
+ | german_print2_15: v ſung / erclaͤrung / vñ verſtant / wo here
+ -->
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="546,430 573,430 575,439 629,437 649,427 669,427 669,440 727,440 727,423 759,423 759,441 851,436 876,436 876,423 924,423 924,443 944,443 964,433 992,433 992,442 1020,439 1046,439 1132,443 1145,429 1151,429 1151,444 1169,444 1169,429 1233,429 1233,443 1320,443 1337,447 1337,475 1320,477 1233,476 1233,485 1169,485 1169,476 1151,476 1151,485 1145,485 1132,476 992,476 924,474 924,489 876,489 876,478 851,478 759,472 759,489 727,489 727,472 546,471" />
+				<Baseline points="546,471 649,471 825,475 1337,475" />
+				<TextEquiv index="1">
+					<Unicode>das kommen/ were das am erſten er⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="543,483 563,481 590,481 590,494 618,494 618,485 646,485 646,495 695,494 701,487 724,487 729,494 814,496 814,488 841,488 857,497 911,496 914,486 943,486 957,498 982,496 1052,496 1065,484 1077,484 1077,496 1112,497 1114,484 1138,484 1138,498 1174,498 1174,486 1205,486 1219,497 1338,499 1338,532 1277,532 1219,530 1205,538 1174,538 1174,532 1138,532 1138,540 1114,540 1112,530 1077,529 1077,540 1065,540 1052,531 982,531 957,529 943,537 914,537 911,529 814,528 701,531 646,527 568,526 568,535 543,535" />
+				<Baseline points="543,526 1338,532" />
+				<TextEquiv index="1">
+					<Unicode>fuͦnden/ vnnd auß was vꝛſach es er⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="171,531 193,530 214,530 214,540 247,541 247,530 296,530 326,533 326,548 360,549 360,542 382,542 388,535 428,535 428,547 475,548 475,534 503,534 512,546 539,546 539,537 593,537 598,549 696,549 704,540 746,540 746,548 785,548 793,539 828,537 853,537 853,551 870,551 870,537 919,537 936,540 936,552 950,552 950,539 1008,541 1008,553 1032,553 1032,541 1053,541 1053,552 1072,552 1072,541 1097,541 1097,551 1154,552 1154,543 1173,543 1173,554 1187,554 1187,540 1216,540 1216,552 1240,552 1240,540 1261,540 1261,552 1277,543 1334,543 1334,585 1261,586 1261,593 1240,593 1240,586 1216,586 1216,593 1187,593 1187,584 1154,584 1154,590 1136,590 990,583 979,592 950,592 950,584 919,583 919,591 870,592 870,583 853,583 853,592 828,592 828,583 628,582 512,579 503,587 475,587 475,580 382,584 338,584 326,579 326,586 302,586 247,583 247,573 214,573 214,583 193,583 193,572 171,572" />
+				<Baseline points="171,571 295,577 592,581 784,581 1334,586" />
+				<TextEquiv index="1">
+					<Unicode>dacht ſey/ Auch wie man das kuͦnſtlich lernen ʒiehen vñ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>lichẽ Schachtʒabel Spiels vnderwey
+das kommen/ were das am erſten er⸗
+fuͦnden/ vnnd auß was vꝛſach es er⸗
+dacht ſey/ Auch wie man das kuͦnſtlich lernen ʒiehen vñ</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="171,581 1337,581 1337,666 171,666" />
+			<!-- line left out: id="r3l0" points="171,581 195,581 195,594 214,594 214,585 233,585 233,597 248,597 248,588 264,588 264,600 309,600 317,588 339,588 339,602 357,602 358,592 374,592 389,593 389,604 407,604 407,596 421,596 439,589 450,589 450,603 495,603 495,584 518,584 518,602 556,601 602,601 602,593 617,592 631,592 631,584 655,584 655,592 679,592 694,595 707,584 726,584 726,591 748,591 748,584 771,584 771,606 784,606 784,591 818,591 832,594 849,594 849,584 872,584 872,594 890,594 890,584 917,584 921,606 941,606 941,588 963,588 963,604 980,604 980,588 1007,588 1007,606 1024,606 1024,588 1046,588 1046,596 1063,596 1063,588 1085,588 1085,607 1111,607 1118,593 1141,593 1141,606 1160,606 1160,596 1178,596 1194,593 1216,593 1216,609 1230,607 1274,606 1293,606 1294,598 1323,598 1323,623 1337,623 1337,640 1319,640 1293,639 1258,641 1230,641 1216,639 1216,648 1194,648 1194,639 1160,639 1160,648 1133,648 1118,647 1111,639 1085,639 1085,666 1046,666 1024,666 1024,646 1007,646 1007,666 980,666 980,638 963,638 963,666 941,666 941,647 921,647 917,665 872,665 849,665 847,661 847,637 831,637 818,635 818,645 784,645 784,638 771,638 771,665 748,665 748,636 726,636 726,665 707,665 694,636 679,636 679,644 655,644 655,665 631,665 631,634 618,635 564,635 556,634 537,643 518,643 518,665 495,665 495,635 450,635 450,641 439,641 407,638 389,635 373,634 339,633 339,640 317,640 309,632 281,632 263,631 249,630 230,630 214,628 214,636 187,636 171,635" baseline="171,628 308,632 317,632 693,635 1274,639 1337,640" reason: differs: "lenꝛc." against "en etc." | Wikisource:  | next_nc_e1: ſpielen ſolle/ ſampt etlichẽ kůnſtlichẽ geteylten ſpielen ꝛc.
+ | german_print2_15: ſpielen ſolle / ſampt etlichẽ kůnſtlichẽ geteylten ſpielen ꝛc.
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {3;}">
+			<Coords points="281,728 303,728 303,841 281,841" />
+			<!-- line left out: id="r4l0" points="281,728 303,728 303,841 281,841" baseline="299,841 302,728" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: —
+ | german_print2_15: S
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="279,843 325,843 325,1039 279,1039" />
+			<!-- line left out: id="r5l0" points="283,843 286,843 286,855 283,855" baseline="283,855 286,855" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 1
+ | german_print2_15: ¹
+ -->
+			<!-- line left out: id="r5l1" points="279,904 318,904 318,933 279,933" baseline="279,925 318,925" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: H
+ | german_print2_15: „*
+ -->
+			<!-- line left out: id="r5l2" points="279,992 299,992 317,1004 325,1004 325,1015 317,1015 279,1012" baseline="279,1012 325,1012" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 2 4 | german_print2_15:  -->
+			<!-- line left out: id="r5l3" points="287,1019 314,1019 314,1039 287,1039" baseline="287,1029 314,1029" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: —
+ | german_print2_15: 2
+ -->
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="252,704 1262,704 1262,1638 252,1638" />
+		</GraphicRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="355,1642 1171,1642 1171,2027 355,2027" />
+			<!-- line left out: id="r7l0" points="461,1651 523,1648 567,1648 567,1642 598,1642 613,1648 643,1648 643,1658 662,1657 705,1657 721,1643 773,1643 774,1659 793,1659 793,1646 821,1646 822,1658 850,1658 867,1659 867,1646 897,1646 897,1658 911,1658 911,1643 935,1643 935,1649 960,1648 975,1643 999,1643 999,1662 1044,1662 1044,1695 1010,1695 999,1694 999,1702 975,1702 960,1701 960,1692 935,1692 935,1702 896,1702 867,1698 867,1691 850,1692 822,1692 821,1699 793,1699 793,1691 774,1691 748,1689 748,1702 721,1702 705,1689 662,1689 613,1687 569,1685 569,1695 523,1695 517,1689 461,1689" baseline="461,1683 613,1686 704,1688 721,1689 1044,1693" reason: second model: differs: "HZuͦd" against "ter " | Wikisource: Zuͦ dem Schachtzieher. | next_nc_e1:  Zů dem Schachtzieher. | german_print2_15: H Zů dem Schachtzieher. -->
+			<TextLine id="r7l1" custom="readingOrder {index:1;}">
+				<Coords points="355,1696 471,1696 478,1709 612,1710 620,1697 714,1697 714,1711 734,1711 734,1697 790,1698 790,1705 806,1705 812,1714 840,1714 840,1703 859,1703 859,1714 875,1714 875,1700 903,1700 903,1713 923,1713 932,1706 960,1702 1047,1702 1052,1703 1052,1718 1063,1718 1063,1703 1092,1703 1092,1758 1063,1758 1063,1749 1052,1749 1052,1758 980,1758 980,1746 903,1746 903,1755 875,1755 875,1746 840,1746 806,1749 790,1752 755,1753 620,1753 612,1742 567,1742 567,1752 519,1752 519,1742 499,1742 499,1752 478,1752 471,1741 355,1740" />
+				<Baseline points="355,1740 478,1741 805,1748 932,1746 1092,1749" />
+				<TextEquiv index="1">
+					<Unicode>Dein augen ſcherpff/ nicht überſeh</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l2" custom="readingOrder {index:2;}">
+				<Coords points="357,1750 419,1750 449,1752 449,1765 493,1765 508,1755 529,1755 529,1765 575,1765 575,1755 625,1755 625,1765 645,1765 645,1755 666,1755 666,1766 703,1766 703,1756 779,1756 779,1768 821,1767 821,1757 884,1757 884,1770 898,1770 898,1756 927,1756 944,1772 1018,1771 1018,1759 1078,1760 1078,1773 1117,1773 1117,1759 1146,1759 1146,1768 1171,1768 1171,1813 1146,1815 1117,1815 1117,1804 1097,1804 1097,1814 1055,1814 1018,1812 1018,1803 927,1809 898,1809 898,1801 850,1799 850,1806 798,1808 798,1798 779,1798 779,1807 750,1809 741,1803 704,1807 679,1807 679,1797 666,1797 666,1807 645,1807 645,1796 625,1796 625,1807 599,1807 599,1796 576,1796 576,1803 551,1803 551,1796 529,1796 529,1807 508,1807 493,1795 357,1795" />
+				<Baseline points="357,1795 750,1797 926,1802 1171,1805" />
+				<TextEquiv index="1">
+					<Unicode>Deim wyderteyl/ fleyßlich nach ſpeh/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l3" custom="readingOrder {index:3;}">
+				<Coords points="363,1805 498,1804 659,1808 689,1811 689,1818 705,1818 705,1810 737,1810 737,1800 781,1800 781,1810 794,1808 840,1808 840,1823 853,1823 853,1813 894,1814 903,1823 958,1824 958,1816 995,1813 1058,1813 1058,1827 1102,1828 1102,1822 1126,1822 1126,1864 1102,1864 1082,1859 1058,1858 1058,1864 1030,1864 959,1857 854,1854 840,1859 794,1859 781,1857 781,1868 737,1868 737,1857 705,1857 659,1852 659,1860 560,1860 525,1857 525,1849 498,1849 498,1858 476,1858 468,1848 363,1848" />
+				<Baseline points="363,1847 786,1852 1126,1859" />
+				<TextEquiv index="1">
+					<Unicode>Wie ſich gebürt/ im Feld vnd Heer/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l4" custom="readingOrder {index:4;}">
+				<Coords points="360,1856 415,1856 415,1870 434,1870 434,1860 477,1860 498,1863 498,1871 539,1873 540,1863 596,1863 647,1865 647,1872 683,1872 691,1862 712,1862 712,1877 724,1877 724,1863 741,1862 810,1864 843,1867 844,1877 897,1877 898,1865 925,1865 961,1870 962,1880 1069,1880 1069,1874 1093,1874 1093,1881 1116,1881 1116,1874 1141,1874 1141,1918 1093,1918 1069,1918 1069,1912 880,1914 844,1909 765,1907 765,1915 741,1915 724,1914 724,1907 712,1907 712,1915 691,1915 683,1906 360,1903" />
+				<Baseline points="360,1900 595,1905 880,1908 1141,1914" />
+				<TextEquiv index="1">
+					<Unicode>Dein volck das ſchick du ʒuͦ der weer/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l5" custom="readingOrder {index:5;}">
+				<Coords points="355,1913 413,1913 481,1918 481,1926 513,1925 515,1918 543,1918 543,1927 589,1927 598,1920 638,1920 638,1927 678,1927 692,1917 702,1917 712,1929 742,1929 742,1917 798,1917 804,1931 860,1930 868,1922 906,1922 906,1932 945,1932 952,1919 986,1919 986,1934 1046,1931 1064,1928 1088,1928 1088,1971 1064,1971 1064,1965 1047,1965 1047,1973 1023,1973 1023,1965 986,1965 986,1973 952,1973 945,1964 804,1962 798,1969 742,1969 742,1961 702,1961 702,1969 692,1969 678,1961 614,1961 598,1959 495,1957 355,1957" />
+				<Baseline points="355,1956 588,1958 1088,1966" />
+				<TextEquiv index="1">
+					<Unicode>Vnd oꝛden das recht an den ſtreyt/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l6" custom="readingOrder {index:6;}">
+				<Coords points="356,1965 411,1965 411,1979 481,1973 496,1968 521,1968 536,1970 536,1981 556,1981 574,1983 574,1968 607,1968 607,1982 623,1982 623,1970 640,1968 665,1968 665,1978 692,1978 723,1983 723,1974 744,1974 744,1984 772,1984 772,1974 797,1974 831,1977 831,1983 850,1983 850,1977 887,1977 888,1986 934,1986 941,1976 971,1976 971,1987 990,1987 990,1976 1011,1976 1011,1985 1031,1985 1031,2019 1011,2019 1011,2027 951,2027 951,2017 804,2018 744,2015 744,2025 698,2025 665,2021 623,2021 623,2014 536,2013 521,2011 521,2021 496,2021 496,2012 356,2012" />
+				<Baseline points="356,2010 1031,2019" />
+				<TextEquiv index="1">
+					<Unicode>Ders überſicht/ gerñ vnden leyt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Dein augen ſcherpff/ nicht überſeh
+Deim wyderteyl/ fleyßlich nach ſpeh/
+Wie ſich gebürt/ im Feld vnd Heer/
+Dein volck das ſchick du ʒuͦ der weer/
+Vnd oꝛden das recht an den ſtreyt/
+Ders überſicht/ gerñ vnden leyt.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="268,2034 1228,2034 1228,2133 268,2133" />
+			<TextLine id="r8l0" custom="readingOrder {index:0;}">
+				<Coords points="268,2034 360,2034 360,2053 387,2053 387,2045 455,2045 455,2035 478,2034 521,2034 521,2056 539,2056 539,2036 619,2036 628,2053 659,2053 659,2036 711,2036 810,2038 811,2057 994,2060 995,2042 1026,2038 1076,2038 1076,2061 1120,2061 1120,2038 1169,2038 1169,2063 1228,2063 1228,2123 1169,2123 1169,2133 1026,2133 995,2131 994,2119 944,2119 909,2115 908,2127 811,2127 810,2114 660,2113 660,2125 628,2125 619,2112 268,2113" />
+				<Baseline points="268,2112 723,2113 1228,2124" />
+				<TextEquiv index="1">
+					<Unicode>Getruͦckt ʒuͦ Oppenheym.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Getruͦckt ʒuͦ Oppenheym.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Schachzabel Spiel.
+DEß Ritterlichen / kuͦnstlichen Schachtzabel Spiels vnderweysung / erclaͤrung / vnd verstant / wo here das kommen / were das am ersten erfuͦnden / vnnd auß was vrsach es erdacht sey / Auch wie man das kuͦnstlich lernen ziehen vnd spielen solle / sampt etlichen kuͦnstlichen geteylten spielen etc.
+350px|center
+|
+Zuͦ dem Schachtzieher.
+Dein augen scherpff / nicht überseh
+Deim wyderteyl / fleyßlich nach speh /
+Wie sich gebürt / im Feld vnd Heer /
+Dein volck das schick du zuͦ der weer /
+Vnd orden das recht an den streyt /
+Ders übersicht / gernn vnden leyt.
+Getruͦckt zuͦ Oppenheym.
+-->
+	</Page>
+</PcGts>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T08:00:04</Created>
+		<LastChange>2026-11-23T08:00:04</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Ein_kurtzweilig_lesen_von_Dyl_Vlenspiegel.djvu/13 revision 3306541 of 2018-07-31T21:30:34Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="vlenspiegel_1515_0013.png" imageWidth="1456" imageHeight="2098">
+		<ReadingOrder>
+			<OrderedGroup id="ro2720323404198491629" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="463,166 975,166 975,242 463,242" />
+			<!-- line left out: id="r0l0" points="463,171 567,171 567,184 684,180 785,180 838,166 843,166 944,166 945,174 975,174 975,237 944,239 785,242 463,242" baseline="463,242 784,238 975,237" reason: differs: "Dasv" against "iung" | Wikisource:  | next_nc_e1: Das vu blat
+ | german_print2_15: Das Vu blat
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="152,264 1280,264 1280,580 152,580" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="156,274 172,274 172,286 258,283 259,274 280,274 289,291 312,291 312,278 325,278 325,264 350,264 350,290 387,286 409,286 409,264 430,264 430,288 451,288 461,271 493,271 493,289 513,287 564,288 564,276 610,276 610,287 627,285 684,285 684,264 705,264 705,275 735,272 766,272 766,287 804,286 804,268 827,268 847,273 847,285 870,285 878,274 899,274 900,286 972,285 972,273 991,273 999,284 1030,284 1032,270 1070,268 1109,268 1139,273 1146,286 1159,286 1159,269 1223,269 1250,274 1250,286 1278,286 1278,320 1248,320 1233,318 1223,328 1159,328 1159,317 1146,317 1139,326 1070,326 1061,315 972,317 900,317 870,315 827,316 827,324 804,324 804,317 782,317 766,315 766,327 735,327 726,317 705,317 705,335 684,335 684,318 430,321 430,335 409,335 409,321 350,321 350,335 325,335 325,322 289,322 259,320 258,331 230,331 227,318 156,316" />
+				<Baseline points="156,316 279,320 869,315 1070,315 1278,320" />
+				<TextEquiv index="1">
+					<Unicode>iungẽ oder voꝛ den alten nit herfür kumẽ vñ ſaß alſo in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l1" points="152,332 183,332 184,338 207,338 243,341 243,353 268,353 272,339 301,339 341,342 386,338 417,338 432,341 433,352 462,351 480,351 544,351 544,334 581,334 583,347 603,347 640,348 680,350 682,337 708,337 735,339 760,339 762,350 782,350 783,343 814,343 834,344 834,350 851,350 860,337 889,337 889,352 906,352 906,338 917,338 919,348 944,348 944,331 965,331 1005,331 1005,349 1014,349 1017,339 1043,339 1043,331 1064,331 1115,331 1115,349 1135,349 1146,340 1160,335 1253,335 1280,336 1280,393 1228,393 1228,381 1217,381 1217,393 1185,393 1160,393 1146,390 1135,378 1115,378 1115,387 1079,388 1064,391 1043,391 1043,377 1014,378 1005,378 1005,391 944,391 944,379 889,379 889,389 860,389 851,377 834,378 814,378 814,389 783,389 782,379 762,379 735,378 735,389 723,389 708,378 680,380 640,381 602,381 581,380 569,382 462,383 432,384 417,384 417,394 386,394 372,382 326,382 317,382 301,392 272,392 268,382 243,382 243,391 213,391 207,380 184,380 152,377" baseline="152,381 707,378 1134,377 1280,377" reason: differs: "ſchuuͦch" against "schuͦch " | Wikisource:  | next_nc_e1: dẽ huß bei ſeiner můter vñ bletzte helmſteteſche ſchuůch | german_print2_15: dẽ huß bei ſeiner můter vñ bletzte helmſteteſche ſchůch -->
+			<!-- line left out: id="r1l2" points="154,394 187,394 188,413 213,413 221,407 240,407 240,414 260,414 283,416 284,407 327,407 337,400 369,400 382,405 385,414 451,414 451,399 511,399 536,404 536,413 565,409 597,409 613,412 613,402 638,402 638,410 653,410 657,402 687,402 699,413 717,411 737,411 737,397 761,397 804,397 804,410 823,410 823,397 844,397 844,404 868,404 875,411 908,411 909,399 936,399 949,410 972,410 972,395 997,395 997,412 1010,412 1010,395 1024,395 1024,403 1070,403 1089,395 1123,395 1140,400 1141,412 1166,412 1187,397 1251,397 1277,398 1277,452 1251,454 1187,454 1166,442 1125,442 1123,448 1089,448 1070,439 1024,440 997,442 949,442 868,441 844,441 844,450 823,450 823,440 804,440 804,450 784,450 784,439 761,439 761,450 737,450 737,440 717,441 699,441 687,452 657,452 653,442 638,442 638,456 613,456 613,441 597,441 597,456 565,456 556,443 536,444 511,446 472,446 369,450 337,450 240,445 221,445 188,442 154,441" baseline="154,441 867,440 1069,439 1277,442" reason: differs: "dawa" against "chuͦc" | Wikisource:  | next_nc_e1: da ward ſein muͤter gantz erfroͤwet vñ meint ſein ſach | german_print2_15: da ward ſein můter gantz erfroͤwet vñ meint ſein ſach -->
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="154,457 178,457 178,476 192,476 196,462 208,462 225,466 234,474 261,474 283,476 283,461 328,461 334,474 366,474 366,462 393,462 395,475 469,477 469,463 546,463 553,476 571,476 571,466 605,466 607,475 643,475 652,460 669,460 669,452 689,452 689,475 748,476 749,462 766,462 766,452 791,452 791,462 833,459 875,459 875,466 893,466 902,456 931,456 933,462 946,462 946,474 976,472 1058,472 1076,458 1108,458 1108,475 1179,475 1197,459 1270,459 1270,519 1197,519 1179,504 1137,505 1125,514 1103,514 1103,505 893,502 833,503 808,516 791,516 791,523 766,523 766,504 748,506 689,507 689,523 669,523 669,514 652,514 643,507 366,507 366,517 283,517 283,505 234,506 178,503 178,514 154,514" />
+				<Baseline points="154,503 962,502 1270,505" />
+				<TextEquiv index="1">
+					<Unicode>ſolt noch guͦt werdẽ aber ſie wüßt nit die mer dʒ er ſich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l4" points="153,535 179,535 179,524 192,522 215,522 215,540 235,539 261,539 261,523 282,523 282,539 297,539 297,523 330,523 376,523 376,540 392,540 392,529 414,529 414,523 435,523 499,526 499,539 516,539 517,531 534,531 543,522 572,522 572,538 589,538 674,539 675,527 712,523 742,523 742,540 756,540 756,519 772,519 818,519 818,533 827,533 839,517 863,517 863,523 881,523 882,536 902,536 909,520 939,520 939,534 954,534 963,523 992,523 992,535 1018,535 1018,523 1048,523 1077,524 1077,536 1104,536 1149,537 1196,538 1212,527 1253,527 1253,554 1268,554 1268,571 1227,571 1212,571 1167,569 1104,567 1077,567 1055,566 1048,575 1018,575 1018,566 992,566 992,572 954,575 933,575 933,566 902,567 881,568 863,568 863,580 839,580 827,568 818,568 818,577 772,577 756,577 756,567 742,570 689,570 619,570 589,575 569,575 569,569 499,569 499,575 472,575 463,569 435,569 435,580 414,580 414,571 376,571 376,580 297,580 297,569 282,569 282,580 261,580 261,569 235,569 215,567 215,573 192,573 179,568 153,565" baseline="153,566 1055,566 1212,568 1268,569" reason: differs: "mencc." against "en etc." | Wikisource:  | next_nc_e1: alſo verſchalckt het dz er nit doꝛfft für dz huß kumen cc.
+ | german_print2_15: alſo verſchalckt het dʒ er nit doꝛfft für dz huß kumen ꝛc.
+ -->
+			<TextEquiv index="1">
+				<Unicode>iungẽ oder voꝛ den alten nit herfür kumẽ vñ ſaß alſo in
+ſolt noch guͦt werdẽ aber ſie wüßt nit die mer dʒ er ſich</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="209,598 1263,598 1263,710 209,710" />
+			<!-- line left out: id="r2l0" points="209,609 249,609 392,609 392,617 415,617 415,598 445,598 445,629 472,629 472,617 506,617 506,598 535,598 562,619 590,619 590,598 620,598 620,616 632,612 682,612 682,631 747,631 748,614 789,612 865,612 865,628 902,628 902,617 928,617 968,631 1011,631 1015,613 1034,613 1038,628 1074,628 1096,602 1180,602 1180,616 1263,616 1263,689 1216,694 1143,694 1143,684 1034,684 1011,685 968,685 905,683 905,698 789,698 771,684 747,686 722,686 682,683 682,706 632,706 629,686 620,686 620,710 590,710 590,687 562,687 535,710 506,710 506,693 472,693 472,685 445,685 445,710 415,710 415,688 385,688 291,684 209,684" baseline="209,684 347,682 357,682 1096,683 1263,689" reason: differs: "Dief" against "kume" | Wikisource:  | next_nc_e1: Die fünfft hiſtoꝛi ſagt wie Thil
+ | german_print2_15: Die fünfft hiſtoꝛi ſagt wie Thil
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="145,693 1268,693 1268,760 145,760" />
+			<!-- line left out: id="r3l0" points="145,693 202,693 202,704 213,704 213,714 258,714 260,700 284,700 284,716 299,716 300,706 330,706 360,709 360,715 379,715 379,703 390,703 391,715 414,715 425,699 498,699 498,716 541,716 552,703 566,703 567,713 596,713 656,713 656,698 683,698 683,704 695,704 697,713 726,713 726,698 753,698 753,713 771,713 790,714 790,705 804,705 806,698 840,698 840,713 900,713 900,702 922,702 922,714 940,714 940,702 979,698 1020,698 1020,713 1112,713 1138,718 1140,707 1154,707 1154,717 1182,717 1193,706 1245,706 1245,712 1268,712 1268,751 1245,751 1245,760 1193,760 1182,749 1154,750 1140,750 1119,749 1071,747 998,745 979,743 922,742 865,743 840,743 840,754 806,754 804,743 790,744 771,744 753,742 753,754 726,754 726,744 683,744 683,754 656,754 656,744 637,745 541,746 490,746 464,746 425,745 390,744 360,744 360,755 330,755 330,744 300,744 299,756 273,756 260,753 258,743 213,745 202,745 195,756 173,756 173,744 145,744" baseline="145,744 879,742 979,742 1071,745 1111,747 1268,751" reason: differs: "Vien" against "tc. " | Wikisource:  | next_nc_e1: Vienſplegele mům in vnderweiſen wolt das er ein hãt
+ | german_print2_15: Vlenſplegels mům in vnderweiſen wolt das er ein hãt
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="519,958 691,958 691,1054 519,1054" />
+			<!-- line left out: id="r4l0" points="519,977 528,977 546,978 635,958 691,958 691,979 635,979 546,996 526,996 526,985 519,985" baseline="519,985 545,984 691,984" reason: differs: "KW—" against "ntwe" | Wikisource:  | next_nc_e1: KW — | german_print2_15: N = -->
+			<!-- line left out: id="r4l1" points="624,987 670,987 670,1000 624,1000" baseline="624,999 670,999" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — | german_print2_15:  -->
+			<!-- line left out: id="r4l2" points="578,1039 623,1039 623,1054 578,1054" baseline="578,1053 623,1053" reason: differs: "S—" against "wolt" | Wikisource:  | next_nc_e1: S—
+ | german_print2_15: –☛
+ -->
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="143,792 1276,792 1276,2022 143,2022" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+iungen oder vor den alten nit herfür kumen vnd saß also in
+dem huß bei seiner muͦter vnd bletzte helmstetesche schuͦch
+da ward sein muͦter gantz erfroͤwet vnd meint sein sach
+solt noch guͦt werden aber sie wüßt nit die mer dz er sich
+also verschalckt het dz er nit dorfft für dz huß kumen etc.
+Vlenspiegels muͦm in vnderweisen wolt das er ein hantwerck
+solt lernen / darzuͦ wolt sie im helffen.
+-->
+	</Page>
+</PcGts>

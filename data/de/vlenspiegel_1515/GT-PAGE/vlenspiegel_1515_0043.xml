@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T08:00:27</Created>
+		<LastChange>2026-11-23T08:00:27</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Ein_kurtzweilig_lesen_von_Dyl_Vlenspiegel.djvu/43 revision 3306704 of 2018-07-31T21:31:29Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="vlenspiegel_1515_0043.png" imageWidth="1428" imageHeight="2098">
+		<ReadingOrder>
+			<OrderedGroup id="ro7486126081404780005" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="326,181 857,181 857,264 326,264" />
+			<!-- line left out: id="r0l0" points="326,181 436,181 436,197 497,195 544,195 544,181 603,181 603,194 675,194 720,184 733,184 829,184 829,192 857,192 857,261 829,264 733,264 720,264 675,258 603,262 499,262 383,262 383,255 326,255" baseline="326,254 674,260 857,261" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Dasxxu blat
+ | german_print2_15: DasxXXuI blat
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="91,278 1204,278 1204,536 91,536" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="91,294 126,294 177,297 180,278 239,278 239,297 256,297 256,288 296,288 312,291 312,301 338,296 368,296 415,299 512,299 521,288 544,288 544,300 562,300 562,288 642,288 661,293 667,299 702,299 753,302 762,289 794,289 794,305 848,305 855,289 899,289 899,303 969,305 969,291 988,291 988,301 1012,301 1012,293 1030,293 1030,302 1071,301 1071,319 1085,319 1112,279 1145,279 1145,293 1159,293 1159,303 1174,301 1204,301 1204,340 1112,340 1071,337 1012,339 817,339 762,337 368,334 368,344 338,344 338,335 256,334 239,331 239,344 212,344 212,334 180,334 91,330" />
+				<Baseline points="91,330 1084,337 1204,340" />
+				<TextEquiv index="1">
+					<Unicode>von Koldingen was enbeut vns dan der winter. Vlen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="95,345 124,345 124,361 139,361 139,350 155,350 155,361 166,361 166,345 187,345 187,356 199,351 241,346 259,346 259,340 300,340 300,363 318,363 318,349 320,340 342,340 342,349 365,349 365,376 378,376 395,344 419,340 445,340 445,366 490,364 528,366 528,350 558,350 564,362 584,360 606,360 606,340 628,340 628,347 646,347 662,363 688,363 689,350 717,350 748,357 748,364 784,364 784,357 881,357 881,364 897,364 897,357 918,357 918,364 1005,367 1005,355 1047,355 1054,368 1074,365 1094,365 1094,354 1191,353 1203,358 1203,399 1191,399 1191,411 1157,411 1094,406 1094,397 1076,399 1026,400 784,401 745,397 717,359 717,395 662,395 646,401 628,401 628,415 606,415 606,394 530,397 445,396 445,415 419,415 419,395 365,395 365,402 342,402 342,415 320,415 318,396 300,396 300,415 259,415 259,406 241,406 233,394 202,394 202,405 166,405 166,392 139,392 139,402 113,402 95,400" />
+				<Baseline points="95,392 717,395 926,400 1203,398" />
+				<TextEquiv index="1">
+					<Unicode>ſpiegel ſpꝛach. Der wil euch nüt enbieten/ er wil euch ſel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="95,410 135,410 135,421 211,422 211,408 274,408 274,425 289,425 289,411 313,408 334,408 338,411 338,423 456,424 456,416 516,416 516,404 537,404 547,422 570,422 570,412 635,412 648,414 648,425 694,423 743,424 757,427 757,421 838,418 914,413 940,413 940,419 954,419 954,428 1053,428 1054,418 1077,418 1077,430 1092,427 1120,427 1120,421 1140,421 1140,413 1166,413 1166,427 1190,427 1190,463 1166,465 1120,465 914,462 904,474 854,474 854,464 838,464 838,474 832,474 823,464 757,464 741,461 635,459 635,467 613,467 592,457 537,458 537,478 516,478 516,461 456,461 380,457 338,457 338,464 334,466 313,466 289,464 289,456 274,456 274,466 211,466 211,455 114,454 95,450" />
+				<Baseline points="95,451 166,454 395,458 613,458 1190,463" />
+				<TextEquiv index="1">
+					<Unicode>ber anſpꝛechen/ vnnd reit hin/ vnnd ließ die nackenden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l3" points="93,470 115,465 136,465 150,469 175,474 175,485 222,485 222,470 234,470 267,474 267,486 287,485 314,485 314,502 327,502 327,520 313,520 288,519 267,519 267,532 234,532 222,528 222,518 194,518 136,516 136,536 115,536 115,512 93,512" baseline="93,513 327,520" reason: differs: "enſſton" against "n ston." | Wikisource:  | next_nc_e1: bůbenſſton.
+ | german_print2_15: bůbenſton.
+ -->
+			<TextEquiv index="1">
+				<Unicode>von Koldingen was enbeut vns dan der winter. Vlen
+ſpiegel ſpꝛach. Der wil euch nüt enbieten/ er wil euch ſel
+ber anſpꝛechen/ vnnd reit hin/ vnnd ließ die nackenden</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="97,611 1192,611 1192,726 97,726" />
+			<!-- line left out: id="r2l0" points="97,621 143,621 143,611 196,611 196,621 224,621 258,615 297,615 297,630 330,630 330,615 369,615 369,628 409,628 409,615 448,615 448,621 474,620 497,616 509,615 541,615 592,616 592,637 615,637 619,617 642,617 656,622 656,615 694,615 694,638 722,638 732,615 771,615 771,630 802,630 824,642 902,642 903,623 925,623 926,641 959,641 959,623 1034,622 1092,622 1092,641 1192,641 1192,685 1174,685 1174,699 1092,699 1080,696 1080,722 959,722 959,695 925,696 902,698 824,698 771,693 771,718 732,718 722,696 694,699 657,701 642,701 642,692 619,692 615,718 584,718 584,703 541,703 541,718 509,718 509,703 497,703 497,694 476,694 476,700 448,700 448,718 409,718 409,688 369,688 369,718 330,718 330,694 297,694 297,718 258,718 224,693 196,693 196,726 143,726 143,693 97,693" baseline="97,693 223,692 258,692 801,694 959,696 1192,699" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Die XRVIIhiſtoꝛilſagt wie Blen⸗
+ | german_print2_15: Die XyVI hiſtoꝛilſagt wie Blen⸗
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="89,704 1200,704 1200,832 89,832" />
+			<!-- line left out: id="r3l0" points="89,706 120,706 120,722 133,722 133,711 146,711 146,720 162,720 162,706 186,706 186,716 197,716 197,708 231,708 239,720 256,720 256,708 293,708 293,720 312,720 321,704 346,704 346,720 363,720 390,719 433,719 433,708 456,708 456,721 472,721 472,711 525,711 525,718 552,718 580,720 580,710 595,710 595,720 623,720 623,710 648,710 648,721 690,721 697,706 746,706 751,712 772,712 772,722 795,722 797,711 814,711 821,722 841,722 841,706 897,706 897,726 914,726 914,714 929,714 929,724 953,724 953,714 975,714 1005,716 1005,724 1027,723 1055,723 1088,725 1121,724 1138,724 1138,714 1200,714 1200,766 1138,766 1138,758 1114,759 1087,759 1062,757 1055,769 1027,769 1027,758 1002,758 982,757 927,756 897,755 897,766 841,766 841,755 797,755 751,754 746,764 697,764 690,754 623,754 595,753 525,753 472,753 453,751 450,818 390,818 387,751 361,751 312,750 293,751 256,751 198,750 198,762 186,762 186,777 146,777 146,751 134,751 134,762 120,762 120,769 89,769" baseline="89,750 311,749 321,749 896,755 982,756 1200,759" reason: differs: "ſpieg" against "ston." | Wikisource:  | next_nc_e1: ſpiegel alle trancken in einem ſpital vff einẽ tag on artz | german_print2_15: ſpiegel alle teteni in einem ſpital vff einẽ tag on artz -->
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="91,779 193,776 193,782 211,782 211,765 238,765 238,779 286,779 286,768 313,768 321,778 351,778 351,763 378,763 378,778 390,778 390,763 448,763 448,818 422,818 422,832 399,832 399,818 390,818 390,812 378,812 378,832 321,832 313,813 238,811 238,822 211,822 211,812 193,812 193,824 164,824 158,813 91,814" />
+				<Baseline points="91,814 157,812 448,812" />
+				<TextEquiv index="1">
+					<Unicode>nei geſund macht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>nei geſund macht</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="97,840 1206,840 1206,1956 97,1956" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+von Koldingen was enbeut vns dan der winter. Vlenspiegel
+sprach. Der wil euch nüt enbieten / er wil euch selber
+ansprechen / vnnd reit hin / vnnd ließ die nackenden
+buͦben ston.
+alle krancken in einem spital vff einen tag on artznei
+gesund macht
+-->
+	</Page>
+</PcGts>

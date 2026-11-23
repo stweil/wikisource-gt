@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T11:12:28</Created>
+		<LastChange>2026-11-23T11:12:28</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:De_Schachzabel_Spiel_(Köbel).djvu/40 revision 3255048 of 2018-07-31T14:15:10Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="schachzabel_1520_0040.png" imageWidth="1588" imageHeight="2240">
+		<ReadingOrder>
+			<OrderedGroup id="ro13723503021441713135" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="0,11 5,11 5,1297 0,1297" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r1">
+			<Coords points="0,0 1588,0 1588,41 0,41" />
+		</SeparatorRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="248,207 901,207 901,375 248,375" />
+			<!-- line left out: id="r2l0" points="252,209 308,209 308,224 353,224 363,207 387,207 387,219 409,219 410,207 436,207 437,226 447,223 476,223 476,214 512,213 532,213 548,226 597,226 597,242 607,242 607,254 597,255 548,255 512,254 511,265 476,265 476,255 447,255 436,254 409,257 387,257 387,265 363,265 353,256 281,256 252,255" baseline="252,255 531,254 548,254 607,255" reason: second model: differs: "enKRoͤni" against "n Koͤnig" | Wikisource: Den Koͤnigk ce. | next_nc_e1: Den Koͤnigk ce. | german_print2_15: Den KRoͤnigk ce. -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="248,266 314,266 314,280 392,271 445,271 445,279 532,279 532,266 557,266 557,281 570,281 571,266 608,266 620,280 640,280 647,272 673,272 678,296 689,296 689,309 620,310 608,330 571,330 570,310 557,310 557,330 532,330 532,311 515,311 509,319 463,319 463,309 422,308 422,319 392,319 392,312 248,310" />
+				<Baseline points="248,310 689,309" />
+				<TextEquiv index="1">
+					<Unicode>Den Künig auff cd.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="253,322 312,322 312,331 359,331 368,322 422,322 422,334 447,334 448,323 494,323 518,324 518,335 532,335 559,338 561,324 595,324 609,337 665,337 665,357 675,357 687,334 743,335 744,326 769,326 779,336 809,333 901,333 901,368 609,368 595,375 561,375 559,367 532,367 518,365 518,375 504,375 448,374 447,364 422,367 393,367 393,374 368,374 359,365 253,365" />
+				<Baseline points="253,365 368,364 901,368" />
+				<TextEquiv index="1">
+					<Unicode>Das Roch auff ac. vnd matt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Den Künig auff cd.
+Das Roch auff ac. vnd matt.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="253,416 1290,416 1290,1129 253,1129" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="263,416 377,416 591,416 689,416 690,436 739,436 741,418 880,416 883,416 883,436 917,436 917,417 938,416 960,416 973,435 1073,434 1245,438 1259,469 1282,469 1282,493 1245,496 1149,496 637,491 636,497 554,497 540,490 423,490 377,459 263,459" />
+				<Baseline points="263,487 880,491 1149,495 1282,493" />
+				<TextEquiv index="1">
+					<Unicode>en Künig ſtell auff ag.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l1" points="418,503 466,503 466,518 518,518 529,504 572,504 572,521 587,520 614,520 614,512 641,512 644,522 663,520 690,520 810,513 824,513 824,416 1129,416 1213,439 1260,439 1260,509 1213,509 1073,504 882,551 836,552 810,552 641,551 587,551 572,549 572,555 529,555 490,550 489,558 466,558 466,550 418,550" baseline="418,550 529,550 810,551 881,552 1213,556 1260,557" reason: differs: "denſtf8" against "en auff" | Wikisource:  | next_nc_e1: Eyn Fenden ſt f 8 | german_print2_15: 1 Eyn Fenden . ſt ff 5 -->
+			<!-- line left out: id="r3l2" points="273,695 382,695 550,598 659,598 688,603 688,609 739,609 741,619 780,618 815,618 815,611 846,611 846,620 882,620 931,621 931,599 974,599 974,673 931,673 931,688 882,688 882,672 846,674 739,675 688,675 663,674 659,683 550,683 382,699 273,699" baseline="273,669 974,672" reason: second model: differs: "WWid" against "ff d" | Wikisource: Widerteyl. | next_nc_e1: Widerteyl.
+ | german_print2_15: WWiderteyl.
+ -->
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="269,698 407,698 415,712 537,712 551,697 637,697 637,718 723,717 724,711 771,711 775,720 862,720 899,700 956,701 956,720 992,720 992,700 1035,700 1052,720 1094,720 1094,699 1128,699 1128,718 1152,718 1152,699 1209,699 1227,720 1268,720 1268,748 1290,748 1290,776 1227,775 1209,787 1152,787 1152,777 1128,777 1128,787 1094,787 1094,775 956,773 956,791 899,791 862,775 724,775 672,774 637,771 637,785 415,783 407,812 269,812" />
+				<Baseline points="269,768 861,774 1290,776" />
+				<TextEquiv index="1">
+					<Unicode>yn Fenden ſtell auff e.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l4" points="267,789 413,785 462,785 462,799 512,799 523,786 564,786 564,800 591,800 607,802 608,794 635,794 637,802 683,802 698,789 710,789 710,802 725,802 752,804 755,789 793,789 803,803 815,803 815,792 861,792 861,844 815,844 815,835 803,835 793,842 755,842 752,834 725,835 710,835 710,842 698,842 683,832 564,836 523,836 462,832 413,831 408,846 267,846" baseline="267,829 523,830 792,834 803,834 861,835" reason: second model: differs: "WEyn" against "Eyn " | Wikisource: Eyn Fenden auff cf. | next_nc_e1: Eyn Fenden auff cf.
+ | german_print2_15: WEyn Fenden auff cf.
+ -->
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="255,835 319,835 319,851 356,851 367,841 415,841 424,853 451,853 454,847 479,847 482,854 528,854 536,842 551,842 551,856 590,857 590,842 628,842 642,859 669,856 702,856 702,876 713,876 713,888 702,888 702,897 669,897 662,888 628,893 590,893 590,887 551,886 551,893 536,893 528,885 451,884 415,889 367,889 356,882 255,882" />
+				<Baseline points="255,882 355,881 713,889" />
+				<TextEquiv index="1">
+					<Unicode>Eyn Fenden auff cg.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="253,889 316,889 316,905 355,905 364,893 415,893 423,908 450,908 451,899 478,899 480,909 567,910 595,912 598,898 636,898 653,913 673,913 680,900 709,900 710,927 724,927 724,942 710,942 709,950 680,950 673,942 653,942 636,948 598,948 595,942 364,942 283,940 253,936" />
+				<Baseline points="253,935 724,943" />
+				<TextEquiv index="1">
+					<Unicode>Eyn Fenden auff ch.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l7" points="255,944 317,944 317,960 356,960 368,947 419,947 419,963 442,963 442,947 466,947 466,955 485,955 487,965 542,963 568,963 582,965 595,966 597,951 636,951 645,964 665,964 671,954 690,954 690,970 701,970 701,985 690,985 690,997 671,997 645,996 636,1004 597,1004 595,996 568,996 533,999 466,999 442,999 442,993 419,993 419,999 391,999 285,998 285,990 255,990" baseline="255,989 368,991 532,995 542,995 645,996 701,997" reason: differs: "fci·" against " ci. Di" | Wikisource:  | next_nc_e1: Eyn Fenden auff ci·
+ | german_print2_15: Eyn Fenden auff cr·
+ -->
+			<TextLine id="r3l8" custom="readingOrder {index:8;}">
+				<Coords points="253,1040 438,1038 494,1038 497,1059 570,1060 594,1045 665,1045 665,1061 730,1060 730,1045 771,1045 800,1050 804,1061 889,1061 916,1044 1035,1044 1035,1062 1081,1062 1081,1044 1120,1044 1146,1053 1197,1053 1199,1062 1286,1061 1286,1118 1146,1119 1120,1129 1081,1129 1081,1117 952,1118 952,1129 916,1129 889,1115 771,1119 594,1119 497,1113 494,1122 438,1122 405,1114 339,1116 253,1116" />
+				<Baseline points="253,1115 404,1113 1286,1118" />
+				<TextEquiv index="1">
+					<Unicode>Die fier Fenden ſöllen den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>en Künig ſtell auff ag.
+yn Fenden ſtell auff e.
+Eyn Fenden auff cg.
+Eyn Fenden auff ch.
+Die fier Fenden ſöllen den</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="415,1126 1128,1126 1128,1240 415,1240" />
+			<!-- line left out: id="r4l0" points="415,1126 438,1126 438,1136 461,1136 463,1126 504,1126 504,1141 529,1141 529,1131 537,1131 611,1132 611,1145 636,1144 672,1143 687,1143 687,1128 710,1128 710,1144 724,1144 724,1128 760,1128 761,1136 776,1131 814,1131 815,1147 833,1147 833,1136 861,1136 862,1145 895,1145 913,1146 940,1148 947,1138 1028,1138 1028,1145 1045,1144 1081,1144 1128,1145 1128,1178 1044,1178 1028,1182 947,1182 912,1177 895,1174 895,1184 862,1184 861,1173 833,1173 833,1181 814,1182 776,1182 775,1173 760,1174 748,1174 748,1182 724,1182 724,1173 710,1173 710,1182 687,1182 672,1180 663,1174 636,1175 609,1175 594,1173 586,1184 533,1184 532,1174 504,1174 504,1184 481,1184 481,1172 461,1175 438,1175 438,1184 415,1184" baseline="415,1171 815,1173 1128,1178" reason: differs: "oͤlffʒüg" against "lf züge" | Wikisource:  | next_nc_e1: Koͤnigk inn zwoͤlff ʒügen Matten | german_print2_15: RKoͤnigk inn zwoͤlff ʒügen Matten -->
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="580,1200 600,1200 600,1184 622,1184 622,1200 634,1200 637,1184 674,1184 686,1200 708,1200 708,1188 753,1188 772,1201 797,1201 800,1192 824,1192 828,1199 910,1200 918,1188 946,1188 949,1216 961,1216 961,1229 949,1229 946,1240 918,1240 910,1230 772,1230 753,1239 708,1239 708,1230 686,1230 674,1238 637,1238 634,1230 622,1230 622,1238 600,1238 600,1231 580,1231" />
+				<Baseline points="580,1231 686,1229 961,1229" />
+				<TextEquiv index="1">
+					<Unicode>auff af. oder ah.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>auff af. oder ah.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="255,1275 1289,1275 1289,1477 255,1477" />
+			<!-- line left out: id="r5l0" points="272,1275 593,1275 607,1285 658,1285 661,1297 699,1296 742,1296 766,1281 834,1281 834,1297 918,1297 919,1287 969,1287 973,1281 1015,1281 1026,1296 1064,1296 1064,1276 1144,1276 1280,1276 1280,1360 1211,1360 1211,1352 1165,1352 1144,1363 1064,1363 1064,1351 969,1352 834,1354 766,1354 658,1350 607,1350 593,1358 515,1363 272,1363" baseline="272,1346 741,1349 1280,1352" reason: second model: differs: "iucc" against "Züch" | Wikisource: ch den Fenden vff bf. | next_nc_e1: ch den Fendẽ nff bf. | german_print2_15: iucch den Fendẽ vff bf. -->
+			<!-- line left out: id="r5l1" points="255,1359 450,1359 513,1364 514,1377 534,1376 556,1376 561,1363 582,1363 625,1365 625,1359 649,1359 649,1377 683,1377 752,1378 755,1365 792,1365 853,1366 853,1379 879,1379 879,1407 829,1407 811,1406 792,1413 755,1413 739,1408 722,1407 649,1407 649,1419 625,1419 625,1404 582,1404 582,1413 561,1413 556,1402 533,1403 513,1404 461,1404 450,1419 255,1419" baseline="255,1397 682,1406 879,1406" reason: second model: differs: "AAεD" against "f bf" | Wikisource: Denselben auff be. | next_nc_e1: Denſelben auff be. | german_print2_15: AAε Denſelben auff be. -->
+			<!-- line left out: id="r5l2" points="298,1419 464,1417 516,1417 516,1431 587,1431 617,1432 617,1419 663,1419 688,1421 688,1433 702,1433 729,1434 730,1421 786,1419 802,1419 802,1433 813,1432 850,1432 882,1434 882,1419 904,1419 904,1434 917,1434 920,1419 958,1419 962,1413 979,1413 994,1433 1002,1425 1029,1425 1056,1419 1096,1419 1122,1417 1161,1417 1174,1433 1193,1431 1219,1430 1289,1430 1289,1465 1261,1465 1261,1471 1236,1471 1236,1462 1212,1463 1193,1464 1174,1464 1161,1471 1122,1471 1122,1462 1114,1462 1096,1473 1056,1473 1029,1464 997,1467 994,1467 979,1477 962,1477 920,1472 917,1464 904,1464 904,1472 882,1472 882,1465 864,1465 813,1464 802,1462 802,1472 786,1472 770,1462 682,1462 663,1471 617,1471 617,1462 591,1462 542,1461 516,1461 516,1471 490,1471 490,1460 464,1460 449,1448 298,1448" baseline="298,1460 662,1461 769,1462 1219,1463 1289,1465" reason: second model: differs: "nDar" against "f be" | Wikisource: Darnach ruck jne auff ad. so ist er eyn | next_nc_e1:  Darnach ruck jne auff a d. ſo iſt er eyn
+ | german_print2_15:  n Darnach ruck jne auff a d. ſo iſt er eyn
+ -->
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="255,412 300,412 300,780 255,780" />
+		</GraphicRegion>
+		<GraphicRegion id="r7">
+			<Coords points="402,412 413,412 413,835 402,835" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="253,1241 457,1241 457,1512 253,1512" />
+		</GraphicRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="246,1524 1041,1524 1041,2015 246,2015" />
+			<TextLine id="r9l0" custom="readingOrder {index:0;}">
+				<Coords points="256,1524 309,1524 326,1527 326,1539 343,1539 344,1524 376,1524 460,1527 460,1540 475,1538 622,1540 622,1527 719,1528 757,1533 761,1556 772,1556 772,1571 731,1572 693,1570 673,1579 622,1579 622,1569 581,1570 460,1565 460,1574 437,1574 417,1565 377,1566 376,1575 344,1575 343,1566 282,1566 282,1575 256,1575" />
+				<Baseline points="256,1566 437,1566 772,1572" />
+				<TextEquiv index="1">
+					<Unicode>Dieſelb frawe auff bd.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l1" custom="readingOrder {index:1;}">
+				<Coords points="251,1579 311,1579 311,1594 331,1592 378,1592 406,1594 406,1581 452,1581 462,1593 516,1594 519,1580 555,1580 566,1596 586,1596 592,1583 615,1583 615,1611 624,1611 624,1623 615,1623 615,1633 592,1633 586,1623 566,1623 555,1630 519,1630 516,1623 462,1621 452,1630 406,1630 406,1623 311,1622 311,1630 281,1630 281,1621 251,1621" />
+				<Baseline points="251,1621 462,1620 624,1623" />
+				<TextEquiv index="1">
+					<Unicode>Darnach auff cf.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l2" custom="readingOrder {index:2;}">
+				<Coords points="246,1633 304,1633 304,1648 402,1647 403,1634 449,1634 460,1648 514,1648 517,1634 639,1636 641,1665 654,1665 654,1679 641,1679 639,1685 611,1685 600,1678 555,1683 517,1683 514,1677 460,1676 449,1682 403,1682 402,1676 304,1676 304,1682 275,1682 275,1676 246,1676" />
+				<Baseline points="246,1676 460,1676 654,1679" />
+				<TextEquiv index="1">
+					<Unicode>Darnach auff dh.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l3" custom="readingOrder {index:3;}">
+				<Coords points="247,1688 305,1688 305,1701 402,1702 402,1688 482,1688 482,1702 520,1703 524,1688 562,1688 583,1704 597,1704 597,1691 647,1691 647,1732 583,1732 562,1739 524,1739 520,1731 482,1732 482,1739 468,1739 402,1736 375,1732 328,1731 305,1736 276,1736 276,1730 247,1730" />
+				<Baseline points="247,1730 647,1732" />
+				<TextEquiv index="1">
+					<Unicode>Darnach auff ek.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l4" custom="readingOrder {index:4;}">
+				<Coords points="248,1742 306,1742 306,1756 404,1755 404,1743 449,1743 460,1755 502,1756 502,1744 553,1744 565,1750 603,1745 627,1745 627,1772 639,1772 639,1786 553,1792 502,1792 502,1786 460,1785 449,1791 404,1791 404,1785 306,1784 306,1791 277,1791 277,1785 248,1785" />
+				<Baseline points="248,1784 460,1784 639,1787" />
+				<TextEquiv index="1">
+					<Unicode>Darnach auff dk.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l5" custom="readingOrder {index:5;}">
+				<Coords points="247,1796 305,1796 305,1811 399,1811 402,1798 447,1798 456,1811 471,1811 471,1797 497,1797 497,1811 510,1811 512,1797 549,1797 560,1811 576,1811 576,1799 619,1799 619,1841 560,1840 549,1848 512,1848 510,1840 497,1840 497,1848 471,1848 471,1839 456,1839 447,1846 402,1846 399,1839 347,1840 305,1838 305,1846 276,1846 276,1839 247,1839" />
+				<Baseline points="247,1838 619,1840" />
+				<TextEquiv index="1">
+					<Unicode>Darnach auff ck.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l6" custom="readingOrder {index:6;}">
+				<Coords points="248,1850 306,1850 306,1864 349,1864 359,1849 400,1849 400,1864 429,1864 429,1849 451,1849 451,1856 470,1856 473,1865 519,1865 543,1867 543,1851 569,1851 569,1866 580,1866 582,1851 619,1851 631,1865 698,1865 698,1893 676,1895 631,1895 619,1903 582,1903 580,1896 569,1896 569,1903 543,1903 543,1894 451,1899 359,1899 349,1893 248,1893" />
+				<Baseline points="248,1892 698,1892" />
+				<TextEquiv index="1">
+					<Unicode>Den Fenden auff ae.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l7" custom="readingOrder {index:7;}">
+				<Coords points="248,1904 300,1904 317,1907 317,1918 334,1918 334,1905 427,1904 468,1904 468,1920 507,1920 507,1904 534,1904 534,1919 574,1919 602,1921 602,1906 628,1906 628,1920 642,1920 646,1906 754,1906 754,1920 781,1920 781,1959 724,1959 724,1947 701,1947 684,1955 602,1955 602,1949 534,1948 534,1954 507,1954 507,1948 485,1949 468,1954 427,1954 409,1946 368,1946 368,1956 334,1956 334,1946 274,1946 274,1956 248,1956" />
+				<Baseline points="248,1946 781,1949" />
+				<TextEquiv index="1">
+					<Unicode>Dieſelb Frawe auff bg.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l8" custom="readingOrder {index:8;}">
+				<Coords points="246,1958 299,1958 333,1961 341,1974 351,1974 351,1958 466,1958 466,1974 502,1975 502,1958 529,1958 529,1973 570,1973 591,1975 591,1959 618,1959 618,1976 630,1976 632,1959 747,1962 750,1989 761,1989 774,1972 856,1974 858,1966 968,1968 968,1976 990,1973 1028,1973 1028,1992 1041,1992 1041,2008 968,2013 893,2013 858,2008 750,2005 747,2015 719,2015 708,2005 682,2005 668,2015 632,2015 630,2006 618,2006 618,2015 591,2015 591,2009 466,2009 412,2013 351,2013 351,2005 246,2004" />
+				<Baseline points="246,2002 1041,2008" />
+				<TextEquiv index="1">
+					<Unicode>Die erſt Frawe auff bh. vnnd Matt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Dieſelb frawe auff bd.
+Darnach auff cf.
+Darnach auff dh.
+Darnach auff ek.
+Darnach auff dk.
+Darnach auff ck.
+Den Fenden auff ae.
+Dieſelb Frawe auff bg.
+Die erſt Frawe auff bh. vnnd Matt.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Den Koͤnigk ce.
+Den Künig auff cd.
+Das Roch auff ac. vnd matt.
+Den Künig stell auff ag.
+Eyn Fenden auff d.
+Widerteyl.
+Eyn Fenden stell auff e.
+Eyn Fenden auff cf.
+Eyn Fenden auff cg.
+Eyn Fenden auff ch.
+Eyn Fenden auff ci.
+Die fier Fenden söllen den
+Koͤnigk inn zwoͤlf zügen Matten
+auff af. oder ah.
+Züch den Fenden vff bf.
+Denselben auff be.
+Darnach ruck jne auff ad. so ist er eyn Frawe.
+Dieselb frawe auff bd.
+Darnach auff cf.
+Darnach auff dh.
+Darnach auff ek.
+Darnach auff dk.
+Darnach auff ck.
+Den Fenden auff ae.
+Dieselb Frawe auff bg.
+Die erst Frawe auff bh. vnnd Matt.
+-->
+	</Page>
+</PcGts>
