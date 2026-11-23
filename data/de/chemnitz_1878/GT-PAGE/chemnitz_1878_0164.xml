@@ -1,0 +1,378 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:26:39</Created>
+		<LastChange>2026-11-23T14:26:39</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/164 revision 4656049 of 2025-11-13T07:46:23Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0164.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro10435189437027654905" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="19" regionRef="r19" />
+				<RegionRefIndexed index="24" regionRef="r24" />
+				<RegionRefIndexed index="26" regionRef="r26" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="41,18 68,18 68,38 41,38" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="50,64 60,64 60,89 50,89" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="497,169 627,169 627,189 497,189" />
+			<!-- line left out: id="r2l0" points="497,177 549,173 557,172 566,169 578,169 605,180 627,180 627,181 605,181 566,189 557,189 549,184 511,178 497,178" baseline="497,178 510,178 627,181" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 156 —
+ | german_print2_15: — 156 —
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="204,211 914,211 914,374 204,374" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="207,211 221,211 221,217 251,218 253,212 264,212 272,218 295,219 296,226 329,220 388,220 443,224 443,217 449,217 451,223 494,218 511,218 511,224 535,225 577,226 607,222 620,222 632,227 690,223 709,230 721,229 727,224 743,224 744,231 837,226 843,232 904,228 905,234 913,234 913,244 894,244 709,243 655,238 634,231 632,237 595,237 372,231 362,230 341,224 340,230 300,231 284,229 207,227" />
+				<Baseline points="207,227 913,244" />
+				<TextEquiv index="1">
+					<Unicode>Familien, sie waren die Gewissensräthe und geheimen Beistände</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="206,238 218,238 219,245 324,245 356,241 382,241 382,247 412,248 470,247 509,244 510,251 552,246 567,246 568,252 614,253 628,247 635,247 668,248 668,254 741,256 742,250 778,250 795,251 796,257 824,257 844,259 844,250 857,250 857,258 884,254 896,254 907,259 913,264 913,266 907,270 857,272 834,272 824,268 786,267 693,269 635,264 510,261 251,259 218,254 206,254" />
+				<Baseline points="206,253 764,266 913,271" />
+				<TextEquiv index="1">
+					<Unicode>des gemeinen Mannes, mit dem sie an Bildung und Lebensgewohn-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="206,264 211,264 213,270 223,270 225,264 235,264 243,267 298,271 298,265 314,265 323,272 336,272 337,266 342,266 343,272 355,267 383,267 390,274 403,274 415,268 428,268 435,272 453,269 467,269 481,276 490,274 533,271 534,278 561,277 561,287 403,284 336,288 323,288 314,281 206,280" />
+				<Baseline points="206,279 561,287" />
+				<TextEquiv index="1">
+					<Unicode>heiten auf gleicher Stufe standen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="257,292 274,291 280,291 281,297 372,300 373,293 385,293 386,299 417,301 417,294 431,294 432,300 456,295 471,295 509,303 510,296 522,296 522,303 535,299 545,299 559,303 570,304 571,298 576,298 577,304 613,304 613,298 631,298 631,306 639,306 652,299 677,300 678,306 699,304 707,300 720,300 727,307 794,308 795,302 807,302 807,309 838,304 850,304 851,310 862,310 862,304 873,304 885,311 906,311 914,315 914,318 908,318 906,326 885,326 873,320 838,324 825,324 795,319 699,316 690,322 678,322 677,316 631,314 543,314 257,307" />
+				<Baseline points="257,306 914,321" />
+				<TextEquiv index="1">
+					<Unicode>Aber so sehr die Bettelmönche das Papstthum anfänglich ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="206,316 214,316 214,322 234,322 241,317 256,317 256,323 293,317 293,323 327,322 344,324 450,327 450,321 462,321 470,325 493,328 533,330 543,324 555,324 562,330 597,331 598,324 653,326 721,326 723,333 737,328 742,328 743,335 789,334 790,328 796,328 797,335 820,332 833,332 853,335 853,326 914,332 914,348 900,348 855,348 766,348 754,348 723,343 493,338 345,337 334,335 206,332" />
+				<Baseline points="206,331 914,347" />
+				<TextEquiv index="1">
+					<Unicode>fördert hatten, verursachten sie ihm doch bald Verlegenheiten. Die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="204,342 213,342 213,350 225,350 227,343 237,343 245,349 274,350 274,343 288,343 289,350 301,350 308,344 331,344 331,350 371,351 421,352 498,348 505,355 536,350 575,350 577,356 626,352 642,352 652,357 676,356 690,352 729,353 737,359 745,354 751,354 767,358 836,355 843,362 874,357 886,357 905,358 906,364 914,364 914,374 906,374 204,358" />
+				<Baseline points="204,358 517,364 914,374" />
+				<TextEquiv index="1">
+					<Unicode>Lehre der Franciscaner von der absoluten Armuth Christi war der Curie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Familien, sie waren die Gewissensräthe und geheimen Beistände
+des gemeinen Mannes, mit dem sie an Bildung und Lebensgewohn-
+heiten auf gleicher Stufe standen.
+Aber so sehr die Bettelmönche das Papstthum anfänglich ge-
+fördert hatten, verursachten sie ihm doch bald Verlegenheiten. Die
+Lehre der Franciscaner von der absoluten Armuth Christi war der Curie</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="842,258 855,258 855,264 842,264" />
+		</GraphicRegion>
+		<GraphicRegion id="r5">
+			<Coords points="269,425 544,425 544,444 269,444" />
+		</GraphicRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="203,368 914,368 914,452 203,452" />
+			<!-- line left out: id="r6l0" points="203,375 211,368 225,368 244,377 258,377 260,369 270,369 278,375 285,375 316,371 329,371 331,377 359,377 383,377 400,378 525,375 543,375 545,382 561,382 562,376 584,376 602,389 608,383 624,383 643,385 644,377 650,377 668,378 694,379 712,379 719,382 756,380 778,380 790,381 792,389 801,387 835,382 841,382 843,388 866,388 867,382 880,382 880,389 914,389 914,399 908,399 908,405 895,405 895,399 879,399 843,398 801,397 790,396 756,396 701,395 681,394 602,393 530,392 525,392 486,391 463,390 441,384 400,388 359,393 343,393 343,387 331,387 278,386 224,385 211,384 203,383" baseline="203,384 229,384 399,388 583,392 639,393 741,395 835,397 914,399" reason: differs: "uem—man" against "em – ma" | Wikisource:  | next_nc_e1: oft sehr unbequem — man denke an die Zeiten Kaiser Ludwigs | german_print2_15: oft sehr unbequem — man denke an die Zeiten Kaiser Ludwigs -->
+			<!-- line left out: id="r6l1" points="203,395 215,395 223,402 236,402 250,395 256,395 281,396 282,402 313,402 351,403 352,397 364,397 392,398 394,405 404,405 413,407 432,399 450,399 450,405 463,405 486,405 506,408 519,401 528,401 529,409 541,409 541,402 552,402 553,408 602,403 637,403 654,404 707,411 731,406 742,406 756,413 762,413 762,406 767,406 769,412 784,407 795,407 808,410 841,413 869,414 880,416 881,409 892,409 894,416 905,415 914,415 914,426 905,426 870,425 854,424 832,424 784,423 731,422 707,421 578,419 541,418 529,416 528,424 519,424 506,415 492,416 463,421 450,421 450,415 432,415 392,414 381,414 327,413 257,412 215,411 203,411" baseline="203,410 312,412 363,413 519,416 602,418 818,423 914,425" reason: differs: "desBa" against "dwigs" | Wikisource:  | next_nc_e1: des Baiern und des Papstes Johann XXII und drohte zuweilen | german_print2_15: des Baiern und des Papstes Johann XXII und drohte zuweilen -->
+			<!-- line left out: id="r6l2" points="203,427 221,427 241,421 257,421 258,429 269,429 271,421 283,421 293,428 306,428 313,423 322,423 337,429 360,429 392,430 414,429 420,429 453,431 478,433 479,427 491,427 492,434 502,434 570,436 577,429 588,429 588,435 594,435 595,443 617,436 629,436 639,438 640,430 656,430 673,430 675,436 703,431 714,431 716,437 721,437 732,439 746,432 752,432 766,433 798,433 799,439 828,439 851,440 870,440 889,441 890,435 901,435 903,441 914,441 914,452 903,452 884,451 833,450 779,449 752,448 746,448 703,447 656,446 599,446 595,446 577,445 565,444 502,443 453,443 449,443 434,442 414,441 360,440 349,440 283,439 249,439 241,439 203,437" baseline="203,437 241,437 452,441 501,442 703,446 746,447 869,450 914,452" reason: differs: "inKe" against "eile" | Wikisource:  | next_nc_e1: in Ketzerei auszuarten; die sseln, welche die Dominicaner der
+ | german_print2_15: in Ketzerei auszuarten; die sseln, welche die Dominicaner der
+ -->
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="198,447 913,447 913,706 198,706" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="203,447 226,447 233,454 243,454 245,448 256,448 257,455 268,455 269,448 279,447 281,447 316,449 321,457 328,457 347,450 363,450 364,458 376,456 389,451 399,451 400,458 479,453 481,460 504,456 535,459 536,467 560,454 568,454 568,461 578,461 579,455 591,455 607,459 703,463 703,457 716,457 723,465 734,465 735,458 760,458 760,464 781,464 832,460 843,465 855,466 856,460 867,460 913,468 913,478 904,478 658,473 492,472 423,467 203,463" />
+				<Baseline points="203,463 913,478" />
+				<TextEquiv index="1">
+					<Unicode>Freiheit des Denkens anlegten, führten zu unheilbaren Conflicten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l1" custom="readingOrder {index:1;}">
+				<Coords points="202,479 233,477 253,481 254,474 266,474 267,480 304,475 314,475 323,481 332,479 348,479 354,476 364,476 366,482 411,481 430,478 442,478 442,486 478,479 491,479 491,487 512,485 512,479 523,479 523,487 541,486 547,484 563,484 578,488 578,497 533,500 485,500 478,500 465,494 314,491 304,494 267,491 202,489" />
+				<Baseline points="202,489 578,497" />
+				<TextEquiv index="1">
+					<Unicode>mit dem fortschreitenden Zeitgeiste.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l2" custom="readingOrder {index:2;}">
+				<Coords points="254,501 266,501 348,502 349,508 373,503 385,503 385,510 405,505 423,505 438,510 438,504 450,504 451,510 493,512 493,505 505,505 506,513 557,513 567,507 614,507 623,514 646,514 654,509 667,509 667,516 708,516 709,509 721,509 723,516 734,516 742,510 758,510 767,516 786,511 797,511 798,518 885,513 896,513 913,516 913,530 851,533 839,533 839,527 828,532 816,532 808,526 461,522 411,518 373,519 254,516" />
+				<Baseline points="254,516 913,529" />
+				<TextEquiv index="1">
+					<Unicode>So sind beide Orden, die zur Reformation der Kirche gegründet</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l3" custom="readingOrder {index:3;}">
+				<Coords points="201,532 266,532 322,528 326,528 328,534 378,533 386,529 391,529 391,535 403,533 467,531 470,537 481,537 487,531 492,531 493,538 538,533 560,533 582,537 601,534 616,538 634,540 672,541 672,535 684,535 684,543 719,536 732,536 734,542 799,537 859,542 866,544 913,545 913,555 895,556 836,553 835,559 830,559 829,552 635,552 560,548 255,544 201,541" />
+				<Baseline points="201,541 520,548 793,552 913,556" />
+				<TextEquiv index="1">
+					<Unicode>waren, in ihrer thatsächlichen Gestaltung aber Roms Despotismus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l4" custom="readingOrder {index:4;}">
+				<Coords points="200,559 221,558 309,560 347,555 352,555 354,562 363,562 364,555 376,555 378,561 426,557 471,557 479,565 492,565 502,558 507,558 509,564 526,559 531,559 533,565 551,559 562,559 563,567 575,565 608,566 628,561 642,561 652,567 662,567 663,561 674,561 675,569 707,562 721,562 730,568 749,563 760,563 761,570 838,564 854,564 855,571 865,571 867,565 878,565 879,572 890,572 891,566 902,566 904,572 912,572 912,582 904,582 608,575 478,573 426,574 376,571 293,574 284,569 263,572 252,572 221,568 212,573 200,573" />
+				<Baseline points="200,567 912,581" />
+				<TextEquiv index="1">
+					<Unicode>grossgezogen haben, schliesslich der römischen Kirche zum Unheile</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l5" custom="readingOrder {index:5;}">
+				<Coords points="199,585 260,585 261,579 273,579 274,587 296,586 298,593 332,581 345,581 347,587 374,582 395,582 397,588 408,588 409,582 423,582 425,590 446,589 465,583 470,583 472,593 481,593 483,587 494,587 517,591 519,585 530,585 532,593 541,593 557,585 573,585 580,592 603,593 642,593 649,587 683,587 691,593 702,592 771,595 791,589 797,589 812,590 846,596 890,594 912,598 912,608 898,608 617,604 603,601 580,602 409,599 236,594 212,599 199,599" />
+				<Baseline points="199,593 912,607" />
+				<TextEquiv index="1">
+					<Unicode>geworden. Ihr Wirken hat die Unmöglichkeit einer Reformation</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l6" custom="readingOrder {index:6;}">
+				<Coords points="199,611 223,611 225,605 258,605 260,612 288,612 307,606 313,606 325,607 328,614 338,614 339,607 350,607 352,613 367,613 390,616 392,608 403,608 405,614 438,609 453,609 455,615 481,616 481,610 492,610 494,618 503,618 521,611 533,611 534,617 577,619 578,612 591,612 593,619 625,620 625,611 627,611 666,614 721,614 723,620 757,615 774,615 799,616 801,622 845,623 846,617 857,617 864,623 876,623 877,617 888,617 889,625 901,622 911,622 911,634 876,638 864,638 839,633 823,632 625,631 591,628 555,631 521,627 313,622 199,621" />
+				<Baseline points="199,620 911,634" />
+				<TextEquiv index="1">
+					<Unicode>auf dem Boden der Kirche dargethan. Da die Nothwendigkeit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l7" custom="readingOrder {index:7;}">
+				<Coords points="199,631 211,631 212,637 268,638 270,632 281,632 289,638 361,634 376,640 478,642 500,637 511,637 512,643 535,643 536,637 547,637 555,644 701,646 711,644 725,644 756,649 757,641 768,641 769,649 778,649 791,642 829,642 832,649 889,647 911,650 911,660 889,660 876,660 768,657 616,656 431,650 351,650 199,647" />
+				<Baseline points="199,647 911,660" />
+				<TextEquiv index="1">
+					<Unicode>dazu aber nach wie vor vorhanden war, so musste die Reformation</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l8" points="199,663 233,663 270,664 310,665 344,660 368,660 370,667 382,667 404,667 405,674 425,667 449,662 460,662 475,670 482,663 507,663 507,669 519,667 531,667 587,665 610,665 659,672 665,672 667,666 671,666 686,670 692,672 716,673 729,667 740,667 741,673 770,668 792,668 794,674 813,674 813,668 825,668 825,675 873,675 904,676 911,680 911,683 904,686 873,686 855,686 825,685 802,684 716,688 705,688 694,683 667,682 591,681 587,681 382,680 370,680 349,676 344,676 289,675 270,674 222,674 210,673 199,672" baseline="199,673 232,673 408,676 587,680 759,683 911,686" reason: differs: "diealtu" against "ie Spal" | Wikisource:  | next_nc_e1: von aussen erfolgen, und damit war die altung der Kirche unver- | german_print2_15: von aussen erfolgen, und damit war die altung der Kirche unver- -->
+			<TextLine id="r7l9" custom="readingOrder {index:9;}">
+				<Coords points="198,689 241,690 241,684 253,684 283,685 296,692 358,692 364,686 376,686 377,693 398,693 398,703 333,701 309,706 296,706 256,701 198,700" />
+				<Baseline points="198,700 398,703" />
+				<TextEquiv index="1">
+					<Unicode>meidlich geworden.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Freiheit des Denkens anlegten, führten zu unheilbaren Conflicten
+mit dem fortschreitenden Zeitgeiste.
+So sind beide Orden, die zur Reformation der Kirche gegründet
+waren, in ihrer thatsächlichen Gestaltung aber Roms Despotismus
+grossgezogen haben, schliesslich der römischen Kirche zum Unheile
+geworden. Ihr Wirken hat die Unmöglichkeit einer Reformation
+auf dem Boden der Kirche dargethan. Da die Nothwendigkeit
+dazu aber nach wie vor vorhanden war, so musste die Reformation
+meidlich geworden.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="406,578 422,578 422,598 406,598" />
+		</GraphicRegion>
+		<GraphicRegion id="r9">
+			<Coords points="606,641 619,641 619,658 606,658" />
+		</GraphicRegion>
+		<GraphicRegion id="r10">
+			<Coords points="494,668 656,668 656,687 494,687" />
+		</GraphicRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="188,737 912,737 912,1188 188,1188" />
+			<!-- line left out: id="r11l0" points="251,737 265,737 265,743 302,743 312,745 326,738 334,738 354,738 355,744 369,744 380,745 380,752 403,747 414,747 415,739 426,739 427,747 451,742 462,741 472,741 486,746 523,742 534,742 537,748 545,748 590,749 605,743 618,743 634,749 652,749 668,750 700,750 712,751 733,751 735,745 739,745 752,746 761,753 774,749 780,749 835,753 869,755 870,748 875,748 876,754 888,754 910,754 910,764 888,764 876,764 825,763 774,762 752,761 712,761 701,761 668,760 652,760 641,760 580,759 523,758 472,757 437,756 385,758 380,758 341,754 334,760 326,760 312,753 302,757 290,757 251,753" baseline="251,753 403,755 634,759 818,762 910,764" reason: differs: "inFanci" against "n Franc" | Wikisource:  | next_nc_e1: Lange Jahre, ehe Chemnitz ein F anciscanerkloster in seinen | german_print2_15: Lange Jahre, ehe Chemnitz ein F anciscanerkloster in seinen -->
+			<TextLine id="r11l1" custom="readingOrder {index:1;}">
+				<Coords points="197,763 209,762 222,762 222,768 307,770 308,764 320,764 321,778 345,770 402,773 441,773 441,766 453,766 455,773 470,773 485,767 491,767 525,771 537,775 538,768 550,768 550,774 563,770 575,770 599,775 599,769 604,769 606,776 674,771 686,771 704,775 731,771 732,778 743,778 744,772 774,772 776,779 787,779 790,771 870,774 872,781 885,780 905,775 912,775 912,791 883,793 792,793 787,793 776,790 714,787 712,793 707,793 704,787 380,781 321,782 272,779 197,779" />
+				<Baseline points="197,778 912,791" />
+				<TextEquiv index="1">
+					<Unicode>Mauern sah, war es den Bettelmönchen tributpflichtig. Markgraf</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l2" custom="readingOrder {index:2;}">
+				<Coords points="197,789 232,789 263,790 265,796 297,797 298,790 310,790 312,796 333,791 353,791 355,797 402,798 474,799 483,793 501,793 503,801 571,795 576,795 578,801 589,799 695,797 697,808 708,803 781,803 799,805 809,799 825,799 832,806 845,806 871,801 884,801 896,806 909,807 909,817 898,817 519,810 409,811 402,803 395,803 394,813 384,813 384,807 197,805" />
+				<Baseline points="197,805 809,814 909,817" />
+				<TextEquiv index="1">
+					<Unicode>Wilhelm der Einäugige von Meissen hatte nach dem am 20. November</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l3" custom="readingOrder {index:3;}">
+				<Coords points="197,820 215,820 256,816 261,816 289,816 302,817 303,823 317,820 346,823 358,817 380,817 383,824 393,824 394,818 411,818 425,825 514,826 539,824 550,826 570,822 586,822 594,828 627,828 629,822 646,822 649,828 678,823 691,823 700,829 704,829 732,824 734,830 763,824 765,831 774,831 789,825 801,825 809,831 831,826 852,826 856,833 864,833 866,827 876,827 909,833 909,843 878,843 801,841 765,842 746,840 700,839 691,832 684,832 683,839 678,839 371,833 324,833 316,837 303,837 283,832 256,837 204,836 197,831" />
+				<Baseline points="197,830 909,843" />
+				<TextEquiv index="1">
+					<Unicode>1400 erfolgten Tode seiner ersten Gemahlin Elisabeth, der Tochter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l4" custom="readingOrder {index:4;}">
+				<Coords points="195,841 207,841 208,848 227,849 247,842 254,842 255,848 274,846 286,842 300,842 315,843 317,849 376,849 384,851 402,844 410,844 412,851 423,851 424,845 435,845 437,851 492,846 508,846 510,854 521,852 560,853 561,847 582,846 607,854 669,856 670,849 680,849 681,855 773,851 799,852 799,859 809,859 811,852 821,852 822,858 896,853 897,859 908,859 908,865 896,869 884,869 627,864 572,865 508,862 424,861 412,859 410,867 402,867 384,858 368,860 353,854 344,859 300,860 195,857" />
+				<Baseline points="195,857 908,869" />
+				<TextEquiv index="1">
+					<Unicode>des Lützelburgers Johann Heinrich, zu seinem und seiner Ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l5" custom="readingOrder {index:5;}">
+				<Coords points="195,874 206,873 226,868 244,868 285,869 291,875 303,875 303,869 313,869 322,875 331,875 331,869 344,869 346,876 362,877 363,870 374,870 376,877 396,876 418,871 436,871 438,877 458,879 459,872 488,872 488,879 498,879 506,873 531,873 566,879 586,880 630,881 694,876 718,882 741,883 742,877 748,877 749,883 807,883 852,879 859,885 907,885 907,896 899,896 696,893 677,891 573,895 555,890 527,889 351,885 195,884" />
+				<Baseline points="195,884 272,884 907,895" />
+				<TextEquiv index="1">
+					<Unicode>mahlin Seelenheile zahlreiche Stiftungen gemacht, indem er mehreren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l6" custom="readingOrder {index:6;}">
+				<Coords points="195,894 218,894 275,900 296,896 338,896 339,902 351,902 352,896 369,896 370,903 405,902 438,904 438,897 444,897 444,904 460,904 475,898 503,898 504,905 558,903 647,908 647,914 666,908 672,902 684,902 685,909 729,908 777,909 796,911 798,904 811,904 811,910 835,905 847,905 866,912 867,905 878,905 885,908 907,911 907,922 898,922 647,918 632,916 610,917 491,915 484,921 475,921 460,914 195,910" />
+				<Baseline points="195,910 791,919 907,922" />
+				<TextEquiv index="1">
+					<Unicode>Klöstern Antheile an der Jahrrente zuwies, die er von den Städten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l7" custom="readingOrder {index:7;}">
+				<Coords points="193,928 213,927 214,921 227,921 233,926 252,928 266,921 281,921 281,927 305,927 312,921 323,921 325,929 338,929 351,923 356,923 374,928 408,930 409,936 434,924 441,924 457,925 488,933 493,926 503,926 516,931 564,930 597,933 607,926 620,926 620,940 631,935 642,933 744,930 760,930 782,935 878,937 886,935 898,935 907,938 907,947 866,950 855,950 844,947 824,946 607,945 597,943 540,942 528,945 395,944 395,937 384,939 358,939 193,936" />
+				<Baseline points="193,937 434,939 907,947" />
+				<TextEquiv index="1">
+					<Unicode>seines Landes bezog. Den Augustiner-Eremiten zu Grimma eignete</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l8" custom="readingOrder {index:8;}">
+				<Coords points="193,954 281,952 323,948 330,948 345,949 347,955 384,955 384,949 398,949 399,955 443,950 488,951 490,964 515,957 548,953 582,953 583,960 606,959 607,953 617,953 636,960 693,961 694,954 704,954 707,961 720,961 737,955 745,955 747,961 759,956 770,956 772,962 819,960 854,964 854,957 867,957 875,965 907,964 907,974 747,971 745,978 737,978 720,971 643,969 482,971 443,967 323,964 297,958 281,958 261,964 193,963" />
+				<Baseline points="193,962 907,973" />
+				<TextEquiv index="1">
+					<Unicode>er am 23. December d. J. 10 Schock von der Jahrrente dieser</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r11l9" points="192,973 205,973 212,977 224,979 224,973 254,969 277,969 301,974 302,981 314,980 324,980 339,974 346,974 359,975 385,975 385,982 395,982 404,983 425,982 444,982 481,983 495,977 513,977 513,984 534,984 557,984 646,984 648,993 667,980 681,980 698,981 700,987 777,987 798,987 838,984 850,984 872,984 873,990 885,990 892,984 905,984 905,1000 822,1003 819,1003 777,1002 770,1002 700,997 681,996 646,999 640,999 550,997 534,997 513,994 495,994 425,993 395,992 383,992 339,991 289,990 277,1001 254,1001 254,995 237,995 224,990 192,989" baseline="192,989 289,990 495,993 630,995 838,998 905,999" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Stadt ), den Barfüssern zu Torgau am 13. Februar 1401 4 Schock | german_print2_15: Stadt¹), den Barfüssern zu Torgau am 13. Februar 1401 4 Schock -->
+			<!-- line left out: id="r11l10" points="192,1005 226,1005 246,1006 247,1000 259,1000 260,1006 273,1006 286,1021 289,1001 301,1000 315,1000 322,1006 339,1006 355,1004 370,1004 400,1008 400,1002 412,1002 420,1009 433,1009 468,1006 480,1006 487,1007 506,1010 506,1004 519,1004 852,1010 863,1010 871,1016 884,1016 905,1016 905,1027 895,1027 871,1026 852,1025 481,1020 434,1019 419,1018 370,1018 302,1020 291,1023 286,1023 273,1016 216,1016 192,1015" baseline="192,1015 225,1015 286,1016 468,1019 518,1020 852,1025 905,1026" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: von der Jahrrente dieser Stadt deren | german_print2_15: von der Jahrrente dieser Stadt deren -->
+			<TextLine id="r11l11" custom="readingOrder {index:11;}">
+				<Coords points="191,1032 196,1026 226,1026 246,1026 247,1034 265,1034 266,1027 277,1027 277,1033 333,1028 349,1028 404,1034 421,1029 472,1029 473,1037 496,1034 505,1031 519,1031 520,1037 593,1038 616,1033 628,1033 638,1038 639,1032 650,1032 652,1038 695,1037 722,1039 805,1041 806,1049 831,1042 904,1042 904,1052 810,1053 806,1053 782,1051 628,1048 616,1047 595,1042 593,1048 416,1047 333,1044 191,1042" />
+				<Baseline points="191,1041 904,1052" />
+				<TextEquiv index="1">
+					<Unicode>Aebtissinnen Anna und Beatrix seine Schwestern waren, am 20.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r11l12" points="192,1052 206,1052 229,1053 236,1052 262,1052 263,1059 271,1059 293,1060 294,1053 329,1053 330,1066 353,1058 375,1054 388,1054 388,1060 399,1060 400,1054 411,1054 412,1060 424,1060 434,1061 435,1055 445,1055 460,1061 467,1061 494,1062 514,1064 515,1057 527,1057 528,1063 554,1058 562,1058 587,1058 589,1064 606,1064 630,1061 636,1061 693,1060 715,1060 716,1066 757,1063 762,1063 762,1074 784,1067 813,1067 819,1054 845,1054 856,1076 861,1063 878,1063 903,1063 903,1079 878,1084 861,1084 856,1078 845,1088 819,1088 813,1077 767,1079 760,1079 757,1079 729,1077 693,1076 637,1075 564,1074 562,1080 554,1080 540,1073 508,1073 471,1072 411,1071 362,1074 353,1074 330,1069 329,1075 320,1075 304,1069 216,1069 206,1069 192,1068" baseline="192,1068 353,1069 460,1071 676,1075 819,1077 903,1079" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Februar d. J. 5 Schock von der Jahrrente in Hain ³), am 7. April | german_print2_15: Februar d. J. 5 Schock von der Jahrrente in Hain ²), am 7. April -->
+			<!-- line left out: id="r11l13" points="193,1083 221,1079 250,1079 257,1085 273,1085 274,1079 285,1079 299,1085 348,1080 360,1080 361,1086 380,1086 393,1080 402,1080 421,1081 421,1087 446,1087 477,1087 520,1089 535,1083 541,1083 552,1085 566,1090 581,1091 581,1084 593,1084 600,1090 615,1090 625,1083 637,1083 651,1091 675,1091 677,1085 688,1085 702,1092 725,1092 744,1094 745,1087 756,1087 758,1093 780,1093 795,1095 797,1088 821,1088 828,1094 842,1094 855,1088 876,1088 878,1095 896,1095 904,1096 904,1104 896,1104 896,1110 878,1110 865,1105 821,1104 745,1103 702,1102 651,1101 593,1100 566,1100 553,1100 541,1099 503,1099 438,1098 403,1097 402,1103 393,1103 380,1096 306,1096 250,1095 225,1095 221,1082 201,1099 193,1099" baseline="193,1094 221,1094 379,1096 636,1100 904,1104" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 4 Schock von der Jahrrente in Dresden ) und an demselben Tage | german_print2_15: 4 Schock von der Jahrrente in Dresden ⁴) und an demselben Tage -->
+			<!-- line left out: id="r11l14" points="189,1110 215,1105 228,1105 250,1105 257,1111 274,1111 275,1105 285,1105 300,1111 334,1111 355,1112 355,1106 367,1106 369,1112 381,1112 394,1127 397,1107 422,1107 422,1113 438,1113 448,1114 470,1112 478,1112 489,1116 502,1109 514,1109 514,1115 533,1110 545,1109 562,1109 563,1116 617,1116 631,1124 659,1112 673,1112 675,1118 693,1118 693,1112 709,1112 723,1119 729,1119 729,1113 741,1113 741,1119 756,1119 770,1113 793,1113 793,1119 823,1114 833,1114 843,1120 864,1120 897,1121 903,1125 903,1127 897,1131 853,1131 833,1130 804,1130 793,1130 729,1129 659,1128 617,1127 583,1129 571,1129 545,1126 533,1126 478,1125 410,1127 400,1129 394,1129 381,1123 369,1123 285,1122 200,1125 189,1125" baseline="189,1120 199,1120 380,1122 616,1126 903,1131" reason: differs: "4Sch" against "⟦⟧ ⟦" | Wikisource:  | next_nc_e1: 4 Schock von der Jahrrente in Torgau ⁵). Auch das Franciscaner- | german_print2_15: 4 Schock von der Jahrrente in Torgau ⁵). Auch das Franciscaner- -->
+			<TextLine id="r11l15" custom="readingOrder {index:15;}">
+				<Coords points="189,1131 207,1131 215,1137 230,1134 267,1132 310,1132 319,1137 339,1138 340,1132 352,1132 353,1139 423,1139 428,1134 446,1134 456,1140 503,1140 520,1142 528,1136 537,1136 538,1142 632,1141 670,1144 740,1146 769,1145 797,1140 810,1140 810,1146 820,1146 821,1140 832,1140 833,1147 845,1146 857,1141 868,1141 869,1147 904,1148 904,1162 893,1162 832,1156 724,1154 710,1158 698,1158 670,1154 538,1152 537,1158 528,1158 520,1152 503,1151 189,1147" />
+				<Baseline points="189,1146 904,1157" />
+				<TextEquiv index="1">
+					<Unicode>kloster in Dresden wurde am 29. Januar mit einer grösseren Schenkung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r11l16" points="188,1157 201,1157 201,1164 212,1164 212,1157 225,1157 225,1163 248,1158 260,1158 268,1161 269,1171 329,1158 351,1158 352,1164 382,1159 400,1159 400,1165 414,1165 429,1166 429,1160 441,1160 441,1168 453,1166 464,1166 465,1174 489,1162 516,1162 516,1168 594,1164 605,1163 610,1163 612,1169 624,1169 641,1171 662,1170 674,1170 675,1164 686,1164 687,1170 716,1170 758,1171 760,1165 771,1165 805,1166 811,1172 826,1172 849,1172 861,1173 862,1180 884,1175 893,1173 903,1173 903,1182 893,1183 838,1188 825,1188 825,1182 805,1182 760,1182 699,1181 662,1180 624,1179 575,1180 563,1180 553,1179 469,1178 465,1178 453,1177 414,1176 393,1178 382,1178 352,1175 212,1174 188,1173" baseline="188,1173 382,1175 770,1181 884,1183 903,1184" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: bedacht.  Wie Dresden, Grimma, Grossenhain und Torgau, so
+ | german_print2_15: bedacht. ³) Wie Dresden, Grimma, Grossenhain und Torgau, so
+ -->
+			<TextEquiv index="1">
+				<Unicode>Mauern sah, war es den Bettelmönchen tributpflichtig. Markgraf
+Wilhelm der Einäugige von Meissen hatte nach dem am 20. November
+1400 erfolgten Tode seiner ersten Gemahlin Elisabeth, der Tochter
+des Lützelburgers Johann Heinrich, zu seinem und seiner Ge-
+mahlin Seelenheile zahlreiche Stiftungen gemacht, indem er mehreren
+Klöstern Antheile an der Jahrrente zuwies, die er von den Städten
+seines Landes bezog. Den Augustiner-Eremiten zu Grimma eignete
+er am 23. December d. J. 10 Schock von der Jahrrente dieser
+Aebtissinnen Anna und Beatrix seine Schwestern waren, am 20.
+kloster in Dresden wurde am 29. Januar mit einer grösseren Schenkung</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r12">
+			<Coords points="620,749 634,749 634,759 620,759" />
+		</GraphicRegion>
+		<GraphicRegion id="r13">
+			<Coords points="689,822 695,822 695,839 689,839" />
+		</GraphicRegion>
+		<GraphicRegion id="r14">
+			<Coords points="291,847 365,847 365,863 291,863" />
+		</GraphicRegion>
+		<GraphicRegion id="r15">
+			<Coords points="604,923 629,923 629,947 604,947" />
+		</GraphicRegion>
+		<GraphicRegion id="r16">
+			<Coords points="278,961 305,961 305,969 278,969" />
+		</GraphicRegion>
+		<GraphicRegion id="r17">
+			<Coords points="461,983 475,983 475,993 461,993" />
+		</GraphicRegion>
+		<GraphicRegion id="r18">
+			<Coords points="520,1004 545,1004 545,1017 520,1017" />
+		</GraphicRegion>
+		<TextRegion id="r19" custom="readingOrder {index:19;} orientation {0;}">
+			<Coords points="545,1005 826,1005 826,1025 545,1025" />
+			<!-- line left out: id="r19l0" points="545,1012 570,1012 570,1005 582,1005 584,1011 613,1009 624,1006 640,1006 662,1006 663,1014 671,1014 693,1013 748,1008 761,1008 761,1016 772,1014 783,1014 802,1017 803,1009 807,1009 826,1013 826,1025 803,1025 783,1024 755,1025 748,1025 717,1024 693,1023 662,1022 640,1022 630,1022 620,1021 598,1022 570,1022 545,1022" baseline="545,1022 597,1021 613,1021 702,1022 826,1025" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: den Clarissen zu Seusslitz
+ | german_print2_15: „den Clarissen zu Seusslitz
+ -->
+		</TextRegion>
+		<GraphicRegion id="r20">
+			<Coords points="826,1015 840,1015 840,1030 826,1030" />
+		</GraphicRegion>
+		<GraphicRegion id="r21">
+			<Coords points="238,1058 838,1058 838,1074 238,1074" />
+		</GraphicRegion>
+		<GraphicRegion id="r22">
+			<Coords points="213,1081 236,1081 236,1095 213,1095" />
+		</GraphicRegion>
+		<GraphicRegion id="r23">
+			<Coords points="491,1214 587,1214 587,1240 491,1240" />
+		</GraphicRegion>
+		<TextRegion id="r24" custom="readingOrder {index:24;} orientation {0;}">
+			<Coords points="601,1223 645,1223 645,1238 601,1238" />
+			<!-- line left out: id="r24l0" points="601,1223 631,1223 645,1225 645,1234 631,1238 610,1238 601,1238" baseline="601,1233 622,1233 645,1234" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 51 50.
+ | german_print2_15: 5150.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r25">
+			<Coords points="184,1188 414,1188 414,1369 184,1369" />
+		</GraphicRegion>
+		<TextRegion id="r26" custom="readingOrder {index:26;} orientation {0;}">
+			<Coords points="394,1540 658,1540 658,1568 394,1568" />
+			<!-- line left out: id="r26l0" points="394,1549 402,1549 408,1550 414,1549 434,1549 443,1549 456,1549 469,1549 474,1540 482,1540 492,1540 492,1549 494,1549 509,1552 509,1540 517,1540 530,1540 535,1549 552,1549 571,1549 601,1549 615,1549 638,1549 658,1550 658,1558 615,1560 571,1560 545,1560 535,1558 530,1568 517,1568 509,1568 509,1558 492,1558 492,1568 482,1568 474,1568 474,1558 452,1560 443,1560 424,1560 407,1560 394,1558" baseline="394,1558 658,1558" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnpldigital slub-dresden delppn301259642164
+ | german_print2_15: np digital slub dresden de ppne0125964164
+ -->
+		</TextRegion>
+		<GraphicRegion id="r27">
+			<Coords points="941,0 976,0 976,1585 941,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Familien, sie waren die Gewissensräthe und geheimen Beistände
+des gemeinen Mannes, mit dem sie an Bildung und
+Lebensgewohnheiten auf gleicher Stufe standen.
+Aber so sehr die Bettelmönche das Papstthum anfänglich
+gefördert hatten, verursachten sie ihm doch bald Verlegenheiten. Die
+Lehre der Franciscaner von der absoluten Armuth Christi war der Curie
+oft sehr unbequem – man denke an die Zeiten Kaiser Ludwigs
+des Baiern und des Papstes Johann XXII – und drohte zuweilen
+in Ketzerei auszuarten; die Fesseln, welche die Dominicaner der
+Freiheit des Denkens anlegten, führten zu unheilbaren Conflicten
+mit dem fortschreitenden Zeitgeiste.
+So sind beide Orden, die zur Reformation der Kirche gegründet
+waren, in ihrer thatsächlichen Gestaltung aber Roms Despotismus
+grossgezogen haben, schliesslich der römischen Kirche zum Unheile
+geworden. Ihr Wirken hat die Unmöglichkeit einer Reformation
+auf dem Boden der Kirche dargethan. Da die Nothwendigkeit
+dazu aber nach wie vor vorhanden war, so musste die Reformation
+von aussen erfolgen, und damit war die Spaltung der Kirche
+unvermeidlich geworden.
+Lange Jahre, ehe Chemnitz ein Franciscanerkloster in seinen
+Mauern sah, war es den Bettelmönchen tributpflichtig. Markgraf
+Wilhelm der Einäugige von Meissen hatte nach dem am 20. November
+1400 erfolgten Tode seiner ersten Gemahlin Elisabeth, der Tochter
+des Lützelburgers Johann Heinrich, zu seinem und seiner
+Gemahlin Seelenheile zahlreiche Stiftungen gemacht, indem er mehreren
+Klöstern Antheile an der Jahrrente zuwies, die er von den Städten
+seines Landes bezog. Den Augustiner-Eremiten zu Grimma eignete
+er am 23. December d. J. 10 Schock von der Jahrrente dieser
+Stadt⟦⟧, den Barfüssern zu Torgau am 13. Februar 1401 4 Schock
+von der Jahrrente dieser Stadt⟦⟧, den Clarissen zu Seusslitz, deren
+Aebtissinnen Anna und Beatrix seine Schwestern waren, am 20.
+Februar d. J. 5 Schock von der Jahrrente in Hain⟦⟧, am 7. April
+4 Schock von der Jahrrente in Dresden⟦⟧ und an demselben Tage
+4 Schock von der Jahrrente in Torgau⟦⟧. Auch das
+Franciscanerkloster in Dresden wurde am 29. Januar mit einer grösseren Schenkung
+bedacht.⟦⟧ Wie Dresden, Grimma, Grossenhain und Torgau, so
+-->
+	</Page>
+</PcGts>

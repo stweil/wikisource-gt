@@ -1,0 +1,350 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:19:59</Created>
+		<LastChange>2026-11-23T14:19:59</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/74 revision 4668500 of 2025-12-05T07:48:38Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0074.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro7689956173690620146" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="210,219 919,219 919,381 210,381" />
+			<!-- line left out: id="r0l0" points="486,221 502,221 525,222 527,230 545,219 560,219 572,224 613,224 647,225 647,235 583,239 573,239 572,233 531,234 502,236 493,236 486,232" baseline="486,233 545,233 612,234 647,235" reason: differs: "1594" against "r;" " | Wikisource:  | next_nc_e1: 1594, August I1I.
+ | german_print2_15: 1594, August II.
+ -->
+			<!-- line left out: id="r0l1" points="210,246 227,245 261,242 267,242 281,243 334,243 335,249 358,244 373,244 373,250 387,250 399,251 403,245 414,245 427,253 433,246 444,246 446,252 474,247 480,247 483,260 495,254 505,254 530,254 539,257 546,249 551,249 553,255 598,255 609,256 624,250 640,250 644,258 658,257 680,252 685,252 715,252 720,258 728,258 761,259 793,254 804,254 837,255 839,262 850,261 874,256 888,256 919,257 919,272 874,272 839,271 781,270 770,270 761,269 753,269 684,268 658,267 599,266 553,265 546,264 483,263 446,262 389,261 347,260 312,259 271,258 261,257 226,256 210,256" baseline="210,256 312,258 474,262 727,268 826,270 874,271 919,272" reason: differs: "126." against "op;"" | Wikisource:  | next_nc_e1: 126. Das Handwerk der Leinweber zu Kembniz ersucht den Rath | german_print2_15: 126. Das Handwerk der Leinweber zu Kembniz ersucht den Rath -->
+			<TextLine id="r0l2" custom="readingOrder {index:2;}">
+				<Coords points="260,268 272,268 273,277 285,274 324,274 336,278 337,270 349,270 371,277 433,272 435,278 464,273 475,273 477,280 531,280 569,283 569,275 582,275 582,281 611,282 646,277 663,277 670,283 698,278 719,278 720,284 739,279 750,279 752,285 787,286 789,280 821,280 822,288 854,286 863,282 874,282 875,290 885,288 918,288 918,298 885,298 646,293 611,291 533,293 502,290 260,284" />
+				<Baseline points="260,283 918,298" />
+				<TextEquiv index="1">
+					<Unicode>der Stadt um Genehmigung der von dem Handwerk berathenen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l3" custom="readingOrder {index:3;}">
+				<Coords points="260,308 265,295 276,295 306,295 306,303 318,303 318,295 330,295 336,296 349,302 366,302 380,305 390,303 427,302 449,311 475,305 508,306 518,300 530,300 531,309 561,306 632,304 632,310 653,311 654,304 659,304 661,310 711,310 721,319 726,306 766,306 766,314 779,314 779,306 789,306 792,312 821,313 822,307 827,307 829,313 873,314 874,308 885,308 885,314 918,315 918,324 874,324 578,322 542,317 498,316 489,314 407,314 260,310" />
+				<Baseline points="260,310 918,324" />
+				<TextEquiv index="1">
+					<Unicode>Artikel, insoweit sie von den 1559 gegebenen Artikeln abweichen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l4" points="286,333 295,328 308,326 320,326 340,326 340,340 344,340 358,338 368,338 368,326 388,326 388,342 408,334 423,334 446,335 449,343 469,335 474,335 483,336 485,344 503,332 519,332 531,337 556,338 566,336 577,336 577,348 556,348 543,351 532,351 446,350 439,350 423,349 414,349 393,347 340,347 291,347 286,347" baseline="286,342 392,343 577,348" reason: second model: differs: "(Che" against "| | " | Wikisource: (Chemnitz), 1594, 11. August. | next_nc_e1: (Chemnitz), 1594, 11. August. | german_print2_15: (Chemmnite), 1594, II. August. -->
+			<!-- line left out: id="r0l5" points="269,359 275,359 310,362 339,362 352,369 356,363 390,359 395,359 406,360 416,364 423,371 439,366 442,366 448,372 453,362 497,362 519,363 557,363 586,364 598,363 607,363 635,364 662,365 679,365 690,371 694,371 699,372 699,381 696,381 679,379 670,379 656,378 586,377 416,378 406,378 406,372 327,376 318,376 299,371 289,370 275,369 269,369" baseline="269,369 352,371 439,373 642,377 690,378 699,379" reason: differs: "Conc" against "| | " | Wikisource:  | next_nc_e1: Concept auf Pap. (A. L.-H. Ch. Bd. XI Bl. 9.
+ | german_print2_15: Concept auf Pap. (A. L.-H. Ch. Bd. XI Bl. 9.
+ -->
+			<TextEquiv index="1">
+				<Unicode>der Stadt um Genehmigung der von dem Handwerk berathenen
+Artikel, insoweit sie von den 1559 gegebenen Artikeln abweichen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="254,416 916,416 916,632 254,632" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="463,419 502,420 504,428 522,416 546,416 566,421 590,417 611,416 613,416 642,422 668,423 668,434 613,437 611,437 602,433 566,432 552,437 534,437 534,430 497,435 470,434 463,429" />
+				<Baseline points="463,429 668,434" />
+				<TextEquiv index="1">
+					<Unicode>1594, September 20.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="258,441 271,441 275,447 292,447 307,449 312,442 324,442 330,448 356,451 363,442 418,443 429,445 437,451 448,451 457,454 460,443 476,443 478,451 504,453 520,446 542,447 544,453 645,453 656,456 663,449 673,449 674,456 710,456 712,463 731,459 735,451 827,451 835,457 899,454 906,461 916,461 916,466 904,469 873,471 862,471 853,468 827,471 796,471 762,471 737,467 565,463 460,463 448,460 258,456" />
+				<Baseline points="258,456 916,469" />
+				<TextEquiv index="1">
+					<Unicode>Friedrich Wilhelm, Herzog zu Sachsen, Administrator, be-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="257,472 273,474 275,468 298,468 305,468 345,475 361,476 378,469 393,469 399,476 425,476 437,480 452,472 468,472 474,480 540,475 581,475 586,485 594,475 608,475 612,484 619,475 632,475 662,476 670,482 688,480 706,482 756,483 758,477 770,477 772,485 784,483 856,479 860,486 873,485 887,480 900,480 902,486 915,486 915,494 841,495 770,493 619,492 608,490 565,492 515,491 468,486 257,483" />
+				<Baseline points="257,483 360,484 915,496" />
+				<TextEquiv index="1">
+					<Unicode>fiehlt dem Hans Georg Arnold, Amtsverwalter zu Kemb-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="256,499 287,497 302,500 306,507 332,495 343,495 345,501 360,501 369,507 395,496 412,496 421,503 443,503 446,497 467,496 500,506 507,498 517,498 525,508 532,508 547,499 562,499 564,506 577,505 591,500 598,500 599,507 624,505 636,505 647,507 667,503 682,503 701,509 749,507 776,510 778,504 787,504 802,511 808,504 819,504 857,505 859,511 915,512 915,524 884,525 873,525 845,521 701,521 667,518 427,513 424,507 412,512 306,511 256,509" />
+				<Baseline points="256,509 915,521" />
+				<TextEquiv index="1">
+					<Unicode>nitz, dem Mandate des Kurfürsten August d. d. Torgaw,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="257,525 274,524 276,533 295,520 320,520 328,527 402,525 441,529 479,529 499,534 518,525 522,525 522,534 548,532 569,534 589,527 595,527 595,533 603,533 609,527 636,527 658,528 659,536 696,536 697,529 708,529 709,535 730,536 748,529 770,529 783,533 817,538 826,531 830,531 832,537 852,537 854,531 862,531 896,532 904,539 915,539 915,547 896,548 885,548 479,540 405,541 390,538 382,542 373,542 357,537 257,535" />
+				<Baseline points="257,535 685,544 915,547" />
+				<TextEquiv index="1">
+					<Unicode>18. Maii (15)83 gemäss keine Eingabe ohne Unterschrift des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="256,546 276,546 280,552 339,553 341,547 351,547 380,548 381,554 428,555 487,552 541,559 542,552 553,552 554,558 600,559 625,562 627,554 637,554 639,560 676,559 694,562 696,555 706,555 714,561 736,556 745,556 752,564 758,562 768,562 773,556 781,556 781,562 793,557 804,557 825,562 888,564 890,558 901,558 901,568 914,568 914,574 848,576 832,576 773,572 529,567 484,569 381,564 256,561" />
+				<Baseline points="256,561 599,569 914,574" />
+				<TextEquiv index="1">
+					<Unicode>Vor- und Zunamen anzunehmen, damit der Verführung zank-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="254,580 263,578 274,578 282,573 292,573 312,579 382,581 383,575 394,575 408,581 449,582 457,576 467,576 469,582 522,583 537,577 543,577 559,578 566,585 622,584 640,586 688,587 715,585 803,588 822,583 833,583 835,590 842,590 842,599 766,598 688,600 677,600 649,596 559,594 433,594 314,592 254,587" />
+				<Baseline points="254,587 842,598" />
+				<TextEquiv index="1">
+					<Unicode>süchtiger und ungelernter Procuratores gesteuert werde.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l7" points="286,604 302,604 304,611 328,611 348,611 391,610 399,610 430,612 433,620 452,608 464,608 465,617 476,614 511,614 544,610 555,610 556,617 568,616 575,615 587,615 604,617 616,618 618,611 630,611 632,617 639,617 645,618 658,620 658,627 616,627 606,627 587,626 575,626 573,632 568,632 566,625 511,625 501,625 476,624 464,623 430,628 426,628 421,622 399,627 391,627 384,622 376,618 361,625 351,625 328,623 315,623 286,620" baseline="286,620 376,621 435,622 658,627" reason: differs: "Zorg" against "| | " | Wikisource:  | next_nc_e1: Zorgau, (15 94, den 20. Septembris.
+ | german_print2_15: Torgau, (15 94, den 20. Septembris.
+ -->
+			<TextEquiv index="1">
+				<Unicode>1594, September 20.
+Friedrich Wilhelm, Herzog zu Sachsen, Administrator, be-
+fiehlt dem Hans Georg Arnold, Amtsverwalter zu Kemb-
+nitz, dem Mandate des Kurfürsten August d. d. Torgaw,
+18. Maii (15)83 gemäss keine Eingabe ohne Unterschrift des
+Vor- und Zunamen anzunehmen, damit der Verführung zank-
+süchtiger und ungelernter Procuratores gesteuert werde.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="265,630 914,630 914,664 265,664" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="265,639 284,639 288,646 306,635 322,637 333,641 396,638 409,642 472,642 490,646 490,639 499,639 499,630 509,630 509,643 556,645 566,640 571,640 573,648 591,646 612,641 676,642 694,650 697,642 701,642 708,648 716,645 754,644 764,651 771,651 783,645 813,644 815,650 826,645 867,644 867,651 891,649 911,652 914,657 914,660 571,654 556,657 546,657 531,653 509,651 509,664 499,664 499,652 431,655 323,654 322,648 275,648 265,645" />
+				<Baseline points="265,648 914,660" />
+				<TextEquiv index="1">
+					<Unicode>Or. Pap. mit Fragment des Siegels und Unterschrift des Administrators.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Or. Pap. mit Fragment des Siegels und Unterschrift des Administrators.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="250,692 912,692 912,877 250,877" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="462,697 478,696 501,698 503,706 522,692 538,692 539,700 559,699 587,694 598,694 600,700 624,700 624,710 574,710 538,708 501,713 491,713 490,707 478,712 469,712 462,707" />
+				<Baseline points="462,707 624,710" />
+				<TextEquiv index="1">
+					<Unicode>1594, November</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="255,719 267,719 272,725 289,725 297,728 308,720 320,720 327,726 358,727 359,721 401,722 407,731 418,722 438,722 443,731 459,723 463,723 468,729 494,730 510,724 531,724 540,730 603,731 627,727 640,727 640,733 650,733 663,727 667,727 669,733 706,733 707,740 726,729 740,729 748,727 759,727 760,734 797,735 808,732 841,734 887,730 890,737 912,737 912,743 867,747 856,747 841,745 707,744 683,742 569,744 554,740 481,741 468,739 459,730 447,737 438,738 255,734" />
+				<Baseline points="255,735 912,746" />
+				<TextEquiv index="1">
+					<Unicode>Friedrich Wilhelm, Herzog zu Sachsen, Administrator, be-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="252,748 261,748 263,754 275,745 279,745 292,745 299,745 346,747 347,753 357,753 363,755 402,748 423,748 428,754 494,750 499,758 522,756 552,756 562,759 600,753 609,753 616,759 638,759 646,761 649,753 681,753 691,758 697,766 732,755 748,755 795,760 830,761 831,755 843,755 851,760 912,763 912,773 904,773 768,770 732,772 638,768 534,769 478,765 252,761" />
+				<Baseline points="252,761 912,773" />
+				<TextEquiv index="1">
+					<Unicode>fiehlt dem Hans George Arnoldt, Amtsverwalter zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="253,771 267,771 272,779 361,777 375,780 379,787 412,775 444,775 449,781 473,782 502,776 525,776 527,782 537,777 552,777 558,783 584,784 589,791 621,778 640,779 642,785 666,785 736,780 790,780 791,787 812,784 831,788 833,782 843,782 851,789 912,789 912,799 831,801 815,801 807,797 747,796 573,798 558,793 379,792 366,790 328,789 320,786 317,794 301,794 299,788 253,787" />
+				<Baseline points="253,787 912,799" />
+				<TextEquiv index="1">
+					<Unicode>Kempnitz, Hans Ebling, Bürger und Gastgeber zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="250,801 261,798 270,798 273,805 322,803 344,805 345,813 368,806 395,805 418,801 444,801 444,807 476,802 495,802 504,808 544,809 549,803 554,803 554,812 589,810 626,811 627,804 637,804 645,811 651,811 667,805 682,805 687,811 740,813 751,806 765,806 785,812 823,808 826,814 836,814 838,808 848,808 849,816 860,816 861,808 866,808 868,814 911,816 911,827 904,827 861,824 727,821 725,827 704,827 698,821 589,820 485,817 345,817 261,813 250,811" />
+				<Baseline points="250,813 911,825" />
+				<TextEquiv index="1">
+					<Unicode>Chemnitz, mit dem Vorwerke in der Kappell zu belehnen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="250,832 257,824 266,824 268,830 282,830 301,833 303,825 315,825 323,833 403,833 419,827 434,827 439,833 499,829 527,835 530,829 542,829 545,836 563,837 568,830 581,830 597,836 613,836 632,839 634,831 644,831 647,837 656,837 675,831 690,831 697,838 721,838 728,832 743,832 757,840 767,840 769,832 782,832 782,844 795,839 813,839 816,833 828,833 831,847 834,847 834,849 816,850 762,848 721,853 697,853 695,847 603,847 568,845 563,839 556,843 542,844 393,843 384,841 349,842 320,840 303,841 250,839" />
+				<Baseline points="250,839 834,849" />
+				<TextEquiv index="1">
+					<Unicode>das dieser von Hans Diebell in der Kappel erkauft.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="275,863 291,860 300,860 307,863 330,862 333,870 352,857 363,857 365,866 376,864 422,863 424,872 441,858 457,858 466,865 510,867 513,860 524,860 526,866 539,866 552,869 552,876 410,874 330,877 326,877 291,876 284,872 275,871" />
+				<Baseline points="275,871 552,876" />
+				<TextEquiv index="1">
+					<Unicode>(15)94, den 28. Novembris.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>1594, November
+Friedrich Wilhelm, Herzog zu Sachsen, Administrator, be-
+fiehlt dem Hans George Arnoldt, Amtsverwalter zu
+Kempnitz, Hans Ebling, Bürger und Gastgeber zu
+Chemnitz, mit dem Vorwerke in der Kappell zu belehnen,
+das dieser von Hans Diebell in der Kappel erkauft.
+(15)94, den 28. Novembris.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="259,888 909,888 909,928 259,928" />
+			<!-- line left out: id="r4l0" points="259,889 279,889 283,898 308,888 311,888 323,889 334,893 366,893 378,892 404,890 408,890 453,895 475,894 484,894 504,897 506,891 515,891 521,898 527,898 540,891 544,891 572,895 591,897 604,903 608,897 619,894 629,894 640,898 647,899 656,893 666,893 693,893 704,897 752,897 828,895 842,895 869,896 902,896 902,902 909,902 909,909 862,909 856,909 812,908 716,907 704,906 647,906 640,908 631,908 604,905 540,904 515,903 443,906 435,906 362,902 336,898 334,906 324,906 323,900 283,900 270,899 259,898" baseline="259,899 338,900 590,904 856,908 909,909" reason: differs: "Or.P" against "| | " | Wikisource:  | next_nc_e1: Or. Pap. mit Fragment des hinten aufgedrückten Si und Unter- | german_print2_15: Or. Pap. mit Fragment des hinten aufgedrückten Sii und Unter- -->
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="464,918 480,920 482,911 486,911 487,917 539,913 541,919 556,920 570,914 601,913 603,919 634,918 653,913 664,913 672,918 702,921 702,928 664,928 653,928 634,926 472,925 464,921" />
+				<Baseline points="464,924 702,927" />
+				<TextEquiv index="1">
+					<Unicode>schrift des Administrators.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>schrift des Administrators.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="245,964 908,964 908,1180 245,1180" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="455,969 493,969 494,977 518,964 533,964 542,971 586,972 588,966 600,966 601,975 635,967 652,967 653,980 656,980 656,982 600,981 493,985 484,985 462,984 455,979" />
+				<Baseline points="455,979 656,982" />
+				<TextEquiv index="1">
+					<Unicode>1595, November 18.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="249,991 264,991 264,998 275,998 284,1000 302,992 330,993 332,999 343,999 344,993 355,993 357,999 389,1000 395,994 405,994 431,1002 438,995 448,995 456,1001 491,995 495,1004 507,1002 543,1002 553,1005 559,997 571,997 572,1005 632,1004 656,998 674,998 705,1003 748,1005 753,999 764,999 768,1005 778,1005 784,1013 823,1000 851,1001 856,1008 863,1001 868,1001 901,1007 906,1015 908,1015 908,1019 906,1019 722,1014 612,1014 249,1007" />
+				<Baseline points="249,1007 908,1017" />
+				<TextEquiv index="1">
+					<Unicode>Das Handwerk der Leinweber zu Mittweida, Colditz,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l2" custom="readingOrder {index:2;}">
+				<Coords points="248,1018 261,1018 265,1026 281,1024 327,1024 362,1027 374,1020 383,1020 393,1026 416,1027 418,1021 453,1021 459,1033 465,1027 487,1026 504,1026 509,1034 515,1034 515,1028 563,1029 601,1027 618,1029 633,1033 635,1025 646,1025 648,1033 669,1024 680,1024 681,1030 716,1028 731,1031 753,1026 756,1032 768,1032 773,1026 778,1026 780,1032 790,1032 818,1027 840,1027 861,1031 902,1033 908,1037 908,1039 902,1043 841,1043 698,1040 342,1037 332,1035 248,1034" />
+				<Baseline points="248,1033 908,1043" />
+				<TextEquiv index="1">
+					<Unicode>Leissnigck und Harttau ersucht die kurfürstlichen Wittums-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l3" custom="readingOrder {index:3;}">
+				<Coords points="246,1049 278,1048 290,1051 362,1046 367,1046 384,1047 388,1055 400,1055 407,1047 427,1047 434,1059 444,1051 528,1049 556,1049 558,1055 582,1054 622,1057 668,1057 690,1051 702,1051 703,1059 746,1052 764,1052 767,1058 790,1060 792,1053 823,1058 847,1059 848,1053 858,1053 878,1060 884,1060 884,1053 895,1053 897,1059 905,1059 905,1069 884,1069 825,1069 613,1067 319,1061 293,1054 290,1060 246,1060" />
+				<Baseline points="246,1060 905,1069" />
+				<TextEquiv index="1">
+					<Unicode>räthe zu Rochlitz um Schutz gegen den Missbrauch der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l4" custom="readingOrder {index:4;}">
+				<Coords points="245,1070 263,1070 268,1076 293,1071 303,1071 310,1077 355,1078 355,1070 357,1070 390,1073 391,1081 410,1082 431,1079 488,1080 489,1074 499,1074 517,1082 523,1082 524,1074 535,1074 537,1082 546,1082 565,1076 585,1076 592,1082 605,1077 652,1077 656,1084 671,1082 709,1081 773,1084 774,1078 791,1078 808,1086 814,1086 814,1079 826,1079 827,1085 889,1084 907,1089 907,1091 901,1091 889,1099 871,1099 815,1095 565,1093 395,1088 357,1090 310,1090 303,1086 245,1086" />
+				<Baseline points="245,1086 907,1096" />
+				<TextEquiv index="1">
+					<Unicode>Privilegien, dessen sich die Stadt Kemnitz und der zuge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l5" points="250,1102 264,1097 275,1097 276,1103 288,1103 301,1101 307,1101 318,1105 333,1099 349,1099 380,1104 391,1105 392,1099 404,1099 405,1105 425,1105 433,1109 448,1100 460,1100 461,1107 471,1107 480,1109 494,1100 510,1100 517,1106 536,1101 548,1101 550,1107 561,1107 581,1108 581,1102 597,1102 598,1111 628,1109 639,1109 640,1103 651,1103 682,1103 691,1110 727,1110 752,1111 752,1104 762,1104 763,1110 774,1110 784,1111 784,1120 727,1120 701,1122 691,1122 640,1119 597,1118 577,1118 548,1117 536,1117 494,1116 471,1115 392,1115 371,1114 333,1114 288,1113 276,1113 250,1112" baseline="250,1112 479,1115 700,1119 716,1119 784,1120" reason: models differ | Wikisource: rdnete Ausschuss des Handwerks schuldig mache. | next_nc_e1: rdnete Ausschuss des Handwerks schuldig mache. | german_print2_15: ordnete Ausschuss des Handwerks schuldig mache. -->
+			<TextLine id="r5l6" custom="readingOrder {index:6;}">
+				<Coords points="270,1132 309,1133 310,1142 329,1129 341,1129 342,1136 398,1131 400,1143 419,1130 434,1130 443,1137 488,1138 490,1132 502,1132 503,1138 531,1141 531,1148 385,1146 309,1149 300,1149 277,1148 270,1143" />
+				<Baseline points="270,1143 531,1148" />
+				<TextEquiv index="1">
+					<Unicode>1595, den 18. Novembris.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l7" points="252,1159 262,1158 268,1157 273,1157 289,1158 305,1158 310,1164 318,1164 328,1165 329,1159 341,1159 346,1164 383,1161 396,1161 424,1166 437,1167 437,1161 439,1161 472,1165 479,1163 514,1163 514,1174 526,1171 532,1171 534,1164 575,1163 590,1163 591,1174 608,1164 631,1164 632,1175 651,1165 660,1164 673,1164 708,1165 709,1176 726,1169 731,1169 752,1173 755,1167 764,1166 773,1166 773,1180 764,1180 731,1178 632,1178 554,1177 525,1177 472,1179 413,1179 403,1179 357,1178 346,1178 329,1173 274,1172 262,1171 252,1170" baseline="252,1171 365,1173 635,1177 726,1178 773,1179" reason: differs: "Glei" against "| | " | Wikisource:  | next_nc_e1: Gleichzeitige Copie. (A. L.-H. Ch. Bd. VI Bl. 1—8.)
+ | german_print2_15: Gleichzeitige Copie. (A. L.-H. Ch. Bd. VI Bl. 1— 8.)
+ -->
+			<TextEquiv index="1">
+				<Unicode>1595, November 18.
+Das Handwerk der Leinweber zu Mittweida, Colditz,
+Leissnigck und Harttau ersucht die kurfürstlichen Wittums-
+räthe zu Rochlitz um Schutz gegen den Missbrauch der
+Privilegien, dessen sich die Stadt Kemnitz und der zuge-
+1595, den 18. Novembris.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="449,1210 648,1210 648,1231 449,1231" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="449,1214 487,1214 488,1223 509,1210 525,1210 525,1218 547,1217 569,1212 582,1212 585,1218 632,1217 648,1220 648,1230 525,1227 487,1231 478,1231 456,1230 449,1225" />
+				<Baseline points="449,1226 648,1229" />
+				<TextEquiv index="1">
+					<Unicode>1595, December 29.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>1595, December 29.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="189,1236 906,1236 906,1343 189,1343" />
+			<!-- line left out: id="r7l0" points="189,1240 206,1240 224,1243 242,1236 247,1236 261,1237 303,1238 315,1243 341,1239 350,1239 353,1245 369,1245 407,1247 407,1239 418,1239 421,1246 447,1242 450,1242 459,1246 494,1242 499,1242 508,1249 517,1248 541,1247 547,1247 580,1243 593,1243 599,1247 612,1251 613,1244 624,1244 631,1248 643,1252 653,1244 664,1244 666,1251 676,1251 684,1252 696,1244 709,1244 709,1252 721,1250 750,1250 765,1252 766,1244 779,1244 780,1253 792,1251 801,1246 812,1246 812,1252 837,1247 849,1247 850,1253 882,1253 882,1247 898,1247 899,1256 906,1256 906,1262 898,1263 825,1263 801,1262 780,1261 738,1260 709,1260 696,1260 676,1259 664,1260 631,1260 625,1260 593,1259 517,1258 505,1257 459,1262 447,1262 433,1256 421,1256 369,1255 353,1255 341,1254 315,1253 287,1253 247,1252 206,1256 196,1256 189,1251" baseline="189,1254 223,1253 276,1252 287,1252 401,1255 642,1259 653,1259 906,1263" reason: differs: "130." against "| st" | Wikisource:  | next_nc_e1: 130. Der Ausschuss der privilegirten Städte des Leinweberhandwerks | german_print2_15: 130. Der Ausschuss der privilegirten Städte des Leinweberhandwerks -->
+			<TextLine id="r7l1" custom="readingOrder {index:1;}">
+				<Coords points="242,1262 257,1262 260,1270 275,1268 288,1264 301,1264 304,1270 343,1268 356,1271 359,1278 381,1265 394,1265 397,1272 428,1273 439,1267 450,1267 453,1275 469,1273 490,1275 496,1268 500,1268 500,1274 529,1269 559,1268 565,1278 588,1270 599,1270 603,1277 716,1270 720,1278 727,1276 766,1277 783,1271 797,1271 801,1278 854,1279 855,1273 866,1273 869,1281 893,1279 904,1283 904,1286 893,1290 659,1288 633,1286 630,1292 618,1292 615,1285 559,1285 480,1288 453,1283 439,1282 428,1288 415,1288 414,1282 359,1283 304,1280 242,1279" />
+				<Baseline points="242,1278 904,1290" />
+				<TextEquiv index="1">
+					<Unicode>Kembnitz, Freybergk, Tzschopaw, Odern, Francken-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l2" custom="readingOrder {index:2;}">
+				<Coords points="239,1289 252,1289 256,1296 296,1295 299,1289 309,1289 335,1297 359,1297 360,1291 400,1291 409,1293 412,1299 424,1299 427,1293 443,1293 445,1299 455,1293 469,1293 481,1297 560,1301 575,1303 577,1296 588,1296 590,1302 599,1299 650,1302 651,1296 667,1296 668,1302 725,1302 759,1304 759,1297 773,1297 773,1303 825,1299 838,1304 848,1299 857,1299 857,1305 876,1305 894,1300 904,1300 904,1315 577,1312 427,1309 409,1307 283,1310 256,1305 239,1304" />
+				<Baseline points="239,1304 904,1316" />
+				<TextEquiv index="1">
+					<Unicode>bergk und Rochlitz verwahrt sich vor den kurfürstl.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l3" custom="readingOrder {index:3;}">
+				<Coords points="237,1323 247,1321 269,1321 270,1315 281,1315 281,1322 291,1322 292,1328 312,1316 333,1316 347,1320 357,1317 368,1317 370,1323 415,1324 430,1322 439,1319 450,1319 450,1326 511,1326 531,1320 571,1320 581,1321 582,1328 592,1322 607,1322 618,1326 662,1328 672,1330 706,1328 723,1322 736,1322 743,1331 768,1330 769,1324 780,1324 781,1330 815,1331 819,1325 830,1325 832,1333 843,1331 880,1333 880,1325 894,1325 894,1334 904,1334 904,1340 894,1342 880,1342 697,1338 691,1332 678,1343 672,1343 662,1341 571,1338 382,1334 328,1331 237,1330" />
+				<Baseline points="237,1330 723,1339 904,1340" />
+				<TextEquiv index="1">
+					<Unicode>sächs. Witthumsräthen zu Rochlitz gegen Beschwerden des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Kembnitz, Freybergk, Tzschopaw, Odern, Francken-
+bergk und Rochlitz verwahrt sich vor den kurfürstl.
+sächs. Witthumsräthen zu Rochlitz gegen Beschwerden des</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="398,1540 654,1540 654,1568 398,1568" />
+			<!-- line left out: id="r8l0" points="398,1549 406,1549 412,1549 438,1549 447,1549 460,1549 473,1549 478,1540 486,1540 503,1540 515,1540 528,1540 528,1549 529,1549 537,1540 545,1540 557,1540 557,1552 574,1552 574,1540 582,1540 582,1550 654,1550 654,1558 582,1558 582,1568 574,1568 570,1560 557,1560 557,1568 545,1568 528,1568 515,1568 503,1568 486,1568 478,1568 478,1558 456,1561 447,1561 428,1561 411,1561 398,1558" baseline="398,1558 654,1558" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnpuldigital slub-dresden de/ppn301 25964274
+ | german_print2_15: htp Nligital slub-dresden de ppn3012586474
+ -->
+		</TextRegion>
+		<GraphicRegion id="r9">
+			<Coords points="0,0 976,0 976,1585 0,1585" />
+		</GraphicRegion>
+		<SeparatorRegion id="r10">
+			<Coords points="945,678 972,678 972,1490 945,1490" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+| colspan="2"; style="text-align:center;" | 1594, August 11.
+| style="vertical-align:top;"| 126.
+| Das Handwerk der Leinweber zu Kembniz ersucht den Rath der Stadt um Genehmigung der von dem Handwerk berathenen Artikel, insoweit sie von den 1559 gegebenen Artikeln abweichen.
+|
+| (Chemnitz), 1594, 11. August.
+|
+| Concept auf Pap. (A. L.-H. Ch. Bd. XI Bl. 9–27.)
+| colspan="2"; style="text-align:center;" | 1594, September 20.
+| style="vertical-align:top;"| 127.
+| Friedrich Wilhelm, Herzog zu Sachsen, Administrator, befiehlt dem Hans Georg Arnold, Amtsverwalter zu Kembnitz, dem Mandate des Kurfürsten August d. d. Torgaw, 18. Maii (15)83 gemäss keine Eingabe ohne Unterschrift des Vor- und Zunamen anzunehmen, damit der Verführung zanksüchtiger und ungelernter Procuratores gesteuert werde.
+|
+| Torgau, (15)94, den 20. Septembris.
+|
+| Or. Pap. mit Fragment des Siegels und Unterschrift des Administrators.
+| colspan="2"; style="text-align:center;" | 1594, November 28.
+| style="vertical-align:top;"| 128.
+| Friedrich Wilhelm, Herzog zu Sachsen, Administrator, befiehlt dem Hans George Arnoldt, Amtsverwalter zu Kempnitz, Hans Ebling, Bürger und Gastgeber zu Chemnitz, mit dem Vorwerke in der Kappell zu belehnen, das dieser von Hans Diebell in der Kappel erkauft.
+|
+| (15)94, den 28. Novembris.
+|
+| Or. Pap. mit Fragment des hinten aufgedrückten Siegels und Unterschrift des Administrators.
+| colspan="2"; style="text-align:center;" | 1595, November 18.
+| style="vertical-align:top;"| 129.
+| Das Handwerk der Leinweber zu Mittweida, Colditz, Leissnigck und Harttau ersucht die kurfürstlichen Wittumsräthe zu Rochlitz um Schutz gegen den Missbrauch der Privilegien, dessen sich die Stadt Kemnitz und der zugeordnete Ausschuss des Handwerks schuldig mache.
+|
+| 1595, den 18. Novembris.
+|
+| Gleichzeitige Copie. (A. L.-H. Ch. Bd. VI Bl. 1–8.)
+| colspan="2"; style="text-align:center;" | 1595, December 29.
+| style="vertical-align:top;"| 130.
+| Der Ausschuss der privilegirten Städte des Leinweberhandwerks Kembnitz, Freybergk, Tzschopaw, Odern, Franckenbergk und Rochlitz verwahrt sich vor den kurfürstl. sächs. Witthumsräthen zu Rochlitz gegen Beschwerden des
+-->
+	</Page>
+</PcGts>

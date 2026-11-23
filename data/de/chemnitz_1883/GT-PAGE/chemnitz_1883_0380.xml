@@ -1,0 +1,413 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:08:22</Created>
+		<LastChange>2026-11-23T14:08:22</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/380 revision 5016036 of 2026-08-20T07:38:21Z, proofread level 3, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0380.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro10586745527503460673" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="16" regionRef="r16" />
+				<RegionRefIndexed index="21" regionRef="r21" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,1040 24,1040 24,1323 0,1323" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="551,150 636,150 636,165 551,165" />
+			<!-- line left out: id="r1l0" points="551,150 585,150 613,160 636,160 636,161 585,165 551,165" baseline="551,164 636,165" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 168 —
+ | german_print2_15: 168 —
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="211,201 917,201 917,482 211,482" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="213,206 247,207 247,201 288,201 292,207 359,208 359,202 377,202 403,203 405,209 483,210 484,204 488,204 490,210 533,209 573,212 619,212 638,214 638,207 704,207 707,213 767,214 768,208 779,208 780,215 796,214 830,216 831,209 843,209 854,213 917,211 917,226 854,225 736,229 725,229 724,223 596,224 561,226 513,225 470,220 305,220 288,217 213,216" />
+				<Baseline points="213,216 917,226" />
+				<TextEquiv index="1">
+					<Unicode>nach Rom, und dieser erlangte gegen das Versprechen, daſs sich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l1" points="212,226 226,226 226,232 242,227 248,227 259,232 260,226 271,226 272,232 283,232 294,233 314,227 325,227 327,234 355,234 374,228 391,228 413,233 425,235 426,229 431,229 432,236 467,236 468,230 479,230 480,236 514,231 519,231 520,237 525,237 537,238 538,231 549,231 557,237 610,232 628,232 630,238 642,236 663,236 669,233 687,233 687,249 669,249 663,248 574,252 557,252 551,247 480,246 378,245 374,245 338,244 284,243 212,242" baseline="212,242 314,243 610,247 687,249" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: Zwickau dem Urteile der heiligen Mutterk | german_print2_15: Zwickau dem Urteile der heiligen Mutterk -->
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="212,253 246,252 256,252 257,259 269,259 270,253 280,253 294,258 341,261 341,254 348,254 350,260 368,260 383,254 394,254 402,260 415,255 438,255 447,261 458,256 469,256 477,262 492,262 505,256 517,256 524,260 560,257 560,273 387,272 322,274 300,274 212,269" />
+				<Baseline points="212,268 560,272" />
+				<TextEquiv index="1">
+					<Unicode>Aufhebung der kirchlichen Strafe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="265,278 271,278 331,279 331,285 363,286 363,279 375,279 375,285 436,281 452,286 462,287 468,282 512,282 513,288 524,286 544,287 577,284 599,284 618,289 633,290 634,284 644,284 646,290 694,290 734,285 745,285 746,292 824,292 836,286 843,286 856,288 886,287 888,293 916,293 916,306 906,306 856,300 843,302 745,300 710,301 694,299 577,300 544,298 357,300 265,294" />
+				<Baseline points="265,294 916,303" />
+				<TextEquiv index="1">
+					<Unicode>Der Burggraf Albrecht hatte inzwischen von den neun Dörfern,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l4" points="212,313 218,304 230,304 231,311 266,310 273,310 287,304 299,304 301,312 312,311 328,311 343,319 348,307 360,306 372,306 390,310 418,312 426,310 434,307 448,307 449,315 466,315 474,313 483,313 484,307 505,307 505,300 518,300 530,315 536,315 536,308 550,308 557,315 567,315 599,319 609,310 621,310 637,313 679,310 696,310 704,316 716,315 721,315 741,316 778,317 780,311 790,311 821,312 822,318 839,318 839,312 857,312 863,313 865,319 877,318 884,318 916,323 916,325 884,328 806,328 663,327 616,327 609,327 599,320 567,324 530,324 518,334 505,334 505,325 484,325 448,323 434,323 372,322 273,321 266,321 212,320" baseline="212,320 272,320 530,323 598,324 894,328 916,329" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: die er dem Abte entrissen, ) drei — Stein, Pleiſsa und Kändler — | german_print2_15: die er dem Abte entrissen, ¹) drei — Stein, Pleilsa und Kändler — -->
+			<!-- line left out: id="r2l5" points="211,336 256,331 265,330 271,330 272,336 289,335 295,335 392,332 403,332 404,340 417,338 429,333 435,333 448,338 474,339 501,340 516,340 517,334 530,334 539,340 552,340 575,340 577,348 602,335 613,335 620,341 654,336 658,336 660,343 671,343 677,336 691,336 692,342 733,337 741,337 741,343 773,343 775,337 779,337 807,344 818,344 843,344 843,351 870,344 888,344 894,339 904,339 916,343 916,355 847,356 843,356 773,353 751,355 733,355 692,352 671,351 613,351 580,353 577,353 552,350 530,350 517,350 510,349 474,354 463,354 436,349 403,348 392,348 340,347 266,346 211,346" baseline="211,346 294,346 602,350 807,353 870,354 916,355" reason: differs: "anVe" against "n, ⟦" | Wikisource:  | next_nc_e1: an Veit von hönburg verloren, der herbei geeilt war, nicht | german_print2_15: an Veit von hönburg verloren, der herbei geeilt war, nicht -->
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="211,362 241,362 261,364 262,356 278,356 279,362 296,362 310,371 315,358 326,357 338,357 370,364 390,364 408,358 436,359 446,365 468,365 469,372 499,366 522,366 523,360 534,360 535,368 547,366 609,366 623,373 628,367 744,362 762,362 769,368 785,369 787,363 798,363 799,371 808,371 823,363 838,363 843,369 861,364 872,364 873,371 916,371 916,381 907,381 645,377 469,377 456,375 211,372" />
+				<Baseline points="211,371 916,380" />
+				<TextEquiv index="1">
+					<Unicode>um dem Abte zu helfen, sondern um an seinem Feinde Rache zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="211,388 222,388 229,391 235,382 246,382 247,388 294,388 315,382 331,382 333,389 414,390 415,384 420,384 458,385 468,391 479,391 479,385 489,385 514,386 522,392 547,388 568,387 596,393 627,391 645,395 646,387 652,387 653,393 688,388 701,389 709,392 771,395 787,389 826,389 826,396 869,396 884,390 895,390 896,398 916,397 916,407 907,407 742,404 726,398 726,404 211,398" />
+				<Baseline points="211,397 916,406" />
+				<TextEquiv index="1">
+					<Unicode>nehmen. Nun wandte sich der Abt mit der Bitte um Hilfe an den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="213,408 226,408 227,414 249,414 257,408 270,408 270,416 283,416 284,409 289,409 291,415 337,415 337,422 357,409 369,409 370,417 392,416 406,410 459,411 460,417 491,417 494,411 502,411 502,419 537,412 578,413 579,419 591,419 592,413 601,413 603,419 619,419 633,413 639,413 648,426 670,419 693,420 694,414 705,414 720,422 726,422 726,414 738,414 740,421 749,421 765,414 770,414 777,415 778,422 829,420 844,426 846,416 863,416 872,414 883,414 887,416 889,424 906,421 916,421 916,434 906,434 887,432 883,434 864,434 777,429 460,431 439,427 406,426 213,424" />
+				<Baseline points="213,424 391,425 916,432" />
+				<TextEquiv index="1">
+					<Unicode>Landesherrn, den Markgrafen Wilhelm I., und die Bereitwilligkeit,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="211,440 273,435 290,435 307,435 309,441 334,440 353,443 353,435 365,435 366,441 405,442 424,445 424,436 435,436 436,442 462,442 469,437 483,437 496,446 502,443 554,444 568,445 568,451 589,439 594,439 597,445 660,444 662,453 682,440 693,440 694,446 705,446 707,440 714,440 714,449 721,449 734,440 745,440 746,446 756,446 765,448 780,441 800,441 803,447 828,447 839,449 840,442 845,442 847,448 874,448 887,442 899,442 906,449 917,449 917,457 839,457 828,460 817,460 803,457 756,456 525,456 463,453 365,451 211,450" />
+				<Baseline points="211,449 917,457" />
+				<TextEquiv index="1">
+					<Unicode>mit welcher dieser darauf einging, beweist, daſs das Vorgeben des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="211,474 216,461 233,461 268,467 268,474 289,468 325,461 336,461 345,467 418,468 448,470 450,463 461,463 462,469 473,469 508,464 523,464 531,470 578,467 596,477 601,470 643,465 671,466 684,471 700,470 700,482 651,482 643,482 336,477 211,477" />
+				<Baseline points="211,477 325,476 700,481" />
+				<TextEquiv index="1">
+					<Unicode>Abtes, er könne in seiner Heimat auf Schutz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>nach Rom, und dieser erlangte gegen das Versprechen, daſs sich
+Aufhebung der kirchlichen Strafe
+Der Burggraf Albrecht hatte inzwischen von den neun Dörfern,
+um dem Abte zu helfen, sondern um an seinem Feinde Rache zu
+nehmen. Nun wandte sich der Abt mit der Bitte um Hilfe an den
+Landesherrn, den Markgrafen Wilhelm I., und die Bereitwilligkeit,
+mit welcher dieser darauf einging, beweist, daſs das Vorgeben des
+Abtes, er könne in seiner Heimat auf Schutz</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="690,239 713,239 713,249 690,249" />
+		</GraphicRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="716,234 917,234 917,254 716,254" />
+			<!-- line left out: id="r4l0" points="716,234 727,234 728,241 757,240 782,238 796,238 821,240 846,238 850,238 890,244 896,236 908,236 909,243 917,243 917,252 870,254 859,254 846,251 821,250 770,250 716,249" baseline="716,249 757,249 917,251" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: he unterwerfe, die
+ | german_print2_15: he unterwerfe, die
+ -->
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="578,289 601,289 601,299 578,299" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="373,332 390,332 390,348 373,348" />
+		</GraphicRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="204,467 918,467 918,1077 204,1077" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="723,472 752,467 763,467 795,472 817,473 818,467 829,467 831,473 864,473 865,481 905,468 918,468 918,484 869,485 865,485 795,482 723,482" />
+				<Baseline points="723,482 918,484" />
+				<TextEquiv index="1">
+					<Unicode>nicht rechnen, auf</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l1" custom="readingOrder {index:1;}">
+				<Coords points="211,486 227,486 234,492 262,487 295,487 296,493 308,493 309,487 353,487 354,493 391,494 393,488 404,488 420,492 425,487 465,489 480,491 494,495 513,489 523,489 531,490 533,496 553,496 554,490 565,490 566,504 587,502 591,493 626,491 631,491 633,497 645,497 678,491 688,491 698,498 817,492 825,499 837,499 855,493 871,493 872,499 896,497 910,499 916,504 916,506 910,509 720,510 709,510 566,508 545,506 465,504 211,502" />
+				<Baseline points="211,501 916,509" />
+				<TextEquiv index="1">
+					<Unicode>Unwahrheit beruhte. Der Markgraf beauftragte mit der Unter-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l2" custom="readingOrder {index:2;}">
+				<Coords points="210,521 219,518 242,518 243,512 254,512 255,518 290,518 312,520 313,512 326,512 326,518 353,513 365,513 371,519 393,514 395,520 410,520 431,524 433,514 445,514 446,522 456,522 473,515 478,515 492,516 502,523 513,515 524,515 543,519 604,523 619,517 643,517 661,521 740,524 741,518 777,518 778,525 813,525 813,519 825,519 827,525 916,520 916,535 864,537 854,537 827,535 643,532 326,529 279,533 210,527" />
+				<Baseline points="210,528 337,528 916,535" />
+				<TextEquiv index="1">
+					<Unicode>suchung der Sache die Bischöfe von Meiſsen und Naumburg und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l3" custom="readingOrder {index:3;}">
+				<Coords points="210,539 221,539 235,544 260,538 274,538 305,545 324,553 329,540 346,540 360,545 360,539 413,540 420,544 432,541 445,541 446,547 481,546 527,542 573,542 575,549 615,543 637,543 637,549 664,544 679,544 687,550 703,550 713,552 714,544 725,544 726,551 760,551 760,544 809,544 815,550 828,545 843,545 863,553 869,545 880,545 882,551 917,552 917,561 762,563 746,563 713,557 703,560 687,560 413,556 329,560 324,555 210,554" />
+				<Baseline points="210,553 917,561" />
+				<TextEquiv index="1">
+					<Unicode>die Räte Apel Vitzthum und Heinrich Honsberg. Nach deren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l4" custom="readingOrder {index:4;}">
+				<Coords points="210,565 233,565 244,568 263,565 267,565 331,565 349,572 364,565 375,565 376,572 388,571 410,566 423,566 424,572 490,573 491,567 525,567 527,575 538,573 622,575 623,569 634,569 635,575 715,570 716,576 727,576 728,570 739,570 740,578 772,574 823,571 828,571 831,577 846,578 856,574 870,571 887,571 894,575 916,577 916,587 889,587 882,586 870,581 868,587 839,585 751,586 573,583 470,585 457,588 445,588 445,582 210,581" />
+				<Baseline points="210,580 823,585 916,587" />
+				<TextEquiv index="1">
+					<Unicode>Urteil muſste der Burggraf den von ihm in Rabenstein bestellten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l5" custom="readingOrder {index:5;}">
+				<Coords points="211,591 231,591 233,597 286,591 311,591 312,597 350,597 352,591 360,591 360,597 426,598 427,592 438,592 459,600 465,593 477,593 478,600 488,600 509,594 514,594 521,599 532,600 553,598 582,599 627,595 641,596 659,601 660,595 668,595 668,603 679,601 738,602 759,597 770,597 782,602 783,596 795,596 796,602 822,601 855,597 877,597 878,603 916,603 916,613 896,617 838,617 830,617 822,612 795,611 233,611 231,605 211,606" />
+				<Baseline points="211,606 256,605 916,613" />
+				<TextEquiv index="1">
+					<Unicode>Vogt abberufen und die besetzten Dörfer innerhalb 15 Tagen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l6" custom="readingOrder {index:6;}">
+				<Coords points="210,622 284,622 286,629 323,617 329,617 339,618 355,623 375,617 390,617 390,623 402,621 418,621 429,624 430,618 441,618 442,626 453,624 466,619 471,619 473,625 552,620 553,627 572,626 590,620 602,620 603,626 615,626 639,621 651,621 652,629 663,627 679,627 698,635 703,622 719,622 733,625 813,628 836,628 845,623 857,623 872,628 894,629 895,623 907,623 908,630 917,630 917,639 819,638 813,641 801,641 733,637 639,637 615,630 615,636 539,635 508,640 496,640 473,635 210,632" />
+				<Baseline points="210,632 917,638" />
+				<TextEquiv index="1">
+					<Unicode>räumen. Die Entscheidung über die dem Abte zu gewährende</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l7" points="211,643 219,642 230,642 244,647 265,643 276,643 277,649 288,649 295,643 307,643 308,649 401,649 417,650 417,644 433,644 455,645 467,650 483,649 495,649 520,649 522,658 534,645 549,645 592,646 592,652 604,652 604,646 615,646 616,653 628,652 659,647 663,647 665,655 674,651 699,648 710,648 753,655 759,654 781,654 824,656 825,648 836,648 838,654 849,649 860,649 861,655 888,654 897,654 916,655 916,665 898,665 825,664 792,663 663,663 659,663 582,662 549,663 542,663 541,654 534,654 526,661 513,666 495,666 474,661 467,660 455,660 455,666 451,666 433,660 402,660 385,659 356,662 319,662 308,662 288,659 265,659 244,659 219,659 211,658" baseline="211,658 373,659 811,663 870,664 916,665" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Entschädigung wurde vertagt.²) Sicher ist ihm eine solche zu- | german_print2_15: Entschädigung wurde vertagt. ²) Sicher ist ihm eine solche zu- -->
+			<!-- line left out: id="r7l8" points="208,675 220,675 227,669 236,669 282,669 289,669 303,675 339,675 340,669 352,669 353,676 364,675 375,675 376,682 397,669 409,669 410,678 421,676 470,676 520,676 521,684 539,671 547,671 549,677 560,677 584,678 620,677 640,677 697,674 709,674 715,673 730,673 733,679 755,679 763,674 774,674 787,678 798,681 812,675 833,675 884,675 908,680 916,684 916,687 908,690 826,690 812,690 715,689 697,688 671,680 662,688 649,689 640,692 630,692 584,688 573,688 549,687 547,693 539,693 525,687 380,688 289,689 282,689 265,689 258,685 236,684 220,688 208,688" baseline="208,684 288,684 379,685 812,689 916,690" reason: differs: "gebi" against "⟦⟧ ⟦" | Wikisource:  | next_nc_e1: gebilligt worden, denn am 12. Januar 1390) bekundete Abt Hein- | german_print2_15: gebilligt worden, denn am 12. januar 1390*) bekundete Abt Hein- -->
+			<TextLine id="r7l9" custom="readingOrder {index:9;}">
+				<Coords points="209,700 217,695 272,694 284,694 284,700 302,697 304,703 311,703 332,695 343,695 345,701 361,702 381,696 392,695 398,695 400,702 421,702 422,696 433,696 434,703 459,700 471,697 483,697 484,703 520,698 520,710 531,703 556,704 557,698 569,698 570,704 580,704 581,698 636,699 638,705 651,705 672,699 687,699 689,706 722,705 724,699 827,700 828,706 839,706 841,700 851,700 852,706 879,706 899,700 904,700 907,713 915,713 915,718 902,718 899,718 795,715 700,715 651,708 651,715 605,716 434,715 413,712 241,712 209,710" />
+				<Baseline points="209,710 915,716" />
+				<TextEquiv index="1">
+					<Unicode>rich, daſs die Markgräfin Elisabeth, die Gemahlin Wilhelms I.,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l10" custom="readingOrder {index:10;}">
+				<Coords points="208,726 220,726 230,721 240,721 242,728 253,721 264,721 265,727 306,728 307,721 318,721 353,721 354,729 365,727 381,727 409,735 423,735 438,722 519,723 520,731 531,731 544,723 555,723 557,729 624,730 646,733 646,725 657,725 660,731 671,731 685,737 698,730 716,731 717,725 770,725 772,732 820,730 832,730 842,732 859,726 863,726 865,732 876,732 886,735 887,727 891,727 893,733 916,733 916,742 573,740 501,741 448,738 446,744 438,744 423,738 415,742 409,742 353,737 208,736" />
+				<Baseline points="208,736 916,742" />
+				<TextEquiv index="1">
+					<Unicode>welche seit dem 25. Juli 1389 die von der Stadt Chemnitz bisher</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l11" custom="readingOrder {index:11;}">
+				<Coords points="207,753 250,754 250,747 262,747 278,752 290,746 296,746 310,747 310,753 343,753 343,746 356,746 384,747 385,754 411,749 432,748 440,749 455,754 472,756 472,749 483,749 512,755 545,755 559,749 565,749 573,757 584,757 585,750 590,750 591,756 673,754 700,757 701,751 705,751 719,755 738,755 749,758 758,751 766,751 768,757 780,752 785,752 786,758 829,758 853,756 915,758 915,768 853,768 805,766 768,767 766,773 758,773 749,767 665,767 619,769 585,766 519,764 325,766 278,763 207,762" />
+				<Baseline points="207,762 915,767" />
+				<TextEquiv index="1">
+					<Unicode>an den Burggrafen Albrecht von Leisnig entrichtete Jahresrente von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l12" points="208,778 228,778 257,774 270,774 277,773 293,773 293,779 316,779 317,773 328,773 370,773 378,780 392,779 403,774 415,774 415,781 427,780 438,780 456,774 479,774 486,781 496,781 497,775 509,775 510,782 521,781 529,781 561,782 579,776 604,776 605,782 632,782 642,783 660,777 665,777 668,784 679,783 693,782 704,782 715,783 724,776 734,776 756,783 779,783 780,777 790,777 820,778 821,785 832,784 861,784 904,781 916,781 916,794 861,797 844,797 832,794 756,793 734,785 724,785 715,796 705,796 692,793 679,793 632,792 547,795 530,795 496,791 464,791 392,790 370,789 328,789 220,789 208,789" baseline="208,789 240,788 257,788 733,792 916,794" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 100 Schock Groschen Freiberger Münze bezog ) und demgemäſs | german_print2_15: 100 Schock Groschen Freiberger Münze bezog ¹) und demgemäſs -->
+			<TextLine id="r7l13" custom="readingOrder {index:13;}">
+				<Coords points="207,805 227,806 230,799 252,799 271,810 276,804 307,799 343,799 352,800 353,806 420,805 439,807 491,807 491,801 502,801 503,807 514,807 516,801 524,801 538,805 571,807 581,802 598,802 600,808 630,808 653,810 655,803 665,803 667,809 731,804 764,807 776,810 776,817 800,811 806,803 817,803 818,809 848,805 888,804 897,811 903,805 916,805 916,820 780,821 776,821 764,819 581,818 559,817 538,811 538,817 465,816 460,820 363,819 207,814" />
+				<Baseline points="207,814 916,820" />
+				<TextEquiv index="1">
+					<Unicode>wohl auch Regierungsgeschäfte wahrzunehmen hatte, das Schloſs</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l14" custom="readingOrder {index:14;}">
+				<Coords points="207,825 240,825 242,831 272,828 288,828 317,831 331,825 342,825 344,832 384,826 412,826 435,830 502,834 503,827 515,827 516,834 559,834 560,828 572,828 579,834 614,835 616,829 627,829 628,836 663,829 675,829 676,835 687,835 688,829 699,829 700,836 710,836 711,842 740,829 755,830 789,838 789,831 801,830 837,830 846,836 855,830 877,830 915,837 915,848 907,848 899,846 837,848 834,848 746,845 592,847 559,844 412,841 207,841" />
+				<Baseline points="207,840 915,846" />
+				<TextEquiv index="1">
+					<Unicode>Rabenstein dem Kloster wieder übergeben habe. Der Abt erklärte,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l15" custom="readingOrder {index:15;}">
+				<Coords points="206,857 229,857 231,851 242,851 244,859 253,854 265,854 285,851 303,851 303,857 315,857 332,851 337,851 339,857 349,857 357,851 372,851 373,857 390,859 390,852 408,852 409,858 428,856 521,859 522,866 545,859 569,854 580,854 595,860 607,860 614,854 624,854 625,862 637,862 638,855 650,855 656,859 668,862 685,855 697,855 698,863 716,861 733,855 753,855 760,861 777,859 796,861 842,861 873,867 874,856 893,857 894,863 915,862 915,872 624,870 607,875 595,875 556,870 526,872 409,873 390,868 332,866 315,872 303,872 242,866 206,866" />
+				<Baseline points="206,866 915,872" />
+				<TextEquiv index="1">
+					<Unicode>vollständig befriedigt zu sein, und gelobte der Fürstin wie allen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l16" custom="readingOrder {index:16;}">
+				<Coords points="205,877 217,877 218,883 237,883 250,877 264,877 264,884 274,884 275,877 280,877 281,883 292,883 293,877 329,877 330,883 341,883 341,877 367,877 374,883 457,878 458,885 486,885 501,879 506,879 519,880 543,885 560,886 574,880 587,880 588,887 598,887 599,880 609,880 635,884 688,887 737,887 757,889 758,881 771,881 776,887 793,887 800,881 809,881 823,882 824,888 845,887 891,889 892,882 902,882 905,888 916,888 916,899 771,897 721,901 704,901 699,897 616,899 609,896 205,893" />
+				<Baseline points="205,892 916,898" />
+				<TextEquiv index="1">
+					<Unicode>der Fehde halber mit dem Banne Belegten, wegen derselben weder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l17" custom="readingOrder {index:17;}">
+				<Coords points="205,903 218,903 218,910 264,909 264,903 270,903 271,909 329,904 332,904 341,909 376,904 405,904 405,910 429,910 429,904 434,904 452,910 487,911 487,905 521,906 563,912 573,912 574,906 586,906 586,912 592,912 643,907 653,912 665,914 666,907 685,907 688,913 698,913 699,907 710,907 710,913 756,910 766,908 779,908 810,913 811,907 822,907 835,911 859,908 881,908 883,914 915,915 915,924 906,927 894,927 875,924 859,924 837,917 835,923 639,923 464,921 329,922 205,918" />
+				<Baseline points="205,918 915,924" />
+				<TextEquiv index="1">
+					<Unicode>bei einem geistlichen noch bei einem weltlichen Gerichte Klage</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l18" custom="readingOrder {index:18;}">
+				<Coords points="205,935 225,935 226,929 237,929 238,935 249,935 250,929 262,929 262,935 285,935 286,942 309,935 315,935 315,929 326,929 327,936 338,936 338,930 386,930 396,935 396,943 419,936 505,935 583,938 603,932 616,932 618,938 646,938 665,945 670,939 743,939 801,937 841,941 860,933 876,933 904,942 905,934 914,934 914,950 893,950 860,950 396,948 205,945" />
+				<Baseline points="205,945 399,945 914,950" />
+				<TextEquiv index="1">
+					<Unicode>erheben, vielmehr, wenn etwa von Rom aus ein weiteres Urteil</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l19" custom="readingOrder {index:19;}">
+				<Coords points="204,962 248,962 249,955 260,955 261,962 272,962 273,968 295,962 301,962 301,954 313,954 313,961 348,962 349,955 354,955 368,956 369,962 418,962 420,956 427,956 443,964 489,963 509,957 526,957 534,965 549,962 627,964 628,958 638,958 640,964 772,960 847,966 874,966 875,960 886,960 895,966 914,966 914,976 830,975 704,978 686,978 675,978 640,977 615,974 509,973 489,967 489,973 277,974 224,976 204,971" />
+				<Baseline points="204,970 914,975" />
+				<TextEquiv index="1">
+					<Unicode>ergehe, dasselbe auf seine Kosten rückgängig machen zu wollen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l20" points="204,982 220,982 261,985 285,981 303,981 304,987 349,986 366,986 396,981 408,981 424,989 431,989 431,982 440,982 441,988 465,988 477,987 484,987 495,991 508,983 533,983 534,989 549,989 550,983 561,983 561,990 575,989 582,989 594,990 596,984 643,984 663,985 664,992 674,992 675,985 687,985 688,991 698,991 716,985 728,985 729,992 739,991 756,991 770,999 775,985 792,985 806,989 816,992 830,985 845,985 858,986 858,992 870,992 872,986 883,986 884,992 907,992 915,994 915,1001 907,1002 838,1002 792,1002 770,1002 675,1001 632,1000 616,999 574,1005 561,1005 561,999 453,1003 441,1003 408,1000 378,1002 366,1002 355,1001 204,997" baseline="204,996 333,997 830,1001 915,1002" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Am 6. März 1396) eignete Markgraf Wilhelm dem Abte Nikolaus | german_print2_15: Am 6. März 1396) eignete Markgraf Wilhelm dem Abte Nikolaus -->
+			<TextLine id="r7l21" custom="readingOrder {index:21;}">
+				<Coords points="204,1006 216,1006 216,1013 228,1013 254,1017 256,1007 354,1007 367,1008 373,1013 397,1013 414,1011 448,1014 448,1024 431,1024 397,1024 374,1024 204,1023" />
+				<Baseline points="204,1023 448,1024" />
+				<TextEquiv index="1">
+					<Unicode>das Schloſs Rabenstein.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l22" custom="readingOrder {index:22;}">
+				<Coords points="256,1033 268,1032 282,1032 301,1035 312,1033 324,1033 324,1040 387,1038 401,1034 407,1034 409,1040 466,1038 477,1041 494,1035 505,1035 506,1042 525,1041 543,1035 558,1035 560,1041 597,1036 611,1036 626,1042 655,1042 671,1036 676,1036 831,1043 831,1037 841,1037 859,1043 891,1044 892,1038 904,1038 905,1044 914,1044 914,1058 905,1058 716,1052 597,1051 596,1057 583,1057 583,1051 256,1049" />
+				<Baseline points="256,1048 914,1053" />
+				<TextEquiv index="1">
+					<Unicode>Trotzdem entbrannte der Kampf um Rabenstein nach wenig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l23" custom="readingOrder {index:23;}">
+				<Coords points="206,1059 211,1059 237,1059 294,1064 395,1065 396,1072 423,1060 439,1060 440,1066 455,1066 455,1076 268,1075 211,1077 206,1077" />
+				<Baseline points="206,1075 455,1076" />
+				<TextEquiv index="1">
+					<Unicode>Jahren von neuem. Die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>nicht rechnen, auf
+Unwahrheit beruhte. Der Markgraf beauftragte mit der Unter-
+suchung der Sache die Bischöfe von Meiſsen und Naumburg und
+die Räte Apel Vitzthum und Heinrich Honsberg. Nach deren
+Urteil muſste der Burggraf den von ihm in Rabenstein bestellten
+Vogt abberufen und die besetzten Dörfer innerhalb 15 Tagen
+räumen. Die Entscheidung über die dem Abte zu gewährende
+rich, daſs die Markgräfin Elisabeth, die Gemahlin Wilhelms I.,
+welche seit dem 25. Juli 1389 die von der Stadt Chemnitz bisher
+an den Burggrafen Albrecht von Leisnig entrichtete Jahresrente von
+wohl auch Regierungsgeschäfte wahrzunehmen hatte, das Schloſs
+Rabenstein dem Kloster wieder übergeben habe. Der Abt erklärte,
+vollständig befriedigt zu sein, und gelobte der Fürstin wie allen
+der Fehde halber mit dem Banne Belegten, wegen derselben weder
+bei einem geistlichen noch bei einem weltlichen Gerichte Klage
+erheben, vielmehr, wenn etwa von Rom aus ein weiteres Urteil
+ergehe, dasselbe auf seine Kosten rückgängig machen zu wollen.
+das Schloſs Rabenstein.
+Trotzdem entbrannte der Kampf um Rabenstein nach wenig
+Jahren von neuem. Die</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="203,1084 913,1084 913,1110 203,1110" />
+			<TextLine id="r8l0" custom="readingOrder {index:0;}">
+				<Coords points="203,1090 238,1085 268,1085 284,1090 302,1091 317,1084 329,1084 330,1091 385,1091 387,1085 418,1085 419,1093 447,1092 462,1086 469,1086 469,1093 504,1092 514,1090 574,1093 589,1087 605,1087 611,1093 617,1093 651,1088 652,1096 661,1096 675,1088 698,1088 700,1094 804,1094 824,1096 824,1089 836,1089 837,1096 847,1096 860,1089 881,1089 881,1095 907,1095 913,1099 913,1102 908,1102 907,1109 783,1104 782,1110 766,1110 759,1107 605,1104 479,1102 291,1103 262,1101 203,1101" />
+				<Baseline points="203,1101 393,1101 913,1105" />
+				<TextEquiv index="1">
+					<Unicode>zu haben, der auf dem Konstanzer Konzile Klage gegen die Burg-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>zu haben, der auf dem Konstanzer Konzile Klage gegen die Burg-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r9">
+			<Coords points="700,472 705,472 705,482 700,482" />
+		</GraphicRegion>
+		<GraphicRegion id="r10">
+			<Coords points="509,697 517,697 517,699 509,699" />
+		</GraphicRegion>
+		<GraphicRegion id="r11">
+			<Coords points="396,726 416,726 416,735 396,735" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="469,1066 487,1066 487,1077 469,1077" />
+		</GraphicRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="490,1061 914,1061 914,1084 490,1084" />
+			<!-- line left out: id="r13l0" points="490,1061 495,1061 532,1061 542,1067 561,1067 562,1061 573,1061 581,1067 604,1065 610,1065 642,1068 653,1062 670,1062 677,1068 693,1068 709,1071 709,1063 726,1063 777,1065 793,1067 827,1069 851,1070 859,1064 869,1064 881,1069 914,1070 914,1080 893,1083 851,1084 840,1084 827,1078 816,1079 811,1079 779,1078 766,1076 751,1078 726,1078 711,1079 705,1079 677,1078 670,1077 638,1078 604,1078 490,1077" baseline="490,1077 653,1077 914,1079" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: huld scheint an dem Abte Ortwin gelegen
+ | german_print2_15: huld scheint an dem Abte Ortwin gelegen
+ -->
+		</TextRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="257,1140 381,1140 381,1159 257,1159" />
+			<!-- line left out: id="r14l0" points="257,1140 286,1140 299,1141 315,1141 354,1144 363,1141 367,1141 368,1147 381,1147 381,1159 368,1159 326,1155 299,1155 286,1156 257,1156" baseline="257,1155 339,1153 381,1155" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: )Fabr. Orig.
+ | german_print2_15: ¹) Fabr. Orig.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r15">
+			<Coords points="388,1140 426,1140 426,1159 388,1159" />
+		</GraphicRegion>
+		<TextRegion id="r16" custom="readingOrder {index:16;} orientation {0;}">
+			<Coords points="200,1145 913,1145 913,1344 200,1344" />
+			<!-- line left out: id="r16l0" points="426,1153 440,1145 451,1145 471,1145 472,1154 474,1154 474,1156 461,1160 452,1160 440,1156 426,1155" baseline="426,1155 440,1155 474,1156" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: . 672.
+ | german_print2_15: . 672.
+ -->
+			<!-- line left out: id="r16l1" points="255,1166 267,1166 293,1167 327,1167 342,1168 353,1172 382,1173 407,1170 430,1168 446,1168 520,1169 559,1171 572,1173 583,1170 594,1170 604,1175 609,1180 621,1174 633,1174 640,1169 651,1169 651,1175 679,1170 694,1170 706,1177 734,1176 740,1175 753,1170 762,1170 779,1175 790,1171 801,1171 827,1171 843,1172 859,1172 876,1175 882,1176 888,1172 898,1172 913,1174 913,1186 859,1186 843,1186 840,1186 814,1185 803,1185 762,1184 740,1184 714,1183 609,1184 605,1184 572,1183 552,1183 544,1183 447,1182 353,1181 302,1181 267,1183 255,1183" baseline="255,1180 279,1180 430,1181 734,1183 826,1184 913,1185" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ) Fabricius nennt diesen Abt Ortwin, während es urkundlich feststeht, | german_print2_15: ²) Fabricius nennt diesen Abt Ortwin, während es urkundlich ſeststeht, -->
+			<!-- line left out: id="r16l2" points="201,1188 212,1188 230,1188 230,1194 248,1188 259,1188 318,1189 358,1191 394,1193 413,1189 426,1189 436,1188 447,1188 467,1189 512,1196 517,1190 529,1190 562,1191 608,1193 618,1196 638,1192 653,1191 659,1191 670,1194 680,1196 687,1198 703,1192 717,1192 758,1196 765,1199 769,1192 797,1192 821,1195 832,1198 833,1192 837,1192 851,1192 855,1192 888,1193 897,1195 910,1198 910,1206 888,1206 884,1206 729,1205 720,1205 680,1204 618,1204 577,1204 551,1204 495,1203 436,1203 427,1203 302,1202 287,1202 201,1201" baseline="201,1201 287,1201 854,1205 910,1206" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: daſs die Rabensteiner Fehde in die Zeit des Abtes Heinrich I. ſällt. Der | german_print2_15: daſs die Rabensteiner Fehde in die Zeit des Abtes Heinrich I. fällt. Der -->
+			<!-- line left out: id="r16l3" points="204,1208 210,1208 219,1213 227,1211 239,1211 249,1213 273,1209 278,1209 348,1209 365,1215 370,1209 381,1209 402,1209 414,1215 423,1215 424,1209 434,1209 453,1210 462,1214 468,1213 488,1213 498,1215 508,1216 509,1210 520,1210 520,1216 539,1216 543,1222 561,1218 566,1211 589,1211 589,1217 606,1215 616,1214 635,1214 680,1212 691,1212 750,1212 787,1216 796,1217 801,1218 811,1224 815,1218 844,1213 861,1213 862,1219 873,1218 892,1213 902,1213 904,1219 910,1219 910,1227 892,1227 796,1226 739,1226 734,1226 635,1225 589,1225 547,1227 453,1227 447,1227 337,1223 204,1222" baseline="204,1222 307,1222 606,1224 910,1226" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Irrtum ist wohl dadurch entstanden, daſs Ortwin beim Konstanzer Konzile | german_print2_15: Irrtum ist wohl dadurch entstanden, daſs Ortwin beim Konstanzer Konzile -->
+			<!-- line left out: id="r16l4" points="203,1229 228,1229 239,1234 257,1234 308,1234 329,1230 340,1230 391,1230 404,1235 429,1235 434,1230 449,1230 449,1236 496,1231 506,1231 523,1232 531,1237 531,1245 488,1245 429,1248 414,1249 391,1249 378,1249 349,1244 299,1247 279,1247 250,1247 239,1247 228,1243 203,1243" baseline="203,1242 358,1243 464,1244 531,1245" reason: differs: "Klag" against "e Bu" | Wikisource:  | next_nc_e1: Klage gegen den Burggrafen erhob.
+ | german_print2_15: Klage gegen den Burggrafen erhob.
+ -->
+			<!-- line left out: id="r16l5" points="257,1254 268,1254 314,1255 347,1256 373,1257 398,1256 408,1256 446,1268 461,1260 472,1257 482,1257 492,1260 492,1268 521,1256 533,1256 560,1258 569,1262 578,1258 599,1258 651,1258 657,1263 657,1271 569,1271 552,1271 533,1272 471,1274 461,1274 268,1271 257,1271" baseline="257,1269 461,1270 657,1271" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: )Urkundenbuch . 382. ) Daselbst Nr.
+ | german_print2_15: ³) Urkundenbuch . 382. ²⁵) Daselbst Nr.
+ -->
+			<!-- line left out: id="r16l6" points="254,1281 261,1281 294,1282 304,1286 312,1282 333,1282 390,1282 427,1283 438,1287 438,1293 467,1283 483,1283 510,1286 530,1283 541,1283 565,1288 577,1294 583,1288 607,1288 672,1284 677,1284 719,1289 730,1290 731,1284 736,1284 771,1285 792,1285 805,1290 822,1286 834,1286 844,1285 849,1285 851,1292 860,1285 870,1285 872,1291 882,1290 902,1290 911,1291 911,1301 903,1301 805,1298 736,1298 677,1297 672,1297 654,1291 648,1297 619,1300 597,1300 583,1300 510,1297 494,1297 476,1296 438,1299 417,1300 408,1300 376,1296 333,1295 304,1295 286,1295 263,1295 261,1288 254,1288" baseline="254,1295 368,1295 761,1297 911,1298" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ⁵) Daselbst Nr. 384. Unter dem „Eignen“ ist wohl keine Belehnung | german_print2_15: ⁵) Daselbst Nr. 384. Unter dem „Eignen“ ist wohl keine Belehnung -->
+			<!-- line left out: id="r16l7" points="200,1305 218,1305 247,1306 252,1307 264,1305 269,1305 279,1308 280,1302 290,1302 304,1307 314,1308 325,1302 336,1302 336,1308 355,1303 369,1303 385,1303 425,1307 440,1308 450,1309 463,1315 468,1304 491,1304 512,1304 522,1311 529,1309 537,1309 556,1304 566,1304 572,1307 589,1311 600,1305 612,1305 618,1309 638,1309 650,1306 654,1306 738,1306 758,1310 812,1309 815,1309 823,1309 859,1313 868,1306 873,1306 880,1312 888,1309 905,1309 909,1314 909,1316 905,1320 893,1320 864,1319 837,1319 823,1319 762,1319 728,1318 648,1318 629,1322 618,1322 566,1317 512,1317 491,1317 435,1317 425,1317 305,1316 264,1315 252,1314 247,1315 228,1315 200,1313" baseline="200,1314 228,1314 719,1317 909,1319" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: zu verstehen, da Rabenstein Allod (rechtes Eigen) war. Es war äiter schrift- | german_print2_15: zu verstehen, da Rabenstein Allod (rechtes Eigen) war. Es war äter schrift- -->
+			<!-- line left out: id="r16l8" points="200,1327 208,1326 224,1326 238,1326 249,1327 273,1326 278,1326 305,1326 321,1326 327,1328 366,1328 377,1324 409,1324 457,1324 464,1328 472,1330 484,1324 489,1324 510,1325 548,1325 568,1328 602,1328 612,1330 620,1326 629,1326 676,1326 708,1326 732,1331 732,1340 718,1340 701,1340 676,1340 671,1340 612,1339 596,1344 585,1344 577,1339 555,1339 549,1338 540,1344 532,1344 519,1338 427,1338 417,1338 321,1337 249,1339 239,1339 224,1334 200,1334" baseline="200,1336 265,1336 671,1339 732,1340" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: sässig, steuerfrei und brauchte kein Ritterpferd zu stellen.
+ | german_print2_15: sässig, steuerfrei und brauchte kein Ritterpferd zu stellen.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r17">
+			<Coords points="802,1218 815,1218 815,1226 802,1226" />
+		</GraphicRegion>
+		<GraphicRegion id="r18">
+			<Coords points="417,1253 692,1253 692,1280 417,1280" />
+		</GraphicRegion>
+		<GraphicRegion id="r19">
+			<Coords points="585,1280 599,1280 599,1301 585,1301" />
+		</GraphicRegion>
+		<GraphicRegion id="r20">
+			<Coords points="780,1307 809,1307 809,1324 780,1324" />
+		</GraphicRegion>
+		<TextRegion id="r21" custom="readingOrder {index:21;} orientation {0;}">
+			<Coords points="394,1528 597,1528 597,1540 394,1540" />
+			<!-- line left out: id="r21l0" points="394,1528 401,1528 408,1528 413,1528 431,1528 447,1530 453,1528 456,1528 469,1528 494,1528 525,1528 542,1528 587,1529 593,1535 597,1535 597,1537 565,1539 441,1540 434,1540 413,1539 407,1539 394,1537" baseline="394,1537 597,1536" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hupe eigſtal slub dresden de ppnos
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r22">
+			<Coords points="0,0 1000,0 1000,147 0,147" />
+		</GraphicRegion>
+		<SeparatorRegion id="r23">
+			<Coords points="965,438 973,438 973,857 965,857" />
+		</SeparatorRegion>
+		<GraphicRegion id="r24">
+			<Coords points="0,1512 1000,1512 1000,1564 0,1564" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+nach Rom, und dieser erlangte gegen das Versprechen, daß sich
+Zwickau dem Urteile der heiligen Mutterkirche unterwerfe, die
+Aufhebung der kirchlichen Strafe.
+Der Burggraf Albrecht hatte inzwischen von den neun Dörfern,
+die er dem Abte entrissen,⟦⟧ drei – Stein, Pleißa und Kändler –
+an Veit von Schönburg verloren, der herbei geeilt war, nicht
+um dem Abte zu helfen, sondern um an seinem Feinde Rache zu
+nehmen. Nun wandte sich der Abt mit der Bitte um Hilfe an den
+Landesherrn, den Markgrafen Wilhelm I., und die Bereitwilligkeit,
+mit welcher dieser darauf einging, beweist, daß das Vorgeben des
+Abtes, er könne in seiner Heimat auf Schutz nicht rechnen, auf
+Unwahrheit beruhte. Der Markgraf beauftragte mit der
+Untersuchung der Sache die Bischöfe von Meißen und Naumburg und
+die Räte Apel Vitzthum und Heinrich Honsberg. Nach deren
+Urteil mußte der Burggraf den von ihm in Rabenstein bestellten
+Vogt abberufen und die besetzten Dörfer innerhalb 15 Tagen
+räumen. Die Entscheidung über die dem Abte zu gewährende
+Entschädigung wurde vertagt.⟦⟧ Sicher ist ihm eine solche
+zugebilligt worden, denn am 12. Januar 1390⟦⟧ bekundete Abt
+Heinrich, daß die Markgräfin Elisabeth, die Gemahlin Wilhelms I.,
+welche seit dem 25. Juli 1389 die von der Stadt Chemnitz bisher
+an den Burggrafen Albrecht von Leisnig entrichtete Jahresrente von
+100 Schock Groschen Freiberger Münze bezog⟦⟧ und demgemäß
+wohl auch Regierungsgeschäfte wahrzunehmen hatte, das Schloß
+Rabenstein dem Kloster wieder übergeben habe. Der Abt erklärte,
+vollständig befriedigt zu sein, und gelobte der Fürstin wie allen
+der Fehde halber mit dem Banne Belegten, wegen derselben weder
+bei einem geistlichen noch bei einem weltlichen Gerichte Klage
+erheben, vielmehr, wenn etwa von Rom aus ein weiteres Urteil
+ergehe, dasselbe auf seine Kosten rückgängig machen zu wollen.
+Am 6. März 1396⟦⟧ eignete Markgraf Wilhelm dem Abte Nikolaus
+das Schloß Rabenstein.
+Trotzdem entbrannte der Kampf um Rabenstein nach wenig
+Jahren von neuem. Die Schuld scheint an dem Abte Ortwin gelegen
+zu haben, der auf dem Konstanzer Konzile Klage gegen die
+Burggrafen
+-->
+	</Page>
+</PcGts>

@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:47:25</Created>
+		<LastChange>2026-11-23T13:47:25</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/56 revision 5064309 of 2026-09-25T17:47:04Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0056.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro5170363198237353050" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="332,205 503,205 503,249 332,249" />
+			<!-- line left out: id="r0l0" points="368,205 372,205 374,211 384,211 395,210 403,205 415,205 436,205 436,216 451,213 454,213 462,205 464,205 503,208 503,223 493,223 457,222 454,216 443,221 436,222 415,222 403,222 395,221 384,220 368,220" baseline="368,220 493,222 503,223" reason: second model: differs: "hist" against "isse" | Wikisource: historische B | next_nc_e1: historische B | german_print2_15: historische B. -->
+			<!-- line left out: id="r0l1" points="332,230 343,230 345,238 357,236 377,235 395,235 407,238 414,232 419,232 470,233 482,234 492,243 493,243 493,246 482,249 455,249 421,248 389,247 360,246 357,246 343,245 332,245" baseline="332,245 377,246 493,249" reason: differs: "derS" against "esch" | Wikisource:  | next_nc_e1: der Stadt Hohe
+ | german_print2_15: der Stadt Hohe
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="350,309 501,309 501,326 350,326" />
+			<!-- line left out: id="r1l0" points="350,313 373,309 377,309 390,311 398,319 406,318 418,310 422,310 424,316 435,316 454,317 467,320 467,309 481,309 482,318 486,318 501,319 501,321 499,321 482,320 481,326 454,326 451,326 418,325 406,324 390,323 377,324 358,326 350,326" baseline="350,324 501,327" reason: second model: differs: ",Bes" against "isch" | Wikisource: Beschreibung | next_nc_e1:  Beschreibung
+ | german_print2_15: , Beschreibung
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="395,340 462,340 462,352 395,352" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="395,340 413,340 462,346 462,352 449,352 413,352 401,352 395,351" />
+				<Baseline points="395,351 462,350" />
+				<TextEquiv index="1">
+					<Unicode>torische</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>torische</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="329,758 394,758 394,767 329,767" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="329,758 354,758 379,758 394,759 394,767 343,767 329,766" />
+				<Baseline points="329,766 394,767" />
+				<TextEquiv index="1">
+					<Unicode>summa</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>summa</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="327,777 426,777 426,793 327,793" />
+			<!-- line left out: id="r4l0" points="334,777 336,777 401,779 406,785 408,785 408,788 401,790 373,790 334,787" baseline="334,787 335,787 408,788" reason: differs: "derG" against "risc" | Wikisource:  | next_nc_e1: der Grü | german_print2_15: der Grü -->
+			<!-- line left out: id="r4l1" points="327,786 330,786 352,784 355,784 420,785 426,788 426,792 420,793 352,793 340,791 327,790" baseline="327,790 426,793" reason: differs: "derG" against "Jahr" | Wikisource:  | next_nc_e1: der Grüne
+ | german_print2_15: der Grünc
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="211,1011 589,1011 589,1162 211,1162" />
+			<!-- line left out: id="r5l0" points="212,1014 223,1014 236,1019 239,1011 247,1011 251,1023 272,1011 276,1011 288,1012 299,1017 299,1011 313,1011 313,1019 324,1014 327,1014 362,1013 372,1013 376,1019 393,1018 394,1018 394,1027 360,1027 313,1027 299,1027 288,1024 276,1025 247,1026 239,1026 212,1024" baseline="212,1023 356,1026 394,1027" reason: differs: "657." against "zig " | Wikisource:  | next_nc_e1: 657. Bericht über | german_print2_15: 657. Bericht über -->
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="333,1037 342,1037 350,1044 359,1038 369,1038 372,1044 395,1044 403,1038 415,1037 429,1037 433,1048 453,1044 461,1044 461,1054 429,1054 415,1054 333,1053" />
+				<Baseline points="333,1053 461,1054" />
+				<TextEquiv index="1">
+					<Unicode>Urkundensch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l2" points="211,1066 224,1063 235,1063 272,1062 276,1062 332,1069 342,1069 372,1069 398,1074 401,1064 410,1064 461,1065 465,1071 472,1071 472,1080 454,1080 448,1080 372,1079 357,1079 332,1078 272,1077 235,1076 224,1076 211,1075" baseline="211,1075 472,1079" reason: differs: "658." against "atz " | Wikisource:  | next_nc_e1: 658. Pr imm des Nie | german_print2_15: 658. Pr. umm des Nie -->
+			<!-- line left out: id="r5l3" points="364,1090 380,1090 383,1096 387,1096 399,1099 399,1090 419,1090 421,1099 447,1091 451,1091 464,1093 484,1097 496,1099 499,1092 503,1092 512,1101 515,1101 532,1106 536,1097 552,1097 564,1099 564,1091 576,1091 582,1099 583,1099 583,1106 576,1108 532,1108 523,1108 503,1106 447,1106 419,1105 387,1105 364,1105" baseline="364,1105 423,1105 583,1108" reason: models differ | Wikisource: dische Brandlegung.) | next_nc_e1: dische Brandlegung.) | german_print2_15: ndische Brandlegung.) -->
+			<!-- line left out: id="r5l4" points="301,1121 343,1121 356,1122 377,1116 389,1116 390,1124 402,1122 408,1121 420,1121 432,1122 439,1123 450,1124 453,1130 475,1117 490,1117 492,1123 533,1123 555,1124 555,1132 533,1132 515,1133 450,1134 441,1134 422,1132 389,1131 343,1134 301,1134" baseline="301,1130 355,1130 555,1133" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: pziger Zeitung, Nummer | german_print2_15: pziger Zeitung, Nummer -->
+			<!-- line left out: id="r5l5" points="323,1146 351,1146 363,1150 405,1142 419,1142 427,1149 436,1149 444,1143 448,1143 451,1150 463,1143 474,1143 478,1149 489,1149 502,1144 512,1142 517,1142 572,1144 581,1150 589,1150 589,1153 572,1158 489,1158 427,1158 421,1157 405,1156 339,1154 338,1162 329,1162 323,1156" baseline="323,1156 362,1156 516,1158 589,1159" reason: differs: "1760" against "vom " | Wikisource:  | next_nc_e1: 1760 Nachdruck.) Leiq
+ | german_print2_15: 1760. Nachdruck.) Leiy
+ -->
+			<TextEquiv index="1">
+				<Unicode>Urkundensch</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="210,1166 546,1166 546,1185 210,1185" />
+			<!-- line left out: id="r6l0" points="210,1169 237,1167 245,1167 250,1178 270,1166 274,1166 285,1169 323,1167 327,1167 329,1173 339,1173 342,1167 346,1167 348,1174 378,1173 382,1173 416,1173 462,1169 473,1169 513,1169 518,1176 537,1175 546,1175 546,1183 533,1184 473,1184 416,1185 393,1185 327,1184 323,1184 274,1181 245,1181 237,1181 210,1179" baseline="210,1179 225,1179 270,1180 546,1184" reason: differs: "661." against "zig " | Wikisource:  | next_nc_e1: 66 1. Das Jahr 1938 in der Luſt
+ | german_print2_15: 664. Das Jahr 1938 in der Luft
+ -->
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="210,1113 296,1113 296,1129 210,1129" />
+			<!-- line left out: id="r7l0" points="210,1117 236,1115 269,1113 273,1113 277,1122 294,1120 296,1120 296,1129 269,1129 236,1128 210,1127" baseline="210,1127 269,1128 296,1129" reason: differs: "663." against "Luft" | Wikisource:  | next_nc_e1: 663. Lei
+ | german_print2_15: 663. Leci
+ -->
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="208,1192 465,1192 465,1315 208,1315" />
+			<!-- line left out: id="r8l0" points="209,1195 220,1195 236,1193 242,1193 242,1200 251,1200 269,1192 273,1192 277,1200 295,1198 306,1198 328,1199 339,1200 356,1200 376,1194 388,1194 391,1202 403,1200 410,1194 414,1194 417,1201 425,1201 425,1194 437,1194 437,1204 444,1204 444,1209 425,1209 414,1208 407,1209 388,1209 339,1210 330,1210 309,1207 306,1213 301,1213 299,1207 269,1207 242,1206 233,1205 209,1205" baseline="209,1205 355,1208 444,1210" reason: differs: "665." against "⟦⟧ |" | Wikisource:  | next_nc_e1: 665. Leipziger Reibeis | german_print2_15: 665. Leipziger Keibeis -->
+			<!-- line left out: id="r8l1" points="208,1221 246,1221 249,1230 276,1218 306,1218 306,1228 322,1228 332,1232 346,1223 359,1222 363,1222 371,1233 389,1220 400,1220 441,1220 450,1226 465,1226 465,1236 374,1236 332,1236 306,1236 292,1236 282,1233 249,1232 235,1231 208,1230" baseline="208,1230 251,1231 373,1234 465,1236" reason: differs: "666." against "⟦⟧ |" | Wikisource:  | next_nc_e1: 666. Moser, O., die Um | german_print2_15: 666. Moser, O., die Um -->
+			<TextLine id="r8l2" custom="readingOrder {index:2;}">
+				<Coords points="319,1252 327,1244 336,1244 345,1251 390,1253 390,1246 409,1246 412,1255 429,1246 433,1246 441,1255 443,1255 443,1260 433,1261 409,1261 365,1261 327,1259 319,1257" />
+				<Baseline points="319,1259 443,1261" />
+				<TextEquiv index="1">
+					<Unicode>der nächstlie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r8l3" points="208,1272 235,1269 271,1268 277,1268 295,1268 298,1277 302,1277 314,1280 314,1268 325,1268 361,1273 368,1280 378,1280 398,1280 406,1272 411,1272 413,1279 423,1279 436,1272 440,1272 451,1277 451,1287 423,1287 406,1287 378,1285 325,1285 310,1285 298,1281 291,1270 285,1283 277,1284 235,1284 208,1282" baseline="208,1283 324,1283 357,1284 451,1288" reason: differs: "667." against "gend" | Wikisource:  | next_nc_e1: 667. WFuttke, Geschicht | german_print2_15: 667. Wunlke, Geschicht -->
+			<TextLine id="r8l4" custom="readingOrder {index:4;}">
+				<Coords points="383,1297 395,1297 396,1305 444,1303 446,1308 446,1315 432,1315 383,1312" />
+				<Baseline points="383,1312 446,1314" />
+				<TextEquiv index="1">
+					<Unicode>des 13.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>der nächstlie
+des 13.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="207,1322 537,1322 537,1340 207,1340" />
+			<!-- line left out: id="r9l0" points="207,1324 218,1324 243,1324 280,1330 326,1329 334,1329 372,1322 378,1322 387,1324 401,1330 410,1327 420,1327 440,1327 464,1330 474,1322 488,1322 496,1325 499,1331 515,1331 534,1329 537,1329 537,1340 488,1340 474,1340 454,1339 440,1338 423,1338 372,1337 282,1334 231,1334 207,1334" baseline="207,1333 333,1336 537,1340" reason: differs: "668." against "Jahr" | Wikisource:  | next_nc_e1: 668. Le ger Raritätenkabinet
+ | german_print2_15: 668. Le. ger Raritätenkabinet
+ -->
+		</TextRegion>
+		<GraphicRegion id="r10">
+			<Coords points="0,0 1000,0 1000,1564 0,1564" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+| style="text-align:right; vertical-align:top; width:40px" | 610.⟦⟧
+| Weisse, historische Beschreibung des Amtes, Schlosses und der Stadt Hohenstein. 1729.
+| style="text-align:right; vertical-align:top;" | 612.⟦⟧
+| Fleck, Nachricht von dem Jagdpalais Hubertusburg. Leipzig 1740.
+| style="text-align:right; vertical-align:top;" | 615.⟦⟧
+| Schmidt, Beschreibung von Königshain. Görlitz 1797.
+| style="text-align:right; vertical-align:top;" | 618.⟦⟧
+| Heckel, historische Beschreibung der Festung Königstein worbey zugleich etwas von der Burg Dohna gehandelt wird. Dresden 1736.
+| style="text-align:right; vertical-align:top;" | 621.⟦⟧
+| Süss, Historie des Städtgens Königstein. Dresden 1755.
+| style="text-align:right; vertical-align:top;" | 624.⟦⟧
+| Lausigk. Petition etc. um Eisenbahnlinie Chemnitz-Leipzig.
+| style="text-align:right; vertical-align:top;" | 627.⟦⟧
+| Vogel, Leipzigisches Geschichtsbuch oder Annales. Leipzig 1714.
+| style="text-align:right; vertical-align:top;" | 630.⟦⟧
+| Grosse, K., [http://digital.slub-dresden.de/id322473241 Geschichte der Stadt Leipzig.] 2 Bde. Leipzig 1839–42.
+| style="text-align:right; vertical-align:top;" | 633.⟦⟧
+| Das neue und das alte Leipzig. Grenzbote Nr. 27. 1874.
+| style="text-align:right; vertical-align:top;" | 636.⟦⟧
+| Die blutigen Ereignisse in Leipzig am 12. August 1845.
+| style="text-align:right; vertical-align:top;" | 639.⟦⟧
+| Wustmann, G., [https://mdz-nbn-resolving.de/details:bsb11313824 der Leipziger Baumeister Hieronymus Lotter. 1497–1580.] Leipzig 1875.
+| style="text-align:right; vertical-align:top;" | 642.⟦⟧
+| Moser, O., [http://digital.slub-dresden.de/id394101251 Leipzig, sein Handel und seine Messen.] Leipzig 1869.
+| style="text-align:right; vertical-align:top;" | 645.⟦⟧
+| Gersdorf, E. G., [http://nbn-resolving.de/urn:nbn:de:bsz:15-0011-147169 die Rectoren der Universität Leipzig nebst summarischer Uebersicht der Inscriptionen vom Jahre der Gründung bis zur Gegenwart.] Leipzig 1869.
+| style="text-align:right; vertical-align:top;" | 648.⟦⟧
+| Naumann, R., [http://digital.slub-dresden.de/id410344907 die Fraternität der Notarien und Literaten in Leipzig. 1624 gestiftet.] Heft 1. Leipzig 1874.
+| style="text-align:right; vertical-align:top;" | 651.⟦⟧
+| Schriften des Vereins für Geschichte Leipzigs. I.–II. Bd. Leipzig 1872–78. S. Nr. 1024.
+| style="text-align:right; vertical-align:top;" | 654.⟦⟧
+| Die Pestalozzi-Stiftung zu Leipzig. 100. Geburtstag Pestalozzis betreffend. 1846.
+| style="text-align:right; vertical-align:top;" | 655.⟦⟧
+| Die Thomasschule und deren Alumneum in Leipzig. Leipziger Zeitung 1874.
+| style="text-align:right; vertical-align:top;" | 657.⟦⟧
+| Bericht über die Realschule I. Ordnung zu Leipzig 1871–74. (Urkundenschatz der Handwerksladen. Dr. Pfalz.)
+| style="text-align:right; vertical-align:top;" | 658.⟦⟧
+| Programm des Nicolaigymnasiums in Leipzig 1878. (Altisländische Brandlegung.)
+| style="text-align:right; vertical-align:top;" | 663.⟦⟧
+| Leipziger Zeitung, Nummer vom 1. Jan. 1660 nnd 1. Jan. 1760. (Nachdruck.) Leipzig 1860.
+| style="text-align:right; vertical-align:top;" | 664.⟦⟧
+| Das Jahr 1938 in der Luft. Leipzig 1838.
+| style="text-align:right; vertical-align:top;" | 665.⟦⟧
+| Leipziger Reibeisen. Leipzig 1849. Nr. 13 und 29.
+| style="text-align:right; vertical-align:top;" | 666.⟦⟧
+| Moser, O., [http://digital.slub-dresden.de/id393721043 die Umgebung Leipzigs im geschichtlichen Abriss der nächstliegenden 56 Dörfer.] Leipzig 1868.
+| style="text-align:right; vertical-align:top;" | 667.⟦⟧
+| Wuttke, Geschichte Leipzigs und seiner Umgebung bis zum Ende des 13. Jahrhunderts. Leipzig 1873.
+| style="text-align:right; vertical-align:top;" | 668.⟦⟧
+| Leipziger Raritätenkabinet. 1858. Nr. 35 und 36.
+-->
+	</Page>
+</PcGts>

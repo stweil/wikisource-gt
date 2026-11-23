@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:25:24</Created>
+		<LastChange>2026-11-23T14:25:24</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/149 revision 4773969 of 2025-12-31T07:48:16Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0149.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro15706955989359866895" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="58,218 776,218 776,270 58,270" />
+			<!-- line left out: id="r0l0" points="58,237 67,232 74,232 98,234 105,228 119,227 130,227 132,236 148,236 161,226 172,226 174,233 184,233 206,231 213,231 239,231 257,224 268,224 292,229 307,223 312,223 315,230 332,228 351,223 379,223 413,223 425,226 440,218 450,218 457,219 458,225 479,225 493,226 493,218 507,218 520,223 522,229 534,227 540,227 540,231 520,234 507,235 457,236 413,239 379,239 343,239 332,239 312,238 292,239 268,240 213,240 172,242 130,243 98,244 67,244 58,241" baseline="58,245 161,241 191,240 238,239 540,233" reason: differs: "stän" against "des " | Wikisource:  | next_nc_e1: ständniss des von ihm begangenen Unrechtes | german_print2_15: ständniss des von ihm begangenen Unrechtes -->
+			<TextLine id="r0l1" custom="readingOrder {index:1;}">
+				<Coords points="59,260 110,261 110,254 159,254 169,261 184,258 216,259 224,251 237,251 250,256 263,258 265,250 323,249 335,249 355,258 366,248 387,248 420,253 433,251 510,252 519,244 560,247 579,252 590,242 606,242 645,249 651,255 669,246 704,245 714,240 726,240 746,240 776,243 776,258 732,258 726,256 560,259 503,261 477,264 439,262 347,264 307,267 250,266 159,269 59,270" />
+				<Baseline points="59,271 776,254" />
+				<TextEquiv index="1">
+					<Unicode>war durch seine Zuschrift das Verbietungsrecht des Rathes anerkannt,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>war durch seine Zuschrift das Verbietungsrecht des Rathes anerkannt,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="59,267 802,267 802,1369 59,1369" />
+			<!-- line left out: id="r1l0" points="59,287 82,286 92,286 112,287 112,280 118,280 120,287 157,285 184,284 208,283 218,283 230,285 449,279 454,279 468,286 472,273 484,272 496,272 525,271 536,270 554,270 557,279 570,275 597,275 630,275 631,267 645,267 652,273 662,273 663,267 674,267 675,274 686,274 687,267 699,267 700,274 711,272 735,271 776,271 776,281 722,282 674,283 645,286 619,286 597,285 568,286 514,287 483,288 449,288 207,294 161,295 129,295 118,296 81,297 76,297 59,296" baseline="59,297 91,296 171,294 229,293 449,288 525,286 735,281 776,280" reason: differs: "uchAbte" against "ch sein" | Wikisource:  | next_nc_e1: wie dies ja auch  Abte Hilarius geschehen war. | german_print2_15: wie dies ja auch a Abte Hilarius geschehen war. -->
+			<!-- line left out: id="r1l1" points="59,316 65,316 65,307 82,307 84,315 105,314 117,312 123,311 133,311 148,305 161,305 183,305 195,312 359,307 385,307 389,313 450,299 467,299 489,306 493,306 503,297 517,297 527,303 534,300 544,296 556,296 577,296 585,302 596,301 607,301 608,308 623,300 649,298 666,294 677,293 686,293 709,293 710,300 721,300 722,292 734,292 742,298 766,297 776,297 776,313 766,313 765,307 753,308 703,309 689,309 675,308 652,310 612,312 608,312 584,311 577,312 556,313 517,313 476,314 467,315 392,316 364,316 363,309 198,314 195,314 183,321 161,321 121,322 82,323 59,323" baseline="59,323 90,322 132,321 359,317 391,316 475,314 623,310 666,309 776,307" reason: differs: "Alse" against "war." | Wikisource:  | next_nc_e1: Als ein Bewe cher er öffentlichen, auf Verleihung | german_print2_15: Als ein Bewer cher der öffentlichen, auf Verleihung -->
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="59,339 71,339 72,333 84,333 85,341 96,338 103,338 116,332 132,332 156,337 190,337 198,331 248,330 260,330 261,337 272,335 292,335 294,328 299,328 301,335 322,334 335,337 336,327 347,327 355,333 383,327 389,327 406,332 440,327 453,327 455,335 467,331 576,328 577,322 582,322 584,328 629,327 643,320 657,320 704,325 728,324 734,318 747,318 778,320 778,334 704,334 534,340 364,343 325,343 318,337 310,344 260,345 226,348 156,346 84,349 72,349 59,348" />
+				<Baseline points="59,349 778,333" />
+				<TextEquiv index="1">
+					<Unicode>oder Gewohnheit beruhenden Gerechtsame in früherer Zeit verdient</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l3" points="61,359 72,359 73,367 85,365 110,358 125,358 126,364 145,362 160,362 185,363 186,357 196,357 385,359 510,350 521,350 523,357 533,357 564,355 577,354 599,354 600,348 611,348 644,353 659,346 668,346 670,359 690,351 698,350 710,345 722,345 747,351 753,351 753,344 764,344 764,350 778,350 778,360 747,360 731,366 723,366 696,361 674,362 670,362 668,368 659,368 611,364 576,365 564,365 543,364 533,366 510,366 353,363 350,363 196,373 160,374 89,375 72,375 61,375" baseline="61,375 88,374 195,373 350,369 382,368 550,364 730,360 778,360" reason: differs: "andnzda" against "nd herv" | Wikisource:  | next_nc_e1: der Umstand n z dass noch i. J. 1684 der | german_print2_15: der Umstand n 2 dass noch i. J. 1684 der -->
+			<!-- line left out: id="r1l4" points="61,387 76,387 101,389 156,390 173,384 184,383 294,381 331,381 339,393 362,393 373,394 468,377 480,377 488,383 514,381 527,380 533,380 546,383 547,375 558,375 595,375 605,380 617,382 617,374 629,374 630,381 642,379 652,379 672,372 683,372 702,377 714,378 722,375 738,375 779,376 779,386 746,388 702,388 683,388 652,389 629,390 605,391 565,391 546,392 500,393 480,393 373,398 337,398 311,398 300,398 294,383 196,399 183,400 115,401 76,402 61,402" baseline="61,402 173,399 294,397 468,393 499,392 583,390 760,386 779,386" reason: differs: "Amtm" against "4 de" | Wikisource:  | next_nc_e1: Amtmann Me Volfgang der Stadt drohen konnte, er | german_print2_15: Amtmann Me Volfgang der Stadt drohen konnte, er -->
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="61,418 96,417 97,411 108,411 109,420 133,410 144,410 145,419 157,416 192,417 194,409 205,409 206,419 217,415 226,415 226,409 281,408 284,415 301,413 319,407 331,407 332,416 344,412 360,412 378,405 394,406 406,411 415,405 425,405 429,413 441,413 493,409 495,403 505,403 508,409 513,409 525,403 537,403 538,409 584,401 591,401 630,408 631,400 649,400 666,405 697,404 697,398 714,398 771,404 779,406 779,409 771,413 619,417 281,423 241,425 61,427" />
+				<Baseline points="61,428 779,412" />
+				<TextEquiv index="1">
+					<Unicode>werde den ehemals bei dem Schlosse üblichen Getreidemarkt wie-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="61,445 67,445 67,438 78,438 80,444 123,443 133,436 136,436 147,441 156,437 175,436 186,436 196,442 262,441 263,434 296,434 303,440 309,434 320,434 343,439 354,433 365,433 380,443 386,432 397,432 399,440 419,433 503,434 533,429 544,429 551,435 635,433 656,431 680,431 686,425 702,425 712,431 737,430 737,424 749,424 780,431 780,439 680,441 598,445 569,444 434,448 365,448 78,454 61,454" />
+				<Baseline points="61,454 780,439" />
+				<TextEquiv index="1">
+					<Unicode>derum stabiliren und dadurch die Amtsunterthanen, wie auch andere</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="62,470 115,470 116,463 128,463 129,469 142,469 154,462 161,462 174,467 190,469 193,462 204,462 218,471 224,468 264,467 282,461 299,461 319,465 367,465 367,475 286,476 282,469 264,476 95,480 69,480 62,480" />
+				<Baseline points="62,480 367,474" />
+				<TextEquiv index="1">
+					<Unicode>von der Stadt onere befreien.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l8" points="116,490 138,490 158,493 187,501 192,494 209,494 251,487 266,487 268,496 277,493 288,493 298,486 322,486 338,493 344,486 361,486 363,492 386,484 392,484 406,486 409,492 418,492 425,484 430,484 444,487 463,489 475,490 485,488 512,488 513,482 518,482 550,484 574,486 574,480 588,480 600,485 619,478 623,478 635,482 646,485 647,478 660,478 667,482 688,484 688,478 700,478 731,483 744,477 760,477 773,482 780,485 780,488 773,492 760,493 700,494 674,494 646,495 588,496 530,497 512,498 475,499 406,500 386,500 363,495 361,501 313,503 266,503 209,504 158,505 116,505" baseline="116,505 162,504 366,500 568,496 744,492 780,492" reason: differs: "eauUswa" against " auch U" | Wikisource:  | next_nc_e1: Hatte au Uswald die Rechtmässigkeit der städtischen An- | german_print2_15: Hatte aus Uswald die Rechtmässigkeit der städtischen An- -->
+			<!-- line left out: id="r1l9" points="62,524 72,523 84,522 92,522 104,523 117,516 121,516 123,522 148,521 171,521 188,521 193,515 204,515 226,515 246,518 302,526 306,521 358,520 370,517 376,517 398,520 406,516 416,516 417,510 428,510 438,516 448,516 457,507 470,507 470,515 480,515 486,509 491,509 510,514 510,507 524,507 544,507 559,514 565,507 577,507 579,513 598,508 609,506 622,505 633,505 641,513 651,511 664,510 674,505 687,505 689,511 694,511 706,507 719,507 750,509 758,503 768,503 781,505 781,519 750,519 719,520 687,521 666,521 640,521 588,521 577,522 524,527 510,527 498,524 470,527 448,527 438,527 404,526 376,527 337,528 302,528 246,522 229,522 226,531 204,531 171,531 138,532 104,532 92,533 84,533 83,539 72,539 71,531 62,531" baseline="62,533 148,531 245,529 427,525 718,519 781,518" reason: differs: "sprü" against "hen " | Wikisource:  | next_nc_e1: sprüche anerkannt liess er sich gleichwohl die Gelegenheit nicht
+ | german_print2_15: sprüche anerkannt liess er sich gleichwohl die Gelegenheit nicht
+ -->
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="370,544 404,544 412,545 426,551 435,551 436,542 483,542 497,534 509,534 517,540 532,540 544,533 564,534 661,532 709,536 758,536 758,529 771,529 773,535 781,535 781,545 709,550 643,548 509,550 472,553 385,553 370,547" />
+				<Baseline points="370,554 497,550 781,545" />
+				<TextEquiv index="1">
+					<Unicode>rden gegen den Rath vorzubringen, die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l11" points="64,578 72,576 84,575 121,573 128,573 141,575 154,568 164,568 190,573 307,572 363,572 378,570 411,570 425,567 446,563 457,563 458,570 470,568 487,568 501,561 519,561 522,567 534,566 542,566 543,560 555,560 569,564 589,567 590,559 600,559 614,563 647,565 647,558 658,558 660,564 686,560 699,560 705,562 725,563 725,556 738,556 753,562 763,561 774,561 781,565 781,567 774,572 705,573 673,574 614,575 569,576 519,577 487,578 457,578 431,579 382,580 313,580 200,583 164,584 141,584 120,585 72,585 64,582" baseline="64,585 178,583 399,579 486,577 618,574 672,573 781,571" reason: differs: "hmevger" against " mehr o" | Wikisource:  | next_nc_e1: sämmtlich me v ger mit dem Marktrechte der Stadt zu- | german_print2_15: sämmtlich me w ger mit dem Marktrechte der Stadt zu- -->
+			<!-- line left out: id="r1l12" points="64,604 79,602 104,601 114,601 144,601 160,595 165,595 178,600 204,599 216,595 262,593 268,592 279,592 285,600 292,599 311,598 316,598 329,597 333,597 399,596 406,596 427,596 440,595 445,595 458,594 469,594 490,592 496,592 530,593 534,600 558,592 570,592 587,591 594,591 595,585 606,585 608,593 643,590 681,590 697,589 722,584 738,584 765,586 782,590 782,597 765,598 744,599 708,600 656,600 606,601 570,601 538,603 496,604 469,604 445,605 427,605 406,605 344,608 335,608 316,607 301,609 292,609 268,608 262,595 231,610 202,610 144,611 90,612 79,612 64,611" baseline="64,612 143,610 399,605 616,600 673,599 782,598" reason: differs: "samm" against "adt " | Wikisource:  | next_nc_e1: sammen hingen. Täglich, versichert er, werde er von Amts- | german_print2_15: sammen hingen. Täglich, versichert er, werde er von Amts- -->
+			<TextLine id="r1l13" custom="readingOrder {index:13;}">
+				<Coords points="66,628 119,625 126,621 137,621 139,633 157,629 199,626 206,620 217,620 220,628 236,625 238,620 281,623 289,620 302,620 307,631 324,625 330,618 342,618 350,625 364,617 390,617 390,629 405,623 496,620 526,621 527,614 538,614 549,619 563,612 579,612 587,618 644,618 644,611 654,611 687,617 688,610 700,610 708,617 713,613 758,616 758,609 770,609 783,614 783,624 706,625 687,628 609,630 579,629 484,632 456,630 390,633 364,633 350,627 342,633 310,635 281,634 77,638 66,638" />
+				<Baseline points="66,638 783,624" />
+				<TextEquiv index="1">
+					<Unicode>unterthanen überlaufen, die Klagen wegen der Ungerechtigkeit oder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l14" custom="readingOrder {index:14;}">
+				<Coords points="67,648 128,648 148,653 149,647 160,647 161,656 182,647 216,646 217,655 235,655 263,645 273,645 276,652 304,651 324,648 336,648 346,650 365,649 384,643 403,645 424,643 426,649 508,646 537,648 544,640 592,645 622,638 628,638 665,644 717,641 731,636 736,636 783,642 783,650 774,650 774,656 762,656 731,652 549,656 474,656 403,659 221,660 184,666 182,666 160,662 148,666 137,666 96,664 89,666 75,666 67,664" />
+				<Baseline points="67,664 783,650" />
+				<TextEquiv index="1">
+					<Unicode>Unbilligkeit des Chemnitzer Rathes vorbrächten. Dieser verlange</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l15" custom="readingOrder {index:15;}">
+				<Coords points="67,674 78,674 80,682 101,680 120,674 132,673 137,673 140,680 157,680 174,677 190,677 198,672 214,672 235,678 263,677 289,671 301,671 302,679 314,676 349,672 354,672 360,678 365,678 378,674 416,675 419,669 425,669 432,676 479,674 481,668 491,668 510,679 515,673 537,675 540,666 551,666 566,671 589,671 610,664 755,665 762,662 773,662 784,667 784,680 755,678 713,679 698,684 686,684 680,680 566,681 468,684 432,678 425,684 416,685 78,690 67,690" />
+				<Baseline points="67,690 784,677" />
+				<TextEquiv index="1">
+					<Unicode>den Marktzoll von dem Getreide und anderen Nahrungsmitteln,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l16" custom="readingOrder {index:16;}">
+				<Coords points="67,706 79,706 88,708 90,701 100,701 102,707 113,700 124,700 125,708 153,708 156,699 166,699 168,708 193,698 205,698 212,705 381,700 400,700 411,702 413,695 469,700 483,693 500,693 501,699 529,698 568,694 579,691 600,691 653,697 690,689 704,689 705,697 713,697 722,703 728,703 728,689 742,689 785,693 785,704 763,704 742,709 722,709 691,705 368,711 334,714 124,716 100,716 90,716 67,715" />
+				<Baseline points="67,716 785,703" />
+				<TextEquiv index="1">
+					<Unicode>welche die Bauern gemeiner Stadt zu Nutz einführten. Weigerten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l17" custom="readingOrder {index:17;}">
+				<Coords points="68,734 121,732 133,726 197,731 199,725 232,725 234,733 246,730 256,730 258,737 315,729 346,729 346,722 368,722 377,728 452,734 455,726 465,726 497,720 507,720 510,727 528,727 534,718 540,718 542,725 588,724 589,718 601,718 613,723 615,717 626,717 627,725 639,723 645,720 686,722 686,715 701,715 711,722 717,715 729,715 729,721 741,720 754,715 761,715 761,721 772,717 784,717 784,730 717,731 709,737 686,737 664,725 654,725 652,732 626,733 613,736 588,734 507,734 452,738 387,737 261,741 199,741 193,733 179,741 143,742 121,742 82,742 77,742 68,740" />
+				<Baseline points="68,742 784,730" />
+				<TextEquiv index="1">
+					<Unicode>sie sich zu zahlen, so würden sie „in Geschwindigkeit“ gepfändet.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l18" points="69,753 77,753 90,755 123,758 165,758 167,765 187,751 192,751 227,751 228,759 240,756 255,756 266,750 274,750 284,758 291,758 293,750 307,750 337,749 352,749 354,755 358,755 370,759 373,749 375,749 415,754 431,753 441,753 457,747 486,746 505,746 506,754 518,751 525,751 535,745 547,745 548,752 560,750 568,750 570,744 577,744 590,750 615,750 616,743 653,743 654,750 665,748 682,748 697,742 703,741 714,741 715,747 742,747 742,741 754,741 761,747 774,746 786,746 786,756 775,757 714,758 653,758 627,759 608,760 547,760 525,761 491,762 441,763 431,763 415,762 408,762 375,771 373,771 373,764 358,764 354,764 352,771 337,771 321,765 307,765 307,772 293,772 291,763 284,763 274,772 266,772 255,766 227,767 165,768 123,768 90,769 69,769" baseline="69,769 104,768 156,767 215,766 440,762 486,761 786,756" reason: differs: "onHlber" against "n Helbe" | Wikisource:  | next_nc_e1: Das sei z. B. dem Jocoff Jhone von H lbersdorf und dem Kirchner | german_print2_15: Das sei z. B. dem Jocoff Jhone von He Dbersdorf und dem Kirchner -->
+			<TextLine id="r1l19" custom="readingOrder {index:19;}">
+				<Coords points="69,785 102,785 113,779 128,780 145,784 157,779 169,779 170,787 181,784 188,778 198,778 214,783 231,783 234,777 250,777 286,782 294,776 304,776 312,782 321,775 329,775 334,782 340,776 352,776 385,781 387,788 419,774 425,774 452,780 466,772 517,772 528,779 548,777 549,771 561,771 562,779 572,779 573,771 585,771 586,778 644,775 645,769 656,769 670,775 731,774 732,767 744,767 751,773 786,773 786,783 102,795 80,795 69,794" />
+				<Baseline points="69,795 786,783" />
+				<TextEquiv index="1">
+					<Unicode>von Reichenbrand widerfahren. Die Stadt erhebe auch an anderen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l20" custom="readingOrder {index:20;}">
+				<Coords points="69,805 91,805 92,811 144,810 150,805 161,805 164,813 171,813 185,804 196,804 198,812 219,810 231,804 243,803 249,803 256,809 262,809 263,802 331,802 331,808 346,808 356,801 370,801 370,809 381,809 383,801 400,801 415,809 442,805 531,804 544,797 557,797 565,805 576,801 631,802 632,796 757,799 757,793 786,793 786,809 775,809 771,816 757,816 757,810 744,810 744,816 731,816 731,810 713,810 707,816 695,816 672,812 557,813 511,816 449,816 400,818 390,818 381,815 364,818 331,819 161,820 115,824 99,824 69,821" />
+				<Baseline points="69,821 786,809" />
+				<TextEquiv index="1">
+					<Unicode>Tagen als den Markttagen Zoll, seit einiger Zeit auch Ausgangszoll</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l21" custom="readingOrder {index:21;}">
+				<Coords points="70,838 94,838 95,831 120,831 138,833 157,839 163,831 169,831 178,837 224,836 225,829 239,829 239,835 246,835 255,829 265,829 282,832 326,828 357,828 357,834 372,833 374,828 434,834 442,827 447,827 459,832 460,826 471,826 472,833 484,831 503,831 517,824 520,824 523,832 534,824 600,823 602,829 643,829 643,822 676,821 712,821 713,828 725,826 782,826 789,829 789,831 782,836 684,840 654,838 613,838 581,840 522,840 471,842 302,844 254,843 239,848 213,848 205,846 187,848 178,848 82,848 70,848" />
+				<Baseline points="70,848 789,835" />
+				<TextEquiv index="1">
+					<Unicode>und Durchgangszoll für Getreide, welches nach Helbersdorf, Hermers-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l22" points="71,858 82,858 91,865 96,860 110,860 112,871 142,871 142,858 154,857 166,857 168,865 172,865 184,870 186,857 197,857 199,863 254,861 278,861 279,855 312,854 317,854 327,857 355,858 362,861 375,860 388,859 398,859 419,861 421,853 431,853 447,858 450,852 457,852 476,858 483,858 492,850 519,850 539,850 540,859 551,856 561,856 603,855 614,855 642,848 659,848 667,854 680,853 693,853 694,847 699,847 701,854 713,853 729,850 735,850 779,852 779,845 790,845 790,862 735,863 693,864 659,865 561,866 457,868 431,869 412,869 386,870 355,870 317,870 278,871 207,872 166,872 152,873 116,875 112,875 82,873 71,873" baseline="71,873 137,872 456,867 754,862 790,862" reason: differs: "enhzund" against "enhain " | Wikisource:  | next_nc_e1: dorf, Altenhz und Dittmannsdorf verladen sei. Unerhört und | german_print2_15: dorf, Altenhe und Dittmannsdorf verladen sei. Unerhört und -->
+			<TextLine id="r1l23" custom="readingOrder {index:23;}">
+				<Coords points="71,891 128,889 143,883 154,883 155,890 190,888 200,883 241,883 287,888 361,885 414,887 422,893 428,879 438,879 455,888 479,884 512,887 517,891 533,883 617,881 660,882 660,875 678,875 679,882 701,879 742,879 749,873 762,872 768,872 769,879 790,878 790,888 517,895 497,892 479,894 438,895 403,893 373,896 241,898 200,898 190,893 166,899 106,903 83,903 71,903" />
+				<Baseline points="71,901 291,896 790,888" />
+				<TextEquiv index="1">
+					<Unicode>gegen das Herkommen verstossend sei es, wenn man das verzollen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l24" custom="readingOrder {index:24;}">
+				<Coords points="72,910 77,910 79,917 119,917 121,923 139,915 213,915 225,908 238,908 238,915 281,913 292,907 296,907 300,915 308,915 320,920 330,912 387,912 398,906 426,906 427,914 438,911 450,911 470,908 510,910 524,904 540,904 542,910 565,909 566,903 577,903 614,908 615,902 627,902 628,909 647,907 657,901 669,901 670,907 681,907 682,901 694,901 695,907 733,905 734,911 756,913 757,899 768,899 770,905 791,904 791,915 456,921 296,922 124,927 121,927 72,926" />
+				<Baseline points="72,926 791,914" />
+				<TextEquiv index="1">
+					<Unicode>lasse, was ein Bauer bei einem Chemnitzer Handwerker habe machen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l25" custom="readingOrder {index:25;}">
+				<Coords points="73,937 78,937 80,943 91,943 125,942 135,937 193,935 201,941 211,942 218,935 230,935 247,942 254,934 313,934 416,938 418,932 428,932 445,937 461,945 466,933 483,933 494,937 497,930 508,930 512,938 542,939 558,930 579,928 591,928 602,933 610,928 619,928 637,934 661,933 670,936 683,928 698,928 705,926 717,926 725,932 733,932 734,925 772,925 773,931 792,930 792,941 746,945 734,945 717,942 466,947 180,950 137,952 91,952 73,952" />
+				<Baseline points="73,952 792,941" />
+				<TextEquiv index="1">
+					<Unicode>lassen. Gleichwohl habe man den Andreas Hertel aus Adorf, der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l26" points="74,969 86,969 117,962 128,962 129,970 140,968 152,968 172,966 184,966 194,967 234,967 246,961 263,960 277,960 285,967 545,956 565,956 574,965 582,962 593,961 604,961 606,968 624,960 637,959 654,959 710,959 721,952 729,952 737,953 785,954 785,960 792,960 792,963 785,967 752,968 693,969 681,969 674,968 654,970 610,971 565,971 552,971 545,964 288,971 262,975 234,976 194,977 152,978 128,978 74,978" baseline="74,978 193,976 287,975 545,971 653,969 709,968 792,967" reason: differs: "Waglass" against "Wagenra" | Wikisource:  | next_nc_e1: in Chemnitz ein Wag lassen, um eine Dienst- | german_print2_15: in Chemnitz ein Wag 1 lassen, um eine Dienst- -->
+			<TextLine id="r1l27" custom="readingOrder {index:27;}">
+				<Coords points="76,993 81,993 95,989 107,989 120,994 164,994 165,988 180,988 182,994 204,992 309,992 310,986 314,986 318,993 351,992 351,1002 314,1000 309,1002 140,1003 123,998 120,1004 76,1004" />
+				<Baseline points="76,1004 351,1002" />
+				<TextEquiv index="1">
+					<Unicode>fuhre nach Schwarzenberg</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l28" points="77,1021 88,1020 102,1017 105,1017 127,1028 131,1015 148,1015 168,1017 171,1023 179,1019 195,1019 202,1013 207,1013 210,1019 220,1019 232,1017 237,1017 240,1026 264,1018 276,1018 297,1018 299,1012 302,1012 325,1019 337,1017 343,1017 381,1019 483,1009 509,1008 516,1008 516,1015 532,1014 540,1014 551,1015 553,1008 571,1008 613,1007 622,1006 633,1006 635,1012 686,1011 720,1010 778,1009 793,1009 793,1019 761,1019 744,1025 732,1025 673,1022 633,1022 623,1023 584,1027 582,1027 565,1024 524,1027 509,1027 483,1013 381,1022 343,1027 297,1028 244,1029 240,1029 225,1027 220,1028 195,1030 179,1030 168,1029 132,1030 88,1030 77,1029" baseline="77,1030 104,1029 378,1026 483,1025 743,1019 793,1018" reason: differs: "aufA" against "thun" | Wikisource:  | next_nc_e1: auf Amtsgebiet, weil er ke 1 gezahlt. Ebensowenig wie | german_print2_15: auf Amtsgebiet, weil er ke 1 gezahlt. Ebensowenig wie -->
+			<!-- line left out: id="r1l29" points="78,1046 84,1040 96,1040 97,1048 117,1047 127,1047 135,1048 149,1039 162,1039 170,1048 175,1039 185,1039 188,1045 195,1045 211,1045 218,1039 229,1039 251,1047 259,1043 267,1038 289,1038 291,1046 300,1046 313,1038 324,1038 326,1047 338,1044 354,1042 388,1042 394,1050 469,1034 495,1034 496,1054 507,1042 514,1035 523,1035 526,1041 534,1041 550,1042 552,1034 562,1034 592,1036 615,1039 625,1033 636,1033 637,1039 648,1039 657,1041 682,1045 683,1033 694,1032 706,1032 759,1036 759,1030 784,1030 794,1033 794,1038 785,1038 784,1051 767,1051 746,1047 706,1047 682,1049 671,1049 648,1048 615,1049 576,1050 534,1050 514,1050 507,1049 500,1057 473,1057 469,1038 397,1052 366,1052 342,1053 324,1053 289,1054 236,1054 195,1054 188,1054 173,1052 162,1054 116,1054 96,1055 78,1055" baseline="78,1056 134,1055 299,1053 575,1049 625,1048 794,1045" reason: differs: "dies" against "g wi" | Wikisource:  | next_nc_e1: dieses Zollrecht stehe der Stad Stapelrecht für das „Gewändig“ | german_print2_15: dieses Zollrecht stehe der Stad Stapelrecht für das „Gewändig“ -->
+			<!-- line left out: id="r1l30" points="79,1072 89,1071 99,1071 101,1079 115,1071 127,1071 135,1073 143,1065 148,1065 170,1065 179,1072 202,1070 208,1070 235,1070 245,1064 277,1064 298,1064 299,1072 311,1070 317,1068 330,1068 353,1070 367,1075 369,1069 395,1069 407,1062 412,1062 424,1063 475,1075 487,1064 492,1064 499,1070 506,1067 531,1067 555,1067 567,1060 581,1060 590,1066 601,1065 612,1060 623,1060 625,1067 636,1065 646,1065 648,1059 653,1059 687,1064 700,1065 700,1058 722,1057 738,1057 756,1057 794,1062 794,1072 745,1073 711,1076 700,1076 646,1075 623,1075 581,1076 555,1077 531,1077 479,1077 395,1079 353,1079 330,1080 311,1080 298,1079 208,1079 176,1080 148,1080 127,1080 104,1081 87,1082 79,1082" baseline="79,1081 115,1080 554,1076 710,1073 794,1072" reason: differs: "zu,w" against "ndig" | Wikisource:  | next_nc_e1: zu, welches von Fuhrleuten aus Pl „Grüna, Reichenbrand, Raben- | german_print2_15: zu, welches von Fuhrleuten aus Pl „Grüna, Reichenbrand, Raben- -->
+			<!-- line left out: id="r1l31" points="79,1100 88,1095 93,1095 124,1097 126,1105 144,1091 162,1091 185,1090 217,1090 218,1097 233,1097 240,1090 245,1090 247,1098 336,1097 343,1096 364,1095 388,1095 389,1089 425,1089 457,1093 480,1094 487,1088 491,1088 513,1100 518,1093 545,1093 564,1094 566,1086 576,1086 579,1092 594,1092 609,1084 617,1084 625,1085 627,1091 637,1091 650,1092 650,1085 661,1085 676,1090 678,1084 683,1084 685,1090 708,1090 709,1084 721,1084 788,1088 795,1091 795,1094 788,1098 766,1099 721,1099 708,1100 661,1101 594,1102 545,1103 457,1104 388,1105 256,1106 247,1106 245,1100 233,1103 228,1105 204,1106 197,1107 155,1107 129,1108 126,1108 93,1107 88,1107 79,1105" baseline="79,1107 144,1106 513,1102 795,1098" reason: differs: "stei" against "Rabe" | Wikisource:  | next_nc_e1: stein, Mittelbach, ar und Limbach aus den Niederlanden ein- | german_print2_15: stein, Mittelbach, ar und Limbach aus den Niederlanden ein- -->
+			<TextLine id="r1l32" custom="readingOrder {index:32;}">
+				<Coords points="78,1125 90,1125 103,1121 121,1124 124,1118 193,1123 195,1116 205,1116 227,1122 254,1122 262,1116 305,1116 307,1124 317,1122 320,1116 334,1116 349,1122 354,1116 391,1116 403,1121 405,1128 425,1114 438,1114 445,1120 510,1121 513,1114 525,1114 528,1123 535,1123 536,1113 548,1113 549,1121 561,1118 569,1118 571,1112 621,1111 670,1117 694,1111 710,1111 740,1115 740,1109 752,1109 755,1115 795,1115 795,1130 780,1130 770,1125 752,1125 582,1130 502,1129 408,1132 354,1132 349,1125 334,1132 305,1131 107,1134 90,1137 78,1137" />
+				<Baseline points="78,1133 795,1125" />
+				<TextEquiv index="1">
+					<Unicode>geführt und nach Neukirchen, Burkhardtsdorf, Thum, Annaberg,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l33" custom="readingOrder {index:33;}">
+				<Coords points="78,1147 100,1145 108,1151 136,1150 140,1157 167,1143 186,1143 195,1149 219,1149 228,1146 243,1146 254,1151 269,1141 285,1141 287,1147 294,1147 303,1142 315,1142 315,1149 338,1141 363,1147 386,1148 388,1141 399,1141 420,1148 430,1148 443,1151 444,1140 456,1140 464,1146 477,1146 499,1151 521,1142 608,1144 638,1140 654,1149 661,1143 671,1143 672,1137 683,1137 691,1140 772,1141 774,1135 780,1135 781,1141 796,1141 796,1151 608,1153 340,1159 315,1157 271,1159 250,1157 132,1160 120,1158 115,1166 108,1166 100,1160 78,1159" />
+				<Baseline points="78,1160 796,1150" />
+				<TextEquiv index="1">
+					<Unicode>Geyer, Ehrenfriedersdorf und anderen Orten verfrachtet werde.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l34" custom="readingOrder {index:34;}">
+				<Coords points="78,1176 195,1176 197,1169 208,1169 223,1174 242,1168 266,1173 312,1173 321,1176 338,1176 345,1168 406,1168 409,1175 434,1171 492,1172 530,1169 546,1171 546,1165 563,1165 565,1171 647,1171 671,1169 672,1175 691,1168 797,1167 797,1176 676,1179 632,1178 610,1180 599,1185 587,1185 563,1181 434,1182 409,1177 406,1183 223,1184 108,1187 99,1187 78,1186" />
+				<Baseline points="78,1186 797,1176" />
+				<TextEquiv index="1">
+					<Unicode>Sonst sei der kurfürstliche Geleitsmann froh gewesen, wenn man</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l35" points="80,1198 91,1198 104,1203 134,1204 137,1196 141,1196 149,1203 179,1198 190,1196 195,1196 197,1203 219,1203 233,1199 242,1196 244,1196 282,1200 297,1202 317,1194 331,1194 338,1200 384,1197 389,1197 413,1197 445,1199 470,1197 491,1192 502,1192 503,1205 513,1192 540,1192 540,1204 571,1191 599,1191 635,1189 640,1189 642,1195 652,1195 660,1188 685,1188 702,1195 708,1188 721,1188 722,1195 731,1195 746,1187 754,1187 766,1188 784,1193 784,1187 797,1187 797,1202 772,1203 721,1204 674,1204 652,1205 609,1206 600,1206 599,1212 571,1212 540,1208 502,1208 445,1208 431,1209 413,1211 384,1211 288,1209 244,1211 219,1211 210,1211 195,1210 162,1212 115,1213 80,1213" baseline="80,1213 114,1212 161,1211 271,1209 363,1208 684,1204 730,1203 797,1202" reason: differs: "altédie" against "alte di" | Wikisource:  | next_nc_e1: ihm das Geleite ins Haus geschickt habe. Jetzt halté die Stadt | german_print2_15: ihm das Geleite ins Haus geschickt habe. Jetzt haltè die Stadt -->
+			<TextLine id="r1l36" custom="readingOrder {index:36;}">
+				<Coords points="80,1230 89,1230 92,1224 99,1223 111,1223 113,1231 153,1228 217,1227 240,1227 249,1230 267,1220 278,1220 280,1228 291,1225 308,1225 326,1219 380,1219 380,1225 394,1220 399,1220 401,1232 411,1232 413,1225 423,1225 425,1219 436,1219 437,1227 487,1225 488,1231 532,1223 569,1223 600,1225 602,1216 615,1216 616,1223 626,1223 645,1215 651,1214 698,1214 700,1222 711,1220 717,1217 731,1217 743,1226 766,1213 778,1213 798,1218 798,1228 747,1231 615,1231 569,1234 342,1235 332,1222 326,1222 308,1235 240,1236 177,1239 165,1239 113,1233 111,1239 89,1239 80,1239" />
+				<Baseline points="80,1238 798,1228" />
+				<TextEquiv index="1">
+					<Unicode>alle Wagen aus dem Niederlande an, zwinge die Fuhrleute, das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l37" points="81,1262 91,1262 92,1251 102,1249 114,1249 121,1255 140,1255 150,1254 218,1253 250,1251 265,1251 297,1252 415,1251 425,1251 425,1245 467,1245 470,1251 479,1251 495,1248 501,1248 540,1250 575,1251 576,1242 585,1242 585,1258 557,1259 501,1260 495,1260 479,1258 467,1259 451,1261 297,1261 265,1262 248,1263 114,1265 91,1267 81,1267" baseline="81,1265 296,1261 570,1258 585,1258" reason: differs: "wäncmus" against "wändig“" | Wikisource:  | next_nc_e1: „Gewänc mustern ssen und bestimme de | german_print2_15: „Gewänc mustern ssen und bestimme de -->
+			<!-- line left out: id="r1l38" points="82,1281 93,1281 122,1281 147,1283 150,1275 155,1275 157,1281 192,1277 203,1274 208,1274 210,1282 221,1277 234,1277 241,1279 253,1284 262,1277 267,1277 341,1277 363,1271 366,1271 387,1271 410,1271 428,1271 486,1271 492,1276 501,1279 521,1270 532,1270 534,1276 550,1276 572,1268 578,1268 581,1275 598,1275 600,1267 611,1267 613,1273 646,1273 646,1287 637,1287 578,1284 572,1284 547,1279 544,1285 492,1286 452,1287 267,1288 253,1289 234,1289 208,1289 173,1290 122,1291 82,1291" baseline="82,1291 121,1290 287,1287 549,1284 646,1283" reason: differs: "mand" against "hren" | Wikisource:  | next_nc_e1: man die Getreidew n festhalte, bis die Ladung | german_print2_15: man die Getreidew n festhalte, bis die Ladung -->
+			<!-- line left out: id="r1l39" points="83,1302 92,1301 134,1301 226,1305 256,1305 273,1311 279,1305 291,1304 309,1303 318,1303 334,1309 338,1303 348,1303 348,1297 386,1297 395,1300 396,1308 407,1297 412,1297 414,1305 423,1305 447,1306 462,1297 473,1297 485,1302 503,1305 516,1296 528,1296 529,1303 541,1301 548,1301 564,1294 579,1294 626,1293 637,1293 638,1299 649,1299 658,1301 675,1292 682,1292 691,1293 692,1299 703,1299 703,1292 720,1292 747,1291 754,1291 783,1291 783,1307 720,1308 649,1309 579,1310 528,1311 485,1312 447,1314 438,1314 423,1313 395,1313 386,1314 302,1314 256,1315 199,1316 83,1316" baseline="83,1317 133,1316 198,1315 273,1314 547,1310 657,1308 783,1306" reason: models differ | Wikisource: Wolle man nun auch zugestehen, dass der Rath das Recht hab | next_nc_e1: Wolle man nun auch zugestehen, dass der Rath das Recht hab | german_print2_15: Wolle man nun auch zugestehen, dass der Rath das Recht habe -->
+			<TextLine id="r1l40" custom="readingOrder {index:40;}">
+				<Coords points="84,1327 95,1327 103,1331 152,1327 197,1332 233,1332 235,1326 283,1331 346,1329 367,1323 424,1323 425,1329 460,1329 461,1336 487,1329 527,1326 609,1327 609,1319 622,1319 622,1327 633,1327 665,1326 665,1319 677,1319 694,1324 694,1318 726,1318 727,1324 749,1323 766,1317 778,1317 779,1324 800,1323 800,1333 465,1339 371,1339 283,1342 272,1342 178,1342 103,1342 96,1342 84,1341" />
+				<Baseline points="84,1342 800,1333" />
+				<TextEquiv index="1">
+					<Unicode>Steuerhinterziehungen zu verfolgen, so müsse dies doch bei den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l41" custom="readingOrder {index:41;}">
+				<Coords points="85,1358 115,1356 145,1358 146,1352 158,1352 166,1358 199,1358 222,1360 222,1353 300,1353 307,1356 332,1354 414,1356 414,1349 427,1349 429,1356 440,1349 453,1349 461,1363 470,1354 485,1349 519,1347 541,1348 590,1346 590,1352 671,1351 689,1345 713,1345 733,1350 747,1343 751,1343 783,1343 802,1345 802,1364 790,1364 760,1360 751,1364 671,1361 487,1366 476,1364 453,1366 307,1366 300,1368 176,1369 166,1369 85,1368" />
+				<Baseline points="85,1368 802,1359" />
+				<TextEquiv index="1">
+					<Unicode>zuständigen Amtsgerichten geschehen. Das thue man aber nicht,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>oder Gewohnheit beruhenden Gerechtsame in früherer Zeit verdient
+werde den ehemals bei dem Schlosse üblichen Getreidemarkt wie-
+derum stabiliren und dadurch die Amtsunterthanen, wie auch andere
+von der Stadt onere befreien.
+rden gegen den Rath vorzubringen, die
+unterthanen überlaufen, die Klagen wegen der Ungerechtigkeit oder
+Unbilligkeit des Chemnitzer Rathes vorbrächten. Dieser verlange
+den Marktzoll von dem Getreide und anderen Nahrungsmitteln,
+welche die Bauern gemeiner Stadt zu Nutz einführten. Weigerten
+sie sich zu zahlen, so würden sie „in Geschwindigkeit“ gepfändet.
+von Reichenbrand widerfahren. Die Stadt erhebe auch an anderen
+Tagen als den Markttagen Zoll, seit einiger Zeit auch Ausgangszoll
+und Durchgangszoll für Getreide, welches nach Helbersdorf, Hermers-
+gegen das Herkommen verstossend sei es, wenn man das verzollen
+lasse, was ein Bauer bei einem Chemnitzer Handwerker habe machen
+lassen. Gleichwohl habe man den Andreas Hertel aus Adorf, der
+fuhre nach Schwarzenberg
+geführt und nach Neukirchen, Burkhardtsdorf, Thum, Annaberg,
+Geyer, Ehrenfriedersdorf und anderen Orten verfrachtet werde.
+Sonst sei der kurfürstliche Geleitsmann froh gewesen, wenn man
+alle Wagen aus dem Niederlande an, zwinge die Fuhrleute, das
+Steuerhinterziehungen zu verfolgen, so müsse dies doch bei den
+zuständigen Amtsgerichten geschehen. Das thue man aber nicht,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="394,1549 523,1549 523,1561 394,1561" />
+			<!-- line left out: id="r2l0" points="394,1549 402,1549 408,1550 422,1549 434,1549 456,1549 469,1549 494,1549 523,1549 523,1558 452,1561 441,1561 426,1561 414,1560 407,1560 394,1558" baseline="394,1558 523,1558" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnp digital slub-dresder
+ | german_print2_15: —
+ -->
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+des von ihm begangenen Unrechtes ansehen. Jedenfalls
+war durch seine Zuschrift das Verbietungsrecht des Rathes anerkannt,
+wie dies ja auch seiner Zeit von dem Abte Hilarius geschehen war.
+Als ein Beweis für die Unsicherheit der öffentlichen, auf Verleihung
+oder Gewohnheit beruhenden Gerechtsame in früherer Zeit verdient
+der Umstand hervorgehoben zu werden, dass noch i. J. 1684 der
+Amtmann Melchior Wolfgang Siegel der Stadt drohen konnte, er
+werde den ehemals bei dem Schlosse üblichen Getreidemarkt
+wiederum stabiliren und dadurch die Amtsunterthanen, wie auch andere
+von der Stadt onere befreien.
+Hatte auch Uswald die Rechtmässigkeit der städtischen
+Ansprüche anerkannt, so liess er sich gleichwohl die Gelegenheit nicht
+entgehen, seinerseits Beschwerden gegen den Rath vorzubringen, die
+sämmtlich mehr oder weniger mit dem Marktrechte der Stadt
+zusammen hingen. Täglich, so versichert er, werde er von
+Amtsunterthanen überlaufen, die Klagen wegen der Ungerechtigkeit oder
+Unbilligkeit des Chemnitzer Rathes vorbrächten. Dieser verlange
+den Marktzoll von dem Getreide und anderen Nahrungsmitteln,
+welche die Bauern gemeiner Stadt zu Nutz einführten. Weigerten
+sie sich zu zahlen, so würden sie „in Geschwindigkeit“ gepfändet.
+Das sei z. B. dem Jocoff Jhone von Helbersdorf und dem Kirchner
+von Reichenbrand widerfahren. Die Stadt erhebe auch an anderen
+Tagen als den Markttagen Zoll, seit einiger Zeit auch Ausgangszoll
+und Durchgangszoll für Getreide, welches nach Helbersdorf,
+Hermersdorf, Altenhain und Dittmannsdorf verladen sei. Unerhört und
+gegen das Herkommen verstossend sei es, wenn man das verzollen
+lasse, was ein Bauer bei einem Chemnitzer Handwerker habe machen
+lassen. Gleichwohl habe man den Andreas Hertel aus Adorf, der
+in Chemnitz ein Wagenrad habe beschlagen lassen, um eine
+Dienstfuhre nach Schwarzenberg thun zu können, gepfändet, noch dazu
+auf Amtsgebiet, weil er keinen Zoll gezahlt. Ebensowenig wie
+dieses Zollrecht stehe der Stadt das Stapelrecht für das „Gewändig“
+zu, welches von Fuhrleuten aus Pleissa, Grüna, Reichenbrand,
+Rabenstein, Mittelbach, Siegmar und Limbach aus den Niederlanden
+eingeführt und nach Neukirchen, Burkhardtsdorf, Thum, Annaberg,
+Geyer, Ehrenfriedersdorf und anderen Orten verfrachtet werde.
+Sonst sei der kurfürstliche Geleitsmann froh gewesen, wenn man
+ihm das Geleite ins Haus geschickt habe. Jetzt halte die Stadt
+alle Wagen aus dem Niederlande an, zwinge die Fuhrleute, das
+„Gewändig“ mustern zu lassen und bestimme dessen Preis, während
+man die Getreidewagen festhalte, bis die Ladung verkauft sei.
+Wolle man nun auch zugestehen, dass der Rath das Recht habe,
+Steuerhinterziehungen zu verfolgen, so müsse dies doch bei den
+zuständigen Amtsgerichten geschehen. Das thue man aber nicht,
+-->
+	</Page>
+</PcGts>

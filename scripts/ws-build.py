@@ -55,6 +55,8 @@ DPI = os.environ.get('DPI') or (_src[3] if len(_src) == 4 else '300')
 if SCAN.endswith('.pdf') and len(_src) in (3, 4): open(f'{work}/provenance/source.txt', 'w').write(' '.join(_src[:3] + [DPI]) + '\n')
 # ESZETT=ſs: the print has no ß type and sets ſs for it everywhere (checked on the scans)
 ESZETT = os.environ.get('ESZETT', '')
+# LONGS=0: the print has no long s (modern Antiqua); a long s read by the models counts as s
+LONGS = os.environ.get('LONGS', '1') != '0'
 MAXSUBST = int(os.environ.get('MAXSUBST', '2'))
 # forms where the recognition is not trusted and Wikisource is taken: (recognised, Wikisource)
 TAKE_WS = {('ʒ', 'z'), ('ũ', 'ü'), ('·', '/'), ('u\u0366', 'ü'), ('ü', 'u\u0366'), ('ı', 'i'), ('J', 'I'), ('I', 'J'), ('v', 'u'), ('u', 'v')} - {('v', 'u'), ('u', 'v')}
@@ -168,11 +170,11 @@ def hybrid(ou, wu):
 
 virg = lambda s: re.sub(r' */ *', '/ ', s).strip()
 
-def assign(lines, wu):
+def assign(lines, wu, boxes):
     """For every recognised line the stretch of the Wikisource text wu (units,
     whole page) which gives a text without unexplained difference:
     {line index: (text, start, end)} and {line index: reason}"""
-    lu = [[x for x in units(virg(t)) if x != ' '] for t in lines]
+    lu = [[x for x in units(virg(t if LONGS else t.replace('ſ', 's'))) if x != ' '] for t in lines]
     hyph = []
     for u in lu:                                   # hyphen at the line end: kept apart
         h = ''
@@ -212,6 +214,34 @@ def assign(lines, wu):
             if not inword: why[i] = 'hyphen at the line end, but the word ends in Wikisource'; prev_end = e; continue
             t += hyph[i]
         res[i] = (t, s0, e); prev_end = e
+    # The layout analysis sometimes cuts a printed line into pieces. A piece
+    # which starts or ends inside a word is not used: its image shows a cut
+    # word. A piece is recognised by a neighbour on the same row close to that
+    # side. Without such a neighbour the line stands alone, and a text which
+    # starts or ends inside a word is a real line break of the print (early
+    # prints split words without a hyphen), or the start is an initial outside
+    # the line. With a neighbour, the text is still right if the other part of
+    # the word is the text of a used line on another row.
+    def apart(a, b):
+        ov = min(a[3], b[3]) - max(a[1], b[1])
+        return ov < 0.5 * min(a[3] - a[1], b[3] - b[1])
+    def neighbour(i, left):
+        a = boxes[i]; h = a[3] - a[1]
+        for k, b in enumerate(boxes):
+            if k == i or apart(a, b): continue
+            gap = a[0] - b[2] if left else b[0] - a[2]
+            if -h < gap < 3 * h and (b[0] < a[0] if left else b[2] > a[2]): return True
+        return False
+    changed = True
+    while changed:
+        changed = False
+        for i, (t, s0, e) in list(res.items()):
+            if (s0 > 0 and wu[s0 - 1] not in ' ⟦⟧' and neighbour(i, True)
+                    and not any(res[p][2] == s0 and apart(boxes[i], boxes[p]) for p in res if p != i)):
+                why[i] = 'piece of a line: starts inside a word'; del res[i]; changed = True; continue
+            if (e < len(wu) and wu[e] not in ' ⟦⟧' and not hyph[i] and neighbour(i, False)
+                    and not any(res[n][1] == e and apart(boxes[i], boxes[n]) for n in res if n != i)):
+                why[i] = 'piece of a line: ends inside a word'; del res[i]; changed = True
     return res, why
 
 os.makedirs(f'{work}/.ocr', exist_ok=True); os.makedirs(f'{work}/GT-PAGE', exist_ok=True)
@@ -236,7 +266,6 @@ for f in sorted(glob.glob(f'{work}/provenance/wikisource/*.json'), key=lambda p:
     (l1, tree), (l2, _) = page_lines(ocr(png, M1, n)), page_lines(ocr(png, M2, n))
     wu = units(virg(' '.join(w if usable else '⟦⟧' for w, usable in ws)))
     if ESZETT: wu = units(''.join(wu).replace('ß', ESZETT))
-    r1, y1 = assign([x[1] for x in l1], wu); r2, y2 = assign([x[1] for x in l2], wu)
     def box(points):
         xy = [tuple(map(int, p.split(','))) for p in points.split()]
         return min(x for x, _ in xy), min(y for _, y in xy), max(x for x, _ in xy), max(y for _, y in xy)
@@ -244,7 +273,8 @@ for f in sorted(glob.glob(f'{work}/provenance/wikisource/*.json'), key=lambda p:
         w = min(a[2], b[2]) - max(a[0], b[0]); h = min(a[3], b[3]) - max(a[1], b[1])
         if w <= 0 or h <= 0: return 0
         return w * h / ((a[2] - a[0]) * (a[3] - a[1]) + (b[2] - b[0]) * (b[3] - b[1]) - w * h)
-    b2 = [box(x[2]) for x in l2]
+    b1 = [box(x[2]) for x in l1]; b2 = [box(x[2]) for x in l2]
+    r1, y1 = assign([x[1] for x in l1], wu, b1); r2, y2 = assign([x[1] for x in l2], wu, b2)
     def second(points):                 # the same line of the second model: nearly the same box
         a = box(points); k = max(range(len(b2)), key=lambda k: iou(a, b2[k]), default=None)
         return k if k is not None and iou(a, b2[k]) > 0.7 else None
@@ -297,5 +327,5 @@ for f in sorted(glob.glob(f'{work}/provenance/wikisource/*.json'), key=lambda p:
         ET.indent(tree, '\t'); tree.write(f'{work}/GT-PAGE/{base}.xml', encoding='UTF-8', xml_declaration=True); stat['PAGE files'] += 1
     print(n, len(l1), 'lines,', len(keep), 'used', flush=True)
 open(f'{work}/provenance/lines.tsv', 'w', encoding='utf-8').write('page\tline\tgroup\treason\tWikisource\t' + M1 + '\t' + M2 + '\ttext\n' + '\n'.join(rows) + '\n')
-json.dump({'models': [M1, M2], 'zform': ZFORM, 'eszett': ESZETT, **stat, 'left out': dict(reasons)}, open(f'{work}/provenance/build.json', 'w'), ensure_ascii=False, indent=1)
+json.dump({'models': [M1, M2], 'zform': ZFORM, 'eszett': ESZETT, 'longs': LONGS, **stat, 'left out': dict(reasons)}, open(f'{work}/provenance/build.json', 'w'), ensure_ascii=False, indent=1)
 print(dict(stat)); print('left out:', reasons.most_common()); print('unknown templates:', unknown_templates.most_common())

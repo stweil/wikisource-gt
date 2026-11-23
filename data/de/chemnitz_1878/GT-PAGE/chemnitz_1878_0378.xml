@@ -1,0 +1,554 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:40:51</Created>
+		<LastChange>2026-11-23T14:40:51</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/378 revision 4667249 of 2025-12-03T07:48:25Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0378.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro4390930623912050867" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+				<RegionRefIndexed index="15" regionRef="r15" />
+				<RegionRefIndexed index="16" regionRef="r16" />
+				<RegionRefIndexed index="17" regionRef="r17" />
+				<RegionRefIndexed index="18" regionRef="r18" />
+				<RegionRefIndexed index="21" regionRef="r21" />
+				<RegionRefIndexed index="24" regionRef="r24" />
+				<RegionRefIndexed index="27" regionRef="r27" />
+				<RegionRefIndexed index="29" regionRef="r29" />
+				<RegionRefIndexed index="30" regionRef="r30" />
+				<RegionRefIndexed index="32" regionRef="r32" />
+				<RegionRefIndexed index="35" regionRef="r35" />
+				<RegionRefIndexed index="38" regionRef="r38" />
+				<RegionRefIndexed index="40" regionRef="r40" />
+				<RegionRefIndexed index="43" regionRef="r43" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="531,168 564,168 564,184 531,184" />
+			<!-- line left out: id="r0l0" points="531,168 564,168 564,184 555,184 531,183" baseline="531,183 564,184" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 124
+ | german_print2_15: 124
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="187,212 900,212 900,361 187,361" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="188,212 216,212 217,219 305,220 331,218 416,216 417,222 429,222 439,224 461,218 506,218 506,227 517,224 526,219 537,219 539,225 643,226 665,220 686,220 698,221 701,228 748,228 749,222 762,222 762,229 793,228 830,223 841,223 842,231 872,229 877,224 888,224 891,230 900,230 900,236 888,239 872,239 748,237 737,239 726,239 698,235 583,237 564,235 506,233 315,230 230,227 229,233 217,233 188,228" />
+				<Baseline points="188,227 900,239" />
+				<TextEquiv index="1">
+					<Unicode>Tagen erwartet. Eine Aufforderung zur Uebergabe wurde ab-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="188,244 200,244 206,239 217,239 219,246 230,246 231,239 241,239 367,241 374,242 375,248 430,243 493,251 493,244 521,244 555,249 557,258 583,251 614,253 615,246 660,246 674,254 690,252 701,247 732,248 734,254 755,253 770,260 782,248 793,248 802,254 900,255 900,265 836,264 834,270 828,270 813,264 660,261 489,261 367,256 266,256 217,254 200,258 188,258" />
+				<Baseline points="188,253 900,265" />
+				<TextEquiv index="1">
+					<Unicode>gelehnt; Oberst Prinz hatte erklärt, er dürfe sich bei aller persön-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l2" points="188,264 192,264 195,270 206,270 207,264 218,264 225,272 237,271 258,267 269,266 280,266 282,272 316,272 330,270 338,267 343,267 345,273 368,272 372,272 413,271 433,269 444,269 446,277 457,275 474,275 496,270 518,270 532,274 553,277 554,271 565,271 572,277 575,277 594,280 604,272 609,272 622,277 646,278 677,278 695,279 717,279 788,280 796,275 805,275 821,282 827,280 851,275 861,275 869,281 891,281 900,283 900,289 891,291 869,291 861,290 805,290 796,290 788,289 754,290 744,290 733,289 717,288 646,289 635,289 604,287 565,286 532,286 496,286 474,285 457,285 444,284 329,285 317,285 306,282 282,281 247,280 224,280 195,280 188,279" baseline="188,279 258,280 496,285 660,288 804,289 900,291" reason: differs: "rhadlun" against "rhandlu" | Wikisource:  | next_nc_e1: lichen Geneigtheit auf keine Unterha dlung einlassen, weil er keine | german_print2_15: lichen Geneigtheit auf keine Unterha dlung einlassen, weil er keine -->
+			<!-- line left out: id="r1l3" points="187,292 199,291 214,290 226,290 228,297 235,297 246,298 264,291 275,291 276,297 287,297 326,293 337,293 343,299 349,299 350,293 362,293 363,300 373,300 374,307 377,307 410,308 411,295 428,295 428,301 442,301 464,302 466,295 478,295 479,302 505,299 517,299 524,300 536,305 538,297 548,297 576,303 587,303 602,303 604,297 623,297 638,307 646,303 652,303 676,299 685,299 700,306 706,305 715,305 753,305 775,303 781,303 817,308 820,300 829,300 832,308 844,306 853,306 900,307 900,317 789,317 786,317 742,315 685,314 652,314 646,314 623,313 592,313 518,312 491,311 466,311 406,310 374,309 362,308 298,308 264,307 199,306 187,304" baseline="187,305 245,306 406,309 638,313 805,315 873,316 900,317" reason: differs: "Ordr" against "kein" | Wikisource:  | next_nc_e1: Ordre dazu habe. Aus der Stadt ward stark ge euert; schon am | german_print2_15: Ordre dazu habe. Aus der Stadt ward stark ge euert; schon am -->
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="187,322 217,322 287,317 296,317 298,324 360,326 362,320 378,320 386,324 451,327 516,323 528,328 555,331 556,323 569,323 572,329 584,324 594,324 602,331 623,330 636,324 649,324 655,330 673,331 716,329 728,332 738,325 759,325 762,333 772,333 773,326 786,326 788,334 812,332 831,327 879,327 881,335 900,337 900,339 847,342 716,340 661,341 386,336 298,337 287,334 187,332" />
+				<Baseline points="187,331 410,336 900,343" />
+				<TextEquiv index="1">
+					<Unicode>zweiten Tage zählte man im kaiserlichen Lager 20 Todte und Ver-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l5" points="187,348 199,348 233,349 235,343 245,343 258,348 314,350 323,345 350,345 390,346 406,351 406,354 404,354 392,361 335,361 314,359 275,361 266,361 258,359 233,359 204,359 187,357" baseline="187,358 294,359 349,360 406,362" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: wundete, welch letzt
+ | german_print2_15: wundete, welch letzt
+ -->
+			<TextEquiv index="1">
+				<Unicode>Tagen erwartet. Eine Aufforderung zur Uebergabe wurde ab-
+gelehnt; Oberst Prinz hatte erklärt, er dürfe sich bei aller persön-
+zweiten Tage zählte man im kaiserlichen Lager 20 Todte und Ver-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r2">
+			<Coords points="725,301 727,301 727,314 725,314" />
+		</GraphicRegion>
+		<GraphicRegion id="r3">
+			<Coords points="883,333 892,333 892,335 883,335" />
+		</GraphicRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="424,348 530,348 530,364 424,364" />
+			<!-- line left out: id="r4l0" points="424,353 431,353 469,354 477,350 487,350 509,356 515,348 530,348 530,364 515,364 464,363 431,362 424,362" baseline="424,362 433,362 509,363 530,364" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: re auf de
+ | german_print2_15: re auf der
+ -->
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="394,352 413,352 413,362 394,362" />
+		</GraphicRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="533,350 900,350 900,370 533,370" />
+			<!-- line left out: id="r6l0" points="533,355 568,350 575,350 596,350 614,350 618,358 630,358 640,357 675,356 686,356 693,354 705,354 731,358 737,359 745,352 756,352 766,358 776,358 788,352 800,352 825,358 852,358 866,359 867,353 878,353 880,359 900,359 900,368 889,369 880,369 800,368 788,368 776,367 731,370 721,370 712,367 675,366 602,365 575,365 533,365" baseline="533,364 649,363 804,367 825,367 900,368" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: m Schlosse untergebracht wurden.
+ | german_print2_15: m Schlosse untergebracht wurden.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r7">
+			<Coords points="518,367 519,367 519,381 518,381" />
+		</GraphicRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="187,368 901,368 901,478 187,478" />
+			<TextLine id="r8l0" custom="readingOrder {index:0;}">
+				<Coords points="188,368 194,368 210,370 247,370 268,378 275,376 320,377 340,371 352,371 353,379 364,376 396,373 400,379 464,380 465,387 490,381 528,383 530,375 546,375 548,383 560,381 599,382 612,376 621,376 641,382 663,383 683,377 701,377 755,385 758,378 768,378 771,384 780,384 802,378 815,378 822,385 856,385 857,379 868,379 869,385 879,385 892,379 900,379 900,394 879,394 822,394 522,390 430,391 352,387 344,391 340,391 297,386 188,384" />
+				<Baseline points="188,384 900,394" />
+				<TextEquiv index="1">
+					<Unicode>Durch einen Betteljungen, welcher sich im Bette der Bernsbach</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l1" custom="readingOrder {index:1;}">
+				<Coords points="187,401 218,398 236,402 256,396 268,396 269,404 281,403 303,397 326,397 328,404 384,399 388,399 390,405 463,406 470,401 492,401 495,407 505,407 512,401 517,401 518,407 575,402 590,408 612,408 618,410 625,402 676,403 677,409 688,409 695,403 711,403 714,409 719,409 731,403 741,403 754,409 791,411 794,404 804,404 812,410 838,405 840,411 900,411 900,421 883,421 719,418 651,420 612,417 443,419 435,414 403,415 187,410" />
+				<Baseline points="187,410 900,421" />
+				<TextEquiv index="1">
+					<Unicode>unter der Mauer hinwegschlich und auch glücklich wieder herein-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r8l2" points="825,436 836,436 901,437 901,448 886,448 851,446 839,440 836,446 825,446" baseline="825,445 901,448" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: rennen, | german_print2_15: prennen, -->
+			<TextLine id="r8l3" custom="readingOrder {index:3;}">
+				<Coords points="187,453 199,453 209,455 210,448 220,448 222,454 232,454 233,448 244,448 246,455 255,455 273,449 279,449 279,455 287,455 300,449 310,449 326,456 356,456 371,459 373,451 383,451 384,457 411,458 426,452 443,452 451,458 503,453 505,460 553,458 595,460 615,454 638,454 639,462 652,460 696,461 697,455 734,455 735,463 762,462 777,456 804,457 806,463 846,462 871,457 876,457 878,464 898,463 898,472 795,472 785,478 777,478 762,471 505,469 187,463" />
+				<Baseline points="187,463 898,472" />
+				<TextEquiv index="1">
+					<Unicode>welche sich zwischen dem Chemnitzer Thor und dem Johannisthor</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Durch einen Betteljungen, welcher sich im Bette der Bernsbach
+unter der Mauer hinwegschlich und auch glücklich wieder herein-
+welche sich zwischen dem Chemnitzer Thor und dem Johannisthor</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r9">
+			<Coords points="802,431 820,431 820,445 802,445" />
+		</GraphicRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="186,422 796,422 796,445 186,445" />
+			<!-- line left out: id="r10l0" points="186,428 203,428 205,422 220,422 234,427 253,426 258,426 271,430 275,436 305,423 309,423 312,429 322,429 328,431 346,432 367,424 378,424 379,432 392,431 419,428 431,426 442,426 446,433 467,433 480,431 509,426 514,426 527,427 531,433 536,433 557,433 590,432 599,429 602,429 626,433 635,429 692,429 694,436 711,435 739,435 789,436 796,439 796,444 789,445 692,445 687,445 637,444 599,444 557,443 516,443 467,442 457,442 395,440 367,440 322,439 279,440 252,441 234,443 222,443 220,437 198,440 186,440" baseline="186,437 345,438 419,440 636,444 664,444 778,445 796,446" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: gelangte, liess der Oberst Prinz etliche Scheunen we
+ | german_print2_15: gelangte, liess der Oberst Prinz etliche Scheunen we
+ -->
+		</TextRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="184,474 900,474 900,597 184,597" />
+			<TextLine id="r11l0" custom="readingOrder {index:0;}">
+				<Coords points="186,474 198,474 199,482 212,476 222,476 246,480 249,474 259,474 262,481 271,481 281,474 283,474 317,476 321,482 337,482 353,476 359,476 361,489 371,489 373,483 432,484 458,482 554,486 588,483 693,482 699,485 719,487 776,488 784,490 787,482 802,482 814,483 816,489 900,489 900,499 885,499 513,495 495,489 490,494 379,495 186,488" />
+				<Baseline points="186,488 494,494 900,499" />
+				<TextEquiv index="1">
+					<Unicode>befanden. Im Lager rüstete man sich zum Sturm, welchen man</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l1" custom="readingOrder {index:1;}">
+				<Coords points="186,500 198,500 199,508 233,500 245,500 246,508 297,502 299,508 332,506 338,508 356,509 364,503 391,502 391,510 446,504 459,504 461,511 470,511 473,505 483,505 491,512 509,510 538,512 540,506 551,506 553,514 583,514 586,507 596,507 605,513 625,510 637,510 641,515 649,507 660,507 661,513 672,513 681,515 688,507 699,507 701,515 712,513 754,512 795,516 803,508 813,508 815,514 889,515 891,509 900,509 900,524 889,525 879,525 712,523 672,521 377,522 356,518 186,515" />
+				<Baseline points="186,515 420,519 900,524" />
+				<TextEquiv index="1">
+					<Unicode>bei dem hartnäckigen Widerstande der Schweden für schwer und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r11l2" points="185,533 196,533 204,528 214,526 227,526 233,527 236,533 246,533 251,527 255,527 258,533 275,528 279,528 281,534 326,534 341,537 342,529 354,529 365,529 415,530 416,537 431,537 443,531 453,531 462,537 472,537 547,538 551,532 562,532 570,538 604,536 607,536 651,536 720,540 725,547 731,542 734,542 746,546 767,534 772,534 798,534 798,540 808,540 836,541 836,535 849,535 850,541 866,541 877,542 880,535 900,535 900,550 836,552 825,552 808,550 798,552 784,552 729,549 651,550 614,550 604,550 570,548 562,547 547,548 529,548 495,547 472,547 462,547 443,546 196,545 185,545" baseline="185,541 364,544 584,548 767,548 900,550" reason: differs: "ertviel" against "ertigt," | Wikisource:  | next_nc_e1: gefährlich ansah. Faschinen wurden gefert viel Reissigbündel | german_print2_15: gefährlich ansah. Faschinen wurden gefert viel Reissigbündel -->
+			<TextLine id="r11l3" custom="readingOrder {index:3;}">
+				<Coords points="185,558 210,553 247,553 256,559 267,559 277,554 287,554 302,560 323,560 358,555 372,555 385,556 408,561 439,558 490,558 492,564 548,565 562,563 602,565 661,565 663,559 699,559 701,566 711,566 719,568 731,560 747,560 753,572 759,567 782,568 789,566 838,567 847,569 861,561 872,561 873,569 885,567 900,567 900,577 885,577 711,574 539,576 515,573 185,568" />
+				<Baseline points="185,568 622,574 900,576" />
+				<TextEquiv index="1">
+					<Unicode>und Stroh zum Klosterthor hinzugetragen und das Wasser aus dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r11l4" points="184,582 204,582 216,585 217,579 229,579 236,582 270,586 272,580 284,580 285,588 296,586 305,586 326,594 332,582 348,582 348,596 296,596 284,595 250,597 238,597 217,595 198,594 184,593" baseline="184,593 348,596" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: Stadtgraben ab
+ | german_print2_15: Stadtgraben ab
+ -->
+			<TextEquiv index="1">
+				<Unicode>befanden. Im Lager rüstete man sich zum Sturm, welchen man
+bei dem hartnäckigen Widerstande der Schweden für schwer und
+und Stroh zum Klosterthor hinzugetragen und das Wasser aus dem</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="184,605 900,605 900,629 184,629" />
+			<TextLine id="r12l0" custom="readingOrder {index:0;}">
+				<Coords points="184,605 196,605 198,611 214,612 234,606 246,606 246,613 258,606 269,606 270,612 297,614 298,607 309,607 311,616 323,614 407,609 422,609 424,615 446,610 448,616 458,616 468,619 469,610 482,610 484,617 514,617 549,623 550,617 571,614 588,618 639,615 714,618 715,612 726,612 748,619 766,619 771,613 792,613 815,619 866,619 867,613 878,613 900,617 900,629 867,629 612,626 588,629 577,629 568,627 545,627 517,620 514,626 407,626 309,622 258,622 234,620 211,615 208,621 184,621" />
+				<Baseline points="184,620 383,624 900,629" />
+				<TextEquiv index="1">
+					<Unicode>die Schweden am Niclasthore aufgeworfen und wohl verwahrt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>die Schweden am Niclasthore aufgeworfen und wohl verwahrt</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r13">
+			<Coords points="661,537 685,537 685,550 661,550" />
+		</GraphicRegion>
+		<GraphicRegion id="r14">
+			<Coords points="351,582 377,582 377,599 351,599" />
+		</GraphicRegion>
+		<TextRegion id="r15" custom="readingOrder {index:15;} orientation {0;}">
+			<Coords points="381,584 900,584 900,604 381,604" />
+			<!-- line left out: id="r15l0" points="381,590 388,588 400,587 404,587 468,584 481,584 489,590 502,590 502,584 504,584 536,585 538,591 554,591 556,585 560,585 574,586 610,591 621,593 624,585 635,585 639,594 647,591 684,591 697,592 728,586 740,586 740,594 751,587 756,587 758,593 781,592 796,592 807,594 811,600 836,593 855,593 858,587 867,587 885,587 887,594 900,594 900,603 875,603 867,602 814,603 811,603 796,602 751,602 740,601 697,604 686,604 647,601 635,600 560,600 489,600 468,599 419,598 404,597 398,598 388,598 381,596" baseline="381,598 422,598 836,602 900,603" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: eitet Eine halbmondſörmige Schanze, welche
+ | german_print2_15: eitet Eine halbmondſörmige Schanze, welche
+ -->
+		</TextRegion>
+		<TextRegion id="r16" custom="readingOrder {index:16;} orientation {0;}">
+			<Coords points="183,631 901,631 901,812 183,812" />
+			<TextLine id="r16l0" custom="readingOrder {index:0;}">
+				<Coords points="185,631 196,631 197,638 209,635 229,635 247,638 249,645 274,639 311,634 323,634 324,641 438,640 476,643 509,643 528,637 574,637 578,645 663,644 673,638 683,638 691,644 700,644 721,638 726,638 735,646 747,643 790,645 810,639 815,639 816,645 859,645 867,643 879,643 900,649 900,651 891,655 834,655 790,655 758,655 747,655 574,652 528,653 476,651 443,652 185,647" />
+				<Baseline points="185,646 445,651 900,655" />
+				<TextEquiv index="1">
+					<Unicode>hatten, wurde erstürmt; vom Schlosse wurden Leitern herunter-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r16l1" points="489,669 524,664 542,664 565,669 577,670 585,664 595,664 597,670 609,668 621,668 666,667 677,667 698,668 706,670 721,667 751,665 774,665 776,671 810,669 814,669 826,671 841,671 859,669 872,669 891,669 901,673 901,679 891,681 872,681 814,681 723,682 707,682 698,680 669,682 666,682 621,679 524,679 489,678" baseline="489,678 524,678 810,680 901,681" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: m Sturmlaufen fertig. Man erwartete | german_print2_15: m Sturmlaufen fertig. Man erwartete -->
+			<TextLine id="r16l2" custom="readingOrder {index:2;}">
+				<Coords points="184,690 213,690 275,686 285,686 304,692 357,687 375,687 377,693 400,694 440,689 451,689 453,696 501,690 512,690 514,697 527,697 539,690 550,690 580,696 600,703 634,696 645,696 658,690 668,690 687,697 722,697 740,691 751,691 753,698 763,698 772,700 792,692 812,692 813,698 900,698 900,707 597,706 184,700" />
+				<Baseline points="184,699 900,708" />
+				<TextEquiv index="1">
+					<Unicode>nur noch von Plauen her Geschütze; auch war das Wasser im</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r16l3" points="183,711 195,711 202,714 214,717 215,711 227,711 236,717 263,712 274,712 277,719 289,718 304,718 339,719 351,720 357,721 364,714 374,714 395,720 438,719 449,719 692,723 694,717 710,717 749,718 752,725 769,721 774,721 788,722 794,725 815,718 820,718 821,724 835,723 845,723 853,717 864,717 865,724 890,724 891,718 900,718 900,733 879,733 815,733 791,727 788,733 718,733 688,732 405,730 339,729 328,729 298,728 247,730 236,730 215,727 196,726 183,725" baseline="183,726 746,732 900,733" reason: differs: "utiicht" against " tief, " | Wikisource:  | next_nc_e1: Stadtgraben noch zu ti icht hätte hindurch | german_print2_15: Stadtgraben noch zu ti icht hätte hindurch -->
+			<TextLine id="r16l4" custom="readingOrder {index:4;}">
+				<Coords points="186,737 196,737 197,744 300,739 304,745 361,745 361,755 291,755 284,755 186,753" />
+				<Baseline points="186,753 361,755" />
+				<TextEquiv index="1">
+					<Unicode>kommen können.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r16l5" custom="readingOrder {index:5;}">
+				<Coords points="236,765 250,765 302,765 355,774 368,766 377,766 396,773 419,773 421,767 453,767 493,774 542,773 561,775 580,769 591,769 592,775 604,773 664,775 729,775 738,778 753,770 764,769 778,769 785,775 823,774 889,776 890,770 899,770 899,785 647,785 626,778 623,784 561,787 551,787 542,784 368,782 340,780 236,780" />
+				<Baseline points="236,779 899,786" />
+				<TextEquiv index="1">
+					<Unicode>Am Mittwoch und Donnerstag hatte man aus Musketen und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r16l6" custom="readingOrder {index:6;}">
+				<Coords points="184,790 202,790 204,796 251,796 263,798 265,791 276,791 286,798 342,796 375,793 395,799 427,800 434,794 444,794 446,800 472,801 512,799 535,803 537,795 548,795 550,802 586,799 591,803 598,795 609,795 610,801 641,803 644,795 654,795 662,802 671,802 695,796 697,802 715,799 727,799 751,801 783,801 789,804 796,796 806,796 824,808 830,802 842,799 880,796 881,802 891,802 899,805 899,810 880,812 842,812 455,809 395,811 354,808 184,806" />
+				<Baseline points="184,806 851,811 899,810" />
+				<TextEquiv index="1">
+					<Unicode>Feuerröhren stark geschossen; die Schweden hatten sich auf das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>hatten, wurde erstürmt; vom Schlosse wurden Leitern herunter-
+nur noch von Plauen her Geschütze; auch war das Wasser im
+kommen können.
+Am Mittwoch und Donnerstag hatte man aus Musketen und
+Feuerröhren stark geschossen; die Schweden hatten sich auf das</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r17" custom="readingOrder {index:17;} orientation {0;}">
+			<Coords points="752,847 898,847 898,864 752,864" />
+			<!-- line left out: id="r17l0" points="752,847 763,847 764,855 776,853 799,853 815,854 815,847 817,847 848,854 859,854 880,855 898,856 898,864 854,864 848,864 763,863 752,863" baseline="752,863 816,863 898,864" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: kommen wäre.
+ | german_print2_15: kommen wäre.
+ -->
+		</TextRegion>
+		<TextRegion id="r18" custom="readingOrder {index:18;} orientation {0;}">
+			<Coords points="184,660 473,660 473,678 184,678" />
+			<!-- line left out: id="r18l0" points="184,664 194,664 203,661 214,661 235,664 248,665 271,665 272,672 296,665 307,665 319,666 321,660 331,660 358,661 373,661 375,670 413,668 424,668 429,674 435,668 445,668 473,669 473,678 466,678 373,677 358,677 248,678 237,678 221,674 194,676 184,676" baseline="184,672 413,676 444,677 473,678" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: getragen, und alles war z
+ | german_print2_15: getragen, und alles war 2
+ -->
+		</TextRegion>
+		<GraphicRegion id="r19">
+			<Coords points="476,669 485,669 485,678 476,678" />
+		</GraphicRegion>
+		<GraphicRegion id="r20">
+			<Coords points="663,717 685,717 685,732 663,732" />
+		</GraphicRegion>
+		<TextRegion id="r21" custom="readingOrder {index:21;} orientation {0;}">
+			<Coords points="497,716 646,716 646,732 497,732" />
+			<!-- line left out: id="r21l0" points="497,722 508,722 524,724 545,716 556,716 558,722 568,722 646,722 646,732 607,732 568,731 545,731 514,730 508,731 497,731" baseline="497,731 523,729 585,730 646,732" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: als dass man
+ | german_print2_15: als dass man
+ -->
+		</TextRegion>
+		<GraphicRegion id="r22">
+			<Coords points="446,715 478,715 478,736 446,736" />
+		</GraphicRegion>
+		<GraphicRegion id="r23">
+			<Coords points="858,825 903,825 903,842 858,842" />
+		</GraphicRegion>
+		<TextRegion id="r24" custom="readingOrder {index:24;} orientation {0;}">
+			<Coords points="181,818 898,818 898,918 181,918" />
+			<TextLine id="r24l0" custom="readingOrder {index:0;}">
+				<Coords points="181,828 187,823 241,823 255,821 297,824 321,824 330,826 332,818 343,818 351,825 359,823 421,820 436,828 443,820 448,820 450,826 466,826 477,820 497,820 533,825 612,828 749,827 844,830 844,838 790,838 770,835 749,837 659,836 635,839 612,839 580,839 506,835 286,837 272,827 266,832 181,832" />
+				<Baseline points="181,832 761,836 844,838" />
+				<TextEquiv index="1">
+					<Unicode>äusserste gewehrt, und die Erbitterung gegen sie war so gross,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r24l1" points="183,849 206,849 218,842 237,842 281,843 282,850 294,850 301,852 311,844 324,844 338,847 371,850 391,852 407,845 417,845 425,851 447,851 464,851 508,850 529,846 540,846 542,852 558,852 569,853 583,847 596,847 596,855 607,847 619,847 620,854 631,853 641,853 657,847 668,847 669,853 688,853 714,853 737,854 737,858 714,863 705,863 688,862 596,862 512,862 508,862 447,861 425,861 417,860 371,860 325,860 311,859 294,858 281,859 194,859 183,859" baseline="183,858 270,858 657,862 737,863" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: im Fall des Sturmes keiner mit dem Lehen davon g | german_print2_15: im Fall des Sturmes keiner mit dem Lehben davon g- -->
+			<TextLine id="r24l2" custom="readingOrder {index:2;}">
+				<Coords points="183,870 197,870 215,875 235,869 248,869 249,875 276,873 294,875 324,870 341,870 348,877 545,876 564,879 568,873 580,873 581,879 603,879 605,873 616,873 618,881 629,874 634,874 636,880 646,880 649,887 680,874 685,874 695,880 741,881 756,874 796,874 798,881 898,881 898,890 866,891 821,889 818,895 813,895 812,889 720,892 545,888 348,889 295,888 281,885 235,888 183,885" />
+				<Baseline points="183,884 898,890" />
+				<TextEquiv index="1">
+					<Unicode>Am Freitag fing man an zu unterhandeln. Einige Rathspersonen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r24l3" custom="readingOrder {index:3;}">
+				<Coords points="182,901 205,901 206,895 217,895 236,901 257,901 310,897 373,903 397,898 408,898 409,905 422,904 453,898 465,898 473,904 558,905 588,903 644,906 677,906 683,908 690,900 699,900 719,906 758,908 760,900 770,900 771,906 806,901 833,907 844,908 847,901 888,901 890,908 898,908 898,915 621,915 614,918 603,918 499,914 397,913 378,907 373,912 319,912 297,909 277,911 182,911" />
+				<Baseline points="182,910 898,916" />
+				<TextEquiv index="1">
+					<Unicode>und zwei Offiziere der Garnison verfügten sich in das feindliche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>äusserste gewehrt, und die Erbitterung gegen sie war so gross,
+Am Freitag fing man an zu unterhandeln. Einige Rathspersonen
+und zwei Offiziere der Garnison verfügten sich in das feindliche</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r25">
+			<Coords points="226,843 229,843 229,845 226,845" />
+		</GraphicRegion>
+		<GraphicRegion id="r26">
+			<Coords points="223,848 742,848 742,861 223,861" />
+		</GraphicRegion>
+		<TextRegion id="r27" custom="readingOrder {index:27;} orientation {0;}">
+			<Coords points="182,921 896,921 896,969 182,969" />
+			<TextLine id="r27l0" custom="readingOrder {index:0;}">
+				<Coords points="182,921 187,921 191,932 201,927 237,927 243,935 262,928 290,928 291,922 302,922 304,928 334,929 336,923 346,923 366,931 443,925 443,932 454,932 456,925 469,925 471,932 496,929 514,931 545,930 589,932 591,926 601,926 621,934 628,932 680,927 690,927 693,933 750,933 752,927 761,927 794,933 828,931 872,937 874,927 884,927 887,933 895,933 895,943 887,943 483,941 302,938 247,941 201,941 182,936" />
+				<Baseline points="182,937 895,942" />
+				<TextEquiv index="1">
+					<Unicode>Lager, während ein Oberleutnant und ein Oberwachtmeister der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r27l1" points="692,952 697,952 713,954 714,960 737,955 748,955 755,956 767,959 768,953 780,953 801,959 812,959 875,954 885,954 896,957 896,969 822,969 713,968 692,968" baseline="692,968 832,968 896,969" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Die Stadt war nicht
+ | german_print2_15: Die Stadt war nicht
+ -->
+			<TextEquiv index="1">
+				<Unicode>Lager, während ein Oberleutnant und ein Oberwachtmeister der</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r28">
+			<Coords points="651,959 667,959 667,962 651,962" />
+		</GraphicRegion>
+		<TextRegion id="r29" custom="readingOrder {index:29;} orientation {0;}">
+			<Coords points="180,947 756,947 756,1017 180,1017" />
+			<!-- line left out: id="r29l0" points="182,947 197,947 204,953 226,953 246,954 247,948 251,948 254,954 266,949 277,949 278,955 288,955 327,955 338,956 353,950 365,950 373,957 382,957 397,951 409,951 416,954 434,957 436,951 447,951 463,959 469,957 491,957 504,958 511,952 521,952 522,958 533,958 542,959 559,958 632,958 633,952 641,952 641,968 568,968 559,968 533,967 504,969 492,969 469,967 371,966 327,966 296,965 288,964 246,964 233,964 226,963 182,963" baseline="182,963 589,967 641,968" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: Kaiserlichen in die Stadt eingelassen wurde | german_print2_15: Kaiserlichen in die Stadt eingelassen wurde -->
+			<TextLine id="r29l1" custom="readingOrder {index:1;}">
+				<Coords points="180,980 204,980 212,974 231,974 244,980 265,981 280,975 285,975 292,981 303,981 305,975 317,975 325,982 341,982 342,989 374,984 382,977 429,977 444,983 450,977 456,977 457,983 473,983 488,992 493,979 540,978 542,985 622,983 756,985 756,994 662,995 652,995 488,994 374,991 342,993 180,990" />
+				<Baseline points="180,990 756,994" />
+				<TextEquiv index="1">
+					<Unicode>mehr zu halten, sobald die Artillerie eintraf, was am</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r29l2" points="180,1002 199,1000 207,1000 215,1003 215,1017 206,1017 199,1016 180,1014" baseline="180,1016 215,1016" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Offi
+ | german_print2_15: Off
+ -->
+			<TextEquiv index="1">
+				<Unicode>mehr zu halten, sobald die Artillerie eintraf, was am</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r30" custom="readingOrder {index:30;} orientation {0;}">
+			<Coords points="811,980 896,980 896,998 811,998" />
+			<TextLine id="r30l0" custom="readingOrder {index:0;}">
+				<Coords points="811,986 843,986 855,980 866,980 884,980 886,986 896,986 896,996 822,998 811,998" />
+				<Baseline points="811,993 896,996" />
+				<TextEquiv index="1">
+					<Unicode>geschah;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>geschah;</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r31">
+			<Coords points="770,983 796,983 796,995 770,995" />
+		</GraphicRegion>
+		<TextRegion id="r32" custom="readingOrder {index:32;} orientation {0;}">
+			<Coords points="281,1002 896,1002 896,1024 281,1024" />
+			<!-- line left out: id="r32l0" points="281,1007 307,1002 343,1002 374,1002 375,1008 387,1007 400,1007 446,1009 471,1009 493,1010 525,1012 526,1004 536,1004 538,1010 571,1010 592,1010 641,1011 643,1005 653,1005 668,1011 674,1011 696,1011 701,1005 704,1005 706,1011 717,1011 743,1009 748,1009 787,1006 798,1006 800,1012 804,1012 830,1006 863,1006 866,1012 887,1012 896,1015 896,1017 887,1021 839,1022 830,1022 804,1021 748,1021 741,1024 731,1024 696,1020 641,1021 604,1023 593,1023 550,1020 520,1020 493,1019 417,1019 407,1019 400,1018 362,1018 343,1017 281,1017" baseline="281,1017 331,1017 770,1020 896,1021" reason: second model: differs: "undS" against "Offi" | Wikisource: und Soldaten waren schwierig und verlangten die Ueber | next_nc_e1: und Soldaten waren schwierig und verlangten die Ueber-
+ | german_print2_15: und Soldaten waren schwierig unc' verlangten die Ueber-
+ -->
+		</TextRegion>
+		<GraphicRegion id="r33">
+			<Coords points="215,1001 258,1001 258,1017 215,1017" />
+		</GraphicRegion>
+		<GraphicRegion id="r34">
+			<Coords points="260,1025 278,1025 278,1044 260,1044" />
+		</GraphicRegion>
+		<TextRegion id="r35" custom="readingOrder {index:35;} orientation {0;}">
+			<Coords points="179,1029 895,1029 895,1103 179,1103" />
+			<!-- line left out: id="r35l0" points="284,1034 339,1029 357,1029 373,1035 401,1035 417,1043 424,1043 458,1036 469,1036 493,1037 505,1036 533,1031 554,1031 557,1037 584,1037 585,1031 596,1031 614,1038 621,1031 632,1031 634,1037 646,1037 665,1045 669,1032 684,1032 691,1040 701,1039 709,1037 719,1037 723,1031 733,1031 753,1043 758,1032 769,1032 777,1038 791,1038 791,1032 804,1032 804,1040 813,1040 815,1032 825,1032 843,1032 847,1039 860,1039 876,1038 895,1038 895,1047 843,1047 804,1049 777,1049 769,1047 733,1047 684,1047 493,1048 469,1048 458,1048 373,1045 326,1044 310,1043 284,1040" baseline="284,1044 373,1044 895,1046" reason: second model: differs: "»war" against "e. S" | Wikisource: ward am 25. gegen Abend der Accord abgeschlossen. | next_nc_e1: ward am 25. gegen Abend der Accord abgeschlossen. | german_print2_15: » ward am 25. gegen Abend der Accord abgeschlossen. -->
+			<!-- line left out: id="r35l1" points="292,1060 320,1060 332,1061 360,1062 362,1056 375,1056 406,1056 442,1056 442,1062 449,1062 484,1062 505,1058 520,1057 526,1057 542,1062 567,1063 567,1070 589,1064 595,1057 607,1057 608,1064 618,1064 632,1057 649,1057 657,1063 681,1063 688,1058 697,1058 699,1064 722,1064 722,1057 736,1057 742,1058 757,1062 775,1064 816,1064 820,1070 833,1064 841,1058 883,1058 884,1064 893,1064 893,1074 871,1074 824,1073 787,1075 736,1075 722,1075 662,1073 607,1073 567,1075 555,1075 542,1073 518,1073 505,1073 442,1072 433,1072 362,1071 354,1069 332,1072 322,1072 292,1070" baseline="292,1070 433,1071 871,1073 893,1074" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: zung erhielt freien Abzug, die Marschrichtung ward ihr | german_print2_15: zung erhielt freien Abzug, die Marschrichtung ward ihr -->
+			<TextLine id="r35l2" custom="readingOrder {index:2;}">
+				<Coords points="179,1085 229,1080 247,1080 255,1086 380,1087 381,1081 392,1081 395,1087 416,1082 426,1082 428,1088 456,1088 458,1095 487,1083 503,1084 520,1089 530,1083 583,1083 584,1090 657,1088 710,1090 712,1084 717,1084 724,1090 757,1090 763,1092 770,1085 782,1085 783,1092 794,1090 850,1090 860,1084 871,1084 873,1090 895,1089 895,1100 782,1099 757,1103 747,1103 724,1102 712,1093 710,1099 538,1099 426,1097 338,1099 313,1095 272,1098 229,1098 179,1094" />
+				<Baseline points="179,1094 895,1099" />
+				<TextEquiv index="1">
+					<Unicode>vom Sieger vorgeschrieben. Die Pferde mussten abgegeben werden;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>vom Sieger vorgeschrieben. Die Pferde mussten abgegeben werden;</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r36">
+			<Coords points="427,1039 458,1039 458,1050 427,1050" />
+		</GraphicRegion>
+		<GraphicRegion id="r37">
+			<Coords points="822,1060 832,1060 832,1077 822,1077" />
+		</GraphicRegion>
+		<TextRegion id="r38" custom="readingOrder {index:38;} orientation {0;}">
+			<Coords points="181,1053 276,1053 276,1070 181,1070" />
+			<!-- line left out: id="r38l0" points="181,1053 186,1053 202,1054 203,1060 213,1060 233,1053 238,1053 252,1054 253,1061 267,1060 276,1060 276,1070 267,1070 252,1069 202,1069 181,1069" baseline="181,1069 212,1068 233,1068 276,1070" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Die Besa
+ | german_print2_15: Die Besa
+ -->
+		</TextRegion>
+		<GraphicRegion id="r39">
+			<Coords points="280,1057 292,1057 292,1070 280,1070" />
+		</GraphicRegion>
+		<TextRegion id="r40" custom="readingOrder {index:40;} orientation {0;}">
+			<Coords points="173,1105 895,1105 895,1366 173,1366" />
+			<TextLine id="r40l0" custom="readingOrder {index:0;}">
+				<Coords points="178,1105 189,1105 202,1110 319,1112 335,1106 340,1106 349,1107 351,1113 418,1108 418,1115 427,1115 430,1108 447,1108 455,1112 480,1114 481,1121 504,1115 564,1115 603,1110 607,1110 609,1117 616,1117 631,1110 643,1109 679,1110 686,1118 698,1114 766,1117 781,1113 821,1111 828,1114 852,1116 854,1124 877,1118 895,1117 895,1124 857,1128 854,1128 828,1126 785,1126 766,1128 756,1128 728,1125 224,1124 207,1115 202,1120 178,1120" />
+				<Baseline points="178,1120 484,1124 895,1126" />
+				<TextEquiv index="1">
+					<Unicode>die gemeinen Reiter sollten, wie sie als Musketiere gefochten, so</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r40l1" custom="readingOrder {index:1;}">
+				<Coords points="177,1137 212,1137 213,1131 223,1131 238,1137 243,1132 254,1132 256,1139 264,1139 279,1132 297,1132 299,1138 311,1138 320,1140 322,1133 333,1133 334,1139 346,1136 359,1136 377,1139 425,1140 439,1134 458,1134 458,1140 501,1143 503,1135 515,1135 516,1142 526,1142 537,1136 550,1136 557,1140 569,1142 575,1136 587,1136 604,1142 634,1142 636,1136 640,1136 642,1142 697,1142 697,1136 735,1136 736,1144 764,1137 780,1137 822,1142 860,1137 870,1137 894,1141 894,1152 846,1153 835,1153 415,1150 177,1146" />
+				<Baseline points="177,1146 894,1152" />
+				<TextEquiv index="1">
+					<Unicode>auch als Musketiere zu Fuss die Stadt verlassen. Der Commandant</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r40l2" custom="readingOrder {index:2;}">
+				<Coords points="177,1157 189,1157 207,1157 208,1163 231,1165 233,1158 237,1158 263,1166 285,1164 308,1164 329,1159 344,1159 365,1163 387,1160 403,1160 406,1167 449,1166 451,1160 462,1160 480,1169 486,1167 531,1167 548,1161 572,1162 573,1168 688,1168 712,1162 712,1168 729,1169 731,1162 743,1162 744,1168 797,1162 807,1163 808,1169 838,1169 838,1162 859,1169 883,1169 884,1163 894,1163 894,1178 789,1178 775,1176 719,1180 665,1180 649,1180 620,1177 608,1179 583,1180 573,1180 462,1176 426,1177 406,1170 403,1176 329,1175 310,1169 308,1175 177,1173" />
+				<Baseline points="177,1172 480,1176 894,1178" />
+				<TextEquiv index="1">
+					<Unicode>behielt seine Kutsche und einen Bagagewagen, jeder Offizier und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r40l3" custom="readingOrder {index:3;}">
+				<Coords points="178,1190 188,1190 194,1184 206,1184 214,1190 255,1184 267,1184 273,1185 274,1191 311,1191 320,1185 332,1185 340,1193 383,1192 417,1187 452,1187 475,1195 486,1193 502,1193 515,1187 537,1187 547,1193 556,1188 567,1188 569,1201 587,1188 598,1188 600,1195 612,1194 623,1189 689,1188 700,1188 702,1195 729,1195 741,1189 750,1189 757,1196 764,1195 770,1189 807,1189 814,1195 825,1195 826,1189 866,1189 867,1195 894,1197 894,1203 844,1206 833,1206 750,1203 455,1203 452,1197 441,1202 255,1201 241,1198 178,1203" />
+				<Baseline points="178,1199 894,1205" />
+				<TextEquiv index="1">
+					<Unicode>jeder Offiziersdiener erhielt ein Pferd, doch mit dem Vorbehalt, dass</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r40l4" custom="readingOrder {index:4;}">
+				<Coords points="176,1217 182,1217 182,1210 194,1210 196,1216 205,1216 222,1210 227,1210 247,1210 249,1216 262,1216 269,1211 286,1211 297,1219 303,1219 303,1211 315,1211 317,1217 348,1212 367,1216 466,1219 474,1213 514,1213 515,1222 526,1214 530,1214 542,1219 550,1214 562,1214 563,1222 584,1220 633,1221 652,1223 654,1214 664,1214 667,1221 682,1221 694,1214 709,1214 711,1221 757,1221 759,1215 763,1215 765,1221 774,1221 774,1214 787,1214 793,1215 795,1223 816,1221 831,1228 836,1221 893,1222 893,1227 883,1227 876,1233 864,1233 727,1230 574,1230 562,1228 419,1229 176,1226" />
+				<Baseline points="176,1225 893,1232" />
+				<TextEquiv index="1">
+					<Unicode>die Pferde der letzteren nach Belieben von den Kaiserlichen ausge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r40l5" custom="readingOrder {index:5;}">
+				<Coords points="176,1239 207,1242 229,1237 239,1237 260,1243 296,1243 302,1237 313,1237 316,1244 348,1246 350,1238 392,1238 394,1245 417,1245 418,1252 443,1239 449,1239 452,1245 463,1245 474,1239 485,1239 494,1246 505,1246 516,1239 531,1239 532,1245 543,1245 555,1240 566,1240 587,1246 649,1242 662,1246 698,1247 699,1241 704,1241 707,1248 728,1247 730,1241 746,1241 755,1247 816,1242 869,1248 869,1256 859,1257 824,1257 794,1257 755,1257 394,1255 272,1252 176,1252" />
+				<Baseline points="176,1252 869,1257" />
+				<TextEquiv index="1">
+					<Unicode>tauscht werden dürften. In der Nacht vom Sonnabend zum Sonnta</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r40l6" custom="readingOrder {index:6;}">
+				<Coords points="175,1268 213,1263 225,1263 233,1269 272,1270 272,1263 284,1263 285,1270 334,1270 334,1264 346,1264 347,1270 380,1271 380,1264 386,1264 388,1271 413,1271 414,1265 426,1265 427,1271 448,1271 463,1265 469,1265 477,1266 479,1273 491,1270 525,1272 525,1279 548,1272 639,1273 641,1267 652,1267 654,1273 759,1274 773,1267 816,1268 850,1273 882,1273 891,1277 891,1279 882,1282 748,1285 698,1285 686,1285 477,1281 175,1278" />
+				<Baseline points="175,1278 891,1283" />
+				<TextEquiv index="1">
+					<Unicode>wurden die schwedischen Reiter, woraus ihre geringe Zahl zu er-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r40l7" custom="readingOrder {index:7;}">
+				<Coords points="175,1294 246,1295 248,1302 270,1295 310,1297 311,1290 327,1290 327,1297 361,1291 383,1291 384,1297 544,1296 550,1298 578,1296 621,1298 648,1294 669,1294 703,1297 781,1294 783,1300 815,1301 817,1293 828,1293 830,1299 844,1299 859,1307 863,1297 874,1297 881,1299 883,1307 891,1307 891,1310 883,1310 874,1307 791,1310 655,1311 655,1305 632,1309 511,1308 511,1314 497,1314 485,1309 443,1307 248,1306 175,1304" />
+				<Baseline points="175,1304 859,1308 891,1310" />
+				<TextEquiv index="1">
+					<Unicode>messen, in drei Häusern einquartiert; am Sonntag früh, den 26.,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r40l8" custom="readingOrder {index:8;}">
+				<Coords points="174,1320 327,1320 359,1316 370,1316 373,1323 395,1323 396,1317 414,1317 417,1323 427,1323 429,1317 439,1317 440,1323 493,1321 504,1318 510,1318 511,1325 521,1325 523,1319 535,1319 535,1325 547,1323 600,1325 618,1319 629,1319 631,1326 642,1325 667,1319 712,1320 719,1323 797,1322 840,1318 844,1325 891,1326 891,1336 869,1338 858,1338 830,1334 755,1338 746,1338 583,1334 561,1328 560,1334 453,1334 364,1332 196,1333 174,1329" />
+				<Baseline points="174,1330 891,1336" />
+				<TextEquiv index="1">
+					<Unicode>zogen sie unter feindlichem Geleite in der Richtung auf Torgau</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r40l9" custom="readingOrder {index:9;}">
+				<Coords points="173,1345 184,1345 185,1339 198,1339 199,1352 231,1340 254,1342 297,1341 297,1347 321,1347 389,1343 434,1349 467,1350 486,1344 492,1344 493,1353 507,1350 539,1350 542,1344 587,1345 589,1351 623,1351 624,1345 635,1345 637,1351 710,1352 724,1345 736,1346 747,1351 748,1345 765,1345 767,1353 798,1348 809,1348 820,1351 822,1358 843,1346 848,1346 849,1352 861,1349 873,1349 891,1352 891,1361 659,1361 587,1363 544,1366 542,1366 542,1360 526,1360 523,1366 518,1366 516,1360 365,1359 173,1354" />
+				<Baseline points="173,1354 891,1361" />
+				<TextEquiv index="1">
+					<Unicode>ab. Der Commandant von Leipzig, Joachim von Schleinitz, hatte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>die gemeinen Reiter sollten, wie sie als Musketiere gefochten, so
+auch als Musketiere zu Fuss die Stadt verlassen. Der Commandant
+behielt seine Kutsche und einen Bagagewagen, jeder Offizier und
+jeder Offiziersdiener erhielt ein Pferd, doch mit dem Vorbehalt, dass
+die Pferde der letzteren nach Belieben von den Kaiserlichen ausge-
+tauscht werden dürften. In der Nacht vom Sonnabend zum Sonnta
+wurden die schwedischen Reiter, woraus ihre geringe Zahl zu er-
+messen, in drei Häusern einquartiert; am Sonntag früh, den 26.,
+zogen sie unter feindlichem Geleite in der Richtung auf Torgau
+ab. Der Commandant von Leipzig, Joachim von Schleinitz, hatte</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r41">
+			<Coords points="878,1248 882,1248 882,1252 878,1252" />
+		</GraphicRegion>
+		<GraphicRegion id="r42">
+			<Coords points="545,1354 565,1354 565,1366 545,1366" />
+		</GraphicRegion>
+		<TextRegion id="r43" custom="readingOrder {index:43;} orientation {0;}">
+			<Coords points="394,1549 658,1549 658,1561 394,1561" />
+			<!-- line left out: id="r43l0" points="394,1549 402,1549 408,1551 422,1549 431,1549 456,1549 469,1549 499,1549 542,1549 553,1549 571,1549 638,1549 658,1550 658,1558 571,1560 452,1561 441,1561 434,1561 414,1560 407,1560 394,1558" baseline="394,1558 523,1557 658,1558" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: htp digital slub-dresden delppn301259642378
+ | german_print2_15: tp iitalslub-dresden de ppne01259642378
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r44">
+			<Coords points="951,887 962,887 962,1309 951,1309" />
+		</SeparatorRegion>
+		<GraphicRegion id="r45">
+			<Coords points="944,0 974,0 974,1585 944,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Tagen erwartet. Eine Aufforderung zur Uebergabe wurde abgelehnt;
+Oberst Prinz hatte erklärt, er dürfe sich bei aller persönlichen
+Geneigtheit auf keine Unterhandlung einlassen, weil er keine
+Ordre dazu habe. Aus der Stadt ward stark gefeuert; schon am
+zweiten Tage zählte man im kaiserlichen Lager 20 Todte und Verwundete,
+welch letztere auf dem Schlosse untergebracht wurden.
+Durch einen Betteljungen, welcher sich im Bette der Bernsbach
+unter der Mauer hinwegschlich und auch glücklich wieder hereingelangte,
+liess der Oberst Prinz etliche Scheunen wegbrennen,
+welche sich zwischen dem Chemnitzer Thor und dem Johannisthor
+befanden. Im Lager rüstete man sich zum Sturm, welchen man
+bei dem hartnäckigen Widerstande der Schweden für schwer und
+gefährlich ansah. Faschinen wurden gefertigt, viel Reissigbündel
+und Stroh zum Klosterthor hinzugetragen und das Wasser aus dem
+Stadtgraben abgeleitet. Eine halbmondförmige Schanze, welche
+die Schweden am Niclasthore aufgeworfen und wohl verwahrt
+hatten, wurde erstürmt; vom Schlosse wurden Leitern heruntergetragen,
+und alles war zum Sturmlaufen fertig. Man erwartete
+nur noch von Plauen her Geschütze; auch war das Wasser im
+Stadtgraben noch zu tief, als dass man leicht hätte hindurch
+kommen können.
+Am Mittwoch und Donnerstag hatte man aus Musketen und
+Feuerröhren stark geschossen; die Schweden hatten sich auf das
+äusserste gewehrt, und die Erbitterung gegen sie war so gross, dass
+im Fall des Sturmes keiner mit dem Leben davon gekommen wäre.
+Am Freitag fing man an zu unterhandeln. Einige Rathspersonen
+und zwei Offiziere der Garnison verfügten sich in das feindliche
+Lager, während ein Oberleutnant und ein Oberwachtmeister der
+Kaiserlichen in die Stadt eingelassen wurden. Die Stadt war nicht
+mehr zu halten, sobald die Artillerie eintraf, was am 25. geschah;
+Offiziere und Soldaten waren schwierig und verlangten die Uebergabe.
+So ward am 25. gegen Abend der Accord abgeschlossen.
+Die Besatzung erhielt freien Abzug, die Marschrichtung ward ihr
+vom Sieger vorgeschrieben. Die Pferde mussten abgegeben werden;
+die gemeinen Reiter sollten, wie sie als Musketiere gefochten, so
+auch als Musketiere zu Fuss die Stadt verlassen. Der Commandant
+behielt seine Kutsche und einen Bagagewagen, jeder Offizier und
+jeder Offiziersdiener erhielt ein Pferd, doch mit dem Vorbehalt, dass
+die Pferde der letzteren nach Belieben von den Kaiserlichen ausgetauscht
+werden dürften. In der Nacht vom Sonnabend zum Sonntage
+wurden die schwedischen Reiter, woraus ihre geringe Zahl zu ermessen,
+in drei Häusern einquartiert; am Sonntag früh, den 26.,
+zogen sie unter feindlichem Geleite in der Richtung auf Torgau
+ab. Der Commandant von Leipzig, Joachim von Schleinitz, hatte
+-->
+	</Page>
+</PcGts>

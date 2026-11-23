@@ -1,0 +1,455 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:04:16</Created>
+		<LastChange>2026-11-23T14:04:16</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/328 revision 5010385 of 2026-08-07T12:30:22Z, proofread level 3, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0328.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro14032646675836074755" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,330 38,330 38,1372 0,1372" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="265,889 294,889 294,908 265,908" />
+			<!-- line left out: id="r1l0" points="265,889 286,889 294,894 294,908 265,908" baseline="265,908 294,908" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: En.
+ | german_print2_15: En.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r2">
+			<Coords points="0,0 1000,0 1000,160 0,160" />
+		</GraphicRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="507,161 646,161 646,177 507,177" />
+			<!-- line left out: id="r3l0" points="507,170 530,170 561,161 595,161 624,171 646,171 646,173 595,176 582,177 561,177 530,171 507,171" baseline="507,177 594,175 646,175" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 116 —
+ | german_print2_15: — 116 —
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="316,214 746,214 746,625 316,625" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="316,215 326,214 357,214 371,221 375,215 412,215 426,221 431,215 444,215 445,221 455,221 456,215 467,215 489,221 507,221 518,223 518,216 539,216 552,222 556,216 611,216 624,218 633,222 687,224 688,217 699,217 700,223 710,223 710,234 700,234 316,230" />
+				<Baseline points="316,230 710,233" />
+				<TextEquiv index="1">
+					<Unicode>Vnd dich nicht mehr soll hören redn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="317,240 327,240 392,246 447,241 485,241 486,247 511,242 579,242 601,245 622,242 706,243 706,249 716,249 716,259 569,258 405,260 393,260 377,256 317,256" />
+				<Baseline points="317,256 600,257 716,259" />
+				<TextEquiv index="1">
+					<Unicode>Wie vor, weil du hie lebst auff Erdn.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="318,266 372,266 421,272 442,273 454,267 498,267 505,273 518,273 531,267 537,267 537,280 545,280 548,267 573,267 575,275 585,271 605,268 613,268 613,274 667,274 667,284 573,284 460,288 454,288 421,283 318,282" />
+				<Baseline points="318,282 667,284" />
+				<TextEquiv index="1">
+					<Unicode>Du bist mir ja der Liebst fürwar</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="317,293 327,292 341,292 351,299 436,298 437,292 448,292 511,293 527,296 584,294 621,299 665,300 665,294 678,294 685,299 697,300 697,310 610,309 610,315 597,315 584,309 511,308 387,310 317,306" />
+				<Baseline points="317,306 697,310" />
+				<TextEquiv index="1">
+					<Unicode>Gwesen, vnd bleibst noch jmmerdar.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l4" custom="readingOrder {index:4;}">
+				<Coords points="318,318 324,318 348,318 362,324 370,324 370,318 382,318 382,324 396,318 410,318 423,324 496,325 497,319 609,320 611,326 640,325 653,320 664,320 666,326 699,321 705,321 706,328 718,324 730,324 730,336 497,337 481,334 436,334 436,340 423,340 410,334 318,333" />
+				<Baseline points="318,333 730,336" />
+				<TextEquiv index="1">
+					<Unicode>Ich weiſs gar wol, daſs dich mein Gott</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l5" custom="readingOrder {index:5;}">
+				<Coords points="317,344 329,343 336,343 352,344 366,350 397,350 398,344 403,344 405,350 417,350 417,344 428,344 429,350 499,345 506,345 520,351 629,346 641,346 664,349 664,364 544,361 532,366 520,366 506,360 317,360" />
+				<Baseline points="317,359 664,361" />
+				<TextEquiv index="1">
+					<Unicode>Mir verliehen vnd gnommen hat,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l6" custom="readingOrder {index:6;}">
+				<Coords points="317,371 330,369 342,369 342,375 377,376 377,370 391,370 393,377 463,376 468,370 513,370 513,378 524,378 525,371 536,371 537,377 557,371 604,371 611,377 633,377 647,371 683,372 693,377 693,387 604,390 586,390 542,387 406,385 342,386 317,384" />
+				<Baseline points="317,385 693,387" />
+				<TextEquiv index="1">
+					<Unicode>Ohn dessen will kein Vöglein klein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l7" custom="readingOrder {index:7;}">
+				<Coords points="319,395 335,395 341,401 374,396 405,396 407,403 428,402 430,409 448,402 482,402 483,396 519,396 520,403 538,404 552,397 565,396 574,396 576,403 588,403 588,397 602,397 602,404 674,403 674,415 655,419 643,419 641,412 459,412 434,414 386,412 374,414 319,411" />
+				<Baseline points="319,411 674,413" />
+				<TextEquiv index="1">
+					<Unicode>Kan fallen, noch des Todes seyn,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l8" custom="readingOrder {index:8;}">
+				<Coords points="318,422 333,422 414,422 415,428 441,423 457,423 489,428 504,422 516,422 572,428 626,429 698,423 709,423 710,430 746,428 746,440 734,445 723,445 722,439 504,439 318,437" />
+				<Baseline points="318,437 746,439" />
+				<TextEquiv index="1">
+					<Unicode>Auch kein Haar fellt von vnserm Haupt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l9" custom="readingOrder {index:9;}">
+				<Coords points="319,447 341,447 355,455 405,454 405,448 418,448 418,454 474,454 474,448 480,448 497,450 500,457 533,454 591,454 616,457 617,449 631,449 633,455 650,450 662,450 680,453 680,465 497,464 453,467 382,469 376,469 364,464 319,463" />
+				<Baseline points="319,463 680,465" />
+				<TextEquiv index="1">
+					<Unicode>Es sey dann, daſs ers vor erlaubt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l10" custom="readingOrder {index:10;}">
+				<Coords points="319,473 326,473 341,475 387,474 387,480 410,480 424,474 430,474 430,480 441,480 441,474 452,474 466,480 524,480 524,474 536,474 548,478 624,481 639,475 647,475 647,481 667,481 668,475 678,475 678,491 548,491 410,495 376,495 369,495 355,489 319,489" />
+				<Baseline points="319,489 678,491" />
+				<TextEquiv index="1">
+					<Unicode>Das klag ich nur, daſs er zu früh</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l11" custom="readingOrder {index:11;}">
+				<Coords points="319,499 326,499 342,501 353,506 353,500 364,500 378,506 389,506 391,500 396,500 397,506 454,501 492,506 518,507 532,501 599,501 599,507 624,507 637,501 675,501 676,508 685,508 685,519 581,517 518,522 502,522 502,516 424,516 422,522 408,522 408,516 319,515" />
+				<Baseline points="319,515 685,516" />
+				<TextEquiv index="1">
+					<Unicode>Dich nimpt hinweg in deiner blüh,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l12" custom="readingOrder {index:12;}">
+				<Coords points="319,526 342,525 359,525 373,532 379,532 379,526 385,526 387,532 398,532 399,526 414,526 429,532 453,532 453,526 494,527 495,533 506,533 516,530 556,533 570,527 578,527 580,533 591,533 591,527 603,527 604,533 634,533 648,527 665,527 667,533 724,532 724,544 580,543 578,549 570,549 556,543 319,541" />
+				<Baseline points="319,541 648,542 724,544" />
+				<TextEquiv index="1">
+					<Unicode>Vnd dich nicht lest zu Jahren kommn,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l13" custom="readingOrder {index:13;}">
+				<Coords points="319,552 358,552 372,559 379,557 403,556 424,557 474,552 479,552 480,558 520,552 532,552 532,558 554,556 578,559 579,553 598,553 599,559 614,559 628,552 641,552 642,559 715,559 715,569 578,569 548,569 319,568" />
+				<Baseline points="319,568 403,567 715,569" />
+				<TextEquiv index="1">
+					<Unicode>Wie er sonst thut fast allen Frommn.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l14" custom="readingOrder {index:14;}">
+				<Coords points="343,579 354,578 360,578 377,583 410,585 425,578 447,578 530,585 582,585 582,579 653,579 667,585 673,585 684,579 694,579 694,594 537,594 516,599 504,599 362,594 343,591" />
+				<Baseline points="343,593 694,594" />
+				<TextEquiv index="1">
+					<Unicode>Grosse Hoffnung von dir hab ich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l15" custom="readingOrder {index:15;}">
+				<Coords points="318,604 342,604 343,611 362,610 363,604 373,604 374,610 385,610 406,604 425,604 426,617 446,610 516,608 551,605 562,605 564,612 638,611 639,605 680,605 681,611 690,611 690,620 633,620 627,625 607,625 601,620 430,622 405,625 393,625 385,620 318,618" />
+				<Baseline points="318,619 690,620" />
+				<TextEquiv index="1">
+					<Unicode>Geschöpfft, nun ists alls vergeblich.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Vnd dich nicht mehr soll hören redn
+Wie vor, weil du hie lebst auff Erdn.
+Du bist mir ja der Liebst fürwar
+Gwesen, vnd bleibst noch jmmerdar.
+Ich weiſs gar wol, daſs dich mein Gott
+Mir verliehen vnd gnommen hat,
+Ohn dessen will kein Vöglein klein
+Kan fallen, noch des Todes seyn,
+Auch kein Haar fellt von vnserm Haupt
+Es sey dann, daſs ers vor erlaubt.
+Das klag ich nur, daſs er zu früh
+Dich nimpt hinweg in deiner blüh,
+Vnd dich nicht lest zu Jahren kommn,
+Wie er sonst thut fast allen Frommn.
+Grosse Hoffnung von dir hab ich
+Geschöpfft, nun ists alls vergeblich.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="546,268 548,268 548,270 546,270" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="546,273 573,273 573,283 546,283" />
+		</GraphicRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="314,630 812,630 812,1354 314,1354" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="319,630 357,630 358,636 369,636 378,638 392,630 403,630 404,636 422,634 442,637 442,630 455,630 456,636 497,636 497,630 509,630 509,636 607,638 622,631 642,631 655,636 655,646 559,646 558,652 546,652 522,647 319,646" />
+				<Baseline points="319,645 655,646" />
+				<TextEquiv index="1">
+					<Unicode>Pallas hat dir schon grosse Ehr</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l1" custom="readingOrder {index:1;}">
+				<Coords points="319,657 330,656 335,656 337,662 395,659 395,669 414,656 422,656 422,662 479,662 479,656 491,656 493,664 504,662 524,663 538,656 554,656 555,663 567,662 579,657 585,657 587,663 645,662 657,664 657,656 669,656 670,662 681,662 681,674 566,673 399,676 395,676 374,672 337,672 319,670" />
+				<Baseline points="319,671 681,672" />
+				<TextEquiv index="1">
+					<Unicode>Gezeigt, für andern Knaben mehr,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l2" custom="readingOrder {index:2;}">
+				<Coords points="320,682 327,682 343,683 355,688 374,682 380,682 386,689 403,688 403,682 437,682 438,688 449,686 481,688 481,682 487,682 489,688 529,689 532,683 597,683 608,688 608,682 620,682 641,688 714,688 715,682 724,682 724,699 684,701 672,701 649,698 320,698" />
+				<Baseline points="320,698 724,698" />
+				<TextEquiv index="1">
+					<Unicode>Der Todt hat dir solch nicht vergund,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l3" custom="readingOrder {index:3;}">
+				<Coords points="320,708 326,708 345,709 369,714 369,708 406,708 414,714 445,714 445,708 464,708 477,714 483,714 483,708 495,708 497,714 518,709 549,708 560,708 573,714 578,708 591,708 597,714 614,714 628,708 654,708 675,708 675,715 704,711 734,714 736,708 745,708 745,724 675,724 654,724 591,724 406,724 320,724" />
+				<Baseline points="320,724 745,724" />
+				<TextEquiv index="1">
+					<Unicode>Drumb bracht dir bald dein letzte stund</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l4" custom="readingOrder {index:4;}">
+				<Coords points="320,734 335,734 337,740 348,740 355,734 366,734 368,741 380,740 397,735 408,735 416,738 417,747 436,734 447,734 448,740 459,740 461,734 469,734 469,743 475,743 489,734 501,734 502,740 513,740 556,735 621,735 635,741 641,741 641,734 655,734 655,740 680,737 712,737 712,750 421,753 417,753 320,749" />
+				<Baseline points="320,750 712,750" />
+				<TextEquiv index="1">
+					<Unicode>Vielleicht, daſs du nicht mit der zeit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l5" custom="readingOrder {index:5;}">
+				<Coords points="320,761 332,760 346,760 353,766 364,766 364,760 376,760 414,760 419,768 433,768 434,761 457,761 468,766 469,760 480,760 488,764 508,766 565,767 566,774 585,760 597,760 598,768 608,766 675,766 676,760 691,760 692,767 701,767 716,760 723,760 724,768 753,764 764,764 764,776 570,778 480,777 418,781 406,781 346,776 320,777" />
+				<Baseline points="320,777 764,776" />
+				<TextEquiv index="1">
+					<Unicode>Möchst gschickter seyn, denn andre Leut.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l6" points="346,788 363,788 435,787 448,787 448,793 460,793 464,786 468,786 501,788 530,791 560,793 571,791 584,791 624,787 637,786 647,786 648,792 660,792 660,786 680,786 680,803 636,803 603,808 591,808 560,803 539,803 527,802 496,801 460,808 448,808 410,803 389,807 376,807 363,800 346,800" baseline="346,802 624,802 680,803" reason: models differ | Wikisource: O grimmig! O vnzeitigr Todt! | next_nc_e1: O grimmig! O vnzeitigr Todt! | german_print2_15:  grimmig! O vnzeitigr Todt! -->
+			<TextLine id="r7l7" custom="readingOrder {index:7;}">
+				<Coords points="321,812 327,812 329,821 339,816 360,812 371,812 372,818 383,818 392,820 407,813 436,813 462,820 471,818 481,813 493,813 494,819 533,817 554,819 569,813 616,812 617,818 628,818 636,821 650,812 661,812 662,820 674,818 691,818 705,811 721,811 747,812 749,819 757,819 757,830 749,830 721,828 628,828 554,830 541,830 321,828" />
+				<Baseline points="321,828 757,828" />
+				<TextEquiv index="1">
+					<Unicode>Ist das kein schmertz, ist das kein Noth,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l8" custom="readingOrder {index:8;}">
+				<Coords points="321,839 342,840 378,838 389,838 391,844 435,839 449,839 463,845 490,845 490,839 502,839 538,845 547,845 554,839 564,839 566,845 576,845 577,839 589,839 589,847 597,847 610,839 638,839 646,845 657,845 659,838 664,838 665,845 676,845 677,838 690,838 708,838 715,845 724,845 724,856 715,856 690,854 321,855" />
+				<Baseline points="321,855 724,854" />
+				<TextEquiv index="1">
+					<Unicode>Daſs du mir raubst solchs Schülerlein,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l9" custom="readingOrder {index:9;}">
+				<Coords points="320,865 380,865 392,870 400,865 447,865 448,871 468,868 475,865 490,865 492,871 509,871 510,865 522,865 573,865 573,871 596,871 596,865 607,865 613,870 624,872 625,865 630,865 632,872 642,872 643,865 654,865 654,871 664,871 664,881 613,881 585,881 509,881 447,881 330,881 320,880" />
+				<Baseline points="320,881 664,880" />
+				<TextEquiv index="1">
+					<Unicode>Vnd mein hertzliebst Eneckelein.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l10" points="318,891 331,891 331,897 355,894 361,894 400,897 400,891 411,891 430,894 451,897 451,891 463,891 504,891 505,897 515,897 516,891 547,891 548,897 589,897 589,891 601,891 601,897 618,897 629,898 630,891 635,891 657,891 657,897 665,897 665,909 647,909 635,907 601,909 589,909 570,907 526,907 430,909 354,912 336,912 331,907 318,906" baseline="318,907 665,906" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: Sagt nicht, daſs ich bin vnzeitig, | german_print2_15: Sagt nicht, daſs ich bin vnzeitig, -->
+			<TextLine id="r7l11" custom="readingOrder {index:11;}">
+				<Coords points="318,917 332,917 333,923 362,923 375,917 381,916 393,916 445,917 446,923 457,923 458,917 469,917 484,923 532,923 532,917 550,917 564,924 573,920 615,917 615,932 604,933 550,933 469,933 381,933 381,920 375,920 362,933 318,933" />
+				<Baseline points="318,933 615,933" />
+				<TextEquiv index="1">
+					<Unicode>Zum Tod sind wir all stund</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l12" custom="readingOrder {index:12;}">
+				<Coords points="318,943 331,943 348,943 349,949 360,949 361,943 373,943 373,950 405,949 465,943 478,943 479,949 523,949 523,943 547,943 588,943 589,950 600,950 600,943 611,943 613,950 623,948 674,948 674,961 635,959 547,958 479,959 472,965 465,965 452,959 318,958" />
+				<Baseline points="318,958 674,958" />
+				<TextEquiv index="1">
+					<Unicode>Solches müst jhr selbst bekennen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l13" custom="readingOrder {index:13;}">
+				<Coords points="320,969 341,969 342,976 352,976 353,969 364,969 379,975 432,975 432,969 482,969 482,975 492,975 493,969 504,969 505,975 525,969 532,969 554,975 574,976 575,969 594,969 637,969 662,971 744,973 744,983 609,985 603,985 580,985 541,985 475,985 410,985 364,985 329,985 320,985" />
+				<Baseline points="320,985 744,982" />
+				<TextEquiv index="1">
+					<Unicode>Weil vns die Schrifft selbst thut nennen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l14" custom="readingOrder {index:14;}">
+				<Coords points="317,995 330,995 337,999 357,1001 358,995 376,995 379,1001 395,1001 396,995 401,995 401,1001 427,995 438,995 440,1001 462,1001 463,995 489,995 489,1001 502,1001 502,1008 519,1001 542,1001 543,995 610,995 611,1001 629,1000 642,994 661,994 661,1000 706,999 706,1011 519,1010 502,1016 489,1016 317,1011" />
+				<Baseline points="317,1011 706,1011" />
+				<TextEquiv index="1">
+					<Unicode>Sterblich, flüchtig, vnd in der Summ,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l15" custom="readingOrder {index:15;}">
+				<Coords points="319,1021 344,1021 344,1027 390,1027 391,1021 409,1021 412,1027 428,1027 428,1021 439,1021 454,1027 466,1027 470,1021 475,1021 476,1027 510,1027 511,1021 523,1021 523,1027 529,1027 543,1021 571,1021 571,1027 582,1027 614,1026 629,1020 648,1020 650,1026 683,1026 683,1036 454,1036 409,1042 368,1042 355,1042 319,1036" />
+				<Baseline points="319,1037 683,1036" />
+				<TextEquiv index="1">
+					<Unicode>Vergänglich wie ein Wiesen Blum.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l16" custom="readingOrder {index:16;}">
+				<Coords points="343,1049 409,1047 409,1053 420,1050 465,1053 466,1047 512,1047 512,1053 523,1053 523,1047 548,1047 549,1053 668,1052 674,1046 684,1046 697,1049 697,1062 668,1062 646,1067 609,1067 597,1063 585,1062 584,1068 512,1068 507,1068 354,1063 343,1061" />
+				<Baseline points="343,1062 697,1062" />
+				<TextEquiv index="1">
+					<Unicode>Gott hat mich zeitig gnug geacht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l17" custom="readingOrder {index:17;}">
+				<Coords points="319,1073 340,1073 341,1079 352,1079 352,1073 363,1073 379,1080 423,1079 423,1073 436,1073 437,1079 448,1079 448,1073 479,1073 480,1079 526,1079 527,1073 539,1073 539,1079 559,1073 651,1072 657,1072 658,1078 695,1078 695,1072 706,1072 718,1074 718,1087 607,1089 575,1089 328,1089 319,1089" />
+				<Baseline points="319,1089 718,1087" />
+				<TextEquiv index="1">
+					<Unicode>Weil er mich in sein Himmel bracht.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l18" custom="readingOrder {index:18;}">
+				<Coords points="316,1099 325,1099 327,1105 362,1105 376,1099 394,1099 395,1105 437,1105 437,1099 448,1099 462,1105 545,1104 561,1102 624,1104 637,1098 645,1098 647,1104 658,1104 659,1098 664,1098 671,1104 705,1104 705,1116 647,1114 645,1120 637,1120 624,1114 534,1114 533,1120 521,1120 472,1115 376,1115 362,1121 350,1121 350,1115 327,1115 325,1121 316,1121" />
+				<Baseline points="316,1115 705,1114" />
+				<TextEquiv index="1">
+					<Unicode>Jung bin ich zwar gwest von Jahren,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l19" custom="readingOrder {index:19;}">
+				<Coords points="316,1126 339,1125 347,1131 369,1131 370,1125 380,1125 395,1131 406,1130 416,1125 520,1125 532,1131 578,1125 612,1125 627,1132 633,1130 645,1130 647,1124 655,1124 677,1124 687,1130 704,1129 704,1140 556,1141 545,1146 532,1146 466,1141 327,1141 316,1139" />
+				<Baseline points="316,1139 704,1140" />
+				<TextEquiv index="1">
+					<Unicode>Gleich wol hab ich gar viel erfahrn:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l20" custom="readingOrder {index:20;}">
+				<Coords points="317,1151 381,1151 381,1157 393,1157 408,1151 414,1151 415,1157 425,1157 437,1150 449,1150 456,1156 482,1151 505,1151 518,1156 519,1150 537,1150 537,1156 555,1157 556,1151 567,1151 567,1166 555,1167 530,1167 317,1167" />
+				<Baseline points="317,1167 567,1166" />
+				<TextEquiv index="1">
+					<Unicode>Exilium in der Kindheit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l21" custom="readingOrder {index:21;}">
+				<Coords points="316,1177 335,1177 337,1183 349,1180 384,1177 385,1183 396,1183 396,1177 433,1177 445,1182 469,1182 516,1177 542,1176 547,1176 567,1176 585,1177 595,1182 596,1176 608,1176 608,1182 621,1182 621,1176 627,1176 627,1182 638,1182 645,1176 657,1176 657,1192 621,1192 621,1198 608,1198 608,1192 556,1192 554,1198 542,1198 528,1192 316,1193" />
+				<Baseline points="316,1193 657,1191" />
+				<TextEquiv index="1">
+					<Unicode>Must ich bawen mit gfährligkeit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l22" custom="readingOrder {index:22;}">
+				<Coords points="317,1203 339,1202 340,1208 352,1203 388,1203 390,1209 423,1208 434,1203 458,1203 459,1209 470,1206 502,1208 502,1202 515,1202 515,1208 529,1208 530,1202 546,1202 546,1215 564,1208 575,1208 576,1202 581,1202 582,1209 592,1209 593,1202 597,1202 612,1208 648,1208 658,1204 700,1207 701,1201 712,1201 727,1209 736,1207 746,1207 746,1201 758,1201 776,1205 790,1202 804,1202 812,1205 812,1215 758,1217 678,1216 648,1222 636,1222 624,1218 581,1218 550,1220 515,1218 515,1224 496,1224 317,1218" />
+				<Baseline points="317,1219 812,1215" />
+				<TextEquiv index="1">
+					<Unicode>Viel Kranckheit groſs, viel angst vnd schmertz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l23" custom="readingOrder {index:23;}">
+				<Coords points="317,1229 415,1229 448,1234 458,1229 476,1229 524,1234 531,1228 542,1228 543,1234 553,1234 566,1228 573,1228 574,1234 598,1233 630,1235 644,1228 659,1228 661,1235 681,1230 701,1233 701,1243 618,1244 611,1249 598,1249 574,1244 573,1250 566,1250 553,1244 317,1245" />
+				<Baseline points="317,1245 701,1243" />
+				<TextEquiv index="1">
+					<Unicode>Habn offt turbirt mein junges Hertz.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l24" points="315,1254 324,1254 325,1261 336,1258 343,1258 377,1261 378,1255 389,1255 403,1261 427,1260 438,1255 449,1255 464,1261 469,1254 476,1254 476,1260 519,1260 520,1254 554,1254 554,1260 590,1260 590,1254 596,1254 610,1257 629,1259 642,1253 657,1253 659,1259 678,1256 690,1256 690,1269 610,1270 516,1270 496,1271 415,1272 403,1272 336,1271 325,1270 324,1277 315,1277" baseline="315,1273 388,1271 628,1269 690,1269" reason: second model: differs: "ilss" against "ſs Werd" | Wikisource: Jetzund nach der vollbrachter Reiſs | next_nc_e1: Jetzund nach der vollbrachter Reiſs | german_print2_15: Jetzund nach der vollbrachter Reilſs -->
+			<TextLine id="r7l25" custom="readingOrder {index:25;}">
+				<Coords points="317,1281 338,1281 338,1287 350,1287 351,1281 389,1282 401,1287 401,1281 412,1281 426,1287 470,1287 484,1281 496,1281 501,1286 515,1280 527,1280 528,1286 556,1286 571,1280 590,1280 596,1285 616,1285 617,1279 629,1279 630,1286 641,1285 648,1281 653,1281 655,1288 666,1288 666,1295 459,1297 458,1303 446,1303 442,1297 390,1298 317,1296" />
+				<Baseline points="317,1296 666,1295" />
+				<TextEquiv index="1">
+					<Unicode>Werd ich seyn in dem Paradeiſs.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l26" custom="readingOrder {index:26;}">
+				<Coords points="315,1306 330,1306 330,1312 397,1308 410,1313 410,1307 425,1307 425,1313 522,1312 536,1306 564,1306 578,1312 582,1305 596,1305 597,1313 607,1313 621,1305 636,1305 636,1311 659,1308 659,1321 486,1322 472,1328 460,1328 397,1323 315,1322" />
+				<Baseline points="315,1323 659,1321" />
+				<TextEquiv index="1">
+					<Unicode>Ewer Hoffnung war ich die Erst</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l27" custom="readingOrder {index:27;}">
+				<Coords points="314,1339 319,1333 337,1333 377,1339 381,1334 394,1334 406,1339 406,1333 451,1338 468,1333 490,1332 490,1345 508,1332 566,1332 585,1337 585,1331 601,1331 601,1337 611,1337 624,1331 630,1331 632,1337 648,1334 662,1334 662,1346 494,1351 452,1348 451,1354 439,1354 337,1348 314,1348" />
+				<Baseline points="314,1349 662,1346" />
+				<TextEquiv index="1">
+					<Unicode>Aber nicht gwiſs, die Andre best</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Pallas hat dir schon grosse Ehr
+Gezeigt, für andern Knaben mehr,
+Der Todt hat dir solch nicht vergund,
+Drumb bracht dir bald dein letzte stund
+Vielleicht, daſs du nicht mit der zeit
+Möchst gschickter seyn, denn andre Leut.
+Ist das kein schmertz, ist das kein Noth,
+Daſs du mir raubst solchs Schülerlein,
+Vnd mein hertzliebst Eneckelein.
+Zum Tod sind wir all stund
+Solches müst jhr selbst bekennen,
+Weil vns die Schrifft selbst thut nennen
+Sterblich, flüchtig, vnd in der Summ,
+Vergänglich wie ein Wiesen Blum.
+Gott hat mich zeitig gnug geacht
+Weil er mich in sein Himmel bracht.
+Jung bin ich zwar gwest von Jahren,
+Gleich wol hab ich gar viel erfahrn:
+Exilium in der Kindheit
+Must ich bawen mit gfährligkeit
+Viel Kranckheit groſs, viel angst vnd schmertz
+Habn offt turbirt mein junges Hertz.
+Werd ich seyn in dem Paradeiſs.
+Ewer Hoffnung war ich die Erst
+Aber nicht gwiſs, die Andre best</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="642,712 668,712 668,724 642,724" />
+		</GraphicRegion>
+		<GraphicRegion id="r9">
+			<Coords points="539,766 557,766 557,776 539,776" />
+		</GraphicRegion>
+		<GraphicRegion id="r10">
+			<Coords points="630,922 637,922 637,933 630,933" />
+		</GraphicRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="630,920 687,920 687,935 630,935" />
+			<!-- line left out: id="r11l0" points="630,923 646,922 658,920 664,920 683,922 684,929 687,929 687,932 683,935 672,935 640,932 630,925" baseline="630,932 687,932" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: zeitig.
+ | german_print2_15: zeitig.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r12">
+			<Coords points="322,1149 348,1149 348,1167 322,1167" />
+		</GraphicRegion>
+		<GraphicRegion id="r13">
+			<Coords points="0,1518 1000,1518 1000,1564 0,1564" />
+		</GraphicRegion>
+		<SeparatorRegion id="r14">
+			<Coords points="972,300 978,300 978,867 972,867" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Vnd dich nicht mehr soll hören redn
+Wie vor, weil du hie lebst auff Erdn.
+Du bist mir ja der Liebst fürwar
+Gwesen, vnd bleibst noch jmmerdar.
+Ich weiß gar wol, daß dich mein Gott
+Mir verliehen vnd gnommen hat,
+Ohn dessen will kein Vöglein klein
+Kan fallen, noch des Todes seyn,
+Auch kein Haar fellt von vnserm Haupt
+Es sey dann, daß ers vor erlaubt.
+Das klag ich nur, daß er zu früh
+Dich nimpt hinweg in deiner blüh,
+Vnd dich nicht lest zu Jahren kommn,
+Wie er sonst thut fast allen Frommn.
+Grosse Hoffnung von dir hab ich
+Geschöpfft, nun ists alls vergeblich.
+Pallas hat dir schon grosse Ehr
+Gezeigt, für andern Knaben mehr,
+Der Todt hat dir solch nicht vergund,
+Drumb bracht dir bald dein letzte stund
+Vielleicht, daß du nicht mit der zeit
+Möchst gschickter seyn, denn andre Leut.
+O grimmig! O vnzeitigr Todt!
+Ist das kein schmertz, ist das kein Noth,
+Daß du mir raubst solchs Schülerlein,
+Vnd mein hertzliebst Eneckelein.
+En.Sagt nicht, daß ich bin vnzeitig,
+Zum Tod sind wir all stund zeitig.
+Solches müst jhr selbst bekennen,
+Weil vns die Schrifft selbst thut nennen
+Sterblich, flüchtig, vnd in der Summ,
+Vergänglich wie ein Wiesen Blum.
+Gott hat mich zeitig gnug geacht
+Weil er mich in sein Himmel bracht.
+Jung bin ich zwar gwest von Jahren,
+Gleich wol hab ich gar viel erfahrn:
+Exilium in der Kindheit
+Must ich bawen mit gfährligkeit
+Viel Kranckheit groß, viel angst vnd schmertz
+Habn offt turbirt mein junges Hertz.
+Jetzund nach der vollbrachter Reiß
+Werd ich seyn in dem Paradeiß.
+Ewer Hoffnung war ich die Erst
+Aber nicht gwiß, die Andre best
+-->
+	</Page>
+</PcGts>

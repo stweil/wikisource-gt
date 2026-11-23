@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:40:08</Created>
+		<LastChange>2026-11-23T14:40:08</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/370 revision 4664344 of 2025-11-27T07:46:28Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0370.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro618810999431190482" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="17" regionRef="r17" />
+				<RegionRefIndexed index="19" regionRef="r19" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="181,170 908,170 908,1361 181,1361" />
+			<!-- line left out: id="r0l0" points="540,170 558,170 573,171 573,185 558,186 540,186" baseline="540,186 573,186" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 116 | german_print2_15: 116 -->
+			<!-- line left out: id="r0l1" points="198,222 210,222 221,224 221,217 237,217 256,225 265,223 276,223 323,224 404,224 416,223 421,223 447,225 447,219 463,219 464,228 476,226 520,226 551,228 558,221 569,221 571,227 582,227 664,228 688,229 706,223 712,223 714,229 724,229 733,232 750,224 762,224 763,231 775,230 783,230 794,231 795,225 806,225 823,232 842,232 864,234 864,241 823,241 775,240 724,239 688,240 676,240 639,238 569,237 558,237 520,236 500,236 463,235 421,235 377,235 323,234 311,234 276,233 237,233 215,233 198,232" baseline="198,232 299,233 538,235 732,238 864,241" reason: models differ | Wikisource: weil sie eingemauert oder zu schwer waren, bis herab zu e | next_nc_e1: weil sie eingemauert oder zu schwer waren, bis herab zu e | german_print2_15: weil sie eingemauert oder zu schwer waren, bis herab zu -->
+			<TextLine id="r0l2" custom="readingOrder {index:2;}">
+				<Coords points="197,241 209,241 211,249 229,249 231,243 245,243 245,250 298,249 314,243 327,243 337,244 337,250 422,251 423,245 433,245 452,253 458,251 510,253 524,246 540,246 546,253 561,253 568,247 584,247 593,254 606,254 606,248 618,248 634,254 665,253 687,255 687,249 701,249 711,255 735,250 747,250 747,258 758,250 764,250 765,256 784,251 808,251 809,257 820,250 834,250 844,258 854,258 871,264 876,259 908,257 908,268 871,268 281,259 245,259 229,264 223,264 197,259" />
+				<Baseline points="197,258 908,268" />
+				<TextEquiv index="1">
+					<Unicode>kupfernen Pfanne und einem Käsekorb mit drei Schüblingen auf-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l3" custom="readingOrder {index:3;}">
+				<Coords points="197,275 252,275 254,269 264,269 266,276 302,273 306,269 308,269 354,270 355,276 424,271 426,278 443,278 451,272 487,272 489,278 500,276 527,276 591,280 595,287 621,280 712,281 718,283 724,276 734,276 753,282 759,268 773,268 773,281 810,277 813,286 836,278 848,278 848,288 875,284 897,285 899,279 908,279 908,294 875,294 848,292 813,293 712,291 595,291 549,289 531,283 527,288 411,287 407,296 395,296 382,287 308,289 197,289" />
+				<Baseline points="197,285 853,292 908,295" />
+				<TextEquiv index="1">
+					<Unicode>gezeichnet. Zum Glück hatte man, wenn auch mit Leib- und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l4" points="198,295 204,295 206,303 219,303 219,295 229,295 231,301 253,301 281,302 287,298 297,296 313,296 319,297 334,302 335,310 354,297 365,297 366,303 377,303 385,306 400,299 410,298 439,298 446,306 455,298 469,298 479,304 490,304 492,298 502,298 517,305 522,305 545,306 547,299 562,299 581,300 583,307 592,307 592,300 605,300 615,304 627,308 628,301 646,301 658,306 678,301 695,301 698,307 720,307 753,308 753,301 755,301 793,302 793,311 820,309 831,309 855,310 892,309 898,309 898,319 876,320 855,320 836,320 782,318 678,317 592,316 533,315 524,315 469,314 455,314 450,308 444,312 439,314 339,314 281,315 261,315 198,311" baseline="198,310 517,314 678,316 754,317 875,319 898,320" reason: differs: "renς" against "en 57 S" | Wikisource:  | next_nc_e1: Lebensgefahr, das Ackerland noch bestellen können. Es waren ς | german_print2_15: Lebensgefahr, das Ackerland noch bestellen können. Es waren 5. -->
+			<!-- line left out: id="r0l5" points="196,322 208,322 215,321 225,321 226,328 239,325 247,322 270,321 272,321 307,322 308,330 321,329 369,329 371,323 376,323 379,331 390,330 402,330 421,324 458,324 469,329 531,331 532,325 543,325 572,326 573,333 584,333 600,327 606,327 629,327 631,334 636,334 649,327 660,327 661,335 672,335 673,327 701,327 718,328 731,330 781,335 783,329 795,329 795,337 808,335 830,334 846,334 859,336 884,336 886,323 895,323 895,346 850,346 781,344 770,344 696,343 636,342 606,342 584,343 573,343 531,341 520,341 469,340 443,340 430,339 369,339 321,339 291,338 215,337 196,336" baseline="196,337 271,337 542,340 747,343 810,344 895,346" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: Scheffel Korn über Winter und 89 Scheffel Haſer über Somme | german_print2_15: Scheffe! Korn über Winter und 89 Scheffel Hafer über Somme -->
+			<TextLine id="r0l6" custom="readingOrder {index:6;}">
+				<Coords points="195,353 241,354 260,356 279,352 353,355 397,353 408,357 423,350 443,350 448,356 455,354 466,354 531,357 533,351 543,351 558,358 663,357 684,359 684,368 397,365 377,369 365,369 261,364 247,362 241,369 229,369 228,363 195,363" />
+				<Baseline points="195,363 684,368" />
+				<TextEquiv index="1">
+					<Unicode>ausgesäet; eine gute Ernte stand zu erwarten.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l7" custom="readingOrder {index:7;}">
+				<Coords points="249,374 255,374 272,376 348,375 349,383 360,383 361,376 397,382 452,376 491,384 492,377 503,377 505,385 545,378 549,378 549,384 583,382 590,378 602,378 609,382 635,378 658,388 667,385 678,385 679,379 689,379 691,386 750,386 798,381 798,388 806,388 812,381 817,381 819,387 872,387 883,389 901,388 906,395 908,395 908,397 883,400 873,400 845,396 798,400 793,400 764,396 249,390" />
+				<Baseline points="249,390 908,397" />
+				<TextEquiv index="1">
+					<Unicode>Der Verkehr mit Dresden gestaltete sich immer schwieriger.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l8" custom="readingOrder {index:8;}">
+				<Coords points="197,400 202,400 219,402 240,408 254,400 256,400 281,408 305,409 306,401 317,401 318,409 330,407 342,402 353,402 355,410 388,402 414,403 421,406 507,409 507,403 519,403 520,412 531,409 589,411 590,404 600,404 609,410 646,411 661,414 682,408 712,408 730,412 782,410 800,414 804,420 831,415 873,415 875,408 885,408 887,415 908,416 908,423 869,423 843,421 804,424 770,422 747,423 730,426 686,426 682,426 661,418 646,420 565,420 353,417 281,422 256,416 197,416" />
+				<Baseline points="197,416 908,423" />
+				<TextEquiv index="1">
+					<Unicode>Direct gehende Boten wurden mehrmals aufgegriffen, so dass</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l9" custom="readingOrder {index:9;}">
+				<Coords points="195,426 202,426 221,428 243,433 244,427 250,427 251,433 265,433 266,427 288,426 291,426 327,428 328,434 380,434 417,432 428,435 449,429 464,429 466,435 505,435 559,431 562,437 611,435 616,439 623,431 634,431 635,437 669,439 670,432 675,432 678,438 713,438 733,432 744,432 745,440 766,438 782,432 791,432 798,441 811,439 879,440 885,435 897,435 900,441 907,441 907,450 841,451 791,447 744,447 713,452 702,452 675,447 585,446 507,450 505,444 449,445 195,442" />
+				<Baseline points="195,442 907,449" />
+				<TextEquiv index="1">
+					<Unicode>Drechsler dem weiten Umweg über Schneeberg den Vorzug gab.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l10" custom="readingOrder {index:10;}">
+				<Coords points="196,453 216,453 218,459 259,459 259,453 271,453 293,460 354,461 361,455 373,455 374,461 386,458 455,455 456,463 489,456 503,456 512,462 524,460 540,460 554,464 561,456 566,456 568,463 653,463 665,457 669,457 673,464 684,464 696,458 730,457 730,464 754,465 756,459 773,459 775,466 907,466 907,476 886,479 871,479 819,475 773,474 443,471 426,462 421,471 373,470 354,473 314,470 196,468" />
+				<Baseline points="196,468 907,475" />
+				<TextEquiv index="1">
+					<Unicode>Vorsicht war geboten: der Amtsschösser in Lichtewalde war wegen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l11" custom="readingOrder {index:11;}">
+				<Coords points="193,487 216,485 234,486 242,488 262,480 267,480 268,487 307,486 315,480 325,480 328,488 363,486 378,480 386,480 415,487 459,482 464,482 479,487 498,482 509,482 510,489 532,488 542,490 543,496 564,483 576,483 583,489 687,490 695,487 705,487 718,490 765,491 783,497 788,491 801,488 812,488 851,493 858,486 869,486 871,492 881,492 881,486 894,486 894,492 901,492 901,501 720,503 695,499 687,505 675,505 673,499 543,500 532,498 509,497 193,495" />
+				<Baseline points="193,495 901,501" />
+				<TextEquiv index="1">
+					<Unicode>eines harmlosen Privatschreibens, das er empfangen, auf mehrere</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l12" custom="readingOrder {index:12;}">
+				<Coords points="193,505 204,505 215,506 216,512 275,512 294,515 294,507 304,507 324,512 351,511 389,514 389,507 402,507 403,513 433,513 434,507 445,507 466,514 499,514 510,508 514,508 516,516 538,514 540,522 568,509 589,510 590,517 600,517 614,509 661,510 677,516 790,515 829,512 841,512 852,516 852,527 577,525 510,524 478,522 403,523 378,521 378,528 365,528 345,523 329,521 324,523 234,521 234,527 216,527 215,521 193,522" />
+				<Baseline points="193,521 852,527" />
+				<TextEquiv index="1">
+					<Unicode>Tage in Arrest gebracht worden. Die Noth war in stetem Ste</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l13" custom="readingOrder {index:13;}">
+				<Coords points="194,532 200,532 216,533 217,539 226,539 247,532 263,532 265,539 277,536 290,536 314,533 325,533 327,539 471,540 499,538 523,541 527,548 551,546 557,535 631,535 632,542 644,542 653,536 663,536 665,542 767,543 769,537 801,537 819,538 820,544 904,544 904,554 882,558 866,558 690,554 678,552 644,551 499,550 455,552 447,549 194,548" />
+				<Baseline points="194,548 793,552 904,554" />
+				<TextEquiv index="1">
+					<Unicode>Die Unterthanen verweigerten, aller Drohungen und Warnungen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l14" custom="readingOrder {index:14;}">
+				<Coords points="192,564 257,565 258,559 268,559 301,562 303,573 321,560 332,560 334,566 345,566 364,559 378,559 379,565 399,566 400,560 412,560 413,566 431,566 431,560 443,560 444,568 456,566 484,565 532,569 534,561 544,561 564,562 567,569 622,568 695,563 697,570 718,569 734,562 740,562 750,564 762,569 853,570 862,572 869,564 873,564 875,572 887,564 891,564 893,571 907,571 907,580 826,581 817,581 762,578 578,580 387,575 345,575 307,578 245,575 228,580 210,580 204,575 192,575" />
+				<Baseline points="192,574 559,576 907,580" />
+				<TextEquiv index="1">
+					<Unicode>ungeachtet, die Frohndienste und begegneten den Personen, welche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l15" custom="readingOrder {index:15;}">
+				<Coords points="191,592 261,591 271,585 285,585 286,591 306,592 307,586 318,586 320,592 399,592 399,586 411,586 420,593 431,590 446,590 555,593 609,592 622,594 661,588 664,594 681,589 686,589 687,596 714,595 725,589 740,589 741,596 747,596 753,589 764,589 765,597 788,595 790,602 815,589 861,596 862,590 873,590 874,598 882,598 884,590 894,590 902,596 904,596 904,606 873,606 862,606 640,604 631,602 609,604 457,604 241,601 213,595 212,601 191,600" />
+				<Baseline points="191,600 792,604 904,606" />
+				<TextEquiv index="1">
+					<Unicode>sie zur Frohne anmahnten, mit unverantwortlichen Reden. Drechsler</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l16" custom="readingOrder {index:16;}">
+				<Coords points="191,611 197,611 199,617 211,614 233,615 260,611 272,611 319,611 325,618 330,618 337,612 348,612 363,618 475,617 546,613 547,619 588,621 589,614 598,614 601,621 661,620 706,616 707,623 713,623 719,615 748,615 748,621 772,616 777,616 779,622 883,616 891,622 905,622 905,632 891,632 729,630 570,632 559,632 488,629 282,628 191,626" />
+				<Baseline points="191,627 905,631" />
+				<TextEquiv index="1">
+					<Unicode>bittet dringend um vier starke Zugochsen zur Ackerarbeit auf dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l17" custom="readingOrder {index:17;}">
+				<Coords points="192,637 212,637 215,643 229,643 239,631 266,631 267,638 278,638 286,645 335,644 337,638 347,638 348,644 359,644 360,638 371,638 372,646 428,642 484,646 484,639 497,639 497,645 541,647 542,640 564,640 573,647 583,647 589,640 599,640 607,644 630,646 649,640 666,640 672,647 700,642 702,648 721,649 727,641 732,641 734,648 745,643 757,643 783,649 790,641 802,641 802,649 832,646 862,648 884,646 896,648 906,652 906,654 896,658 873,658 836,658 832,658 383,654 239,656 192,653" />
+				<Baseline points="192,653 906,658" />
+				<TextEquiv index="1">
+					<Unicode>Vorwerke, welches unter der schlechten Wirthschaft des verstor-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l18" custom="readingOrder {index:18;}">
+				<Coords points="190,663 202,663 203,671 249,670 269,664 283,664 309,670 309,664 323,664 325,671 359,670 377,676 383,671 409,671 427,665 432,665 432,671 488,671 493,665 523,665 524,674 553,672 553,665 566,665 585,672 620,672 622,666 633,666 634,673 709,673 713,680 743,667 758,667 761,673 771,673 778,667 788,667 795,672 903,675 903,684 585,681 566,687 543,687 542,680 523,682 432,680 432,687 427,687 359,681 309,681 278,679 190,679" />
+				<Baseline points="190,679 804,682 903,684" />
+				<TextEquiv index="1">
+					<Unicode>benen Vitzthum arg vernachlässigt worden war. Nichts war vor</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l19" custom="readingOrder {index:19;}">
+				<Coords points="189,690 201,690 202,697 225,696 242,690 249,690 280,690 291,690 305,694 355,699 357,691 362,691 363,697 373,697 374,691 385,691 386,698 436,691 447,691 449,697 494,698 558,698 584,692 606,692 608,699 630,700 637,693 654,693 657,700 690,699 715,701 719,707 744,699 755,699 764,701 766,693 793,694 795,701 856,700 879,703 881,694 891,694 893,701 905,701 905,710 828,710 810,704 805,709 724,713 719,713 529,711 511,708 465,707 189,706" />
+				<Baseline points="189,706 905,710" />
+				<TextEquiv index="1">
+					<Unicode>den Soldaten sicher: die wenigen Kirschbäume, welche um das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l20" custom="readingOrder {index:20;}">
+				<Coords points="190,716 211,716 214,722 263,722 265,716 275,716 295,724 305,720 335,723 336,717 348,717 349,724 372,723 376,731 401,723 439,718 451,718 452,725 553,724 555,718 566,718 567,724 647,725 650,719 659,719 662,725 685,725 693,719 703,719 705,725 762,720 803,720 809,728 832,727 839,720 844,720 846,727 862,727 863,720 874,720 876,726 904,725 904,736 892,741 881,741 813,734 803,741 797,741 778,735 650,734 647,740 642,740 635,734 630,739 618,739 503,733 376,735 348,733 190,732" />
+				<Baseline points="190,731 904,736" />
+				<TextEquiv index="1">
+					<Unicode>Vorwerk standen, wurden von ihnen geplündert und geschädigt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l21" custom="readingOrder {index:21;}">
+				<Coords points="190,742 216,742 229,743 237,749 262,749 264,743 280,743 295,751 301,751 301,743 312,743 315,749 348,744 383,744 385,750 396,750 407,744 419,744 440,750 494,750 497,757 515,753 520,745 564,745 577,751 670,751 679,753 687,746 727,746 729,752 740,752 741,746 765,746 767,752 790,752 791,746 802,746 804,754 839,752 847,746 863,746 878,754 905,752 905,762 545,760 537,766 520,766 520,760 494,765 484,765 440,760 190,758" />
+				<Baseline points="190,758 905,762" />
+				<TextEquiv index="1">
+					<Unicode>Während der Schlacht am 4. April waren zwei Windhunde und ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l22" custom="readingOrder {index:22;}">
+				<Coords points="188,776 224,775 225,769 237,769 238,776 252,776 253,769 263,769 265,776 286,775 286,769 289,769 320,770 322,776 346,776 347,770 358,770 377,781 383,776 396,772 407,772 433,777 434,770 446,770 446,776 473,771 485,771 485,778 496,770 514,771 516,777 586,778 587,771 592,771 593,780 605,777 616,777 619,771 633,771 633,777 642,777 651,771 688,771 704,775 767,778 771,772 774,772 777,778 797,779 804,772 808,772 810,779 832,779 853,772 868,772 870,778 893,779 894,773 904,773 904,788 808,788 752,791 734,786 653,792 651,792 586,787 573,792 562,792 544,785 289,790 237,785 224,790 211,790 200,785 188,784" />
+				<Baseline points="188,784 904,788" />
+				<TextEquiv index="1">
+					<Unicode>englischer Hund auf das Schloss gelaufen. Den englischen Hund</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l23" custom="readingOrder {index:23;}">
+				<Coords points="188,795 199,795 200,801 220,798 233,798 237,802 253,795 259,795 278,796 285,803 295,803 297,796 307,796 308,802 323,802 324,796 329,796 330,803 350,802 368,796 373,796 376,803 441,797 487,797 489,804 501,802 553,801 574,803 574,815 587,804 597,804 599,797 604,797 606,803 630,803 638,797 653,797 660,801 662,810 684,798 695,798 698,804 708,804 729,798 745,798 751,804 769,804 770,798 788,798 789,804 812,804 824,806 826,798 861,798 868,805 880,802 893,802 904,806 904,813 751,813 729,812 710,807 708,813 662,815 587,812 578,818 574,818 565,813 436,811 263,812 253,811 234,805 233,811 188,811" />
+				<Baseline points="188,811 904,814" />
+				<TextEquiv index="1">
+					<Unicode>hatte Drechsler beim Caviller untergebracht, die Windhunde hatte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l24" custom="readingOrder {index:24;}">
+				<Coords points="187,828 207,827 211,834 236,821 248,821 255,828 280,826 333,828 389,828 390,822 401,822 430,828 489,829 490,822 503,822 503,829 518,829 535,823 579,823 580,829 598,826 616,829 688,830 703,827 743,830 796,829 822,824 833,824 835,831 857,830 862,837 888,830 903,831 903,840 865,842 688,842 676,844 662,844 660,838 360,838 334,832 333,838 211,840 187,837" />
+				<Baseline points="187,837 903,840" />
+				<TextEquiv index="1">
+					<Unicode>er, damit sie nicht von den Soldaten weggefangen würden, in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l25" custom="readingOrder {index:25;}">
+				<Coords points="188,847 209,847 211,853 229,853 231,847 241,847 259,848 261,854 314,854 315,848 347,848 350,856 360,856 362,849 375,848 385,848 386,855 469,854 482,851 511,854 512,848 523,848 548,854 572,855 573,848 584,848 601,854 632,853 658,856 738,856 754,849 767,850 769,856 784,854 865,856 903,855 903,866 865,865 865,871 846,871 826,871 820,871 806,864 759,865 715,869 646,870 573,865 188,863" />
+				<Baseline points="188,863 903,865" />
+				<TextEquiv index="1">
+					<Unicode>Winkeln und Löchern versteckt und mit geringem Brote gespeist.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l26" custom="readingOrder {index:26;}">
+				<Coords points="187,873 208,873 209,880 220,880 221,873 232,873 247,881 257,879 273,880 287,874 293,874 295,880 350,881 352,874 374,874 375,880 409,880 421,874 434,874 435,880 461,878 538,881 606,880 651,882 652,876 664,876 665,884 677,876 690,876 693,883 767,882 777,876 788,876 790,882 838,884 840,877 885,877 897,881 897,892 801,893 690,891 567,891 565,897 559,897 558,889 545,889 538,895 427,890 187,889" />
+				<Baseline points="187,889 897,892" />
+				<TextEquiv index="1">
+					<Unicode>Weil sie bei solchem Futter eingesperrt verderben würden, schickte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l27" custom="readingOrder {index:27;}">
+				<Coords points="185,906 270,906 271,900 277,900 279,906 300,906 313,900 325,900 326,906 336,906 337,900 348,900 349,906 378,908 384,901 396,901 404,907 428,907 443,901 455,901 463,907 484,907 496,901 511,901 513,907 536,904 548,904 579,906 673,908 684,902 695,902 696,909 724,908 736,902 741,902 749,904 750,911 771,909 773,902 784,902 818,910 825,903 830,903 832,909 862,909 864,903 869,903 872,910 902,910 902,920 784,917 771,921 761,921 741,918 418,920 185,914" />
+				<Baseline points="185,914 902,918" />
+				<TextEquiv index="1">
+					<Unicode>er sie über Schneeberg dem Kurfürsten zu; in dem Begleitschreiben,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l28" custom="readingOrder {index:28;}">
+				<Coords points="185,931 207,932 208,925 218,925 220,931 231,926 243,926 244,933 320,933 321,926 332,926 339,933 349,933 364,927 376,927 377,933 400,930 447,927 476,927 477,934 499,933 505,935 519,928 560,928 567,934 590,934 611,936 613,928 629,928 631,934 639,934 646,931 657,931 675,934 693,928 714,929 716,935 732,936 739,929 756,929 759,935 789,935 791,928 823,929 829,936 855,935 867,929 902,933 902,944 855,944 827,946 817,946 769,944 364,943 185,940" />
+				<Baseline points="185,941 902,944" />
+				<TextEquiv index="1">
+					<Unicode>welches an den kurfürstlichen Geheimsekretär Reichbrodt gerichtet</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l29" custom="readingOrder {index:29;}">
+				<Coords points="186,957 208,955 209,965 228,958 283,953 287,953 289,959 300,959 320,956 379,959 380,953 391,953 392,959 404,954 433,953 444,953 452,959 473,959 526,954 527,960 538,960 545,954 550,954 552,960 604,960 605,954 616,954 617,960 666,960 679,954 690,954 692,960 708,962 719,955 735,955 737,961 765,962 768,955 783,955 800,960 902,962 902,970 584,971 575,971 473,969 209,970 186,967" />
+				<Baseline points="186,968 902,970" />
+				<TextEquiv index="1">
+					<Unicode>ist, unterlässt er nicht hervorzuheben, dass er die Hunde von seinem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l30" custom="readingOrder {index:30;}">
+				<Coords points="186,978 207,978 207,985 260,983 267,979 279,979 280,987 308,985 375,985 382,978 390,978 420,980 421,986 432,986 433,980 438,980 441,986 494,983 506,983 526,986 527,980 539,980 540,987 550,987 552,981 583,986 631,986 632,980 643,980 662,988 672,986 733,987 753,981 757,981 759,988 804,987 813,981 853,981 868,984 889,984 899,987 899,997 723,997 679,994 677,1002 672,1002 671,995 432,996 390,999 382,999 375,995 350,995 348,1001 338,1001 330,995 316,995 314,1001 308,1001 290,995 267,995 266,1001 260,1001 241,995 220,994 219,1000 207,1000 207,994 186,994" />
+				<Baseline points="186,994 899,996" />
+				<TextEquiv index="1">
+					<Unicode>Eigen (de proprio) habe unterhalten und speisen lassen. Dafür</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l31" custom="readingOrder {index:31;}">
+				<Coords points="185,1005 197,1005 238,1005 258,1012 277,1011 297,1005 309,1005 310,1013 350,1006 363,1006 370,1013 375,1006 386,1006 388,1012 403,1009 414,1009 433,1012 439,1019 462,1013 515,1012 515,1022 442,1024 439,1024 369,1021 185,1020" />
+				<Baseline points="185,1020 515,1022" />
+				<TextEquiv index="1">
+					<Unicode>bittet er den Sekretär, er m</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l32" custom="readingOrder {index:32;}">
+				<Coords points="185,1036 209,1037 210,1030 220,1030 258,1031 259,1037 299,1038 300,1032 311,1032 312,1038 334,1039 349,1033 364,1033 411,1038 457,1039 481,1044 482,1038 495,1034 506,1034 523,1040 566,1033 578,1033 585,1036 604,1040 611,1033 644,1032 682,1033 696,1040 718,1039 733,1033 744,1033 746,1041 767,1039 783,1033 830,1033 838,1040 862,1039 868,1037 899,1039 899,1048 551,1048 457,1053 446,1053 411,1048 185,1046" />
+				<Baseline points="185,1047 899,1048" />
+				<TextEquiv index="1">
+					<Unicode>und ihm eine Anweisung auf ein Stück Wild an den Wildmeister</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l33" custom="readingOrder {index:33;}">
+				<Coords points="184,1063 220,1058 235,1058 248,1063 290,1061 313,1058 319,1058 321,1064 394,1065 397,1058 411,1058 429,1058 437,1065 447,1065 449,1058 460,1058 469,1064 489,1065 489,1074 262,1073 261,1079 248,1079 248,1073 184,1073" />
+				<Baseline points="184,1073 489,1074" />
+				<TextEquiv index="1">
+					<Unicode>zu Augustusburg verschaffen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l34" custom="readingOrder {index:34;}">
+				<Coords points="237,1083 259,1083 261,1090 293,1091 293,1085 303,1085 319,1089 352,1090 354,1084 365,1084 366,1090 376,1090 376,1084 390,1084 392,1092 433,1084 445,1084 446,1091 464,1090 483,1084 525,1085 526,1091 536,1091 537,1085 548,1085 556,1088 575,1090 659,1091 661,1085 665,1085 683,1091 694,1091 718,1086 728,1086 756,1091 764,1087 774,1087 805,1091 828,1091 839,1093 839,1085 858,1085 860,1093 872,1092 881,1086 892,1086 901,1091 901,1101 639,1100 623,1099 601,1094 601,1100 403,1100 392,1098 390,1104 366,1104 331,1099 237,1099" />
+				<Baseline points="237,1099 901,1101" />
+				<TextEquiv index="1">
+					<Unicode>Die Armseligkeit der Verhältnisse wird noch auf mancherlei</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l35" custom="readingOrder {index:35;}">
+				<Coords points="184,1115 188,1109 199,1109 249,1109 251,1115 263,1115 273,1113 312,1113 315,1109 317,1109 356,1110 357,1116 369,1116 383,1110 388,1110 390,1116 401,1113 422,1113 433,1118 447,1110 459,1110 460,1118 493,1111 506,1110 539,1110 541,1118 559,1116 574,1110 599,1110 600,1116 634,1116 655,1111 668,1111 669,1119 681,1119 682,1112 693,1112 708,1118 754,1118 771,1111 822,1111 824,1118 891,1117 901,1119 901,1126 891,1127 838,1127 792,1127 682,1127 639,1127 624,1127 184,1124" />
+				<Baseline points="184,1124 901,1127" />
+				<TextEquiv index="1">
+					<Unicode>Art illustrirt. So hatte der Müller Martin Böhme in Hartha seine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l36" custom="readingOrder {index:36;}">
+				<Coords points="184,1134 207,1134 208,1141 231,1140 241,1138 291,1141 297,1135 308,1135 325,1141 343,1142 345,1136 356,1136 375,1144 381,1144 381,1136 393,1136 394,1142 465,1142 473,1145 481,1137 494,1137 502,1144 514,1140 568,1143 583,1136 598,1136 600,1143 630,1142 690,1144 720,1137 731,1137 739,1144 773,1143 775,1151 797,1143 818,1144 836,1137 854,1138 868,1143 900,1145 900,1153 750,1156 739,1156 731,1153 710,1153 707,1159 697,1159 611,1156 598,1153 494,1152 273,1156 231,1151 184,1150" />
+				<Baseline points="184,1150 900,1153" />
+				<TextEquiv index="1">
+					<Unicode>Dienstmagd, mit der er verbotenen Umgang gepflogen, im Ehren-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l37" custom="readingOrder {index:37;}">
+				<Coords points="184,1160 192,1160 230,1161 231,1168 251,1167 261,1161 273,1161 282,1167 296,1163 301,1163 303,1169 322,1168 336,1162 353,1162 361,1168 385,1169 388,1162 397,1162 428,1170 441,1168 488,1168 488,1162 500,1162 501,1169 513,1166 562,1169 563,1163 574,1163 592,1169 655,1169 668,1163 697,1163 699,1169 715,1169 722,1164 759,1164 777,1169 778,1163 788,1163 806,1170 849,1169 867,1166 880,1166 890,1170 901,1172 901,1179 849,1178 817,1182 806,1182 759,1179 184,1177" />
+				<Baseline points="184,1177 901,1179" />
+				<TextEquiv index="1">
+					<Unicode>friedersdorfer Gericht ermordet und in ein Schachtloch geworfen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l38" custom="readingOrder {index:38;}">
+				<Coords points="184,1187 193,1187 209,1188 220,1193 239,1187 261,1187 262,1193 276,1188 282,1188 284,1194 320,1194 320,1188 332,1188 333,1196 370,1194 430,1194 472,1189 482,1189 484,1195 533,1193 588,1195 609,1189 625,1189 626,1195 639,1191 652,1191 654,1203 676,1189 688,1189 696,1195 708,1195 723,1189 742,1190 745,1197 812,1195 870,1196 872,1190 889,1190 892,1196 899,1196 899,1205 658,1206 654,1206 184,1203" />
+				<Baseline points="184,1203 899,1205" />
+				<TextEquiv index="1">
+					<Unicode>Der Verbrecher war in Chemnitz in Haft, der Prozess war ihm</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l39" custom="readingOrder {index:39;}">
+				<Coords points="181,1213 188,1213 190,1221 200,1221 201,1213 213,1213 214,1219 237,1214 268,1214 269,1220 279,1220 295,1214 316,1214 324,1220 339,1220 360,1215 369,1215 378,1220 390,1222 391,1214 403,1214 410,1221 423,1221 433,1215 445,1215 446,1222 466,1221 468,1215 476,1215 487,1221 552,1221 564,1215 576,1215 577,1221 593,1221 603,1215 639,1215 656,1217 666,1221 683,1215 689,1215 730,1216 744,1223 750,1223 751,1216 763,1216 769,1224 776,1224 789,1216 801,1216 807,1220 819,1222 821,1215 832,1215 845,1223 852,1216 862,1216 864,1224 876,1222 899,1224 899,1232 552,1230 324,1231 190,1229 188,1235 181,1235" />
+				<Baseline points="181,1230 899,1231" />
+				<TextEquiv index="1">
+					<Unicode>jedoch in Ehrenfriedersdorf zu machen. Der Rath des Städtchens,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l40" custom="readingOrder {index:40;}">
+				<Coords points="182,1239 194,1239 195,1247 208,1245 251,1247 252,1240 271,1240 305,1246 345,1247 367,1247 382,1241 461,1241 462,1249 472,1247 540,1247 541,1241 552,1241 554,1248 589,1247 606,1249 613,1241 623,1241 653,1243 684,1249 685,1242 697,1242 699,1248 735,1248 749,1242 783,1242 785,1248 803,1249 808,1242 813,1242 827,1245 893,1248 896,1255 898,1255 898,1258 845,1257 735,1262 724,1262 653,1258 495,1257 485,1255 484,1262 472,1262 394,1257 345,1262 332,1262 332,1256 182,1255" />
+				<Baseline points="182,1254 898,1257" />
+				<TextEquiv index="1">
+					<Unicode>der selbst wegen der Kriegsunruhe nach Annaberg geflüchtet war,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l41" custom="readingOrder {index:41;}">
+				<Coords points="183,1265 194,1265 195,1271 250,1266 251,1273 261,1273 262,1266 274,1266 274,1273 287,1272 298,1267 335,1267 343,1273 378,1267 406,1267 406,1273 580,1274 581,1267 593,1267 595,1273 623,1275 624,1267 635,1267 635,1273 748,1274 749,1268 759,1268 761,1274 797,1274 805,1268 817,1268 848,1271 866,1275 874,1267 898,1267 898,1283 714,1283 523,1286 486,1283 441,1282 441,1288 428,1288 358,1283 274,1282 250,1287 243,1287 207,1282 183,1282" />
+				<Baseline points="183,1281 898,1282" />
+				<TextEquiv index="1">
+					<Unicode>kann jedoch den Gefangenen wegen der daraus erwachsenden Geld-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l42" custom="readingOrder {index:42;}">
+				<Coords points="182,1292 194,1292 194,1298 206,1298 216,1295 272,1298 272,1292 285,1292 286,1298 296,1298 297,1292 309,1292 337,1299 348,1299 349,1293 392,1293 394,1299 410,1299 419,1293 463,1293 473,1295 482,1299 499,1300 499,1293 510,1293 511,1299 526,1299 527,1293 531,1293 533,1300 552,1299 573,1293 584,1293 585,1300 597,1297 628,1300 628,1293 641,1293 641,1301 654,1301 655,1294 667,1294 668,1300 678,1300 680,1294 692,1294 694,1300 740,1301 742,1294 752,1294 754,1300 770,1293 787,1293 788,1299 799,1294 809,1294 847,1299 865,1293 876,1293 878,1302 898,1302 898,1309 765,1310 742,1310 297,1309 182,1307" />
+				<Baseline points="182,1308 898,1309" />
+				<TextEquiv index="1">
+					<Unicode>kosten nicht abholen. Drechsler hat deshalb mehrfach an den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l43" points="452,1323 457,1323 479,1325 479,1319 501,1319 507,1325 520,1325 567,1325 589,1319 601,1319 608,1325 631,1325 642,1327 660,1321 674,1321 695,1323 739,1323 777,1325 778,1319 790,1319 807,1319 822,1322 828,1326 842,1333 843,1319 845,1319 884,1320 884,1326 895,1326 895,1335 842,1335 828,1329 822,1334 777,1335 695,1335 674,1336 660,1336 550,1335 550,1341 538,1341 520,1335 452,1335" baseline="452,1335 738,1334 758,1334 895,1335" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: t aber gar keine Antwort erhalten. Er | german_print2_15: t aber gar keine Antwort erhalten. Er -->
+			<!-- line left out: id="r0l44" points="802,1351 809,1345 822,1345 830,1353 841,1352 850,1352 889,1352 889,1361 850,1361 828,1361 809,1361 802,1360" baseline="802,1361 889,1361" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: athen sei
+ | german_print2_15: athen sci
+ -->
+			<TextEquiv index="1">
+				<Unicode>kupfernen Pfanne und einem Käsekorb mit drei Schüblingen auf-
+gezeichnet. Zum Glück hatte man, wenn auch mit Leib- und
+ausgesäet; eine gute Ernte stand zu erwarten.
+Der Verkehr mit Dresden gestaltete sich immer schwieriger.
+Direct gehende Boten wurden mehrmals aufgegriffen, so dass
+Drechsler dem weiten Umweg über Schneeberg den Vorzug gab.
+Vorsicht war geboten: der Amtsschösser in Lichtewalde war wegen
+eines harmlosen Privatschreibens, das er empfangen, auf mehrere
+Tage in Arrest gebracht worden. Die Noth war in stetem Ste
+Die Unterthanen verweigerten, aller Drohungen und Warnungen
+ungeachtet, die Frohndienste und begegneten den Personen, welche
+sie zur Frohne anmahnten, mit unverantwortlichen Reden. Drechsler
+bittet dringend um vier starke Zugochsen zur Ackerarbeit auf dem
+Vorwerke, welches unter der schlechten Wirthschaft des verstor-
+benen Vitzthum arg vernachlässigt worden war. Nichts war vor
+den Soldaten sicher: die wenigen Kirschbäume, welche um das
+Vorwerk standen, wurden von ihnen geplündert und geschädigt.
+Während der Schlacht am 4. April waren zwei Windhunde und ein
+englischer Hund auf das Schloss gelaufen. Den englischen Hund
+hatte Drechsler beim Caviller untergebracht, die Windhunde hatte
+er, damit sie nicht von den Soldaten weggefangen würden, in
+Winkeln und Löchern versteckt und mit geringem Brote gespeist.
+Weil sie bei solchem Futter eingesperrt verderben würden, schickte
+er sie über Schneeberg dem Kurfürsten zu; in dem Begleitschreiben,
+welches an den kurfürstlichen Geheimsekretär Reichbrodt gerichtet
+ist, unterlässt er nicht hervorzuheben, dass er die Hunde von seinem
+Eigen (de proprio) habe unterhalten und speisen lassen. Dafür
+bittet er den Sekretär, er m
+und ihm eine Anweisung auf ein Stück Wild an den Wildmeister
+zu Augustusburg verschaffen.
+Die Armseligkeit der Verhältnisse wird noch auf mancherlei
+Art illustrirt. So hatte der Müller Martin Böhme in Hartha seine
+Dienstmagd, mit der er verbotenen Umgang gepflogen, im Ehren-
+friedersdorfer Gericht ermordet und in ein Schachtloch geworfen.
+Der Verbrecher war in Chemnitz in Haft, der Prozess war ihm
+jedoch in Ehrenfriedersdorf zu machen. Der Rath des Städtchens,
+der selbst wegen der Kriegsunruhe nach Annaberg geflüchtet war,
+kann jedoch den Gefangenen wegen der daraus erwachsenden Geld-
+kosten nicht abholen. Drechsler hat deshalb mehrfach an den</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r1">
+			<Coords points="322,224 898,224 898,246 322,246" />
+		</GraphicRegion>
+		<GraphicRegion id="r2">
+			<Coords points="329,236 349,236 349,240 329,240" />
+		</GraphicRegion>
+		<GraphicRegion id="r3">
+			<Coords points="812,258 836,258 836,271 812,271" />
+		</GraphicRegion>
+		<GraphicRegion id="r4">
+			<Coords points="452,304 476,304 476,313 452,313" />
+		</GraphicRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="901,310 908,310 908,346 901,346" />
+			<!-- line left out: id="r5l0" points="901,310 908,310 908,326 901,326" baseline="901,326 908,326" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 7 | german_print2_15: 7 -->
+			<!-- line left out: id="r5l1" points="903,337 908,337 908,346 903,346" baseline="903,346 908,346" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: r
+ | german_print2_15: r
+ -->
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="443,330 461,330 461,340 443,340" />
+		</GraphicRegion>
+		<GraphicRegion id="r7">
+			<Coords points="328,381 334,381 334,391 328,391" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="863,514 885,514 885,530 863,530" />
+		</GraphicRegion>
+		<GraphicRegion id="r9">
+			<Coords points="231,591 238,591 238,601 231,601" />
+		</GraphicRegion>
+		<GraphicRegion id="r10">
+			<Coords points="295,617 522,617 522,633 295,633" />
+		</GraphicRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="572,1006 902,1006 902,1027 572,1027" />
+			<!-- line left out: id="r11l0" points="572,1014 582,1012 592,1012 594,1006 603,1006 605,1012 629,1007 640,1007 689,1011 707,1013 715,1014 734,1013 763,1013 771,1011 785,1011 793,1013 850,1013 868,1013 902,1013 902,1022 879,1025 869,1025 850,1022 834,1022 822,1021 803,1027 793,1027 769,1023 745,1026 734,1026 707,1022 693,1025 689,1027 683,1027 582,1022 572,1021" baseline="572,1021 902,1022" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: sich ihm grossgünstig erzeigen
+ | german_print2_15: sich ihm grossgünstig erzeigen
+ -->
+		</TextRegion>
+		<GraphicRegion id="r12">
+			<Coords points="519,1013 546,1013 546,1021 519,1021" />
+		</GraphicRegion>
+		<GraphicRegion id="r13">
+			<Coords points="339,1064 405,1064 405,1074 339,1074" />
+		</GraphicRegion>
+		<GraphicRegion id="r14">
+			<Coords points="380,1084 392,1084 392,1100 380,1100" />
+		</GraphicRegion>
+		<GraphicRegion id="r15">
+			<Coords points="768,1249 770,1249 770,1251 768,1251" />
+		</GraphicRegion>
+		<GraphicRegion id="r16">
+			<Coords points="434,1322 449,1322 449,1335 434,1335" />
+		</GraphicRegion>
+		<TextRegion id="r17" custom="readingOrder {index:17;} orientation {0;}">
+			<Coords points="181,1317 749,1317 749,1367 181,1367" />
+			<!-- line left out: id="r17l0" points="182,1317 197,1317 229,1317 255,1319 268,1324 292,1319 298,1319 320,1319 321,1326 332,1326 333,1319 345,1319 345,1326 357,1325 376,1325 393,1319 400,1319 404,1325 415,1325 417,1319 431,1319 431,1326 434,1326 446,1332 449,1332 449,1335 446,1335 431,1329 431,1335 376,1337 268,1337 248,1337 219,1333 182,1332" baseline="182,1332 449,1335" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Rath geschrieben, zuletz | german_print2_15: Rath geschrieben, zuletz -->
+			<TextLine id="r17l1" custom="readingOrder {index:1;}">
+				<Coords points="181,1348 199,1348 201,1342 213,1342 234,1348 255,1348 256,1355 286,1351 286,1344 298,1344 298,1350 312,1350 321,1352 335,1345 357,1345 365,1351 390,1351 398,1347 420,1351 438,1351 438,1345 454,1345 454,1351 474,1353 474,1345 486,1345 494,1351 513,1347 631,1354 647,1345 656,1345 663,1353 679,1352 689,1354 690,1346 706,1346 707,1352 715,1352 717,1346 728,1346 728,1353 749,1351 749,1360 581,1361 572,1367 560,1367 546,1361 365,1361 201,1357 193,1364 181,1364" />
+				<Baseline points="181,1357 749,1361" />
+				<TextEquiv index="1">
+					<Unicode>gibt zu, dass Ehrenfriedersdorf in grosses Verderben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>gibt zu, dass Ehrenfriedersdorf in grosses Verderben</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r18">
+			<Coords points="765,1350 799,1350 799,1364 765,1364" />
+		</GraphicRegion>
+		<TextRegion id="r19" custom="readingOrder {index:19;} orientation {0;}">
+			<Coords points="394,1549 658,1549 658,1561 394,1561" />
+			<!-- line left out: id="r19l0" points="394,1549 402,1549 408,1550 422,1549 431,1549 456,1549 469,1549 499,1549 542,1549 553,1549 571,1549 601,1549 629,1549 646,1549 658,1550 658,1558 646,1560 629,1560 571,1560 452,1561 441,1561 434,1561 414,1560 407,1560 394,1558" baseline="394,1558 658,1558" reason: differs: "htpd" against "gera" | Wikisource:  | next_nc_e1: htp digital slub-dresden delppn301259642370
+ | german_print2_15: tpiitalslub-dresden de ppne01259642370
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r20">
+			<Coords points="944,471 965,471 965,1214 944,1214" />
+		</SeparatorRegion>
+		<GraphicRegion id="r21">
+			<Coords points="940,0 976,0 976,1585 940,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+weil sie eingemauert oder zu schwer waren, bis herab zu einer
+kupfernen Pfanne und einem Käsekorb mit drei Schüblingen aufgezeichnet.
+Zum Glück hatte man, wenn auch mit Leib- und
+Lebensgefahr, das Ackerland noch bestellen können. Es waren 57
+Scheffel Korn über Winter und 89 Scheffel Hafer über Sommer
+ausgesäet; eine gute Ernte stand zu erwarten.
+Der Verkehr mit Dresden gestaltete sich immer schwieriger.
+Direct gehende Boten wurden mehrmals aufgegriffen, so dass
+Drechsler dem weiten Umweg über Schneeberg den Vorzug gab.
+Vorsicht war geboten: der Amtsschösser in Lichtewalde war wegen
+eines harmlosen Privatschreibens, das er empfangen, auf mehrere
+Tage in Arrest gebracht worden. Die Noth war in stetem Steigen.
+Die Unterthanen verweigerten, aller Drohungen und Warnungen
+ungeachtet, die Frohndienste und begegneten den Personen, welche
+sie zur Frohne anmahnten, mit unverantwortlichen Reden. Drechsler
+bittet dringend um vier starke Zugochsen zur Ackerarbeit auf dem
+Vorwerke, welches unter der schlechten Wirthschaft des verstorbenen
+Vitzthum arg vernachlässigt worden war. Nichts war vor
+den Soldaten sicher: die wenigen Kirschbäume, welche um das
+Vorwerk standen, wurden von ihnen geplündert und geschädigt.
+Während der Schlacht am 4. April waren zwei Windhunde und ein
+englischer Hund auf das Schloss gelaufen. Den englischen Hund
+hatte Drechsler beim Caviller untergebracht, die Windhunde hatte
+er, damit sie nicht von den Soldaten weggefangen würden, in
+Winkeln und Löchern versteckt und mit geringem Brote gespeist.
+Weil sie bei solchem Futter eingesperrt verderben würden, schickte
+er sie über Schneeberg dem Kurfürsten zu; in dem Begleitschreiben,
+welches an den kurfürstlichen Geheimsekretär Reichbrodt gerichtet
+ist, unterlässt er nicht hervorzuheben, dass er die Hunde von seinem
+Eigen (de proprio) habe unterhalten und speisen lassen. Dafür
+bittet er den Sekretär, er möge sich ihm grossgünstig erzeigen
+und ihm eine Anweisung auf ein Stück Wild an den Wildmeister
+zu Augustusburg verschaffen.
+Die Armseligkeit der Verhältnisse wird noch auf mancherlei
+Art illustrirt. So hatte der Müller Martin Böhme in Hartha seine
+Dienstmagd, mit der er verbotenen Umgang gepflogen, im Ehrenfriedersdorfer
+Gericht ermordet und in ein Schachtloch geworfen.
+Der Verbrecher war in Chemnitz in Haft, der Prozess war ihm
+jedoch in Ehrenfriedersdorf zu machen. Der Rath des Städtchens,
+der selbst wegen der Kriegsunruhe nach Annaberg geflüchtet war,
+kann jedoch den Gefangenen wegen der daraus erwachsenden Geldkosten
+nicht abholen. Drechsler hat deshalb mehrfach an den
+Rath geschrieben, zuletzt aber gar keine Antwort erhalten. Er
+gibt zu, dass Ehrenfriedersdorf in grosses Verderben gerathen sei:
+-->
+	</Page>
+</PcGts>

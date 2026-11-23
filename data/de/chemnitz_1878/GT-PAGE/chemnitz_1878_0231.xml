@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:32:02</Created>
+		<LastChange>2026-11-23T14:32:02</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/231 revision 4776257 of 2026-01-04T07:48:49Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0231.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro1529494194996779554" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="39,993 49,993 49,1305 39,1305" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="358,165 492,165 492,196 358,196" />
+			<!-- line left out: id="r1l0" points="358,181 408,176 418,175 429,175 464,176 464,165 492,165 492,196 464,196 428,192 408,188 358,184" baseline="358,184 408,183 464,182 492,182" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 223 —
+ | german_print2_15: — 22²3 —
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="66,220 798,220 798,1063 66,1063" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="66,230 161,229 184,233 184,227 234,227 282,230 295,224 305,224 315,231 337,230 348,225 361,225 390,230 405,224 434,224 457,229 457,223 470,223 473,236 491,223 497,223 508,228 522,222 535,222 555,227 569,221 583,221 604,226 616,227 617,221 678,226 678,220 689,220 721,220 766,220 786,224 786,239 766,242 707,242 699,240 678,241 616,238 274,242 242,243 234,248 198,248 184,248 161,246 66,246" />
+				<Baseline points="66,246 322,241 786,235" />
+				<TextEquiv index="1">
+					<Unicode>Hass sei, wenigstens für einen Abend, in der Freude aufgegangen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="66,256 80,256 109,261 130,255 142,255 161,260 178,251 209,251 213,253 265,252 265,258 276,258 276,251 296,251 296,257 337,255 365,251 518,255 518,248 542,248 543,254 621,248 682,246 700,246 700,252 720,252 735,246 751,246 776,246 786,251 786,262 711,264 581,264 581,270 568,270 568,264 532,270 512,270 486,266 265,268 265,274 246,274 236,269 209,274 186,274 178,274 66,272" />
+				<Baseline points="66,272 336,267 786,262" />
+				<TextEquiv index="1">
+					<Unicode>dass der Schauspielkunst wieder etwas gelungen sei. Der Lohn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="67,282 117,282 159,286 159,280 230,284 257,278 265,278 266,284 284,284 296,277 411,277 481,281 495,275 512,275 513,281 524,281 525,275 545,275 586,280 600,274 615,274 645,279 651,274 692,274 733,279 733,286 751,272 764,272 764,278 787,277 787,289 721,295 677,295 577,290 577,296 512,292 461,292 448,298 436,298 436,292 393,293 393,299 332,299 325,294 310,300 296,300 284,294 178,297 67,298" />
+				<Baseline points="67,298 600,290 787,289" />
+				<TextEquiv index="1">
+					<Unicode>blieb nicht aus. Im J. 1790 gelang es Dalbergs Bemühungen, den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l3" points="67,314 95,310 104,310 125,313 138,307 150,306 157,306 173,309 185,312 186,306 198,306 210,311 210,305 222,305 255,310 272,304 284,304 284,310 295,310 303,312 316,304 353,304 378,306 408,309 410,316 434,307 475,307 487,308 500,301 512,301 512,307 532,307 546,300 560,300 560,306 572,306 572,300 591,300 595,314 619,306 636,305 648,305 660,303 674,303 690,303 710,305 722,299 727,299 769,299 780,302 780,308 787,308 787,311 780,315 769,316 749,316 674,317 632,317 599,320 595,320 532,318 414,322 410,322 398,320 353,322 341,322 303,321 222,322 193,322 185,328 173,328 151,324 96,325 67,325" baseline="67,325 138,323 272,321 413,319 486,318 787,315" reason: second model: differs: "rs,IIan" against "s, 11 a" | Wikisource: ersten Mitgliedern des Theaters, 11 an der Zahl, worunter selbst | next_nc_e1: ersten Mitgliedern des Theaters, 11 an der Zahl, worunter selbst- | german_print2_15: ersten Mitgliedern des Theaters, II an der Zahl, worunter selbst- -->
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="67,340 97,339 114,335 125,335 137,339 138,333 306,331 308,344 332,330 362,330 374,335 387,336 387,330 399,330 441,335 441,329 484,328 484,334 495,333 507,328 552,328 563,333 563,327 627,327 650,332 650,326 663,326 663,332 687,332 687,340 716,326 721,326 747,326 780,331 787,334 787,338 780,342 692,345 575,344 341,347 312,349 186,349 106,351 67,351" />
+				<Baseline points="67,351 332,346 787,342" />
+				<TextEquiv index="1">
+					<Unicode>verständlich auch Beil, Iffland und Beck sich befanden, lebens-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="66,361 85,362 108,366 108,360 121,361 194,358 194,364 215,362 226,365 227,358 326,363 326,357 379,356 380,363 400,362 416,355 430,355 430,361 452,356 458,356 469,361 469,355 482,355 482,361 568,360 569,354 607,359 620,353 635,353 635,359 658,358 668,353 725,353 737,358 755,352 768,352 768,358 787,357 787,369 568,371 538,376 482,372 340,374 277,379 215,375 194,379 116,377 108,383 95,383 95,377 66,377" />
+				<Baseline points="66,377 787,368" />
+				<TextEquiv index="1">
+					<Unicode>längliche Anstellungen mit der Zusicherung einer Pension in der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="66,387 149,386 161,391 170,385 239,385 279,389 355,389 355,383 368,383 392,388 393,396 421,382 436,382 436,388 448,385 514,387 527,381 541,381 560,384 593,386 608,380 617,380 617,386 637,386 645,379 667,379 685,379 699,385 720,385 720,379 726,379 758,379 787,384 787,395 608,396 593,403 581,403 581,397 84,404 66,404" />
+				<Baseline points="66,404 257,400 787,395" />
+				<TextEquiv index="1">
+					<Unicode>Höhe des Gehaltes zu erwirken. Letzterer betrug für Beil seit dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="66,413 158,412 228,416 234,410 246,410 254,424 273,410 310,410 310,416 327,416 327,410 351,409 364,409 364,415 396,414 422,408 436,408 436,414 471,413 483,408 489,408 489,414 512,413 525,407 546,407 547,413 559,413 559,407 572,407 612,412 612,406 627,406 627,412 664,412 676,406 682,406 704,406 716,412 755,406 769,406 788,410 788,422 676,422 664,428 572,424 422,425 408,431 396,431 396,425 258,429 246,427 211,433 192,433 184,428 170,434 159,434 158,428 147,428 146,434 96,429 96,436 75,436 66,436" />
+				<Baseline points="66,430 462,424 788,422" />
+				<TextEquiv index="1">
+					<Unicode>Jahre 1789 1300 fl., Iffland bezog für seine Mühewaltung als zweiter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="67,440 91,439 91,445 115,444 125,439 216,443 225,437 238,437 239,450 258,442 284,437 310,437 310,450 329,442 356,442 356,436 369,436 401,441 402,435 442,435 442,441 454,440 465,435 491,434 527,434 546,438 640,439 640,433 655,433 666,438 675,432 727,432 728,438 740,438 740,445 759,431 772,431 779,432 788,437 788,448 745,452 683,452 626,449 414,452 314,455 238,454 146,457 133,457 91,457 67,457" />
+				<Baseline points="67,456 413,451 788,448" />
+				<TextEquiv index="1">
+					<Unicode>Ausschuss 100 fl. mehr, während Beck und seine zweite Gattin, die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="66,472 75,472 75,465 110,465 144,468 155,471 168,464 181,464 181,470 210,470 210,464 243,464 255,469 268,463 277,463 279,469 324,469 324,463 336,463 347,468 356,462 423,461 424,467 433,467 433,475 451,467 505,466 515,460 532,461 550,466 550,459 563,459 563,466 581,466 582,460 595,459 643,459 665,465 724,463 771,458 783,458 784,471 788,471 788,474 742,480 724,480 701,476 631,476 631,483 532,483 522,477 437,480 324,479 324,485 311,485 311,479 279,480 277,486 268,486 255,480 224,480 224,486 204,486 155,482 92,482 86,488 66,488" />
+				<Baseline points="66,482 451,477 788,475" />
+				<TextEquiv index="1">
+					<Unicode>gefeierte Sängerin Josepha Schäfer, einen Doppelgehalt von 2300 fl.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="68,498 88,498 89,492 125,492 145,494 157,497 160,492 186,491 209,491 218,496 232,489 248,489 249,495 289,495 289,489 385,488 387,501 403,493 466,488 478,488 514,493 529,487 537,486 609,486 610,492 619,492 630,486 778,485 789,485 789,501 707,503 678,502 671,508 514,504 434,504 434,510 410,510 403,505 387,504 385,511 377,511 367,505 257,506 162,509 68,509" />
+				<Baseline points="68,509 377,504 789,502" />
+				<TextEquiv index="1">
+					<Unicode>erhielten. Als Rennschüb i. J. 1792 einem Rufe als Regisseur nach</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="67,518 82,518 83,524 103,523 109,518 150,518 191,522 192,530 210,517 276,516 277,522 290,519 309,521 309,529 328,521 365,521 365,515 420,514 420,520 445,520 445,514 530,513 531,519 550,519 564,513 610,513 622,518 636,512 650,512 650,518 661,516 714,516 714,529 611,529 610,535 445,531 341,531 313,534 290,532 290,538 277,538 276,532 257,532 257,538 251,538 166,534 67,535" />
+				<Baseline points="67,535 312,531 714,529" />
+				<TextEquiv index="1">
+					<Unicode>Frankfurt a. M. folgte, ward Iffland mit der Regie betraut.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="120,544 144,543 144,550 169,549 169,543 207,543 230,548 240,542 255,542 255,548 277,542 310,542 325,548 353,548 353,542 358,542 370,547 371,541 383,541 383,547 406,547 416,541 438,541 457,546 457,540 463,540 464,546 489,546 489,540 501,540 501,546 521,541 539,540 595,546 607,539 615,539 626,544 639,545 639,539 651,539 652,552 671,539 689,539 720,544 720,538 742,538 742,544 785,544 785,551 789,551 789,558 732,555 732,561 702,561 702,555 656,559 626,556 434,557 310,562 300,562 279,559 246,562 240,562 181,560 120,560" />
+				<Baseline points="120,560 789,554" />
+				<TextEquiv index="1">
+					<Unicode>Durch den Beifall, welchen Wielands Alceste fand, hingerissen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="68,571 80,571 118,576 136,570 160,569 174,569 174,575 190,575 190,569 240,570 251,574 273,572 318,574 318,568 330,568 348,573 371,567 383,567 383,573 412,573 432,567 449,567 449,573 462,572 471,569 505,566 513,566 513,572 529,572 529,566 569,565 583,566 591,569 623,570 633,566 648,566 659,571 659,565 718,564 735,564 735,570 748,570 748,564 761,564 761,570 790,570 790,581 701,583 672,582 264,585 264,591 251,591 251,585 68,588" />
+				<Baseline points="68,587 790,581" />
+				<TextEquiv index="1">
+					<Unicode>hatte Iffland längst schon dem Durst nach literarischem Ruhme</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="69,603 81,602 103,597 163,596 251,596 287,599 320,595 333,595 388,600 388,594 459,593 499,593 577,598 591,592 604,592 627,597 640,605 652,605 653,592 661,591 703,591 721,591 721,597 790,596 790,607 664,608 652,612 604,609 471,610 459,615 402,610 402,616 388,616 376,611 365,610 356,616 268,612 234,612 203,619 201,619 201,613 152,612 151,619 139,619 139,613 128,613 128,619 116,619 116,613 69,613" />
+				<Baseline points="69,614 267,611 790,607" />
+				<TextEquiv index="1">
+					<Unicode>nachgegeben. Am 12. September 1781 hatte er den „Wilhelm von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="68,623 104,623 115,628 127,629 128,623 156,625 189,623 201,628 215,621 223,621 224,627 236,627 236,621 248,621 249,627 304,624 331,627 345,621 357,621 377,626 391,620 409,620 409,626 442,625 447,619 460,619 460,625 502,625 503,619 508,619 523,632 535,632 535,620 572,619 599,622 650,624 663,617 689,617 694,618 694,624 716,623 729,618 791,619 791,627 780,627 780,634 599,635 552,636 535,639 492,636 485,642 472,642 472,636 460,636 460,642 447,642 442,637 304,638 292,643 224,638 223,644 215,644 201,638 156,642 147,642 140,640 68,640" />
+				<Baseline points="68,640 791,634" />
+				<TextEquiv index="1">
+					<Unicode>Schenk“, ein Jahr später das Trauerspiel „Albert von Thurneisen“</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l16" points="69,655 93,655 94,649 110,649 110,655 121,655 121,649 134,649 165,654 183,648 189,648 190,654 201,653 220,653 242,653 243,647 256,647 256,639 287,639 312,647 329,647 329,653 348,653 366,646 371,646 381,647 381,654 392,654 393,647 409,647 426,646 431,646 449,652 514,651 525,646 538,646 546,651 562,645 569,645 569,651 586,648 595,645 631,645 779,649 780,643 791,643 791,660 779,661 665,666 653,666 594,662 575,667 562,667 514,663 431,663 348,664 312,664 287,673 256,673 243,669 210,665 189,665 102,666 69,666" baseline="69,666 430,662 638,661 791,661" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: aufführen lassen. ²) Der Beifall war sehr getheilt gewesen und | german_print2_15: aufführen lassen. ²¹) Der Beifall war sehr getheilt gewesen und -->
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="70,681 94,681 95,675 126,681 159,681 172,674 185,674 185,680 204,680 218,674 280,674 288,677 311,679 325,673 339,673 339,681 351,679 394,679 394,673 444,673 444,679 487,672 499,672 500,678 519,678 534,672 550,672 551,678 571,677 571,671 591,671 591,677 639,676 640,684 663,676 691,671 722,671 742,676 759,670 772,670 792,675 792,687 644,690 620,688 545,687 499,689 94,692 83,697 70,697" />
+				<Baseline points="70,691 792,686" />
+				<TextEquiv index="1">
+					<Unicode>galt nur der beliebten Persönlichkeit des Verfassers, welcher das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="70,709 99,705 107,705 117,708 129,701 228,706 242,700 268,700 281,705 300,705 313,699 332,699 387,700 451,705 452,699 458,699 458,705 526,704 526,698 532,698 544,703 592,701 638,703 638,697 677,697 708,697 708,703 731,702 753,698 765,698 792,702 792,713 765,714 753,719 740,719 740,713 592,715 569,714 569,720 556,720 556,714 452,715 451,721 439,721 438,715 418,715 417,721 405,721 405,715 374,716 332,721 320,721 196,717 70,718" />
+				<Baseline points="70,718 792,713" />
+				<TextEquiv index="1">
+					<Unicode>erste Drama in seiner Selbstbiographie verleugnet und beide später</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="70,733 82,728 139,728 150,733 152,727 156,727 158,733 190,732 202,730 210,726 222,726 222,732 247,731 277,726 292,726 305,731 346,726 359,726 359,733 369,733 386,726 394,726 395,732 449,731 449,725 461,725 462,731 485,728 504,730 505,738 528,724 541,724 597,730 616,724 654,724 697,729 697,723 710,723 715,729 736,729 736,723 743,723 767,723 782,723 792,726 792,740 674,740 509,743 289,742 181,744 170,749 158,749 150,744 70,745" />
+				<Baseline points="70,744 792,740" />
+				<TextEquiv index="1">
+					<Unicode>als übelgerathene Versuche bezeichnete, die er lieber vernichtet</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="71,760 79,756 103,754 103,760 114,760 115,767 144,753 160,753 160,759 199,753 212,753 224,758 232,759 247,766 258,766 260,753 271,752 311,753 320,758 341,758 342,752 354,752 354,758 402,757 423,759 440,751 461,751 468,757 492,756 509,751 522,751 542,753 542,764 577,751 619,755 649,753 658,750 692,750 699,753 719,755 732,749 747,749 747,755 785,750 785,759 792,759 792,762 785,766 619,767 542,769 542,760 530,760 530,767 354,769 258,772 247,772 185,770 71,771" />
+				<Baseline points="71,771 440,767 792,766" />
+				<TextEquiv index="1">
+					<Unicode>sähe. Erst das „Verbrechen aus Ehrsucht“, ein ernsthaftes Fami-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="71,781 143,786 143,780 214,780 248,783 268,788 268,780 280,779 292,779 312,783 365,784 366,778 378,778 378,784 390,784 390,778 402,778 415,784 421,784 422,778 434,778 435,784 540,782 572,777 584,777 605,782 618,776 623,776 623,782 642,782 643,776 652,776 668,776 668,782 706,779 737,782 749,776 756,776 785,776 785,785 792,785 792,788 785,792 771,793 631,798 529,794 357,795 329,798 270,796 248,800 157,797 157,803 143,803 143,797 120,797 120,803 107,803 107,797 71,797" />
+				<Baseline points="71,797 792,792" />
+				<TextEquiv index="1">
+					<Unicode>liengemälde in 5 Akten, erhob ihn zu einem der gefeiertsten zeit-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="71,813 102,812 102,806 128,808 143,807 164,812 164,806 177,806 177,812 199,812 213,805 228,805 228,811 240,811 240,805 253,805 253,811 289,811 290,805 302,805 302,811 319,811 319,805 332,805 340,809 386,804 398,804 399,810 425,810 441,804 453,804 460,807 496,804 534,809 535,803 540,803 541,809 552,809 552,803 565,803 584,809 603,803 609,803 621,808 635,802 668,802 668,808 693,808 693,802 706,802 706,808 717,803 724,803 742,808 743,816 766,808 793,807 793,818 747,822 525,820 115,823 115,829 102,829 102,823 83,823 83,829 71,829" />
+				<Baseline points="71,823 793,818" />
+				<TextEquiv index="1">
+					<Unicode>genössischen Bühnendichter; dies Stück erlebte in Mannheim, wo</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="72,839 105,834 150,832 158,832 158,838 213,837 214,831 225,831 250,837 300,835 337,835 360,837 369,831 382,830 390,830 391,836 403,831 420,831 437,836 437,830 475,830 475,837 486,830 519,830 536,833 583,835 583,829 595,829 596,835 692,833 712,829 748,828 784,828 784,834 793,834 793,845 704,850 657,848 641,845 486,847 475,852 437,852 382,848 236,853 213,853 203,853 188,849 72,850" />
+				<Baseline points="72,849 793,844" />
+				<TextEquiv index="1">
+					<Unicode>es im März 1784 zum ersten Male aufgeführt worden war, 14 Wieder-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l24" custom="readingOrder {index:24;}">
+				<Coords points="72,859 103,859 103,865 141,864 167,859 196,858 274,858 343,863 362,857 383,857 383,863 394,863 411,857 417,857 429,862 477,862 494,856 510,856 511,862 528,862 529,856 575,856 582,861 628,861 628,855 643,855 662,855 674,855 675,861 695,861 707,855 725,855 725,861 746,860 771,855 784,855 794,860 794,874 616,872 616,878 604,878 604,872 454,873 454,879 442,879 441,873 250,874 250,880 238,880 219,874 196,874 169,881 167,881 167,875 141,875 140,881 128,881 128,875 72,876" />
+				<Baseline points="72,876 196,874 794,871" />
+				<TextEquiv index="1">
+					<Unicode>holungen. Es gehört zu der langen Reihe bürgerlicher Dramen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l25" custom="readingOrder {index:25;}">
+				<Coords points="72,885 85,885 85,891 203,890 217,883 226,883 227,890 266,889 266,883 281,883 281,890 295,890 314,884 372,884 384,889 384,883 397,883 397,889 426,889 440,883 494,883 498,896 538,883 561,882 575,888 609,887 644,882 671,881 683,881 683,887 728,881 743,881 743,887 756,884 773,884 794,887 794,898 534,899 502,902 476,900 453,904 372,905 281,900 281,906 266,906 257,901 227,900 226,906 217,906 166,902 72,902" />
+				<Baseline points="72,902 425,899 794,898" />
+				<TextEquiv index="1">
+					<Unicode>deren nasser Jammer fast jedem gefiel, weil er nach den Worten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l26" custom="readingOrder {index:26;}">
+				<Coords points="73,912 86,912 86,918 105,917 122,911 145,911 145,917 164,912 181,912 192,917 211,910 215,910 215,916 237,916 237,910 249,910 266,918 270,910 306,910 324,913 326,923 349,915 441,913 472,915 488,908 503,908 503,915 514,915 515,908 527,908 527,914 564,912 638,914 638,908 670,908 693,908 748,908 795,913 795,924 761,924 761,930 748,930 748,924 429,925 429,931 417,931 293,927 283,929 226,927 73,929" />
+				<Baseline points="73,929 248,926 795,924" />
+				<TextEquiv index="1">
+					<Unicode>der Xenien sich selbst, seine guten Bekannten und seine eigene</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l27" custom="readingOrder {index:27;}">
+				<Coords points="73,937 90,937 90,943 110,938 146,937 256,936 264,939 317,942 317,936 357,935 357,941 380,936 393,936 393,949 429,949 429,937 442,937 455,941 455,935 490,934 509,934 509,940 520,940 533,934 556,934 602,934 602,941 613,937 673,939 683,934 696,934 708,939 778,934 784,934 795,939 795,950 90,955 73,955" />
+				<Baseline points="73,955 273,952 795,950" />
+				<TextEquiv index="1">
+					<Unicode>Noth darin suchte und fand. Auch die Gebildeten erkannten in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l28" custom="readingOrder {index:28;}">
+				<Coords points="75,964 87,964 87,970 162,969 162,962 176,962 185,969 194,969 194,963 218,963 239,968 239,962 251,962 251,968 274,968 292,962 304,962 312,966 337,962 349,962 349,968 372,968 390,962 407,962 407,968 419,968 436,961 444,961 466,967 467,961 472,961 473,967 533,966 550,960 575,960 579,966 609,966 609,960 624,960 656,963 669,960 674,960 692,966 703,961 716,960 729,960 729,966 748,966 766,960 786,960 796,965 796,976 656,977 624,982 591,982 575,982 561,982 472,977 419,979 75,980" />
+				<Baseline points="75,980 796,976" />
+				<TextEquiv index="1">
+					<Unicode>diesen moralischen Stücken ein heilsames Gegenmittel wider die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l29" custom="readingOrder {index:29;}">
+				<Coords points="74,990 106,990 106,996 140,995 140,989 187,990 227,995 228,989 240,989 241,995 251,995 252,989 292,989 293,995 311,994 325,988 337,988 345,991 443,994 444,988 470,987 490,987 557,993 557,1003 533,1003 533,1009 478,1009 358,1005 228,1005 227,1011 215,1011 214,1005 168,1006 152,1011 140,1011 74,1006" />
+				<Baseline points="74,1006 557,1003" />
+				<TextEquiv index="1">
+					<Unicode>Schrankenlosigkeit der Stürmer und Dränger.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l30" custom="readingOrder {index:30;}">
+				<Coords points="128,1016 151,1016 219,1021 219,1015 263,1014 304,1015 305,1021 333,1021 344,1014 372,1014 373,1021 414,1020 428,1014 441,1014 442,1020 461,1020 470,1014 482,1014 513,1019 513,1013 527,1013 549,1016 570,1013 582,1013 605,1018 615,1011 621,1011 668,1011 677,1011 700,1016 725,1012 727,1018 759,1017 768,1013 775,1013 786,1018 786,1012 797,1012 797,1029 219,1032 128,1032" />
+				<Baseline points="128,1032 797,1029" />
+				<TextEquiv index="1">
+					<Unicode>Dass auch Beil dem Chorus der dramatischen Schriftsteller sich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l31" points="76,1047 89,1047 115,1048 115,1042 138,1042 160,1047 169,1048 170,1055 190,1043 223,1041 236,1041 293,1041 324,1041 336,1042 347,1041 360,1041 382,1047 394,1046 406,1046 407,1040 440,1040 440,1046 459,1046 473,1040 488,1040 488,1046 508,1045 533,1045 533,1039 546,1039 558,1044 625,1044 662,1044 662,1038 674,1038 675,1044 713,1039 722,1038 751,1038 776,1038 776,1044 798,1044 798,1061 787,1061 787,1055 776,1055 776,1061 736,1061 698,1056 662,1056 649,1056 638,1055 638,1062 625,1062 625,1055 567,1056 459,1057 336,1058 317,1058 223,1057 205,1063 194,1063 190,1045 174,1061 170,1061 138,1059 128,1061 115,1061 100,1059 76,1058" baseline="76,1058 458,1056 697,1055 798,1055" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: anschloss, ²) braucht nicht auf des Freundes anregenden Vorgang
+ | german_print2_15: anschloss, ²) braucht nicht auf des Freundes anregenden Vorgang
+ -->
+			<TextEquiv index="1">
+				<Unicode>Hass sei, wenigstens für einen Abend, in der Freude aufgegangen,
+dass der Schauspielkunst wieder etwas gelungen sei. Der Lohn
+blieb nicht aus. Im J. 1790 gelang es Dalbergs Bemühungen, den
+verständlich auch Beil, Iffland und Beck sich befanden, lebens-
+längliche Anstellungen mit der Zusicherung einer Pension in der
+Höhe des Gehaltes zu erwirken. Letzterer betrug für Beil seit dem
+Jahre 1789 1300 fl., Iffland bezog für seine Mühewaltung als zweiter
+Ausschuss 100 fl. mehr, während Beck und seine zweite Gattin, die
+gefeierte Sängerin Josepha Schäfer, einen Doppelgehalt von 2300 fl.
+erhielten. Als Rennschüb i. J. 1792 einem Rufe als Regisseur nach
+Frankfurt a. M. folgte, ward Iffland mit der Regie betraut.
+Durch den Beifall, welchen Wielands Alceste fand, hingerissen,
+hatte Iffland längst schon dem Durst nach literarischem Ruhme
+nachgegeben. Am 12. September 1781 hatte er den „Wilhelm von
+Schenk“, ein Jahr später das Trauerspiel „Albert von Thurneisen“
+galt nur der beliebten Persönlichkeit des Verfassers, welcher das
+erste Drama in seiner Selbstbiographie verleugnet und beide später
+als übelgerathene Versuche bezeichnete, die er lieber vernichtet
+sähe. Erst das „Verbrechen aus Ehrsucht“, ein ernsthaftes Fami-
+liengemälde in 5 Akten, erhob ihn zu einem der gefeiertsten zeit-
+genössischen Bühnendichter; dies Stück erlebte in Mannheim, wo
+es im März 1784 zum ersten Male aufgeführt worden war, 14 Wieder-
+holungen. Es gehört zu der langen Reihe bürgerlicher Dramen,
+deren nasser Jammer fast jedem gefiel, weil er nach den Worten
+der Xenien sich selbst, seine guten Bekannten und seine eigene
+Noth darin suchte und fand. Auch die Gebildeten erkannten in
+diesen moralischen Stücken ein heilsames Gegenmittel wider die
+Schrankenlosigkeit der Stürmer und Dränger.
+Dass auch Beil dem Chorus der dramatischen Schriftsteller sich</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="79,1116 803,1116 803,1377 79,1377" />
+			<!-- line left out: id="r3l0" points="122,1121 130,1121 143,1122 172,1124 192,1128 203,1124 214,1124 230,1124 253,1124 271,1123 286,1123 295,1127 311,1123 322,1123 354,1123 399,1123 414,1123 444,1122 455,1122 460,1116 472,1116 472,1125 481,1125 482,1134 500,1126 526,1125 563,1125 566,1133 577,1123 594,1122 605,1122 624,1122 624,1132 640,1122 652,1122 652,1132 665,1125 689,1121 742,1121 748,1120 762,1120 799,1120 799,1134 762,1135 706,1136 656,1136 545,1140 519,1140 510,1140 482,1136 472,1145 460,1145 460,1137 444,1137 431,1137 414,1136 399,1137 253,1138 214,1138 143,1141 131,1141 130,1130 122,1130" baseline="122,1138 263,1137 422,1136 799,1134" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: *) Mannheimer Taschenbuch fürs Theat. 1795. 1. Abth. S. 10 ff. Darnach | german_print2_15: *¹) Mannheimer Taschenbuch fürs Theat. 1795. I. Abth. S. 10 fl. Darnach -->
+			<!-- line left out: id="r3l1" points="80,1149 95,1148 100,1143 125,1143 162,1144 197,1146 228,1145 240,1145 271,1145 281,1144 320,1144 351,1144 376,1147 387,1149 387,1155 403,1149 412,1149 413,1155 431,1145 446,1145 447,1155 463,1144 475,1144 476,1154 494,1147 499,1147 512,1145 534,1143 546,1143 552,1144 553,1154 567,1143 579,1143 600,1143 604,1148 615,1154 625,1154 626,1143 661,1143 671,1147 679,1145 685,1145 738,1142 753,1141 765,1141 783,1141 795,1146 799,1149 799,1152 795,1155 783,1156 765,1156 685,1156 671,1157 625,1158 552,1160 538,1160 534,1160 475,1158 412,1158 376,1161 371,1161 240,1159 219,1163 208,1163 181,1159 112,1158 94,1158 80,1158" baseline="80,1158 416,1157 799,1155" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: würde die Angabe bei Koffka (a. a. O. S. 106 f.), dass „Albert von Thurn- | german_print2_15: würde die Angabe bei Koffka (a. a. O. S. 106 f.), dass „Albert von Thurn- -->
+			<!-- line left out: id="r3l2" points="79,1170 89,1165 95,1165 146,1164 154,1164 171,1165 181,1169 188,1164 200,1164 209,1166 229,1170 246,1168 252,1168 281,1165 293,1165 300,1167 319,1165 330,1165 419,1166 428,1169 433,1165 443,1165 452,1164 463,1164 477,1165 534,1164 540,1164 551,1169 551,1175 555,1175 555,1178 487,1183 476,1183 443,1179 428,1179 368,1181 345,1181 341,1181 300,1179 229,1180 151,1180 146,1180 133,1172 125,1172 124,1178 113,1179 79,1179" baseline="79,1179 132,1178 555,1178" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: eisen“ Ifflands erstes Stück sei, zu berichtigen sein.
+ | german_print2_15: eisen“ Ifflands erstes Stück sei, zu berichtigen sein.
+ -->
+			<!-- line left out: id="r3l3" points="122,1190 133,1189 137,1189 175,1191 225,1191 240,1191 258,1198 267,1196 282,1191 293,1191 340,1191 367,1191 386,1191 386,1197 400,1196 415,1191 421,1191 422,1197 447,1195 457,1195 469,1191 493,1190 501,1190 507,1191 540,1194 552,1190 558,1190 573,1190 637,1189 649,1189 662,1190 672,1189 683,1189 711,1189 737,1191 740,1199 770,1188 801,1188 801,1201 787,1202 730,1202 711,1208 698,1208 698,1202 683,1203 611,1208 599,1208 567,1204 552,1209 501,1209 493,1209 447,1204 399,1210 367,1210 353,1210 302,1205 240,1205 167,1205 143,1207 139,1207 133,1194 122,1193" baseline="122,1205 770,1201 801,1201" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ²2) Beil hat sieben Schauspiele und Lustspiele geschrieben: 1. Die | german_print2_15: ²²) Beil hal sieben Schauspiele und Lustspiele geschrieben; 1. Die -->
+			<!-- line left out: id="r3l4" points="80,1213 92,1213 109,1213 119,1212 125,1212 144,1217 144,1223 161,1211 172,1211 194,1211 213,1216 233,1213 238,1213 247,1212 253,1212 344,1212 364,1212 365,1223 385,1216 404,1213 414,1213 423,1213 459,1212 475,1212 510,1211 521,1211 587,1215 607,1211 619,1211 739,1211 766,1208 778,1208 801,1213 801,1222 748,1223 695,1226 674,1227 665,1227 607,1225 598,1229 578,1229 516,1229 510,1229 485,1225 458,1229 423,1230 403,1230 394,1230 344,1226 310,1230 233,1231 222,1231 221,1225 172,1226 147,1228 144,1228 109,1227 99,1232 92,1232 80,1227" baseline="80,1226 385,1225 755,1222 801,1222" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Spieler, Schauspiel in 5 Aufz. 1785. (Neu herausgegeben 1794 unter dem | german_print2_15: Spieler, Schauspiel in 5 Aufz. 1785. (Neu herausgegeben 1794 unter dem -->
+			<!-- line left out: id="r3l5" points="80,1238 108,1234 118,1234 128,1233 139,1233 164,1235 199,1233 220,1233 227,1235 235,1233 241,1233 257,1245 265,1245 267,1233 278,1233 283,1234 308,1233 322,1233 350,1233 361,1238 374,1233 376,1233 407,1241 450,1236 490,1232 506,1232 521,1237 536,1230 542,1230 547,1232 568,1232 608,1231 630,1231 640,1235 665,1230 693,1230 703,1234 704,1240 722,1229 730,1228 743,1228 762,1231 782,1229 788,1229 796,1228 802,1228 802,1242 788,1243 782,1248 743,1248 730,1248 708,1245 704,1245 694,1243 684,1250 672,1250 665,1244 630,1245 608,1250 597,1250 578,1246 556,1246 542,1250 536,1250 376,1247 361,1247 350,1247 338,1247 332,1246 265,1250 257,1250 174,1247 80,1247" baseline="80,1247 183,1246 802,1242" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: veränderten Titel „die Gauner.“) — 2. Die Schauspielerschule, Lustspiel | german_print2_15: veränderten Titel „die Gauner.“) — 2. Die Schauspielerschule, Lustspiel -->
+			<!-- line left out: id="r3l6" points="80,1254 86,1254 159,1255 176,1257 187,1255 189,1255 242,1253 252,1253 261,1253 320,1254 371,1254 409,1258 447,1258 447,1264 474,1256 493,1256 533,1255 538,1255 562,1255 593,1252 604,1252 629,1256 646,1250 652,1250 673,1251 682,1250 689,1250 706,1261 715,1261 716,1250 736,1250 766,1250 802,1254 802,1264 629,1265 593,1265 513,1271 493,1271 447,1272 427,1272 416,1272 398,1268 364,1272 360,1272 320,1268 303,1270 261,1271 241,1271 231,1271 189,1268 170,1268 124,1272 116,1272 80,1268" baseline="80,1268 260,1267 765,1263 802,1263" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: in 3 Aufz. 1786. (Neu herausgeg. 1794 unter dem Titel „Liebe um | german_print2_15: in 3 Aufz. 1786. (Neu herausgeg. 1794 unter dem Titel „Liebe um -->
+			<!-- line left out: id="r3l7" points="81,1276 105,1276 115,1279 135,1280 141,1277 156,1277 168,1283 208,1278 235,1275 266,1275 273,1277 281,1275 286,1275 306,1275 377,1275 400,1275 443,1274 455,1274 460,1279 469,1278 483,1278 495,1274 501,1274 533,1274 581,1274 619,1273 635,1273 647,1272 655,1272 662,1276 662,1282 690,1274 710,1271 730,1271 731,1282 751,1279 788,1275 802,1275 802,1288 788,1288 771,1281 735,1285 709,1289 699,1289 635,1286 607,1287 581,1287 533,1288 495,1293 455,1293 443,1293 424,1291 395,1291 383,1291 295,1289 243,1289 223,1292 208,1292 189,1285 168,1285 156,1293 151,1293 150,1283 141,1283 140,1289 93,1293 81,1293" baseline="81,1289 188,1288 770,1284 802,1284" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Laune.“) — 3. Dietrich von Ruben, Lustspiel in einem Aufz. 1786. — 4. | german_print2_15: Laune.“) — 3. Dietrich von Ruben, Lustspiel in einem Aufz. 1786. — 4. -->
+			<!-- line left out: id="r3l8" points="83,1297 99,1297 141,1296 151,1296 218,1295 226,1295 234,1296 247,1295 260,1295 267,1300 275,1299 281,1296 292,1296 293,1307 312,1296 333,1296 336,1300 344,1303 349,1296 361,1296 377,1296 421,1296 447,1299 463,1305 467,1296 480,1296 492,1295 506,1295 507,1306 529,1298 548,1294 558,1294 569,1298 570,1304 599,1294 606,1293 629,1293 656,1292 667,1292 702,1292 744,1297 744,1303 764,1295 783,1295 802,1295 802,1310 744,1311 724,1311 702,1311 661,1311 656,1311 629,1309 604,1309 569,1311 547,1312 538,1312 511,1309 480,1309 447,1313 366,1314 333,1314 320,1314 297,1312 293,1312 234,1310 226,1312 218,1312 83,1310" baseline="83,1310 296,1309 641,1306 802,1306" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Armuth und Hoffarth, Lustspiel in 5 Aufz. 1789. (Neu herausgeg. 1797 | german_print2_15: Armuth und Hoffarth, Lustspiel in 5 Aufſz. 1789. (Neu herausgeg. 1797 -->
+			<!-- line left out: id="r3l9" points="82,1321 93,1321 103,1320 110,1320 141,1317 152,1317 176,1322 190,1316 197,1316 218,1317 228,1316 233,1316 249,1328 256,1328 256,1317 273,1317 311,1317 326,1320 337,1317 342,1317 374,1320 469,1316 489,1316 569,1314 581,1314 617,1316 637,1318 637,1325 659,1313 667,1313 671,1314 680,1313 692,1313 718,1313 737,1314 746,1313 773,1313 802,1317 802,1331 794,1331 773,1328 737,1333 718,1333 667,1333 659,1333 637,1330 593,1327 593,1333 577,1333 569,1333 508,1329 489,1330 455,1335 441,1335 418,1327 374,1332 370,1332 364,1330 337,1331 268,1333 249,1333 103,1331 82,1330" baseline="82,1331 552,1328 752,1327 802,1327" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: unter dem Titel „Bettelstolz.“) — 5. Curt von Spartau, Schauspiel in 4 | german_print2_15: unter dem Titel „Bettelstolz.“) — 5. Curt von Spartau, Schauspiel in 4 -->
+			<!-- line left out: id="r3l10" points="84,1338 107,1338 126,1338 126,1349 142,1342 183,1342 183,1349 201,1346 220,1346 233,1340 259,1338 281,1338 321,1338 364,1338 365,1349 380,1338 391,1338 401,1337 412,1337 429,1337 457,1337 490,1337 545,1337 556,1335 565,1335 571,1339 572,1346 592,1338 611,1338 630,1338 632,1345 659,1338 666,1335 688,1335 711,1334 723,1334 723,1340 740,1339 745,1334 757,1334 776,1334 803,1339 803,1353 780,1353 757,1353 718,1353 688,1353 665,1353 659,1353 622,1352 611,1353 601,1353 545,1350 519,1353 509,1353 457,1350 457,1356 429,1356 417,1356 391,1352 368,1353 351,1353 338,1353 330,1352 311,1353 302,1353 247,1352 233,1352 201,1348 183,1356 151,1356 126,1352 107,1352 93,1352 84,1351" baseline="84,1352 128,1351 574,1348 592,1348 803,1349" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Aufz. 1790. — 6. Die Einöde, Schauspiel in 4 Aufz. 1791. (Neu herausgeg. | german_print2_15: Aufz. 1790. — 6. Die Einöde, Schauspiel in 4 Aufz. 1791. (Neu herausgeg. -->
+			<!-- line left out: id="r3l11" points="86,1361 104,1361 124,1362 164,1362 192,1359 203,1359 253,1359 267,1362 276,1358 281,1358 294,1370 302,1370 303,1359 320,1359 362,1359 398,1361 434,1358 446,1358 455,1362 500,1362 500,1356 511,1356 542,1355 551,1355 569,1355 598,1360 604,1357 613,1356 618,1356 635,1364 672,1360 699,1356 745,1355 758,1355 795,1355 803,1360 803,1370 776,1370 687,1375 672,1375 654,1366 635,1366 618,1375 613,1375 612,1363 604,1363 602,1369 590,1370 580,1374 569,1374 551,1369 551,1375 542,1375 489,1371 446,1372 381,1377 362,1377 350,1377 329,1373 302,1375 294,1375 253,1373 243,1373 239,1362 227,1373 124,1375 95,1375 86,1371" baseline="86,1371 123,1371 530,1370 803,1370" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 1794 anter dem Titel „die Freystatt der müden Pilger.“) — 7. Die Familie
+ | german_print2_15: 1794 anter dem Titel „die Freystatt der müden Pilger.) — 7. Die Familie
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="394,1549 590,1549 590,1561 394,1561" />
+			<!-- line left out: id="r4l0" points="394,1549 401,1549 408,1549 431,1549 443,1549 456,1549 469,1549 481,1549 499,1549 525,1549 542,1549 590,1550 590,1558 578,1560 566,1560 551,1560 481,1558 452,1561 443,1561 432,1561 413,1560 407,1560 394,1558" baseline="394,1558 590,1557" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnpe digital slub dresden de ppnso
+ | german_print2_15: PGigital slub dresden de ppn301
+ -->
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Hass sei, wenigstens für einen Abend, in der Freude aufgegangen,
+dass der Schauspielkunst wieder etwas gelungen sei. Der Lohn
+blieb nicht aus. Im J. 1790 gelang es Dalbergs Bemühungen, den
+ersten Mitgliedern des Theaters, 11 an der Zahl, worunter
+selbstverständlich auch Beil, Iffland und Beck sich befanden,
+lebenslängliche Anstellungen mit der Zusicherung einer Pension in der
+Höhe des Gehaltes zu erwirken. Letzterer betrug für Beil seit dem
+Jahre 1789 1300 fl., Iffland bezog für seine Mühewaltung als zweiter
+Ausschuss 100 fl. mehr, während Beck und seine zweite Gattin, die
+gefeierte Sängerin Josepha Schäfer, einen Doppelgehalt von 2300 fl.
+erhielten. Als Rennschüb i. J. 1792 einem Rufe als Regisseur nach
+Frankfurt a. M. folgte, ward Iffland mit der Regie betraut.
+Durch den Beifall, welchen Wielands Alceste fand, hingerissen,
+hatte Iffland längst schon dem Durst nach literarischem Ruhme
+nachgegeben. Am 12. September 1781 hatte er den „Wilhelm von
+Schenk“, ein Jahr später das Trauerspiel „Albert von Thurneisen“
+aufführen lassen.⟦⟧ Der Beifall war sehr getheilt gewesen und
+galt nur der beliebten Persönlichkeit des Verfassers, welcher das
+erste Drama in seiner Selbstbiographie verleugnet und beide später
+als übelgerathene Versuche bezeichnete, die er lieber vernichtet
+sähe. Erst das „Verbrechen aus Ehrsucht“, ein ernsthaftes
+Familiengemälde in 5 Akten, erhob ihn zu einem der gefeiertsten
+zeitgenössischen Bühnendichter; dies Stück erlebte in Mannheim, wo
+es im März 1784 zum ersten Male aufgeführt worden war, 14
+Wiederholungen. Es gehört zu der langen Reihe bürgerlicher Dramen,
+deren nasser Jammer fast jedem gefiel, weil er nach den Worten
+der Xenien sich selbst, seine guten Bekannten und seine eigene
+Noth darin suchte und fand. Auch die Gebildeten erkannten in
+diesen moralischen Stücken ein heilsames Gegenmittel wider die
+Schrankenlosigkeit der Stürmer und Dränger.
+Dass auch Beil dem Chorus der dramatischen Schriftsteller sich
+anschloss,⟦⟧ braucht nicht auf des Freundes anregenden Vorgang
+-->
+	</Page>
+</PcGts>

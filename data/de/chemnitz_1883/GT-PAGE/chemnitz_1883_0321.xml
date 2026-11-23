@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:03:50</Created>
+		<LastChange>2026-11-23T14:03:50</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/321 revision 5010326 of 2026-08-07T09:15:33Z, proofread level 3, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0321.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro9108234301404361750" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="420,155 454,155 454,171 420,171" />
+			<!-- line left out: id="r0l0" points="420,155 429,155 454,156 454,170 443,171 420,171" baseline="420,171 454,169" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 109
+ | german_print2_15: 109
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="221,210 613,210 613,234 221,234" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="221,222 229,219 237,219 242,212 253,212 254,221 265,218 422,217 436,210 441,210 450,216 481,216 492,218 493,224 511,210 516,210 538,216 601,215 610,218 613,223 613,227 601,226 242,228 237,234 229,234 228,225 221,225" />
+				<Baseline points="221,228 436,226 568,226 613,228" />
+				<TextEquiv index="1">
+					<Unicode>sydereas mea mens concessit in oras,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>sydereas mea mens concessit in oras,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="177,236 566,236 566,260 177,260" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="177,242 199,240 209,244 340,244 347,238 377,237 381,237 381,243 400,243 401,237 432,237 433,243 523,242 523,236 540,236 562,241 563,248 566,248 566,251 401,253 394,259 326,259 303,254 236,254 234,260 229,260 211,255 177,253" />
+				<Baseline points="177,255 566,251" />
+				<TextEquiv index="1">
+					<Unicode>Occupat extemplo pallidus ora color.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Occupat extemplo pallidus ora color.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="134,262 724,262 724,1348 134,1348" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="135,265 147,265 154,271 219,271 220,264 232,264 233,273 244,270 283,270 291,264 301,264 302,270 364,268 400,269 414,263 426,263 427,269 456,269 472,262 485,262 497,265 561,269 561,262 568,262 609,266 609,279 561,278 219,281 200,286 189,286 188,280 135,280" />
+				<Baseline points="135,281 472,278 609,279" />
+				<TextEquiv index="1">
+					<Unicode>Sic equidem rebar, vitam dum fata sinebant,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="177,291 201,291 228,294 279,296 295,290 320,290 327,296 465,296 512,294 512,288 518,288 519,294 533,294 548,297 548,305 448,304 448,311 441,311 428,305 341,305 326,306 307,311 295,311 234,306 177,307" />
+				<Baseline points="177,306 427,304 548,305" />
+				<TextEquiv index="1">
+					<Unicode>Me tecum plures vivere posse dies,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="136,317 144,317 145,325 158,323 228,321 363,322 376,321 385,316 397,316 425,321 451,320 461,323 474,315 479,315 505,315 512,320 531,315 543,315 543,322 549,322 549,332 505,330 347,331 344,337 248,332 247,338 235,338 234,332 136,333" />
+				<Baseline points="136,333 549,329" />
+				<TextEquiv index="1">
+					<Unicode>Lenire atque tuos puerili voce labores,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="176,348 189,346 199,346 210,349 291,347 378,347 379,355 403,347 473,346 485,341 566,346 566,339 581,339 581,345 623,344 623,355 447,358 234,358 187,362 176,362" />
+				<Baseline points="176,358 623,355" />
+				<TextEquiv index="1">
+					<Unicode>Quaerere et ingenua majus ab arte decus:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l4" points="136,383 141,370 151,370 167,373 182,381 187,376 198,376 256,374 274,374 306,374 368,373 412,373 514,370 519,370 542,370 551,371 567,372 567,382 542,382 484,382 484,389 472,389 472,383 412,383 390,384 361,384 306,384 292,384 276,381 274,390 269,390 267,384 198,384 167,385 136,385" baseline="136,385 197,384 494,382 567,382" reason: differs: "talsupe" against " aliter" | Wikisource:  | next_nc_e1: Ast al superis visum, rerumque satori | german_print2_15: Ast al superis visum, rerumque satori -->
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="177,395 183,395 210,400 275,398 313,400 364,398 587,398 587,408 505,409 492,414 480,414 471,409 396,409 394,415 390,415 387,409 177,410" />
+				<Baseline points="177,410 587,408" />
+				<TextEquiv index="1">
+					<Unicode>In cujus fuerat vitaque morsque manu.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="134,434 156,429 204,427 246,421 286,421 286,429 299,425 318,426 402,423 412,420 423,420 445,425 455,423 474,425 569,422 724,422 724,433 357,436 156,435 153,442 148,442 134,436" />
+				<Baseline points="134,436 724,434" />
+				<TextEquiv index="1">
+					<Unicode>Spes mea Christus erat: Christus mea vita: meum cor:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="178,447 200,447 202,455 229,455 231,447 244,446 265,446 273,452 280,452 376,451 392,445 397,445 397,452 414,449 425,445 488,445 489,451 521,450 540,444 552,444 553,451 565,448 602,449 604,457 606,457 606,460 540,460 523,454 521,460 448,462 412,462 297,462 200,462 178,462" />
+				<Baseline points="178,462 606,460" />
+				<TextEquiv index="1">
+					<Unicode>Hic dederat vitam: sustulit hicce datam.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l8" custom="readingOrder {index:8;}">
+				<Coords points="135,477 159,476 185,479 248,478 254,485 277,477 344,479 393,477 409,478 410,485 428,473 444,473 457,479 485,479 487,472 496,472 530,477 555,474 630,477 630,485 609,486 608,492 596,492 586,486 540,488 387,488 371,493 364,493 356,488 344,487 218,488 215,494 210,494 185,488 135,492" />
+				<Baseline points="135,488 630,486" />
+				<TextEquiv index="1">
+					<Unicode>Quare parce tuis lacrymis, Ave chare, tuasque</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l9" custom="readingOrder {index:9;}">
+				<Coords points="199,508 210,503 225,499 229,499 233,507 240,499 254,499 254,508 291,498 294,498 304,505 308,505 318,498 339,498 340,504 566,502 589,502 602,504 602,512 554,516 484,513 464,516 452,516 393,513 391,519 385,519 370,511 351,514 199,513" />
+				<Baseline points="199,514 602,512" />
+				<TextEquiv index="1">
+					<Unicode>etibus immodicis parce gravare genas.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l10" custom="readingOrder {index:10;}">
+				<Coords points="196,532 208,530 239,529 258,524 274,524 282,530 316,530 327,532 399,529 406,524 418,524 440,528 461,529 468,524 480,524 511,529 545,529 582,526 585,522 594,522 594,528 600,528 610,535 613,535 613,539 440,540 384,540 342,540 274,540 207,540 196,540" />
+				<Baseline points="196,540 613,538" />
+				<TextEquiv index="1">
+					<Unicode>acuit Domino: cui contradicere nec fas,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l11" custom="readingOrder {index:11;}">
+				<Coords points="194,559 208,561 229,555 249,554 294,556 311,550 330,553 416,554 454,556 524,555 534,549 552,549 553,556 577,552 632,554 632,564 486,565 486,571 473,571 454,566 441,571 430,571 400,566 194,565" />
+				<Baseline points="194,566 632,564" />
+				<TextEquiv index="1">
+					<Unicode>ec tutum: Domini sit quoque velle tuum.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l12" custom="readingOrder {index:12;}">
+				<Coords points="218,583 252,582 273,584 273,577 280,576 291,576 293,584 314,581 388,582 392,589 410,582 480,580 613,582 613,590 540,592 488,591 485,597 480,597 454,591 434,592 421,597 410,597 365,592 352,597 347,597 320,592 218,592" />
+				<Baseline points="218,592 613,590" />
+				<TextEquiv index="1">
+					<Unicode>am, dilecte puer, puer optime, nonne</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l13" custom="readingOrder {index:13;}">
+				<Coords points="179,603 184,603 188,611 239,609 254,603 280,603 302,608 353,608 371,610 374,602 379,602 381,608 454,608 508,604 528,607 538,610 546,615 546,617 470,617 456,615 454,623 449,623 447,617 179,618" />
+				<Baseline points="179,618 546,617" />
+				<TextEquiv index="1">
+					<Unicode>Essem vel saevis durior ipse feris?</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l14" custom="readingOrder {index:14;}">
+				<Coords points="135,632 159,632 170,634 232,633 261,637 276,628 287,628 288,635 315,634 329,639 331,632 362,629 366,629 368,635 501,633 528,627 539,627 540,634 615,632 629,629 640,629 659,633 659,640 647,642 617,641 615,648 604,648 597,643 495,644 494,650 483,650 482,644 476,644 456,637 450,643 411,644 407,650 400,650 396,644 170,644 147,647 135,647" />
+				<Baseline points="135,644 659,642" />
+				<TextEquiv index="1">
+					<Unicode>Quis nostras damnet lacrymas? quis flere nepotes</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l15" custom="readingOrder {index:15;}">
+				<Coords points="179,654 184,654 187,661 199,659 276,659 324,660 343,662 346,654 351,654 353,660 423,658 507,659 507,669 261,670 245,668 242,676 231,676 229,670 179,670" />
+				<Baseline points="179,670 507,670" />
+				<TextEquiv index="1">
+					<Unicode>Intempestivum dixerit officium?</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l16" custom="readingOrder {index:16;}">
+				<Coords points="137,680 157,680 161,688 266,687 285,685 344,687 345,680 354,680 358,689 368,686 380,685 399,686 416,680 420,680 422,687 495,686 509,679 517,679 519,687 529,687 531,680 542,680 587,686 587,694 519,695 517,702 509,702 495,696 475,701 463,701 420,696 218,696 208,702 196,702 194,696 137,695" />
+				<Baseline points="137,696 587,694" />
+				<TextEquiv index="1">
+					<Unicode>Hoc ipsum natura docet: lex ipsa Jehovae</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l17" custom="readingOrder {index:17;}">
+				<Coords points="177,707 201,707 203,713 224,713 227,707 251,707 274,716 281,716 296,713 366,712 451,707 513,712 538,712 553,705 575,707 577,701 588,701 588,710 606,713 606,720 515,721 513,727 435,722 434,728 422,728 420,722 309,722 301,728 296,728 293,722 203,723 177,721" />
+				<Baseline points="177,721 606,719" />
+				<TextEquiv index="1">
+					<Unicode>Mandat: supremus comprobat ipse Deus.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l18" custom="readingOrder {index:18;}">
+				<Coords points="139,733 161,733 173,738 296,739 304,737 316,737 329,739 375,738 407,740 407,732 423,732 438,738 479,736 511,739 525,732 537,732 549,737 583,737 591,739 591,745 583,747 537,748 446,747 444,754 438,754 423,748 329,748 271,750 139,748" />
+				<Baseline points="139,748 591,745" />
+				<TextEquiv index="1">
+					<Unicode>Hinc ergo, gemitus imo de pectore ducens</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l19" custom="readingOrder {index:19;}">
+				<Coords points="177,758 189,758 205,759 218,765 269,763 281,766 296,759 301,759 302,765 434,765 471,763 593,763 606,765 606,772 532,774 517,779 459,774 457,780 445,780 439,773 400,774 398,780 392,780 378,774 346,774 341,780 334,780 333,774 177,774" />
+				<Baseline points="177,774 606,772" />
+				<TextEquiv index="1">
+					<Unicode>Te merito lacrymis prosequor ipse meis.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l20" custom="readingOrder {index:20;}">
+				<Coords points="137,784 165,784 186,785 207,790 226,791 227,785 239,785 240,791 284,784 297,784 297,791 456,791 458,784 471,784 488,784 490,790 530,788 608,788 608,799 209,800 207,806 186,806 181,806 165,799 137,799" />
+				<Baseline points="137,800 608,798" />
+				<TextEquiv index="1">
+					<Unicode>Tu siquidem fueras curarum dulce levamen:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l21" custom="readingOrder {index:21;}">
+				<Coords points="178,810 234,810 235,816 258,817 279,817 294,810 300,810 309,814 322,816 329,810 341,810 343,816 382,816 393,818 415,816 548,816 548,826 383,825 382,832 371,832 369,823 346,826 178,825" />
+				<Baseline points="178,826 548,826" />
+				<TextEquiv index="1">
+					<Unicode>Tu fueras studii spes animosa mei.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l22" custom="readingOrder {index:22;}">
+				<Coords points="138,836 149,836 156,842 198,843 235,837 292,839 315,843 338,843 342,850 362,838 367,838 380,842 412,842 433,840 486,842 492,840 505,840 547,842 549,836 560,836 580,841 586,839 599,839 605,842 618,844 618,854 580,857 567,857 516,852 466,854 412,852 138,851" />
+				<Baseline points="138,851 531,852 618,854" />
+				<TextEquiv index="1">
+					<Unicode>Tu mea lux fueras: fueras tu grata voluptas,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l23" custom="readingOrder {index:23;}">
+				<Coords points="180,863 194,863 207,868 215,862 226,862 228,868 329,866 407,869 523,868 542,871 542,863 553,863 575,868 575,878 434,878 363,883 348,875 329,878 298,878 297,884 285,884 282,876 264,878 180,878" />
+				<Baseline points="180,878 575,878" />
+				<TextEquiv index="1">
+					<Unicode>Audirem quoties promere nomen Avi.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l24" custom="readingOrder {index:24;}">
+				<Coords points="139,888 161,888 168,894 223,889 251,897 277,892 311,892 323,895 348,889 353,889 366,894 534,894 550,887 555,887 565,895 575,895 576,888 617,887 624,887 624,904 420,904 418,910 407,910 391,901 383,904 298,904 289,910 277,910 277,903 268,903 266,910 261,910 259,901 235,904 139,903" />
+				<Baseline points="139,903 624,904" />
+				<TextEquiv index="1">
+					<Unicode>Heu mihi speratae lucis quis munera reddet?</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l25" custom="readingOrder {index:25;}">
+				<Coords points="180,916 201,914 203,920 226,920 227,914 232,914 235,920 333,921 335,915 481,920 508,920 527,917 540,917 569,920 569,914 618,913 625,913 625,930 283,930 282,936 271,936 268,929 203,930 191,929 180,926" />
+				<Baseline points="180,930 625,930" />
+				<TextEquiv index="1">
+					<Unicode>Gaudia quis mihi nunc te moriente dabit?</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l26" custom="readingOrder {index:26;}">
+				<Coords points="140,939 145,939 173,939 183,946 193,946 218,941 315,946 324,949 329,954 345,942 360,942 369,946 457,946 474,944 504,946 511,940 523,940 530,946 552,944 601,946 601,940 613,940 615,946 649,946 649,961 538,956 445,956 445,962 439,962 415,957 369,955 326,958 324,952 315,956 268,956 263,962 255,962 254,956 140,955" />
+				<Baseline points="140,955 649,956" />
+				<TextEquiv index="1">
+					<Unicode>Desine lacrymulas, Ave mi, profundere; surdum,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l27" custom="readingOrder {index:27;}">
+				<Coords points="181,966 199,966 202,972 212,972 215,966 219,966 275,966 276,975 287,970 293,970 294,979 313,966 324,966 346,970 374,972 390,966 394,966 396,973 506,972 507,966 519,966 521,972 532,972 532,979 551,972 598,972 605,969 616,969 616,982 440,982 435,988 428,988 427,982 324,982 298,984 181,982" />
+				<Baseline points="181,981 616,982" />
+				<TextEquiv index="1">
+					<Unicode>Multa licet, fatum, lacryma nulla, movet.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l28" custom="readingOrder {index:28;}">
+				<Coords points="143,992 152,992 157,998 176,998 186,996 409,996 448,992 458,992 458,998 481,998 482,992 494,992 496,1000 527,992 539,992 547,999 560,999 561,992 566,992 567,998 590,999 590,1005 609,998 680,997 680,1006 659,1007 658,1013 645,1013 631,1007 594,1010 546,1007 328,1010 259,1007 257,1013 246,1013 244,1007 143,1007" />
+				<Baseline points="143,1007 680,1006" />
+				<TextEquiv index="1">
+					<Unicode>Frustra inquam gemitus tot fundis: desine, ne quo</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l29" custom="readingOrder {index:29;}">
+				<Coords points="184,1018 189,1018 193,1024 227,1021 257,1025 261,1018 270,1018 291,1018 291,1024 301,1024 308,1022 341,1024 356,1018 364,1018 364,1025 423,1024 424,1018 436,1018 436,1025 478,1025 493,1018 499,1018 516,1019 516,1025 536,1024 536,1033 478,1034 447,1034 383,1034 364,1034 279,1034 184,1033" />
+				<Baseline points="184,1033 536,1032" />
+				<TextEquiv index="1">
+					<Unicode>Luctu obluctari fors videare Deo.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l30" points="158,1051 171,1049 180,1049 206,1048 213,1048 275,1044 286,1044 300,1047 352,1047 371,1050 381,1053 395,1044 403,1044 404,1052 416,1050 473,1047 479,1047 505,1049 541,1049 582,1047 597,1047 606,1051 606,1060 598,1060 541,1059 494,1059 493,1065 481,1065 479,1059 456,1060 452,1060 416,1059 404,1057 403,1066 395,1066 373,1061 365,1060 344,1061 339,1061 300,1060 287,1060 213,1059 171,1059 158,1057" baseline="158,1059 380,1058 395,1058 531,1059 606,1060" reason: models differ | Wikisource: on etenim fato fatuo, Jova astque vocante | next_nc_e1: on etenim ſato fatuo, Jova astque vocante | german_print2_15: ſon etenim fato fatuo, Jova astque vocante -->
+			<TextLine id="r3l31" custom="readingOrder {index:31;}">
+				<Coords points="182,1070 194,1070 266,1070 283,1076 295,1074 563,1075 563,1085 452,1085 449,1091 444,1091 443,1083 430,1085 374,1085 266,1090 232,1090 230,1084 182,1084" />
+				<Baseline points="182,1084 563,1085" />
+				<TextEquiv index="1">
+					<Unicode>Surripuit vitam mors inopina meam.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l32" custom="readingOrder {index:32;}">
+				<Coords points="143,1097 159,1095 169,1095 190,1099 265,1101 276,1103 308,1101 327,1103 327,1096 339,1096 340,1102 345,1102 347,1108 365,1102 407,1100 444,1102 565,1101 579,1095 582,1095 591,1101 612,1101 613,1095 618,1095 620,1102 654,1100 654,1112 464,1111 464,1117 452,1117 450,1111 285,1112 276,1109 265,1109 265,1116 251,1116 244,1111 232,1116 220,1116 201,1105 190,1111 143,1111" />
+				<Baseline points="143,1111 654,1112" />
+				<TextEquiv index="1">
+					<Unicode>Ad te, quaeso, redi, mentemque resume virilem,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l33" custom="readingOrder {index:33;}">
+				<Coords points="183,1124 202,1122 232,1129 238,1127 246,1127 249,1121 278,1122 281,1128 406,1127 408,1121 418,1121 433,1127 538,1127 557,1122 569,1122 570,1129 579,1129 582,1120 589,1120 589,1137 389,1137 387,1143 375,1143 361,1135 353,1137 292,1138 205,1136 183,1134" />
+				<Baseline points="183,1136 299,1135 589,1137" />
+				<TextEquiv index="1">
+					<Unicode>Cor cohibe, curis quid cruciare malis?</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l34" custom="readingOrder {index:34;}">
+				<Coords points="142,1148 165,1148 189,1153 191,1147 202,1147 248,1147 249,1153 281,1153 292,1155 292,1148 304,1148 316,1153 372,1153 374,1147 380,1147 382,1153 427,1151 475,1153 475,1147 486,1147 494,1153 563,1153 576,1147 581,1147 603,1147 611,1150 640,1151 640,1162 486,1163 468,1168 456,1168 423,1163 154,1163 142,1161" />
+				<Baseline points="142,1163 640,1162" />
+				<TextEquiv index="1">
+					<Unicode>Omnibus in rebus modus est pulcerrima virtus:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l35" custom="readingOrder {index:35;}">
+				<Coords points="185,1173 218,1172 223,1172 225,1178 319,1179 319,1173 330,1173 333,1179 449,1179 489,1177 515,1180 576,1179 583,1172 601,1172 602,1178 637,1178 637,1188 352,1189 350,1195 345,1195 342,1189 256,1194 255,1188 185,1188" />
+				<Baseline points="185,1188 637,1188" />
+				<TextEquiv index="1">
+					<Unicode>Et lacrymis aliquem convenit esse modum.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l36" custom="readingOrder {index:36;}">
+				<Coords points="145,1199 209,1199 212,1205 262,1204 290,1206 322,1203 324,1212 342,1205 405,1204 423,1207 436,1199 448,1199 458,1204 476,1205 504,1202 575,1204 589,1198 597,1198 606,1204 615,1204 615,1198 629,1198 637,1203 637,1215 615,1215 597,1213 550,1214 549,1220 542,1220 517,1214 355,1214 354,1220 342,1220 316,1215 284,1213 145,1214" />
+				<Baseline points="145,1214 637,1212" />
+				<TextEquiv index="1">
+					<Unicode>Me tibi concessit, quamvis breve tempus Iova,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l37" custom="readingOrder {index:37;}">
+				<Coords points="184,1237 189,1225 206,1225 209,1231 236,1225 300,1228 319,1231 344,1230 351,1225 362,1225 363,1232 374,1230 465,1230 480,1224 492,1225 492,1232 503,1232 503,1224 515,1224 543,1230 560,1227 574,1227 586,1231 587,1237 606,1223 613,1223 659,1230 659,1239 591,1241 424,1240 424,1246 412,1246 385,1242 319,1240 308,1240 307,1246 302,1246 300,1240 184,1240" />
+				<Baseline points="184,1240 659,1238" />
+				<TextEquiv index="1">
+					<Unicode>Abstulit atque idem, quem dedit ante, Deus.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l38" custom="readingOrder {index:38;}">
+				<Coords points="145,1250 150,1250 153,1258 175,1256 266,1254 291,1256 298,1258 309,1255 330,1254 332,1263 351,1256 483,1256 502,1253 603,1255 604,1249 617,1249 617,1265 571,1265 551,1270 538,1270 502,1266 501,1272 494,1272 483,1267 426,1265 426,1271 414,1271 309,1266 294,1264 291,1272 281,1272 279,1266 269,1266 269,1272 266,1272 251,1265 223,1265 218,1258 197,1265 145,1265" />
+				<Baseline points="145,1265 617,1264" />
+				<TextEquiv index="1">
+					<Unicode>Is me jam repetit. cur ergo accepta graveris</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l39" custom="readingOrder {index:39;}">
+				<Coords points="186,1276 200,1276 225,1276 242,1276 263,1281 326,1282 441,1282 465,1279 517,1281 611,1277 611,1290 547,1291 547,1297 541,1297 527,1291 427,1294 383,1292 301,1297 289,1297 242,1291 186,1291" />
+				<Baseline points="186,1292 611,1290" />
+				<TextEquiv index="1">
+					<Unicode>Reddere, quae nemo jure tenere potest?</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l40" custom="readingOrder {index:40;}">
+				<Coords points="144,1304 155,1301 167,1301 175,1309 184,1309 185,1301 201,1301 215,1307 240,1302 283,1302 300,1307 335,1302 352,1302 354,1310 394,1305 420,1308 420,1302 501,1307 502,1301 508,1301 510,1307 598,1306 599,1300 616,1300 635,1301 641,1305 662,1301 674,1301 692,1305 692,1320 681,1320 674,1317 629,1320 588,1316 588,1322 574,1322 572,1316 534,1317 522,1322 510,1322 444,1317 380,1316 262,1318 155,1317 144,1313" />
+				<Baseline points="144,1317 692,1317" />
+				<TextEquiv index="1">
+					<Unicode>Crede mihi, haut fas est divos culpare quod ausint,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l41" custom="readingOrder {index:41;}">
+				<Coords points="186,1327 223,1327 225,1333 234,1333 237,1340 254,1333 382,1333 398,1327 410,1327 410,1333 434,1331 492,1334 493,1327 505,1327 506,1333 529,1332 529,1326 541,1326 542,1332 592,1332 600,1326 612,1326 612,1332 635,1330 635,1341 580,1341 573,1347 567,1347 552,1341 467,1342 465,1348 459,1348 445,1342 332,1348 321,1348 299,1340 266,1348 254,1348 237,1344 204,1341 186,1342" />
+				<Baseline points="186,1342 635,1341" />
+				<TextEquiv index="1">
+					<Unicode>Felix, qui superum facta probanda probat.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Sic equidem rebar, vitam dum fata sinebant,
+Me tecum plures vivere posse dies,
+Lenire atque tuos puerili voce labores,
+Quaerere et ingenua majus ab arte decus:
+In cujus fuerat vitaque morsque manu.
+Spes mea Christus erat: Christus mea vita: meum cor:
+Hic dederat vitam: sustulit hicce datam.
+Quare parce tuis lacrymis, Ave chare, tuasque
+etibus immodicis parce gravare genas.
+acuit Domino: cui contradicere nec fas,
+ec tutum: Domini sit quoque velle tuum.
+am, dilecte puer, puer optime, nonne
+Essem vel saevis durior ipse feris?
+Quis nostras damnet lacrymas? quis flere nepotes
+Intempestivum dixerit officium?
+Hoc ipsum natura docet: lex ipsa Jehovae
+Mandat: supremus comprobat ipse Deus.
+Hinc ergo, gemitus imo de pectore ducens
+Te merito lacrymis prosequor ipse meis.
+Tu siquidem fueras curarum dulce levamen:
+Tu fueras studii spes animosa mei.
+Tu mea lux fueras: fueras tu grata voluptas,
+Audirem quoties promere nomen Avi.
+Heu mihi speratae lucis quis munera reddet?
+Gaudia quis mihi nunc te moriente dabit?
+Desine lacrymulas, Ave mi, profundere; surdum,
+Multa licet, fatum, lacryma nulla, movet.
+Frustra inquam gemitus tot fundis: desine, ne quo
+Luctu obluctari fors videare Deo.
+Surripuit vitam mors inopina meam.
+Ad te, quaeso, redi, mentemque resume virilem,
+Cor cohibe, curis quid cruciare malis?
+Omnibus in rebus modus est pulcerrima virtus:
+Et lacrymis aliquem convenit esse modum.
+Me tibi concessit, quamvis breve tempus Iova,
+Abstulit atque idem, quem dedit ante, Deus.
+Is me jam repetit. cur ergo accepta graveris
+Reddere, quae nemo jure tenere potest?
+Crede mihi, haut fas est divos culpare quod ausint,
+Felix, qui superum facta probanda probat.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="394,1529 599,1529 599,1541 394,1541" />
+			<!-- line left out: id="r4l0" points="394,1529 401,1529 408,1531 424,1529 434,1529 443,1529 456,1529 469,1529 481,1529 494,1529 525,1529 542,1529 571,1530 599,1530 599,1538 571,1540 551,1540 481,1538 452,1541 443,1541 432,1541 414,1540 407,1540 394,1538" baseline="394,1538 599,1538" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnpdigital slub-dresden de ppnso
+ | german_print2_15: Gigital slub dresdenm de ppn013,
+ -->
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="14,0 1000,0 1000,1565 14,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Sic ubi sydereas mea mens concessit in oras,
+Occupat extemplo pallidus ora color.
+Sic equidem rebar, vitam dum fata sinebant,
+Me tecum plures vivere posse dies,
+Lenire atque tuos puerili voce labores,
+Quaerere et ingenua majus ab arte decus:
+Ast aliter superis visum, rerumque satori
+In cujus fuerat vitaque morsque manu.
+Spes mea Christus erat: Christus mea vita: meum cor:
+Hic dederat vitam: sustulit hicce datam.
+Quare parce tuis lacrymis, Ave chare, tuasque
+Fletibus immodicis parce gravare genas.
+Sic placuit Domino: cui contradicere nec fas,
+Nec tutum: Domini sit quoque velle tuum.
+A.Cur sileam, dilecte puer, puer optime, nonne
+Essem vel saevis durior ipse feris?
+Quis nostras damnet lacrymas? quis flere nepotes
+Intempestivum dixerit officium?
+Hoc ipsum natura docet: lex ipsa Jehovae
+Mandat: supremus comprobat ipse Deus.
+Hinc ergo, gemitus imo de pectore ducens
+Te merito lacrymis prosequor ipse meis.
+Tu siquidem fueras curarum dulce levamen:
+Tu fueras studii spes animosa mei.
+Tu mea lux fueras: fueras tu grata voluptas,
+Audirem quoties promere nomen Avi.
+Heu mihi speratae lucis quis munera reddet?
+Gaudia quis mihi nunc te moriente dabit?
+N.Desine lacrymulas, Ave mi, profundere; surdum,
+Multa licet, fatum, lacryma nulla, movet.
+Frustra inquam gemitus tot fundis: desine, ne quo
+Luctu obluctari fors videare Deo.
+Non etenim fato fatuo, Jova astque vocante
+Surripuit vitam mors inopina meam.
+Ad te, quaeso, redi, mentemque resume virilem,
+Cor cohibe, curis quid cruciare malis?
+Omnibus in rebus modus est pulcerrima virtus:
+Et lacrymis aliquem convenit esse modum.
+Me tibi concessit, quamvis breve tempus Iova,
+Abstulit atque idem, quem dedit ante, Deus.
+Is me jam repetit. cur ergo accepta graveris
+Reddere, quae nemo jure tenere potest?
+Crede mihi, haut fas est divos culpare quod ausint,
+Felix, qui superum facta probanda probat.
+-->
+	</Page>
+</PcGts>

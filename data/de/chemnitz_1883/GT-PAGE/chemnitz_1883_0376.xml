@@ -1,0 +1,420 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:08:02</Created>
+		<LastChange>2026-11-23T14:08:02</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/376 revision 5016025 of 2026-08-20T06:51:47Z, proofread level 3, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0376.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro11391126101579787608" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="15" regionRef="r15" />
+				<RegionRefIndexed index="16" regionRef="r16" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,351 14,351 14,1444 0,1444" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="502,152 637,152 637,168 502,168" />
+			<!-- line left out: id="r1l0" points="502,160 523,160 554,152 561,152 587,153 619,162 637,162 637,163 587,168 565,168 554,167 502,162" baseline="502,167 554,167 637,168" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 164 —
+ | german_print2_15: — 164 —
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="214,202 922,202 922,638 214,638" />
+			<!-- line left out: id="r2l0" points="216,202 223,202 251,202 258,203 259,209 294,209 295,203 307,203 314,210 327,210 329,204 338,204 338,217 359,205 399,205 421,205 421,211 440,211 510,207 522,207 523,213 533,213 533,207 545,207 546,215 559,214 593,214 635,215 637,209 647,209 686,209 711,210 711,216 722,216 725,210 735,210 805,211 805,217 817,212 829,212 866,212 910,214 920,219 920,229 905,229 805,228 777,227 772,227 742,226 735,225 722,226 686,226 661,226 612,225 546,224 481,223 469,222 376,221 340,222 336,222 307,220 295,220 259,219 216,218" baseline="216,218 458,221 772,226 876,228 920,229" reason: differs: "ubtin" against "ubt) in" | Wikisource:  | next_nc_e1: Helbersdorf, Walther von Schönau und Monhobit (Manhaubt in | german_print2_15: Helbersdorf, Walther von Schönau und Monhobit (Manhaubt in -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="216,228 223,228 270,229 277,235 291,230 297,230 308,235 308,229 331,228 333,228 373,230 373,236 399,231 420,231 433,232 440,237 480,236 486,233 497,233 525,239 544,234 582,235 589,237 640,235 650,241 690,241 708,235 719,235 720,242 736,243 753,236 767,236 767,242 822,243 854,241 896,246 896,239 908,239 910,245 921,245 921,255 834,255 823,255 790,253 525,254 508,248 399,248 216,244" />
+				<Baseline points="216,244 921,255" />
+				<TextEquiv index="1">
+					<Unicode>Höckericht. Zu Rabenstein gehörten ferner die Bauerngüter der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="217,254 223,254 260,254 274,254 275,261 282,261 299,255 333,256 335,262 380,260 387,257 452,257 456,263 472,258 482,258 483,266 491,266 494,260 500,260 501,272 524,259 593,260 595,266 606,261 617,261 629,266 630,274 652,261 674,261 681,267 692,267 693,261 711,261 713,269 764,263 779,263 780,269 838,264 855,264 856,271 920,270 920,282 878,285 866,285 861,279 844,279 844,285 838,285 809,281 724,280 705,277 538,275 494,277 482,273 472,273 470,279 456,279 456,273 434,278 427,278 398,273 217,270" />
+				<Baseline points="217,270 920,280" />
+				<TextEquiv index="1">
+					<Unicode>Dörfer Rabenstein (Lapis), Löbenhain, Kändler, Grüna, Siegmar,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="217,280 232,280 263,280 263,286 290,287 290,281 375,282 391,285 444,283 451,287 489,284 516,284 524,291 545,291 545,283 557,283 557,298 585,291 597,291 621,286 627,286 633,294 650,287 681,287 682,295 700,295 714,287 721,287 751,294 753,288 761,288 761,296 778,297 790,290 824,289 826,297 839,295 909,296 911,290 920,290 920,306 887,306 692,302 545,305 535,301 516,300 488,305 475,305 475,299 424,301 375,298 320,299 275,296 217,296" />
+				<Baseline points="217,296 920,306" />
+				<TextEquiv index="1">
+					<Unicode>Höckericht, Pleiſsa (Steinpliſsen), ein Teil des Dorfes Schönau und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="215,312 241,312 241,306 251,306 259,312 297,314 310,308 322,308 330,312 360,314 361,308 366,308 368,314 406,309 418,309 419,316 429,316 430,322 452,315 463,315 503,310 515,310 516,317 561,317 579,311 591,311 592,318 608,319 627,312 643,312 681,313 697,318 708,319 763,321 764,314 776,314 777,322 840,319 862,321 871,316 882,316 884,324 893,320 920,322 920,332 900,332 893,332 862,330 831,331 731,329 430,327 360,324 215,322" />
+				<Baseline points="215,322 579,326 920,332" />
+				<TextEquiv index="1">
+					<Unicode>mehrere Steinbrüche, von denen die Kalkbrüche die wertvollsten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="216,338 275,339 276,346 308,342 313,334 337,334 339,341 371,341 371,334 384,334 385,341 415,342 429,334 449,334 450,342 465,341 471,339 576,337 577,343 663,342 701,339 702,346 714,345 736,340 768,340 768,346 781,346 801,341 812,341 813,347 826,343 866,341 868,348 879,348 880,342 885,342 888,349 920,349 920,358 902,358 781,356 512,357 506,352 264,349 216,347" />
+				<Baseline points="216,347 920,358" />
+				<TextEquiv index="1">
+					<Unicode>waren. Alle diese Besitzungen kamen mit der Herrschaft Raben-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="216,365 225,361 298,365 313,359 324,359 331,365 357,360 380,360 389,367 402,364 430,366 430,373 455,361 463,361 465,367 523,368 524,362 534,362 544,368 579,363 581,369 617,364 639,364 640,372 672,365 684,365 685,372 747,371 759,366 770,366 777,370 858,367 859,375 901,371 913,371 922,374 922,384 915,384 759,382 726,380 721,384 701,384 694,379 625,380 465,377 463,383 455,383 434,376 225,374 216,372" />
+				<Baseline points="216,373 922,384" />
+				<TextEquiv index="1">
+					<Unicode>stein an das Kloster. Ja noch mehr: Die Obergerichte in Chemnitz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="215,391 236,390 252,385 258,385 259,391 304,391 321,385 333,385 341,392 356,392 371,386 391,386 400,392 424,391 436,393 436,386 448,386 462,390 519,394 520,388 531,388 548,394 560,394 585,389 597,389 598,397 642,390 663,390 664,397 675,396 687,391 710,391 712,397 722,397 724,391 741,391 742,398 775,399 776,392 787,392 789,398 817,394 829,394 849,399 855,393 868,393 870,406 891,393 902,393 910,400 921,400 921,409 874,411 870,411 855,409 801,408 495,404 391,401 341,402 215,399" />
+				<Baseline points="215,399 921,409" />
+				<TextEquiv index="1">
+					<Unicode>sowie in den Vorstädten und in dem Weichbilde der Stadt, der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="215,416 221,416 221,410 236,410 264,414 269,418 283,411 349,412 357,418 389,412 400,412 408,418 433,418 434,412 439,412 453,416 505,414 506,420 535,414 545,414 547,422 556,422 569,415 575,415 576,421 586,421 600,415 612,415 619,421 641,416 653,416 660,420 671,422 673,416 684,416 706,425 726,423 738,423 746,425 750,417 759,417 771,418 785,430 790,424 796,424 797,418 831,419 852,426 921,425 921,435 900,434 900,440 888,440 863,435 750,433 714,431 654,432 283,427 266,420 264,426 215,426" />
+				<Baseline points="215,426 379,427 921,435" />
+				<TextEquiv index="1">
+					<Unicode>dritte Teil der Gerichtseinkünfte in der Stadt sowohl als in einigen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="215,436 244,436 247,443 261,440 288,443 295,437 306,437 309,443 322,443 324,437 332,437 332,445 362,444 363,451 385,438 397,438 398,445 408,445 417,447 432,438 439,438 449,439 473,445 516,444 553,441 555,447 602,448 602,441 614,441 616,449 625,449 640,442 663,442 673,448 683,448 684,442 700,442 703,448 786,444 787,450 829,452 833,445 849,445 850,452 920,452 920,457 911,457 911,464 892,464 849,460 408,454 363,455 332,453 215,452" />
+				<Baseline points="215,452 920,461" />
+				<TextEquiv index="1">
+					<Unicode>Klosterdörfern, das Patronat über die Kirchen in den oben ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="215,468 256,468 264,466 276,466 293,469 308,463 313,463 314,470 358,470 364,464 375,464 375,470 392,470 395,464 414,465 428,470 428,464 439,464 439,470 467,471 481,465 509,467 532,466 533,473 558,473 559,480 577,467 588,467 590,473 625,471 637,474 659,474 673,468 685,468 686,476 714,475 723,469 763,469 782,470 783,476 796,474 804,470 815,470 823,476 895,478 897,471 908,471 910,477 920,477 920,487 897,487 763,485 723,486 637,483 620,486 451,480 215,478" />
+				<Baseline points="215,478 920,487" />
+				<TextEquiv index="1">
+					<Unicode>nannten herrschaftlichen Dörfern, die (vor dem Nikolaithore in der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="214,490 226,488 236,488 237,495 285,492 299,492 309,495 341,491 356,491 405,496 411,490 422,490 430,497 462,497 476,494 518,492 520,500 531,495 542,495 552,500 554,493 558,493 559,499 596,499 596,493 620,493 622,502 627,502 637,507 652,500 663,500 672,502 674,494 684,494 686,500 696,500 697,494 707,494 709,502 718,502 732,495 744,495 745,503 763,501 778,495 791,495 792,502 824,503 857,498 871,498 881,502 896,503 900,497 920,497 920,513 871,513 824,515 813,515 757,511 686,510 684,504 672,509 637,511 559,511 542,508 518,508 488,512 476,512 464,507 458,499 446,510 405,511 392,511 341,506 249,505 214,503" />
+				<Baseline points="214,504 920,513" />
+				<TextEquiv index="1">
+					<Unicode>Chemnitzer Aue gelegene) Reiſsigmühle, welche der Bürger Arnold</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="214,520 235,520 251,514 257,514 258,523 269,523 271,515 281,515 283,522 325,516 330,516 342,521 349,519 364,519 420,522 421,516 432,516 447,525 453,523 476,523 476,517 494,518 496,524 506,524 507,518 517,518 530,526 536,526 541,519 604,519 643,526 643,519 656,519 675,520 690,526 722,527 739,521 760,521 781,522 783,528 788,528 800,522 865,523 865,531 876,523 887,523 896,530 905,530 911,523 920,523 920,539 887,538 839,542 831,542 788,537 739,539 697,535 643,536 371,534 214,530" />
+				<Baseline points="214,530 920,539" />
+				<TextEquiv index="1">
+					<Unicode>zu Lehen hatte, und endlich ein Schutzgeld von jährlich 15 Schock</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="214,541 240,541 248,548 272,547 273,541 283,541 285,549 307,547 324,541 346,541 377,542 377,549 416,548 447,543 473,543 474,549 500,549 512,551 513,557 537,550 549,550 559,552 560,545 570,545 572,551 582,551 583,545 594,545 595,552 631,553 631,545 648,545 649,552 684,546 694,546 695,553 743,551 755,551 765,553 823,548 853,554 898,555 899,549 911,549 912,556 920,556 920,564 911,565 899,565 656,561 513,561 458,559 397,562 364,558 225,556 214,554" />
+				<Baseline points="214,555 920,565" />
+				<TextEquiv index="1">
+					<Unicode>Groschen Freiberger Münze, welche der Chemnitzer Abt an die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="215,567 239,567 252,572 261,573 350,568 390,568 391,574 412,575 423,572 447,574 525,576 532,574 547,574 554,577 566,571 578,571 585,574 630,577 660,577 667,572 677,572 680,578 696,573 732,572 748,579 783,579 784,586 805,580 842,580 842,574 853,574 861,580 920,578 920,590 853,590 732,593 660,593 654,593 653,587 215,582" />
+				<Baseline points="215,582 920,590" />
+				<TextEquiv index="1">
+					<Unicode>Herren von Rabenstein zu entrichten verpflichtet war, wurden mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="214,598 222,598 245,593 257,593 258,599 287,593 296,593 311,600 334,600 335,594 346,594 361,600 420,600 471,602 471,595 482,595 483,601 495,601 495,611 464,611 214,608" />
+				<Baseline points="214,608 495,611" />
+				<TextEquiv index="1">
+					<Unicode>verkauft und waren in der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l16" points="215,618 230,618 239,625 263,625 290,623 296,623 368,626 372,620 383,620 400,627 406,627 407,621 417,621 418,627 430,627 431,621 449,621 451,627 459,627 465,621 480,621 498,628 504,622 516,622 516,630 525,630 525,637 516,638 504,638 406,637 400,637 334,636 321,636 239,635 230,634 215,634" baseline="215,634 315,635 498,637 525,638" reason: differs: "Konv" against "gena" | Wikisource:  | next_nc_e1: Konvent erwarb dadurch die
+ | german_print2_15: Konvent erwarb dadurch die
+ -->
+			<TextEquiv index="1">
+				<Unicode>Höckericht. Zu Rabenstein gehörten ferner die Bauerngüter der
+Dörfer Rabenstein (Lapis), Löbenhain, Kändler, Grüna, Siegmar,
+Höckericht, Pleiſsa (Steinpliſsen), ein Teil des Dorfes Schönau und
+mehrere Steinbrüche, von denen die Kalkbrüche die wertvollsten
+waren. Alle diese Besitzungen kamen mit der Herrschaft Raben-
+stein an das Kloster. Ja noch mehr: Die Obergerichte in Chemnitz
+sowie in den Vorstädten und in dem Weichbilde der Stadt, der
+dritte Teil der Gerichtseinkünfte in der Stadt sowohl als in einigen
+Klosterdörfern, das Patronat über die Kirchen in den oben ge-
+nannten herrschaftlichen Dörfern, die (vor dem Nikolaithore in der
+Chemnitzer Aue gelegene) Reiſsigmühle, welche der Bürger Arnold
+zu Lehen hatte, und endlich ein Schutzgeld von jährlich 15 Schock
+Groschen Freiberger Münze, welche der Chemnitzer Abt an die
+Herren von Rabenstein zu entrichten verpflichtet war, wurden mit
+verkauft und waren in der</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="615,286 621,286 621,289 615,289" />
+		</GraphicRegion>
+		<GraphicRegion id="r4">
+			<Coords points="644,533 658,533 658,538 644,538" />
+		</GraphicRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="211,597 921,597 921,852 211,852" />
+			<!-- line left out: id="r5l0" points="540,605 546,602 557,602 582,600 588,600 611,603 624,597 639,597 641,603 651,603 658,600 669,598 681,598 682,604 705,604 755,600 758,600 779,600 781,606 786,606 819,603 830,600 842,600 844,606 854,606 863,600 893,600 908,602 920,606 920,616 865,620 808,620 797,620 797,614 779,615 758,620 755,620 740,614 670,614 658,614 588,613 570,613 540,612" baseline="540,612 739,614 920,616" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: nannten Kaufsumme inbegriffen. Der | german_print2_15: nannten Kaufsumme inbegriffen. Der -->
+			<!-- line left out: id="r5l1" points="559,631 567,629 584,626 589,626 638,624 643,624 645,630 669,630 687,632 689,624 706,624 707,633 715,633 728,625 750,625 759,633 773,629 779,629 802,632 802,625 804,625 846,626 848,632 860,630 872,630 888,632 889,626 900,626 901,634 912,627 921,627 921,642 900,642 846,642 831,642 779,641 773,641 750,640 734,641 728,641 706,640 669,640 582,643 567,643 559,637" baseline="559,638 668,639 921,642" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: ogtei über das Kloster. Natürlich | german_print2_15: ogtei über das Kloster. Natürlich -->
+			<TextLine id="r5l2" custom="readingOrder {index:2;}">
+				<Coords points="213,650 269,652 270,645 281,645 283,651 295,651 312,654 312,646 363,647 363,653 373,653 375,647 385,647 387,653 403,653 405,647 418,647 425,653 513,654 525,648 545,648 570,652 604,655 620,649 632,649 632,657 643,657 653,655 667,650 683,650 692,657 703,655 741,657 756,651 764,651 766,664 786,656 804,653 866,658 869,652 879,652 894,660 906,658 921,659 921,668 818,670 814,664 804,664 803,670 797,670 786,667 766,666 764,673 756,673 741,666 703,667 643,664 624,667 553,667 545,662 356,664 213,660" />
+				<Baseline points="213,660 921,668" />
+				<TextEquiv index="1">
+					<Unicode>war der Abt gehalten, einen Vogt zu bestellen; i. J. 1383 wird ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l3" custom="readingOrder {index:3;}">
+				<Coords points="214,671 242,671 242,677 276,672 291,672 300,678 467,677 469,686 501,674 531,674 557,675 558,682 651,682 652,676 666,676 681,683 687,676 699,676 707,683 720,683 757,677 778,677 780,683 804,680 822,683 843,682 850,684 915,685 921,688 921,690 881,698 865,698 843,694 757,693 704,690 570,691 467,689 405,694 387,694 367,688 241,692 241,685 214,686" />
+				<Baseline points="214,686 921,692" />
+				<TextEquiv index="1">
+					<Unicode>Vogt Hermann genannt. Ich komme auf diesen Kaufvertrag, so-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l4" custom="readingOrder {index:4;}">
+				<Coords points="213,702 253,700 315,704 315,698 328,698 328,705 363,699 396,699 397,705 407,705 408,699 419,699 433,702 516,700 518,708 528,706 553,706 566,704 624,707 625,701 636,701 653,709 660,701 671,701 671,708 685,708 699,702 727,703 774,709 782,703 804,703 822,710 828,703 839,703 841,711 853,711 867,705 889,704 921,712 921,718 882,720 839,719 774,722 764,722 717,718 540,717 456,715 435,709 433,715 213,712" />
+				<Baseline points="213,712 921,719" />
+				<TextEquiv index="1">
+					<Unicode>weit er die Gerichte zu Chemnitz und das Schutzgeld des Abtes</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l5" custom="readingOrder {index:5;}">
+				<Coords points="212,723 218,723 219,729 230,729 237,726 265,723 280,723 281,737 299,731 333,728 414,731 421,725 438,725 439,738 442,738 442,741 320,745 308,745 307,738 285,742 212,738" />
+				<Baseline points="212,738 299,738 442,741" />
+				<TextEquiv index="1">
+					<Unicode>betrifft, später zurück.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l6" custom="readingOrder {index:6;}">
+				<Coords points="265,758 269,750 292,750 294,757 304,757 317,750 329,750 351,750 351,758 367,758 379,751 395,751 397,757 410,755 436,757 456,751 467,751 467,757 500,757 500,751 502,751 534,757 540,752 552,752 553,760 561,760 574,753 627,753 628,760 676,760 690,754 702,754 703,760 713,760 722,763 736,754 758,754 760,761 771,761 781,758 793,758 810,761 810,754 812,754 855,756 857,762 867,762 881,756 893,756 894,764 905,762 920,762 920,772 893,772 855,772 841,772 552,767 397,767 379,766 364,760 362,766 265,766" />
+				<Baseline points="265,765 574,767 920,772" />
+				<TextEquiv index="1">
+					<Unicode>Alle diese Güter kamen als Allode an das Kloster. An dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l7" points="212,775 241,775 241,781 254,781 265,782 268,789 294,782 360,782 360,776 370,776 372,782 383,777 400,777 402,783 423,783 449,784 450,777 462,777 463,783 476,783 497,777 512,777 514,784 525,783 539,778 553,778 557,786 564,784 578,782 584,782 594,784 647,780 653,780 654,786 670,786 696,788 697,780 720,780 721,787 733,787 829,787 830,781 841,781 842,789 853,789 856,795 883,788 890,788 920,788 920,794 911,798 859,799 856,799 772,797 762,797 742,796 720,795 714,796 670,799 654,799 616,798 503,798 497,798 383,793 316,792 272,793 268,793 254,790 254,796 241,796 212,791" baseline="212,791 271,791 497,793 793,796 883,797 920,798" reason: differs: "de,ver" against "e, ⟦⟧ A" | Wikisource:  | next_nc_e1: Tage, an welchem der Kaufvertrag abgeschlossen wurde, ver- | german_print2_15: Tage, an welchem der Kaufvertrag abgeschlossen wurde, ver- -->
+			<!-- line left out: id="r5l8" points="212,807 220,804 230,801 236,801 238,807 255,802 267,802 274,805 287,804 293,804 330,810 340,808 356,808 357,802 368,802 392,803 398,808 409,809 419,803 441,803 442,809 455,809 456,803 467,803 473,809 491,809 493,803 518,803 518,809 524,809 532,803 544,803 558,811 564,811 565,804 576,804 577,811 596,807 607,805 619,805 650,805 650,811 657,811 704,812 718,812 757,813 806,813 807,807 812,807 863,808 872,815 881,815 883,808 895,808 912,808 914,818 920,818 920,820 912,824 901,824 863,823 856,824 845,824 795,823 657,824 637,824 607,821 587,819 576,820 544,825 532,825 505,822 409,819 380,819 351,818 316,818 293,818 274,818 268,818 250,817 220,817 218,823 212,823" baseline="212,817 330,817 656,820 920,823" reason: differs: "pfli" against "e, ⟦" | Wikisource:  | next_nc_e1: pflichteten sich die Verkäufer, ) die Güter, soweit sie nicht Allodial- | german_print2_15: pflichteten sich die Verkäufer,) die Güter, soweit sie nicht Allodial- -->
+			<TextLine id="r5l9" custom="readingOrder {index:9;}">
+				<Coords points="211,834 224,833 230,831 290,834 290,828 302,828 310,834 322,834 337,828 357,828 358,835 537,836 538,830 543,830 544,836 560,836 562,830 580,830 594,839 600,839 600,831 610,831 611,837 634,838 642,840 660,832 665,832 667,838 677,838 679,832 690,832 691,838 710,840 768,833 788,833 789,839 823,839 855,837 919,840 919,850 834,852 800,852 789,852 774,849 710,847 660,851 642,845 622,847 567,846 370,849 211,848" />
+				<Baseline points="211,843 919,850" />
+				<TextEquiv index="1">
+					<Unicode>güter oder Eigen waren, innerhalb eines Jahres zu Eigengütern zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>war der Abt gehalten, einen Vogt zu bestellen; i. J. 1383 wird ein
+Vogt Hermann genannt. Ich komme auf diesen Kaufvertrag, so-
+weit er die Gerichte zu Chemnitz und das Schutzgeld des Abtes
+betrifft, später zurück.
+Alle diese Güter kamen als Allode an das Kloster. An dem
+güter oder Eigen waren, innerhalb eines Jahres zu Eigengütern zu</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="510,602 536,602 536,616 510,616" />
+		</GraphicRegion>
+		<GraphicRegion id="r7">
+			<Coords points="553,623 556,623 556,624 553,624" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="543,623 797,623 797,638 543,638" />
+		</GraphicRegion>
+		<GraphicRegion id="r9">
+			<Coords points="721,806 734,806 734,826 721,826" />
+		</GraphicRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="205,854 919,854 919,1192 205,1192" />
+			<TextLine id="r10l0" custom="readingOrder {index:0;}">
+				<Coords points="211,859 248,854 258,854 259,860 318,860 319,854 336,854 355,855 364,861 390,858 399,855 410,855 411,861 422,861 422,855 434,855 435,862 466,861 491,856 542,856 544,862 563,858 586,857 594,863 604,863 606,857 616,857 641,865 655,858 660,858 661,864 704,864 705,858 716,858 747,859 761,867 767,859 778,859 780,865 814,865 852,862 862,866 863,860 868,860 870,866 881,866 882,860 892,860 900,867 919,866 919,875 820,875 814,878 803,878 780,875 629,873 594,874 586,872 211,869" />
+				<Baseline points="211,869 919,875" />
+				<TextEquiv index="1">
+					<Unicode>machen und sämtliche verkaufte Objekte innerhalb der gesetzlichen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l1" custom="readingOrder {index:1;}">
+				<Coords points="210,879 224,879 231,885 267,880 279,880 280,887 301,886 316,880 331,880 339,887 351,887 351,880 367,880 377,887 465,888 466,882 472,882 498,887 521,889 523,882 534,882 535,888 560,888 560,882 562,882 612,884 614,890 623,890 639,883 644,883 658,884 673,889 685,890 762,890 769,885 780,885 782,891 798,891 799,885 810,885 817,888 842,889 884,886 884,892 892,892 904,886 909,886 910,892 919,892 919,903 892,901 878,903 842,901 769,900 762,906 752,906 752,900 674,902 612,899 560,903 535,898 511,897 511,903 498,903 489,898 210,895" />
+				<Baseline points="210,895 919,901" />
+				<TextEquiv index="1">
+					<Unicode>Zeit den Käufern zu übergeben. Die Bürgen verpflichteten sich,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l2" custom="readingOrder {index:2;}">
+				<Coords points="210,905 222,905 229,906 229,912 239,912 255,906 319,906 319,912 347,913 364,906 377,906 377,914 396,915 411,907 434,907 454,911 499,915 524,914 569,909 581,909 594,914 640,915 647,909 652,909 653,916 690,917 710,910 741,910 743,919 771,917 813,917 827,923 832,917 875,912 886,912 901,917 916,918 916,927 677,927 629,925 499,924 488,928 476,928 434,923 336,927 298,922 210,921" />
+				<Baseline points="210,921 916,927" />
+				<TextEquiv index="1">
+					<Unicode>die Erfüllung des Vertrages zu überwachen, falls einer aus ihrer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l3" custom="readingOrder {index:3;}">
+				<Coords points="210,931 228,931 253,935 292,935 312,938 314,932 321,932 321,938 407,939 408,933 450,933 461,940 465,933 478,933 480,940 492,940 504,934 517,933 518,940 532,940 542,937 548,937 589,940 609,943 619,935 644,935 647,941 691,939 729,942 797,937 799,945 810,943 840,943 851,937 865,937 865,943 918,944 918,953 897,957 886,957 797,952 774,953 437,949 332,951 321,948 210,948" />
+				<Baseline points="210,948 461,948 918,953" />
+				<TextEquiv index="1">
+					<Unicode>Mitte sterbe, innerhalb der Frist eines Monats einen anderen Bürgen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l4" custom="readingOrder {index:4;}">
+				<Coords points="209,963 261,961 268,958 291,958 293,964 309,964 312,971 343,966 344,959 356,959 383,965 394,965 394,959 400,959 401,965 475,965 485,960 522,960 523,966 534,966 535,960 547,960 554,966 564,966 564,960 582,960 599,968 663,967 695,970 697,962 708,962 710,968 736,963 759,963 798,969 802,963 814,963 814,969 848,970 851,976 878,969 907,970 909,964 918,964 918,980 895,980 855,980 851,980 780,978 429,975 312,977 267,974 209,973" />
+				<Baseline points="209,973 854,978 918,980" />
+				<TextEquiv index="1">
+					<Unicode>zu stellen, der ebenso wohlhabend sei wie der Gestorbene, und,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l5" custom="readingOrder {index:5;}">
+				<Coords points="210,983 221,983 251,983 280,984 281,992 300,990 315,984 340,984 340,990 351,987 358,987 391,991 409,985 421,985 422,991 502,992 521,985 527,985 540,986 540,992 557,992 559,986 577,986 579,993 623,993 629,987 646,987 670,994 682,994 689,988 699,988 701,994 710,994 712,988 723,988 732,992 807,995 814,989 825,989 827,996 872,995 895,997 896,989 908,989 910,997 918,997 918,1005 827,1006 754,1004 682,1007 670,1007 612,1003 502,1002 379,1006 373,1001 210,1000" />
+				<Baseline points="210,999 918,1005" />
+				<TextEquiv index="1">
+					<Unicode>falls der Vertrag in einem Punkte nicht gehalten werde, in die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l6" custom="readingOrder {index:6;}">
+				<Coords points="208,1010 220,1010 228,1013 240,1010 252,1010 301,1010 302,1016 344,1011 357,1011 358,1017 444,1017 476,1015 534,1018 535,1012 546,1012 563,1020 596,1013 601,1013 613,1018 638,1019 715,1014 717,1020 815,1020 824,1023 826,1015 841,1015 843,1022 865,1021 866,1028 892,1016 897,1016 918,1024 918,1029 910,1031 870,1032 866,1032 803,1030 626,1030 572,1028 208,1025" />
+				<Baseline points="208,1025 918,1029" />
+				<TextEquiv index="1">
+					<Unicode>Stadt Chemnitz einzureiten und so lange in ihr zu verweilen, bis</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r10l7" points="207,1035 219,1035 227,1042 240,1042 259,1044 259,1036 309,1036 316,1041 327,1043 329,1036 337,1036 337,1042 350,1042 356,1043 368,1044 368,1037 380,1037 382,1043 395,1040 400,1040 440,1043 441,1050 453,1037 461,1037 467,1038 490,1051 495,1039 513,1039 524,1038 540,1038 554,1045 561,1038 573,1038 574,1045 584,1045 599,1039 620,1039 646,1039 652,1046 658,1045 670,1045 672,1039 685,1039 685,1045 712,1040 717,1040 744,1040 747,1047 760,1043 766,1043 792,1047 799,1041 808,1041 826,1041 841,1044 868,1047 890,1049 891,1041 896,1041 897,1047 907,1047 908,1041 917,1041 917,1057 896,1057 868,1059 858,1059 848,1057 808,1056 792,1059 780,1059 760,1056 744,1055 737,1056 712,1056 626,1055 620,1054 540,1054 467,1058 462,1058 461,1045 453,1045 446,1053 400,1053 380,1053 358,1053 316,1052 309,1051 289,1052 227,1052 207,1051" baseline="207,1051 304,1051 399,1052 712,1055 917,1057" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: der Abt befriedigt sei.²) Auch die Verkäufer selbst gelobten, sich | german_print2_15: der Abt befriedigt sei. ²) Auch die Verkäufer selbst gelobten, sich -->
+			<TextLine id="r10l8" custom="readingOrder {index:8;}">
+				<Coords points="208,1062 220,1062 225,1067 240,1061 251,1061 253,1068 307,1068 323,1062 354,1062 361,1063 362,1069 399,1068 419,1063 446,1063 454,1069 489,1070 490,1064 496,1064 547,1070 561,1064 595,1064 602,1065 603,1071 630,1070 630,1080 602,1080 564,1080 478,1080 208,1077" />
+				<Baseline points="208,1077 630,1080" />
+				<TextEquiv index="1">
+					<Unicode>in diesem Falle in Chemnitz zu stellen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r10l9" points="259,1089 274,1089 293,1094 295,1088 310,1088 324,1094 347,1094 349,1088 364,1088 371,1094 384,1094 385,1088 396,1088 397,1094 409,1089 455,1089 458,1095 474,1095 476,1089 484,1089 491,1097 503,1095 514,1095 575,1096 575,1090 585,1090 610,1094 629,1098 630,1091 641,1091 694,1091 717,1094 780,1098 787,1100 805,1092 817,1092 817,1099 828,1099 829,1092 840,1092 841,1099 853,1098 865,1096 871,1096 894,1098 896,1092 907,1092 908,1099 917,1099 917,1108 840,1108 787,1108 764,1108 717,1107 702,1107 694,1106 672,1107 666,1107 514,1106 503,1106 484,1105 371,1105 349,1105 259,1104" baseline="259,1103 666,1106 917,1108" reason: second model: differs: "ufsserh" against "uſserha" | Wikisource: Auch auſserhalb Meiſsens machte das Kloster eine bedeutende | next_nc_e1: Auch auſserhalb Meiſsens machte das Kloster eine bedeutende | german_print2_15: Auch aufſserhalb Meiſsens machte das Kloster eine bedeutende -->
+			<TextLine id="r10l10" custom="readingOrder {index:10;}">
+				<Coords points="206,1113 230,1113 231,1119 267,1120 268,1114 280,1114 281,1120 317,1120 317,1127 343,1115 362,1114 382,1114 382,1120 470,1122 470,1115 484,1115 484,1121 523,1115 536,1115 538,1123 559,1122 560,1116 571,1116 573,1123 584,1122 611,1116 632,1116 634,1122 706,1117 707,1123 730,1117 767,1118 768,1124 858,1124 877,1118 888,1118 889,1126 915,1125 915,1134 768,1134 648,1132 645,1138 634,1138 632,1132 498,1132 304,1135 267,1130 206,1129" />
+				<Baseline points="206,1129 915,1134" />
+				<TextEquiv index="1">
+					<Unicode>Erwerbung, indem es den Flecken Kopitz in Böhmen von dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r10l11" points="206,1139 221,1139 252,1143 264,1146 280,1140 297,1140 297,1146 341,1146 378,1146 405,1146 422,1140 428,1140 430,1147 497,1142 500,1142 509,1148 517,1148 518,1142 535,1142 535,1148 553,1148 556,1142 569,1142 577,1150 585,1150 593,1141 601,1141 652,1142 661,1149 671,1149 671,1142 687,1142 709,1149 720,1149 737,1147 749,1147 774,1150 797,1145 811,1145 819,1144 837,1144 843,1150 855,1150 855,1144 871,1144 871,1151 906,1150 915,1150 915,1160 871,1160 797,1160 779,1154 774,1159 749,1159 724,1159 652,1158 602,1158 601,1150 593,1150 585,1158 569,1158 500,1158 353,1161 342,1161 252,1156 237,1156 206,1155" baseline="206,1155 422,1156 709,1158 915,1160" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Ritter Gerung von Lome erkaufte. ³) Noch weitere Ankäufe in | german_print2_15: Ritter Gerung von Lome erkaufte. ²) Noch weitere Ankäufe in -->
+			<TextLine id="r10l12" custom="readingOrder {index:12;}">
+				<Coords points="205,1165 219,1165 238,1166 263,1171 286,1172 303,1166 308,1166 308,1172 323,1172 324,1166 329,1166 329,1172 342,1167 353,1167 365,1172 406,1167 418,1167 418,1173 434,1173 434,1167 447,1167 448,1173 479,1173 480,1167 524,1167 542,1174 661,1174 689,1177 691,1169 707,1169 708,1175 713,1175 714,1182 737,1169 749,1169 750,1176 759,1176 775,1170 791,1170 801,1177 833,1177 848,1170 881,1171 915,1176 915,1186 870,1186 861,1192 848,1192 718,1186 566,1184 555,1188 506,1189 499,1184 205,1181" />
+				<Baseline points="205,1181 915,1186" />
+				<TextEquiv index="1">
+					<Unicode>Böhmen scheinen beabsichtigt gewesen zu sein, da König Johann</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>machen und sämtliche verkaufte Objekte innerhalb der gesetzlichen
+Zeit den Käufern zu übergeben. Die Bürgen verpflichteten sich,
+die Erfüllung des Vertrages zu überwachen, falls einer aus ihrer
+Mitte sterbe, innerhalb der Frist eines Monats einen anderen Bürgen
+zu stellen, der ebenso wohlhabend sei wie der Gestorbene, und,
+falls der Vertrag in einem Punkte nicht gehalten werde, in die
+Stadt Chemnitz einzureiten und so lange in ihr zu verweilen, bis
+in diesem Falle in Chemnitz zu stellen.
+Erwerbung, indem es den Flecken Kopitz in Böhmen von dem
+Böhmen scheinen beabsichtigt gewesen zu sein, da König Johann</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="201,1232 585,1232 585,1343 201,1343" />
+			<!-- line left out: id="r11l0" points="257,1232 262,1232 316,1232 348,1233 380,1233 410,1233 441,1234 499,1237 499,1247 493,1251 468,1251 434,1248 425,1248 349,1247 316,1246 291,1246 269,1250 262,1250 257,1240" baseline="257,1245 281,1245 499,1247" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ¹) Urkundenbuch Nr. 372.
+ | german_print2_15: ¹) Urkundenbuch Nr. 372.
+ -->
+			<!-- line left out: id="r11l1" points="255,1257 286,1257 295,1258 333,1258 340,1264 350,1264 377,1260 415,1260 460,1260 460,1262 458,1262 441,1274 407,1274 324,1276 286,1276 261,1276 255,1276" baseline="255,1271 377,1272 460,1273" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ²)Vergl. von Gerber, S
+ | german_print2_15: ²) Vergl. von Gerber, S.
+ -->
+			<!-- line left out: id="r11l2" points="258,1283 268,1283 290,1284 315,1284 347,1285 379,1286 389,1290 399,1285 409,1285 442,1286 485,1289 489,1297 508,1290 516,1289 540,1289 551,1301 554,1289 585,1289 585,1301 578,1303 551,1303 533,1302 478,1302 467,1303 458,1303 357,1299 348,1299 290,1298 268,1299 258,1299" baseline="258,1299 280,1298 491,1299 585,1300" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ) Urkundenbuch Nr. 351, 352, 355, | german_print2_15: ²) Urkundenbuch Nr. 351, 352, 355, -->
+			<!-- line left out: id="r11l3" points="201,1303 224,1303 232,1309 243,1304 254,1304 282,1305 311,1305 326,1309 391,1306 401,1306 449,1307 450,1313 460,1311 466,1310 471,1310 486,1311 506,1307 522,1307 569,1312 577,1313 577,1315 569,1320 551,1320 486,1320 401,1320 391,1320 326,1319 300,1319 282,1318 254,1318 242,1322 224,1322 211,1322 211,1316 201,1316" baseline="201,1316 276,1317 577,1320" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Kopiti bereits seit den Zeiten K. Frie | german_print2_15: Kopitz bereits seit den Zeiten K. Frie- -->
+			<!-- line left out: id="r11l4" points="201,1324 232,1324 258,1328 270,1327 275,1327 281,1326 284,1326 284,1341 268,1342 260,1342 249,1341 232,1337 232,1343 218,1343 218,1337 210,1337 207,1343 201,1343" baseline="201,1337 284,1337" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: (Nr. 356).
+ | german_print2_15: (Nr. 356).
+ -->
+		</TextRegion>
+		<GraphicRegion id="r12">
+			<Coords points="451,1261 479,1261 479,1274 451,1274" />
+		</GraphicRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="481,1259 909,1259 909,1279 481,1279" />
+			<!-- line left out: id="r13l0" points="481,1263 487,1263 528,1265 528,1259 543,1259 544,1267 559,1266 564,1260 580,1260 596,1263 612,1267 615,1260 620,1260 657,1261 664,1262 685,1265 692,1263 703,1263 719,1266 728,1267 731,1260 736,1260 748,1264 790,1265 791,1272 808,1272 808,1262 817,1262 835,1261 840,1261 846,1273 858,1265 870,1265 870,1273 884,1266 905,1266 909,1268 909,1273 907,1273 900,1279 895,1279 884,1278 849,1276 790,1279 781,1279 760,1276 749,1276 703,1274 669,1274 657,1274 612,1274 596,1274 585,1274 543,1273 481,1273" baseline="481,1273 652,1273 909,1273" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: tem des deutschen Privatrechts, 13. Aufl., S. 446.
+ | german_print2_15: tem des deutschen Privatrechts, 13. Aufl., S. 446.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r14">
+			<Coords points="845,1293 868,1293 868,1301 845,1301" />
+		</GraphicRegion>
+		<TextRegion id="r15" custom="readingOrder {index:15;} orientation {0;}">
+			<Coords points="600,1287 908,1287 908,1303 600,1303" />
+			<!-- line left out: id="r15l0" points="600,1290 618,1289 623,1289 665,1288 674,1288 675,1298 703,1287 722,1287 724,1293 733,1293 734,1287 744,1287 753,1293 760,1293 761,1287 775,1287 786,1292 802,1288 812,1288 818,1293 825,1294 829,1288 837,1288 850,1295 855,1288 874,1288 887,1294 900,1292 908,1292 908,1301 892,1301 884,1300 874,1301 837,1301 786,1301 761,1301 750,1300 652,1303 647,1303 617,1301 607,1302 600,1302" baseline="600,1301 677,1300 703,1300 850,1301 908,1302" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 356, 468. Wahrscheinlich gehörte
+ | german_print2_15: 356, 468. Wahrscheinlich gehörte
+ -->
+		</TextRegion>
+		<TextRegion id="r16" custom="readingOrder {index:16;} orientation {0;}">
+			<Coords points="570,1307 913,1307 913,1323 570,1323" />
+			<!-- line left out: id="r16l0" points="570,1313 578,1313 579,1307 589,1307 619,1307 624,1312 631,1314 648,1308 661,1308 663,1318 681,1307 697,1307 750,1308 780,1313 792,1312 802,1312 804,1319 813,1316 823,1314 845,1309 872,1309 875,1315 879,1315 887,1312 891,1312 907,1314 911,1321 913,1321 913,1323 911,1323 903,1322 887,1321 879,1320 872,1322 823,1322 715,1321 667,1321 648,1321 624,1320 570,1320" baseline="570,1320 681,1320 845,1322 913,1323" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: edrichs II. dem Chemnitzer Kloster.
+ | german_print2_15: ledrichs II. dem Chemnitzer Kloster.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r17">
+			<Coords points="598,1301 600,1301 600,1303 598,1303" />
+		</GraphicRegion>
+		<GraphicRegion id="r18">
+			<Coords points="0,0 1000,0 1000,148 0,148" />
+		</GraphicRegion>
+		<SeparatorRegion id="r19">
+			<Coords points="969,353 979,353 979,753 969,753" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r20">
+			<Coords points="969,353 979,353 979,753 969,753" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r21">
+			<Coords points="969,353 979,353 979,753 969,753" />
+		</SeparatorRegion>
+		<GraphicRegion id="r22">
+			<Coords points="0,1514 1000,1514 1000,1564 0,1564" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Helbersdorf, Walther von Schönau und Monhobit (Manhaubt) in
+Höckericht. Zu Rabenstein gehörten ferner die Bauerngüter der
+Dörfer Rabenstein (Lapis), Löbenhain, Kändler, Grüna, Siegmar,
+Höckericht, Pleißa (Steinplißen), ein Teil des Dorfes Schönau und
+mehrere Steinbrüche, von denen die Kalkbrüche die wertvollsten
+waren. Alle diese Besitzungen kamen mit der Herrschaft
+Rabenstein an das Kloster. Ja noch mehr: Die Obergerichte in Chemnitz
+sowie in den Vorstädten und in dem Weichbilde der Stadt, der
+dritte Teil der Gerichtseinkünfte in der Stadt sowohl als in einigen
+Klosterdörfern, das Patronat über die Kirchen in den oben
+genannten herrschaftlichen Dörfern, die (vor dem Nikolaithore in der
+Chemnitzer Aue gelegene) Reißigmühle, welche der Bürger Arnold
+zu Lehen hatte, und endlich ein Schutzgeld von jährlich 15 Schock
+Groschen Freiberger Münze, welche der Chemnitzer Abt an die
+Herren von Rabenstein zu entrichten verpflichtet war, wurden mit
+verkauft und waren in der genannten Kaufsumme inbegriffen. Der
+Konvent erwarb dadurch die Vogtei über das Kloster. Natürlich
+war der Abt gehalten, einen Vogt zu bestellen; i. J. 1383 wird ein
+Vogt Hermann genannt. Ich komme auf diesen Kaufvertrag,
+soweit er die Gerichte zu Chemnitz und das Schutzgeld des Abtes
+betrifft, später zurück.
+Alle diese Güter kamen als Allode an das Kloster. An dem
+Tage, an welchem der Kaufvertrag abgeschlossen wurde,
+verpflichteten sich die Verkäufer,⟦⟧ die Güter, soweit sie nicht
+Allodialgüter oder Eigen waren, innerhalb eines Jahres zu Eigengütern zu
+machen und sämtliche verkaufte Objekte innerhalb der gesetzlichen
+Zeit den Käufern zu übergeben. Die Bürgen verpflichteten sich,
+die Erfüllung des Vertrages zu überwachen, falls einer aus ihrer
+Mitte sterbe, innerhalb der Frist eines Monats einen anderen Bürgen
+zu stellen, der ebenso wohlhabend sei wie der Gestorbene, und,
+falls der Vertrag in einem Punkte nicht gehalten werde, in die
+Stadt Chemnitz einzureiten und so lange in ihr zu verweilen, bis
+der Abt befriedigt sei.⟦⟧ Auch die Verkäufer selbst gelobten, sich
+in diesem Falle in Chemnitz zu stellen.
+Auch außerhalb Meißens machte das Kloster eine bedeutende
+Erwerbung, indem es den Flecken Kopitz in Böhmen von dem
+Ritter Gerung von Lome erkaufte.⟦⟧ Noch weitere Ankäufe in
+Böhmen scheinen beabsichtigt gewesen zu sein, da König Johann
+-->
+	</Page>
+</PcGts>

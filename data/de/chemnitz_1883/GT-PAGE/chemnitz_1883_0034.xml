@@ -1,0 +1,387 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:46:19</Created>
+		<LastChange>2026-11-23T13:46:19</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/34 revision 4939819 of 2026-07-08T06:56:08Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0034.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro5174255994910803295" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="539,156 562,156 562,172 539,172" />
+			<!-- line left out: id="r0l0" points="539,156 551,156 562,157 562,172 539,172" baseline="539,172 562,172" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 24
+ | german_print2_15: 24
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="210,207 901,207 901,1353 210,1353" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="223,207 234,207 235,215 256,213 271,207 294,207 311,208 327,214 378,209 379,215 389,215 404,209 415,209 416,217 435,216 449,210 488,212 520,217 541,218 541,210 598,214 646,214 648,220 661,220 672,222 672,214 698,214 708,221 766,222 780,230 785,218 797,217 820,217 821,226 854,226 861,218 872,218 881,224 900,225 900,234 881,234 808,232 797,222 794,232 615,228 528,229 415,225 223,222" />
+				<Baseline points="223,222 630,228 900,234" />
+				<TextEquiv index="1">
+					<Unicode>den Tod nur in der Dichtung. Dem Griechen war Alles schön,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="223,238 262,233 269,233 270,240 286,240 287,233 300,233 300,240 361,240 423,236 464,236 465,243 475,243 476,249 507,239 529,238 536,244 554,244 569,238 574,238 576,244 617,242 640,243 713,241 722,247 771,248 785,242 797,242 797,249 855,244 887,244 890,252 900,252 900,257 887,259 862,259 757,256 735,257 617,255 529,252 452,252 223,248" />
+				<Baseline points="223,248 900,259" />
+				<TextEquiv index="1">
+					<Unicode>im Leben wie im Tode. Gern benutzte er Hermes beim Grab-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="222,266 230,266 231,258 247,258 248,264 291,265 292,259 344,261 346,268 379,267 379,261 391,261 393,267 408,267 426,261 440,261 441,268 453,268 454,262 466,262 468,271 477,266 504,270 517,264 527,264 528,272 547,270 566,264 577,264 578,272 634,271 641,265 652,265 654,271 687,272 689,266 699,266 707,272 716,267 744,267 746,274 806,269 808,275 820,272 860,275 887,270 889,276 900,276 900,284 887,285 868,285 863,285 466,277 426,279 393,277 260,275 231,274 222,272" />
+				<Baseline points="222,272 900,285" />
+				<TextEquiv index="1">
+					<Unicode>schmuck als den Vollstrecker des unabänderlichen Götterrath-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l3" points="222,291 231,291 238,284 247,284 267,285 268,291 282,291 291,293 299,292 302,292 316,293 355,286 369,286 376,292 410,287 436,287 436,293 451,288 455,288 458,294 469,294 470,288 480,288 489,287 503,287 503,297 530,289 534,289 555,296 559,296 630,295 635,291 646,291 648,298 658,298 661,291 665,291 667,300 678,296 682,296 725,299 732,293 737,293 739,300 766,299 776,299 808,302 810,294 820,294 828,300 857,295 867,295 874,301 880,295 891,295 893,302 900,302 900,310 861,310 828,310 810,309 716,308 682,307 604,311 570,311 569,303 559,305 530,305 503,304 436,304 413,304 410,304 355,302 300,301 282,301 268,301 238,300 231,299 222,297" baseline="222,299 530,304 603,305 780,308 900,310" reason: differs: "hesEisp" against "es Beis" | Wikisource:  | next_nc_e1: schlusses. Ein herrliches E ispiel findet sich in der Villa | german_print2_15: schlusses. Ein herrliches E ispiel findet sich in der Villa -->
+			<!-- line left out: id="r1l4" points="222,311 258,311 258,317 287,317 306,311 317,311 318,319 330,318 352,312 366,312 367,319 380,318 397,318 399,326 431,313 437,313 437,319 451,319 501,321 522,322 531,323 544,322 567,316 578,316 589,317 591,324 640,323 663,323 673,325 685,324 689,324 708,324 753,325 766,326 768,319 779,319 786,325 804,325 846,322 857,321 862,321 864,327 877,327 877,321 888,321 891,328 901,328 901,333 888,336 864,336 826,335 804,335 794,335 742,334 732,334 689,333 685,333 673,331 663,332 640,332 544,331 522,329 501,333 481,333 431,329 380,328 366,327 287,327 269,327 258,327 222,326" baseline="222,325 352,327 546,330 846,335 901,336" reason: differs: "Alba" against "Vill" | Wikisource:  | next_nc_e1: Albani bei Rom. Ein grosser The unserer modernen Grab- | german_print2_15: Albani bei Rom. Ein grosser The unserer modernen Grab- -->
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="221,336 233,336 234,343 256,343 259,337 269,337 270,343 300,343 302,337 314,337 315,343 328,338 346,338 347,344 442,343 455,347 457,340 467,340 497,347 527,346 580,348 630,344 651,349 667,351 675,344 679,344 691,349 707,352 713,344 723,344 725,353 746,351 767,345 804,345 807,352 901,352 901,362 840,363 830,363 723,359 651,358 625,360 580,357 509,357 437,355 427,352 382,358 371,358 347,354 221,352" />
+				<Baseline points="221,351 901,362" />
+				<TextEquiv index="1">
+					<Unicode>denkmalbildungen steht mit jenen griechischen Bildungen in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="222,362 243,362 244,368 255,368 257,362 268,362 275,368 343,364 343,370 352,370 352,379 298,384 293,384 292,378 222,377" />
+				<Baseline points="222,377 352,379" />
+				<TextEquiv index="1">
+					<Unicode>Widerspruch.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="275,389 280,389 296,390 298,396 307,396 322,389 337,389 362,391 407,391 407,399 415,399 422,391 427,391 445,392 449,399 492,398 537,394 540,401 597,394 618,394 619,402 655,401 663,395 675,395 677,401 682,401 695,396 705,396 707,404 719,402 746,404 748,396 758,396 766,403 784,396 796,396 821,397 823,403 845,403 876,407 878,398 888,398 896,404 898,404 898,413 855,414 847,414 471,407 462,405 445,407 402,407 275,404" />
+				<Baseline points="275,404 898,413" />
+				<TextEquiv index="1">
+					<Unicode>Die Römer schlossen sich im Wesentlichen der Bildung der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="221,416 232,414 237,414 239,420 270,421 276,415 281,415 283,421 361,421 388,424 389,416 406,416 408,423 473,424 475,418 488,418 489,426 501,419 511,419 513,426 550,419 561,419 563,427 575,426 588,421 598,421 600,428 640,427 645,433 651,427 708,427 739,423 792,422 803,422 811,431 820,427 831,427 847,424 871,429 883,424 888,424 890,431 900,431 900,439 871,439 861,439 851,437 782,438 563,435 522,433 344,432 239,430 221,427" />
+				<Baseline points="221,429 900,439" />
+				<TextEquiv index="1">
+					<Unicode>Griechen an; der römische Glaube war eine Art Unsterblich-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="222,440 233,440 241,446 258,444 280,447 282,441 292,441 300,447 312,442 324,442 325,448 335,448 339,455 364,448 419,449 437,447 461,449 469,452 488,445 492,445 495,451 515,450 665,453 688,447 711,447 719,453 740,454 757,461 786,448 791,448 801,454 898,456 898,464 859,464 852,466 836,466 616,461 609,463 599,463 566,461 461,459 404,461 311,457 280,461 268,461 258,456 222,456" />
+				<Baseline points="222,455 898,465" />
+				<TextEquiv index="1">
+					<Unicode>keitsglaube, wenigstens bei einer grossen Menge. Ein grosser</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l10" points="222,466 240,466 242,472 255,467 259,467 261,474 273,473 287,472 293,472 307,468 316,468 338,475 347,474 371,473 377,473 419,469 426,469 440,471 481,476 491,471 503,471 505,477 515,477 522,480 545,471 549,471 558,479 570,472 575,472 578,479 594,478 603,478 666,477 678,477 738,474 742,474 745,481 773,480 798,479 807,479 839,481 853,480 856,480 883,481 891,480 900,480 900,490 839,490 807,490 770,490 761,490 683,488 650,488 647,488 594,487 549,486 515,486 491,486 419,485 393,484 379,483 370,489 358,489 358,483 347,483 338,481 305,488 294,488 286,481 259,482 230,482 222,481" baseline="222,481 315,482 545,486 649,487 806,489 873,490 900,491" reason: differs: "benrSee" against "en der " | Wikisource:  | next_nc_e1: Philosoph sagte: Das wahre Leben r Seele beginnt erst mit | german_print2_15: Philosoph sagte: Das wahre Leben r Seele beginnt erst mit -->
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="220,492 231,492 232,499 260,498 284,501 284,494 294,494 307,499 354,498 365,494 386,501 409,501 417,503 438,495 457,495 458,502 478,502 498,496 511,496 512,505 524,501 560,503 560,496 562,496 627,499 627,509 640,504 665,503 715,505 723,503 733,503 759,508 761,500 772,500 773,508 858,507 870,502 880,502 881,509 901,508 901,511 886,516 804,516 458,512 220,507" />
+				<Baseline points="220,508 901,517" />
+				<TextEquiv index="1">
+					<Unicode>dem Austritte aus dem Leben. Bekannt sind die römischen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l12" custom="readingOrder {index:12;}">
+				<Coords points="219,521 231,518 245,518 264,519 275,524 287,525 290,519 300,519 307,525 399,522 461,522 464,528 474,530 481,522 491,522 493,530 524,525 535,525 584,532 584,525 598,525 606,537 635,525 639,525 650,527 681,528 707,531 726,530 744,532 769,532 797,530 806,531 808,538 820,533 868,533 901,538 901,542 879,544 870,544 659,539 423,537 307,540 290,535 231,534 219,531" />
+				<Baseline points="219,533 901,542" />
+				<TextEquiv index="1">
+					<Unicode>Grabanlagen an öffentlichen Strassen. Die Grabinschriften zeigen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l13" custom="readingOrder {index:13;}">
+				<Coords points="219,544 231,544 232,551 254,551 265,545 287,545 288,551 327,553 327,546 338,546 339,552 391,553 412,547 439,547 441,554 450,554 457,548 462,548 469,556 482,556 490,548 494,548 496,554 524,555 529,549 539,549 541,555 620,556 634,559 642,551 652,551 654,559 675,557 684,551 705,551 709,558 717,558 720,551 744,551 745,558 788,558 789,552 822,552 823,561 835,553 846,553 847,561 858,559 864,553 881,553 882,562 893,559 901,559 901,568 881,568 822,568 810,568 620,565 565,566 219,559" />
+				<Baseline points="219,558 348,562 412,562 573,566 674,565 901,568" />
+				<TextEquiv index="1">
+					<Unicode>den Wunsch, eine Wechselwirkung zwischen Todten und Lebenden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l14" custom="readingOrder {index:14;}">
+				<Coords points="220,570 231,570 239,576 274,577 289,575 302,578 304,571 315,571 317,579 339,578 342,570 344,570 388,573 400,578 411,579 413,573 422,573 445,580 488,582 490,574 501,574 508,580 536,576 558,576 581,581 605,582 612,584 617,577 637,576 645,583 684,580 684,586 696,578 721,577 732,577 733,586 745,583 811,585 833,584 866,586 868,579 877,579 879,585 898,585 898,594 851,594 823,594 786,594 778,594 732,592 617,592 605,590 536,592 220,585" />
+				<Baseline points="220,585 898,594" />
+				<TextEquiv index="1">
+					<Unicode>herzustellen. Auch in der lebensvollen Schilderung römischer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l15" custom="readingOrder {index:15;}">
+				<Coords points="218,596 231,596 231,602 253,597 264,597 271,603 285,598 294,598 297,604 350,600 422,600 432,608 448,604 456,600 466,600 467,608 498,608 501,601 511,601 512,607 525,607 540,601 545,601 615,608 624,601 626,601 666,603 667,609 688,609 700,611 700,603 726,603 733,609 759,604 772,604 773,611 853,607 877,612 879,605 888,605 898,611 898,619 826,620 666,618 626,622 615,622 598,622 568,617 422,614 353,614 335,618 271,618 264,612 218,611" />
+				<Baseline points="218,611 470,615 898,619" />
+				<TextEquiv index="1">
+					<Unicode>Sarkophage trifft Goethe das Richtige. Zwischen Rom und der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l16" custom="readingOrder {index:16;}">
+				<Coords points="220,622 234,622 242,628 340,630 358,624 362,624 365,630 398,628 457,633 473,626 477,626 479,632 513,633 538,631 585,633 622,628 635,628 636,637 654,633 663,628 747,630 761,633 770,630 781,630 783,638 795,636 811,636 826,638 833,631 843,631 844,639 869,630 882,630 884,639 900,640 900,642 882,645 700,644 597,648 562,648 551,648 550,642 515,640 513,647 502,647 381,645 358,640 220,638" />
+				<Baseline points="220,638 900,646" />
+				<TextEquiv index="1">
+					<Unicode>Renaissance liegt eine lange Spanne Zeit. Die italienische Re-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l17" custom="readingOrder {index:17;}">
+				<Coords points="219,654 346,656 347,650 358,650 359,656 372,652 403,651 404,657 415,657 423,659 437,653 448,652 463,652 464,659 474,659 476,653 487,653 509,658 539,659 555,667 559,654 572,653 583,653 591,660 635,660 707,655 711,663 730,662 731,655 744,655 747,661 768,656 770,662 792,662 796,669 816,658 819,658 831,664 853,662 860,656 865,656 867,662 898,662 898,671 882,673 867,673 853,671 796,672 751,670 704,672 415,666 219,664" />
+				<Baseline points="219,664 898,671" />
+				<TextEquiv index="1">
+					<Unicode>naissance schuf das Grab zum Altar um, in festlicher, freudiger</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l18" custom="readingOrder {index:18;}">
+				<Coords points="219,674 225,674 270,675 282,678 322,675 324,682 340,683 355,676 383,676 383,682 401,677 406,677 437,684 443,677 454,677 456,685 468,685 487,678 503,678 506,685 515,685 517,679 528,679 530,686 559,684 592,684 651,687 653,681 663,681 665,687 670,687 694,686 714,680 744,680 752,681 754,687 885,688 901,695 901,697 881,690 880,697 788,699 744,699 731,699 646,696 287,692 219,690" />
+				<Baseline points="219,690 901,697" />
+				<TextEquiv index="1">
+					<Unicode>Pracht; die Wucht des Todes trat in ihren Bildungen zurück.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l19" custom="readingOrder {index:19;}">
+				<Coords points="220,700 225,700 319,702 320,710 357,708 359,702 375,702 386,709 393,703 404,703 406,709 527,709 551,713 561,707 575,707 578,715 602,714 610,706 620,706 622,715 646,712 718,713 720,707 730,707 734,715 750,713 766,707 778,707 779,715 797,717 806,708 823,708 832,714 841,714 869,709 880,709 881,717 892,714 900,714 900,723 766,723 742,721 681,725 665,725 622,722 527,720 493,725 481,725 476,720 460,719 220,716" />
+				<Baseline points="220,716 900,723" />
+				<TextEquiv index="1">
+					<Unicode>Der Antike und ihren resignirten Anschauungen über des Menschen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l20" points="220,726 233,726 233,733 244,733 245,727 257,727 257,733 306,733 318,734 319,728 365,728 365,734 379,729 395,729 409,735 414,735 431,736 433,730 449,730 469,734 491,739 491,732 505,732 522,732 547,737 584,737 603,738 619,740 641,737 655,737 662,739 673,740 685,737 697,737 708,739 714,740 728,733 745,733 748,739 760,734 770,734 772,740 790,738 809,735 818,735 841,740 841,752 827,752 760,749 714,748 673,750 664,750 634,748 603,747 589,749 584,750 578,750 537,747 505,746 469,746 457,746 449,745 409,745 307,744 270,743 220,742" baseline="220,742 329,743 468,745 521,746 841,749" reason: models differ | Wikisource: Leben und Ende nähert sich am grossartigsten Michel Ang | next_nc_e1: Leben und Ende nähert sich am grossartigsten Michel Ang | german_print2_15: Leben und Ende nähert sich am grossartigsten Michel Ang- -->
+			<TextLine id="r1l21" custom="readingOrder {index:21;}">
+				<Coords points="217,760 294,754 320,754 320,760 331,760 331,754 343,754 344,762 418,762 420,756 436,756 438,762 466,762 466,754 468,754 524,759 538,763 551,772 556,759 572,759 585,762 595,758 605,758 606,766 651,765 653,759 669,759 687,765 694,759 698,759 700,765 730,765 747,759 763,759 780,764 811,766 858,765 899,767 899,776 880,776 711,774 466,774 456,772 386,774 378,771 366,770 237,769 226,768 217,765" />
+				<Baseline points="217,768 899,776" />
+				<TextEquiv index="1">
+					<Unicode>seinen Mediceergräbern. Der Antike und ihrer Naturverehrung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l22" custom="readingOrder {index:22;}">
+				<Coords points="217,785 240,785 241,779 247,779 248,785 274,783 303,785 352,781 353,788 388,787 412,782 424,782 425,789 458,784 472,784 491,788 552,790 554,784 565,784 574,789 607,785 623,785 626,791 644,792 646,786 657,786 681,794 682,785 693,785 695,792 743,791 748,793 775,792 809,794 812,786 822,786 830,790 846,790 857,794 869,792 900,792 900,801 505,801 493,799 217,794" />
+				<Baseline points="217,794 900,802" />
+				<TextEquiv index="1">
+					<Unicode>näherten sich in der Anlage ihrer Grabmale unsere deutschen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l23" custom="readingOrder {index:23;}">
+				<Coords points="219,805 239,805 241,811 255,811 256,805 268,805 281,806 301,811 319,812 322,805 324,805 383,809 444,808 446,814 494,814 502,809 515,809 516,815 610,816 617,810 627,810 629,817 663,815 674,810 712,811 713,818 723,818 732,820 762,812 824,812 828,820 844,818 872,820 874,812 884,812 892,818 900,818 900,827 723,827 674,831 672,831 661,827 610,831 596,831 589,825 575,825 573,818 550,825 434,824 429,811 423,822 398,823 268,822 219,819" />
+				<Baseline points="219,821 900,827" />
+				<TextEquiv index="1">
+					<Unicode>Vorfahren. Das Christenthum verpflanzte das Grab bei den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l24" custom="readingOrder {index:24;}">
+				<Coords points="218,831 240,831 240,837 315,838 338,840 340,833 351,833 352,840 431,840 434,834 444,834 475,841 491,835 505,835 506,841 552,842 580,845 582,836 592,836 595,842 622,837 643,837 646,843 658,845 665,837 675,837 677,846 689,846 689,837 726,837 767,845 773,838 784,838 791,844 797,842 841,844 868,838 882,838 884,847 899,848 899,850 882,854 868,854 376,852 351,849 218,846" />
+				<Baseline points="218,846 899,854" />
+				<TextEquiv index="1">
+					<Unicode>Freien in die geweihten Räume der Kirche. Die deutsche Re-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l25" custom="readingOrder {index:25;}">
+				<Coords points="217,863 309,865 330,859 334,859 363,859 373,859 393,867 399,873 424,872 430,861 448,861 450,868 499,862 525,867 554,868 592,868 601,863 617,863 618,870 671,869 688,863 696,863 703,871 712,864 720,864 733,869 791,864 791,871 832,870 834,864 844,864 845,877 870,864 881,864 888,870 900,870 900,879 820,879 802,882 786,882 696,878 592,878 521,880 441,876 330,877 288,874 265,874 256,872 217,872" />
+				<Baseline points="217,872 900,880" />
+				<TextEquiv index="1">
+					<Unicode>naissance bildete, allen übrigen modernen Völkern gleich, das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l26" custom="readingOrder {index:26;}">
+				<Coords points="215,885 226,883 242,883 302,885 320,896 326,891 344,891 357,893 379,886 403,886 404,893 415,893 416,886 427,886 442,898 448,887 459,887 462,893 599,893 630,895 638,889 649,889 651,897 671,895 688,889 693,889 702,895 712,895 715,889 719,889 722,895 743,896 745,889 756,889 764,896 780,896 783,890 799,894 861,894 869,896 899,896 899,905 848,905 756,905 740,905 392,902 383,900 345,902 226,899 215,897" />
+				<Baseline points="215,899 899,905" />
+				<TextEquiv index="1">
+					<Unicode>Grabmal aus, blieb aber seiner nationalen Individualität getreu.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l27" custom="readingOrder {index:27;}">
+				<Coords points="217,909 223,909 283,915 322,911 324,917 335,917 336,911 347,911 349,917 358,912 369,912 370,918 400,918 401,912 411,912 414,918 459,913 461,919 520,913 546,921 569,920 575,922 582,915 591,915 614,921 705,921 742,916 780,916 782,922 798,922 805,916 816,916 818,924 830,922 848,922 873,927 876,916 885,916 887,922 899,922 899,930 683,931 324,927 322,933 314,933 217,925" />
+				<Baseline points="217,925 899,931" />
+				<TextEquiv index="1">
+					<Unicode>Das 14. Jahrhundert betonte auch in seinen Grabmälern das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l28" custom="readingOrder {index:28;}">
+				<Coords points="217,936 222,936 226,943 236,943 238,936 255,936 255,943 326,943 327,937 337,937 364,938 365,944 393,944 407,938 429,938 432,945 442,945 443,939 453,939 473,945 490,945 491,939 507,939 537,942 549,946 575,945 587,948 601,941 612,941 614,947 643,941 666,941 668,947 678,947 686,941 690,941 729,942 737,948 749,948 769,942 774,942 780,950 797,949 798,942 810,942 816,950 827,950 827,957 810,957 774,957 769,957 729,957 653,957 643,957 217,951" />
+				<Baseline points="217,951 827,957" />
+				<TextEquiv index="1">
+					<Unicode>Leben nach dem Tode und feierte die Macht des Todes.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l29" custom="readingOrder {index:29;}">
+				<Coords points="267,963 279,963 302,963 308,969 320,969 321,963 333,963 365,969 378,970 379,964 421,964 424,971 436,965 447,965 449,973 471,971 495,966 520,966 529,972 581,971 633,973 643,979 649,974 661,970 771,975 785,974 802,968 815,968 816,976 827,974 854,973 898,975 898,986 885,986 267,978" />
+				<Baseline points="267,978 898,984" />
+				<TextEquiv index="1">
+					<Unicode>Schädel und Todtenembleme traten auf; in inniger Beziehung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l30" custom="readingOrder {index:30;}">
+				<Coords points="215,988 226,988 228,994 274,995 312,989 323,989 329,995 374,997 376,989 388,989 389,997 398,997 437,991 460,991 469,997 492,995 527,998 533,993 557,993 560,999 570,999 572,993 589,993 591,999 625,1000 680,999 703,993 714,993 735,1000 757,999 783,994 796,994 797,1000 821,999 837,1003 845,994 853,994 869,1001 897,999 897,1010 853,1010 845,1010 748,1008 625,1010 440,1010 437,1010 346,1006 215,1004" />
+				<Baseline points="215,1004 897,1009" />
+				<TextEquiv index="1">
+					<Unicode>hierzu stehen die Todtentanzabbildungen, z. B. von Lübeck mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l31" custom="readingOrder {index:31;}">
+				<Coords points="215,1014 226,1014 228,1020 285,1015 308,1021 329,1021 329,1015 341,1015 342,1022 363,1022 376,1016 390,1016 398,1022 443,1023 445,1030 470,1018 520,1018 534,1025 541,1018 552,1018 553,1026 611,1026 613,1019 623,1019 631,1025 661,1023 686,1019 699,1019 700,1027 718,1024 756,1026 758,1020 769,1020 797,1027 804,1020 815,1020 823,1027 845,1027 857,1020 861,1020 876,1021 898,1030 898,1032 889,1035 876,1036 866,1036 215,1030" />
+				<Baseline points="215,1030 898,1035" />
+				<TextEquiv index="1">
+					<Unicode>humoristischen Versen. Auch die modernste Zeit nahm diese Dar-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l32" custom="readingOrder {index:32;}">
+				<Coords points="214,1047 223,1043 230,1043 242,1047 243,1041 254,1041 280,1046 366,1048 368,1042 378,1042 380,1048 392,1048 406,1054 411,1048 424,1048 432,1043 442,1043 455,1049 542,1050 557,1047 585,1050 593,1045 607,1045 614,1049 637,1051 648,1045 694,1046 695,1053 707,1046 745,1052 746,1046 778,1046 785,1051 827,1052 843,1052 844,1046 855,1046 857,1052 877,1052 877,1061 827,1064 787,1061 785,1067 780,1067 778,1057 757,1061 585,1061 515,1064 508,1060 500,1058 432,1060 327,1056 293,1062 280,1062 280,1056 223,1056 214,1054" />
+				<Baseline points="214,1055 877,1062" />
+				<TextEquiv index="1">
+					<Unicode>stellungen wieder auf, am ergreifendsten Rethel und Spangenber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l33" custom="readingOrder {index:33;}">
+				<Coords points="215,1067 225,1066 235,1066 238,1072 273,1073 274,1066 286,1066 287,1073 303,1073 316,1067 323,1067 356,1068 401,1074 429,1075 430,1069 442,1069 477,1077 493,1070 506,1070 508,1076 519,1076 519,1070 530,1070 532,1076 559,1077 582,1071 618,1071 618,1077 652,1075 663,1071 783,1072 786,1079 798,1078 824,1072 829,1072 830,1078 839,1078 843,1072 863,1072 863,1087 839,1088 830,1088 519,1086 493,1085 477,1079 472,1084 465,1085 215,1081" />
+				<Baseline points="215,1081 493,1085 863,1087" />
+				<TextEquiv index="1">
+					<Unicode>Von den Dichtern citirte Redner Klaus Groth und Leuthold</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l34" custom="readingOrder {index:34;}">
+				<Coords points="213,1098 220,1093 231,1093 263,1098 318,1099 330,1101 331,1094 346,1094 346,1100 367,1100 368,1094 379,1094 380,1100 416,1095 428,1095 436,1101 468,1101 468,1095 479,1095 479,1101 513,1102 513,1111 434,1116 429,1116 428,1110 361,1111 297,1115 297,1109 213,1108" />
+				<Baseline points="213,1108 513,1111" />
+				<TextEquiv index="1">
+					<Unicode>ihren ergreifenden Sprüchen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l35" points="267,1120 282,1119 288,1119 289,1125 304,1125 310,1119 321,1119 321,1125 336,1125 358,1126 360,1120 371,1120 378,1126 400,1126 400,1120 417,1120 445,1121 445,1129 456,1129 457,1121 472,1121 490,1122 513,1122 516,1129 533,1122 545,1122 546,1129 556,1129 564,1130 574,1122 596,1122 598,1129 608,1129 610,1122 622,1122 622,1129 635,1129 636,1136 655,1123 666,1123 667,1130 679,1129 701,1124 711,1124 717,1130 729,1129 748,1129 784,1129 807,1130 809,1137 829,1130 848,1130 886,1131 886,1139 848,1139 807,1141 797,1141 773,1139 757,1137 748,1138 734,1139 729,1139 683,1138 666,1138 639,1139 636,1139 622,1138 585,1138 574,1138 556,1136 545,1137 533,1137 516,1131 513,1137 480,1137 478,1143 472,1143 472,1137 445,1137 304,1136 281,1135 267,1135" baseline="267,1135 432,1136 886,1139" reason: models differ | Wikisource: Abschreckende Beispiele des Todes, der Verwesung, wie si | next_nc_e1: Abschreckende Beispiele des Todes, der Verwesung, wie si | german_print2_15: Abschreckende Beispiele des Todes, der Verwesung, wie si- -->
+			<TextLine id="r1l36" custom="readingOrder {index:36;}">
+				<Coords points="213,1144 236,1144 258,1144 271,1145 273,1151 287,1151 288,1145 298,1145 299,1151 310,1146 320,1146 334,1152 340,1152 340,1146 353,1146 354,1152 433,1153 439,1147 474,1147 481,1153 503,1148 532,1148 535,1154 628,1154 653,1153 663,1149 672,1149 674,1155 705,1155 717,1149 732,1149 742,1155 817,1156 819,1150 830,1150 831,1156 848,1156 854,1150 865,1150 868,1158 880,1156 896,1156 896,1166 796,1168 776,1170 764,1170 732,1165 222,1162 213,1160" />
+				<Baseline points="213,1160 896,1166" />
+				<TextEquiv index="1">
+					<Unicode>Frankreich überaus zahlreich bei seinen stolzen Königsgrabmälern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l37" custom="readingOrder {index:37;}">
+				<Coords points="212,1176 246,1171 259,1171 291,1171 307,1172 323,1177 338,1178 370,1176 385,1178 420,1179 421,1173 426,1173 426,1179 439,1176 451,1176 453,1187 472,1173 477,1173 478,1179 517,1177 551,1173 596,1178 625,1174 636,1174 637,1181 660,1181 661,1175 672,1175 686,1181 715,1181 716,1175 721,1175 758,1181 769,1181 802,1176 837,1176 843,1182 847,1182 856,1176 867,1176 870,1183 877,1183 877,1191 867,1192 847,1192 812,1192 490,1189 453,1190 212,1186" />
+				<Baseline points="212,1186 791,1190 877,1192" />
+				<TextEquiv index="1">
+					<Unicode>zu St. Denis etc. schuf, besitzt Deutschland nicht; im Gegenthe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l38" custom="readingOrder {index:38;}">
+				<Coords points="212,1202 223,1197 247,1197 248,1203 278,1203 315,1198 332,1198 334,1205 364,1206 365,1198 376,1198 377,1205 413,1205 414,1199 426,1199 427,1205 437,1202 450,1202 471,1205 472,1199 483,1199 484,1207 520,1203 530,1200 545,1200 546,1206 557,1206 558,1200 570,1200 570,1206 593,1206 593,1200 605,1200 607,1207 625,1206 651,1208 652,1201 663,1201 665,1207 673,1207 692,1201 697,1201 713,1202 726,1208 790,1207 829,1214 834,1208 853,1206 868,1202 878,1202 879,1210 893,1208 893,1217 796,1217 758,1217 713,1217 673,1217 665,1217 212,1212" />
+				<Baseline points="212,1212 893,1217" />
+				<TextEquiv index="1">
+					<Unicode>nähern sich die deutschen Grabmäler der Renaissance antiker</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l39" custom="readingOrder {index:39;}">
+				<Coords points="212,1222 227,1222 234,1228 261,1223 272,1223 284,1228 334,1230 334,1237 378,1225 390,1225 391,1232 402,1230 419,1230 491,1233 491,1226 504,1226 505,1233 515,1233 535,1226 555,1226 563,1232 609,1227 621,1227 622,1233 647,1233 647,1226 660,1226 660,1233 707,1234 728,1227 764,1227 766,1235 777,1231 782,1231 814,1241 820,1234 890,1234 890,1243 820,1244 515,1241 334,1245 321,1245 321,1239 212,1237" />
+				<Baseline points="212,1237 890,1243" />
+				<TextEquiv index="1">
+					<Unicode>Anschauung, indem sie die Verstorbenen so bildete „wie sie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l40" custom="readingOrder {index:40;}">
+				<Coords points="211,1253 282,1252 283,1261 316,1249 333,1249 334,1255 355,1250 367,1250 369,1256 423,1257 458,1252 492,1252 498,1257 513,1259 519,1252 545,1257 548,1251 560,1251 569,1258 628,1258 629,1252 667,1252 700,1253 702,1260 757,1258 765,1253 776,1253 777,1261 798,1259 838,1263 846,1254 850,1254 853,1260 895,1260 895,1269 447,1267 424,1261 423,1270 406,1270 357,1265 322,1270 316,1270 283,1264 282,1257 271,1257 270,1264 227,1264 211,1262" />
+				<Baseline points="211,1263 895,1269" />
+				<TextEquiv index="1">
+					<Unicode>waren“. Tiefsinnige Grabschriften und Bilder finden sich zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l41" custom="readingOrder {index:41;}">
+				<Coords points="211,1274 225,1274 244,1274 271,1281 273,1274 284,1274 285,1287 302,1275 351,1275 352,1281 417,1284 422,1289 438,1283 449,1283 454,1290 485,1278 501,1278 533,1285 539,1285 540,1277 552,1277 553,1284 563,1282 597,1284 598,1278 609,1278 610,1287 634,1278 654,1278 657,1285 670,1279 700,1279 700,1286 708,1286 714,1279 719,1279 720,1285 732,1282 742,1282 796,1287 798,1279 810,1279 811,1288 843,1286 865,1280 883,1280 890,1290 894,1290 894,1291 883,1294 870,1295 810,1295 798,1295 643,1293 501,1294 211,1290" />
+				<Baseline points="211,1289 894,1295" />
+				<TextEquiv index="1">
+					<Unicode>Lübeck, Gotha u. s. w. Das deutsche Volk schuf in dieser Be-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l42" points="210,1306 219,1306 220,1300 233,1300 250,1300 250,1306 274,1306 285,1307 299,1300 313,1300 313,1306 346,1301 358,1301 359,1307 370,1307 372,1301 376,1301 377,1308 390,1307 399,1307 461,1304 473,1304 494,1308 502,1304 513,1304 514,1311 540,1310 552,1309 559,1304 575,1304 616,1304 617,1310 632,1309 638,1309 686,1310 693,1305 708,1305 722,1313 728,1304 740,1304 741,1313 765,1309 776,1305 792,1305 794,1311 808,1311 818,1310 832,1310 837,1312 847,1306 854,1306 854,1321 837,1321 808,1321 781,1321 771,1319 740,1320 638,1320 285,1321 274,1321 233,1317 220,1317 210,1316" baseline="210,1316 765,1320 854,1321" reason: second model: differs: "tuss" against "tusfigu" | Wikisource: ziehung Parallelen zur Antike und führte auch die Christusfi | next_nc_e1: ziehung Parallelen zur Antike und führte auch die Christusfi | german_print2_15: ziehung Parallelen zur Antike und führte auch die Christusſ -->
+			<TextLine id="r1l43" custom="readingOrder {index:43;}">
+				<Coords points="211,1332 233,1334 233,1327 261,1327 263,1333 328,1333 358,1335 358,1327 369,1327 370,1334 380,1334 405,1328 436,1328 454,1332 464,1329 473,1329 495,1338 501,1338 501,1329 515,1329 515,1337 526,1337 548,1329 624,1330 632,1334 653,1336 700,1336 701,1330 706,1330 707,1336 743,1336 744,1330 785,1331 787,1337 811,1331 817,1331 817,1337 834,1338 835,1332 847,1331 887,1331 894,1335 894,1348 887,1353 876,1353 876,1347 823,1347 823,1353 811,1353 791,1347 501,1346 211,1341" />
+				<Baseline points="211,1341 894,1347" />
+				<TextEquiv index="1">
+					<Unicode>welche nur die Asketik des Mittelalters schrecklich gebildet,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>den Tod nur in der Dichtung. Dem Griechen war Alles schön,
+im Leben wie im Tode. Gern benutzte er Hermes beim Grab-
+schmuck als den Vollstrecker des unabänderlichen Götterrath-
+denkmalbildungen steht mit jenen griechischen Bildungen in
+Widerspruch.
+Die Römer schlossen sich im Wesentlichen der Bildung der
+Griechen an; der römische Glaube war eine Art Unsterblich-
+keitsglaube, wenigstens bei einer grossen Menge. Ein grosser
+dem Austritte aus dem Leben. Bekannt sind die römischen
+Grabanlagen an öffentlichen Strassen. Die Grabinschriften zeigen
+den Wunsch, eine Wechselwirkung zwischen Todten und Lebenden
+herzustellen. Auch in der lebensvollen Schilderung römischer
+Sarkophage trifft Goethe das Richtige. Zwischen Rom und der
+Renaissance liegt eine lange Spanne Zeit. Die italienische Re-
+naissance schuf das Grab zum Altar um, in festlicher, freudiger
+Pracht; die Wucht des Todes trat in ihren Bildungen zurück.
+Der Antike und ihren resignirten Anschauungen über des Menschen
+seinen Mediceergräbern. Der Antike und ihrer Naturverehrung
+näherten sich in der Anlage ihrer Grabmale unsere deutschen
+Vorfahren. Das Christenthum verpflanzte das Grab bei den
+Freien in die geweihten Räume der Kirche. Die deutsche Re-
+naissance bildete, allen übrigen modernen Völkern gleich, das
+Grabmal aus, blieb aber seiner nationalen Individualität getreu.
+Das 14. Jahrhundert betonte auch in seinen Grabmälern das
+Leben nach dem Tode und feierte die Macht des Todes.
+Schädel und Todtenembleme traten auf; in inniger Beziehung
+hierzu stehen die Todtentanzabbildungen, z. B. von Lübeck mit
+humoristischen Versen. Auch die modernste Zeit nahm diese Dar-
+stellungen wieder auf, am ergreifendsten Rethel und Spangenber
+Von den Dichtern citirte Redner Klaus Groth und Leuthold
+ihren ergreifenden Sprüchen.
+Frankreich überaus zahlreich bei seinen stolzen Königsgrabmälern
+zu St. Denis etc. schuf, besitzt Deutschland nicht; im Gegenthe
+nähern sich die deutschen Grabmäler der Renaissance antiker
+Anschauung, indem sie die Verstorbenen so bildete „wie sie
+waren“. Tiefsinnige Grabschriften und Bilder finden sich zu
+Lübeck, Gotha u. s. w. Das deutsche Volk schuf in dieser Be-
+welche nur die Asketik des Mittelalters schrecklich gebildet,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r2">
+			<Coords points="0,0 984,0 984,1564 0,1564" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+den Tod nur in der Dichtung. Dem Griechen war Alles schön,
+im Leben wie im Tode. Gern benutzte er Hermes beim
+Grabschmuck als den Vollstrecker des unabänderlichen
+Götterrathschlusses. Ein herrliches Beispiel findet sich in der Villa
+Albani bei Rom. Ein grosser Theil unserer modernen
+Grabdenkmalbildungen steht mit jenen griechischen Bildungen in
+Widerspruch.
+Die Römer schlossen sich im Wesentlichen der Bildung der
+Griechen an; der römische Glaube war eine Art
+Unsterblichkeitsglaube, wenigstens bei einer grossen Menge. Ein grosser
+Philosoph sagte: Das wahre Leben der Seele beginnt erst mit
+dem Austritte aus dem Leben. Bekannt sind die römischen
+Grabanlagen an öffentlichen Strassen. Die Grabinschriften zeigen
+den Wunsch, eine Wechselwirkung zwischen Todten und Lebenden
+herzustellen. Auch in der lebensvollen Schilderung römischer
+Sarkophage trifft Goethe das Richtige. Zwischen Rom und der
+Renaissance liegt eine lange Spanne Zeit. Die italienische
+Renaissance schuf das Grab zum Altar um, in festlicher, freudiger
+Pracht; die Wucht des Todes trat in ihren Bildungen zurück.
+Der Antike und ihren resignirten Anschauungen über des Menschen
+Leben und Ende nähert sich am grossartigsten Michel Angelo in
+seinen Mediceergräbern. Der Antike und ihrer Naturverehrung
+näherten sich in der Anlage ihrer Grabmale unsere deutschen
+Vorfahren. Das Christenthum verpflanzte das Grab bei den
+Freien in die geweihten Räume der Kirche. Die deutsche
+Renaissance bildete, allen übrigen modernen Völkern gleich, das
+Grabmal aus, blieb aber seiner nationalen Individualität getreu.
+Das 14. Jahrhundert betonte auch in seinen Grabmälern das
+Leben nach dem Tode und feierte die Macht des Todes.
+Schädel und Todtenembleme traten auf; in inniger Beziehung
+hierzu stehen die Todtentanzabbildungen, z. B. von Lübeck mit
+humoristischen Versen. Auch die modernste Zeit nahm diese
+Darstellungen wieder auf, am ergreifendsten Rethel und Spangenberg.
+Von den Dichtern citirte Redner Klaus Groth und Leuthold in
+ihren ergreifenden Sprüchen.
+Abschreckende Beispiele des Todes, der Verwesung, wie sie
+Frankreich überaus zahlreich bei seinen stolzen Königsgrabmälern
+zu St. Denis etc. schuf, besitzt Deutschland nicht; im Gegentheil
+nähern sich die deutschen Grabmäler der Renaissance antiker
+Anschauung, indem sie die Verstorbenen so bildete „wie sie
+waren“. Tiefsinnige Grabschriften und Bilder finden sich zu
+Lübeck, Gotha u. s. w. Das deutsche Volk schuf in dieser
+Beziehung Parallelen zur Antike und führte auch die Christusfigur,
+welche nur die Asketik des Mittelalters schrecklich gebildet,
+-->
+	</Page>
+</PcGts>

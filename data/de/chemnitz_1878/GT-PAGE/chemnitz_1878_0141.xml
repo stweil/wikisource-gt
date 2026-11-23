@@ -1,0 +1,390 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:24:44</Created>
+		<LastChange>2026-11-23T14:24:44</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/141 revision 4786455 of 2026-01-09T09:13:24Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0141.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro9069718595534831189" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="32,1212 43,1212 43,1524 32,1524" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="400,164 426,164 426,180 400,180" />
+			<!-- line left out: id="r1l0" points="400,164 426,164 426,178 418,180 407,180 400,175" baseline="400,180 426,178" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 133
+ | german_print2_15: 133
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="58,205 774,205 774,417 58,417" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="58,225 86,224 109,218 114,218 127,223 128,217 139,217 141,223 149,223 150,216 162,216 162,222 179,222 179,216 242,214 250,214 250,220 269,220 271,214 282,214 283,222 295,219 335,219 337,213 353,213 389,218 391,212 402,212 404,220 412,220 424,211 436,211 442,217 471,212 502,215 504,209 521,209 521,215 536,216 542,209 554,209 555,216 565,216 579,207 591,207 599,214 603,214 638,212 653,205 669,205 670,211 694,211 696,205 704,205 772,210 772,219 736,221 653,222 636,214 636,222 139,233 114,237 109,237 58,233" />
+				<Baseline points="58,234 772,219" />
+				<TextEquiv index="1">
+					<Unicode>ein Jahrhundert früher mehr als das fünffache dieser Kaufsumme</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="58,250 80,250 94,244 103,244 104,238 111,238 112,244 147,243 148,250 170,248 171,242 182,242 183,249 205,247 240,247 252,241 259,241 286,246 300,239 313,239 313,245 325,242 340,242 355,247 355,255 226,257 217,262 205,262 158,259 58,261" />
+				<Baseline points="58,261 192,257 355,255" />
+				<TextEquiv index="1">
+					<Unicode>an Dividende gegeben hatte.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l2" points="112,269 120,269 134,271 144,276 157,269 162,269 168,274 181,268 236,267 243,267 279,266 295,266 305,271 314,270 328,270 344,271 362,265 371,264 386,264 386,270 398,270 408,268 414,268 457,269 458,262 468,262 487,271 492,262 504,261 517,261 524,267 541,267 548,261 560,261 589,260 594,260 606,265 613,263 628,263 635,262 648,262 668,261 675,261 717,263 717,257 730,257 730,263 742,262 751,262 771,262 771,272 741,273 668,278 656,278 648,275 613,275 606,274 594,275 560,277 541,277 517,277 503,278 457,279 414,280 398,280 386,281 328,282 305,282 253,283 236,283 181,270 168,282 162,284 144,285 112,285" baseline="112,285 143,284 362,280 413,279 589,275 698,273 771,272" reason: differs: "beiKurf" against "beiden " | Wikisource:  | next_nc_e1: Die bei Kurfürsten Ernst und Albrecht bestätigten diesen | german_print2_15: Die bei⸗ Kurfürsten Ernst und Albrecht bestätigten diesen -->
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="60,296 82,296 82,302 95,302 95,296 172,300 186,294 198,294 199,301 218,299 233,292 251,294 262,299 264,292 276,292 277,298 338,298 338,305 357,291 369,291 370,297 380,297 398,300 412,290 424,290 425,296 504,294 505,288 515,288 530,294 536,287 549,287 550,293 580,292 591,285 608,285 609,291 625,291 627,285 662,285 730,289 744,282 756,282 757,288 773,289 773,298 357,307 338,313 320,313 301,310 251,308 66,313 60,313" />
+				<Baseline points="60,313 773,298" />
+				<TextEquiv index="1">
+					<Unicode>Kauf unter der Bedingung, dass ihnen und ihren Nachkommen die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="60,323 80,323 81,330 93,328 109,328 109,321 121,321 131,327 142,327 142,321 154,321 154,328 169,326 234,325 235,319 246,319 260,325 338,324 352,317 358,317 358,324 369,324 371,317 381,317 382,325 393,325 394,317 422,320 434,317 483,321 483,315 489,315 509,321 515,321 515,314 530,314 534,320 541,320 559,313 581,313 582,319 604,318 604,312 617,312 633,317 635,311 646,311 647,317 671,317 672,310 680,310 700,316 723,316 742,309 762,309 762,315 773,315 773,325 470,332 434,337 422,333 381,333 369,337 352,337 314,333 154,338 109,338 60,338" />
+				<Baseline points="60,338 773,325" />
+				<TextEquiv index="1">
+					<Unicode>Bleichzinsen nach wie vor geleistet und der Wiederkauf an der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l5" points="60,349 67,348 79,348 81,355 92,354 97,354 104,355 109,348 120,348 121,355 144,352 154,352 175,347 187,347 195,346 205,346 206,352 216,352 216,346 229,346 243,349 286,351 297,350 310,350 316,344 330,343 369,343 369,361 350,361 286,360 260,361 243,361 217,362 120,364 104,365 66,365 60,365" baseline="60,365 144,362 369,360" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Bleiche vorbehalten werde.)
+ | german_print2_15: Bleiche vorbehalten werde.⁵)
+ -->
+			<!-- line left out: id="r2l6" points="111,374 116,374 132,375 133,381 142,381 158,373 177,373 179,380 190,378 201,378 202,372 213,372 214,379 244,377 256,377 315,376 377,376 378,370 389,370 436,375 438,369 448,369 515,373 527,372 538,372 539,366 553,366 590,371 607,364 624,364 625,370 637,370 649,369 671,364 682,363 708,363 725,368 750,367 767,367 774,371 774,374 767,378 725,378 717,379 657,380 637,380 624,381 572,382 538,383 527,383 516,382 504,378 460,384 436,385 389,386 366,386 332,387 260,387 244,386 227,382 224,388 177,388 142,389 116,390 111,390" baseline="111,389 158,388 228,387 395,385 589,381 671,379 774,377" reason: differs: "DieB" against "er ⟦" | Wikisource:  | next_nc_e1: Die Bleiche war nun nicht mehr genthum einer Genossen- | german_print2_15: Die Bleiche war nun nicht mehr genthum einer Genossen- -->
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="59,408 78,407 78,401 90,401 101,406 103,400 122,400 143,406 175,405 176,399 187,399 188,406 200,404 245,405 245,398 257,398 271,403 291,397 297,397 303,400 329,404 329,397 342,397 369,403 411,400 427,401 482,398 515,399 532,392 544,392 545,400 557,398 588,397 602,391 674,390 690,393 763,394 764,388 774,388 774,404 745,405 720,408 690,406 613,406 588,408 439,412 384,412 351,414 257,414 122,417 90,417 78,417 59,416" />
+				<Baseline points="59,416 774,404" />
+				<TextEquiv index="1">
+					<Unicode>schaft, sondern der Stadt; sie trat unter deren Verwaltung und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ein Jahrhundert früher mehr als das fünffache dieser Kaufsumme
+an Dividende gegeben hatte.
+Kauf unter der Bedingung, dass ihnen und ihren Nachkommen die
+Bleichzinsen nach wie vor geleistet und der Wiederkauf an der
+schaft, sondern der Stadt; sie trat unter deren Verwaltung und</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="58,424 345,424 345,443 58,443" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="58,428 102,432 103,426 108,426 122,429 132,433 145,425 156,425 158,431 203,431 217,424 228,424 230,430 276,424 288,424 295,430 345,430 345,439 203,441 174,440 156,442 91,443 66,443 58,442" />
+				<Baseline points="58,443 345,439" />
+				<TextEquiv index="1">
+					<Unicode>brachte dieser den Gewinn.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>brachte dieser den Gewinn.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="59,441 777,441 777,600 59,600" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="111,452 125,452 132,458 196,457 207,455 241,456 289,450 313,450 321,456 337,456 349,455 355,449 367,449 368,455 391,453 469,454 512,451 520,446 531,446 543,451 544,445 555,445 557,451 573,450 574,444 588,444 589,452 600,449 611,449 613,457 634,449 642,449 642,443 676,443 731,447 744,441 749,441 751,447 775,448 775,452 765,457 731,458 500,461 397,464 337,468 263,466 198,467 196,473 190,473 189,467 111,468" />
+				<Baseline points="111,468 775,457" />
+				<TextEquiv index="1">
+					<Unicode>Einer späteren Gelegenheit sei es vorbehalten, weiter zu be-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="59,485 77,485 77,479 97,479 104,482 128,484 129,492 148,484 199,485 199,477 211,477 213,485 231,486 244,477 293,477 294,485 306,482 326,480 346,480 366,475 383,475 402,479 441,480 443,474 453,474 478,479 523,476 700,474 744,474 757,475 757,483 721,486 643,486 383,492 366,492 348,485 346,492 169,494 133,496 129,496 89,496 67,496 59,496" />
+				<Baseline points="59,495 757,483" />
+				<TextEquiv index="1">
+					<Unicode>richten, wie dies bankerotte Unternehmen unter einer neuen, ve</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="59,513 68,510 99,511 100,505 111,505 113,511 130,511 209,509 211,503 245,502 249,502 256,509 267,509 269,503 280,503 288,510 314,502 319,502 321,508 331,508 338,502 343,502 344,508 372,508 391,501 413,501 449,506 450,500 462,500 470,503 526,501 540,503 550,501 655,502 675,501 682,495 694,495 695,501 712,501 713,494 726,494 735,500 745,500 746,494 758,494 776,499 776,510 540,514 507,518 428,516 367,518 131,520 130,526 118,526 87,522 68,522 59,520" />
+				<Baseline points="59,522 776,510" />
+				<TextEquiv index="1">
+					<Unicode>ständigeren und einheitlichen Verwaltung trotz ausserordentlicher</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="59,533 87,532 89,538 154,538 157,530 168,530 175,536 187,534 197,530 209,530 209,536 252,536 259,529 264,529 266,537 284,535 306,535 318,529 329,529 331,537 342,534 471,532 473,526 513,526 562,530 585,523 597,523 598,529 654,529 654,522 660,522 661,528 696,528 696,521 704,521 706,527 726,528 726,521 757,521 776,530 776,532 770,532 769,541 736,541 714,537 542,540 513,541 513,549 501,549 501,541 452,542 446,536 438,545 406,542 406,549 394,549 386,544 233,544 209,550 154,550 144,550 137,547 59,548" />
+				<Baseline points="59,547 776,536" />
+				<TextEquiv index="1">
+					<Unicode>Schwierigkeiten sich wieder emporgerichtet, wie dann der dreissig-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l4" custom="readingOrder {index:4;}">
+				<Coords points="59,567 66,565 77,565 78,558 83,558 85,564 128,565 136,557 179,557 200,564 212,560 238,556 250,556 251,562 296,564 307,555 323,555 325,563 347,561 356,555 378,555 381,561 492,558 501,555 554,557 555,550 567,550 568,559 588,550 596,549 610,549 638,549 640,555 686,550 692,550 702,554 776,550 776,563 756,562 702,568 567,566 471,569 395,569 369,571 288,570 218,572 190,576 166,576 158,573 117,575 66,574 65,580 59,580" />
+				<Baseline points="59,574 776,563" />
+				<TextEquiv index="1">
+					<Unicode>jährige Krieg auf dieses Gewerbe seine zerstörende Wirkung geäussert</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l5" custom="readingOrder {index:5;}">
+				<Coords points="61,585 132,589 133,583 144,583 162,589 183,589 241,588 241,582 253,582 255,588 266,588 272,582 277,582 279,588 300,581 312,581 313,588 454,586 456,579 473,579 524,584 525,577 536,577 556,583 573,583 586,577 627,574 630,574 639,581 695,582 697,574 707,574 708,580 723,579 748,574 753,574 777,579 777,589 675,593 651,592 374,597 89,600 61,600" />
+				<Baseline points="61,600 777,589" />
+				<TextEquiv index="1">
+					<Unicode>hat und wie endlich das immer mehr und mehr eingeschränkte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Einer späteren Gelegenheit sei es vorbehalten, weiter zu be-
+richten, wie dies bankerotte Unternehmen unter einer neuen, ve
+ständigeren und einheitlichen Verwaltung trotz ausserordentlicher
+Schwierigkeiten sich wieder emporgerichtet, wie dann der dreissig-
+jährige Krieg auf dieses Gewerbe seine zerstörende Wirkung geäussert
+hat und wie endlich das immer mehr und mehr eingeschränkte</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="62,600 790,600 790,1283 62,1283" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="62,610 86,610 90,616 135,616 138,609 147,609 162,615 196,614 218,616 219,608 275,608 276,616 287,613 332,614 334,608 338,608 340,616 351,616 351,608 362,608 371,612 390,613 450,611 496,605 529,604 532,611 573,610 580,608 704,607 704,601 711,601 735,606 750,600 755,600 777,603 777,616 674,617 636,621 471,621 390,623 351,626 309,623 126,625 124,631 114,631 110,625 62,626" />
+				<Baseline points="62,625 777,615" />
+				<TextEquiv index="1">
+					<Unicode>Monopol von den Zeitverhältnissen zu Grabe getragen worden ist.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="64,637 87,636 88,643 145,636 163,636 164,642 205,640 260,641 267,634 297,634 297,640 333,640 343,634 349,634 351,641 367,639 387,640 389,633 394,633 396,639 410,637 467,638 468,631 479,631 487,637 503,637 504,644 523,637 543,638 545,630 556,630 558,636 568,636 569,630 580,630 581,637 593,635 650,636 691,633 712,640 718,640 718,633 736,633 738,626 749,626 750,632 779,633 779,640 743,643 650,643 638,645 629,649 556,646 508,648 479,647 333,650 249,650 163,654 64,652" />
+				<Baseline points="64,655 187,650 603,644 779,640" />
+				<TextEquiv index="1">
+					<Unicode>Hier möge nur noch kurz berührt werden, welchen grossen Einfluss</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l2" custom="readingOrder {index:2;}">
+				<Coords points="64,671 70,662 82,662 83,669 92,669 104,662 122,662 124,670 140,667 153,661 163,661 165,668 243,666 259,660 317,660 321,668 335,666 409,665 413,659 425,659 428,665 455,663 475,664 479,658 484,658 488,666 512,663 529,664 542,657 557,657 571,662 614,660 675,661 676,654 682,654 683,660 698,660 721,659 722,653 733,653 747,660 753,660 753,653 767,653 767,659 779,659 779,668 637,672 92,678 70,678 64,677" />
+				<Baseline points="64,677 512,673 779,668" />
+				<TextEquiv index="1">
+					<Unicode>die Bleicherei auf die Leinenindustrie in Chemnitz während des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l3" custom="readingOrder {index:3;}">
+				<Coords points="66,693 83,694 84,702 102,694 126,694 127,688 137,688 169,692 171,700 189,687 197,687 198,693 210,693 211,687 244,687 256,692 274,693 276,686 286,686 294,693 303,690 308,690 311,696 344,692 395,692 395,685 406,685 439,685 440,691 457,688 469,688 469,700 375,703 198,702 197,709 189,709 174,703 169,708 126,704 83,709 72,709 66,704" />
+				<Baseline points="66,704 469,700" />
+				<TextEquiv index="1">
+					<Unicode>14. und 15. Jahrhunderts ausgeübt hat.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l4" custom="readingOrder {index:4;}">
+				<Coords points="115,723 120,714 136,714 139,723 159,720 166,714 228,713 229,719 244,719 245,713 250,713 250,720 271,719 285,715 296,715 321,719 340,712 359,712 363,718 385,719 386,711 401,711 403,717 413,717 415,711 425,711 427,718 449,716 473,716 474,710 553,709 559,715 630,712 668,714 668,707 679,707 681,713 695,713 710,706 748,706 760,711 760,705 765,705 766,711 779,711 779,721 663,723 648,729 619,729 574,725 321,729 271,728 267,734 249,734 183,730 115,731" />
+				<Baseline points="115,730 779,721" />
+				<TextEquiv index="1">
+					<Unicode>Als die Markgrafen Friedrich und Balthasar 1357 das Bleich-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l5" custom="readingOrder {index:5;}">
+				<Coords points="63,747 107,747 109,741 199,746 223,746 224,740 229,740 231,746 241,746 244,739 254,739 256,746 284,746 285,753 308,745 320,745 369,738 378,738 381,745 429,741 596,741 597,735 608,735 629,740 629,734 642,734 642,740 690,739 696,733 729,731 735,731 749,732 755,738 768,738 768,731 780,731 780,748 501,752 144,760 127,760 120,757 71,757 69,763 63,763" />
+				<Baseline points="63,757 780,748" />
+				<TextEquiv index="1">
+					<Unicode>privilegium verliehen, war Chemnitz nur eine ackerbauende Stadt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l6" custom="readingOrder {index:6;}">
+				<Coords points="64,774 95,771 124,774 138,772 198,772 220,775 220,767 237,767 239,773 259,770 271,770 281,772 340,771 360,764 364,764 374,769 392,772 394,764 407,764 409,770 428,772 436,764 440,764 443,771 495,763 506,763 514,769 535,770 542,762 563,761 576,761 578,768 595,768 595,761 634,761 635,768 653,764 687,760 692,760 780,765 780,774 634,777 621,782 606,782 576,778 506,778 329,782 177,781 176,787 164,787 157,783 124,787 113,787 64,784" />
+				<Baseline points="64,783 780,774" />
+				<TextEquiv index="1">
+					<Unicode>mit geringen Ansätzen zu städtischer Gewerbthätigkeit; hatte sie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l7" custom="readingOrder {index:7;}">
+				<Coords points="64,794 75,794 84,801 93,801 99,794 110,794 124,800 154,796 183,797 187,803 193,803 202,792 210,792 212,799 222,799 224,792 235,792 245,800 288,798 302,793 307,793 308,799 351,799 353,791 359,791 365,797 379,797 390,791 409,790 427,790 429,796 440,796 441,790 452,790 461,796 508,796 509,789 521,789 528,795 556,792 580,795 581,788 594,788 596,794 601,794 622,793 623,787 634,787 635,794 657,793 668,787 690,787 716,792 716,785 730,785 730,791 759,791 760,785 772,785 773,792 781,792 781,800 490,806 212,808 210,815 202,815 187,811 129,808 110,810 64,810" />
+				<Baseline points="64,810 781,800" />
+				<TextEquiv index="1">
+					<Unicode>doch erst 23 Jahre vorher das Palladium der städtischen Handwerke</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l8" custom="readingOrder {index:8;}">
+				<Coords points="64,820 75,820 83,827 95,827 108,820 186,819 194,823 225,827 229,832 242,819 254,819 255,825 266,825 274,828 287,819 302,819 303,827 314,824 325,824 325,818 371,818 379,824 388,824 406,817 474,822 492,822 494,816 505,816 512,829 537,821 550,821 551,815 557,815 557,821 575,821 577,814 581,814 596,819 614,820 615,827 634,819 663,819 664,813 674,813 676,819 709,818 721,820 722,812 745,812 747,818 781,817 781,828 461,833 266,834 229,836 225,836 167,836 119,836 108,836 75,836 64,836" />
+				<Baseline points="64,836 781,827" />
+				<TextEquiv index="1">
+					<Unicode>des Mittelalters, das Recht der Bannmeile, erhalten, nach welchem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l9" custom="readingOrder {index:9;}">
+				<Coords points="65,852 115,852 116,846 121,846 123,852 132,852 134,846 158,846 168,853 180,851 217,851 231,845 249,845 252,853 263,845 275,845 276,853 296,851 340,852 343,845 348,845 393,848 406,853 407,843 448,843 449,852 460,843 465,843 466,849 476,849 486,842 502,842 504,848 527,848 528,841 540,841 541,848 568,848 569,841 609,841 662,847 663,839 676,839 676,846 747,844 748,838 760,838 761,845 781,844 781,854 589,857 562,856 527,858 325,861 132,862 65,862" />
+				<Baseline points="65,862 781,854" />
+				<TextEquiv index="1">
+					<Unicode>innerhalb einer Meile um die Stadt kein Handwerk betrieben werden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l10" custom="readingOrder {index:10;}">
+				<Coords points="65,880 71,872 83,872 84,878 105,874 126,880 130,885 149,872 160,872 162,878 240,872 242,878 290,876 313,877 314,884 337,871 348,871 350,877 360,877 369,879 388,870 392,870 392,876 476,875 477,869 488,869 489,876 501,874 532,876 533,868 546,868 561,873 567,867 583,867 597,875 604,873 638,874 653,865 666,865 674,872 711,871 721,866 782,867 782,881 360,886 318,888 204,887 130,889 83,889 71,889 65,888" />
+				<Baseline points="65,888 782,880" />
+				<TextEquiv index="1">
+					<Unicode>durfte, damit Chemnitz, das kurz vorher durch eine Feuersbrunst</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l11" custom="readingOrder {index:11;}">
+				<Coords points="66,905 78,904 86,899 98,899 98,905 131,904 132,898 143,898 146,904 158,904 162,898 168,898 170,905 264,901 343,903 344,897 355,897 357,905 368,903 434,902 435,909 457,901 491,902 492,895 504,895 504,902 517,900 602,899 604,893 621,893 623,899 729,898 730,892 741,892 782,897 782,907 646,909 582,908 582,915 570,915 504,911 439,914 318,912 270,914 225,913 109,915 76,915 66,915" />
+				<Baseline points="66,914 782,907" />
+				<TextEquiv index="1">
+					<Unicode>erbärmlich verwüstet worden war, wieder emporkommen und an</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l12" points="68,925 82,925 82,931 128,931 129,925 140,925 153,930 244,930 252,924 257,924 259,930 282,930 328,929 340,929 371,929 392,923 414,923 416,935 456,922 497,921 509,921 529,926 549,919 553,919 561,921 562,928 573,924 580,924 597,920 613,920 643,925 643,919 656,919 658,925 674,925 696,918 713,918 736,918 736,924 767,924 767,917 783,917 783,933 768,934 713,935 613,936 553,936 509,937 414,941 371,941 355,941 282,940 233,940 112,940 107,941 68,941" baseline="68,941 183,940 528,936 696,934 783,933" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Einwohnern zunehmen möge ). In der betreffenden Urkunde | german_print2_15: Einwohnern zunehmen möge*S). In der betreffenden Urkunde -->
+			<!-- line left out: id="r5l13" points="67,957 103,957 103,951 115,951 116,958 127,956 138,956 159,958 161,950 173,950 175,958 213,956 220,956 230,954 242,954 260,957 278,950 293,950 296,956 319,956 320,949 332,949 333,955 345,955 366,955 370,949 381,949 383,956 409,954 442,954 463,954 475,953 482,953 501,947 513,947 520,950 532,953 533,946 545,946 571,953 583,952 619,952 619,946 625,946 710,944 722,944 723,950 729,950 760,951 760,944 773,944 784,949 784,960 729,961 619,962 591,962 520,963 463,964 442,964 381,965 332,965 319,966 220,966 173,966 138,967 90,967 67,966" baseline="67,967 155,966 571,961 710,960 784,960" reason: differs: "werd" against "an ⟦" | Wikisource:  | next_nc_e1: werden die ersten Handwerke unserer Stadt erwähnt die der | german_print2_15: werden die ersten Handwerke unserer Stadt erwähnt die der -->
+			<TextLine id="r5l14" custom="readingOrder {index:14;}">
+				<Coords points="68,980 80,980 88,984 91,977 96,977 97,983 132,983 138,977 150,977 152,983 165,983 166,990 186,977 221,977 234,982 316,982 317,976 357,976 358,983 369,975 380,975 382,981 411,981 418,974 430,974 431,983 435,983 446,987 475,973 490,973 492,979 509,980 510,973 522,973 524,981 545,981 547,973 612,978 613,972 625,972 642,978 678,977 697,974 755,978 756,970 768,970 770,976 784,976 784,986 612,988 600,991 558,989 479,989 270,993 198,992 170,994 166,994 68,992" />
+				<Baseline points="68,994 784,986" />
+				<TextEquiv index="1">
+					<Unicode>Schneider, Schuster und Schmiede. Vielleicht gab es unter den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l15" custom="readingOrder {index:15;}">
+				<Coords points="69,1016 80,1016 82,1009 105,1009 106,1003 117,1003 118,1010 170,1003 186,1003 188,1009 210,1009 218,1003 231,1003 231,1009 257,1009 262,1003 273,1003 280,1009 300,1007 371,1008 381,1001 393,1001 394,1010 406,1007 458,1008 460,1000 471,1000 529,1005 540,1011 546,1011 546,999 565,999 566,1005 614,1004 616,998 626,998 639,1003 696,1004 750,1003 750,997 762,997 763,1004 785,1002 785,1013 719,1013 718,1019 706,1019 696,1013 684,1017 651,1014 579,1013 579,1019 566,1019 558,1015 371,1018 345,1017 323,1019 137,1018 80,1020 69,1020" />
+				<Baseline points="69,1018 785,1013" />
+				<TextEquiv index="1">
+					<Unicode>„anderen Handwerkern“, von denen dort im allgemeinen gesprochen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l16" custom="readingOrder {index:16;}">
+				<Coords points="71,1035 101,1034 102,1028 114,1028 115,1041 132,1034 166,1034 166,1028 200,1028 201,1036 223,1034 248,1035 258,1037 260,1030 269,1030 283,1035 339,1035 347,1028 352,1028 354,1036 373,1034 373,1028 410,1033 411,1027 416,1027 419,1034 486,1032 488,1026 497,1026 526,1032 651,1030 676,1027 684,1024 696,1024 696,1031 715,1029 735,1023 754,1023 785,1023 785,1039 416,1042 375,1045 300,1047 283,1047 155,1044 119,1047 115,1047 71,1044" />
+				<Baseline points="71,1044 785,1039" />
+				<TextEquiv index="1">
+					<Unicode>wird, auch Leinweber, sicher aber nicht in nennenswerther Zahl.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l17" points="73,1055 88,1055 120,1060 158,1064 167,1056 183,1054 189,1054 190,1060 238,1059 251,1059 260,1061 274,1055 279,1055 281,1062 291,1059 312,1059 323,1063 336,1055 348,1055 349,1061 361,1060 384,1060 385,1054 397,1054 399,1062 420,1059 436,1058 444,1053 496,1053 527,1058 528,1052 541,1052 541,1058 556,1058 564,1052 577,1052 577,1059 592,1058 614,1057 626,1057 626,1051 639,1051 685,1056 692,1055 709,1050 739,1050 739,1056 751,1056 753,1050 764,1050 776,1055 786,1056 786,1065 776,1066 751,1066 685,1066 626,1067 600,1068 541,1068 496,1069 444,1069 432,1068 397,1069 384,1070 348,1071 251,1071 238,1071 120,1070 88,1071 73,1071" baseline="73,1071 157,1070 614,1066 786,1065" reason: differs: "urz—Che" against "rz – Ch" | Wikisource:  | next_nc_e1: Kurz — Chemnitz hatte damals wohl Handwerke, aber noch keine | german_print2_15: Kurz — Chemnitz hatte damals wohl Handwerke, aber noch keine -->
+			<TextLine id="r5l18" custom="readingOrder {index:18;}">
+				<Coords points="73,1081 79,1081 81,1087 92,1087 93,1081 105,1081 117,1086 128,1084 157,1086 165,1081 207,1080 208,1086 273,1086 316,1089 320,1081 330,1081 331,1087 341,1087 342,1081 354,1081 355,1089 367,1086 413,1084 453,1085 460,1079 471,1079 472,1086 484,1079 489,1079 503,1084 545,1084 552,1078 557,1078 558,1084 646,1082 647,1090 665,1076 673,1076 675,1082 687,1082 687,1076 699,1076 715,1076 716,1082 753,1082 753,1076 759,1076 760,1082 772,1079 786,1079 786,1092 675,1093 673,1099 665,1099 651,1093 646,1098 634,1098 593,1094 535,1094 505,1089 503,1095 471,1096 279,1097 242,1095 167,1097 73,1097" />
+				<Baseline points="73,1097 786,1092" />
+				<TextEquiv index="1">
+					<Unicode>Industrie. Zu einer solchen entwickelte sich im 14. Jahrhundert</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l19" custom="readingOrder {index:19;}">
+				<Coords points="71,1114 107,1108 154,1112 161,1107 177,1107 204,1114 210,1106 222,1106 223,1113 232,1113 252,1107 265,1107 266,1113 292,1113 292,1107 297,1107 300,1113 374,1113 375,1120 399,1112 409,1112 418,1115 420,1106 431,1106 432,1113 444,1109 514,1105 584,1110 594,1108 641,1109 643,1103 654,1103 655,1109 686,1109 686,1103 699,1103 717,1108 718,1102 730,1102 731,1110 741,1110 756,1102 780,1102 780,1112 786,1112 786,1114 780,1118 741,1119 542,1120 502,1126 491,1126 465,1122 379,1124 71,1124" />
+				<Baseline points="71,1123 786,1118" />
+				<TextEquiv index="1">
+					<Unicode>auch nicht die Bierbrauerei, welche 1368 zuerst urkundliche Er-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l20" custom="readingOrder {index:20;}">
+				<Coords points="71,1141 91,1140 92,1134 104,1134 106,1140 159,1139 170,1133 199,1139 199,1133 211,1133 251,1140 253,1133 266,1133 281,1138 292,1133 302,1133 316,1141 322,1133 334,1133 335,1141 360,1141 367,1134 386,1133 387,1141 440,1138 449,1132 461,1132 463,1138 478,1138 493,1130 506,1132 507,1138 517,1138 517,1131 548,1131 567,1136 568,1130 607,1130 607,1137 617,1137 628,1129 642,1129 649,1135 659,1135 659,1129 674,1129 698,1129 714,1129 724,1135 744,1135 755,1129 767,1129 787,1134 787,1145 617,1146 548,1149 200,1149 159,1154 136,1154 71,1150" />
+				<Baseline points="71,1150 787,1144" />
+				<TextEquiv index="1">
+					<Unicode>wähnung findet; durch dieselbe wurden lediglich die Bedürfnisse der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l21" custom="readingOrder {index:21;}">
+				<Coords points="71,1163 83,1163 103,1167 103,1160 172,1160 187,1167 193,1167 193,1159 205,1159 213,1165 267,1165 268,1159 279,1159 318,1165 333,1159 349,1159 350,1165 385,1166 420,1165 422,1159 451,1157 454,1157 464,1159 464,1165 475,1165 477,1158 498,1158 499,1165 510,1164 515,1157 522,1157 523,1163 535,1163 535,1157 545,1157 553,1160 553,1173 545,1178 523,1178 498,1174 464,1174 454,1178 408,1177 385,1180 368,1180 349,1176 279,1175 71,1177" />
+				<Baseline points="71,1176 553,1173" />
+				<TextEquiv index="1">
+					<Unicode>Stadt und der nächsten Umgegend befriedigt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l22" custom="readingOrder {index:22;}">
+				<Coords points="124,1187 146,1186 148,1194 187,1192 187,1186 200,1186 200,1193 240,1188 251,1185 261,1185 263,1192 309,1191 310,1185 323,1185 324,1191 331,1191 351,1185 375,1185 376,1194 383,1194 405,1185 460,1185 540,1189 542,1183 641,1181 641,1187 688,1187 688,1180 700,1180 700,1186 788,1187 788,1197 745,1197 744,1203 732,1203 715,1197 552,1199 531,1198 528,1205 523,1205 522,1199 443,1201 124,1202" />
+				<Baseline points="124,1202 788,1196" />
+				<TextEquiv index="1">
+					<Unicode>Als aber Chemnitz das Bleichmonopol fast für das ganze</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l23" custom="readingOrder {index:23;}">
+				<Coords points="73,1214 91,1213 93,1221 104,1221 105,1213 120,1213 140,1218 160,1218 171,1212 178,1212 179,1218 202,1218 204,1212 220,1212 231,1220 241,1220 243,1212 257,1212 265,1218 274,1218 282,1211 286,1211 304,1217 327,1217 329,1211 340,1211 351,1223 357,1218 442,1217 453,1211 484,1210 485,1216 527,1216 527,1209 538,1209 540,1217 575,1214 626,1213 636,1207 649,1207 677,1212 734,1213 757,1213 758,1207 770,1207 771,1214 789,1212 789,1223 735,1223 734,1229 723,1229 721,1223 677,1222 538,1225 496,1230 485,1230 463,1226 289,1227 282,1220 274,1227 257,1228 243,1228 234,1226 220,1228 73,1228" />
+				<Baseline points="73,1228 598,1223 789,1223" />
+				<TextEquiv index="1">
+					<Unicode>Meissner Land erhielt und als es in Folge dessen ein hervorragender</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l24" custom="readingOrder {index:24;}">
+				<Coords points="74,1240 93,1240 94,1246 106,1243 122,1244 136,1238 144,1238 144,1244 164,1244 181,1238 193,1238 194,1246 230,1240 235,1240 241,1246 260,1244 331,1243 333,1237 365,1237 365,1245 379,1243 448,1243 449,1237 461,1237 492,1242 498,1236 521,1236 582,1240 582,1234 595,1234 597,1241 605,1241 620,1233 633,1233 656,1238 663,1236 677,1236 714,1240 752,1239 753,1233 777,1233 789,1236 789,1249 633,1249 605,1251 81,1256 74,1256" />
+				<Baseline points="74,1256 121,1254 604,1249 789,1249" />
+				<TextEquiv index="1">
+					<Unicode>Platz für den Garn- und Leinwandhandel wurde, konnte es nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l25" custom="readingOrder {index:25;}">
+				<Coords points="74,1272 106,1272 107,1265 125,1265 127,1273 138,1271 144,1265 156,1265 157,1272 180,1271 181,1278 200,1265 212,1265 219,1271 233,1271 260,1276 261,1270 279,1270 286,1264 321,1263 323,1269 354,1269 367,1263 379,1263 380,1269 386,1269 412,1263 418,1263 419,1270 433,1268 479,1269 479,1262 489,1262 489,1268 500,1268 508,1267 523,1262 556,1261 556,1268 566,1268 576,1263 606,1265 625,1259 658,1259 658,1267 669,1267 683,1259 692,1259 692,1265 702,1265 720,1262 778,1265 779,1259 790,1259 790,1275 334,1279 185,1283 181,1283 133,1281 74,1282" />
+				<Baseline points="74,1281 625,1275 790,1275" />
+				<TextEquiv index="1">
+					<Unicode>ausbleiben, dass auch hier die Leinweberei festen Fuss fasste und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Monopol von den Zeitverhältnissen zu Grabe getragen worden ist.
+Hier möge nur noch kurz berührt werden, welchen grossen Einfluss
+die Bleicherei auf die Leinenindustrie in Chemnitz während des
+14. und 15. Jahrhunderts ausgeübt hat.
+Als die Markgrafen Friedrich und Balthasar 1357 das Bleich-
+privilegium verliehen, war Chemnitz nur eine ackerbauende Stadt
+mit geringen Ansätzen zu städtischer Gewerbthätigkeit; hatte sie
+doch erst 23 Jahre vorher das Palladium der städtischen Handwerke
+des Mittelalters, das Recht der Bannmeile, erhalten, nach welchem
+innerhalb einer Meile um die Stadt kein Handwerk betrieben werden
+durfte, damit Chemnitz, das kurz vorher durch eine Feuersbrunst
+erbärmlich verwüstet worden war, wieder emporkommen und an
+Schneider, Schuster und Schmiede. Vielleicht gab es unter den
+„anderen Handwerkern“, von denen dort im allgemeinen gesprochen
+wird, auch Leinweber, sicher aber nicht in nennenswerther Zahl.
+Industrie. Zu einer solchen entwickelte sich im 14. Jahrhundert
+auch nicht die Bierbrauerei, welche 1368 zuerst urkundliche Er-
+wähnung findet; durch dieselbe wurden lediglich die Bedürfnisse der
+Stadt und der nächsten Umgegend befriedigt.
+Als aber Chemnitz das Bleichmonopol fast für das ganze
+Meissner Land erhielt und als es in Folge dessen ein hervorragender
+Platz für den Garn- und Leinwandhandel wurde, konnte es nicht
+ausbleiben, dass auch hier die Leinweberei festen Fuss fasste und</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="394,1549 523,1549 523,1561 394,1561" />
+			<!-- line left out: id="r6l0" points="394,1549 402,1549 408,1550 422,1549 434,1549 456,1549 469,1549 494,1549 523,1549 523,1558 452,1561 441,1561 426,1561 415,1560 407,1560 394,1558" baseline="394,1558 523,1558" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnpdigital slub-dresder
+ | german_print2_15: —
+ -->
+		</TextRegion>
+		<GraphicRegion id="r7">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+ein Jahrhundert früher mehr als das fünffache dieser Kaufsumme
+an Dividende gegeben hatte.
+Die beiden Kurfürsten Ernst und Albrecht bestätigten diesen
+Kauf unter der Bedingung, dass ihnen und ihren Nachkommen die
+Bleichzinsen nach wie vor geleistet und der Wiederkauf an der
+Bleiche vorbehalten werde.⟦⟧
+Die Bleiche war nun nicht mehr Eigenthum einer
+Genossenschaft, sondern der Stadt; sie trat unter deren Verwaltung und
+brachte dieser den Gewinn.
+Einer späteren Gelegenheit sei es vorbehalten, weiter zu
+berichten, wie dies bankerotte Unternehmen unter einer neuen,
+verständigeren und einheitlichen Verwaltung trotz ausserordentlicher
+Schwierigkeiten sich wieder emporgerichtet, wie dann der
+dreissigjährige Krieg auf dieses Gewerbe seine zerstörende Wirkung geäussert
+hat und wie endlich das immer mehr und mehr eingeschränkte
+Monopol von den Zeitverhältnissen zu Grabe getragen worden ist.
+Hier möge nur noch kurz berührt werden, welchen grossen Einfluss
+die Bleicherei auf die Leinenindustrie in Chemnitz während des
+14. und 15. Jahrhunderts ausgeübt hat.
+Als die Markgrafen Friedrich und Balthasar 1357 das
+Bleichprivilegium verliehen, war Chemnitz nur eine ackerbauende Stadt
+mit geringen Ansätzen zu städtischer Gewerbthätigkeit; hatte sie
+doch erst 23 Jahre vorher das Palladium der städtischen Handwerke
+des Mittelalters, das Recht der Bannmeile, erhalten, nach welchem
+innerhalb einer Meile um die Stadt kein Handwerk betrieben werden
+durfte, damit Chemnitz, das kurz vorher durch eine Feuersbrunst
+erbärmlich verwüstet worden war, wieder emporkommen und an
+Einwohnern zunehmen möge⟦⟧. In der betreffenden Urkunde
+werden die ersten Handwerke unserer Stadt erwähnt – die der
+Schneider, Schuster und Schmiede. Vielleicht gab es unter den
+„anderen Handwerkern“, von denen dort im allgemeinen gesprochen
+wird, auch Leinweber, sicher aber nicht in nennenswerther Zahl.
+Kurz – Chemnitz hatte damals wohl Handwerke, aber noch keine
+Industrie. Zu einer solchen entwickelte sich im 14. Jahrhundert
+auch nicht die Bierbrauerei, welche 1368 zuerst urkundliche
+Erwähnung findet; durch dieselbe wurden lediglich die Bedürfnisse der
+Stadt und der nächsten Umgegend befriedigt.
+Als aber Chemnitz das Bleichmonopol fast für das ganze
+Meissner Land erhielt und als es in Folge dessen ein hervorragender
+Platz für den Garn- und Leinwandhandel wurde, konnte es nicht
+ausbleiben, dass auch hier die Leinweberei festen Fuss fasste und
+-->
+	</Page>
+</PcGts>

@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:47:56</Created>
+		<LastChange>2026-11-23T13:47:56</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/67 revision 5068110 of 2026-10-01T06:52:05Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0067.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro4096945124419638723" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="685,870 742,870 742,883 685,883" />
+			<!-- line left out: id="r0l0" points="685,879 698,877 704,872 722,870 728,870 742,871 742,883 730,883 685,881" baseline="685,881 742,883" reason: differs: "mnit" against "| Ch" | Wikisource:  | next_nc_e1: mnitz,
+ | german_print2_15: mnitz,
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="630,892 752,892 752,914 630,914" />
+			<!-- line left out: id="r1l0" points="630,898 647,898 659,892 679,892 679,899 690,899 698,892 706,892 709,898 721,896 725,896 752,897 752,908 749,908 709,907 706,914 698,914 690,907 630,907" baseline="630,907 752,907" reason: second model: differs: "fürd" against "höna" | Wikisource: ür das Jahr 1 | next_nc_e1: ür das Jahr 1
+ | german_print2_15: für das Jahr 1.
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="725,1048 794,1048 794,1091 725,1091" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="725,1048 747,1048 756,1052 792,1053 792,1063 776,1063 754,1063 725,1063" />
+				<Baseline points="725,1063 792,1063" />
+				<TextEquiv index="1">
+					<Unicode>Kloster</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="728,1073 749,1073 749,1080 769,1077 788,1077 788,1084 794,1084 794,1091 776,1091 758,1089 728,1089" />
+				<Baseline points="728,1089 794,1089" />
+				<TextEquiv index="1">
+					<Unicode>Nr. 83.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Kloster
+Nr. 83.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="0,0 1000,0 1000,1565 0,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+| style="text-align:right; vertical-align:top; width:40px" | 60.⟦⟧
+| Chemnitzer freie Presse, Organ des arbeitenden Volkes von Chemnitz und Umgegend. Jahrgang 1876–78.
+| style="text-align:right; vertical-align:top;" | 64.⟦⟧
+| Fliegender Markt-Reporter. I. den 20. Mai 1876.
+| style="text-align:right; vertical-align:top;" | 66.⟦⟧
+| Der Erzgebirgische und Chemnitzer Kourier mit Herberge. Wieck. Nr. 1, 12, 1840.
+| style="text-align:right; vertical-align:top;" | 69.⟦⟧
+| Allerlei. Belletristisches, politisches und humoristisch-satyrisches Sonntagsblatt. Jahrgang 1876–77.
+| style="text-align:right; vertical-align:top;" | 72.⟦⟧
+| Chemnitzer Landbote mit 4 Beilagen. Chemnitz 1880–81.
+| style="text-align:right; vertical-align:top;" | 75.⟦⟧
+| Die Feuerspritze. Zeitschrift für das deutsche Löschwesen. Organ des Landesausschusses sächsischer Feuerwehren. Jahrgang 1874–81.
+| style="text-align:right; vertical-align:top;" | 78.⟦⟧
+| Die Leuchte. Ein Volksblatt zur Orientirung, Belehrung und Erbauung auf dem Gebiete der Religion und Kirche. Jahrg. 1871 u. 72. Herausgeg. von Pastor Dr. Calinich in Chemnitz. Jahrg. 1873–75. Herausgeg. von Pastor Dr. Sulze in Chemnitz. Chemnitz 1871–75.
+| style="text-align:right; vertical-align:top;" | 81.⟦⟧
+| Organ des Centralvereins für Naturheilkunde in Sachsen. Chemnitz 1873.
+| style="text-align:right; vertical-align:top;" | 84.⟦⟧
+| Chemnitzer Lutheraner, kirchliche Monatsschrift. P. Grosse. 1–4. Jahrg. 1876–80.
+| style="text-align:right; vertical-align:top;" | 87.⟦⟧
+| [http://digital.slub-dresden.de/id393590488 Deutsche Industrie-Zeitung.] Organ der Handels- und Gewerbekammern zu Chemnitz, Dresden, Plauen und Zittau. 1863, 1873–78.
+| style="text-align:right; vertical-align:top;" | 99.⟦⟧
+| Chemnitzer Adressbuch für 1837 u. 39. Herausg. von Böhme. [http://digital.slub-dresden.de/id349689334 Adressbuch der Fabrik- und Handelsstadt Chemnitz.] 1840–82.
+| style="text-align:right; vertical-align:top;" | 100.⟦⟧
+| [http://digital.slub-dresden.de/id459391291 Adressbuch der Vororte von Chemnitz, Schlosschemnitz, Gablenz, Hilbersdorf, Kappel und Schönau für das Jahr 1876.]
+⟦⟧
+| style="text-align:right; vertical-align:top; width:40px" | 114.⟦⟧
+| Ermisch, Dr., Codex diplomaticus. II. Theil. VI. Bd. Chemnitzer Urkundenbuch.
+| style="text-align:right; vertical-align:top;" | 169.⟦⟧
+| –, Ueber Rechtsverhältnisse zwischen Stadt und Kloster Chemnitz im Mittelalter. Dresdner Journal 1877. Nr. 83.
+| style="text-align:right; vertical-align:top;" | 172.⟦⟧
+| –, Die Rathslinie der Stadt Chemnitz von 1298–1484. S. Nr. 197.
+| style="text-align:right; vertical-align:top;" | 180.⟦⟧
+| Richter, A. D., Chronik der Stadt Chemnitz. 2 Theile. Annaberg 1753.
+| style="text-align:right; vertical-align:top;" | 184.⟦⟧
+| Kretschmar, C. G., Chemnitz wie es war und wie es ist. Chemnitz 1822.
+| style="text-align:right; vertical-align:top;" | 187.⟦⟧
+| Lehmann, C., Chronik der Stadt Chemnitz. Schneeberg 1843.
+| style="text-align:right; vertical-align:top;" | 191.⟦⟧
+| Pinther, J. Th., Chronik der Stadt Chemnitz. Chemnitz 1855.
+| style="text-align:right; vertical-align:top;" | 194.⟦⟧
+| Beiträge zu den Vorarbeiten für eine Geschichte der Stadt Chemnitz. Chemnitzer Nachrichten, Juni 1870.
+-->
+	</Page>
+</PcGts>

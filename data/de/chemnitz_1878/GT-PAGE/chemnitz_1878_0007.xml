@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:15:04</Created>
+		<LastChange>2026-11-23T14:15:04</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/7 revision 4639535 of 2025-10-16T15:00:42Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0007.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro14255402602278370150" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="42,1122 45,1122 45,1481 42,1481" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="417,377 560,377 560,401 417,401" />
+			<!-- line left out: id="r1l0" points="417,379 426,379 456,384 466,378 480,377 506,377 506,383 513,383 523,377 532,377 560,378 560,400 513,401 480,401 417,400" baseline="417,400 560,399" reason: differs: "Inha" against "cols" | Wikisource:  | next_nc_e1: Inhalt.
+ | german_print2_15: Inhalt.
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="134,558 737,558 737,732 134,732" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="134,570 139,560 150,558 160,558 162,564 218,563 254,559 270,559 289,563 300,561 313,561 313,570 192,571 172,575 162,575 134,572" />
+				<Baseline points="134,572 313,570" />
+				<TextEquiv index="1">
+					<Unicode>Allgemeiner Bericht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l1" points="174,592 185,592 197,593 217,594 233,595 233,589 245,589 252,590 280,594 286,596 291,589 300,589 307,592 315,595 315,597 307,602 268,602 262,601 245,606 229,606 206,603 187,603 174,601" baseline="174,601 315,602" reason: differs: "Sitz" against "| st" | Wikisource:  | next_nc_e1: Sitzungsberichte | german_print2_15: Sitzungsberichte -->
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="136,622 171,626 181,621 225,621 232,627 262,627 264,621 279,621 285,626 299,632 304,621 332,620 337,620 354,625 354,634 312,634 299,634 241,633 232,632 221,627 219,633 196,634 171,634 136,634" />
+				<Baseline points="136,634 354,632" />
+				<TextEquiv index="1">
+					<Unicode>Bericht über das Archiv</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l3" points="178,653 186,652 197,652 216,652 218,658 228,657 234,656 243,652 248,652 269,657 284,659 296,652 306,652 350,652 359,651 370,651 380,656 391,657 397,651 411,651 413,657 421,657 437,658 439,651 450,651 450,657 474,652 488,652 498,656 567,656 568,650 574,650 585,655 592,656 602,658 615,651 621,651 651,655 677,654 692,654 727,654 737,657 737,663 727,667 692,668 658,668 585,664 498,665 489,665 483,664 450,665 439,665 421,664 391,664 306,665 269,665 241,665 216,665 178,665" baseline="178,665 296,664 737,664" reason: differs: "Verz" against "| st" | Wikisource:  | next_nc_e1: Verzeichniss der Urkunden des Vereinsarchivs I 1143—1650 | german_print2_15:  -->
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="135,684 154,685 175,691 181,683 190,683 224,683 227,690 236,688 262,690 264,683 274,683 323,683 340,683 341,689 359,683 364,683 387,683 387,695 161,697 135,697" />
+				<Baseline points="135,697 387,695" />
+				<TextEquiv index="1">
+					<Unicode>Bericht über die Bibliothek</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="175,715 197,715 207,719 212,715 235,715 257,721 263,715 339,715 341,722 359,714 369,714 370,721 377,721 380,715 388,715 388,727 304,728 244,732 197,732 183,732 175,728" />
+				<Baseline points="175,728 388,727" />
+				<TextEquiv index="1">
+					<Unicode>Katalog der Bibliothek</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Allgemeiner Bericht
+Bericht über das Archiv
+Bericht über die Bibliothek
+Katalog der Bibliothek</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="137,746 328,746 328,763 137,763" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="137,747 171,746 181,746 189,752 198,746 207,746 209,753 240,752 251,755 256,751 277,751 285,753 288,746 293,746 313,746 316,754 328,754 328,758 313,763 302,763 233,759 187,759 171,763 160,763 137,758" />
+				<Baseline points="137,758 328,759" />
+				<TextEquiv index="1">
+					<Unicode>Mitgliederverzeichniss</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Mitgliederverzeichniss</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="135,777 348,777 348,795 135,795" />
+			<!-- line left out: id="r4l0" points="135,778 149,778 152,788 161,784 181,783 192,778 201,777 212,777 212,783 222,783 235,784 241,777 246,777 289,779 299,781 309,779 327,779 341,781 348,782 348,793 341,795 290,795 289,788 256,790 230,791 183,791 161,791 135,791" baseline="135,791 255,789 348,788" reason: second model has no such line | Wikisource: Kassenbericht 1873–74 | next_nc_e1: Kassenbericht 1873–74
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="137,887 659,887 659,996 137,996" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="137,889 162,887 179,887 183,893 209,888 223,887 227,887 244,893 350,891 398,893 400,887 410,887 422,894 428,894 432,887 442,887 451,891 541,887 550,887 577,892 614,891 625,893 628,899 630,899 630,901 390,901 289,900 271,898 267,904 257,904 137,901" />
+				<Baseline points="137,900 630,901" />
+				<TextEquiv index="1">
+					<Unicode>Abhandlungen zur Geschichte von Chemnitz:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="178,919 221,919 221,925 229,925 232,918 253,918 271,924 287,924 296,929 309,922 330,924 348,920 401,920 411,924 431,919 441,919 442,925 484,918 489,918 520,923 582,919 611,919 623,923 631,922 638,919 651,919 652,925 659,925 659,932 431,932 411,930 411,936 379,936 361,932 178,932" />
+				<Baseline points="178,931 659,932" />
+				<TextEquiv index="1">
+					<Unicode>R. Zöllner, die Anfänge der Chemnitzer Industrie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l2" custom="readingOrder {index:2;}">
+				<Coords points="179,951 193,951 196,961 211,953 276,950 281,950 284,956 311,955 327,957 328,950 341,950 366,953 393,953 399,955 417,950 427,950 448,955 471,950 476,950 504,955 524,951 539,950 549,950 569,955 592,953 605,955 605,964 514,964 499,964 311,964 193,964 179,964" />
+				<Baseline points="179,964 605,964" />
+				<TextEquiv index="1">
+					<Unicode>A. Sammler, der Getreidemarkt in Chemnitz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l3" custom="readingOrder {index:3;}">
+				<Coords points="178,982 194,982 195,992 211,983 272,987 275,981 288,981 298,987 351,989 363,982 369,982 382,986 436,986 475,982 492,982 503,987 511,985 598,982 654,987 654,995 647,996 629,996 573,996 363,995 342,993 312,996 298,996 288,994 178,995" />
+				<Baseline points="178,995 324,994 654,996" />
+				<TextEquiv index="1">
+					<Unicode>A. Sammler, das Franciscanerkloster in Chemnitz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Abhandlungen zur Geschichte von Chemnitz:
+R. Zöllner, die Anfänge der Chemnitzer Industrie
+A. Sammler, der Getreidemarkt in Chemnitz
+A. Sammler, das Franciscanerkloster in Chemnitz</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="179,1012 784,1012 784,1052 179,1052" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="179,1014 193,1014 195,1023 211,1015 223,1015 232,1019 235,1012 245,1012 267,1012 281,1018 301,1019 308,1023 321,1013 397,1013 424,1018 427,1012 442,1012 462,1014 484,1013 485,1024 507,1014 552,1014 599,1018 696,1013 728,1013 741,1016 757,1013 768,1013 778,1018 784,1019 784,1027 645,1027 608,1031 600,1031 552,1026 507,1027 374,1025 362,1031 321,1031 292,1026 179,1026" />
+				<Baseline points="179,1026 450,1025 784,1027" />
+				<TextEquiv index="1">
+					<Unicode>A. Scholtze, Johann David Beil. Ein Beitrag zur Geschichte des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l1" custom="readingOrder {index:1;}">
+				<Coords points="232,1039 242,1039 252,1043 269,1042 280,1046 280,1039 298,1039 299,1045 342,1039 352,1039 393,1042 407,1045 407,1050 398,1052 308,1052 269,1052 232,1052" />
+				<Baseline points="232,1052 407,1052" />
+				<TextEquiv index="1">
+					<Unicode>deutschen Theaters</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>A. Scholtze, Johann David Beil. Ein Beitrag zur Geschichte des
+deutschen Theaters</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="146,1068 207,1068 207,1086 146,1086" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="146,1069 163,1068 174,1068 193,1073 207,1074 207,1086 194,1086 146,1081" />
+				<Baseline points="146,1081 207,1081" />
+				<TextEquiv index="1">
+					<Unicode>Anhang</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Anhang</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="401,1549 652,1549 652,1561 401,1561" />
+			<!-- line left out: id="r8l0" points="401,1549 409,1549 440,1549 450,1549 463,1549 476,1549 506,1549 532,1549 559,1549 578,1549 645,1549 652,1550 652,1558 578,1560 552,1560 538,1558 459,1561 450,1561 433,1561 421,1560 408,1560 401,1558" baseline="401,1558 652,1558" reason: differs: "hpdi" against "| st" | Wikisource:  | next_nc_e1: hp digital slub-dresden delppn3012596427
+ | german_print2_15: Dtp Giital slub-dresden de ppn012586427
+ -->
+		</TextRegion>
+		<GraphicRegion id="r9">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+⟦⟧
+| colspan=2 style="text-align:right;" | Seite
+| Allgemeiner Bericht
+| style="text-align:right;" | 1
+| Sitzungsberichte
+| style="text-align:right;" | 3
+| Bericht über das Archiv
+| style="text-align:right;" | 33
+| Verzeichniss der Urkunden des Vereinsarchivs I 1143–1650
+| style="text-align:right;" | 35
+| Bericht über die Bibliothek
+| style="text-align:right;" | 80
+| Katalog der Bibliothek
+| style="text-align:right;" | 82
+| Mitgliederverzeichniss
+| style="text-align:right;" | 100
+| Kassenbericht 1873–74
+| style="text-align:right;" | 107
+|
+|
+| colspan=2 style="text-align:right;" |
+|
+|
+| Abhandlungen zur Geschichte von Chemnitz:
+|
+| R. Zöllner, die Anfänge der Chemnitzer Industrie
+| style="text-align:right;" | 111
+| A. Sammler, der Getreidemarkt in Chemnitz
+| style="text-align:right;" | 137
+| A. Sammler, das Franciscanerkloster in Chemnitz
+| style="text-align:right;" | 153
+| A. Scholtze, Johann David Beil. Ein Beitrag zur Geschichte des
+deutschen Theaters
+| style="text-align:right; vertical-align:bottom;" | 173
+| Anhang
+| style="text-align:right;" | 237
+-->
+	</Page>
+</PcGts>

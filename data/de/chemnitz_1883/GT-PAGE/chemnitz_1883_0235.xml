@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:57:39</Created>
+		<LastChange>2026-11-23T13:57:39</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/235 revision 5069871 of 2026-10-06T22:46:08Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0235.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro4123171246728123773" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="722,201 766,201 766,242 722,242" />
+			<TextLine id="r0l0" custom="readingOrder {index:0;}">
+				<Coords points="722,201 732,201 755,206 755,217 740,217 722,215" />
+				<Baseline points="722,215 755,217" />
+				<TextEquiv index="1">
+					<Unicode>Aug</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l1" custom="readingOrder {index:1;}">
+				<Coords points="737,232 756,231 766,231 766,241 742,242 737,242" />
+				<Baseline points="737,242 766,241" />
+				<TextEquiv index="1">
+					<Unicode>mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Aug
+mit</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="395,453 429,453 429,463 395,463" />
+			<!-- line left out: id="r1l0" points="395,454 411,453 429,453 429,463 395,463" baseline="395,463 429,463" reason: differs: "am" against "sein" | Wikisource:  | next_nc_e1: am
+ | german_print2_15: am
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="77,807 753,807 753,846 77,846" />
+			<!-- line left out: id="r2l0" points="77,808 104,808 113,818 178,817 197,817 293,817 313,822 338,808 360,808 367,818 424,818 455,808 485,808 491,818 510,818 586,817 598,817 605,808 638,808 638,817 672,817 677,808 715,807 721,807 753,811 753,838 708,838 677,838 650,837 584,837 510,837 424,837 367,837 293,836 248,836 221,846 203,846 197,836 120,836 77,836" baseline="77,836 220,835 338,835 753,838" reason: differs: "Ausz" against "Holz" | Wikisource:  | next_nc_e1: Auszug aus dem Kassenbericht
+ | german_print2_15: Auszug aus dem Kassenbericht
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="317,850 504,850 504,880 317,880" />
+			<!-- line left out: id="r3l0" points="317,850 342,850 366,852 367,860 373,860 400,850 496,850 500,874 504,874 504,879 468,880 416,880 400,879 373,864 367,864 366,879 342,880 317,880" baseline="317,878 372,878 504,879" reason: differs: "für1" against "orar" | Wikisource:  | next_nc_e1: für 1882.
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="373,1200 502,1200 502,1215 373,1215" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="373,1207 398,1206 407,1200 419,1200 474,1206 474,1200 493,1200 493,1207 502,1207 502,1215 459,1215 398,1215 391,1215 373,1212" />
+				<Baseline points="373,1215 502,1215" />
+				<TextEquiv index="1">
+					<Unicode>schluss.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>schluss.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="427,1235 521,1235 521,1251 427,1251" />
+			<!-- line left out: id="r5l0" points="427,1236 439,1235 444,1235 460,1242 469,1241 493,1240 521,1240 521,1242 519,1242 512,1251 469,1251 444,1250 439,1250 427,1248" baseline="427,1250 521,1251" reason: differs: "Mark" against "| st" | Wikisource:  | next_nc_e1: Mark 293
+ | german_print2_15: Mark 293
+ -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="423,1292 510,1292 510,1308 423,1308" />
+			<!-- line left out: id="r6l0" points="423,1292 440,1292 448,1298 459,1298 502,1296 510,1296 510,1306 474,1308 433,1308 423,1308" baseline="423,1308 502,1306 510,1306" reason: differs: "Mark" against ""tex" | Wikisource:  | next_nc_e1: Mark 8
+ | german_print2_15: Mark 8.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r7">
+			<Coords points="0,0 1000,0 1000,1565 0,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+unserer Altvordern im 13. Jahrhundert. Vor dem geistigen Auge
+der Zuhörer entfaltete sich das Leben eines Markttages mit
+seinem Gewühle, den charakteristischen Eigentümlichkeiten, den
+verschiedenen Gestalten und Phasen. Die land- und
+forstwirtschaftlichen, sowie gewerblichen Produkte, die engen Gassen
+mit ihren feuergefährlichen Holzhäusern bildeten die Staffage.
+Mit einem letzten Blick aufs Bergkloster nahm der Vortragende
+Abschied von dem Chemnitz des 13. Jahrhunderts.
+⟦⟧
+Realschuloberlehrer Dr. Kirchner von hier sprach über
+„einen Chemnitzer Superintendenten im Anfange des 16.
+Jahrhunderts.“ Ein Bericht darüber erledigt sich, da der Vortrag im
+Chemnitzer Tageblatt, Jahrgang 1884, No. 89 u. 91 abgedruckt ist.
+⟦⟧
+| colspan=4 style="text-align:center;" | Einnahme.
+| style="text-align:left;" | Kassenbestand || Mark || 1041. || 29.
+| style="text-align:left;" | Steuern der Mitglieder || „ || ⟦⟧933. || –.
+| style="text-align:left;" | Subvention der Stadtgemeinde || „ || ⟦⟧900. || –.
+| style="text-align:left;" | Geschenk eines Gönners || „ || ⟦⟧⟦⟧60. || –.
+| style="border-top:hidden;" | || Mark || 2934. || 29.
+| colspan=7 |
+| colspan=7 style="text-align:center;" | Ausgabe.
+| style="text-align:left;" | Miete, Ankäufe, Honorare u. s. w. || Mark || 2038. || 22.
+| colspan=4 style="text-align:center;" | Abschluss.
+| style="text-align:left;" | Einnahme || Mark || 2934. || 29.
+| style="text-align:left;" | Ausgabe || „ || 2038. || 22.
+| style="text-align:left; border-top:hidden;" | Kassenbestand || Mark || ⟦⟧896. || 07.
+-->
+	</Page>
+</PcGts>

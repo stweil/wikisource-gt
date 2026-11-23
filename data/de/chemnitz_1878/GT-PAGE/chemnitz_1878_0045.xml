@@ -1,0 +1,370 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:18:01</Created>
+		<LastChange>2026-11-23T14:18:01</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/45 revision 4648827 of 2025-10-31T07:44:09Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0045.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro2041700216494293861" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="35,1168 44,1168 44,1489 35,1489" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="76,171 789,171 789,464 76,464" />
+			<!-- line left out: id="r1l0" points="414,171 433,171 461,177 484,177 484,178 461,178 433,188 424,188 414,187" baseline="414,186 484,188" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 37 — | german_print2_15: 37 — -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="335,224 374,224 377,232 396,219 410,219 426,219 443,224 508,224 511,231 513,231 513,234 508,239 459,235 410,235 374,240 365,240 364,233 352,235 335,235" />
+				<Baseline points="335,235 513,234" />
+				<TextEquiv index="1">
+					<Unicode>1264, Februar 14.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l2" points="76,260 87,260 89,266 108,252 125,252 131,263 136,258 170,257 194,257 203,255 221,251 232,251 246,256 250,264 276,250 282,250 285,256 320,256 320,250 326,250 327,258 344,256 361,251 377,251 379,258 401,256 416,256 435,256 453,250 476,250 478,256 505,256 506,250 510,250 512,256 536,256 547,255 558,255 562,263 591,256 597,256 597,250 609,250 622,255 629,253 644,253 654,255 678,253 684,253 721,255 723,249 767,249 786,254 786,264 767,265 678,267 667,267 622,265 566,267 536,268 524,268 416,266 359,267 338,269 327,269 320,267 253,268 250,268 194,267 168,270 156,270 125,268 89,268 76,266" baseline="76,268 382,266 565,265 786,265" reason: differs: "8.Ma" against "| st" | Wikisource:  | next_nc_e1: 8. Margaretha, Landgräfin von Thüringen, überträgt mit Zu- | german_print2_15: 8. Margaretha, Landgräfin von Thüringen, überträgt mit Zu- -->
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="107,287 117,282 223,278 263,286 274,277 291,277 299,283 327,283 328,277 358,277 361,285 373,285 386,277 421,277 423,283 457,280 483,283 484,276 494,276 495,282 529,282 531,276 536,276 537,282 586,282 602,280 615,284 615,276 626,276 628,284 640,282 655,283 658,276 703,276 717,280 744,281 780,279 781,285 786,285 786,287 780,291 717,292 263,293 202,296 185,296 107,294" />
+				<Baseline points="107,294 262,292 786,290" />
+				<TextEquiv index="1">
+					<Unicode>stimmung ihres Gemahles Albert das ihr zustehende Patronats-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="108,310 131,312 138,304 148,304 173,310 184,310 186,304 198,304 205,310 217,310 235,304 246,304 248,310 264,311 284,303 306,303 316,309 326,309 328,303 339,303 340,311 349,311 368,303 380,303 389,308 391,316 413,303 421,303 427,311 438,311 442,303 453,303 457,309 506,309 600,308 601,302 613,302 614,308 625,308 627,302 639,302 640,308 662,302 674,302 675,310 695,308 711,302 736,302 737,308 787,308 787,317 506,319 442,319 427,317 421,325 413,325 395,319 108,320" />
+				<Baseline points="108,320 787,317" />
+				<TextEquiv index="1">
+					<Unicode>recht über die Kirche St. Johannis ausserhalb der Mauern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="107,337 129,337 131,331 141,331 156,339 162,330 173,330 175,339 198,330 279,330 280,336 299,336 300,330 311,330 313,338 347,335 376,337 379,329 389,329 397,335 404,335 417,329 425,329 436,330 442,335 455,336 456,329 468,329 485,337 498,335 517,335 521,329 527,329 540,333 560,329 593,329 598,337 611,335 665,335 684,328 696,328 697,336 709,334 726,334 741,342 746,328 763,328 787,335 787,343 746,345 129,347 107,347" />
+				<Baseline points="107,347 787,343" />
+				<TextEquiv index="1">
+					<Unicode>und die Marktkirche in der Stadt (civitas) Kemniz dem Abte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l6" points="106,357 122,357 126,365 151,362 166,357 171,357 173,364 186,362 207,361 213,361 255,362 257,356 295,356 296,364 307,362 339,359 350,356 358,356 362,362 386,362 407,360 419,360 452,364 452,356 463,356 504,355 511,355 512,364 525,361 562,361 564,355 581,355 583,361 602,361 603,355 614,355 615,363 625,363 639,355 651,355 652,362 673,362 686,355 704,355 767,354 774,354 787,359 787,370 774,371 714,371 704,370 690,371 663,371 614,371 602,372 562,372 503,372 452,372 419,372 386,372 324,372 295,372 255,373 184,373 122,373 106,373" baseline="106,373 212,372 725,370 755,370 787,371" reason: second model: differs: "VYse" against "Ysen" | Wikisource: Ysenhart und dem Convente der Marienkirche daselbst. Mit | next_nc_e1: Ysenhart und dem Convente der Marienkirche daselbst. Mit | german_print2_15: VYsenhart und dem Convente der Marienkirche daselbst. Mit -->
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="106,383 119,383 126,390 182,389 182,399 161,402 143,402 106,399" />
+				<Baseline points="106,399 182,399" />
+				<TextEquiv index="1">
+					<Unicode>Zeugen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l8" points="145,428 151,428 155,415 165,415 247,420 262,426 267,421 279,420 289,420 310,422 311,414 322,414 324,427 343,419 350,418 361,417 372,417 383,419 385,427 405,418 417,418 429,420 442,413 454,413 472,413 475,426 494,413 512,413 514,419 536,417 547,417 547,429 411,429 383,434 372,434 328,430 247,432 239,432 145,431" baseline="145,431 164,430 387,429 547,429" reason: differs: "Al,a" against "| | " | Wikisource:  | next_nc_e1: Al , ao. di. 1264, 16. kal. Mart. | german_print2_15: Al c, ao. di. 1264, 16. kal. Mart. -->
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="130,448 138,446 148,446 180,451 184,456 202,449 229,448 232,456 249,445 254,445 268,446 288,450 290,457 305,450 315,450 342,444 352,444 353,451 363,449 384,448 422,449 432,444 457,444 487,444 490,451 514,449 521,444 526,444 542,449 588,444 593,444 659,446 678,452 679,445 694,445 697,456 712,444 717,444 726,447 789,445 789,459 784,462 760,462 739,458 717,457 700,459 640,458 542,460 465,458 422,461 377,458 288,462 279,462 268,459 206,461 180,459 159,464 149,464 148,458 130,459" />
+				<Baseline points="130,459 789,457" />
+				<TextEquiv index="1">
+					<Unicode>Copie. (Or. Perg. mit dem Siegel der Landgräfin im H.-St.-A. Dr. 635.)</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>1264, Februar 14.
+stimmung ihres Gemahles Albert das ihr zustehende Patronats-
+recht über die Kirche St. Johannis ausserhalb der Mauern
+und die Marktkirche in der Stadt (civitas) Kemniz dem Abte
+Zeugen.
+Copie. (Or. Perg. mit dem Siegel der Landgräfin im H.-St.-A. Dr. 635.)</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="107,493 788,493 788,605 107,605" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="352,498 392,498 393,506 416,507 416,493 434,493 461,493 495,497 497,506 499,506 499,508 495,512 441,508 434,514 416,514 383,513 368,509 352,509" />
+				<Baseline points="352,509 499,508" />
+				<TextEquiv index="1">
+					<Unicode>1264, April 13.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="108,526 121,526 121,532 155,530 176,525 219,525 228,531 246,531 262,524 285,524 305,530 367,529 388,533 390,524 400,524 408,530 433,525 450,524 454,524 485,530 509,530 510,524 521,524 539,533 545,524 555,524 558,530 588,527 598,524 607,524 610,530 668,528 688,533 690,524 701,524 703,532 716,532 732,524 738,524 788,531 788,536 774,540 593,539 448,541 155,541 141,539 138,547 134,547 131,541 108,541" />
+				<Baseline points="108,541 788,539" />
+				<TextEquiv index="1">
+					<Unicode>Papst Urban IV nimmt den Abt und den Convent des Bene-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="107,560 113,552 125,552 126,558 137,556 179,558 184,551 201,551 211,559 224,555 251,556 321,554 328,555 330,564 347,551 371,551 373,557 443,556 465,550 480,550 484,559 505,556 660,557 675,551 687,551 687,559 698,551 703,551 705,557 724,555 745,557 745,567 201,566 156,568 125,568 113,568 107,567" />
+				<Baseline points="107,567 745,567" />
+				<TextEquiv index="1">
+					<Unicode>dictinerklosters zu St. Marien in Kemniz in seinen Schutz.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l3" points="145,591 154,591 155,583 172,583 174,589 184,589 184,583 220,583 228,589 234,589 239,583 247,583 258,588 290,589 334,595 343,589 354,588 384,588 385,582 397,582 399,596 418,583 433,583 440,588 455,588 457,596 467,596 481,589 492,589 525,588 530,588 562,587 581,582 589,582 617,587 617,603 605,603 549,598 532,596 530,604 525,604 509,598 492,598 467,600 457,600 447,598 440,604 435,604 364,601 354,601 247,599 220,599 184,599 174,598 172,605 155,605 154,599 145,599" baseline="145,599 212,598 617,598" reason: differs: "Apud" against "| | " | Wikisource:  | next_nc_e1: Apud Urbem em, id. Apr., ao. pontiſ. 3.
+ | german_print2_15: Apud Urbem 2 em, id. Apr., ao. pontif. 3.
+ -->
+			<TextEquiv index="1">
+				<Unicode>1264, April 13.
+Papst Urban IV nimmt den Abt und den Convent des Bene-
+dictinerklosters zu St. Marien in Kemniz in seinen Schutz.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="132,613 657,613 657,632 132,632" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="132,615 149,614 182,618 183,624 209,620 216,617 261,614 294,618 296,624 314,618 367,613 380,613 388,618 421,618 428,620 432,613 436,613 463,618 468,622 482,614 496,614 499,621 512,616 523,614 547,614 547,625 560,624 579,614 592,616 621,616 632,613 643,613 657,613 657,629 646,631 632,631 604,627 510,626 421,629 359,626 286,628 261,626 232,627 216,624 214,630 161,632 152,632 149,625 132,626" />
+				<Baseline points="132,626 657,627" />
+				<TextEquiv index="1">
+					<Unicode>Copie. (Or. Perg. mit Bleisiegel im H.-St.-A. Dr. 613.)</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Copie. (Or. Perg. mit Bleisiegel im H.-St.-A. Dr. 613.)</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="83,660 790,660 790,853 83,853" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="361,666 398,666 400,674 419,661 431,660 437,660 440,667 471,666 481,662 492,662 494,674 497,674 497,677 387,682 378,682 377,676 361,676" />
+				<Baseline points="361,676 497,677" />
+				<TextEquiv index="1">
+					<Unicode>1274, Mai 28.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l1" points="83,698 87,698 103,700 104,706 123,693 136,693 136,699 160,699 170,698 190,693 207,693 236,693 239,699 250,699 260,698 275,698 290,692 305,692 334,693 335,700 339,700 355,697 427,692 439,692 440,701 452,698 483,694 500,693 505,693 519,696 574,699 575,693 586,693 605,700 611,693 623,693 629,699 661,695 673,693 681,693 685,699 709,699 731,697 744,697 764,700 765,693 776,693 778,700 790,700 790,707 776,709 709,709 685,709 668,708 646,709 586,709 519,709 498,709 483,709 439,708 355,708 339,707 326,708 250,709 220,709 190,708 160,714 149,714 147,708 136,709 87,709 83,709" baseline="83,709 173,708 790,707" reason: differs: "10.P" against "| st" | Wikisource:  | next_nc_e1: 10. Papst Gregor X bestä dem Abte und dem Convent des | german_print2_15: 10. Papst Gregor X bestät dem Abte und dem Convent des -->
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="123,719 150,719 155,727 168,723 222,727 225,719 235,719 243,725 265,719 269,719 272,726 280,726 280,719 300,719 310,725 323,725 323,719 337,719 337,725 354,719 372,719 380,725 444,725 456,719 471,719 476,728 490,725 530,725 530,719 546,719 546,725 578,727 580,719 591,719 591,725 625,725 627,719 638,719 640,725 703,725 712,720 764,720 767,727 787,726 787,736 372,735 337,737 294,737 280,737 269,735 123,735" />
+				<Baseline points="123,735 787,735" />
+				<TextEquiv index="1">
+					<Unicode>Klosters der heiligen Maria in Kemnyz, das ihm unmittelbar</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="122,752 174,752 189,750 202,753 203,746 214,746 221,750 223,759 256,745 274,745 277,753 286,753 303,745 324,745 325,753 337,751 343,745 355,745 356,753 374,749 398,751 446,751 448,745 497,746 510,750 519,739 532,739 533,759 558,745 582,746 585,753 606,746 617,746 619,754 631,752 647,752 664,746 692,746 696,753 710,751 789,752 789,762 606,762 585,756 582,762 536,763 533,763 459,761 122,762" />
+				<Baseline points="122,762 789,762" />
+				<TextEquiv index="1">
+					<Unicode>untersteht, alle Freiheiten und Güter, die dem Kloster von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l4" custom="readingOrder {index:4;}">
+				<Coords points="121,780 142,778 182,778 198,772 218,772 222,778 242,778 242,772 255,772 265,778 314,777 342,775 359,772 363,772 365,778 388,778 390,772 394,772 417,778 451,778 461,772 472,772 479,778 489,778 504,772 509,772 509,780 520,778 538,778 539,772 548,772 548,788 334,787 288,791 255,791 242,791 235,789 208,787 130,788 121,786" />
+				<Baseline points="121,787 548,788" />
+				<TextEquiv index="1">
+					<Unicode>seinen Vorgängern ertheilt worden sind.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l5" custom="readingOrder {index:5;}">
+				<Coords points="150,804 160,804 160,810 185,811 194,804 207,804 207,810 258,808 259,816 279,804 283,804 283,814 295,814 297,803 308,803 310,816 329,803 337,803 345,809 369,810 370,817 389,810 449,811 458,809 477,808 489,804 497,804 526,809 526,824 458,820 449,818 441,818 438,825 433,825 417,819 374,821 345,819 337,826 329,826 314,819 258,824 169,822 160,820 150,820" />
+				<Baseline points="150,819 526,820" />
+				<TextEquiv index="1">
+					<Unicode>Lugduni, 5. kal. Jun., ao. pontif. 3.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l6" custom="readingOrder {index:6;}">
+				<Coords points="132,837 172,839 186,845 214,837 266,835 293,840 364,834 379,834 385,839 429,841 430,834 433,834 447,840 482,835 496,835 498,843 509,843 511,835 522,835 541,843 543,836 558,836 560,846 577,835 582,835 591,839 626,837 632,834 643,834 657,834 657,852 647,853 628,853 626,846 603,849 534,848 409,851 385,848 356,848 284,851 214,845 212,851 172,848 161,853 152,853 149,846 132,846" />
+				<Baseline points="132,848 617,847 657,849" />
+				<TextEquiv index="1">
+					<Unicode>Copie. (Or. Perg. mit Bleisiegel im H.-St.-A. Dr. 833.)</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>1274, Mai 28.
+Klosters der heiligen Maria in Kemnyz, das ihm unmittelbar
+untersteht, alle Freiheiten und Güter, die dem Kloster von
+seinen Vorgängern ertheilt worden sind.
+Lugduni, 5. kal. Jun., ao. pontif. 3.
+Copie. (Or. Perg. mit Bleisiegel im H.-St.-A. Dr. 833.)</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="89,882 792,882 792,1021 89,1021" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="361,888 399,888 401,896 418,883 430,882 436,882 439,889 470,887 475,883 495,883 495,899 429,899 387,904 378,904 377,898 361,899" />
+				<Baseline points="361,899 495,899" />
+				<TextEquiv index="1">
+					<Unicode>1274, Mai 28.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l1" points="89,919 102,919 105,927 124,913 137,913 138,919 161,919 171,918 192,914 208,914 220,919 288,914 304,914 322,920 329,914 340,914 341,920 365,918 385,918 403,926 409,921 415,914 455,914 463,915 503,920 509,921 527,915 539,915 540,923 559,923 574,916 595,916 609,919 674,921 675,915 686,915 712,914 721,914 724,920 770,917 783,917 792,921 792,928 783,930 749,930 724,930 707,929 674,931 651,931 615,930 609,931 589,932 574,932 539,931 505,931 455,930 249,933 237,933 220,929 171,929 161,935 150,935 149,929 89,929" baseline="89,929 574,929 701,929 792,930" reason: differs: "II.P" against "| st" | Wikisource:  | next_nc_e1: II. Papst Gregor X nimmt auf Bitten des Abtes und Convents | german_print2_15: II. Papst Gregor X nimmt auf Bitten des Abtes und Convents -->
+			<TextLine id="r5l2" custom="readingOrder {index:2;}">
+				<Coords points="123,940 134,940 136,947 173,946 179,940 190,940 192,946 227,941 317,941 320,948 330,946 387,945 397,941 410,941 430,944 439,941 457,941 476,948 494,941 517,941 518,947 567,947 585,941 597,941 599,950 617,948 637,942 642,942 644,948 666,947 668,941 673,941 681,947 715,947 734,940 752,940 755,946 791,946 791,956 697,960 681,960 642,958 494,957 473,950 470,956 123,956" />
+				<Baseline points="123,956 791,956" />
+				<TextEquiv index="1">
+					<Unicode>das ihm unmittelbar unterstellte Kloster der heiligen Maria</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l3" custom="readingOrder {index:3;}">
+				<Coords points="124,966 135,966 137,972 156,966 172,966 176,973 366,973 379,967 408,967 409,973 429,971 449,973 449,983 427,983 366,983 343,983 326,983 124,982" />
+				<Baseline points="124,982 449,982" />
+				<TextEquiv index="1">
+					<Unicode>in Kemnicz in seinen Schutz.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l4" custom="readingOrder {index:4;}">
+				<Coords points="153,998 166,998 167,1004 181,1005 187,998 210,998 210,1004 260,1002 263,1011 281,998 293,998 294,1004 298,1004 306,998 340,998 348,1004 372,1005 373,1012 392,1010 398,1005 453,1005 479,1003 489,998 500,998 523,1003 525,1012 527,1012 527,1015 523,1019 516,1019 444,1013 442,1020 436,1020 421,1014 377,1016 342,1015 340,1021 332,1021 317,1014 238,1018 172,1018 153,1013" />
+				<Baseline points="153,1013 527,1015" />
+				<TextEquiv index="1">
+					<Unicode>Lugduni, 5. kal. Jun., ao. pontif. 3.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>1274, Mai 28.
+das ihm unmittelbar unterstellte Kloster der heiligen Maria
+in Kemnicz in seinen Schutz.
+Lugduni, 5. kal. Jun., ao. pontif. 3.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="136,1028 511,1028 511,1046 136,1046" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="136,1028 154,1028 184,1034 190,1039 212,1032 237,1031 241,1040 258,1029 294,1029 322,1034 329,1032 377,1029 402,1034 429,1035 433,1029 499,1030 502,1038 511,1038 511,1043 422,1045 359,1043 296,1046 282,1046 262,1042 215,1041 166,1046 156,1046 154,1040 136,1040" />
+				<Baseline points="136,1040 511,1042" />
+				<TextEquiv index="1">
+					<Unicode>Copie. (Or. Perg. mit Bleisiegel im H.-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Copie. (Or. Perg. mit Bleisiegel im H.-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="126,1076 794,1076 794,1204 126,1204" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="374,1082 417,1082 431,1097 434,1076 448,1076 466,1077 487,1082 489,1090 492,1090 492,1093 448,1096 436,1099 431,1099 390,1098 390,1092 374,1092" />
+				<Baseline points="374,1092 492,1093" />
+				<TextEquiv index="1">
+					<Unicode>1274, Juli 1.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l1" custom="readingOrder {index:1;}">
+				<Coords points="126,1106 139,1106 139,1112 173,1111 197,1106 214,1106 219,1112 298,1107 360,1108 364,1114 441,1108 442,1116 453,1114 470,1114 487,1108 516,1108 517,1115 535,1115 536,1108 547,1108 547,1114 563,1112 572,1109 582,1109 584,1115 600,1114 609,1116 627,1108 643,1108 652,1114 659,1114 677,1108 695,1108 702,1116 709,1114 793,1114 793,1124 487,1125 441,1123 332,1126 244,1123 223,1121 173,1122 159,1120 157,1128 152,1128 150,1122 126,1122" />
+				<Baseline points="126,1122 627,1123 793,1125" />
+				<TextEquiv index="1">
+					<Unicode>Papst Gregor X gebietet dem Scholasticus der Meissner</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l2" custom="readingOrder {index:2;}">
+				<Coords points="129,1133 143,1133 153,1139 161,1139 172,1133 184,1133 185,1140 189,1140 197,1146 215,1132 227,1132 238,1132 259,1138 306,1133 318,1133 319,1141 359,1134 379,1134 388,1140 480,1140 481,1134 491,1134 494,1142 506,1142 517,1135 575,1141 604,1136 625,1135 641,1137 652,1142 660,1143 670,1134 682,1134 683,1142 694,1140 711,1140 723,1134 751,1134 755,1141 769,1138 781,1138 791,1140 791,1150 652,1149 619,1151 575,1151 559,1151 443,1151 407,1151 388,1151 368,1149 306,1149 266,1147 200,1150 184,1148 129,1149" />
+				<Baseline points="129,1149 791,1150" />
+				<TextEquiv index="1">
+					<Unicode>Kirche, die von dem Vorgänger des jetzigen Abtes dem Kloster</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l3" points="128,1159 142,1159 148,1167 163,1165 216,1164 224,1164 261,1162 271,1162 279,1163 294,1164 319,1165 320,1159 331,1159 350,1164 391,1162 402,1161 408,1161 434,1164 449,1166 450,1174 473,1166 485,1166 555,1166 577,1161 595,1161 596,1167 607,1167 633,1168 633,1160 646,1160 653,1166 666,1166 668,1160 703,1160 703,1166 712,1166 731,1164 748,1161 760,1161 772,1166 773,1160 784,1160 786,1167 794,1167 794,1176 760,1177 746,1177 712,1181 700,1181 633,1177 607,1180 596,1180 589,1177 564,1177 555,1176 543,1176 485,1175 454,1177 450,1177 372,1176 362,1176 350,1175 331,1175 302,1175 294,1174 224,1174 216,1174 208,1180 192,1180 142,1175 128,1175" baseline="128,1174 794,1176" reason: differs: "wenöthi" against "wenn nö" | Wikisource:  | next_nc_e1: Kemnyz entfremdeten Güter, we nöthig durch geistliche | german_print2_15: Kemnyz entfremdeten Güter, we nöthig durch geistliche -->
+			<TextLine id="r7l4" custom="readingOrder {index:4;}">
+				<Coords points="127,1189 138,1186 147,1186 154,1192 255,1192 258,1185 263,1185 270,1197 299,1184 314,1184 350,1190 370,1191 426,1192 439,1187 479,1187 526,1193 554,1193 554,1202 526,1204 515,1204 479,1202 384,1202 326,1200 201,1202 154,1202 127,1200" />
+				<Baseline points="127,1200 554,1202" />
+				<TextEquiv index="1">
+					<Unicode>Censur, an das Kloster zurückzubringen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>1274, Juli 1.
+Papst Gregor X gebietet dem Scholasticus der Meissner
+Kirche, die von dem Vorgänger des jetzigen Abtes dem Kloster
+Censur, an das Kloster zurückzubringen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="155,1215 492,1215 492,1238 155,1238" />
+			<TextLine id="r8l0" custom="readingOrder {index:0;}">
+				<Coords points="155,1217 212,1217 212,1223 241,1223 256,1216 260,1216 260,1222 291,1219 306,1236 309,1215 322,1215 341,1216 342,1229 359,1222 407,1223 444,1221 454,1217 464,1217 481,1227 488,1227 492,1230 492,1233 488,1237 481,1237 420,1233 409,1231 407,1238 401,1238 386,1232 322,1234 311,1238 306,1238 291,1231 241,1235 212,1233 176,1235 155,1233" />
+				<Baseline points="155,1232 385,1231 492,1233" />
+				<TextEquiv index="1">
+					<Unicode>Lugduni, kal. Jul., ao. pontif. 3.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Lugduni, kal. Jul., ao. pontif. 3.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="137,1246 660,1246 660,1267 137,1267" />
+			<!-- line left out: id="r9l0" points="137,1249 146,1248 161,1248 179,1252 184,1248 186,1248 235,1249 248,1253 262,1247 266,1247 364,1247 372,1246 377,1246 392,1251 406,1252 426,1252 436,1247 440,1247 501,1247 509,1255 516,1247 527,1247 541,1247 547,1258 552,1247 587,1247 601,1249 629,1249 646,1249 660,1249 660,1267 646,1267 630,1267 629,1259 608,1261 567,1261 541,1261 527,1261 501,1260 426,1264 416,1264 392,1260 266,1260 218,1262 186,1266 167,1266 163,1266 146,1261 137,1259" baseline="137,1259 344,1259 620,1260 660,1261" reason: differs: "Copi" against "| | " | Wikisource:  | next_nc_e1: Copie. (Or. Pe mit Bleisiegel im H.-St.-A. Dr. 838.)
+ | german_print2_15: Copie. (Or. Pe mit Bleisiegel im H.-St.-A. Dr. 838.)
+ -->
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="366,1289 505,1289 505,1309 366,1309" />
+			<TextLine id="r10l0" custom="readingOrder {index:0;}">
+				<Coords points="366,1294 383,1289 394,1289 405,1294 407,1302 425,1289 451,1289 459,1295 501,1293 502,1303 505,1303 505,1305 405,1309 400,1309 382,1305 366,1305" />
+				<Baseline points="366,1305 505,1305" />
+				<TextEquiv index="1">
+					<Unicode>1284, März 6.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>1284, März 6.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="92,1320 796,1320 796,1368 92,1368" />
+			<!-- line left out: id="r11l0" points="92,1326 109,1326 110,1334 129,1321 142,1321 142,1327 166,1327 175,1325 197,1321 215,1321 224,1328 234,1326 251,1326 261,1327 275,1328 293,1321 317,1321 340,1324 376,1324 422,1324 442,1320 453,1320 454,1327 470,1326 501,1321 532,1321 554,1324 597,1329 597,1321 613,1321 613,1328 624,1328 641,1322 647,1322 655,1328 671,1328 673,1322 678,1322 686,1328 721,1328 738,1322 750,1321 764,1321 771,1327 796,1327 796,1337 750,1338 698,1342 686,1342 592,1338 554,1337 532,1337 422,1339 364,1339 337,1339 299,1337 275,1338 224,1338 166,1342 154,1342 109,1340 102,1340 92,1337" baseline="92,1337 422,1336 442,1336 796,1337" reason: differs: "13.P" against "| st" | Wikisource:  | next_nc_e1: 13. Papst Martin IV gestattet dem Kloster der heiligen Maria | german_print2_15: 13. Papst Martin IV gestattet dem Kloster der heiligen Maria -->
+			<TextLine id="r11l1" custom="readingOrder {index:1;}">
+				<Coords points="130,1353 147,1353 163,1347 179,1347 182,1355 197,1353 288,1353 293,1347 309,1347 317,1353 373,1353 375,1347 386,1347 420,1353 470,1351 492,1347 510,1347 512,1353 576,1351 604,1353 628,1348 694,1348 713,1354 741,1354 741,1348 753,1348 763,1353 786,1353 786,1347 796,1347 796,1363 753,1364 694,1368 682,1368 672,1364 309,1363 242,1365 130,1363" />
+				<Baseline points="130,1363 796,1363" />
+				<TextEquiv index="1">
+					<Unicode>in Kemniz, welches ihm unmittelbar unterstellt ist, während</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>in Kemniz, welches ihm unmittelbar unterstellt ist, während</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="397,1549 654,1549 654,1561 397,1561" />
+			<!-- line left out: id="r12l0" points="397,1549 405,1549 411,1550 425,1549 437,1549 446,1549 459,1549 472,1549 488,1549 497,1549 528,1549 551,1549 574,1549 640,1549 654,1550 654,1558 632,1558 574,1560 554,1560 534,1558 488,1558 446,1561 429,1561 417,1560 410,1560 397,1558" baseline="397,1558 654,1558" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnp digital slub-dresden de ppn30125964245
+ | german_print2_15: PGigital slub-dresden de ppne0125964245
+ -->
+		</TextRegion>
+		<GraphicRegion id="r13">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+| colspan="2"; style="text-align:center;" | 1264, Februar 14.
+| style="vertical-align:top;"| 8.
+| Margaretha, Landgräfin von Thüringen, überträgt mit Zustimmung ihres Gemahles Albert das ihr zustehende Patronatsrecht über die Kirche St. Johannis ausserhalb der Mauern und die Marktkirche in der Stadt (civitas) Kemniz dem Abte Ysenhart und dem Convente der Marienkirche daselbst. Mit Zeugen.
+|
+| Aldenburc, ao. di. 1264, 16. kal. Mart.
+|
+| Copie. (Or. Perg. mit dem Siegel der Landgräfin im H.-St.-A. Dr. 635.)
+| colspan="2"; style="text-align:center;" | 1264, April 13.
+| style="vertical-align:top;"| 9.
+| Papst Urban IV nimmt den Abt und den Convent des Benedictinerklosters zu St. Marien in Kemniz in seinen Schutz.
+|
+| Apud Urbem veterem, id. Apr., ao. pontif. 3.
+|
+| Copie. (Or. Perg. mit Bleisiegel im H.-St.-A. Dr. 613.)
+| colspan="2"; style="text-align:center;" | 1274, Mai 28.
+| style="vertical-align:top;"| 10.
+| Papst Gregor X bestätigt dem Abte und dem Convent des Klosters der heiligen Maria in Kemnyz, das ihm unmittelbar untersteht, alle Freiheiten und Güter, die dem Kloster von seinen Vorgängern ertheilt worden sind.
+|
+| Lugduni, 5. kal. Jun., ao. pontif. 3.
+|
+| Copie. (Or. Perg. mit Bleisiegel im H.-St.-A. Dr. 833.)
+| colspan="2"; style="text-align:center;" | 1274, Mai 28.
+| style="vertical-align:top;"| 11.
+| Papst Gregor X nimmt auf Bitten des Abtes und Convents das ihm unmittelbar unterstellte Kloster der heiligen Maria in Kemnicz in seinen Schutz.
+|
+| Lugduni, 5. kal. Jun., ao. pontif. 3.
+|
+| Copie. (Or. Perg. mit Bleisiegel im H.-St.-A. Dr. 832.)
+| colspan="2"; style="text-align:center;" | 1274, Juli 1.
+| style="vertical-align:top;"| 12.
+| Papst Gregor X gebietet dem Scholasticus der Meissner Kirche, die von dem Vorgänger des jetzigen Abtes dem Kloster Kemnyz entfremdeten Güter, wenn nöthig durch geistliche Censur, an das Kloster zurückzubringen.
+|
+| Lugduni, kal. Jul., ao. pontif. 3.
+|
+| Copie. (Or. Perg. mit Bleisiegel im H.-St.-A. Dr. 838.)
+| colspan="2"; style="text-align:center;" | 1284, März 6.
+| style="vertical-align:top;"| 13.
+| Papst Martin IV gestattet dem Kloster der heiligen Maria in Kemniz, welches ihm unmittelbar unterstellt ist, während
+-->
+	</Page>
+</PcGts>

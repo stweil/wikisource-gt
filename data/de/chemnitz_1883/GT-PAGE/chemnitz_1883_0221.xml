@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:56:41</Created>
+		<LastChange>2026-11-23T13:56:41</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/221 revision 5068281 of 2026-10-01T22:52:14Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0221.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro13870203954215739304" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="640,225 777,225 777,240 640,240" />
+			<TextLine id="r0l0" custom="readingOrder {index:0;}">
+				<Coords points="640,238 650,238 652,231 688,233 690,225 700,225 737,231 777,230 777,240 737,240 668,240 640,240" />
+				<Baseline points="640,240 777,240" />
+				<TextEquiv index="1">
+					<Unicode>hm dafür ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>hm dafür ein</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="663,304 778,304 778,398 663,398" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="697,305 703,304 731,304 734,310 743,310 746,304 750,304 753,313 759,313 759,319 697,319" />
+				<Baseline points="697,319 759,319" />
+				<TextEquiv index="1">
+					<Unicode>Anleihe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l1" points="663,329 667,329 682,333 700,336 717,330 737,330 746,334 767,336 777,337 777,346 770,346 667,345 663,345" baseline="663,345 777,345" reason: differs: "DenE" against "n ⟦⟧" | Wikisource:  | next_nc_e1: Den Ertrag | german_print2_15: Den Ertrag -->
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="667,360 687,360 761,360 778,369 778,372 751,372 726,372 675,372 667,371" />
+				<Baseline points="667,372 778,372" />
+				<TextEquiv index="1">
+					<Unicode>den muſste,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l3" points="673,395 684,389 690,387 695,387 717,387 749,388 778,388 778,397 749,398 684,398 673,397" baseline="673,398 778,397" reason: differs: "nätz" against "wenn" | Wikisource:  | next_nc_e1: nätzte man
+ | german_print2_15: nätzte man
+ -->
+			<TextEquiv index="1">
+				<Unicode>Anleihe
+den muſste,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="679,519 780,519 780,555 679,555" />
+			<!-- line left out: id="r2l0" points="744,521 750,519 766,519 780,521 780,526 766,528 744,528" baseline="744,528 780,526" reason: differs: "mnes" against "war " | Wikisource:  | next_nc_e1: mnes | german_print2_15: nnes -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="679,540 683,540 688,546 698,546 706,544 718,544 729,540 734,540 752,545 765,539 769,539 772,546 779,546 779,555 772,555 725,555 704,555 679,555" />
+				<Baseline points="679,555 779,554" />
+				<TextEquiv index="1">
+					<Unicode>Lutirbach,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Lutirbach,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="700,566 780,566 780,582 700,582" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="700,569 729,576 729,566 747,566 780,574 780,581 742,582 704,582 700,582" />
+				<Baseline points="700,582 780,580" />
+				<TextEquiv index="1">
+					<Unicode>Jakobus,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Jakobus,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="593,696 781,696 781,764 593,764" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="662,706 669,696 673,696 676,704 698,699 740,696 743,696 746,702 754,702 754,696 766,696 776,706 781,706 781,707 766,711 684,711 669,711 662,710" />
+				<Baseline points="662,711 781,710" />
+				<TextEquiv index="1">
+					<Unicode>die Ottilien-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="677,728 706,726 710,737 719,737 722,731 734,722 738,722 742,730 771,726 781,726 781,738 738,736 719,739 710,739 700,737 677,737" />
+				<Baseline points="677,737 781,738" />
+				<TextEquiv index="1">
+					<Unicode>aufgebaut,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="593,749 596,749 600,758 618,754 653,755 661,748 671,748 680,754 688,753 692,748 705,748 714,754 781,755 781,763 758,762 751,764 705,764 640,764 618,764 600,761 593,753" />
+				<Baseline points="593,764 781,763" />
+				<TextEquiv index="1">
+					<Unicode>ls hundertjährigem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>die Ottilien-
+aufgebaut,
+ls hundertjährigem</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="646,778 775,778 775,792 646,792" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="646,779 761,778 765,778 775,780 775,789 721,792 709,792 699,792 691,789 646,789" />
+				<Baseline points="646,789 775,787" />
+				<TextEquiv index="1">
+					<Unicode>besorgten die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>besorgten die</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="705,883 781,883 781,894 705,894" />
+			<!-- line left out: id="r6l0" points="705,886 715,886 737,883 751,883 781,883 781,894 758,894 736,894 718,892 705,890" baseline="705,892 781,893" reason: differs: "genann" against "Geistl" | Wikisource:  | next_nc_e1: genannt
+ | german_print2_15: genannt
+ -->
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="572,905 784,905 784,1024 572,1024" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="605,911 636,911 648,916 661,905 684,905 684,911 694,911 704,905 725,905 728,913 745,911 783,911 783,920 745,920 728,918 718,926 694,926 670,926 639,921 605,920" />
+				<Baseline points="605,920 783,920" />
+				<TextEquiv index="1">
+					<Unicode>rum, Kapelle zum</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l1" custom="readingOrder {index:1;}">
+				<Coords points="572,932 576,932 586,940 597,937 628,937 657,939 660,931 670,931 679,937 698,931 709,931 711,939 745,932 754,932 767,937 783,939 783,944 767,946 611,946 601,952 597,952 589,944 572,946" />
+				<Baseline points="572,946 783,945" />
+				<TextEquiv index="1">
+					<Unicode>Lepra oder der Aus-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l2" custom="readingOrder {index:2;}">
+				<Coords points="615,969 621,963 631,962 703,962 730,964 733,957 738,957 740,963 778,963 778,974 771,974 615,972" />
+				<Baseline points="615,972 778,970" />
+				<TextEquiv index="1">
+					<Unicode>ankheiten, die je</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l3" points="649,983 672,983 674,989 696,983 701,983 721,983 725,990 733,990 742,983 744,983 768,987 784,987 784,998 765,998 733,995 721,997 715,998 696,998 674,992 672,998 649,998" baseline="649,997 743,997 784,998" reason: differs: "derBi" against "die M" | Wikisource:  | next_nc_e1: der Bibel ist | german_print2_15: der Bibel ist -->
+			<TextLine id="r7l4" custom="readingOrder {index:4;}">
+				<Coords points="620,1015 672,1015 675,1022 706,1009 721,1009 723,1017 736,1015 759,1016 762,1009 771,1009 783,1013 783,1024 776,1024 721,1024 662,1024 620,1023" />
+				<Baseline points="620,1024 783,1024" />
+				<TextEquiv index="1">
+					<Unicode>wesen. Herodot</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>rum, Kapelle zum
+Lepra oder der Aus-
+ankheiten, die je
+wesen. Herodot</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="510,1035 789,1035 789,1338 510,1338" />
+			<!-- line left out: id="r8l0" points="632,1042 644,1041 663,1041 674,1035 684,1035 741,1037 755,1040 775,1039 784,1039 784,1050 755,1050 742,1050 684,1049 663,1050 642,1050 632,1050" baseline="632,1050 784,1050" reason: differs: "ausd" against "nenn" | Wikisource:  | next_nc_e1: aus d Orient
+ | german_print2_15: aus d- Orient
+ -->
+			<TextLine id="r8l1" custom="readingOrder {index:1;}">
+				<Coords points="662,1067 690,1067 697,1061 724,1060 737,1060 757,1061 764,1066 785,1066 785,1075 666,1076 662,1076" />
+				<Baseline points="662,1075 785,1075" />
+				<TextEquiv index="1">
+					<Unicode>nach Italien</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l2" custom="readingOrder {index:2;}">
+				<Coords points="622,1095 660,1093 671,1091 691,1092 704,1086 708,1086 711,1093 728,1092 757,1087 766,1087 778,1093 785,1093 785,1101 644,1102 634,1102 622,1100" />
+				<Baseline points="622,1100 785,1101" />
+				<TextEquiv index="1">
+					<Unicode>christlichen Ära</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l3" custom="readingOrder {index:3;}">
+				<Coords points="674,1112 678,1112 695,1114 727,1124 732,1120 740,1118 786,1119 786,1126 766,1128 757,1128 674,1127" />
+				<Baseline points="674,1127 786,1126" />
+				<TextEquiv index="1">
+					<Unicode>Die Longo-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l4" custom="readingOrder {index:4;}">
+				<Coords points="664,1144 734,1144 763,1138 768,1138 771,1144 786,1144 786,1153 763,1153 734,1159 707,1159 707,1150 685,1150 675,1159 664,1159" />
+				<Baseline points="664,1153 786,1153" />
+				<TextEquiv index="1">
+					<Unicode>prosen. Im</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l5" custom="readingOrder {index:5;}">
+				<Coords points="665,1164 674,1163 684,1163 686,1172 700,1173 708,1164 718,1164 720,1170 786,1170 786,1179 741,1179 718,1179 684,1179 665,1179" />
+				<Baseline points="665,1179 786,1179" />
+				<TextEquiv index="1">
+					<Unicode>Flecken ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r8l6" points="585,1200 603,1190 629,1190 680,1194 691,1195 709,1197 711,1189 722,1189 724,1199 745,1190 765,1190 779,1192 782,1199 787,1199 787,1201 779,1204 765,1205 722,1205 711,1205 691,1204 651,1205 629,1205 603,1205 585,1202" baseline="585,1205 650,1204 705,1204 787,1205" reason: differs: "sHla" against "Lepr" | Wikisource:  | next_nc_e1: s Hlaus für die Hoſ- | german_print2_15: s IHaus für die Hofſ- -->
+			<!-- line left out: id="r8l7" points="576,1229 581,1220 600,1220 636,1221 701,1221 719,1215 733,1215 746,1221 772,1221 787,1222 787,1231 772,1236 762,1236 758,1229 750,1231 724,1231 665,1231 649,1231 600,1230 591,1231 576,1231" baseline="576,1230 700,1230 787,1231" reason: second model: differs: "ialt" against "13. " | Wikisource: hlte man in Europa | next_nc_e1: ilte man in Europa | german_print2_15: ialte man in Europa -->
+			<!-- line left out: id="r8l8" points="588,1241 617,1241 617,1247 647,1247 650,1241 660,1241 667,1245 718,1248 725,1241 736,1241 742,1246 763,1253 768,1242 780,1242 784,1251 788,1251 788,1254 780,1256 767,1257 718,1259 707,1259 681,1257 667,1256 617,1257 602,1257 588,1243" baseline="588,1256 707,1256 788,1257" reason: models differ | Wikisource: rkrankter galt als | next_nc_e1: rkrankter galt als | german_print2_15: Erkrankter galt als -->
+			<TextLine id="r8l9" custom="readingOrder {index:9;}">
+				<Coords points="580,1272 585,1272 588,1280 612,1273 619,1267 622,1267 625,1275 643,1273 683,1273 692,1267 704,1267 713,1273 724,1268 782,1273 782,1282 734,1283 711,1283 690,1283 680,1283 591,1283 588,1283 580,1282" />
+				<Baseline points="580,1282 782,1283" />
+				<TextEquiv index="1">
+					<Unicode>t, als unehrlich (wie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l10" custom="readingOrder {index:10;}">
+				<Coords points="561,1305 567,1303 587,1301 602,1293 607,1293 610,1299 647,1299 669,1294 679,1294 681,1301 692,1293 701,1293 723,1297 742,1297 744,1306 771,1300 782,1300 789,1303 789,1304 782,1306 748,1309 723,1308 647,1311 636,1311 561,1307" />
+				<Baseline points="561,1307 789,1308" />
+				<TextEquiv index="1">
+					<Unicode>als bürgerlich tot, so-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l11" custom="readingOrder {index:11;}">
+				<Coords points="510,1323 618,1325 620,1319 637,1319 644,1323 667,1325 682,1331 687,1323 699,1323 717,1326 734,1324 741,1326 748,1319 759,1319 767,1323 789,1325 789,1334 730,1334 718,1332 717,1338 702,1338 667,1335 510,1334" />
+				<Baseline points="510,1333 789,1334" />
+				<TextEquiv index="1">
+					<Unicode>den Erkrankten abgehalten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>nach Italien
+christlichen Ära
+Die Longo-
+prosen. Im
+Flecken ein
+t, als unehrlich (wie
+als bürgerlich tot, so-
+den Erkrankten abgehalten</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="394,1519 597,1519 597,1547 394,1547" />
+			<!-- line left out: id="r9l0" points="394,1529 402,1529 408,1530 424,1529 431,1529 447,1531 453,1529 456,1529 469,1529 499,1529 537,1529 537,1519 547,1519 551,1532 572,1530 587,1530 593,1536 597,1536 597,1538 566,1540 551,1540 547,1547 537,1547 537,1538 441,1541 434,1541 413,1540 407,1540 394,1538" baseline="394,1538 597,1538" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hup eigſtal slub dreseen e ppnss
+ | german_print2_15: dtal seb dreeden d. ornee
+ -->
+		</TextRegion>
+		<GraphicRegion id="r10">
+			<Coords points="0,0 1000,0 1000,1565 0,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Treffer. Die Schenkungen erfolgten in der Weise, daß der
+Schenkgeber vom Rate gewisse Zinsen kaufte und ihm dafür ein
+gewisses Kapital verkaufte. Die Darlehnsgeschäfte erfolgten im
+Mittelalter stets in der Form von Kaufverträgen, und wir erfahren
+zugleich den Zinsfuß, welchen die Stadt damals bei Anleihen
+zahlte. Derselbe wechselt von 5 bis 8⟦⟧ Prozent. Den Ertrag
+der Immerkuh, d. h. einer Kuh, welche ersetzt werden mußte,
+wenn sie gestorben oder geschlachtet worden war, schätzte man
+auf jährlich 8 Groschen.
+Der Altarist war dem Pfarrer zu St. Jakobi unterstellt, als
+Entschädigung (Restaurum) hatte er dem Bischof von Meißen
+nach der Matrikel v. J. 1495 zwei Mark zu entrichten. Folgende
+Altaristen sind bekannt: 1379 Andreas Helwig, 1415 Johannes
+Malzmeister (1408 Pfarrer zu St. Nikolai), 1430 Jürge Lutirbach,
+zugleich Pfarrer zu St. Jakobi und öffentlicher Notar, 1474 Jakobus,
+wahrscheinlich ein Mönch.
+Über die inneren Einrichtungen des Hospitals wissen wir so
+gut wie nichts. I. J. 1555 hatte es 25 Insassen.
+Die Georgenkirche wurde i. J. 1547 ebenso wie die
+Johanniskirche, die Nikolaikirche, der Siechhof zum h. Geist, die
+Ottilienkapelle niedergebrannt oder abgetragen, 1603 wieder aufgebaut,
+1632 abermals zerstört, 1708, also nach mehr als hundertjährigem
+Wüsteliegen, wieder hergestellt. Den Gottesdienst besorgten die
+Geistlichen von St. Jakobi, seit 1710 unter Mitwirkung derer von
+St. Johannis.
+Der Vortragende sprach hierauf über das Leprosenhaus,
+domus leprosorum, das auch Siechhof zum heiligen Geist genannt
+wird; die zugehörige Kapelle hieß capella leprosorum, Kapelle zum
+heiligen Geist oder Sigismundskapelle. Die Lepra oder der
+Aussatz ist eine der entsetzlichsten endemischen Krankheiten, die je
+die Menschheit heimgesucht haben. Der Aussatz der Bibel ist
+wahrscheinlich nicht die eigentliche Lepra gewesen. Herodot
+nennt die Lepra eine persische Krankheit; sie ist aus dem Orient
+nach Griechenland, von da im Jahre 62 v. Chr. nach Italien
+eingeschleppt worden und war beim Beginn der christlichen Ära
+bereits in Spanien, Gallien und Britannien verbreitet. Die
+Longobardenkönige in Italien verboten die Heirat der Leprosen. Im
+Mittelalter hatte in Frankreich und Italien jeder Flecken ein
+Leprosenhaus, in Paris bestand ein besonderes Haus für die
+Hofdamen. Am Ende des 13. Jahrhunderts zählte man in Europa
+19,000 Leprosenhäuser. Ein an der Lepra Erkrankter galt als
+ausgestoßen aus der bürgerlichen Gesellschaft, als unehrlich (wie
+ein am Erbgrinde, der tinea, Erkrankter), als bürgerlich tot,
+sodaß in Frankreich die Totenfeier für den Erkrankten abgehalten
+-->
+	</Page>
+</PcGts>

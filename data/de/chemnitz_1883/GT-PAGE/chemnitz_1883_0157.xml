@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:52:54</Created>
+		<LastChange>2026-11-23T13:52:54</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/157 revision 5050664 of 2026-09-15T06:46:02Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0157.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro10690985942218921430" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="556,222 778,222 778,473 556,473" />
+			<!-- line left out: id="r0l0" points="556,222 577,222 586,230 596,222 601,222 602,228 617,228 629,227 640,227 652,228 664,230 692,222 696,222 699,228 709,228 744,226 756,226 765,227 776,231 776,239 766,239 743,238 709,238 699,238 652,237 617,237 577,237 556,237" baseline="556,237 692,237 776,238" reason: second model: differs: "Hoch" against "f di" | Wikisource: Hochschule bis 1829 | next_nc_e1: Hochschule bis 1829 | german_print2_15: Hochschule bis 18290 -->
+			<TextLine id="r0l1" custom="readingOrder {index:1;}">
+				<Coords points="607,248 615,248 640,253 670,256 674,261 694,248 710,248 712,254 775,254 775,264 617,263 615,270 607,270" />
+				<Baseline points="607,263 775,264" />
+				<TextEquiv index="1">
+					<Unicode>Jahres, dem am</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l2" custom="readingOrder {index:2;}">
+				<Coords points="556,280 574,278 590,287 612,280 647,280 654,274 663,274 685,283 697,280 712,282 714,274 720,274 721,281 744,281 746,275 750,275 767,281 776,281 776,294 767,294 744,290 721,292 663,289 556,292" />
+				<Baseline points="556,289 776,290" />
+				<TextEquiv index="1">
+					<Unicode>gte, wurde endgültig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l3" points="591,300 599,299 631,299 686,306 737,301 748,301 750,310 754,310 776,312 776,316 748,316 609,316 601,315 591,315" baseline="591,315 776,316" reason: differs: "Frei" against "der " | Wikisource:  | next_nc_e1: Freih nur dem | german_print2_15: Freih- nur dem -->
+			<!-- line left out: id="r0l4" points="567,332 607,331 619,331 742,333 776,333 776,343 756,343 632,342 622,342 588,341 586,347 580,347 567,342" baseline="567,342 776,342" reason: differs: "nprü" against "rien" | Wikisource:  | next_nc_e1: nprüfu einem | german_print2_15: nprüfu einem -->
+			<TextLine id="r0l5" custom="readingOrder {index:5;}">
+				<Coords points="586,358 597,358 599,365 609,365 610,358 627,358 645,365 650,353 662,353 673,353 706,361 712,359 726,358 776,357 776,370 764,371 754,371 662,368 586,368" />
+				<Baseline points="586,368 776,368" />
+				<TextEquiv index="1">
+					<Unicode>man aber erwägt,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l6" custom="readingOrder {index:6;}">
+				<Coords points="596,385 681,384 732,379 748,379 756,386 770,386 770,397 756,397 748,395 603,394 596,389" />
+				<Baseline points="596,394 770,394" />
+				<TextEquiv index="1">
+					<Unicode>an je einem Tage</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l7" points="585,410 595,410 601,415 608,409 624,407 628,407 630,413 642,412 653,405 667,405 671,417 678,414 686,411 700,411 712,405 717,405 718,411 727,411 768,412 768,421 748,421 700,420 667,420 653,420 642,414 639,420 585,420" baseline="585,420 748,420 768,421" reason: models differ | Wikisource: mathematische ge | next_nc_e1: mathematische ge | german_print2_15: mathematische ge- -->
+			<!-- line left out: id="r0l8" points="573,437 593,435 604,435 636,436 638,430 643,430 646,436 656,436 693,435 697,430 705,430 717,437 728,437 755,438 763,437 777,437 777,447 755,448 744,448 705,446 656,446 624,446 622,440 604,445 592,446 573,446" baseline="573,445 680,446 777,447" reason: second model: differs: "nmüb" against "fert" | Wikisource: überdies oft wegen | next_nc_e1: überdies oft wegen | german_print2_15: nmüberdies oft wegen -->
+			<TextLine id="r0l9" custom="readingOrder {index:9;}">
+				<Coords points="622,456 634,456 635,462 702,462 751,466 753,457 764,457 764,463 778,463 778,473 725,473 709,473 655,469 645,472 622,472" />
+				<Baseline points="622,472 778,473" />
+				<TextEquiv index="1">
+					<Unicode>dass man das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Jahres, dem am
+gte, wurde endgültig
+man aber erwägt,
+an je einem Tage
+dass man das</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="664,483 777,483 777,499 664,499" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="664,488 691,487 710,489 717,483 728,483 752,484 755,490 764,490 777,493 777,495 764,498 728,499 710,499 693,499 664,498" />
+				<Baseline points="664,498 777,498" />
+				<TextEquiv index="1">
+					<Unicode>nstand be-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>nstand be-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="546,562 782,562 782,1148 546,1148" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="653,567 748,568 754,570 761,562 766,562 778,566 778,577 653,577" />
+				<Baseline points="653,577 731,576 778,578" />
+				<TextEquiv index="1">
+					<Unicode>gewiss nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l1" points="686,587 691,587 692,595 703,595 726,596 728,588 745,588 748,595 764,594 778,594 778,605 770,605 764,603 722,602 712,601 691,602 686,602" baseline="686,602 778,603" reason: differs: "less" against "⟦⟧ d" | Wikisource:  | next_nc_e1: lesselben, | german_print2_15: lesselben, -->
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="591,622 603,619 676,620 695,614 705,614 715,620 744,618 778,620 778,631 770,631 603,628 591,626" />
+				<Baseline points="591,627 778,630" />
+				<TextEquiv index="1">
+					<Unicode>erwarten könnten,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="576,643 594,645 648,645 650,651 660,651 660,645 684,648 692,640 726,640 729,646 733,646 746,641 757,641 758,648 779,646 779,655 716,656 685,656 666,654 631,655 594,652 576,654" />
+				<Baseline points="576,654 779,655" />
+				<TextEquiv index="1">
+					<Unicode>die unmassgeblichen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="647,673 659,674 675,665 689,665 707,665 725,670 779,672 779,681 725,681 689,681 675,681 653,678 647,675" />
+				<Baseline points="647,681 779,681" />
+				<TextEquiv index="1">
+					<Unicode>es Rektors in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l5" points="634,700 644,696 647,696 674,696 685,692 689,692 692,698 701,698 704,692 714,692 754,692 767,693 774,702 779,702 779,704 754,707 683,707 664,707 651,706 641,704 634,704" baseline="634,706 779,706" reason: differs: "sfüh" against "dem " | Wikisource:  | next_nc_e1: sführliche Be-
+ | german_print2_15: sführliche Be-
+ -->
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="620,722 687,723 712,718 733,718 735,724 752,724 757,718 771,718 771,724 780,724 780,733 771,734 752,734 735,734 620,732" />
+				<Baseline points="620,732 780,732" />
+				<TextEquiv index="1">
+					<Unicode>hier in Hagers</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l7" points="633,749 644,749 668,749 698,750 699,744 712,744 715,750 727,745 737,745 739,751 764,750 780,750 780,759 674,759 644,759 633,759" baseline="633,759 780,759" reason: differs: "name" against "letz" | Wikisource:  | next_nc_e1: namentlich in
+ | german_print2_15: namentlich in
+ -->
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="566,779 583,780 585,770 611,769 622,769 624,778 635,775 651,775 668,769 683,769 685,777 720,774 754,779 756,770 767,770 770,776 778,776 778,785 736,785 668,785 583,785 573,785 566,784" />
+				<Baseline points="566,784 778,785" />
+				<TextEquiv index="1">
+					<Unicode>und dem Kantor der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="663,808 675,800 695,800 707,802 747,796 752,796 780,802 780,811 752,811 675,811 663,810" />
+				<Baseline points="663,810 780,811" />
+				<TextEquiv index="1">
+					<Unicode>atten. Der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="576,825 624,827 640,834 658,827 695,822 707,822 708,828 736,828 756,834 768,822 781,822 781,837 707,837 640,837 637,837 576,836" />
+				<Baseline points="576,836 781,837" />
+				<TextEquiv index="1">
+					<Unicode>Chore, zu dem als</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="563,855 568,847 580,847 641,857 643,847 654,847 656,856 688,847 703,847 705,854 757,854 759,848 770,848 772,855 780,855 780,862 770,863 734,863 688,863 563,862" />
+				<Baseline points="563,862 780,863" />
+				<TextEquiv index="1">
+					<Unicode>bestehende Kurrende</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l12" points="564,882 584,881 595,876 601,876 628,879 634,880 636,886 660,879 670,879 679,881 687,874 709,874 758,874 759,880 780,880 780,889 770,890 759,890 694,889 687,879 679,887 640,889 636,889 601,888 595,888 584,886 564,885" baseline="564,888 719,888 780,889" reason: differs: "eset" against "⟦⟧ z" | Wikisource:  | next_nc_e1: esetzen, welche ihm | german_print2_15: esetzen, welche ihm -->
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="558,909 574,905 580,899 591,899 595,906 629,904 636,899 646,899 649,905 653,905 660,908 683,899 700,899 701,906 732,904 739,899 753,899 780,904 780,915 753,916 733,916 574,914 558,911" />
+				<Baseline points="558,914 780,915" />
+				<TextEquiv index="1">
+					<Unicode>s über ihre Thätigkeit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="567,925 581,925 590,931 636,931 643,925 655,925 662,931 668,926 679,926 703,931 720,932 721,926 732,926 733,934 745,932 779,933 779,941 732,941 708,941 679,941 636,941 625,941 567,940" />
+				<Baseline points="567,940 779,941" />
+				<TextEquiv index="1">
+					<Unicode>Kurrendenbeneficium</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="561,953 599,958 620,957 622,951 632,951 642,957 657,959 659,951 671,951 678,957 711,952 722,952 724,958 780,958 780,967 613,966 602,962 599,969 589,969 579,966 568,966 561,964" />
+				<Baseline points="561,965 780,967" />
+				<TextEquiv index="1">
+					<Unicode>Bürgerkinder zulassen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="616,985 622,977 633,977 642,986 670,983 687,983 709,978 732,978 734,990 748,977 760,977 761,985 781,984 781,993 718,993 616,990" />
+				<Baseline points="616,990 781,993" />
+				<TextEquiv index="1">
+					<Unicode>das eine bei den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l17" points="600,1011 617,1010 629,1008 640,1008 647,1002 659,1002 660,1009 673,1009 699,1011 711,1016 713,1009 722,1009 735,1003 747,1003 773,1003 773,1009 782,1009 782,1019 722,1019 713,1019 673,1018 640,1018 629,1018 617,1017 600,1014" baseline="600,1018 676,1017 782,1019" reason: differs: "sand" against "Sing" | Wikisource:  | next_nc_e1: s andere ein Buch | german_print2_15: s andere ein Buch -->
+			<!-- line left out: id="r2l18" points="546,1028 551,1028 561,1031 642,1034 646,1028 656,1028 671,1035 681,1035 684,1041 692,1035 771,1034 776,1034 779,1043 781,1043 781,1045 779,1045 756,1044 599,1044 589,1044 581,1043 551,1043 546,1043" baseline="546,1043 616,1043 755,1044 781,1045" reason: differs: "Dari" against "ssen" | Wikisource:  | next_nc_e1: Darin wird angemer t, | german_print2_15: Darin wird angemer. t, -->
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="561,1060 599,1060 616,1054 622,1054 646,1054 663,1059 689,1060 711,1063 712,1055 718,1055 752,1063 757,1055 768,1055 768,1063 781,1063 781,1070 738,1071 689,1071 677,1071 663,1069 646,1071 633,1071 561,1069" />
+				<Baseline points="561,1069 781,1070" />
+				<TextEquiv index="1">
+					<Unicode>zum Rektor, der das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="561,1083 666,1086 685,1088 686,1080 697,1080 699,1089 738,1081 748,1081 749,1087 773,1087 782,1091 782,1092 773,1096 738,1096 561,1094" />
+				<Baseline points="561,1095 782,1096" />
+				<TextEquiv index="1">
+					<Unicode>Summe in das Chor-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="587,1117 592,1106 604,1106 604,1114 607,1114 617,1106 629,1106 650,1106 669,1106 669,1114 677,1114 685,1106 689,1106 697,1114 728,1107 743,1107 752,1113 762,1113 770,1107 782,1107 782,1122 770,1122 717,1122 708,1122 669,1122 629,1122 604,1122 587,1122" />
+				<Baseline points="587,1120 782,1122" />
+				<TextEquiv index="1">
+					<Unicode>rteljährlichen Geld-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="630,1131 643,1131 652,1137 677,1135 683,1138 706,1137 757,1139 758,1132 770,1132 771,1138 781,1138 781,1148 758,1148 630,1146" />
+				<Baseline points="630,1146 781,1148" />
+				<TextEquiv index="1">
+					<Unicode>Kantors in der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>gewiss nicht
+erwarten könnten,
+die unmassgeblichen
+es Rektors in
+hier in Hagers
+und dem Kantor der
+atten. Der
+Chore, zu dem als
+bestehende Kurrende
+s über ihre Thätigkeit
+Kurrendenbeneficium
+Bürgerkinder zulassen.
+das eine bei den
+zum Rektor, der das
+Summe in das Chor-
+rteljährlichen Geld-
+Kantors in der</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="614,1156 783,1156 783,1178 614,1178" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="614,1161 641,1163 656,1156 665,1156 670,1163 676,1157 687,1157 689,1163 757,1165 759,1158 769,1158 772,1164 783,1164 783,1173 759,1173 753,1171 738,1178 722,1178 703,1173 637,1172 621,1169 614,1166" />
+				<Baseline points="614,1172 783,1173" />
+				<TextEquiv index="1">
+					<Unicode>bei Führung der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>bei Führung der</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="605,1184 783,1184 783,1225 605,1225" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="647,1190 743,1184 754,1184 756,1190 783,1190 783,1199 702,1199 685,1197 647,1196" />
+				<Baseline points="647,1199 783,1199" />
+				<TextEquiv index="1">
+					<Unicode>er von jedem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="605,1221 616,1214 625,1214 636,1208 654,1208 661,1215 686,1213 694,1209 703,1209 705,1215 782,1216 782,1225 715,1225 705,1225 605,1223" />
+				<Baseline points="605,1223 748,1223 782,1225" />
+				<TextEquiv index="1">
+					<Unicode>zu Mänteln so zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>er von jedem
+zu Mänteln so zu</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="660,1238 782,1238 782,1255 660,1255" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="660,1241 673,1238 676,1238 690,1241 695,1247 701,1241 782,1240 782,1255 777,1255 757,1247 709,1251 660,1249" />
+				<Baseline points="660,1249 782,1250" />
+				<TextEquiv index="1">
+					<Unicode>übrigen je 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>übrigen je 5</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="0,0 1000,0 1000,1565 0,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+vorzeitigen Abgang ihrer Zöglinge auf die Hochschule bis 1829
+fort. Erst durch das Mandat vom 4. Juli dieses Jahres, dem am
+17. Dec. 1830 ein ausführliches Regulativ folgte, wurde endgültig
+der Eintritt in das goldne Land akademischer Freiheit nur dem
+gestattet, der die Gefahren einer Abiturientenprüfung an einem
+Gymnasium siegreich bestanden hatte. Wenn man aber erwägt,
+wie mässig dabei die Anforderungen waren, dass an je einem Tage
+nur 3 Arbeiten, eine lateinische, deutsche und mathematische
+gefertigt werden mussten, von welch letzterer man überdies oft wegen
+Mangels an geeigneten Lehrern Abstand nahm, dass man das
+Französische überhaupt nur als fakultativen Lehrgegenstand
+behandelte, so kann man sich vorstellen, mit wie zweifelhafter Reife
+die Abiturienten vor 1829 gelegentlich die Universität mögen bezogen
+haben. Rothe sowohl, wie Lessing beschweren sich gewiss nicht
+ohne Grund über diesen Übelstand⟦⟧ und die Urheber desselben,
+die ungeduldigen Eltern, welche die Zeit nicht erwarten könnten,
+wo ihre Söhne von der Schule abgingen. Wie die unmassgeblichen
+Vorschläge, so enthält auch das Kapitel vom Amte des Rektors in
+dem Entwurf der Schulordnung ganz besonders ausführliche
+Bestimmungen über den Singchor, da sich gerade hier in Hagers
+letzter Zeit mancherlei Missbräuche, wie scheint, namentlich in
+Bezug auf die Geldverteilung eingeschlichen und dem Kantor der
+Schule zu gerechten Klagen Veranlassung geboten hatten. Der
+Rektor soll hinfort die erledigten Stellen im Chore, zu dem als
+besondere Abteilung die aus 10 Schülern bestehende Kurrende
+gehörte,⟦⟧ mit andern geschickten Knaben besetzen, welche ihm
+zuvor von dem Kantor ein schriftliches Zeugnis über ihre Thätigkeit
+und Brauchbarkeit bringen müssen, zu dem Kurrendenbeneficium
+jedoch keine andern als Chemnitzer Stadt- und Bürgerkinder zulassen.
+2 Subjekte im Chor sind zu bestimmen, von denen das eine bei den
+Singumgängen die Büchse mit dem Gelde trägt, das andere ein Buch
+mit den Namen derer, die singen lassen. Darin wird angemerkt,
+wie viel sie erhalten haben. Beide kommen zum Rektor, der das
+Geld einnimmt, die Richtigkeit prüft und die Summe in das
+Chorbuch einträgt. Die 14tägigen, monatlichen und vierteljährlichen
+Geldverteilungen werden vom Rektor mit Zuziehung des Kantors in der
+1. Klasse der Schule gemacht. Für seine Mühen bei Führung der
+Rechnung, für seine Aufsicht und Sorgfalt empfängt er von jedem
+Thaler 2 Gr. Alle 2 Jahre hat er 54 Ellen Tuch zu Mänteln so zu
+verteilen, dass die obersten 4 Kurrendaner je 6, die übrigen je 5
+-->
+	</Page>
+</PcGts>

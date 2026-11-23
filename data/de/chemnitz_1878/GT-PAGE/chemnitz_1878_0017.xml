@@ -1,0 +1,405 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:15:45</Created>
+		<LastChange>2026-11-23T14:15:45</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/17 revision 4888494 of 2026-04-28T07:27:25Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0017.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro2439391429225596549" caption="Regions reading order">
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="37,783 46,783 46,1377 37,1377" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r1">
+			<Coords points="450,36 915,36 915,43 450,43" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r2">
+			<Coords points="595,36 915,36 915,42 595,42" />
+		</SeparatorRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="410,176 523,176 523,191 410,191" />
+			<!-- line left out: id="r3l0" points="410,183 434,183 462,176 473,176 500,182 523,182 523,183 500,183 473,191 462,191 434,184 410,184" baseline="410,184 472,183 523,183" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 9 —
+ | german_print2_15: — 9 —
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="111,221 834,221 834,826 111,826" />
+			<!-- line left out: id="r4l0" points="117,232 137,232 138,226 144,226 157,227 212,226 223,226 241,226 295,231 309,225 322,224 329,224 330,230 342,229 357,229 390,230 391,224 397,224 398,230 459,230 460,237 479,224 491,224 503,229 511,232 524,223 570,223 570,229 588,228 606,226 613,226 633,226 653,226 690,228 690,222 727,222 748,227 757,221 775,221 775,227 786,227 787,221 799,221 800,227 820,227 827,232 827,234 820,238 701,239 677,239 503,240 479,240 422,246 409,246 409,239 397,240 379,240 370,240 366,247 358,247 357,241 235,242 126,242 117,239" baseline="117,242 247,241 510,239 700,238 827,238" reason: differs: "selb" against "enth" | Wikisource:  | next_nc_e1: selbe enthält ein Martyrologium, das Ordensstatut und das Nekro- | german_print2_15: selbe enthält ein Martyrologium, das Ordensstatut und das Nekro- -->
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="114,253 225,251 232,259 244,256 328,257 338,254 378,257 400,256 425,251 437,251 441,264 458,251 471,251 471,257 483,256 501,250 520,250 556,255 557,249 569,249 569,256 625,255 625,249 701,248 718,248 725,249 736,254 736,248 748,248 757,251 820,254 827,258 827,261 810,270 796,270 769,266 663,265 446,268 222,268 184,273 143,273 131,273 114,268" />
+				<Baseline points="114,268 827,265" />
+				<TextEquiv index="1">
+					<Unicode>logium. Letzteres ist zweimal, bei Mencken und bei Richter, ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l2" points="114,279 125,279 126,285 146,284 157,279 168,279 189,278 201,278 201,286 213,283 224,278 231,278 231,286 243,284 254,283 267,278 278,278 310,283 316,285 321,277 332,277 340,284 347,283 370,283 422,283 423,277 435,277 442,283 453,283 463,282 488,277 498,276 510,276 510,282 529,282 529,276 541,276 551,282 562,282 562,276 574,276 575,282 590,282 591,275 605,275 607,289 621,275 634,275 635,281 640,281 652,282 653,289 665,280 684,280 707,280 721,274 741,274 742,281 754,280 777,280 777,274 789,274 796,273 819,273 820,282 827,282 827,290 819,291 657,293 653,293 634,292 611,293 478,293 435,293 292,294 254,294 180,295 157,295 151,294 146,295 114,295" baseline="114,295 179,294 277,293 656,291 827,291" reason: differs: "ken's" against "ken’s A" | Wikisource:  | next_nc_e1: druckt, beidemal nach einer anderen Handschrift, die, nach Mencken's | german_print2_15: druckt, beidemal nach einer anderen Handschrift, die, nach Mencken'’'s -->
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="114,306 170,305 186,310 208,304 247,304 255,310 291,312 291,304 301,304 320,310 330,310 333,303 345,303 364,304 366,312 388,309 406,309 423,303 435,303 436,310 455,309 471,301 482,301 489,302 490,308 502,308 512,301 525,301 532,308 550,306 583,306 592,302 665,302 665,308 683,309 683,301 695,301 708,307 728,307 728,301 754,301 754,307 782,306 794,301 806,301 827,303 827,319 583,318 164,321 152,326 134,326 114,321" />
+				<Baseline points="114,321 827,317" />
+				<TextEquiv index="1">
+					<Unicode>Angabe früher ebenfalls in der Universitätsbibliothek aufbewahrt,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l4" custom="readingOrder {index:4;}">
+				<Coords points="113,337 129,335 175,337 240,335 270,336 270,330 302,330 304,343 333,330 350,330 383,336 399,336 407,330 421,330 430,337 476,335 477,329 489,329 489,337 499,337 508,329 534,329 534,335 565,335 666,328 696,328 746,333 757,327 775,327 775,333 828,333 828,344 806,344 746,349 610,345 610,351 601,351 600,345 580,344 489,346 221,346 113,350" />
+				<Baseline points="113,347 828,344" />
+				<TextEquiv index="1">
+					<Unicode>jetzt vermisst wird. Das vorliegende Manuscript enthält 194 Namen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l5" custom="readingOrder {index:5;}">
+				<Coords points="111,351 123,351 123,363 136,363 137,357 147,357 148,363 181,363 181,357 193,357 194,366 219,363 223,356 237,356 238,364 248,364 262,356 278,356 279,362 310,357 322,357 323,364 334,364 335,370 367,356 385,356 388,364 401,362 425,362 432,356 443,356 444,362 469,363 483,355 503,355 504,361 531,361 531,355 551,359 634,361 634,355 652,355 653,362 665,360 745,360 745,354 767,353 781,353 781,360 792,360 793,354 805,354 806,360 828,359 828,370 602,370 587,376 576,376 531,372 111,374" />
+				<Baseline points="111,373 828,370" />
+				<TextEquiv index="1">
+					<Unicode>mehr als die Drucke. Besondere Beachtung verdienen zwei Zeilen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l6" custom="readingOrder {index:6;}">
+				<Coords points="112,390 130,390 130,383 145,383 157,391 163,383 175,383 181,389 275,389 289,383 301,383 308,389 319,387 332,387 355,382 366,382 374,390 386,390 405,383 465,388 487,388 503,382 511,381 523,381 524,388 536,388 537,382 549,382 573,387 578,382 605,381 606,389 617,387 622,381 634,381 635,389 646,389 647,381 661,381 662,394 683,387 711,387 712,381 723,381 738,387 747,387 748,381 753,381 764,386 765,380 810,380 810,386 821,386 828,390 828,392 821,396 810,397 723,397 666,399 617,397 355,399 334,392 332,399 145,400 123,400 112,400" />
+				<Baseline points="112,399 828,396" />
+				<TextEquiv index="1">
+					<Unicode>auf der inneren Seite des hinteren Einbanddeckels, weil sich die-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l7" custom="readingOrder {index:7;}">
+				<Coords points="112,418 121,417 133,410 151,410 152,417 200,416 200,409 215,409 225,417 236,415 346,414 354,409 365,409 367,415 397,415 398,409 410,409 411,416 420,416 422,409 428,409 428,415 439,415 506,414 507,408 518,408 526,414 567,414 567,408 590,408 596,414 651,409 732,409 765,413 765,407 776,407 777,413 788,413 788,407 801,407 801,413 822,412 828,416 828,419 822,423 732,423 732,430 720,430 720,423 693,424 693,430 668,430 667,424 463,426 439,425 322,430 309,430 283,426 133,426 112,423" />
+				<Baseline points="112,425 828,423" />
+				<TextEquiv index="1">
+					<Unicode>selben auf einem eigenthümlichen, noch unerklärten Apparate wieder-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l8" custom="readingOrder {index:8;}">
+				<Coords points="113,437 123,437 136,442 137,436 148,436 156,442 177,442 185,436 196,436 204,442 265,443 266,436 271,436 272,442 312,442 318,436 331,435 338,435 339,441 419,439 439,435 451,435 459,442 471,442 477,435 491,435 491,442 558,440 566,434 587,435 597,440 619,441 619,434 641,435 653,439 672,440 690,440 690,434 712,434 721,441 735,437 742,437 763,439 771,442 780,433 785,433 824,436 826,446 829,446 829,449 826,449 817,455 804,455 763,450 609,451 514,454 458,451 420,451 420,457 412,457 375,452 113,453" />
+				<Baseline points="113,452 829,449" />
+				<TextEquiv index="1">
+					<Unicode>finden, der in einem Manuscript des Pegauer Benedictinerklosters liegt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l9" custom="readingOrder {index:9;}">
+				<Coords points="165,462 190,463 191,475 204,462 216,462 220,468 231,468 234,462 245,462 249,469 261,470 266,462 283,462 287,468 310,470 323,462 328,462 328,468 336,468 344,462 377,462 393,466 425,468 426,462 438,462 439,469 451,467 507,468 520,461 542,461 542,467 565,467 568,461 580,461 586,470 600,467 610,467 614,461 645,466 645,460 672,460 709,466 714,460 726,460 730,467 739,467 739,476 520,477 504,471 502,477 496,478 425,478 393,478 355,478 336,478 296,478 245,478 216,478 165,478" />
+				<Baseline points="165,478 739,476" />
+				<TextEquiv index="1">
+					<Unicode>Dr. Scholtze referirte über eine handschriftliche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l10" custom="readingOrder {index:10;}">
+				<Coords points="113,495 138,493 157,495 184,495 198,489 218,488 230,488 234,494 258,494 268,489 283,488 311,489 348,494 349,488 359,488 361,496 372,488 383,488 384,496 394,496 406,488 417,488 418,496 430,494 446,494 457,488 472,488 474,495 501,494 501,488 511,488 512,494 553,493 564,488 576,488 577,495 600,493 601,487 613,487 614,493 688,494 689,487 704,487 705,494 730,493 730,487 742,487 776,487 798,492 829,492 829,502 651,506 632,506 613,504 467,503 311,505 113,505" />
+				<Baseline points="113,505 829,502" />
+				<TextEquiv index="1">
+					<Unicode>nitzer Chronik, welche dem Vereine schenkungsweise überlassen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l11" custom="readingOrder {index:11;}">
+				<Coords points="112,521 149,521 149,515 161,515 162,522 228,519 269,515 291,515 292,523 339,515 344,515 352,521 390,521 392,515 403,515 407,528 432,521 444,520 452,515 495,514 503,520 519,520 538,514 564,514 565,521 576,521 585,517 600,517 610,514 637,513 651,513 668,514 684,518 699,519 721,513 728,513 728,519 758,519 758,513 764,513 765,519 801,518 814,513 826,513 827,526 830,526 830,532 765,529 758,535 740,535 740,529 495,531 112,530" />
+				<Baseline points="112,531 830,529" />
+				<TextEquiv index="1">
+					<Unicode>worden ist. Die Chronik, mit den ältesten Zeiten beginnend,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l12" custom="readingOrder {index:12;}">
+				<Coords points="113,549 128,549 133,541 139,541 140,548 176,545 231,547 238,541 252,541 252,548 262,548 263,541 268,541 270,547 377,545 421,547 435,541 453,541 461,547 477,548 483,541 489,541 490,547 519,547 519,541 544,541 544,547 618,547 619,541 624,541 637,546 639,553 665,540 683,540 684,547 713,546 723,543 730,543 824,545 831,549 831,552 824,556 637,557 562,557 544,552 544,559 519,559 505,557 435,559 377,556 375,562 358,562 305,556 232,557 231,563 219,563 218,557 133,558 122,557 113,554" />
+				<Baseline points="113,557 831,556" />
+				<TextEquiv index="1">
+					<Unicode>scheint ungefähr von 1655 an gleichzeitig zu sein. Sie ist von ver-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l13" points="113,576 121,573 132,568 144,568 150,573 162,574 163,567 174,567 182,574 192,573 221,573 234,567 244,567 267,572 281,574 287,567 299,567 299,575 313,572 319,572 338,572 339,581 357,573 365,573 399,572 421,572 429,573 443,575 450,578 457,572 506,572 549,573 564,567 576,567 577,574 588,573 605,573 620,567 625,567 628,574 639,574 639,566 656,566 657,573 669,572 694,569 701,569 724,572 735,566 752,566 753,572 802,572 815,571 830,571 830,582 724,583 681,583 576,583 531,583 515,582 506,589 487,589 457,589 450,579 443,582 429,583 423,583 421,589 406,589 404,583 342,584 299,584 287,584 267,583 244,583 237,584 192,584 182,584 174,583 144,584 132,584 121,583 113,581" baseline="113,583 505,582 830,582" reason: second model: differs: "700—172" against "700–172" | Wikisource: schiedenen fortgesetzt, von 1700–1727 von dem bekannten Kammer | next_nc_e1: schiedenen fortgesetzt, von 1700–1727 von dem bekannten Kammer- | german_print2_15: schiedenen fortgesetzt, von 1700— 1727 von dem bekannten Kammer- -->
+			<!-- line left out: id="r4l14" points="113,601 127,601 133,594 139,594 154,599 172,594 185,594 185,601 197,600 204,600 217,594 253,594 254,600 273,600 298,600 315,601 323,607 351,599 354,599 369,599 389,599 393,607 410,594 422,594 423,601 434,601 459,600 475,600 489,593 506,593 507,599 518,599 548,599 562,605 566,599 591,599 591,593 608,593 622,599 640,599 640,593 679,593 680,600 692,599 709,599 723,592 741,592 747,593 781,592 793,592 794,598 806,596 814,595 822,595 832,599 832,608 822,609 773,609 679,609 641,610 608,610 548,610 444,610 434,609 422,610 389,612 356,615 323,615 315,609 298,610 286,610 275,608 273,615 267,615 154,610 133,610 122,609 113,607" baseline="113,609 832,608" reason: second model: differs: "schr" against "Kamm" | Wikisource: schreiber Klimper († 1729), dessen Name auch auf dem Titelblatte | next_nc_e1: schreiber Klimper († 1729), dessen Name auch auf dem Titelblatte | german_print2_15: schreiber Klimper (†+ 17729), dessen Name auch auf dem Titelblatte -->
+			<TextLine id="r4l15" custom="readingOrder {index:15;}">
+				<Coords points="114,626 185,626 186,620 197,620 228,626 291,620 306,622 358,620 360,626 404,626 406,620 416,620 442,624 494,620 494,626 529,627 529,620 541,620 542,628 552,628 581,620 585,620 585,626 598,626 598,620 612,620 613,626 678,626 679,619 691,619 698,625 709,625 709,619 721,619 729,623 783,625 832,624 832,635 652,635 647,639 635,639 579,636 114,635" />
+				<Baseline points="114,636 832,635" />
+				<TextEquiv index="1">
+					<Unicode>vermerkt ist. Die Chronik ist für die Culturgeschichte unserer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l16" custom="readingOrder {index:16;}">
+				<Coords points="115,646 127,646 134,650 146,652 147,646 158,646 166,650 172,659 194,652 259,652 260,646 274,646 282,652 292,652 292,646 303,646 321,652 380,651 381,659 399,652 424,652 424,646 435,646 450,652 467,652 481,646 493,646 501,652 570,649 601,652 616,646 661,646 667,650 703,652 703,646 721,646 722,653 742,650 759,650 761,658 780,645 789,645 790,651 802,651 802,645 815,645 815,651 824,651 831,655 831,658 824,662 790,661 789,668 780,668 765,662 759,667 750,667 721,662 412,663 115,661" />
+				<Baseline points="115,662 831,662" />
+				<TextEquiv index="1">
+					<Unicode>Stadt, namentlich im 16. und in der zweiten Hälfte des 17. Jahr-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l17" custom="readingOrder {index:17;}">
+				<Coords points="115,673 126,673 157,678 157,672 170,672 191,676 224,679 265,673 270,673 272,679 297,678 315,673 333,673 335,681 346,678 383,678 397,672 411,672 443,672 443,678 452,678 458,680 491,680 491,688 443,689 418,689 400,689 397,689 315,689 305,689 115,688" />
+				<Baseline points="115,688 491,688" />
+				<TextEquiv index="1">
+					<Unicode>hunderts von besonderem Interesse.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l18" custom="readingOrder {index:18;}">
+				<Coords points="167,698 173,698 189,699 189,705 206,701 209,712 232,699 249,699 253,705 261,703 317,705 322,699 333,699 339,711 344,699 415,699 417,705 448,704 460,699 472,699 479,703 524,705 525,699 538,699 538,705 557,705 575,698 587,698 588,704 643,704 662,698 674,698 681,704 777,703 802,700 832,703 832,714 741,719 729,719 729,713 674,715 167,715" />
+				<Baseline points="167,715 832,714" />
+				<TextEquiv index="1">
+					<Unicode>Prof. Gottschaldt berichtet über die in der sogenannten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l19" custom="readingOrder {index:19;}">
+				<Coords points="114,728 129,725 130,731 152,731 155,725 159,725 160,731 210,731 211,725 222,725 230,730 240,733 263,725 275,725 277,731 318,733 319,725 331,725 333,733 345,733 360,725 379,726 410,731 411,725 422,725 432,732 477,732 483,725 494,725 511,734 527,725 532,725 534,731 556,725 601,725 602,733 608,733 613,725 620,725 620,731 638,730 647,725 687,725 688,732 699,730 723,730 723,724 749,724 750,731 764,731 764,724 817,724 817,730 833,730 833,741 502,741 470,742 444,745 432,745 422,741 250,742 240,739 230,741 173,745 160,745 130,741 125,728 119,739 114,739" />
+				<Baseline points="114,741 833,741" />
+				<TextEquiv index="1">
+					<Unicode>Civilgerichtsstube des Bezirksgerichts befindlichen Gemälde. Sie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l20" custom="readingOrder {index:20;}">
+				<Coords points="114,759 126,757 246,754 257,752 266,752 273,758 296,758 298,752 319,752 347,757 347,767 331,768 296,768 266,768 233,768 222,768 146,768 134,768 114,766" />
+				<Baseline points="114,766 347,766" />
+				<TextEquiv index="1">
+					<Unicode>erinnern an Canaletto.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l21" custom="readingOrder {index:21;}">
+				<Coords points="166,779 181,779 242,785 260,782 278,782 286,778 301,778 325,784 362,784 442,779 444,791 459,778 477,778 478,785 511,778 520,778 523,784 580,785 582,778 587,778 600,783 651,781 691,783 703,777 716,777 734,777 735,783 834,783 834,793 541,794 540,800 523,800 520,792 477,794 238,794 227,796 166,794" />
+				<Baseline points="166,794 834,793" />
+				<TextEquiv index="1">
+					<Unicode>Ausgestellt waren u. A. die Copie einer mater dolorosa aus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l22" custom="readingOrder {index:22;}">
+				<Coords points="115,803 127,803 134,809 160,804 172,804 172,811 183,804 201,804 210,811 232,810 233,804 244,804 253,810 271,810 272,804 283,804 284,812 333,810 333,804 345,804 359,812 366,810 388,810 402,804 422,804 423,810 433,810 440,804 454,804 455,810 467,810 468,804 473,804 475,810 528,810 544,804 551,804 553,817 573,809 580,804 591,804 614,809 615,817 618,817 618,820 614,825 544,824 475,820 467,826 455,826 454,820 410,820 410,826 402,826 388,820 115,819" />
+				<Baseline points="115,818 618,820" />
+				<TextEquiv index="1">
+					<Unicode>der Schlosskirche und ein Stadtplan v. J. 1829.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>logium. Letzteres ist zweimal, bei Mencken und bei Richter, ge-
+Angabe früher ebenfalls in der Universitätsbibliothek aufbewahrt,
+jetzt vermisst wird. Das vorliegende Manuscript enthält 194 Namen
+mehr als die Drucke. Besondere Beachtung verdienen zwei Zeilen
+auf der inneren Seite des hinteren Einbanddeckels, weil sich die-
+selben auf einem eigenthümlichen, noch unerklärten Apparate wieder-
+finden, der in einem Manuscript des Pegauer Benedictinerklosters liegt.
+Dr. Scholtze referirte über eine handschriftliche
+nitzer Chronik, welche dem Vereine schenkungsweise überlassen
+worden ist. Die Chronik, mit den ältesten Zeiten beginnend,
+scheint ungefähr von 1655 an gleichzeitig zu sein. Sie ist von ver-
+vermerkt ist. Die Chronik ist für die Culturgeschichte unserer
+Stadt, namentlich im 16. und in der zweiten Hälfte des 17. Jahr-
+hunderts von besonderem Interesse.
+Prof. Gottschaldt berichtet über die in der sogenannten
+Civilgerichtsstube des Bezirksgerichts befindlichen Gemälde. Sie
+erinnern an Canaletto.
+Ausgestellt waren u. A. die Copie einer mater dolorosa aus
+der Schlosskirche und ein Stadtplan v. J. 1829.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="207,846 744,846 744,867 207,867" />
+			<!-- line left out: id="r5l0" points="207,847 224,847 239,850 269,847 274,847 290,851 349,851 416,847 432,847 620,847 693,846 744,846 744,863 629,867 622,867 585,864 558,864 510,864 482,867 468,867 375,864 350,864 335,863 290,863 239,863 226,863 207,862" baseline="207,862 744,863" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Vereinsversammlung am 29. April 1873.
+ | german_print2_15: Vereinsversammlung am 29. April 1873.
+ -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="116,882 838,882 838,1377 116,1377" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="169,882 174,882 189,885 232,882 246,882 266,887 325,889 325,883 343,883 344,891 351,891 370,883 392,883 408,888 442,883 468,884 469,896 488,883 503,883 507,889 611,889 625,883 633,883 652,884 652,890 672,888 672,882 692,882 692,888 708,888 732,896 743,896 744,888 777,889 792,882 805,882 805,889 833,888 833,899 743,901 732,901 663,899 288,900 232,898 169,898" />
+				<Baseline points="169,898 833,899" />
+				<TextEquiv index="1">
+					<Unicode>Der Vortrag des Herrn Dr. Loose aus Dresden „aus dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l1" custom="readingOrder {index:1;}">
+				<Coords points="117,909 123,909 126,917 136,917 139,909 148,909 151,915 215,914 234,916 242,909 270,909 277,915 320,913 356,915 363,909 375,909 375,915 385,915 386,909 398,909 417,909 418,915 564,914 565,923 580,909 588,909 590,915 602,910 624,909 636,909 637,915 661,915 667,909 681,909 736,909 736,916 747,916 748,909 760,909 760,915 778,914 791,909 797,909 798,915 809,915 810,909 825,909 825,916 833,916 833,925 736,925 723,924 714,918 704,918 703,925 590,925 588,932 580,932 569,925 564,930 492,925 117,925" />
+				<Baseline points="117,924 833,925" />
+				<TextEquiv index="1">
+					<Unicode>Leben eines Chemnitzer Schulmeisters im 15. Jahrhundert“ behandelte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l2" custom="readingOrder {index:2;}">
+				<Coords points="116,935 130,935 135,942 145,942 151,935 162,935 165,942 233,941 237,935 274,935 278,941 288,941 293,935 299,935 299,941 335,936 343,936 351,940 381,941 396,935 407,935 411,943 435,944 450,936 538,941 575,939 603,942 618,935 632,935 635,941 666,936 684,935 701,935 711,936 722,941 722,935 736,935 736,941 742,941 747,935 753,935 757,941 769,941 769,951 736,952 701,952 515,952 484,952 450,952 116,951" />
+				<Baseline points="116,950 769,951" />
+				<TextEquiv index="1">
+					<Unicode>Leben und Schriften des Humanisten Paul Niavis.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l3" custom="readingOrder {index:3;}">
+				<Coords points="193,961 217,961 235,961 261,962 261,968 272,961 283,961 285,967 327,968 354,968 355,962 388,961 406,961 427,966 446,967 472,966 492,961 509,961 516,968 535,968 535,962 545,962 546,970 556,965 575,962 580,962 581,970 591,966 623,968 623,962 629,962 630,968 640,968 641,962 665,962 687,968 699,968 704,962 709,962 710,969 720,969 741,961 753,961 799,961 805,961 812,962 813,968 824,968 824,961 834,961 834,978 665,979 562,983 556,983 446,977 354,982 342,982 335,976 193,977" />
+				<Baseline points="193,977 834,978" />
+				<TextEquiv index="1">
+					<Unicode>Paul Schneevogel (latinisirt Niavis) ist nicht, wie fälschlich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l4" custom="readingOrder {index:4;}">
+				<Coords points="141,993 283,994 305,988 360,988 361,994 409,994 410,1001 436,995 468,994 469,988 481,988 489,994 550,994 565,988 579,988 579,994 639,994 646,988 663,988 663,994 709,994 711,1001 738,994 834,994 834,1004 715,1006 639,1004 639,1010 627,1010 611,1004 591,1008 579,1008 481,1004 165,1005 141,1003" />
+				<Baseline points="141,1003 834,1004" />
+				<TextEquiv index="1">
+					<Unicode>angenommen, in Plauen, sondern in Eger geboren, wie seine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l5" custom="readingOrder {index:5;}">
+				<Coords points="141,1014 154,1014 170,1014 201,1014 213,1018 269,1020 270,1014 280,1014 294,1020 300,1014 312,1014 313,1021 323,1021 333,1014 352,1014 354,1020 366,1018 379,1018 388,1020 390,1014 400,1014 402,1022 414,1014 419,1014 421,1020 479,1020 495,1014 502,1014 504,1020 533,1020 541,1015 556,1015 576,1020 577,1014 589,1014 608,1020 633,1020 634,1014 667,1014 691,1015 733,1020 788,1015 806,1015 835,1020 835,1031 790,1031 782,1036 769,1036 756,1031 749,1030 733,1036 721,1036 714,1031 698,1036 693,1036 621,1031 516,1035 456,1029 141,1029" />
+				<Baseline points="141,1029 835,1031" />
+				<TextEquiv index="1">
+					<Unicode>Schriften und die Matrikeln von Ingolstadt und Leipzig ergeben.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l6" custom="readingOrder {index:6;}">
+				<Coords points="143,1048 147,1040 160,1039 172,1039 173,1046 183,1046 197,1040 202,1040 215,1045 224,1040 236,1040 237,1047 269,1046 269,1040 281,1040 288,1046 293,1046 313,1040 329,1040 330,1046 348,1046 348,1040 359,1040 359,1046 392,1046 393,1040 404,1040 412,1044 472,1041 499,1046 512,1040 533,1040 533,1047 566,1046 602,1048 602,1041 608,1041 621,1046 622,1040 715,1041 729,1047 754,1046 755,1040 766,1040 779,1046 816,1046 828,1047 835,1050 835,1053 828,1057 817,1057 816,1063 804,1063 804,1057 698,1062 566,1057 380,1056 258,1058 215,1055 143,1055" />
+				<Baseline points="143,1055 835,1057" />
+				<TextEquiv index="1">
+					<Unicode>Alle bisherigen Nachrichten über Niavis sind dürftig und unge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l7" custom="readingOrder {index:7;}">
+				<Coords points="144,1070 179,1070 181,1078 206,1066 241,1066 242,1073 303,1072 304,1079 322,1066 334,1066 334,1072 452,1072 470,1074 480,1068 488,1067 501,1067 510,1073 518,1073 518,1067 529,1067 543,1072 567,1071 587,1067 588,1073 599,1073 609,1067 615,1067 618,1073 643,1073 649,1067 660,1067 662,1075 671,1071 690,1073 691,1067 737,1067 737,1073 770,1072 789,1067 805,1067 805,1073 828,1073 835,1077 835,1080 828,1083 660,1083 643,1088 545,1088 510,1083 508,1089 488,1089 488,1083 470,1086 460,1086 452,1083 280,1083 144,1080" />
+				<Baseline points="144,1080 835,1083" />
+				<TextEquiv index="1">
+					<Unicode>nau. Sicher ist, dass er am 19. April 1475 in Ingolstadt immatricu-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l8" custom="readingOrder {index:8;}">
+				<Coords points="144,1091 149,1091 172,1091 187,1097 210,1097 211,1091 222,1091 235,1098 256,1097 262,1095 275,1095 294,1098 308,1092 321,1092 322,1098 333,1098 372,1093 406,1098 458,1099 458,1093 465,1093 465,1099 486,1099 493,1093 504,1093 585,1099 585,1093 598,1093 605,1100 685,1093 699,1093 699,1099 711,1099 712,1093 724,1093 725,1100 791,1099 805,1093 825,1093 825,1099 835,1099 835,1110 699,1110 675,1115 653,1115 606,1110 333,1108 275,1108 256,1113 245,1113 244,1106 144,1106" />
+				<Baseline points="144,1106 835,1110" />
+				<TextEquiv index="1">
+					<Unicode>lirt und später Baccalaureus daselbst wurde. 1479 finden wir ihn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l9" points="144,1123 161,1123 184,1117 190,1117 193,1125 205,1123 256,1123 282,1128 282,1118 294,1118 296,1126 303,1126 324,1119 333,1119 355,1124 375,1125 376,1119 384,1119 384,1125 417,1124 426,1124 475,1122 483,1122 493,1125 498,1119 511,1119 543,1120 543,1126 571,1126 571,1120 583,1120 601,1122 635,1125 646,1126 646,1134 662,1134 662,1120 703,1120 704,1126 715,1125 747,1123 761,1123 771,1120 776,1120 801,1125 801,1119 807,1119 815,1125 824,1123 836,1123 836,1136 814,1136 664,1140 662,1140 608,1136 562,1140 546,1140 543,1136 483,1136 467,1136 406,1135 256,1137 245,1137 224,1132 222,1138 217,1138 144,1133" baseline="144,1132 836,1136" reason: second model: differs: "tuduIng" against "tudii I" | Wikisource: in Leipzig als baccalaureus studii Ingelstamensis immatriculirt. | next_nc_e1: in Leipzig als baccalaureus studii Ingelstamensis immatriculirt. | german_print2_15: in Leipzig als baccalaureus studu Ingelstamensis immatriculirt. -->
+			<TextLine id="r6l10" custom="readingOrder {index:10;}">
+				<Coords points="144,1149 161,1149 163,1143 174,1143 201,1149 233,1149 233,1143 244,1143 257,1150 295,1144 333,1144 333,1152 444,1149 492,1146 493,1153 521,1152 535,1146 546,1146 586,1151 619,1149 629,1153 648,1146 661,1146 681,1151 694,1145 703,1145 704,1151 716,1146 728,1146 753,1151 766,1152 836,1151 836,1162 704,1161 703,1168 694,1168 681,1162 358,1166 347,1161 163,1158 161,1164 151,1164 144,1159" />
+				<Baseline points="144,1158 836,1162" />
+				<TextEquiv index="1">
+					<Unicode>1482 wird er in Leipzig unter dem Decanate des Johannes von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l11" custom="readingOrder {index:11;}">
+				<Coords points="144,1184 148,1170 171,1170 193,1175 203,1173 292,1175 301,1169 320,1169 321,1176 360,1174 499,1176 501,1185 524,1172 543,1172 545,1180 584,1172 620,1172 621,1178 642,1178 651,1175 658,1175 677,1179 677,1172 706,1172 720,1179 740,1178 740,1172 746,1172 747,1178 758,1178 769,1172 784,1172 784,1178 795,1178 795,1172 827,1172 836,1177 836,1191 814,1191 795,1188 658,1188 583,1193 572,1193 543,1188 422,1187 412,1192 400,1192 193,1186 144,1186" />
+				<Baseline points="144,1186 301,1185 836,1188" />
+				<TextEquiv index="1">
+					<Unicode>Allerstein zum Magister promovirt. Bis 1485 lässt sich sein Leben,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l12" custom="readingOrder {index:12;}">
+				<Coords points="143,1202 165,1202 165,1196 177,1196 184,1202 201,1202 213,1196 219,1196 219,1202 237,1201 250,1196 261,1196 280,1201 281,1195 292,1195 306,1203 343,1196 371,1196 371,1202 393,1203 393,1197 401,1197 402,1204 412,1204 414,1197 446,1197 448,1204 496,1198 538,1198 558,1206 567,1206 568,1198 573,1198 574,1204 585,1204 585,1198 597,1198 639,1203 663,1203 664,1197 673,1197 689,1198 689,1204 789,1204 799,1197 813,1197 813,1203 825,1198 837,1198 837,1214 733,1217 702,1214 702,1220 689,1220 689,1214 469,1215 437,1213 143,1211" />
+				<Baseline points="143,1212 333,1211 837,1214" />
+				<TextEquiv index="1">
+					<Unicode>wahrscheinlich ein Wanderleben, nicht sicher verfolgen; eine Zeit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l13" custom="readingOrder {index:13;}">
+				<Coords points="145,1225 155,1225 174,1228 295,1228 310,1222 351,1222 353,1229 362,1229 378,1222 392,1222 400,1229 410,1227 422,1227 443,1229 506,1230 541,1224 553,1224 553,1230 566,1230 566,1224 589,1224 637,1229 637,1223 649,1223 659,1228 659,1237 678,1231 687,1230 699,1225 711,1225 719,1227 815,1229 815,1223 837,1224 837,1240 815,1245 802,1245 780,1241 719,1241 700,1246 687,1246 687,1240 659,1244 625,1244 582,1240 199,1237 185,1244 174,1244 174,1238 145,1238" />
+				<Baseline points="145,1238 310,1237 837,1240" />
+				<TextEquiv index="1">
+					<Unicode>lang war er in Halle Rector einer Schule. 1485, spätestens 1486</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l14" custom="readingOrder {index:14;}">
+				<Coords points="144,1254 175,1254 176,1248 211,1248 213,1254 248,1254 256,1257 268,1248 294,1248 300,1254 329,1252 356,1253 414,1249 420,1255 433,1255 443,1249 478,1249 497,1250 498,1256 518,1255 547,1250 576,1250 576,1257 625,1250 643,1253 643,1263 661,1256 689,1251 695,1251 707,1256 707,1250 719,1250 720,1256 777,1256 777,1250 808,1250 809,1256 837,1256 837,1267 433,1265 312,1269 300,1269 248,1264 144,1263" />
+				<Baseline points="144,1263 837,1266" />
+				<TextEquiv index="1">
+					<Unicode>wird Niavis Magister an der Schule zu Chemnitz, welche nach dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l15" custom="readingOrder {index:15;}">
+				<Coords points="145,1274 158,1274 168,1280 210,1280 250,1274 262,1274 269,1282 308,1275 329,1275 333,1283 340,1280 415,1274 428,1274 434,1280 466,1281 466,1275 477,1275 477,1281 527,1276 568,1276 618,1281 686,1279 709,1282 719,1276 728,1276 730,1282 742,1282 742,1276 754,1276 754,1282 796,1282 796,1276 803,1276 803,1282 837,1282 837,1293 730,1293 728,1299 719,1299 709,1292 618,1292 618,1298 605,1298 605,1292 191,1290 191,1296 179,1296 179,1290 145,1290" />
+				<Baseline points="145,1290 403,1290 837,1293" />
+				<TextEquiv index="1">
+					<Unicode>Fragment des Chronicon Chemnicense im letztgenannten Jahre einen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l16" custom="readingOrder {index:16;}">
+				<Coords points="144,1300 161,1300 168,1306 178,1301 191,1301 234,1308 255,1303 274,1306 275,1300 287,1300 288,1307 297,1307 297,1314 320,1301 343,1301 344,1309 379,1300 390,1300 390,1306 445,1301 483,1307 491,1301 503,1301 503,1307 514,1302 545,1302 546,1309 582,1307 626,1308 626,1302 638,1302 638,1308 673,1308 680,1302 692,1302 692,1308 710,1308 710,1302 723,1302 724,1308 735,1308 735,1302 796,1302 802,1305 838,1308 838,1324 827,1324 796,1319 759,1318 710,1324 692,1324 663,1324 638,1324 626,1324 620,1319 144,1316" />
+				<Baseline points="144,1316 838,1319" />
+				<TextEquiv index="1">
+					<Unicode>Neubau erfuhr. Die Chemnitzer Schule war ursprünglich Stiftung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l17" custom="readingOrder {index:17;}">
+				<Coords points="145,1326 157,1326 164,1332 176,1332 190,1326 198,1326 205,1332 234,1327 239,1327 252,1332 253,1326 265,1326 272,1327 281,1332 292,1333 292,1327 304,1327 305,1335 316,1335 317,1341 338,1333 375,1333 376,1327 388,1327 388,1335 412,1332 424,1327 430,1327 442,1332 515,1328 527,1334 596,1328 602,1328 603,1334 614,1329 626,1329 637,1334 649,1335 663,1329 719,1329 742,1334 756,1328 826,1328 837,1331 837,1349 763,1349 756,1349 423,1343 317,1346 272,1343 205,1342 198,1349 190,1349 176,1343 145,1342" />
+				<Baseline points="145,1342 412,1342 837,1345" />
+				<TextEquiv index="1">
+					<Unicode>der Jacobikirche, wurde aber auch von solchen Knaben besucht,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l18" custom="readingOrder {index:18;}">
+				<Coords points="145,1358 165,1353 178,1353 202,1353 203,1360 213,1360 230,1353 235,1353 265,1353 301,1353 301,1359 324,1360 343,1353 355,1353 355,1359 367,1354 375,1353 377,1353 397,1359 434,1359 434,1353 447,1353 447,1359 473,1359 473,1353 475,1353 529,1354 529,1360 583,1361 583,1354 596,1354 619,1360 631,1360 667,1355 679,1355 709,1360 722,1354 771,1354 771,1360 794,1355 809,1355 838,1360 838,1371 572,1371 572,1377 559,1377 542,1371 397,1369 375,1375 324,1370 307,1375 294,1375 278,1369 165,1369 145,1367" />
+				<Baseline points="145,1368 838,1371" />
+				<TextEquiv index="1">
+					<Unicode>welche nicht geistlich wurden. Das geht aus dem Chemnitzer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Der Vortrag des Herrn Dr. Loose aus Dresden „aus dem
+Leben eines Chemnitzer Schulmeisters im 15. Jahrhundert“ behandelte
+Leben und Schriften des Humanisten Paul Niavis.
+Paul Schneevogel (latinisirt Niavis) ist nicht, wie fälschlich
+angenommen, in Plauen, sondern in Eger geboren, wie seine
+Schriften und die Matrikeln von Ingolstadt und Leipzig ergeben.
+Alle bisherigen Nachrichten über Niavis sind dürftig und unge-
+nau. Sicher ist, dass er am 19. April 1475 in Ingolstadt immatricu-
+lirt und später Baccalaureus daselbst wurde. 1479 finden wir ihn
+1482 wird er in Leipzig unter dem Decanate des Johannes von
+Allerstein zum Magister promovirt. Bis 1485 lässt sich sein Leben,
+wahrscheinlich ein Wanderleben, nicht sicher verfolgen; eine Zeit
+lang war er in Halle Rector einer Schule. 1485, spätestens 1486
+wird Niavis Magister an der Schule zu Chemnitz, welche nach dem
+Fragment des Chronicon Chemnicense im letztgenannten Jahre einen
+Neubau erfuhr. Die Chemnitzer Schule war ursprünglich Stiftung
+der Jacobikirche, wurde aber auch von solchen Knaben besucht,
+welche nicht geistlich wurden. Das geht aus dem Chemnitzer</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="450,1539 603,1539 603,1567 450,1567" />
+			<!-- line left out: id="r7l0" points="450,1549 453,1549 460,1549 473,1549 477,1539 484,1539 488,1549 498,1549 529,1549 552,1549 574,1550 596,1550 603,1554 603,1558 574,1560 555,1560 533,1558 488,1558 484,1567 477,1567 477,1558 450,1558" baseline="450,1558 532,1557 537,1557 603,1558" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: tal slub dresden de ppns02:
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+enthält ein Martyrologium, das Ordensstatut und das
+Nekrologium. Letzteres ist zweimal, bei Mencken und bei Richter,
+gedruckt, beidemal nach einer anderen Handschrift, die, nach Mencken’s
+Angabe früher ebenfalls in der Universitätsbibliothek aufbewahrt,
+jetzt vermisst wird. Das vorliegende Manuscript enthält 194 Namen
+mehr als die Drucke. Besondere Beachtung verdienen zwei Zeilen
+auf der inneren Seite des hinteren Einbanddeckels, weil sich
+dieselben auf einem eigenthümlichen, noch unerklärten Apparate
+wiederfinden, der in einem Manuscript des Pegauer Benedictinerklosters liegt.
+Dr. Scholtze referirte über eine
+handschriftliche Chemnitzer Chronik, welche dem Vereine schenkungsweise überlassen
+worden ist. Die Chronik, mit den ältesten Zeiten beginnend,
+scheint ungefähr von 1655 an gleichzeitig zu sein. Sie ist von
+verschiedenen fortgesetzt, von 1700–1727 von dem bekannten
+Kammerschreiber Klimper († 1729), dessen Name auch auf dem Titelblatte
+vermerkt ist. Die Chronik ist für die Culturgeschichte unserer
+Stadt, namentlich im 16. und in der zweiten Hälfte des 17.
+Jahrhunderts von besonderem Interesse.
+Prof. Gottschaldt berichtet über die in der sogenannten
+Civilgerichtsstube des Bezirksgerichts befindlichen Gemälde. Sie
+erinnern an Canaletto.
+Ausgestellt waren u. A. die Copie einer mater dolorosa aus
+der Schlosskirche und ein Stadtplan v. J. 1829.
+Der Vortrag des Herrn Dr. Loose aus Dresden „aus dem
+Leben eines Chemnitzer Schulmeisters im 15. Jahrhundert“ behandelte
+Leben und Schriften des Humanisten Paul Niavis.
+⟦⟧
+Paul Schneevogel (latinisirt Niavis) ist nicht, wie fälschlich
+angenommen, in Plauen, sondern in Eger geboren, wie seine
+Schriften und die Matrikeln von Ingolstadt und Leipzig ergeben.
+Alle bisherigen Nachrichten über Niavis sind dürftig und
+ungenau. Sicher ist, dass er am 19. April 1475 in Ingolstadt
+immatriculirt und später Baccalaureus daselbst wurde. 1479 finden wir ihn
+in Leipzig als baccalaureus studii Ingelstamensis immatriculirt.
+1482 wird er in Leipzig unter dem Decanate des Johannes von
+Allerstein zum Magister promovirt. Bis 1485 lässt sich sein Leben,
+wahrscheinlich ein Wanderleben, nicht sicher verfolgen; eine Zeit
+lang war er in Halle Rector einer Schule. 1485, spätestens 1486
+wird Niavis Magister an der Schule zu Chemnitz, welche nach dem
+Fragment des Chronicon Chemnicense im letztgenannten Jahre einen
+Neubau erfuhr. Die Chemnitzer Schule war ursprünglich Stiftung
+der Jacobikirche, wurde aber auch von solchen Knaben besucht,
+welche nicht geistlich wurden. Das geht aus dem Chemnitzer
+-->
+	</Page>
+</PcGts>

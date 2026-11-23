@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:01:44</Created>
+		<LastChange>2026-11-23T14:01:44</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/294 revision 5014291 of 2026-08-18T06:57:31Z, proofread level 3, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0294.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro15094094401267714223" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="15" regionRef="r15" />
+				<RegionRefIndexed index="17" regionRef="r17" />
+				<RegionRefIndexed index="18" regionRef="r18" />
+				<RegionRefIndexed index="19" regionRef="r19" />
+				<RegionRefIndexed index="20" regionRef="r20" />
+				<RegionRefIndexed index="21" regionRef="r21" />
+				<RegionRefIndexed index="22" regionRef="r22" />
+				<RegionRefIndexed index="23" regionRef="r23" />
+				<RegionRefIndexed index="25" regionRef="r25" />
+				<RegionRefIndexed index="28" regionRef="r28" />
+				<RegionRefIndexed index="29" regionRef="r29" />
+				<RegionRefIndexed index="30" regionRef="r30" />
+				<RegionRefIndexed index="32" regionRef="r32" />
+				<RegionRefIndexed index="33" regionRef="r33" />
+				<RegionRefIndexed index="36" regionRef="r36" />
+				<RegionRefIndexed index="37" regionRef="r37" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 1000,0 1000,204 0,204" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,352 25,352 25,446 0,446" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="8,591 25,591 25,630 8,630" />
+			<!-- line left out: id="r2l0" points="8,591 25,591 25,630 8,630" baseline="8,612 25,612" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 4
+ | german_print2_15: J
+ -->
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="0,712 32,712 32,769 0,769" />
+		</GraphicRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {3;}">
+			<Coords points="0,898 32,898 32,1022 0,1022" />
+			<!-- line left out: id="r4l0" points="0,898 32,898 32,1022 0,1022" baseline="20,1022 20,898" reason: differs: "NMSS" against "| st" | Wikisource:  | next_nc_e1: NM SS
+ | german_print2_15: ee
+ -->
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="12,1023 36,1023 36,1070 12,1070" />
+		</GraphicRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="227,206 564,206 564,307 227,307" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="227,210 281,210 306,206 333,206 341,212 378,210 378,216 396,216 397,210 421,210 436,206 471,206 504,206 514,217 525,212 552,212 564,215 564,228 552,231 540,231 535,226 525,225 520,231 504,235 471,235 436,235 436,229 411,229 396,225 341,224 333,235 306,235 306,224 227,223" />
+				<Baseline points="227,223 564,226" />
+				<TextEquiv index="1">
+					<Unicode>Die Welt den Schlechten hegt und pflegt,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l1" custom="readingOrder {index:1;}">
+				<Coords points="227,236 238,236 252,238 274,236 295,236 499,237 499,243 509,243 512,237 558,240 558,251 548,255 499,255 494,255 448,250 227,249" />
+				<Baseline points="227,249 558,251" />
+				<TextEquiv index="1">
+					<Unicode>Den Frommen sie zu Boden schlägt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l2" points="228,262 237,261 264,261 279,262 296,262 297,268 307,267 324,264 336,262 341,262 382,269 390,267 395,267 435,267 459,263 464,263 489,266 489,278 480,278 443,276 390,276 248,275 228,274" baseline="228,274 263,274 382,275 489,277" reason: differs: "Unda" against "| | " | Wikisource:  | next_nc_e1: Und aller Sinne sie verwirrt,
+ | german_print2_15: Und aller Sinne sie verwirrt,
+ -->
+			<!-- line left out: id="r6l3" points="227,287 234,287 242,289 253,288 264,288 286,287 296,287 305,294 312,294 314,287 325,287 326,294 336,293 353,290 361,288 374,288 400,289 414,294 425,288 430,288 445,289 472,293 483,294 484,288 494,288 495,294 500,294 511,292 522,292 522,302 483,307 430,307 425,307 414,301 400,302 395,302 296,301 253,301 234,300 227,300" baseline="227,300 276,300 425,301 522,302" reason: second model: differs: "Dals" against "cht " | Wikisource: Daſs falscher Glaube triumphiert | next_nc_e1: Daſs falscher Glaube triumphiert
+ | german_print2_15: Dalſs falscher Glaube triumphiert.
+ -->
+			<TextEquiv index="1">
+				<Unicode>Die Welt den Schlechten hegt und pflegt,
+Den Frommen sie zu Boden schlägt.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="227,323 565,323 565,392 227,392" />
+			<!-- line left out: id="r7l0" points="229,324 249,324 277,323 282,323 301,323 317,323 329,331 337,331 338,324 342,324 409,324 423,324 458,325 504,325 540,325 540,340 490,343 480,343 473,338 372,338 363,338 317,337 277,337 229,336" baseline="229,336 277,336 515,338 540,339" reason: second model: differs: "Werz" against "" | " | Wikisource: Wer zählt sie auf die Kämpfe all, | next_nc_e1: Wer zählt sie auf die Kämpfe all, | german_print2_15: Wer z-ählt sie auf die Kämpfe all, -->
+			<TextLine id="r7l1" custom="readingOrder {index:1;}">
+				<Coords points="227,351 263,349 274,349 290,349 291,356 319,352 330,352 346,356 347,350 357,350 364,353 391,351 425,356 426,350 436,350 457,355 469,351 529,351 529,366 521,366 498,364 227,362" />
+				<Baseline points="227,362 435,363 529,365" />
+				<TextEquiv index="1">
+					<Unicode>So vieler Städte Brand und Fall,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l2" custom="readingOrder {index:2;}">
+				<Coords points="229,376 299,380 309,375 319,375 325,381 373,376 387,382 396,382 406,376 416,376 417,383 464,377 478,377 490,383 495,377 532,377 539,378 548,383 557,380 565,380 565,392 557,392 548,390 229,388" />
+				<Baseline points="229,388 565,390" />
+				<TextEquiv index="1">
+					<Unicode>Der Seuchen Schrecken und der Pest,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>So vieler Städte Brand und Fall,
+Der Seuchen Schrecken und der Pest,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="228,402 547,402 547,421 228,421" />
+			<!-- line left out: id="r8l0" points="228,402 233,402 248,404 270,402 282,402 307,403 316,407 331,407 334,413 350,407 357,407 392,402 402,402 450,403 462,405 496,408 515,406 522,403 532,403 547,407 547,411 539,416 524,416 496,421 484,421 481,416 412,416 338,417 334,417 289,415 282,415 256,414 233,415 228,415" baseline="228,414 270,414 430,415 547,416" reason: differs: "DerS" against "| | " | Wikisource:  | next_nc_e1: Der Seufzer, von der Not erpreſst?
+ | german_print2_15: Der Seufzer, von der Not erprelſst?
+ -->
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="227,438 564,438 564,505 227,505" />
+			<TextLine id="r9l0" custom="readingOrder {index:0;}">
+				<Coords points="227,438 233,438 242,440 289,440 318,443 344,438 371,438 378,442 403,445 415,439 445,441 455,438 461,438 467,444 477,444 477,455 394,456 385,456 361,452 227,451" />
+				<Baseline points="227,451 477,452" />
+				<TextEquiv index="1">
+					<Unicode>Denn tausendfältige Gefahr,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l1" custom="readingOrder {index:1;}">
+				<Coords points="227,464 252,466 281,464 290,469 329,469 366,466 387,467 396,464 407,464 411,475 427,465 437,465 451,470 467,459 480,459 482,465 488,465 488,471 501,471 503,465 546,465 564,470 564,479 414,480 387,482 369,482 319,478 227,477" />
+				<Baseline points="227,477 413,477 564,479" />
+				<TextEquiv index="1">
+					<Unicode>Der Frommen Qual, der Übel Schar</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l2" custom="readingOrder {index:2;}">
+				<Coords points="229,490 246,490 258,492 268,490 312,490 328,497 337,495 342,489 357,489 357,495 373,490 383,490 398,495 421,491 436,491 438,498 448,498 449,491 460,491 461,497 480,496 489,498 498,491 545,491 545,504 526,505 516,505 229,503" />
+				<Baseline points="229,503 545,504" />
+				<TextEquiv index="1">
+					<Unicode>Entwindet sich dem Höllenschlund</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Denn tausendfältige Gefahr,
+Der Frommen Qual, der Übel Schar
+Entwindet sich dem Höllenschlund</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="229,516 566,516 566,535 229,535" />
+			<TextLine id="r10l0" custom="readingOrder {index:0;}">
+				<Coords points="229,516 264,516 288,516 326,522 327,516 340,516 368,521 400,522 445,517 494,522 521,517 531,517 542,522 558,518 566,518 566,531 464,530 368,535 362,535 338,530 229,529" />
+				<Baseline points="229,529 566,530" />
+				<TextEquiv index="1">
+					<Unicode>Und thut den jüngsten Tag uns kund.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Und thut den jüngsten Tag uns kund.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="228,552 567,552 567,645 228,645" />
+			<!-- line left out: id="r11l0" points="229,553 233,553 248,555 258,557 269,559 271,552 280,552 292,559 297,553 308,553 326,558 347,554 359,554 365,553 374,553 395,553 436,553 438,559 447,559 456,558 465,558 483,555 492,553 503,553 509,559 531,556 535,556 535,567 465,567 456,567 447,566 436,571 426,571 317,566 308,567 297,567 229,566" baseline="229,566 471,566 535,567" reason: differs: "Durc" against "| | " | Wikisource:  | next_nc_e1: Durch diese Zeichen Jesus Christ | german_print2_15: Durch diese Zeichen Jesus Christ -->
+			<TextLine id="r11l1" custom="readingOrder {index:1;}">
+				<Coords points="229,579 248,579 249,585 269,581 306,584 356,579 367,579 410,585 411,579 421,579 477,579 482,579 563,580 567,583 567,593 543,597 522,597 509,597 493,593 384,594 229,592" />
+				<Baseline points="229,592 567,593" />
+				<TextEquiv index="1">
+					<Unicode>Die Seinen mahnt, daſs nicht vergiſst</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l2" custom="readingOrder {index:2;}">
+				<Coords points="228,605 246,605 269,605 286,606 316,612 321,605 332,605 333,611 351,606 369,606 380,608 398,605 409,605 426,605 451,605 451,611 462,611 472,605 481,605 501,610 512,606 530,605 540,605 541,612 550,612 551,605 556,605 556,611 565,611 565,619 451,619 356,619 332,619 269,619 264,619 228,618" />
+				<Baseline points="228,618 565,619" />
+				<TextEquiv index="1">
+					<Unicode>Ihr Herz die Botschaft hoch und hehr</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r11l3" points="229,631 238,631 249,632 281,637 281,631 295,631 296,638 302,638 315,632 331,632 363,636 373,637 380,638 394,632 413,632 429,637 436,632 451,632 470,632 470,639 478,639 481,631 486,631 486,637 494,637 494,645 429,645 373,645 342,645 295,645 238,645 229,645" baseline="229,644 315,644 494,645" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Von des Messias Wiederkehr
+ | german_print2_15: Von des Messias Wiederkehr
+ -->
+			<TextEquiv index="1">
+				<Unicode>Die Seinen mahnt, daſs nicht vergiſst
+Ihr Herz die Botschaft hoch und hehr</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="278,663 590,663 590,685 278,685" />
+			<!-- line left out: id="r12l0" points="278,664 291,664 298,663 307,663 309,669 321,664 331,664 357,667 379,670 380,664 386,664 388,670 401,670 402,664 407,664 419,669 431,670 433,664 438,664 451,672 457,671 461,671 486,672 486,665 515,663 525,663 526,669 537,669 590,670 590,685 580,685 556,680 537,679 525,680 482,680 461,674 456,679 307,679 298,679 278,678" baseline="278,678 460,679 590,681" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Solch trübsinnige Auffassung
+ | german_print2_15: Solch trübsinnige Auffassung
+ -->
+		</TextRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="597,212 906,212 906,305 597,305" />
+			<!-- line left out: id="r13l0" points="597,215 622,212 648,212 655,218 662,217 686,214 692,213 722,213 731,218 739,216 745,216 814,219 823,214 832,214 832,227 766,229 759,229 731,227 704,229 692,229 675,228 629,228 622,228 597,225" baseline="597,225 610,225 832,227" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: O kehre, Süſsester, zurück
+ | german_print2_15: O kehre, Süſsester, zurück
+ -->
+			<!-- line left out: id="r13l1" points="598,239 608,238 634,238 662,243 683,243 701,239 707,239 748,244 763,245 766,239 777,239 796,239 822,240 832,245 846,247 849,239 854,239 861,245 875,240 880,240 880,248 888,248 888,254 879,254 796,253 757,253 707,257 701,257 662,252 598,252" baseline="598,252 808,252 888,254" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Und unser jämmerlich Geschick, | german_print2_15: Und unser jämmerlich Geschick, -->
+			<!-- line left out: id="r13l2" points="598,267 612,267 631,265 636,265 648,270 650,264 655,264 656,270 669,270 697,270 698,276 714,269 724,269 735,265 744,265 756,272 761,265 775,265 816,266 839,270 849,265 859,265 864,268 864,279 840,279 790,278 744,278 701,279 698,279 689,278 631,278 598,277" baseline="598,277 611,276 802,278 864,279" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: O räche es, und dein Gericht | german_print2_15: O räche es, und dein Gericht -->
+			<!-- line left out: id="r13l3" points="600,290 623,290 632,297 639,297 639,290 653,290 679,295 702,291 723,291 745,291 766,295 777,291 805,291 813,292 826,297 827,291 838,291 839,297 847,297 861,291 865,291 891,291 906,295 906,305 865,305 861,305 688,304 670,304 629,303 600,303" baseline="600,303 702,303 906,304" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Verschone Welt und Hölle nicht.
+ | german_print2_15: Verschone Welt und Hölle nicht.
+ -->
+		</TextRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="598,326 933,326 933,345 598,345" />
+			<!-- line left out: id="r14l0" points="598,337 604,337 604,327 624,326 652,326 652,332 663,331 715,331 725,326 734,326 751,327 819,332 829,333 830,327 866,327 866,333 877,332 898,328 909,328 919,327 933,327 933,340 891,343 866,345 849,345 797,341 698,341 682,341 663,340 598,339" baseline="598,339 641,339 933,340" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Ach komm, ach komm, mein Jesu, bald
+ | german_print2_15: Ach komm, ach komm, mein Jesu, bald
+ -->
+		</TextRegion>
+		<TextRegion id="r15" custom="readingOrder {index:15;} orientation {0;}">
+			<Coords points="599,352 919,352 919,366 599,366" />
+			<!-- line left out: id="r15l0" points="599,352 635,352 646,359 653,359 663,352 669,352 702,357 719,359 719,352 730,352 731,358 752,353 757,353 766,355 829,358 903,353 914,353 919,356 919,366 810,366 757,366 731,366 635,365 599,365" baseline="599,365 714,365 919,366" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Und schirm die Deinen vor walt
+ | german_print2_15: Und schirm die Deinen vor walt
+ -->
+		</TextRegion>
+		<GraphicRegion id="r16">
+			<Coords points="860,355 882,355 882,366 860,366" />
+		</GraphicRegion>
+		<TextRegion id="r17" custom="readingOrder {index:17;} orientation {0;}">
+			<Coords points="600,378 920,378 920,396 600,396" />
+			<!-- line left out: id="r17l0" points="600,378 606,378 621,380 643,378 655,378 662,384 683,383 698,383 715,385 716,378 727,378 728,384 748,383 757,383 772,384 792,389 792,379 808,379 828,379 856,384 885,384 895,378 900,378 901,384 920,384 920,394 885,396 876,396 836,392 808,392 698,393 688,393 655,391 600,391" baseline="600,391 849,391 920,393" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Der Bösen, die vor Angst vergehn,
+ | german_print2_15: Der Bösen, die vor Angst vergehn,
+ -->
+		</TextRegion>
+		<TextRegion id="r18" custom="readingOrder {index:18;} orientation {0;}">
+			<Coords points="600,404 928,404 928,418 600,418" />
+			<!-- line left out: id="r18l0" points="600,404 620,404 622,410 631,408 650,408 665,409 719,404 729,404 730,410 740,409 755,409 788,406 796,404 808,404 835,409 852,412 852,405 862,405 872,404 882,404 893,412 900,410 909,410 910,404 920,404 921,410 928,410 928,418 910,418 882,417 862,418 852,418 779,417 665,417 622,417 600,416" baseline="600,416 893,416 928,418" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Wenn sie in deinem Glanz dich sehn
+ | german_print2_15: Wenn sie in deinem Glanz dich sehn.
+ -->
+		</TextRegion>
+		<TextRegion id="r19" custom="readingOrder {index:19;} orientation {0;}">
+			<Coords points="600,439 935,439 935,510 600,510" />
+			<!-- line left out: id="r19l0" points="601,440 610,440 610,446 618,446 621,439 626,439 627,445 639,445 642,440 653,440 654,446 674,445 702,445 719,446 726,447 739,441 744,441 746,447 761,446 766,440 777,440 787,446 796,446 803,447 817,441 830,441 846,446 851,440 856,440 866,443 866,454 830,454 796,454 765,454 719,454 710,454 639,453 601,453" baseline="601,453 739,453 866,454" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Erhelle unsres Leidens Nacht | german_print2_15: Erhelle unsres Leidens Nacht -->
+			<!-- line left out: id="r19l1" points="601,466 606,466 620,469 630,470 640,473 643,466 651,466 692,466 721,466 769,471 784,473 785,466 797,466 816,471 845,467 850,467 863,468 880,472 884,466 889,466 904,469 904,481 895,481 823,480 769,483 760,483 680,479 669,478 651,479 601,479" baseline="601,479 780,479 904,480" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Durch Offenbarung deiner Pracht, | german_print2_15: Durch Offenbarung deiner Pracht, -->
+			<!-- line left out: id="r19l2" points="600,501 605,492 622,492 660,492 671,497 740,492 754,492 764,498 774,497 799,495 810,495 820,492 829,492 831,498 845,498 881,498 899,495 904,495 915,498 916,492 926,492 935,497 935,505 904,506 888,506 881,510 871,510 831,506 622,505 600,505" baseline="600,505 935,505" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Aus Thränen und aus Schmerzgestöhn
+ | german_print2_15: Aus Thränen und aus Schmerzgestöhn
+ -->
+		</TextRegion>
+		<TextRegion id="r20" custom="readingOrder {index:20;} orientation {0;}">
+			<Coords points="601,518 911,518 911,532 601,532" />
+			<!-- line left out: id="r20l0" points="601,518 632,518 633,524 643,518 652,518 742,519 752,524 758,525 772,519 789,518 793,518 819,523 825,518 839,518 841,526 847,526 860,519 883,518 892,518 893,524 911,524 911,532 881,532 839,532 785,532 772,532 752,531 632,531 601,531" baseline="601,531 911,531" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Erheb uns zu des Himmels Höhn.
+ | german_print2_15: Erheb uns zu des Himmels Höhn.
+ -->
+		</TextRegion>
+		<TextRegion id="r21" custom="readingOrder {index:21;} orientation {0;}">
+			<Coords points="601,554 936,554 936,623 601,623" />
+			<!-- line left out: id="r21l0" points="602,554 622,554 650,561 656,554 670,554 687,559 707,556 715,555 727,555 747,560 748,554 761,554 784,559 801,560 814,554 817,554 823,560 837,560 840,554 850,554 851,560 868,557 872,557 886,558 887,565 890,565 890,570 817,570 814,570 761,568 676,568 672,568 602,567" baseline="602,567 760,567 890,568" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Was deine Gnade uns verheiſst, | german_print2_15: Was deine Gnade uns verheilſst, -->
+			<!-- line left out: id="r21l1" points="601,581 611,581 623,580 628,580 633,585 644,584 654,584 672,583 689,580 699,580 735,581 755,583 775,581 780,581 792,583 830,581 836,581 838,587 847,586 855,581 864,581 871,583 871,595 855,595 836,594 810,594 729,594 601,593" baseline="601,593 822,593 871,594" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Erheitert den betrübten Geist; | german_print2_15: Erheitert den betrübten Geist; -->
+			<TextLine id="r21l2" custom="readingOrder {index:2;}">
+				<Coords points="601,606 606,606 621,606 662,606 684,607 705,612 780,611 790,606 800,606 837,606 846,606 855,612 882,612 892,606 897,606 917,606 936,610 936,620 865,623 855,623 732,620 601,619" />
+				<Baseline points="601,618 936,619" />
+				<TextEquiv index="1">
+					<Unicode>Doch laſs es nun auch bald geschehn,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Doch laſs es nun auch bald geschehn,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r22" custom="readingOrder {index:22;} orientation {0;}">
+			<Coords points="601,631 915,631 915,646 601,646" />
+			<TextLine id="r22l0" custom="readingOrder {index:0;}">
+				<Coords points="601,632 632,632 632,639 649,637 657,632 674,632 696,637 713,638 727,632 737,632 738,639 748,637 819,632 833,639 861,638 886,635 896,631 906,631 908,637 915,637 915,645 861,646 810,646 758,646 632,646 620,646 601,645" />
+				<Baseline points="601,645 915,645" />
+				<TextEquiv index="1">
+					<Unicode>Daſs wir vor deinem Throne stehn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Daſs wir vor deinem Throne stehn</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r23" custom="readingOrder {index:23;} orientation {0;}">
+			<Coords points="612,659 937,659 937,689 612,689" />
+			<!-- line left out: id="r23l0" points="612,664 623,664 624,671 636,670 643,670 665,664 686,664 686,671 697,671 699,664 718,664 719,670 743,670 743,663 765,659 780,659 797,670 814,670 815,664 825,664 826,670 854,668 860,668 902,670 911,664 923,664 924,670 937,670 937,679 923,680 837,680 815,680 797,679 780,689 765,689 765,681 743,684 731,684 623,680 612,680" baseline="612,679 937,679" reason: differs: "derW" against ". ⟦⟧" | Wikisource:  | next_nc_e1: der Weltlage ) gehörte wäh-
+ | german_print2_15: der Weltlage ¹) gehörte wäh-
+ -->
+		</TextRegion>
+		<GraphicRegion id="r24">
+			<Coords points="796,678 797,678 797,681 796,681" />
+		</GraphicRegion>
+		<TextRegion id="r25" custom="readingOrder {index:25;} orientation {0;}">
+			<Coords points="225,689 938,689 938,972 225,972" />
+			<TextLine id="r25l0" custom="readingOrder {index:0;}">
+				<Coords points="228,695 259,695 259,689 270,689 285,695 291,695 292,689 303,689 305,697 337,696 338,689 344,689 345,696 364,697 365,690 376,690 378,697 388,695 423,696 423,690 435,690 444,695 454,689 467,689 475,696 485,696 496,690 512,690 514,696 521,696 523,690 528,690 529,697 589,697 590,690 603,690 603,696 615,696 622,698 629,690 634,690 636,697 710,696 716,690 721,690 744,696 780,697 780,690 791,690 793,696 809,696 818,690 846,690 854,694 878,696 879,690 884,690 886,696 909,693 937,695 937,705 552,705 551,711 539,711 539,705 467,711 454,711 435,706 416,711 405,711 393,710 376,706 228,705" />
+				<Baseline points="228,705 937,705" />
+				<TextEquiv index="1">
+					<Unicode>rend des dreiſsigjährigen Krieges durchaus nicht zu den Seltenheiten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r25l1" points="227,721 251,721 252,715 263,715 281,723 294,722 311,722 318,716 334,716 335,723 346,722 365,719 389,716 402,716 402,723 413,723 414,716 418,716 436,722 459,722 460,716 472,716 472,723 485,722 504,722 526,716 532,716 542,717 553,722 555,716 564,716 584,719 616,722 664,716 677,716 678,729 697,716 709,716 709,724 721,722 745,717 759,717 779,722 779,716 794,716 795,723 806,722 816,722 825,724 842,718 853,716 858,716 899,716 923,721 936,724 936,733 925,733 889,731 887,737 861,737 858,731 825,731 794,732 759,732 709,732 616,734 606,734 532,732 472,732 371,732 334,732 311,732 294,732 287,731 251,732 240,732 227,731" baseline="227,731 936,731" reason: differs: ",B.beiA" against "z. B. b" | Wikisource:  | next_nc_e1: uud erscheint bei andern Dichtern, B. bei Andreas Gryphius, | german_print2_15: uud erscheint bei andern Dichtern, B. bei Andreas Gryphius, -->
+			<TextLine id="r25l2" custom="readingOrder {index:2;}">
+				<Coords points="227,747 283,748 294,742 305,742 319,749 334,749 335,742 345,742 346,749 372,748 373,742 381,742 381,749 412,747 433,743 448,743 461,748 553,748 553,756 587,742 605,742 607,749 618,749 630,742 641,742 687,750 688,742 698,742 700,749 746,749 747,742 753,742 754,748 770,748 784,742 789,742 791,748 836,748 838,742 843,742 845,749 873,747 896,749 897,741 909,741 911,747 937,748 937,756 928,756 928,762 916,762 880,757 618,758 553,763 516,763 484,763 472,763 471,756 461,758 227,758" />
+				<Baseline points="227,757 937,756" />
+				<TextEquiv index="1">
+					<Unicode>in noch schärferer Ausprägung. Machte schon die beinahe völlige</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r25l3" points="227,769 242,769 255,773 286,771 301,771 337,774 355,768 367,768 368,775 379,774 387,774 407,768 414,768 416,774 428,771 443,768 454,768 462,774 475,771 481,771 513,774 557,774 573,768 579,768 606,768 607,774 673,774 722,774 736,768 740,768 750,772 759,768 771,768 781,774 791,774 807,768 827,768 828,774 839,774 840,768 851,768 853,774 862,773 872,773 878,776 884,768 895,768 908,779 913,773 926,770 935,770 935,783 895,784 872,784 839,784 817,784 771,784 673,784 579,784 513,784 454,784 367,784 337,789 326,789 242,784 227,784" baseline="227,784 894,783 935,783" reason: differs: "iefsenE" against "iefen E" | Wikisource:  | next_nc_e1: Ausrottung des Luthertums in Böhmen einen tiefſen Eindruck auf | german_print2_15: Ausrottung des Luthertums in Böhmen einen tieſen Eindruck auf -->
+			<!-- line left out: id="r25l4" points="226,795 242,795 261,800 262,794 277,794 277,801 299,801 308,802 325,796 335,794 348,794 349,800 386,797 397,797 464,794 469,794 470,800 481,798 493,798 518,801 518,794 530,794 531,801 541,801 549,802 570,795 575,795 660,794 671,794 673,801 684,801 685,794 697,794 698,802 709,800 745,800 760,794 778,794 780,800 793,796 807,796 838,801 838,794 851,794 852,801 861,801 877,794 893,793 915,793 917,799 930,799 937,803 937,805 930,809 893,809 851,810 807,810 697,810 671,810 587,810 541,810 397,812 386,812 299,810 248,810 226,810" baseline="226,810 760,809 937,809" reason: second model: differs: "alssedi" against "aſse di" | Wikisource: Andreäs Gemüt, so that dies in weit höherem Maſse die Wahr | next_nc_e1: Andreäs Gemüt, so that dies in weit höherem Maſse die Wahr- | german_print2_15: Andreäs Gemüt, so that dies in weit höherem Malſse die Wahr- -->
+			<!-- line left out: id="r25l5" points="226,826 238,826 250,827 250,820 262,820 263,826 318,826 323,833 346,826 352,826 352,820 364,820 375,822 377,828 409,828 409,820 421,820 428,826 435,826 453,820 466,820 467,826 498,826 531,821 544,821 612,820 621,820 625,826 636,826 648,828 648,820 659,820 665,826 675,826 704,828 705,820 710,820 711,826 722,826 744,826 760,820 780,820 782,826 800,826 800,820 813,820 814,828 825,820 830,820 843,824 880,826 890,819 908,819 908,825 916,825 937,825 937,839 928,839 916,835 908,840 880,840 868,840 830,836 813,836 744,836 675,836 563,836 561,842 550,842 550,836 544,836 531,835 498,841 481,841 460,836 375,836 318,841 300,841 238,836 226,836" baseline="226,836 937,834" reason: second model: differs: "nehm" against "e Wa" | Wikisource: nehmung, daſs der Prager Separatfrieden einen Vernichtungskrieg | next_nc_e1: nehmung, daſs der Prager Separatfrieden einen Vernichtungskrieg | german_print2_15: nehmung, dalſs der Prager Separatfrieden einen Vernichtungskrieg -->
+			<TextLine id="r25l6" custom="readingOrder {index:6;}">
+				<Coords points="227,852 245,849 258,849 278,852 287,846 299,846 300,853 322,852 333,846 346,846 347,852 362,849 433,849 457,852 471,846 552,846 559,852 573,847 585,847 609,848 622,852 624,846 635,846 659,850 666,846 716,846 718,853 767,852 779,846 798,846 799,852 810,852 811,846 827,846 837,853 843,853 843,845 855,845 857,853 869,853 878,845 886,845 888,852 898,852 900,845 905,845 907,851 938,852 938,859 920,861 888,861 886,867 878,867 869,860 810,862 227,862" />
+				<Baseline points="227,862 938,860" />
+				<TextEquiv index="1">
+					<Unicode>unter den Protestanten selbst herbeiführte. Als am Ende des Jahres</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r25l7" custom="readingOrder {index:7;}">
+				<Coords points="227,877 234,875 246,875 291,879 291,872 303,872 304,880 314,880 326,872 339,872 339,878 350,878 350,872 362,872 363,878 389,879 390,872 402,872 409,878 462,875 475,875 495,878 511,872 525,872 525,878 542,878 544,872 558,872 558,878 618,878 619,872 632,872 632,879 654,878 655,872 666,872 682,878 705,878 706,872 717,872 730,878 769,878 769,872 780,872 788,878 803,878 804,871 815,871 830,878 860,875 895,877 896,871 901,871 903,878 937,877 937,887 326,887 257,893 246,893 227,888" />
+				<Baseline points="227,888 937,886" />
+				<TextEquiv index="1">
+					<Unicode>1636 die Schweden unter Banér raubend und mordend in Sachsen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r25l8" custom="readingOrder {index:8;}">
+				<Coords points="226,906 257,899 267,899 268,905 279,905 280,898 291,898 298,904 309,904 310,911 328,899 340,899 340,905 386,905 388,898 398,898 419,902 489,904 490,898 500,898 514,906 530,904 596,905 598,898 603,898 605,904 626,905 635,898 657,898 660,904 670,904 671,898 682,898 684,905 717,905 717,898 728,898 730,904 761,904 767,906 774,898 778,898 792,901 793,911 812,904 833,905 835,898 852,897 862,897 864,904 937,903 937,913 844,913 797,915 440,913 431,919 419,919 310,917 291,914 226,914" />
+				<Baseline points="226,914 937,912" />
+				<TextEquiv index="1">
+					<Unicode>einfielen, bemächtigte sich seiner eine Todessehnsucht, welcher sein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r25l9" points="225,930 238,930 258,931 270,924 281,924 282,930 294,930 314,931 316,925 326,925 340,928 360,930 376,924 391,924 405,925 421,930 468,930 478,927 485,927 509,930 510,924 551,924 593,924 595,930 675,930 675,924 687,924 689,930 693,930 705,931 706,925 711,925 723,930 723,924 760,924 779,929 789,944 792,923 803,923 816,924 824,930 853,928 860,927 866,927 890,928 930,928 937,931 937,934 930,938 901,938 890,944 875,944 866,939 803,943 794,946 789,946 779,939 725,940 693,940 662,940 644,939 629,945 618,945 586,940 468,940 422,940 421,946 406,946 405,939 391,940 314,941 303,941 258,940 238,945 225,945" baseline="225,940 889,938 937,938" reason: differs: "637ver" against "37 ⟦⟧ I" | Wikisource:  | next_nc_e1: geschwächter Körperzustand Erfüllung verhieſs. Im Jahre 1637 ver- | german_print2_15: geschwächter Körperzustand Erfüllung verhieſs. Im Jahre 1637 ver- -->
+			<!-- line left out: id="r25l10" points="227,950 235,950 235,956 245,956 247,950 255,950 269,954 312,956 337,957 338,951 343,951 355,956 369,950 375,950 376,956 388,953 402,953 409,951 419,951 445,956 462,957 462,950 474,950 475,956 486,956 486,950 492,950 521,950 549,950 565,950 567,957 591,956 601,956 602,950 614,950 621,957 634,957 649,950 654,950 674,950 681,956 692,956 693,950 707,950 708,958 719,955 722,955 722,966 707,966 680,966 649,966 620,965 614,966 591,966 579,964 578,971 567,971 565,965 549,966 527,969 523,969 521,958 514,958 505,966 445,966 445,972 432,972 432,966 227,966" baseline="227,966 526,965 649,965 722,966" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: faſste er ein Lateingedicht ²) folgendes Inhalts:
+ | german_print2_15: faſste er ein Lateingedicht ²) folgendes Inhalts:
+ -->
+			<TextEquiv index="1">
+				<Unicode>rend des dreiſsigjährigen Krieges durchaus nicht zu den Seltenheiten
+in noch schärferer Ausprägung. Machte schon die beinahe völlige
+unter den Protestanten selbst herbeiführte. Als am Ende des Jahres
+1636 die Schweden unter Banér raubend und mordend in Sachsen
+einfielen, bemächtigte sich seiner eine Todessehnsucht, welcher sein</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r26">
+			<Coords points="639,715 641,715 641,732 639,732" />
+		</GraphicRegion>
+		<SeparatorRegion id="r27">
+			<Coords points="972,256 979,256 979,777 972,777" />
+		</SeparatorRegion>
+		<TextRegion id="r28" custom="readingOrder {index:28;} orientation {0;}">
+			<Coords points="227,979 881,979 881,998 227,998" />
+			<!-- line left out: id="r28l0" points="227,981 234,981 235,987 242,987 245,981 271,981 272,987 281,987 282,981 292,981 293,987 301,987 312,981 317,981 369,987 383,987 386,980 396,980 397,987 407,986 438,986 448,981 453,981 469,985 485,984 599,983 608,981 620,981 644,985 669,987 671,980 682,980 719,980 748,979 753,979 795,980 796,987 802,987 806,980 814,980 862,985 862,979 872,979 881,984 881,992 862,993 842,993 836,997 654,997 645,997 608,993 599,992 438,998 428,998 396,994 349,998 339,998 292,995 271,995 266,995 227,994" baseline="227,994 881,992" reason: differs: "Ichl" against "37 ⟦" | Wikisource:  | next_nc_e1: Ich lebe lange schon gebannt Genng der Not hab ich gesehn
+ | german_print2_15: Ich lebe lange schon gebannt Genug der Not hab ich gesehn
+ -->
+		</TextRegion>
+		<TextRegion id="r29" custom="readingOrder {index:29;} orientation {0;}">
+			<Coords points="227,1005 902,1005 902,1023 227,1023" />
+			<!-- line left out: id="r29l0" points="227,1018 232,1008 249,1008 313,1012 354,1012 374,1012 376,1006 386,1006 393,1009 427,1006 445,1006 464,1009 475,1006 479,1006 480,1012 500,1012 501,1006 510,1006 636,1006 754,1009 768,1009 790,1006 800,1006 830,1011 847,1011 857,1005 867,1005 883,1005 902,1010 902,1019 837,1019 830,1023 820,1023 698,1022 684,1022 636,1019 510,1020 479,1020 464,1020 249,1021 227,1021" baseline="227,1020 509,1019 804,1018 820,1018 902,1020" reason: differs: "Ausm" against "bann" | Wikisource:  | next_nc_e1: Aus meinem rechten Vaterland Und wenig nur ist mir geschehn,
+ | german_print2_15: Aus meinem rechten Vaterland Und wenig nur ist mir geschehn,
+ -->
+		</TextRegion>
+		<TextRegion id="r30" custom="readingOrder {index:30;} orientation {0;}">
+			<Coords points="228,1032 910,1032 910,1047 228,1047" />
+			<!-- line left out: id="r30l0" points="228,1034 248,1033 263,1033 331,1033 360,1033 367,1038 377,1032 387,1032 398,1039 406,1035 412,1035 446,1037 480,1033 617,1033 674,1037 682,1038 691,1039 705,1032 729,1032 749,1037 759,1032 764,1032 813,1033 872,1034 901,1033 910,1033 910,1045 901,1045 889,1044 856,1044 824,1045 682,1045 638,1045 486,1046 422,1046 387,1046 263,1047 248,1047 228,1046" baseline="228,1046 465,1045 787,1044 850,1044 910,1045" reason: differs: "Undu" against "hehn" | Wikisource:  | next_nc_e1: Und unaufhörlich stürmen Pe Was eines Menschen Sinn erfreut,
+ | german_print2_15: Und unaufhörlich stürmen Pe Was eines Menschen Sinn erfreut,
+ -->
+		</TextRegion>
+		<GraphicRegion id="r31">
+			<Coords points="498,1037 520,1037 520,1046 498,1046" />
+		</GraphicRegion>
+		<TextRegion id="r32" custom="readingOrder {index:32;} orientation {0;}">
+			<Coords points="228,1056 926,1056 926,1076 228,1076" />
+			<!-- line left out: id="r32l0" points="228,1059 241,1059 285,1059 316,1064 337,1060 351,1060 387,1061 399,1069 403,1063 414,1061 423,1061 452,1058 493,1058 513,1063 599,1058 609,1058 624,1059 655,1058 660,1058 662,1064 697,1062 716,1062 739,1058 744,1058 776,1058 802,1057 816,1057 839,1058 891,1062 892,1056 901,1056 902,1062 912,1061 918,1059 926,1059 926,1069 891,1073 881,1073 834,1071 801,1071 672,1071 513,1071 414,1072 374,1076 316,1076 306,1076 228,1072" baseline="228,1072 386,1071 640,1070 926,1069" reason: differs: "Undb" against "reut" | Wikisource:  | next_nc_e1: Und bange Angst auf mich herein Mein Los war Leid und Traurigkeit.
+ | german_print2_15: Und bange Angst auf mich herein Mein Los war Leid und Traurigkeit.
+ -->
+		</TextRegion>
+		<TextRegion id="r33" custom="readingOrder {index:33;} orientation {0;}">
+			<Coords points="225,1103 936,1103 936,1185 225,1185" />
+			<!-- line left out: id="r33l0" points="280,1105 317,1105 319,1111 335,1111 362,1111 376,1107 386,1107 388,1117 403,1105 417,1105 457,1105 474,1107 476,1116 492,1108 511,1108 512,1115 533,1109 559,1104 569,1104 570,1111 580,1109 605,1107 613,1105 625,1105 625,1111 635,1111 636,1104 640,1104 662,1104 694,1109 701,1107 723,1104 733,1104 734,1111 744,1109 764,1105 784,1105 804,1109 821,1111 824,1104 829,1104 886,1103 898,1103 924,1108 924,1115 898,1116 859,1117 784,1117 625,1118 594,1118 511,1122 502,1122 390,1120 388,1120 371,1119 362,1122 352,1124 346,1124 310,1123 280,1123" baseline="280,1119 389,1118 514,1117 924,1116" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Ara grat., II. Cent. 23, in dem Gedicht mit der Überschriſt: Αηn | german_print2_15: ¹) Ara graf., II. Cent. 23, in dem Gedicht mit der Überschrift: Aym -->
+			<!-- line left out: id="r33l1" points="225,1132 231,1128 248,1128 282,1131 303,1128 308,1128 343,1132 350,1134 354,1138 368,1126 377,1126 388,1128 469,1131 507,1131 522,1127 526,1127 542,1131 548,1132 554,1137 567,1130 587,1130 595,1125 605,1125 634,1130 641,1132 645,1125 654,1125 667,1131 672,1125 682,1125 708,1130 730,1125 734,1125 755,1125 762,1128 779,1130 797,1130 814,1127 827,1125 831,1125 859,1130 860,1124 865,1124 876,1129 887,1123 891,1123 908,1123 909,1130 915,1130 919,1123 928,1123 930,1129 936,1129 936,1135 928,1136 876,1137 859,1141 833,1141 779,1138 693,1138 654,1138 554,1140 551,1140 542,1137 538,1137 520,1135 514,1137 507,1141 496,1144 491,1144 480,1138 469,1139 438,1139 429,1139 415,1138 377,1140 354,1142 351,1142 343,1139 324,1140 319,1140 302,1139 282,1139 253,1140 231,1140 225,1139" baseline="225,1140 264,1139 353,1138 936,1135" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: vetus finit vias, Déo canamus gratias, wird auch das verhältnismäſsig glückliche | german_print2_15: vetus tnit vias, Deo ewnamus gratias, wird auch das verhältnismälsig glückliche -->
+			<!-- line left out: id="r33l2" points="229,1148 235,1148 247,1153 248,1147 258,1147 259,1153 279,1151 287,1150 317,1150 365,1150 384,1147 400,1147 401,1153 423,1148 428,1148 436,1147 450,1147 468,1147 476,1151 495,1151 505,1152 506,1146 515,1146 524,1152 544,1151 554,1151 569,1151 581,1152 591,1146 597,1146 608,1152 612,1152 623,1149 644,1146 654,1146 675,1153 702,1152 710,1152 712,1146 716,1146 727,1151 752,1149 769,1149 776,1151 796,1146 805,1146 862,1148 870,1145 879,1145 890,1149 910,1149 916,1144 926,1144 934,1149 934,1156 926,1157 910,1157 890,1160 881,1160 862,1158 858,1158 794,1164 790,1164 741,1159 681,1159 633,1161 623,1161 581,1160 554,1164 544,1164 505,1160 495,1164 489,1164 450,1160 365,1161 307,1164 298,1164 284,1161 235,1164 229,1164" baseline="229,1161 279,1160 934,1156" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Jahr 1636 unter die Leidensjahre gerechnet, da es einer Strophe in folgender | german_print2_15: Jahr 1636 unter die Leidensjahre gerechnet, da es einer Strophe in folgender -->
+			<!-- line left out: id="r33l3" points="226,1164 237,1164 248,1169 272,1169 331,1168 337,1168 368,1173 382,1174 383,1168 394,1168 407,1172 416,1168 444,1167 456,1167 468,1172 468,1180 462,1181 448,1181 394,1181 375,1181 368,1185 358,1185 272,1182 237,1182 226,1182" baseline="226,1182 280,1181 468,1180" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Weise mit beigedruckt ist:
+ | german_print2_15: Weise mit beigedruckt ist:
+ -->
+		</TextRegion>
+		<GraphicRegion id="r34">
+			<Coords points="580,1195 591,1195 591,1207 580,1207" />
+		</GraphicRegion>
+		<GraphicRegion id="r35">
+			<Coords points="676,1225 685,1225 685,1231 676,1231" />
+		</GraphicRegion>
+		<TextRegion id="r36" custom="readingOrder {index:36;} orientation {0;}">
+			<Coords points="397,1233 736,1233 736,1294 397,1294" />
+			<!-- line left out: id="r36l0" points="397,1250 402,1240 410,1240 424,1246 441,1246 463,1233 482,1233 515,1252 526,1252 535,1254 544,1252 554,1252 588,1255 629,1255 630,1249 635,1249 645,1257 650,1251 661,1251 696,1255 715,1250 720,1250 722,1257 734,1249 736,1249 736,1251 734,1251 725,1260 714,1261 702,1262 678,1262 667,1263 649,1263 601,1263 583,1263 526,1267 482,1268 463,1268 441,1253 421,1253 410,1254 397,1254" baseline="397,1266 463,1264 614,1260 736,1260" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: A4nno 3 Quot mors vel atra sustul | german_print2_15: 4no 33 Quot mors vel atra sustul. -->
+			<!-- line left out: id="r36l1" points="463,1275 473,1273 483,1273 516,1280 536,1280 546,1286 554,1286 569,1286 588,1286 608,1280 616,1280 622,1288 629,1288 629,1280 637,1280 644,1283 662,1289 668,1280 678,1280 685,1279 693,1279 700,1289 705,1279 712,1279 732,1283 732,1285 730,1285 722,1294 693,1294 685,1294 678,1292 644,1294 629,1294 620,1293 616,1294 578,1294 554,1294 516,1294 483,1284 473,1289 463,1289" baseline="463,1296 482,1295 516,1294 648,1290 662,1289 732,1287" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 36 Et saevus hostis abstulit?
+ | german_print2_15: 36 t saevus hostis abstulit?
+ -->
+		</TextRegion>
+		<TextRegion id="r37" custom="readingOrder {index:37;} orientation {0;}">
+			<Coords points="225,1295 903,1295 903,1351 225,1351" />
+			<!-- line left out: id="r37l0" points="463,1295 481,1295 481,1309 463,1309" baseline="463,1309 481,1309" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 37 | german_print2_15:  -->
+			<!-- line left out: id="r37l1" points="278,1312 292,1312 305,1325 309,1313 325,1313 327,1320 348,1318 359,1318 372,1315 383,1315 389,1325 410,1313 425,1313 456,1313 506,1316 531,1318 534,1323 551,1317 567,1315 578,1315 594,1319 594,1312 609,1312 638,1311 650,1311 656,1312 680,1317 690,1311 696,1311 720,1311 758,1311 770,1312 782,1317 797,1318 800,1311 812,1311 815,1318 821,1318 839,1311 845,1311 887,1311 894,1313 903,1315 903,1322 894,1323 887,1324 812,1324 782,1324 726,1325 696,1325 609,1326 578,1326 534,1328 531,1328 506,1326 456,1326 449,1325 425,1326 359,1329 348,1329 325,1327 292,1332 278,1332" baseline="278,1327 391,1326 725,1324 903,1324" reason: no text of Wikisource found | Wikisource:  | next_nc_e1:  Ara grat, II Cent 100, mit der Überschrift: PressVs In Isto | german_print2_15: *²) Ara grat, II Cent. 100, mit der Überschritt: PressVs In Isto -->
+			<!-- line left out: id="r37l2" points="225,1336 237,1336 255,1335 271,1334 279,1334 306,1334 348,1334 359,1335 366,1334 381,1334 416,1333 421,1333 427,1338 435,1334 451,1334 457,1337 477,1334 488,1334 516,1334 574,1334 606,1334 606,1346 569,1346 527,1351 516,1351 427,1347 335,1348 269,1349 237,1349 225,1349" baseline="225,1349 305,1348 389,1347 545,1346 606,1346" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: SatVIXI MVnDoο ChrIste benIgne VenI.
+ | german_print2_15: SatVIXI MVnDo Chri-ste benlgne Venl.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r38">
+			<Coords points="0,1521 1000,1521 1000,1564 0,1564" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+| style="width:260px; | Die Welt den Schlechten hegt und pflegt,
+|
+| O kehre, Süßester, zurück
+| Den Frommen sie zu Boden schlägt.
+|
+| Und unser jämmerlich Geschick,
+| Und aller Sinne sie verwirrt,
+|
+| O räche es, und dein Gericht
+| Daß falscher Glaube triumphiert.
+|
+| Verschone Welt und Hölle nicht.
+| colspan="3" |
+| Wer zählt sie auf die Kämpfe all,
+|
+| Ach komm, ach komm, mein Jesu, bald
+| So vieler Städte Brand und Fall,
+|
+| Und schirm die Deinen vor Gewalt
+| Der Seuchen Schrecken und der Pest,
+|
+| Der Bösen, die vor Angst vergehn,
+| Der Seufzer, von der Not erpreßt?
+|
+| Wenn sie in deinem Glanz dich sehn.
+| colspan="3" |
+| Denn tausendfältige Gefahr,
+|
+| Erhelle unsres Leidens Nacht
+| Der Frommen Qual, der Übel Schar
+|
+| Durch Offenbarung deiner Pracht,
+| Entwindet sich dem Höllenschlund
+|
+| Aus Thränen und aus Schmerzgestöhn
+| Und thut den jüngsten Tag uns kund.
+|
+| Erheb uns zu des Himmels Höhn.
+| colspan="3" |
+| Durch diese Zeichen Jesus Christ
+|
+| Was deine Gnade uns verheißt,
+| Die Seinen mahnt, daß nicht vergißt
+|
+| Erheitert den betrübten Geist;
+| Ihr Herz die Botschaft hoch und hehr
+|
+| Doch laß es nun auch bald geschehn,
+| Von des Messias Wiederkehr.
+|
+| Daß wir vor deinem Throne stehn.
+Solch trübsinnige Auffassung der Weltlage⟦⟧ gehörte
+während des dreißigjährigen Krieges durchaus nicht zu den Seltenheiten
+uud erscheint bei andern Dichtern, z. B. bei Andreas Gryphius,
+in noch schärferer Ausprägung. Machte schon die beinahe völlige
+Ausrottung des Luthertums in Böhmen einen tiefen Eindruck auf
+Andreäs Gemüt, so that dies in weit höherem Maße die
+Wahrnehmung, daß der Prager Separatfrieden einen Vernichtungskrieg
+unter den Protestanten selbst herbeiführte. Als am Ende des Jahres
+1636 die Schweden unter Banér raubend und mordend in Sachsen
+einfielen, bemächtigte sich seiner eine Todessehnsucht, welcher sein
+geschwächter Körperzustand Erfüllung verhieß. Im Jahre 1637
+verfaßte er ein Lateingedicht⟦⟧ folgendes Inhalts:
+Ich lebe lange schon gebannt
+Aus meinem rechten Vaterland
+Und unaufhörlich stürmen Pein
+Und bange Angst auf mich herein.
+Genug der Not hab ich gesehn
+Und wenig nur ist mir geschehn,
+Was eines Menschen Sinn erfreut,
+Mein Los war Leid und Traurigkeit.
+-->
+	</Page>
+</PcGts>

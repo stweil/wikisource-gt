@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:11:17</Created>
+		<LastChange>2026-11-23T14:11:17</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/416 revision 5023628 of 2026-08-26T06:58:49Z, proofread level 3, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0416.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro14875570924297509932" caption="Regions reading order">
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="16" regionRef="r16" />
+				<RegionRefIndexed index="22" regionRef="r22" />
+				<RegionRefIndexed index="23" regionRef="r23" />
+				<RegionRefIndexed index="24" regionRef="r24" />
+				<RegionRefIndexed index="28" regionRef="r28" />
+				<RegionRefIndexed index="29" regionRef="r29" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 1000,0 1000,180 0,180" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,203 72,203 72,844 0,844" />
+		</GraphicRegion>
+		<GraphicRegion id="r2">
+			<Coords points="0,1001 22,1001 22,1173 0,1173" />
+		</GraphicRegion>
+		<GraphicRegion id="r3">
+			<Coords points="0,1362 1000,1362 1000,1564 0,1564" />
+		</GraphicRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="502,155 641,155 641,172 502,172" />
+			<!-- line left out: id="r4l0" points="502,164 526,164 553,155 565,155 590,156 617,166 641,166 641,167 590,172 565,172 553,172 526,166 502,166" baseline="502,172 641,172" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 204 —
+ | german_print2_15: — 204 —
+ -->
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="0,180 988,180 988,203 0,203" />
+		</GraphicRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="211,208 926,208 926,1091 211,1091" />
+			<!-- line left out: id="r6l0" points="217,215 227,210 234,210 262,210 281,212 293,214 296,210 326,208 357,208 378,209 378,215 411,215 413,209 420,209 479,210 480,216 493,211 502,211 550,211 551,224 574,212 586,212 587,219 599,218 633,218 647,219 649,213 653,213 655,221 666,213 677,213 678,220 690,219 706,219 729,222 730,214 742,214 743,220 753,220 769,214 780,214 788,218 800,220 800,214 811,214 836,221 842,215 853,215 865,220 879,221 896,215 907,215 914,221 924,221 924,231 907,235 896,235 867,231 853,230 788,230 781,230 753,229 690,229 603,228 555,230 541,230 537,230 504,227 474,226 447,225 391,230 378,230 358,225 294,224 217,223" baseline="217,223 574,226 878,230 924,231" reason: differs: "stat" against "Mark" | Wikisource:  | next_nc_e1: stattete. Markgraf Wilhelm I., bei welchem die Stadt über Jan | german_print2_15: stattete. Markgraf Wilhelm I., bei welchem die Stadt über Jan -->
+			<TextLine id="r6l1" custom="readingOrder {index:1;}">
+				<Coords points="218,239 252,239 271,242 271,234 282,234 345,240 345,234 371,234 372,241 382,241 396,234 410,234 410,242 441,241 441,235 448,235 448,241 477,241 496,236 553,237 560,243 569,241 635,241 661,238 662,244 686,239 696,239 711,245 822,240 823,246 857,246 868,235 873,235 883,247 893,247 893,235 906,235 907,249 924,247 924,249 922,249 915,257 822,256 722,258 711,258 635,254 528,255 477,252 266,250 218,248" />
+				<Baseline points="218,248 924,257" />
+				<TextEquiv index="1">
+					<Unicode>von Auerswalde Beschwerde führte, entschied ganz im Sinne seines</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l2" custom="readingOrder {index:2;}">
+				<Coords points="218,259 241,259 255,263 283,265 300,259 323,259 329,260 330,266 340,266 341,260 395,259 397,259 448,261 489,268 498,265 551,267 563,269 563,276 586,263 619,263 619,272 705,266 720,266 753,271 783,271 784,265 808,265 809,272 819,272 833,266 844,266 845,272 855,272 855,266 866,266 867,273 889,273 891,267 902,267 903,273 924,273 924,283 902,283 879,283 753,280 567,280 478,283 466,283 448,277 218,275" />
+				<Baseline points="218,275 924,283" />
+				<TextEquiv index="1">
+					<Unicode>Vaters Friedrich. Er gestattete, daſs es in Auerswalde Schänken</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l3" custom="readingOrder {index:3;}">
+				<Coords points="217,291 241,291 241,285 250,285 265,290 265,298 284,285 297,285 297,291 340,292 355,286 362,286 364,292 376,292 377,286 388,286 389,292 401,287 421,287 421,293 450,288 464,288 470,293 508,289 521,294 527,289 539,289 566,297 581,297 581,289 647,290 667,295 721,297 721,290 764,291 765,298 787,297 788,304 821,297 838,298 839,292 851,292 858,298 882,298 899,300 899,293 911,293 924,298 924,308 792,309 788,309 764,307 503,305 464,303 217,305" />
+				<Baseline points="217,301 924,308" />
+				<TextEquiv index="1">
+					<Unicode>gebe, deren Inhaber aber nicht selbst brauen dürften, sondern das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l4" custom="readingOrder {index:4;}">
+				<Coords points="218,311 232,311 232,317 258,317 274,311 286,311 286,317 309,312 322,312 341,318 342,312 353,312 362,316 415,313 426,318 439,319 441,313 449,313 459,319 517,321 519,315 534,315 541,319 564,321 565,328 588,321 611,321 612,315 623,315 640,323 646,315 657,315 669,320 702,324 702,316 717,316 718,324 753,317 780,317 781,323 792,323 798,317 812,317 812,323 825,323 842,318 859,318 866,324 904,326 904,319 914,319 924,324 924,335 878,336 866,336 859,333 825,332 763,333 669,331 565,334 541,331 218,327" />
+				<Baseline points="218,327 924,334" />
+				<TextEquiv index="1">
+					<Unicode>Bier in Städten kaufen müſsten, und daſs drei Handwerker, ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l5" points="216,337 229,337 245,338 282,343 282,337 294,337 302,343 315,343 315,351 333,344 363,344 375,338 387,338 387,344 398,339 410,339 435,339 436,346 446,346 447,339 458,339 473,345 489,340 508,340 522,346 528,346 561,341 590,341 590,347 602,342 614,342 621,341 632,341 640,347 650,347 651,341 662,341 670,348 682,348 701,350 707,342 724,342 731,346 759,343 773,343 780,349 796,347 808,342 813,342 821,343 835,350 841,349 862,345 877,345 894,350 918,350 924,354 924,356 918,360 894,360 877,360 821,362 815,362 808,351 800,359 796,359 741,358 739,364 734,364 731,358 701,363 695,363 580,358 568,358 550,357 522,357 319,356 314,356 302,354 216,353" baseline="216,352 549,356 862,359 924,360" reason: differs: "Schn" against "⟦⟧ A" | Wikisource:  | next_nc_e1: Schneider, ein Schmied und ein Schuhflicker (Altpulser) ¹) in Auers- | german_print2_15: Schneider, ein Schmied und ein Schuhflicker (Altpulser) ¹) in Auers- -->
+			<TextLine id="r6l6" custom="readingOrder {index:6;}">
+				<Coords points="217,369 238,369 238,363 264,363 265,369 312,370 313,364 321,364 321,370 351,369 355,364 397,364 405,366 471,366 472,372 508,372 509,366 520,366 521,373 540,372 566,374 566,367 579,367 579,373 593,373 595,367 603,367 614,371 688,374 709,368 725,368 733,374 776,374 777,368 788,368 790,375 833,375 833,369 894,370 901,373 924,370 924,386 709,383 689,378 688,384 649,388 637,388 616,377 614,383 217,379" />
+				<Baseline points="217,379 424,380 924,386" />
+				<TextEquiv index="1">
+					<Unicode>walde säſsen. Der Schneider durfte graue Gewande und Kittel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l7" points="218,389 227,389 237,395 245,392 254,389 259,389 259,395 294,395 296,403 313,395 326,395 333,393 342,390 350,390 372,390 386,393 396,397 405,391 418,391 425,394 442,391 453,391 453,398 486,398 486,392 499,392 499,399 511,398 537,393 550,393 550,399 561,399 561,393 573,393 595,399 602,399 639,399 665,399 666,393 677,393 685,400 703,395 715,395 715,385 735,385 750,394 767,394 768,400 783,398 794,398 814,395 825,395 826,402 838,401 854,401 865,395 882,395 884,401 903,401 925,401 925,412 872,412 865,412 814,411 762,410 750,410 735,418 715,418 715,412 703,412 665,410 654,410 626,409 580,409 550,409 486,408 475,408 396,407 387,407 365,406 326,411 313,411 271,410 259,410 218,405" baseline="218,405 299,405 405,406 750,409 925,411" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: fertigen, gefärbte Stoffe aber nicht verwenden. ²) Trotz dem klaren | german_print2_15:  -->
+			<TextLine id="r6l8" custom="readingOrder {index:8;}">
+				<Coords points="217,415 239,415 239,421 260,421 261,415 274,415 276,421 307,419 318,422 331,416 343,416 344,422 429,417 430,423 455,421 467,417 474,417 498,418 498,424 526,424 537,418 554,418 575,419 577,425 600,425 607,419 648,419 654,425 815,427 845,422 857,422 868,427 868,421 879,421 880,428 903,428 905,422 915,422 917,428 925,428 925,438 815,437 759,440 743,440 737,435 600,435 430,438 417,433 217,431" />
+				<Baseline points="217,431 925,438" />
+				<TextEquiv index="1">
+					<Unicode>Wortlaute der markgräflichen Urkunde kam es wegen einer Schänke</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l9" custom="readingOrder {index:9;}">
+				<Coords points="216,447 256,442 271,442 305,447 343,442 361,442 362,449 403,448 419,443 438,443 450,444 464,449 555,450 574,458 591,457 602,451 613,451 613,445 637,445 638,451 708,452 727,446 741,446 742,452 759,452 769,454 773,459 805,447 817,447 818,453 844,447 855,447 856,454 925,454 925,464 769,464 759,462 742,462 741,468 727,468 708,462 424,460 414,458 216,458" />
+				<Baseline points="216,457 925,463" />
+				<TextEquiv index="1">
+					<Unicode>zu Auerswalde zwischen einem Nachkommen Jans, Günther von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l10" custom="readingOrder {index:10;}">
+				<Coords points="216,469 231,469 253,473 293,468 307,468 329,468 329,475 367,474 368,468 386,468 396,476 403,476 403,468 409,468 409,475 437,470 449,470 457,473 475,470 488,470 498,476 519,476 529,470 551,470 600,477 601,471 612,471 620,475 660,477 662,485 679,478 685,471 697,471 698,479 750,477 854,479 867,473 881,473 881,481 891,481 892,473 915,473 916,480 925,480 925,488 734,490 726,486 665,489 618,486 600,492 551,492 537,492 535,473 529,473 519,486 328,487 216,484" />
+				<Baseline points="216,483 925,489" />
+				<TextEquiv index="1">
+					<Unicode>Auerswalde, und der Stadt zu Zwistigkeiten, die sogar zu einer Fehde</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l11" points="216,500 225,499 252,494 278,494 294,499 316,499 336,500 336,494 352,494 376,494 384,498 407,500 409,508 433,495 440,495 450,496 462,501 468,503 480,496 492,496 499,500 511,502 518,496 531,496 557,497 575,497 576,503 612,503 619,500 633,500 644,502 660,504 673,497 685,497 687,503 692,503 702,505 715,498 727,498 743,498 745,504 767,504 767,498 779,498 779,504 796,504 810,498 815,498 817,504 822,504 845,505 919,505 925,509 925,511 919,515 845,519 833,519 833,512 822,514 612,518 599,518 558,513 493,512 480,511 463,506 462,512 451,512 385,511 216,510" baseline="216,509 235,509 701,513 925,515" reason: differs: "Die-Sta" against "ie Stad" | Wikisource:  | next_nc_e1: zu führen drohten. Die-Stadt behauptete, die Schänke liege inner- | german_print2_15: zu führen drohten. Die-Stadt behauptete, die Schänke liege inner- -->
+			<TextLine id="r6l12" custom="readingOrder {index:12;}">
+				<Coords points="216,520 228,520 260,520 260,533 279,522 288,520 303,520 303,526 321,526 322,520 336,520 342,526 383,526 421,521 422,527 433,527 433,521 445,521 446,529 466,526 521,528 523,522 557,523 559,529 591,529 592,523 603,523 618,531 624,531 624,523 635,523 637,529 661,524 675,524 683,530 707,529 714,524 726,524 730,531 739,531 757,535 757,524 769,524 778,528 797,530 812,524 825,524 831,530 916,525 917,531 925,531 925,541 885,542 870,542 825,540 421,537 260,538 216,536" />
+				<Baseline points="216,536 263,535 925,541" />
+				<TextEquiv index="1">
+					<Unicode>halb, Günther versicherte auf Grund der Aussage alter Bauern, sie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l13" custom="readingOrder {index:13;}">
+				<Coords points="217,546 222,546 230,552 253,552 302,546 317,546 317,553 337,552 337,546 349,546 350,552 361,552 362,546 367,546 405,546 413,553 436,548 455,547 456,555 467,555 468,548 479,548 481,554 492,554 493,561 518,548 541,548 553,557 559,556 564,549 596,549 655,555 655,549 666,549 681,550 683,556 732,553 733,563 761,556 771,556 773,550 782,550 784,556 798,550 815,550 817,556 848,551 860,551 868,557 904,557 905,551 916,551 917,557 926,557 926,567 866,572 861,572 860,566 733,567 557,564 524,565 307,563 240,567 217,562" />
+				<Baseline points="217,561 926,567" />
+				<TextEquiv index="1">
+					<Unicode>liege auſserhalb der Meile. Er erklärt sich bereit, sich dem Spruche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l14" points="215,572 227,572 228,578 247,578 262,572 285,572 311,572 315,578 330,578 340,575 353,575 370,579 391,572 405,572 420,574 428,573 444,573 477,574 477,580 497,574 514,574 516,587 540,581 602,579 616,579 648,581 672,581 674,575 682,575 692,582 703,582 706,589 732,581 743,581 755,582 756,576 767,576 787,585 794,582 835,580 850,580 868,580 892,584 893,577 904,577 906,583 917,583 917,587 906,587 904,593 868,593 862,593 794,592 755,592 710,594 706,594 636,591 540,591 421,590 399,589 330,589 285,589 271,589 215,588" baseline="215,588 262,588 766,591 917,592" reason: models differ | Wikisource: des Kurfürsten Friedrich II. zu unterwerfen, und erwartet des | next_nc_e1: des Kurfürsten Friedrich II. zu unterwerfen, und erwartet des | german_print2_15: des Kurfürsten Friedrich II. zu unterwerfen, und erwartet des- -->
+			<TextLine id="r6l15" custom="readingOrder {index:15;}">
+				<Coords points="215,598 227,598 253,598 253,604 317,604 346,606 346,599 364,599 365,605 382,605 405,599 429,599 444,600 471,605 493,606 497,614 528,606 549,606 556,601 571,601 571,608 592,607 610,601 630,601 630,607 712,608 722,605 736,605 747,607 747,601 775,608 799,608 800,602 845,602 846,610 901,603 913,603 915,610 925,610 925,615 913,618 749,621 747,621 736,618 712,617 668,618 657,621 646,621 549,616 501,619 405,619 294,615 215,614" />
+				<Baseline points="215,614 925,618" />
+				<TextEquiv index="1">
+					<Unicode>halb von dem ehrbaren, weisen Bürgermeister und den Ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l16" custom="readingOrder {index:16;}">
+				<Coords points="215,631 235,630 236,624 247,624 248,630 308,631 351,631 351,625 364,625 365,631 377,631 390,638 396,638 397,625 434,625 457,632 502,627 512,627 513,633 584,631 585,640 602,635 622,633 706,634 714,632 729,632 748,634 771,634 786,628 882,629 883,635 926,634 926,644 748,647 737,647 706,644 688,647 677,647 502,643 215,640" />
+				<Baseline points="215,640 926,644" />
+				<TextEquiv index="1">
+					<Unicode>schworenen der Stadt zu Chemnitz, seinen günstigen lieben Herren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l17" custom="readingOrder {index:17;}">
+				<Coords points="217,656 240,656 241,650 291,650 291,657 332,657 332,651 347,651 347,657 392,658 392,652 426,652 444,660 454,658 470,658 487,652 499,652 500,660 510,660 511,653 516,653 518,659 539,660 553,653 570,653 570,661 602,654 615,654 641,660 721,660 723,654 734,654 736,660 778,660 778,654 796,654 809,662 825,660 847,660 857,662 872,654 879,654 881,662 893,661 903,657 917,657 926,661 926,671 796,670 676,673 652,673 641,673 570,669 404,668 356,670 217,667" />
+				<Baseline points="217,666 926,670" />
+				<TextEquiv index="1">
+					<Unicode>und Freunden, daſs sie keine Gewalt gegen ihn und seine Leute</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l18" points="215,682 264,682 286,683 286,676 300,676 300,682 314,682 349,683 349,677 356,677 356,683 375,683 394,684 394,678 407,678 430,678 430,684 441,684 460,678 491,678 493,686 525,686 525,679 538,679 538,686 549,686 575,685 582,680 593,680 603,685 612,686 626,694 631,680 648,680 650,686 681,686 681,680 687,680 714,688 724,687 735,686 745,686 764,680 776,680 777,686 800,686 814,680 826,680 832,686 885,681 903,681 925,683 925,696 896,697 885,697 846,696 745,697 735,697 699,696 670,696 655,696 648,695 631,696 626,696 549,695 441,696 430,696 407,694 356,694 314,693 239,693 215,693" baseline="215,692 374,693 744,695 925,696" reason: differs: "vonMit" against "on ⟦⟧ a" | Wikisource:  | next_nc_e1: anwenden oder doch, falls dies ihre Absicht sei, ihm davon Mit- | german_print2_15: anwenden oder doch, falls dies ihre Absicht sei, ihm davon Mit- -->
+			<!-- line left out: id="r6l19" points="214,705 222,705 233,709 234,703 245,703 271,708 278,703 283,703 297,709 338,709 339,703 350,703 351,710 362,709 373,709 423,710 423,704 435,704 436,711 447,710 458,710 460,717 471,703 479,703 522,705 523,711 538,709 549,709 560,711 561,705 572,705 573,712 585,711 617,706 628,706 629,712 647,711 659,711 659,705 665,705 667,712 685,710 691,710 702,712 716,706 727,706 734,712 768,712 769,706 781,706 783,712 805,707 817,707 824,709 836,712 837,706 848,706 880,706 880,713 891,713 892,706 916,706 917,713 926,713 926,722 751,722 691,722 684,727 667,727 659,722 617,722 517,721 485,725 480,725 479,712 471,712 463,720 373,720 283,724 271,724 214,719" baseline="214,719 386,719 805,721 926,722" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: teilung machen würden. ³) Trotzdem kündigte ihm die Stadt Fehde | german_print2_15: teilung machen würden. ²³) Trotzdem kündigte ihm die Stadt Fehde -->
+			<TextLine id="r6l20" custom="readingOrder {index:20;}">
+				<Coords points="213,734 237,734 238,742 272,729 278,729 326,736 339,729 363,729 363,735 374,733 432,730 433,736 463,730 486,730 524,737 547,737 556,739 569,731 581,731 583,737 626,732 649,732 649,738 661,738 671,736 707,738 708,732 719,732 721,739 753,739 754,732 780,732 780,740 787,740 801,732 812,732 812,738 843,739 844,732 855,732 855,738 925,738 925,748 729,749 721,749 468,746 213,745" />
+				<Baseline points="213,745 925,748" />
+				<TextEquiv index="1">
+					<Unicode>an. Diese Thatsache folgt aus dem Umstande, daſs in einem an</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l21" custom="readingOrder {index:21;}">
+				<Coords points="213,754 225,754 232,755 233,761 243,761 261,755 273,755 281,759 294,761 299,755 313,755 339,756 344,761 355,762 356,756 394,756 401,759 475,757 475,763 486,763 486,757 491,757 492,763 518,764 519,757 531,757 538,763 560,763 577,757 589,757 596,764 609,764 628,758 657,758 664,762 693,764 709,758 724,758 726,764 810,764 823,758 835,758 836,766 846,758 889,758 890,764 926,764 926,779 915,779 810,774 531,773 331,776 299,772 213,771" />
+				<Baseline points="213,771 926,774" />
+				<TextEquiv index="1">
+					<Unicode>die Stadt gerichteten Schreiben des Ritters Hans von Schönberg</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l22" custom="readingOrder {index:22;}">
+				<Coords points="214,787 235,787 248,793 254,793 261,787 283,787 284,781 296,781 296,787 329,782 342,782 363,787 375,788 375,795 395,782 407,782 408,788 430,788 444,782 460,782 468,788 480,787 495,783 507,783 507,790 572,789 588,783 603,783 604,790 663,787 676,791 677,784 681,784 684,790 747,790 754,784 763,784 765,790 777,787 810,790 825,784 830,784 831,790 849,787 863,787 875,791 875,797 898,791 904,791 904,784 916,784 917,790 925,790 925,800 879,802 863,800 753,800 747,805 735,805 676,800 594,803 362,803 328,798 214,798" />
+				<Baseline points="214,797 925,800" />
+				<TextEquiv index="1">
+					<Unicode>zu Sachsenburg, den Günther um Vermittelung gebeten hatte, die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l23" points="215,807 241,807 266,810 323,813 324,807 335,807 335,813 366,813 415,813 425,807 437,807 454,815 460,809 471,809 516,809 517,815 525,815 541,809 553,809 554,816 565,815 588,815 599,817 617,810 622,810 649,815 670,816 670,810 704,810 705,816 715,816 716,810 733,810 748,816 809,816 843,816 858,810 863,810 864,816 886,811 896,810 903,810 905,816 925,816 925,829 915,829 897,826 861,829 858,829 803,826 760,826 756,832 748,832 733,826 576,826 554,826 482,825 437,828 425,828 276,824 249,824 232,823 215,823" baseline="215,823 291,823 858,825 925,826" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Worte vorkommen: ) alzo ir denne berurd had yn uwern briffen, | german_print2_15: Worte vorkommen: ¹⁴) alzo ir denne berurd had yn uwern briffen, -->
+			<TextLine id="r6l24" custom="readingOrder {index:24;}">
+				<Coords points="213,839 270,839 270,833 280,833 302,839 325,834 336,834 387,840 437,835 438,841 524,835 543,836 567,841 568,848 595,835 625,836 625,843 647,843 659,836 680,836 680,842 702,839 759,842 760,835 771,835 787,843 793,843 793,836 805,836 806,843 846,842 858,836 871,836 871,842 882,842 883,836 906,836 914,842 925,842 925,849 906,852 512,852 476,850 399,850 398,856 387,856 373,850 247,849 224,855 213,855" />
+				<Baseline points="213,849 925,852" />
+				<TextEquiv index="1">
+					<Unicode>yr welt och an ym bewort habin. Diese Worte sind die in Fehde-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l25" custom="readingOrder {index:25;}">
+				<Coords points="213,860 235,859 241,859 241,865 253,865 254,859 269,859 283,859 314,860 315,866 326,865 335,860 360,861 398,866 399,860 411,860 412,866 423,861 435,861 436,867 446,867 462,861 545,861 554,867 580,867 592,869 593,862 601,861 644,862 645,868 661,868 680,862 709,862 710,868 722,868 723,862 772,862 797,870 833,868 838,862 867,862 895,868 924,869 924,874 912,877 907,882 895,882 801,877 462,878 213,875" />
+				<Baseline points="213,876 924,878" />
+				<TextEquiv index="1">
+					<Unicode>briefen herkömmliche Schluſsformel. Zur Fehde ist es nicht ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l26" custom="readingOrder {index:26;}">
+				<Coords points="214,885 226,885 226,891 304,892 319,886 331,886 332,892 399,886 400,892 432,892 493,887 522,887 522,893 535,889 547,888 561,888 567,893 612,888 643,888 652,892 662,894 676,888 688,888 689,894 708,894 721,888 733,888 752,894 753,888 764,888 786,894 805,891 817,891 819,901 841,895 847,895 848,888 880,888 894,895 900,895 900,888 913,888 913,894 925,894 925,904 871,904 822,906 637,904 598,908 579,908 561,903 288,905 214,902" />
+				<Baseline points="214,902 925,904" />
+				<TextEquiv index="1">
+					<Unicode>kommen, denn Hans von Schönberg teilte der Stadt mit, daſs der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l27" points="213,912 230,912 253,917 255,911 268,911 268,917 283,917 292,915 302,911 335,911 336,917 347,917 398,918 399,912 410,912 428,919 434,918 450,918 510,919 510,913 516,913 516,919 571,917 590,917 602,920 602,914 614,914 622,917 645,920 661,914 688,914 689,920 708,920 729,920 785,920 792,914 801,914 803,920 821,920 821,914 836,914 846,920 855,920 855,930 791,930 785,933 767,933 760,930 708,934 682,934 670,934 558,930 510,930 497,930 410,929 304,931 292,931 213,928" baseline="213,928 363,928 855,930" reason: differs: "Kurf" against "s de" | Wikisource:  | next_nc_e1: Kurfürst, da auch von anderen Städten Klagen eingelaufen | german_print2_15: Kurfürst, da auch von anderen Städten Klagen eingelaufen -->
+			<TextLine id="r6l28" custom="readingOrder {index:28;}">
+				<Coords points="211,938 244,937 256,937 264,941 317,944 318,938 363,938 364,944 421,939 460,939 461,946 538,940 544,940 551,946 562,946 564,940 583,940 584,946 595,946 595,940 607,940 607,946 626,946 641,940 684,940 693,946 714,946 715,940 726,940 727,946 763,946 781,940 793,940 800,946 824,946 844,940 849,940 890,946 891,940 904,940 905,946 917,946 923,949 923,952 917,952 917,961 905,961 878,956 849,961 763,961 676,961 550,961 538,961 510,956 211,954" />
+				<Baseline points="211,954 923,956" />
+				<TextEquiv index="1">
+					<Unicode>Städte und Mannschaften zu gütlicher Begleichung ihrer Streitig-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l29" custom="readingOrder {index:29;}">
+				<Coords points="213,963 225,963 225,970 237,970 237,964 242,964 251,967 341,970 341,964 347,964 347,970 358,970 358,964 389,964 390,970 402,970 402,964 414,964 415,970 478,971 479,965 503,965 504,978 507,978 507,981 437,981 369,981 347,981 213,980" />
+				<Baseline points="213,980 507,981" />
+				<TextEquiv index="1">
+					<Unicode>keiten vor sich laden wolle.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l30" custom="readingOrder {index:30;}">
+				<Coords points="265,990 289,990 289,996 302,996 315,990 328,990 347,996 347,990 360,990 403,990 403,996 451,997 452,991 466,991 466,997 475,997 491,991 502,991 507,997 547,995 611,998 624,991 636,991 643,997 658,997 664,992 675,992 675,998 702,997 708,992 734,991 735,998 751,998 752,992 764,992 765,999 774,999 789,992 804,992 812,998 828,998 835,992 844,992 869,997 899,999 899,991 914,991 914,997 924,997 924,1008 870,1012 835,1007 828,1013 812,1013 774,1008 720,1008 693,1013 675,1013 675,1007 507,1008 265,1006" />
+				<Baseline points="265,1006 924,1008" />
+				<TextEquiv index="1">
+					<Unicode>Der Stadt Chemnitz konnte eine durchgreifende Regelung der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l31" custom="readingOrder {index:31;}">
+				<Coords points="211,1015 227,1015 227,1021 419,1017 461,1024 461,1018 472,1018 484,1023 485,1030 503,1017 516,1017 517,1023 540,1018 558,1018 568,1023 578,1017 592,1017 592,1023 637,1023 659,1018 665,1018 692,1024 697,1018 710,1018 711,1024 721,1024 722,1018 733,1018 754,1024 822,1023 853,1018 898,1018 898,1024 923,1024 923,1034 568,1034 485,1036 260,1032 260,1038 247,1038 247,1032 211,1032" />
+				<Baseline points="211,1032 923,1033" />
+				<TextEquiv index="1">
+					<Unicode>Frage nur erwünscht sein, da ihr Bannrecht nicht nur von Günther</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l32" custom="readingOrder {index:32;}">
+				<Coords points="211,1047 234,1047 255,1043 272,1043 284,1048 342,1048 343,1042 361,1042 362,1049 377,1049 412,1043 436,1043 436,1049 517,1044 600,1044 601,1051 628,1050 639,1058 642,1045 655,1044 667,1044 681,1047 713,1049 760,1044 767,1044 782,1048 836,1049 848,1043 856,1043 863,1050 873,1050 874,1044 879,1044 880,1050 894,1049 901,1044 906,1044 907,1050 922,1050 922,1064 907,1064 900,1060 810,1059 713,1059 691,1061 528,1060 368,1062 361,1059 255,1059 211,1057" />
+				<Baseline points="211,1058 922,1059" />
+				<TextEquiv index="1">
+					<Unicode>von Auerswalde, sondern auch von dem Abte, von Otto von Leisnig,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l33" points="212,1068 247,1068 247,1074 305,1074 318,1068 340,1068 340,1074 356,1074 357,1068 375,1068 375,1081 387,1071 396,1069 402,1069 416,1075 427,1074 439,1074 450,1075 461,1069 478,1069 496,1070 503,1072 513,1070 536,1070 577,1075 589,1076 601,1070 623,1070 641,1075 651,1070 657,1070 671,1075 695,1076 696,1082 714,1076 725,1075 762,1070 774,1070 775,1076 786,1075 807,1070 831,1070 853,1075 900,1075 922,1076 922,1086 908,1086 900,1085 865,1086 845,1086 785,1086 737,1086 714,1085 695,1091 683,1091 671,1079 671,1086 641,1086 541,1086 470,1086 461,1086 440,1085 416,1084 402,1090 396,1090 396,1076 387,1076 380,1088 375,1090 357,1090 350,1085 340,1090 326,1090 326,1084 305,1085 260,1085 235,1085 212,1084" baseline="212,1084 890,1085 922,1086" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Herrn zu Penig, ⁵) von Dietrich von Honsberg, von den Herren von
+ | german_print2_15: Herrn zu Penig,⁵) von Dietrich von Honsberg, von den Herren von
+ -->
+			<TextEquiv index="1">
+				<Unicode>von Auerswalde Beschwerde führte, entschied ganz im Sinne seines
+Vaters Friedrich. Er gestattete, daſs es in Auerswalde Schänken
+gebe, deren Inhaber aber nicht selbst brauen dürften, sondern das
+Bier in Städten kaufen müſsten, und daſs drei Handwerker, ein
+walde säſsen. Der Schneider durfte graue Gewande und Kittel
+Wortlaute der markgräflichen Urkunde kam es wegen einer Schänke
+zu Auerswalde zwischen einem Nachkommen Jans, Günther von
+Auerswalde, und der Stadt zu Zwistigkeiten, die sogar zu einer Fehde
+halb, Günther versicherte auf Grund der Aussage alter Bauern, sie
+liege auſserhalb der Meile. Er erklärt sich bereit, sich dem Spruche
+halb von dem ehrbaren, weisen Bürgermeister und den Ge-
+schworenen der Stadt zu Chemnitz, seinen günstigen lieben Herren
+und Freunden, daſs sie keine Gewalt gegen ihn und seine Leute
+an. Diese Thatsache folgt aus dem Umstande, daſs in einem an
+die Stadt gerichteten Schreiben des Ritters Hans von Schönberg
+zu Sachsenburg, den Günther um Vermittelung gebeten hatte, die
+yr welt och an ym bewort habin. Diese Worte sind die in Fehde-
+briefen herkömmliche Schluſsformel. Zur Fehde ist es nicht ge-
+kommen, denn Hans von Schönberg teilte der Stadt mit, daſs der
+Städte und Mannschaften zu gütlicher Begleichung ihrer Streitig-
+keiten vor sich laden wolle.
+Der Stadt Chemnitz konnte eine durchgreifende Regelung der
+Frage nur erwünscht sein, da ihr Bannrecht nicht nur von Günther
+von Auerswalde, sondern auch von dem Abte, von Otto von Leisnig,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r7">
+			<Coords points="914,244 929,244 929,260 914,260" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="604,267 614,267 614,279 604,279" />
+		</GraphicRegion>
+		<GraphicRegion id="r9">
+			<Coords points="421,437 574,437 574,459 421,459" />
+		</GraphicRegion>
+		<GraphicRegion id="r10">
+			<Coords points="529,470 547,470 547,486 529,486" />
+		</GraphicRegion>
+		<GraphicRegion id="r11">
+			<Coords points="715,530 728,530 728,534 715,534" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="718,538 727,538 727,544 718,544" />
+		</GraphicRegion>
+		<GraphicRegion id="r13">
+			<Coords points="919,587 925,587 925,589 919,589" />
+		</GraphicRegion>
+		<GraphicRegion id="r14">
+			<Coords points="394,626 420,626 420,642 394,642" />
+		</GraphicRegion>
+		<GraphicRegion id="r15">
+			<Coords points="489,735 505,735 505,747 489,747" />
+		</GraphicRegion>
+		<TextRegion id="r16" custom="readingOrder {index:16;} orientation {0;}">
+			<Coords points="886,914 923,914 923,933 886,933" />
+			<!-- line left out: id="r16l0" points="886,914 896,914 897,921 909,920 923,920 923,933 914,933 896,930 886,930" baseline="886,930 923,929" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ien,
+ | german_print2_15: ien,
+ -->
+		</TextRegion>
+		<GraphicRegion id="r17">
+			<Coords points="875,920 882,920 882,929 875,929" />
+		</GraphicRegion>
+		<GraphicRegion id="r18">
+			<Coords points="380,992 390,992 390,1007 380,1007" />
+		</GraphicRegion>
+		<GraphicRegion id="r19">
+			<Coords points="391,1048 409,1048 409,1059 391,1059" />
+		</GraphicRegion>
+		<GraphicRegion id="r20">
+			<Coords points="388,1067 391,1067 391,1071 388,1071" />
+		</GraphicRegion>
+		<GraphicRegion id="r21">
+			<Coords points="251,1107 295,1107 295,1116 251,1116" />
+		</GraphicRegion>
+		<TextRegion id="r22" custom="readingOrder {index:22;} orientation {0;}">
+			<Coords points="209,1134 921,1134 921,1221 209,1221" />
+			<!-- line left out: id="r22l0" points="264,1135 270,1134 293,1134 306,1136 324,1135 329,1135 381,1136 400,1136 411,1140 427,1136 441,1136 459,1141 493,1140 502,1140 504,1148 516,1137 527,1137 536,1141 585,1140 590,1140 623,1140 639,1137 655,1137 663,1136 673,1136 705,1137 732,1137 792,1137 830,1140 837,1143 841,1137 849,1137 893,1136 903,1136 921,1141 921,1150 883,1150 830,1150 695,1150 636,1153 613,1154 527,1155 516,1155 502,1154 493,1154 441,1150 400,1150 381,1150 293,1150 270,1150 264,1143" baseline="264,1149 365,1149 921,1150" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ¹)In einer Urkunde vom 3. Januar 1432 (Urkundenbuch Nr. 110) werden | german_print2_15: ) In einer Urkunde vom 3. Januar 1432 (Urkundenbuch Nr. 110) werden -->
+			<!-- line left out: id="r22l1" points="209,1161 214,1155 226,1155 258,1156 267,1155 286,1155 317,1156 338,1156 396,1157 414,1157 484,1162 504,1162 526,1160 532,1160 533,1169 559,1158 567,1158 596,1158 623,1162 638,1158 643,1158 663,1162 682,1158 706,1157 716,1157 749,1158 782,1157 792,1157 793,1164 803,1162 810,1158 823,1158 854,1164 862,1162 876,1162 888,1168 893,1158 905,1157 910,1157 921,1160 921,1171 903,1171 841,1171 716,1171 653,1175 643,1175 624,1171 623,1177 612,1177 612,1171 475,1175 464,1175 387,1171 366,1171 286,1170 267,1170 258,1170 209,1169" baseline="209,1169 246,1169 854,1170 921,1171" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: die Schuhflicker Altrüssen genannt. In Leipziger Urkunden heiſsen sie Alt- | german_print2_15: die Schuhflicker Altrüssen genannt. In Leipziger Urkunden heiſsen sie Alt- -->
+			<!-- line left out: id="r22l2" points="209,1177 221,1177 231,1181 250,1181 278,1177 289,1177 298,1181 317,1177 334,1177 366,1177 376,1182 387,1183 387,1191 361,1192 326,1192 317,1192 289,1191 209,1190" baseline="209,1190 267,1190 387,1191" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: buzer oder Reseler.
+ | german_print2_15: buzer oder Reseler.
+ -->
+			<!-- line left out: id="r22l3" points="262,1202 270,1202 317,1202 333,1207 344,1203 355,1203 387,1204 407,1203 417,1203 453,1204 491,1207 492,1215 521,1203 531,1203 551,1204 560,1205 577,1204 592,1204 598,1205 631,1204 646,1204 652,1209 655,1216 672,1207 690,1206 700,1206 701,1214 729,1203 740,1203 759,1204 767,1205 776,1209 785,1204 811,1204 824,1207 837,1214 854,1209 858,1209 865,1214 879,1208 888,1207 903,1207 903,1209 899,1209 896,1217 811,1217 799,1218 785,1218 776,1217 759,1217 740,1218 658,1218 646,1218 491,1221 470,1221 438,1218 309,1217 275,1219 270,1219 270,1211 262,1211" baseline="262,1216 287,1216 903,1217" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ²) Urkundenbuch Nr. 47. ) Daselbst Nr. 126. ⁴) Daselbst Nr. 125
+ | german_print2_15: ²) Urkundenbuch Nr. 47. ²³) Daselbst Nr. 126. ⁴) Daselbst Nr. 125
+ -->
+		</TextRegion>
+		<TextRegion id="r23" custom="readingOrder {index:23;} orientation {0;}">
+			<Coords points="261,1227 920,1227 920,1248 261,1248" />
+			<!-- line left out: id="r23l0" points="261,1227 269,1227 294,1227 301,1229 312,1233 330,1233 359,1229 365,1229 376,1236 381,1230 393,1229 417,1229 447,1229 514,1230 515,1241 521,1241 531,1230 536,1230 545,1234 555,1230 560,1230 609,1230 697,1230 703,1229 718,1229 736,1230 758,1235 761,1242 771,1241 790,1237 798,1234 803,1234 825,1230 835,1230 836,1241 857,1235 920,1235 920,1243 839,1244 836,1244 798,1243 790,1241 770,1247 761,1247 697,1243 601,1244 571,1248 561,1248 454,1243 349,1247 294,1247 276,1247 269,1244 269,1236 261,1236" baseline="261,1244 364,1243 920,1243" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ⁵)Burggraf Albrecht von Leisnig, Herr zu Rochsburg, stand, wie ein
+ | german_print2_15: ³) Burggraf Albrecht von Leisnig, Herr zu Rochsburg, stand, wie ein
+ -->
+		</TextRegion>
+		<TextRegion id="r24" custom="readingOrder {index:24;} orientation {0;}">
+			<Coords points="210,1249 920,1249 920,1269 210,1269" />
+			<!-- line left out: id="r24l0" points="210,1249 231,1249 249,1251 361,1253 362,1261 378,1250 411,1250 453,1253 483,1254 495,1251 501,1251 562,1251 608,1251 615,1254 640,1256 653,1262 658,1252 669,1252 680,1250 693,1250 699,1255 710,1253 714,1253 724,1255 748,1255 755,1250 757,1250 777,1256 821,1251 825,1251 846,1251 860,1256 870,1250 874,1250 902,1250 920,1255 920,1264 846,1264 748,1264 632,1269 575,1269 546,1269 483,1268 443,1268 433,1267 389,1264 361,1268 352,1268 276,1267 266,1267 249,1263 231,1267 218,1267 210,1262" baseline="210,1263 378,1263 920,1264" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Vertrag vom 25. Mai 1433 (über gegenseitige Auslieferung von Erbschaften
+ | german_print2_15: Vertrag vom 25. Mai 1433 (über gegenseitige Auslieferung von Erbschaften -->
+		</TextRegion>
+		<GraphicRegion id="r25">
+			<Coords points="904,1211 914,1211 914,1221 904,1221" />
+		</GraphicRegion>
+		<GraphicRegion id="r26">
+			<Coords points="572,1241 575,1241 575,1246 572,1246" />
+		</GraphicRegion>
+		<GraphicRegion id="r27">
+			<Coords points="759,1256 762,1256 762,1261 759,1261" />
+		</GraphicRegion>
+		<TextRegion id="r28" custom="readingOrder {index:28;} orientation {0;}">
+			<Coords points="207,1270 920,1270 920,1352 207,1352" />
+			<!-- line left out: id="r28l0" points="208,1274 219,1274 229,1270 269,1270 318,1270 355,1271 375,1271 394,1270 404,1270 440,1276 450,1275 461,1275 482,1273 489,1271 502,1271 532,1276 550,1275 564,1275 608,1276 699,1273 706,1272 728,1272 755,1274 774,1272 780,1272 806,1276 825,1275 838,1275 839,1282 856,1276 865,1276 872,1275 882,1275 920,1276 920,1284 882,1285 806,1285 792,1285 763,1286 759,1286 746,1285 728,1285 687,1285 618,1285 429,1285 414,1285 252,1284 208,1283" baseline="208,1283 239,1283 920,1284" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: und über die Aufnahme von Chemnitzern in seinem Gebier) beweist, mit der | german_print2_15: und über die Aufnahme von Chemnitzern in seinem Gebie") beweist, mit der -->
+			<!-- line left out: id="r28l1" points="208,1290 220,1290 226,1293 236,1290 247,1290 279,1291 327,1294 367,1291 375,1291 386,1292 434,1297 435,1291 450,1291 456,1297 491,1297 492,1303 519,1293 533,1293 543,1297 559,1298 560,1292 565,1292 577,1293 623,1293 629,1293 759,1293 773,1300 779,1293 790,1293 821,1293 841,1297 851,1298 852,1292 862,1292 863,1299 873,1293 877,1293 900,1297 907,1299 911,1292 918,1292 918,1305 868,1305 759,1305 678,1305 629,1306 623,1306 577,1306 526,1306 519,1306 397,1305 310,1309 299,1309 279,1305 268,1305 226,1304 208,1303" baseline="208,1304 299,1304 918,1305" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Stadt in gutem Einvernehmen. Daselbst Nr. 112 Ob der Friedebruch | german_print2_15: Stadt in gutem Einvernehmen. Daselbst Nr. 112. Ob der Friedebruch -->
+			<!-- line left out: id="r28l2" points="208,1311 229,1311 295,1311 311,1312 358,1316 380,1313 392,1313 401,1312 412,1312 423,1312 451,1313 515,1313 515,1324 533,1316 538,1316 571,1316 590,1319 590,1313 595,1313 615,1313 672,1313 682,1317 689,1319 703,1313 715,1313 751,1318 770,1319 772,1313 777,1313 789,1316 805,1319 806,1313 820,1313 846,1313 856,1315 872,1313 900,1313 919,1317 919,1326 900,1326 789,1326 682,1326 561,1330 541,1330 515,1329 473,1330 456,1330 418,1326 358,1326 257,1325 208,1324" baseline="208,1324 248,1324 919,1326" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: mit Wilhelm von Schönburg i. J. 1436 sich auf das Bannrecht der Stadt be- | german_print2_15: mit Wilhelm von Schönburg i. J. 1436 sich auf das Bannrecht der Stadt be- -->
+			<!-- line left out: id="r28l3" points="207,1335 233,1335 256,1332 261,1332 307,1337 314,1338 327,1332 338,1332 347,1337 370,1333 386,1333 405,1333 417,1337 427,1333 438,1333 499,1334 546,1337 599,1337 599,1344 617,1337 635,1337 641,1334 651,1334 679,1338 689,1333 694,1333 722,1333 732,1339 742,1338 757,1333 763,1333 787,1334 797,1333 802,1333 810,1338 810,1347 651,1352 641,1352 635,1347 599,1352 590,1352 571,1347 553,1343 546,1351 499,1351 475,1351 469,1351 417,1347 241,1349 222,1349 207,1344" baseline="207,1344 810,1347" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: zog, ist aus den Urkunden (Nr. 114 —117, 120) nicht ersichtlich.
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r29" custom="readingOrder {index:29;} orientation {0;}">
+			<Coords points="394,1528 602,1528 602,1540 394,1540" />
+			<!-- line left out: id="r29l0" points="394,1528 401,1528 408,1528 413,1528 430,1528 456,1528 469,1528 482,1528 494,1528 518,1528 542,1528 602,1529 602,1537 578,1539 566,1539 551,1539 482,1537 452,1540 441,1540 434,1540 413,1539 407,1539 394,1537" baseline="394,1537 602,1537" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hupe eigſtal slub dresden de ppns0s
+ | german_print2_15: dtalescb desden de ppneo130
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r30">
+			<Coords points="966,991 969,991 969,1412 966,1412" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Markgraf Wilhelm I., bei welchem die Stadt über Jan
+von Auerswalde Beschwerde führte, entschied ganz im Sinne seines
+Vaters Friedrich. Er gestattete, daß es in Auerswalde Schänken
+gebe, deren Inhaber aber nicht selbst brauen dürften, sondern das
+Bier in Städten kaufen müßten, und daß drei Handwerker, ein
+Schneider, ein Schmied und ein Schuhflicker (Altpulser)⟦⟧ in
+Auerswalde säßen. Der Schneider durfte graue Gewande und Kittel
+fertigen, gefärbte Stoffe aber nicht verwenden.⟦⟧ Trotz dem klaren
+Wortlaute der markgräflichen Urkunde kam es wegen einer Schänke
+zu Auerswalde zwischen einem Nachkommen Jans, Günther von
+Auerswalde, und der Stadt zu Zwistigkeiten, die sogar zu einer Fehde
+zu führen drohten. Die Stadt behauptete, die Schänke liege
+innerhalb, Günther versicherte auf Grund der Aussage alter Bauern, sie
+liege außerhalb der Meile. Er erklärt sich bereit, sich dem Spruche
+des Kurfürsten Friedrich II. zu unterwerfen, und erwartet
+deshalb von dem ehrbaren, weisen Bürgermeister und den
+Geschworenen der Stadt zu Chemnitz, seinen günstigen lieben Herren
+und Freunden, daß sie keine Gewalt gegen ihn und seine Leute
+anwenden oder doch, falls dies ihre Absicht sei, ihm davon
+Mitteilung machen würden.⟦⟧ Trotzdem kündigte ihm die Stadt Fehde
+an. Diese Thatsache folgt aus dem Umstande, daß in einem an
+die Stadt gerichteten Schreiben des Ritters Hans von Schönberg
+zu Sachsenburg, den Günther um Vermittelung gebeten hatte, die
+Worte vorkommen:⟦⟧ alzo ir denne berurd had yn uwern briffen,
+yr welt och an ym bewort habin. Diese Worte sind die in
+Fehdebriefen herkömmliche Schlußformel. Zur Fehde ist es nicht
+gekommen, denn Hans von Schönberg teilte der Stadt mit, daß der
+Kurfürst, da auch von anderen Städten Klagen eingelaufen seien,
+Städte und Mannschaften zu gütlicher Begleichung ihrer
+Streitigkeiten vor sich laden wolle.
+Der Stadt Chemnitz konnte eine durchgreifende Regelung der
+Frage nur erwünscht sein, da ihr Bannrecht nicht nur von Günther
+von Auerswalde, sondern auch von dem Abte, von Otto von Leisnig,
+Herrn zu Penig,⟦⟧ von Dietrich von Honsberg, von den Herren von
+-->
+	</Page>
+</PcGts>

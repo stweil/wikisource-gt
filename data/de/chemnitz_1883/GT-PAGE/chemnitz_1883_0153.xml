@@ -1,0 +1,275 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:52:37</Created>
+		<LastChange>2026-11-23T13:52:37</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/153 revision 5050668 of 2026-09-15T06:46:10Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0153.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro3122800621051674807" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="487,202 780,202 780,690 487,690" />
+			<!-- line left out: id="r0l0" points="537,208 559,208 565,210 584,202 598,202 600,211 610,211 612,203 623,203 624,209 635,209 694,209 713,203 730,203 736,209 754,209 775,209 775,219 754,224 736,224 683,219 671,218 661,218 637,213 635,219 612,219 598,218 584,218 562,212 559,218 537,218" baseline="537,218 661,218 775,219" reason: differs: "ineR" against "⟧ Au" | Wikisource:  | next_nc_e1: ine Reihe von Tagen
+ | german_print2_15: ine Reihe von Tagen
+ -->
+			<!-- line left out: id="r0l1" points="504,234 508,234 561,234 578,234 610,235 611,229 622,229 623,236 632,236 641,229 656,229 656,235 699,230 710,230 747,235 747,229 761,225 780,225 780,254 761,254 761,245 622,245 611,245 604,244 561,244 541,244 518,238 504,236" baseline="504,244 541,244 780,245" reason: differs: "teer" against "ld a" | Wikisource:  | next_nc_e1: te erhebliche Einnahmen. ²) | german_print2_15: te erhebliche Einnahmen. ²) -->
+			<TextLine id="r0l2" custom="readingOrder {index:2;}">
+				<Coords points="508,260 554,260 557,268 576,261 585,261 594,264 602,255 606,255 608,262 630,261 670,263 670,255 682,255 684,262 693,262 703,256 731,256 733,262 745,262 745,255 756,255 765,261 775,261 775,271 682,271 630,271 620,271 608,270 602,258 594,269 560,271 557,271 515,270 508,262" />
+				<Baseline points="508,270 576,269 775,271" />
+				<TextEquiv index="1">
+					<Unicode>führt, welches die Schüler</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l3" points="563,288 586,288 594,290 608,284 625,284 666,286 674,281 687,281 687,288 698,288 709,289 710,282 722,281 727,281 729,295 756,287 765,287 775,288 775,297 733,299 698,299 687,300 674,300 666,297 643,297 620,300 608,300 594,294 586,296 563,296" baseline="563,296 775,297" reason: differs: "dasQu" against "dem L" | Wikisource:  | next_nc_e1: das Quartalgeld, zu | german_print2_15: das Quartalgeld, zu -->
+			<TextLine id="r0l4" custom="readingOrder {index:4;}">
+				<Coords points="549,312 586,311 599,315 603,320 624,307 635,307 642,314 656,314 670,307 676,307 701,313 735,313 752,315 754,308 774,308 774,323 746,326 709,323 701,329 689,329 688,323 600,324 549,322" />
+				<Baseline points="549,322 774,323" />
+				<TextEquiv index="1">
+					<Unicode>hatte, das Papiergeld</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l5" points="530,333 605,333 607,339 617,339 643,341 666,334 674,333 685,333 686,339 697,339 723,334 734,334 735,340 775,340 775,349 666,349 640,343 639,349 617,349 607,349 530,348" baseline="530,348 543,348 775,349" reason: differs: "Ddie" against "⟦⟧ s" | Wikisource:  | next_nc_e1: D diese Einnahmen | german_print2_15: D. diese Einnahmen -->
+			<TextLine id="r0l6" custom="readingOrder {index:6;}">
+				<Coords points="487,369 501,364 580,366 582,359 593,359 595,365 631,365 644,359 648,359 651,367 673,365 677,373 694,366 705,366 707,360 711,360 714,367 721,367 735,360 747,360 748,366 776,368 776,374 759,376 711,375 680,377 677,377 631,375 493,374 487,372" />
+				<Baseline points="487,374 776,375" />
+				<TextEquiv index="1">
+					<Unicode>nicht minder sicher, als dass</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l7" custom="readingOrder {index:7;}">
+				<Coords points="549,390 556,387 566,387 568,399 584,394 589,394 594,398 624,385 629,385 632,392 667,392 673,394 681,386 694,386 696,392 718,392 733,398 738,386 750,386 752,392 776,392 776,402 752,402 549,400" />
+				<Baseline points="549,401 776,401" />
+				<TextEquiv index="1">
+					<Unicode>1829. Immerhin aber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l8" custom="readingOrder {index:8;}">
+				<Coords points="531,417 546,417 561,411 572,411 574,419 586,417 624,418 634,412 644,412 651,418 656,418 663,412 676,412 678,418 688,418 690,412 700,412 708,419 728,418 745,412 750,412 764,413 765,420 775,420 775,424 764,428 728,428 719,428 676,428 656,428 651,428 538,426 531,419" />
+				<Baseline points="531,426 775,428" />
+				<TextEquiv index="1">
+					<Unicode>zu der ordentlichen Be-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l9" custom="readingOrder {index:9;}">
+				<Coords points="537,445 543,437 554,437 556,445 565,445 581,437 586,437 609,437 616,444 632,445 635,438 645,438 647,445 659,442 668,437 670,437 689,444 712,444 714,438 725,438 762,439 764,445 774,445 774,450 762,453 670,455 632,455 609,455 596,455 586,452 537,452" />
+				<Baseline points="537,452 774,453" />
+				<TextEquiv index="1">
+					<Unicode>die Billigkeit und Ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l10" custom="readingOrder {index:10;}">
+				<Coords points="586,472 606,470 622,471 625,464 634,464 642,470 696,470 700,464 704,464 706,471 718,471 730,464 741,464 742,471 764,470 765,464 775,464 775,480 730,480 606,479 602,475 586,474" />
+				<Baseline points="586,479 775,480" />
+				<TextEquiv index="1">
+					<Unicode>sonders verlockend</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l11" custom="readingOrder {index:11;}">
+				<Coords points="560,496 635,496 637,490 648,490 650,498 662,498 673,490 690,490 693,496 703,496 705,490 716,490 718,498 740,496 741,490 753,490 761,497 774,497 774,506 753,506 716,506 693,506 602,506 596,506 587,506 560,504" />
+				<Baseline points="560,503 774,506" />
+				<TextEquiv index="1">
+					<Unicode>wegen des blühenden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l12" custom="readingOrder {index:12;}">
+				<Coords points="626,527 636,527 638,516 695,516 696,522 750,517 753,523 763,523 775,527 775,528 763,532 626,531" />
+				<Baseline points="626,531 745,531 775,533" />
+				<TextEquiv index="1">
+					<Unicode>nd. Zwar be-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l13" custom="readingOrder {index:13;}">
+				<Coords points="631,548 643,550 658,542 670,542 671,551 682,548 698,548 713,542 720,542 742,542 744,549 761,549 763,543 775,543 775,558 682,558 631,557" />
+				<Baseline points="631,557 775,558" />
+				<TextEquiv index="1">
+					<Unicode>us dem Schul-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l14" custom="readingOrder {index:14;}">
+				<Coords points="594,568 604,568 607,576 619,574 644,576 669,573 697,574 713,568 729,568 735,569 743,575 776,577 776,583 758,584 680,584 669,584 594,583" />
+				<Baseline points="594,583 776,584" />
+				<TextEquiv index="1">
+					<Unicode>der ersten Klasse</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l15" points="560,597 574,594 592,594 623,594 634,600 650,600 665,602 668,595 678,595 711,600 724,601 746,598 752,598 774,601 774,610 724,610 650,610 592,611 560,611" baseline="560,608 774,610" reason: differs: ")und" against "⟦⟧ d" | Wikisource:  | next_nc_e1: )und in der zweiten
+ | german_print2_15: ⁴) und in der zweiten
+ -->
+			<TextLine id="r0l16" custom="readingOrder {index:16;}">
+				<Coords points="544,626 613,623 618,628 625,620 629,620 632,626 648,626 651,620 666,620 676,629 685,628 697,621 709,621 774,628 774,633 763,636 756,640 745,640 709,636 544,634" />
+				<Baseline points="544,634 774,636" />
+				<TextEquiv index="1">
+					<Unicode>r die Schule selbst ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l17" custom="readingOrder {index:17;}">
+				<Coords points="541,654 550,652 569,652 579,646 592,645 602,645 604,653 637,652 641,646 669,647 678,653 691,653 703,646 708,646 712,654 774,654 774,666 721,662 637,667 627,667 624,660 550,661 541,658" />
+				<Baseline points="541,660 774,663" />
+				<TextEquiv index="1">
+					<Unicode>ein Theophilus Lessing</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l18" points="540,677 568,677 596,678 608,679 620,673 645,672 656,672 658,681 669,678 696,673 717,673 724,679 764,679 774,680 774,690 766,690 741,689 685,688 656,688 620,688 540,687" baseline="540,687 696,687 774,690" reason: differs: "nurn" against "war " | Wikisource:  | next_nc_e1: nur nach dem Gewinn,
+ | german_print2_15: nur nach dem Gewinn,
+ -->
+			<TextEquiv index="1">
+				<Unicode>führt, welches die Schüler
+hatte, das Papiergeld
+nicht minder sicher, als dass
+1829. Immerhin aber
+zu der ordentlichen Be-
+die Billigkeit und Ge-
+sonders verlockend
+wegen des blühenden
+nd. Zwar be-
+us dem Schul-
+der ersten Klasse
+r die Schule selbst ge-
+ein Theophilus Lessing</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="508,724 777,724 777,1025 508,1025" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="555,730 566,730 568,724 572,724 576,732 593,730 642,730 657,724 665,724 667,730 677,730 679,724 684,724 686,730 700,725 711,725 730,730 743,731 744,724 749,724 751,731 774,728 774,740 667,739 665,746 657,746 642,739 555,739" />
+				<Baseline points="555,739 774,740" />
+				<TextEquiv index="1">
+					<Unicode>über ein Jahrhundert</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="554,759 572,758 580,750 584,750 586,756 644,756 670,750 682,750 683,756 694,751 724,751 726,758 775,757 775,766 724,766 694,766 563,765 554,763" />
+				<Baseline points="554,764 775,766" />
+				<TextEquiv index="1">
+					<Unicode>sich eine Schule zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="544,781 584,782 603,776 606,776 606,782 622,783 630,776 634,776 647,780 650,789 676,785 686,782 777,784 777,791 749,792 719,792 698,786 697,792 654,792 650,792 606,792 603,792 544,791" />
+				<Baseline points="544,791 777,792" />
+				<TextEquiv index="1">
+					<Unicode>man sieht, sie müsse</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l3" points="508,807 533,802 576,802 589,808 693,807 730,803 735,803 738,809 747,809 749,803 754,803 756,809 767,809 776,813 776,814 767,818 735,821 730,821 696,820 693,820 663,818 652,818 589,817 576,816 568,817 564,817 531,816 508,816" baseline="508,815 776,818" reason: differs: "undb" against "⟦⟧ J" | Wikisource:  | next_nc_e1: und bere im 15. Jahr- | german_print2_15: und bere im 15. Jahr- -->
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="530,835 543,833 589,833 591,842 599,842 604,833 634,836 648,830 659,828 682,828 685,835 720,829 764,832 774,835 774,844 695,844 682,842 591,843 549,836 546,842 530,840" />
+				<Baseline points="530,842 774,844" />
+				<TextEquiv index="1">
+					<Unicode>ein eignes Gebäude für</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l5" points="562,857 573,857 584,860 607,853 631,853 641,859 653,859 733,860 736,854 746,854 755,868 762,856 776,856 776,874 762,874 709,870 653,869 607,869 562,868" baseline="562,868 607,868 692,869 776,870" reason: differs: "ihrR" against "⟦⟧ N" | Wikisource:  | next_nc_e1: ihr Rektor wurde.) | german_print2_15: ihr Rektor wurde.⁴) -->
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="516,885 548,885 578,881 581,887 641,880 653,880 654,887 665,880 670,880 672,886 688,886 691,880 694,880 697,887 710,886 718,880 729,880 731,887 776,888 776,899 768,899 731,896 653,894 593,894 548,892 523,894 516,889" />
+				<Baseline points="516,892 776,896" />
+				<TextEquiv index="1">
+					<Unicode>ntworfenen Schulordnung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l7" points="612,913 624,913 641,913 664,906 668,906 671,913 685,913 688,906 692,906 696,913 712,912 722,912 759,913 762,907 776,907 776,922 742,922 685,921 664,921 633,920 612,918" baseline="612,920 721,921 776,922" reason: differs: "senha" against "sollt" | Wikisource:  | next_nc_e1: sen haben und
+ | german_print2_15: sen haben und
+ -->
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="658,939 670,938 757,938 776,939 776,948 720,950 705,950 658,945" />
+				<Baseline points="658,947 776,948" />
+				<TextEquiv index="1">
+					<Unicode>einzige zu-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l9" points="645,957 649,957 661,958 669,964 674,964 696,965 699,958 717,958 737,962 743,964 767,964 776,968 776,970 767,974 746,974 685,973 669,973 649,972 645,972" baseline="645,972 776,974" reason: differs: "Bene" against "samm" | Wikisource:  | next_nc_e1: Benediktiner-
+ | german_print2_15: Benediktiner-
+ -->
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="598,987 615,987 628,989 636,983 649,983 659,990 671,984 703,983 705,983 739,990 771,991 771,999 742,999 694,999 683,999 636,998 598,992" />
+				<Baseline points="598,997 771,999" />
+				<TextEquiv index="1">
+					<Unicode>Stadtschule eine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="600,1014 624,1015 638,1011 654,1011 667,1015 674,1009 679,1009 681,1016 696,1017 720,1009 737,1009 760,1014 766,1017 775,1010 777,1010 777,1025 760,1025 720,1025 696,1019 690,1024 600,1023" />
+				<Baseline points="600,1023 777,1025" />
+				<TextEquiv index="1">
+					<Unicode>reichliche Mittel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>über ein Jahrhundert
+sich eine Schule zu
+man sieht, sie müsse
+ein eignes Gebäude für
+ntworfenen Schulordnung
+einzige zu-
+Stadtschule eine
+reichliche Mittel</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="595,1112 777,1112 777,1146 595,1146" />
+			<!-- line left out: id="r2l0" points="595,1120 611,1118 614,1118 633,1116 637,1116 652,1122 667,1112 678,1112 679,1118 683,1118 707,1117 716,1117 723,1112 734,1112 742,1117 768,1117 777,1118 777,1125 742,1125 716,1125 707,1125 683,1124 655,1125 652,1125 611,1123 595,1122" baseline="595,1122 777,1125" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: chsens, besonders in | german_print2_15: chsens, besonders in -->
+			<!-- line left out: id="r2l1" points="616,1133 629,1133 645,1137 655,1138 665,1139 686,1143 686,1133 702,1133 705,1139 714,1133 719,1133 767,1136 776,1138 776,1146 730,1146 720,1146 681,1145 655,1144 636,1144 629,1145 616,1145" baseline="616,1145 664,1144 736,1145 776,1146" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Neues Archiv für
+ | german_print2_15: Neues Archiv für
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="678,1179 778,1179 778,1196 678,1196" />
+			<!-- line left out: id="r3l0" points="678,1179 687,1179 704,1179 765,1181 778,1185 778,1192 772,1192 765,1191 754,1196 745,1196 711,1192 704,1191 678,1191" baseline="678,1191 778,1192" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Febr. 1780.
+ | german_print2_15: Febr. 1780.
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="613,1256 779,1256 779,1292 613,1292" />
+			<!-- line left out: id="r4l0" points="613,1262 623,1261 631,1261 684,1257 699,1257 720,1260 730,1262 731,1256 741,1256 757,1256 765,1261 779,1262 779,1270 765,1270 706,1269 653,1269 631,1268 613,1268" baseline="613,1268 653,1268 779,1269" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ens im Mittelalter, | german_print2_15: dens im Mittelalter, -->
+			<!-- line left out: id="r4l1" points="653,1277 666,1277 669,1287 681,1277 686,1277 714,1277 723,1279 731,1277 746,1277 763,1281 779,1282 779,1292 769,1292 763,1290 714,1290 710,1290 686,1289 653,1289" baseline="653,1289 710,1289 779,1291" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: A. D. Richter,
+ | german_print2_15: A. D. Richter,
+ -->
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="0,0 1000,0 1000,1565 0,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+feierte.⟦⟧ Auch das jährlich eine Reihe von Tagen
+dauernde Neujahrssingen der Schüler brachte erhebliche Einnahmen.⟦⟧
+Ausserdem wird das Namenstagsgeld angeführt, welches die Schüler
+dem Lehrer ihrer Klasse zu geben pflegten, das Quartalgeld, zu
+dem jeder vierteljährlich 2 Gr. zu steuern hatte, das Papiergeld
+aus der Kämmereikasse⟦⟧ u. a. mehr. Dass diese Einnahmen
+sämtlich schon 1778 bestanden, scheint nicht minder sicher, als dass
+sie sich damals nicht so hoch beliefen wie 1829. Immerhin aber
+gewährten sie einen ansehnlichen Zuschuss zu der ordentlichen
+Besoldung, ansehnlich wenigstens, wenn man die Billigkeit und
+Genügsamkeit der alten Zeit in Anschlag bringt. Besonders verlockend
+jedoch musste für Lessing die neue Stelle sein wegen des blühenden
+Zustandes, in dem sich das Chemnitzer Lyceum befand. Zwar
+belief sich trotz der volleren Klassen die Einnahme aus dem
+Schulgelde wohl nicht viel höher als in Pirna, da in der ersten Klasse
+von dem einzelnen Schüler vierteljährlich 16 Gr.⟦⟧ und in der zweiten
+doch jedenfalls weniger entrichtet wurde. Aber die Schule selbst
+genoss schon längst eines ehrenvollen Rufs und ein Theophilus Lessing
+war gewiss weit entfernt das neue Lehramt nur nach dem Gewinn,
+den es abwarf, zu schätzen.
+Die ersten Anfänge des Lyceums liegen über ein Jahrhundert
+vor der Reformation. Schon 1399 findet sich eine Schule zu
+Chemnitz auf eine Art erwähnt, aus der man sieht, sie müsse
+schon längere Zeit bestanden haben,⟦⟧ und bereits im 15.
+Jahrhundert gelangte sie zu Ansehn, da 1486 ein eignes Gebäude für
+sie errichtet und der berühmte Paul Niavis ihr Rektor wurde.⟦⟧
+Nach der von Luther und Melanchthon entworfenen Schulordnung
+sollten die lateinischen Stadtschulen nur 3 Klassen haben und
+diese selbst zog man an manchen Orten in eine einzige
+zusammen. In Chemnitz, wo der letzte Abt des
+Benediktinerklosters Hilarius aus seinem Vermögen der Stadtschule eine
+namhafte Summe vermacht hatte, waren so reichliche Mittel
+-->
+	</Page>
+</PcGts>

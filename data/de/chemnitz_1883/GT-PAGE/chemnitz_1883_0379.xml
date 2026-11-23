@@ -1,0 +1,359 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:08:17</Created>
+		<LastChange>2026-11-23T14:08:17</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/379 revision 5016034 of 2026-08-20T07:29:36Z, proofread level 3, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0379.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro5123766757231510599" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="29,1066 34,1066 34,1492 29,1492" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="415,146 501,146 501,163 415,163" />
+			<!-- line left out: id="r1l0" points="415,147 423,147 439,146 449,146 478,155 501,155 501,157 478,157 449,163 423,163 415,163" baseline="415,163 448,162 501,162" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 167 —
+ | german_print2_15: 167 —
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="78,199 794,199 794,771 78,771" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="79,207 100,207 143,212 143,206 162,206 180,212 212,211 229,205 279,205 281,212 292,212 292,204 298,204 300,211 332,210 351,212 351,204 365,204 366,211 375,211 389,203 432,203 458,208 481,208 495,202 522,202 540,206 585,208 599,201 606,200 637,200 646,206 695,205 695,199 730,199 731,205 768,205 768,199 779,199 780,206 789,206 789,216 768,215 768,221 755,221 755,215 731,215 730,222 721,222 707,215 505,217 503,224 495,224 481,218 458,223 446,223 432,219 411,223 354,220 332,222 292,220 79,222" />
+				<Baseline points="79,222 480,217 789,215" />
+				<TextEquiv index="1">
+					<Unicode>Heinrich von Witzleben, die Reiſsigen Johannes Wisse und Junghe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="78,233 125,232 127,238 192,237 212,231 240,231 241,237 276,237 276,230 356,230 357,237 369,235 437,234 456,228 483,228 483,234 495,234 495,228 512,228 545,233 566,227 581,227 583,234 593,234 595,227 606,227 622,232 623,226 645,226 645,232 651,232 652,239 677,225 691,225 691,231 778,231 779,225 789,225 789,242 700,242 656,244 581,243 545,245 524,243 437,245 418,244 319,248 289,248 276,248 166,246 132,248 78,248" />
+				<Baseline points="78,248 566,242 789,241" />
+				<TextEquiv index="1">
+					<Unicode>Tellin von Schonefelt, Renz von Wachow, Heinrich, Franz und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="79,258 94,258 101,264 144,264 163,257 186,257 186,263 197,263 204,257 215,257 217,263 233,263 235,257 240,257 242,263 322,262 328,265 346,256 358,256 366,263 375,263 390,255 403,255 410,261 482,259 505,260 519,253 533,253 533,259 555,258 567,253 642,258 643,252 691,251 707,251 707,257 731,257 777,252 790,252 790,268 533,269 437,273 288,272 233,276 124,273 122,279 116,279 115,273 79,274" />
+				<Baseline points="79,274 601,268 790,268" />
+				<TextEquiv index="1">
+					<Unicode>Kaspar Kundighe, sowie die Bürger von Zwickau und Öderan mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="78,285 90,285 126,290 143,284 159,284 161,292 172,289 204,290 276,288 290,282 371,283 411,281 412,287 431,287 448,280 569,279 576,284 615,282 627,285 628,278 634,278 635,284 646,284 647,291 669,278 682,278 682,284 714,282 790,284 790,294 713,294 651,297 599,295 372,297 360,295 360,301 301,298 298,304 290,304 276,298 204,297 187,299 78,300" />
+				<Baseline points="78,300 790,293" />
+				<TextEquiv index="1">
+					<Unicode>ihren Genossen im Juli 1386 das Schloſs Rabenstein, besetzen es</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l4" points="78,316 99,316 133,315 143,315 162,315 236,315 243,309 259,309 298,314 310,316 325,308 331,308 348,310 368,307 379,307 379,313 391,313 391,321 414,314 426,313 434,313 434,307 446,307 461,312 468,306 484,306 491,312 513,312 531,305 542,305 550,311 560,311 573,305 603,305 625,310 648,310 664,304 677,304 677,310 689,309 735,304 741,304 754,304 783,304 783,314 790,314 790,316 783,320 747,320 625,321 603,321 513,322 434,323 395,325 391,325 348,324 298,326 288,326 259,324 236,327 174,327 163,327 99,326 94,326 78,325" baseline="78,326 109,325 531,321 647,320 790,319" reason: second model: differs: "ofss" against "oſskape" | Wikisource: wie einige zugehörige Dörfer, erbrachen die Thüren der Schloſs | next_nc_e1: wie einige zugehörige Dörfer, erbrachen die Thüren der Schloſs- | german_print2_15: wie einige zugehörige Dörfer, erbrachen die Thüren der Schlofſs- -->
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="78,337 89,337 119,344 121,336 214,336 250,341 267,347 272,335 283,335 285,343 293,343 308,334 323,334 323,341 347,340 348,334 353,334 356,341 372,339 420,339 422,333 446,332 471,332 471,338 518,339 519,332 534,332 544,337 545,331 556,331 557,337 580,337 585,331 604,331 612,336 627,330 653,330 654,336 664,336 665,330 670,330 670,336 697,336 697,343 721,330 756,330 758,336 768,336 769,330 781,330 781,336 790,336 790,346 701,348 518,348 506,353 420,349 173,351 153,357 151,357 145,353 110,351 108,357 102,357 78,352" />
+				<Baseline points="78,352 790,345" />
+				<TextEquiv index="1">
+					<Unicode>kapelle, nahmen als Räuber und Tempelschänder Bücher, Kelche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="78,368 101,368 102,362 113,362 130,373 136,367 159,367 159,361 171,361 173,367 196,368 211,361 216,361 223,367 238,367 245,361 267,361 269,367 281,367 286,361 291,361 299,368 332,361 344,361 362,366 386,364 432,366 433,359 445,359 446,365 488,364 498,358 510,358 511,365 521,365 554,363 561,357 576,357 576,363 616,363 616,356 624,356 624,362 644,362 662,365 662,357 675,356 695,356 695,362 707,362 708,356 713,356 714,362 731,363 732,356 751,356 751,362 780,360 790,363 790,372 764,372 764,378 751,378 751,372 554,374 521,373 419,375 362,378 351,378 308,376 101,378 78,378" />
+				<Baseline points="78,378 643,372 790,372" />
+				<TextEquiv index="1">
+					<Unicode>und andere kirchliche Gegenstände, insbesondere das Allerheiligste</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="78,394 102,394 102,388 113,388 130,395 137,387 206,387 213,393 321,393 336,400 340,388 365,386 398,392 399,399 422,391 477,390 477,384 494,384 494,390 542,389 543,383 601,383 602,390 640,385 672,385 721,390 721,382 744,382 744,388 767,383 780,383 790,388 790,399 664,399 639,404 530,400 226,403 225,409 213,409 206,403 78,404" />
+				<Baseline points="78,404 518,399 790,399" />
+				<TextEquiv index="1">
+					<Unicode>und die Reliquien vom Altare, an sich und behaupteten sich im</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="79,414 98,414 104,420 120,418 146,420 160,413 171,413 173,421 205,417 217,417 224,413 246,413 255,420 297,420 297,426 320,413 325,413 338,418 382,418 424,420 437,411 449,411 450,418 461,416 478,416 493,410 514,410 520,416 534,416 534,409 548,409 548,415 572,415 574,409 582,409 592,415 616,410 646,409 661,414 683,409 690,409 704,411 704,421 727,415 732,408 748,408 748,414 790,414 790,424 708,428 690,425 639,425 548,431 520,431 449,427 405,427 383,421 382,428 347,427 301,430 282,427 246,429 79,429" />
+				<Baseline points="79,429 790,424" />
+				<TextEquiv index="1">
+					<Unicode>Besitze des Schlosses, bis sie es dem Burggrafen Albrecht, dessen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="78,440 91,440 91,446 103,446 104,440 115,440 127,445 160,447 162,439 176,439 182,445 197,445 204,439 209,439 210,445 236,445 236,439 256,438 272,438 273,445 327,445 380,444 381,438 423,437 428,437 430,444 481,443 486,437 492,437 493,443 516,436 528,436 529,443 540,441 557,441 576,435 603,435 604,441 615,441 616,435 628,435 629,441 703,440 721,434 728,434 735,442 746,442 747,435 780,435 780,441 791,441 791,456 780,456 650,451 303,455 187,455 182,449 176,455 115,456 104,456 78,455" />
+				<Baseline points="78,455 556,451 791,451" />
+				<TextEquiv index="1">
+					<Unicode>Sohne gleichen Namens und Heinrich dem Blinden von Leisnig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l10" points="79,472 89,472 91,466 103,466 103,473 115,471 122,471 145,472 146,466 152,466 154,472 165,471 211,471 220,469 232,469 258,471 267,473 269,465 279,465 280,473 291,465 303,465 310,471 325,471 349,470 354,470 402,470 418,463 432,463 433,469 459,469 469,468 482,468 492,466 498,466 523,468 530,462 548,462 549,468 554,468 579,467 615,467 643,467 652,460 711,460 737,465 755,462 771,462 791,467 791,477 771,478 665,481 652,481 554,478 482,479 391,480 354,480 325,481 232,481 186,482 176,482 145,481 133,486 122,486 103,481 79,481" baseline="79,481 231,480 642,477 791,477" reason: differs: "über" against "⟦⟧ A" | Wikisource:  | next_nc_e1: übergaben, mit welchen sie im Einverständnis waren. ) Unter An- | german_print2_15: übergaben, mit welchen sie im Einverständnis waren.¹) Unter An- -->
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="78,492 90,492 92,498 111,499 112,492 123,492 178,500 179,491 189,491 197,497 203,497 213,491 234,491 238,499 246,499 249,491 254,491 255,498 265,498 275,495 319,497 346,493 408,493 469,495 480,488 496,488 498,495 532,496 534,488 538,488 540,496 553,494 605,493 619,487 625,487 630,494 641,494 642,487 656,487 658,493 675,491 693,491 705,493 719,487 736,487 744,491 762,491 792,494 792,503 656,503 521,507 496,505 447,509 436,509 408,505 225,507 160,510 143,510 136,508 78,507" />
+				<Baseline points="78,507 604,503 792,503" />
+				<TextEquiv index="1">
+					<Unicode>drohung der Todesstrafe für etwaigen Ungehorsam verboten letztere</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="79,518 90,518 91,526 112,524 131,517 150,517 158,524 171,524 173,517 177,517 179,525 202,521 232,523 249,517 261,517 262,524 272,524 280,526 299,517 326,517 329,524 344,520 384,524 384,517 425,515 426,521 448,521 467,529 472,515 489,515 503,519 538,522 538,514 550,514 552,521 561,521 598,520 599,513 611,513 612,519 624,519 625,513 643,513 650,519 720,513 728,513 728,519 757,514 769,514 770,520 791,519 791,530 757,530 745,535 727,535 720,530 673,535 650,535 649,529 489,531 386,534 272,532 79,534" />
+				<Baseline points="79,534 467,530 791,530" />
+				<TextEquiv index="1">
+					<Unicode>den Zinsleuten des Klosters, dem Abte die schuldigen Abgaben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="79,550 144,548 167,544 197,547 218,544 252,543 268,545 280,549 294,550 307,548 351,549 352,543 362,543 379,550 388,548 404,548 405,542 416,542 452,547 469,541 499,541 501,547 546,548 546,540 559,540 560,547 594,546 622,543 657,545 671,543 704,543 708,553 733,547 740,547 740,540 750,540 757,546 791,546 791,556 782,561 770,561 712,559 697,561 685,561 657,556 630,561 622,561 559,556 511,560 479,557 79,560" />
+				<Baseline points="79,560 469,556 791,556" />
+				<TextEquiv index="1">
+					<Unicode>zu entrichten. Dieser sah sich in Folge dessen genötigt, einige</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="80,570 117,571 128,576 135,570 146,570 147,577 178,575 215,575 234,577 253,569 267,569 276,575 328,573 424,574 425,567 436,567 438,575 449,573 469,573 490,567 512,567 521,574 536,571 618,572 619,565 630,565 698,565 712,565 713,572 757,572 757,566 769,566 770,573 791,572 791,582 90,586 80,586" />
+				<Baseline points="80,585 791,582" />
+				<TextEquiv index="1">
+					<Unicode>Mönche seines Konvents in andern Klöstern und bei Freunden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="79,602 98,600 152,602 153,596 165,596 186,601 253,595 265,595 266,601 330,601 331,595 362,594 383,594 384,601 409,599 420,594 435,593 472,593 473,600 491,599 513,593 529,594 541,599 541,593 554,593 571,598 578,596 674,592 681,592 682,599 693,599 695,592 726,592 727,599 738,599 739,605 764,592 776,592 777,598 792,599 792,608 743,611 644,608 432,610 407,612 370,610 319,610 233,614 211,614 194,614 152,611 79,612" />
+				<Baseline points="79,612 643,607 792,608" />
+				<TextEquiv index="1">
+					<Unicode>unterzubringen, da nach Wegfall der Rabensteiner Gefälle, die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l16" points="81,628 89,628 98,622 108,622 123,622 148,622 150,628 172,626 181,626 195,628 207,629 223,621 235,621 235,629 247,621 257,621 265,627 280,627 281,621 325,621 327,627 351,627 352,621 364,621 365,628 375,628 375,621 413,621 416,626 435,620 447,619 460,619 461,625 472,625 499,625 518,619 537,619 549,623 583,624 607,619 619,614 636,614 652,625 658,625 658,618 671,618 672,625 681,625 717,618 720,618 720,624 729,624 731,618 742,618 743,624 767,624 769,618 783,618 784,624 793,624 793,634 783,635 729,635 717,635 652,634 636,645 619,645 619,639 583,639 523,639 518,639 446,636 413,637 319,637 257,637 247,637 223,636 195,635 181,637 96,638 89,640 81,640" baseline="81,637 435,635 635,634 793,634" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: jährlich 200 Schock Freiberger Münze betrugen, ²) die Einkünfte | german_print2_15: jährlich 200 Schock Freiberger Münze betrugen, *) die Einkünfte -->
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="80,648 91,648 99,655 111,655 125,647 152,647 155,654 169,651 196,653 247,653 262,647 268,647 284,648 284,655 306,653 307,647 312,647 314,654 324,649 336,647 405,652 428,652 438,645 473,646 513,651 557,651 558,644 617,644 617,650 628,650 629,644 640,644 642,650 691,645 698,645 709,650 715,645 773,645 793,654 793,657 786,661 698,661 677,665 666,665 654,661 603,661 595,665 587,665 455,662 380,665 369,665 323,663 80,664" />
+				<Baseline points="80,663 793,660" />
+				<TextEquiv index="1">
+					<Unicode>des Klosters zur Beschaffung von Nahrung und Kleidung nicht hin-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="81,680 100,681 101,674 118,673 123,673 135,677 159,679 162,673 209,673 229,678 249,679 266,673 278,673 279,680 307,679 323,673 343,673 359,678 382,680 383,673 395,673 396,679 419,678 422,685 458,678 465,678 487,671 498,671 507,677 591,676 592,670 604,670 638,671 639,677 662,670 672,670 682,676 694,676 698,684 723,676 740,676 762,670 774,670 775,677 794,676 794,686 702,689 611,687 498,687 426,689 372,688 371,694 359,694 359,688 81,690" />
+				<Baseline points="81,689 794,686" />
+				<TextEquiv index="1">
+					<Unicode>reichten. Unter dem Vorgeben, er könne nicht hoffen, in der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="82,700 97,700 115,705 173,699 188,700 190,706 200,706 201,699 211,699 242,705 304,705 305,699 317,699 318,707 340,705 345,712 371,704 416,704 416,698 430,698 431,705 470,704 471,698 486,698 488,705 509,697 521,697 522,704 534,703 556,698 572,697 610,702 656,696 668,696 669,704 688,702 703,696 709,696 794,702 794,713 765,713 748,707 748,713 441,714 349,717 345,717 317,715 82,716" />
+				<Baseline points="82,715 794,713" />
+				<TextEquiv index="1">
+					<Unicode>Heimat Recht zu finden, wandte sich der Abt mit der Bitte um</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="82,726 125,725 126,732 194,732 194,725 206,725 207,732 282,731 291,725 307,725 308,731 324,733 343,724 359,724 366,730 387,730 401,732 401,724 450,724 450,730 463,730 503,723 536,724 564,729 580,723 604,723 606,736 629,723 635,723 653,728 677,728 679,722 693,722 694,728 733,726 781,729 782,723 794,723 794,739 727,744 610,739 465,739 463,746 450,746 450,740 165,741 126,735 125,741 82,742" />
+				<Baseline points="82,741 794,739" />
+				<TextEquiv index="1">
+					<Unicode>Hilfe an die römische Kurie. Papst Urban VI. beauftragte mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="80,752 92,752 93,760 126,751 141,751 179,757 215,752 226,752 281,758 287,758 287,751 298,751 300,757 313,757 326,751 338,751 338,757 349,757 355,759 360,751 372,751 373,758 406,758 407,750 419,750 420,756 436,756 455,759 455,751 466,751 485,756 485,750 526,755 544,749 556,749 563,756 592,755 599,750 609,750 629,755 638,749 676,749 676,755 706,755 723,749 743,749 744,755 755,755 756,749 774,749 776,755 794,756 794,765 623,764 623,771 600,771 592,771 575,763 556,766 313,767 263,770 179,767 80,767" />
+				<Baseline points="80,767 794,765" />
+				<TextEquiv index="1">
+					<Unicode>der Untersuchung der Sache den Auditor des päpstlichen Stuhles</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Heinrich von Witzleben, die Reiſsigen Johannes Wisse und Junghe
+Tellin von Schonefelt, Renz von Wachow, Heinrich, Franz und
+Kaspar Kundighe, sowie die Bürger von Zwickau und Öderan mit
+ihren Genossen im Juli 1386 das Schloſs Rabenstein, besetzen es
+kapelle, nahmen als Räuber und Tempelschänder Bücher, Kelche
+und andere kirchliche Gegenstände, insbesondere das Allerheiligste
+und die Reliquien vom Altare, an sich und behaupteten sich im
+Besitze des Schlosses, bis sie es dem Burggrafen Albrecht, dessen
+Sohne gleichen Namens und Heinrich dem Blinden von Leisnig
+drohung der Todesstrafe für etwaigen Ungehorsam verboten letztere
+den Zinsleuten des Klosters, dem Abte die schuldigen Abgaben
+zu entrichten. Dieser sah sich in Folge dessen genötigt, einige
+Mönche seines Konvents in andern Klöstern und bei Freunden
+unterzubringen, da nach Wegfall der Rabensteiner Gefälle, die
+des Klosters zur Beschaffung von Nahrung und Kleidung nicht hin-
+reichten. Unter dem Vorgeben, er könne nicht hoffen, in der
+Heimat Recht zu finden, wandte sich der Abt mit der Bitte um
+Hilfe an die römische Kurie. Papst Urban VI. beauftragte mit
+der Untersuchung der Sache den Auditor des päpstlichen Stuhles</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="81,775 798,775 798,928 81,928" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="82,778 169,777 176,783 217,784 218,777 259,777 261,783 314,783 324,785 328,790 343,783 367,783 367,776 379,776 388,783 394,783 394,776 407,776 408,784 418,784 447,782 461,776 466,776 468,782 479,782 480,776 491,776 506,782 510,775 526,775 532,782 540,782 540,775 562,775 573,783 585,783 586,775 601,775 610,781 616,778 631,775 651,775 715,776 747,781 748,775 766,775 767,781 795,781 795,796 779,796 715,792 418,792 328,795 314,793 254,792 82,794" />
+				<Baseline points="82,793 795,791" />
+				<TextEquiv index="1">
+					<Unicode>M. Nikolaus de Vivianis, und dieser lud durch öffentlichen Anschlag,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="81,803 93,803 94,811 106,809 172,810 176,803 197,803 216,809 233,809 248,803 262,803 263,809 292,809 310,803 336,803 353,809 384,803 396,803 396,809 441,802 452,802 454,808 489,806 525,808 525,802 595,802 596,808 606,808 607,801 634,801 653,805 733,807 733,801 744,801 745,807 763,808 764,801 778,801 779,807 796,805 796,817 745,817 735,823 715,823 714,817 81,819" />
+				<Baseline points="81,819 796,817" />
+				<TextEquiv index="1">
+					<Unicode>der sowohl in Rom als in der Heimat der Übelthäter angeheftet</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="81,836 118,835 118,829 130,829 131,837 136,837 149,842 173,829 198,834 212,833 220,829 232,829 233,836 244,829 256,829 257,836 266,836 281,829 287,829 295,830 295,836 307,832 313,832 322,836 325,829 337,829 339,835 357,832 370,832 377,829 402,828 413,828 415,834 430,835 445,828 461,828 467,834 479,834 480,828 492,828 493,834 523,834 523,828 535,828 536,836 547,833 615,833 617,827 640,827 660,833 665,827 678,827 679,833 739,833 739,827 750,827 768,834 773,827 786,827 787,833 796,833 796,843 606,843 379,849 356,849 344,849 322,845 177,845 149,848 130,845 81,845" />
+				<Baseline points="81,845 796,843" />
+				<TextEquiv index="1">
+					<Unicode>wurde, sämtliche Beteiligte, die Einbrecher sowohl als auch die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="83,856 88,856 91,864 103,861 173,861 188,854 201,854 203,860 277,855 287,861 298,861 299,868 320,860 349,860 365,854 380,854 387,860 426,858 448,860 470,858 566,860 566,853 607,853 608,859 638,859 639,866 672,853 693,853 693,859 708,859 723,853 754,853 754,859 769,856 785,856 796,859 796,869 723,870 708,861 693,861 693,870 607,870 514,875 503,875 448,870 349,871 303,873 277,871 247,875 236,875 142,874 114,871 83,871" />
+				<Baseline points="83,871 796,869" />
+				<TextEquiv index="1">
+					<Unicode>Leisniger Burggrafen, zur Verantwortung nach Rom. Das Kloster</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="82,888 116,887 125,881 141,881 159,887 187,881 195,881 196,887 207,886 215,881 256,881 257,887 279,881 291,881 292,887 309,887 312,881 329,881 330,887 349,881 361,881 362,887 409,880 419,880 419,886 469,884 511,886 526,879 545,879 565,881 577,886 577,880 626,880 627,887 638,887 638,880 673,879 689,879 689,885 744,885 760,879 789,879 790,888 796,888 796,891 789,895 744,896 239,897 232,899 215,899 207,897 82,897" />
+				<Baseline points="82,897 796,895" />
+				<TextEquiv index="1">
+					<Unicode>wurde anfänglich durch den Chemnitzer Mönch Heinrich von He-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l5" points="82,908 87,908 89,915 100,914 111,914 112,908 117,908 119,914 141,913 157,911 163,911 175,913 176,907 187,907 202,913 210,907 238,907 239,913 250,913 252,907 257,907 258,913 269,913 302,911 309,911 321,913 328,907 342,907 349,911 351,920 369,906 381,906 388,912 421,912 423,919 439,906 447,906 450,919 469,911 490,911 499,910 507,910 532,912 533,906 538,906 539,912 547,912 561,905 575,905 576,911 584,911 596,912 596,906 608,906 625,908 659,911 672,905 689,905 697,911 707,911 707,905 726,905 732,904 744,904 744,911 756,911 761,905 775,905 776,911 790,911 791,904 798,904 798,921 744,922 707,922 689,922 584,922 507,927 499,927 476,926 450,922 447,928 439,928 426,922 349,927 343,927 321,923 269,927 238,927 226,927 206,924 202,924 156,923 111,927 100,927 87,923 82,923" baseline="82,923 186,922 658,921 798,921" reason: second model: differs: "ad(FHei" against "d (Heil" | Wikisource: leghenstad (Heiligenstadt), der i. J. 1395 als Probst zu Nenkersdorf | next_nc_e1: leghenstad (Heiligenstadt), der i. J. 1395 als Probst zu Nenkersdorf
+ | german_print2_15: leghenstad (FHeiligenstadt), der i. J. 1395 als Probst zu Nenkersdorf
+ -->
+			<TextEquiv index="1">
+				<Unicode>M. Nikolaus de Vivianis, und dieser lud durch öffentlichen Anschlag,
+der sowohl in Rom als in der Heimat der Übelthäter angeheftet
+wurde, sämtliche Beteiligte, die Einbrecher sowohl als auch die
+Leisniger Burggrafen, zur Verantwortung nach Rom. Das Kloster
+wurde anfänglich durch den Chemnitzer Mönch Heinrich von He-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="82,931 798,931 798,1109 82,1109" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="82,939 113,939 115,933 126,933 127,939 245,933 260,941 286,937 299,937 336,933 406,932 418,932 419,940 440,938 455,932 474,932 475,938 515,936 541,938 556,932 602,932 623,937 623,931 673,931 673,937 675,937 687,950 693,950 694,931 708,931 708,938 730,937 731,944 755,931 778,931 796,940 796,943 790,947 736,950 708,947 708,953 487,953 440,949 277,948 275,954 269,954 268,947 191,950 82,948" />
+				<Baseline points="82,948 796,947" />
+				<TextEquiv index="1">
+					<Unicode>vorkommt, und später durch den Magister Richard Drayton, Pro-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="84,960 139,963 152,965 173,959 185,959 186,966 220,958 232,958 239,964 290,960 315,965 335,966 336,959 348,959 349,966 389,958 405,958 407,964 504,961 563,961 596,958 624,959 650,964 650,957 663,957 663,964 674,964 691,957 726,957 727,963 739,963 739,957 751,957 752,963 797,962 797,973 453,976 441,976 232,974 84,975" />
+				<Baseline points="84,975 797,973" />
+				<TextEquiv index="1">
+					<Unicode>kurator bei der römischen Kurie, vertreten. Da die Geladenen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l2" points="83,991 89,985 101,985 102,991 112,991 113,985 124,985 145,992 152,990 165,990 185,985 190,985 203,990 226,990 255,990 261,983 266,983 267,989 272,989 353,990 360,984 366,984 367,990 414,990 462,990 463,984 493,984 500,991 513,991 534,989 554,985 570,985 591,987 612,989 623,990 637,984 643,984 707,986 762,983 774,983 797,988 797,999 675,1000 637,1000 623,1006 611,1006 611,1000 388,1001 340,1001 333,1001 317,1000 288,999 272,1005 267,1005 261,992 255,1002 243,1002 226,1000 203,1000 165,1000 131,1001 83,1001" baseline="83,1001 130,1000 653,999 797,999" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: nicht erschienen,³) so wurden sie auf dessen Antrag in contumaciam | german_print2_15: nicht erschienen,²) so wurden sie auf dessen Antrag in contumaciam -->
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="84,1017 127,1015 160,1017 162,1011 195,1010 207,1010 208,1016 248,1017 292,1017 293,1011 305,1011 312,1014 369,1011 369,1017 419,1014 449,1016 451,1010 462,1010 463,1017 488,1015 542,1016 542,1010 554,1010 576,1015 599,1017 600,1010 612,1010 613,1016 673,1015 674,1009 700,1008 712,1008 713,1015 751,1009 775,1009 797,1014 797,1025 661,1026 588,1031 576,1031 462,1026 385,1030 335,1027 292,1027 248,1031 237,1031 221,1020 219,1026 180,1028 84,1026" />
+				<Baseline points="84,1026 797,1025" />
+				<TextEquiv index="1">
+					<Unicode>verurteilt, die geraubten Gegenstände zurückzugeben und dem Abte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l4" custom="readingOrder {index:4;}">
+				<Coords points="84,1037 96,1037 104,1043 118,1043 138,1037 163,1037 203,1042 246,1037 258,1037 269,1042 269,1036 281,1036 282,1043 292,1043 293,1037 304,1037 306,1043 328,1042 329,1049 352,1044 358,1044 358,1036 373,1036 373,1042 407,1042 407,1036 420,1036 427,1042 498,1042 499,1035 530,1036 544,1041 569,1041 583,1035 644,1035 644,1041 656,1041 657,1035 676,1035 713,1041 728,1040 728,1034 750,1034 757,1036 782,1038 793,1041 794,1048 797,1048 797,1054 728,1054 699,1051 644,1051 644,1057 624,1057 569,1052 84,1052" />
+				<Baseline points="84,1052 797,1051" />
+				<TextEquiv index="1">
+					<Unicode>den erlittenen Schaden, den dieser auf 8000 Goldgulden schätzte,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l5" custom="readingOrder {index:5;}">
+				<Coords points="84,1068 182,1065 205,1068 206,1075 224,1068 248,1068 248,1062 286,1062 288,1068 303,1070 313,1063 325,1063 332,1066 345,1068 345,1062 386,1062 387,1068 419,1068 420,1062 431,1062 432,1068 507,1067 507,1061 559,1061 568,1062 569,1068 589,1067 589,1061 625,1061 640,1067 686,1060 698,1060 699,1067 727,1066 742,1060 749,1060 768,1060 791,1066 797,1070 797,1073 791,1077 210,1079 206,1079 84,1078" />
+				<Baseline points="84,1078 797,1077" />
+				<TextEquiv index="1">
+					<Unicode>zu erstatten, und die Stadt Zwickau wurde feierlich mit dem Inter-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l6" custom="readingOrder {index:6;}">
+				<Coords points="85,1088 115,1089 134,1095 148,1089 160,1089 161,1095 172,1095 173,1088 178,1088 179,1095 203,1092 213,1088 250,1088 298,1094 298,1088 344,1088 345,1094 409,1094 409,1087 423,1087 424,1094 457,1095 458,1088 463,1088 464,1094 473,1094 488,1087 500,1087 501,1094 523,1093 532,1087 551,1087 552,1093 592,1091 619,1093 632,1087 669,1087 681,1092 681,1086 686,1086 688,1092 720,1092 729,1086 745,1086 745,1092 757,1092 757,1086 776,1086 776,1092 787,1092 787,1086 798,1086 798,1103 592,1104 576,1109 564,1109 564,1103 215,1107 191,1107 172,1104 85,1104" />
+				<Baseline points="85,1104 719,1102 798,1103" />
+				<TextEquiv index="1">
+					<Unicode>dikte belegt. Darauf hin sandte sie den Magister Nikolaus Lubich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>vorkommt, und später durch den Magister Richard Drayton, Pro-
+kurator bei der römischen Kurie, vertreten. Da die Geladenen
+verurteilt, die geraubten Gegenstände zurückzugeben und dem Abte
+den erlittenen Schaden, den dieser auf 8000 Goldgulden schätzte,
+zu erstatten, und die Stadt Zwickau wurde feierlich mit dem Inter-
+dikte belegt. Darauf hin sandte sie den Magister Nikolaus Lubich</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="85,1147 799,1147 799,1296 85,1296" />
+			<!-- line left out: id="r5l0" points="138,1149 143,1149 150,1153 163,1160 168,1150 184,1150 220,1149 236,1149 237,1155 258,1150 275,1150 327,1149 334,1149 418,1148 423,1148 430,1152 451,1149 456,1149 473,1153 521,1151 535,1151 551,1151 592,1148 598,1148 642,1147 647,1147 647,1153 658,1153 658,1147 669,1147 711,1147 750,1147 776,1150 799,1153 799,1161 678,1161 571,1162 490,1165 480,1165 417,1162 309,1166 285,1166 184,1162 147,1162 138,1157" baseline="138,1162 521,1161 799,1161" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ¹) Auch die Burggraſen von Altenburgen traten als Feinde des Klosters | german_print2_15: ¹) Auch die Burggraſen von Altenburgen traten als Feinde des Klosters -->
+			<!-- line left out: id="r5l1" points="85,1175 95,1174 106,1172 115,1172 137,1180 144,1180 144,1170 155,1169 166,1169 168,1175 177,1175 197,1176 199,1169 204,1169 236,1174 247,1170 276,1170 284,1172 306,1173 319,1175 320,1169 335,1169 335,1175 381,1175 400,1180 400,1170 411,1169 423,1169 424,1175 434,1174 444,1170 449,1170 473,1173 483,1175 494,1169 506,1169 528,1172 559,1169 588,1169 589,1180 603,1172 622,1172 653,1168 664,1168 719,1168 773,1169 798,1173 798,1182 633,1182 622,1186 588,1187 521,1187 483,1187 474,1187 433,1183 409,1183 339,1183 276,1183 197,1183 166,1183 95,1183 85,1183" baseline="85,1183 338,1182 798,1182" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: auf. Albrecht und Dietrich von Altenburg fügten i. J. 1301 dem Chemnitzer | german_print2_15: auf. Albrecht und Dietrich von Altenburg fügten i. J. 1301 dem Chemnitzer -->
+			<!-- line left out: id="r5l2" points="87,1201 93,1201 93,1191 109,1191 121,1194 142,1191 157,1190 168,1190 171,1196 185,1195 193,1193 209,1191 219,1191 229,1196 235,1190 248,1190 266,1194 286,1191 295,1191 296,1197 306,1196 323,1193 335,1193 344,1190 350,1190 364,1195 370,1191 384,1191 441,1190 451,1190 494,1190 495,1196 503,1196 514,1190 525,1190 546,1190 557,1194 574,1189 585,1189 602,1191 637,1192 646,1191 652,1191 672,1193 672,1199 687,1189 699,1189 715,1191 741,1189 746,1189 779,1189 799,1194 799,1203 715,1204 676,1205 672,1205 661,1203 602,1205 429,1205 420,1205 384,1204 364,1204 343,1204 229,1204 155,1204 109,1204 87,1204" baseline="87,1204 142,1203 799,1203" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Abte Albert bedeutenden Schaden zu, den sie dadurch ersetzten, daſs sie ihm | german_print2_15: Abte Albert bedeutenden Schaden zu, den sie dadurch ersetzten, daſs sie ihm -->
+			<!-- line left out: id="r5l3" points="87,1217 103,1217 113,1211 123,1211 124,1217 143,1212 154,1211 166,1211 188,1211 234,1211 271,1216 286,1216 313,1211 323,1211 331,1216 365,1212 373,1211 383,1211 395,1216 395,1210 406,1210 416,1215 422,1210 436,1210 445,1213 487,1215 504,1211 521,1211 541,1210 552,1210 571,1211 623,1214 634,1210 675,1210 695,1210 757,1210 798,1214 798,1224 775,1224 735,1224 705,1228 675,1228 599,1228 590,1228 571,1224 552,1224 286,1224 243,1225 215,1225 205,1225 188,1224 103,1224 95,1224 87,1222" baseline="87,1224 598,1223 716,1223 798,1224" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: sechs Mark Silber aus ihren Einkünften in Rochsburg und Penig anwiesen. | german_print2_15: sechs Mark Silber aus ihren Einkünften in Rochsburg und Penig anwiesen. -->
+			<!-- line left out: id="r5l4" points="87,1235 95,1232 114,1232 122,1231 134,1231 141,1231 170,1232 207,1234 228,1234 252,1232 257,1232 315,1232 373,1232 412,1231 423,1231 423,1237 434,1236 454,1234 490,1234 528,1234 544,1231 556,1231 577,1231 649,1230 666,1230 692,1235 711,1231 727,1231 773,1230 785,1230 794,1235 799,1238 799,1240 794,1244 738,1245 692,1245 630,1246 627,1246 565,1245 528,1245 396,1245 228,1247 137,1248 122,1248 104,1245 91,1246 87,1246" baseline="87,1246 140,1244 799,1244" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: (Vergl. S. 125.) E Abt Albert kommt sonst nicht vor; dieser Name be- | german_print2_15: (Vergl. S. 125.) F Abt Albert kommt sonst nicht vor; dieser Name be- -->
+			<!-- line left out: id="r5l5" points="88,1258 96,1257 106,1252 111,1252 148,1252 171,1252 172,1258 181,1258 182,1252 187,1252 206,1252 251,1253 260,1259 270,1257 280,1257 323,1253 330,1253 338,1257 347,1256 352,1256 380,1257 389,1258 401,1252 418,1252 463,1255 472,1252 478,1252 511,1257 522,1259 522,1265 511,1270 501,1270 470,1266 465,1266 440,1265 389,1266 369,1266 310,1266 290,1266 121,1265 88,1265" baseline="88,1265 522,1265" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ruht vielleicht auf einem Irrtume Monsterbergs.
+ | german_print2_15: ruht vielleicht auf einem Irrtume Monsterbergs.
+ -->
+			<!-- line left out: id="r5l6" points="140,1278 147,1278 172,1278 185,1281 209,1278 226,1278 271,1278 275,1284 286,1284 293,1281 304,1281 314,1278 319,1278 337,1281 358,1281 365,1283 380,1288 380,1278 391,1278 452,1278 490,1278 492,1285 514,1281 526,1281 533,1284 550,1278 574,1277 592,1277 620,1281 633,1281 633,1290 558,1293 550,1293 526,1291 490,1291 365,1295 346,1295 304,1292 286,1296 218,1296 209,1296 153,1292 150,1292 147,1285 140,1285" baseline="140,1291 514,1290 633,1290" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ²) Das Kaufskapital trug also mehr als 10 % Zinsen.
+ | german_print2_15: ²) Das Kaufskapital trug also mehr als 10 % Zinsen.
+ -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="93,1302 799,1302 799,1338 93,1338" />
+			<!-- line left out: id="r6l0" points="150,1307 175,1307 183,1314 193,1307 208,1307 234,1307 265,1304 288,1304 288,1312 304,1309 332,1305 374,1305 430,1304 442,1304 483,1304 503,1308 517,1302 521,1302 538,1304 553,1309 557,1302 562,1302 568,1303 578,1302 598,1302 607,1305 607,1313 623,1303 629,1303 649,1303 658,1305 673,1304 681,1304 681,1310 697,1303 708,1303 757,1303 770,1303 799,1308 799,1317 781,1321 771,1321 757,1317 681,1317 611,1319 598,1319 521,1319 517,1319 489,1317 442,1317 402,1317 382,1321 342,1321 304,1317 266,1314 265,1310 242,1317 231,1317 215,1311 208,1316 169,1316 150,1316" baseline="150,1315 697,1316 799,1317" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: )Sicher ist dies in Bezug auf Zwickau überliefert, betreffs der übrigen | german_print2_15: ) Sicher ist dies in Bezug auf Zwickau überliefert, betreffs der übrigen -->
+			<!-- line left out: id="r6l1" points="93,1325 101,1325 104,1331 115,1329 120,1325 129,1324 151,1324 167,1329 186,1329 219,1329 236,1331 236,1325 250,1325 278,1325 281,1331 290,1331 292,1324 297,1324 321,1325 336,1327 352,1327 379,1330 391,1324 401,1324 402,1330 413,1329 422,1324 428,1324 447,1327 473,1324 489,1324 525,1324 530,1328 551,1328 556,1324 569,1324 578,1323 584,1323 593,1328 593,1337 519,1338 470,1338 447,1338 151,1338 120,1338 93,1337" baseline="93,1337 593,1337" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Teilnehmer an der Fehde ist es höchst wahrscheinlich.
+ | german_print2_15: Teilnehmer an der Fehde ist es höchst wahrscheinlich.
+ -->
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="394,1519 612,1519 612,1547 394,1547" />
+			<!-- line left out: id="r7l0" points="394,1529 401,1529 408,1531 424,1529 434,1529 437,1519 443,1519 452,1519 459,1532 465,1529 469,1529 481,1529 494,1529 518,1529 542,1529 601,1530 609,1536 612,1536 612,1538 566,1540 551,1540 481,1538 459,1538 452,1547 443,1547 437,1547 434,1541 413,1540 407,1540 394,1538" baseline="394,1538 412,1537 612,1538" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hup digital slub-dresden dε ppn50
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="0,0 1000,0 1000,1565 0,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Heinrich von Witzleben, die Reißigen Johannes Wisse und Junghe
+Tellin von Schonefelt, Renz von Wachow, Heinrich, Franz und
+Kaspar Kundighe, sowie die Bürger von Zwickau und Öderan mit
+ihren Genossen im Juli 1386 das Schloß Rabenstein, besetzen es
+wie einige zugehörige Dörfer, erbrachen die Thüren der
+Schloßkapelle, nahmen als Räuber und Tempelschänder Bücher, Kelche
+und andere kirchliche Gegenstände, insbesondere das Allerheiligste
+und die Reliquien vom Altare, an sich und behaupteten sich im
+Besitze des Schlosses, bis sie es dem Burggrafen Albrecht, dessen
+Sohne gleichen Namens und Heinrich dem Blinden von Leisnig
+übergaben, mit welchen sie im Einverständnis waren.⟦⟧ Unter
+Androhung der Todesstrafe für etwaigen Ungehorsam verboten letztere
+den Zinsleuten des Klosters, dem Abte die schuldigen Abgaben
+zu entrichten. Dieser sah sich in Folge dessen genötigt, einige
+Mönche seines Konvents in andern Klöstern und bei Freunden
+unterzubringen, da nach Wegfall der Rabensteiner Gefälle, die
+jährlich 200 Schock Freiberger Münze betrugen,⟦⟧ die Einkünfte
+des Klosters zur Beschaffung von Nahrung und Kleidung nicht
+hinreichten. Unter dem Vorgeben, er könne nicht hoffen, in der
+Heimat Recht zu finden, wandte sich der Abt mit der Bitte um
+Hilfe an die römische Kurie. Papst Urban VI. beauftragte mit
+der Untersuchung der Sache den Auditor des päpstlichen Stuhles
+M. Nikolaus de Vivianis, und dieser lud durch öffentlichen Anschlag,
+der sowohl in Rom als in der Heimat der Übelthäter angeheftet
+wurde, sämtliche Beteiligte, die Einbrecher sowohl als auch die
+Leisniger Burggrafen, zur Verantwortung nach Rom. Das Kloster
+wurde anfänglich durch den Chemnitzer Mönch Heinrich von
+Heleghenstad (Heiligenstadt), der i. J. 1395 als Probst zu Nenkersdorf
+vorkommt, und später durch den Magister Richard Drayton,
+Prokurator bei der römischen Kurie, vertreten. Da die Geladenen
+nicht erschienen,⟦⟧ so wurden sie auf dessen Antrag in contumaciam
+verurteilt, die geraubten Gegenstände zurückzugeben und dem Abte
+den erlittenen Schaden, den dieser auf 8000 Goldgulden schätzte,
+zu erstatten, und die Stadt Zwickau wurde feierlich mit dem
+Interdikte belegt. Darauf hin sandte sie den Magister Nikolaus Lubich
+-->
+	</Page>
+</PcGts>

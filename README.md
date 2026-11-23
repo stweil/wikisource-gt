@@ -15,17 +15,24 @@ de.wikisource.org, `la` for la.wikisource.org, ...):
 
 | Directory | Work | Pages | Lines used | Lines left out |
 |---|---|---|---|---|
-| `de/rosengarten_1515` | Eucharius Rößlin: Der Swangern frawen vnd hebammen roszgarten, 1515 | 100 | 1,434 | 1,938 |
-| `de/vlenspiegel_1515` | Ein kurtzweilig lesen von Dyl Vlenspiegel, Straßburg 1515 | 252 | 2,381 | 3,014 |
-| `de/schachzabel_1520` | Jakob Köbel: Schachzabel Spiel, Oppenheim 1520 | 43 | 717 | 511 |
-| `de/bergbuechlin_1527` | Ein nützlich Bergbüchlin, 1527 | 46 | 677 | 487 |
+| `de/rosengarten_1515` | Eucharius Rößlin: Der Swangern frawen vnd hebammen roszgarten, 1515 | 100 | 1,432 | 1,940 |
+| `de/vlenspiegel_1515` | Ein kurtzweilig lesen von Dyl Vlenspiegel, Straßburg 1515 | 252 | 2,376 | 3,019 |
+| `de/schachzabel_1520` | Jakob Köbel: Schachzabel Spiel, Oppenheim 1520 | 43 | 716 | 512 |
+| `de/bergbuechlin_1527` | Ein nützlich Bergbüchlin, 1527 | 46 | 675 | 489 |
 | `de/teuffel_1589` | Hansen Schmidt Teuffel, 1589 | 23 | 429 | 314 |
-| `de/restitutionsedikt_1629` | Restitutionsedikt, 1629 | 28 | 348 | 708 |
-| `de/pralerey_1673` | Deß Weltberuffenen Simplicissimi Pralerey und Gepräng mit seinem Teutschen Michel, 1673 | 121 | 1,879 | 1,385 |
+| `de/restitutionsedikt_1629` | Restitutionsedikt, 1629 | 28 | 330 | 726 |
+| `de/pralerey_1673` | Deß Weltberuffenen Simplicissimi Pralerey und Gepräng mit seinem Teutschen Michel, 1673 | 121 | 1,869 | 1,395 |
 | `de/wundergesicht_1678` | Weißenfelsisches Wunder-Gesicht, 1678 | 35 | 754 | 524 |
 | `de/feurordnung_1681` | Revidirte Feur-Ordnung, Hannover 1681 | 25 | 435 | 246 |
-| `de/friedensinstrument_1697` | Friedens-Instrument zu Ryswick, 1697 | 34 | 437 | 915 |
-| | **Total** | **707** | **9,491** | **10,042** |
+| `de/friedensinstrument_1697` | Friedens-Instrument zu Ryswick, 1697 | 34 | 436 | 916 |
+| `de/chemnitz_1878` | Mitteilungen des Vereins für Chemnitzer Geschichte, Erster Band, Chemnitz 1878 | 353 | 8,742 | 7,230 |
+| `de/chemnitz_1883` | Mitteilungen des Vereins für Chemnitzer Geschichte, Dritter und Vierter Band, Chemnitz 1883 | 426 | 9,506 | 9,448 |
+| | **Total** | **1,486** | **27,700** | **26,759** |
+
+**Evaluation data:** the two volumes of the *Mitteilungen des Vereins für
+Chemnitzer Geschichte* (`de/chemnitz_1878`, `de/chemnitz_1883`, modern
+Antiqua) are used to evaluate models and should be kept out of training
+(`role: evaluation` in their `work.yml`).
 
 The layout follows the [OCR-D template for ground truth
 repositories](https://github.com/OCR-D/gt-repo-template): `METADATA.yml` and
@@ -69,6 +76,8 @@ print, so the text is processed (`scripts/ws-build.py`):
    letter of Wikisource is taken (at most twice per line).
 4. A line is used only if both models lead to exactly the same text. All
    other lines are left out.
+5. The layout analysis sometimes cuts a printed line into pieces. A piece
+   whose text starts or ends inside a word is left out.
 
 Nothing is lost: a line which is left out stays in the PAGE file as an XML
 comment (polygon, baseline, reason, Wikisource stretch, both readings), and

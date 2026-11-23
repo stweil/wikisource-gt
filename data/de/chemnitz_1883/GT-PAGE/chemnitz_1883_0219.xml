@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:56:33</Created>
+		<LastChange>2026-11-23T13:56:33</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/219 revision 5066561 of 2026-09-28T06:43:10Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0219.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro17810048363863660636" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="703,1011 786,1011 786,1050 703,1050" />
+			<!-- line left out: id="r0l0" points="726,1018 734,1016 741,1011 746,1011 777,1011 777,1022 746,1022 741,1022 730,1021 726,1021" baseline="726,1021 761,1021 777,1022" reason: second model: differs: "istdi" against "iberg" | Wikisource: ist di | next_nc_e1: ist di | german_print2_15: ist dis -->
+			<TextLine id="r0l1" custom="readingOrder {index:1;}">
+				<Coords points="703,1038 763,1040 766,1033 775,1033 786,1039 786,1048 745,1050 736,1050 711,1047 703,1043" />
+				<Baseline points="703,1047 786,1048" />
+				<TextEquiv index="1">
+					<Unicode>rung der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>rung der</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="142,1136 644,1136 644,1152 142,1152" />
+			<!-- line left out: id="r1l0" points="142,1136 152,1136 160,1142 167,1140 185,1140 222,1140 248,1140 280,1140 350,1136 363,1136 388,1141 481,1138 516,1137 533,1137 608,1137 644,1141 644,1151 592,1152 562,1152 410,1152 392,1152 282,1151 248,1150 222,1150 185,1150 167,1150 152,1149 142,1149" baseline="142,1150 644,1151" reason: differs: "Vere" against "Roma" | Wikisource:  | next_nc_e1: Vereinsversammlung am 8. Dezember
+ | german_print2_15: Vereinsversammlung am 8. Dezember
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="662,1239 788,1239 788,1257 662,1257" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="662,1242 678,1239 683,1239 706,1239 716,1244 725,1239 741,1239 756,1245 766,1245 779,1239 788,1239 788,1257 779,1257 678,1254 662,1251" />
+				<Baseline points="662,1254 788,1254" />
+				<TextEquiv index="1">
+					<Unicode>Chronik i. J.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Chronik i. J.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="576,1265 788,1265 788,1332 576,1332" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="654,1270 658,1270 665,1277 690,1272 697,1265 713,1265 727,1273 778,1271 788,1275 788,1277 778,1280 732,1280 665,1280 654,1279" />
+				<Baseline points="654,1279 788,1280" />
+				<TextEquiv index="1">
+					<Unicode>r, da es ur-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="641,1300 660,1295 732,1291 743,1291 745,1299 786,1297 786,1306 755,1306 694,1306 641,1305" />
+				<Baseline points="641,1305 786,1306" />
+				<TextEquiv index="1">
+					<Unicode>saſs zu dieser</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l2" points="576,1323 585,1323 610,1320 625,1320 650,1321 673,1322 675,1316 700,1316 700,1329 727,1317 735,1316 747,1316 766,1317 768,1323 778,1323 788,1326 788,1328 778,1332 702,1332 673,1332 656,1332 625,1330 585,1331 576,1331" baseline="576,1330 788,1332" reason: second model has no such line | Wikisource: es Gebäude. Wahr | next_nc_e1: es Gebäude. Wahr-
+ | german_print2_15:  -->
+			<TextEquiv index="1">
+				<Unicode>r, da es ur-
+saſs zu dieser</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="394,1519 612,1519 612,1547 394,1547" />
+			<!-- line left out: id="r4l0" points="394,1529 402,1529 408,1530 421,1519 427,1519 427,1529 431,1529 437,1519 443,1519 446,1529 456,1529 469,1529 481,1529 494,1529 533,1529 533,1519 545,1519 545,1529 598,1529 612,1530 612,1532 609,1532 598,1540 590,1541 551,1541 545,1547 533,1547 533,1540 524,1540 481,1538 443,1538 443,1547 427,1547 421,1547 413,1540 407,1540 394,1538" baseline="394,1538 597,1537 612,1537" reason: differs: "hupe" against "sche" | Wikisource:  | next_nc_e1: hup eigſtal slub dresden de ppnsds
+ | german_print2_15: PGtel sCb dresden de pon 287806,
+ -->
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="0,0 1000,0 1000,1565 0,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Gegenüber der altchristlichen Symbolik des Figurenwerkes
+der Wechselburger Kanzel zeigt sich hier ein durchgebildeter
+Gedankeninhalt, und zwar auf zwei Wegen, die ein gemeinsames
+Ziel haben. Form und Gedanke dieser Plastik beruhen auf dem
+Prinzip der Symmetrie. Der untere Teil schildert das Wesen des
+alten, der obere jenes des neuen Testamentes in Beziehung zum
+Centrum der Gesamtheit, der Muttergottes im Tympanon, der
+Anbetung des Christkindes, der Blüte und Frucht des
+Gesamtgedankens. Redner besprach die Einzelfiguren, ihre Bedeutung
+und ihre teilweisen Ähnlichkeiten mit anderen Werken,
+vorzugsweise den in der Liebfrauenkirche zu Halberstadt befindlichen,
+und machte darauf aufmerksam, in welcher mannigfaltigen Weise das
+Mittelalter sich vorgebildete Formen aneignete, um kirchliche
+Gedanken auszudrücken. Er betonte hierbei das didaktische Element
+in der mittelalterlichen Kunst, und die Bedingungen, unter welchen
+sich jenes vom Orient vorgebildete Figurenwerk Eingang verschaffte.
+Die goldene Pforte ist das Werk eines überlegenden und
+überlegenen Künstlers; ihre edle Einfachheit, Reinheit des
+Stiles, die Milde und Innigkeit der Figuren zeigt sie uns als
+höchste abschließende Schöpfung der sächsischen Schule. Wie
+der bestimmt um 1260 in Italien auftretende Nicolo Pisano, giebt
+sich der Künstler der goldenen Pforte als Erweiterer der Kunst,
+als Erwecker erhabener Schönheit zu erkennen, der sein Werk
+mit Natursinn schuf und mit bedeutungsvoller Gedankentiefe
+schmückte. Wie die Werke Pisanos, charakterisiert sich die
+Pforte als Werk einer zu früh eingetretenen Renaissance, welche
+wieder erlöschen mußte, weil die Vorbedingungen für ihr
+Fortleben noch nicht erfüllt waren. Die in mancher Beziehung
+geheimnisvolle Pforte zu Freiberg strahlt heiter-ernst eine Wärme
+der Empfindung aus, welche die Antike nicht kennen konnte;
+auf der Pforte liegt der Hauch erwachter deutscher Nationalität,
+deutscher tiefer Gottesverehrung. Die Pforte zu Freiberg ist die
+größte, feierlichste, religiöse wie künstlerische Offenbarung der
+Romantik, – unsere ernsteste Pflicht ist, sie zu bewahren, sie
+zu hüten.
+⟦⟧
+Realschuldirektor Dr. Sammler aus Rochlitz sprach über
+„Beiträge zur Kirchengeschichte der Stadt Chemnitz.“
+⟦⟧
+Das Hospital zu St. Georgen ist nach Richters Chronik i. J.
+1395 begründet worden, doch ist es zweifellos älter, da es
+urkundlich bereits i. J. 1350 erwähnt wird. Es besaß zu dieser
+Zeit ein eigenes vor dem Johannisthor gelegenes Gebäude.
+Wahrscheinlich
+-->
+	</Page>
+</PcGts>

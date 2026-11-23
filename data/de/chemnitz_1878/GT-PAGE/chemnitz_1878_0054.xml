@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:18:41</Created>
+		<LastChange>2026-11-23T14:18:41</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/54 revision 5014386 of 2026-08-18T10:54:42Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0054.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro82109898774096779" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="498,168 623,168 623,190 498,190" />
+			<!-- line left out: id="r0l0" points="498,178 549,174 561,174 562,168 572,168 599,180 623,180 623,182 599,182 561,190 549,190 521,179 498,179" baseline="498,179 520,179 623,181" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 46 —
+ | german_print2_15: — 46 —
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="216,220 916,220 916,572 216,572" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="491,224 549,220 569,220 636,226 636,242 619,242 612,242 497,240 491,235" />
+				<Baseline points="491,235 636,238" />
+				<TextEquiv index="1">
+					<Unicode>1362, März 25.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l1" points="216,249 228,248 238,248 239,257 258,245 281,245 281,251 288,251 312,251 323,252 332,246 350,246 354,252 366,252 378,253 383,247 387,247 413,248 413,254 424,254 424,248 436,248 443,254 460,254 473,252 502,250 517,250 520,256 532,251 537,251 541,258 561,258 561,251 579,251 582,258 602,258 602,252 614,252 616,266 635,253 649,253 652,259 667,254 672,254 698,254 701,261 713,261 739,261 787,257 830,257 863,258 887,259 891,265 915,265 915,278 902,278 852,275 833,274 825,273 787,273 621,272 616,272 488,269 473,269 460,266 424,265 413,264 332,263 281,262 238,265 216,265" baseline="216,260 258,260 386,263 620,269 635,269 915,275" reason: differs: "45.K" against "| st" | Wikisource:  | next_nc_e1: 45. Kaiser Karl bekennt, Friedrich, Balthasar und Wilhelm, | german_print2_15: 45. Kaiser Karl bekennt, Friedrich, Balthasar und Wilhelm, -->
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="256,271 276,271 277,277 299,272 311,272 311,278 338,278 345,272 363,272 364,279 408,280 423,274 442,274 443,282 541,277 541,283 574,284 574,278 587,278 587,285 597,285 611,279 634,279 641,285 674,283 686,288 686,294 709,288 715,288 715,281 727,281 728,289 775,288 793,283 811,283 813,290 834,290 850,284 856,284 883,285 884,291 894,291 895,285 906,285 907,293 916,293 916,301 793,299 779,293 775,298 686,300 667,296 587,294 495,295 310,293 299,288 256,287" />
+				<Baseline points="256,287 611,294 916,302" />
+				<TextEquiv index="1">
+					<Unicode>Markgrafen zu Meissen, für die Dienste, die sie dem Reiche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l3" points="254,303 280,298 309,298 316,304 344,299 351,299 351,305 379,305 430,301 443,301 446,307 456,307 457,301 469,301 472,307 484,307 509,308 538,309 547,303 567,303 571,310 580,310 583,304 602,304 615,311 626,311 633,305 643,305 661,306 684,310 710,307 721,307 722,313 734,308 746,308 746,316 758,314 769,314 770,322 788,314 812,314 851,311 859,311 860,317 870,317 871,311 882,311 890,317 907,312 915,312 915,327 882,327 798,329 788,329 770,326 758,325 746,324 690,323 684,322 626,325 615,325 571,320 526,319 472,318 446,317 379,316 362,316 332,315 292,314 254,313" baseline="254,313 280,313 378,315 421,316 601,320 695,322 788,324 915,327" reason: differs: "n,3οοὸS" against ", 3000 " | Wikisource:  | next_nc_e1: in Schwaben vor Schorrendorff geleistet haben, 3οοὸ Schock | german_print2_15: in Schwaben vor Schorrendorff geleistet haben, 3000 Schock -->
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="256,329 310,329 328,331 341,325 364,325 374,332 404,332 427,334 442,327 456,327 457,333 488,334 523,329 555,329 556,335 624,337 625,331 636,331 668,332 669,338 722,339 748,341 830,336 847,345 856,344 868,337 885,337 887,344 915,341 915,353 910,358 898,358 874,353 748,350 675,353 404,348 404,342 256,344" />
+				<Baseline points="256,339 915,353" />
+				<TextEquiv index="1">
+					<Unicode>grosser Pfennige Prager Münze schuldig zu sein und schlägt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="254,349 267,349 268,355 324,354 347,357 409,359 410,353 430,353 462,354 464,360 497,355 509,355 535,362 535,355 549,355 549,363 581,358 624,357 629,365 655,364 661,358 673,358 676,364 716,365 719,373 743,361 758,361 761,367 797,367 805,369 813,362 823,362 829,369 915,364 915,379 797,377 716,380 704,380 692,375 304,367 282,360 282,366 254,365" />
+				<Baseline points="254,365 915,379" />
+				<TextEquiv index="1">
+					<Unicode>die Summe auf die Städte Aldenburg, Czwickow und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l6" points="256,376 272,376 276,382 303,382 331,378 352,378 422,379 423,385 434,385 480,386 514,387 514,381 526,381 528,389 553,389 555,382 579,382 579,390 591,389 623,384 638,384 648,390 665,390 666,384 679,384 688,392 700,391 714,391 724,393 737,386 742,386 745,393 749,393 776,391 782,391 792,393 815,394 817,401 840,389 857,389 859,397 866,397 885,401 886,390 905,390 907,397 915,397 915,403 905,405 820,406 817,406 792,403 761,403 742,402 621,405 616,405 601,399 591,399 555,398 534,397 321,399 304,399 303,393 292,393 256,392" baseline="256,392 490,396 723,401 737,401 915,405" reason: differs: "pnidass" against "pnicz, " | Wikisource:  | next_nc_e1: Kempni dass sie dieselben pfandweise besitzen, bis alle | german_print2_15: Kempni dass sie dieselben pfandweise besitzen, bis alle -->
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="254,402 266,402 267,408 316,409 360,404 372,404 373,410 422,411 459,406 460,412 528,413 539,415 547,408 568,408 569,415 585,411 590,411 603,415 604,409 616,409 617,415 685,417 696,411 702,411 717,412 719,418 740,418 741,412 746,412 747,419 781,419 794,416 805,416 820,421 822,414 834,414 835,422 845,422 854,415 866,415 873,419 885,422 892,415 905,415 907,422 915,422 915,431 867,431 498,423 364,421 328,422 254,418" />
+				<Baseline points="254,418 915,431" />
+				<TextEquiv index="1">
+					<Unicode>Summen, die er oder seine Vorfahren am Reiche auf die Städte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="252,434 296,435 297,429 315,429 316,435 340,436 383,431 384,437 395,437 395,431 406,431 409,438 462,439 462,433 493,433 539,442 540,434 545,434 546,440 558,440 565,435 574,435 574,451 493,449 475,453 456,453 328,450 308,446 273,445 265,450 252,450" />
+				<Baseline points="252,444 574,451" />
+				<TextEquiv index="1">
+					<Unicode>geschlagen haben, gelöst sind.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="279,461 297,460 306,460 306,467 348,467 348,461 359,461 359,467 383,468 442,464 452,468 452,477 471,464 483,464 484,471 517,470 536,465 546,465 546,471 563,469 617,467 617,473 654,471 689,475 719,475 755,470 766,470 767,478 810,474 915,473 915,488 875,493 857,493 856,487 816,487 816,493 810,493 795,487 636,489 635,483 452,482 442,480 429,484 418,484 375,483 348,478 279,477" />
+				<Baseline points="279,476 915,488" />
+				<TextEquiv index="1">
+					<Unicode>Nuremberg, 1362, des nehsten freytages vor dem suntag als</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="326,493 350,493 382,489 385,489 404,489 410,494 461,490 512,498 527,492 533,492 558,499 564,499 564,492 576,492 582,499 643,497 739,502 770,497 802,497 803,503 813,503 814,497 826,497 826,505 891,502 904,502 913,505 913,515 896,515 891,515 739,512 660,513 382,510 368,504 326,504" />
+				<Baseline points="326,503 913,515" />
+				<TextEquiv index="1">
+					<Unicode>man singet letare in der vasten, unserer Reiche im 16.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="325,520 349,520 350,514 361,514 375,522 381,522 381,515 397,515 397,522 407,522 422,516 438,516 439,522 487,523 487,517 500,517 508,523 572,524 624,520 652,520 660,526 671,526 671,536 635,536 633,542 624,542 596,541 583,535 466,533 422,534 375,531 325,530" />
+				<Baseline points="325,530 671,536" />
+				<TextEquiv index="1">
+					<Unicode>und des Kaiserthums im 7. Jahr.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l12" points="261,544 271,543 280,543 312,544 312,555 328,547 333,547 344,546 371,545 377,545 393,547 407,551 407,545 410,545 427,551 443,547 471,547 477,548 488,552 494,553 504,554 512,549 523,549 542,552 556,554 576,554 581,549 590,549 610,550 611,557 627,557 635,551 657,551 685,556 690,557 739,553 754,553 756,561 767,561 780,553 793,553 814,553 833,555 846,556 890,556 910,562 912,562 912,569 869,572 860,572 793,567 767,567 756,567 717,566 690,565 657,565 576,567 565,567 542,562 523,562 512,562 504,561 494,566 487,566 410,564 401,564 354,562 333,562 297,562 286,562 286,556 261,556" baseline="261,556 328,557 371,558 626,563 860,567 912,568" reason: differs: "Copi" against "| | " | Wikisource:  | next_nc_e1: Copie. (Or. Perg. mit Majestätssiegel des Kaisers im H.-St.-A. Dr 3680.)
+ | german_print2_15: Copie. (Or. Perg. mit Majestätssiegel des Kaisers im H.-St.-A. Dr 3680.)
+ -->
+			<TextEquiv index="1">
+				<Unicode>1362, März 25.
+Markgrafen zu Meissen, für die Dienste, die sie dem Reiche
+grosser Pfennige Prager Münze schuldig zu sein und schlägt
+die Summe auf die Städte Aldenburg, Czwickow und
+Summen, die er oder seine Vorfahren am Reiche auf die Städte
+geschlagen haben, gelöst sind.
+Nuremberg, 1362, des nehsten freytages vor dem suntag als
+man singet letare in der vasten, unserer Reiche im 16.
+und des Kaiserthums im 7. Jahr.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="244,587 914,587 914,923 244,923" />
+			<!-- line left out: id="r2l0" points="484,590 490,589 513,589 523,590 523,599 543,595 548,587 558,587 571,592 581,593 582,587 592,587 615,592 615,598 592,603 571,608 559,608 558,602 527,603 523,603 513,602 501,606 490,606 484,601" baseline="484,601 615,603" reason: differs: "1367" against "r;" " | Wikisource:  | next_nc_e1: 1367, April 2.
+ | german_print2_15: 1367, April 2.
+ -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="250,611 266,611 277,612 281,618 296,613 301,613 306,619 334,620 347,622 364,615 403,615 407,621 419,621 424,615 429,615 459,616 464,623 498,622 523,624 543,617 584,619 585,625 636,625 647,623 659,623 678,626 709,620 715,627 757,622 792,622 834,623 836,629 878,629 878,623 890,623 894,630 903,630 913,634 913,636 903,639 709,641 704,641 666,638 659,636 636,635 511,634 250,628" />
+				<Baseline points="250,628 913,640" />
+				<TextEquiv index="1">
+					<Unicode>Niclaus Schultheize, Rathsmeister, Jenik Dithrichs-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="249,638 261,638 267,646 291,645 297,639 306,639 307,653 339,640 352,640 356,648 371,644 405,647 431,641 459,641 477,646 506,649 534,649 538,657 570,644 586,644 592,651 613,651 618,645 623,645 628,652 705,650 781,654 786,662 820,648 871,649 876,656 902,656 914,659 914,665 786,666 757,663 753,669 725,669 719,663 538,662 480,659 379,657 307,658 283,655 249,654" />
+				<Baseline points="249,654 914,666" />
+				<TextEquiv index="1">
+					<Unicode>dorf, Peter Tetzner, Niclaus Sepper, Niclaus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="249,665 265,665 268,672 292,671 301,666 316,666 319,673 330,673 345,667 362,667 366,674 403,668 433,668 465,669 469,676 492,675 498,669 502,669 508,675 527,676 529,670 545,670 550,683 570,671 586,671 591,679 637,673 657,673 671,685 677,685 687,679 718,680 719,673 732,673 734,681 743,674 785,674 788,682 803,678 860,676 878,676 887,682 897,679 913,679 913,692 881,692 756,692 743,692 738,684 732,689 586,687 550,688 529,686 319,685 284,681 249,680" />
+				<Baseline points="249,681 913,692" />
+				<TextEquiv index="1">
+					<Unicode>Cerdo, Hennik Gerlach, Hennik Siedel, Peter Cent-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="248,698 266,697 284,692 305,692 308,706 328,692 342,692 345,700 360,697 421,695 437,700 468,701 534,697 555,703 561,697 581,697 585,705 623,704 638,698 644,698 661,699 666,705 695,707 696,700 706,700 725,705 809,701 813,707 825,707 829,701 840,701 845,707 881,707 913,709 913,717 813,716 809,723 800,723 760,716 734,715 696,716 487,713 478,711 442,710 437,716 425,716 421,710 248,712" />
+				<Baseline points="248,707 913,717" />
+				<TextEquiv index="1">
+					<Unicode>graf, Peter Sporer, Andreas Birschroter, Johannes</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="250,717 264,717 268,725 355,725 368,727 371,720 384,720 387,726 412,726 417,720 424,720 442,727 466,727 467,721 478,721 504,722 508,728 520,728 524,722 536,722 540,729 583,729 610,732 629,725 646,725 651,731 659,731 659,725 693,725 693,732 750,732 755,739 779,727 826,727 827,733 912,734 912,744 759,744 693,744 659,744 629,741 524,739 508,737 504,744 494,744 478,737 250,734" />
+				<Baseline points="250,733 912,744" />
+				<TextEquiv index="1">
+					<Unicode>Lencgersdorf und Johannes Hugewicz, Rathsmannen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="248,750 272,750 273,744 284,744 316,745 328,759 334,745 360,746 361,752 457,754 457,747 469,747 469,753 497,748 516,748 522,755 535,755 535,749 578,749 582,757 648,757 653,751 670,751 677,757 687,757 690,764 708,758 729,758 729,752 741,752 743,758 812,759 814,753 847,753 855,754 855,761 867,759 882,759 902,754 912,754 912,770 694,770 626,772 609,772 597,767 373,762 334,763 284,760 248,760" />
+				<Baseline points="248,759 912,770" />
+				<TextEquiv index="1">
+					<Unicode>und Geschworene der Stadt Kempnicz, ordnen mit Beirath</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="247,777 253,777 254,770 271,770 272,776 299,771 317,771 319,778 343,778 360,776 419,779 419,773 480,774 481,781 492,781 502,778 567,775 574,782 615,782 615,790 636,783 647,783 649,777 653,777 655,786 663,786 678,778 753,778 758,786 808,785 846,780 858,780 862,786 873,786 873,780 885,780 890,786 901,786 912,791 912,793 885,796 653,793 594,797 574,797 554,792 492,790 325,793 299,788 247,786" />
+				<Baseline points="247,787 912,796" />
+				<TextEquiv index="1">
+					<Unicode>der klügsten und ältesten Bürger, als Walther von Scho-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="247,802 324,798 350,798 375,799 380,805 390,805 391,799 438,800 442,807 478,806 487,801 503,801 507,808 514,801 527,801 531,808 556,807 560,815 587,803 603,803 609,810 663,809 677,811 695,804 742,804 755,805 756,811 767,808 785,808 791,818 815,805 831,805 838,812 849,806 869,806 874,812 900,812 912,815 912,821 900,823 742,826 712,826 712,819 560,820 527,817 289,817 247,813" />
+				<Baseline points="247,813 794,821 912,821" />
+				<TextEquiv index="1">
+					<Unicode>naw, Ulrich Gerscheler, Hencze Wykart, Niklaus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="247,824 268,823 289,823 294,831 321,830 325,824 337,824 341,831 365,831 370,825 378,825 379,839 410,826 426,826 430,832 492,827 600,829 608,835 643,836 649,843 680,832 691,830 705,830 705,836 739,837 767,837 796,831 809,831 813,838 846,838 847,832 857,832 873,833 877,840 910,840 910,851 900,851 873,848 530,848 379,844 337,841 247,840" />
+				<Baseline points="247,839 910,848" />
+				<TextEquiv index="1">
+					<Unicode>Aldendorf, Cunrad Schilling, Cunzce Brüchloe,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="246,850 274,850 289,851 311,857 320,857 323,851 350,851 351,858 380,852 402,852 406,859 416,859 421,853 433,853 436,860 461,859 465,866 497,854 546,854 551,860 589,861 601,863 627,857 644,857 649,864 665,862 689,863 698,857 703,857 708,863 718,863 719,857 729,857 756,863 774,863 775,857 792,857 834,858 838,864 853,866 854,859 867,859 873,865 910,865 910,875 894,875 644,872 465,872 453,869 333,868 246,865" />
+				<Baseline points="246,866 910,875" />
+				<TextEquiv index="1">
+					<Unicode>Heinrich Sieber, Andreas Gerwick und Niclaus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="244,876 257,876 272,882 337,883 341,891 366,884 372,884 372,878 385,878 385,885 395,885 414,878 434,878 436,885 455,883 513,885 548,888 548,881 561,881 562,887 586,882 610,882 611,889 629,890 630,883 640,883 642,889 668,890 722,889 741,883 752,883 754,890 764,890 784,884 796,884 815,890 822,884 836,884 837,890 868,891 869,885 873,885 874,893 884,888 910,891 910,901 884,901 874,899 868,906 852,906 850,900 668,898 642,899 597,898 586,896 513,902 513,896 489,901 476,901 476,895 297,898 282,893 244,891" />
+				<Baseline points="244,892 910,901" />
+				<TextEquiv index="1">
+					<Unicode>Stieger, die Eintragung der Geschosse in die Stadtregister</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="244,908 268,908 269,902 280,902 294,910 300,910 300,903 311,903 312,909 342,904 371,904 373,910 387,910 410,905 455,905 462,911 490,906 513,906 519,912 565,913 565,923 532,923 519,923 244,918" />
+				<Baseline points="244,918 565,923" />
+				<TextEquiv index="1">
+					<Unicode>und das Erbrecht der Frauen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Niclaus Schultheize, Rathsmeister, Jenik Dithrichs-
+dorf, Peter Tetzner, Niclaus Sepper, Niclaus
+Cerdo, Hennik Gerlach, Hennik Siedel, Peter Cent-
+graf, Peter Sporer, Andreas Birschroter, Johannes
+Lencgersdorf und Johannes Hugewicz, Rathsmannen
+und Geschworene der Stadt Kempnicz, ordnen mit Beirath
+der klügsten und ältesten Bürger, als Walther von Scho-
+naw, Ulrich Gerscheler, Hencze Wykart, Niklaus
+Aldendorf, Cunrad Schilling, Cunzce Brüchloe,
+Heinrich Sieber, Andreas Gerwick und Niclaus
+Stieger, die Eintragung der Geschosse in die Stadtregister
+und das Erbrecht der Frauen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="271,935 899,935 899,961 271,961" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="271,935 277,935 306,935 311,941 345,942 345,936 360,936 375,941 376,949 395,941 413,940 434,941 435,950 453,943 497,944 497,937 511,937 511,944 532,944 547,938 555,938 568,939 577,943 588,945 662,947 663,940 675,940 676,946 691,946 706,940 717,940 718,948 730,947 737,941 749,941 750,947 808,948 818,941 831,941 859,947 899,948 899,958 872,961 860,961 588,960 570,955 550,954 550,960 532,954 425,958 424,952 412,957 271,956" />
+				<Baseline points="271,951 899,958" />
+				<TextEquiv index="1">
+					<Unicode>(Chemnitz), 1367, an dem fritage in den heiligen ostirtagen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>(Chemnitz), 1367, an dem fritage in den heiligen ostirtagen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="253,967 907,967 907,1008 253,1008" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="253,967 260,967 304,971 305,978 334,969 354,969 357,978 374,967 395,967 404,973 411,973 411,967 414,967 480,968 544,973 595,970 606,970 612,973 628,970 634,974 648,975 678,971 738,971 738,977 834,978 849,972 861,972 871,978 895,978 907,980 907,986 849,986 793,984 763,986 750,984 719,984 668,987 606,987 595,987 570,983 544,982 526,985 273,984 272,978 253,978" />
+				<Baseline points="253,978 806,983 907,986" />
+				<TextEquiv index="1">
+					<Unicode>Copie. (Or. Perg. mit dem grossen Stadtsiegel der burgenses in Kemniz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="506,994 540,990 545,990 579,990 583,990 672,993 672,1008 658,1008 647,1008 583,1005 545,1005 506,1002" />
+				<Baseline points="506,1002 672,1005" />
+				<TextEquiv index="1">
+					<Unicode>im R.-A. Ch. 11.)</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Copie. (Or. Perg. mit dem grossen Stadtsiegel der burgenses in Kemniz
+im R.-A. Ch. 11.)</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="235,1022 905,1022 905,1368 235,1368" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="490,1025 547,1022 556,1022 558,1028 577,1023 588,1023 612,1028 613,1036 616,1036 616,1039 612,1044 601,1044 558,1039 556,1045 547,1045 527,1042 496,1042 496,1036 490,1036" />
+				<Baseline points="490,1036 616,1040" />
+				<TextEquiv index="1">
+					<Unicode>1367, Juni 3.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l1" points="241,1049 259,1049 265,1056 271,1055 285,1052 303,1052 317,1055 332,1056 338,1050 342,1050 361,1056 410,1051 424,1051 428,1059 443,1058 472,1058 535,1054 564,1053 581,1053 586,1060 592,1060 602,1061 603,1054 622,1054 627,1063 634,1054 647,1054 652,1068 677,1057 688,1055 712,1055 720,1061 747,1061 747,1055 752,1055 754,1062 765,1061 778,1061 801,1055 814,1055 821,1062 849,1062 864,1062 864,1055 867,1055 886,1062 905,1062 905,1072 886,1072 867,1078 864,1078 864,1072 855,1072 849,1078 835,1078 835,1072 778,1074 765,1074 720,1071 712,1070 656,1072 652,1072 622,1070 510,1070 476,1068 456,1074 443,1074 439,1068 428,1068 384,1067 307,1066 241,1065" baseline="241,1064 361,1066 655,1070 801,1071 905,1072" reason: differs: "Hent" against "| st" | Wikisource:  | next_nc_e1: Hentzel von Pegaw und Nickel, Gebrüder, Bürger- zu | german_print2_15: Hentzel von Pegaw und Nickel, Gebräder, Bürger- zu -->
+			<TextLine id="r5l2" custom="readingOrder {index:2;}">
+				<Coords points="241,1075 258,1075 263,1082 309,1081 325,1077 342,1077 347,1084 353,1082 371,1082 374,1090 406,1078 409,1078 416,1083 457,1084 457,1078 469,1078 470,1085 490,1086 491,1079 503,1079 504,1085 532,1086 557,1080 566,1080 566,1086 584,1086 617,1089 618,1081 640,1081 641,1087 692,1087 693,1081 704,1081 726,1088 732,1088 733,1082 744,1082 746,1088 764,1089 784,1082 808,1081 820,1082 821,1088 842,1088 865,1082 876,1082 877,1089 904,1088 904,1098 808,1098 754,1098 732,1098 726,1098 409,1096 290,1097 279,1092 241,1091" />
+				<Baseline points="241,1091 531,1096 904,1098" />
+				<TextEquiv index="1">
+					<Unicode>Kempnicz, verschreiben für sich und ihre Erben dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l3" custom="readingOrder {index:3;}">
+				<Coords points="241,1101 265,1101 265,1107 304,1107 310,1101 312,1101 358,1102 363,1109 383,1109 387,1103 398,1103 408,1104 413,1110 440,1110 452,1112 478,1105 493,1105 503,1112 560,1109 624,1113 651,1107 666,1107 672,1114 695,1115 695,1108 711,1108 712,1114 757,1114 761,1108 772,1108 777,1114 802,1114 806,1108 815,1108 816,1121 849,1114 855,1108 866,1108 867,1114 903,1114 903,1124 733,1129 712,1129 689,1124 428,1121 241,1117" />
+				<Baseline points="241,1117 903,1124" />
+				<TextEquiv index="1">
+					<Unicode>Pfarrer Nicklaus Lesnitz zu Rüdegisdorf, ihrem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l4" custom="readingOrder {index:4;}">
+				<Coords points="239,1129 249,1127 263,1127 264,1134 276,1134 276,1128 288,1128 288,1134 329,1133 352,1129 382,1129 383,1136 407,1137 407,1130 443,1131 450,1137 458,1137 458,1131 475,1131 484,1135 504,1138 518,1132 534,1132 536,1138 576,1139 577,1133 588,1133 589,1139 611,1139 612,1146 630,1139 672,1134 691,1134 692,1140 729,1140 742,1134 766,1134 766,1140 784,1141 784,1134 796,1134 797,1140 853,1136 878,1141 878,1134 890,1134 898,1141 901,1141 901,1151 796,1150 616,1152 612,1152 556,1149 476,1148 443,1146 329,1150 239,1143" />
+				<Baseline points="239,1143 630,1149 901,1150" />
+				<TextEquiv index="1">
+					<Unicode>Oheim, 7 Schock breiter Groschen, an ihrem Theile auf der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l5" custom="readingOrder {index:5;}">
+				<Coords points="240,1153 246,1153 260,1154 261,1160 272,1160 273,1154 279,1154 279,1160 290,1160 290,1154 302,1154 303,1161 348,1161 357,1155 375,1155 376,1163 431,1162 439,1160 467,1158 538,1158 539,1165 612,1165 613,1159 625,1159 625,1167 636,1167 637,1160 642,1160 645,1166 712,1167 727,1160 732,1160 733,1166 756,1165 779,1167 793,1160 819,1160 830,1167 840,1165 856,1167 868,1160 880,1160 882,1167 903,1167 903,1177 769,1175 769,1181 756,1181 678,1178 467,1179 455,1173 419,1178 407,1178 405,1172 240,1169" />
+				<Baseline points="240,1169 903,1177" />
+				<TextEquiv index="1">
+					<Unicode>Bleiche zu Kempnitz jährlich zu erheben, so lange bis sie ihm</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l6" custom="readingOrder {index:6;}">
+				<Coords points="238,1186 249,1186 250,1180 255,1180 256,1186 291,1186 312,1188 312,1181 322,1181 322,1187 380,1188 413,1188 413,1182 427,1182 427,1189 453,1184 465,1184 465,1191 476,1190 485,1187 539,1188 562,1191 574,1185 588,1185 596,1191 663,1193 696,1192 754,1185 772,1185 773,1191 781,1191 794,1185 812,1185 813,1192 823,1192 838,1186 864,1186 865,1193 886,1193 886,1195 865,1196 864,1202 670,1202 663,1208 651,1208 651,1202 607,1202 518,1206 518,1200 465,1200 459,1206 453,1206 439,1199 335,1197 335,1203 322,1203 322,1197 238,1196" />
+				<Baseline points="238,1196 886,1202" />
+				<TextEquiv index="1">
+					<Unicode>einen eigenen oder bestätigten Zins zugewiesen für die Mess</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l7" custom="readingOrder {index:7;}">
+				<Coords points="239,1206 258,1206 259,1213 269,1213 292,1207 310,1207 311,1213 330,1214 345,1207 360,1207 401,1214 438,1210 452,1210 480,1216 486,1216 487,1210 499,1210 500,1216 537,1217 555,1211 577,1211 598,1212 598,1218 645,1219 673,1213 689,1213 700,1216 732,1212 743,1212 743,1218 755,1214 777,1215 796,1212 855,1212 872,1220 881,1220 881,1234 872,1234 855,1228 798,1231 756,1228 645,1228 645,1234 632,1234 614,1228 239,1222" />
+				<Baseline points="239,1222 555,1227 881,1228" />
+				<TextEquiv index="1">
+					<Unicode>die ihre Eltern mit ihrem Rathe gestiftet hätten, und g</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l8" custom="readingOrder {index:8;}">
+				<Coords points="237,1232 243,1232 243,1238 255,1238 255,1232 268,1232 269,1239 292,1238 292,1246 320,1239 354,1240 354,1234 366,1234 387,1241 392,1235 409,1235 410,1241 460,1241 491,1236 509,1236 511,1243 518,1243 536,1237 554,1237 555,1244 597,1244 613,1252 618,1239 655,1239 656,1245 669,1245 669,1239 750,1244 750,1237 762,1237 763,1243 775,1243 790,1237 810,1237 811,1245 822,1245 824,1238 846,1238 854,1245 902,1246 902,1256 893,1256 292,1252 280,1249 237,1248" />
+				<Baseline points="237,1248 440,1251 790,1253 902,1256" />
+				<TextEquiv index="1">
+					<Unicode>loben, nach wie vor für diesen Antheil an der Bleiche zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l9" custom="readingOrder {index:9;}">
+				<Coords points="237,1258 249,1258 249,1264 347,1260 361,1266 397,1261 427,1261 427,1267 520,1269 520,1263 531,1263 545,1271 551,1271 551,1263 565,1263 565,1269 586,1265 602,1265 608,1270 636,1265 648,1265 649,1271 695,1271 709,1264 726,1264 727,1270 740,1270 751,1263 771,1263 779,1269 801,1264 813,1264 814,1270 873,1268 900,1274 900,1281 709,1280 695,1286 679,1286 622,1281 237,1274" />
+				<Baseline points="237,1274 545,1279 751,1279 900,1281" />
+				<TextEquiv index="1">
+					<Unicode>bauen und zu bessern nach der Anordnung des Bleichmeisters.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l10" custom="readingOrder {index:10;}">
+				<Coords points="235,1284 255,1284 297,1284 297,1291 361,1292 361,1303 334,1302 334,1308 320,1308 320,1302 235,1301" />
+				<Baseline points="235,1301 361,1303" />
+				<TextEquiv index="1">
+					<Unicode>Mit Zeugen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l11" points="261,1316 297,1316 302,1322 317,1322 341,1320 353,1316 362,1316 370,1318 407,1320 416,1323 416,1332 428,1324 440,1324 451,1325 459,1319 471,1319 472,1327 483,1325 500,1325 509,1319 522,1319 522,1333 534,1320 558,1320 558,1326 576,1326 628,1327 628,1321 638,1321 681,1326 717,1321 728,1321 729,1328 741,1326 749,1326 760,1327 769,1321 780,1321 781,1327 793,1326 804,1326 831,1322 846,1322 861,1325 878,1327 888,1325 899,1325 899,1338 872,1338 789,1342 781,1342 717,1337 693,1336 686,1335 681,1336 638,1337 576,1337 576,1343 557,1343 557,1337 416,1340 406,1340 406,1334 394,1339 370,1339 353,1339 341,1334 316,1333 271,1332 268,1338 261,1338" baseline="261,1332 534,1336 856,1337 899,1338" reason: second model: differs: "(Che" against "| | " | Wikisource: (Chemnitz), 1367, an dem 8. Tage nach unsers hern hymmel vart. | next_nc_e1: (Chemnitz), 1367, an dem 8. Tage nach unsers hern hymmel vart. | german_print2_15: (Chemmils), 1367, an dem 8. Tage nach unsers hern hymmel vart. -->
+			<TextLine id="r5l12" custom="readingOrder {index:12;}">
+				<Coords points="244,1346 258,1346 258,1352 293,1352 293,1346 295,1346 350,1350 428,1349 494,1351 496,1358 509,1353 523,1351 663,1352 663,1367 640,1368 622,1368 613,1368 535,1364 485,1364 428,1367 269,1365 269,1359 244,1360" />
+				<Baseline points="244,1360 663,1364" />
+				<TextEquiv index="1">
+					<Unicode>Copie. (Orig. Perg. im H.-St.-A. Dr. 3862.)</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>1367, Juni 3.
+Kempnicz, verschreiben für sich und ihre Erben dem
+Pfarrer Nicklaus Lesnitz zu Rüdegisdorf, ihrem
+Oheim, 7 Schock breiter Groschen, an ihrem Theile auf der
+Bleiche zu Kempnitz jährlich zu erheben, so lange bis sie ihm
+einen eigenen oder bestätigten Zins zugewiesen für die Mess
+die ihre Eltern mit ihrem Rathe gestiftet hätten, und g
+loben, nach wie vor für diesen Antheil an der Bleiche zu
+bauen und zu bessern nach der Anordnung des Bleichmeisters.
+Mit Zeugen.
+Copie. (Orig. Perg. im H.-St.-A. Dr. 3862.)</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r6">
+			<Coords points="942,679 973,679 973,1509 942,1509" />
+		</SeparatorRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="397,1549 654,1549 654,1561 397,1561" />
+			<!-- line left out: id="r7l0" points="397,1549 405,1549 411,1550 425,1549 437,1549 459,1549 472,1549 502,1549 528,1549 555,1549 574,1549 649,1549 654,1550 654,1558 632,1558 534,1558 455,1561 444,1561 429,1561 417,1560 410,1560 397,1558" baseline="397,1558 654,1557" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnp digital slub-dresden delppn301 25964254
+ | german_print2_15: htp igital slut-dresden de ppne0125964254
+ -->
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="0,0 976,0 976,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+| colspan="2"; style="text-align:center;" | 1362, März 25.
+| style="vertical-align:top;"| 45.
+| Kaiser Karl bekennt, Friedrich, Balthasar und Wilhelm, Markgrafen zu Meissen, für die Dienste, die sie dem Reiche in Schwaben vor Schorrendorff geleistet haben, 3000 Schock grosser Pfennige Prager Münze schuldig zu sein und schlägt die Summe auf die Städte Aldenburg, Czwickow und Kempnicz, dass sie dieselben pfandweise besitzen, bis alle Summen, die er oder seine Vorfahren am Reiche auf die Städte geschlagen haben, gelöst sind.
+|
+| Nuremberg, 1362, des nehsten freytages vor dem suntag als man singet letare in der vasten, unserer Reiche im 16. und des Kaiserthums im 7. Jahr.
+|
+| Copie. (Or. Perg. mit Majestätssiegel des Kaisers im H.-St.-A. Dr. 3680.)
+| colspan="2"; style="text-align:center;" | 1367, April 23.
+| style="vertical-align:top;"| 46.
+| Niclaus Schultheize, Rathsmeister, Jenik Dithrichsdorf, Peter Tetzner, Niclaus Sepper, Niclaus Cerdo, Hennik Gerlach, Hennik Siedel, Peter Centgraf, Peter Sporer, Andreas Birschroter, Johannes Lencgersdorf und Johannes Hugewicz, Rathsmannen und Geschworene der Stadt Kempnicz, ordnen mit Beirath der klügsten und ältesten Bürger, als Walther von Schonaw, Ulrich Gerscheler, Hencze Wykart, Niklaus Aldendorf, Cunrad Schilling, Cunzce Brüchloe, Heinrich Sieber, Andreas Gerwick und Niclaus Stieger, die Eintragung der Geschosse in die Stadtregister und das Erbrecht der Frauen.
+|
+| (Chemnitz), 1367, an dem fritage in den heiligen ostirtagen.
+|
+| Copie. (Or. Perg. mit dem grossen Stadtsiegel der burgenses in Kemniz im R.-A. Ch. 11.)
+| colspan="2"; style="text-align:center;" | 1367, Juni 3.
+| style="vertical-align:top;"| 47.
+| Hentzel von Pegaw und Nickel, Gebrüder, Bürger zu Kempnicz, verschreiben für sich und ihre Erben dem Pfarrer Nicklaus Lesnitz zu Rüdegisdorf, ihrem Oheim, 7 Schock breiter Groschen, an ihrem Theile auf der Bleiche zu Kempnitz jährlich zu erheben, so lange bis sie ihm einen eigenen oder bestätigten Zins zugewiesen für die Messe, die ihre Eltern mit ihrem Rathe gestiftet hätten, und geloben, nach wie vor für diesen Antheil an der Bleiche zu bauen und zu bessern nach der Anordnung des Bleichmeisters. Mit Zeugen.
+|
+| (Chemnitz), 1367, an dem 8. Tage nach unsers hern hymmel vart.
+|
+| Copie. (Orig. Perg. im H.-St.-A. Dr. 3862.)
+-->
+	</Page>
+</PcGts>

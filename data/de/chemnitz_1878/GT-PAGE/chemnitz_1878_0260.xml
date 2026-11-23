@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:33:34</Created>
+		<LastChange>2026-11-23T14:33:34</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/260 revision 4659093 of 2025-11-18T07:46:44Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0260.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro9444498780174415318" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="28" regionRef="r28" />
+				<RegionRefIndexed index="30" regionRef="r30" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="547,180 565,180 565,200 547,200" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="224,230 730,230 730,355 224,355" />
+			<!-- line left out: id="r1l0" points="224,235 234,235 239,239 248,230 258,230 261,236 271,236 306,238 309,230 314,230 316,236 349,231 354,231 376,231 384,235 405,235 415,231 428,231 471,231 492,231 495,237 499,237 519,241 522,232 526,232 563,239 593,239 608,239 608,241 606,241 598,247 571,247 563,241 526,247 499,247 471,247 428,247 413,247 401,245 384,244 376,247 354,247 349,247 306,245 271,245 234,245 224,245" baseline="224,245 608,240" reason: differs: "nehmen" against "Selbst" | Wikisource:  | next_nc_e1: nehmender Selbständigkeit d. Laier | german_print2_15: nehmender Selbständigkeit d- Laier -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="224,261 322,261 330,256 346,256 381,257 402,262 414,263 447,263 453,266 461,258 471,258 473,266 510,262 574,264 592,267 604,272 604,274 579,274 571,272 461,273 449,271 444,266 432,272 414,274 373,274 369,274 224,270" />
+				<Baseline points="224,271 604,269" />
+				<TextEquiv index="1">
+					<Unicode>wesens und bürgerlicher Gewerke,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="233,285 265,285 296,282 319,282 321,288 365,288 372,294 393,283 410,283 418,289 439,287 482,287 500,290 559,290 562,298 589,285 609,285 609,300 592,300 562,300 482,300 459,300 446,300 344,297 233,297" />
+				<Baseline points="233,296 609,299" />
+				<TextEquiv index="1">
+					<Unicode>freie Maurer) der Steinmetzen, jed</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l3" points="225,314 235,314 244,315 248,308 258,308 266,314 277,314 279,308 283,308 286,314 304,313 314,313 337,314 348,308 360,308 368,314 378,314 388,313 396,308 398,308 426,318 433,309 437,309 451,319 457,319 469,310 492,310 501,316 518,316 538,317 586,317 588,311 621,311 623,318 634,318 634,311 648,311 648,319 657,319 681,319 694,322 694,311 707,311 709,319 730,319 730,328 707,328 669,328 634,328 623,327 570,326 564,325 525,323 518,325 480,325 437,324 398,324 368,324 314,323 248,323 235,322 225,322" baseline="225,322 730,321" reason: models differ | Wikisource: wöhnlichen Zünfte des Maurer- und Zimmerhand | next_nc_e1: wöhnlichen Zünfte des Maurer- und Zimmerhand | german_print2_15: wöhnlichen Zänfte des Maurer- und Zimmerhand- -->
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="224,340 251,340 256,334 267,334 272,335 276,343 285,343 293,335 297,335 301,342 322,334 333,334 344,334 384,336 398,341 425,340 491,346 494,336 504,336 513,343 539,350 551,343 595,343 604,346 604,352 598,352 595,345 584,348 575,355 542,355 539,355 513,345 504,351 467,353 419,350 224,348" />
+				<Baseline points="224,348 604,348" />
+				<TextEquiv index="1">
+					<Unicode>verblieb die Ausübung der profane</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>wesens und bürgerlicher Gewerke,
+freie Maurer) der Steinmetzen, jed
+verblieb die Ausübung der profane</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="350,365 465,365 465,377 350,377" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="350,365 361,365 465,368 465,377 442,377 433,377 350,376" />
+				<Baseline points="350,376 465,377" />
+				<TextEquiv index="1">
+					<Unicode>der Steinm</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>der Steinm</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="443,388 476,388 476,403 443,403" />
+			<!-- line left out: id="r3l0" points="443,388 456,388 461,395 471,395 476,397 476,402 471,403 443,403" baseline="443,401 476,402" reason: differs: "Kire" against "etze" | Wikisource:  | next_nc_e1: Kire
+ | german_print2_15: Kire
+ -->
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="222,356 443,356 443,430 222,430" />
+		</GraphicRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="223,413 327,413 327,428 223,428" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="223,421 240,419 248,413 261,413 266,417 285,421 293,413 297,413 310,417 327,426 327,428 310,428 266,428 248,428 223,426" />
+				<Baseline points="223,426 327,428" />
+				<TextEquiv index="1">
+					<Unicode>erstreckte.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>erstreckte.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="411,232 914,232 914,457 411,457" />
+		</GraphicRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="224,439 469,439 469,456 224,456" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="224,439 228,439 231,445 241,445 244,439 261,439 263,448 275,443 303,445 355,443 402,452 408,447 469,445 469,451 448,456 408,456 224,454" />
+				<Baseline points="224,454 354,454 469,456" />
+				<TextEquiv index="1">
+					<Unicode>bildeten sich in allen S</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>bildeten sich in allen S</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="793,441 810,441 810,463 793,463" />
+		</GraphicRegion>
+		<GraphicRegion id="r9">
+			<Coords points="260,461 286,461 286,484 260,484" />
+		</GraphicRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="223,465 910,465 910,514 223,514" />
+			<!-- line left out: id="r10l0" points="223,471 227,471 242,469 252,469 292,472 310,474 313,465 322,465 330,474 337,474 346,480 358,475 370,472 389,467 403,467 425,472 439,475 448,467 452,467 454,474 471,473 480,473 505,476 509,468 518,468 527,474 565,474 588,474 594,477 609,483 618,476 630,476 650,476 721,474 731,474 737,475 840,477 855,478 855,486 817,486 743,484 694,483 630,485 609,485 592,483 585,478 581,484 562,484 527,483 480,482 452,482 448,482 425,481 403,482 389,482 352,481 346,481 322,480 292,480 223,480" baseline="223,480 306,480 528,482 855,486" reason: differs: "mitd" against "tädt" | Wikisource:  | next_nc_e1: mit der des germanischen oder sogen. goth en Stz mme | german_print2_15: mit der des germanischen oder sogen. goth en Sty mme -->
+			<!-- line left out: id="r10l1" points="225,491 234,491 240,497 244,497 258,495 261,495 341,495 343,501 355,498 387,493 396,493 417,493 428,496 438,493 440,493 485,494 487,502 490,502 527,499 560,499 597,499 607,508 629,502 679,501 683,501 716,496 732,496 754,501 760,505 782,497 797,497 895,498 898,508 910,508 910,509 901,513 895,514 867,514 828,512 782,510 758,509 750,504 746,511 683,511 679,511 597,510 583,510 580,503 567,507 555,510 543,510 539,501 530,510 527,510 490,507 485,508 417,508 404,508 396,506 370,507 355,507 341,506 244,506 225,506" baseline="225,506 387,506 527,507 796,510 910,513" reason: differs: "Erst" against "en. " | Wikisource:  | next_nc_e1: Erst mit dem Verfall des letzteren, um die Mitte des 1 ſahr-
+ | german_print2_15: Erst mit dem Verfall des letzteren, um die Mitte des Jahr-
+ -->
+		</TextRegion>
+		<GraphicRegion id="r11">
+			<Coords points="232,572 561,572 561,589 232,589" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="401,648 636,648 636,721 401,721" />
+		</GraphicRegion>
+		<GraphicRegion id="r13">
+			<Coords points="358,777 433,777 433,823 358,823" />
+		</GraphicRegion>
+		<GraphicRegion id="r14">
+			<Coords points="416,867 525,867 525,902 416,902" />
+		</GraphicRegion>
+		<GraphicRegion id="r15">
+			<Coords points="276,918 537,918 537,931 276,931" />
+		</GraphicRegion>
+		<GraphicRegion id="r16">
+			<Coords points="523,943 532,943 532,954 523,954" />
+		</GraphicRegion>
+		<GraphicRegion id="r17">
+			<Coords points="348,968 397,968 397,1013 348,1013" />
+		</GraphicRegion>
+		<GraphicRegion id="r18">
+			<Coords points="440,1021 459,1021 459,1035 440,1035" />
+		</GraphicRegion>
+		<GraphicRegion id="r19">
+			<Coords points="520,1077 549,1077 549,1090 520,1090" />
+		</GraphicRegion>
+		<GraphicRegion id="r20">
+			<Coords points="275,1099 293,1099 293,1115 275,1115" />
+		</GraphicRegion>
+		<GraphicRegion id="r21">
+			<Coords points="456,1121 597,1121 597,1175 456,1175" />
+		</GraphicRegion>
+		<GraphicRegion id="r22">
+			<Coords points="329,1177 338,1177 338,1188 329,1188" />
+		</GraphicRegion>
+		<GraphicRegion id="r23">
+			<Coords points="239,1204 656,1204 656,1218 239,1218" />
+		</GraphicRegion>
+		<GraphicRegion id="r24">
+			<Coords points="243,1229 363,1229 363,1246 243,1246" />
+		</GraphicRegion>
+		<GraphicRegion id="r25">
+			<Coords points="374,1256 582,1256 582,1280 374,1280" />
+		</GraphicRegion>
+		<GraphicRegion id="r26">
+			<Coords points="556,1289 579,1289 579,1300 556,1300" />
+		</GraphicRegion>
+		<GraphicRegion id="r27">
+			<Coords points="483,1308 524,1308 524,1326 483,1326" />
+		</GraphicRegion>
+		<TextRegion id="r28" custom="readingOrder {index:28;} orientation {0;}">
+			<Coords points="215,517 911,517 911,1377 215,1377" />
+			<!-- line left out: id="r28l0" points="224,522 234,522 253,523 255,517 272,517 290,517 299,522 310,526 317,531 339,518 343,518 347,526 350,526 368,527 372,518 376,518 393,523 462,525 466,533 494,525 509,525 551,525 694,524 703,524 706,532 714,524 740,524 765,524 802,533 809,524 867,524 873,533 876,533 910,534 910,539 899,539 867,538 765,538 759,538 744,538 541,539 509,539 495,539 469,536 453,536 437,536 434,536 393,533 376,534 372,534 356,533 353,533 343,532 317,534 314,534 299,533 290,534 272,534 234,533 224,533" baseline="224,532 468,534 694,536 852,538 910,539" reason: differs: "hund" against ". Ja" | Wikisource:  | next_nc_e1: hunderts, bildete sich, hauptsä Anregung des Werk- | german_print2_15: hunderts, bildete sich, hauptsä Anregung des Werk- -->
+			<!-- line left out: id="r28l1" points="223,550 234,550 270,549 274,549 293,550 345,550 371,549 375,549 430,550 451,552 474,550 489,550 502,552 516,553 558,550 569,547 573,547 576,553 596,552 600,547 613,547 615,561 639,548 697,548 724,548 755,548 755,558 769,557 772,548 784,548 789,562 836,559 844,559 870,550 879,550 886,559 887,559 887,562 879,564 844,565 836,565 764,564 724,564 712,564 697,563 618,563 600,563 596,554 586,562 516,562 508,562 492,561 438,560 421,562 414,562 389,554 375,560 371,560 293,559 274,559 240,559 223,559" baseline="223,559 329,559 558,561 647,562 887,565" reason: differs: "meis" against "s We" | Wikisource:  | next_nc_e1: meisters an der Strassburger Hütte, ]e Dotzinger, e V. | german_print2_15: meisters an der Strassburger flütte, Je Dotzinger, ne Ve -->
+			<!-- line left out: id="r28l2" points="273,576 295,576 305,577 331,580 335,571 344,571 353,577 356,577 384,580 388,571 392,571 406,577 412,576 423,576 456,578 456,571 469,571 470,578 479,578 686,580 710,581 759,586 832,585 843,582 890,582 911,587 911,591 890,591 776,591 756,591 714,589 584,585 479,587 423,587 412,587 356,586 353,586 295,585 273,585" baseline="273,586 381,586 832,588 911,589" reason: differs: "ungd" against "rein" | Wikisource:  | next_nc_e1: ung der deutschen er nem „gan emeinen | german_print2_15: ung -der deutschen en 1 nem „gan emeinen -->
+			<!-- line left out: id="r28l3" points="225,597 251,597 254,603 264,603 266,597 277,597 279,603 290,603 312,603 326,604 351,606 355,597 363,597 417,602 443,604 462,605 483,605 495,609 495,602 497,602 545,605 681,605 691,607 700,605 715,605 749,605 778,611 784,607 786,607 831,607 855,607 881,608 881,617 880,617 868,614 852,610 850,617 815,617 784,610 781,616 715,616 700,616 691,615 681,616 656,616 647,610 600,614 563,614 497,614 492,614 479,613 462,612 449,613 417,613 413,613 363,612 326,612 308,612 290,611 264,612 235,612 225,611" baseline="225,611 400,612 599,614 881,617" reason: differs: "Hand" against "eine" | Wikisource:  | next_nc_e1: Handwerk de Steinwerks und de Steinmetzen in deutsch | german_print2_15: Handwerk de Steinwerks und de Steinmetzen in deutsch -->
+			<!-- line left out: id="r28l4" points="225,623 229,623 244,629 261,629 263,623 274,623 276,631 287,629 300,628 311,628 347,623 351,623 356,632 388,630 472,630 523,631 533,637 539,635 544,635 570,631 642,631 699,632 708,633 729,632 775,627 779,627 783,636 804,636 806,628 817,628 820,638 831,634 845,633 849,633 900,635 910,636 910,643 873,643 849,643 817,643 806,643 779,642 708,642 687,642 681,641 642,634 633,636 573,640 536,640 485,641 481,641 468,640 388,639 347,638 313,631 311,638 274,638 229,638 225,638" baseline="225,637 484,639 896,643 910,644" reason: differs: "Land" against "sche" | Wikisource:  | next_nc_e1: Landen.“ Es kam 19 süd- und mit leutsche Bauhütten im | german_print2_15: Landen.“ Es kam 19 süd- und mit leutsche Bauhütten im -->
+			<!-- line left out: id="r28l5" points="225,649 236,649 255,654 258,662 266,657 291,654 295,654 303,662 308,654 321,654 327,661 330,661 349,663 356,656 365,656 378,665 643,660 680,660 709,660 789,654 792,654 800,661 802,661 856,659 858,659 897,661 897,669 883,669 856,668 842,666 709,665 645,667 321,669 303,669 262,664 236,666 225,666" baseline="225,664 345,664 897,665" reason: differs: "Jahr" against "en i" | Wikisource:  | next_nc_e1: Jahre 1459 zu Reg id schr la st ihr | german_print2_15: Jahre 1459 zu Reg id schr la ost ihr -->
+			<!-- line left out: id="r28l6" points="223,683 235,681 254,681 278,681 301,680 305,680 324,682 355,680 359,680 389,680 747,679 751,679 774,688 798,685 801,685 814,687 845,685 876,685 876,693 871,695 801,695 774,695 747,693 389,690 329,691 320,691 278,690 254,690 235,690 223,689" baseline="223,689 876,691" reason: differs: "erne" against "ihre" | Wikisource:  | next_nc_e1: erneuerten Gese Man ernannte | german_print2_15: erneuerten Gese 1 4 Man ernannte -->
+			<!-- line left out: id="r28l7" points="224,702 238,702 247,708 260,707 279,706 283,706 316,706 326,702 340,702 340,708 366,707 375,706 392,706 700,706 705,715 715,706 738,706 776,711 814,711 844,712 844,706 867,706 897,706 904,713 905,713 905,717 897,721 818,721 776,721 715,721 700,720 619,720 381,718 381,712 375,712 370,718 340,722 326,722 287,717 279,709 271,722 260,722 258,716 238,717 234,717 224,716" baseline="224,716 366,717 905,721" reason: differs: "Haup" against "nte " | Wikisource:  | next_nc_e1: Haupthütten (Str n Bern, später Zürich) | german_print2_15: Haupthütten (Str nr Bern, später Zürich) -->
+			<!-- line left out: id="r28l8" points="223,760 246,760 249,766 252,766 269,763 281,760 303,755 317,755 326,761 353,760 362,760 373,766 379,760 404,760 418,769 437,764 448,764 462,763 481,762 485,762 516,756 520,756 520,763 545,763 545,756 559,756 559,763 567,763 573,764 579,756 611,756 611,766 709,761 725,761 846,768 862,768 867,769 877,771 877,774 862,774 850,774 619,772 545,772 545,766 523,770 518,770 516,762 490,771 488,771 473,768 448,771 418,771 404,770 350,775 339,775 336,769 317,770 266,771 257,771 236,769 223,768" baseline="223,769 303,769 877,770" reason: differs: "burg" against "Stra" | Wikisource:  | next_nc_e1: burger Haupthütte, deren Werkmeiste 0 nöcl | german_print2_15: burger Haupthütte, deren Werkmeiste 4 0 nöc -->
+			<!-- line left out: id="r28l9" points="224,786 228,786 243,787 254,785 258,785 284,786 286,794 313,787 323,787 454,786 464,786 490,793 566,793 643,799 649,799 650,793 662,793 679,793 750,791 751,791 751,794 721,799 669,799 662,800 643,800 499,798 490,798 464,792 454,792 366,790 362,796 323,796 243,796 233,796 224,795" baseline="224,795 368,796 678,798 751,799" reason: differs: "Inst" against "chst" | Wikisource:  | next_nc_e1: Instanz ir str 8 h ( gehe 1 1 | german_print2_15:  -->
+			<!-- line left out: id="r28l10" points="223,810 234,807 244,807 266,811 316,813 337,811 348,811 463,813 502,813 526,813 562,809 565,809 570,818 573,818 592,820 650,810 663,810 739,816 748,816 815,819 837,811 857,811 857,826 848,826 592,824 580,824 565,823 538,824 526,824 475,824 472,818 463,824 437,824 361,823 322,822 266,822 223,822" baseline="223,822 369,822 662,823 795,824 857,825" reason: differs: "Hütt" against "e di" | Wikisource:  | next_nc_e1: Hütten in Sch Franken, Bay H 8 en, Me | german_print2_15:  -->
+			<!-- line left out: id="r28l11" points="222,839 249,839 252,833 286,833 294,839 298,839 337,839 337,833 351,833 376,833 386,833 436,838 443,844 492,843 559,841 661,838 665,832 677,832 680,841 691,841 841,843 881,843 881,846 880,846 877,852 829,852 823,848 680,843 677,860 665,860 664,846 601,847 565,847 559,844 508,850 492,850 417,847 386,851 376,851 337,851 222,848" baseline="222,848 385,848 881,852" reason: differs: "undT" against "isse" | Wikisource:  | next_nc_e1: und Thüringen. Sov die nzeln lütt natlicl | german_print2_15: und Thüringen. Sov die nzeln lütt natlich -->
+			<!-- line left out: id="r28l12" points="221,869 227,866 237,866 240,859 288,859 288,865 309,865 314,859 325,859 345,859 368,859 368,866 389,865 398,865 444,865 459,866 645,872 653,871 666,871 670,877 676,877 681,871 684,871 866,870 876,870 898,870 904,872 904,875 898,878 676,878 653,878 645,877 331,875 325,874 302,875 284,875 221,874" baseline="221,874 284,874 683,876 904,878" reason: differs: "undj" against "iche" | Wikisource:  | next_nc_e1: und jährlichen Zusamm unge 1 umer | german_print2_15: und jährlichen Zusamm 1 unge 1 amer -->
+			<!-- line left out: id="r28l13" points="226,897 232,891 243,891 256,890 265,890 287,895 290,885 301,885 303,894 333,891 351,891 359,895 372,892 382,892 404,891 420,891 453,899 464,887 467,887 608,897 792,896 829,896 829,900 823,904 792,904 420,903 351,903 333,903 301,901 290,901 265,900 226,900" baseline="226,900 333,900 829,901" reason: differs: "auch" against "kame" | Wikisource:  | next_nc_e1: auch die gesammten II 5 imer | german_print2_15: auch die gesammten II § umer i -->
+			<!-- line left out: id="r28l14" points="220,924 230,918 254,915 266,915 297,915 298,923 311,918 314,918 319,925 339,913 374,913 374,920 381,920 405,922 405,913 420,913 430,919 434,919 454,920 457,927 476,918 499,918 549,926 568,926 575,929 657,919 670,918 672,918 774,925 777,925 787,928 787,931 786,931 712,930 704,930 672,924 661,927 575,930 556,930 549,929 483,928 454,930 437,930 430,923 420,930 405,930 393,928 374,930 349,930 322,928 319,928 311,927 298,925 297,933 268,933 266,926 224,927 220,927" baseline="220,926 238,926 549,928 671,929 787,930" reason: differs: "zuSp" against "meis" | Wikisource:  | next_nc_e1: zu Speier, Regensburg, Str urg O. zu er | german_print2_15: zu Speier, Regensburg, Str urg O. zu er r -->
+			<!-- line left out: id="r28l15" points="220,944 236,944 286,945 320,945 331,947 344,950 349,944 368,944 377,946 398,951 401,945 444,944 457,943 466,943 494,943 518,943 534,949 546,946 597,946 762,954 795,947 798,947 837,947 897,953 906,952 909,952 909,953 900,957 810,957 801,956 795,950 764,957 762,957 519,955 494,955 471,955 448,952 416,955 401,955 331,954 322,954 296,953 255,953 220,953" baseline="220,953 270,953 795,956 909,957" reason: differs: "unde" against "irte" | Wikisource:  | next_nc_e1: und erneuerten ihre Ordnungen un m Reich r- | german_print2_15: und erneuerten ihre Ordnungen une 88 m Reich r- -->
+			<TextLine id="r28l16" custom="readingOrder {index:16;}">
+				<Coords points="221,971 230,969 245,969 299,969 340,969 347,970 347,980 299,980 269,985 245,985 230,985 230,979 221,979" />
+				<Baseline points="221,979 347,980" />
+				<TextEquiv index="1">
+					<Unicode>haupt bestät</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r28l17" points="273,991 281,991 290,997 308,996 319,996 331,997 424,998 480,998 534,1003 634,1003 634,1008 626,1008 431,1007 281,1007 273,1007" baseline="273,1006 347,1006 541,1007 634,1008" reason: differs: "Unab" against "igen" | Wikisource:  | next_nc_e1: Unabhä hiervor ild d | german_print2_15:  -->
+			<!-- line left out: id="r28l18" points="221,1018 231,1017 242,1017 263,1022 310,1023 336,1024 350,1018 361,1017 379,1017 381,1024 390,1024 400,1023 422,1023 485,1022 488,1022 521,1022 525,1023 538,1022 551,1022 555,1028 563,1022 590,1022 590,1030 593,1030 606,1032 719,1026 721,1026 757,1032 845,1021 859,1021 869,1030 872,1030 882,1035 882,1036 877,1036 757,1035 719,1029 606,1035 590,1035 551,1035 521,1035 495,1035 488,1028 440,1033 390,1035 381,1035 336,1033 328,1033 310,1031 288,1032 263,1032 221,1032" baseline="221,1032 350,1032 485,1033 845,1035 882,1036" reason: differs: "Hütt" against "sche" | Wikisource:  | next_nc_e1: Hütten von Magdebu IIalberstadt, m u org | german_print2_15: Hütten von Magdebu Hlalberstadt, 1 m u Porg -->
+			<!-- line left out: id="r28l19" points="220,1048 225,1048 259,1048 300,1050 339,1048 343,1048 351,1054 363,1053 383,1050 394,1050 395,1044 407,1044 408,1053 421,1050 425,1050 453,1049 466,1047 489,1047 512,1047 522,1051 532,1047 534,1047 572,1057 592,1057 599,1059 747,1049 770,1049 791,1049 844,1056 847,1056 866,1059 866,1053 888,1053 888,1061 862,1061 844,1059 795,1055 791,1063 753,1063 512,1061 489,1061 475,1061 425,1060 421,1060 407,1059 383,1059 354,1057 312,1058 294,1059 259,1059 252,1059 239,1057 237,1063 232,1063 220,1058" baseline="220,1058 258,1058 888,1061" reason: differs: "1462" against "orga" | Wikisource:  | next_nc_e1: 1462 eine besondere Ordnung, die, Allger enen | german_print2_15: 1462 eine besondere Ordnung, die, Algen en m -->
+			<!-- line left out: id="r28l20" points="219,1079 226,1070 235,1070 244,1076 264,1073 276,1073 303,1077 314,1078 325,1075 329,1075 355,1076 368,1078 384,1077 418,1075 444,1075 465,1075 494,1076 499,1082 502,1082 514,1083 554,1077 575,1077 778,1083 784,1079 804,1079 824,1079 864,1076 902,1076 905,1083 908,1083 908,1084 902,1087 843,1087 804,1087 778,1087 514,1086 415,1086 387,1086 368,1087 359,1087 303,1085 286,1085 247,1084 219,1084" baseline="219,1084 264,1084 908,1087" reason: differs: "derS" against "n mi" | Wikisource:  | next_nc_e1: der Strassburger übereinstin nd tzlicher Voll- | german_print2_15: der Strassburger übereinstim nd- . tzlicher Voll- -->
+			<!-- line left out: id="r28l21" points="218,1107 228,1102 234,1096 251,1096 253,1102 273,1102 273,1096 275,1096 312,1103 322,1103 332,1101 346,1101 366,1102 380,1101 391,1101 434,1097 438,1097 455,1099 457,1106 484,1101 497,1099 506,1097 528,1097 537,1107 541,1107 559,1109 759,1110 780,1099 785,1099 793,1105 797,1099 811,1099 817,1111 818,1111 818,1114 569,1114 561,1114 528,1113 522,1114 506,1114 501,1107 489,1110 455,1112 402,1113 376,1113 346,1113 322,1113 312,1113 270,1111 218,1111" baseline="218,1111 274,1110 818,1114" reason: differs: "zieh" against "r Vo" | Wikisource:  | next_nc_e1: ziehung gelangte. Die Ordnung 3 Phei | german_print2_15: ziehung gelangte. Die Ordnung  Fhei 1 -->
+			<!-- line left out: id="r28l22" points="218,1128 231,1127 244,1126 247,1126 300,1128 359,1128 426,1128 834,1125 846,1125 846,1140 834,1140 426,1139 412,1139 405,1132 398,1134 393,1135 359,1139 342,1139 300,1137 247,1137 218,1137" baseline="218,1137 435,1135 834,1131 846,1131" reason: differs: "mite" against "jede" | Wikisource:  | next_nc_e1: mit einer grösseren I | german_print2_15: mit einer grösseren AI . -->
+			<!-- line left out: id="r28l23" points="218,1188 230,1183 242,1181 253,1181 274,1181 285,1178 296,1178 342,1180 353,1180 406,1176 433,1175 438,1175 467,1175 474,1184 492,1182 529,1181 540,1181 588,1181 638,1188 680,1186 730,1182 769,1182 769,1189 788,1186 805,1184 808,1184 857,1187 892,1184 893,1184 893,1187 865,1192 834,1192 830,1192 805,1186 785,1192 730,1192 556,1191 467,1191 438,1191 381,1191 353,1190 342,1190 274,1190 265,1190 253,1189 227,1191 218,1191" baseline="218,1191 312,1190 361,1190 640,1191 864,1192 893,1193" reason: differs: "gewo" against "olir" | Wikisource:  | next_nc_e1: geworden ist) und Diener oder G en und beziehen sich ar | german_print2_15: geworden ist) und Diener oder G en und bezichen sich ar -->
+			<TextLine id="r28l24" custom="readingOrder {index:24;}">
+				<Coords points="217,1201 228,1201 272,1201 286,1202 294,1210 305,1201 310,1201 334,1205 353,1201 375,1201 375,1208 382,1208 396,1215 436,1208 447,1208 450,1214 474,1207 499,1208 503,1214 523,1211 525,1207 571,1208 620,1202 631,1216 640,1216 647,1202 673,1202 673,1209 717,1214 748,1204 773,1204 776,1213 784,1204 798,1204 798,1213 809,1204 835,1204 841,1211 844,1211 847,1218 854,1218 907,1207 907,1210 854,1219 708,1218 673,1212 673,1218 481,1217 382,1219 375,1222 363,1222 363,1216 352,1217 340,1222 336,1222 334,1216 217,1216" />
+				<Baseline points="217,1216 907,1219" />
+				<TextEquiv index="1">
+					<Unicode>die Rechtspflege, auf Strafen und Bussen für Unordnung und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r28l25" points="218,1227 228,1226 238,1226 241,1234 264,1234 280,1233 319,1233 335,1239 380,1237 387,1233 425,1228 430,1228 434,1236 443,1236 451,1229 456,1229 458,1235 462,1235 475,1234 486,1234 487,1228 499,1228 505,1233 509,1242 534,1235 540,1234 554,1232 575,1228 587,1228 631,1242 637,1238 649,1235 652,1235 701,1241 714,1235 738,1230 769,1230 804,1230 804,1242 819,1230 836,1230 837,1244 844,1244 849,1238 852,1238 899,1238 899,1245 844,1245 836,1246 822,1246 819,1232 805,1246 769,1246 738,1246 714,1238 705,1244 701,1244 649,1237 635,1244 631,1244 575,1243 554,1235 551,1244 512,1244 487,1244 468,1243 462,1244 451,1244 319,1243 304,1243 280,1242 238,1241 218,1241" baseline="218,1241 738,1244 899,1245" reason: differs: "ufKkeri" against "f Krank" | Wikisource:  | next_nc_e1: Vergehen, auf die Lehrzeit, auf K ker id Armenpflege, au | german_print2_15: Vergehen, auf die Lehrzeit, auf K er id Armenpflege, au -->
+			<!-- line left out: id="r28l26" points="217,1253 233,1253 252,1257 280,1258 293,1259 293,1253 307,1253 315,1259 332,1259 349,1260 420,1260 457,1259 461,1259 500,1259 519,1259 663,1264 745,1256 758,1256 852,1267 857,1261 865,1261 865,1270 540,1270 519,1270 500,1270 443,1270 420,1270 349,1271 340,1271 332,1270 307,1271 293,1271 261,1269 227,1269 217,1269" baseline="217,1269 662,1270 852,1271 865,1272" reason: differs: "Unte" against ", au" | Wikisource:  | next_nc_e1: Unterhaltung eigenen Gottesdi S. D ur | german_print2_15: Unterhaltung eigenen Gottesdi- 8. w DB ur -->
+			<!-- line left out: id="r28l27" points="217,1285 240,1285 240,1279 265,1279 267,1288 296,1286 318,1286 332,1285 362,1281 367,1281 372,1288 393,1286 400,1285 404,1285 418,1281 432,1281 449,1281 475,1281 477,1290 510,1285 518,1285 589,1285 632,1284 653,1284 668,1291 674,1291 906,1292 906,1293 897,1297 894,1297 653,1296 589,1296 548,1296 516,1296 475,1296 397,1296 367,1296 362,1296 318,1295 265,1295 232,1295 217,1293" baseline="217,1294 269,1294 510,1295 673,1296 906,1298" reason: differs: "wurd" against "unge" | Wikisource:  | next_nc_e1: wurde nach vollbrachter (S5jähriger) Diens r- | german_print2_15: wurde nach vollbrachter (Sjähriger) Diens- . 1 r- -->
+			<!-- line left out: id="r28l28" points="217,1315 223,1311 236,1310 246,1310 252,1312 266,1311 276,1311 277,1319 302,1314 309,1306 326,1306 327,1314 332,1314 358,1315 361,1306 372,1306 380,1312 404,1310 416,1307 426,1307 429,1314 433,1314 528,1313 538,1313 564,1312 568,1312 601,1313 656,1313 714,1315 720,1320 747,1314 752,1314 828,1310 846,1310 857,1315 857,1318 846,1319 782,1322 752,1322 720,1323 707,1323 651,1323 601,1322 577,1322 571,1320 564,1314 538,1322 528,1322 426,1321 382,1321 326,1321 281,1322 277,1322 252,1321 248,1321 223,1320 217,1319" baseline="217,1320 564,1321 857,1322" reason: differs: "lieh" against "en v" | Wikisource:  | next_nc_e1: liehen, das der Gese an führen und auf sein Arb | german_print2_15: lichen, das der Gese an führen und auf sein Arb. -->
+			<TextLine id="r28l29" custom="readingOrder {index:29;}">
+				<Coords points="215,1337 279,1337 281,1345 305,1337 315,1337 334,1342 337,1336 370,1336 378,1337 393,1345 430,1333 443,1333 445,1343 467,1344 488,1337 574,1340 611,1339 636,1345 647,1339 699,1338 702,1347 722,1340 722,1349 611,1349 591,1351 582,1351 536,1349 514,1351 501,1351 500,1344 462,1348 291,1349 215,1345" />
+				<Baseline points="215,1346 722,1349" />
+				<TextEquiv index="1">
+					<Unicode>anbringen durfte. (Eine Sammlung solcher Stei</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r28l30" points="216,1356 221,1356 237,1359 241,1369 262,1357 267,1357 280,1358 281,1364 295,1364 325,1363 344,1363 360,1363 413,1363 430,1365 449,1359 472,1359 477,1365 486,1364 491,1364 494,1372 502,1367 520,1366 524,1366 534,1359 560,1359 592,1364 604,1364 635,1369 641,1370 653,1372 703,1365 707,1365 749,1365 790,1365 793,1372 804,1365 817,1365 850,1372 858,1372 858,1375 817,1377 783,1377 724,1377 653,1375 560,1375 526,1375 520,1369 511,1375 458,1375 360,1374 328,1374 325,1374 295,1373 281,1373 227,1372 216,1371" baseline="216,1371 559,1375 858,1375" reason: differs: "Dr.B" against "nmet" | Wikisource:  | next_nc_e1: Dr. Back theilte der Vortragende bei die Gelegenheit mi
+ | german_print2_15: Dr. Back theilte der Vortragende bei die Gelegenheit mi
+ -->
+			<TextEquiv index="1">
+				<Unicode>haupt bestät
+die Rechtspflege, auf Strafen und Bussen für Unordnung und
+anbringen durfte. (Eine Sammlung solcher Stei</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r29">
+			<Coords points="534,1362 689,1362 689,1379 534,1379" />
+		</GraphicRegion>
+		<TextRegion id="r30" custom="readingOrder {index:30;} orientation {0;}">
+			<Coords points="394,1540 658,1540 658,1568 394,1568" />
+			<!-- line left out: id="r30l0" points="394,1549 402,1549 408,1550 422,1549 434,1549 443,1549 456,1549 469,1549 494,1549 533,1549 533,1540 547,1540 551,1552 570,1549 578,1549 616,1549 638,1549 658,1550 658,1558 616,1560 578,1560 566,1560 551,1560 547,1568 533,1568 533,1558 452,1561 443,1561 426,1561 414,1560 407,1560 394,1558" baseline="394,1558 658,1558" reason: differs: "hnpd" against "eit " | Wikisource:  | next_nc_e1: hnp digital slub-dresden de ppn301258842280
+ | german_print2_15: p digital sub dresden de ppn01239642260
+ -->
+		</TextRegion>
+		<GraphicRegion id="r31">
+			<Coords points="947,0 979,0 979,1585 947,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Selbständigkeit der Laien, mit Aufblühen des
+Städtewesens und bürgerlicher Gewerke, bald freie Bruderschaften
+(freie Maurer) der Steinmetzen, jedoch mit Ausschluss der
+gewöhnlichen Zünfte des Maurer- und Zimmerhandwerks. Letzteren
+verblieb die Ausübung der profanen Bautechnik, während die
+Thätigkeit der Steinmetzen mehr eine künstlerische war und
+sich besonders auf Kirchen und dergleichen Monumentalbauten
+erstreckte. – Solche Bauhütten und Steinmetzbruderschaften
+bildeten sich in allen Städten Deutschlands, und ihre Blüthe fällt
+mit der des germanischen oder sogen. gothischen Styls zusammen. –
+Erst mit dem Verfall des letzteren, um die Mitte des 15.
+Jahrhunderts, bildete sich, hauptsächlich auf Anregung des
+Werkmeisters an der Strassburger Hütte, Jost Dotzinger, eine
+Vereinigung der deutschen Bauhütten zu einem „ganz gemeinen
+Handwerk des Steinwerks und der Steinmetzen in deutschen
+Landen.“ Es kamen 19 süd- und mitteldeutsche Bauhütten im
+Jahre 1459 zu Regensburg zusammen und schrieben daselbst ihre
+erneuerten Gesetze als Ordnungen nieder. Man ernannte 4
+Haupthütten (Strassburg, Köln, Wien und Bern, später Zürich),
+deren jeder ein grösseres Gebiet zugetheilt wurde. Zur
+Strassburger Haupthütte, deren Werkmeister oder Oberen die höchste
+Instanz in streitigen Sachen bildeten, gehörten insbesondere die
+Hütten in Schwaben, Franken, Bayern, Hessen, Sachsen, Meissen
+und Thüringen. Sowie die einzelnen Hütten ihre monatlichen
+und jährlichen Zusammenkünfte (Berufungen) hatten, so kamen
+auch die gesammten Hütten in grösseren Zwischenräumen, meist
+zu Speier, Regensburg, Strassburg u. a. O. zusammen, revidirten
+und erneuerten ihre Ordnungen und liessen sie vom
+Reichsoberhaupt bestätigen.
+Unabhängig hiervon bildeten jedoch die niedersächsischen
+Hütten von Magdeburg, Halberstadt, Hildesheim u. a. zu Torgau
+1462 eine besondere Ordnung, die, obwohl im Allgemeinen mit
+der Strassburger übereinstimmend, doch nie zu gesetzlicher
+Vollziehung gelangte. Die Ordnungen zerfallen in 3 Theile, jeder
+mit einer grösseren Anzahl Artikel, nämlich für die Meister,
+Parlierer (Vorsprecher, woraus später das unverständliche „Polir“
+geworden ist) und Diener oder Gesellen und beziehen sich auf
+die Rechtspflege, auf Strafen und Bussen für Unordnung und
+Vergehen, auf die Lehrzeit, auf Kranken- und Armenpflege, auf
+Unterhaltung eigenen Gottesdienstes u. s. w. Den Lehrjungen
+wurde nach vollbrachter (5jähriger) Dienstzeit ein Zeichen
+verliehen, das der Gesell fortan führen und auf seinen Arbeiten
+anbringen durfte. (Eine Sammlung solcher Steinmetzzeichen von
+Dr. Back theilte der Vortragende bei dieser Gelegenheit mit).
+-->
+	</Page>
+</PcGts>

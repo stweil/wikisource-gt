@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:46:08</Created>
+		<LastChange>2026-11-23T13:46:08</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/31 revision 4939822 of 2026-07-08T06:56:14Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0031.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro2309716056024358284" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="365,1081 455,1081 455,1091 365,1091" />
+			<!-- line left out: id="r0l0" points="365,1082 381,1081 393,1081 435,1082 455,1083 455,1091 365,1091" baseline="365,1091 455,1091" reason: differs: "nmlu" against "der " | Wikisource:  | next_nc_e1: nmlung
+ | german_print2_15: nmlung
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="671,210 807,210 807,435 671,435" />
+			<!-- line left out: id="r1l0" points="677,211 687,211 689,217 699,217 717,220 735,210 749,210 753,219 761,219 763,210 773,210 786,214 803,216 803,224 786,225 749,226 735,226 709,224 699,226 677,226" baseline="677,226 803,224" reason: differs: "dass" against "ssen" | Wikisource:  | next_nc_e1: dass Richter | german_print2_15: dass Richter -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="695,237 706,237 713,243 726,243 741,237 746,237 749,243 798,240 807,245 807,249 798,251 779,252 766,252 726,252 695,252" />
+				<Baseline points="695,252 807,251" />
+				<TextEquiv index="1">
+					<Unicode>das bereits</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="672,263 686,263 689,272 700,268 708,267 727,269 772,268 789,270 797,262 805,262 805,277 727,279 686,279 672,279" />
+				<Baseline points="672,279 805,277" />
+				<TextEquiv index="1">
+					<Unicode>Kettner noch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="671,304 678,304 678,295 701,295 709,298 723,288 741,288 747,295 776,296 780,288 789,288 797,295 805,295 805,304 701,304 691,306 671,306" />
+				<Baseline points="671,304 805,303" />
+				<TextEquiv index="1">
+					<Unicode>gius Agricola,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l4" points="775,340 780,340 794,344 794,355 780,356 775,356" baseline="775,356 794,355" reason: models differ | Wikisource: di | next_nc_e1: Di
+ | german_print2_15: Di⸗
+ -->
+			<!-- line left out: id="r1l5" points="674,372 677,372 704,376 713,373 723,373 738,372 742,372 765,373 797,372 798,372 798,381 789,382 769,382 762,376 742,382 736,383 707,383 677,382 674,382" baseline="674,383 798,381" reason: differs: "dsinkt" against "ese be" | Wikisource:  | next_nc_e1: d sinkt nacl | german_print2_15: d sinkt nact -->
+			<!-- line left out: id="r1l6" points="696,400 710,398 721,398 728,401 730,407 763,393 768,393 783,395 805,399 805,408 768,408 733,409 721,409 696,409" baseline="696,409 763,408 805,408" reason: differs: "rab.De" against "nach d" | Wikisource:  | next_nc_e1: rab. Dem
+ | german_print2_15: rab. Dem
+ -->
+			<!-- line left out: id="r1l7" points="684,428 696,426 707,426 753,426 773,419 784,419 785,427 805,427 805,434 784,434 753,435 696,435 684,434" baseline="684,435 773,434 805,434" reason: differs: "chei" against "Krie" | Wikisource:  | next_nc_e1: che in den
+ | german_print2_15: che in den
+ -->
+			<TextEquiv index="1">
+				<Unicode>das bereits
+Kettner noch
+gius Agricola,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="682,446 805,446 805,463 682,463" />
+			<!-- line left out: id="r2l0" points="682,446 686,446 694,453 702,451 712,451 718,452 723,446 725,446 762,452 766,452 798,451 805,451 805,460 772,461 725,463 718,463 686,463 682,463" baseline="682,463 724,461 805,460" reason: differs: "Jahr" against "n de" | Wikisource:  | next_nc_e1: Jahren nach
+ | german_print2_15: Jahren nach
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="671,501 805,501 805,565 671,565" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="680,503 742,501 745,501 763,503 778,501 799,501 805,503 805,513 778,513 745,513 687,513 680,513" />
+				<Baseline points="680,512 805,513" />
+				<TextEquiv index="1">
+					<Unicode>zahl wieder,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l1" points="671,531 683,530 691,528 704,528 724,530 744,528 748,528 775,530 787,529 796,529 805,533 805,535 796,538 775,538 748,539 724,539 683,539 671,533" baseline="671,539 747,538 805,538" reason: models differ | Wikisource: lichkeit vor | next_nc_e1: lichkeit vor- | german_print2_15: plichkeit vor- -->
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="734,554 745,554 757,558 765,550 776,550 777,559 792,556 805,560 805,565 789,565 747,564 734,560" />
+				<Baseline points="734,564 805,565" />
+				<TextEquiv index="1">
+					<Unicode>Sieben-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>zahl wieder,
+Sieben-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="571,581 703,581 703,592 571,592" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="571,582 602,581 612,581 703,585 703,591 664,592 656,592 589,591 581,587 571,586" />
+				<Baseline points="571,591 703,591" />
+				<TextEquiv index="1">
+					<Unicode>rzuheben, sei</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>rzuheben, sei</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="653,759 808,759 808,879 653,879" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="723,759 752,759 752,766 781,765 794,766 807,770 807,775 723,775" />
+				<Baseline points="723,775 807,775" />
+				<TextEquiv index="1">
+					<Unicode>Kommu-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="653,785 664,785 666,791 671,791 696,799 706,799 710,786 735,790 765,790 775,786 787,786 795,794 795,800 787,801 735,801 706,801 696,801 653,800" />
+				<Baseline points="653,799 795,800" />
+				<TextEquiv index="1">
+					<Unicode>die „Infection</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l2" points="681,818 685,818 712,815 722,815 768,815 805,815 805,829 792,829 756,827 748,827 722,826 698,827 694,827 681,820" baseline="681,827 748,827 792,828 805,829" reason: differs: "inah" against "“ he" | Wikisource:  | next_nc_e1: inahe 288 , | german_print2_15: inahe 288 % -->
+			<TextLine id="r5l3" custom="readingOrder {index:3;}">
+				<Coords points="739,844 771,844 781,838 786,838 788,846 808,844 808,853 786,853 754,853 739,852" />
+				<Baseline points="739,851 808,853" />
+				<TextEquiv index="1">
+					<Unicode>wurden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l4" custom="readingOrder {index:4;}">
+				<Coords points="662,870 684,871 723,868 736,868 755,868 807,874 807,875 798,879 755,879 736,879 698,879 672,879 662,879" />
+				<Baseline points="662,879 807,879" />
+				<TextEquiv index="1">
+					<Unicode>nach stets er-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Kommu-
+die „Infection
+wurden
+nach stets er-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="719,916 807,916 807,931 719,931" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="719,916 723,916 733,923 739,917 749,917 807,926 807,927 801,931 760,931 739,931 719,930" />
+				<Baseline points="719,930 807,931" />
+				<TextEquiv index="1">
+					<Unicode>Johannis-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Johannis-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="732,942 806,942 806,983 732,983" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="732,948 744,948 748,955 767,948 777,948 779,942 784,942 787,949 806,948 806,956 751,958 748,958 732,956" />
+				<Baseline points="732,957 806,956" />
+				<TextEquiv index="1">
+					<Unicode>ar, über</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l1" custom="readingOrder {index:1;}">
+				<Coords points="738,974 766,974 781,968 792,968 795,974 803,974 803,983 784,983 738,983" />
+				<Baseline points="738,982 803,981" />
+				<TextEquiv index="1">
+					<Unicode>um die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ar, über
+um die</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="477,1077 722,1077 722,1092 477,1092" />
+			<!-- line left out: id="r8l0" points="477,1085 493,1081 529,1077 534,1077 577,1077 609,1081 630,1077 687,1077 722,1077 722,1092 687,1092 632,1092 512,1092 493,1092 477,1091" baseline="477,1091 670,1091 722,1092" reason: differs: "amII" against "⟦⟧ P" | Wikisource:  | next_nc_e1: am II. Januar 1881.
+ | german_print2_15: am II. Januar 1881.
+ -->
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="643,1117 809,1117 809,1138 643,1138" />
+			<TextLine id="r9l0" custom="readingOrder {index:0;}">
+				<Coords points="643,1128 657,1123 680,1123 698,1130 714,1117 728,1117 738,1124 796,1124 809,1129 809,1132 755,1132 753,1138 748,1138 743,1132 643,1131" />
+				<Baseline points="643,1131 809,1132" />
+				<TextEquiv index="1">
+					<Unicode>über „Raphael</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>über „Raphael</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="566,1173 812,1173 812,1344 566,1344" />
+			<TextLine id="r10l0" custom="readingOrder {index:0;}">
+				<Coords points="667,1173 672,1173 674,1181 709,1179 737,1174 740,1174 752,1181 763,1174 789,1179 810,1179 810,1188 718,1189 709,1189 667,1188" />
+				<Baseline points="667,1188 810,1188" />
+				<TextEquiv index="1">
+					<Unicode>denen archiva-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r10l1" points="740,1200 760,1200 769,1203 799,1205 799,1215 779,1215 769,1214 760,1215 748,1215 740,1214" baseline="740,1214 799,1215" reason: models differ | Wikisource: Antoni | next_nc_e1: Antoni
+ | german_print2_15: Antoni⸗ -->
+			<!-- line left out: id="r10l2" points="688,1225 692,1225 695,1231 712,1231 719,1233 727,1225 736,1225 753,1235 761,1233 772,1231 777,1231 789,1233 802,1231 811,1231 811,1241 802,1241 789,1240 736,1241 712,1241 695,1241 688,1233" baseline="688,1240 811,1241" reason: differs: "lurc" against "o Ra" | Wikisource:  | next_nc_e1: lurch seinen
+ | german_print2_15: durch seinen -->
+			<TextLine id="r10l3" custom="readingOrder {index:3;}">
+				<Coords points="655,1259 678,1257 705,1259 723,1265 727,1253 736,1253 746,1259 764,1257 771,1251 782,1251 783,1258 794,1258 796,1251 799,1251 802,1257 811,1257 811,1267 802,1267 736,1267 723,1267 673,1266 655,1264" />
+				<Baseline points="655,1266 811,1266" />
+				<TextEquiv index="1">
+					<Unicode>enico Annibali,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r10l4" points="589,1281 616,1281 652,1281 666,1290 693,1280 696,1280 745,1282 769,1277 779,1277 794,1285 806,1282 808,1282 808,1291 779,1292 756,1292 733,1292 730,1298 725,1298 723,1289 708,1291 669,1292 652,1292 589,1292" baseline="589,1292 808,1292" reason: second model: differs: "itha" against "den " | Wikisource: t hatte, besprach er | next_nc_e1: thatte, besprach er
+ | german_print2_15: it hatte, besprach er -->
+			<!-- line left out: id="r10l5" points="582,1308 591,1308 606,1316 611,1304 621,1304 647,1307 675,1303 680,1303 682,1309 706,1306 711,1306 742,1308 762,1302 776,1302 811,1307 811,1318 795,1318 776,1317 680,1318 661,1318 653,1312 647,1317 633,1318 582,1318" baseline="582,1318 710,1317 762,1317 811,1318" reason: second model: differs: "sinA" against "rke " | Wikisource: n Aufenthalt in Rom, | next_nc_e1: n Aufenthalt in Rom, | german_print2_15: ſin Aufenthalt in Rom, -->
+			<!-- line left out: id="r10l6" points="566,1328 586,1328 595,1334 607,1332 618,1328 624,1328 626,1334 637,1334 676,1334 677,1328 683,1328 696,1332 746,1333 747,1327 779,1327 780,1335 799,1335 804,1328 812,1328 812,1343 779,1343 696,1343 676,1343 665,1343 646,1341 637,1344 618,1344 586,1344 566,1344" baseline="566,1344 653,1343 812,1343" reason: models differ | Wikisource: Einfluss übte und doch | next_nc_e1: Einfluss übte und doch
+ | german_print2_15: n Einfluss übte und doch
+ -->
+			<TextEquiv index="1">
+				<Unicode>denen archiva-
+enico Annibali,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r11">
+			<Coords points="0,0 1000,0 1000,1565 0,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+der Hand des Pfarrers Kettner ist zu schliessen, dass Richter
+von der Seuche hinweggerafft wurde. Da nun aber das bereits
+erwähnte Register der Pfarrer zwischen Richter und Kettner noch
+zwei Namen aufführt, Mag. David Drabitius und Georgius Agricola,
+beide 1633 angestellt, so scheinen auch diese beiden von dem
+gleichen Geschick wie Richter betroffen worden zu sein. – Die
+Zahl der Getauften wird dann immer kleiner und sinkt nach
+dem Kriege, in den Jahren 1649–64 sogar auf 32 herab. Dem
+entsprechend ist auch die Zahl der Todesfälle, welche in den
+letzten 14 Kriegsjahren 33–34, in den ersten 16 Jahren nach
+dem Kriege 22–23 beträgt.
+Nach und nach hebt sich jedoch die Seelenzahl wieder,
+wenn auch noch öfters Jahre mit grösserer Sterblichkeit
+vorkommen, so 1676, 1680, 1723, 1741, 1746, auch während des
+Siebenjährigen Krieges. Um nur ein Jahr hervorzuheben, sei bemerkt,
+dass im Jahre 1758 auf 100 Seelen 8 Todesfälle kommen. Zu
+dieser Zeit betrug die Seelenzahl in St. Johannis etwa 4340.
+Das letzte grosse Sterben im vorigen Jahrhundert war 1772; da
+forderte der Tod 784 Opfer, d. h. mehr als den 6. Theil aller
+Parochianen.
+Bemerkenswerth ist noch, dass in den Zeiten grosser Noth,
+bei Krieg und Pest und anderen Seuchen die Zahl der
+Kommunikanten bedeutend stieg; so im Jahre 1680, als die „Infection“
+herrschte, zählte man 3023 Kommunikanten, d. i. beinahe 288 %
+der Gesammtseelenzahl der Parochie. Der Trauungen wurden
+in den Nothjahren stets weniger, in den Jahren danach stets
+erheblich mehr.
+Der Vortrag schloss mit der Darlegung, dass die
+Johannisgemeinde, welche erst stärker als die Jakobigemeinde war, über
+100 Jahre, vom Westfälischen Frieden an, gebraucht hat, um die
+Seelenzahl der Jakobigemeinde zu erreichen.⟦⟧
+Professor Dr. Steche]] aus Dresden sprach über „Raphael
+Mengs]].“
+⟦⟧
+Nachdem der Vortragende einen auf verschiedenen
+archivalischen und anderen Studien beruhenden Lebenslauf von Antonio
+Raphael Mengs gegeben, seiner harten Erziehung durch seinen
+despotischen Vater, seiner Erlösung durch Domenico Annibali,
+den Hofsänger Königs August III., gedacht hatte, besprach er
+die einzelnen Werke des Künstlers, seinen Aufenthalt in Rom,
+wo er auf Winckelmann sehr bedeutenden Einfluss übte und doch
+-->
+	</Page>
+</PcGts>

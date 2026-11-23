@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:49:29</Created>
+		<LastChange>2026-11-23T13:49:29</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/98 revision 4949980 of 2026-07-15T07:26:20Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0098.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro1998893101231454480" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="211,406 907,406 907,487 211,487" />
+			<!-- line left out: id="r0l0" points="211,406 240,406 247,416 258,416 287,417 439,418 458,420 493,410 516,410 522,419 540,419 579,420 619,410 648,410 654,421 673,421 745,422 750,412 773,412 778,422 787,422 830,423 836,414 859,413 878,413 907,417 907,443 883,443 857,442 836,442 814,441 673,440 626,443 619,443 540,439 522,439 393,438 358,447 337,447 332,437 312,437 211,436" baseline="211,436 393,437 619,439 907,442" reason: differs: "Ausz" against "cols" | Wikisource:  | next_nc_e1: Auszug aus dem Kassenbericht | german_print2_15: Auszug aus dem Kassenbericht -->
+			<!-- line left out: id="r0l1" points="469,455 482,455 503,458 510,466 525,466 551,456 591,456 654,456 654,487 610,487 503,486 483,486 469,484" baseline="469,485 551,485 654,487" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: für 1879.
+ | german_print2_15: für 1879.
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="204,551 629,551 629,673 204,673" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="487,551 502,551 550,556 574,552 586,552 629,557 629,567 567,567 555,567 487,566" />
+				<Baseline points="487,566 629,567" />
+				<TextEquiv index="1">
+					<Unicode>Einnahme</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="207,579 221,579 229,585 276,585 278,579 282,579 285,585 315,584 341,586 342,580 351,580 351,595 341,596 330,596 282,594 207,595" />
+				<Baseline points="207,595 351,595" />
+				<TextEquiv index="1">
+					<Unicode>Kassenbestand</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l2" points="205,606 216,606 222,608 248,611 279,611 297,613 299,605 309,605 317,612 339,606 356,606 370,609 383,613 386,607 397,607 398,614 402,614 413,616 415,607 426,607 433,613 435,613 435,622 397,622 383,624 373,624 363,622 346,624 339,624 279,621 248,621 237,621 222,620 205,620" baseline="205,620 278,620 435,622" reason: differs: "Steu" against "|| M" | Wikisource:  | next_nc_e1: Steuern der Mitglieder | german_print2_15: Steuern der Mitglieder -->
+			<!-- line left out: id="r1l3" points="205,633 216,633 230,632 235,632 254,638 265,637 271,635 282,635 290,637 313,638 333,640 334,632 345,632 353,638 373,635 385,635 391,636 403,639 405,632 416,632 423,636 435,640 436,632 448,632 455,640 461,639 469,639 469,632 483,632 492,640 502,640 504,633 512,633 512,649 483,650 448,650 425,650 386,648 290,647 265,647 250,646 228,647 218,647 205,646" baseline="205,647 512,647" reason: differs: "Subv" against "lign" | Wikisource:  | next_nc_e1: Subvention der Stadtgemeinde | german_print2_15: Subvention der Stadtgemeinde -->
+			<!-- line left out: id="r1l4" points="204,657 217,657 225,663 236,663 245,664 258,663 266,663 266,673 236,673 219,673 204,672" baseline="204,672 266,673" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Zinsen
+ | german_print2_15: Zinsen
+ -->
+			<TextEquiv index="1">
+				<Unicode>Einnahme
+Kassenbestand</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="200,749 627,749 627,1111 200,1111" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="496,749 512,749 566,754 573,761 580,750 596,750 627,754 627,765 566,767 554,767 532,764 496,764" />
+				<Baseline points="496,764 627,764" />
+				<TextEquiv index="1">
+					<Unicode>Ausgabe.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l1" points="205,777 217,777 218,783 229,783 254,777 259,777 273,778 274,784 284,784 292,778 296,778 298,784 362,779 386,778 399,778 400,786 411,784 418,782 423,782 448,785 483,785 494,792 496,792 496,794 459,796 450,796 411,794 217,793 205,793" baseline="205,792 233,792 386,793 496,794" reason: differs: "FürB" against "⟦⟧ ⟦" | Wikisource:  | next_nc_e1: Für Bücher und Zeitungen. | german_print2_15: Für Bücher und Zeitungen. -->
+			<!-- line left out: id="r2l2" points="205,803 217,803 218,809 229,809 235,810 252,803 263,803 265,810 275,810 284,811 299,804 316,804 319,810 340,810 379,810 379,820 299,820 275,819 205,819" baseline="205,819 283,819 379,820" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Für das Museum | german_print2_15: Für das Museum -->
+			<!-- line left out: id="r2l3" points="204,829 220,829 240,835 245,835 250,836 260,837 262,830 272,830 275,836 280,836 302,836 398,843 401,843 464,844 464,846 398,846 280,845 250,845 215,845 204,845" baseline="204,845 301,845 464,846" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Utensilien . . | german_print2_15: Utensilien . . . -->
+			<!-- line left out: id="r2l4" points="204,855 222,855 224,862 235,861 260,861 268,866 271,856 291,855 303,855 303,862 334,860 345,860 402,862 411,865 419,866 422,856 428,856 440,857 460,862 482,863 482,872 422,872 411,870 402,875 384,875 345,872 321,872 303,875 291,875 260,871 214,871 204,871" baseline="204,871 482,872" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Feuer-Versicherungs-Prämie | german_print2_15: Feuer-Versicherungs-Prämie -->
+			<!-- line left out: id="r2l5" points="204,882 225,882 238,887 286,888 334,888 335,882 367,882 378,885 402,887 425,888 425,898 402,898 367,898 311,898 286,897 238,898 229,898 204,897" baseline="204,897 295,897 425,898" reason: differs: "Hono" against "yle=" | Wikisource:  | next_nc_e1: Honorare und Diäten | german_print2_15: Honorare und Diäten -->
+			<!-- line left out: id="r2l6" points="204,908 217,908 218,914 235,914 236,908 258,908 260,914 290,914 290,908 301,908 303,914 316,914 331,916 331,909 356,909 388,912 410,914 410,924 388,924 350,924 316,924 290,924 235,924 223,924 204,923" baseline="204,923 410,924" reason: differs: "Buch" against "e="b" | Wikisource:  | next_nc_e1: Buchbinder-Arbeiten | german_print2_15: Buchbinder-Arbeiten -->
+			<!-- line left out: id="r2l7" points="204,934 209,934 212,940 223,940 254,937 259,937 272,940 291,940 300,941 322,940 351,940 353,934 379,934 398,936 423,935 446,935 455,943 469,939 474,939 497,941 497,951 488,951 474,950 446,950 322,950 300,948 291,950 280,950 272,949 259,950 254,950 223,949 204,949" baseline="204,949 497,950" reason: differs: "Inse" against "alig" | Wikisource:  | next_nc_e1: Insertions- und Druckkosten | german_print2_15: Insertions- und Druckkosten -->
+			<!-- line left out: id="r2l8" points="203,960 211,959 222,959 222,965 250,960 261,960 268,966 282,966 296,960 303,960 306,966 316,966 318,960 322,960 324,966 339,961 345,961 411,960 417,960 428,974 430,974 430,976 363,976 338,976 306,976 303,982 296,982 282,975 203,975" baseline="203,975 281,975 430,976" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Für das Jahrbuch II. | german_print2_15: Für das Jahrbuch II. -->
+			<!-- line left out: id="r2l9" points="203,986 222,986 224,992 248,992 255,986 265,986 275,993 289,990 294,990 306,993 320,986 332,986 355,986 373,987 382,986 396,986 397,992 408,987 419,987 427,993 449,993 497,993 499,987 536,987 544,994 564,994 585,994 585,1003 554,1003 509,1003 485,1003 449,1003 438,1003 373,1002 332,1002 265,1001 248,1006 235,1006 203,1001" baseline="203,1001 320,1001 585,1003" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Eingelöste Schuldscheine und Zinsen | german_print2_15: Eingelöste Schuldscheine und Zinsen -->
+			<!-- line left out: id="r2l10" points="202,1012 218,1012 220,1018 283,1018 292,1019 301,1022 311,1012 326,1012 358,1012 358,1018 367,1018 374,1013 383,1013 383,1028 358,1032 326,1032 311,1032 303,1028 292,1027 283,1032 271,1032 228,1028 213,1028 202,1027" baseline="202,1028 383,1028" reason: differs: "Ilei" against "gn:c" | Wikisource:  | next_nc_e1: Ileizungs-Material | german_print2_15: leizungs-Material -->
+			<!-- line left out: id="r2l11" points="203,1038 222,1038 224,1044 235,1044 237,1038 247,1038 249,1044 259,1044 260,1038 272,1038 273,1044 308,1044 326,1046 327,1038 338,1038 345,1044 366,1039 378,1039 385,1042 439,1044 439,1055 422,1055 385,1054 349,1054 308,1056 297,1056 284,1054 247,1054 222,1054 211,1054 203,1053" baseline="203,1053 439,1054" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Einhebung der Steuern | german_print2_15: Einhebung der Steuern -->
+			<!-- line left out: id="r2l12" points="200,1064 209,1064 218,1070 250,1070 260,1067 272,1067 290,1070 299,1074 302,1064 315,1064 315,1071 327,1071 328,1064 339,1064 341,1070 351,1070 362,1078 491,1078 491,1081 458,1081 315,1080 290,1080 272,1080 250,1080 229,1080 218,1080 209,1086 200,1086" baseline="200,1080 491,1080" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Jouristen-Lohn. . | german_print2_15: Jouristen-Lohn. . . -->
+			<!-- line left out: id="r2l13" points="200,1090 212,1090 212,1096 234,1096 237,1090 241,1090 243,1096 267,1096 275,1094 287,1090 298,1090 300,1097 323,1096 340,1096 342,1090 358,1090 373,1099 379,1090 391,1090 393,1096 400,1096 423,1096 442,1098 456,1091 470,1091 472,1097 483,1097 516,1097 517,1091 528,1091 529,1098 541,1097 549,1097 549,1106 528,1106 504,1111 492,1111 483,1107 456,1107 423,1106 391,1106 234,1106 212,1106 200,1105" baseline="200,1106 549,1106" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Saalmiethe und diverse Ausgaben
+ | german_print2_15: Saalmiethe und diverse Ausgaben
+ -->
+			<TextEquiv index="1">
+				<Unicode>Ausgabe.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="479,1190 632,1190 632,1206 479,1206" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="479,1190 516,1190 522,1196 543,1197 545,1190 566,1190 612,1196 632,1197 632,1206 618,1206 590,1206 584,1206 496,1206 479,1206" />
+				<Baseline points="479,1206 632,1206" />
+				<TextEquiv index="1">
+					<Unicode>Abschluss.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Abschluss.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="386,1216 679,1216 679,1267 386,1267" />
+			<!-- line left out: id="r4l0" points="388,1220 397,1220 397,1226 425,1226 437,1227 438,1220 449,1220 451,1226 468,1226 480,1227 505,1228 505,1216 520,1216 538,1233 570,1220 588,1220 590,1227 600,1227 603,1221 621,1221 644,1226 666,1230 672,1235 672,1236 666,1238 652,1238 644,1236 538,1236 520,1245 505,1245 505,1236 388,1236" baseline="388,1236 505,1235 635,1235 672,1236" reason: differs: "Einn" against "| st" | Wikisource:  | next_nc_e1: Einnahme . . Mark 2932 | german_print2_15: Einnahme . . Mark 20932 -->
+			<!-- line left out: id="r4l1" points="386,1247 400,1247 452,1247 469,1252 539,1259 542,1259 605,1260 640,1251 643,1251 655,1251 679,1251 679,1262 655,1267 643,1267 640,1267 596,1263 445,1262 434,1267 422,1267 386,1262" baseline="386,1262 468,1261 541,1261 679,1262" reason: differs: "Ausg" against "t;" " | Wikisource:  | next_nc_e1: Ausgabe . „ 1718.
+ | german_print2_15: Ausgabe . „ 78.
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="386,1277 679,1277 679,1296 386,1296" />
+			<!-- line left out: id="r5l0" points="386,1277 401,1277 407,1283 423,1283 448,1284 449,1278 465,1278 465,1285 489,1282 495,1282 519,1284 520,1278 596,1278 597,1284 641,1283 663,1283 669,1289 679,1289 679,1296 663,1296 645,1296 641,1296 440,1294 432,1294 386,1293" baseline="386,1293 679,1293" reason: differs: "Kass" against "n;" " | Wikisource:  | next_nc_e1: Kassenbestand Mark 1213.
+ | german_print2_15: Kassenbestand Mark 1213.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="0,0 1000,0 1000,1564 0,1564" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+⟦⟧
+| colspan=4 style="text-align:center;" | Einnahme.
+| style="text-align:left;" | Kassenbestand || Mark || 1010. || 83.
+| style="text-align:left;" | Steuern der Mitglieder || „ || ⟦⟧988. || –.
+| style="text-align:left;" | Subvention der Stadtgemeinde || „ || ⟦⟧900. || –.
+| style="text-align:left;" | Zinsen || „ || ⟦⟧⟦⟧33. || 69.
+| style="border-top:hidden;" | || Mark || 2932. || 52.
+| colspan=7 |
+| colspan=7 style="text-align:center;" | Ausgabe.
+| style="text-align:left;" | Für Bücher und Zeitungen || Mark || ⟦⟧⟦⟧65. || 50.
+| style="text-align:left;" | Für das Museum || „ || ⟦⟧443. || 20.
+| style="text-align:left;" | Utensilien || „ || ⟦⟧⟦⟧43. || 25.
+| style="text-align:left;" | Feuer-Versicherungs-Prämie || „ || ⟦⟧⟦⟧16. || 75.
+| style="text-align:left;" | Honorare und Diäten || „ || ⟦⟧161. || 10.
+| style="text-align:left;" | Buchbinder-Arbeiten || „ || ⟦⟧⟦⟧78. || 40.
+| style="text-align:left;" | Insertions- und Druckkosten || „ || ⟦⟧⟦⟧20. || 80.
+| style="text-align:left;" | Für das Jahrbuch II || „ || ⟦⟧365. || –.
+| style="text-align:left;" | Eingelöste Schuldscheine und Zinsen || „ || ⟦⟧212. || –.
+| style="text-align:left;" | Heizungs-Material || „ || ⟦⟧⟦⟧25. || –.
+| style="text-align:left;" | Einhebung der Steuern || „ || ⟦⟧⟦⟧39. || 28.
+| style="text-align:left;" | Jouristen-Lohn || „ || ⟦⟧⟦⟧27. || –.
+| style="text-align:left;" | Saalmiethe und diverse Ausgaben || „ || ⟦⟧221. || 41.
+| style="border-top:hidden;" | || Mark || 1718. || 69.
+| colspan=4 style="text-align:center;" | Abschluss.
+| style="text-align:left;" | Einnahme || Mark || 2932. || 52.
+| style="text-align:left;" | Ausgabe || „ || 1718. || 69.
+| style="text-align:left; border-top:hidden;" | Kassenbestand || Mark || 1213. || 83.
+-->
+	</Page>
+</PcGts>

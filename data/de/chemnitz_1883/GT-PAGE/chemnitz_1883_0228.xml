@@ -1,0 +1,451 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:57:08</Created>
+		<LastChange>2026-11-23T13:57:08</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/228 revision 5069863 of 2026-10-06T22:45:52Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0228.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro10545802773058707224" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="16" regionRef="r16" />
+				<RegionRefIndexed index="19" regionRef="r19" />
+				<RegionRefIndexed index="21" regionRef="r21" />
+				<RegionRefIndexed index="25" regionRef="r25" />
+				<RegionRefIndexed index="27" regionRef="r27" />
+				<RegionRefIndexed index="32" regionRef="r32" />
+				<RegionRefIndexed index="34" regionRef="r34" />
+				<RegionRefIndexed index="36" regionRef="r36" />
+				<RegionRefIndexed index="38" regionRef="r38" />
+				<RegionRefIndexed index="41" regionRef="r41" />
+				<RegionRefIndexed index="44" regionRef="r44" />
+				<RegionRefIndexed index="52" regionRef="r52" />
+				<RegionRefIndexed index="54" regionRef="r54" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 1000,0 1000,141 0,141" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="516,145 638,145 638,161 516,161" />
+			<!-- line left out: id="r1l0" points="516,154 536,154 566,145 574,145 587,146 616,155 638,155 638,157 587,161 566,161 536,155 516,155" baseline="516,161 586,160 616,160 638,161" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: =— 16 —
+ | german_print2_15: — 16 —
+ -->
+		</TextRegion>
+		<GraphicRegion id="r2">
+			<Coords points="800,213 823,213 823,216 800,216" />
+		</GraphicRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="250,198 928,198 928,296 250,296" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="252,198 268,198 274,210 279,204 302,205 304,198 326,198 329,204 386,205 411,207 413,199 426,199 426,205 440,205 447,200 506,200 508,207 528,205 585,208 587,202 598,202 599,211 648,207 692,209 719,206 785,204 798,204 812,211 821,211 847,205 847,214 859,205 863,205 866,212 927,209 927,221 812,220 794,206 793,219 508,216 498,222 480,222 462,216 353,217 314,214 252,212" />
+				<Baseline points="252,213 927,221" />
+				<TextEquiv index="1">
+					<Unicode>Wandelungen durch Jahrtausende unterworfen. Von jeher ist</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="250,230 299,230 300,224 311,224 312,230 331,232 338,224 343,224 345,231 397,231 399,225 409,225 424,231 478,232 484,234 491,227 495,227 497,233 512,233 523,227 564,227 573,233 632,234 647,240 653,229 686,229 686,235 730,236 742,230 759,230 762,237 772,237 773,231 798,230 798,236 809,231 819,231 821,240 832,237 841,237 853,231 862,231 869,240 876,232 898,232 900,240 912,238 928,238 928,247 898,247 876,247 618,244 607,242 546,243 350,240 250,242" />
+				<Baseline points="250,239 928,247" />
+				<TextEquiv index="1">
+					<Unicode>griechische und römische Kultur von allen nachlebenden Völkern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l2" points="250,256 261,256 263,250 267,250 269,258 301,258 303,250 314,250 316,257 326,257 341,250 351,250 360,258 369,258 376,251 381,251 383,258 398,255 403,255 441,257 464,258 470,259 484,261 492,253 508,253 516,258 528,253 539,253 540,260 549,260 565,253 586,253 586,259 601,258 607,258 642,255 647,255 655,264 666,263 686,261 694,261 694,255 706,255 716,261 726,261 743,261 770,262 792,262 802,256 809,256 809,271 792,271 782,271 770,270 743,271 739,271 726,270 706,271 694,271 672,270 666,270 647,269 565,269 539,268 516,268 470,268 459,268 429,267 351,266 341,266 314,265 261,265 250,265" baseline="250,264 325,265 742,270 809,271" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: als die höchste menschliche Kultur bezeichnet worde
+ | german_print2_15: als die höchste menschliche Kultur bezeichnet worde
+ -->
+			<!-- line left out: id="r3l3" points="641,286 652,286 693,281 698,281 699,288 711,285 737,281 746,281 746,296 672,296 652,295 641,295" baseline="641,295 746,296" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: mer hat d
+ | german_print2_15: mer hat d
+ -->
+			<TextEquiv index="1">
+				<Unicode>Wandelungen durch Jahrtausende unterworfen. Von jeher ist
+griechische und römische Kultur von allen nachlebenden Völkern</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="785,239 801,239 801,244 785,244" />
+		</GraphicRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="825,263 833,263 833,273 825,273" />
+			<!-- line left out: id="r5l0" points="825,263 829,263 831,270 833,270 833,273 831,273 825,272" baseline="825,272 833,273" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 1,
+ | german_print2_15: 1,
+ -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="774,282 869,282 869,298 774,298" />
+			<!-- line left out: id="r6l0" points="774,286 786,286 790,290 798,282 802,282 804,290 808,290 824,288 835,288 846,289 853,283 858,283 869,287 869,298 837,298 798,297 774,296" baseline="774,296 869,298" reason: differs: "Sehn" against "word" | Wikisource:  | next_nc_e1: Sehnsucht
+ | german_print2_15: Sehnsucht
+ -->
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="854,263 928,263 928,273 854,273" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="854,266 863,263 871,263 928,267 928,269 919,273 916,273 863,272 854,270" />
+				<Baseline points="854,272 928,273" />
+				<TextEquiv index="1">
+					<Unicode>sie ver-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>sie ver-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="820,269 835,269 835,272 820,272" />
+		</GraphicRegion>
+		<GraphicRegion id="r9">
+			<Coords points="882,285 892,285 892,297 882,297" />
+		</GraphicRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="251,275 928,275 928,299 251,299" />
+			<!-- line left out: id="r10l0" points="251,275 262,275 263,282 285,282 287,276 297,276 312,284 319,276 330,276 331,285 362,276 366,276 387,276 389,284 413,283 438,281 457,278 468,278 470,284 510,279 531,279 533,285 568,285 574,287 582,279 592,279 627,280 898,289 907,289 920,284 928,284 928,299 920,299 907,298 898,298 582,295 568,294 486,294 470,294 413,293 362,292 330,291 263,291 251,290" baseline="251,290 333,291 510,293 591,294 898,298 928,299" reason: differs: "l.IIach" against ". Immer" | Wikisource:  | next_nc_e1: band die Erde mit dem Himmel. II ach
+ | german_print2_15: band die Erde mit dem Himmel. In ach
+ -->
+		</TextRegion>
+		<GraphicRegion id="r11">
+			<Coords points="349,272 766,272 766,301 349,301" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="670,311 672,311 672,314 670,314" />
+		</GraphicRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="647,307 922,307 922,324 647,324" />
+			<!-- line left out: id="r13l0" points="647,313 664,313 690,307 702,307 702,315 714,307 724,307 726,316 738,313 742,313 762,316 764,308 778,308 792,312 795,320 827,308 832,308 842,311 878,312 897,315 906,312 910,312 913,318 922,318 922,322 910,324 897,324 873,324 832,323 764,323 751,322 724,322 714,322 702,321 647,321" baseline="647,321 690,321 873,323 922,324" reason: differs: "neit" against "l. I" | Wikisource:  | next_nc_e1: neit beherrscht. Die groſse
+ | german_print2_15: neit beherrscht. Die groſse
+ -->
+		</TextRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="662,332 922,332 922,350 662,350" />
+			<!-- line left out: id="r14l0" points="662,338 671,338 679,332 701,332 710,337 720,342 736,334 740,334 742,339 755,346 761,339 767,334 778,334 797,338 804,347 823,340 839,340 864,342 872,335 876,335 897,340 909,335 913,335 916,342 922,342 922,350 897,350 876,350 872,350 848,349 830,350 804,350 786,349 778,348 755,348 740,342 740,350 736,350 720,344 710,347 671,347 662,347" baseline="662,347 719,347 922,350" reason: differs: "nder" against "ie S" | Wikisource:  | next_nc_e1: nderts glaubte, griechische
+ | german_print2_15: nderts glaubte, griechische
+ -->
+		</TextRegion>
+		<GraphicRegion id="r15">
+			<Coords points="616,314 618,314 618,319 616,319" />
+		</GraphicRegion>
+		<TextRegion id="r16" custom="readingOrder {index:16;} orientation {0;}">
+			<Coords points="248,303 733,303 733,374 248,374" />
+			<!-- line left out: id="r16l0" points="252,308 279,308 295,308 330,308 350,310 373,309 383,309 398,303 415,303 434,308 469,309 481,308 487,308 504,310 521,304 532,304 543,304 588,305 595,311 600,311 613,313 613,321 595,321 543,320 501,320 487,319 469,319 469,325 457,325 456,316 434,319 423,319 415,318 406,319 398,319 350,318 330,318 323,321 313,321 261,319 252,319" baseline="252,317 313,317 564,319 613,321" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: jener groſsen Zeit später die Mens | german_print2_15: jener groſsen Zeit später die Mens -->
+			<!-- line left out: id="r16l1" points="251,327 265,327 285,327 294,331 306,334 308,328 321,328 330,327 344,327 344,334 351,334 397,334 433,337 435,329 445,329 453,338 474,335 481,334 490,334 492,343 510,336 526,336 529,330 544,330 560,336 571,336 582,338 596,331 601,331 603,339 613,339 615,331 619,331 622,338 630,338 630,347 601,348 596,348 565,346 490,350 481,350 474,345 445,344 413,346 378,346 344,346 330,346 321,343 251,343" baseline="251,343 458,343 581,343 630,344" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: Kulturbewegung des 15. und 16. Jahr | german_print2_15: Kulturbewegung des 15. und 16. Jahr -->
+			<TextLine id="r16l2" custom="readingOrder {index:2;}">
+				<Coords points="248,359 272,359 273,353 284,353 299,360 353,360 365,354 370,354 372,361 380,361 398,354 420,354 440,355 442,361 514,363 516,356 521,356 534,362 560,362 594,365 602,357 606,357 608,365 619,361 660,364 662,371 683,369 689,358 705,358 711,363 733,365 733,374 665,374 662,374 608,372 606,366 594,370 571,372 248,369" />
+				<Baseline points="248,368 733,374" />
+				<TextEquiv index="1">
+					<Unicode>und römische Kultur wieder zu schaffen, daher</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>und römische Kultur wieder zu schaffen, daher</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r17">
+			<Coords points="627,306 643,306 643,325 627,325" />
+		</GraphicRegion>
+		<GraphicRegion id="r18">
+			<Coords points="630,338 661,338 661,351 630,351" />
+		</GraphicRegion>
+		<TextRegion id="r19" custom="readingOrder {index:19;} orientation {0;}">
+			<Coords points="603,359 928,359 928,401 603,401" />
+			<!-- line left out: id="r19l0" points="761,365 770,365 776,366 787,359 799,359 800,368 804,368 832,366 838,365 853,365 896,366 906,367 928,367 928,376 906,376 885,376 832,375 816,374 799,374 787,374 773,368 770,374 761,374" baseline="761,372 928,376" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: ie Bezeichnungen | german_print2_15: ie Bezeichnungen -->
+			<!-- line left out: id="r19l1" points="603,392 626,390 632,389 646,389 689,393 695,384 710,384 717,393 726,393 737,394 741,385 750,385 759,391 762,391 775,392 782,394 789,385 800,385 802,391 823,390 836,390 839,384 841,384 884,386 894,388 905,392 905,386 917,386 917,395 923,395 923,400 917,401 884,401 879,401 762,400 741,400 726,399 646,399 632,399 626,398 611,396 603,396" baseline="603,396 686,398 840,403 923,406" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: ssance (Wiedergeburt). Diese
+ | german_print2_15: ssance (Wiedergeburt). Diese
+ -->
+		</TextRegion>
+		<GraphicRegion id="r20">
+			<Coords points="750,367 760,367 760,378 750,378" />
+		</GraphicRegion>
+		<TextRegion id="r21" custom="readingOrder {index:21;} orientation {0;}">
+			<Coords points="250,379 557,379 557,398 250,398" />
+			<!-- line left out: id="r21l0" points="250,379 263,379 271,385 294,385 338,386 362,390 364,384 369,384 383,387 387,393 418,381 423,381 432,382 445,387 463,388 490,386 498,382 507,382 513,395 546,382 557,382 557,397 517,398 513,398 456,397 390,397 387,397 369,396 364,396 338,395 294,395 266,395 250,394" baseline="250,394 557,397" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Rinascimento, Rinascità, R
+ | german_print2_15: Rinascimento, Rinascità, R
+ -->
+		</TextRegion>
+		<GraphicRegion id="r22">
+			<Coords points="562,389 603,389 603,398 562,398" />
+		</GraphicRegion>
+		<GraphicRegion id="r23">
+			<Coords points="618,411 785,411 785,456 618,456" />
+		</GraphicRegion>
+		<GraphicRegion id="r24">
+			<Coords points="309,455 533,455 533,501 309,501" />
+		</GraphicRegion>
+		<TextRegion id="r25" custom="readingOrder {index:25;} orientation {0;}">
+			<Coords points="248,405 929,405 929,530 248,530" />
+			<!-- line left out: id="r25l0" points="249,405 269,405 272,411 281,411 289,405 300,405 308,412 318,412 332,413 358,412 379,410 409,407 431,407 431,413 458,412 462,412 524,414 583,415 613,409 616,409 682,416 689,414 699,414 740,417 759,417 766,418 770,424 799,418 835,417 839,417 856,418 862,420 869,412 879,412 900,421 907,412 916,412 925,418 926,418 926,427 879,427 869,427 856,426 841,426 839,419 806,423 773,427 740,427 737,427 689,424 616,423 583,424 557,424 524,423 456,423 431,423 332,424 322,424 308,421 300,420 249,420" baseline="249,420 382,421 615,423 698,424 878,426 926,427" reason: differs: "edergeb" against "se Wied" | Wikisource:  | next_nc_e1: Wiedergeburt konnte nur eine 1 zte sein, je nach der | german_print2_15: Wiedergeburt konnte nur eine t zte sein, je nach der -->
+			<!-- line left out: id="r25l1" points="249,431 257,430 268,430 270,438 280,438 293,437 303,437 326,435 350,432 361,432 363,440 375,438 408,438 434,439 457,441 459,433 469,433 478,439 500,433 504,433 517,435 535,440 580,440 627,441 716,442 733,436 751,436 855,437 856,447 872,447 876,437 887,437 895,444 905,444 913,446 921,438 929,438 929,453 905,453 895,453 855,452 833,452 716,451 694,451 690,451 595,450 560,450 551,450 535,448 504,449 500,449 434,448 424,448 408,447 378,448 375,448 361,447 303,447 280,449 270,449 249,446" baseline="249,446 401,447 500,448 690,450 929,453" reason: differs: "Eige" against "h de" | Wikisource:  | next_nc_e1: Eigenart der von der Bewegung er nen V Hierdurch | german_print2_15: Eigenart der von der Bewegung er nen Vé Hierdurch -->
+			<!-- line left out: id="r25l2" points="248,463 267,461 279,461 297,463 308,466 309,458 335,458 345,464 351,458 362,458 364,468 375,464 384,464 419,465 431,459 441,459 543,474 582,469 589,460 598,460 607,467 643,462 660,462 664,470 669,470 675,471 683,462 722,462 725,471 736,468 746,468 768,468 787,462 801,462 809,469 816,467 827,467 845,469 857,471 872,470 880,470 903,472 906,464 919,464 919,478 880,479 872,479 845,478 827,478 768,478 759,478 746,477 716,478 692,478 683,465 675,475 672,475 664,472 660,478 643,478 550,476 543,476 419,474 414,474 384,473 362,473 335,473 297,473 292,473 279,472 248,472" baseline="248,472 383,473 787,477 919,478" reason: differs: "unte" against "durc" | Wikisource:  | next_nc_e1: unterscheiden sich ge der verschiedenen Nationen, da | german_print2_15: unterscheiden sich ge der verschiedenen Nationen, da -->
+			<!-- line left out: id="r25l3" points="249,483 262,483 271,489 281,489 305,489 347,490 382,490 404,491 408,485 417,485 433,491 481,488 491,488 517,488 540,488 547,494 565,492 575,492 584,487 599,487 614,496 621,487 632,487 633,493 644,493 663,493 687,492 697,492 717,493 730,494 747,494 747,497 737,501 730,503 707,503 644,502 599,502 584,502 478,501 467,501 399,500 347,499 305,499 271,499 262,498 249,498" baseline="249,498 598,501 747,503" reason: differs: "Rena" against ", da" | Wikisource:  | next_nc_e1: Renaissancewerk anzubahnen und durchzuführer
+ | german_print2_15: Renaissancewerk anzubahnen und durchzuführen
+ -->
+			<!-- line left out: id="r25l4" points="301,509 306,509 320,514 329,510 340,510 342,517 353,516 361,516 361,509 363,509 382,516 434,511 445,511 446,519 459,517 478,515 489,515 530,518 539,512 555,512 569,518 574,518 587,516 622,516 624,522 650,522 654,513 665,513 667,524 692,514 727,514 731,528 791,520 813,514 817,514 825,516 843,520 867,520 909,521 929,522 929,527 909,530 899,530 867,529 817,529 736,530 713,530 700,528 665,528 622,528 574,528 569,528 489,527 471,527 445,526 353,526 340,525 309,525 301,524" baseline="301,525 362,525 735,528 929,530" reason: differs: "Ital" against "hren" | Wikisource:  | next_nc_e1: Italien nur konnte und muſste die Wieg r Renaissance
+ | german_print2_15: Italien nur konnte und mulste die Wieg r Renaissance
+ -->
+		</TextRegion>
+		<GraphicRegion id="r26">
+			<Coords points="711,483 778,483 778,533 711,533" />
+		</GraphicRegion>
+		<TextRegion id="r27" custom="readingOrder {index:27;} orientation {0;}">
+			<Coords points="247,536 928,536 928,556 247,556" />
+			<TextLine id="r27l0" custom="readingOrder {index:0;}">
+				<Coords points="247,543 284,541 286,548 309,544 327,544 349,536 354,536 356,543 373,540 387,540 484,545 534,538 591,538 592,545 613,545 613,538 625,538 625,545 731,544 748,546 771,540 776,540 780,541 789,549 795,544 813,540 815,548 846,546 920,546 928,548 928,556 907,556 871,556 850,556 846,556 500,555 467,552 286,552 247,548" />
+				<Baseline points="247,550 846,554 928,556" />
+				<TextEquiv index="1">
+					<Unicode>sein, es hatte nie völlig die Fühlung mit der Antike verloren.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>sein, es hatte nie völlig die Fühlung mit der Antike verloren.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r28">
+			<Coords points="575,573 580,573 580,576 575,576" />
+		</GraphicRegion>
+		<GraphicRegion id="r29">
+			<Coords points="563,595 914,595 914,651 563,651" />
+		</GraphicRegion>
+		<GraphicRegion id="r30">
+			<Coords points="476,644 500,644 500,661 476,661" />
+		</GraphicRegion>
+		<GraphicRegion id="r31">
+			<Coords points="365,662 824,662 824,790 365,790" />
+		</GraphicRegion>
+		<TextRegion id="r32" custom="readingOrder {index:32;} orientation {0;}">
+			<Coords points="245,560 928,560 928,814 245,814" />
+			<!-- line left out: id="r32l0" points="249,560 253,560 269,564 274,569 297,561 309,561 310,570 322,568 332,568 378,568 394,569 410,563 415,563 419,571 435,569 445,569 480,569 494,576 500,570 512,568 522,568 568,570 590,570 597,576 663,566 666,566 704,566 704,575 715,572 721,570 729,566 742,566 742,572 773,572 787,574 795,566 798,566 801,575 818,572 822,572 848,569 853,569 860,575 867,575 867,566 889,566 910,566 919,570 926,580 928,580 928,582 910,582 880,582 867,582 833,581 773,581 742,581 719,581 704,581 687,581 676,581 669,580 663,569 599,579 568,579 522,579 480,579 445,580 394,581 380,581 358,579 349,579 309,576 269,576 249,576" baseline="249,576 297,576 410,577 928,581" reason: differs: "senlich" against "senscha" | Wikisource:  | next_nc_e1: Die Bewegung begann auf wissen lich-literarischem Gebiete, | german_print2_15: Die Bewegung begann auf wissen lich-literarischem Gebiete, -->
+			<!-- line left out: id="r32l1" points="246,595 256,593 261,593 294,594 305,592 332,588 337,588 340,594 350,594 387,594 393,595 410,588 421,588 428,595 433,595 462,594 466,594 486,596 505,589 508,589 516,597 523,595 533,595 540,596 545,590 555,590 557,596 573,596 588,590 591,590 660,597 663,597 678,598 683,599 695,601 708,602 708,594 721,594 728,601 738,601 738,594 749,594 766,594 815,598 818,605 850,592 866,592 880,596 900,601 902,592 912,592 921,598 928,598 928,607 880,607 821,607 806,607 678,606 668,606 588,605 573,599 561,604 555,605 523,605 516,601 508,607 505,607 466,604 433,604 410,604 350,603 310,603 294,603 290,603 261,602 256,602 246,600" baseline="246,602 290,602 660,605 850,606 928,607" reason: differs: "siei" against "iete" | Wikisource:  | next_nc_e1: sie ist bis in das 10. Jahrhund rückzuverfe n. Mit den | german_print2_15: sie ist bis in das 10. Jahrhund rückzuverfe in. Mit den -->
+			<!-- line left out: id="r32l2" points="247,613 264,613 266,619 277,619 301,619 316,621 323,614 327,614 335,621 347,620 370,618 389,618 404,615 415,615 417,621 421,621 469,621 489,622 493,616 498,616 511,628 518,622 528,622 536,616 539,616 555,624 562,624 574,625 582,616 592,616 673,617 681,623 685,623 694,627 711,617 714,617 727,619 742,617 756,617 761,630 767,625 778,624 803,623 813,623 822,618 835,618 835,624 843,624 854,626 854,618 868,618 888,618 888,624 900,618 904,618 907,626 924,624 926,624 926,629 916,633 843,633 787,633 778,633 765,632 756,633 742,633 714,632 685,632 681,632 592,631 569,631 539,631 518,631 485,630 469,629 444,630 421,630 384,630 334,629 301,629 297,629 286,627 277,628 247,628" baseline="247,628 370,629 711,631 926,633" reason: differs: "klas" against "t de" | Wikisource:  | next_nc_e1: klassischen Studien verband sich das Betonen menschlicher | german_print2_15: klassischen Studien verband sich das Betonen menschlicher -->
+			<!-- line left out: id="r32l3" points="248,639 261,639 261,647 273,640 278,640 286,647 298,646 302,646 320,642 323,642 362,646 366,640 375,640 392,647 414,647 444,641 447,641 455,645 465,641 473,641 519,642 537,642 546,650 552,650 552,642 554,642 651,655 658,649 679,649 696,649 715,655 718,649 741,649 761,648 765,648 781,652 781,643 800,643 803,651 812,651 820,644 824,644 833,643 835,643 851,650 875,650 883,645 902,645 910,656 916,652 922,652 922,659 896,659 875,659 851,659 741,658 668,658 521,657 473,656 392,656 331,655 320,655 278,654 261,654 248,654" baseline="248,654 392,655 922,656" reason: differs: "Lebe" against "iche" | Wikisource:  | next_nc_e1: Lebensfreude im antiken Sinne, unden jene Gedichte, welche | german_print2_15: I.ebensfreude im antiken Sinne, unden jene Gedichte, welche -->
+			<!-- line left out: id="r32l4" points="246,673 253,666 264,666 265,672 275,672 291,665 295,665 299,672 309,672 315,674 323,666 327,666 330,673 349,673 414,667 431,667 434,673 459,673 677,672 681,672 722,672 739,677 842,669 845,669 864,670 866,677 877,675 887,675 908,673 911,673 928,677 928,685 920,685 864,684 842,684 722,683 653,683 650,683 349,682 341,682 309,681 299,681 264,680 253,680 246,679" baseline="246,680 348,680 677,682 928,684" reason: differs: "dieL" against "elch" | Wikisource:  | next_nc_e1: die Liebe, Musi as Gelage Themata, | german_print2_15: die Liebe, Musi as Gelage TPhemata, -->
+			<!-- line left out: id="r32l5" points="246,697 257,697 266,700 274,691 278,691 280,699 291,691 302,691 304,699 339,699 341,692 357,692 361,702 389,697 404,697 406,706 434,693 439,693 463,693 647,694 651,701 663,699 666,694 677,694 677,702 685,702 696,705 696,694 718,694 728,700 813,695 822,695 831,701 841,701 859,699 867,695 870,695 873,703 885,701 889,701 898,706 900,695 911,695 928,696 928,710 911,710 885,710 870,709 863,710 831,710 822,709 718,709 666,709 663,703 647,709 439,710 434,710 389,708 357,707 302,707 291,707 278,706 274,706 246,705" baseline="246,705 813,709 928,710" reason: differs: "welc" against "mata" | Wikisource:  | next_nc_e1: welche das 15. Jah didaktisch künstlerisch | german_print2_15: welche das 15. Jah didaktisch künstlerisch -->
+			<!-- line left out: id="r32l6" points="245,717 256,717 259,723 275,723 283,725 291,718 301,718 308,720 317,718 328,718 330,724 346,722 350,722 364,731 388,718 393,718 403,720 416,722 424,725 444,725 451,727 462,731 464,725 477,725 688,732 697,731 702,724 706,724 731,727 734,721 737,721 744,731 772,726 784,726 789,730 795,733 803,726 815,726 834,726 887,725 897,725 927,727 927,736 851,736 834,736 784,736 768,736 744,734 734,724 731,735 691,735 688,735 444,734 393,734 367,735 364,735 350,733 308,733 291,733 245,732" baseline="245,732 746,734 927,736" reason: differs: "durc" against "risc" | Wikisource:  | next_nc_e1: durchführte, Petrarcas ist als Vorläufer aufzu- | german_print2_15: durchführte, Petrarcas ist als Vorläufer aufzu- -->
+			<!-- line left out: id="r32l7" points="246,745 256,745 263,749 298,749 308,745 345,744 350,744 353,750 363,750 411,751 458,749 463,749 493,749 690,752 752,753 800,750 809,750 822,753 844,754 859,753 869,753 871,760 894,753 916,753 918,747 927,747 927,762 874,763 844,763 836,763 809,762 752,762 737,762 697,761 678,761 461,761 458,761 411,760 389,760 353,760 289,759 263,758 246,758" baseline="246,758 309,758 385,759 927,762" reason: differs: "fass" against "aufz" | Wikisource:  | next_nc_e1: fassen. In allem tritt iche uns entgegen, und | german_print2_15: fassen. In allem tritt iche uns entgegen, und -->
+			<!-- line left out: id="r32l8" points="245,775 266,775 309,775 320,776 338,770 346,770 353,778 365,776 374,771 378,771 391,776 403,777 405,770 416,770 418,777 441,777 675,776 679,776 727,777 734,784 742,779 746,779 755,782 765,773 775,773 780,781 794,779 804,779 807,786 839,773 883,773 885,779 894,779 895,773 908,773 908,782 923,779 925,779 925,788 908,788 775,788 746,788 727,788 712,788 699,787 480,789 443,789 381,786 320,785 305,785 253,784 245,784" baseline="245,784 305,784 925,788" reason: differs: "zwar" against ", un" | Wikisource:  | next_nc_e1: zwar in Verbindung g Göttlichen. In dieser | german_print2_15: zwar in Verbindung g Göttlichen. In dieser -->
+			<!-- line left out: id="r32l9" points="246,795 258,795 259,803 271,801 288,801 288,795 303,795 309,796 322,801 334,802 368,802 379,801 400,796 414,796 415,803 440,801 445,801 461,807 465,807 490,810 492,801 509,798 513,798 516,806 529,802 536,801 541,801 555,804 561,806 729,805 732,805 862,805 866,799 876,799 880,805 884,805 892,799 903,799 909,803 909,808 907,808 903,814 884,814 778,814 769,814 555,813 533,813 529,813 513,812 502,813 486,813 445,812 414,812 379,812 368,811 344,812 303,812 288,812 281,811 258,810 246,810" baseline="246,810 777,813 909,814" reason: differs: "Bezieh" against "ieser " | Wikisource:  | next_nc_e1: Beziehung ist Dantes „Göttliche uls d ewaltigst
+ | german_print2_15: Beziehung ist Dantes „Göttliche als d- ewaltigst
+ -->
+		</TextRegion>
+		<GraphicRegion id="r33">
+			<Coords points="413,792 798,792 798,869 413,869" />
+		</GraphicRegion>
+		<TextRegion id="r34" custom="readingOrder {index:34;} orientation {0;}">
+			<Coords points="244,821 926,821 926,892 244,892" />
+			<!-- line left out: id="r34l0" points="247,828 256,828 263,829 271,821 293,821 312,822 325,824 335,821 349,821 356,822 357,830 386,828 442,823 451,823 460,829 470,829 479,828 496,824 500,824 502,831 515,830 523,829 527,829 553,829 562,823 564,823 596,824 609,826 773,832 779,831 796,831 799,837 809,831 815,828 836,828 854,828 859,832 859,837 854,840 836,840 803,840 779,840 591,839 562,838 541,836 538,836 523,831 518,838 492,838 392,838 356,837 312,837 293,837 256,837 247,837" baseline="247,837 401,837 773,839 859,840" reason: differs: "gedan" against "gste," | Wikisource:  | next_nc_e1: gedankliche ur künstlerische Re uuſzufasse | german_print2_15: gedankliche ur künstlerische Re uuſzufasse -->
+			<!-- line left out: id="r34l1" points="245,853 251,851 264,851 296,853 308,855 316,848 320,848 323,854 332,854 354,860 360,854 367,848 380,848 398,856 410,855 414,855 455,850 459,850 510,850 519,857 526,850 537,850 539,857 552,856 561,851 564,851 587,853 598,858 621,850 629,850 907,851 918,859 919,859 919,862 907,865 594,865 555,865 552,865 537,864 517,864 510,865 459,865 455,865 414,864 410,864 364,862 358,863 316,863 245,862" baseline="245,862 285,862 919,865" reason: differs: "istm" against ", si" | Wikisource:  | next_nc_e1: ist mehr als eine mittelalterliche V ttl Kο | german_print2_15: ist mehr als eine mittelalterliche V tt! Ko- -->
+			<!-- line left out: id="r34l2" points="244,879 267,879 280,881 282,873 293,873 295,881 307,878 310,878 339,881 345,882 354,874 358,874 360,881 388,878 392,878 413,882 415,874 425,874 434,884 440,884 455,875 459,875 469,878 481,882 488,875 492,875 505,879 524,881 535,884 554,889 556,876 571,876 784,883 792,883 918,881 926,881 926,891 792,892 550,892 524,890 505,890 459,890 425,890 392,890 374,890 354,889 342,887 335,884 307,881 300,888 244,888" baseline="244,887 926,891" reason: differs: "mödi" against "hen " | Wikisource:  | next_nc_e1: mödie“ gehört des Dichters „V u )mit
+ | german_print2_15: mödie“ gehört des Dichters „V u 1) mit
+ -->
+		</TextRegion>
+		<GraphicRegion id="r35">
+			<Coords points="312,830 858,830 858,895 312,895" />
+		</GraphicRegion>
+		<TextRegion id="r36" custom="readingOrder {index:36;} orientation {0;}">
+			<Coords points="242,900 923,900 923,995 242,995" />
+			<TextLine id="r36l0" custom="readingOrder {index:0;}">
+				<Coords points="246,909 253,906 264,905 298,905 331,903 342,903 345,909 374,907 391,900 396,900 406,907 422,907 426,901 437,901 437,912 448,912 448,916 404,916 365,916 298,914 271,915 246,911" />
+				<Baseline points="246,914 448,916" />
+				<TextEquiv index="1">
+					<Unicode>seiner süſsen Lyrik.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r36l1" points="297,925 302,925 306,932 315,932 329,926 355,926 355,932 362,932 366,926 376,926 384,933 393,933 410,927 427,926 431,926 432,933 453,932 457,932 485,933 513,935 521,927 531,927 533,935 545,933 551,927 561,927 574,931 601,937 607,927 611,927 625,934 647,928 652,928 662,931 673,934 681,928 682,928 682,943 652,943 607,943 574,942 531,942 485,942 432,942 426,941 393,942 355,942 341,942 315,941 297,941" baseline="297,941 410,941 578,942 682,943" reason: differs: "Dicl" against "Dichter" | Wikisource:  | next_nc_e1: In beiden Werken schenkte der Dicl | german_print2_15: In beiden Werken schenkte der Dict -->
+			<TextLine id="r36l2" custom="readingOrder {index:2;}">
+				<Coords points="245,951 254,951 263,958 306,957 321,954 331,954 334,960 343,958 353,958 366,952 376,952 384,956 408,956 414,960 434,953 451,953 454,959 467,956 479,956 482,962 494,959 545,960 545,953 569,953 595,964 605,960 636,961 649,954 699,954 735,962 742,954 772,960 779,958 788,958 802,962 833,955 861,957 885,961 889,955 899,955 920,963 920,969 595,968 569,974 557,974 545,974 545,968 532,968 522,974 511,974 510,966 498,968 434,968 411,962 408,968 331,967 275,969 245,966" />
+				<Baseline points="245,966 920,969" />
+				<TextEquiv index="1">
+					<Unicode>lang miſsachtete Muttersprache zurück. Durch ihre Aufnahme</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r36l3" custom="readingOrder {index:3;}">
+				<Coords points="242,985 255,985 263,977 267,977 298,980 302,987 308,987 331,978 345,978 352,985 359,978 363,978 366,984 388,984 422,987 422,981 472,983 499,987 502,979 559,979 562,988 573,983 586,983 591,988 619,980 651,980 652,986 684,986 698,989 706,980 710,980 713,987 730,986 731,980 764,979 768,979 776,985 819,984 828,986 830,979 843,979 843,986 850,986 875,980 878,988 894,991 897,984 923,986 923,995 907,995 733,995 716,995 684,995 619,995 331,994 263,992 251,991 242,988" />
+				<Baseline points="242,992 923,995" />
+				<TextEquiv index="1">
+					<Unicode>schloſs Italien sofort die Kette literarischer Tradition hinter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>seiner süſsen Lyrik.
+lang miſsachtete Muttersprache zurück. Durch ihre Aufnahme
+schloſs Italien sofort die Kette literarischer Tradition hinter</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r37">
+			<Coords points="689,929 699,929 699,941 689,941" />
+		</GraphicRegion>
+		<TextRegion id="r38" custom="readingOrder {index:38;} orientation {0;}">
+			<Coords points="712,928 921,928 921,944 712,944" />
+			<!-- line left out: id="r38l0" points="712,934 715,934 762,934 797,934 810,928 818,928 826,938 833,936 839,928 849,928 851,937 890,935 911,935 921,936 921,944 905,944 890,944 839,943 818,942 797,943 752,943 739,941 715,943 712,943" baseline="712,943 732,942 921,942" reason: differs: "rsei" against "sich" | Wikisource:  | next_nc_e1: r seinem Volke seine
+ | german_print2_15: r seinem Volke seine
+ -->
+		</TextRegion>
+		<GraphicRegion id="r39">
+			<Coords points="509,977 511,977 511,994 509,994" />
+		</GraphicRegion>
+		<GraphicRegion id="r40">
+			<Coords points="659,1053 830,1053 830,1076 659,1076" />
+		</GraphicRegion>
+		<TextRegion id="r41" custom="readingOrder {index:41;} orientation {0;}">
+			<Coords points="241,1004 926,1004 926,1127 241,1127" />
+			<!-- line left out: id="r41l0" points="251,1009 263,1004 273,1004 339,1004 389,1004 390,1012 402,1010 418,1010 444,1004 457,1004 488,1004 488,1011 499,1011 500,1004 514,1004 518,1012 521,1012 549,1013 551,1005 561,1005 569,1013 575,1013 601,1005 617,1005 620,1014 638,1013 641,1013 655,1014 663,1006 667,1006 670,1013 683,1012 700,1006 703,1006 706,1012 723,1011 727,1011 774,1009 784,1009 826,1011 837,1014 846,1006 849,1006 856,1010 905,1012 918,1007 926,1007 926,1021 905,1021 895,1021 862,1019 849,1020 813,1021 804,1021 784,1020 774,1020 759,1018 727,1021 641,1021 638,1021 617,1020 561,1020 521,1020 402,1020 389,1019 285,1019 276,1019 251,1018" baseline="251,1018 284,1018 926,1021" reason: models differ | Wikisource: ich. Mit dem Betonen des Menschlichen entwickelte sich | next_nc_e1: ich. Mit dem Betonen des Menschlichen entwickelte sich | german_print2_15: tich. Mit dem Betonen des Menschlichen entwickelte sich -->
+			<TextLine id="r41l1" custom="readingOrder {index:1;}">
+				<Coords points="242,1029 253,1029 255,1035 265,1035 274,1038 296,1029 301,1029 312,1030 315,1036 355,1036 358,1030 368,1030 371,1036 381,1036 383,1030 392,1030 395,1038 403,1038 403,1029 417,1029 452,1030 454,1037 464,1037 473,1039 495,1031 505,1031 505,1037 549,1037 557,1031 567,1031 569,1039 590,1037 616,1040 619,1031 628,1031 637,1038 666,1031 694,1031 694,1038 711,1039 730,1039 733,1032 744,1032 746,1039 757,1031 767,1031 770,1037 780,1037 789,1031 803,1031 826,1046 832,1046 834,1033 848,1033 854,1039 888,1039 891,1033 901,1033 905,1040 923,1038 923,1047 879,1047 861,1045 854,1041 848,1047 803,1048 789,1048 780,1046 767,1048 757,1048 730,1046 705,1046 694,1048 680,1048 671,1046 383,1046 242,1044" />
+				<Baseline points="242,1043 923,1047" />
+				<TextEquiv index="1">
+					<Unicode>das Persönliche, das Erwachen der Persönlichkeit gegenüber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r41l2" points="241,1055 253,1055 254,1063 266,1061 282,1061 306,1055 331,1055 364,1056 372,1062 385,1060 396,1060 408,1062 417,1055 419,1055 448,1063 459,1063 467,1065 470,1057 479,1057 482,1065 493,1057 521,1057 521,1067 551,1065 557,1057 567,1057 569,1063 579,1063 607,1057 619,1057 622,1064 631,1064 633,1057 644,1057 649,1068 701,1063 745,1058 748,1058 781,1063 792,1064 800,1058 803,1058 803,1067 825,1064 829,1064 868,1062 877,1058 879,1058 911,1064 925,1064 925,1073 879,1075 866,1075 859,1075 838,1072 825,1066 815,1073 748,1075 745,1075 644,1073 611,1073 607,1073 521,1072 493,1072 467,1070 459,1071 419,1073 309,1073 306,1073 253,1070 241,1070" baseline="241,1070 281,1070 745,1072 925,1073" reason: differs: "divmzur" against "dividuu" | Wikisource:  | next_nc_e1: dem Mittelalter, welches das Indiv m zurückdrängte in | german_print2_15: dem Mittelalter, welches das Indiv im zurückdrängte in -->
+			<!-- line left out: id="r41l3" points="243,1081 258,1081 260,1087 270,1087 281,1085 292,1085 336,1087 348,1088 350,1082 360,1082 402,1082 415,1083 424,1082 433,1082 441,1095 488,1082 503,1082 512,1082 551,1083 559,1084 562,1091 574,1089 611,1089 637,1089 770,1083 781,1083 783,1090 798,1090 832,1084 843,1083 854,1083 862,1089 866,1089 881,1091 894,1084 898,1084 900,1091 917,1090 925,1090 925,1099 894,1099 881,1098 866,1099 803,1099 637,1099 633,1099 611,1098 551,1098 488,1098 415,1097 360,1097 325,1097 295,1090 292,1097 281,1097 270,1096 243,1096" baseline="243,1096 511,1097 925,1099" reason: differs: "Kast" against "te i" | Wikisource:  | next_nc_e1: Kaste und Gildc. Die Renaissan den Menschen | german_print2_15: Kaste und Gilde. Die Renaissan t den Menschen -->
+			<!-- line left out: id="r41l4" points="241,1113 246,1113 259,1111 271,1111 295,1108 299,1108 323,1108 346,1108 378,1113 390,1114 392,1108 428,1108 437,1114 441,1114 453,1115 456,1108 466,1108 474,1114 478,1114 491,1108 500,1108 519,1116 534,1116 537,1109 548,1109 550,1117 562,1115 567,1115 586,1115 607,1121 612,1115 632,1111 642,1111 711,1118 719,1109 732,1109 752,1109 755,1117 769,1117 777,1109 781,1109 794,1113 867,1110 871,1110 883,1115 907,1116 923,1116 923,1124 907,1127 897,1127 885,1125 840,1124 806,1122 794,1124 752,1124 642,1126 632,1126 567,1124 562,1124 548,1123 500,1124 478,1124 474,1124 456,1121 453,1127 428,1127 425,1127 311,1123 302,1123 241,1122" baseline="241,1122 923,1124" reason: differs: "natü" against "sche" | Wikisource:  | next_nc_e1: natürlicher und zugleich edlerer auf, entdeckte seit langer
+ | german_print2_15: natürlicher und zugleich edlerer auf, entdeckte seit langer
+ -->
+			<TextEquiv index="1">
+				<Unicode>das Persönliche, das Erwachen der Persönlichkeit gegenüber</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r42">
+			<Coords points="655,1087 710,1087 710,1128 655,1128" />
+		</GraphicRegion>
+		<GraphicRegion id="r43">
+			<Coords points="241,1131 363,1131 363,1148 241,1148" />
+		</GraphicRegion>
+		<TextRegion id="r44" custom="readingOrder {index:44;} orientation {0;}">
+			<Coords points="238,1133 925,1133 925,1306 238,1306" />
+			<TextLine id="r44l0" custom="readingOrder {index:0;}">
+				<Coords points="255,1140 267,1139 296,1133 307,1133 309,1141 320,1139 442,1140 450,1144 454,1135 541,1135 544,1145 562,1135 603,1135 605,1143 624,1144 638,1135 661,1135 669,1141 689,1142 701,1135 726,1135 726,1141 769,1141 772,1135 810,1135 817,1139 839,1141 841,1135 851,1135 859,1141 867,1139 914,1136 917,1142 925,1142 925,1150 914,1151 898,1151 569,1150 562,1138 547,1150 474,1150 442,1148 320,1149 267,1148 255,1146" />
+				<Baseline points="255,1148 925,1151" />
+				<TextEquiv index="1">
+					<Unicode>eit den ganzen vollen Gehalt des Menschen und förderte ihn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r44l1" points="241,1169 251,1165 260,1165 280,1159 302,1159 310,1174 320,1174 322,1167 334,1164 338,1164 346,1172 382,1159 387,1159 390,1166 401,1166 402,1159 413,1159 415,1166 442,1166 471,1168 473,1160 483,1160 486,1166 520,1161 532,1160 543,1160 546,1168 550,1168 576,1169 583,1161 620,1161 620,1167 630,1167 643,1161 714,1161 716,1170 725,1165 729,1165 774,1167 780,1169 788,1161 798,1161 800,1169 812,1167 882,1167 910,1167 919,1168 919,1177 882,1177 879,1177 798,1176 774,1176 729,1176 725,1176 714,1175 653,1176 630,1176 583,1176 558,1175 546,1170 543,1176 520,1176 442,1175 346,1175 334,1167 326,1173 320,1177 310,1177 241,1174" baseline="241,1174 280,1174 919,1175" reason: differs: "ichbstw" against "ch selb" | Wikisource:  | next_nc_e1: zu Tage“. Indem der Mensch sich bst wieder in seine | german_print2_15: zu Tage“. Indem der Mensch sich bst wieder in seine -->
+			<TextLine id="r44l2" custom="readingOrder {index:2;}">
+				<Coords points="241,1184 255,1184 257,1193 273,1193 280,1185 298,1188 344,1189 352,1191 380,1189 420,1189 467,1192 479,1186 490,1186 492,1195 561,1192 587,1199 616,1193 634,1192 709,1193 711,1186 773,1187 787,1191 900,1195 902,1187 907,1187 922,1193 922,1202 862,1202 844,1196 821,1203 709,1202 655,1205 631,1205 621,1205 592,1202 332,1202 309,1200 241,1200" />
+				<Baseline points="241,1200 922,1202" />
+				<TextEquiv index="1">
+					<Unicode>Rechte einsetzte, wuchs seine Neigung und Achtung vor der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r44l3" points="240,1210 255,1210 257,1217 269,1213 275,1213 300,1216 300,1210 302,1210 344,1211 355,1212 373,1217 383,1211 428,1211 438,1219 447,1219 449,1211 455,1211 457,1218 479,1218 480,1212 491,1212 499,1218 509,1218 517,1212 568,1212 591,1218 601,1218 604,1212 614,1212 616,1218 627,1218 648,1218 660,1221 660,1212 662,1212 692,1218 708,1218 723,1212 765,1212 783,1216 838,1214 848,1214 852,1221 868,1219 887,1219 888,1213 901,1213 901,1219 913,1219 915,1213 924,1213 924,1228 848,1228 802,1228 765,1228 708,1228 662,1228 660,1228 648,1227 627,1227 614,1228 591,1228 568,1227 509,1227 373,1227 356,1227 344,1226 240,1226" baseline="240,1226 397,1226 749,1227 924,1228" reason: differs: "lDenkwe" against "le Denk" | Wikisource:  | next_nc_e1: Natur. Durch individuel Denkweise und Natur überwand | german_print2_15: Natur. Durch individuel Denkweise und Natur überwand -->
+			<TextLine id="r44l4" custom="readingOrder {index:4;}">
+				<Coords points="238,1236 250,1236 252,1242 267,1243 282,1236 295,1236 304,1243 368,1242 424,1245 426,1237 437,1237 437,1243 451,1243 467,1237 484,1237 507,1241 513,1245 521,1238 525,1238 527,1244 538,1244 540,1238 544,1238 552,1242 576,1244 576,1237 578,1237 598,1244 621,1244 622,1238 632,1238 653,1244 663,1245 670,1238 681,1238 684,1245 714,1242 744,1248 751,1244 769,1239 773,1239 775,1245 798,1239 809,1239 811,1247 822,1245 838,1245 853,1239 858,1239 858,1245 880,1245 883,1239 894,1239 903,1245 914,1245 923,1248 923,1250 914,1254 809,1254 769,1254 578,1254 566,1254 527,1253 525,1247 507,1253 473,1254 467,1254 347,1251 238,1252" />
+				<Baseline points="238,1251 923,1254" />
+				<TextEquiv index="1">
+					<Unicode>die Renaissance das Mittelalter, und näherte sich dem Kultur-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r44l5" custom="readingOrder {index:5;}">
+				<Coords points="239,1262 256,1262 258,1269 279,1268 281,1262 285,1262 304,1270 311,1262 322,1262 324,1270 336,1270 353,1263 370,1263 378,1269 422,1270 424,1264 455,1263 455,1269 463,1269 478,1277 483,1264 499,1264 507,1267 542,1267 576,1270 577,1277 599,1264 610,1264 612,1271 639,1270 656,1264 675,1264 677,1270 687,1270 690,1264 706,1264 708,1270 730,1270 732,1278 763,1275 773,1270 793,1270 809,1275 817,1265 827,1265 828,1272 849,1270 869,1264 890,1264 920,1270 920,1280 793,1280 741,1282 732,1282 610,1279 577,1280 239,1277" />
+				<Baseline points="239,1277 920,1280" />
+				<TextEquiv index="1">
+					<Unicode>ideal des klassischen Altertums, dem Einklang zwischen Natur</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r44l6" points="728,1297 742,1293 745,1293 748,1299 759,1299 759,1293 772,1293 778,1296 798,1290 803,1290 818,1291 829,1296 862,1296 894,1296 906,1296 922,1300 922,1302 917,1302 902,1298 900,1305 894,1306 884,1306 862,1305 835,1306 831,1306 742,1305 728,1304" baseline="728,1304 922,1306" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: oſsen Renaissance-
+ | german_print2_15: oſsen Renaissance-
+ -->
+			<TextEquiv index="1">
+				<Unicode>eit den ganzen vollen Gehalt des Menschen und förderte ihn
+Rechte einsetzte, wuchs seine Neigung und Achtung vor der
+die Renaissance das Mittelalter, und näherte sich dem Kultur-
+ideal des klassischen Altertums, dem Einklang zwischen Natur</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r45">
+			<Coords points="354,1134 357,1134 357,1150 354,1150" />
+		</GraphicRegion>
+		<GraphicRegion id="r46">
+			<Coords points="296,1157 702,1157 702,1178 296,1178" />
+		</GraphicRegion>
+		<GraphicRegion id="r47">
+			<Coords points="583,1182 603,1182 603,1204 583,1204" />
+		</GraphicRegion>
+		<GraphicRegion id="r48">
+			<Coords points="648,1200 664,1200 664,1204 648,1204" />
+		</GraphicRegion>
+		<GraphicRegion id="r49">
+			<Coords points="526,1219 539,1219 539,1221 526,1221" />
+		</GraphicRegion>
+		<GraphicRegion id="r50">
+			<Coords points="523,1219 525,1219 525,1221 523,1221" />
+		</GraphicRegion>
+		<GraphicRegion id="r51">
+			<Coords points="709,1292 727,1292 727,1309 709,1309" />
+		</GraphicRegion>
+		<TextRegion id="r52" custom="readingOrder {index:52;} orientation {0;}">
+			<Coords points="238,1287 682,1287 682,1305 238,1305" />
+			<!-- line left out: id="r52l0" points="238,1293 261,1293 263,1287 273,1287 314,1288 316,1294 326,1294 336,1293 346,1288 348,1288 387,1289 402,1291 413,1295 436,1289 460,1289 460,1295 483,1295 513,1295 535,1295 584,1290 587,1290 608,1290 631,1293 642,1297 661,1289 672,1289 674,1296 682,1296 682,1305 513,1305 413,1305 405,1305 387,1304 326,1304 316,1304 273,1303 238,1303" baseline="238,1303 291,1303 561,1304 682,1305" reason: second model: differs: "undG" against "Natu" | Wikisource: und Geist. Der Humanismus führte die | next_nc_e1: und Geist. Der Humanismus führte die
+ | german_print2_15: und Geist. Der Humanismus führte die
+ -->
+		</TextRegion>
+		<GraphicRegion id="r53">
+			<Coords points="893,1331 901,1331 901,1334 893,1334" />
+		</GraphicRegion>
+		<TextRegion id="r54" custom="readingOrder {index:54;} orientation {0;}">
+			<Coords points="237,1313 922,1313 922,1335 237,1335" />
+			<!-- line left out: id="r54l0" points="237,1320 260,1320 261,1313 272,1313 273,1320 296,1320 298,1313 303,1313 303,1319 317,1319 332,1320 347,1314 351,1314 360,1320 372,1320 373,1314 385,1314 405,1318 421,1323 427,1315 432,1315 434,1322 446,1322 454,1321 479,1321 505,1321 527,1323 532,1315 538,1315 539,1322 550,1321 558,1318 573,1315 577,1315 580,1321 597,1316 601,1316 603,1322 606,1322 644,1322 650,1324 655,1328 678,1316 682,1316 699,1318 710,1322 718,1324 726,1316 735,1316 751,1324 762,1323 767,1323 792,1322 796,1322 831,1322 913,1323 922,1325 922,1328 913,1331 831,1331 735,1331 710,1331 644,1331 601,1331 571,1331 505,1331 489,1331 479,1330 446,1330 405,1330 359,1335 347,1335 322,1330 261,1329 250,1327 249,1334 237,1334" baseline="237,1328 922,1331" reason: differs: "gedan" against "groſs" | Wikisource:  | next_nc_e1: gedanken praktisch-wissenschaſtlich ein. Durch ein neues inniges
+ | german_print2_15: gedanken praktisch-wissenschaftlich ein. Durch ein neues inniges
+ -->
+		</TextRegion>
+		<GraphicRegion id="r55">
+			<Coords points="0,1522 1000,1522 1000,1564 0,1564" />
+		</GraphicRegion>
+		<SeparatorRegion id="r56">
+			<Coords points="961,380 973,380 973,777 961,777" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Wandelungen durch Jahrtausende unterworfen. Von jeher ist
+griechische und römische Kultur von allen nachlebenden Völkern
+als die höchste menschliche Kultur bezeichnet worden, sie
+verband die Erde mit dem Himmel. Immer hat die Sehnsucht nach
+jener großen Zeit später die Menschheit beherrscht. Die große
+Kulturbewegung des 15. und 16. Jahrhunderts glaubte, griechische
+und römische Kultur wieder zu schaffen, daher die Bezeichnungen
+Rinascimento, Rinascità, Renaissance (Wiedergeburt). Diese
+Wiedergeburt konnte nur eine begrenzte sein, je nach der
+Eigenart der von der Bewegung ergriffenen Völker. Hierdurch
+unterscheiden sich die Wege der verschiedenen Nationen, das
+Renaissancewerk anzubahnen und durchzuführen.
+Italien nur konnte und mußte die Wiege der Renaissance
+sein, es hatte nie völlig die Fühlung mit der Antike verloren.
+Die Bewegung begann auf wissenschaftlich-literarischem Gebiete,
+sie ist bis in das 10. Jahrhundert zurückzuverfolgen. Mit den
+klassischen Studien verband sich bald das Betonen menschlicher
+Lebensfreude im antiken Sinne, es enstanden jene Gedichte, welche
+die Liebe, die Musik, die Blumen, das Gelage feiern, Themata,
+welche das 15. Jahrhundert dann didaktisch und künstlerisch
+durchführte, Petrarcas vollendete Weise ist als Vorläufer
+aufzufassen. In allem tritt das Menschliche uns entgegen, und
+zwar in Verbindung gebracht mit dem Göttlichen. In dieser
+Beziehung ist Dantes „Göttliche Komödie“ als die gewaltigste,
+gedankliche und künstlerische Renaissancethat aufzufassen, sie
+ist mehr als eine mittelalterliche Vision. Zur „Göttlichen
+Komödie“ gehört des Dichters „Vita nuova“ (Das neue Leben) mit
+seiner süßen Lyrik.
+In beiden Werken schenkte der Dichter seinem Volke seine
+lang mißachtete Muttersprache zurück. Durch ihre Aufnahme
+schloß Italien sofort die Kette literarischer Tradition hinter
+sich. Mit dem Betonen des Menschlichen entwickelte sich
+das Persönliche, das Erwachen der Persönlichkeit gegenüber
+dem Mittelalter, welches das Individuum zurückdrängte in
+Kaste und Gilde. Die Renaissance faßte den Menschen
+natürlicher und zugleich edlerer auf, „sie entdeckte seit langer
+Zeit den ganzen vollen Gehalt des Menschen und förderte ihn
+zu Tage“. Indem der Mensch sich selbst wieder in seine
+Rechte einsetzte, wuchs seine Neigung und Achtung vor der
+Natur. Durch individuelle Denkweise und Natur überwand
+die Renaissance das Mittelalter, und näherte sich dem
+Kulturideal des klassischen Altertums, dem Einklang zwischen Natur
+und Geist. Der Humanismus führte die großen
+Renaissancegedanken praktisch-wissenschaftlich ein. Durch ein neues inniges
+-->
+	</Page>
+</PcGts>

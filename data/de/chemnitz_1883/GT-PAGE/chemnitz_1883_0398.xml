@@ -1,0 +1,444 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:09:48</Created>
+		<LastChange>2026-11-23T14:09:48</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/398 revision 5018257 of 2026-08-21T16:00:43Z, proofread level 3, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0398.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro5690030513020405979" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="15" regionRef="r15" />
+				<RegionRefIndexed index="17" regionRef="r17" />
+				<RegionRefIndexed index="19" regionRef="r19" />
+				<RegionRefIndexed index="29" regionRef="r29" />
+				<RegionRefIndexed index="30" regionRef="r30" />
+				<RegionRefIndexed index="32" regionRef="r32" />
+				<RegionRefIndexed index="35" regionRef="r35" />
+				<RegionRefIndexed index="37" regionRef="r37" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="455,207 467,207 467,211 455,211" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="215,198 738,198 738,271 215,271" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="215,204 246,204 249,198 269,198 301,200 355,200 355,207 396,201 401,201 407,207 418,207 419,201 432,201 445,206 465,207 465,201 479,201 489,207 500,207 501,214 525,202 533,202 533,209 557,209 563,203 586,203 587,210 600,208 677,210 677,220 543,217 479,221 401,221 396,221 377,215 215,214" />
+				<Baseline points="215,213 677,219" />
+				<TextEquiv index="1">
+					<Unicode>zwölf Groschen verlangten, beschloſs man,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l1" points="216,238 221,225 233,224 245,224 261,228 290,232 290,225 302,225 317,230 375,231 433,230 437,226 451,226 458,227 478,232 478,226 492,226 498,240 500,240 500,242 386,242 376,242 341,241 293,241 285,241 261,240 231,240 216,240" baseline="216,240 351,240 500,242" reason: differs: "Abte" against "gege" | Wikisource:  | next_nc_e1: Abtes ebenso zu verfahren. | german_print2_15: Abtes ebenso zu verfahren. -->
+			<!-- line left out: id="r1l2" points="268,250 275,250 290,251 291,257 302,257 321,257 338,251 354,251 355,257 373,252 383,252 384,258 416,258 416,252 428,252 459,252 460,258 474,258 489,258 520,257 526,257 528,266 553,261 559,254 570,254 582,257 590,254 592,254 618,260 640,260 650,262 667,255 679,255 680,261 685,261 696,263 716,255 728,255 729,262 738,262 738,271 680,271 640,270 635,270 582,269 532,270 528,270 520,269 474,268 435,268 416,268 290,267 278,267 268,266" baseline="268,266 434,267 695,270 738,271" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: Diese Nachricht beweist, daſs, wie die Bü
+ | german_print2_15: Diese Nachricht beweist, daſs, wie die Bü
+ -->
+			<TextEquiv index="1">
+				<Unicode>zwölf Groschen verlangten, beschloſs man,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r2">
+			<Coords points="470,206 474,206 474,216 470,216" />
+		</GraphicRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="745,205 922,205 922,223 745,223" />
+			<!-- line left out: id="r3l0" points="745,211 755,211 778,214 779,205 791,205 792,213 801,213 821,206 825,206 829,219 840,213 851,212 863,212 897,216 899,208 911,208 917,217 922,217 922,222 911,223 899,223 840,222 779,221 745,220" baseline="745,220 773,220 893,222 922,223" reason: differs: "ndie" against "rger" | Wikisource:  | next_nc_e1: n die Leute des
+ | german_print2_15: n die Leute des
+ -->
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="699,208 742,208 742,226 699,226" />
+		</GraphicRegion>
+		<GraphicRegion id="r5">
+			<Coords points="480,233 494,233 494,242 480,242" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="742,262 770,262 770,271 742,271" />
+		</GraphicRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="214,263 925,263 925,589 214,589" />
+			<!-- line left out: id="r7l0" points="773,263 815,263 844,264 886,265 922,265 922,275 907,275 886,274 844,275 833,275 800,273 773,272" baseline="773,272 776,272 922,275" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: r in gewissem | german_print2_15: ir in gewissem -->
+			<TextLine id="r7l1" custom="readingOrder {index:1;}">
+				<Coords points="215,277 227,277 257,282 294,277 318,277 324,283 420,284 430,278 442,278 444,285 498,279 499,286 525,285 532,279 542,279 555,284 586,288 587,279 598,279 604,288 611,288 622,295 638,281 657,284 659,292 669,289 691,287 812,289 837,284 847,284 862,293 868,285 878,285 885,293 923,291 923,300 837,300 726,297 394,293 335,296 294,293 215,291" />
+				<Baseline points="215,292 622,295 923,301" />
+				<TextEquiv index="1">
+					<Unicode>Sinne abhängig von dem Gerichte des Abtes waren, so auch dessen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l2" custom="readingOrder {index:2;}">
+				<Coords points="216,303 227,302 238,302 252,306 273,303 287,303 287,309 316,309 358,304 435,304 460,310 461,304 467,304 488,309 507,310 526,306 537,306 545,310 585,308 600,312 619,306 632,306 634,315 656,307 666,307 693,316 702,313 725,311 735,311 752,314 788,314 812,312 816,319 824,314 890,310 910,312 923,316 923,326 848,326 519,320 488,325 468,325 448,320 423,325 405,319 216,318" />
+				<Baseline points="216,318 619,321 923,326" />
+				<TextEquiv index="1">
+					<Unicode>Unterthanen beim Stadtgerichte ihr Recht suchen muſsten. Das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l3" custom="readingOrder {index:3;}">
+				<Coords points="215,334 281,329 293,329 301,332 335,335 370,336 379,338 384,342 409,329 414,329 422,331 422,337 448,336 454,334 520,331 537,331 539,337 586,331 607,331 607,345 621,338 707,339 728,334 739,334 740,342 777,336 798,335 826,341 836,341 845,336 886,337 892,341 904,343 912,336 923,336 923,352 904,352 887,352 585,346 539,347 215,344" />
+				<Baseline points="215,344 661,347 923,352" />
+				<TextEquiv index="1">
+					<Unicode>ist nichts neues. Bereits in dem Vertrage zwischen Abt und Stadt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l4" custom="readingOrder {index:4;}">
+				<Coords points="215,360 255,360 272,375 275,355 299,355 300,361 344,360 403,356 404,364 414,360 449,362 500,360 502,370 525,365 531,357 541,357 554,360 556,366 581,365 587,358 599,358 601,365 631,361 669,363 691,367 692,359 696,359 698,365 727,365 728,359 741,359 750,366 772,364 807,367 809,361 814,361 816,367 839,368 858,362 872,362 875,368 884,366 907,368 909,362 913,362 915,369 924,369 924,377 907,378 864,378 858,378 826,376 647,373 554,373 482,375 457,372 449,375 438,375 403,371 372,374 286,374 277,377 272,377 255,370 215,370" />
+				<Baseline points="215,370 626,373 924,378" />
+				<TextEquiv index="1">
+					<Unicode>vom Jahre 1331 ist gesagt, daſs die Gotteshausleute ihre Urteile</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l5" custom="readingOrder {index:5;}">
+				<Coords points="215,386 232,386 246,380 258,380 266,386 287,381 300,381 307,385 319,387 326,381 358,381 360,388 377,388 378,381 390,381 390,387 424,382 424,389 441,389 442,382 453,382 462,386 510,383 537,383 539,391 569,389 654,390 666,385 677,385 699,394 723,397 726,385 777,386 785,392 795,392 798,386 802,386 804,395 841,388 851,388 860,394 884,392 923,394 923,404 914,404 737,400 537,398 421,399 370,397 215,396" />
+				<Baseline points="215,396 598,398 923,404" />
+				<TextEquiv index="1">
+					<Unicode>in der Stadt holen sollten, falls sie sie nicht selbst finden könnten.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l6" custom="readingOrder {index:6;}">
+				<Coords points="216,407 236,407 237,413 263,411 317,411 339,414 339,407 353,407 354,414 364,414 381,407 401,407 402,413 415,408 420,408 421,414 431,414 435,408 444,408 446,414 481,414 507,417 514,409 519,409 520,415 573,410 588,411 595,418 606,410 664,410 665,418 676,418 677,410 688,410 689,416 760,418 826,417 831,426 862,421 863,413 874,413 875,421 924,420 924,430 902,430 835,430 807,430 760,430 750,430 677,426 530,425 471,427 446,424 216,422" />
+				<Baseline points="216,422 730,426 924,430" />
+				<TextEquiv index="1">
+					<Unicode>Damit ist die Einholung einer Rechtsbelehrung gemeint, die im</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l7" points="214,438 234,433 239,433 272,433 291,433 299,437 320,439 321,433 333,433 350,433 350,439 380,439 395,433 410,433 417,441 427,441 427,434 438,434 451,438 462,443 463,434 474,434 492,435 493,442 505,440 515,440 561,441 641,442 664,443 684,444 699,436 704,436 711,438 725,443 727,437 738,437 740,446 766,438 771,438 776,444 787,444 798,445 806,438 807,438 807,445 806,445 798,453 788,453 787,459 771,459 766,459 743,452 704,452 641,452 624,452 571,450 561,451 550,451 515,450 481,450 474,449 451,450 427,450 410,449 292,449 214,448" baseline="214,448 395,449 532,450 699,451 807,453" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: mittelalterlichen Rechtsleben eine so grosse Rolle spiel | german_print2_15: mittelalterlichen Rechtsleben eine so grosse Rolle spiel -->
+			<!-- line left out: id="r7l8" points="216,458 230,458 231,464 247,464 259,465 261,459 286,459 287,465 311,465 321,466 340,460 348,460 368,460 383,463 400,466 401,460 419,460 420,467 442,460 456,460 458,469 469,466 480,461 491,461 517,467 528,467 548,467 575,470 576,462 587,462 620,471 626,462 637,462 639,469 651,469 668,463 680,463 711,463 711,475 696,478 686,478 637,477 537,477 532,477 456,476 442,476 420,469 419,476 357,478 311,480 299,480 287,475 216,474" baseline="216,474 442,475 668,477 711,478" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: Landdinge geltende Recht war das des Sach | german_print2_15: Landdinge geltende Recht war das des Sach -->
+			<TextLine id="r7l9" custom="readingOrder {index:9;}">
+				<Coords points="215,485 226,485 227,491 247,492 260,485 268,485 270,491 281,491 283,485 294,485 296,491 346,490 407,492 422,486 433,486 434,494 446,492 462,492 477,500 482,488 492,488 504,493 506,487 530,487 531,500 545,493 565,496 566,488 576,488 584,494 604,494 621,488 663,488 665,494 718,495 733,489 752,489 765,490 767,498 838,491 852,491 860,497 925,499 925,507 876,512 860,512 852,506 433,502 335,505 270,500 268,507 260,507 247,500 215,500" />
+				<Baseline points="215,500 733,504 925,507" />
+				<TextEquiv index="1">
+					<Unicode>das Jahr 1230 von dem Anhaltischen Edelmann Eike von Repgowe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l10" custom="readingOrder {index:10;}">
+				<Coords points="215,517 244,517 245,511 257,511 258,517 301,518 321,517 322,511 333,511 343,517 356,512 366,512 369,518 450,518 451,512 462,512 464,520 509,518 522,513 533,513 552,520 563,520 564,514 575,514 578,520 596,521 600,514 621,514 641,524 647,520 669,520 680,522 697,514 710,515 712,521 733,521 777,516 782,516 784,522 816,521 816,514 818,514 849,517 850,524 862,523 873,518 883,518 900,530 906,518 917,518 919,527 925,527 925,532 917,533 873,533 818,533 807,533 776,531 647,530 588,528 522,530 290,526 290,532 277,532 233,527 215,527" />
+				<Baseline points="215,526 925,532" />
+				<TextEquiv index="1">
+					<Unicode>niedergeschrieben wurde und, obwohl eine Privatarbeit, doch als</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l11" points="282,537 294,537 295,543 317,543 318,537 329,537 347,544 358,544 364,538 376,538 425,538 428,544 453,541 464,538 474,538 475,545 523,544 535,544 546,545 565,545 581,539 596,539 598,546 607,540 618,540 619,546 642,546 644,540 655,540 656,549 668,546 677,546 716,546 723,547 727,541 737,541 755,547 764,547 776,548 809,548 820,549 822,543 832,543 851,549 868,546 879,546 895,552 901,544 917,544 919,552 925,552 925,558 917,559 901,559 822,558 764,557 755,557 677,556 668,556 655,555 546,555 389,556 358,556 347,556 295,553 282,552" baseline="282,552 676,555 755,556 831,557 895,558 925,559" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: buch galt. In Chemnitzer Urkunden wird zweimal auf das | german_print2_15: buch galt. In Chemnitzer Urkunden wird zweimal auf das -->
+			<!-- line left out: id="r7l12" points="297,563 302,563 341,563 342,571 352,571 374,567 387,567 404,570 405,564 416,564 417,571 431,571 438,570 448,570 470,570 483,571 507,571 518,572 520,565 524,565 526,574 533,574 549,565 562,565 563,573 573,571 582,571 648,572 691,572 703,573 726,573 729,580 761,567 766,567 776,569 807,568 812,568 824,569 832,577 840,573 846,573 865,574 878,575 908,575 925,576 925,589 910,589 892,585 840,584 824,583 766,583 761,583 703,582 637,582 606,584 596,584 562,581 524,581 507,582 495,582 473,580 470,586 465,586 464,580 392,580 388,580 297,579" baseline="297,579 374,579 807,582 925,585" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: ht des Sachsenspiegels Bezug genommen. Die Bestimmung
+ | german_print2_15: ht des Sachsenspiegels Bezug genommen. Die Bestimmung
+ -->
+			<TextEquiv index="1">
+				<Unicode>Sinne abhängig von dem Gerichte des Abtes waren, so auch dessen
+Unterthanen beim Stadtgerichte ihr Recht suchen muſsten. Das
+ist nichts neues. Bereits in dem Vertrage zwischen Abt und Stadt
+vom Jahre 1331 ist gesagt, daſs die Gotteshausleute ihre Urteile
+in der Stadt holen sollten, falls sie sie nicht selbst finden könnten.
+Damit ist die Einholung einer Rechtsbelehrung gemeint, die im
+das Jahr 1230 von dem Anhaltischen Edelmann Eike von Repgowe
+niedergeschrieben wurde und, obwohl eine Privatarbeit, doch als</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="586,333 620,333 620,351 586,351" />
+		</GraphicRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="735,439 924,439 924,484 735,484" />
+			<!-- line left out: id="r9l0" points="812,443 817,443 821,452 853,439 858,439 873,441 924,446 924,456 902,456 873,455 853,455 812,454" baseline="812,454 887,454 924,456" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: t. Das im | german_print2_15: t. Das im -->
+			<!-- line left out: id="r9l1" points="735,469 739,469 761,469 774,470 796,471 809,465 813,465 816,473 824,473 828,478 847,465 858,465 859,471 873,471 873,465 875,465 897,472 924,472 924,481 828,481 824,481 813,479 796,482 786,482 774,479 761,484 756,484 754,478 735,478" baseline="735,478 874,480 924,481" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: nspiegels, der um
+ | german_print2_15: nspiegels, der um
+ -->
+		</TextRegion>
+		<GraphicRegion id="r10">
+			<Coords points="806,450 822,450 822,453 806,453" />
+		</GraphicRegion>
+		<GraphicRegion id="r11">
+			<Coords points="711,474 725,474 725,478 711,478" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="537,491 541,491 541,503 537,503" />
+		</GraphicRegion>
+		<GraphicRegion id="r13">
+			<Coords points="264,541 269,541 269,553 264,553" />
+		</GraphicRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="214,540 261,540 261,552 214,552" />
+			<!-- line left out: id="r14l0" points="214,540 219,540 261,544 261,552 237,552 225,552 214,551" baseline="214,551 261,552" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Gese
+ | german_print2_15: Geser
+ -->
+		</TextRegion>
+		<TextRegion id="r15" custom="readingOrder {index:15;} orientation {0;}">
+			<Coords points="215,563 279,563 279,579 215,579" />
+			<!-- line left out: id="r15l0" points="215,563 221,563 224,575 234,575 234,569 258,569 259,563 265,563 267,569 279,569 279,579 258,579 215,579" baseline="215,579 279,578" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Landre
+ | german_print2_15: Landre
+ -->
+		</TextRegion>
+		<GraphicRegion id="r16">
+			<Coords points="286,557 294,557 294,579 286,579" />
+		</GraphicRegion>
+		<TextRegion id="r17" custom="readingOrder {index:17;} orientation {0;}">
+			<Coords points="209,584 925,584 925,1154 209,1154" />
+			<!-- line left out: id="r17l0" points="214,589 225,589 226,595 237,595 266,596 267,589 286,589 287,596 298,595 309,595 310,588 322,584 339,584 353,598 359,598 360,590 370,590 383,593 416,597 416,590 427,590 435,596 448,596 513,597 530,591 541,591 542,599 554,597 582,592 591,592 595,600 606,598 635,598 647,600 658,592 669,592 671,599 680,599 689,592 699,592 706,599 715,599 736,598 748,598 761,599 769,598 779,598 789,600 829,595 834,595 834,603 841,603 845,595 861,595 864,602 874,602 874,608 896,596 907,596 908,604 919,601 925,601 925,611 874,611 854,610 834,611 829,611 748,609 736,609 669,608 658,608 635,607 541,607 496,609 479,609 460,606 449,605 448,612 435,612 427,606 383,606 360,606 353,605 339,616 322,616 322,608 310,608 272,605 246,605 214,605" baseline="214,605 353,605 733,608 810,609 877,610 925,611" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: desselben, ²) daſs derjenigen den Feuerschaden ersetzen solle, der | german_print2_15: desselben, ²) daſs derjenigen den Feuerschaden ersetzen solle, der -->
+			<!-- line left out: id="r17l1" points="214,615 225,615 226,621 246,621 259,615 280,615 280,621 316,621 337,622 374,622 383,616 395,616 416,616 426,624 439,621 460,617 471,617 472,623 483,623 484,617 489,617 492,623 501,623 562,623 566,617 577,617 578,625 606,625 607,618 620,618 620,624 634,624 641,618 656,618 672,627 678,624 687,624 700,625 710,626 726,619 731,619 739,620 769,623 781,626 786,620 817,620 819,626 858,626 909,626 924,626 924,637 906,637 874,636 858,635 838,636 832,636 786,635 700,634 620,634 607,634 577,633 511,634 503,634 439,632 422,631 416,632 361,632 347,632 238,631 214,631" baseline="214,631 330,631 528,632 672,633 837,635 906,636 924,637" reason: second model: differs: "dasF" against "ng ⟦" | Wikisource: das Feuer verwahrlost habe, wurde durch eine Ratswillkür vom 11. | next_nc_e1: das Feuer verwahrlost habe, wurde durch eine Ratswillkür vom 11. | german_print2_15: das Feuer verwahrlost habe, wurde durch eine Ratswillkür vom iI. -->
+			<TextLine id="r17l2" custom="readingOrder {index:2;}">
+				<Coords points="214,642 226,641 238,641 239,647 318,646 342,649 343,642 367,642 368,648 415,643 427,643 434,648 452,649 487,649 488,643 499,643 520,647 522,656 545,651 552,643 562,643 575,646 578,652 608,652 609,644 620,644 628,650 683,650 699,658 719,645 730,645 731,653 764,645 780,645 783,651 825,654 828,646 838,646 839,652 925,653 925,663 887,663 884,663 764,661 730,659 683,662 635,659 575,659 522,661 499,658 452,661 435,661 427,658 300,662 214,658" />
+				<Baseline points="214,657 698,659 925,663" />
+				<TextEquiv index="1">
+					<Unicode>März 1352 dahin abgeändert, daſs derjenige, bei dem das Feuer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r17l3" custom="readingOrder {index:3;}">
+				<Coords points="213,673 237,673 247,667 264,667 271,673 385,675 403,669 428,668 428,674 445,669 455,669 472,680 478,675 518,677 520,669 525,669 527,675 542,675 560,682 572,674 578,674 592,670 634,670 636,676 672,676 674,670 685,670 691,671 693,679 704,677 763,677 819,673 849,673 851,681 898,679 924,680 924,688 914,689 904,689 849,687 789,688 763,686 634,685 309,686 264,683 213,683" />
+				<Baseline points="213,683 513,684 924,688" />
+				<TextEquiv index="1">
+					<Unicode>auskomme, eine Mark an die Stadt bezahlen müsse, falls seine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r17l4" points="213,693 229,693 235,700 247,700 247,694 271,694 283,699 309,700 341,700 341,694 353,694 354,700 397,700 410,701 410,695 423,695 437,700 447,702 462,694 474,694 474,701 537,701 551,695 555,695 555,711 474,711 410,711 392,711 309,710 264,710 235,710 213,710" baseline="213,709 555,711" reason: differs: "mmeI" against "me Leut" | Wikisource:  | next_nc_e1: Nachbarn oder andere fromme I | german_print2_15: Nachbarn oder andere fromme I -->
+			<TextLine id="r17l5" custom="readingOrder {index:5;}">
+				<Coords points="213,720 225,720 225,727 257,726 257,720 262,720 263,726 278,726 279,720 284,720 285,727 356,727 356,721 406,721 408,727 418,727 419,721 429,721 430,727 448,725 486,725 498,727 507,721 549,722 552,728 608,728 705,722 707,729 717,729 726,732 746,723 759,723 768,730 775,730 783,723 794,723 820,733 826,724 836,724 843,730 873,724 892,725 910,730 924,731 924,740 877,740 759,738 213,735" />
+				<Baseline points="213,735 646,737 924,740" />
+				<TextEquiv index="1">
+					<Unicode>beschrieen oder beläuteten. In einer auf das Recht der Bann-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r17l6" custom="readingOrder {index:6;}">
+				<Coords points="212,752 248,752 250,746 254,746 256,752 266,752 291,746 296,746 297,752 349,753 349,746 354,746 356,752 368,747 379,747 380,753 430,747 446,747 447,753 456,753 457,747 468,747 470,753 493,753 494,747 505,747 507,754 544,757 545,748 556,748 558,754 570,754 597,748 600,748 604,754 635,753 642,748 647,748 649,754 660,754 666,748 671,748 673,755 725,749 743,749 747,755 758,755 759,749 771,749 772,756 815,750 837,750 838,756 849,756 859,754 901,756 908,751 923,751 923,766 370,763 349,767 330,767 309,762 212,762" />
+				<Baseline points="212,762 291,761 923,766" />
+				<TextEquiv index="1">
+					<Unicode>meile bezüglichen Urkunde der fürstlichen Brüder Ernst und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r17l7" custom="readingOrder {index:7;}">
+				<Coords points="214,773 231,772 249,772 251,778 270,778 270,772 286,772 317,778 384,777 391,778 393,785 421,774 529,778 543,780 560,774 565,774 566,780 584,777 611,778 648,782 652,787 674,774 685,774 703,778 706,784 730,783 736,775 748,775 749,782 759,782 776,776 788,776 807,782 808,776 819,776 843,784 849,776 860,776 861,782 890,784 897,777 915,777 916,784 924,784 924,792 703,790 649,792 648,786 633,789 611,790 571,789 529,794 512,794 464,792 375,792 332,788 214,788" />
+				<Baseline points="214,788 674,789 924,792" />
+				<TextEquiv index="1">
+					<Unicode>Albrecht vom 31. August 1470 heiſst es, daſs die Stadt dasselbe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r17l8" points="213,804 248,804 248,798 259,798 272,804 285,804 345,804 374,805 390,799 396,799 398,805 434,805 434,799 440,799 441,805 467,805 467,799 477,799 491,803 502,806 517,799 522,799 524,807 533,807 535,800 546,800 548,806 575,806 591,800 594,800 599,807 611,807 612,800 629,800 664,801 664,816 659,816 594,815 345,815 322,815 296,814 285,813 285,819 272,819 213,814" baseline="213,814 272,814 628,815 664,816" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: nach gemeinem Landrechte haben solle. ³)
+ | german_print2_15: nach gemeinem Landrechte haben solle. ²)
+ -->
+			<TextLine id="r17l9" custom="readingOrder {index:9;}">
+				<Coords points="265,826 276,825 288,825 313,825 349,825 349,831 442,831 443,825 458,825 458,831 491,834 492,826 502,826 504,832 533,828 556,833 573,830 594,832 595,826 607,826 607,832 631,827 663,827 696,830 708,834 709,840 748,834 769,833 860,834 883,836 886,828 895,828 898,835 908,835 909,829 923,829 923,845 909,845 784,843 744,841 712,843 435,841 295,844 288,840 265,839" />
+				<Baseline points="265,840 658,841 923,844" />
+				<TextEquiv index="1">
+					<Unicode>Obgleich man also ein Gesetzbuch hatte, so war man doch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r17l10" custom="readingOrder {index:10;}">
+				<Coords points="213,851 224,851 230,857 255,851 260,851 261,857 296,857 296,851 308,851 309,857 357,858 357,851 370,851 371,858 394,853 412,851 429,851 436,855 506,858 508,852 520,852 521,858 533,858 547,865 552,853 561,853 575,858 576,852 590,852 592,859 626,858 669,860 669,853 683,853 705,858 713,853 723,853 726,859 753,859 771,853 776,853 790,854 797,861 803,854 813,854 836,858 862,858 875,860 875,853 877,853 902,860 923,861 923,871 736,868 705,868 650,871 603,871 575,868 521,868 490,866 474,872 462,872 429,868 380,867 273,871 213,867" />
+				<Baseline points="213,867 771,868 876,869 923,871" />
+				<TextEquiv index="1">
+					<Unicode>häufig über die Geltung oder Auslegung einzelner Rechtssätze im</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r17l11" custom="readingOrder {index:11;}">
+				<Coords points="213,877 230,877 231,883 241,883 243,877 261,877 274,882 309,883 309,877 374,877 393,885 398,877 412,877 413,883 425,883 444,877 450,877 457,878 458,885 483,885 483,878 494,878 494,884 518,878 524,878 526,885 548,884 550,878 561,878 568,884 606,878 617,878 618,886 637,886 674,879 696,879 697,885 777,886 784,879 794,879 796,888 804,888 808,893 828,880 840,880 841,887 924,887 924,896 840,895 805,897 794,894 777,898 761,898 753,894 744,894 741,900 727,900 725,894 686,894 677,900 674,900 637,893 213,893" />
+				<Baseline points="213,893 807,894 924,896" />
+				<TextEquiv index="1">
+					<Unicode>Unklaren. Bei der Beschaffenheit des Sachenspiegels, der zwar</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r17l12" custom="readingOrder {index:12;}">
+				<Coords points="213,903 224,903 225,909 236,909 237,903 249,903 250,909 260,909 269,911 283,904 299,904 332,910 333,903 344,903 345,910 385,907 438,907 488,910 490,904 500,904 517,912 524,904 534,904 536,910 549,910 565,904 638,904 656,913 668,910 739,911 759,913 782,912 811,907 869,906 891,913 923,913 923,923 914,923 739,920 733,923 722,923 638,920 594,920 584,918 549,920 438,919 402,922 321,919 213,919" />
+				<Baseline points="213,919 565,919 923,922" />
+				<TextEquiv index="1">
+					<Unicode>hohes Ansehen genoſs und das Vorbild einer groſsen Anzahl von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r17l13" custom="readingOrder {index:13;}">
+				<Coords points="213,929 235,929 235,936 246,936 247,929 262,929 269,932 363,935 363,929 401,929 432,936 433,929 447,929 448,936 478,936 478,930 483,930 496,934 596,936 607,935 627,930 638,930 645,936 691,937 697,939 703,931 722,934 731,939 746,932 849,940 851,932 905,933 923,938 923,948 853,951 850,951 840,945 828,951 812,951 775,947 722,946 564,947 213,945" />
+				<Baseline points="213,945 591,945 923,948" />
+				<TextEquiv index="1">
+					<Unicode>Weistümern und Stadtrechten war, ist das nichts Auffälliges. Man</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r17l14" custom="readingOrder {index:14;}">
+				<Coords points="212,961 219,957 230,955 236,955 237,962 261,958 268,958 279,961 293,955 304,955 304,961 340,963 343,955 353,955 355,961 365,961 366,955 377,955 378,962 401,961 416,955 433,955 453,956 455,964 466,962 514,962 516,956 526,956 527,962 554,957 557,963 651,962 668,969 673,962 723,964 735,957 746,957 754,963 818,958 819,966 830,958 834,958 836,965 859,958 868,958 870,965 922,965 922,971 912,971 905,977 893,977 868,974 746,972 692,975 532,972 335,971 259,976 248,976 219,971 218,977 212,977" />
+				<Baseline points="212,971 922,974" />
+				<TextEquiv index="1">
+					<Unicode>pflegte in solchen Fällen sich bei einem angesehenen Schöffenge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r17l15" custom="readingOrder {index:15;}">
+				<Coords points="212,987 221,982 226,982 237,987 238,981 250,981 292,981 292,987 338,987 366,982 380,982 390,989 402,987 481,988 495,994 501,982 512,982 514,990 522,990 535,984 547,982 558,982 560,988 582,988 586,982 591,982 593,989 602,989 605,982 619,982 629,989 640,989 646,982 706,982 708,989 720,987 776,989 816,984 852,984 859,990 872,990 872,984 874,984 923,991 923,999 835,1000 725,998 629,1000 512,997 366,998 344,996 338,1002 325,1002 292,998 250,1000 212,997" />
+				<Baseline points="212,997 923,999" />
+				<TextEquiv index="1">
+					<Unicode>richt, das gewissermassen als Oberhof galt, Rats zu erholen. So</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r17l16" points="211,1007 223,1007 223,1013 235,1013 236,1007 241,1007 250,1010 305,1015 306,1008 318,1007 328,1007 329,1014 334,1014 362,1015 363,1007 375,1007 376,1014 386,1014 405,1008 422,1008 449,1012 470,1014 471,1008 482,1008 483,1014 506,1014 516,1016 517,1008 528,1008 530,1014 547,1012 559,1012 587,1008 599,1008 606,1014 613,1014 636,1008 650,1008 652,1016 662,1014 674,1009 685,1009 715,1015 752,1013 769,1009 773,1009 781,1015 808,1015 829,1014 846,1009 861,1009 861,1003 877,1003 895,1018 901,1011 913,1011 914,1017 923,1017 923,1026 913,1027 901,1027 895,1026 877,1034 861,1034 861,1027 846,1027 769,1025 587,1024 561,1018 559,1024 506,1024 422,1024 273,1024 251,1024 223,1023 211,1023" baseline="211,1022 752,1024 923,1026" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: holten sich die Gotteshausleute ihr Recht in Chémnitz, ) die | german_print2_15: holten sich die Gotteshausleute ihr Recht in Chemnitz, ¹⁴) die -->
+			<!-- line left out: id="r17l17" points="210,1035 221,1033 232,1033 239,1039 282,1034 287,1034 295,1037 325,1039 333,1033 345,1033 362,1033 362,1039 375,1035 382,1033 397,1033 406,1039 417,1039 418,1047 437,1039 454,1034 459,1034 460,1040 479,1039 490,1039 502,1040 511,1042 521,1033 532,1033 534,1041 545,1040 555,1040 567,1034 598,1034 598,1040 634,1040 636,1034 646,1034 649,1040 664,1040 675,1034 679,1034 681,1041 693,1040 714,1040 749,1041 753,1034 767,1034 773,1035 801,1042 816,1042 829,1036 834,1036 837,1044 845,1044 854,1036 859,1036 868,1042 887,1042 900,1043 900,1050 912,1039 922,1039 922,1054 865,1057 861,1057 859,1051 767,1055 749,1055 731,1055 722,1049 703,1050 622,1050 502,1050 422,1052 418,1052 406,1050 325,1049 256,1050 239,1050 210,1049" baseline="210,1049 521,1049 854,1051 922,1052" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Chemnitzer Schöffen, wie aus den Urkunden hervorgeht, in Le ipzig, ⁵) | german_print2_15: Chemnitzer Schöffen, wie aus den Urkunden hervorgeht, in Le ipzig.*) -->
+			<!-- line left out: id="r17l18" points="210,1065 233,1065 233,1059 243,1059 262,1059 262,1065 268,1065 279,1073 301,1061 308,1061 335,1060 341,1060 361,1065 362,1059 373,1059 381,1065 406,1064 432,1060 445,1060 447,1070 471,1065 497,1065 506,1063 518,1063 543,1066 561,1066 576,1060 587,1060 588,1067 600,1066 616,1066 628,1060 645,1060 647,1066 657,1066 660,1060 673,1060 680,1066 698,1066 707,1063 719,1063 721,1070 733,1067 753,1064 766,1063 777,1063 785,1065 849,1062 866,1062 880,1069 891,1069 898,1062 909,1062 911,1070 921,1070 921,1075 909,1078 891,1081 880,1081 849,1078 785,1077 743,1077 733,1077 719,1076 698,1081 680,1081 518,1078 497,1081 487,1081 486,1075 445,1075 432,1080 423,1080 396,1076 361,1076 351,1076 341,1075 308,1080 301,1080 210,1075" baseline="210,1075 576,1075 753,1076 921,1078" reason: differs: "welc" against "⟦⟧ ⟦" | Wikisource:  | next_nc_e1: welches (zwischen 1156—1170) von dem Markgrafen Otto mit Magde- | german_print2_15: welches (zwischen 1156— 1170) von dem Markgrafen Otto mit Magde- -->
+			<TextLine id="r17l19" custom="readingOrder {index:19;}">
+				<Coords points="210,1085 223,1085 223,1091 267,1085 289,1085 290,1092 361,1091 361,1085 379,1085 415,1086 428,1091 429,1085 441,1085 448,1086 449,1093 464,1093 464,1086 475,1086 475,1092 509,1092 529,1086 572,1086 596,1093 615,1086 627,1086 628,1093 659,1092 661,1086 672,1086 674,1092 708,1091 739,1093 761,1093 765,1087 776,1087 778,1096 789,1093 852,1093 853,1101 891,1088 906,1089 921,1094 921,1104 845,1104 776,1102 312,1102 282,1106 256,1106 244,1106 210,1101" />
+				<Baseline points="210,1101 529,1101 921,1104" />
+				<TextEquiv index="1">
+					<Unicode>burgischem und Hallischem Rechte bewidmet worden war. Die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r17l20" custom="readingOrder {index:20;}">
+				<Coords points="210,1111 232,1111 279,1111 279,1118 296,1111 308,1111 309,1119 327,1117 341,1111 366,1111 366,1117 385,1117 391,1111 405,1111 415,1112 433,1117 438,1111 452,1111 452,1117 461,1117 471,1112 487,1112 488,1118 516,1117 538,1120 541,1112 557,1112 565,1118 599,1119 599,1112 612,1112 612,1118 625,1118 642,1112 657,1112 658,1118 671,1113 682,1113 685,1119 704,1121 712,1113 716,1113 724,1120 745,1119 762,1113 773,1113 774,1121 780,1121 785,1113 790,1113 792,1120 805,1117 874,1120 880,1114 891,1114 898,1118 921,1120 921,1130 891,1130 874,1135 862,1135 844,1129 461,1127 452,1127 452,1133 438,1133 415,1127 385,1127 385,1133 366,1133 366,1127 296,1128 279,1122 279,1128 210,1128" />
+				<Baseline points="210,1127 577,1127 921,1130" />
+				<TextEquiv index="1">
+					<Unicode>Urteile der Magdeburgischen oder der Hallischen Schöffen galten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r17l21" custom="readingOrder {index:21;}">
+				<Coords points="209,1137 221,1137 222,1144 283,1143 283,1137 299,1137 437,1140 467,1138 469,1145 477,1145 490,1138 533,1138 568,1143 635,1144 635,1154 581,1154 547,1154 437,1154 382,1154 318,1154 285,1154 245,1154 234,1154 209,1153" />
+				<Baseline points="209,1153 635,1154" />
+				<TextEquiv index="1">
+					<Unicode>demnach in Chemnitz als Rechtsnormen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>März 1352 dahin abgeändert, daſs derjenige, bei dem das Feuer
+auskomme, eine Mark an die Stadt bezahlen müsse, falls seine
+beschrieen oder beläuteten. In einer auf das Recht der Bann-
+meile bezüglichen Urkunde der fürstlichen Brüder Ernst und
+Albrecht vom 31. August 1470 heiſst es, daſs die Stadt dasselbe
+Obgleich man also ein Gesetzbuch hatte, so war man doch
+häufig über die Geltung oder Auslegung einzelner Rechtssätze im
+Unklaren. Bei der Beschaffenheit des Sachenspiegels, der zwar
+hohes Ansehen genoſs und das Vorbild einer groſsen Anzahl von
+Weistümern und Stadtrechten war, ist das nichts Auffälliges. Man
+pflegte in solchen Fällen sich bei einem angesehenen Schöffenge-
+richt, das gewissermassen als Oberhof galt, Rats zu erholen. So
+burgischem und Hallischem Rechte bewidmet worden war. Die
+Urteile der Magdeburgischen oder der Hallischen Schöffen galten
+demnach in Chemnitz als Rechtsnormen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r18">
+			<Coords points="867,643 878,643 878,652 867,652" />
+		</GraphicRegion>
+		<TextRegion id="r19" custom="readingOrder {index:19;} orientation {0;}">
+			<Coords points="577,696 924,696 924,717 577,717" />
+			<!-- line left out: id="r19l0" points="577,701 589,700 594,700 632,699 643,699 659,702 676,708 681,696 692,696 694,705 715,704 727,703 748,697 759,697 766,703 771,703 780,707 796,697 814,697 821,704 848,704 884,705 886,699 890,699 892,705 924,705 924,717 915,717 873,714 848,713 801,713 796,713 771,712 692,712 681,712 643,711 577,711" baseline="577,711 748,711 924,714" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ute eher als er das Feuer sähen,
+ | german_print2_15: ute eher als er das Feuer sähen,
+ -->
+		</TextRegion>
+		<GraphicRegion id="r20">
+			<Coords points="556,699 573,699 573,715 556,715" />
+		</GraphicRegion>
+		<GraphicRegion id="r21">
+			<Coords points="653,799 669,799 669,801 653,801" />
+		</GraphicRegion>
+		<GraphicRegion id="r22">
+			<Coords points="629,803 669,803 669,814 629,814" />
+		</GraphicRegion>
+		<GraphicRegion id="r23">
+			<Coords points="652,878 670,878 670,895 652,895" />
+		</GraphicRegion>
+		<GraphicRegion id="r24">
+			<Coords points="806,920 809,920 809,922 806,922" />
+		</GraphicRegion>
+		<GraphicRegion id="r25">
+			<Coords points="908,985 910,985 910,987 908,987" />
+		</GraphicRegion>
+		<GraphicRegion id="r26">
+			<Coords points="268,1066 291,1066 291,1076 268,1076" />
+		</GraphicRegion>
+		<GraphicRegion id="r27">
+			<Coords points="265,1091 281,1091 281,1102 265,1102" />
+		</GraphicRegion>
+		<GraphicRegion id="r28">
+			<Coords points="443,1125 448,1125 448,1131 443,1131" />
+		</GraphicRegion>
+		<TextRegion id="r29" custom="readingOrder {index:29;} orientation {0;}">
+			<Coords points="209,1198 920,1198 920,1237 209,1237" />
+			<!-- line left out: id="r29l0" points="262,1199 268,1198 273,1198 321,1199 331,1203 342,1204 348,1199 363,1199 385,1199 448,1199 487,1202 524,1200 533,1199 538,1199 546,1204 578,1204 587,1203 592,1203 626,1199 646,1199 659,1206 664,1199 674,1199 697,1206 705,1205 725,1205 771,1204 781,1204 823,1205 833,1206 843,1200 847,1200 859,1204 866,1207 882,1200 886,1200 901,1202 912,1205 920,1206 920,1216 913,1216 833,1213 725,1216 716,1216 685,1212 646,1213 635,1213 616,1212 592,1213 587,1213 578,1212 560,1213 496,1216 487,1216 467,1216 448,1213 363,1213 294,1213 273,1216 268,1216 262,1207" baseline="262,1212 574,1212 591,1213 605,1217 645,1212 659,1212 920,1213" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ¹) Urkundenbuch Nr. 434. Hier ist wohl das sogenannte unechte Ding | german_print2_15: ¹) Urkundenbuch Nr. 434. Hier ist wohl das sogenannte unechte Ding -->
+			<!-- line left out: id="r29l1" points="209,1225 219,1224 245,1220 260,1220 278,1223 278,1230 305,1220 320,1220 359,1220 383,1222 383,1231 401,1224 409,1220 419,1220 419,1226 430,1226 434,1231 447,1221 462,1221 519,1224 519,1234 434,1235 430,1235 419,1233 349,1237 338,1237 315,1233 220,1237 209,1237" baseline="209,1233 493,1233 519,1234" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: gemeint. Vergl. S. 180, Anm. 2.
+ | german_print2_15: gemeint. Vergl. S. 180, Anm. 2.
+ -->
+		</TextRegion>
+		<TextRegion id="r30" custom="readingOrder {index:30;} orientation {0;}">
+			<Coords points="261,1245 719,1245 719,1342 261,1342" />
+			<!-- line left out: id="r30l0" points="261,1245 293,1245 305,1246 320,1245 330,1245 360,1246 360,1257 377,1247 392,1247 407,1249 408,1257 423,1249 434,1247 443,1247 444,1257 470,1246 494,1246 508,1248 508,1256 523,1246 533,1246 568,1247 611,1251 630,1248 632,1248 632,1255 611,1259 562,1259 433,1263 423,1263 392,1260 364,1261 360,1261 286,1259 268,1249 261,1249" baseline="261,1259 617,1258 632,1258" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ²) Buch II, Art. 38. Mitt. d. Vereins f | german_print2_15: ²) Buch II, Art. 38. Mitt. d. Vereins f -->
+			<!-- line left out: id="r30l1" points="264,1271 298,1271 322,1271 354,1272 387,1272 397,1276 406,1272 434,1272 434,1285 298,1290 264,1290" baseline="264,1285 434,1285" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Urkundenbuch | german_print2_15: *) Urkundenbuch -->
+			<!-- line left out: id="r30l2" points="263,1297 294,1297 308,1298 319,1304 327,1304 328,1298 333,1298 355,1298 388,1297 399,1297 409,1298 422,1305 427,1298 438,1298 467,1298 475,1300 494,1298 502,1298 502,1304 520,1303 528,1302 532,1302 542,1297 548,1297 560,1301 568,1304 586,1303 598,1302 602,1302 609,1305 613,1298 622,1298 642,1301 642,1310 609,1311 573,1312 509,1315 500,1315 467,1311 355,1311 294,1314 269,1314 263,1305" baseline="263,1311 572,1310 642,1310" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ¹)Es sind wohl die Dorfgerichte, nicht | german_print2_15: ³⁴) Es sind wohl die Dorfgerichte, nicht D -->
+			<!-- line left out: id="r30l3" points="262,1322 266,1322 309,1324 323,1326 323,1335 338,1323 349,1323 349,1334 366,1324 388,1324 414,1324 425,1329 443,1326 448,1326 449,1334 465,1323 490,1323 561,1323 594,1323 641,1324 664,1326 664,1335 679,1329 685,1328 719,1328 719,1337 698,1341 685,1341 684,1335 667,1337 641,1338 478,1338 432,1338 414,1338 397,1338 327,1338 290,1338 273,1342 265,1342 262,1324" baseline="262,1337 719,1337" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ⁵) Mitt. d. Vereins ſ. Chemn. Gesch. III, S. 94 f.
+ | german_print2_15: ³) Mitt. d. Vereins f. Chemn. Gesch. III, S. 94 f.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r31">
+			<Coords points="636,1244 708,1244 708,1285 636,1285" />
+		</GraphicRegion>
+		<TextRegion id="r32" custom="readingOrder {index:32;} orientation {0;}">
+			<Coords points="726,1246 895,1246 895,1289 726,1289" />
+			<!-- line left out: id="r32l0" points="728,1249 736,1247 750,1247 752,1253 759,1253 770,1246 774,1246 775,1252 798,1247 804,1247 821,1247 823,1258 838,1250 849,1250 850,1258 868,1251 883,1251 895,1253 895,1258 889,1259 883,1260 826,1261 823,1261 750,1260 736,1260 728,1256" baseline="728,1260 895,1260" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Gesch. III, S. 110. | german_print2_15: Gesch. III, S. 110. -->
+			<!-- line left out: id="r32l1" points="726,1273 734,1272 740,1272 748,1273 751,1283 767,1273 780,1273 794,1273 832,1277 833,1284 848,1275 857,1275 873,1277 873,1286 857,1289 848,1289 794,1286 780,1286 751,1286 726,1285" baseline="726,1285 812,1285 873,1286" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: III, Art. 66, § 1
+ | german_print2_15: III. Art. 66, § 1
+ -->
+		</TextRegion>
+		<GraphicRegion id="r33">
+			<Coords points="268,1245 272,1245 272,1264 268,1264" />
+		</GraphicRegion>
+		<GraphicRegion id="r34">
+			<Coords points="429,1272 441,1272 441,1285 429,1285" />
+		</GraphicRegion>
+		<TextRegion id="r35" custom="readingOrder {index:35;} orientation {0;}">
+			<Coords points="447,1271 649,1271 649,1290 447,1290" />
+			<!-- line left out: id="r35l0" points="447,1277 451,1277 458,1282 472,1275 501,1275 502,1282 528,1271 533,1271 545,1271 564,1271 569,1276 581,1278 581,1271 602,1271 619,1271 619,1277 629,1277 631,1278 632,1284 641,1284 647,1278 649,1278 649,1280 647,1280 641,1287 629,1287 619,1290 581,1290 564,1285 545,1285 533,1290 528,1290 488,1285 447,1285" baseline="447,1285 528,1285 649,1286" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: r. 216. Sachsenspiegel
+ | german_print2_15: r. 216. Sachsenspiege!
+ -->
+		</TextRegion>
+		<GraphicRegion id="r36">
+			<Coords points="643,1294 788,1294 788,1318 643,1318" />
+		</GraphicRegion>
+		<TextRegion id="r37" custom="readingOrder {index:37;} orientation {0;}">
+			<Coords points="422,1528 602,1528 602,1540 422,1540" />
+			<!-- line left out: id="r37l0" points="422,1533 424,1528 436,1528 456,1528 469,1528 480,1528 499,1528 525,1528 542,1528 564,1529 602,1529 602,1537 573,1539 551,1539 480,1537 441,1540 434,1540 422,1537" baseline="422,1537 602,1537" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: egſtal slub dresden de ppnos
+ | german_print2_15: enfelbdheedende ooneois0
+ -->
+		</TextRegion>
+		<GraphicRegion id="r38">
+			<Coords points="0,0 1000,0 1000,194 0,194" />
+		</GraphicRegion>
+		<SeparatorRegion id="r39">
+			<Coords points="970,492 976,492 976,1285 970,1285" />
+		</SeparatorRegion>
+		<GraphicRegion id="r40">
+			<Coords points="0,1516 1000,1516 1000,1564 0,1564" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+zwölf Groschen verlangten, beschloß man, gegen die Leute des
+Abtes ebenso zu verfahren.⟦⟧
+Diese Nachricht beweist, daß, wie die Bürger in gewissem
+Sinne abhängig von dem Gerichte des Abtes waren, so auch dessen
+Unterthanen beim Stadtgerichte ihr Recht suchen mußten. Das
+ist nichts neues. Bereits in dem Vertrage zwischen Abt und Stadt
+vom Jahre 1331 ist gesagt, daß die Gotteshausleute ihre Urteile
+in der Stadt holen sollten, falls sie sie nicht selbst finden könnten.
+Damit ist die Einholung einer Rechtsbelehrung gemeint, die im
+mittelalterlichen Rechtsleben eine so grosse Rolle spielt. Das im
+Landdinge geltende Recht war das des Sachsenspiegels, der um
+das Jahr 1230 von dem Anhaltischen Edelmann Eike von Repgowe
+niedergeschrieben wurde und, obwohl eine Privatarbeit, doch als
+Gesetzbuch galt. In Chemnitzer Urkunden wird zweimal auf das
+Landrecht des Sachsenspiegels Bezug genommen. Die Bestimmung
+desselben,⟦⟧ daß derjenigen den Feuerschaden ersetzen solle, der
+das Feuer verwahrlost habe, wurde durch eine Ratswillkür vom 11.
+März 1352 dahin abgeändert, daß derjenige, bei dem das Feuer
+auskomme, eine Mark an die Stadt bezahlen müsse, falls seine
+Nachbarn oder andere fromme Leute eher als er das Feuer sähen,
+beschrieen oder beläuteten. In einer auf das Recht der
+Bannmeile bezüglichen Urkunde der fürstlichen Brüder Ernst und
+Albrecht vom 31. August 1470 heißt es, daß die Stadt dasselbe
+nach gemeinem Landrechte haben solle.⟦⟧
+Obgleich man also ein Gesetzbuch hatte, so war man doch
+häufig über die Geltung oder Auslegung einzelner Rechtssätze im
+Unklaren. Bei der Beschaffenheit des Sachenspiegels, der zwar
+hohes Ansehen genoß und das Vorbild einer großen Anzahl von
+Weistümern und Stadtrechten war, ist das nichts Auffälliges. Man
+pflegte in solchen Fällen sich bei einem angesehenen
+Schöffengericht, das gewissermassen als Oberhof galt, Rats zu erholen. So
+holten sich die Gotteshausleute ihr Recht in Chemnitz,⟦⟧ die
+Chemnitzer Schöffen, wie aus den Urkunden hervorgeht, in Leipzig,⟦⟧
+welches (zwischen 1156–1170) von dem Markgrafen Otto mit
+Magdeburgischem und Hallischem Rechte bewidmet worden war. Die
+Urteile der Magdeburgischen oder der Hallischen Schöffen galten
+demnach in Chemnitz als Rechtsnormen.
+-->
+	</Page>
+</PcGts>

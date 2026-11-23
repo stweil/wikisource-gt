@@ -19,6 +19,7 @@ y.update({'text-licence': 'CC BY-SA 4.0', 'text-fetched': max(d['timestamp'] for
           'proofread-pages': sum(d['level'] >= 3 for d in pages), 'transcription-level': 'level2', 'models': ', '.join(b['models']),
           'tailed-z': 'ʒ (U+0292)' if b['zform'] == 'ʒ' else 'z', 'pages': b.get('PAGE files', 0), 'lines-used': b.get('lines used', 0), 'lines-left-out': b.get('lines left out', 0)})
 if b.get('eszett'): y['eszett'] = f"the print sets {b['eszett']} for ß"
+if b.get('longs') is False: y['long-s'] = 'none in the print'
 y.update(extra)
 open(work + '/work.yml', 'w', encoding='utf-8').write(''.join(f'{k}: {json.dumps(v, ensure_ascii=False) if isinstance(v, str) and (":" in v or v == "") else v}\n' for k, v in y.items()))
 open(work + '/CONTRIBUTORS.md', 'w', encoding='utf-8').write(f'# Contributors of the Wikisource text\n\nWork: {title} ({site})\n\nUsers who edited the pages used here (number of pages), from the page\nhistories as fetched:\n\n'

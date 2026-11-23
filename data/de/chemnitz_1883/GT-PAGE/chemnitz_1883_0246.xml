@@ -1,0 +1,390 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:58:16</Created>
+		<LastChange>2026-11-23T13:58:16</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/246 revision 5082293 of 2026-10-25T07:53:43Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0246.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro11132644312632809451" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="15" regionRef="r15" />
+				<RegionRefIndexed index="16" regionRef="r16" />
+				<RegionRefIndexed index="17" regionRef="r17" />
+				<RegionRefIndexed index="20" regionRef="r20" />
+				<RegionRefIndexed index="22" regionRef="r22" />
+				<RegionRefIndexed index="23" regionRef="r23" />
+				<RegionRefIndexed index="25" regionRef="r25" />
+				<RegionRefIndexed index="27" regionRef="r27" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 1000,0 1000,203 0,203" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="223,207 929,207 929,434 223,434" />
+			<!-- line left out: id="r1l0" points="224,207 236,207 254,208 254,215 266,213 313,213 336,216 337,207 342,207 343,215 349,215 354,207 365,207 391,208 399,213 416,215 422,208 434,208 442,211 459,213 468,208 470,208 494,222 498,208 515,208 517,217 524,217 538,208 550,208 551,216 562,214 583,210 593,209 609,209 620,214 622,208 649,208 682,209 725,209 788,209 796,215 850,214 857,212 862,212 882,215 902,218 903,209 914,209 922,216 924,216 924,225 855,225 788,225 772,225 764,224 649,224 569,224 550,224 515,224 494,224 411,223 313,223 236,223 224,223" baseline="224,223 469,223 757,224 924,225" reason: differs: "lebe" against "an s" | Wikisource:  | next_nc_e1: leben an sich brächten. Als der Graf Dohna im Februar 1611 der | german_print2_15:  -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="223,234 235,234 242,237 266,239 267,233 279,233 280,241 292,239 379,239 381,233 394,233 394,239 438,234 507,234 532,238 538,234 581,234 595,241 601,234 612,234 619,243 627,243 638,234 659,234 667,240 700,240 761,235 763,242 774,238 791,238 806,243 813,235 824,235 825,242 836,241 852,236 864,236 873,242 901,243 908,236 912,236 915,243 921,243 921,251 873,251 870,257 865,257 864,250 813,251 441,249 405,251 223,248" />
+				<Baseline points="223,249 595,249 921,251" />
+				<TextEquiv index="1">
+					<Unicode>Ständeversammlung eine Botschaft des Kaisers in deutscher Sprache</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="224,265 280,265 284,259 295,259 297,265 326,266 327,259 339,259 340,266 374,265 388,259 393,259 396,266 412,265 417,259 429,259 432,266 456,265 463,259 468,259 488,264 508,264 520,267 521,273 540,267 552,266 560,260 565,260 567,266 576,266 580,260 595,260 606,269 615,266 631,266 631,260 642,260 652,266 683,264 722,267 724,260 736,260 738,267 835,267 845,261 869,261 870,267 906,262 922,265 922,277 738,277 595,275 525,276 501,278 489,278 429,274 350,276 224,275" />
+				<Baseline points="224,275 388,274 922,277" />
+				<TextEquiv index="1">
+					<Unicode>zu verkündigen beabsichtigte, erhob sich unter allgemeinem Tumulte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l3" points="801,294 805,294 817,293 824,293 838,287 850,287 851,295 862,295 863,287 874,287 881,293 908,293 919,287 928,287 928,303 908,303 863,303 850,302 817,302 801,300" baseline="801,302 838,302 928,303" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: ber böhmisch | german_print2_15: dber böhmisch -->
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="223,317 274,318 275,310 286,310 294,316 310,316 348,310 356,310 358,317 408,315 463,317 469,311 479,311 500,320 533,317 551,318 603,316 654,319 660,312 671,312 673,319 706,319 739,316 755,318 769,312 774,312 777,320 817,315 829,319 851,321 861,319 918,319 919,313 928,313 928,328 813,328 785,326 739,328 720,324 706,330 691,330 671,327 638,327 628,333 617,333 615,327 516,329 508,325 479,327 449,327 416,331 408,331 385,326 358,326 356,332 348,332 327,319 318,319 316,326 223,326" />
+				<Baseline points="223,326 928,328" />
+				<TextEquiv index="1">
+					<Unicode>zu reden.“ Ja 1615 wurde sogar ein Sprachengesetz beschlossen und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="224,343 264,343 280,337 295,337 297,343 336,342 353,337 371,337 406,337 414,343 439,343 453,337 459,337 462,344 477,344 486,341 519,343 538,342 540,351 559,343 570,343 578,346 586,338 590,338 592,346 603,338 614,338 615,346 677,343 677,353 590,353 531,355 521,355 471,352 224,352" />
+				<Baseline points="224,352 677,353" />
+				<TextEquiv index="1">
+					<Unicode>vom Kaiser Matthias bestätigt, welches mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="225,363 246,363 249,370 259,370 260,363 286,362 297,362 307,369 330,368 332,362 343,362 343,370 374,367 402,369 408,371 416,363 427,363 429,369 477,370 479,363 490,363 497,369 503,367 516,367 530,372 537,364 542,364 544,370 565,369 595,364 608,364 609,370 633,368 679,370 701,364 738,364 740,370 779,370 805,364 814,370 837,369 849,371 859,364 871,364 881,371 891,371 898,364 908,364 916,370 929,370 929,380 446,379 416,378 405,376 402,384 396,384 374,378 225,378" />
+				<Baseline points="225,378 929,380" />
+				<TextEquiv index="1">
+					<Unicode>Unduldsamkeit jeden deutschen Laut in Böhmen unterdrücken</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l7" points="224,398 232,396 240,389 256,389 270,392 282,396 290,388 294,388 299,394 336,388 341,388 356,390 384,394 403,388 413,388 415,395 426,394 465,389 468,389 493,389 496,395 530,395 553,397 560,390 565,390 567,396 576,396 599,398 601,389 611,389 633,392 654,397 656,390 666,390 701,390 728,390 731,397 743,396 747,396 761,398 770,397 798,390 816,390 820,396 825,396 836,397 837,390 848,390 850,397 859,397 877,390 882,390 882,399 890,399 898,390 902,390 909,391 929,394 929,406 917,406 909,405 882,406 848,406 837,406 825,405 798,405 761,404 747,405 740,407 721,407 701,407 698,407 633,405 576,406 567,406 541,405 468,405 465,405 299,404 290,393 282,404 232,404 224,402" baseline="224,404 506,404 877,405 929,406" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: sollte.) Dazu kam aber noch, daſs der religiöse Friede selbst | german_print2_15: sollte.) Dazu kam aber noch, dals der religiöse Friede selbst -->
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="223,415 235,415 254,420 264,415 279,415 292,422 298,414 310,414 316,420 337,415 349,414 355,414 357,421 378,420 378,414 390,414 402,418 421,418 431,423 432,415 437,415 439,421 458,421 464,423 472,417 504,415 505,423 516,421 566,421 575,424 577,415 589,415 589,422 601,422 615,428 628,416 642,416 657,423 691,422 703,416 714,416 716,424 736,420 811,424 818,416 829,416 831,424 841,422 894,422 898,416 909,416 910,424 929,422 929,432 829,431 775,433 691,431 601,434 577,434 545,430 421,430 390,432 326,430 223,430" />
+				<Baseline points="223,430 929,431" />
+				<TextEquiv index="1">
+					<Unicode>durch den Majestätsbrief keineswegs als gesichert angesehen werden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Ständeversammlung eine Botschaft des Kaisers in deutscher Sprache
+zu verkündigen beabsichtigte, erhob sich unter allgemeinem Tumulte
+zu reden.“ Ja 1615 wurde sogar ein Sprachengesetz beschlossen und
+vom Kaiser Matthias bestätigt, welches mit
+Unduldsamkeit jeden deutschen Laut in Böhmen unterdrücken
+durch den Majestätsbrief keineswegs als gesichert angesehen werden</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="224,284 760,284 760,303 224,303" />
+			<!-- line left out: id="r2l0" points="224,285 235,285 243,291 252,291 271,284 285,284 304,287 313,290 330,298 341,298 344,285 349,285 376,285 399,289 411,285 421,285 437,291 441,291 452,289 457,289 484,291 505,285 511,285 525,288 551,290 566,294 572,286 596,286 603,292 614,292 615,286 626,286 628,299 651,292 667,292 682,286 700,286 720,286 722,292 760,292 760,302 709,302 700,301 667,302 631,303 628,303 596,302 585,302 551,301 511,301 452,301 441,300 421,301 411,301 399,300 382,301 362,301 349,300 341,301 304,301 292,301 224,300" baseline="224,300 330,300 760,299" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: der Ruf: „Deutsch ist in Deutschland, in Böhmen
+ | german_print2_15: der Ruf: „Deutsch ist in Deutschland, in Böhmen
+ -->
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="789,283 800,283 800,305 789,305" />
+		</GraphicRegion>
+		<GraphicRegion id="r4">
+			<Coords points="698,335 700,335 700,353 698,353" />
+		</GraphicRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="705,338 929,338 929,354 705,354" />
+			<!-- line left out: id="r5l0" points="705,344 723,344 725,338 735,338 737,346 749,344 766,344 786,344 787,338 798,338 799,346 811,344 828,339 848,339 850,345 865,343 871,343 906,344 918,345 920,339 929,339 929,354 871,354 798,354 766,354 735,354 725,354 705,353" baseline="705,353 881,353 929,354" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: rakonischer Härte und
+ | german_print2_15: rakonischer Härte und
+ -->
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="316,436 347,436 347,459 316,459" />
+		</GraphicRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="223,440 932,440 932,774 223,774" />
+			<!-- line left out: id="r7l0" points="224,440 235,440 243,446 254,446 266,447 273,444 285,444 293,453 348,446 364,441 374,441 411,446 429,440 434,440 436,447 446,447 448,441 453,441 454,447 465,447 494,446 505,446 517,448 560,447 574,442 579,442 581,448 589,448 594,442 631,442 631,450 645,450 653,442 663,442 678,448 688,448 690,442 695,442 698,449 714,448 738,442 749,442 751,450 762,448 772,448 788,442 803,442 806,448 819,448 825,450 831,442 842,442 844,450 855,448 865,448 867,442 871,442 875,450 885,448 930,448 930,458 922,458 842,457 749,457 688,457 640,457 589,457 537,457 522,457 499,456 434,459 429,459 296,456 235,456 224,456" baseline="224,456 662,456 930,457" reason: differs: "konn" against "erde" | Wikisource:  | next_nc_e1: konnte. ch im Jahre 1609 erhob sich über den Kirchenbau in | german_print2_15: konnte. poch im Jahre 1609 erhob sich über den Kirchenbau in -->
+			<TextLine id="r7l1" custom="readingOrder {index:1;}">
+				<Coords points="225,467 247,467 256,474 270,470 297,472 324,467 336,467 338,473 383,473 385,466 417,466 457,472 492,473 519,471 581,473 583,467 602,467 617,474 640,474 642,467 652,467 660,473 666,467 682,467 708,473 770,468 778,474 786,468 798,468 819,472 846,471 851,475 873,468 885,468 891,471 904,474 904,468 916,468 925,471 928,481 930,481 930,485 873,485 846,483 617,483 599,470 599,483 458,483 336,481 323,482 308,486 298,486 281,482 225,482" />
+				<Baseline points="225,482 341,481 930,483" />
+				<TextEquiv index="1">
+					<Unicode>Klostergrab und Braunau sturmverkündend jener erbitterte Streit,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l2" custom="readingOrder {index:2;}">
+				<Coords points="224,493 236,493 236,500 274,498 286,498 296,500 297,492 307,492 325,493 327,499 389,499 390,492 402,492 403,501 433,492 437,492 446,494 448,501 459,499 521,499 555,497 626,501 627,493 638,493 646,499 704,497 708,503 716,502 727,493 737,493 739,500 760,501 762,493 785,493 785,500 884,500 891,494 930,500 930,509 687,509 679,507 652,509 568,509 533,511 522,511 402,508 224,508" />
+				<Baseline points="224,507 930,509" />
+				<TextEquiv index="1">
+					<Unicode>bei welchem die Regierung trotz der entschieden ungerechten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l3" points="226,519 234,518 243,518 246,525 256,525 260,518 271,518 273,525 293,524 316,524 328,525 342,524 352,524 361,518 366,518 370,525 372,525 398,526 400,518 410,518 418,524 447,519 451,519 454,525 476,525 477,519 488,519 490,527 501,525 511,525 533,519 538,519 538,530 550,525 556,525 557,519 570,519 572,526 580,526 584,519 594,519 603,527 615,527 618,519 627,519 629,526 641,525 650,525 678,519 693,519 696,525 707,525 714,527 721,519 726,519 728,526 745,525 751,522 761,522 785,525 795,523 806,523 818,525 864,526 871,520 875,520 878,527 881,527 906,532 908,526 920,522 929,522 929,535 823,535 820,535 814,528 806,535 785,535 761,535 707,535 601,535 580,535 501,535 488,534 372,534 370,534 361,526 352,534 328,537 318,537 271,534 235,534 226,534" baseline="226,534 447,534 929,535" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Forderungen²) der beiden katholischen Kirchenfürsten sich auf | german_print2_15: Forderungen²*) der beiden katholischen Kirchenfürsten sich auf -->
+			<TextLine id="r7l4" custom="readingOrder {index:4;}">
+				<Coords points="223,545 235,545 243,551 256,551 292,546 304,546 305,553 316,548 369,548 375,553 382,545 389,544 401,544 407,544 453,545 515,551 573,551 574,545 599,546 610,551 611,545 622,545 623,553 646,545 654,545 657,554 695,549 706,549 729,553 751,552 753,545 758,545 760,551 909,549 931,555 931,557 922,561 676,561 657,559 654,567 646,567 622,561 223,560" />
+				<Baseline points="223,560 931,561" />
+				<TextEquiv index="1">
+					<Unicode>deren Seite stellte. Der unermüdliche Jesuitenorden war ununter-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l5" custom="readingOrder {index:5;}">
+				<Coords points="224,571 229,571 232,577 261,578 268,571 273,571 275,577 315,574 328,571 330,578 341,574 354,574 372,577 382,571 394,570 407,570 423,570 423,577 462,577 469,571 478,571 481,577 556,572 587,577 595,575 606,575 665,579 666,571 676,571 684,580 712,577 756,578 762,580 770,571 774,571 777,577 796,579 803,571 813,571 814,579 835,577 848,571 861,571 871,577 883,579 890,572 901,572 903,580 913,577 923,577 930,581 930,583 923,587 587,587 372,590 362,590 224,586" />
+				<Baseline points="224,585 930,587" />
+				<TextEquiv index="1">
+					<Unicode>brochen thätig Maſsregeln zur Ausrottung des evangelischen Kirchen-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l6" custom="readingOrder {index:6;}">
+				<Coords points="225,600 303,602 319,596 332,596 333,605 344,605 346,597 351,597 363,602 398,602 414,608 419,603 440,599 474,597 504,597 506,605 517,603 565,603 566,597 577,597 592,603 609,603 618,605 633,597 660,597 668,603 676,597 686,597 702,603 789,603 826,597 831,597 834,603 843,603 860,597 874,597 881,603 903,603 906,597 916,597 923,603 931,603 931,613 874,613 800,613 722,613 609,613 473,613 462,613 238,613 225,613" />
+				<Baseline points="225,612 931,612" />
+				<TextEquiv index="1">
+					<Unicode>tums in Böhmen aufzufinden und ins Werk zu setzen. In Kaaden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l7" custom="readingOrder {index:7;}">
+				<Coords points="224,632 233,630 243,630 244,623 263,623 295,629 319,629 320,623 331,623 345,630 406,630 413,623 424,623 438,630 471,629 491,623 498,623 531,623 541,631 548,629 569,629 570,623 581,623 582,631 592,631 607,623 612,623 612,629 625,628 639,623 644,623 646,630 655,630 659,623 668,623 671,629 696,629 697,623 708,623 709,632 734,623 751,623 753,629 774,627 795,630 795,623 797,623 816,630 827,630 828,624 840,624 852,629 867,632 868,623 884,623 900,629 932,629 932,639 697,639 689,637 675,639 350,638 307,641 295,641 263,638 244,639 224,637" />
+				<Baseline points="224,637 932,638" />
+				<TextEquiv index="1">
+					<Unicode>selbst gab es noch eine zahlreiche katholische Partei, obwohl von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l8" custom="readingOrder {index:8;}">
+				<Coords points="223,649 235,649 236,656 309,655 316,649 321,649 358,655 360,649 371,649 373,655 396,654 420,649 428,649 451,655 491,653 527,655 528,649 539,649 541,657 552,653 570,653 611,657 613,649 622,649 687,649 691,653 712,658 723,649 739,649 743,657 761,653 837,655 839,649 871,649 911,655 929,655 929,664 453,664 451,670 439,670 439,664 428,664 428,670 420,670 406,664 384,667 223,664" />
+				<Baseline points="223,664 929,664" />
+				<TextEquiv index="1">
+					<Unicode>dem nachmaligen Superintendenten des Stiftes Meiſsen und Pfarrer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l9" points="224,675 235,675 237,682 257,675 284,675 292,681 308,681 331,681 347,675 353,675 363,676 400,675 405,675 407,682 426,682 430,675 440,675 442,688 460,675 473,675 493,675 494,681 528,681 543,675 554,675 555,683 566,675 571,675 579,681 589,681 589,675 601,675 610,678 631,681 632,688 649,675 660,675 662,683 673,681 700,681 743,680 782,679 798,679 837,675 842,675 849,676 861,680 883,681 931,681 931,690 883,690 842,690 821,695 798,695 782,695 774,683 767,690 747,690 680,690 660,690 635,692 632,692 610,691 601,692 589,692 554,690 528,691 493,691 482,691 473,697 460,697 446,690 417,690 353,690 331,691 290,691 240,691 224,691" baseline="224,690 931,690" reason: differs: "612—15P" against "612–15 " | Wikisource:  | next_nc_e1: in Wurzen Dr. theol. Johann Schreiter, der von 1612—15 Pfarrer in | german_print2_15: in Wurzen Dr. theol. Johann Schreiter, der von 1612— 15 Pfarrer in -->
+			<!-- line left out: id="r7l10" points="225,701 240,701 247,707 270,707 272,701 282,701 284,707 342,706 357,704 395,701 399,701 402,707 410,707 410,701 423,701 433,706 440,701 450,701 464,705 482,705 527,707 529,701 540,701 541,714 560,701 571,701 578,707 589,707 599,709 613,701 624,701 625,707 636,707 645,710 660,701 670,701 676,708 684,701 724,701 727,709 738,707 750,705 761,705 793,706 819,707 886,706 890,706 916,706 925,707 925,716 890,716 819,716 793,716 761,716 693,717 684,717 670,716 636,716 589,716 545,718 541,718 518,717 482,717 477,717 464,716 423,717 410,717 399,716 376,719 357,719 342,718 299,717 270,717 225,717" baseline="225,717 298,716 886,714 925,714" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Kaaden war,³*) berichtet wird, daſs das Volk haufenweise in seine | german_print2_15: Kaaden war, ²³) berichtet wird, daſs das Volk haufenweise in seine -->
+			<TextLine id="r7l11" custom="readingOrder {index:11;}">
+				<Coords points="225,727 237,727 246,734 256,734 258,727 276,727 277,733 289,730 326,733 333,727 338,727 338,735 353,733 406,732 442,734 443,727 454,727 461,733 483,727 488,727 488,733 520,727 522,734 531,734 540,727 551,727 553,735 565,735 568,727 577,727 585,734 618,728 642,727 650,736 657,736 667,735 691,727 702,727 709,733 749,734 791,732 905,734 908,726 918,726 926,732 929,732 929,741 762,742 751,740 749,746 739,746 606,742 393,742 288,746 277,746 269,743 225,743" />
+				<Baseline points="225,743 929,741" />
+				<TextEquiv index="1">
+					<Unicode>Predigt gekommen, der katholischen Messe dagegen nur einer oder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l12" points="223,753 235,753 242,759 291,759 299,753 310,753 313,759 350,756 355,756 366,758 388,758 411,760 417,761 424,753 429,753 449,753 451,761 462,753 474,753 481,759 516,759 535,759 538,766 551,752 563,752 591,767 596,754 607,753 619,753 620,759 635,759 653,753 658,753 665,759 677,757 691,757 764,759 788,759 794,760 805,757 817,757 829,761 836,753 847,753 849,761 860,759 880,753 892,752 897,752 923,752 923,762 931,762 931,765 923,768 897,768 863,768 847,768 824,768 805,768 796,765 788,774 777,774 774,768 767,768 764,774 759,774 691,769 658,769 605,769 541,769 516,769 481,769 429,768 411,771 401,771 322,769 291,769 255,769 235,769 223,769" baseline="223,769 254,768 931,768" reason: differs: "dera" against "⟦⟧ M" | Wikisource:  | next_nc_e1: der andere treu geblieben sei. ) Aber hatte ein päpstlicher Meſs-
+ | german_print2_15: der andere treu geblieben sei.¹²) Aber hatte ein päpstlicher Melſs-
+ -->
+			<TextEquiv index="1">
+				<Unicode>Klostergrab und Braunau sturmverkündend jener erbitterte Streit,
+bei welchem die Regierung trotz der entschieden ungerechten
+deren Seite stellte. Der unermüdliche Jesuitenorden war ununter-
+brochen thätig Maſsregeln zur Ausrottung des evangelischen Kirchen-
+tums in Böhmen aufzufinden und ins Werk zu setzen. In Kaaden
+selbst gab es noch eine zahlreiche katholische Partei, obwohl von
+dem nachmaligen Superintendenten des Stiftes Meiſsen und Pfarrer
+Predigt gekommen, der katholischen Messe dagegen nur einer oder</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="224,779 932,779 932,800 224,800" />
+			<TextLine id="r8l0" custom="readingOrder {index:0;}">
+				<Coords points="224,785 242,779 255,779 273,779 292,787 325,785 406,785 407,779 419,779 421,785 437,782 465,785 467,792 485,779 496,779 497,787 519,785 534,779 554,779 559,785 581,786 659,783 665,787 672,779 676,779 684,785 716,783 735,785 759,791 764,785 776,782 787,782 802,788 810,786 815,781 825,781 838,785 868,782 913,781 932,785 932,792 913,794 659,794 623,797 544,794 496,794 470,796 441,794 353,797 292,794 273,800 229,800 224,800" />
+				<Baseline points="224,795 310,793 932,794" />
+				<TextEquiv index="1">
+					<Unicode>pfaffe es wagen dürfen, den Vorgänger Schreiters auf offner Straſse</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>pfaffe es wagen dürfen, den Vorgänger Schreiters auf offner Straſse</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r9">
+			<Coords points="587,473 614,473 614,483 587,483" />
+		</GraphicRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="223,805 932,805 932,929 223,929" />
+			<TextLine id="r10l0" custom="readingOrder {index:0;}">
+				<Coords points="223,811 276,811 277,805 294,805 296,812 372,811 374,805 390,805 404,811 410,805 421,805 424,811 516,811 528,805 539,805 546,809 570,812 572,818 603,813 638,811 659,813 666,805 677,805 678,813 690,811 757,810 767,810 773,813 780,805 790,805 805,811 830,809 932,811 932,819 729,821 643,820 576,822 421,820 319,824 308,824 294,821 223,821" />
+				<Baseline points="223,821 932,819" />
+				<TextEquiv index="1">
+					<Unicode>zu schlagen und übel zuzurichten, so erscheinen auch unter seinem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l1" custom="readingOrder {index:1;}">
+				<Coords points="224,831 240,831 246,837 257,837 259,831 269,831 302,831 303,838 352,838 355,831 366,831 368,838 377,838 393,831 414,831 421,837 429,831 434,831 441,838 452,838 454,831 466,831 474,837 546,837 552,839 559,831 569,831 591,837 602,837 623,832 634,832 635,840 676,837 700,837 715,831 720,831 724,837 734,837 747,831 758,831 779,844 806,831 811,831 837,831 837,837 849,837 862,831 879,831 880,839 900,836 930,836 930,845 542,847 505,846 495,844 485,847 366,846 313,848 303,848 224,847" />
+				<Baseline points="224,847 930,845" />
+				<TextEquiv index="1">
+					<Unicode>Nachfolger die Verhältnisse nicht in besserm Lichte. Derselbe war</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l2" custom="readingOrder {index:2;}">
+				<Coords points="223,865 246,863 267,857 283,857 284,864 355,863 371,860 434,863 467,858 494,857 496,863 524,863 539,871 544,858 561,858 573,863 574,857 586,857 590,866 600,864 642,863 644,857 660,857 708,860 711,866 718,866 735,857 739,857 741,864 752,864 754,857 764,857 766,863 799,863 815,857 829,857 838,864 847,864 849,857 860,857 864,865 868,865 879,869 881,863 890,863 914,856 930,856 930,871 739,875 735,875 708,872 223,872" />
+				<Baseline points="223,873 930,871" />
+				<TextEquiv index="1">
+					<Unicode>ein Namensvetter von Adam Andreä und hieſs Johann Andreä. Er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r10l3" points="224,892 233,887 245,887 284,886 297,886 322,895 328,889 354,889 366,883 405,883 425,883 427,890 437,890 444,883 449,883 450,889 511,889 511,899 354,899 297,899 233,899 224,898" baseline="224,899 322,898 366,898 511,899" reason: second model: differs: "mins" against "in Sach" | Wikisource: stammte aus Waldheim in | next_nc_e1: stammte aus Waldheim in | german_print2_15: stammte aus Waldheim ins -->
+			<!-- line left out: id="r10l4" points="223,910 228,910 231,916 248,915 255,915 267,916 268,923 287,915 299,915 346,915 361,909 375,909 376,917 388,909 397,909 412,915 432,912 443,912 463,916 465,909 475,909 478,915 486,915 486,924 443,925 375,925 299,925 267,929 256,929 228,925 223,925" baseline="223,924 312,923 486,924" reason: differs: "berg" against "Sach" | Wikisource:  | next_nc_e1: berg, wo er sich mit der
+ | german_print2_15: berg, wo er sich mit der
+ -->
+			<TextEquiv index="1">
+				<Unicode>zu schlagen und übel zuzurichten, so erscheinen auch unter seinem
+Nachfolger die Verhältnisse nicht in besserm Lichte. Derselbe war
+ein Namensvetter von Adam Andreä und hieſs Johann Andreä. Er</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r11">
+			<Coords points="969,363 974,363 974,846 969,846" />
+		</SeparatorRegion>
+		<GraphicRegion id="r12">
+			<Coords points="505,882 522,882 522,898 505,898" />
+		</GraphicRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="526,883 933,883 933,900 526,900" />
+			<!-- line left out: id="r13l0" points="526,889 543,889 544,883 555,883 565,891 577,889 587,889 589,896 608,889 641,889 651,883 661,883 701,888 711,885 737,883 757,883 761,889 782,889 790,892 798,883 802,883 816,886 859,888 876,883 889,883 908,888 933,888 933,897 908,898 889,898 816,898 782,898 687,898 641,899 592,900 589,900 555,899 544,899 526,898" baseline="526,898 683,897 933,897" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: achsen, wurde 1608 Konrektor in Anna-
+ | german_print2_15: achsen, wurde 1608 Konrektor in Anna-
+ -->
+		</TextRegion>
+		<GraphicRegion id="r14">
+			<Coords points="506,909 508,909 508,924 506,924" />
+		</GraphicRegion>
+		<TextRegion id="r15" custom="readingOrder {index:15;} orientation {0;}">
+			<Coords points="221,908 933,908 933,1035 221,1035" />
+			<!-- line left out: id="r15l0" points="512,909 521,909 525,917 533,917 540,909 545,909 558,912 575,915 588,909 599,909 601,916 611,916 620,918 631,909 644,909 645,915 662,915 676,916 691,915 709,915 716,916 729,915 744,912 749,912 767,915 778,917 790,908 815,908 815,915 830,914 835,908 846,908 867,909 868,916 879,908 883,908 886,914 896,914 920,914 922,908 931,908 931,923 883,924 879,924 867,923 846,924 767,924 749,924 716,924 709,925 676,927 666,927 599,924 575,925 572,925 558,924 545,925 540,925 525,923 512,922" baseline="512,925 574,924 856,923 931,923" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: ochter des Bürgermeisters David Schmidt | german_print2_15: Pochter des Bürgermeisters David Schmidt -->
+			<!-- line left out: id="r15l1" points="223,942 230,942 251,942 254,936 259,936 261,942 285,941 298,939 311,939 330,939 378,941 389,942 390,935 402,935 403,943 415,935 419,935 432,935 471,939 495,940 519,941 520,935 531,935 534,944 541,944 559,935 564,935 575,936 597,939 648,941 659,942 665,943 672,935 717,935 725,941 750,937 761,937 778,941 790,934 812,934 815,941 819,941 831,944 832,934 843,934 853,940 867,937 870,937 896,940 898,934 908,934 912,941 928,940 930,940 930,948 908,949 843,949 819,949 812,950 778,950 648,951 612,951 597,950 531,950 515,950 491,945 485,951 474,951 464,950 432,951 378,951 346,952 338,952 330,951 311,951 223,951" baseline="223,951 431,950 869,949 930,949" reason: second model: differs: "e162als" against " 1612 a" | Wikisource: verheiratete, siedelte 1612 als Pastor nach Ehrenfriedersdorf über | next_nc_e1: verheiratete, siedelte 1612 als Pastor nach Ehrenfriedersdorf über | german_print2_15: verheiratete, siedelte 162 als Pastor nach Ehrenfriedersdorf über -->
+			<!-- line left out: id="r15l2" points="223,968 246,968 247,962 284,962 333,965 366,965 379,973 385,961 396,961 398,969 406,969 421,961 426,961 439,962 455,968 468,967 485,967 505,969 506,961 518,961 520,969 544,967 586,967 592,970 599,961 609,961 638,962 657,967 668,968 670,961 681,961 685,969 701,967 705,967 742,966 753,966 774,967 780,969 787,960 796,960 800,973 833,965 867,965 897,966 899,960 910,960 932,965 932,975 897,976 867,981 859,981 857,975 837,975 796,976 760,976 741,976 718,979 709,979 681,976 668,977 638,977 599,977 586,976 530,979 520,979 506,977 489,976 473,982 468,982 455,980 426,976 396,976 366,981 333,981 330,981 246,978 223,978" baseline="223,978 257,977 330,976 802,975 932,975" reason: second model: differs: "undk" against "über" | Wikisource: und kam 1615 als Bergprediger nach Annaberg zurück. 1617 nahm | next_nc_e1: und kam 1615 als Bergprediger nach Annaberg zurück. 1617 nahm | german_print2_15: und kam 1015 als Bergprediger nach Annaberg zurück. 1077 nahm -->
+			<TextLine id="r15l3" custom="readingOrder {index:3;}">
+				<Coords points="222,995 262,993 305,987 323,988 352,993 354,987 365,987 373,993 402,992 442,994 445,987 456,987 458,994 470,994 486,987 500,987 503,993 516,989 530,989 550,993 575,991 614,994 616,987 628,987 629,994 639,994 656,987 664,987 671,996 679,987 688,987 688,998 699,998 701,991 713,991 720,993 794,993 811,986 816,986 868,992 868,986 882,986 904,993 910,986 920,986 930,991 930,1000 794,1002 456,1002 421,1005 410,1005 402,1003 390,1005 373,1005 352,1003 257,1004 222,1002" />
+				<Baseline points="222,1002 930,1000" />
+				<TextEquiv index="1">
+					<Unicode>er mit Bewilligung des Kurfürsten die Vokation zum Pastorat der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r15l4" custom="readingOrder {index:4;}">
+				<Coords points="221,1014 233,1014 240,1017 254,1014 298,1013 299,1019 322,1019 323,1013 334,1013 336,1021 348,1019 394,1019 396,1026 425,1012 430,1012 433,1019 449,1019 460,1013 486,1013 488,1019 535,1017 589,1019 596,1013 613,1013 623,1021 630,1019 671,1019 684,1013 689,1013 693,1021 709,1018 742,1018 753,1019 767,1025 777,1025 780,1013 789,1013 801,1018 831,1015 842,1012 863,1012 863,1018 875,1016 922,1018 924,1011 933,1011 933,1026 801,1027 753,1031 720,1029 613,1028 589,1030 533,1028 475,1029 468,1035 460,1035 449,1028 272,1030 221,1029" />
+				<Baseline points="221,1029 933,1026" />
+				<TextEquiv index="1">
+					<Unicode>Stadt Kaaden an. Im Jahre 1619 gab er in Leipzig „Vier Geist- vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>er mit Bewilligung des Kurfürsten die Vokation zum Pastorat der
+Stadt Kaaden an. Im Jahre 1619 gab er in Leipzig „Vier Geist- vnd</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r16" custom="readingOrder {index:16;} orientation {0;}">
+			<Coords points="219,1084 933,1084 933,1238 219,1238" />
+			<!-- line left out: id="r16l0" points="265,1085 277,1085 366,1085 368,1091 386,1091 393,1096 412,1085 417,1085 431,1087 454,1096 459,1086 468,1086 481,1085 493,1085 508,1090 524,1089 534,1089 539,1090 560,1090 579,1092 581,1085 592,1085 617,1092 623,1085 631,1085 652,1084 663,1084 694,1084 694,1090 700,1090 715,1084 722,1084 727,1085 734,1091 740,1088 744,1088 767,1090 782,1091 784,1084 793,1084 806,1090 812,1087 814,1087 861,1084 872,1084 873,1090 885,1087 894,1087 904,1088 933,1089 933,1096 915,1096 872,1096 842,1097 727,1098 694,1098 663,1098 631,1098 600,1098 560,1101 552,1101 539,1098 505,1098 431,1098 393,1099 316,1099 277,1099 265,1099" baseline="265,1099 315,1098 933,1095" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: )W. Weber, Die Ausbreitung der deutschen Nationalität in Böhmen, | german_print2_15: ¹²) W. Weber, Die Ausbreitung der deutschen Nationalität in Böhmen, -->
+			<!-- line left out: id="r16l1" points="222,1111 251,1107 261,1107 296,1106 303,1106 319,1107 338,1109 349,1106 354,1106 373,1111 373,1118 365,1119 222,1119" baseline="222,1119 373,1119" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: in den Mitteilun | german_print2_15: in den Mitteilun -->
+			<!-- line left out: id="r16l2" points="223,1128 227,1128 240,1129 293,1129 298,1130 313,1131 315,1138 331,1129 341,1129 359,1143 361,1143 361,1145 359,1145 341,1139 313,1144 300,1144 298,1138 280,1140 261,1144 253,1144 223,1140" baseline="223,1140 260,1139 331,1138 361,1138" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Prag 1864, S. 5
+ | german_print2_15: Prag 1864, S. 5 -->
+			<!-- line left out: id="r16l3" points="266,1153 293,1153 295,1164 305,1164 317,1155 329,1155 339,1153 355,1153 356,1159 360,1159 360,1166 329,1166 317,1163 293,1171 266,1171" baseline="266,1166 360,1166" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: L. Schle
+ | german_print2_15: ²) L. Schle -->
+			<!-- line left out: id="r16l4" points="266,1181 277,1178 293,1178 303,1179 311,1178 325,1178 342,1181 391,1179 401,1179 403,1185 413,1184 431,1179 445,1179 461,1183 470,1182 476,1182 503,1178 507,1178 548,1178 557,1185 568,1183 585,1179 594,1179 616,1178 626,1178 627,1185 637,1183 656,1179 673,1179 680,1177 691,1177 691,1183 704,1181 707,1177 718,1177 733,1177 733,1190 718,1194 703,1194 680,1194 661,1191 626,1191 554,1191 461,1191 409,1192 293,1195 266,1195" baseline="266,1192 415,1191 656,1190 733,1190" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: )Richter in der Umständl. Chronika der Bergstadt | german_print2_15: ) Richter in der Umständl. Chronika der Bergstadt -->
+			<!-- line left out: id="r16l5" points="222,1211 229,1211 246,1200 281,1200 285,1210 306,1201 317,1201 353,1203 378,1200 384,1200 408,1204 440,1202 465,1199 469,1199 492,1203 515,1199 525,1199 531,1204 537,1206 542,1199 551,1199 553,1205 571,1204 581,1204 599,1204 613,1206 624,1210 638,1202 649,1202 655,1206 660,1199 664,1199 678,1205 688,1204 694,1202 700,1199 702,1199 730,1205 734,1205 734,1208 702,1212 700,1212 674,1211 664,1212 624,1213 621,1213 599,1212 561,1213 553,1213 531,1212 469,1213 465,1213 404,1212 382,1201 382,1213 362,1216 358,1216 289,1215 285,1215 222,1213" baseline="222,1213 361,1212 730,1210 734,1210" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 2. Teil, S. 124 f. meint irrtümlicherweise, Schreiter s | german_print2_15: 2. Teil, S. 124 f. meint irrtümlicherweise, Schreiter s -->
+			<!-- line left out: id="r16l6" points="219,1226 230,1226 240,1220 249,1220 251,1226 261,1225 312,1225 313,1231 342,1221 346,1221 360,1223 438,1223 460,1220 464,1220 511,1225 538,1226 542,1220 546,1220 557,1225 583,1223 594,1223 604,1220 609,1220 640,1223 644,1231 661,1221 670,1221 678,1224 688,1225 704,1227 704,1219 720,1219 726,1224 736,1223 751,1219 754,1219 788,1220 800,1222 831,1224 842,1219 851,1219 857,1222 859,1230 875,1224 885,1224 906,1225 924,1224 931,1224 931,1231 924,1231 915,1230 906,1229 893,1231 862,1232 831,1232 807,1232 720,1232 670,1233 571,1233 511,1233 464,1233 432,1237 423,1237 391,1233 368,1234 230,1238 219,1238" baseline="219,1233 861,1231 931,1231" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: gekommen. Dieser sagt aber in seiner Schrift, Ein christl. Unterricht, wessen
+ | german_print2_15: gekommen. Dieser sagt aber in seiner Schrift, Ein christl. Unterricht, wessen
+ -->
+		</TextRegion>
+		<TextRegion id="r17" custom="readingOrder {index:17;} orientation {0;}">
+			<Coords points="396,1104 927,1104 927,1119 396,1119" />
+			<!-- line left out: id="r17l0" points="396,1111 404,1111 423,1112 426,1106 435,1106 441,1113 447,1113 461,1106 480,1106 490,1111 518,1111 541,1109 545,1109 578,1108 583,1108 614,1113 620,1106 624,1106 635,1111 641,1114 647,1106 655,1106 660,1106 685,1113 694,1111 729,1107 732,1107 746,1109 767,1109 781,1113 787,1105 811,1105 865,1105 880,1111 885,1104 888,1104 904,1109 913,1104 924,1104 927,1109 927,1116 924,1117 865,1117 815,1118 767,1118 732,1118 707,1118 660,1119 655,1119 624,1119 598,1119 556,1119 547,1119 518,1118 507,1119 469,1119 461,1119 435,1118 404,1118 396,1118" baseline="396,1118 708,1117 927,1116" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: n des Vereins für Geschichte der Deutschen in Böhmen,
+ | german_print2_15: In des Vereins für Geschichte der Deutschen in Böhmen,
+ -->
+		</TextRegion>
+		<GraphicRegion id="r18">
+			<Coords points="377,1108 394,1108 394,1123 377,1123" />
+		</GraphicRegion>
+		<GraphicRegion id="r19">
+			<Coords points="361,1129 413,1129 413,1170 361,1170" />
+		</GraphicRegion>
+		<TextRegion id="r20" custom="readingOrder {index:20;} orientation {0;}">
+			<Coords points="510,1155 583,1155 583,1170 510,1170" />
+			<!-- line left out: id="r20l0" points="510,1155 520,1155 541,1163 548,1156 556,1156 581,1155 583,1155 583,1165 581,1165 557,1163 556,1170 548,1170 541,1169 520,1163 510,1163" baseline="510,1163 583,1163" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: S. 470f
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r21">
+			<Coords points="454,1154 491,1154 491,1170 454,1170" />
+		</GraphicRegion>
+		<TextRegion id="r22" custom="readingOrder {index:22;} orientation {0;}">
+			<Coords points="752,1178 817,1178 817,1191 752,1191" />
+			<!-- line left out: id="r22l0" points="752,1178 761,1178 783,1178 798,1180 817,1183 817,1190 798,1190 783,1191 761,1191 752,1191" baseline="752,1191 817,1190" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Annaber
+ | german_print2_15: Annaber
+ -->
+		</TextRegion>
+		<TextRegion id="r23" custom="readingOrder {index:23;} orientation {0;}">
+			<Coords points="769,1192 932,1192 932,1212 769,1212" />
+			<!-- line left out: id="r23l0" points="769,1202 772,1202 805,1202 821,1203 835,1205 846,1192 882,1192 900,1198 903,1198 919,1198 932,1203 932,1210 903,1210 882,1211 835,1211 805,1212 799,1212 772,1211 769,1211" baseline="769,1212 804,1211 932,1209" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 1615 nach Kaaden
+ | german_print2_15: 1615 nach Kaaden
+ -->
+		</TextRegion>
+		<GraphicRegion id="r24">
+			<Coords points="827,1181 852,1181 852,1190 827,1190" />
+		</GraphicRegion>
+		<TextRegion id="r25" custom="readingOrder {index:25;} orientation {0;}">
+			<Coords points="859,1180 932,1180 932,1193 859,1193" />
+			<!-- line left out: id="r25l0" points="859,1181 915,1180 932,1180 932,1190 927,1193 913,1193 872,1190 867,1182 859,1182" baseline="859,1190 932,1190" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 746— 48,
+ | german_print2_15: 746—48,
+ -->
+		</TextRegion>
+		<GraphicRegion id="r26">
+			<Coords points="212,1189 754,1189 754,1217 212,1217" />
+		</GraphicRegion>
+		<TextRegion id="r27" custom="readingOrder {index:27;} orientation {0;}">
+			<Coords points="218,1240 929,1240 929,1348 218,1348" />
+			<!-- line left out: id="r27l0" points="219,1247 228,1246 232,1246 241,1247 243,1241 276,1241 302,1244 320,1247 321,1241 325,1241 342,1246 368,1242 388,1242 400,1245 419,1244 426,1241 435,1241 528,1240 533,1240 538,1248 545,1248 548,1240 560,1240 580,1241 587,1244 630,1244 679,1241 683,1241 691,1247 701,1245 713,1241 736,1241 792,1243 797,1250 822,1247 832,1245 853,1240 857,1240 883,1240 884,1246 887,1246 923,1245 929,1245 929,1251 913,1252 828,1253 792,1255 787,1255 759,1253 740,1255 713,1255 705,1253 658,1254 630,1254 533,1254 475,1254 349,1254 342,1258 327,1258 302,1254 284,1258 269,1258 228,1254 219,1251" baseline="219,1254 909,1251 929,1251" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: sich gottselige Unterthanen zu verhalten etc., Leipzig 1623, er habe vor | german_print2_15: sich gottselige Unterthanen zu verhalten etc., Leipzig 1623, er habe vor -->
+			<!-- line left out: id="r27l1" points="219,1267 228,1267 238,1262 243,1262 274,1262 297,1262 306,1268 316,1267 324,1267 345,1267 370,1267 392,1263 409,1262 413,1262 423,1261 442,1261 443,1267 469,1262 482,1262 499,1267 515,1268 517,1262 527,1262 566,1267 576,1261 581,1261 591,1266 597,1262 609,1262 632,1267 632,1275 615,1275 566,1277 538,1279 528,1279 508,1275 487,1279 483,1279 461,1275 434,1279 423,1279 413,1275 324,1275 274,1280 266,1280 219,1275" baseline="219,1275 323,1274 556,1274 632,1275" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: acht Jahren seine Abschiedspredigt gehalten.
+ | german_print2_15: acht Jahren seine Abschiedspredigt gehalten.
+ -->
+			<!-- line left out: id="r27l2" points="263,1287 274,1287 331,1288 333,1298 349,1290 362,1290 380,1291 390,1293 399,1294 405,1299 425,1288 432,1288 439,1291 450,1296 457,1287 488,1287 495,1294 513,1287 528,1287 537,1294 542,1287 554,1287 564,1294 576,1294 608,1294 609,1288 620,1288 650,1287 664,1287 684,1287 710,1290 725,1292 740,1294 746,1287 750,1287 759,1288 761,1294 771,1292 781,1291 795,1289 800,1289 815,1291 821,1297 850,1297 850,1287 862,1286 866,1286 878,1289 886,1292 886,1294 878,1299 850,1300 780,1302 771,1302 746,1299 725,1298 710,1300 664,1302 650,1302 628,1301 609,1301 576,1300 554,1300 542,1301 537,1301 524,1289 521,1301 513,1301 488,1299 482,1299 482,1306 461,1306 457,1295 450,1306 444,1306 439,1298 432,1301 405,1302 402,1302 294,1301 286,1300 274,1306 263,1306" baseline="263,1299 575,1298 886,1299" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ) G. H. Götze, Diptycha Erulum oder Exulanten-Register, Alten | german_print2_15: ³) G. H. Götze, Diptycha Erulum oder Exulanten-Register, Alten -->
+			<!-- line left out: id="r27l3" points="221,1312 247,1312 259,1313 260,1319 276,1311 288,1311 324,1310 333,1308 340,1302 352,1302 361,1311 370,1309 381,1309 393,1311 488,1312 509,1312 563,1309 568,1309 582,1311 593,1308 603,1308 727,1308 730,1315 738,1315 740,1307 749,1307 771,1308 823,1306 842,1306 844,1312 848,1312 871,1311 879,1311 879,1320 797,1320 771,1320 749,1320 727,1325 719,1325 662,1321 624,1322 609,1322 603,1321 549,1325 544,1325 530,1323 498,1322 447,1322 411,1322 370,1322 361,1319 352,1332 340,1332 333,1310 329,1321 316,1326 309,1326 291,1322 259,1325 239,1326 230,1326 221,1322" baseline="221,1322 290,1321 671,1320 879,1320" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 1714, S. 65 ff. Götze war 1690– 94 Diakonus zu St. Jakob in Chemnit | german_print2_15: 1714, S. 65 fl. Götze war 1690 — 94 Diakonus zu St. Jakob in Chemnit. -->
+			<!-- line left out: id="r27l4" points="218,1335 227,1332 233,1332 243,1334 250,1330 272,1329 287,1329 288,1336 306,1332 313,1329 325,1329 336,1333 339,1334 349,1335 350,1329 362,1329 380,1333 380,1340 396,1334 423,1330 436,1330 452,1330 477,1329 482,1329 491,1334 491,1342 380,1343 349,1343 336,1348 313,1348 313,1342 287,1343 218,1343" baseline="218,1343 259,1342 491,1342" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: starb als Superint. in Lübeck.
+ | german_print2_15: sitarb als Superint. in Lübeck.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r28">
+			<Coords points="709,1251 724,1251 724,1254 709,1254" />
+		</GraphicRegion>
+		<GraphicRegion id="r29">
+			<Coords points="890,1280 891,1280 891,1298 890,1298" />
+		</GraphicRegion>
+		<GraphicRegion id="r30">
+			<Coords points="330,1287 935,1287 935,1323 330,1323" />
+		</GraphicRegion>
+		<GraphicRegion id="r31">
+			<Coords points="0,1521 1000,1521 1000,1564 0,1564" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+an sich brächten. Als der Graf Dohna im Februar 1611 der
+Ständeversammlung eine Botschaft des Kaisers in deutscher Sprache
+zu verkündigen beabsichtigte, erhob sich unter allgemeinem Tumulte
+der Ruf: „Deutsch ist in Deutschland, in Böhmen aber böhmisch
+zu reden.“ Ja 1615 wurde sogar ein Sprachengesetz beschlossen und
+vom Kaiser Matthias bestätigt, welches mit drakonischer Härte und
+Unduldsamkeit jeden deutschen Laut in Böhmen unterdrücken
+sollte.⟦⟧ Dazu kam aber noch, daß der religiöse Friede selbst
+durch den Majestätsbrief keineswegs als gesichert angesehen werden
+konnte. Noch im Jahre 1609 erhob sich über den Kirchenbau in
+Klostergrab und Braunau sturmverkündend jener erbitterte Streit,
+bei welchem die Regierung trotz der entschieden ungerechten
+Forderungen⟦⟧ der beiden katholischen Kirchenfürsten sich auf
+deren Seite stellte. Der unermüdliche Jesuitenorden war
+ununterbrochen thätig Maßregeln zur Ausrottung des evangelischen
+Kirchentums in Böhmen aufzufinden und ins Werk zu setzen. In Kaaden
+selbst gab es noch eine zahlreiche katholische Partei, obwohl von
+dem nachmaligen Superintendenten des Stiftes Meißen und Pfarrer
+in Wurzen Dr. theol. Johann Schreiter, der von 1612–15 Pfarrer in
+Kaaden war,⟦⟧ berichtet wird, daß das Volk haufenweise in seine
+Predigt gekommen, der katholischen Messe dagegen nur einer oder
+der andere treu geblieben sei.⟦⟧ Aber hatte ein päpstlicher
+Meßpfaffe es wagen dürfen, den Vorgänger Schreiters auf offner Straße
+zu schlagen und übel zuzurichten, so erscheinen auch unter seinem
+Nachfolger die Verhältnisse nicht in besserm Lichte. Derselbe war
+ein Namensvetter von Adam Andreä und hieß Johann Andreä. Er
+stammte aus Waldheim in Sachsen, wurde 1608 Konrektor in
+Annaberg, wo er sich mit der Tochter des Bürgermeisters David Schmidt
+verheiratete, siedelte 1612 als Pastor nach Ehrenfriedersdorf über
+und kam 1615 als Bergprediger nach Annaberg zurück. 1617 nahm
+er mit Bewilligung des Kurfürsten die Vokation zum Pastorat der
+Stadt Kaaden an. Im Jahre 1619 gab er in Leipzig „Vier Geist- vnd
+-->
+	</Page>
+</PcGts>

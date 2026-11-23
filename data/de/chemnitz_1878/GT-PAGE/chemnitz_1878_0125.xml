@@ -1,0 +1,403 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:23:28</Created>
+		<LastChange>2026-11-23T14:23:28</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/125 revision 4786488 of 2026-01-09T09:14:30Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0125.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro5286093580022540683" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="31,1189 44,1189 44,1507 31,1507" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="59,163 786,163 786,896 59,896" />
+			<!-- line left out: id="r1l0" points="401,164 410,163 425,163 425,179 418,179 401,174" baseline="401,174 425,174" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 117
+ | german_print2_15: 117
+ -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="110,218 145,217 170,222 188,216 283,214 308,219 308,213 332,212 335,221 346,218 356,218 374,211 379,211 380,217 386,217 393,211 404,211 406,217 578,211 606,211 617,213 636,210 689,210 704,203 723,203 744,208 752,202 762,202 774,205 774,217 723,217 711,219 659,221 627,219 606,221 520,224 119,233 110,233" />
+				<Baseline points="110,233 774,217" />
+				<TextEquiv index="1">
+					<Unicode>Ueber die Walkmühlen haben wir einen interessanten Bericht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="59,245 70,245 71,251 90,251 112,244 138,244 148,249 154,250 160,243 197,248 198,242 209,242 217,244 267,239 284,239 304,240 304,246 315,246 315,239 358,238 358,244 368,244 369,238 382,237 394,237 395,243 416,241 471,242 493,235 505,235 506,242 528,240 552,233 583,232 601,232 601,238 631,235 647,235 658,232 705,235 714,237 734,228 747,228 747,235 758,233 774,233 774,244 705,246 661,249 647,247 621,247 284,256 246,259 117,259 70,261 59,261" />
+				<Baseline points="59,260 774,244" />
+				<TextEquiv index="1">
+					<Unicode>des Bleichrichters Nikel Eckhart an den Kurfürsten aus dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l3" points="61,271 68,271 70,277 81,277 81,271 93,271 103,276 128,275 146,274 157,273 165,273 166,282 181,267 269,266 281,266 282,274 293,273 305,273 313,265 325,265 326,271 334,271 351,271 353,265 365,265 371,269 390,263 402,263 410,270 420,270 435,270 442,263 454,263 483,267 504,261 512,261 512,268 522,268 523,260 528,260 530,266 541,266 554,265 565,265 566,259 578,259 579,267 591,264 639,264 656,262 703,257 716,255 769,255 775,257 775,270 715,273 639,273 623,274 578,274 565,275 541,279 530,279 512,277 478,278 454,279 442,279 420,278 408,279 371,280 334,281 289,282 274,282 255,283 204,286 165,288 155,291 146,291 135,290 103,287 68,291 61,291" baseline="61,287 128,285 254,282 370,279 504,276 679,272 703,271 738,270 775,269" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Jahre 1473. ) Er bese hreibt dieselben folgendermassen: „Es ist | german_print2_15: Jahre 1473.¹²) Er besc hreibt dieselben folgendermassen: „Es ist -->
+			<!-- line left out: id="r1l4" points="60,291 65,291 72,304 83,303 107,302 126,297 138,296 143,296 179,298 181,308 198,294 209,294 221,299 244,297 250,297 261,299 280,299 284,293 289,293 314,295 334,299 334,291 352,291 354,300 372,296 409,296 431,295 464,294 475,294 475,288 489,288 490,294 515,293 532,293 532,286 561,285 565,285 578,290 595,291 596,285 602,285 604,291 616,288 640,283 664,283 677,290 685,288 695,288 695,282 708,282 722,287 732,281 759,280 774,280 774,296 766,297 722,298 664,298 646,299 627,300 602,300 586,301 578,302 533,303 500,305 463,305 409,305 352,307 314,308 289,308 284,308 280,314 273,314 272,308 261,309 221,309 209,310 184,312 181,312 157,311 124,312 94,313 72,313 60,312" baseline="60,313 93,312 229,308 451,304 626,299 663,298 774,296" reason: second model: differs: "eynmö" against "em ⟦⟧" | Wikisource: eyn mölratt, das treybet das wasser umb, und treibet IV oder VIII | next_nc_e1: eyn mölratt, das treybet das wasser umb, und treibet IV oder VIII | german_print2_15: eyn mölilatt, das treybet das wasser umb, und treibet IV oder VIII -->
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="61,331 69,331 70,315 78,315 84,329 119,322 139,322 139,329 146,329 160,321 172,321 173,327 215,327 222,322 258,325 259,319 293,319 307,326 315,326 323,324 334,324 335,317 347,317 354,322 356,331 376,324 388,322 453,322 455,315 466,315 473,323 480,318 528,319 529,312 542,312 555,318 573,318 573,311 591,311 604,318 610,318 610,311 623,311 624,317 644,315 668,315 675,309 745,314 745,307 751,307 752,314 763,312 776,312 776,324 739,323 735,330 727,330 726,324 466,331 422,330 400,332 395,338 388,338 387,330 360,333 271,335 258,338 240,338 231,336 215,339 178,337 146,339 119,338 118,344 107,344 61,338" />
+				<Baseline points="61,340 776,323" />
+				<TextEquiv index="1">
+					<Unicode>stempffe, die gefuglich sindt, eyne gehet auff und die ander nyder,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l6" points="61,356 66,350 77,350 79,357 104,355 111,354 120,354 143,355 144,348 156,348 191,355 196,347 215,347 240,352 244,346 261,346 309,351 311,344 323,344 329,350 351,347 357,347 381,349 382,343 393,343 394,349 406,348 431,343 459,343 461,354 481,347 493,346 503,346 503,340 515,340 539,340 563,345 567,338 577,338 578,352 601,337 613,337 614,344 640,339 646,339 686,335 697,335 699,341 735,337 742,337 766,339 766,333 776,333 776,349 755,350 711,350 706,357 699,357 697,351 686,351 662,349 657,358 640,358 624,351 613,353 583,357 578,357 563,355 515,356 459,359 406,359 370,359 333,360 298,361 240,362 173,363 109,365 77,366 61,366" baseline="61,366 85,364 293,360 481,356 677,351 720,350 776,349" reason: second model: differs: "sye-dye" against "ye dye " | Wikisource: als in den öllmölln ader tuchmacher walckmöl, do sye dye tuch | next_nc_e1: als in den öllmölln ader tuchmacher walckmöl, do sye dye tuch | german_print2_15: als in den öllmölln ader tuchmacher walckmöl, do sye- dye tuch -->
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="61,376 95,381 144,380 146,374 158,374 159,382 171,374 182,374 199,379 264,378 266,371 303,370 306,370 306,377 330,376 331,370 380,370 383,376 392,376 394,369 405,369 405,375 498,373 499,367 666,368 698,370 725,360 743,360 773,365 774,373 777,373 777,378 690,376 677,374 666,380 608,380 604,386 596,386 595,378 561,381 487,383 446,386 380,385 125,390 97,385 95,391 84,392 61,392" />
+				<Baseline points="61,392 725,376 777,376" />
+				<TextEquiv index="1">
+					<Unicode>inne walcken; und sindt loch gemacht in eym gross klotz,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="60,408 71,408 72,402 101,402 137,407 139,401 143,401 145,408 152,408 170,400 182,400 183,406 219,405 224,399 236,399 270,404 280,398 305,398 306,405 316,405 329,397 334,397 336,403 353,404 359,396 370,396 378,402 389,402 404,395 409,395 410,401 434,399 436,408 470,400 501,399 501,393 512,393 539,398 554,391 604,391 605,398 615,398 616,390 628,390 629,397 652,395 653,389 665,389 666,396 685,394 687,401 718,387 725,387 740,389 748,387 766,387 777,392 777,405 725,403 539,409 334,412 101,418 78,418 60,418" />
+				<Baseline points="60,418 718,403 777,403" />
+				<TextEquiv index="1">
+					<Unicode>nicht als dye alt walke locher hat, sundern vil behender. Dohin</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="61,428 66,428 67,435 94,428 159,433 177,420 189,420 190,432 276,430 302,428 346,429 348,422 364,422 390,425 459,421 461,427 508,425 557,426 558,418 621,418 669,421 670,415 681,415 698,421 704,421 704,414 767,419 768,413 778,413 778,429 497,437 402,437 399,443 307,440 118,443 97,450 79,450 78,444 61,444" />
+				<Baseline points="61,444 778,429" />
+				<TextEquiv index="1">
+					<Unicode>leyt man das roe gut und geust laugenn dorauff und dornach</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="60,460 97,461 161,459 162,453 283,456 338,455 339,449 349,449 364,457 398,453 417,447 428,447 429,455 441,453 464,453 479,447 484,447 486,453 508,452 508,446 520,446 522,454 534,451 568,450 580,448 654,448 669,441 687,441 696,448 720,446 722,454 748,440 760,440 779,443 779,456 386,464 381,470 373,470 372,462 349,465 325,466 60,470" />
+				<Baseline points="60,471 779,455" />
+				<TextEquiv index="1">
+					<Unicode>wasser und was not ist und synt denn locher unten am klocz, thut</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="61,487 176,486 177,479 188,479 190,485 205,485 242,483 278,477 281,485 303,483 307,490 328,484 377,481 389,479 446,480 464,473 476,473 477,480 523,475 554,475 584,473 600,470 620,470 672,474 707,473 725,467 737,467 768,472 769,466 779,466 779,482 697,483 692,490 684,490 683,484 616,485 614,492 584,492 577,486 535,491 419,489 377,493 278,492 263,493 260,499 248,499 246,493 61,497" />
+				<Baseline points="61,497 779,482" />
+				<TextEquiv index="1">
+					<Unicode>man aus den czapffen, so get von dem gut eytel unreyn dinck</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l12" custom="readingOrder {index:12;}">
+				<Coords points="62,507 73,507 81,513 127,512 127,520 146,512 169,512 170,505 180,505 195,511 216,511 223,504 259,508 303,509 304,503 315,503 316,516 335,502 346,502 348,509 439,505 468,508 469,500 479,500 481,506 495,506 513,499 537,499 601,503 608,500 661,498 721,499 722,493 733,493 748,500 754,493 765,493 780,498 780,508 562,514 413,517 397,516 392,523 385,523 367,516 320,519 228,520 131,524 127,524 62,523" />
+				<Baseline points="62,523 780,507" />
+				<TextEquiv index="1">
+					<Unicode>heraus, und welckt sich, das ytzunt das obirst untten ist und das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l13" custom="readingOrder {index:13;}">
+				<Coords points="61,540 80,537 135,537 183,531 200,531 208,537 257,535 287,538 298,529 302,529 304,535 340,535 470,532 481,526 485,526 492,532 505,529 536,531 569,529 624,529 638,522 650,522 651,528 703,527 703,520 716,520 716,527 731,527 732,520 744,520 745,527 756,523 780,524 780,528 771,528 769,535 744,536 727,539 650,538 450,543 446,549 439,549 426,543 340,546 268,544 257,552 240,552 232,547 130,549 106,548 79,550 61,549" />
+				<Baseline points="61,550 780,535" />
+				<TextEquiv index="1">
+					<Unicode>untterste auffkumpt so lange uncz reyns lauters wasser do ausgehet.“</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l14" custom="readingOrder {index:14;}">
+				<Coords points="63,560 69,560 82,565 93,559 104,559 105,567 127,565 138,559 152,559 152,565 204,564 207,558 217,558 219,564 288,562 298,556 303,556 305,562 327,562 337,555 348,555 357,562 366,562 378,554 404,554 405,560 474,559 484,552 496,552 497,561 509,558 516,558 528,551 534,551 536,558 583,557 590,564 605,556 617,556 626,558 633,550 638,550 650,555 651,549 663,549 664,556 684,553 760,552 770,554 770,567 728,563 727,569 715,569 705,564 583,569 516,568 355,570 327,572 279,572 261,570 247,573 217,574 188,577 177,577 152,575 63,575" />
+				<Baseline points="63,576 770,562" />
+				<TextEquiv index="1">
+					<Unicode>In den Laugenhäusern lag die Waare in der Lauge, welche ursprüng</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l15" custom="readingOrder {index:15;}">
+				<Coords points="63,586 68,586 70,592 81,592 82,586 93,586 94,592 195,590 206,592 220,598 225,585 243,585 253,583 262,583 264,590 276,590 286,588 372,587 391,580 408,581 457,588 464,580 475,580 477,587 528,584 644,582 662,575 674,575 675,581 710,580 712,587 734,573 746,573 747,579 780,579 780,589 746,589 716,593 698,591 549,593 516,596 346,596 320,599 276,598 81,602 63,602" />
+				<Baseline points="63,602 780,588" />
+				<TextEquiv index="1">
+					<Unicode>lich nur eine Auflösung von Pottasche gewesen sein kann, denn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l16" custom="readingOrder {index:16;}">
+				<Coords points="65,620 76,617 94,615 137,618 156,612 189,610 202,610 204,616 250,617 251,609 261,609 264,616 311,613 312,621 335,608 383,607 386,613 421,613 422,606 428,606 429,614 441,610 455,610 458,616 479,612 510,611 511,605 523,605 523,612 559,604 571,604 572,612 591,610 607,603 685,602 687,609 705,607 721,600 727,600 729,606 775,606 775,617 350,623 343,630 335,630 316,624 171,627 65,627" />
+				<Baseline points="65,628 775,616" />
+				<TextEquiv index="1">
+					<Unicode>erst im Anfang des 18. Jahrhunderts verbot der Rath der Lauge</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l17" custom="readingOrder {index:17;}">
+				<Coords points="67,638 113,638 184,643 195,640 277,634 297,634 298,641 398,641 418,633 436,633 444,639 474,639 481,632 490,632 511,638 522,638 527,644 533,637 580,639 587,630 598,630 599,637 673,633 702,628 707,628 709,634 730,633 756,635 757,627 768,627 782,632 782,642 751,642 673,650 653,650 622,646 418,649 398,643 393,648 370,648 348,653 309,651 241,653 184,652 82,654 67,654" />
+				<Baseline points="67,654 782,642" />
+				<TextEquiv index="1">
+					<Unicode>Kalk zuzusetzen. Eine grosse Mangel war schon 1473 bei der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l18" custom="readingOrder {index:18;}">
+				<Coords points="67,664 86,664 95,670 110,670 112,664 122,664 124,670 128,670 172,669 173,663 186,663 222,668 224,662 229,662 231,668 253,667 255,675 297,674 300,661 326,662 364,668 372,666 394,666 399,660 410,660 421,668 445,665 472,664 490,664 515,667 530,657 536,657 545,665 554,665 557,657 562,657 575,661 626,663 627,656 680,655 688,661 700,661 712,654 731,654 762,659 762,653 774,653 775,663 781,663 781,665 774,669 731,669 700,671 575,674 445,675 440,681 433,681 425,673 410,675 297,678 160,678 128,680 67,680" />
+				<Baseline points="67,680 781,668" />
+				<TextEquiv index="1">
+					<Unicode>Bleiche vorhanden. „Do is ouch eyn gross radt, erzählt der Bleich-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l19" custom="readingOrder {index:19;}">
+				<Coords points="66,696 91,696 92,690 103,690 127,696 147,689 160,689 161,697 182,700 185,689 195,689 203,695 224,693 225,702 252,688 264,688 265,695 324,693 354,686 403,686 415,691 443,694 445,685 457,685 461,693 479,691 505,696 507,690 519,690 519,684 530,684 538,690 601,689 601,696 624,690 630,690 631,682 645,682 649,690 673,685 698,687 703,681 715,681 756,686 757,680 768,680 770,686 783,686 783,695 703,696 698,703 691,703 690,697 649,697 645,704 631,704 630,698 605,700 264,703 229,706 225,706 127,706 116,706 85,706 66,706" />
+				<Baseline points="66,706 783,695" />
+				<TextEquiv index="1">
+					<Unicode>richter Eckhart, do inne lauffen drey ader vier, dye tryben das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l20" custom="readingOrder {index:20;}">
+				<Coords points="66,722 91,723 92,717 103,717 152,723 154,716 165,716 205,721 207,715 217,715 246,720 254,714 264,714 267,721 293,720 312,713 323,713 324,721 336,719 352,719 372,712 375,712 375,718 397,719 398,712 414,712 434,715 525,715 554,718 559,710 564,710 566,716 576,716 590,722 595,715 608,710 652,709 653,716 664,714 681,714 696,707 701,707 712,711 730,714 731,707 762,706 775,706 782,709 782,722 731,723 716,720 712,729 696,729 652,724 576,727 548,726 539,724 535,732 528,732 525,726 494,727 490,733 482,733 475,726 103,733 78,733 66,733" />
+				<Baseline points="66,733 782,722" />
+				<TextEquiv index="1">
+					<Unicode>radt umb und neben dem rade ist eyn tysch, auff dem tysch ist</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l21" custom="readingOrder {index:21;}">
+				<Coords points="66,751 77,749 99,749 119,743 123,743 125,749 161,749 177,748 202,742 202,752 222,746 270,746 278,748 281,740 290,740 309,748 318,743 324,743 377,746 400,750 402,738 414,738 416,747 423,747 437,738 442,738 444,744 479,744 494,737 505,737 513,743 546,740 568,744 569,736 641,735 642,741 653,741 667,734 672,734 677,740 703,740 708,734 713,734 716,740 727,737 758,739 758,733 769,733 770,739 784,739 784,748 708,749 703,756 691,756 689,750 677,750 672,756 624,751 594,758 594,752 569,752 560,749 555,758 548,758 546,752 505,753 479,756 414,754 349,755 344,761 337,761 336,754 202,758 161,761 89,759 84,765 77,765 76,758 66,758" />
+				<Baseline points="66,760 784,748" />
+				<TextEquiv index="1">
+					<Unicode>eyn langer kaste vol steyne, als lang der tysch. Nu treybet das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l22" custom="readingOrder {index:22;}">
+				<Coords points="67,775 85,776 93,770 106,770 108,783 127,769 139,769 139,776 169,776 170,768 185,768 189,775 199,775 213,768 218,768 226,774 247,770 319,773 339,765 342,765 345,772 358,767 375,765 377,773 399,771 401,778 419,764 431,764 433,772 454,770 466,764 476,764 478,770 499,768 560,769 562,763 599,762 601,771 612,768 642,765 684,766 720,760 744,759 761,759 763,765 784,765 784,775 673,777 669,783 662,783 660,776 574,779 431,780 404,782 375,781 283,783 189,783 185,790 170,790 169,784 111,787 67,786" />
+				<Baseline points="67,785 784,775" />
+				<TextEquiv index="1">
+					<Unicode>radt, do dye lewte inne lauffen, den kasten mit den steyn auff dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l23" custom="readingOrder {index:23;}">
+				<Coords points="67,800 83,802 106,802 107,796 143,796 200,801 201,794 232,794 234,801 246,799 290,799 292,793 303,793 304,800 316,798 328,793 357,806 361,793 423,791 425,799 457,795 490,798 497,790 541,790 542,796 554,793 628,796 630,788 641,788 643,794 711,793 748,789 784,789 784,803 760,807 748,807 724,802 711,801 711,809 689,809 687,803 554,805 549,812 529,812 528,805 497,806 477,803 472,812 465,812 463,806 143,812 107,812 87,809 83,818 75,818 74,812 67,812" />
+				<Baseline points="67,812 784,802" />
+				<TextEquiv index="1">
+					<Unicode>tysch hin und her wider. Auff den tysch leyt man das weysse gut,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l24" custom="readingOrder {index:24;}">
+				<Coords points="68,822 73,822 75,829 128,826 157,828 159,821 173,821 174,829 193,827 198,821 202,821 205,827 215,827 222,821 238,821 281,826 282,819 292,819 310,827 316,819 327,819 364,824 398,824 406,818 442,817 444,826 455,823 464,823 472,817 483,817 490,825 496,817 539,817 541,823 550,823 559,816 564,816 572,821 606,821 628,823 630,815 638,814 670,814 737,819 738,813 749,813 764,820 771,818 785,818 785,828 577,832 572,824 559,823 550,832 327,834 257,836 238,843 236,843 236,837 198,836 193,843 186,843 173,837 140,839 98,838 94,844 86,844 85,837 68,838" />
+				<Baseline points="68,838 785,828" />
+				<TextEquiv index="1">
+					<Unicode>leymat, dreylich, und dorzu sind kewlecht holczer slecht runnd en</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l25" custom="readingOrder {index:25;}">
+				<Coords points="68,855 126,855 127,849 157,848 159,856 170,854 214,853 214,860 233,853 305,853 307,845 318,845 321,851 354,849 380,852 387,845 398,845 436,850 437,844 468,844 468,854 488,847 503,847 514,851 527,843 532,843 548,848 578,846 598,848 608,851 609,845 666,847 666,841 698,846 738,845 752,839 764,839 765,845 786,845 786,854 777,854 776,861 765,861 764,855 620,859 572,858 568,864 556,864 548,859 503,859 272,862 245,861 194,866 157,863 126,867 114,867 68,864" />
+				<Baseline points="68,864 786,854" />
+				<TextEquiv index="1">
+					<Unicode>wenigk lenger, wenn der tysch und kaste breyt ist, und wenn dye</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l26" custom="readingOrder {index:26;}">
+				<Coords points="69,875 80,875 87,881 111,882 111,875 121,875 135,879 136,888 158,883 165,880 200,880 201,874 214,873 222,873 222,879 314,879 315,872 399,877 422,876 441,870 484,870 486,877 548,875 571,868 583,868 584,876 596,874 612,874 628,867 631,867 631,874 653,874 654,867 666,867 668,874 676,874 727,869 763,872 763,866 780,866 786,869 786,881 764,880 764,887 756,887 755,881 676,884 484,885 165,890 164,896 158,896 121,891 69,891" />
+				<Baseline points="69,891 786,881" />
+				<TextEquiv index="1">
+					<Unicode>knecht, junckfrauen oder frauen lauffen in dem rade, so treybt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Ueber die Walkmühlen haben wir einen interessanten Bericht
+des Bleichrichters Nikel Eckhart an den Kurfürsten aus dem
+stempffe, die gefuglich sindt, eyne gehet auff und die ander nyder,
+inne walcken; und sindt loch gemacht in eym gross klotz,
+nicht als dye alt walke locher hat, sundern vil behender. Dohin
+leyt man das roe gut und geust laugenn dorauff und dornach
+wasser und was not ist und synt denn locher unten am klocz, thut
+man aus den czapffen, so get von dem gut eytel unreyn dinck
+heraus, und welckt sich, das ytzunt das obirst untten ist und das
+untterste auffkumpt so lange uncz reyns lauters wasser do ausgehet.“
+In den Laugenhäusern lag die Waare in der Lauge, welche ursprüng
+lich nur eine Auflösung von Pottasche gewesen sein kann, denn
+erst im Anfang des 18. Jahrhunderts verbot der Rath der Lauge
+Kalk zuzusetzen. Eine grosse Mangel war schon 1473 bei der
+Bleiche vorhanden. „Do is ouch eyn gross radt, erzählt der Bleich-
+richter Eckhart, do inne lauffen drey ader vier, dye tryben das
+radt umb und neben dem rade ist eyn tysch, auff dem tysch ist
+eyn langer kaste vol steyne, als lang der tysch. Nu treybet das
+radt, do dye lewte inne lauffen, den kasten mit den steyn auff dem
+tysch hin und her wider. Auff den tysch leyt man das weysse gut,
+leymat, dreylich, und dorzu sind kewlecht holczer slecht runnd en
+wenigk lenger, wenn der tysch und kaste breyt ist, und wenn dye
+knecht, junckfrauen oder frauen lauffen in dem rade, so treybt</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="68,893 787,893 787,974 68,974" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="68,908 75,908 75,901 85,901 86,907 135,907 135,901 172,900 180,906 195,906 210,900 215,900 215,910 234,903 285,904 299,910 305,904 322,904 324,897 361,897 363,905 384,903 396,897 406,897 408,905 419,903 425,897 467,897 498,902 516,896 521,896 523,903 532,903 536,895 546,895 547,901 625,900 626,894 631,894 633,900 659,900 673,893 685,893 686,899 786,899 786,907 760,906 755,914 743,914 741,908 599,911 248,914 135,917 68,917" />
+				<Baseline points="68,917 786,907" />
+				<TextEquiv index="1">
+					<Unicode>das rad den kastenn auff den keulichten holczern uber das weysse</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="69,934 87,931 131,930 144,927 160,926 172,926 173,934 214,929 242,931 249,925 259,925 261,931 270,931 281,925 293,925 294,932 306,930 371,929 374,923 386,923 387,931 398,929 426,931 429,923 443,923 447,930 457,930 470,922 475,922 476,929 518,928 531,925 548,925 563,928 564,921 570,921 571,927 599,927 604,921 639,921 649,928 658,928 659,920 664,920 666,927 681,927 688,920 728,918 737,918 737,924 752,925 776,924 777,918 787,918 787,934 713,936 604,936 599,943 592,943 585,937 447,938 443,945 429,945 426,937 407,939 293,940 270,942 230,938 230,947 152,943 81,948 69,948" />
+				<Baseline points="69,943 787,934" />
+				<TextEquiv index="1">
+					<Unicode>gut auff dem tysch, denn werden dye leymate dreylich slecht, frysch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="70,959 94,959 95,953 105,953 119,960 139,960 142,953 151,953 166,959 223,959 237,951 244,951 244,958 252,958 259,955 273,955 282,951 339,956 340,950 371,950 371,960 384,956 401,955 403,949 414,949 447,955 453,949 466,949 468,955 481,954 493,951 508,952 508,964 492,964 479,966 414,965 280,967 252,971 237,971 206,966 202,974 194,974 187,967 151,969 70,970" />
+				<Baseline points="70,970 237,966 508,964" />
+				<TextEquiv index="1">
+					<Unicode>und wol weyss gestalt vnd kauffwirdigk“.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>das rad den kastenn auff den keulichten holczern uber das weysse
+gut auff dem tysch, denn werden dye leymate dreylich slecht, frysch
+und wol weyss gestalt vnd kauffwirdigk“.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="74,971 796,971 796,1312 74,1312" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="124,979 139,979 141,985 156,987 175,981 187,980 203,980 218,985 256,984 288,981 378,982 379,976 409,975 423,975 428,983 435,981 478,980 479,974 494,974 506,978 574,980 575,973 594,973 596,980 628,978 648,972 669,972 670,979 694,978 699,971 705,971 706,978 789,976 789,986 304,993 256,994 218,997 207,997 156,994 124,995" />
+				<Baseline points="124,995 789,986" />
+				<TextEquiv index="1">
+					<Unicode>Die Organisation und Verwaltung dieser Bleichen war</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="74,1010 109,1011 125,1005 130,1005 131,1011 141,1011 158,1005 170,1005 171,1013 217,1008 275,1009 293,1003 301,1003 303,1009 313,1009 314,1003 320,1003 321,1009 332,1009 336,1003 348,1003 378,1008 380,1002 391,1002 399,1008 408,1006 455,1007 467,1001 478,1001 495,1007 501,1001 513,1001 522,1006 541,1006 575,999 578,999 583,1005 614,1006 614,999 627,999 627,1005 657,1005 674,998 679,998 679,1005 687,1005 690,998 699,998 728,1005 735,998 745,998 746,1004 789,1003 789,1013 758,1017 714,1014 679,1014 657,1019 575,1019 455,1016 355,1019 303,1018 301,1025 293,1025 275,1019 141,1021 74,1020" />
+				<Baseline points="74,1020 789,1013" />
+				<TextEquiv index="1">
+					<Unicode>nun in dem ersten Jahrhundert nach ihrer Gründung sehr eigen-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l2" points="75,1034 83,1031 94,1031 95,1037 119,1037 120,1031 132,1031 155,1031 195,1030 200,1030 215,1032 239,1036 255,1029 268,1029 269,1035 295,1030 300,1030 303,1037 314,1035 339,1035 358,1035 373,1029 385,1028 398,1028 400,1034 428,1033 445,1033 473,1031 479,1031 500,1033 516,1026 532,1026 552,1027 554,1034 564,1034 565,1026 597,1025 610,1025 611,1031 623,1031 624,1025 635,1025 637,1031 661,1030 675,1027 686,1027 724,1030 725,1024 760,1024 764,1030 780,1030 780,1039 736,1040 675,1040 673,1046 661,1046 596,1042 552,1042 532,1043 445,1043 427,1044 339,1047 328,1047 300,1045 259,1047 255,1047 200,1046 75,1046" baseline="75,1046 516,1042 754,1039 780,1039" reason: models differ | Wikisource: thümlich. Dem Freiberger Münzmeister Nikel Manhaupt und Ge | next_nc_e1: thümlich. Dem Freiberger Münzmeister Nikel Manhaupt und Ge | german_print2_15: thümlich. Dem Freiberger Münzmeister Nikel Manhaupt und Ge- -->
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="76,1063 99,1064 219,1060 283,1061 301,1063 303,1056 354,1055 359,1055 362,1062 383,1061 384,1055 395,1055 397,1061 409,1060 422,1056 435,1056 437,1062 458,1060 469,1054 475,1054 477,1061 498,1060 513,1053 524,1053 532,1059 541,1059 555,1053 583,1052 597,1052 599,1059 609,1059 610,1052 622,1052 623,1058 684,1057 685,1050 700,1050 700,1058 712,1058 720,1050 759,1050 770,1055 771,1049 783,1049 783,1059 790,1059 790,1061 783,1065 700,1067 666,1070 641,1068 583,1068 575,1066 565,1068 498,1070 251,1070 236,1077 227,1077 211,1075 139,1072 99,1071 76,1073" />
+				<Baseline points="76,1072 790,1065" />
+				<TextEquiv index="1">
+					<Unicode>nossen war 1357 von den Markgrafen bei der Verleihung des Bleich-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="76,1089 154,1089 156,1082 169,1082 187,1088 225,1083 247,1083 259,1085 267,1083 310,1082 312,1090 323,1087 423,1087 441,1080 461,1080 462,1086 494,1086 496,1080 506,1080 539,1085 598,1085 599,1078 647,1078 649,1084 683,1083 684,1077 696,1077 705,1081 766,1082 767,1076 778,1076 791,1081 791,1092 742,1095 598,1095 557,1098 528,1096 192,1098 143,1097 143,1104 131,1104 122,1099 76,1099" />
+				<Baseline points="76,1099 791,1091" />
+				<TextEquiv index="1">
+					<Unicode>monopols in Betreff der inneren Einrichtung und Verwaltung der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="76,1110 96,1110 98,1118 110,1115 126,1115 127,1109 138,1109 139,1116 149,1116 164,1109 175,1109 176,1116 188,1114 216,1115 225,1108 235,1107 245,1107 254,1113 275,1115 277,1108 323,1112 384,1113 390,1115 397,1107 425,1113 462,1113 469,1106 474,1106 482,1112 506,1111 539,1114 556,1106 564,1105 574,1105 576,1111 593,1113 594,1105 638,1105 651,1110 698,1109 701,1103 718,1103 720,1111 729,1106 761,1108 768,1102 780,1102 782,1108 792,1108 792,1121 761,1118 718,1118 638,1121 524,1120 506,1122 384,1123 347,1126 331,1126 308,1123 262,1122 82,1126 76,1126" />
+				<Baseline points="76,1126 215,1122 792,1118" />
+				<TextEquiv index="1">
+					<Unicode>Bleiche keine Vorschrift gemacht worden; es blieb ihnen vollständig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="77,1136 85,1136 85,1142 135,1142 147,1139 162,1139 171,1135 188,1135 197,1138 198,1148 215,1140 238,1140 241,1134 279,1141 287,1133 292,1133 293,1140 304,1134 315,1134 316,1141 325,1141 336,1134 358,1134 359,1142 371,1139 425,1139 449,1133 461,1133 462,1141 474,1139 507,1138 536,1140 546,1135 588,1132 605,1132 606,1138 629,1137 634,1131 639,1131 641,1137 710,1135 724,1129 736,1129 737,1135 792,1134 792,1144 576,1148 546,1148 536,1146 506,1149 271,1148 201,1152 147,1151 139,1149 135,1154 77,1152" />
+				<Baseline points="77,1155 123,1154 200,1149 792,1144" />
+				<TextEquiv index="1">
+					<Unicode>frei gestellt, auf welche Weise sie den grössten Gewinn aus diesem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="77,1162 90,1163 91,1169 123,1169 125,1163 128,1163 131,1169 168,1167 220,1167 234,1163 301,1165 310,1160 322,1160 330,1163 398,1166 454,1165 473,1163 586,1164 587,1157 592,1157 594,1166 605,1158 628,1157 636,1166 650,1162 693,1161 698,1155 710,1155 712,1162 772,1160 773,1154 786,1154 786,1164 792,1164 792,1166 786,1170 772,1171 634,1173 586,1178 479,1175 423,1175 401,1169 398,1175 357,1176 301,1174 154,1179 142,1179 83,1179 77,1179" />
+				<Baseline points="77,1179 266,1175 792,1170" />
+				<TextEquiv index="1">
+					<Unicode>Privilegium ziehen wollten; sie mussten nur, gleichsam als mark-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l8" custom="readingOrder {index:8;}">
+				<Coords points="75,1195 113,1189 133,1188 144,1188 145,1195 163,1194 204,1187 215,1187 220,1193 237,1191 257,1192 261,1186 270,1186 273,1193 284,1191 305,1191 308,1198 341,1191 386,1191 409,1185 433,1186 441,1192 458,1191 459,1185 464,1185 465,1191 491,1191 493,1185 523,1188 537,1185 613,1191 613,1183 626,1183 626,1189 717,1187 717,1181 764,1181 792,1186 792,1197 537,1201 270,1201 126,1205 88,1210 75,1210" />
+				<Baseline points="75,1205 196,1202 792,1196" />
+				<TextEquiv index="1">
+					<Unicode>gräflichen Controleur, einen Bleichrichter annehmen und dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l9" custom="readingOrder {index:9;}">
+				<Coords points="79,1215 92,1215 93,1221 115,1221 122,1215 133,1215 136,1222 151,1217 175,1220 188,1217 241,1219 287,1217 293,1219 300,1211 312,1211 313,1219 351,1212 363,1212 370,1216 387,1218 394,1212 436,1212 438,1220 449,1217 460,1219 466,1211 478,1211 479,1217 544,1211 560,1211 570,1216 582,1217 592,1210 608,1210 616,1216 653,1214 665,1209 677,1209 690,1214 690,1207 707,1207 709,1214 741,1213 741,1207 794,1207 794,1223 743,1228 678,1228 663,1224 498,1227 490,1229 479,1229 454,1227 300,1226 289,1225 284,1220 267,1228 115,1231 79,1231" />
+				<Baseline points="79,1231 794,1222" />
+				<TextEquiv index="1">
+					<Unicode>Landesfürsten von jedem Stück Bleichgut 2 Groschen abgeben. Es</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l10" custom="readingOrder {index:10;}">
+				<Coords points="78,1248 93,1245 165,1246 215,1243 229,1239 234,1239 236,1246 287,1244 293,1237 303,1237 305,1243 349,1244 351,1237 362,1237 370,1245 448,1243 465,1237 491,1237 492,1243 522,1243 522,1236 539,1236 540,1242 597,1242 615,1235 627,1235 647,1240 661,1234 686,1234 686,1240 700,1240 700,1234 744,1234 768,1239 768,1233 784,1233 794,1238 794,1249 539,1253 368,1252 213,1256 165,1255 138,1257 83,1258 78,1258" />
+				<Baseline points="78,1258 327,1253 794,1249" />
+				<TextEquiv index="1">
+					<Unicode>ist zu vermuthen, dass diese vier Gründer von der Technik der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l11" custom="readingOrder {index:11;}">
+				<Coords points="79,1267 98,1267 100,1275 111,1273 128,1273 128,1267 140,1267 141,1275 153,1272 219,1273 226,1266 272,1271 274,1265 286,1265 309,1269 327,1269 340,1263 363,1269 393,1269 402,1267 434,1269 434,1263 446,1263 447,1270 473,1268 544,1269 545,1263 556,1263 559,1269 575,1268 576,1262 590,1262 598,1267 610,1268 635,1266 694,1266 696,1260 704,1260 704,1266 766,1265 771,1259 785,1259 786,1265 795,1265 795,1275 740,1274 740,1281 728,1281 694,1277 569,1277 477,1280 327,1279 140,1283 116,1283 79,1283" />
+				<Baseline points="79,1283 342,1279 795,1275" />
+				<TextEquiv index="1">
+					<Unicode>Bleicherei nicht allzuviel verstanden; sie überliessen anfangs die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l12" points="79,1296 89,1294 101,1294 108,1301 121,1301 127,1293 133,1293 133,1299 151,1299 152,1292 166,1292 167,1298 176,1298 178,1292 185,1292 185,1298 196,1298 197,1292 209,1292 219,1298 265,1297 271,1291 282,1291 284,1297 304,1296 321,1296 334,1289 340,1289 359,1289 362,1295 383,1295 383,1289 389,1289 390,1295 414,1295 425,1297 426,1289 441,1289 448,1293 502,1295 502,1289 533,1289 535,1295 547,1292 559,1292 591,1288 597,1288 612,1290 631,1290 672,1293 672,1287 684,1287 684,1293 698,1293 708,1286 719,1286 738,1300 747,1291 757,1291 757,1285 764,1285 764,1291 776,1291 776,1284 796,1284 796,1301 789,1302 757,1302 719,1303 612,1304 591,1304 533,1305 490,1306 321,1306 292,1307 254,1312 237,1312 166,1309 101,1309 90,1310 79,1310" baseline="79,1309 334,1305 796,1301" reason: differs: "asGschä" against "s Gesch" | Wikisource:  | next_nc_e1: Geschäftsführung ihrem Bleichmeister und betrachteten das G schäft
+ | german_print2_15: Geschäftsführung ihrem Bleichmeister und betrachteten das G schäft
+ -->
+			<TextEquiv index="1">
+				<Unicode>Die Organisation und Verwaltung dieser Bleichen war
+nun in dem ersten Jahrhundert nach ihrer Gründung sehr eigen-
+nossen war 1357 von den Markgrafen bei der Verleihung des Bleich-
+monopols in Betreff der inneren Einrichtung und Verwaltung der
+Bleiche keine Vorschrift gemacht worden; es blieb ihnen vollständig
+frei gestellt, auf welche Weise sie den grössten Gewinn aus diesem
+Privilegium ziehen wollten; sie mussten nur, gleichsam als mark-
+gräflichen Controleur, einen Bleichrichter annehmen und dem
+Landesfürsten von jedem Stück Bleichgut 2 Groschen abgeben. Es
+ist zu vermuthen, dass diese vier Gründer von der Technik der
+Bleicherei nicht allzuviel verstanden; sie überliessen anfangs die</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="124,1348 276,1348 276,1364 124,1364" />
+			<!-- line left out: id="r4l0" points="124,1348 143,1348 170,1349 172,1357 183,1357 184,1349 218,1348 237,1348 267,1349 276,1354 276,1359 267,1360 237,1362 193,1362 184,1361 177,1359 170,1363 143,1364 124,1364" baseline="124,1364 244,1360 276,1359" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ) U.-V. Nr. 80.
+ | german_print2_15: ¹⁴) U.-V. Nr. 80.
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="394,1549 599,1549 599,1561 394,1561" />
+			<!-- line left out: id="r5l0" points="394,1549 402,1549 408,1550 422,1549 434,1549 443,1549 457,1549 469,1549 494,1549 525,1549 552,1549 571,1549 599,1550 599,1558 571,1560 545,1560 531,1558 517,1561 492,1561 482,1561 452,1561 443,1561 426,1561 415,1560 407,1560 394,1558" baseline="394,1558 599,1557" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnpdigitalslub-dresden delppn302
+ | german_print2_15: p ligital slub-dresden de ppne012:
+ -->
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Ueber die Walkmühlen haben wir einen interessanten Bericht
+des Bleichrichters Nikel Eckhart an den Kurfürsten aus dem
+Jahre 1473.⟦⟧ Er beschreibt dieselben folgendermassen: „Es ist
+eyn mölratt, das treybet das wasser umb, und treibet IV oder VIII
+stempffe, die gefuglich sindt, eyne gehet auff und die ander nyder,
+als in den öllmölln ader tuchmacher walckmöl, do sye dye tuch
+inne walcken; und sindt loch gemacht in eym gross klotz,
+nicht als dye alt walke locher hat, sundern vil behender. Dohin
+leyt man das roe gut und geust laugenn dorauff und dornach
+wasser und was not ist und synt denn locher unten am klocz, thut
+man aus den czapffen, so get von dem gut eytel unreyn dinck
+heraus, und welckt sich, das ytzunt das obirst untten ist und das
+untterste auffkumpt so lange uncz reyns lauters wasser do ausgehet.“
+In den Laugenhäusern lag die Waare in der Lauge, welche
+ursprünglich nur eine Auflösung von Pottasche gewesen sein kann, denn
+erst im Anfang des 18. Jahrhunderts verbot der Rath der Lauge
+Kalk zuzusetzen. Eine grosse Mangel war schon 1473 bei der
+Bleiche vorhanden. „Do is ouch eyn gross radt, erzählt der
+Bleichrichter Eckhart, do inne lauffen drey ader vier, dye tryben das
+radt umb und neben dem rade ist eyn tysch, auff dem tysch ist
+eyn langer kaste vol steyne, als lang der tysch. Nu treybet das
+radt, do dye lewte inne lauffen, den kasten mit den steyn auff dem
+tysch hin und her wider. Auff den tysch leyt man das weysse gut,
+leymat, dreylich, und dorzu sind kewlecht holczer slecht runnd en
+wenigk lenger, wenn der tysch und kaste breyt ist, und wenn dye
+knecht, junckfrauen oder frauen lauffen in dem rade, so treybt
+das rad den kastenn auff den keulichten holczern uber das weysse
+gut auff dem tysch, denn werden dye leymate dreylich slecht, frysch
+und wol weyss gestalt vnd kauffwirdigk“.
+Die Organisation und Verwaltung dieser Bleichen war
+nun in dem ersten Jahrhundert nach ihrer Gründung sehr
+eigenthümlich. Dem Freiberger Münzmeister Nikel Manhaupt und
+Genossen war 1357 von den Markgrafen bei der Verleihung des
+Bleichmonopols in Betreff der inneren Einrichtung und Verwaltung der
+Bleiche keine Vorschrift gemacht worden; es blieb ihnen vollständig
+frei gestellt, auf welche Weise sie den grössten Gewinn aus diesem
+Privilegium ziehen wollten; sie mussten nur, gleichsam als
+markgräflichen Controleur, einen Bleichrichter annehmen und dem
+Landesfürsten von jedem Stück Bleichgut 2 Groschen abgeben. Es
+ist zu vermuthen, dass diese vier Gründer von der Technik der
+Bleicherei nicht allzuviel verstanden; sie überliessen anfangs die
+Geschäftsführung ihrem Bleichmeister und betrachteten das Geschäft
+-->
+	</Page>
+</PcGts>

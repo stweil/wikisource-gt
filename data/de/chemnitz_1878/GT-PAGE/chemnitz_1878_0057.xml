@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:18:53</Created>
+		<LastChange>2026-11-23T14:18:53</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/57 revision 4656538 of 2025-11-14T07:48:54Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0057.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro6023039832790184996" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="194,270 752,270 752,292 194,292" />
+			<!-- line left out: id="r0l0" points="194,277 210,277 218,288 233,288 240,281 246,277 263,277 274,287 277,287 392,288 544,272 557,271 578,271 685,284 710,270 747,270 747,276 752,276 752,286 685,286 557,285 544,275 392,290 263,292 233,292 205,292 194,291" baseline="194,292 276,291 752,285" reason: differs: "Mitt" against "lhel" | Wikisource:  | next_nc_e1: Mittew 1 eld Bleic
+ | german_print2_15: Mittew 1 1 5 Beld 1 r. Bleic
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="115,297 782,297 782,339 115,339" />
+			<!-- line left out: id="r1l0" points="115,310 134,310 150,303 165,303 171,312 185,309 716,306 727,306 744,306 748,297 760,297 761,304 782,304 782,312 760,312 744,313 737,313 716,310 218,322 198,322 165,320 115,320" baseline="115,320 217,319 716,313 782,312" reason: differs: "zuKe" against "eich" | Wikisource:  | next_nc_e1: zu Kemp oschen | german_print2_15: zu Kemp oschen -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="687,324 703,324 709,330 724,332 726,326 739,326 782,333 782,335 764,339 739,339 713,339 687,339" />
+				<Baseline points="687,339 782,338" />
+				<TextEquiv index="1">
+					<Unicode>Grefen-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Grefen-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="674,350 782,350 782,365 674,365" />
+			<!-- line left out: id="r2l0" points="674,357 688,357 704,350 721,350 727,356 741,354 759,354 782,359 782,361 759,365 715,365 704,364 674,363" baseline="674,363 782,363" reason: second model: differs: "»nMy" against "hayn" | Wikisource: n Mytte | next_nc_e1: n Mytte-
+ | german_print2_15: »n Mytte-
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="583,524 788,524 788,673 583,673" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="656,524 667,524 673,530 689,532 701,524 706,524 737,529 770,528 785,530 785,538 667,540 656,540" />
+				<Baseline points="656,540 785,538" />
+				<TextEquiv index="1">
+					<Unicode>Trebizsin,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="623,557 643,557 660,550 675,550 679,558 708,555 786,555 786,566 735,565 726,563 723,571 708,571 675,566 623,567" />
+				<Baseline points="623,567 786,565" />
+				<TextEquiv index="1">
+					<Unicode>zu Kempnitz,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="666,583 670,583 679,590 688,584 697,584 709,590 716,590 716,576 730,576 739,583 749,583 752,576 757,576 759,582 775,582 780,584 780,590 775,592 749,592 730,594 709,594 679,592 666,587" />
+				<Baseline points="666,592 780,591" />
+				<TextEquiv index="1">
+					<Unicode>hre gnädige</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="716,603 721,603 721,609 731,609 734,603 743,603 748,611 755,607 784,608 784,617 721,619 716,619" />
+				<Baseline points="716,619 784,617" />
+				<TextEquiv index="1">
+					<Unicode>Kloster</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="583,665 594,658 611,658 633,663 648,657 663,657 673,664 683,661 788,661 788,670 705,671 691,669 683,665 677,672 633,673 611,673 583,673" />
+				<Baseline points="583,673 788,670" />
+				<TextEquiv index="1">
+					<Unicode>Haus Rabenstein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Trebizsin,
+zu Kempnitz,
+hre gnädige
+Kloster
+Haus Rabenstein</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="635,682 773,682 773,699 635,699" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="635,691 662,689 718,688 720,682 763,682 773,687 773,697 679,699 660,699 642,699 635,694" />
+				<Baseline points="635,699 773,697" />
+				<TextEquiv index="1">
+					<Unicode>gräfin und ihr</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>gräfin und ihr</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="545,934 790,934 790,952 545,952" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="545,945 576,941 597,936 614,936 621,942 626,942 646,936 662,936 664,944 676,941 709,941 714,935 718,935 720,943 738,941 768,942 769,934 780,934 788,941 790,941 790,950 626,952 581,952 557,952 545,949" />
+				<Baseline points="545,952 790,950" />
+				<TextEquiv index="1">
+					<Unicode>eiht den Gewerken der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>eiht den Gewerken der</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="620,962 746,962 746,978 620,978" />
+			<!-- line left out: id="r6l0" points="620,963 632,962 638,962 642,972 652,972 669,962 681,962 682,970 694,968 700,968 701,962 727,962 736,967 746,969 746,977 727,978 688,978 638,978 620,978" baseline="620,978 651,977 746,976" reason: differs: "MitZ" against "Blei" | Wikisource:  | next_nc_e1: Mit Zeugen.
+ | german_print2_15: Mit Zeugen.
+ -->
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="638,1160 798,1160 798,1201 638,1201" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="638,1165 674,1167 689,1160 693,1160 702,1167 704,1160 716,1160 734,1164 755,1164 764,1166 764,1175 716,1175 704,1175 702,1171 689,1169 674,1175 638,1175" />
+				<Baseline points="638,1175 764,1175" />
+				<TextEquiv index="1">
+					<Unicode>ihm bestätig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l1" points="709,1191 732,1191 739,1185 744,1185 764,1194 770,1185 781,1185 795,1192 798,1192 798,1200 781,1201 744,1201 709,1201" baseline="709,1201 764,1200 798,1200" reason: differs: "undd" against "ten " | Wikisource:  | next_nc_e1: und den
+ | german_print2_15: und den
+ -->
+			<TextEquiv index="1">
+				<Unicode>ihm bestätig</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="669,1211 799,1211 799,1227 669,1227" />
+			<!-- line left out: id="r8l0" points="669,1211 680,1211 688,1218 692,1218 715,1218 721,1219 743,1212 748,1212 761,1215 799,1219 799,1226 777,1227 669,1227" baseline="669,1227 799,1226" reason: differs: "dene" against "ntst" | Wikisource:  | next_nc_e1: denen Bruch
+ | german_print2_15: denen Bruch
+ -->
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="605,1272 793,1272 793,1285 605,1285" />
+			<TextLine id="r9l0" custom="readingOrder {index:0;}">
+				<Coords points="605,1281 614,1275 717,1274 760,1272 766,1272 789,1274 793,1277 793,1281 789,1284 710,1285 682,1285 614,1285 605,1284" />
+				<Baseline points="605,1285 793,1283" />
+				<TextEquiv index="1">
+					<Unicode>vnser frouwin tage</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>vnser frouwin tage</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="425,1549 655,1549 655,1561 425,1561" />
+			<!-- line left out: id="r10l0" points="425,1549 436,1549 459,1549 472,1549 502,1549 528,1549 551,1549 574,1550 655,1550 655,1558 640,1560 574,1560 554,1560 534,1558 444,1561 425,1561" baseline="425,1558 655,1558" reason: differs: "digi" against "assu" | Wikisource:  | next_nc_e1: digital slub-dresden de ppn30125964257
+ | german_print2_15: gital slub-dresden de ppne0125964257
+ -->
+		</TextRegion>
+		<GraphicRegion id="r11">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+| colspan="2"; style="text-align:center;" | 1389, März 14.
+| style="vertical-align:top;"| 55.
+| Heinrich Grose, Ritter, bekennt, dass ihm Markgraf Wilhelm Mitteweide und 60 Schock Geldes an der Bleiche zu Kempnicz zu Lehen gegeben und 200 Schock Groschen ausgezahlt habe, wogegen er ihm den verpfändeten Grefenhayn wieder ausantwortet und die Pfandsumme von Mytteweide erlässt. Mit Zeugen.
+|
+| Miszen, 1389, am Suntage nach Sente Gregorij Tag.
+|
+| Copie. (Or. Perg. mit Siegel im H.-St.-A. Dr. 4672.)
+| colspan="2"; style="text-align:center;" | 1390, Januar 12.
+| style="vertical-align:top;"| 56.
+| Heinrich, Abt, Nyclaus, Prior, Heinrich Trebizsin, Custos, und der ganze Convent des Klosters zu Kempnitz, bekennen, dass ihnen die Markgräfin Elisabeth, ihre gnädige Frau, zur Wiedererstattung der Schäden, welche das Kloster wider des Markgrafen Wilhelm Städte und Leute, insbesondere Zcwigkaw und Oderen, gehabt hat, das Haus Rabenstein ausgeantwortet hat, und versprechen, die Markgräfin und ihre Nachkommen an keiner weltlichen oder geistlichen Gerichtsstätte zu betheidingen. Mit Zeugen.
+|
+| (Chemnitz), 1390, an der nehesten mittewoche nach der heiligen drew kenyge tage.
+|
+| Copie. (Or. Perg. mit Notariatszeugniss des Conradus Marquardi, Klerikers der Naumburger Diöcese, im H.-St.-A. Dr. 4705.)
+| colspan="2"; style="text-align:center;" | 1390, April 9.
+| style="vertical-align:top;"| 57.
+| Wilhelm, Markgraf zu Meissen, verleiht den Gewerken der Bleiche zu Kempnitz eine neue Ordnung. Mit Zeugen.
+|
+| 1390, am sunabende vor deme suntage, als man synget quasimodo geniti.
+|
+| Copie. (Or. Perg. mit Siegel im R.-A. Ch. 19.)
+| colspan="2"; style="text-align:center;" | 1393, August 17.
+| style="vertical-align:top;"| 58.
+| Die ganze Gemeinde Kempnitz, arm und reich, verspricht Wilhelm, Markgrafen von Meissen, dem von ihm bestätigten Rathe zu gehorchen, keine Aufläufe zu machen und den zwischen dem Rathe und der Gemeinde entstandenen Bruch für gesühnt zu erachten.
+|
+| (Chemnitz), 1393, an dem suntage nach vnser frouwin tage assumptionis.
+|
+| Copie. (Or. Perg. mit grossem Stadtsiegel in rothem Wachs im H.-St.-A. Dr. 4836.)
+-->
+	</Page>
+</PcGts>

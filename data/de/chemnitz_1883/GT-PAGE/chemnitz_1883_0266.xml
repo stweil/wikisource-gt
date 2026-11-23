@@ -1,0 +1,605 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:59:52</Created>
+		<LastChange>2026-11-23T13:59:52</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/266 revision 4963803 of 2026-07-27T08:07:58Z, proofread level 3, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0266.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro10578718307329603560" caption="Regions reading order">
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="15" regionRef="r15" />
+				<RegionRefIndexed index="16" regionRef="r16" />
+				<RegionRefIndexed index="18" regionRef="r18" />
+				<RegionRefIndexed index="20" regionRef="r20" />
+				<RegionRefIndexed index="21" regionRef="r21" />
+				<RegionRefIndexed index="22" regionRef="r22" />
+				<RegionRefIndexed index="23" regionRef="r23" />
+				<RegionRefIndexed index="25" regionRef="r25" />
+				<RegionRefIndexed index="27" regionRef="r27" />
+				<RegionRefIndexed index="29" regionRef="r29" />
+				<RegionRefIndexed index="30" regionRef="r30" />
+				<RegionRefIndexed index="35" regionRef="r35" />
+				<RegionRefIndexed index="36" regionRef="r36" />
+				<RegionRefIndexed index="38" regionRef="r38" />
+				<RegionRefIndexed index="40" regionRef="r40" />
+				<RegionRefIndexed index="42" regionRef="r42" />
+				<RegionRefIndexed index="44" regionRef="r44" />
+				<RegionRefIndexed index="46" regionRef="r46" />
+				<RegionRefIndexed index="51" regionRef="r51" />
+				<RegionRefIndexed index="53" regionRef="r53" />
+				<RegionRefIndexed index="55" regionRef="r55" />
+				<RegionRefIndexed index="57" regionRef="r57" />
+				<RegionRefIndexed index="59" regionRef="r59" />
+				<RegionRefIndexed index="63" regionRef="r63" />
+				<RegionRefIndexed index="64" regionRef="r64" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,187 1000,187 1000,1264 0,1264" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,1318 89,1318 89,1341 0,1341" />
+		</GraphicRegion>
+		<GraphicRegion id="r2">
+			<Coords points="274,187 532,187 532,218 274,218" />
+		</GraphicRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="222,194 274,194 274,209 222,209" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="222,206 227,194 247,194 248,200 274,200 274,209 222,209" />
+				<Baseline points="222,209 274,209" />
+				<TextEquiv index="1">
+					<Unicode>alhier</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>alhier</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="223,195 925,195 925,266 223,266" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="294,200 322,195 334,195 342,201 363,196 375,196 381,200 394,202 401,196 426,196 436,202 445,202 445,196 465,196 467,205 478,202 488,202 501,211 509,211 509,215 501,215 465,211 445,212 294,210" />
+				<Baseline points="294,209 509,212" />
+				<TextEquiv index="1">
+					<Unicode>in der Stadtkirchen g</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="223,226 300,226 316,220 327,220 336,226 372,227 373,234 393,221 407,221 409,227 464,230 470,222 475,222 496,227 581,229 651,228 656,233 663,224 668,224 670,230 698,230 717,233 723,224 755,224 758,231 778,225 819,226 822,233 910,227 912,238 925,233 925,242 910,242 853,242 844,242 805,242 793,242 626,239 373,238 327,236 223,235" />
+				<Baseline points="223,235 925,242" />
+				<TextEquiv index="1">
+					<Unicode>curriren hören, Er möchtte immer ein Schulmeister bleiben, in der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l2" points="223,246 233,246 242,252 253,252 253,246 273,246 274,253 285,252 296,252 297,259 320,252 326,252 348,253 349,247 362,247 380,253 392,250 396,250 401,251 425,256 427,248 437,248 446,254 464,251 474,248 483,248 485,254 495,254 503,253 519,253 533,261 539,249 543,249 562,255 595,255 599,249 609,249 637,258 649,256 681,256 698,263 704,259 710,256 726,256 740,262 746,257 787,257 800,251 808,251 808,266 787,266 710,266 653,265 649,265 609,264 543,264 519,264 485,264 449,263 301,263 266,263 253,263 233,262 223,262" baseline="223,261 400,262 652,264 808,266" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: kirchen, vndt vff der Cantzell würde er wenig ausrich
+ | german_print2_15: kirchen, vndt vff der Cantzell würde er wenig ausrich
+ -->
+			<TextEquiv index="1">
+				<Unicode>in der Stadtkirchen g
+curriren hören, Er möchtte immer ein Schulmeister bleiben, in der</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="622,409 860,409 860,554 622,554" />
+		</GraphicRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="843,258 925,258 925,269 843,269" />
+			<!-- line left out: id="r6l0" points="843,265 863,262 870,261 887,258 891,258 914,259 925,263 925,268 847,269 843,269" baseline="843,269 890,267 903,267 925,268" reason: differs: "„den" against "ten," | Wikisource:  | next_nc_e1: „den er
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r7">
+			<Coords points="838,261 839,261 839,266 838,266" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="483,304 758,304 758,321 483,321" />
+		</GraphicRegion>
+		<GraphicRegion id="r9">
+			<Coords points="416,332 452,332 452,341 416,341" />
+		</GraphicRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="222,272 928,272 928,345 222,345" />
+			<TextLine id="r10l0" custom="readingOrder {index:0;}">
+				<Coords points="222,277 261,278 281,272 291,272 294,278 359,278 379,283 380,272 391,272 393,279 448,279 464,283 465,274 476,274 510,282 585,274 599,274 602,284 625,280 636,280 646,285 667,276 676,276 684,284 693,281 757,282 769,284 771,291 794,283 826,286 827,278 838,278 839,286 873,283 894,285 896,278 900,278 903,286 928,285 928,294 919,294 736,291 585,291 448,288 403,290 349,288 346,294 341,294 323,288 222,287" />
+				<Baseline points="222,287 709,290 928,294" />
+				<TextEquiv index="1">
+					<Unicode>zum leise prediger woll töchte. Nichts desto weniger aber haben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r10l1" points="223,304 246,303 252,303 274,304 276,298 286,298 306,304 310,304 333,307 335,298 346,298 348,307 371,307 395,308 398,299 412,299 413,310 419,310 428,312 443,306 456,305 466,305 477,307 483,311 489,300 525,300 547,300 573,306 578,306 601,307 613,306 625,306 647,306 658,307 689,310 708,310 724,302 738,302 759,302 770,304 782,308 814,309 820,311 831,316 851,303 862,303 864,312 875,309 884,309 906,308 913,308 913,319 884,319 875,319 862,318 831,319 828,319 814,318 759,319 647,321 625,321 613,321 613,313 589,313 581,313 578,321 573,321 535,317 525,315 513,317 477,317 468,317 413,315 398,314 392,312 367,311 346,314 335,314 286,313 239,313 223,312" baseline="223,312 251,312 329,313 851,317 913,316" reason: second model: differs: "vffinRa" against "vffn Ra" | Wikisource: wir über diese drei angegebene personen vffn Rathhause, den de | next_nc_e1: wir über diese drei angegebene personen vffn Rathhause, den de | german_print2_15: wir über diese drei angegebene personen vffin Rathhause, den de -->
+			<!-- line left out: id="r10l2" points="222,324 233,324 235,330 247,329 252,329 285,328 306,328 329,330 330,324 342,324 343,333 355,330 359,330 374,334 384,325 396,325 397,333 409,331 417,325 443,325 465,337 471,336 483,334 494,326 504,326 533,326 534,335 545,335 546,326 551,326 559,334 571,332 576,332 599,334 615,333 625,333 646,333 666,333 673,340 688,334 712,334 779,328 788,328 798,334 807,334 808,328 821,328 821,335 837,335 865,334 874,334 881,335 906,335 912,338 920,330 928,330 928,345 906,345 897,345 885,344 877,338 874,344 798,344 676,343 646,343 633,343 615,341 602,337 599,343 590,343 533,341 481,341 465,341 442,329 442,341 409,341 396,340 384,340 306,339 255,339 252,345 247,345 245,339 235,339 222,338" baseline="222,339 779,340 928,343" reason: differs: "Supe" against "r Su" | Wikisource:  | next_nc_e1: Superattendens domals nicht dobey gewesen, son oheime kranck
+ | german_print2_15: Superattendens domals nicht dobey gewesen, son loheime kranck
+ -->
+			<TextEquiv index="1">
+				<Unicode>zum leise prediger woll töchte. Nichts desto weniger aber haben</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r11">
+			<Coords points="716,330 764,330 764,347 716,347" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="523,357 544,357 544,367 523,367" />
+		</GraphicRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="222,375 655,375 655,394 222,394" />
+			<!-- line left out: id="r13l0" points="222,387 228,376 242,375 263,375 283,381 294,381 318,381 329,380 365,375 370,375 398,382 405,382 427,382 468,381 493,378 545,378 547,386 559,384 588,384 599,387 599,378 614,378 614,385 623,385 655,386 655,392 623,394 588,394 571,394 545,393 477,393 468,393 417,392 405,391 379,394 375,394 318,391 222,391" baseline="222,391 398,391 655,394" reason: differs: "alle" against "nck " | Wikisource:  | next_nc_e1: aller meisten ¹) vota vff M. hommeln ge
+ | german_print2_15: aller meisten¹) vota vff M. hommeln ge
+ -->
+		</TextRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="222,401 611,401 611,423 222,423" />
+			<TextLine id="r14l0" custom="readingOrder {index:0;}">
+				<Coords points="222,402 253,401 265,401 266,410 277,407 307,409 309,401 319,401 327,408 351,403 359,403 388,410 428,407 458,409 466,403 477,403 484,416 490,408 501,408 505,403 565,404 573,413 590,410 611,409 611,417 601,419 507,423 505,423 501,419 389,417 382,423 359,423 351,423 337,417 222,416" />
+				<Baseline points="222,416 611,416" />
+				<TextEquiv index="1">
+					<Unicode>balden den Superattendenten berichte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>balden den Superattendenten berichte</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r15" custom="readingOrder {index:15;} orientation {0;}">
+			<Coords points="455,430 599,430 599,446 455,446" />
+			<!-- line left out: id="r15l0" points="455,442 466,430 487,430 496,435 507,438 510,430 547,430 549,442 558,442 560,434 571,434 599,436 599,445 571,445 487,446 455,446" baseline="455,446 520,445 599,445" reason: differs: "„vnd" against "t wo" | Wikisource:  | next_nc_e1: „vndt haben
+ | german_print2_15: „ vndt haben
+ -->
+		</TextRegion>
+		<TextRegion id="r16" custom="readingOrder {index:16;} orientation {0;}">
+			<Coords points="817,355 922,355 922,370 817,370" />
+			<!-- line left out: id="r16l0" points="823,360 859,355 861,355 861,365 859,365 823,362" baseline="823,362 861,362" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 10 d | german_print2_15:  -->
+			<!-- line left out: id="r16l1" points="817,365 853,363 857,363 869,367 871,361 901,360 912,360 915,366 922,366 922,370 860,370 817,369" baseline="817,368 922,370" reason: differs: "dodan" against "den, " | Wikisource:  | next_nc_e1: do dan die
+ | german_print2_15: do dan die
+ -->
+		</TextRegion>
+		<GraphicRegion id="r17">
+			<Coords points="767,350 804,350 804,399 767,399" />
+		</GraphicRegion>
+		<TextRegion id="r18" custom="readingOrder {index:18;} orientation {0;}">
+			<Coords points="221,429 451,429 451,497 221,497" />
+			<!-- line left out: id="r18l0" points="223,433 239,433 261,435 281,433 287,432 297,432 318,433 337,432 349,432 390,434 399,429 412,429 435,429 436,438 448,433 451,433 451,444 435,448 412,448 399,448 390,444 385,444 354,443 281,443 261,441 239,443 223,443" baseline="223,443 238,442 257,442 373,443 451,444" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: in continenti ervolget | german_print2_15: in continenti ervolget. -->
+			<TextLine id="r18l1" custom="readingOrder {index:1;}">
+				<Coords points="228,453 244,453 251,457 264,459 267,453 271,453 273,466 292,453 307,453 335,454 342,465 360,460 377,459 407,460 417,463 435,455 450,455 450,471 435,471 335,469 228,469" />
+				<Baseline points="228,469 450,470" />
+				<TextEquiv index="1">
+					<Unicode>Titul. de Vocatione M</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r18l2" custom="readingOrder {index:2;}">
+				<Coords points="221,487 231,487 238,489 245,479 250,479 252,486 263,479 274,479 282,484 307,485 308,492 329,479 341,479 342,486 391,486 411,487 419,489 427,481 436,481 436,496 282,495 231,497 221,497" />
+				<Baseline points="221,495 436,496" />
+				<TextEquiv index="1">
+					<Unicode>gehalten, das werck</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Titul. de Vocatione M
+gehalten, das werck</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r19">
+			<Coords points="336,432 932,432 932,455 336,455" />
+		</GraphicRegion>
+		<TextRegion id="r20" custom="readingOrder {index:20;} orientation {0;}">
+			<Coords points="609,458 928,458 928,474 609,474" />
+			<!-- line left out: id="r20l0" points="609,463 612,463 642,463 656,463 870,471 876,458 894,458 894,464 904,464 915,466 918,458 928,458 928,473 894,474 870,474 625,472 609,471" baseline="609,471 655,471 870,472 928,473" reason: differs: "hier" against "E. E" | Wikisource:  | next_nc_e1: hierir „vndt
+ | german_print2_15: hierin „vndt
+ -->
+		</TextRegion>
+		<TextRegion id="r21" custom="readingOrder {index:21;} orientation {0;}">
+			<Coords points="222,488 929,488 929,522 222,522" />
+			<TextLine id="r21l0" custom="readingOrder {index:0;}">
+				<Coords points="875,493 897,488 901,488 915,494 929,494 929,495 919,499 901,499 885,499 875,498" />
+				<Baseline points="875,498 929,499" />
+				<TextEquiv index="1">
+					<Unicode>vnter-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r21l1" points="222,515 228,505 239,505 241,514 252,511 262,511 273,509 281,505 293,505 294,513 306,506 310,506 312,512 380,512 414,513 419,507 429,507 431,516 443,513 446,513 457,515 457,522 429,522 380,522 360,522 279,521 262,521 239,521 222,521" baseline="222,521 360,521 457,522" reason: differs: "kenr" against "kennen " | Wikisource:  | next_nc_e1: dienstlichen zu erkenr
+ | german_print2_15: dienstlichen zu erkenr
+ -->
+			<TextEquiv index="1">
+				<Unicode>vnter-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r22" custom="readingOrder {index:22;} orientation {0;}">
+			<Coords points="221,531 745,531 745,603 221,603" />
+			<TextLine id="r22l0" custom="readingOrder {index:0;}">
+				<Coords points="221,538 244,537 251,541 257,531 267,531 281,540 287,540 287,531 304,531 306,540 313,540 325,532 333,531 350,531 351,540 373,538 377,531 379,531 417,538 420,538 429,533 440,533 448,541 469,540 477,537 487,537 494,539 494,549 469,550 459,550 427,548 221,547" />
+				<Baseline points="221,547 494,548" />
+				<TextEquiv index="1">
+					<Unicode>auch das Examen ablegati</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r22l1" points="221,561 232,558 240,558 244,564 252,564 261,562 271,562 292,563 312,562 325,562 372,564 384,566 386,558 398,558 433,559 435,565 446,565 458,567 459,559 467,559 467,574 458,575 435,575 342,574 334,574 325,573 244,573 227,572 221,572" baseline="221,572 467,574" reason: second model: differs: "Conf" against "subs" | Wikisource: Confirmatio, vndt Manda | next_nc_e1: Confirmatio, vndt Manda | german_print2_15: Confirmatio, vndt Mande -->
+			<!-- line left out: id="r22l2" points="222,590 231,589 260,589 317,588 327,588 369,589 393,591 420,589 424,589 450,597 456,585 467,585 489,585 504,590 529,592 529,585 541,585 543,586 551,594 562,592 591,592 603,593 604,587 617,587 619,596 630,595 644,595 648,587 658,587 661,593 665,593 680,592 684,592 710,593 732,593 740,596 743,587 745,587 745,601 732,602 723,602 710,601 684,602 665,602 617,603 591,603 587,603 541,601 518,601 489,601 470,601 424,600 402,600 365,600 260,599 222,599" baseline="222,599 353,599 587,600 745,601" reason: differs: "rinn" against "tum " | Wikisource:  | next_nc_e1: rinnen rite et recte allenthalben procediret word‘
+ | german_print2_15: rinnen rite et recte allenthalben procediret word-
+ -->
+			<TextEquiv index="1">
+				<Unicode>auch das Examen ablegati</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r23" custom="readingOrder {index:23;} orientation {0;}">
+			<Coords points="860,513 928,513 928,525 860,525" />
+			<!-- line left out: id="r23l0" points="860,516 870,516 889,513 902,513 928,513 928,525 889,525 870,523 860,523" baseline="860,524 928,525" reason: differs: "wora" against "den," | Wikisource:  | next_nc_e1: woraufl
+ | german_print2_15: worauff
+ -->
+		</TextRegion>
+		<GraphicRegion id="r24">
+			<Coords points="458,455 927,455 927,555 458,555" />
+		</GraphicRegion>
+		<TextRegion id="r25" custom="readingOrder {index:25;} orientation {0;}">
+			<Coords points="527,560 929,560 929,576 527,576" />
+			<!-- line left out: id="r25l0" points="527,560 546,560 547,566 553,566 562,560 574,560 583,565 598,565 611,566 628,567 628,560 630,560 656,569 668,567 672,567 715,567 735,567 737,574 767,567 770,567 846,573 852,562 862,562 866,570 891,567 911,567 929,571 929,573 916,575 911,576 862,576 715,576 672,576 630,576 617,576 574,576 546,576 534,576 527,574" baseline="527,574 929,576" reason: differs: "Invest" against "en, No" | Wikisource:  | next_nc_e1: Investiturae ervolget, vr also hie-
+ | german_print2_15: Investiturae ervolget, vr also hie-
+ -->
+		</TextRegion>
+		<GraphicRegion id="r26">
+			<Coords points="475,565 512,565 512,579 475,579" />
+		</GraphicRegion>
+		<TextRegion id="r27" custom="readingOrder {index:27;} orientation {0;}">
+			<Coords points="843,591 929,591 929,603 843,603" />
+			<TextLine id="r27l0" custom="readingOrder {index:0;}">
+				<Coords points="843,595 851,591 864,591 881,591 900,593 912,592 926,600 929,600 929,603 864,603 851,603 843,600" />
+				<Baseline points="843,600 929,603" />
+				<TextEquiv index="1">
+					<Unicode>obstante,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>obstante,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r28">
+			<Coords points="786,565 828,565 828,628 786,628" />
+		</GraphicRegion>
+		<TextRegion id="r29" custom="readingOrder {index:29;} orientation {0;}">
+			<Coords points="221,609 773,609 773,628 221,628" />
+			<!-- line left out: id="r29l0" points="221,609 232,609 239,615 244,615 273,615 299,615 319,616 342,616 367,616 379,617 381,610 394,610 410,615 435,617 459,617 505,617 518,619 525,611 535,611 589,612 592,620 596,620 613,623 616,612 628,612 636,618 640,618 662,619 682,619 687,613 710,613 717,620 725,620 759,621 773,622 773,624 759,626 725,628 687,628 682,622 670,626 662,627 640,628 628,628 616,628 608,627 587,628 584,628 505,627 459,627 435,627 410,627 405,627 342,626 332,626 289,625 273,624 244,625 221,625" baseline="221,624 252,624 773,627" reason: second model: differs: "ess4" against "s soltt" | Wikisource: das von iemands temere möchtte objicirt werden, es s | next_nc_e1: das von iemands temere möchtte objicirt werden, es s
+ | german_print2_15: das von iemands temere möchtte objicirt werden, es s 4
+ -->
+		</TextRegion>
+		<TextRegion id="r30" custom="readingOrder {index:30;} orientation {0;}">
+			<Coords points="831,618 923,618 923,629 831,629" />
+			<TextLine id="r30l0" custom="readingOrder {index:0;}">
+				<Coords points="831,621 899,618 909,618 923,619 923,626 918,628 878,629 869,629 831,626" />
+				<Baseline points="831,626 923,626" />
+				<TextEquiv index="1">
+					<Unicode>die gantze</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>die gantze</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r31">
+			<Coords points="283,638 314,638 314,655 283,655" />
+		</GraphicRegion>
+		<GraphicRegion id="r32">
+			<Coords points="531,664 745,664 745,705 531,705" />
+		</GraphicRegion>
+		<GraphicRegion id="r33">
+			<Coords points="209,744 660,744 660,764 209,764" />
+		</GraphicRegion>
+		<GraphicRegion id="r34">
+			<Coords points="636,781 637,781 637,784 636,784" />
+		</GraphicRegion>
+		<TextRegion id="r35" custom="readingOrder {index:35;} orientation {0;}">
+			<Coords points="220,636 929,636 929,788 220,788" />
+			<TextLine id="r35l0" custom="readingOrder {index:0;}">
+				<Coords points="221,636 226,636 229,642 251,642 255,650 262,650 262,636 274,636 316,636 325,642 333,639 371,637 374,644 394,643 429,645 431,637 435,637 437,646 449,637 459,637 461,646 499,642 539,642 563,643 584,650 596,644 606,644 619,638 629,638 643,653 652,653 653,645 760,644 796,639 806,639 814,647 820,644 844,647 852,639 856,639 860,647 876,645 899,647 920,645 929,648 929,650 920,654 856,653 729,655 708,655 677,653 667,655 643,655 449,653 429,651 371,652 316,655 293,655 284,651 274,655 255,655 240,651 221,650" />
+				<Baseline points="221,650 929,654" />
+				<TextEquiv index="1">
+					<Unicode>burgerschafft bei solcher election auch gewesen, vndt darueber vor-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r35l1" custom="readingOrder {index:1;}">
+				<Coords points="221,668 412,669 414,663 425,663 432,669 447,670 523,670 539,664 544,664 544,672 570,670 581,673 584,664 595,664 607,670 711,669 731,677 736,669 772,671 808,669 810,677 828,670 916,669 929,673 929,679 916,680 898,680 794,680 751,680 711,680 698,680 672,678 447,680 438,680 400,679 391,677 221,677" />
+				<Baseline points="221,677 929,680" />
+				<TextEquiv index="1">
+					<Unicode>nommen sein worden, hieran seindt wir als Schrifftsassen niemandes</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r35l2" points="220,694 237,694 243,696 250,688 261,688 269,692 309,695 331,692 337,692 361,695 362,689 374,689 382,696 395,693 404,693 406,702 432,689 443,689 445,696 455,696 464,698 484,690 488,690 492,697 508,696 546,690 556,690 563,698 574,694 580,690 593,690 600,696 608,696 657,696 677,701 696,690 700,690 711,694 713,700 724,697 733,697 734,690 747,690 748,696 756,696 762,698 771,704 807,699 855,697 866,697 883,696 886,696 910,697 926,697 926,705 910,708 895,708 866,705 774,707 747,707 734,707 700,705 657,706 608,706 593,706 549,706 546,706 508,705 455,704 443,705 392,708 382,708 337,704 309,706 299,706 269,703 261,704 237,704 220,704" baseline="220,703 926,705" reason: differs: "vieweni" against "viell w" | Wikisource:  | next_nc_e1: nichts gestendigk, das bei Election eines Diaconi, vie weniger | german_print2_15: nichts gestendigk, das bei Election eines Diaconi, vie weniger -->
+			<TextLine id="r35l3" custom="readingOrder {index:3;}">
+				<Coords points="220,723 227,714 237,714 245,723 304,715 336,715 338,723 347,719 366,719 417,724 419,715 430,715 432,724 456,716 461,716 464,722 486,722 490,730 502,725 506,716 519,716 531,724 560,722 567,720 636,723 638,729 671,722 722,716 732,722 741,722 759,731 766,731 771,723 777,721 795,721 798,728 809,724 821,716 825,716 836,720 879,724 882,716 892,716 894,723 923,722 923,731 584,731 519,734 500,734 490,734 430,731 369,731 336,729 309,731 220,729" />
+				<Baseline points="220,729 923,731" />
+				<TextEquiv index="1">
+					<Unicode>dessen substituti die bürgerschafft sein, vndt Ihr guttachten dazue</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r35l4" points="243,741 255,741 256,748 268,746 277,746 330,745 344,745 367,747 369,755 393,751 400,741 409,741 413,748 429,748 437,746 448,746 487,750 503,742 514,742 516,749 563,748 566,748 585,748 621,748 628,754 630,754 679,756 686,749 695,749 697,757 707,757 707,747 724,747 767,749 767,742 780,742 780,749 792,749 800,751 803,742 812,742 820,755 843,751 854,742 858,742 861,749 869,749 901,743 904,743 922,743 922,756 906,757 823,758 820,758 792,757 780,758 722,761 697,761 621,759 596,759 566,759 563,759 503,757 472,756 448,757 373,758 369,758 268,756 255,755 243,755" baseline="243,755 922,756" reason: differs: "benmüs" against "geben " | Wikisource:  | next_nc_e1: ben müsten, domit es dan langwei zugehn würde, ehe alle | german_print2_15: ben müsten, domit es dan langwei zugehn würde, cehe alle -->
+			<TextLine id="r35l5" custom="readingOrder {index:5;}">
+				<Coords points="221,768 311,773 380,774 381,767 392,767 394,776 406,774 447,774 449,768 460,768 481,774 582,774 599,781 610,774 700,774 712,776 763,773 793,775 811,768 815,768 823,775 929,774 929,783 811,785 253,782 250,788 240,788 231,783 221,783" />
+				<Baseline points="221,782 929,783" />
+				<TextEquiv index="1">
+					<Unicode>kopffe in einander vndt zusammen kommen möchtten, Ja wan man</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>burgerschafft bei solcher election auch gewesen, vndt darueber vor-
+nommen sein worden, hieran seindt wir als Schrifftsassen niemandes
+dessen substituti die bürgerschafft sein, vndt Ihr guttachten dazue
+kopffe in einander vndt zusammen kommen möchtten, Ja wan man</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r36" custom="readingOrder {index:36;} orientation {0;}">
+			<Coords points="746,794 928,794 928,810 746,810" />
+			<!-- line left out: id="r36l0" points="746,803 848,799 851,799 872,800 878,806 884,800 893,800 897,794 911,794 920,800 928,800 928,809 911,809 856,809 848,802 779,810 746,810" baseline="746,809 848,808 928,809" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: n fürfallen
+ | german_print2_15: n fürfallen
+ -->
+		</TextRegion>
+		<GraphicRegion id="r37">
+			<Coords points="817,804 819,804 819,808 817,808" />
+		</GraphicRegion>
+		<TextRegion id="r38" custom="readingOrder {index:38;} orientation {0;}">
+			<Coords points="220,793 712,793 712,815 220,815" />
+			<!-- line left out: id="r38l0" points="220,799 244,797 248,797 263,799 275,793 280,793 293,798 314,800 314,793 316,793 345,800 349,800 373,800 409,800 431,800 456,802 456,794 470,794 478,800 491,800 514,800 526,804 535,794 539,794 547,803 558,800 569,800 573,807 601,804 621,804 623,795 633,795 662,804 670,803 678,803 696,801 712,801 712,809 678,809 640,810 621,810 577,810 558,810 547,807 535,801 526,807 521,809 491,809 470,810 456,810 409,809 373,809 369,809 352,807 349,815 345,815 301,812 242,809 232,809 220,808" baseline="220,808 712,809" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: vntüchtige personen einschieben, vndt deswe
+ | german_print2_15: vntüchtige personen einschieben, vndt deswe
+ -->
+		</TextRegion>
+		<GraphicRegion id="r39">
+			<Coords points="726,809 727,809 727,811 726,811" />
+		</GraphicRegion>
+		<TextRegion id="r40" custom="readingOrder {index:40;} orientation {0;}">
+			<Coords points="221,819 928,819 928,837 221,837" />
+			<TextLine id="r40l0" custom="readingOrder {index:0;}">
+				<Coords points="221,826 247,826 248,819 260,819 285,832 298,822 310,822 321,827 336,820 340,820 342,826 360,824 438,826 453,820 482,820 516,826 577,826 595,829 598,821 603,821 610,827 759,827 774,821 794,821 798,828 815,827 835,821 844,829 858,826 873,831 877,825 928,826 928,835 855,835 844,833 832,825 818,836 794,835 759,837 731,837 717,837 705,835 568,836 310,834 281,836 221,834" />
+				<Baseline points="221,834 928,835" />
+				<TextEquiv index="1">
+					<Unicode>woltte, So hette man billig vrsach daraus zu reden, Aber bei diesen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>woltte, So hette man billig vrsach daraus zu reden, Aber bei diesen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r41">
+			<Coords points="485,826 501,826 501,838 485,838" />
+		</GraphicRegion>
+		<TextRegion id="r42" custom="readingOrder {index:42;} orientation {0;}">
+			<Coords points="220,845 482,845 482,862 220,862" />
+			<TextLine id="r42l0" custom="readingOrder {index:0;}">
+				<Coords points="220,846 230,846 232,852 261,852 262,845 284,845 311,846 314,852 322,852 322,846 335,846 341,849 354,852 361,846 372,846 395,854 409,852 421,846 431,846 442,855 454,852 482,852 482,862 431,862 421,862 220,861" />
+				<Baseline points="220,861 482,862" />
+				<TextEquiv index="1">
+					<Unicode>handell befindet sich ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>handell befindet sich ein</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r43">
+			<Coords points="486,853 506,853 506,861 486,861" />
+		</GraphicRegion>
+		<TextRegion id="r44" custom="readingOrder {index:44;} orientation {0;}">
+			<Coords points="607,852 627,852 627,862 607,862" />
+			<TextLine id="r44l0" custom="readingOrder {index:0;}">
+				<Coords points="607,852 617,852 627,856 627,862 607,862" />
+				<Baseline points="607,862 627,860" />
+				<TextEquiv index="1">
+					<Unicode>me</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>me</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r45">
+			<Coords points="565,842 601,842 601,865 565,865" />
+		</GraphicRegion>
+		<TextRegion id="r46" custom="readingOrder {index:46;} orientation {0;}">
+			<Coords points="693,847 928,847 928,867 693,867" />
+			<TextLine id="r46l0" custom="readingOrder {index:0;}">
+				<Coords points="693,856 704,853 734,853 747,858 750,851 825,854 825,847 851,847 867,852 928,853 928,862 912,867 899,867 889,859 870,859 867,867 862,867 851,858 840,862 704,862 693,860" />
+				<Baseline points="693,862 928,857" />
+				<TextEquiv index="1">
+					<Unicode>ch mit hummels person,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ch mit hummels person,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r47">
+			<Coords points="643,848 684,848 684,892 643,892" />
+		</GraphicRegion>
+		<GraphicRegion id="r48">
+			<Coords points="429,903 452,903 452,919 429,919" />
+		</GraphicRegion>
+		<GraphicRegion id="r49">
+			<Coords points="888,926 913,926 913,948 888,948" />
+		</GraphicRegion>
+		<GraphicRegion id="r50">
+			<Coords points="520,985 534,985 534,992 520,992" />
+		</GraphicRegion>
+		<TextRegion id="r51" custom="readingOrder {index:51;} orientation {0;}">
+			<Coords points="218,872 928,872 928,1047 218,1047" />
+			<!-- line left out: id="r51l0" points="219,880 228,879 253,877 259,877 280,879 282,872 292,872 308,881 317,880 329,878 346,878 401,878 421,879 423,872 434,872 436,879 449,877 453,877 477,878 503,872 506,872 528,876 536,879 542,883 556,872 560,872 565,872 599,879 602,877 619,877 621,886 697,884 703,881 712,877 717,877 735,884 744,879 748,879 803,880 826,879 840,879 869,880 881,878 910,877 928,877 928,889 910,889 869,887 840,887 816,887 770,886 754,887 751,887 744,881 739,887 717,888 701,888 625,889 621,889 560,888 536,888 453,888 446,889 436,889 401,887 392,887 389,893 384,893 368,887 292,887 264,887 258,887 228,886 219,885" baseline="219,886 253,886 859,887 928,888" reason: differs: "st,istv" against "t, vndt" | Wikisource:  | next_nc_e1: so woll seinen predigten zufrieden ist, ist vnſs so viel bewust, | german_print2_15: so woll seinen predigten zufrieden ist, ist vnſs so viel bewust, -->
+			<TextLine id="r51l1" custom="readingOrder {index:1;}">
+				<Coords points="219,904 240,903 277,898 280,898 300,898 308,904 312,904 318,907 325,898 335,898 354,905 360,905 360,898 372,898 373,905 383,905 401,899 428,904 428,898 452,898 458,904 479,906 487,898 491,898 493,905 517,903 568,904 603,902 663,907 671,899 686,899 688,907 715,899 728,899 728,905 735,905 750,913 759,913 759,898 770,898 777,902 797,905 801,898 811,898 814,907 834,903 864,905 864,898 877,898 883,904 893,907 897,898 906,898 914,911 921,906 928,906 928,915 886,913 877,915 864,915 791,911 770,915 673,914 663,912 639,914 312,914 288,917 277,917 219,913" />
+				<Baseline points="219,913 928,913" />
+				<TextEquiv index="1">
+					<Unicode>wan gleich die burgerschafft zu dieser election gefordert worden,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r51l2" custom="readingOrder {index:2;}">
+				<Coords points="218,924 230,924 231,930 274,933 276,924 285,924 289,931 298,931 305,924 315,924 334,930 362,930 366,924 379,924 381,931 489,930 500,932 509,925 514,925 544,934 551,924 555,924 563,931 710,929 726,935 732,931 741,929 815,929 827,931 925,931 925,939 923,939 918,945 883,945 875,939 866,939 863,945 859,945 774,939 218,939" />
+				<Baseline points="218,939 925,939" />
+				<TextEquiv index="1">
+					<Unicode>das doch wirth nimmermehr darzue were vocirt worden, propter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r51l3" custom="readingOrder {index:3;}">
+				<Coords points="218,958 226,956 248,956 249,950 260,950 281,954 301,954 342,958 355,956 441,957 444,950 454,950 468,957 505,957 518,956 535,951 546,951 548,959 559,956 577,955 601,957 609,964 628,959 667,960 708,955 732,955 746,951 762,951 777,957 793,956 811,959 820,951 850,951 854,958 886,956 889,949 921,949 921,955 928,955 928,966 850,965 609,967 539,965 476,966 473,972 468,972 454,966 342,965 238,966 237,972 226,972 218,965" />
+				<Baseline points="218,965 928,965" />
+				<TextEquiv index="1">
+					<Unicode>qualitatem concionandi praecellentem, so sich bei hummeln befindet.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r51l4" custom="readingOrder {index:4;}">
+				<Coords points="219,976 240,976 241,983 252,983 253,976 270,976 293,982 324,983 348,988 349,976 360,976 364,983 446,977 449,977 457,982 480,983 482,977 493,977 495,983 505,983 517,987 517,977 542,977 566,985 588,982 650,982 711,985 713,977 728,977 732,989 740,986 766,983 811,983 834,991 839,983 849,983 849,976 867,976 874,983 884,983 891,976 895,976 925,983 925,992 839,994 571,991 542,995 531,995 505,995 495,995 480,992 457,992 449,995 446,995 219,991" />
+				<Baseline points="219,991 925,992" />
+				<TextEquiv index="1">
+					<Unicode>Weill vns aber in neuligkeit vorkommen, daſs mehr gedachter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r51l5" points="219,1003 227,1002 240,1002 242,1008 257,1006 265,1002 276,1002 277,1015 304,1011 314,1008 324,1008 325,1002 337,1002 373,1002 394,1002 396,1009 408,1009 408,1003 419,1003 428,1009 438,1009 467,1007 472,1007 489,1009 513,1015 519,1009 533,1003 543,1003 551,1011 564,1009 591,1008 601,1008 804,1009 807,1003 817,1003 839,1007 853,1007 869,1006 872,1006 917,1008 927,1010 927,1017 879,1017 866,1018 825,1018 817,1017 807,1017 800,1016 792,1014 601,1023 591,1023 549,1018 489,1018 472,1018 438,1018 373,1018 281,1019 277,1019 242,1018 219,1017" baseline="219,1018 878,1017 927,1017" reason: differs: "erpsubs" against "r post " | Wikisource:  | next_nc_e1: Wirth, vndt Schulmeister alhier p substituti ein | german_print2_15: Wirth, vndt Schulmeister alhier p. substituti ein -->
+			<!-- line left out: id="r51l6" points="218,1032 224,1032 256,1032 266,1034 278,1036 278,1029 323,1029 334,1035 347,1034 376,1034 401,1033 413,1033 453,1034 508,1032 514,1032 532,1032 550,1033 569,1033 572,1042 591,1038 598,1028 606,1028 762,1035 766,1035 780,1036 781,1029 793,1029 794,1043 801,1043 806,1037 817,1029 821,1029 832,1029 863,1036 899,1036 914,1036 928,1037 928,1041 914,1043 879,1043 832,1046 793,1046 771,1046 762,1037 606,1044 576,1045 572,1045 550,1044 532,1045 521,1045 514,1044 453,1044 413,1045 401,1045 376,1044 344,1047 334,1047 218,1044" baseline="218,1044 412,1043 928,1042" reason: differs: "teut" against "i ei" | Wikisource:  | next_nc_e1: teutzsch Argument, wie ers teuffet, de rgegeben solches
+ | german_print2_15: teutzsch Argument, wie ers teuffet, de rgegeben solches
+ -->
+			<TextEquiv index="1">
+				<Unicode>wan gleich die burgerschafft zu dieser election gefordert worden,
+das doch wirth nimmermehr darzue were vocirt worden, propter
+qualitatem concionandi praecellentem, so sich bei hummeln befindet.
+Weill vns aber in neuligkeit vorkommen, daſs mehr gedachter</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r52">
+			<Coords points="611,999 774,999 774,1053 611,1053" />
+		</GraphicRegion>
+		<TextRegion id="r53" custom="readingOrder {index:53;} orientation {0;}">
+			<Coords points="218,1055 927,1055 927,1071 218,1071" />
+			<TextLine id="r53l0" custom="readingOrder {index:0;}">
+				<Coords points="218,1060 254,1055 258,1055 279,1058 441,1060 495,1059 506,1063 522,1055 532,1055 539,1061 547,1058 651,1061 654,1055 657,1055 662,1063 717,1057 730,1057 747,1060 789,1055 792,1055 795,1061 828,1060 838,1058 887,1055 895,1055 902,1063 917,1060 927,1064 927,1066 895,1069 686,1070 662,1068 654,1058 651,1070 464,1071 448,1071 409,1071 387,1071 382,1071 218,1070" />
+				<Baseline points="218,1070 927,1069" />
+				<TextEquiv index="1">
+					<Unicode>in latinam zu vertiren, So haben wir abermals mit höchster Ver-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>in latinam zu vertiren, So haben wir abermals mit höchster Ver-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r54">
+			<Coords points="834,1077 861,1077 861,1099 834,1099" />
+		</GraphicRegion>
+		<TextRegion id="r55" custom="readingOrder {index:55;} orientation {0;}">
+			<Coords points="217,1080 927,1080 927,1153 217,1153" />
+			<!-- line left out: id="r55l0" points="218,1087 234,1086 251,1086 263,1087 265,1080 276,1080 283,1086 314,1086 405,1081 408,1081 424,1081 425,1088 436,1088 437,1081 454,1081 471,1087 482,1087 490,1081 500,1081 502,1089 523,1089 523,1081 537,1081 562,1087 578,1087 580,1080 596,1080 603,1085 623,1091 642,1088 656,1088 662,1089 670,1080 674,1080 677,1088 690,1086 700,1086 715,1084 719,1084 723,1094 749,1087 769,1087 812,1086 887,1086 905,1086 927,1091 927,1095 905,1095 877,1095 868,1089 815,1095 769,1095 726,1096 723,1096 708,1094 700,1095 656,1097 537,1097 523,1097 506,1095 482,1097 471,1097 424,1096 326,1099 316,1099 251,1097 246,1097 234,1096 218,1095" baseline="218,1096 542,1095 927,1095" reason: differs: "rrinnen" against " hierin" | Wikisource:  | next_nc_e1: wunderung zum theill gelesen vndt angehöret, wie er rinnen | german_print2_15: wunderung zum theill gelesen vndt angehöret, wie er rinnen -->
+			<!-- line left out: id="r55l1" points="217,1112 221,1112 270,1112 296,1112 338,1110 341,1110 368,1110 377,1111 378,1119 396,1112 418,1112 419,1106 431,1106 453,1114 463,1114 465,1106 469,1106 471,1113 483,1111 489,1111 508,1112 519,1113 546,1111 550,1111 595,1112 609,1107 621,1107 629,1113 678,1113 687,1112 746,1112 757,1118 762,1113 779,1113 802,1112 835,1112 845,1113 852,1112 876,1112 902,1112 913,1113 917,1106 925,1106 925,1121 866,1122 852,1122 845,1121 835,1122 746,1122 657,1122 629,1122 621,1121 609,1121 596,1120 595,1127 584,1127 550,1122 519,1122 463,1122 382,1123 349,1125 338,1125 217,1122" baseline="217,1122 745,1121 925,1121" reason: second model: differs: "nurs" against "inne" | Wikisource: nur seinen gifft, vndt elatum et superbum animum auſsgelassen vndt | next_nc_e1: nur seinen gifft, vndt elatum et superbum animum auſsgelassen vndt | german_print2_15: nur seinen gifft, vndt elatum et superbum animum aulſsgelassen vndt -->
+			<!-- line left out: id="r55l2" points="217,1138 253,1137 258,1137 283,1139 285,1132 295,1132 309,1140 327,1139 342,1139 350,1132 360,1132 362,1139 374,1138 395,1138 408,1132 420,1132 421,1141 433,1138 443,1138 493,1138 520,1138 533,1132 544,1132 546,1141 558,1138 578,1137 590,1137 606,1137 621,1133 643,1133 645,1146 665,1141 681,1139 687,1132 697,1132 730,1132 732,1141 744,1139 747,1139 763,1138 772,1138 901,1139 904,1132 920,1132 920,1139 927,1139 927,1144 920,1147 901,1147 730,1147 719,1147 700,1140 697,1147 648,1149 629,1149 603,1148 590,1147 561,1148 544,1148 489,1148 461,1147 443,1148 395,1150 342,1152 327,1152 319,1151 283,1153 271,1153 239,1149 229,1149 217,1148" baseline="217,1148 927,1146" reason: differs: "renalso" against "en disc" | Wikisource:  | next_nc_e1: an tagk gegeben, den es mit der Schule, vndt deren also
+ | german_print2_15: an tagk gegeben, den es mit der Schule, vndt deren also
+ -->
+		</TextRegion>
+		<GraphicRegion id="r56">
+			<Coords points="783,1128 870,1128 870,1157 783,1157" />
+		</GraphicRegion>
+		<TextRegion id="r57" custom="readingOrder {index:57;} orientation {0;}">
+			<Coords points="217,1158 927,1158 927,1176 217,1176" />
+			<TextLine id="r57l0" custom="readingOrder {index:0;}">
+				<Coords points="217,1159 222,1159 225,1165 249,1166 256,1159 266,1159 268,1166 292,1160 297,1160 299,1167 310,1164 320,1164 322,1171 339,1158 351,1158 352,1164 381,1162 464,1164 475,1172 480,1159 497,1159 500,1165 555,1163 631,1163 675,1167 686,1159 699,1158 703,1158 711,1164 855,1164 877,1166 888,1170 892,1163 909,1163 927,1167 927,1170 909,1173 622,1174 616,1168 608,1174 542,1174 510,1176 500,1176 363,1174 322,1175 234,1173 217,1174" />
+				<Baseline points="217,1174 727,1172 927,1173" />
+				<TextEquiv index="1">
+					<Unicode>beschaffen, das Sie zum Argument nicht ein blat, ia nicht ein halbes</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>beschaffen, das Sie zum Argument nicht ein blat, ia nicht ein halbes</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r58">
+			<Coords points="537,1190 558,1190 558,1195 537,1195" />
+		</GraphicRegion>
+		<TextRegion id="r59" custom="readingOrder {index:59;} orientation {0;}">
+			<Coords points="217,1184 926,1184 926,1255 217,1255" />
+			<TextLine id="r59l0" custom="readingOrder {index:0;}">
+				<Coords points="217,1185 235,1185 236,1191 249,1188 283,1190 380,1185 381,1192 394,1190 445,1190 491,1193 497,1195 504,1184 515,1184 516,1190 535,1190 535,1184 548,1184 550,1199 559,1199 562,1192 587,1193 590,1184 598,1184 633,1192 651,1192 676,1184 679,1184 710,1184 725,1196 731,1191 777,1192 778,1184 794,1184 797,1190 806,1190 814,1184 817,1184 826,1193 865,1188 908,1188 925,1191 925,1200 598,1199 559,1201 548,1203 535,1203 515,1200 492,1199 484,1197 470,1203 460,1203 435,1201 380,1200 217,1199" />
+				<Baseline points="217,1200 925,1200" />
+				<TextEquiv index="1">
+					<Unicode>blatt vertiren können, geschweige den so viell, als etzliche zwantzig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r59l1" points="217,1211 225,1210 235,1210 237,1218 248,1214 262,1214 286,1216 286,1210 323,1210 327,1217 358,1217 366,1218 389,1222 390,1216 413,1216 420,1210 430,1210 453,1214 487,1210 503,1210 505,1216 538,1216 538,1210 551,1210 551,1216 562,1216 570,1215 583,1214 594,1214 617,1216 635,1210 646,1210 648,1219 660,1216 669,1216 688,1210 717,1210 909,1216 926,1216 926,1225 669,1225 646,1226 635,1226 594,1225 575,1226 562,1226 521,1226 498,1226 453,1226 323,1226 288,1228 276,1228 262,1226 225,1226 217,1225" baseline="217,1225 926,1225" reason: differs: "nMau" against " Magist" | Wikisource:  | next_nc_e1: bletter, do es auch vff Universitäten den Ma u- | german_print2_15: bletter, do es auch vff Universitäten den Ma- u- -->
+			<!-- line left out: id="r59l2" points="217,1243 227,1243 240,1242 272,1237 284,1237 286,1243 304,1240 309,1240 353,1242 360,1236 373,1236 374,1249 394,1242 417,1242 424,1236 437,1236 451,1243 473,1243 474,1236 486,1236 493,1242 508,1242 559,1244 559,1236 571,1236 572,1244 576,1244 600,1248 601,1242 612,1242 625,1244 626,1236 631,1236 639,1242 678,1241 681,1241 729,1241 813,1242 816,1236 841,1236 857,1244 861,1244 872,1247 893,1241 915,1241 925,1242 925,1250 869,1250 857,1246 840,1244 809,1244 729,1251 711,1251 681,1251 662,1252 559,1252 529,1252 473,1252 461,1254 451,1254 378,1253 374,1253 309,1252 227,1255 217,1255" baseline="217,1252 840,1250 925,1250" reason: differs: "gemu" against "cht " | Wikisource:  | next_nc_e1: gemuthet wirdt, vndt geben es die andern script viel er zum
+ | german_print2_15: gemuthet wirdt, vndt geben es die andern script viel er zum
+ -->
+			<TextEquiv index="1">
+				<Unicode>blatt vertiren können, geschweige den so viell, als etzliche zwantzig</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r60">
+			<Coords points="713,1206 877,1206 877,1257 713,1257" />
+		</GraphicRegion>
+		<GraphicRegion id="r61">
+			<Coords points="0,1264 976,1264 976,1318 0,1318" />
+		</GraphicRegion>
+		<GraphicRegion id="r62">
+			<Coords points="407,1303 414,1303 414,1306 407,1306" />
+		</GraphicRegion>
+		<TextRegion id="r63" custom="readingOrder {index:63;} orientation {0;}">
+			<Coords points="216,1297 926,1297 926,1335 216,1335" />
+			<!-- line left out: id="r63l0" points="260,1297 263,1297 293,1297 298,1298 356,1298 372,1300 396,1309 406,1309 417,1303 422,1303 446,1301 451,1301 483,1301 483,1309 504,1298 513,1298 523,1302 543,1303 564,1304 566,1297 570,1297 587,1304 593,1304 626,1302 643,1297 656,1297 673,1297 699,1297 833,1297 858,1301 890,1301 926,1301 926,1303 917,1306 890,1309 865,1309 854,1303 833,1309 812,1309 803,1309 723,1307 699,1307 673,1312 656,1312 639,1312 581,1310 543,1310 487,1312 471,1312 451,1311 400,1312 396,1312 372,1311 356,1311 293,1311 266,1311 260,1304" baseline="260,1311 321,1310 378,1310 746,1306 926,1309" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ¹)Erst bloſs „meisten“, dann dies ausgestrichen und „aller meisten“ | german_print2_15: ¹²) Erst bloſs „meisten“, dann dies ausgestrichen und „aller meisten“ -->
+			<!-- line left out: id="r63l1" points="216,1325 221,1318 231,1318 242,1321 281,1322 296,1322 319,1322 327,1322 327,1331 296,1335 281,1335 271,1335 216,1331" baseline="216,1331 327,1331" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: dafür gesetzt.
+ | german_print2_15: daſfür gesetzt.
+ -->
+		</TextRegion>
+		<TextRegion id="r64" custom="readingOrder {index:64;} orientation {0;}">
+			<Coords points="394,1528 599,1528 599,1540 394,1540" />
+			<!-- line left out: id="r64l0" points="394,1528 402,1528 408,1529 422,1528 431,1528 447,1529 453,1528 456,1528 469,1528 480,1528 494,1528 525,1528 542,1528 599,1529 599,1537 578,1539 566,1539 551,1539 480,1537 441,1540 434,1540 413,1539 407,1539 394,1537" baseline="394,1537 599,1536" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hup egſtal slub dresden dε ppnso
+ | german_print2_15: dealeub-dreeden de ppneo.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r65">
+			<Coords points="0,1341 1000,1341 1000,1564 0,1564" />
+		</GraphicRegion>
+		<GraphicRegion id="r66">
+			<Coords points="657,190 1000,190 1000,192 657,192" />
+		</GraphicRegion>
+		<SeparatorRegion id="r67">
+			<Coords points="966,324 972,324 972,900 966,900" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+alhier in der Stadtkirchen geprediget, hatt man dieses von Ime
+discurriren hören, Er möchtte immer ein Schulmeister bleiben, in der
+kirchen, vndt vff der Cantzell würde er wenig ausrichten, den er
+zum leise prediger woll töchte. Nichts desto weniger aber haben
+wir über diese drei angegebene personen vffn Rathhause, den der
+Superattendens domals nicht dobey gewesen, sondern doheime kranck
+gelegen, ordentlicher, vndt gebüherender weise votiret, do dan die
+aller meisten⟦⟧ vota vff M. hommeln gefallen, vndt selbiges also
+balden den Superattendenten berichtet worden, worauff die vocatio
+in continenti ervolget, vndt haben inhaltts der kirchen ordnung
+Titul. de Vocatione Minist., die wir hierinnen sancte observirt, vndt
+gehalten, das werck E. Ehrwird. wolEd. G. vndt herligk.
+vnterdienstlichen zu erkennen gegeben, vndt vortragen lassen, worauff
+auch das Examen ablegati substituti vndt consequenter die gnedigste
+Confirmatio, vndt Mandatum Investiturae ervolget, vndt ist also
+hierinnen rite et recte allenthalben procediret worden, Non obstante,
+das von iemands temere möchtte objicirt werden, es soltte die gantze
+burgerschafft bei solcher election auch gewesen, vndt darueber
+vornommen sein worden, hieran seindt wir als Schrifftsassen niemandes
+nichts gestendigk, das bei Election eines Diaconi, viell weniger
+dessen substituti die bürgerschafft sein, vndt Ihr guttachten dazue
+geben müsten, domit es dan langweilig zugehn würde, ehe alle
+kopffe in einander vndt zusammen kommen möchtten, Ja wan man
+vntüchtige personen einschieben, vndt deswegen clage fürfallen
+woltte, So hette man billig vrsach daraus zu reden, Aber bei diesen
+handell befindet sich ein anders, das menniglich mit hummels person,
+so woll seinen predigten zufrieden ist, vndt ist vnß so viel bewust,
+wan gleich die burgerschafft zu dieser election gefordert worden,
+das doch wirth nimmermehr darzue were vocirt worden, propter
+qualitatem concionandi praecellentem, so sich bei hummeln befindet.
+Weill vns aber in neuligkeit vorkommen, daß mehr gedachter
+Wirth, vndt Schulmeister alhier post Investituram substituti ein
+teutzsch Argument, wie ers teuffet, den discipulis vorgegeben solches
+in latinam zu vertiren, So haben wir abermals mit höchster
+Verwunderung zum theill gelesen vndt angehöret, wie er hierinnen
+nur seinen gifft, vndt elatum et superbum animum außgelassen vndt
+an tagk gegeben, den es mit der Schule, vndt deren discipulis also
+beschaffen, das Sie zum Argument nicht ein blat, ia nicht ein halbes
+blatt vertiren können, geschweige den so viell, als etzliche zwantzig
+bletter, do es auch vff Universitäten den Magistrandis nicht
+zugemuthet wirdt, vndt geben es die andern scripta, wie viel er zum
+-->
+	</Page>
+</PcGts>

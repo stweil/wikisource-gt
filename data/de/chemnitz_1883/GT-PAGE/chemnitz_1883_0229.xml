@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:57:13</Created>
+		<LastChange>2026-11-23T13:57:13</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/229 revision 5069862 of 2026-10-06T22:45:50Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0229.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro17824251589357115355" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="397,143 416,143 416,159 397,159" />
+			<!-- line left out: id="r0l0" points="397,144 408,143 416,143 416,159 397,159" baseline="397,159 416,159" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 17
+ | german_print2_15: 17
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="76,199 763,199 763,608 76,608" />
+			<!-- line left out: id="r1l0" points="78,200 98,200 100,206 110,206 114,200 118,200 121,207 131,200 175,200 175,209 199,206 225,206 240,199 256,199 274,204 393,203 429,199 440,199 442,208 453,205 460,205 475,199 491,199 493,205 510,205 546,205 549,199 564,199 564,205 575,204 581,204 622,205 651,205 668,206 681,199 694,199 695,207 706,203 718,203 752,200 762,200 762,215 688,215 622,215 575,215 528,215 440,215 293,216 256,216 219,216 175,216 100,216 78,215" baseline="78,216 240,215 762,215" reason: differs: "turnted" against "ur vers" | Wikisource:  | next_nc_e1: Verhältnis zur Natur nte der Humanismus seine Zeit mit | german_print2_15: Verhältnis zur Natur nte der Humanismus seine Zeit mit -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="77,227 88,227 89,235 137,227 152,227 154,235 166,232 175,232 178,226 188,226 197,230 239,232 284,232 292,226 308,226 337,231 352,232 394,230 486,233 489,225 500,225 503,233 522,234 526,239 546,231 602,232 604,225 613,225 615,231 656,231 677,234 692,225 698,225 713,227 719,231 762,233 762,241 668,240 526,242 522,242 476,240 284,242 239,242 229,242 202,241 197,235 188,241 175,242 152,242 88,242 77,242" />
+				<Baseline points="77,242 676,240 762,241" />
+				<TextEquiv index="1">
+					<Unicode>dem Heidentume und förderte ein edles, menschliches Dasein.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="77,252 100,252 103,258 113,258 117,252 122,252 122,259 163,258 173,252 177,252 180,259 195,259 213,252 217,252 226,258 248,258 252,252 257,252 261,260 276,258 303,258 341,252 346,252 355,256 362,251 373,251 376,258 445,256 457,259 459,251 478,251 485,257 551,257 566,251 581,251 584,257 609,257 610,251 615,251 617,258 657,257 663,252 674,252 698,258 763,258 763,267 733,267 733,273 721,273 714,266 710,271 598,267 497,268 457,266 303,268 257,267 195,270 163,268 77,268" />
+				<Baseline points="77,266 763,267" />
+				<TextEquiv index="1">
+					<Unicode>Merkwürdig hierbei ist Italiens Stellung zur Kirche, ihr gegen-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l3" points="77,284 86,284 89,278 93,278 97,286 112,284 116,284 160,284 165,278 169,278 178,284 195,279 199,279 221,287 263,284 271,284 305,290 404,290 428,287 434,277 445,277 447,285 456,285 468,277 483,277 485,283 499,283 505,286 511,277 516,277 518,285 543,283 550,283 573,283 574,277 579,277 581,284 593,283 651,278 662,278 671,283 691,283 701,277 720,277 727,284 739,284 745,278 749,278 762,282 762,293 720,294 701,294 579,293 533,293 468,293 431,292 412,294 349,294 206,294 165,294 140,293 116,294 112,294 93,293 77,293" baseline="77,294 115,293 762,293" reason: second model has no such line | Wikisource: über verhielt es sich ablehnend, die Kirche verlor an ihrer Macht | next_nc_e1: über verhielt es sich ablehnend, die Kirche verlor an ihrer Macht | german_print2_15:  -->
+			<!-- line left out: id="r1l4" points="76,311 86,311 88,304 92,304 94,313 101,313 120,319 128,319 217,308 222,308 261,309 270,308 296,308 304,317 412,317 417,311 466,311 534,303 540,303 542,309 555,308 559,308 568,312 586,303 598,303 599,312 611,309 618,309 631,318 636,304 652,304 686,304 687,311 697,311 726,311 732,304 737,304 739,310 751,307 761,307 761,320 739,320 697,319 636,320 631,320 598,319 559,319 459,319 296,320 261,320 244,320 222,317 128,322 120,322 101,316 92,319 76,319" baseline="76,319 217,318 712,319 761,320" reason: differs: "lsgCent" against "s geist" | Wikisource:  | next_nc_e1: als g Centrum. ächtig luſs der Antike schuf | german_print2_15: als g Centrum. ächtig fHuſs der Antike schuf -->
+			<!-- line left out: id="r1l5" points="223,338 245,336 256,336 291,336 431,343 476,338 504,329 518,329 519,338 529,337 540,337 558,329 575,329 576,342 607,330 613,329 624,329 626,335 638,335 653,335 669,333 686,330 691,330 692,338 703,336 750,333 761,333 761,345 750,346 713,346 703,346 613,345 607,332 580,345 518,345 434,346 282,346 256,345 227,346 223,346" baseline="223,345 761,345" reason: differs: "heid" against "aſse" | Wikisource:  | next_nc_e1: heidr „ wie Leo X. Travestien auf | german_print2_15: n heidn „ wie Leo NX. Travestien auf -->
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="188,360 203,357 216,365 223,356 276,356 276,362 326,362 334,356 338,356 372,364 381,356 440,356 535,362 557,367 557,361 578,355 589,355 629,356 674,362 676,356 685,356 694,362 716,362 716,356 733,356 734,364 752,360 762,360 762,374 727,374 709,374 685,372 643,372 620,374 617,374 511,371 385,371 381,359 372,371 236,372 199,371 188,369" />
+				<Baseline points="188,372 762,372" />
+				<TextEquiv index="1">
+					<Unicode>Gedanken und Gebräuche traten auf. Sittenlosigkeit,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l7" points="206,389 216,388 230,388 237,389 252,388 302,388 303,382 313,382 333,388 470,388 491,388 495,382 500,382 512,390 519,388 529,388 536,382 549,382 556,388 578,388 585,390 590,382 624,382 624,388 630,388 646,382 658,382 676,382 678,388 689,388 690,382 705,382 705,388 750,388 752,382 762,382 762,398 705,401 678,401 676,395 658,398 624,398 611,398 602,397 578,396 570,397 549,398 512,398 487,397 470,396 365,398 355,398 313,397 289,398 279,398 237,397 216,397 206,396" baseline="206,396 646,397 762,398" reason: differs: "ware" against "Selb" | Wikisource:  | next_nc_e1: waren und wur verhängnisvollen Folgen und | german_print2_15: waren und wur verhängnisvollen Folgen und -->
+			<!-- line left out: id="r1l8" points="365,414 371,414 420,413 424,413 439,414 448,421 517,421 586,408 603,408 633,414 639,414 639,408 651,408 653,416 663,416 684,414 701,414 716,408 720,408 731,412 739,408 749,408 761,412 761,424 731,424 684,424 663,423 651,424 596,424 424,424 388,424 371,423 365,423" baseline="365,424 402,423 716,423 761,424" reason: differs: "vomf" against "sein" | Wikisource:  | next_nc_e1: vom frei i Mit diesem steht | german_print2_15: vom frei⸗ i Mit diesem steht -->
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="391,441 428,439 453,439 476,441 513,439 538,447 562,439 591,434 597,434 599,442 681,440 683,434 728,434 730,442 741,442 743,435 754,435 757,444 762,444 762,446 754,450 719,450 658,450 631,447 621,450 611,450 566,450 562,450 513,450 499,450 468,450 453,450 419,450 391,450" />
+				<Baseline points="391,450 762,450" />
+				<TextEquiv index="1">
+					<Unicode>künstlerische Schaffens- und Voll-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="356,460 360,460 368,462 390,460 392,460 425,461 440,467 447,461 474,461 488,466 540,466 557,460 562,460 576,461 589,466 682,467 682,476 623,476 601,476 562,476 526,476 488,476 474,476 454,476 433,476 360,476 356,476" />
+				<Baseline points="356,475 682,476" />
+				<TextEquiv index="1">
+					<Unicode>Blüte italienischer Renaissance.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l11" points="479,486 503,486 511,488 527,493 527,486 565,486 565,492 587,492 600,493 660,493 676,486 682,486 685,487 692,494 704,492 711,492 713,486 723,486 725,493 737,488 749,488 752,494 761,494 761,501 749,502 685,502 660,503 643,503 619,502 607,496 600,505 565,505 527,505 503,502 479,502" baseline="479,502 761,502" reason: models differ | Wikisource: Beziehungen im Verlaufe | next_nc_e1: Beziehungen im Verlaufe | german_print2_15: n Beziehungen im Verlaufe -->
+			<!-- line left out: id="r1l12" points="460,518 470,518 495,519 591,519 608,513 613,513 622,517 634,519 636,513 640,513 643,519 665,519 708,519 722,513 725,513 753,513 756,523 761,523 761,525 753,528 676,530 667,530 653,529 643,529 634,528 611,530 608,530 564,528 495,530 485,530 460,528" baseline="460,528 761,528" reason: differs: "unge" against "sein" | Wikisource:  | next_nc_e1: ung ein wie Italien, ja teil- | german_print2_15: ung ein wie Italien, ja teil- -->
+			<TextLine id="r1l13" custom="readingOrder {index:13;}">
+				<Coords points="419,547 430,539 441,539 442,547 502,545 588,545 603,539 607,539 628,539 630,548 642,545 671,545 688,539 703,539 705,545 717,545 718,539 731,539 739,545 750,545 760,549 760,551 750,554 717,555 647,555 628,555 603,555 512,555 502,555 486,553 419,553" />
+				<Baseline points="419,553 760,555" />
+				<TextEquiv index="1">
+					<Unicode>ches von einem älteren Kultur-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l14" custom="readingOrder {index:14;}">
+				<Coords points="529,571 591,571 593,565 597,565 600,572 609,572 625,575 627,569 650,571 672,565 685,565 693,571 710,569 735,574 737,565 747,565 749,572 762,572 762,581 710,581 685,581 632,581 627,581 579,581 572,581 529,580" />
+				<Baseline points="529,580 762,581" />
+				<TextEquiv index="1">
+					<Unicode>in frühester Zeit das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l15" custom="readingOrder {index:15;}">
+				<Coords points="542,591 564,591 574,597 584,597 592,591 597,591 599,604 617,600 633,599 652,592 662,592 672,598 695,595 738,598 740,591 745,591 748,598 762,598 762,607 602,608 599,608 564,608 551,608 542,607" />
+				<Baseline points="542,607 762,607" />
+				<TextEquiv index="1">
+					<Unicode>hland, so konnte die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>dem Heidentume und förderte ein edles, menschliches Dasein.
+Merkwürdig hierbei ist Italiens Stellung zur Kirche, ihr gegen-
+Gedanken und Gebräuche traten auf. Sittenlosigkeit,
+künstlerische Schaffens- und Voll-
+Blüte italienischer Renaissance.
+ches von einem älteren Kultur-
+in frühester Zeit das
+hland, so konnte die</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="74,617 758,617 758,634 74,634" />
+			<!-- line left out: id="r2l0" points="74,617 85,617 87,625 99,623 105,621 117,621 143,623 151,617 188,617 202,619 488,622 493,626 543,619 548,619 558,625 561,619 575,619 597,619 604,624 608,631 637,624 656,624 658,618 667,618 670,626 681,618 691,618 693,626 735,621 747,621 758,624 758,633 691,633 656,633 612,634 597,634 561,634 548,633 543,633 462,629 210,625 202,632 146,632 131,631 117,632 85,632 74,632" baseline="74,632 711,632 758,633" reason: differs: "eRertal" against " Renais" | Wikisource:  | next_nc_e1: deutsche Rer talie folgen, welches für
+ | german_print2_15: deutsche Rer talie folgen, welches für
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="76,643 762,643 762,711 76,711" />
+			<!-- line left out: id="r3l0" points="76,643 81,643 95,646 121,647 184,649 192,643 196,643 210,653 217,643 228,643 229,651 255,643 274,643 277,650 286,650 306,648 318,648 329,653 329,659 228,659 217,659 196,658 121,658 81,658 76,658" baseline="76,658 210,658 329,659" reason: models differ | Wikisource: Deutschland die Kenntni | next_nc_e1: Deutschland die Kenntni | german_print2_15: Deutschland die Kenntni- -->
+			<!-- line left out: id="r3l1" points="128,669 154,669 156,675 177,669 201,669 234,676 241,669 250,669 259,676 279,669 284,669 285,677 298,677 298,669 311,669 333,669 353,669 360,682 413,676 423,676 440,670 445,670 460,673 486,674 515,670 525,670 532,677 539,676 545,669 562,669 577,675 581,675 592,674 598,674 641,675 657,669 666,669 675,675 685,675 698,676 708,675 731,675 743,678 762,683 762,686 759,686 737,685 698,687 687,687 641,685 598,685 581,685 537,685 486,685 445,685 353,685 333,685 284,685 237,685 158,685 140,685 128,684" baseline="128,684 260,684 762,685" reason: differs: "DerW" against "s de" | Wikisource:  | next_nc_e1: Der Weg der Renaissa in Deutschland ist ein langsamer, | german_print2_15: Der Weg der Renaissa in Deutschland ist ein langsamer, -->
+			<!-- line left out: id="r3l2" points="207,696 211,696 238,696 258,696 326,696 389,709 400,703 433,703 453,703 483,702 509,702 547,702 575,701 582,701 602,699 606,699 618,703 628,695 640,695 650,701 661,701 674,696 678,696 703,702 719,702 728,696 740,696 741,704 753,702 762,702 762,711 740,711 661,711 606,711 509,711 459,711 389,711 323,698 288,711 232,711 220,711 211,710 207,710" baseline="207,710 468,709 524,709 762,711" reason: differs: "Ital" against "ller" | Wikisource:  | next_nc_e1: Italien fiel d naissance wie eine reife Frucht in den
+ | german_print2_15: 1 Italien fiel d naissance wie eine reife Frucht in den
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="74,721 762,721 762,921 74,921" />
+			<!-- line left out: id="r4l0" points="98,725 102,725 104,732 117,729 125,729 135,731 140,735 152,727 162,727 171,730 179,721 182,721 185,730 197,727 200,727 231,729 234,721 238,721 269,728 272,728 278,722 327,722 332,735 401,731 421,731 465,728 482,728 490,722 500,722 513,728 559,728 569,729 585,722 608,722 609,728 622,727 647,722 680,722 680,729 695,727 698,727 717,728 723,731 732,722 742,722 744,730 756,728 759,728 759,737 742,737 717,737 680,737 569,738 548,738 500,737 393,737 210,737 203,737 188,734 185,734 179,724 171,733 162,736 140,737 137,737 125,736 98,736" baseline="98,736 269,736 759,737" reason: differs: "hoss" against "den " | Wikisource:  | next_nc_e1: hoſs, welche der italieni heitere und warme Himmel schneller | german_print2_15: hofs, welche der italieni heitere und warme Himmel schneller -->
+			<!-- line left out: id="r4l1" points="74,753 82,753 88,752 118,752 133,752 150,755 174,755 396,754 405,754 473,754 549,754 565,756 572,754 583,754 605,756 621,748 635,748 637,755 649,752 659,748 682,748 684,754 713,754 714,748 738,748 738,756 744,756 744,763 738,764 713,764 673,764 659,764 637,763 630,762 591,763 583,764 565,764 518,764 496,764 405,763 396,763 174,762 150,765 142,765 133,762 125,763 118,765 99,765 88,765 82,762 74,762" baseline="74,762 188,762 744,763" reason: differs: "zeit" against "elle" | Wikisource:  | next_nc_e1: zeitigte, als h schauer unseres Vaterlandes. | german_print2_15: zeitigte, als g ur h schauer unseres Vaterlandes. -->
+			<!-- line left out: id="r4l2" points="128,773 133,773 147,777 172,778 212,779 237,780 244,774 248,774 264,780 268,780 293,780 303,778 317,778 345,784 351,782 363,780 378,780 402,774 416,774 418,782 430,780 434,780 436,787 447,780 459,780 512,780 556,780 558,774 568,774 570,781 582,780 593,780 615,777 625,777 637,780 648,781 667,780 691,780 702,774 707,774 709,780 725,780 743,781 757,780 760,780 760,790 743,791 727,791 691,790 648,791 639,791 632,789 613,795 601,795 558,790 537,789 512,788 500,790 490,790 459,789 416,789 317,789 172,789 133,789 128,789" baseline="128,788 760,790" reason: second model: differs: "Deut" against "ndes" | Wikisource: Deutschland muſste seine Renaissance erkämpfen, ein langer | next_nc_e1: Deutschland muſste seine Renaissance erkämpfen, ein langer | german_print2_15: Deutschland mulſste seine Renaissance erkämpfen, ein langer -->
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="76,799 90,799 98,806 124,805 137,802 176,805 187,799 211,799 221,808 250,805 263,799 267,799 307,806 403,806 425,808 436,800 441,800 443,807 466,805 563,806 565,813 591,800 606,802 608,808 623,808 634,800 640,800 654,801 667,806 733,806 762,810 762,812 749,815 733,816 297,816 187,814 135,820 124,820 121,814 76,814" />
+				<Baseline points="76,814 762,815" />
+				<TextEquiv index="1">
+					<Unicode>Kampf, in dessen Ringen wir noch heute stehen. Die Renaissance-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l4" points="76,829 86,829 110,831 118,833 127,840 135,840 139,832 151,831 160,831 163,840 169,840 191,826 195,826 199,833 216,831 219,831 254,832 269,833 292,832 314,832 323,833 379,839 411,839 420,833 423,833 446,835 448,826 458,826 461,832 470,832 490,826 509,826 513,835 525,826 529,826 529,835 545,835 552,826 557,826 581,826 603,830 614,832 665,834 673,826 683,826 685,834 697,832 730,832 761,832 761,842 746,842 730,841 707,842 683,842 673,842 661,840 652,839 631,845 622,845 529,842 498,841 423,841 323,842 300,842 294,841 288,841 195,840 169,841 135,841 127,841 86,839 76,839" baseline="76,839 761,842" reason: differs: "eighind" against "eigt si" | Wikisource:  | next_nc_e1: bewegung bei uns zeig h in der Volksdichtung schon vom | german_print2_15: bewegung bei uns zeig h in der Volksdichtung schon vom -->
+			<!-- line left out: id="r4l5" points="76,856 123,856 136,857 165,856 204,851 208,851 216,858 223,852 233,852 242,851 267,851 275,860 287,852 296,852 305,858 313,856 317,856 337,865 373,852 382,852 443,856 462,858 464,852 468,852 471,861 477,861 504,852 508,852 526,853 536,858 559,858 566,852 577,852 579,860 591,859 600,859 619,853 622,853 649,853 651,861 658,861 675,852 679,852 681,858 708,858 722,860 724,852 734,852 742,861 753,859 762,859 762,868 740,868 708,868 694,868 689,874 681,874 675,855 658,866 649,868 631,868 600,869 591,869 559,868 536,868 508,869 504,869 468,867 462,868 457,868 443,867 267,868 208,868 204,868 136,866 76,866" baseline="76,866 165,866 675,867 762,868" reason: differs: "10.b" against "n vo" | Wikisource:  | next_nc_e1: 10. bis 12. Jahrhundert in il teils lehrenden, teils lyrischen | german_print2_15: 10. bis 12. Jahrhundert in it teils lehrenden, teils lyrischen -->
+			<TextLine id="r4l6" custom="readingOrder {index:6;}">
+				<Coords points="80,879 136,877 149,877 152,886 164,884 169,877 183,877 193,886 219,887 242,877 246,877 255,884 288,883 297,888 313,878 333,878 343,891 379,886 418,887 430,891 432,884 484,883 530,878 544,878 552,884 640,884 653,883 661,878 672,878 673,884 691,882 693,891 713,884 762,885 762,894 724,893 696,895 693,895 80,892" />
+				<Baseline points="80,892 762,894" />
+				<TextEquiv index="1">
+					<Unicode>Art. Reinecke Fuchs kann als eine erste Renaissancethat, wenn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l7" custom="readingOrder {index:7;}">
+				<Coords points="74,910 96,909 109,903 118,903 138,909 185,909 209,903 213,903 221,909 291,910 302,912 314,917 336,910 348,909 372,911 387,909 427,909 427,918 444,910 485,910 487,904 497,904 505,910 509,910 518,904 566,904 567,910 603,910 611,912 615,905 627,904 638,904 646,911 655,911 671,904 696,904 697,910 762,910 762,920 427,921 372,921 363,921 340,919 310,920 225,918 74,918" />
+				<Baseline points="74,918 762,920" />
+				<TextEquiv index="1">
+					<Unicode>auch unter Tiermaske, aufgefasst werden. Zu vollen Flammen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Kampf, in dessen Ringen wir noch heute stehen. Die Renaissance-
+Art. Reinecke Fuchs kann als eine erste Renaissancethat, wenn
+auch unter Tiermaske, aufgefasst werden. Zu vollen Flammen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="75,929 762,929 762,949 75,949" />
+			<!-- line left out: id="r5l0" points="75,935 85,935 105,936 113,929 117,929 119,937 134,933 157,929 167,929 212,938 261,937 356,934 368,934 425,935 444,935 467,936 488,930 492,930 500,937 506,930 511,930 513,936 536,936 547,938 549,930 560,930 562,936 574,934 585,934 630,937 630,930 640,930 643,938 675,935 686,935 698,937 715,930 720,930 722,936 733,936 734,930 740,930 741,936 752,936 762,940 762,942 752,946 720,949 715,949 640,946 585,946 536,946 492,948 488,948 444,946 425,946 411,946 390,945 368,945 356,945 300,939 292,940 220,943 167,944 90,944 75,943" baseline="75,943 299,944 654,944 715,945 762,946" reason: differs: "std3gun" against "t die B" | Wikisource:  | next_nc_e1: wächst d 3 gung den ersten Jahrzehnten des 16. Jahr-
+ | german_print2_15: wächst d- 3 gung den ersten Jahrzehnten des 16. Jahr-
+ -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="74,955 763,955 763,1336 74,1336" />
+			<!-- line left out: id="r6l0" points="75,955 85,955 93,961 103,961 114,962 117,955 139,955 150,959 162,968 243,957 260,957 268,963 322,962 369,960 384,960 407,960 479,960 499,962 515,956 528,956 550,956 550,965 562,962 582,962 595,960 607,960 674,962 701,962 726,962 761,962 761,972 746,972 738,971 726,972 674,972 614,972 550,972 528,972 479,972 468,972 248,971 243,961 165,970 85,970 75,970" baseline="75,970 243,970 761,972" reason: differs: "hund" against ". Ja" | Wikisource:  | next_nc_e1: hunderts. Ren nce faällt mit der Reformation zusammen. | german_print2_15: hunderts. Len⸗ nce fällt mit der Reformation zusammen. -->
+			<!-- line left out: id="r6l1" points="76,981 114,981 116,987 126,987 146,991 149,984 213,981 216,981 267,990 276,988 293,987 296,987 389,988 423,988 452,988 472,982 491,982 500,989 517,989 525,988 540,988 560,982 563,982 573,989 578,982 590,982 609,982 611,990 623,988 631,988 655,986 661,986 688,988 709,988 713,982 725,982 733,989 743,989 745,982 757,982 759,995 762,995 762,999 759,999 731,997 725,998 713,998 705,997 697,996 688,997 661,998 631,998 609,998 517,1000 500,1000 491,998 452,998 423,999 400,999 384,999 361,999 358,999 276,997 216,996 126,996 88,996 76,995" baseline="76,995 762,997" reason: differs: "Währ" against "mmen" | Wikisource:  | next_nc_e1: Während 1 sich in religiösen Fragen indifferent verhielt, | german_print2_15: Während 1 sich in religiösen Fragen indifferent verhielt, -->
+			<TextLine id="r6l2" custom="readingOrder {index:2;}">
+				<Coords points="74,1013 113,1014 131,1007 135,1007 150,1010 176,1011 183,1007 251,1007 316,1017 322,1008 327,1008 335,1016 405,1014 432,1008 448,1008 454,1016 465,1008 478,1008 494,1017 503,1014 508,1014 521,1008 532,1008 533,1016 545,1014 589,1014 591,1008 602,1008 617,1015 662,1014 676,1016 683,1008 694,1008 704,1015 722,1015 728,1008 739,1008 740,1015 761,1014 761,1023 503,1024 448,1022 405,1023 371,1026 362,1026 337,1020 327,1023 135,1022 74,1024" />
+				<Baseline points="74,1022 131,1021 761,1023" />
+				<TextEquiv index="1">
+					<Unicode>ging Deutschland für die ganze Welt sicher und unerschrocken</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l3" points="74,1033 139,1033 144,1039 154,1039 164,1042 166,1033 171,1033 174,1039 183,1039 199,1038 210,1038 222,1033 233,1033 234,1042 245,1039 255,1039 270,1033 281,1033 283,1042 294,1039 379,1034 393,1034 403,1040 407,1040 414,1042 422,1034 433,1034 434,1044 458,1042 470,1040 482,1038 488,1038 501,1041 513,1040 541,1040 547,1041 549,1047 582,1034 588,1034 598,1036 635,1041 635,1034 646,1034 653,1040 665,1037 682,1037 694,1034 698,1034 700,1040 715,1040 729,1033 735,1033 749,1034 751,1041 762,1041 762,1045 749,1049 682,1049 635,1050 588,1050 524,1052 513,1052 502,1048 501,1054 490,1054 433,1049 407,1049 294,1049 281,1048 255,1049 233,1049 222,1049 210,1048 154,1048 123,1048 74,1047" baseline="74,1047 123,1047 762,1049" reason: differs: "derKirc" against "er alte" | Wikisource:  | next_nc_e1: den Miſsbräuchen der Kirche entgegen. Die deutsche Re- | german_print2_15: den Miſsbräuchen der Kirche entgegen. Die deutsche Re- -->
+			<!-- line left out: id="r6l4" points="117,1069 128,1066 134,1065 144,1065 185,1064 190,1064 232,1065 242,1072 244,1063 257,1062 269,1062 299,1062 311,1065 328,1059 342,1059 386,1072 395,1060 441,1060 441,1068 472,1068 475,1060 485,1060 493,1066 500,1066 511,1060 532,1060 534,1066 561,1064 572,1064 602,1063 613,1063 665,1068 667,1059 677,1059 679,1065 714,1065 726,1067 728,1059 733,1059 734,1067 746,1063 756,1063 756,1075 714,1075 636,1076 626,1076 613,1075 572,1076 559,1081 546,1081 500,1076 493,1076 448,1075 299,1075 276,1075 257,1075 232,1074 144,1074 134,1074 128,1073 117,1071" baseline="117,1074 756,1074" reason: differs: "sanc" against "Rena" | Wikisource:  | next_nc_e1: sance war sittlicher N .Eine der Hauptwaffen schmiedete | german_print2_15: sance war sittlicher N- .„ Eine der Hauptwaffen schmiedete -->
+			<TextLine id="r6l5" custom="readingOrder {index:5;}">
+				<Coords points="128,1085 139,1085 146,1091 182,1093 185,1084 195,1084 203,1091 209,1089 221,1089 230,1093 243,1091 264,1092 280,1085 312,1085 316,1092 349,1095 352,1085 362,1085 364,1091 376,1091 383,1093 390,1086 400,1086 421,1095 427,1086 438,1086 440,1094 465,1086 470,1086 471,1092 479,1092 489,1086 497,1086 507,1093 518,1093 519,1086 524,1086 526,1092 585,1093 587,1086 598,1086 612,1091 628,1085 670,1086 672,1092 682,1092 684,1085 696,1085 700,1091 722,1091 723,1085 743,1085 743,1091 755,1091 762,1095 762,1097 755,1101 663,1101 560,1105 551,1105 526,1102 150,1099 128,1100" />
+				<Baseline points="128,1099 762,1101" />
+				<TextEquiv index="1">
+					<Unicode>das deutsche Volk durch die Erfindung der Buchdrucker-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l6" points="75,1109 86,1109 94,1116 104,1116 121,1114 195,1111 217,1111 278,1111 280,1119 292,1117 328,1117 351,1118 359,1111 363,1111 409,1111 454,1111 462,1117 474,1117 499,1118 507,1117 520,1112 532,1112 546,1115 552,1118 562,1121 563,1112 579,1112 580,1118 590,1118 598,1117 608,1117 624,1111 637,1111 638,1117 648,1117 650,1111 661,1111 678,1116 690,1116 713,1117 737,1119 738,1111 749,1111 757,1117 763,1117 763,1127 713,1127 703,1127 669,1126 637,1127 590,1127 552,1127 507,1127 499,1133 494,1133 474,1127 454,1127 363,1127 334,1127 318,1127 278,1126 217,1126 132,1126 121,1126 110,1125 75,1125" baseline="75,1125 131,1125 763,1127" reason: differs: "st,blei" against "t, sie " | Wikisource:  | next_nc_e1: kunst, bleibt der mächtigste der praktischen Faktoren der | german_print2_15: kunst, bleibt der mächtigste der praktischen Faktoren der -->
+			<!-- line left out: id="r6l7" points="74,1136 85,1136 93,1142 104,1140 115,1140 218,1143 229,1148 238,1142 267,1142 277,1143 289,1144 298,1142 340,1137 346,1137 349,1146 361,1143 367,1137 380,1137 382,1145 400,1143 429,1143 453,1143 461,1142 479,1142 500,1143 571,1143 598,1143 622,1143 639,1136 644,1136 652,1141 660,1139 669,1136 679,1136 679,1142 695,1142 700,1136 716,1136 722,1140 741,1143 762,1143 762,1153 741,1156 644,1156 639,1156 592,1153 571,1153 500,1153 425,1153 289,1152 244,1152 238,1145 229,1151 226,1151 214,1145 115,1151 85,1151 74,1151" baseline="74,1151 214,1151 762,1152" reason: differs: "deut" against "n de" | Wikisource:  | next_nc_e1: deut naissance. Luther nennt sie in seiner tiefkräftigen | german_print2_15: deut naissance. Luther nennt sie in seiner tiefkräftigen -->
+			<!-- line left out: id="r6l8" points="268,1166 278,1166 353,1168 387,1168 395,1168 423,1174 439,1169 451,1169 469,1163 481,1163 482,1172 494,1169 510,1169 529,1163 543,1163 558,1164 568,1171 587,1171 593,1163 609,1163 617,1169 627,1169 647,1162 659,1162 660,1171 671,1168 678,1168 699,1162 720,1162 721,1171 733,1167 742,1162 756,1162 759,1176 762,1176 762,1178 756,1179 733,1179 678,1178 659,1178 609,1178 558,1179 469,1179 444,1178 427,1177 395,1178 353,1178 339,1178 332,1170 278,1177 268,1177" baseline="268,1177 277,1177 762,1178" reason: differs: "tflo" against "das " | Wikisource:  | next_nc_e1: t flodern vor dem Erlöschen der Welt“. | german_print2_15: te flodern vor dem Erlöschen der Welt“. -->
+			<TextLine id="r6l9" custom="readingOrder {index:9;}">
+				<Coords points="139,1188 144,1188 147,1194 155,1194 164,1188 167,1188 170,1196 181,1188 193,1188 194,1195 216,1194 223,1188 228,1188 230,1201 255,1196 261,1188 266,1188 275,1194 288,1192 319,1193 341,1189 376,1189 377,1202 407,1196 424,1195 426,1189 437,1189 438,1198 459,1193 468,1189 509,1189 511,1195 527,1196 547,1189 566,1190 578,1195 578,1189 588,1189 591,1196 600,1196 603,1188 617,1188 618,1194 629,1194 638,1196 641,1188 646,1188 646,1196 673,1194 675,1188 686,1188 687,1194 751,1189 753,1195 762,1195 762,1204 547,1204 524,1199 521,1205 498,1205 380,1205 355,1205 341,1205 230,1204 170,1201 164,1193 155,1201 139,1202" />
+				<Baseline points="139,1202 762,1204" />
+				<TextEquiv index="1">
+					<Unicode>belebend, dort tötend, änderte die Buchdruckerkunst in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l10" custom="readingOrder {index:10;}">
+				<Coords points="115,1225 124,1219 154,1219 169,1213 174,1213 182,1221 189,1213 199,1213 201,1219 210,1214 221,1214 222,1220 250,1221 252,1214 263,1214 271,1220 335,1215 343,1222 352,1222 368,1215 404,1215 413,1219 416,1227 436,1215 447,1215 449,1221 468,1221 474,1223 481,1215 543,1214 550,1214 557,1223 574,1223 574,1214 586,1214 593,1220 603,1220 616,1214 628,1214 629,1221 648,1220 657,1214 697,1214 704,1220 718,1215 728,1215 740,1220 762,1222 762,1232 754,1232 674,1229 169,1230 115,1228" />
+				<Baseline points="115,1228 762,1230" />
+				<TextEquiv index="1">
+					<Unicode>igen Jahrhunderten die Welt, durch Entfesseln der Gedanken,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l11" custom="readingOrder {index:11;}">
+				<Coords points="75,1239 86,1239 88,1245 107,1245 120,1239 129,1239 149,1241 178,1241 184,1243 220,1245 235,1239 246,1239 247,1248 282,1240 352,1247 365,1240 376,1240 378,1249 408,1240 428,1240 430,1247 486,1248 498,1241 536,1240 539,1253 558,1240 569,1240 570,1247 600,1240 610,1240 613,1247 634,1245 648,1248 654,1240 660,1240 684,1246 692,1254 705,1253 730,1240 748,1240 762,1244 762,1256 702,1261 692,1261 684,1255 569,1255 539,1257 424,1255 342,1256 246,1254 164,1255 75,1253" />
+				<Baseline points="75,1253 762,1256" />
+				<TextEquiv index="1">
+					<Unicode>durch Oeffnen der Pforten der Wissenschaft, der Forschung. Mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l12" custom="readingOrder {index:12;}">
+				<Coords points="76,1269 122,1265 125,1265 181,1271 230,1271 237,1274 262,1268 274,1268 292,1272 311,1273 319,1266 330,1266 331,1275 359,1271 379,1272 391,1266 403,1266 404,1273 462,1272 481,1266 502,1267 504,1273 513,1273 515,1266 530,1266 571,1272 571,1265 584,1265 584,1271 598,1271 610,1265 621,1265 639,1272 687,1273 704,1266 754,1266 756,1276 762,1276 762,1278 754,1282 306,1281 280,1286 275,1286 274,1280 194,1281 76,1279" />
+				<Baseline points="76,1279 762,1282" />
+				<TextEquiv index="1">
+					<Unicode>ihr kam unsere Sprache wieder zu Recht; durch seine Bibel-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l13" custom="readingOrder {index:13;}">
+				<Coords points="75,1296 86,1296 88,1290 92,1290 95,1297 140,1294 191,1297 267,1297 270,1291 280,1291 288,1295 338,1298 373,1297 417,1292 417,1298 427,1298 435,1300 440,1292 444,1292 447,1300 465,1298 488,1291 510,1292 537,1297 537,1291 548,1291 555,1297 590,1297 612,1291 659,1291 660,1297 763,1299 763,1307 590,1312 579,1312 579,1306 447,1306 440,1295 435,1307 288,1306 182,1309 116,1305 75,1305" />
+				<Baseline points="75,1305 763,1308" />
+				<TextEquiv index="1">
+					<Unicode>übersetzung schenkte uns in vieler Beziehung Luther unsere</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l14" custom="readingOrder {index:14;}">
+				<Coords points="77,1320 109,1321 111,1327 120,1316 137,1316 140,1323 180,1322 207,1325 209,1316 214,1316 221,1324 239,1323 239,1331 170,1330 132,1336 120,1336 109,1331 94,1336 90,1336 88,1326 77,1326" />
+				<Baseline points="77,1331 239,1331" />
+				<TextEquiv index="1">
+					<Unicode>Sprache wieder.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ging Deutschland für die ganze Welt sicher und unerschrocken
+das deutsche Volk durch die Erfindung der Buchdrucker-
+belebend, dort tötend, änderte die Buchdruckerkunst in
+igen Jahrhunderten die Welt, durch Entfesseln der Gedanken,
+durch Oeffnen der Pforten der Wissenschaft, der Forschung. Mit
+ihr kam unsere Sprache wieder zu Recht; durch seine Bibel-
+übersetzung schenkte uns in vieler Beziehung Luther unsere
+Sprache wieder.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="394,1529 602,1529 602,1541 394,1541" />
+			<!-- line left out: id="r7l0" points="394,1529 438,1529 517,1532 542,1530 545,1530 602,1530 602,1538 566,1540 545,1540 438,1541 394,1541" baseline="394,1538 437,1537 602,1537" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — eden deene
+ | german_print2_15: re and ponee
+ -->
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="13,0 1000,0 1000,1565 13,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Verhältnis zur Natur versöhnte der Humanismus seine Zeit mit
+dem Heidentume und förderte ein edles, menschliches Dasein.
+Merkwürdig hierbei ist Italiens Stellung zur Kirche, ihr
+gegenüber verhielt es sich ablehnend, die Kirche verlor an ihrer Macht
+als geistiges Centrum. Der mächtige Einfluß der Antike schuf
+gewissermaßen heidnische Päpste, wie Leo X. Travestien auf
+kirchliche Gedanken und Gebräuche traten auf. Sittenlosigkeit,
+Selbstsucht waren und wurden die verhängnisvollen Folgen und
+Begleiter des Bewußtseins vom freien Willen. Mit diesem steht
+in offenbarem Kontrast die künstlerische Schaffens- und
+Vollendungskraft, die höchste Blüte italienischer Renaissance.
+Deutschland nimmt fast in allen Beziehungen im Verlaufe
+seiner Renaissance eine andere Stellung ein wie Italien, ja
+teilweise auch wie Frankreich, welches von einem älteren
+Kulturvolke bewohnt war. Italien war schon in frühester Zeit das
+Vorbild für die bildenden Künste in Deutschland, so konnte die
+deutsche Renaissance erst jener Italiens folgen, welches für
+Deutschland die Kenntnis der Antike vermittelte.
+Der Weg der Renaissance in Deutschland ist ein langsamer,
+mühevoller. Italien fiel die Renaissance wie eine reife Frucht in den
+Schoß, welche der italienische heitere und warme Himmel schneller
+zeitigte, als die Regen und Schneeschauer unseres Vaterlandes.
+Deutschland mußte seine Renaissance erkämpfen, ein langer
+Kampf, in dessen Ringen wir noch heute stehen. Die
+Renaissancebewegung bei uns zeigt sich in der Volksdichtung schon vom
+10. bis 12. Jahrhundert in ihrer teils lehrenden, teils lyrischen
+Art. Reinecke Fuchs kann als eine erste Renaissancethat, wenn
+auch unter Tiermaske, aufgefasst werden. Zu vollen Flammen
+wächst die Bewegung in den ersten Jahrzehnten des 16.
+Jahrhunderts. Die Renaissance fällt mit der Reformation zusammen.
+Während Italien sich in religiösen Fragen indifferent verhielt,
+ging Deutschland für die ganze Welt sicher und unerschrocken
+den Mißbräuchen der alten Kirche entgegen. Die deutsche
+Renaissance war sittlicher Natur. Eine der Hauptwaffen schmiedete
+sich das deutsche Volk durch die Erfindung der
+Buchdruckerkunst, sie bleibt der mächtigste der praktischen Faktoren der
+deutschen Renaissance. Luther nennt sie in seiner tiefkräftigen
+Sprache „das letzte Auflodern vor dem Erlöschen der Welt“.
+Hier belebend, dort tötend, änderte die Buchdruckerkunst in
+wenigen Jahrhunderten die Welt, durch Entfesseln der Gedanken,
+durch Oeffnen der Pforten der Wissenschaft, der Forschung. Mit
+ihr kam unsere Sprache wieder zu Recht; durch seine
+Bibelübersetzung schenkte uns in vieler Beziehung Luther unsere
+Sprache wieder.
+-->
+	</Page>
+</PcGts>

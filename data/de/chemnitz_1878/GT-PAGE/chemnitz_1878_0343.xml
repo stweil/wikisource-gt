@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:38:28</Created>
+		<LastChange>2026-11-23T14:38:28</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/343 revision 4807231 of 2026-01-15T08:28:46Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0343.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro15173014640389705514" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="534,220 746,220 746,393 534,393" />
+			<TextLine id="r0l0" custom="readingOrder {index:0;}">
+				<Coords points="534,220 548,220 556,227 563,226 569,223 581,223 595,226 642,225 642,235 534,235" />
+				<Baseline points="534,235 642,235" />
+				<TextEquiv index="1">
+					<Unicode>Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l1" points="595,245 608,245 617,259 637,245 651,245 660,252 667,248 684,248 729,251 746,252 746,261 684,261 651,261 621,262 617,262 595,261" baseline="595,261 746,260" reason: differs: "R.,K" against "Prof" | Wikisource:  | next_nc_e1: R., Kaufmann. | german_print2_15: R., Kaufmann. -->
+			<!-- line left out: id="r0l2" points="609,272 623,272 626,279 638,278 652,275 656,275 711,277 711,286 700,287 609,287" baseline="609,287 711,286" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Kauſmann | german_print2_15: Kaufmann -->
+			<!-- line left out: id="r0l3" points="621,304 629,299 650,299 652,305 657,305 683,302 689,302 708,304 713,311 715,311 715,313 689,313 657,314 621,314" baseline="621,314 715,313" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: kdirector.
+ | german_print2_15: kdirector.
+ -->
+			<!-- line left out: id="r0l4" points="570,330 581,330 598,330 617,331 620,325 644,325 646,331 651,331 677,325 693,325 701,330 706,337 709,337 709,339 701,340 693,341 681,341 651,340 644,341 630,341 620,328 617,340 598,341 595,341 583,339 570,336" baseline="570,340 709,339" reason: differs: "Schu" against "ann." | Wikisource:  | next_nc_e1: Schuldirector.
+ | german_print2_15: Schuldirector.
+ -->
+			<!-- line left out: id="r0l5" points="596,351 610,351 618,359 625,358 631,356 642,356 656,358 670,357 693,357 704,359 704,366 668,367 596,367" baseline="596,367 704,366" reason: models differ | Wikisource: Kaufmann. | next_nc_e1: Kaufmann.
+ | german_print2_15: Kaufmann.
+ -->
+			<!-- line left out: id="r0l6" points="651,385 657,382 663,382 666,391 668,391 668,393 651,393" baseline="651,393 668,393" reason: second model: differs: "at." against "Haen" | Wikisource: at. | next_nc_e1: at.
+ | german_print2_15: at.
+ -->
+			<TextEquiv index="1">
+				<Unicode>Kaufmann.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="659,435 808,435 808,473 659,473" />
+			<!-- line left out: id="r1l0" points="680,439 687,437 694,435 704,435 708,444 710,444 710,446 684,446 680,446" baseline="680,446 710,446" reason: differs: "ant." against "°° H" | Wikisource:  | next_nc_e1: ant. | german_print2_15: ant. -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="659,463 676,463 679,457 716,457 727,462 745,464 748,457 753,457 768,462 797,458 800,464 808,464 808,473 727,473 672,473 659,472" />
+				<Baseline points="659,471 808,473" />
+				<TextEquiv index="1">
+					<Unicode>und Stadtrath.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>und Stadtrath.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="623,510 732,510 732,526 623,526" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="623,510 650,510 674,516 732,517 732,526 684,526 650,526 623,526" />
+				<Baseline points="623,525 732,526" />
+				<TextEquiv index="1">
+					<Unicode>Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Kaufmann.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="574,564 809,564 809,896 574,896" />
+			<!-- line left out: id="r3l0" points="654,569 658,569 664,570 687,568 690,568 715,569 734,569 745,570 748,564 752,564 756,570 775,570 775,579 773,579 752,578 734,579 715,579 704,579 676,578 654,578" baseline="654,578 775,579" reason: differs: "häft" against "† Ha" | Wikisource:  | next_nc_e1: häftsinhaber | german_print2_15: häftsinhaber -->
+			<!-- line left out: id="r3l1" points="619,599 625,594 637,594 651,596 678,594 682,594 703,594 710,596 727,590 731,590 740,591 763,594 770,590 782,590 782,596 789,596 789,605 763,605 710,606 692,606 670,603 651,604 637,606 625,606 619,600" baseline="619,604 789,605" reason: differs: "sdir" against "ildh" | Wikisource:  | next_nc_e1: sdirector, Ritter. | german_print2_15: sdirector, Ritter. -->
+			<!-- line left out: id="r3l2" points="595,615 599,615 624,615 624,622 642,622 662,622 667,629 669,629 669,631 642,631 612,631 603,620 599,631 595,631" baseline="595,631 669,631" reason: differs: "Pfar" against "auer" | Wikisource:  | next_nc_e1: Pfarrer. | german_print2_15: Pfarrer. -->
+			<!-- line left out: id="r3l3" points="574,648 597,648 610,649 624,648 640,648 675,649 675,643 688,643 706,643 709,650 717,650 717,658 660,658 632,657 628,651 615,655 610,657 574,657" baseline="574,657 717,658" reason: differs: "mmer" against "Dr. " | Wikisource:  | next_nc_e1: mmerzienrath. | german_print2_15: mmerzienrath. -->
+			<!-- line left out: id="r3l4" points="576,669 599,669 599,682 618,669 630,668 635,668 644,675 648,675 663,678 670,669 675,669 677,675 694,675 718,676 728,673 738,673 751,674 771,676 771,685 761,685 751,684 724,685 714,685 670,684 648,683 635,684 601,684 585,684 576,683" baseline="576,683 618,683 771,685" reason: differs: "V.,M" against ". Ha" | Wikisource:  | next_nc_e1: V., Maschinenfabr. | german_print2_15: V., Maschinenfabr. -->
+			<!-- line left out: id="r3l5" points="621,707 628,700 631,700 657,700 676,700 684,702 693,701 703,701 703,711 657,711 644,711 625,710 621,710" baseline="621,710 703,711" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: übrikant. | german_print2_15: abrikant. -->
+			<!-- line left out: id="r3l6" points="574,721 602,721 603,728 617,726 620,726 634,728 637,721 652,721 652,728 676,728 676,737 614,737 574,737" baseline="574,737 676,737" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Kauſmann | german_print2_15: Kaufmann -->
+			<!-- line left out: id="r3l7" points="620,748 624,748 625,755 639,755 639,748 653,748 653,761 667,758 679,758 687,749 691,749 694,755 704,755 705,749 716,749 719,757 727,749 736,749 746,748 760,748 769,749 772,757 784,749 789,749 798,755 809,755 809,764 769,764 746,764 736,763 716,764 653,764 639,764 620,763" baseline="620,763 809,764" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Realschuloberlehr. | german_print2_15: Realschuloberlehr. -->
+			<!-- line left out: id="r3l8" points="596,810 599,810 620,809 632,807 644,807 657,812 659,806 671,806 675,807 687,806 710,806 717,807 717,816 675,816 640,816 636,809 623,814 617,816 611,816 596,813" baseline="596,816 717,816" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ckermeister. | german_print2_15: ckermeister. -->
+			<!-- line left out: id="r3l9" points="621,833 630,832 636,827 658,827 666,835 678,833 683,833 704,833 711,836 716,827 725,827 727,837 739,834 763,834 763,843 745,843 725,842 704,842 689,843 658,843 636,843 621,842" baseline="621,842 763,843" reason: differs: "rtel" against "Haen" | Wikisource:  | next_nc_e1: rtelcontroleur. | german_print2_15: rtelcontroleur. -->
+			<!-- line left out: id="r3l10" points="593,889 602,889 615,892 624,880 629,880 637,887 647,887 653,889 659,880 671,880 691,880 697,886 701,886 705,893 708,893 708,896 671,896 659,896 647,895 629,895 593,895" baseline="593,895 708,896" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: andmeister.
+ | german_print2_15: andmeister.
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="569,910 700,910 700,922 569,922" />
+			<!-- line left out: id="r4l0" points="569,915 577,911 580,911 603,912 615,915 624,910 635,910 638,916 646,915 668,911 673,911 693,913 697,920 700,920 700,922 673,922 668,922 641,921 615,921 574,921 569,921" baseline="569,921 700,922" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: abrikdirector.
+ | german_print2_15: abrikdirector.
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="631,959 812,959 812,975 631,975" />
+			<!-- line left out: id="r5l0" points="631,972 641,968 652,965 662,965 671,959 707,959 710,972 730,963 735,963 775,963 781,959 804,959 807,969 812,969 812,970 804,974 713,974 662,975 652,975 635,974 631,974" baseline="631,974 712,973 730,973 812,974" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: zend. d. Central-
+ | german_print2_15: zend. d. Central-
+ -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="652,1016 814,1016 814,1078 652,1078" />
+			<!-- line left out: id="r6l0" points="660,1019 670,1016 692,1016 695,1023 697,1023 697,1026 670,1026 660,1023" baseline="660,1023 697,1025" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: cat. | german_print2_15: cat. -->
+			<!-- line left out: id="r6l1" points="652,1045 673,1042 683,1042 702,1042 712,1037 721,1037 725,1043 732,1043 732,1037 755,1037 757,1045 769,1042 786,1042 795,1037 806,1037 814,1042 814,1051 806,1052 795,1052 786,1051 755,1051 745,1052 732,1052 702,1051 683,1052 673,1052 661,1049 652,1047" baseline="652,1052 814,1051" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: schuloberlehrer. | german_print2_15: schuloberlehrer. -->
+			<!-- line left out: id="r6l2" points="761,1070 771,1069 778,1063 783,1063 786,1070 803,1068 805,1068 805,1077 776,1078 761,1078" baseline="761,1078 805,1076" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: naber
+ | german_print2_15: naber
+ -->
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="710,1089 807,1089 807,1105 710,1105" />
+			<!-- line left out: id="r7l0" points="710,1090 714,1090 717,1096 734,1095 744,1089 747,1089 750,1098 762,1089 766,1089 768,1095 779,1095 799,1095 805,1102 807,1102 807,1104 779,1105 768,1105 762,1104 750,1103 744,1092 738,1105 734,1105 710,1103" baseline="710,1103 807,1104" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: berlehrer.
+ | german_print2_15: berlehrer.
+ -->
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="588,1169 793,1169 793,1210 588,1210" />
+			<!-- line left out: id="r8l0" points="700,1176 706,1174 725,1174 756,1169 761,1169 786,1169 793,1174 793,1183 700,1183" baseline="700,1183 793,1183" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: urmacher. | german_print2_15: uarmacher. -->
+			<!-- line left out: id="r8l1" points="588,1200 593,1200 616,1199 621,1199 646,1200 654,1194 659,1194 672,1200 676,1200 685,1198 695,1198 695,1209 646,1210 636,1210 621,1209 614,1210 598,1210 588,1204" baseline="588,1210 695,1209" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: rintendent.
+ | german_print2_15: rintendent.
+ -->
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="632,1220 714,1220 714,1235 632,1235" />
+			<!-- line left out: id="r9l0" points="632,1220 667,1220 688,1220 704,1224 714,1226 714,1235 688,1235 667,1235 632,1235" baseline="632,1235 714,1235" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Hofrath,
+ | german_print2_15: Hofrath,
+ -->
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="654,1271 795,1271 795,1313 654,1313" />
+			<!-- line left out: id="r10l0" points="654,1279 666,1277 672,1271 683,1271 686,1279 697,1279 698,1271 736,1271 739,1279 750,1274 754,1274 775,1271 787,1271 795,1276 795,1286 754,1286 736,1286 683,1286 654,1286" baseline="654,1286 795,1285" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: huloberlehrer. | german_print2_15: huloberlehrer. -->
+			<!-- line left out: id="r10l1" points="664,1297 678,1297 681,1303 699,1302 710,1302 762,1302 772,1303 772,1312 762,1313 710,1313 678,1313 664,1313" baseline="664,1312 772,1312" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Kauſmann.
+ | german_print2_15: Kaufmann.
+ -->
+		</TextRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="610,1322 817,1322 817,1365 610,1365" />
+			<TextLine id="r11l0" custom="readingOrder {index:0;}">
+				<Coords points="611,1322 624,1322 626,1331 631,1331 641,1335 643,1329 650,1323 665,1323 665,1332 676,1324 681,1324 683,1330 703,1328 716,1323 726,1323 729,1331 744,1331 745,1323 758,1323 760,1331 772,1323 777,1323 778,1329 817,1329 817,1339 806,1339 789,1339 758,1339 745,1339 700,1339 665,1339 650,1339 611,1338" />
+				<Baseline points="611,1338 817,1339" />
+				<TextEquiv index="1">
+					<Unicode>Realschuloberlehrer.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l1" custom="readingOrder {index:1;}">
+				<Coords points="610,1363 615,1350 624,1350 655,1354 655,1365 610,1365" />
+				<Baseline points="610,1365 655,1365" />
+				<TextEquiv index="1">
+					<Unicode>Arzt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Realschuloberlehrer.
+Arzt.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="394,1549 658,1549 658,1561 394,1561" />
+			<!-- line left out: id="r12l0" points="394,1549 402,1549 408,1550 422,1549 434,1549 443,1549 456,1549 469,1549 499,1549 561,1549 571,1549 646,1549 658,1550 658,1558 571,1560 452,1561 443,1561 426,1561 414,1560 407,1560 394,1558" baseline="394,1558 658,1558" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnp digital slub-dresden delppn301259642343
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r13">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Gottschald, Carl, Kaufmann.
+Prof. Gottschaldt, Lehrer a. d. Baugewerkenschule.
+Graupner, Zimmermeister.
+Günther, Ewald, Kaufmann.
+Gulden, Kaufmann.
+Gutzschebauch, Pastor.
+°° Haase, Emil, Maurermeister.
+°° Haase, Rich., Advocat.
+°° Haase, Th. J., Bankier.
+Haeberlein, Schlossermeister.
+Haehle, Gust., Kaufmann.
+Haendel, Rentier und Stadtrath.
+Haendel, Paul, Kaufmann.
+† Haendler, Bildhauer.
+Prof. Dr. Haensel, Realschuloberlehrer.
+Hansen, Ed., Kaufmann.
+Harnack, Schuhmacher,
+Hartenstein, Weinstubeninhaber.
+† Hartmann, Geh. Commerzienrath, Comthur.
+Hartmann, Gust., Fabrikdirector.
+Hartmann jr., Rich., Techniker.
+° Hauschild, Oscar, Kaufmann.
+Freih. v. Hausen, Premierlieut.
+Heber, A., Fabrikant.
+Hecker, Commerzienrath und Stadtrath.
+°° Heigis, Anton, Fabrikant.
+Heigis, Carl, Fabrikant.
+°° Heigis, Wilhelm, Fabrikant.
+Hein, Decorationsmaler.
+Heise, Carl, Kaufmann.
+Hermsdorf, Louis, Kaufmann.
+Hermsdorf, Maurermeister.
+°° Hertzsch, Heinrich, Agent.
+Heusinger, Architect.
+Hey, Baumeister.
+Heymann, Hugo, Kaufmann.
+°° Heyne, Procurist.
+Hiller, Wold., Kaufmann.
+Hinkel, Otto, Kaufmann.
+Höhl, Kaufmann.
+°° Höppner, R., Kaufmann.
+Hösel, Rob., Kaufmann.
+Hoffmann, Bankdirector.
+Holscher, Schuldirector.
+Holzmüller, Kaufmann.
+°° Hübner, Advocat.
+Igel, G. R., Fabrikant.
+Illing, Kaufmann und Stadtrath.
+Irmscher, Advocat.
+°° Just, C. H., Kaufmann.
+Kästner, Baugeschäftsinhaber.
+Kahle, Betriebsdirector, Ritter.
+P. Keipert, Pfarrer.
+Keller, Commerzienrath.
+°° Ketzer, V., Maschinenfabr.
+Kipping, Senffabrikant.
+Kirchner, Kaufmann.
+Dr. Kirchner, Realschuloberlehr.
+Kirsch, E. R., Glockengiesser.
+°° Kissig, Bäckermeister.
+Kliemann, Sportelcontroleur.
+° Klinge, L., Kaufmann.
+°° Kluge, Brandmeister.
+Kluge, Fabrikdirector.
+Kluge, Maurermeister.
+°° Knorr, Vorsitzend. d. Centralherberge.
+°° Dr. Koch, Advocat.
+Dr. Köhler, Realschuloberlehrer.
+Köhler, Droguengeschäftsinhaber.
+Dr. König, Realschuloberlehrer.
+Körner, Osc., Kaufmann.
+Körner, Rud., Kaufmann.
+°° Körner, Theod., Uhrmacher.
+Kohl, Superintendent.
+† * Kohl, Geh. Hofrath, Advocat, Comthur.
+Dr. Kohl, Realschuloberlehrer.
+Kratzsch, O. H., Kaufmann.
+Dr. Krause, Realschuloberlehrer.
+Dr. Krauss, Arzt.
+-->
+	</Page>
+</PcGts>

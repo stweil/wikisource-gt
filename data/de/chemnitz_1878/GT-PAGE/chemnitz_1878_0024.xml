@@ -1,0 +1,418 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:16:20</Created>
+		<LastChange>2026-11-23T14:16:20</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/24 revision 4925399 of 2026-06-19T08:00:11Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0024.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro17718733564924753598" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="44,670 51,670 51,983 44,983" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="249,216 816,216 816,240 249,240" />
+			<!-- line left out: id="r1l0" points="249,216 270,216 285,220 294,216 311,216 324,220 346,218 354,218 386,221 411,222 476,220 501,220 635,221 663,223 678,226 690,223 705,223 794,223 816,223 816,240 794,240 763,240 678,239 532,240 518,240 465,236 412,235 346,234 311,233 311,240 294,240 294,233 272,233 249,232" baseline="249,232 531,237 598,237 816,240" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Generalversammlung am 30. Januar 1874.
+ | german_print2_15: Generalversammlung am 30. Januar 1874.
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="170,252 887,252 887,379 170,379" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="224,252 233,252 304,258 311,252 323,252 330,259 346,259 351,253 375,253 375,259 436,260 436,253 447,253 447,261 527,261 566,262 577,264 577,257 589,257 594,260 605,263 606,257 627,258 627,264 637,264 644,258 652,258 654,264 684,259 737,259 749,264 790,266 791,260 803,260 810,266 858,266 877,262 887,262 887,277 654,274 652,280 644,280 637,274 589,278 554,278 554,272 361,272 351,270 224,268" />
+				<Baseline points="224,268 887,277" />
+				<TextEquiv index="1">
+					<Unicode>Der von den Kassenrevisoren ausgestellte Justificationsschein wird</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="172,284 216,283 227,285 228,278 233,278 235,284 259,281 269,278 271,278 317,279 317,285 352,280 367,280 380,285 399,281 413,281 413,287 452,287 452,281 489,282 511,289 513,282 525,282 560,289 645,284 652,291 665,291 678,284 712,284 712,291 723,288 754,291 755,285 767,285 768,293 787,293 801,286 813,286 814,294 852,288 868,288 887,293 887,303 852,303 699,302 399,297 363,295 308,295 271,299 203,299 172,293" />
+				<Baseline points="172,293 887,303" />
+				<TextEquiv index="1">
+					<Unicode>vorgelegt. Der Vorsitzende stellt Namens des Vorstandes den An-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="171,307 212,310 212,318 231,304 243,304 244,311 256,310 277,305 328,305 341,306 342,312 371,313 384,306 397,306 398,313 417,313 430,307 435,307 455,311 521,309 550,314 583,310 595,315 673,316 674,310 688,310 688,316 716,317 724,323 729,317 741,317 741,311 756,311 756,318 776,318 777,312 788,312 790,320 800,320 801,312 813,312 814,320 825,318 885,314 885,329 788,328 716,332 698,332 687,327 295,322 231,320 212,326 199,326 199,320 171,320" />
+				<Baseline points="171,320 885,329" />
+				<TextEquiv index="1">
+					<Unicode>trag, den Beschluss der letzten Generalversammlung aufzuheben und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="170,338 182,338 182,331 224,336 240,330 255,330 256,336 330,332 344,338 404,339 418,333 471,334 473,340 490,341 491,334 502,334 503,342 515,340 568,341 737,337 737,343 762,338 777,338 817,344 875,345 875,339 885,339 885,355 829,357 818,357 762,354 393,354 368,349 287,348 250,346 170,346" />
+				<Baseline points="170,346 885,355" />
+				<TextEquiv index="1">
+					<Unicode>einen Vorstand von 9 Mitgliedern zu ernennen. Der Antrag wird</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="170,363 181,363 182,357 188,357 200,362 211,360 225,360 235,357 251,357 251,363 381,364 434,366 434,376 333,379 282,379 270,379 270,373 251,373 251,379 235,379 235,373 170,372" />
+				<Baseline points="170,372 434,376" />
+				<TextEquiv index="1">
+					<Unicode>einstimmig angenommen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Der von den Kassenrevisoren ausgestellte Justificationsschein wird
+vorgelegt. Der Vorsitzende stellt Namens des Vorstandes den An-
+trag, den Beschluss der letzten Generalversammlung aufzuheben und
+einen Vorstand von 9 Mitgliedern zu ernennen. Der Antrag wird
+einstimmig angenommen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="169,388 887,388 887,1186 169,1186" />
+			<!-- line left out: id="r3l0" points="224,388 231,388 233,394 244,394 265,388 278,388 278,395 301,395 315,389 331,389 332,395 344,395 362,393 370,393 395,391 406,391 424,397 436,397 460,397 460,391 473,391 473,399 485,397 514,393 522,393 522,399 533,398 554,393 571,393 593,393 642,393 664,393 664,406 680,394 697,394 698,400 714,399 732,399 768,400 768,394 781,394 781,400 801,400 825,401 839,395 846,395 852,396 853,402 872,402 874,396 884,396 884,412 866,412 853,412 846,411 825,413 812,413 801,411 781,413 768,413 758,411 732,410 714,410 697,409 642,409 554,409 545,408 533,408 532,414 514,414 495,408 485,408 406,407 395,407 345,406 326,405 265,405 224,404" baseline="224,404 243,404 424,406 514,407 680,409 839,411 884,412" reason: differs: ".Gorrsc" against " Gottsc" | Wikisource:  | next_nc_e1: In den Vorstand werden gewählt: Prof. GorrscHALDτ, Prof. | german_print2_15: In den Vorstand werden gewählt: Prof. GorrschALDT, Prof. -->
+			<!-- line left out: id="r3l1" points="171,414 186,414 187,420 248,420 314,415 339,415 345,416 348,422 367,422 369,416 381,416 381,422 406,421 428,417 442,417 443,425 457,423 475,423 475,417 502,417 506,432 523,418 530,418 549,419 550,432 568,419 580,419 630,424 652,425 664,426 680,420 685,420 695,421 735,421 735,428 749,425 765,425 808,426 817,427 817,435 825,435 840,423 855,423 862,422 867,422 880,436 882,436 882,438 855,438 825,440 816,440 781,437 735,436 685,436 664,437 652,437 643,436 554,435 510,435 475,435 457,434 442,433 393,433 339,432 295,434 282,434 187,431 171,430" baseline="171,431 314,431 663,435 840,437 882,438" reason: differs: "LAMP" against "Prof" | Wikisource:  | next_nc_e1: LAMPRECHr, Fabrikant LοnENz, Dr. SΑLER, Dr. ScHοLτzE, Adv. | german_print2_15: LAMPRECHT, Fabrikant LoORENZ, Dr. SAMMLER, Dr. ScHOLTZE, Adv. -->
+			<!-- line left out: id="r3l2" points="171,446 181,446 205,447 212,441 225,441 270,441 299,441 308,442 309,448 322,448 331,442 344,442 363,447 372,437 393,437 403,443 415,443 422,447 435,444 447,444 455,447 485,444 521,444 529,450 567,450 579,451 595,445 601,445 611,446 625,451 636,445 649,445 657,451 698,451 722,452 724,460 752,447 757,447 768,448 781,453 796,447 808,447 812,453 870,453 883,454 883,464 837,464 781,463 768,463 757,462 657,462 649,461 601,461 579,464 566,464 522,461 435,460 415,459 403,458 393,468 372,468 372,458 322,458 299,458 292,458 194,457 171,456" baseline="171,456 212,456 292,457 636,461 752,462 883,464" reason: differs: "vonS" against "Adv." | Wikisource:  | next_nc_e1: von SrERN, Dr. SrIER, Stadtrath ΖιPPER, Dr. ZÖLLNER. Dr. SAMMLER | german_print2_15: von STERN, Dr. STIER, Stadtrath ZIPpER, Dr. ZoNER. Dr. SAMMILER -->
+			<!-- line left out: id="r3l3" points="170,473 202,473 202,467 213,467 227,473 282,468 298,468 310,473 335,472 342,472 352,475 376,475 383,469 397,469 397,475 432,470 445,470 453,474 471,476 471,470 484,470 486,476 506,474 514,471 551,471 560,477 627,477 656,478 672,472 688,472 688,479 700,479 725,478 733,478 776,479 800,479 815,480 816,474 834,474 846,477 846,490 836,490 785,489 776,492 765,492 733,489 678,489 672,489 576,488 560,488 417,487 406,487 352,485 288,487 282,487 227,484 170,483" baseline="170,483 227,483 416,485 846,489" reason: differs: "wird" against "mmle" | Wikisource:  | next_nc_e1: wird zum Vorsitzenden, Stadtrath ZIPPER zum Kassirer gewählt.
+ | german_print2_15: wird zum Vorsitzenden, Stadtrath ZiPPER zum Kassirer gewählt.
+ -->
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="224,498 237,498 238,504 270,505 270,499 302,499 303,505 335,503 348,503 360,505 360,498 362,498 400,500 404,507 467,507 473,501 483,501 514,503 623,503 623,509 660,509 662,503 669,503 687,510 698,510 698,504 711,504 712,512 730,510 751,504 763,504 764,511 785,510 806,504 819,504 824,513 830,511 882,511 882,521 869,521 860,515 858,521 540,519 524,524 509,524 483,518 224,514" />
+				<Baseline points="224,514 882,521" />
+				<TextEquiv index="1">
+					<Unicode>Branddirector Nowack sprach hierauf über den Feuer-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="169,531 193,531 196,525 236,528 247,531 264,525 277,525 287,531 303,531 317,525 329,525 345,531 360,526 430,527 434,534 475,533 485,528 504,528 508,534 575,529 610,529 615,537 629,535 665,535 681,529 695,529 701,537 781,536 785,530 797,530 801,536 860,537 860,521 887,521 887,556 860,556 801,547 530,545 169,540" />
+				<Baseline points="169,540 887,547" />
+				<TextEquiv index="1">
+					<Unicode>schutz der Stadt Chemnitz nach deren Feuerordnungen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="170,557 246,555 256,556 257,565 276,557 318,557 318,566 337,557 364,557 378,558 378,566 398,558 405,553 417,553 417,559 439,559 439,567 457,559 464,554 488,554 488,560 500,560 501,567 504,567 504,570 500,575 488,575 443,573 428,575 417,575 417,569 344,574 344,568 322,570 308,569 295,573 284,573 225,572 170,566" />
+				<Baseline points="170,566 504,570" />
+				<TextEquiv index="1">
+					<Unicode>von 1352, 1492, 1750, 1842, 1869.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="248,583 255,583 258,589 268,589 283,583 296,583 303,590 339,584 353,584 353,590 367,590 373,584 408,584 459,592 459,585 471,585 472,593 485,593 495,585 514,585 515,592 552,592 553,586 572,587 591,592 592,586 604,586 605,592 641,594 673,593 684,587 690,587 740,591 746,595 751,587 769,587 770,593 799,594 800,587 814,587 833,588 834,594 883,594 883,604 874,604 845,604 787,604 757,604 751,604 248,599" />
+				<Baseline points="248,599 883,604" />
+				<TextEquiv index="1">
+					<Unicode>In der Geschichte des Feuerlöschwesens Deutschlands lassen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l8" custom="readingOrder {index:8;}">
+				<Coords points="195,616 204,616 205,609 210,609 233,609 243,615 266,615 272,617 278,610 316,610 316,617 360,611 365,611 370,616 397,617 398,611 416,612 418,618 435,615 451,615 470,612 494,612 501,618 512,618 521,612 570,612 570,620 586,620 597,613 616,612 624,620 634,620 635,613 647,613 649,621 661,619 702,620 703,614 708,614 711,620 735,619 752,621 754,614 766,614 767,621 798,621 799,614 835,614 843,620 884,621 884,630 855,633 843,633 766,630 556,629 459,627 360,628 195,624" />
+				<Baseline points="195,624 884,630" />
+				<TextEquiv index="1">
+					<Unicode>sich nach dem verdienstvollen Werke Fiedlers über diesen Gegen-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l9" custom="readingOrder {index:9;}">
+				<Coords points="195,642 204,638 229,641 236,635 248,635 268,642 306,642 320,636 342,636 342,643 354,643 355,637 361,637 361,643 373,643 373,637 385,637 386,645 397,643 443,641 457,641 478,644 487,638 503,638 505,645 533,644 534,638 546,638 548,645 567,645 567,638 612,639 656,648 663,645 686,643 747,646 750,640 762,640 762,646 777,643 791,643 812,647 812,640 823,640 824,647 834,647 848,640 861,640 862,648 874,643 884,643 884,656 868,656 767,656 692,656 686,656 195,651" />
+				<Baseline points="195,651 884,656" />
+				<TextEquiv index="1">
+					<Unicode>stand vier Perioden unterscheiden. Die erste umfasst die Zeit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l10" custom="readingOrder {index:10;}">
+				<Coords points="195,667 229,667 250,669 250,662 265,662 265,668 361,664 409,664 410,670 474,671 481,665 509,665 510,671 522,671 523,665 533,665 535,672 547,671 553,665 566,665 568,671 584,671 585,665 596,665 604,671 616,671 627,665 646,665 647,672 691,672 700,665 728,672 786,666 798,666 799,672 810,672 845,667 857,667 869,672 884,674 884,686 870,686 845,683 785,682 702,686 692,686 662,682 578,681 510,685 495,681 474,680 422,683 298,678 195,677" />
+				<Baseline points="195,677 884,683" />
+				<TextEquiv index="1">
+					<Unicode>von den ersten Anfängen obrigkeitlicher Fürsorge zur Abwendung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l11" custom="readingOrder {index:11;}">
+				<Coords points="195,693 229,694 245,688 265,688 266,695 326,695 332,689 347,689 369,690 370,696 378,696 395,690 401,690 403,697 470,697 485,691 505,691 507,697 518,697 520,691 528,691 528,697 538,697 540,691 551,691 553,698 597,698 611,692 623,692 624,700 643,698 658,692 679,692 680,698 741,698 767,693 778,693 785,700 808,698 883,697 883,712 866,712 729,708 623,708 587,711 540,708 326,705 326,711 313,711 313,705 195,703" />
+				<Baseline points="195,703 883,708" />
+				<TextEquiv index="1">
+					<Unicode>von Feuersgefahr bis zur Einführung der Wasserwerke, vom 13.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l12" custom="readingOrder {index:12;}">
+				<Coords points="195,714 207,714 208,720 260,721 296,715 328,715 328,721 375,722 376,716 388,716 389,723 416,722 424,719 430,719 440,723 455,717 463,717 465,723 475,723 477,717 510,717 511,723 541,718 553,718 555,724 576,722 586,726 590,714 595,714 623,718 625,724 710,722 745,726 745,718 759,718 759,724 770,722 786,724 807,724 809,718 820,718 847,726 873,725 874,719 883,719 883,734 660,735 637,728 636,734 595,736 576,734 465,733 463,740 455,740 440,733 369,732 352,738 340,738 339,732 302,732 299,738 296,738 260,731 195,730" />
+				<Baseline points="195,730 883,734" />
+				<TextEquiv index="1">
+					<Unicode>bis zu Anfang des 16. Jahrhunderts; die zweite erstreckt sich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l13" custom="readingOrder {index:13;}">
+				<Coords points="195,746 248,747 248,741 265,741 307,742 321,748 349,748 359,742 380,742 401,743 402,749 414,749 414,743 420,743 421,749 477,751 478,743 490,743 491,749 516,744 529,744 529,750 540,750 540,744 558,744 560,750 654,750 655,744 705,744 744,745 746,751 763,751 801,745 815,745 837,750 873,750 882,752 882,764 848,764 838,764 815,761 763,764 746,764 717,760 693,764 685,764 584,763 552,760 434,760 195,756" />
+				<Baseline points="195,756 882,760" />
+				<TextEquiv index="1">
+					<Unicode>von da bis zur Erfindung der Schlangen und Zubringer (Ausgang</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l14" custom="readingOrder {index:14;}">
+				<Coords points="194,767 206,767 213,773 247,772 273,768 282,768 283,774 294,774 295,768 301,768 302,774 317,774 317,768 323,768 324,774 367,769 368,777 389,772 406,770 412,770 433,777 439,769 452,769 453,777 477,776 483,770 489,770 491,776 499,776 500,770 513,770 520,774 553,776 582,771 619,771 633,776 679,776 690,770 696,770 729,771 731,777 804,777 806,771 811,771 825,774 867,778 873,771 882,771 882,787 785,787 755,790 742,787 433,785 412,791 406,791 405,785 283,784 282,790 273,790 242,789 226,782 194,783" />
+				<Baseline points="194,783 882,787" />
+				<TextEquiv index="1">
+					<Unicode>des 17. Jahrhunderts); die dritte reicht bis zur Bildung militärisch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l15" custom="readingOrder {index:15;}">
+				<Coords points="193,800 211,794 224,794 239,800 251,800 252,794 273,794 274,800 284,797 298,797 311,801 324,794 338,794 338,802 394,801 405,803 405,796 416,796 423,802 454,802 467,796 472,796 473,802 484,802 499,796 518,796 541,800 620,803 639,805 653,797 661,797 663,803 674,803 675,797 686,797 688,803 696,803 697,797 708,797 710,803 739,803 739,797 750,797 773,801 791,810 806,803 823,803 824,797 841,797 855,804 861,797 874,797 874,804 883,804 883,812 791,814 663,813 661,819 653,819 639,813 362,812 239,810 227,802 224,811 193,809" />
+				<Baseline points="193,809 883,813" />
+				<TextEquiv index="1">
+					<Unicode>organisirter Feuerwehren in Mitte unseres Jahrhunderts, und die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l16" custom="readingOrder {index:16;}">
+				<Coords points="194,826 204,826 206,820 211,820 212,827 224,826 233,823 302,827 302,821 314,821 315,828 350,827 388,822 400,822 401,828 411,828 429,834 434,822 483,822 484,828 517,823 533,823 548,830 554,823 566,823 567,831 634,826 655,826 666,831 679,823 692,823 699,829 711,827 742,830 784,829 785,823 797,823 798,829 821,827 876,829 883,833 883,835 876,839 742,844 730,844 700,840 280,837 264,836 247,830 247,836 194,835" />
+				<Baseline points="194,836 883,839" />
+				<TextEquiv index="1">
+					<Unicode>vierte würde von da ab bis in die neueste Zeit gerechnet wer-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l17" custom="readingOrder {index:17;}">
+				<Coords points="193,846 205,846 206,853 320,853 320,863 310,864 300,864 193,862" />
+				<Baseline points="193,862 320,863" />
+				<TextEquiv index="1">
+					<Unicode>den müssen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l18" custom="readingOrder {index:18;}">
+				<Coords points="247,873 269,873 270,880 280,880 298,885 298,875 306,873 321,873 321,881 332,881 342,877 349,877 359,881 371,874 384,874 384,881 449,880 450,874 462,874 463,880 511,881 593,882 593,875 606,875 607,881 618,879 651,881 652,875 663,875 671,881 687,881 700,875 707,875 737,882 739,875 751,875 764,883 777,883 780,875 821,875 834,876 836,883 852,881 884,882 884,892 852,891 836,885 834,891 641,891 511,895 493,895 429,891 247,889" />
+				<Baseline points="247,889 884,891" />
+				<TextEquiv index="1">
+					<Unicode>Die älteste Feuerordnung einer deutschen Stadt soll die von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l19" custom="readingOrder {index:19;}">
+				<Coords points="194,899 202,898 216,898 217,905 241,905 242,899 269,899 307,906 329,900 355,900 356,914 375,907 410,907 410,901 421,901 436,907 460,907 466,901 478,901 480,907 534,908 535,901 547,901 548,909 569,907 602,908 617,901 630,901 637,908 644,902 658,902 659,908 669,908 670,902 680,902 692,909 700,902 716,902 724,908 755,909 756,902 768,902 768,909 802,907 833,902 861,902 862,909 883,908 883,918 874,918 768,918 733,918 680,918 658,918 636,918 631,918 547,918 535,918 360,918 356,918 194,914" />
+				<Baseline points="194,915 883,918" />
+				<TextEquiv index="1">
+					<Unicode>Frankfurt a. M., nach anderen die von Zürich oder die von Wien</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l20" custom="readingOrder {index:20;}">
+				<Coords points="193,927 230,926 241,926 249,927 267,933 313,931 332,938 337,932 343,932 344,926 359,926 372,934 378,934 378,927 391,927 391,935 401,935 419,939 420,927 432,927 440,930 469,931 480,935 493,928 537,928 537,934 559,934 559,928 571,928 572,935 660,934 661,928 672,928 680,934 710,931 732,935 733,928 745,928 746,935 876,931 876,944 813,943 804,949 793,949 745,944 309,945 267,941 249,947 219,947 219,941 201,946 193,946" />
+				<Baseline points="193,941 876,944" />
+				<TextEquiv index="1">
+					<Unicode>(1278) sein; als die älteste in Sachsen erscheint die sogenannte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l21" custom="readingOrder {index:21;}">
+				<Coords points="193,951 207,951 207,958 264,958 285,952 297,952 297,959 310,958 319,953 330,953 332,959 368,958 398,960 399,953 411,953 413,959 437,954 450,954 469,960 476,953 516,953 516,960 549,960 550,954 561,954 562,960 638,960 651,954 678,954 679,960 694,960 717,959 746,954 757,954 758,966 786,953 791,953 794,959 817,954 844,954 846,961 857,959 881,959 881,969 746,969 745,975 734,975 727,973 694,970 666,970 659,976 651,976 609,970 393,969 380,975 368,975 368,969 193,967" />
+				<Baseline points="193,967 881,969" />
+				<TextEquiv index="1">
+					<Unicode>Feuernothordnung der Stadt Zwickau vom Jahre 1348. In Chem-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l22" custom="readingOrder {index:22;}">
+				<Coords points="193,983 199,978 211,978 218,981 283,984 290,978 307,978 343,985 406,980 406,986 417,986 432,980 440,980 442,986 453,986 454,980 459,980 460,986 537,985 566,988 567,981 578,981 589,986 653,986 668,980 674,980 689,981 691,988 701,988 702,980 713,980 713,986 759,986 761,980 846,979 847,987 859,983 875,983 876,990 882,990 882,992 875,996 846,995 636,997 613,996 592,990 589,997 528,1001 507,1001 442,996 440,1002 432,1002 417,996 193,993" />
+				<Baseline points="193,993 882,996" />
+				<TextEquiv index="1">
+					<Unicode>nitz wurde zuerst im Jahre 1352 eine vom Redner ihrem Wort-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l23" custom="readingOrder {index:23;}">
+				<Coords points="193,1003 198,1003 199,1010 224,1008 269,1010 276,1005 291,1005 309,1011 328,1006 350,1006 350,1012 374,1006 379,1006 380,1012 404,1012 405,1006 410,1006 425,1010 430,1014 447,1006 460,1006 461,1014 472,1012 525,1012 526,1006 537,1006 539,1012 562,1012 643,1007 643,1014 654,1014 655,1007 665,1007 672,1011 735,1013 735,1007 773,1005 793,1006 809,1011 810,1005 822,1005 823,1013 834,1006 852,1006 852,1012 871,1009 882,1009 882,1022 672,1023 587,1027 575,1027 539,1023 447,1022 427,1016 425,1022 193,1020" />
+				<Baseline points="193,1020 882,1022" />
+				<TextEquiv index="1">
+					<Unicode>laut nach mitgetheilte Feuerordnung in seltener Ausführlichkeit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l24" custom="readingOrder {index:24;}">
+				<Coords points="192,1037 273,1036 274,1044 298,1037 310,1037 321,1039 321,1032 331,1032 333,1038 344,1038 344,1032 356,1032 357,1039 383,1038 400,1035 450,1033 465,1033 483,1038 484,1032 498,1032 498,1038 567,1033 568,1041 579,1033 590,1033 591,1040 602,1040 602,1033 668,1033 669,1039 697,1041 713,1032 725,1032 726,1039 745,1038 759,1032 773,1032 774,1038 882,1038 882,1048 806,1052 796,1052 725,1048 634,1050 331,1048 274,1050 257,1047 211,1050 192,1046" />
+				<Baseline points="192,1046 744,1047 826,1052 882,1052" />
+				<TextEquiv index="1">
+					<Unicode>erlassen, welche unter Anderem befiehlt, dass der Bürger zum</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l25" custom="readingOrder {index:25;}">
+				<Coords points="193,1056 206,1056 206,1064 276,1063 287,1065 288,1057 300,1057 301,1065 353,1064 354,1058 388,1059 403,1062 487,1062 495,1067 508,1059 527,1059 528,1065 562,1065 562,1059 587,1059 590,1065 610,1066 610,1059 623,1059 623,1065 666,1062 679,1059 691,1059 730,1064 735,1067 744,1059 809,1060 832,1065 846,1059 863,1059 870,1065 882,1065 882,1074 809,1075 746,1078 730,1078 712,1078 700,1075 288,1074 287,1068 247,1073 193,1073" />
+				<Baseline points="193,1073 882,1075" />
+				<TextEquiv index="1">
+					<Unicode>Feuer gehe und bestimmtes Feuergeräth mitbringe. Dass Un-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l26" custom="readingOrder {index:26;}">
+				<Coords points="191,1089 203,1089 204,1083 210,1083 211,1089 223,1088 235,1083 275,1083 283,1089 319,1084 321,1090 353,1088 365,1091 384,1084 392,1084 392,1092 406,1092 406,1085 416,1085 424,1091 478,1089 505,1091 549,1091 550,1099 575,1086 587,1086 588,1093 599,1091 648,1089 688,1085 704,1085 706,1091 733,1092 735,1084 747,1084 748,1092 758,1092 775,1086 786,1085 792,1085 793,1092 818,1091 819,1085 859,1085 873,1088 882,1092 882,1100 632,1101 550,1103 211,1099 203,1105 191,1105" />
+				<Baseline points="191,1099 882,1100" />
+				<TextEquiv index="1">
+					<Unicode>glück der beste Lehrmeister sei, beweist auch die Geschichte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l27" custom="readingOrder {index:27;}">
+				<Coords points="190,1109 203,1109 203,1116 223,1115 244,1109 252,1109 252,1117 264,1117 265,1111 281,1111 292,1116 292,1110 304,1110 305,1116 365,1116 378,1119 378,1109 380,1109 431,1111 437,1117 453,1117 454,1111 478,1111 479,1117 507,1117 528,1125 545,1124 545,1117 564,1117 572,1120 594,1111 611,1111 617,1117 642,1118 642,1111 652,1111 665,1115 699,1117 700,1111 713,1111 713,1117 738,1115 788,1117 788,1111 836,1110 838,1116 850,1111 860,1111 874,1114 875,1120 880,1120 880,1122 874,1126 564,1128 545,1130 534,1130 190,1125" />
+				<Baseline points="190,1125 880,1126" />
+				<TextEquiv index="1">
+					<Unicode>des Löschwesens. Nachdem „aus Unachtsamkeit und Nicht-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l28" custom="readingOrder {index:28;}">
+				<Coords points="190,1141 221,1136 223,1142 243,1142 244,1135 256,1135 256,1143 279,1141 335,1142 360,1144 361,1137 370,1137 388,1143 407,1140 465,1139 474,1137 486,1137 487,1143 546,1140 590,1145 591,1138 625,1138 636,1143 636,1137 648,1137 649,1145 679,1138 714,1138 726,1143 727,1137 739,1137 747,1143 792,1140 822,1140 840,1142 847,1136 859,1136 860,1143 881,1142 881,1152 560,1154 546,1146 537,1146 536,1160 524,1160 524,1154 474,1154 400,1158 336,1158 311,1153 190,1151" />
+				<Baseline points="190,1151 881,1152" />
+				<TextEquiv index="1">
+					<Unicode>aufsehen mangels guter Ordnung“ merklicher Schaden entstanden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l29" custom="readingOrder {index:29;}">
+				<Coords points="191,1167 232,1167 258,1169 259,1162 274,1162 276,1168 310,1170 322,1163 341,1163 342,1170 351,1170 362,1163 376,1163 385,1170 401,1170 402,1164 407,1164 408,1171 502,1170 512,1164 539,1164 539,1170 615,1169 640,1171 641,1164 653,1164 659,1169 731,1170 744,1163 757,1163 757,1170 787,1168 821,1169 822,1162 833,1162 835,1169 880,1169 880,1183 865,1183 858,1179 641,1180 630,1178 607,1184 592,1185 521,1180 520,1186 512,1186 502,1180 464,1185 453,1185 407,1180 401,1184 385,1184 376,1179 255,1178 232,1181 219,1181 212,1178 191,1177" />
+				<Baseline points="191,1177 880,1178" />
+				<TextEquiv index="1">
+					<Unicode>war, erliess die Regierung im Jahre 1492 eine neue Feuerordnung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Branddirector Nowack sprach hierauf über den Feuer-
+schutz der Stadt Chemnitz nach deren Feuerordnungen
+von 1352, 1492, 1750, 1842, 1869.
+In der Geschichte des Feuerlöschwesens Deutschlands lassen
+sich nach dem verdienstvollen Werke Fiedlers über diesen Gegen-
+stand vier Perioden unterscheiden. Die erste umfasst die Zeit
+von den ersten Anfängen obrigkeitlicher Fürsorge zur Abwendung
+von Feuersgefahr bis zur Einführung der Wasserwerke, vom 13.
+bis zu Anfang des 16. Jahrhunderts; die zweite erstreckt sich
+von da bis zur Erfindung der Schlangen und Zubringer (Ausgang
+des 17. Jahrhunderts); die dritte reicht bis zur Bildung militärisch
+organisirter Feuerwehren in Mitte unseres Jahrhunderts, und die
+vierte würde von da ab bis in die neueste Zeit gerechnet wer-
+den müssen.
+Die älteste Feuerordnung einer deutschen Stadt soll die von
+Frankfurt a. M., nach anderen die von Zürich oder die von Wien
+(1278) sein; als die älteste in Sachsen erscheint die sogenannte
+Feuernothordnung der Stadt Zwickau vom Jahre 1348. In Chem-
+nitz wurde zuerst im Jahre 1352 eine vom Redner ihrem Wort-
+laut nach mitgetheilte Feuerordnung in seltener Ausführlichkeit
+erlassen, welche unter Anderem befiehlt, dass der Bürger zum
+Feuer gehe und bestimmtes Feuergeräth mitbringe. Dass Un-
+glück der beste Lehrmeister sei, beweist auch die Geschichte
+des Löschwesens. Nachdem „aus Unachtsamkeit und Nicht-
+aufsehen mangels guter Ordnung“ merklicher Schaden entstanden
+war, erliess die Regierung im Jahre 1492 eine neue Feuerordnung</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="187,1187 881,1187 881,1368 187,1368" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="190,1187 200,1187 200,1194 265,1194 310,1189 330,1189 336,1196 347,1196 349,1189 362,1189 363,1203 382,1195 436,1196 437,1190 451,1190 451,1196 592,1196 599,1192 608,1190 623,1190 624,1196 683,1194 720,1196 725,1190 735,1190 748,1195 760,1197 761,1189 772,1189 780,1195 801,1195 815,1201 820,1189 832,1189 834,1197 866,1195 881,1196 881,1203 871,1205 748,1205 527,1211 514,1211 463,1206 310,1207 255,1204 190,1204" />
+				<Baseline points="190,1203 857,1203 881,1205" />
+				<TextEquiv index="1">
+					<Unicode>für unsere Stadt, von der vorigen insofern unterschieden, als sie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="190,1214 202,1214 227,1219 246,1214 274,1214 296,1215 296,1221 308,1218 415,1216 417,1223 430,1219 520,1222 621,1223 643,1216 654,1216 656,1222 672,1222 691,1215 705,1216 728,1221 769,1215 811,1215 819,1221 830,1221 830,1215 842,1215 859,1219 881,1221 881,1231 818,1231 759,1234 741,1234 728,1231 694,1234 654,1233 598,1238 575,1238 562,1238 256,1230 246,1229 227,1224 227,1230 190,1230" />
+				<Baseline points="190,1229 881,1231" />
+				<TextEquiv index="1">
+					<Unicode>ihre Verbote und Bestimmungen gegen die feuergefährlichsten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="189,1240 206,1240 207,1247 219,1245 246,1246 247,1240 263,1240 263,1246 293,1241 319,1241 339,1245 359,1245 360,1255 377,1248 400,1248 400,1242 411,1242 412,1248 422,1248 423,1242 435,1242 435,1249 467,1250 468,1243 473,1243 474,1250 501,1248 604,1249 618,1243 641,1243 642,1249 659,1250 660,1242 671,1242 684,1260 698,1247 775,1247 792,1249 792,1241 805,1241 806,1248 819,1248 831,1242 844,1242 851,1245 863,1247 869,1242 880,1242 880,1257 698,1257 688,1263 659,1259 531,1259 531,1265 518,1265 518,1258 507,1258 507,1250 501,1250 484,1259 293,1259 189,1256" />
+				<Baseline points="189,1255 880,1257" />
+				<TextEquiv index="1">
+					<Unicode>Gewerbe richtet, welche sie sogar zum Theil ganz aus der Stadt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="191,1266 203,1266 210,1272 284,1273 285,1267 312,1270 312,1283 256,1283 247,1283 191,1282" />
+				<Baseline points="191,1282 312,1283" />
+				<TextEquiv index="1">
+					<Unicode>hinausweist.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l4" custom="readingOrder {index:4;}">
+				<Coords points="241,1293 257,1293 296,1294 308,1299 321,1300 322,1294 335,1294 342,1300 356,1297 532,1295 548,1315 551,1295 561,1295 562,1301 599,1301 612,1294 626,1294 633,1300 644,1297 684,1299 704,1293 721,1293 729,1300 739,1299 756,1294 763,1294 764,1300 878,1299 878,1304 862,1308 862,1314 842,1314 841,1308 826,1309 800,1314 755,1310 650,1310 561,1314 553,1316 548,1316 466,1311 241,1309" />
+				<Baseline points="241,1309 878,1308" />
+				<TextEquiv index="1">
+					<Unicode>Am weitesten war man in jener Zeit in Nürnberg vorge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l5" custom="readingOrder {index:5;}">
+				<Coords points="188,1324 208,1324 209,1318 221,1318 279,1325 279,1318 281,1318 299,1325 389,1326 412,1320 426,1320 426,1327 437,1327 438,1321 452,1321 452,1327 485,1326 486,1334 511,1321 552,1321 553,1328 576,1327 577,1334 603,1320 624,1320 624,1326 646,1326 680,1320 686,1320 687,1326 710,1320 725,1320 726,1326 742,1326 743,1334 767,1320 782,1320 782,1326 867,1324 868,1318 877,1318 877,1334 747,1337 646,1336 490,1339 415,1339 412,1339 269,1337 188,1334" />
+				<Baseline points="188,1334 877,1334" />
+				<TextEquiv index="1">
+					<Unicode>schritten, wo man Leitern, Haken, Feuerschaffen, Eimer und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l6" custom="readingOrder {index:6;}">
+				<Coords points="187,1344 200,1344 200,1350 222,1345 269,1350 270,1358 289,1351 389,1352 389,1346 400,1346 415,1352 440,1347 472,1347 490,1352 497,1347 509,1347 531,1352 541,1347 554,1347 555,1353 588,1352 588,1360 607,1346 619,1346 619,1352 631,1349 646,1349 660,1353 660,1346 714,1346 714,1353 779,1352 788,1346 793,1346 805,1351 814,1345 841,1345 877,1350 877,1360 592,1364 531,1368 519,1368 270,1363 213,1360 213,1366 200,1366 200,1360 187,1360" />
+				<Baseline points="187,1360 877,1360" />
+				<TextEquiv index="1">
+					<Unicode>Spritzen, wenn auch nur Handspritzen, hatte. Ehe man in Chem-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>für unsere Stadt, von der vorigen insofern unterschieden, als sie
+ihre Verbote und Bestimmungen gegen die feuergefährlichsten
+Gewerbe richtet, welche sie sogar zum Theil ganz aus der Stadt
+hinausweist.
+Am weitesten war man in jener Zeit in Nürnberg vorge-
+schritten, wo man Leitern, Haken, Feuerschaffen, Eimer und
+Spritzen, wenn auch nur Handspritzen, hatte. Ehe man in Chem-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="397,1540 654,1540 654,1568 397,1568" />
+			<!-- line left out: id="r5l0" points="397,1549 405,1549 411,1550 418,1552 425,1549 437,1549 446,1549 459,1549 472,1549 502,1549 536,1549 536,1540 550,1540 554,1552 566,1549 574,1549 649,1549 654,1550 654,1558 574,1560 554,1560 550,1568 536,1568 536,1558 455,1561 446,1561 429,1561 418,1560 410,1560 397,1558" baseline="397,1558 654,1558" reason: differs: "hnpo" against "nitz" | Wikisource:  | next_nc_e1: hnpo digital slub-dresden de ppn30125964224
+ | german_print2_15: pdigital slub dresden de ppneO125962224
+ -->
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<SeparatorRegion id="r7">
+			<Coords points="961,641 973,641 973,1452 961,1452" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r8">
+			<Coords points="959,641 969,641 969,1472 959,1472" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r9">
+			<Coords points="964,588 987,588 987,1533 964,1533" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Der von den Kassenrevisoren ausgestellte Justificationsschein wird
+vorgelegt. Der Vorsitzende stellt Namens des Vorstandes den
+Antrag, den Beschluss der letzten Generalversammlung aufzuheben und
+einen Vorstand von 9 Mitgliedern zu ernennen. Der Antrag wird
+einstimmig angenommen.
+In den Vorstand werden gewählt: Prof. Gottschaldt, Prof.
+Lamprecht, Fabrikant Lorenz, Dr. Sammler, Dr. Scholtze, Adv.
+von Stern, Dr. Stier, Stadtrath Zipper, Dr. Zöllner. Dr. Sammler
+wird zum Vorsitzenden, Stadtrath Zipper zum Kassirer gewählt.
+Branddirector Nowack sprach hierauf über den
+Feuerschutz der Stadt Chemnitz nach deren Feuerordnungen
+von 1352, 1492, 1750, 1842, 1869.
+⟦⟧
+In der Geschichte des Feuerlöschwesens Deutschlands lassen
+sich nach dem verdienstvollen Werke Fiedlers über diesen
+Gegenstand vier Perioden unterscheiden. Die erste umfasst die Zeit
+von den ersten Anfängen obrigkeitlicher Fürsorge zur Abwendung
+von Feuersgefahr bis zur Einführung der Wasserwerke, vom 13.
+bis zu Anfang des 16. Jahrhunderts; die zweite erstreckt sich
+von da bis zur Erfindung der Schlangen und Zubringer (Ausgang
+des 17. Jahrhunderts); die dritte reicht bis zur Bildung militärisch
+organisirter Feuerwehren in Mitte unseres Jahrhunderts, und die
+vierte würde von da ab bis in die neueste Zeit gerechnet
+werden müssen.
+Die älteste Feuerordnung einer deutschen Stadt soll die von
+Frankfurt a. M., nach anderen die von Zürich oder die von Wien
+(1278) sein; als die älteste in Sachsen erscheint die sogenannte
+Feuernothordnung der Stadt Zwickau vom Jahre 1348. In
+Chemnitz wurde zuerst im Jahre 1352 eine vom Redner ihrem
+Wortlaut nach mitgetheilte Feuerordnung in seltener Ausführlichkeit
+erlassen, welche unter Anderem befiehlt, dass der Bürger zum
+Feuer gehe und bestimmtes Feuergeräth mitbringe. Dass
+Unglück der beste Lehrmeister sei, beweist auch die Geschichte
+des Löschwesens. Nachdem „aus Unachtsamkeit und
+Nichtaufsehen mangels guter Ordnung“ merklicher Schaden entstanden
+war, erliess die Regierung im Jahre 1492 eine neue Feuerordnung
+für unsere Stadt, von der vorigen insofern unterschieden, als sie
+ihre Verbote und Bestimmungen gegen die feuergefährlichsten
+Gewerbe richtet, welche sie sogar zum Theil ganz aus der Stadt
+hinausweist.
+Am weitesten war man in jener Zeit in Nürnberg
+vorgeschritten, wo man Leitern, Haken, Feuerschaffen, Eimer und
+Spritzen, wenn auch nur Handspritzen, hatte. Ehe man in
+Chemnitz
+-->
+	</Page>
+</PcGts>

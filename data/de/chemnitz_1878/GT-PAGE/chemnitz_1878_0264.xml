@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:33:45</Created>
+		<LastChange>2026-11-23T14:33:45</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/264 revision 4806158 of 2026-01-13T09:26:04Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0264.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro3181049025220757470" caption="Regions reading order">
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="217,311 243,311 243,356 217,356" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="326,1073 348,1073 348,1089 326,1089" />
+		</GraphicRegion>
+		<GraphicRegion id="r2">
+			<Coords points="306,1125 315,1125 315,1136 306,1136" />
+		</GraphicRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="212,417 860,417 860,1165 212,1165" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="217,418 236,417 245,417 262,424 265,417 279,417 298,424 298,427 279,427 245,427 227,427 217,427" />
+				<Baseline points="217,425 298,427" />
+				<TextEquiv index="1">
+					<Unicode>untersch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l1" points="254,464 257,464 267,473 269,473 782,480 821,472 823,472 823,484 821,484 782,483 267,477 254,475" baseline="254,480 268,480 823,481" reason: differs: "lieim1" against "eidet." | Wikisource:  | next_nc_e1: lie im 1 | german_print2_15: lie im I -->
+			<!-- line left out: id="r3l2" points="221,625 242,625 248,629 267,623 273,623 825,631 850,631 860,635 860,640 834,640 273,637 221,637" baseline="221,637 825,635 860,635" reason: differs: "lemX" against "ttst" | Wikisource:  | next_nc_e1: lem X wäh | german_print2_15: lem X 1 wäh -->
+			<!-- line left out: id="r3l3" points="227,712 230,712 242,713 389,703 391,703 391,717 389,717 240,716 227,715" baseline="227,715 241,715 391,717" reason: differs: "nt1" against "Art " | Wikisource:  | next_nc_e1: nt 1 | german_print2_15: nt I -->
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="214,816 221,811 230,811 242,814 261,808 271,808 289,812 289,815 277,822 242,822 221,822 214,820" />
+				<Baseline points="214,820 289,822" />
+				<TextEquiv index="1">
+					<Unicode>der Mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l5" points="225,869 238,866 263,866 263,874 238,874 225,872" baseline="225,872 263,872" reason: differs: "on" against "te n" | Wikisource:  | next_nc_e1: on | german_print2_15:  -->
+			<!-- line left out: id="r3l6" points="218,940 226,940 260,940 283,940 316,940 399,947 417,947 424,948 424,951 352,953 316,954 283,954 260,954 226,954 218,954" baseline="218,954 399,951 424,951" reason: differs: "Auss" against "zeln" | Wikisource:  | next_nc_e1: Ausserhalb d Kin | german_print2_15: Ausserhalb d- Rin -->
+			<!-- line left out: id="r3l7" points="213,1025 222,1022 234,1022 253,1022 307,1028 319,1025 568,1024 576,1024 576,1028 367,1029 321,1031 253,1033 234,1033 213,1033" baseline="213,1033 576,1033" reason: differs: "häuf" against "edoc" | Wikisource:  | next_nc_e1: häuf cht erl S | german_print2_15:  -->
+			<!-- line left out: id="r3l8" points="223,1107 228,1095 241,1095 251,1103 263,1103 282,1104 363,1112 377,1104 442,1102 450,1099 478,1099 484,1103 484,1112 478,1113 458,1113 450,1102 445,1113 442,1113 377,1107 368,1113 363,1113 260,1112 251,1111 241,1121 228,1121 223,1111" baseline="223,1111 484,1112" reason: differs: "iför" against "äche" | Wikisource:  | next_nc_e1: iförmi gr Blatt
+ | german_print2_15: iförmi⸗ gr. Blatt
+ -->
+			<!-- line left out: id="r3l9" points="263,1124 271,1124 326,1124 550,1131 557,1130 575,1130 575,1133 570,1134 550,1134 343,1132 326,1131 326,1141 280,1141 263,1138" baseline="263,1138 575,1138" reason: differs: "Auge" against "rben" | Wikisource:  | next_nc_e1: Augenbli nar | german_print2_15: Augenbli 1 nar -->
+			<!-- line left out: id="r3l10" points="212,1152 215,1152 273,1152 294,1152 300,1156 361,1150 371,1150 371,1165 361,1165 300,1159 294,1164 273,1164 236,1164 212,1163" baseline="212,1163 371,1164" reason: differs: "baum" against "selt" | Wikisource:  | next_nc_e1: baumförr P
+ | german_print2_15:  -->
+			<TextEquiv index="1">
+				<Unicode>untersch
+der Mit</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="301,1158 338,1158 338,1187 301,1187" />
+		</GraphicRegion>
+		<GraphicRegion id="r5">
+			<Coords points="300,1235 380,1235 380,1322 300,1322" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="203,1360 223,1360 223,1378 203,1378" />
+		</GraphicRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="209,1254 597,1254 597,1375 209,1375" />
+			<!-- line left out: id="r7l0" points="216,1254 268,1254 268,1265 225,1269 216,1269" baseline="216,1263 224,1263 268,1264" reason: models differ | Wikisource: die di | next_nc_e1: die di | german_print2_15: die di- -->
+			<!-- line left out: id="r7l1" points="209,1287 222,1286 232,1286 234,1292 244,1290 255,1286 279,1286 534,1287 541,1288 541,1291 303,1296 255,1296 209,1295" baseline="209,1295 541,1296" reason: differs: "anzu" against "ckst" | Wikisource:  | next_nc_e1: anzunehn Stär | german_print2_15: anzunehm Stär -->
+			<!-- line left out: id="r7l2" points="210,1309 218,1309 218,1302 231,1302 239,1307 240,1315 261,1315 264,1307 274,1307 277,1315 289,1313 298,1313 406,1314 406,1317 274,1322 264,1322 252,1321 239,1320 231,1320 231,1326 218,1326 210,1321" baseline="210,1320 297,1318 406,1318" reason: differs: "lebe" against "e de" | Wikisource:  | next_nc_e1: lebenden 1
+ | german_print2_15:  -->
+			<!-- line left out: id="r7l3" points="239,1365 248,1363 271,1363 277,1363 331,1365 339,1372 352,1371 359,1365 389,1365 439,1367 520,1366 544,1366 588,1366 595,1372 597,1372 597,1375 529,1375 520,1369 462,1375 348,1375 339,1375 248,1373 239,1372" baseline="239,1372 436,1374 520,1375 597,1376" reason: differs: "lechtu" against "zelgef" | Wikisource:  | next_nc_e1: lecht umgeben warer vährend
+ | german_print2_15: lecht umgeben warer während
+ -->
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="394,1540 658,1540 658,1568 394,1568" />
+			<!-- line left out: id="r8l0" points="394,1549 402,1549 408,1550 422,1549 434,1549 443,1549 456,1549 469,1549 499,1549 533,1549 533,1540 547,1540 551,1552 572,1550 628,1549 646,1549 658,1550 658,1558 566,1560 551,1560 547,1568 533,1568 533,1558 452,1561 443,1561 426,1561 414,1560 407,1560 394,1558" baseline="394,1558 658,1558" reason: differs: "hnpd" against "rend" | Wikisource:  | next_nc_e1: hnp digital slub-dresden dε ppn025884284
+ | german_print2_15: np digital sub dresden de ppn012396a2264
+ -->
+		</TextRegion>
+		<GraphicRegion id="r9">
+			<Coords points="952,0 978,0 978,1585 952,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Gutb. mit einfachen, ansehnlich grossen, welligen Wedeln, die
+von einem starken Mittelnerven und dichtstehenden, fast
+horizontalen Seitennerven durchzogen werden. (Aelteres Vorkommen
+bei Planitz.) 2) Taeniopteris Schenkii Sterzel, eine neue kleinere
+Species, die sich durch constant auftretende zweimalige
+Gabelung der secundären Nerven bei spitzwinkeliger Stellung
+derselben zum Mittelnerven von den bisher bekannten Arten
+unterscheidet.
+Zu den Farnblattstielen gehören 1) Medullosa elegans (s. o.),
+2) die in dem benachbarten Nebenbassin von Flöha im
+Porphyrtuff aufgefundenen Tubicaulis-Arten Cotta’s. Die so genannten
+Verkieselungen zeigen auf dem Querschnitte Blattstiele und
+Nebenwurzeln dicht verwebt. Die rundlichen Blattstiele
+enthalten entweder eine jochförmige (T), oder eine mond- oder
+C-förmige Zeichnung (Gefässbündel). Die erstere Art wird nach
+dem Vorgange Corda’s jetzt Zygopteris primaeva genannt, während
+die mit C-förmigen Gefässbündeln die Namen Selenochlaena Beichi,
+S. microrrhiza und Asterochlaena Cottai führen. Letztere Art
+enthält in der Mitte noch die fünfstrahlige Stammaxe.
+Bei weitem die meisten Farnreste unseres Rothliegenden
+sind aber Farnstämme, bekannt unter dem Namen „Staarstein“
+oder Psaronius. Bei vollständigen Exemplaren befindet sich in
+der Mitte die aus band- oder wurmförmigen Gefässbündeln
+gebildete Stammaxe („Madenstein“, „Wurmstein“), zuweilen umgeben
+von einer dunklen Scheide (Prosenchym). Diese Stammaxe wird
+eingehüllt von einer mehr oder weniger dicken Rinde, welche
+durchsetzt wird von zahlreichen abwärtslaufenden Nebenwurzeln.
+Ausserhalb der Rinde sieht man oft noch ein Geflecht freier
+Nebenwurzeln. Die Mitte einer gut erhaltenen Wurzel nimmt
+eine sternförmige Gefässsäule ein (daher „Sternstein“), die jedoch
+häufig nicht erhalten ist (dann „Staar- oder Augenstein“).
+Umgeben ist jede Wurzel von einer meist dunklen
+Prosenchymscheide. Anderwärts zeigten die Psaronien an ihrer Oberfläche
+eiförmige, zollgrosse Blattnarben.
+Augenblicklich betrachtet man die Psaronien als verkieselte
+baumförmige Polypodiaceen. (Aehnlichkeit des Baues mit den
+lebenden Dicksonia Lindeni, Saccoloma adiantoides, Pteris aquilina
+etc. Wurzeln von Diplacium giganteum.) Die dünnsten
+Holzkörper einer und derselben Art von Psaronius haben gewöhnlich
+die dickste Rinde mit den zahlreichsten Wurzeln, weswegen wohl
+anzunehmen ist, dass die Stämme der Psaronien, wie die der
+lebenden Baumfarne, sich nach dem untern Ende hin
+kegelförmig zuspitzten, gerade hier aber von dem dicksten
+Wurzelgeflecht umgeben waren, während sie weiter nach oben, in
+-->
+	</Page>
+</PcGts>

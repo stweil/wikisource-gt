@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:38:14</Created>
+		<LastChange>2026-11-23T14:38:14</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/339 revision 4814993 of 2026-01-29T07:48:15Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0339.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro12114049647702023182" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="87,224 803,224 803,382 87,382" />
+			<TextLine id="r0l0" custom="readingOrder {index:0;}">
+				<Coords points="87,228 108,233 117,225 121,225 124,232 156,231 159,225 205,225 214,231 235,226 274,226 289,230 301,228 393,227 409,225 432,225 440,229 516,231 541,224 564,224 567,230 643,230 679,232 697,224 702,224 722,224 754,224 754,230 761,230 761,239 741,239 728,237 697,239 677,235 643,244 620,244 617,244 584,237 577,239 545,241 484,238 468,244 456,244 376,240 147,240 99,239 87,237" />
+				<Baseline points="87,240 761,239" />
+				<TextEquiv index="1">
+					<Unicode>Gebäude der Industrieausstellung vom Jahre 1867, 6 Bilder.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l1" points="149,259 152,259 169,258 213,258 220,261 229,263 244,256 297,256 300,262 310,260 326,256 345,256 345,248 368,248 379,255 412,255 473,263 496,260 513,260 513,268 502,268 477,265 429,267 412,267 379,267 368,278 345,278 345,267 297,268 213,268 169,268 158,267 149,264" baseline="149,268 367,267 513,267" reason: second model: differs: "der8.w." against "er u. s" | Wikisource: Geschenk des Herrn E. Röder u. s. | next_nc_e1: Geschenk des Herrn E. Röder s. w.
+ | german_print2_15: Geschenk des Herrn E. Röder 8. w.
+ -->
+			<!-- line left out: id="r0l2" points="92,283 101,283 110,289 119,288 130,288 143,285 152,285 158,286 205,288 226,288 267,288 286,282 291,282 313,282 323,288 348,283 364,282 381,282 417,285 443,283 457,283 499,283 507,282 549,282 582,282 585,288 615,288 615,282 629,282 649,282 651,290 663,282 667,282 669,290 679,290 691,295 708,288 712,288 753,288 767,290 776,282 780,282 782,290 800,287 803,287 803,297 753,297 712,297 649,297 638,297 629,303 606,303 603,297 585,297 582,303 568,303 559,298 549,303 542,303 507,302 469,298 432,302 418,302 291,297 267,297 226,297 182,297 174,297 158,296 152,297 130,297 101,297 92,297" baseline="92,296 803,297" reason: second model: differs: "Ansi" against "s. w" | Wikisource: Ansichten verschiedener Privatgebäude: Adlerapotheke, römischer | next_nc_e1: Ansichten verschiedener Privatgebäude: Adlerapotheke, römischer | german_print2_15: Ansichten verschiedener Privatgebäude: Mllerapotheke, römischer -->
+			<!-- line left out: id="r0l3" points="114,307 128,307 136,315 143,314 156,314 172,315 189,316 195,308 200,308 210,309 215,315 229,313 233,313 243,308 255,308 257,314 260,314 262,322 282,308 315,308 320,314 341,314 355,308 360,308 364,314 373,314 387,319 387,308 442,308 446,316 457,314 466,314 525,317 536,321 563,313 573,313 609,315 635,308 638,308 642,317 653,308 657,308 660,318 663,318 678,321 691,308 707,308 717,315 720,315 736,316 744,308 747,308 751,315 759,315 759,323 751,323 744,312 736,320 720,323 678,323 640,324 594,324 573,323 566,324 532,324 466,322 457,322 442,321 389,324 376,324 315,323 265,326 255,326 243,326 200,323 172,323 156,323 128,323 114,323" baseline="114,323 759,323" reason: differs: "Neue,ch" against "Neumühl" | Wikisource:  | next_nc_e1: Kaiser (Portal), Blauer Engel, Neu e, chem. sächs. Maschi | german_print2_15: Kaiser (Portal), Blauer Engel, Neu e, chem. sächs. Maschi -->
+			<!-- line left out: id="r0l4" points="112,335 123,335 130,341 142,340 164,340 173,338 183,335 197,335 197,341 208,339 213,339 215,348 239,334 262,334 280,339 313,339 332,339 357,335 365,335 403,343 442,334 445,334 455,334 522,348 525,334 575,334 589,341 595,340 608,339 619,339 631,341 634,335 638,335 651,340 661,345 664,335 673,335 708,342 714,341 723,341 740,334 750,334 750,349 723,350 714,350 696,348 673,350 631,350 585,350 522,350 455,342 445,342 405,346 365,349 350,349 332,348 325,349 300,350 218,351 197,351 183,351 170,350 133,350 130,350 112,349" baseline="112,350 750,350" reason: differs: "baua" against "chin" | Wikisource:  | next_nc_e1: bauanstalt, Kattunfabrik von Pfl ,„Kattunfabrik von B | german_print2_15: bauanstalt, Kattunfabrik von Pfl „Kattunfabrik von B. -->
+			<TextLine id="r0l5" custom="readingOrder {index:5;}">
+				<Coords points="112,367 135,367 136,361 146,361 189,361 192,367 201,367 201,361 215,361 215,367 275,365 283,374 285,374 285,376 253,376 226,373 223,382 201,382 201,376 192,376 182,382 168,382 168,372 146,376 112,377" />
+				<Baseline points="112,376 285,376" />
+				<TextEquiv index="1">
+					<Unicode>und Schraps etc.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Gebäude der Industrieausstellung vom Jahre 1867, 6 Bilder.
+und Schraps etc.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="665,391 799,391 799,405 665,405" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="665,392 678,392 681,399 691,392 726,391 740,391 740,399 759,399 762,392 780,397 792,391 799,391 799,404 694,405 678,405 665,405" />
+				<Baseline points="665,405 799,404" />
+				<TextEquiv index="1">
+					<Unicode>Ref. Wiesbach</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Ref. Wiesbach</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="85,439 804,439 804,492 85,492" />
+			<!-- line left out: id="r2l0" points="85,442 98,442 109,447 111,441 131,441 146,445 166,446 175,441 204,441 205,447 218,445 263,442 275,442 588,446 591,440 607,440 619,449 626,440 636,440 645,446 662,445 673,445 685,440 702,440 712,448 734,448 736,440 740,440 740,450 756,446 760,446 767,448 776,439 786,439 788,447 802,444 804,444 804,446 802,446 792,453 786,455 776,455 760,454 753,455 702,455 648,455 607,455 582,455 166,455 85,455" baseline="85,455 804,454" reason: differs: "Schl" against "Tzsc" | Wikisource:  | next_nc_e1: Schloss-Chemnitz. und der Schlosskirche; | german_print2_15: Schloss-Chemnitz. und der Schlosskirche; -->
+			<!-- line left out: id="r2l1" points="111,467 115,467 179,467 201,467 201,473 213,473 222,467 245,467 251,467 310,472 349,478 418,472 473,472 497,472 538,468 547,468 558,466 572,466 572,472 581,472 612,472 623,473 623,466 663,466 663,456 706,456 727,466 739,466 740,472 751,472 751,466 765,466 794,466 794,474 802,474 802,478 794,481 727,481 706,492 663,492 663,482 581,482 547,482 538,482 473,481 427,481 418,475 352,482 304,482 251,486 236,486 201,486 138,486 126,486 111,481" baseline="111,481 802,480" reason: differs: "lith" against "rche" | Wikisource:  | next_nc_e1: lithographische und raphische Aufnahmen des Portales
+ | german_print2_15: lithographische und † raphische Aufnahmen des Portales
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="111,492 347,492 347,508 111,508" />
+			<!-- line left out: id="r3l0" points="111,493 122,493 124,501 135,499 139,499 156,501 165,493 186,493 186,501 202,500 220,498 243,498 251,492 254,492 270,501 345,498 347,498 347,507 186,508 173,508 139,507 122,508 111,508" baseline="111,505 347,507" reason: differs: "ders" against "tale" | Wikisource:  | next_nc_e1: derselben und d i
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="627,523 805,523 805,537 627,537" />
+			<!-- line left out: id="r4l0" points="627,524 640,524 647,534 653,527 665,527 672,528 714,524 718,524 730,529 730,523 742,523 760,523 786,523 787,530 796,530 805,535 805,537 803,537 760,536 742,537 730,537 665,536 636,536 627,535" baseline="627,536 714,536 805,537" reason: differs: "Mart" against "anke" | Wikisource:  | next_nc_e1: Martin Tzschucke,
+ | german_print2_15: Martin TzZschucke,
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="85,572 805,572 805,696 85,696" />
+			<!-- line left out: id="r5l0" points="91,573 99,573 106,577 145,577 154,576 164,576 176,577 229,577 256,573 274,573 393,576 416,576 429,585 461,572 477,572 479,582 481,582 517,585 587,578 610,578 613,572 623,572 626,579 630,579 694,578 717,572 729,572 731,578 758,578 766,572 770,572 770,583 784,578 805,578 805,589 796,589 729,587 694,587 673,586 630,587 514,587 462,585 461,581 432,588 429,588 416,582 416,592 393,592 384,592 381,586 346,587 314,587 280,587 256,587 181,586 145,586 99,586 91,586" baseline="91,586 368,586 805,587" reason: differs: "Ansi" against "ocke" | Wikisource:  | next_nc_e1: Ansichten von Grimma (1730), der L mühle bei Zwickau, | german_print2_15: Ansichten von Grimma (1730), der I. mühle bei Zwickau, -->
+			<!-- line left out: id="r5l1" points="111,604 122,604 139,604 166,608 166,602 225,602 226,610 249,598 269,598 300,598 309,604 319,604 319,598 332,598 343,598 374,610 486,604 490,604 494,610 505,604 642,604 664,598 668,598 679,601 693,605 694,598 721,598 723,606 735,604 745,604 750,612 775,607 790,607 790,610 779,612 753,615 750,615 721,614 709,615 694,615 668,613 633,613 584,607 579,613 494,613 486,606 377,613 300,613 269,613 229,613 180,613 139,613 137,613 122,612 111,612" baseline="111,612 790,612" reason: differs: "derk" against "ckau" | Wikisource:  | next_nc_e1: der kathol. Hofkirche u rauenkirch u Dresden, de | german_print2_15:  -->
+			<TextLine id="r5l2" custom="readingOrder {index:2;}">
+				<Coords points="111,627 133,630 143,625 153,625 162,633 177,630 221,636 239,624 254,624 261,633 278,630 293,632 293,639 223,639 153,639 122,639 111,636" />
+				<Baseline points="111,639 293,639" />
+				<TextEquiv index="1">
+					<Unicode>Grabens in Wien.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l3" points="85,679 97,677 107,677 116,676 129,676 138,682 147,682 160,685 163,676 167,676 169,690 191,680 201,680 213,683 222,687 240,678 268,678 360,681 395,688 400,688 425,689 425,682 444,682 555,683 564,677 590,677 619,677 639,677 686,677 712,682 718,683 730,685 749,677 754,677 762,685 769,678 772,678 775,684 785,684 791,678 795,678 797,684 805,684 805,693 754,695 749,695 712,693 639,693 619,693 590,693 564,693 551,686 481,692 478,692 441,684 439,692 409,692 395,691 357,683 329,692 298,696 270,696 240,692 213,691 172,692 129,692 107,692 97,692 85,688" baseline="85,691 240,691 551,692 805,693" reason: differs: "dtCIdar" against "t Chemn" | Wikisource:  | next_nc_e1: Glasbild, das Wappen der Stadt CI  darstellend, 16. Jahrh.
+ | german_print2_15: Glasbild, das Wappen der Stadt Ch z darstellend, 16. Jahrh.
+ -->
+			<TextEquiv index="1">
+				<Unicode>Grabens in Wien.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="150,707 345,707 345,720 150,720" />
+			<!-- line left out: id="r6l0" points="150,708 158,708 165,715 181,714 192,707 206,707 236,707 238,708 250,707 261,707 275,707 345,707 345,720 261,720 236,720 206,720 192,720 158,719 150,719" baseline="150,719 192,719 345,720" reason: differs: "VomS" against "ahrh" | Wikisource:  | next_nc_e1: Vom Stadtrath Ch
+ | german_print2_15: Vom Stadtrath Ch.
+ -->
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="88,734 806,734 806,753 88,753" />
+			<!-- line left out: id="r7l0" points="88,734 92,734 108,737 138,745 144,735 157,735 165,737 212,735 232,735 240,741 257,741 266,736 304,735 308,735 322,741 358,739 383,739 646,745 649,745 662,749 683,741 687,741 702,744 721,736 733,736 739,737 742,744 745,744 770,740 786,738 789,738 797,740 801,746 806,746 806,747 797,750 782,751 758,751 755,751 739,750 733,751 687,751 659,751 324,748 308,750 257,753 240,753 232,750 220,753 212,753 165,749 144,749 108,748 92,749 88,749" baseline="88,749 391,749 721,750 806,751" reason: differs: "Diea" against "ssen" | Wikisource:  | next_nc_e1: Die alten Siegel der Stadt ), 10 Bleistift-
+ | german_print2_15: Die alten Siegel der Stadt . 2 5), 10 Bleistift-
+ -->
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="88,789 798,789 798,887 88,887" />
+			<!-- line left out: id="r8l0" points="112,789 127,789 129,795 133,795 162,793 189,793 189,801 155,801 133,800 127,801 112,801" baseline="112,801 189,801" reason: differs: "Gesa" against "raph" | Wikisource:  | next_nc_e1: Gesamn | german_print2_15: Gesamm -->
+			<TextLine id="r8l1" custom="readingOrder {index:1;}">
+				<Coords points="88,818 104,818 109,830 115,824 167,824 186,827 189,818 193,818 240,823 249,831 252,819 302,819 308,831 314,824 322,819 359,819 365,825 380,825 380,819 435,821 495,821 533,826 536,833 561,820 611,825 622,833 647,820 667,820 670,826 680,826 683,832 695,820 699,820 711,829 723,826 727,826 733,829 741,820 751,820 753,826 798,826 798,834 588,835 561,823 540,837 377,834 365,828 359,834 249,834 239,831 193,833 147,832 139,839 115,839 113,832 88,832" />
+				<Baseline points="88,832 798,835" />
+				<TextEquiv index="1">
+					<Unicode>Wappen des Stadthauptmanns Pfefferkorn, † 1621. Handzeichnung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l2" custom="readingOrder {index:2;}">
+				<Coords points="89,850 93,850 116,856 139,850 143,850 153,856 169,857 188,856 188,850 190,850 220,859 227,850 230,850 286,852 360,851 391,857 416,851 455,851 457,857 467,857 470,863 489,856 500,856 503,864 527,857 571,857 605,859 605,852 635,852 638,863 661,866 661,858 672,858 677,864 683,858 694,858 697,852 706,852 716,858 726,858 734,865 736,865 736,867 694,872 683,872 661,868 623,866 619,872 605,872 605,866 441,867 416,862 367,859 360,866 139,865 116,858 93,865 89,865" />
+				<Baseline points="89,865 736,867" />
+				<TextEquiv index="1">
+					<Unicode>Der Einzug der Barfüsser in Chemnitz 1485. Lithographie.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r8l3" points="149,879 153,879 167,882 169,876 180,876 182,883 192,876 195,876 197,883 203,883 203,887 180,887 161,887 158,887 149,885" baseline="149,885 203,886" reason: differs: "Gresc" against "Gesch" | Wikisource:  | next_nc_e1: Gresche
+ | german_print2_15: Gesche
+ -->
+			<TextEquiv index="1">
+				<Unicode>Wappen des Stadthauptmanns Pfefferkorn, † 1621. Handzeichnung
+Der Einzug der Barfüsser in Chemnitz 1485. Lithographie.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="89,903 807,903 807,1143 89,1143" />
+			<!-- line left out: id="r9l0" points="89,904 120,904 146,908 176,911 180,903 188,903 262,904 283,904 285,915 322,907 417,907 422,916 511,915 520,911 541,911 558,904 583,904 587,915 594,915 594,904 608,904 610,910 621,910 737,910 758,912 777,904 788,904 790,910 806,910 806,919 788,922 777,922 737,920 733,920 621,919 608,919 520,919 397,918 365,918 363,910 349,918 322,918 155,917 134,918 109,918 89,917" baseline="89,917 322,917 653,918 806,919" reason: differs: "Erla" against "witz" | Wikisource:  | next_nc_e1: Erlass des Preuss. Oberstleutn. von Rekowsky 10. Juli | german_print2_15: Erlass des Preuss. Oberstleutn. von Rekowsky 10. Juli -->
+			<!-- line left out: id="r9l1" points="115,933 119,933 149,933 219,929 239,929 245,941 253,929 269,929 302,929 323,929 328,935 332,935 341,942 393,938 399,934 424,934 436,934 480,935 522,944 528,944 535,936 563,935 572,935 597,935 638,936 661,937 669,931 673,931 676,937 686,937 686,931 729,931 760,931 767,935 767,946 760,947 747,947 729,946 720,947 676,947 597,946 528,946 522,946 478,938 469,946 465,946 433,944 420,936 420,944 344,944 341,944 328,937 323,944 302,944 269,944 239,944 161,944 154,944 146,941 134,938 124,936 119,943 115,943" baseline="115,943 219,943 465,944 634,945 767,946" reason: differs: "1866" against "Juli" | Wikisource:  | next_nc_e1: 1866, in verkleinertem ssstab pl graphisch nachgebildet. | german_print2_15: 1866, in verkleinertem ssstab pl graphisch nachgebildet. -->
+			<!-- line left out: id="r9l2" points="93,961 102,961 109,963 117,970 124,960 135,960 140,966 150,966 164,960 167,960 175,968 178,968 206,972 217,966 221,966 243,966 280,961 305,961 327,962 357,962 388,965 450,967 547,961 551,961 566,965 621,973 632,968 641,968 662,962 666,962 676,968 678,962 692,962 697,975 703,962 715,962 716,970 728,968 731,968 742,969 742,962 744,962 777,970 783,962 793,962 801,970 807,970 807,974 793,977 744,977 731,977 701,977 678,977 676,970 666,977 621,977 551,976 343,980 331,980 327,974 320,976 280,976 243,975 206,975 202,975 167,974 150,974 102,974 93,974" baseline="93,973 177,974 807,977" reason: differs: "Abdr" against "ldet" | Wikisource:  | next_nc_e1: Abdrücke zweier Grabplatten aι Dome zu Freiberg: des | german_print2_15: Abdrücke zweier Grabplatten ar 1 Dome zu Freiberg: des -->
+			<!-- line left out: id="r9l3" points="115,986 129,986 132,994 144,992 160,992 165,994 174,1000 187,995 206,990 223,986 227,986 236,992 248,992 260,991 266,986 280,986 286,992 316,988 325,988 329,994 332,994 343,993 352,988 365,988 397,988 402,1001 521,999 528,997 543,997 566,988 579,988 589,994 600,994 609,995 613,1001 641,988 645,988 648,996 660,989 670,989 682,994 707,994 722,988 736,988 736,1003 660,1003 648,999 645,1005 641,1005 600,1003 566,1003 542,1002 405,1004 365,1004 352,1004 325,1002 316,1002 266,1001 258,998 248,1001 182,1002 174,1002 162,999 156,995 148,1001 129,1001 125,1002 115,1002" baseline="115,1001 316,1001 736,1003" reason: differs: "IHle" against ": de" | Wikisource:  | next_nc_e1: IHlerzogs Christian Albrecht, les Kurf. Johann G | german_print2_15: Herzogs Christian Albrecht, des Kurf. Johann G. -->
+			<!-- line left out: id="r9l4" points="114,1021 126,1013 129,1013 174,1017 183,1017 222,1019 222,1009 234,1009 241,1015 248,1015 273,1020 281,1009 292,1009 303,1018 306,1018 391,1018 431,1018 622,1015 641,1014 650,1014 653,1020 676,1018 686,1018 716,1018 716,1028 700,1029 670,1029 622,1029 438,1022 431,1023 369,1023 306,1027 303,1027 292,1037 281,1037 273,1027 257,1027 241,1025 234,1037 222,1037 222,1028 203,1028 174,1027 148,1027 144,1027 129,1033 126,1033 114,1026" baseline="114,1027 349,1027 716,1029" reason: differs: "(†16" against "I (†" | Wikisource:  | next_nc_e1: († 1608) und eines t geborener Kurfürst
+ | german_print2_15: (†+ 1608) und eines t geborenen ur 1 Kurfürst
+ -->
+			<!-- line left out: id="r9l5" points="92,1053 98,1053 107,1055 129,1043 133,1043 159,1043 207,1045 251,1050 261,1045 335,1045 414,1045 478,1045 479,1051 483,1051 495,1060 568,1057 604,1046 608,1046 622,1054 633,1054 636,1046 647,1046 651,1054 663,1054 666,1046 679,1046 679,1053 697,1051 703,1049 720,1049 720,1059 707,1060 694,1060 647,1060 636,1060 622,1057 604,1054 570,1060 499,1061 495,1061 479,1053 478,1061 414,1061 401,1061 399,1052 335,1057 332,1057 299,1064 261,1064 251,1059 227,1064 217,1064 207,1058 133,1058 107,1063 104,1063 92,1060" baseline="92,1058 172,1057 198,1057 720,1058" reason: differs: "34Bl" against "612)" | Wikisource:  | next_nc_e1: 34 Blatt Aquarelle, B tzeichnung id Holzschnitte | german_print2_15: 34 Blatt Aquarelle, B tzeichnung nd Iolzschnitte -->
+			<!-- line left out: id="r9l6" points="116,1071 127,1071 151,1075 165,1071 177,1071 241,1071 255,1075 255,1085 210,1087 198,1087 177,1085 116,1085" baseline="116,1085 255,1085" reason: models differ | Wikisource: keraden, Au | next_nc_e1: keraden, Au
+ | german_print2_15: keraden, Au-
+ -->
+			<!-- line left out: id="r9l7" points="91,1125 112,1125 148,1123 164,1123 251,1129 260,1129 304,1132 422,1136 424,1128 460,1128 506,1128 525,1128 530,1137 590,1137 613,1131 672,1131 703,1131 722,1124 727,1124 753,1124 765,1125 795,1128 805,1130 805,1139 778,1139 746,1143 722,1143 672,1141 627,1141 613,1141 492,1139 491,1131 455,1138 318,1138 301,1135 208,1142 180,1142 128,1137 112,1136 91,1136" baseline="91,1137 320,1137 805,1139" reason: differs: "Drei" against "fzüg" | Wikisource:  | next_nc_e1: Drei Mappen mit ca rträts fürst Personen, gelehrter
+ | german_print2_15: Drei Mappen mit ca rträts fürst r Personen, gelehrter
+ -->
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="117,1149 262,1149 262,1185 117,1185" />
+			<TextLine id="r10l0" custom="readingOrder {index:0;}">
+				<Coords points="117,1154 125,1149 151,1149 170,1154 262,1155 262,1163 240,1164 237,1164 219,1164 200,1164 166,1164 117,1163" />
+				<Baseline points="117,1162 166,1161 262,1164" />
+				<TextEquiv index="1">
+					<Unicode>und geistlicher</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r10l1" points="153,1176 164,1176 164,1185 153,1185" baseline="153,1185 164,1185" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: G
+ | german_print2_15: 6
+ -->
+			<TextEquiv index="1">
+				<Unicode>und geistlicher</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="606,1201 807,1201 807,1218 606,1218" />
+			<TextLine id="r11l0" custom="readingOrder {index:0;}">
+				<Coords points="606,1208 613,1204 672,1204 717,1208 719,1201 730,1201 765,1205 807,1206 807,1215 672,1218 606,1218" />
+				<Baseline points="606,1218 807,1215" />
+				<TextEquiv index="1">
+					<Unicode>yfried und seiner</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>yfried und seiner</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="119,1304 810,1304 810,1324 119,1324" />
+			<!-- line left out: id="r12l0" points="119,1309 130,1308 134,1308 145,1311 145,1304 167,1304 171,1311 180,1310 185,1304 197,1304 214,1309 221,1312 230,1304 261,1304 277,1311 312,1305 314,1305 406,1305 410,1311 537,1310 545,1304 555,1304 578,1304 618,1304 626,1311 633,1304 666,1304 679,1305 701,1309 716,1308 719,1308 744,1310 748,1318 767,1305 781,1305 789,1304 794,1304 797,1310 810,1310 810,1319 781,1320 748,1320 689,1319 679,1318 666,1319 578,1324 561,1324 555,1316 542,1320 537,1320 404,1317 376,1320 373,1320 312,1308 280,1314 261,1318 214,1319 201,1320 175,1320 157,1320 143,1320 130,1318 119,1314" baseline="119,1318 662,1318 810,1318" reason: differs: "Stad" against "Gatt" | Wikisource:  | next_nc_e1: Stadtrichter Vogel † 1859; Kie 1849; Karl Böttcher, Adv.
+ | german_print2_15: Stadtrichter Vogel † 1859; Kie 1849:; Karl Böttcher, Adv.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r13">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Gebäude der Industrieausstellung vom Jahre 1867, 6 Bilder.
+Geschenk des Herrn E. Röder u. s. w.
+Ansichten verschiedener Privatgebäude: Adlerapotheke, römischer
+Kaiser (Portal), Blauer Engel, Neumühle, ehem. sächs.
+Maschinenbauanstalt, Kattunfabrik von Pflugbeil, Kattunfabrik von Becker
+und Schraps etc.
+Geschenke der Herren Prof. Gottschaldt, Wedtstein, Ref. Wiesbach
+Tzschucke u. s. w.
+Schloss-Chemnitz. Ansichten des Schlosses und der Schlosskirche;
+lithographische und photographische Aufnahmen des Portales
+derselben und der Geisselsäule.
+Geschenke der Herren O. Ancke, G. Franke, Martin, Tzschucke,
+Zschocke.
+Ansichten von Grimma (1730), der Lerchenmühle bei Zwickau,
+der kathol. Hofkirche und der Frauenkirche zu Dresden, des
+Grabens in Wien.
+Glasbild, das Wappen der Stadt Chemnitz darstellend, 16. Jahrh.
+Vom Stadtrath zu Chemnitz gegen Revers überlassen.
+Die alten Siegel der Stadt Chemnitz (1290–1850), 10
+Bleistiftzeichnungen des Herrn Prof. Gottschaldt und ein photograph.
+Gesammtbild.
+Wappen des Stadthauptmanns Pfefferkorn, † 1621. Handzeichnung.
+Der Einzug der Barfüsser in Chemnitz 1485. Lithographie.
+Geschenk des Herrn Blochwitz.
+Erlass des Preuss. Oberstleutn. Gyns von Rekowsky vom 10. Juli
+1866, in verkleinertem Massstab photographisch nachgebildet.
+Abdrücke zweier Grabplatten aus dem Dome zu Freiberg: des
+Herzogs Christian Albrecht, Sohnes des Kurf. Johann Georg I
+(† 1608) und eines todtgeborenen Sohnes desselben Kurfürsten (1612).
+34 Blatt Aquarelle, Bleistiftzeichnungen und Holzschnitte:
+Maskeraden, Aufzüge, Spottbilder etc.
+Von verschiedenen Schenkgebern, u. a. von Herrn O. Arndt.
+Drei Mappen mit ca. 200 Porträts fürstlicher Personen, gelehrter
+und geistlicher Herren u. s. w.
+Geschenk des Herrn Geh. Hofrath Kohl (†).
+Brustbilder des Chemnitzer Bürgermeisters Seyfried und seiner
+Gattin, auf Metall gemalt, aus dem Jahre 1693.
+Geschenk des Herrn Aug. Trübenbach.
+Porträts städtischer Beamter und politischer Persönlichkeiten:
+Stadtrichter Vogel † 1859; Kieselhausen 1849; Karl Böttcher, Adv.
+und Landtagsabg., † 1849, 8. Mai; Franz Xaver Rewitzer † 1869.
+Geschenke der Herren Pommer, Schellenberger, Stadtr. Zipper.
+-->
+	</Page>
+</PcGts>

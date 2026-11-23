@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:49:12</Created>
+		<LastChange>2026-11-23T13:49:12</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/91 revision 5069825 of 2026-10-06T22:44:36Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0091.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro5605515896221251802" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="131,200 785,200 785,508 131,508" />
+			<!-- line left out: id="r0l0" points="161,213 169,210 174,210 210,211 252,211 258,205 268,205 272,212 286,211 296,211 299,218 332,204 347,204 370,209 398,210 412,211 412,204 423,204 447,204 449,209 469,203 490,203 491,209 505,209 532,209 552,202 560,202 560,208 579,208 596,202 619,202 638,206 654,208 656,201 664,201 664,207 688,207 688,201 701,201 701,207 725,207 774,207 775,200 785,200 785,216 774,217 608,218 569,218 505,219 447,220 433,220 398,219 370,219 354,220 268,220 252,221 210,221 174,221 164,222 161,222" baseline="161,221 332,219 448,218 596,217 785,216" reason: differs: "iter" against "="ve" | Wikisource:  | next_nc_e1: iterfranken. Historischer Verein für Unterfranken und | german_print2_15: terfranken. Historischer Verein für Unterfranken und -->
+			<!-- line left out: id="r0l1" points="260,233 274,233 284,239 290,231 300,231 302,238 312,235 330,235 356,231 360,231 401,231 402,243 405,243 427,250 430,230 454,230 475,235 482,230 495,230 503,236 515,235 534,233 545,233 587,229 595,228 613,228 621,234 640,229 644,229 713,229 735,232 742,238 749,228 773,228 784,232 784,243 775,243 767,249 749,249 747,239 735,242 723,242 722,249 713,249 713,241 700,243 684,246 665,246 613,244 565,244 534,245 515,245 495,244 475,245 441,248 431,252 427,252 401,247 376,247 354,246 330,246 274,247 260,247" baseline="260,247 404,245 695,242 784,243" reason: differs: "Asch" against "n un" | Wikisource:  | next_nc_e1: Aschaffenburg. Jahresbericht. Würzburg 1876—81. | german_print2_15: Aschaffenburg. Jahresbericht. Würzburg 1876 — 81. -->
+			<!-- line left out: id="r0l2" points="216,259 225,259 246,263 247,257 318,256 331,256 332,262 362,262 363,256 368,256 371,262 396,262 422,261 430,260 462,260 463,266 482,266 489,260 511,260 511,271 462,271 450,276 441,276 440,268 427,271 405,273 396,273 362,272 257,273 232,273 216,273" baseline="216,273 256,272 422,271 511,271" reason: differs: "Arch" against "⟧ | " | Wikisource:  | next_nc_e1: Arch Würzburg 1876–81. | german_print2_15:  -->
+			<TextLine id="r0l3" custom="readingOrder {index:3;}">
+				<Coords points="210,288 221,284 232,284 240,291 254,289 276,289 282,291 288,283 299,283 306,287 318,290 332,282 343,282 351,290 363,290 377,282 390,282 396,288 445,288 448,282 452,282 474,287 508,289 532,287 563,282 580,283 599,280 606,280 606,287 631,286 639,280 650,280 651,287 721,286 737,280 749,279 761,279 769,286 785,286 785,300 769,300 748,296 695,295 548,296 497,301 486,301 474,297 221,299 210,296" />
+				<Baseline points="210,299 785,295" />
+				<TextEquiv index="1">
+					<Unicode>Geschichte des Bauernkrieges in Ostfranken von Mag.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l4" points="261,309 266,309 275,316 282,315 291,315 326,315 341,308 363,308 364,314 374,314 380,316 392,317 392,308 394,308 444,308 446,314 466,314 466,308 481,308 484,314 535,312 541,310 553,310 575,309 591,309 591,317 599,317 602,309 612,309 625,312 625,322 615,322 602,319 591,318 591,328 575,328 575,321 563,321 562,328 553,328 553,321 540,323 520,324 394,324 374,324 291,324 266,324 261,324" baseline="261,324 393,323 625,322" reason: differs: "876—81." against "876–81." | Wikisource:  | next_nc_e1: Lorenz Fries. Würzburg 1876—81. | german_print2_15: Lorenz Fries. Würzburg 1876— 81. -->
+			<!-- line left out: id="r0l5" points="131,337 140,337 147,345 154,343 172,342 183,342 192,344 195,336 200,336 203,344 219,342 221,330 234,330 234,343 242,343 300,334 315,334 317,341 321,341 325,348 343,340 359,340 369,342 369,350 353,354 343,354 242,351 234,351 234,361 221,361 221,351 200,351 183,351 159,351 150,350 131,350" baseline="131,351 328,349 343,349 369,350" reason: differs: "Vora" against ""2" " | Wikisource:  | next_nc_e1: Vorarlberg. Nr. 46. | german_print2_15: Vorarlberg. Nr. 46. -->
+			<TextLine id="r0l6" custom="readingOrder {index:6;}">
+				<Coords points="133,363 231,363 270,367 272,374 291,360 305,360 308,367 320,367 343,373 367,373 367,376 361,381 343,381 231,377 133,376" />
+				<Baseline points="133,377 367,376" />
+				<TextEquiv index="1">
+					<Unicode>Wartburg. S. Nr. 153.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l7" points="133,389 149,389 158,396 161,389 176,389 248,394 256,401 288,387 303,387 306,393 311,393 321,391 332,391 355,393 369,394 376,387 387,387 389,395 401,393 423,386 442,386 445,392 455,392 503,388 507,388 529,391 545,385 556,385 557,392 567,392 576,394 592,385 613,385 621,391 638,391 662,391 663,385 675,385 677,391 712,391 729,385 737,384 749,384 751,392 762,388 777,388 779,394 785,394 785,396 777,400 737,400 712,401 662,403 650,403 638,400 625,401 567,401 477,401 463,400 455,402 445,402 432,401 404,402 387,402 355,402 311,402 259,403 199,404 176,404 161,404 149,403 133,403" baseline="133,403 288,402 485,401 711,400 785,400" reason: differs: "West" against "⟦⟧ |" | Wikisource:  | next_nc_e1: Westf n. Historischer Verein für das Herzogthum West- | german_print2_15: Westſ n. Historischer Verein für das Herzogthum West- -->
+			<!-- line left out: id="r0l8" points="261,418 265,418 277,420 280,413 284,413 286,421 298,419 351,416 358,413 369,413 371,420 382,417 402,417 411,413 413,413 503,418 514,419 516,412 527,412 528,419 540,418 553,418 583,411 598,411 606,417 617,417 619,411 636,411 638,419 647,419 671,412 679,411 698,411 700,418 714,415 723,410 734,410 746,411 765,416 771,417 785,420 785,426 720,427 714,427 698,426 680,427 636,427 527,427 514,428 413,429 369,429 307,429 284,429 261,429" baseline="261,429 351,428 492,427 671,426 785,426" reason: differs: "fale" against "m We" | Wikisource:  | next_nc_e1: falen Blätter z nähern Kunde Westfalens. | german_print2_15: falen Blätter 2 nähern Kunde Westfalens. -->
+			<TextLine id="r0l9" custom="readingOrder {index:9;}">
+				<Coords points="261,440 272,439 284,439 292,447 315,445 339,448 341,439 349,439 349,455 315,455 284,455 272,455 261,453" />
+				<Baseline points="261,455 349,455" />
+				<TextEquiv index="1">
+					<Unicode>Meschede</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l10" points="134,467 149,467 158,473 164,472 185,470 189,470 199,471 232,467 245,467 249,474 259,474 259,467 274,467 297,472 310,465 330,465 332,471 353,469 366,469 390,471 399,465 410,465 411,472 423,471 428,471 448,471 462,473 470,465 474,465 476,472 491,472 500,464 518,464 518,470 526,470 538,471 544,464 566,464 574,471 584,471 587,464 597,464 599,470 604,470 615,472 617,464 622,464 624,470 633,470 633,464 646,464 655,467 659,472 673,466 678,466 699,469 708,463 721,463 722,469 745,469 753,462 763,462 765,470 777,470 785,472 785,474 763,478 745,478 699,479 655,479 646,481 633,481 604,479 573,481 557,481 544,481 526,480 518,481 505,481 491,480 448,480 441,482 431,482 366,480 326,480 297,482 274,482 259,482 245,481 189,481 134,481" baseline="134,481 296,480 785,477" reason: differs: "Würt" against "1877" | Wikisource:  | next_nc_e1: Württemberg. Württembergische Vierteljahrshefte für Landes- | german_print2_15: Württemberg. Württembergische Vierteljahrshefte für Landes- -->
+			<!-- line left out: id="r0l11" points="264,499 281,499 295,500 302,492 313,492 319,497 325,500 332,491 343,491 356,495 364,491 366,491 412,492 440,495 484,492 486,492 533,494 544,493 553,493 592,494 605,495 605,505 589,505 582,505 544,503 534,498 533,504 520,506 486,508 451,508 442,508 412,507 401,508 394,508 319,507 302,507 283,505 271,504 264,502" baseline="264,507 515,505 605,505" reason: differs: "gesc" against "Land" | Wikisource:  | next_nc_e1: geschichte. Stuttgart. 1878 —81.
+ | german_print2_15: geschichte. Stuttgart. 1878— 81.
+ -->
+			<TextEquiv index="1">
+				<Unicode>Geschichte des Bauernkrieges in Ostfranken von Mag.
+Wartburg. S. Nr. 153.
+Meschede</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="213,517 711,517 711,534 213,534" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="213,518 217,518 228,524 237,518 240,518 242,531 268,524 350,524 370,517 375,517 441,524 456,523 482,517 493,517 511,521 521,517 523,517 570,519 581,521 609,520 621,523 636,522 644,519 700,520 711,523 711,531 683,529 670,531 621,532 499,532 489,519 487,532 441,534 432,534 370,533 348,527 345,533 308,534 300,534 213,533" />
+				<Baseline points="213,533 648,530 711,531" />
+				<TextEquiv index="1">
+					<Unicode>Erklärung zur Peutinger Tafel. Stuttgart 1866.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Erklärung zur Peutinger Tafel. Stuttgart 1866.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r2">
+			<Coords points="0,0 1000,0 1000,1565 0,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+| style="text-align:right; vertical-align:top; width:40px" | 220.⟦⟧
+| style="vertical-align:top;" | Unterfranken.
+| Historischer Verein für Unterfranken und Aschaffenburg. Jahresbericht. Würzburg 1876–81.
+| style="text-align:right; vertical-align:top;" | 221.⟦⟧
+|
+| Archiv. Würzburg 1876–81.
+| style="text-align:right; vertical-align:top;" | 222.⟦⟧
+|
+| Geschichte des Bauernkrieges in Ostfranken von Mag. Lorenz Fries. Würzburg 1876–81.
+| style="text-align:right; vertical-align:top;" | 225.⟦⟧
+| colspan="2" | Vorarlberg. S. Nr. 46.
+| style="text-align:right; vertical-align:top;" | 226.⟦⟧
+| colspan="2" | Wartburg. S. Nr. 153.
+| style="text-align:right; vertical-align:top;" | 227.⟦⟧
+| style="vertical-align:top;" | Westfalen.
+| Historischer Verein für das Herzogthum Westfalen. Blätter zur nähern Kunde Westfalens. Meschede 1877–81.
+| style="text-align:right; vertical-align:top;" | 231.⟦⟧
+| style="vertical-align:top;" | Württemberg.
+| Württembergische Vierteljahrshefte für Landesgeschichte. Stuttgart. 1878–81.
+| style="text-align:right; vertical-align:top;" | 233.⟦⟧
+|
+| Erklärung zur Peutinger Tafel. Stuttgart 1866.
+-->
+	</Page>
+</PcGts>

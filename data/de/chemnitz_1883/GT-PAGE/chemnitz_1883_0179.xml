@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:54:28</Created>
+		<LastChange>2026-11-23T13:54:28</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/179 revision 5066575 of 2026-09-28T06:43:38Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0179.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro3347570685270437635" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="73,422 135,422 135,432 73,432" />
+			<!-- line left out: id="r0l0" points="73,422 77,422 106,423 118,422 129,422 135,423 135,431 129,432 106,432 81,432 73,424" baseline="73,432 135,430" reason: differs: "früh" against "unve" | Wikisource:  | next_nc_e1: frühere
+ | german_print2_15: frühere
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="78,442 152,442 152,458 78,458" />
+			<!-- line left out: id="r1l0" points="78,451 84,449 94,449 104,453 105,442 116,442 119,449 142,449 152,452 152,455 142,457 122,458 119,458 94,457 78,457" baseline="78,457 152,455" reason: differs: "ausd" against "rken" | Wikisource:  | next_nc_e1: ausdrüch
+ | german_print2_15: ausdrüch
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="517,206 783,206 783,535 517,535" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="565,215 587,213 596,216 612,206 617,206 627,212 781,211 781,221 710,221 650,221 617,221 587,221 565,221" />
+				<Baseline points="565,221 781,221" />
+				<TextEquiv index="1">
+					<Unicode>das Lyeum in einem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l1" points="547,233 556,233 562,240 570,238 584,238 600,240 602,232 613,232 649,232 656,240 660,232 673,232 673,238 702,238 703,232 715,232 715,240 729,238 745,238 747,232 757,232 759,239 770,236 780,236 780,247 729,248 673,248 660,248 649,246 628,248 584,248 570,248 556,247 547,247" baseline="547,248 583,247 780,247" reason: differs: "Vond" against "verw" | Wikisource:  | next_nc_e1: Von der Versunkenheit | german_print2_15: Von der Versunkenheit -->
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="517,265 540,265 547,268 563,258 598,258 600,266 686,264 687,258 702,258 710,265 770,264 772,258 781,258 781,273 667,273 665,279 653,279 652,270 630,275 598,273 517,274" />
+				<Baseline points="517,274 781,273" />
+				<TextEquiv index="1">
+					<Unicode>hes Tode gesprochen und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="585,290 595,290 615,284 626,284 628,293 639,290 648,290 663,296 668,284 680,284 760,290 782,290 782,300 717,300 700,302 689,302 626,299 585,300" />
+				<Baseline points="585,300 782,300" />
+				<TextEquiv index="1">
+					<Unicode>in den allgemeinen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="605,317 635,319 637,310 648,310 656,316 713,316 722,310 733,310 735,316 746,314 759,314 782,317 782,326 759,326 700,326 662,326 656,326 632,325 605,321" />
+				<Baseline points="605,325 782,326" />
+				<TextEquiv index="1">
+					<Unicode>g der erwähnten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l5" points="621,345 635,343 641,342 665,342 691,341 717,336 722,336 736,337 758,337 760,343 770,343 783,345 783,350 770,352 722,352 621,352" baseline="621,352 717,351 783,351" reason: differs: "samk" against "Subs" | Wikisource:  | next_nc_e1: samkeit Rothes | german_print2_15: samkeit Rothes -->
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="601,370 657,369 661,363 673,363 674,370 695,369 697,376 725,362 731,362 759,363 761,369 783,368 783,378 611,379 601,379" />
+				<Baseline points="601,377 783,378" />
+				<TextEquiv index="1">
+					<Unicode>geworben. Daher</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l7" points="603,395 608,395 629,396 637,399 640,389 649,389 697,395 708,395 731,395 749,388 760,388 762,395 782,395 782,404 760,404 708,406 697,406 629,404 626,404 603,403" baseline="603,403 782,404" reason: differs: "verd" against "wurd" | Wikisource:  | next_nc_e1: verde gen den
+ | german_print2_15: werde gen den
+ -->
+			<!-- line left out: id="r2l8" points="597,419 608,419 625,422 642,415 654,415 672,420 680,415 700,415 702,421 716,421 718,415 730,415 737,421 748,420 760,420 782,421 782,431 747,431 716,431 702,431 672,430 608,430 597,430" baseline="597,430 782,430" reason: differs: "derS" against "ss e" | Wikisource:  | next_nc_e1: der Subskribenten | german_print2_15: der Subskribenten -->
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="607,441 611,441 633,445 641,441 657,441 667,448 689,447 693,441 704,441 712,447 724,445 771,447 773,441 782,441 782,456 771,457 704,457 657,457 611,457 607,457" />
+				<Baseline points="607,457 782,457" />
+				<TextEquiv index="1">
+					<Unicode>Dankbarkeit und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="674,472 690,472 744,467 754,467 756,473 782,473 782,483 756,483 697,483 679,483 674,477" />
+				<Baseline points="674,483 782,483" />
+				<TextEquiv index="1">
+					<Unicode>eit. Wenn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="636,500 668,500 693,503 695,494 706,494 710,502 718,502 725,494 735,494 753,501 759,494 770,494 772,500 780,500 780,509 735,509 706,509 668,509 652,509 636,508" />
+				<Baseline points="636,509 780,509" />
+				<TextEquiv index="1">
+					<Unicode>war doch der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="700,520 714,520 717,526 722,526 742,519 751,519 753,526 782,526 782,535 700,535" />
+				<Baseline points="700,535 782,535" />
+				<TextEquiv index="1">
+					<Unicode>Kraftan-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>das Lyeum in einem
+hes Tode gesprochen und
+in den allgemeinen
+g der erwähnten
+geworben. Daher
+Dankbarkeit und
+eit. Wenn
+war doch der
+Kraftan-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="573,578 783,578 783,642 573,642" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="629,581 641,578 658,578 704,584 705,578 722,578 754,578 759,578 783,578 783,588 759,588 741,590 725,590 670,586 647,588 629,584" />
+				<Baseline points="629,587 783,588" />
+				<TextEquiv index="1">
+					<Unicode>eines jüngeren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="581,598 586,598 617,605 718,605 718,599 738,599 755,605 782,604 782,614 683,614 644,614 586,614 581,614" />
+				<Baseline points="581,614 782,614" />
+				<TextEquiv index="1">
+					<Unicode>Dass man sich am</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="573,630 634,630 667,632 672,638 700,625 704,625 706,631 717,629 780,631 780,640 667,642 658,642 644,640 600,639 592,634 589,640 579,640 573,633" />
+				<Baseline points="573,639 780,640" />
+				<TextEquiv index="1">
+					<Unicode>zurückzog, hatte er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>eines jüngeren
+Dass man sich am
+zurückzog, hatte er</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="561,651 783,651 783,672 561,672" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="561,655 582,657 603,651 616,651 634,655 653,662 661,659 674,657 710,656 736,651 747,651 748,658 765,657 772,654 783,654 783,666 772,666 765,672 760,672 748,665 736,662 721,671 710,671 657,665 561,666" />
+				<Baseline points="561,666 783,666" />
+				<TextEquiv index="1">
+					<Unicode>den Rat vom 4. Sept.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>den Rat vom 4. Sept.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="532,677 784,677 784,719 532,719" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="558,677 570,677 572,685 584,682 641,682 677,684 696,689 698,683 748,685 750,677 760,677 761,683 776,683 784,685 784,690 776,692 729,694 717,694 624,692 612,690 604,686 601,692 591,692 584,684 570,692 558,692" />
+				<Baseline points="558,692 784,692" />
+				<TextEquiv index="1">
+					<Unicode>Befürchtung aus, dass</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l1" points="532,711 544,709 552,706 561,706 617,707 661,704 665,704 667,710 702,710 710,709 721,709 748,709 756,703 767,703 769,709 783,709 783,719 708,719 685,719 617,718 594,718 535,716 532,716" baseline="532,716 783,718" reason: differs: "erdeauf" against "r das h" | Wikisource:  | next_nc_e1: erde auf sich anwenden
+ | german_print2_15: erde auf sich anwenden
+ -->
+			<TextEquiv index="1">
+				<Unicode>Befürchtung aus, dass</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="563,733 673,733 673,745 563,745" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="563,733 568,733 579,735 602,735 618,741 623,735 652,737 673,736 673,745 665,745 643,742 634,744 602,745 592,745 563,744" />
+				<Baseline points="563,744 673,745" />
+				<TextEquiv index="1">
+					<Unicode>tzen lassen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>tzen lassen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="521,807 784,807 784,901 521,901" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="562,808 566,808 571,816 614,814 614,808 628,808 629,814 672,815 692,807 698,807 698,815 705,815 712,807 716,807 719,813 730,813 751,808 763,808 764,814 784,813 784,823 749,823 730,823 698,823 628,823 579,823 571,823 562,822" />
+				<Baseline points="562,823 784,823" />
+				<TextEquiv index="1">
+					<Unicode>Lessing so schreiben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l1" custom="readingOrder {index:1;}">
+				<Coords points="521,840 531,840 534,834 538,834 541,841 557,840 564,838 594,840 683,840 707,839 728,834 741,834 755,845 760,839 774,836 783,836 783,849 725,849 683,849 608,849 568,849 564,849 557,842 550,849 521,849" />
+				<Baseline points="521,849 783,849" />
+				<TextEquiv index="1">
+					<Unicode>nheit war er niemals auf</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l2" custom="readingOrder {index:2;}">
+				<Coords points="550,866 562,866 608,860 612,860 616,867 624,867 632,860 643,860 644,866 655,866 667,860 678,860 704,866 784,865 784,875 748,874 715,878 704,878 655,875 550,875" />
+				<Baseline points="550,875 784,875" />
+				<TextEquiv index="1">
+					<Unicode>rauf bedacht gewesen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l3" custom="readingOrder {index:3;}">
+				<Coords points="545,894 567,890 584,892 587,886 597,886 600,894 608,886 620,886 620,893 626,893 626,901 597,901 557,901 545,898" />
+				<Baseline points="545,901 626,901" />
+				<TextEquiv index="1">
+					<Unicode>erfüllen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Lessing so schreiben
+nheit war er niemals auf
+rauf bedacht gewesen
+erfüllen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="520,969 787,969 787,1119 520,1119" />
+			<!-- line left out: id="r8l0" points="532,975 549,969 554,969 557,977 569,975 586,975 633,969 636,969 665,972 670,977 677,969 691,969 699,975 706,973 719,973 735,973 741,969 760,969 762,976 774,975 779,975 783,982 785,982 785,984 760,984 735,984 719,984 665,984 569,984 557,982 549,980 532,979" baseline="532,984 785,984" reason: differs: "nder" against "II. " | Wikisource:  | next_nc_e1: ndern h Schriftsteller. | german_print2_15: ndern h Schriftsteller. -->
+			<TextLine id="r8l1" custom="readingOrder {index:1;}">
+				<Coords points="543,1003 554,999 560,999 561,1008 571,1002 627,1001 629,995 662,995 686,995 704,995 705,1001 736,1000 754,1006 766,995 778,995 781,1005 786,1005 786,1006 778,1010 717,1010 565,1010 554,1010 543,1007" />
+				<Baseline points="543,1010 786,1010" />
+				<TextEquiv index="1">
+					<Unicode>etzer und Erklärer alt-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l2" custom="readingOrder {index:2;}">
+				<Coords points="595,1026 668,1027 685,1029 692,1021 696,1021 698,1027 786,1027 786,1036 663,1036 622,1034 620,1041 602,1041 595,1036" />
+				<Baseline points="595,1036 786,1036" />
+				<TextEquiv index="1">
+					<Unicode>1770 erschien sein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l3" custom="readingOrder {index:3;}">
+				<Coords points="537,1053 577,1055 588,1060 604,1052 638,1052 657,1054 659,1046 670,1046 678,1052 702,1053 704,1047 715,1047 718,1053 739,1053 756,1047 767,1047 774,1053 787,1053 787,1062 653,1061 638,1067 610,1067 588,1063 537,1062" />
+				<Baseline points="537,1062 787,1061" />
+				<TextEquiv index="1">
+					<Unicode>miae, 1777 der über das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l4" custom="readingOrder {index:4;}">
+				<Coords points="520,1078 531,1078 562,1073 571,1073 573,1080 595,1077 617,1081 624,1073 629,1073 631,1079 641,1079 658,1078 675,1072 680,1072 717,1073 719,1079 743,1078 762,1080 762,1072 774,1072 781,1079 787,1079 787,1086 774,1088 562,1088 558,1094 554,1094 549,1084 531,1093 520,1093" />
+				<Baseline points="520,1088 787,1086" />
+				<TextEquiv index="1">
+					<Unicode>prophetischen Bücher des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r8l5" points="528,1107 540,1099 549,1099 568,1105 587,1103 614,1099 636,1099 639,1105 655,1104 664,1102 670,1102 728,1104 763,1105 763,1098 774,1098 776,1105 787,1105 787,1111 774,1114 740,1117 704,1119 692,1119 691,1113 636,1113 598,1114 540,1114 528,1110" baseline="528,1114 757,1113 787,1113" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ch mit Übertragung des
+ | german_print2_15: ch mit UÜbertragung des
+ -->
+			<TextEquiv index="1">
+				<Unicode>etzer und Erklärer alt-
+1770 erschien sein
+miae, 1777 der über das
+prophetischen Bücher des</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="591,1160 787,1160 787,1258 591,1258" />
+			<!-- line left out: id="r9l0" points="616,1170 622,1165 632,1164 650,1163 659,1161 668,1161 709,1160 716,1160 733,1162 757,1165 757,1173 753,1173 733,1172 716,1173 709,1173 680,1172 668,1171 655,1172 625,1172 616,1172" baseline="616,1172 740,1171 757,1173" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: irz 1809: Das e | german_print2_15: ärz 1809: Das e -->
+			<!-- line left out: id="r9l1" points="600,1184 604,1184 627,1183 636,1183 674,1185 690,1187 692,1180 706,1180 708,1186 724,1183 732,1181 744,1181 767,1185 783,1186 787,1189 787,1190 784,1190 783,1198 768,1198 757,1194 711,1193 674,1193 645,1193 638,1193 614,1192 611,1192 600,1187" baseline="600,1193 787,1193" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: tände zu der Gering- | german_print2_15: tände zu der Gering- -->
+			<!-- line left out: id="r9l2" points="661,1201 665,1201 667,1207 677,1206 708,1201 722,1201 730,1207 738,1205 742,1205 769,1206 787,1207 787,1214 769,1218 759,1218 722,1214 665,1214 661,1214" baseline="661,1214 721,1213 730,1213 787,1214" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: len und steigen | german_print2_15: len und steigen -->
+			<!-- line left out: id="r9l3" points="665,1223 686,1223 728,1227 735,1228 748,1222 757,1222 759,1228 769,1227 787,1227 787,1235 706,1235 679,1235 665,1235" baseline="665,1235 787,1235" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Aber es kann | german_print2_15: Aber es kann -->
+			<!-- line left out: id="r9l4" points="591,1247 615,1245 619,1245 652,1246 663,1251 664,1243 668,1243 676,1246 682,1253 696,1253 732,1254 745,1248 787,1248 787,1256 766,1256 732,1258 729,1258 664,1256 634,1255 623,1255 604,1254 596,1254 591,1250" baseline="591,1254 615,1254 787,1255" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: en Gestalt.  …, wenn
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="607,1263 788,1263 788,1279 607,1279" />
+			<!-- line left out: id="r10l0" points="607,1266 614,1263 618,1263 628,1268 638,1263 649,1263 649,1269 655,1269 708,1264 718,1264 788,1269 788,1276 759,1279 750,1279 718,1277 655,1279 638,1279 614,1276 607,1275" baseline="607,1276 788,1276" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: thätig annehmen, zu
+ | german_print2_15: thätig annchmen, zu
+ -->
+		</TextRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="750,1313 789,1313 789,1323 750,1323" />
+			<!-- line left out: id="r11l0" points="750,1313 773,1313 777,1314 783,1317 789,1320 789,1323 773,1323 763,1323 750,1322" baseline="750,1322 789,1323" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: offie.
+ | german_print2_15: offie.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r12">
+			<Coords points="0,0 1000,0 1000,1565 0,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+unverkennbar zu verstehn, dass er das Lyeum in einem
+verwahrlosten Zustande übernommen habe. Von der Versunkenheit
+desselben hatte auch Lessing noch vor Rothes Tode gesprochen und
+deren Ursache nicht in sich gefunden, sondern in den allgemeinen
+Zeitverhältnissen. In der That wäre der Erfolg der erwähnten
+Subskription undenkbar, hätte die 30jährige Wirksamkeit Rothes
+und Lessings der Schule nicht zahlreiche Freunde geworben. Daher
+wurde auch bei jener Veranlassung keine Beschwerde gegen den
+früheren Rektor laut,⟦⟧ vielmehr erklärte einer der Subskribenten
+ausdrücklich, dass er den Beitrag zeichne aus Dankbarkeit und
+freundlicher Erinnerung der im Lyceum verbrachten Zeit. Wenn
+auch sicherlich gewissenhaft und treu bis zuletzt, war doch der
+greise Lessing zu Feuereifer und ausserordentlichen
+Kraftanstrengungen nicht mehr fähig. Um die Schule unter den schwierigsten
+Verhältnissen emporzubringen, dazu bedurfte es eines jüngeren
+Mannes und besonders eines neuen Namens. Dass man sich am
+Ende teilnamlos und kaltsinnig von Lessing zurückzog, hatte er
+aber nicht verdient. In einem Schreiben an den Rat vom 4. Sept.
+1829 sprach Becher die freilich unbegründete Befürchtung aus, dass
+er das horazische turpem degere senectam werde auf sich anwenden
+müssen und auf seinen Grabstein die Verse setzen lassen:
+Artes tradebam totius tempore vitae
+Et, quae sunt mundi praemia, pauper eram.
+Mit besserem Rechte jedenfalls hätte Lessing so schreiben
+können, aber in liebenswürdiger Bescheidenheit war er niemals auf
+Belohnungen ausgegangen, sondern nur darauf bedacht gewesen
+seinen Lebensberuf nach besten Kräften zu erfüllen.
+II.
+Doch Lessing war nicht nur Lehrer, sondern auch Schriftsteller.
+In seinen ersten Werken tritt er als Übersetzer und Erklärer
+alttestamentlicher Bücher vor die Öffentlichkeit. 1770 erschien sein
+lateinischer Kommentar der Klagelieder Jeremiae, 1777 der über das
+Hohe Lied Salomonis und 1780 über die prophetischen Bücher des
+Jona und Nahum,⟦⟧ die ersten 2 zugleich mit Übertragung des
+-->
+	</Page>
+</PcGts>

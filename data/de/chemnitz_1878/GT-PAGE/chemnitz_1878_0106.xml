@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:22:13</Created>
+		<LastChange>2026-11-23T14:22:13</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/106 revision 4776260 of 2026-01-04T07:48:55Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0106.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro477904415490905936" caption="Regions reading order">
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="15" regionRef="r15" />
+				<RegionRefIndexed index="16" regionRef="r16" />
+				<RegionRefIndexed index="17" regionRef="r17" />
+				<RegionRefIndexed index="19" regionRef="r19" />
+				<RegionRefIndexed index="30" regionRef="r30" />
+				<RegionRefIndexed index="32" regionRef="r32" />
+				<RegionRefIndexed index="34" regionRef="r34" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 1000,0 1000,374 0,374" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,374 22,374 22,415 0,415" />
+		</GraphicRegion>
+		<GraphicRegion id="r2">
+			<Coords points="0,415 974,415 974,634 0,634" />
+		</GraphicRegion>
+		<GraphicRegion id="r3">
+			<Coords points="0,467 22,467 22,515 0,515" />
+		</GraphicRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="564,169 585,169 585,190 564,190" />
+			<!-- line left out: id="r4l0" points="564,176 575,176 575,169 585,169 585,186 575,190 564,190" baseline="564,186 585,186" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 9⁸
+ | german_print2_15: 98
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="217,215 954,215 954,248 217,248" />
+			<!-- line left out: id="r5l0" points="217,215 232,215 247,217 260,222 288,224 288,215 290,215 328,227 354,217 360,217 369,218 416,218 417,224 448,224 478,225 505,225 546,221 567,221 567,228 578,228 596,221 610,221 611,228 660,228 678,229 684,223 694,223 696,230 708,230 726,224 740,224 740,230 752,230 790,231 799,226 830,226 831,232 854,232 878,233 887,228 899,228 915,232 951,238 954,238 954,248 951,248 915,245 900,245 867,244 831,243 799,242 740,241 696,240 678,239 667,238 660,244 648,244 635,239 611,238 602,244 596,244 578,234 567,237 546,237 511,236 505,242 491,242 491,236 466,241 450,241 448,234 402,234 360,233 354,233 290,232 260,232 252,232 217,231" baseline="217,230 289,231 385,233 577,237 726,240 954,245" reason: differs: "se.—Die" against "e. – Di" | Wikisource:  | next_nc_e1: Börse. — Die Bewegungen des Liverpooler Baumwollenmarktes
+ | german_print2_15: Börse. — Die Bewegungen des Liverpooler Baumwollenmarktes
+ -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="217,243 781,243 781,314 217,314" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="271,248 278,244 289,244 311,248 312,256 338,245 349,245 357,243 373,243 374,257 400,247 423,249 429,252 439,254 439,261 393,260 349,257 311,264 297,264 289,257 271,258" />
+				<Baseline points="271,258 376,258 439,260" />
+				<TextEquiv index="1">
+					<Unicode>1867. 1868. 1869.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l1" points="217,268 233,268 237,274 263,274 267,268 279,268 283,275 295,275 324,275 328,269 338,269 342,277 356,276 378,276 403,276 443,277 443,268 445,268 465,282 490,282 510,272 524,272 524,280 535,280 536,273 550,273 551,279 561,279 561,273 573,273 600,280 606,280 606,274 620,274 620,280 662,275 680,275 681,282 690,282 710,276 719,276 738,276 738,282 744,282 753,283 764,284 773,285 775,277 781,277 781,293 764,293 745,293 720,292 719,298 710,298 690,291 662,291 515,290 510,290 490,283 445,287 406,287 365,286 356,286 302,285 217,284" baseline="217,283 444,287 465,287 643,290 781,293" reason: differs: "in.—Ber" against "n. – Be" | Wikisource:  | next_nc_e1: Handwerkerverein. — Bericht über die Jahresfe | german_print2_15: Handwerkerverein. — Bericht über die Jahresfe -->
+			<!-- line left out: id="r6l2" points="269,295 274,295 276,301 287,301 288,295 300,295 302,301 309,301 330,303 330,296 335,296 337,302 359,302 363,296 368,296 369,302 379,302 380,296 391,296 399,300 431,297 443,297 474,297 474,308 477,308 477,309 474,313 425,313 349,312 315,311 274,314 269,314" baseline="269,311 402,312 477,313" reason: differs: "Jahr" against "37. " | Wikisource:  | next_nc_e1: Jahresberichte 1868–—
+ | german_print2_15:  -->
+			<TextEquiv index="1">
+				<Unicode>1867. 1868. 1869.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r7">
+			<Coords points="781,270 796,270 796,294 781,294" />
+		</GraphicRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="269,278 924,278 924,346 269,346" />
+			<!-- line left out: id="r8l0" points="799,285 811,284 843,284 845,278 856,278 856,284 878,284 878,278 880,278 902,290 924,290 924,292 902,292 880,300 866,300 856,299 799,294" baseline="799,294 838,294 924,295" reason: differs: "er18" against "1868" | Wikisource:  | next_nc_e1: er 1837. — | german_print2_15: er 1837. — -->
+			<TextLine id="r8l1" custom="readingOrder {index:1;}">
+				<Coords points="547,299 555,299 555,308 567,308 573,300 579,300 585,305 602,306 607,300 618,300 618,306 658,301 671,301 671,307 684,307 694,301 706,301 712,302 713,310 722,310 732,303 743,303 744,311 772,308 811,310 841,305 845,305 853,311 865,311 865,305 871,305 872,312 886,312 886,321 811,325 799,325 772,320 756,319 607,316 602,322 586,322 585,316 547,315" />
+				<Baseline points="547,315 732,317 886,321" />
+				<TextEquiv index="1">
+					<Unicode>Lehrpläne für die Sonntagsschule.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l2" custom="readingOrder {index:2;}">
+				<Coords points="269,321 287,321 315,328 317,322 328,322 329,330 340,330 340,322 352,322 360,329 381,328 439,331 443,324 448,324 450,330 507,329 514,326 525,326 534,330 549,330 549,346 534,346 525,346 525,337 512,340 328,338 315,342 303,342 269,337" />
+				<Baseline points="269,337 549,341" />
+				<TextEquiv index="1">
+					<Unicode>Mitgliederverzeichniss 1873.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Lehrpläne für die Sonntagsschule.
+Mitgliederverzeichniss 1873.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r9">
+			<Coords points="478,303 518,303 518,319 478,319" />
+		</GraphicRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="214,347 885,347 885,426 214,426" />
+			<!-- line left out: id="r10l0" points="215,349 226,347 239,347 241,353 262,351 268,351 292,348 310,348 329,348 330,354 346,354 406,355 418,356 473,350 494,350 505,354 525,356 549,357 592,358 604,366 609,353 627,353 638,352 647,352 648,359 658,359 665,353 670,353 684,358 712,359 731,361 731,354 742,354 744,361 756,361 766,355 772,355 785,356 793,362 806,362 815,361 828,361 845,362 885,363 885,374 881,374 828,373 815,373 806,372 785,372 712,375 694,375 694,369 647,369 638,369 563,368 525,367 480,367 473,366 367,365 358,364 292,364 268,363 262,363 226,362 215,360" baseline="215,362 417,365 604,367 864,373 885,374" reason: differs: "in.Peti" against "n. – Pe" | Wikisource:  | next_nc_e1: Gastwirthverein. Petition um Aufhebung der Biersteuer 1 | german_print2_15: Gastwirthverein. Petition um Aufhebung der Biersteuer 1 -->
+			<!-- line left out: id="r10l1" points="214,373 245,373 248,380 262,379 274,379 299,378 315,378 328,380 352,381 366,375 397,375 398,382 414,382 417,376 429,376 432,382 441,382 486,382 520,383 533,386 536,378 552,378 553,384 582,384 604,381 618,378 629,378 644,379 646,385 671,385 676,379 687,379 688,392 715,391 733,391 733,392 692,396 676,396 630,395 536,394 520,393 486,398 473,398 470,392 417,392 352,391 331,391 284,390 233,389 214,388" baseline="214,388 366,391 691,395 733,396" reason: differs: "Chem" against "1875" | Wikisource:  | next_nc_e1: Chemnitzer Werkzeugmaschinenfabrik. — | german_print2_15: Chemnitzer Werkzeugmaschinenfabrik. — -->
+			<TextLine id="r10l2" custom="readingOrder {index:2;}">
+				<Coords points="266,407 272,400 283,400 284,406 298,406 306,400 316,400 383,409 383,401 396,401 396,408 427,406 450,409 465,403 484,403 497,408 511,411 512,404 535,404 536,410 586,409 589,404 604,404 627,409 627,425 614,426 600,426 589,426 589,420 359,422 329,416 266,415" />
+				<Baseline points="266,415 627,421" />
+				<TextEquiv index="1">
+					<Unicode>daselbst gebauten Maschinen 1873.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>daselbst gebauten Maschinen 1873.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="754,381 921,381 921,404 754,404" />
+			<!-- line left out: id="r11l0" points="754,381 768,381 768,389 778,389 779,382 784,382 785,388 795,388 796,382 807,382 808,388 819,388 856,389 900,390 900,384 911,384 911,390 921,390 921,400 856,404 844,404 808,399 768,398 754,397" baseline="754,397 921,400" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Zeichnungen der
+ | german_print2_15: Zeichnungen der
+ -->
+		</TextRegion>
+		<GraphicRegion id="r12">
+			<Coords points="262,449 736,449 736,478 262,478" />
+		</GraphicRegion>
+		<GraphicRegion id="r13">
+			<Coords points="852,514 877,514 877,535 852,535" />
+		</GraphicRegion>
+		<GraphicRegion id="r14">
+			<Coords points="667,599 688,599 688,600 667,600" />
+		</GraphicRegion>
+		<TextRegion id="r15" custom="readingOrder {index:15;} orientation {0;}">
+			<Coords points="211,426 924,426 924,614 211,614" />
+			<!-- line left out: id="r15l0" points="213,426 225,426 228,432 242,431 253,426 265,426 268,434 277,434 282,427 287,427 291,435 299,435 302,427 318,427 320,433 333,433 353,427 383,427 399,428 401,434 410,433 428,433 443,435 447,429 452,429 453,435 459,435 463,429 481,429 483,435 498,430 503,430 506,436 531,436 535,430 547,430 549,443 572,441 590,441 601,431 613,431 627,434 659,435 700,433 723,433 730,433 756,444 769,444 783,434 791,434 793,440 804,440 805,434 810,434 810,440 826,440 846,442 846,435 852,435 853,441 867,441 895,436 907,436 915,439 924,443 924,452 895,452 867,451 853,451 831,450 793,450 791,456 783,456 769,445 730,448 723,448 698,448 693,448 607,447 601,447 552,446 506,446 432,445 410,444 399,443 370,443 353,443 335,437 333,443 302,443 228,442 213,440" baseline="213,441 572,446 729,448 783,449 924,452" reason: differs: "Säch" against "1873" | Wikisource:  | next_nc_e1: Sächsische Webstuhlfabrik. — Statuten 1872. — Jahresberichte | german_print2_15: Sächsische Webstuhlfabrik. — Statuten 1872. — Jahresberichte -->
+			<!-- line left out: id="r15l1" points="329,458 350,458 352,467 369,450 382,450 411,454 411,460 425,460 436,461 446,463 456,458 466,455 476,455 478,462 489,461 495,461 521,460 534,460 555,462 557,456 568,456 588,461 589,470 620,468 640,458 712,458 712,472 739,459 742,459 761,459 772,461 779,460 792,460 792,466 803,466 803,459 816,459 831,459 841,467 880,467 889,462 899,462 900,468 923,468 923,478 864,478 831,477 742,477 717,480 701,480 701,474 640,474 620,469 588,477 577,478 568,478 568,472 555,473 550,473 478,472 463,471 456,471 446,470 436,471 427,471 405,470 397,470 382,484 369,484 356,469 350,474 329,474" baseline="329,469 355,469 640,473 840,477 854,477 923,478" reason: differs: "74.—" against "1872" | Wikisource:  | next_nc_e1: 74. — Preis-Courant 1873. — F. Kohl, Schönherr’'s mecha- | german_print2_15: 74. — Preis-Courant 1873. — F. Kohl, Schönherr's mecha- -->
+			<TextLine id="r15l2" custom="readingOrder {index:2;}">
+				<Coords points="265,485 276,485 277,479 283,479 284,487 299,485 303,479 315,479 316,488 348,480 387,480 411,484 417,481 475,482 492,487 495,495 497,495 497,498 485,503 475,503 475,497 461,497 461,503 457,503 441,497 265,495" />
+				<Baseline points="265,495 497,498" />
+				<TextEquiv index="1">
+					<Unicode>nischer Webstuhl 1871.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r15l3" points="212,504 242,504 246,512 253,511 293,511 307,509 327,509 371,507 400,507 400,513 417,513 426,514 431,507 443,507 448,514 457,513 469,513 498,514 501,508 513,508 517,514 528,514 558,515 573,516 595,517 595,510 617,510 622,518 633,516 644,516 644,510 656,510 658,516 670,516 674,510 682,510 694,514 694,507 696,507 716,521 740,521 757,512 770,512 796,515 835,513 840,513 853,513 908,525 915,525 915,526 853,529 761,529 757,529 740,523 716,523 696,531 694,531 683,527 617,526 595,526 571,525 562,525 558,531 538,531 538,525 531,525 457,524 371,523 327,522 307,522 231,521 212,520" baseline="212,520 371,522 695,527 739,527 814,528 915,530" reason: differs: "ft.—Sta" against "t. – St" | Wikisource:  | next_nc_e1: Chemnitzer Maschinenbaugesellschaft. — Statut 18. — | german_print2_15: Chemnitzer Maschinenbaugesellschaft. — Statut 18. -->
+			<!-- line left out: id="r15l4" points="264,531 271,531 271,537 285,532 298,532 299,538 305,538 362,538 363,532 369,532 370,538 386,538 429,539 452,540 466,534 492,534 492,540 498,540 513,542 513,535 523,535 525,541 548,541 570,541 608,542 608,536 619,536 674,537 674,543 686,542 698,537 709,537 717,543 733,543 734,550 763,548 773,548 787,538 800,538 801,544 814,544 821,539 826,539 836,549 844,549 845,541 856,540 867,540 867,546 878,545 897,545 910,544 922,544 922,557 910,557 856,556 826,555 821,555 814,554 792,557 787,557 773,549 738,553 674,553 619,552 560,552 499,551 441,550 429,549 386,549 362,554 351,554 348,548 329,549 317,549 305,548 285,548 264,547" baseline="264,547 451,549 633,551 763,553 922,557" reason: differs: "Lith" against "72. " | Wikisource:  | next_nc_e1: Lithographien von Maschinen und Gebäuden. — Preis-Courant | german_print2_15: Lithographien von Maschinen und Gebäuden. — Preis-Courant -->
+			<!-- line left out: id="r15l5" points="264,562 270,561 282,561 302,563 303,571 322,555 333,555 347,561 358,559 364,559 365,566 375,566 390,567 390,559 401,559 402,566 412,566 421,559 429,559 450,560 452,567 469,566 483,566 490,568 495,560 500,560 522,566 529,562 540,562 560,566 561,572 578,572 578,555 589,555 605,562 610,562 618,563 618,570 630,568 651,563 661,563 674,566 689,569 689,563 703,563 703,570 714,570 721,564 744,564 772,564 772,571 783,564 788,564 802,567 803,573 813,571 832,569 840,565 851,565 859,573 880,571 886,567 898,567 917,571 919,580 921,580 921,582 917,587 898,587 898,581 885,582 880,582 813,581 772,580 744,581 732,581 663,579 610,578 605,578 589,587 578,587 578,578 560,581 550,582 540,582 540,576 528,577 501,577 457,576 450,575 444,576 419,576 413,576 376,575 358,574 347,572 333,587 322,587 307,574 302,578 291,579 282,579 282,573 264,573" baseline="264,573 347,573 588,577 870,581 880,581 921,582" reason: differs: "1873" against "uran" | Wikisource:  | next_nc_e1: 1873. — Geschäftsbericht 1873. — Bericht des Aufsichtsrathes 1875.
+ | german_print2_15: 1873. — Geschäftsbericht 1873. — Bericht des Aufsichtsrathes 1875.
+ -->
+			<!-- line left out: id="r15l6" points="211,583 239,583 239,589 256,589 265,591 271,584 282,584 287,590 307,590 336,591 340,585 352,585 355,591 382,591 393,595 398,586 425,586 425,592 440,592 482,592 517,597 528,588 540,588 554,591 586,591 641,592 651,593 658,594 660,602 689,599 704,591 714,590 721,590 722,597 732,597 749,598 752,590 757,590 759,597 775,597 777,590 785,590 806,591 808,597 820,597 838,597 849,598 850,591 855,591 879,597 886,593 897,593 906,597 916,598 918,606 920,606 920,608 907,608 906,614 897,614 897,608 879,608 820,607 808,607 732,606 714,605 704,603 689,600 651,610 641,610 641,604 535,604 528,604 517,598 482,603 472,603 408,602 382,601 355,601 271,600 211,599" baseline="211,599 481,603 528,603 623,604 879,607 920,608" reason: differs: "Masc" against "1875" | Wikisource:  | next_nc_e1: Maschinenbau-Verein. — Statuten 1871. — Geschäftsbericht 1872.
+ | german_print2_15: Maschinenbau-Verein. — Statuten 1871. — Geschäftsbericht 1872.
+ -->
+			<TextEquiv index="1">
+				<Unicode>nischer Webstuhl 1871.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r16" custom="readingOrder {index:16;} orientation {0;}">
+			<Coords points="212,609 879,609 879,659 212,659" />
+			<!-- line left out: id="r16l0" points="212,609 227,609 231,617 245,615 267,615 280,619 283,610 299,610 301,617 311,617 311,609 313,609 371,611 373,617 392,612 403,612 412,625 420,620 434,618 445,618 491,618 497,619 509,621 512,613 534,613 538,620 547,619 558,619 587,620 592,614 600,614 601,620 617,615 623,615 625,621 650,621 655,615 666,615 668,628 693,625 717,625 737,616 749,616 775,619 795,620 844,618 855,618 875,622 876,631 879,631 879,634 865,639 855,639 855,633 795,633 740,633 737,633 717,627 671,631 645,631 512,630 497,629 461,633 448,633 416,628 392,628 358,627 283,626 267,625 212,625" baseline="212,624 312,626 341,627 670,631 693,631 837,633 879,634" reason: differs: "Deut" against "1872" | Wikisource:  | next_nc_e1: Deutsche Werkzeugmaschinenfabrik. — Statuten 1872. | german_print2_15: Deutsche Werkzeugmaschinenfabrik. — Statuten 1872. -->
+			<TextLine id="r16l1" custom="readingOrder {index:1;}">
+				<Coords points="264,636 285,636 303,637 323,642 387,641 408,638 419,638 429,643 443,643 443,659 429,659 420,659 419,653 374,654 264,652" />
+				<Baseline points="264,652 443,654" />
+				<TextEquiv index="1">
+					<Unicode>Preiscourant 1873.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Preiscourant 1873.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r17" custom="readingOrder {index:17;} orientation {0;}">
+			<Coords points="208,662 749,662 749,684 208,684" />
+			<!-- line left out: id="r17l0" points="208,662 221,662 224,668 248,668 249,662 261,662 265,671 277,668 282,668 309,669 310,663 321,663 324,671 334,671 347,664 360,664 379,664 414,664 414,670 437,670 455,671 465,665 490,665 493,671 505,671 534,671 539,665 547,665 548,672 559,672 563,666 568,666 570,672 591,667 612,667 614,680 631,677 637,677 664,667 676,667 690,671 722,671 739,673 740,667 749,667 749,684 704,684 664,683 617,682 612,683 600,683 559,682 523,682 505,681 437,681 414,683 398,683 379,680 363,680 321,679 310,679 282,678 261,678 224,678 208,677" baseline="208,677 347,678 616,682 636,682 749,684" reason: differs: "ik.—Sta" against "k. – St" | Wikisource:  | next_nc_e1: Sächsische Stickmaschinenfabrik. — Statut 18
+ | german_print2_15: Sächsische Stickmaschinenfabrik. — Statut 18.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r18">
+			<Coords points="392,660 410,660 410,684 392,684" />
+		</GraphicRegion>
+		<TextRegion id="r19" custom="readingOrder {index:19;} orientation {0;}">
+			<Coords points="788,668 920,668 920,686 788,686" />
+			<!-- line left out: id="r19l0" points="788,679 808,679 817,669 825,668 835,668 835,676 846,675 854,675 855,669 871,669 878,676 889,676 891,670 899,670 914,673 914,680 920,680 920,682 914,686 855,686 835,685 825,684 817,683 788,680" baseline="788,682 817,683 920,687" reason: differs: "—Ges" against "72. " | Wikisource:  | next_nc_e1: — Geschäfts-
+ | german_print2_15: — Geschäfts-
+ -->
+		</TextRegion>
+		<GraphicRegion id="r20">
+			<Coords points="750,673 774,673 774,689 750,689" />
+		</GraphicRegion>
+		<GraphicRegion id="r21">
+			<Coords points="425,776 439,776 439,789 425,789" />
+		</GraphicRegion>
+		<GraphicRegion id="r22">
+			<Coords points="952,758 974,758 974,984 952,984" />
+		</GraphicRegion>
+		<GraphicRegion id="r23">
+			<Coords points="765,803 794,803 794,819 765,819" />
+		</GraphicRegion>
+		<GraphicRegion id="r24">
+			<Coords points="741,836 747,836 747,845 741,845" />
+		</GraphicRegion>
+		<GraphicRegion id="r25">
+			<Coords points="842,956 874,956 874,981 842,981" />
+		</GraphicRegion>
+		<GraphicRegion id="r26">
+			<Coords points="434,1076 688,1076 688,1100 434,1100" />
+		</GraphicRegion>
+		<GraphicRegion id="r27">
+			<Coords points="952,1145 976,1145 976,1273 952,1273" />
+		</GraphicRegion>
+		<GraphicRegion id="r28">
+			<Coords points="286,1196 299,1196 299,1229 286,1229" />
+		</GraphicRegion>
+		<SeparatorRegion id="r29">
+			<Coords points="249,1301 272,1301 272,1302 249,1302" />
+		</SeparatorRegion>
+		<TextRegion id="r30" custom="readingOrder {index:30;} orientation {0;}">
+			<Coords points="197,689 918,689 918,1338 197,1338" />
+			<TextLine id="r30l0" custom="readingOrder {index:0;}">
+				<Coords points="263,689 268,689 271,695 281,695 288,689 302,689 303,695 313,695 314,689 325,689 333,693 376,690 409,697 448,692 459,692 469,696 483,696 483,712 469,712 459,712 459,706 377,711 376,705 358,706 263,704" />
+				<Baseline points="263,704 483,707" />
+				<TextEquiv index="1">
+					<Unicode>berichte 1872 u. 1873.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r30l1" points="208,714 224,714 238,715 242,722 249,721 294,719 310,719 323,721 345,722 363,716 376,716 385,723 415,723 442,723 447,717 455,717 457,723 471,718 483,718 519,718 520,731 548,728 566,728 587,719 599,719 612,723 633,722 645,722 667,720 679,720 696,725 698,733 717,730 741,730 754,721 771,721 772,728 797,728 797,720 807,720 808,726 818,726 827,720 835,720 856,721 863,727 889,727 896,729 901,722 906,722 918,725 918,738 890,738 863,737 856,736 835,737 807,737 797,737 764,736 754,734 717,731 689,741 679,741 679,735 645,736 591,736 587,736 566,730 524,734 494,734 487,734 415,733 402,733 400,739 385,739 384,732 327,732 238,731 227,731 208,730" baseline="208,730 523,734 565,734 754,735 918,738" reason: differs: "ik.—Sta" against "k. – St" | Wikisource:  | next_nc_e1: Chemnitzer Papierfabrik. — Statut 1871. — Geschäftsbericht | german_print2_15: Chemnitzer Papierfabrik. — Statut 1871. — Geschäftsbericht -->
+			<TextLine id="r30l2" custom="readingOrder {index:2;}">
+				<Coords points="261,746 268,742 279,742 310,748 360,747 360,762 351,763 342,763 316,758 289,757 289,763 279,763 279,756 261,757" />
+				<Baseline points="261,757 360,758" />
+				<TextEquiv index="1">
+					<Unicode>1872 u. 73.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r30l3" points="208,768 222,768 227,775 233,771 251,767 256,767 260,775 275,773 286,773 301,774 327,774 366,774 378,777 381,769 393,769 397,775 422,775 422,767 438,767 446,775 463,775 473,770 485,770 487,783 510,763 525,763 545,770 551,770 560,771 561,778 572,776 582,776 583,770 600,770 607,776 617,776 627,779 628,771 644,771 651,777 662,777 663,771 671,771 692,771 694,777 708,777 736,777 737,771 742,771 770,777 777,772 788,772 801,776 810,777 811,785 830,777 837,774 848,774 855,778 877,779 877,794 866,794 810,793 800,793 742,788 737,788 708,787 687,787 628,787 617,786 600,786 545,786 525,798 510,798 485,786 438,786 422,786 408,785 366,785 354,785 286,784 275,784 208,783" baseline="208,783 489,785 754,787 830,788 877,790" reason: differs: "ei.—Rec" against "i. – Re" | Wikisource:  | next_nc_e1: Actienvereinsbäckerei. — Rechenschaftsbericht 1867. 1869.
+ | german_print2_15: Actienvereinsbäckerei. — Rechenschaftsbericht 1867. 1869.
+ -->
+			<!-- line left out: id="r30l4" points="206,794 223,794 227,801 234,799 259,799 332,798 338,798 360,800 375,801 388,802 402,795 416,795 425,801 446,801 469,802 501,803 504,796 532,796 551,796 552,802 572,802 576,796 585,796 661,798 669,801 688,801 708,801 730,803 747,797 763,797 763,813 598,813 586,813 495,812 469,815 449,815 375,814 363,814 277,810 206,809" baseline="206,808 402,810 763,813" reason: differs: "Geme" against "1869" | Wikisource:  | next_nc_e1: Gemeinnützige Baugesellschaft. Statuten 18
+ | german_print2_15: Gemeinnützige Baugesellschaft. Statuten 18.
+ -->
+			<!-- line left out: id="r30l5" points="207,822 226,820 237,820 241,826 293,824 310,824 323,826 363,821 377,821 380,827 407,827 418,831 421,822 437,822 442,830 448,829 465,829 475,822 498,822 504,830 521,830 527,822 538,822 543,828 559,822 576,822 577,835 599,833 618,833 632,823 645,823 657,827 671,828 677,827 690,827 712,824 731,824 741,828 741,834 731,839 639,839 632,839 581,838 498,838 468,838 407,837 323,837 314,837 237,836 226,836 207,835" baseline="207,835 363,836 617,838 741,839" reason: differs: "Chem" against "1857" | Wikisource:  | next_nc_e1: Chemnitzer Bau-Gesellschaft. — Statut 1872
+ | german_print2_15: Chemnitzer Bau-Gesellschaft. — Statut 1872.
+ -->
+			<!-- line left out: id="r30l6" points="207,846 238,846 241,853 255,852 294,850 311,850 323,853 334,856 340,846 354,846 359,853 364,853 405,853 445,848 459,848 463,854 468,854 513,849 525,849 548,849 549,855 583,855 617,857 619,849 642,849 646,857 658,855 669,850 680,850 707,850 716,853 717,862 748,860 760,860 776,851 788,851 801,855 809,854 823,854 835,855 875,852 893,852 910,852 918,856 918,873 879,873 875,873 859,867 844,868 781,868 776,868 760,861 721,866 680,866 658,866 594,865 583,870 563,870 495,865 484,865 468,864 445,864 405,863 394,863 373,862 323,863 314,863 226,862 207,861" baseline="207,861 776,866 858,867 918,868" reason: differs: "Chem" against "1872" | Wikisource:  | next_nc_e1: Chemnitz-Riesaer Eisenbahngesellschaft. — Statuten 1845.
+ | german_print2_15: Chemnitz-Riesaer Eisenbahngesellschaft. — Statuten 1845.
+ -->
+			<TextLine id="r30l7" custom="readingOrder {index:7;}">
+				<Coords points="296,875 307,873 321,873 321,880 339,880 341,873 351,873 352,879 363,879 371,873 384,873 385,882 394,882 395,874 400,874 402,880 433,880 439,882 445,874 479,880 486,875 525,876 525,891 518,895 500,895 479,891 307,889 296,887" />
+				<Baseline points="296,888 525,891" />
+				<TextEquiv index="1">
+					<Unicode>Geschäftsbericht 1846.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r30l8" points="206,898 237,898 247,904 265,904 291,902 307,902 320,905 345,905 364,899 377,899 380,906 406,906 411,900 422,900 425,910 433,910 436,900 451,900 461,907 475,907 515,907 516,914 547,912 561,912 576,902 593,902 594,909 619,909 620,902 630,902 631,908 636,908 648,909 650,901 663,901 685,902 692,908 705,908 705,902 727,902 749,905 797,905 818,911 824,911 824,903 835,903 858,904 861,917 882,909 888,904 900,904 918,909 918,924 909,925 900,925 900,919 861,919 858,926 849,926 835,919 818,919 768,918 749,912 749,918 673,918 582,918 520,917 455,917 422,916 380,916 320,915 240,915 225,914 206,912" baseline="206,914 796,918 918,919" reason: differs: "in.—Ges" against "n. – Ge" | Wikisource:  | next_nc_e1: Chemnitzer Bank-Verein. — Geschäftsberichte auf d. J. 1873 | german_print2_15: Chemnitzer Bank-Verein. — Geschäftsberichte auf d. J. 1873 -->
+			<TextLine id="r30l9" custom="readingOrder {index:9;}">
+				<Coords points="257,931 288,930 295,926 307,926 316,930 332,931 332,946 316,947 307,947 307,940 257,941" />
+				<Baseline points="257,941 332,941" />
+				<TextEquiv index="1">
+					<Unicode>u. 1874.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r30l10" points="205,950 220,950 224,957 231,956 248,956 273,957 274,951 285,951 289,957 300,957 339,958 356,957 365,957 378,959 383,952 388,952 392,958 403,958 404,965 428,963 451,963 469,954 475,953 486,953 487,960 498,960 507,959 518,959 518,953 530,953 530,960 542,960 543,953 557,953 573,954 588,959 595,954 606,954 606,960 617,960 617,954 629,954 636,958 681,960 681,954 696,954 711,961 717,954 751,954 797,955 810,956 820,955 829,955 829,966 833,966 916,967 916,968 829,971 798,971 779,970 751,977 743,977 727,970 557,970 498,970 475,970 408,968 365,968 356,968 313,967 248,967 231,967 220,966 205,966" baseline="205,966 779,970 895,971 916,972" reason: differs: "in.—Ges" against "n. – Ge" | Wikisource:  | next_nc_e1: Vorschussverein. — Geschäftsberichte auf d. J. 1866–— — | german_print2_15: Vorschussverein. — Geschäftsberichte auf d. J. 1866— — -->
+			<TextLine id="r30l11" custom="readingOrder {index:11;}">
+				<Coords points="255,977 267,977 274,981 294,982 389,979 397,984 397,995 389,1000 371,1000 370,994 255,993" />
+				<Baseline points="255,993 397,994" />
+				<TextEquiv index="1">
+					<Unicode>Statuten 1870.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r30l12" points="203,1003 215,1003 219,1009 258,1009 295,1009 310,1010 313,1004 324,1004 354,1004 358,1010 378,1010 388,1011 389,1004 404,1004 415,1009 429,1011 455,1011 553,1006 576,1006 596,1006 597,1012 626,1012 641,1014 641,1006 651,1006 653,1012 669,1012 671,1006 679,1006 700,1006 702,1012 712,1012 744,1007 749,1007 797,1008 806,1012 821,1012 821,1028 806,1029 797,1029 797,1022 784,1023 733,1023 719,1022 712,1021 694,1022 465,1022 458,1022 415,1021 378,1021 358,1021 350,1020 283,1020 258,1019 234,1019 231,1025 219,1025 215,1018 203,1018" baseline="203,1018 779,1022 821,1023" reason: differs: "in.Rech" against "n. – Re" | Wikisource:  | next_nc_e1: Spar- und Creditverein. Rechenschaftsbericht 1873.
+ | german_print2_15: Spar- und Creditverein. Rechenschaftsbericht 1873.
+ -->
+			<!-- line left out: id="r30l13" points="204,1029 221,1029 255,1029 280,1029 285,1035 292,1035 322,1036 333,1038 337,1031 345,1030 362,1030 363,1036 377,1036 395,1036 440,1037 524,1038 577,1038 586,1032 596,1032 596,1038 618,1038 622,1032 630,1032 643,1036 667,1042 676,1042 703,1033 715,1033 723,1036 741,1037 768,1037 791,1040 844,1034 853,1034 854,1040 867,1035 872,1035 884,1040 907,1042 914,1045 914,1047 907,1049 896,1051 867,1051 854,1050 853,1057 844,1057 791,1050 706,1050 703,1050 676,1044 643,1048 611,1049 586,1049 537,1048 496,1048 485,1048 471,1047 467,1053 455,1053 452,1047 440,1050 428,1050 386,1047 377,1046 270,1046 230,1046 204,1045" baseline="204,1045 703,1048 914,1049" reason: differs: "Unfa" against "1873" | Wikisource:  | next_nc_e1: Unfallversicherungsgenossenschaft. — Statuten. Jahres- | german_print2_15: Unfallversicherungsgenossenschaft. — Statuten. Jahres- -->
+			<TextLine id="r30l14" custom="readingOrder {index:14;}">
+				<Coords points="255,1056 267,1056 274,1062 305,1062 306,1056 317,1056 358,1057 368,1061 382,1061 382,1077 374,1078 358,1078 358,1071 255,1071" />
+				<Baseline points="255,1071 382,1073" />
+				<TextEquiv index="1">
+					<Unicode>bericht 1873.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r30l15" points="203,1081 227,1081 237,1087 260,1082 266,1082 269,1088 280,1088 283,1082 288,1082 289,1088 299,1086 331,1083 343,1083 359,1083 361,1089 372,1089 372,1083 385,1083 410,1083 411,1089 494,1084 504,1084 511,1090 547,1090 556,1092 580,1090 604,1090 605,1084 616,1084 633,1093 638,1085 649,1085 662,1090 662,1084 689,1084 691,1090 696,1090 708,1091 710,1085 723,1085 725,1091 734,1091 744,1095 749,1085 769,1085 776,1091 790,1091 878,1089 889,1087 901,1087 907,1096 913,1096 913,1098 901,1102 823,1102 799,1102 790,1102 749,1101 734,1100 723,1101 689,1102 675,1102 580,1100 556,1098 547,1098 547,1106 535,1106 535,1100 313,1100 299,1100 237,1098 203,1097" baseline="203,1097 822,1101 913,1102" reason: differs: "en-iehu" against "en-Einz" | Wikisource:  | next_nc_e1: Vorsicht, Schulden- iehungs- und Auskunfts-Bureau. Ge- | german_print2_15: Vorsicht, Schulden- iehungs- und Auskunfts-Bureau. Ge- -->
+			<!-- line left out: id="r30l16" points="252,1116 262,1114 272,1114 273,1108 284,1108 312,1108 322,1114 335,1109 340,1109 396,1111 419,1114 420,1122 439,1120 463,1120 477,1109 486,1109 493,1110 495,1116 505,1116 525,1116 526,1110 537,1110 537,1116 549,1116 554,1110 565,1110 581,1111 623,1116 624,1110 635,1110 643,1114 675,1110 686,1110 686,1116 710,1116 724,1121 724,1110 741,1110 741,1116 754,1116 755,1124 758,1124 758,1127 755,1127 754,1133 724,1133 724,1123 710,1128 696,1132 686,1132 654,1127 597,1127 580,1127 424,1126 406,1130 334,1130 322,1130 312,1125 301,1125 252,1124" baseline="252,1124 423,1125 758,1127" reason: differs: "schä" against ". – " | Wikisource:  | next_nc_e1: schäftsplan 1870. — Geschäftsberichte 1870–72.
+ | german_print2_15: schäftsplan 1870. — Geschäftsberichte 1870 — 72.
+ -->
+			<!-- line left out: id="r30l17" points="200,1186 217,1186 220,1192 247,1189 254,1189 269,1191 282,1192 282,1186 298,1186 330,1186 355,1186 359,1192 374,1187 386,1187 389,1197 397,1197 401,1187 416,1187 419,1193 456,1193 525,1193 539,1195 543,1188 548,1188 563,1193 564,1200 582,1198 607,1198 619,1189 636,1189 660,1192 696,1194 724,1195 724,1205 696,1210 678,1210 644,1205 626,1204 626,1210 619,1210 607,1200 568,1204 456,1204 445,1204 386,1203 371,1208 359,1208 355,1202 330,1203 298,1208 282,1208 282,1202 200,1202" baseline="200,1201 619,1204 724,1205" reason: differs: "Gust" against "| | " | Wikisource:  | next_nc_e1: Gustav-Adolph-Frauenverein. — Satzungen.
+ | german_print2_15: Gustav-Adolph-Frauenverein. — Satzungen.
+ -->
+			<!-- line left out: id="r30l18" points="201,1212 217,1212 220,1219 234,1218 243,1218 256,1219 260,1212 266,1212 269,1218 280,1218 299,1225 307,1218 318,1218 333,1212 349,1212 351,1218 367,1216 377,1213 388,1213 406,1219 436,1214 461,1213 488,1213 489,1220 513,1217 520,1217 521,1227 541,1208 557,1208 579,1214 591,1214 604,1218 638,1218 667,1221 722,1215 740,1215 760,1215 762,1221 772,1221 773,1215 783,1215 796,1218 796,1230 817,1220 824,1216 836,1216 848,1215 859,1215 886,1221 895,1221 909,1221 909,1236 901,1237 886,1237 859,1231 849,1232 837,1232 667,1231 638,1231 611,1231 592,1230 579,1229 557,1239 541,1239 525,1230 406,1230 318,1229 307,1229 220,1228 201,1227" baseline="201,1228 317,1228 798,1230 858,1231 909,1232" reason: differs: "Vere" against "ngen" | Wikisource:  | next_nc_e1: Verein zu Rath und That. — Statuten. Berichte 1868 —73.
+ | german_print2_15: Verein zu Rath und That. — Statuten. Berichte 1868— 73.
+ -->
+			<!-- line left out: id="r30l19" points="199,1238 225,1238 229,1244 241,1244 243,1238 256,1238 259,1245 274,1244 282,1244 285,1238 297,1238 300,1246 314,1244 348,1239 353,1239 354,1245 406,1243 424,1243 442,1240 447,1240 459,1243 487,1246 489,1253 508,1251 522,1251 545,1240 559,1240 560,1247 570,1247 571,1241 585,1241 603,1241 617,1245 649,1241 660,1241 672,1245 682,1246 683,1254 702,1246 709,1241 720,1241 744,1241 745,1254 764,1246 771,1241 795,1241 821,1241 837,1246 853,1247 853,1262 837,1262 795,1262 781,1262 733,1257 721,1257 683,1256 682,1262 672,1262 585,1257 571,1257 551,1256 487,1256 406,1256 348,1255 297,1254 199,1254" baseline="199,1253 747,1256 853,1257" reason: differs: "Kind" against "8–73" | Wikisource:  | next_nc_e1: Kinderbewahranstalten. — Berichte 1867. 1868. 1872—74.
+ | german_print2_15: Kinderbewahranstalten. — Berichte 1867. 1868. 1872 — 74.
+ -->
+			<TextLine id="r30l20" custom="readingOrder {index:20;}">
+				<Coords points="199,1264 214,1264 218,1271 251,1270 251,1264 263,1264 268,1270 289,1265 319,1265 323,1272 383,1269 402,1269 427,1272 435,1266 450,1266 453,1273 463,1273 467,1266 472,1266 473,1272 639,1273 648,1267 661,1267 672,1271 694,1272 728,1267 745,1267 749,1273 763,1271 793,1273 811,1271 845,1271 908,1275 908,1289 892,1289 838,1284 793,1283 699,1282 694,1288 557,1288 547,1282 199,1280" />
+				<Baseline points="199,1280 908,1284" />
+				<TextEquiv index="1">
+					<Unicode>Verein Chemnitzer Lehrer zu gegenseitiger Unterstützung.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r30l21" custom="readingOrder {index:21;}">
+				<Coords points="286,1291 298,1291 306,1293 374,1297 374,1307 299,1307 286,1306" />
+				<Baseline points="286,1306 374,1307" />
+				<TextEquiv index="1">
+					<Unicode>Statuten.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r30l22" points="197,1316 212,1316 215,1323 226,1323 230,1316 241,1316 245,1322 279,1322 290,1326 294,1317 337,1317 348,1321 367,1323 396,1323 447,1324 451,1318 522,1318 525,1324 534,1324 562,1324 590,1324 602,1325 628,1326 628,1332 646,1329 666,1329 680,1318 692,1318 718,1321 738,1323 780,1320 791,1320 799,1322 838,1320 848,1320 856,1325 856,1327 848,1331 836,1335 818,1338 807,1338 799,1334 791,1335 685,1335 680,1335 632,1334 628,1335 593,1335 534,1334 396,1334 371,1334 322,1333 312,1332 279,1332 197,1332" baseline="197,1332 665,1334 856,1335" reason: differs: "se.—Sta" against "e. – St" | Wikisource:  | next_nc_e1: Lehrer-Wittwen- und Waisencasse. — Statuten 1863. 187
+ | german_print2_15: Lehrer-Wittwen- und Waisencasse. — Statuten 1863. 187.
+ -->
+			<TextEquiv index="1">
+				<Unicode>berichte 1872 u. 1873.
+1872 u. 73.
+Geschäftsbericht 1846.
+u. 1874.
+Statuten 1870.
+bericht 1873.
+Verein Chemnitzer Lehrer zu gegenseitiger Unterstützung.
+Statuten.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r31">
+			<Coords points="848,1319 866,1319 866,1341 848,1341" />
+		</GraphicRegion>
+		<TextRegion id="r32" custom="readingOrder {index:32;} orientation {0;}">
+			<Coords points="247,1342 465,1342 465,1366 247,1366" />
+			<!-- line left out: id="r32l0" points="247,1342 262,1342 269,1348 283,1343 288,1343 299,1348 299,1342 305,1342 319,1346 367,1349 369,1343 376,1343 388,1351 394,1351 394,1344 428,1344 430,1357 449,1349 455,1344 465,1344 465,1360 430,1360 428,1366 419,1366 405,1360 388,1360 306,1359 247,1358" baseline="247,1358 388,1359 465,1360" reason: second model: differs: "Beri" against "72. " | Wikisource: Berichte auf d. J. 18 | next_nc_e1: Berichte auf d. J. 18
+ | german_print2_15: Berichte auf d. J. 18.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r33">
+			<Coords points="0,1348 1000,1348 1000,1585 0,1585" />
+		</GraphicRegion>
+		<TextRegion id="r34" custom="readingOrder {index:34;} orientation {0;}">
+			<Coords points="394,1549 658,1549 658,1561 394,1561" />
+			<!-- line left out: id="r34l0" points="394,1549 408,1549 434,1549 457,1549 469,1549 494,1549 525,1549 553,1549 571,1549 638,1549 658,1550 658,1558 571,1560 545,1560 531,1558 517,1561 492,1561 482,1561 452,1561 441,1561 426,1561 413,1560 399,1561 394,1561" baseline="394,1558 658,1558" reason: differs: "hupi" against "72–7" | Wikisource:  | next_nc_e1: hupidigitalslub-dresden delppn301259642106
+ | german_print2_15: htp ligitalslub-dresden de ppn3012589642106
+ -->
+		</TextRegion>
+		<GraphicRegion id="r35">
+			<Coords points="952,650 974,650 974,751 952,751" />
+		</GraphicRegion>
+		<GraphicRegion id="r36">
+			<Coords points="0,1301 976,1301 976,1378 0,1378" />
+		</GraphicRegion>
+		<SeparatorRegion id="r37">
+			<Coords points="957,815 960,815 960,1339 957,1339" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Börse. – Die Bewegungen des Liverpooler Baumwollenmarktes 1867. 1868. 1869.
+Handwerkerverein. – Bericht über die Jahresfeier 1837. – Jahresberichte 1868–74. Lehrpläne für die Sonntagsschule. – Mitgliederverzeichniss 1873.
+Gastwirthverein. – Petition um Aufhebung der Biersteuer 1875.
+Chemnitzer Werkzeugmaschinenfabrik. – Zeichnungen der daselbst gebauten Maschinen 1873.
+Sächsische Webstuhlfabrik. – Statuten 1872. – Jahresberichte 1872–74. – Preis-Courant 1873. – F. Kohl, Schönherr’s mechanischer Webstuhl 1871.
+Chemnitzer Maschinenbaugesellschaft. – Statut 1872. – Lithographien von Maschinen und Gebäuden. – Preis-Courant 1873. – Geschäftsbericht 1873. – Bericht des Aufsichtsrathes 1875.
+Maschinenbau-Verein. – Statuten 1871. – Geschäftsbericht 1872.
+Deutsche Werkzeugmaschinenfabrik. – Statuten 1872. – Preiscourant 1873.
+Sächsische Stickmaschinenfabrik. – Statut 1872. – Geschäftsberichte 1872 u. 1873.
+Chemnitzer Papierfabrik. – Statut 1871. – Geschäftsbericht
+1872 u. 73.
+Actienvereinsbäckerei. – Rechenschaftsbericht 1867. 1869.
+Gemeinnützige Baugesellschaft. – Statuten 1857.
+Chemnitzer Bau-Gesellschaft. – Statut 1872.
+Chemnitz-Riesaer Eisenbahngesellschaft. – Statuten 1845. – Geschäftsbericht 1846.
+Chemnitzer Bank-Verein. – Geschäftsberichte auf d. J. 1873 u. 1874.
+Vorschussverein. – Geschäftsberichte auf d. J. 1866–72. – Statuten 1870.
+Spar- und Creditverein. – Rechenschaftsbericht 1873.
+Unfallversicherungsgenossenschaft. – Statuten. – Jahresbericht 1873.
+Vorsicht, Schulden-Einziehungs- und Auskunfts-Bureau. – Geschäftsplan 1870. – Geschäftsberichte 1870–72.
+|
+|
+|
+Gustav-Adolph-Frauenverein. – Satzungen.
+Verein zu Rath und That. – Statuten. – Berichte 1868–73.
+Kinderbewahranstalten. – Berichte 1867. 1868. 1872–74.
+Verein Chemnitzer Lehrer zu gegenseitiger Unterstützung. – Statuten.
+Lehrer-Wittwen- und Waisencasse. – Statuten 1863. 1872. – Berichte auf d. J. 1872–74.
+-->
+	</Page>
+</PcGts>

@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:18:19</Created>
+		<LastChange>2026-11-23T14:18:19</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/49 revision 5014349 of 2026-08-18T09:33:05Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0049.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro17216698462457258445" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="34,1130 45,1130 45,1481 34,1481" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="84,168 794,168 794,543 84,543" />
+			<!-- line left out: id="r1l0" points="377,174 389,174 418,168 436,168 487,172 487,174 465,174 429,184 418,184 389,175 377,175" baseline="377,175 418,174 465,173 487,173" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 41 — | german_print2_15: — 41 — -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="354,221 391,218 413,229 416,216 429,216 451,221 452,215 463,215 495,219 497,227 500,227 500,230 452,231 442,237 430,237 429,231 372,236 364,236 354,232" />
+				<Baseline points="354,232 500,230" />
+				<TextEquiv index="1">
+					<Unicode>1326, April 21.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l2" points="84,258 95,256 106,256 107,266 126,252 142,252 166,253 185,256 197,250 212,250 215,256 227,256 231,249 243,249 246,255 257,255 257,249 270,249 311,249 321,254 322,248 334,248 378,251 379,260 398,247 416,247 417,253 428,252 439,252 454,246 466,245 474,245 475,251 496,251 496,245 508,245 509,251 533,251 533,244 551,244 551,250 572,250 588,244 594,243 614,243 617,249 622,249 637,251 640,243 652,243 656,249 665,249 668,243 673,243 687,248 688,242 700,242 703,255 721,247 742,247 742,241 754,237 768,237 768,246 789,246 789,257 772,257 768,264 754,264 754,257 707,261 703,261 687,259 622,259 614,260 535,261 520,263 509,263 474,262 428,263 383,265 379,265 357,264 311,264 285,268 274,268 243,265 227,266 197,266 185,272 173,272 166,268 142,268 111,269 94,269 84,269" baseline="84,268 298,264 571,260 721,257 789,256" reason: differs: "26.K" against "| st" | Wikisource:  | next_nc_e1: 26. König Ludwig bekennt, dem Markgrafen Friedrich, seinem | german_print2_15: 26. König Ludwig bekennt, dem Markgrafen Friedrich, seinem -->
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="130,278 155,278 225,282 240,275 252,275 253,282 289,279 338,280 351,274 369,274 383,279 384,273 450,273 463,278 486,278 487,285 505,271 517,271 518,277 530,277 549,271 561,271 585,276 600,270 623,270 630,275 646,276 666,275 680,269 697,269 701,275 712,275 715,268 721,268 723,274 736,274 739,268 756,268 770,273 770,267 783,267 785,280 789,280 789,286 756,284 549,287 531,281 530,287 517,288 252,292 191,295 179,295 138,294 137,281 130,281" />
+				<Baseline points="130,294 789,283" />
+				<TextEquiv index="1">
+					<Unicode>Eidam, zu den 2000 Mark Silbers, die ihm Kaiser Heinrich,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l4" points="123,311 135,310 146,310 147,304 157,304 207,310 213,310 213,302 230,302 231,308 257,306 266,306 279,306 319,301 332,300 338,300 340,306 351,306 352,300 419,300 446,305 455,307 462,312 480,298 491,298 493,304 498,304 536,303 563,303 564,297 576,297 577,303 594,303 610,296 618,296 624,302 661,302 679,301 691,301 702,303 717,294 733,294 734,300 739,300 774,297 781,297 790,299 790,310 733,311 691,312 638,312 594,313 543,314 509,314 491,315 462,316 458,316 446,315 411,316 390,316 331,317 293,317 274,318 266,321 257,321 230,319 146,321 123,321" baseline="123,321 156,320 192,319 319,316 371,315 637,311 790,310" reason: differs: "n30o0oo" against " 3000 M" | Wikisource:  | next_nc_e1: und zu den 30o0oo Mark Silbers, die er ihm für seine Dienste | german_print2_15: und zu den 3000 Mark Silbers, die er ihm für seine Dienste -->
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="122,337 157,336 165,338 169,330 181,330 182,337 203,335 220,329 227,329 251,332 253,342 275,328 287,328 300,333 327,334 341,327 353,326 359,326 361,332 372,332 374,326 447,326 475,333 494,324 502,324 502,331 619,328 662,329 694,328 708,322 720,322 731,327 731,321 744,321 756,326 756,320 769,320 780,325 791,326 791,336 630,340 300,344 257,346 169,345 157,351 134,352 122,352" />
+				<Baseline points="122,346 791,336" />
+				<TextEquiv index="1">
+					<Unicode>gegeben hat, 8000 Mark Silbers für seinen grossen Schaden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="123,363 146,363 158,356 165,356 221,359 227,364 247,354 259,354 260,360 274,360 284,354 296,354 316,362 327,353 342,353 350,359 371,359 372,353 383,353 398,360 412,360 413,352 424,352 425,358 437,358 437,352 456,351 469,351 470,357 516,357 540,359 542,351 552,351 565,356 566,364 585,356 609,355 610,349 621,349 632,355 677,355 678,348 686,348 686,355 709,354 710,348 722,348 722,354 755,347 767,347 791,352 791,363 696,365 677,370 665,370 621,365 570,367 516,367 481,370 449,368 308,369 146,373 123,373" />
+				<Baseline points="123,373 247,370 791,363" />
+				<TextEquiv index="1">
+					<Unicode>im Dienste für das Reich schuldig zu sein, und verpfändet ihm</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="124,383 132,383 132,389 151,389 165,383 176,383 185,389 218,386 265,388 275,381 366,379 379,380 407,387 421,378 444,378 444,384 501,383 501,377 540,377 549,382 565,382 566,376 635,375 639,383 664,381 664,375 680,375 683,381 722,381 722,374 734,374 734,380 763,379 768,373 782,373 782,380 791,380 791,389 749,393 734,393 722,391 286,397 219,402 209,402 151,399 124,400" />
+				<Baseline points="124,400 209,397 791,389" />
+				<TextEquiv index="1">
+					<Unicode>für die 13000 Mark Silbers Haus und Stadt Aldemburch, die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="123,410 135,410 142,414 154,416 155,409 167,409 180,414 199,408 229,408 233,414 285,411 351,412 351,406 377,405 390,405 393,411 421,410 432,405 529,410 531,403 542,403 554,410 560,410 561,403 572,403 573,409 587,409 603,402 609,402 610,408 641,408 642,402 653,402 688,407 704,401 727,401 732,407 785,405 789,413 791,413 791,418 747,416 740,423 732,423 727,417 390,421 258,424 199,424 181,419 180,425 154,426 136,426 123,425" />
+				<Baseline points="123,425 791,415" />
+				<TextEquiv index="1">
+					<Unicode>Städte Chemnitz und Zwickowe und das Land zu Plysen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="123,437 142,436 143,444 150,444 163,435 176,435 176,441 187,441 196,444 211,434 232,435 254,440 255,434 298,437 311,440 311,433 323,433 332,437 379,438 380,432 421,431 421,437 444,437 445,431 477,431 478,438 511,438 516,443 544,430 556,429 562,429 605,429 612,435 669,434 669,444 641,449 578,446 142,452 123,452" />
+				<Baseline points="123,452 669,444" />
+				<TextEquiv index="1">
+					<Unicode>bis das Reich Städte und Land löse. Mit Zeugen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="151,467 167,467 170,473 213,472 213,466 227,466 239,471 263,472 263,479 285,470 308,470 326,464 338,464 339,470 429,466 510,468 560,467 561,461 572,461 590,467 602,467 734,462 751,464 770,458 782,458 782,464 793,464 793,474 724,479 691,478 646,481 634,481 608,477 602,480 486,477 460,481 302,481 268,486 252,486 239,482 151,484" />
+				<Baseline points="151,483 793,474" />
+				<TextEquiv index="1">
+					<Unicode>Nuremberg, an dem montag vor sand georg tag 1326, im</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="351,495 367,495 368,503 386,490 394,490 396,496 407,496 408,489 420,489 421,495 439,497 454,489 466,489 467,497 486,496 502,488 507,488 534,494 542,488 552,488 552,494 583,496 583,504 396,506 394,512 386,512 372,506 351,506" />
+				<Baseline points="351,506 454,504 583,504" />
+				<TextEquiv index="1">
+					<Unicode>12. Jahre des Reiches.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l12" points="136,526 145,525 154,525 236,523 248,523 318,522 328,522 368,521 373,521 390,526 409,524 427,519 437,519 437,526 448,525 453,525 470,525 470,519 505,519 515,524 522,525 532,519 546,519 584,523 609,518 649,518 665,518 679,518 679,525 684,525 691,518 712,517 718,517 727,518 768,519 790,515 794,515 794,529 774,529 763,533 756,533 734,530 718,530 679,531 649,531 638,532 598,532 585,529 584,536 569,536 553,532 515,533 480,533 480,539 470,539 463,537 448,533 437,531 437,539 427,539 419,534 400,534 390,539 384,539 367,535 311,535 274,540 265,540 257,536 221,540 200,540 195,540 172,537 171,543 161,543 154,537 136,537" baseline="136,537 195,536 273,535 598,531 794,529" reason: differs: "Copi" against "| | " | Wikisource:  | next_nc_e1: Copie. (Or. Perg mit dem Majestätssiegel des Königs im H.-St.-A. Dr. 2362.)
+ | german_print2_15: Copie. (Or. Perg mit dem Majestätssiegel des Königs im H.-St.-A. Dr. 2362.)
+ -->
+			<TextEquiv index="1">
+				<Unicode>1326, April 21.
+Eidam, zu den 2000 Mark Silbers, die ihm Kaiser Heinrich,
+gegeben hat, 8000 Mark Silbers für seinen grossen Schaden
+im Dienste für das Reich schuldig zu sein, und verpfändet ihm
+für die 13000 Mark Silbers Haus und Stadt Aldemburch, die
+Städte Chemnitz und Zwickowe und das Land zu Plysen,
+bis das Reich Städte und Land löse. Mit Zeugen.
+Nuremberg, an dem montag vor sand georg tag 1326, im
+12. Jahre des Reiches.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="129,574 801,574 801,773 129,773" />
+			<!-- line left out: id="r2l0" points="405,576 416,575 429,575 440,578 449,574 459,574 518,578 519,586 522,586 522,589 518,594 501,594 440,590 416,590 405,589" baseline="405,587 522,589" reason: differs: "Octo" against "1327" | Wikisource:  | next_nc_e1: October 17. | german_print2_15: October 17. -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="130,609 165,610 189,614 204,608 219,608 233,613 237,607 249,607 253,613 292,613 310,607 339,607 352,612 406,606 471,605 521,610 522,604 535,604 535,610 583,610 584,603 626,603 627,611 639,608 650,608 669,602 688,603 717,608 770,608 771,600 784,600 785,606 793,606 793,616 724,617 717,623 650,619 470,621 327,625 249,623 219,624 189,629 179,629 146,625 130,625" />
+				<Baseline points="130,625 793,616" />
+				<TextEquiv index="1">
+					<Unicode>König Ludwig gebietet den Consuln und den Bürgern der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="129,636 141,636 147,639 160,642 161,635 173,635 191,642 202,635 226,634 237,637 283,634 325,639 328,646 347,632 360,632 362,638 387,638 392,632 403,632 407,638 434,638 488,637 489,631 546,631 556,637 609,634 637,636 653,629 685,629 687,636 694,636 703,629 715,628 728,628 729,634 745,634 745,627 751,627 751,633 783,633 785,626 798,626 798,643 770,646 758,646 751,644 637,647 403,648 331,651 328,651 266,649 160,651 142,651 129,650" />
+				<Baseline points="129,651 202,649 798,643" />
+				<TextEquiv index="1">
+					<Unicode>Städte Altenburg, Zwikowe und Chemnitz, falls Markgraf</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="132,661 144,661 149,667 179,668 182,660 193,660 198,666 215,666 223,668 232,660 243,660 265,665 291,665 299,659 317,659 320,667 331,665 377,664 390,658 396,658 406,662 426,664 427,658 439,658 440,666 445,666 477,665 489,663 536,663 547,657 584,657 591,663 603,663 609,670 627,656 639,656 640,664 651,662 668,662 679,656 692,655 698,655 700,661 712,661 713,655 727,655 761,660 761,653 777,653 783,659 797,659 797,670 756,670 752,676 734,676 727,671 613,674 560,672 455,675 265,674 243,676 164,677 132,677" />
+				<Baseline points="132,677 258,674 797,670" />
+				<TextEquiv index="1">
+					<Unicode>Friedrich von Meissen sterbe, seinem Sohne, dem Markgrafen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="132,688 146,688 160,693 164,687 175,687 181,693 268,692 283,685 306,686 336,691 336,685 348,685 350,691 360,691 360,685 372,685 375,691 413,690 414,698 433,690 454,690 468,684 474,684 475,690 493,690 494,683 519,683 520,689 560,689 560,699 532,704 520,704 487,700 413,703 241,702 220,706 209,706 175,703 132,704" />
+				<Baseline points="132,704 267,701 560,699" />
+				<TextEquiv index="1">
+					<Unicode>Ludwig von Brandenburg, zu huldigen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="159,719 202,719 239,723 240,731 258,717 270,717 272,723 314,722 341,718 358,718 376,720 378,729 388,729 402,722 450,722 450,715 463,715 464,728 483,720 501,719 521,720 521,728 541,720 549,720 579,715 590,715 626,719 626,734 560,735 549,731 521,736 430,732 388,734 302,733 285,727 282,733 240,733 239,739 229,739 202,735 159,735" />
+				<Baseline points="159,733 626,730" />
+				<TextEquiv index="1">
+					<Unicode>Pisis, 17. die m. Oct., ao. di. 1327, regni 13.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="141,752 171,756 249,748 286,748 315,753 317,747 332,743 352,743 399,752 408,749 469,751 469,745 493,740 521,740 587,740 607,745 640,745 642,753 653,753 654,745 721,744 768,747 801,742 801,760 781,761 737,757 700,759 596,759 587,770 493,770 493,763 479,766 469,766 429,760 390,760 389,766 383,766 366,761 357,761 352,773 332,773 332,761 288,765 275,765 268,762 233,764 177,763 171,769 161,769 160,763 141,763" />
+				<Baseline points="141,763 801,756" />
+				<TextEquiv index="1">
+					<Unicode>Copie. (Or. Perg. mit d. Majestätssiegel des Königs im H.-St.-A. Dr. 2407.)</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>König Ludwig gebietet den Consuln und den Bürgern der
+Städte Altenburg, Zwikowe und Chemnitz, falls Markgraf
+Friedrich von Meissen sterbe, seinem Sohne, dem Markgrafen
+Ludwig von Brandenburg, zu huldigen.
+Pisis, 17. die m. Oct., ao. di. 1327, regni 13.
+Copie. (Or. Perg. mit d. Majestätssiegel des Königs im H.-St.-A. Dr. 2407.)</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="391,801 527,801 527,818 391,818" />
+			<!-- line left out: id="r3l0" points="391,814 410,801 416,801 427,802 453,801 464,801 466,807 483,806 506,805 520,805 524,813 527,813 527,816 491,817 483,817 428,816 416,815 395,818 391,818" baseline="391,818 410,817 490,816 527,816" reason: differs: "„Oct" against "| co" | Wikisource:  | next_nc_e1: „ October 17.
+ | german_print2_15: „October 17.
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="133,829 802,829 802,904 133,904" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="133,835 149,835 159,841 193,841 209,834 223,834 226,840 238,840 242,834 253,834 257,840 337,839 339,833 408,832 409,840 420,838 437,838 452,832 471,832 473,838 484,838 485,832 500,832 507,838 545,831 559,831 560,837 570,837 584,831 598,831 615,837 629,839 639,830 651,830 654,836 663,836 666,830 672,830 675,836 686,836 689,829 701,829 705,843 728,835 733,829 751,829 752,836 762,834 802,834 802,844 751,844 708,847 672,846 546,848 519,852 408,848 297,851 253,850 193,854 182,854 133,852" />
+				<Baseline points="133,851 802,843" />
+				<TextEquiv index="1">
+					<Unicode>König Ludwig meldet dem Markgrafen Friedrich, dass er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="134,862 145,862 147,869 168,867 190,861 210,862 237,867 308,866 328,860 369,859 373,867 388,865 406,865 410,859 415,859 417,865 464,865 483,859 488,859 490,865 533,859 548,859 567,864 567,858 583,858 584,865 595,865 596,857 608,857 609,863 699,862 719,855 733,855 733,861 786,860 802,862 802,867 787,867 786,876 774,876 733,871 645,876 583,874 453,878 432,875 369,875 237,880 226,880 134,878" />
+				<Baseline points="134,877 802,871" />
+				<TextEquiv index="1">
+					<Unicode>den Bürgern zu Aldemburg bei Androhung von Zwangs-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="134,894 191,893 199,887 231,887 233,893 243,893 257,887 263,887 265,893 286,886 320,886 321,893 343,892 358,886 369,886 370,892 381,892 382,886 387,886 401,891 406,898 425,885 437,885 444,891 497,891 510,885 516,885 517,891 535,891 536,885 547,884 561,884 562,891 601,890 601,900 574,902 287,902 224,904 199,904 164,904 134,904" />
+				<Baseline points="134,904 342,901 601,900" />
+				<TextEquiv index="1">
+					<Unicode>massregeln befohlen habe, ihm zu huldigen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>König Ludwig meldet dem Markgrafen Friedrich, dass er
+den Bürgern zu Aldemburg bei Androhung von Zwangs-
+massregeln befohlen habe, ihm zu huldigen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="147,916 805,916 805,969 147,969" />
+			<!-- line left out: id="r5l0" points="165,919 181,919 243,923 245,932 263,918 281,918 282,925 305,924 342,919 354,918 365,918 377,921 380,930 389,930 404,923 415,923 453,923 453,916 466,916 468,929 486,921 492,921 523,921 524,929 543,922 575,921 608,920 626,920 627,928 630,928 630,931 626,935 615,935 608,931 575,937 563,937 563,931 551,932 523,936 493,936 415,933 389,934 380,934 371,933 365,932 316,934 281,934 245,934 243,940 234,940 165,935" baseline="165,935 227,934 342,932 630,931" reason: differs: "P17." against "| | " | Wikisource:  | next_nc_e1: P 17. die m. Oct., ao. di. 1327, regni 13. | german_print2_15: RW 17. die m. Oct., ao. di. 1327, regni 13. -->
+			<!-- line left out: id="r5l1" points="147,953 155,950 164,950 197,955 198,961 220,955 229,950 243,950 263,949 273,949 310,953 341,949 350,948 360,948 382,953 403,952 437,948 446,947 451,947 453,955 464,955 465,948 477,948 484,950 496,955 497,947 537,947 545,948 570,947 576,946 595,946 651,945 656,945 656,951 668,950 694,948 703,947 709,947 709,939 720,939 720,946 743,943 750,943 761,943 789,945 805,947 805,959 782,960 773,960 744,957 720,957 720,967 709,967 703,962 667,959 610,960 557,961 546,961 537,960 511,961 507,961 484,960 464,961 414,961 371,966 361,966 319,962 261,963 178,963 176,969 166,969 164,962 154,964 147,964" baseline="147,963 403,960 760,956 805,955" reason: differs: "Copi" against ". | " | Wikisource:  | next_nc_e1: Copie. (Nach einer Copie im H.-St-A. Dr. Liber union. 1316 fol. 46.)
+ | german_print2_15: Copie. (Nach einer Copie im H.-St.-A. Dr. Liber union. 1316 fol. 46.)
+ -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="121,1005 812,1005 812,1255 121,1255" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="374,1011 401,1011 418,1013 433,1005 441,1005 449,1011 461,1011 461,1005 472,1005 472,1021 443,1021 441,1028 433,1028 408,1026 401,1022 391,1026 381,1026 374,1022" />
+				<Baseline points="374,1022 472,1021" />
+				<TextEquiv index="1">
+					<Unicode>1329, Juni</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l1" points="121,1039 155,1039 157,1045 174,1045 203,1045 222,1039 237,1039 240,1045 251,1045 255,1039 266,1039 270,1045 309,1045 343,1044 363,1044 387,1044 400,1043 409,1041 414,1041 476,1043 488,1042 505,1042 529,1036 568,1036 593,1041 597,1049 626,1035 638,1035 639,1042 650,1040 667,1040 688,1033 695,1033 708,1034 710,1040 731,1040 731,1034 743,1034 744,1040 757,1039 770,1039 770,1033 787,1033 792,1039 806,1039 806,1049 793,1050 756,1054 744,1054 708,1051 695,1054 688,1054 601,1052 581,1052 505,1053 476,1053 414,1053 387,1054 363,1054 309,1056 298,1056 266,1055 174,1055 146,1055 121,1055" baseline="121,1054 688,1050 806,1049" reason: second model: differs: "j.„K" against "23. " | Wikisource: Kaiser Ludwig erneuert seinem Eidam, dem Markgrafen | next_nc_e1: Kaiser Ludwig erneuert seinem Eidam, dem Markgrafen | german_print2_15: j.„ Kaiser Ludwig erneuert seinem Eidam, dem Markgrafen -->
+			<TextLine id="r6l2" custom="readingOrder {index:2;}">
+				<Coords points="141,1065 155,1065 161,1071 178,1071 187,1073 199,1065 210,1065 228,1071 241,1072 247,1065 252,1065 254,1071 286,1073 287,1065 299,1065 300,1073 321,1064 343,1064 343,1070 372,1070 373,1064 407,1064 408,1072 420,1063 428,1063 428,1071 438,1071 442,1076 456,1069 468,1069 476,1071 483,1063 489,1063 490,1069 500,1069 501,1063 513,1063 514,1070 611,1067 625,1061 647,1061 655,1067 689,1067 703,1061 719,1061 724,1068 731,1060 744,1060 748,1066 755,1066 755,1059 771,1059 782,1060 796,1065 797,1059 807,1059 807,1075 771,1077 586,1077 442,1081 407,1079 266,1082 254,1082 233,1080 141,1081" />
+				<Baseline points="141,1081 807,1075" />
+				<TextEquiv index="1">
+					<Unicode>Friedrich, die Pfandbriefe, welche er vom Kaiser Heinrich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l3" custom="readingOrder {index:3;}">
+				<Coords points="142,1097 171,1097 173,1091 209,1097 216,1091 279,1091 279,1099 289,1099 291,1091 384,1091 385,1097 404,1096 436,1098 436,1089 457,1089 469,1093 517,1090 560,1096 560,1088 572,1088 576,1101 612,1088 626,1088 630,1094 708,1092 739,1093 770,1085 776,1085 776,1091 790,1091 791,1085 807,1085 807,1102 688,1106 671,1108 659,1108 626,1104 580,1106 469,1105 142,1107" />
+				<Baseline points="142,1107 807,1101" />
+				<TextEquiv index="1">
+					<Unicode>und ihm selbst über Altenburch, Zwiggowe und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l4" custom="readingOrder {index:4;}">
+				<Coords points="143,1118 158,1118 164,1125 179,1123 265,1121 285,1122 292,1124 317,1117 322,1117 323,1123 347,1121 352,1130 379,1122 404,1122 404,1116 478,1116 479,1122 503,1119 554,1121 556,1114 594,1114 596,1120 612,1121 632,1114 641,1113 656,1113 656,1119 678,1119 678,1113 691,1113 691,1119 761,1118 780,1112 809,1112 809,1128 503,1133 404,1132 158,1134 143,1134" />
+				<Baseline points="143,1133 809,1128" />
+				<TextEquiv index="1">
+					<Unicode>Kemmenitze hat, und schlägt auf die Pfandsumme die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l5" custom="readingOrder {index:5;}">
+				<Coords points="143,1144 178,1144 178,1151 189,1151 207,1147 238,1149 239,1156 263,1148 275,1148 285,1142 296,1142 297,1150 307,1143 319,1143 320,1150 352,1149 352,1142 364,1142 366,1148 378,1148 392,1142 410,1142 424,1147 434,1142 446,1142 446,1148 473,1148 473,1142 488,1142 535,1148 555,1148 556,1141 567,1141 567,1147 643,1146 644,1140 670,1139 676,1139 696,1139 697,1145 729,1145 741,1139 754,1139 754,1145 766,1145 766,1139 778,1139 810,1144 810,1153 799,1155 521,1158 458,1161 446,1161 275,1157 243,1160 213,1159 159,1161 143,1161" />
+				<Baseline points="143,1157 810,1154" />
+				<TextEquiv index="1">
+					<Unicode>Unkosten, welche der Markgraf in seinem und seines Sohnes</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l6" custom="readingOrder {index:6;}">
+				<Coords points="143,1171 165,1172 166,1178 200,1174 237,1176 251,1168 262,1168 263,1176 282,1174 295,1168 313,1168 315,1174 335,1169 367,1168 383,1169 384,1175 414,1175 414,1168 450,1168 452,1174 490,1174 504,1167 511,1167 511,1174 521,1174 526,1167 533,1167 534,1174 544,1174 544,1168 585,1167 591,1167 622,1170 622,1182 490,1187 479,1187 262,1184 148,1187 143,1187" />
+				<Baseline points="143,1186 251,1184 622,1182" />
+				<TextEquiv index="1">
+					<Unicode>Dienst in der Mark Brandenburg gehabt hat.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l7" custom="readingOrder {index:7;}">
+				<Coords points="283,1206 289,1199 301,1199 303,1207 312,1207 326,1199 334,1199 336,1205 359,1205 366,1213 385,1205 432,1205 432,1199 446,1199 447,1212 465,1204 533,1204 563,1199 574,1199 607,1202 608,1211 627,1197 632,1197 633,1203 665,1202 686,1197 697,1197 720,1201 721,1209 724,1209 724,1212 676,1213 665,1218 545,1218 533,1215 492,1215 483,1219 472,1219 396,1215 359,1216 334,1221 326,1221 312,1212 301,1215 283,1215" />
+				<Baseline points="283,1215 724,1212" />
+				<TextEquiv index="1">
+					<Unicode>die Jun., ao. di. 1329, regni 15, imperii 2.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l8" points="154,1234 160,1234 194,1234 204,1234 243,1234 263,1231 267,1231 279,1232 298,1231 302,1231 330,1230 345,1230 345,1222 364,1222 367,1231 389,1231 433,1231 439,1233 447,1236 456,1230 461,1230 491,1229 516,1229 516,1235 525,1235 531,1236 536,1230 548,1228 559,1228 578,1229 596,1228 607,1228 607,1222 626,1222 626,1228 660,1228 676,1228 689,1228 695,1234 701,1234 701,1228 725,1227 734,1227 741,1228 781,1226 790,1226 812,1226 812,1241 806,1244 791,1244 779,1243 770,1243 734,1241 689,1242 676,1242 660,1242 657,1242 626,1241 626,1255 607,1255 607,1241 594,1242 564,1243 482,1248 471,1248 439,1243 399,1248 393,1248 367,1243 364,1255 345,1255 345,1243 302,1247 293,1247 267,1244 226,1246 204,1251 194,1251 175,1251 173,1245 154,1245" baseline="154,1244 345,1243 752,1240 812,1240" reason: second model: differs: "Copi" against "| | " | Wikisource: Copie. (Or. Perg. mit d. Majestätssiegel des Kaisers im H.-St.-A. Dr. 2483.) | next_nc_e1: Copie. (Or. Perg. mit d. Majestätssiegel des Kaisers im H.-St.-A. Dr. 2483.)
+ | german_print2_15: Copie. (Or. Perg. mit d. Majestätssiegel des Kaisers im HI.-St.-A. Dr. 2483.)
+ -->
+			<TextEquiv index="1">
+				<Unicode>1329, Juni
+Friedrich, die Pfandbriefe, welche er vom Kaiser Heinrich
+und ihm selbst über Altenburch, Zwiggowe und
+Kemmenitze hat, und schlägt auf die Pfandsumme die
+Unkosten, welche der Markgraf in seinem und seines Sohnes
+Dienst in der Mark Brandenburg gehabt hat.
+die Jun., ao. di. 1329, regni 15, imperii 2.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="390,1287 517,1287 517,1310 390,1310" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="390,1292 435,1293 449,1287 458,1287 459,1293 476,1288 488,1288 517,1292 517,1304 459,1304 458,1310 449,1310 396,1308 390,1304" />
+				<Baseline points="390,1308 434,1305 517,1303" />
+				<TextEquiv index="1">
+					<Unicode>1330, Juni 2.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>1330, Juni 2.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="107,1315 814,1315 814,1370 107,1370" />
+			<!-- line left out: id="r8l0" points="107,1327 116,1327 134,1331 150,1322 166,1322 173,1328 184,1328 213,1328 229,1321 243,1321 246,1328 258,1328 262,1321 274,1321 279,1327 287,1327 287,1321 305,1321 305,1327 320,1327 338,1319 343,1319 376,1319 378,1326 389,1325 401,1323 426,1319 438,1319 439,1325 445,1325 473,1324 520,1324 534,1318 547,1317 554,1317 555,1323 567,1323 567,1317 633,1317 635,1323 669,1323 670,1330 695,1324 699,1316 714,1316 714,1322 725,1322 747,1321 759,1321 772,1315 785,1315 786,1321 796,1320 814,1320 814,1331 759,1332 725,1332 702,1333 674,1335 605,1335 601,1335 554,1334 520,1335 401,1340 389,1340 352,1336 343,1340 287,1340 274,1337 258,1338 184,1338 116,1342 107,1342" baseline="107,1338 212,1337 407,1335 586,1333 758,1331 814,1331" reason: differs: "30.K" against "| st" | Wikisource:  | next_nc_e1: 30. Kaiser Ludwig schlägt die 1000 Mark Silbers, die er dem | german_print2_15: 30. Kaiser-Ludwig schlägt die 1000 Mark Silbers, die er dem -->
+			<TextLine id="r8l1" custom="readingOrder {index:1;}">
+				<Coords points="149,1349 197,1348 204,1354 225,1354 231,1350 243,1350 267,1354 278,1347 292,1347 295,1353 337,1354 337,1346 354,1346 358,1352 377,1352 378,1345 390,1345 394,1359 413,1353 433,1351 480,1351 489,1345 530,1344 530,1350 585,1351 585,1343 596,1343 596,1349 615,1349 616,1343 634,1343 635,1350 646,1346 692,1348 699,1342 711,1342 712,1349 731,1348 739,1342 752,1342 752,1348 762,1348 763,1341 775,1341 775,1347 787,1347 788,1341 795,1340 808,1340 808,1350 814,1350 814,1353 808,1358 711,1359 659,1363 646,1363 630,1360 587,1360 559,1362 461,1362 398,1365 243,1363 225,1364 225,1370 204,1370 203,1364 149,1365" />
+				<Baseline points="149,1364 814,1357" />
+				<TextEquiv index="1">
+					<Unicode>Markgrafen Friedrich, seinem Eidam, schuldet, zu der Schuld-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Markgrafen Friedrich, seinem Eidam, schuldet, zu der Schuld-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="397,1549 602,1549 602,1561 397,1561" />
+			<!-- line left out: id="r9l0" points="397,1549 405,1549 411,1549 437,1549 446,1549 459,1549 472,1549 488,1549 502,1549 528,1549 551,1549 574,1550 602,1550 602,1558 574,1560 554,1560 534,1558 488,1558 446,1561 429,1561 416,1560 410,1560 397,1558" baseline="397,1558 533,1557 602,1557" reason: differs: "hnpe" against "summ" | Wikisource:  | next_nc_e1: hnpe digital slub-dresden de ppn302
+ | german_print2_15: PGdigital slub-dresden de ppne12:
+ -->
+		</TextRegion>
+		<GraphicRegion id="r10">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+| colspan="2"; style="text-align:center;" | 1326, April 21.
+| style="vertical-align:top;"| 26.
+| König Ludwig bekennt, dem Markgrafen Friedrich, seinem Eidam, zu den 2000 Mark Silbers, die ihm Kaiser Heinrich, und zu den 3000 Mark Silbers, die er ihm für seine Dienste gegeben hat, 8000 Mark Silbers für seinen grossen Schaden im Dienste für das Reich schuldig zu sein, und verpfändet ihm für die 13000 Mark Silbers Haus und Stadt Aldemburch, die Städte Chemnitz und Zwickowe und das Land zu Plysen, bis das Reich Städte und Land löse. Mit Zeugen.
+|
+| Nuremberg, an dem montag vor sand georg tag 1326, im 12. Jahre des Reiches.
+|
+| Copie. (Or. Perg. mit dem Majestätssiegel des Königs im H.-St.-A. Dr. 2362.)
+| colspan="2"; style="text-align:center;" | 1327, October 17.
+| style="vertical-align:top;"| 27.
+| König Ludwig gebietet den Consuln und den Bürgern der Städte Altenburg, Zwikowe und Chemnitz, falls Markgraf Friedrich von Meissen sterbe, seinem Sohne, dem Markgrafen Ludwig von Brandenburg, zu huldigen.
+|
+| Pisis, 17. die m. Oct., ao. di. 1327, regni 13.
+|
+| Copie. (Or. Perg. mit d. Majestätssiegel des Königs im H.-St.-A. Dr. 2407.)
+| colspan="2"; style="text-align:center;" | 1327, October 17.
+| style="vertical-align:top;"| 28.
+| König Ludwig meldet dem Markgrafen Friedrich, dass er den Bürgern zu Aldemburg bei Androhung von Zwangsmassregeln befohlen habe, ihm zu huldigen.
+|
+| Pisis, 17. die m. Oct., ao. di. 1327, regni 13.
+|
+| Copie. (Nach einer Copie im H.-St.-A. Dr. Liber union. 1316 fol. 46.)
+| colspan="2"; style="text-align:center;" | 1329, Juni 23.
+| style="vertical-align:top;"| 29.
+| Kaiser Ludwig erneuert seinem Eidam, dem Markgrafen Friedrich, die Pfandbriefe, welche er vom Kaiser Heinrich und ihm selbst über Altenburch, Zwiggowe und Kemmenitze hat, und schlägt auf die Pfandsumme die Unkosten, welche der Markgraf in seinem und seines Sohnes Dienst in der Mark Brandenburg gehabt hat.
+|
+| Papie, 23. die Jun., ao. di. 1329, regni 15, imperii 2.
+|
+| Copie. (Or. Perg. mit d. Majestätssiegel des Kaisers im H.-St.-A. Dr. 2483.)
+| colspan="2"; style="text-align:center;" | 1330, Juni 2.
+| style="vertical-align:top;"| 30.
+| Kaiser Ludwig schlägt die 1000 Mark Silbers, die er dem Markgrafen Friedrich, seinem Eidam, schuldet, zu der Schuldsumme,
+-->
+	</Page>
+</PcGts>

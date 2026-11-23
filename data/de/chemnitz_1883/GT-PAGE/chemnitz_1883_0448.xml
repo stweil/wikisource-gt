@@ -1,0 +1,460 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:13:43</Created>
+		<LastChange>2026-11-23T14:13:43</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/448 revision 5050741 of 2026-09-15T10:06:11Z, proofread level 3, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0448.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro7465522634760567868" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="21" regionRef="r21" />
+				<RegionRefIndexed index="23" regionRef="r23" />
+				<RegionRefIndexed index="25" regionRef="r25" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,883 13,883 13,958 0,958" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,1013 12,1013 12,1062 0,1062" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="496,155 625,155 625,172 496,172" />
+			<!-- line left out: id="r2l0" points="539,159 551,155 562,155 573,156 573,160 562,162 539,162" baseline="539,162 573,162" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 236 | german_print2_15: 236 -->
+			<!-- line left out: id="r2l1" points="496,165 510,165 539,155 550,155 551,164 564,160 574,160 604,166 625,166 625,168 574,171 563,172 539,172 510,166 496,166" baseline="496,168 625,171" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 236 —
+ | german_print2_15: — 236 —
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="201,208 907,208 907,328 201,328" />
+			<!-- line left out: id="r3l0" points="202,208 207,208 241,208 247,214 276,214 278,221 298,209 326,209 326,215 336,215 374,215 380,210 415,210 427,215 450,216 496,216 556,217 556,232 535,232 496,227 484,227 475,226 428,226 326,225 218,224 202,223" baseline="202,223 335,224 521,226 556,227" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: laſſsenn. Wie euch dann ewere ge | german_print2_15: laſſsenn. Wie euch dann ewere ges -->
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="202,239 240,234 252,234 252,240 291,240 291,234 293,234 336,234 380,235 382,241 464,242 485,244 485,236 490,236 492,244 502,244 503,237 517,237 553,238 567,244 595,243 608,245 608,238 614,238 615,244 632,244 634,238 651,238 659,244 669,244 670,238 701,238 705,244 759,244 768,239 819,239 822,245 906,246 906,256 819,257 814,257 779,254 567,256 541,253 394,254 331,250 202,250" />
+				<Baseline points="202,249 906,256" />
+				<TextEquiv index="1">
+					<Unicode>werdenn. Vnd begerenn derhalb gnedigklich Ihr wollet Jrenn an-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="201,265 312,265 322,261 346,261 346,268 395,267 407,269 408,262 425,262 427,268 437,267 444,262 456,262 456,268 523,269 526,263 536,263 544,269 562,264 588,263 598,270 653,271 654,264 666,264 667,271 704,270 704,264 747,264 799,271 812,259 827,259 828,265 839,265 841,271 886,266 894,267 907,272 907,282 880,282 573,281 561,279 513,281 443,278 246,275 246,281 222,281 221,275 201,275" />
+				<Baseline points="201,275 812,280 907,282" />
+				<TextEquiv index="1">
+					<Unicode>zeygenn volkommenlichenn glawbenn gebenn. Daran thut Ihr</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l3" points="201,291 224,291 235,292 244,293 251,291 265,291 275,293 307,286 313,286 332,286 357,287 358,293 370,293 378,286 380,286 400,293 418,293 472,293 499,293 548,289 554,289 564,291 583,294 584,303 615,289 636,289 637,298 648,296 655,296 660,290 671,290 672,297 684,296 703,296 705,290 747,290 749,298 760,296 770,296 791,290 807,290 819,291 825,304 844,292 855,291 861,291 863,298 884,296 890,296 907,298 907,309 898,309 875,308 825,307 747,306 703,308 692,308 672,306 660,304 655,311 648,311 636,305 554,305 506,309 499,309 438,309 430,309 419,304 400,303 380,309 370,309 358,309 357,303 331,303 320,302 313,309 307,309 275,302 265,302 235,301 212,301 201,300" baseline="201,300 505,304 587,304 791,306 907,308" reason: second model: differs: "enXNV.M" against "n XV. M" | Wikisource: vnesere gefellige meynunge. Dat. Freybergk den XV. Martii, | next_nc_e1: vnesere gefellige meynunge. Dat. Freybergk den XV. Martii, | german_print2_15: vnesere gefellige meynunge. Dat. Freybergk den XNV. Martii, -->
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="201,312 216,312 322,312 322,328 293,328 268,328 201,327" />
+				<Baseline points="201,327 322,328" />
+				<TextEquiv index="1">
+					<Unicode>Anno LVII.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>werdenn. Vnd begerenn derhalb gnedigklich Ihr wollet Jrenn an-
+zeygenn volkommenlichenn glawbenn gebenn. Daran thut Ihr
+Anno LVII.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="592,212 907,212 907,234 592,234" />
+			<!-- line left out: id="r4l0" points="592,212 603,212 610,216 632,218 652,220 653,212 667,212 667,220 692,219 700,218 712,218 744,218 764,219 794,218 807,218 843,215 859,215 889,215 898,221 907,221 907,231 889,231 876,231 838,230 790,229 744,228 731,228 726,234 700,234 700,227 667,228 623,228 610,227 592,227" baseline="592,227 692,227 780,228 907,230" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: dten des weytter vnterrichtenn
+ | german_print2_15: dten des weytter vnterrichtenn
+ -->
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="559,218 588,218 588,227 559,227" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="575,269 598,269 598,279 575,279" />
+		</GraphicRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="226,337 850,337 850,440 226,440" />
+			<!-- line left out: id="r7l0" points="646,341 717,337 733,337 775,342 776,348 798,343 824,343 830,350 841,349 850,349 850,359 824,359 810,359 776,358 764,357 733,367 717,367 702,357 646,357" baseline="646,357 764,357 850,359" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: M h z Sachſſsen | german_print2_15: M h z Sachllsen -->
+			<!-- line left out: id="r7l1" points="695,373 712,373 763,368 775,368 775,384 763,384 750,389 727,389 712,383 695,383" baseline="695,383 763,383 775,384" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: m pp ſſ | german_print2_15: m pp (I -->
+			<!-- line left out: id="r7l2" points="226,390 242,390 260,393 301,396 327,390 348,390 356,396 367,396 423,391 428,391 430,397 435,397 443,400 447,391 459,391 460,398 472,397 493,397 518,398 530,396 536,396 550,397 607,398 623,392 639,392 640,401 651,398 682,393 688,393 696,394 731,394 731,409 688,409 682,409 574,408 530,407 519,404 518,410 507,410 443,407 436,407 367,406 301,406 271,406 226,405" baseline="226,405 300,405 682,408 731,409" reason: differs: "Auss" against "⟧ | " | Wikisource:  | next_nc_e1: Auſsen: Vnnsern liebenn getrewenn Dem Rathe | german_print2_15: Auſsen: Vnnsern liebenn getrewenn Dem Rathe -->
+			<TextLine id="r7l3" custom="readingOrder {index:3;}">
+				<Coords points="377,422 411,423 413,416 424,416 454,417 456,424 566,424 582,418 597,418 598,427 609,424 665,423 679,425 679,434 641,434 640,440 629,440 626,434 556,434 510,432 504,439 492,439 492,433 377,431" />
+				<Baseline points="377,432 679,434" />
+				<TextEquiv index="1">
+					<Unicode>vnnd Gemeyne zu Kempnitz.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>vnnd Gemeyne zu Kempnitz.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="484,448 656,448 656,467 484,467" />
+		</GraphicRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="521,449 907,449 907,471 521,471" />
+			<!-- line left out: id="r9l0" points="521,458 532,454 544,449 555,449 556,457 581,449 586,449 586,455 597,455 597,449 609,449 632,449 634,456 646,456 663,458 665,450 675,450 683,458 692,458 707,451 716,451 718,457 730,455 736,455 745,456 758,457 768,455 781,455 803,457 829,457 840,451 859,451 862,460 874,457 880,456 885,456 897,457 907,458 907,471 899,471 859,467 829,467 819,467 803,465 781,466 758,466 736,466 716,466 707,466 681,465 646,468 632,468 609,468 597,468 581,465 532,464 521,461" baseline="521,464 581,464 707,465 828,466 907,467" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: ende herzogliche Antwort von Freitag
+ | german_print2_15: ende herzogliche Antwort von Freitag
+ -->
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="365,473 767,473 767,492 365,492" />
+			<!-- line left out: id="r10l0" points="365,480 371,479 383,479 385,473 392,473 405,482 416,480 448,479 455,479 461,480 477,479 489,479 510,480 521,482 544,481 551,481 574,481 576,475 580,475 590,481 614,481 633,484 650,475 655,475 664,477 683,480 707,485 714,477 718,477 736,482 736,475 751,475 757,477 761,485 767,485 767,491 757,492 714,492 683,491 614,491 595,491 590,487 576,479 574,490 510,490 489,490 477,490 461,489 433,490 416,490 365,489" baseline="365,489 544,489 632,490 767,492" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: auf ein weiteres verlornes Ratsschreibe
+ | german_print2_15: auf ein weiteres verlornes Ratsschreibe
+ -->
+		</TextRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="199,446 908,446 908,546 199,546" />
+			<!-- line left out: id="r11l0" points="252,460 257,446 274,446 274,452 280,452 292,453 294,447 306,447 323,447 324,453 352,453 364,447 369,447 389,448 397,454 408,454 409,448 414,448 450,452 466,452 466,463 396,464 390,464 273,463 252,462" baseline="252,462 466,463" reason: differs: "Ähnl" against "n, d" | Wikisource:  | next_nc_e1: Ähnlichen Inhalts ist | german_print2_15: Ahnlichen Inhalts ist -->
+			<!-- line left out: id="r11l1" points="199,472 211,472 212,479 223,478 256,473 274,473 275,486 293,473 318,473 325,479 340,479 340,489 293,489 199,488" baseline="199,488 293,488 340,489" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: dem 18. März | german_print2_15: dem 18. März -->
+			<TextLine id="r11l2" custom="readingOrder {index:2;}">
+				<Coords points="200,497 206,497 241,502 302,505 318,499 359,499 359,507 367,507 381,499 392,499 401,507 410,507 423,499 439,499 446,506 458,506 458,500 468,500 469,506 513,504 568,507 583,501 594,501 595,508 614,507 628,501 642,501 643,508 683,508 685,502 696,502 698,508 714,508 725,510 737,504 751,504 770,508 787,509 789,503 794,503 805,508 832,509 840,511 854,503 865,503 867,509 887,509 899,503 908,503 908,519 854,518 833,516 832,522 821,522 807,518 794,517 698,518 583,517 542,515 394,516 200,513" />
+				<Baseline points="200,514 908,519" />
+				<TextEquiv index="1">
+					<Unicode>Bitten um Hilfe die Nachricht von der Einnahme Annabergs durch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l3" custom="readingOrder {index:3;}">
+				<Coords points="199,524 211,523 225,523 226,530 286,530 307,532 307,525 322,525 322,533 333,533 348,525 364,525 365,531 386,532 388,525 400,525 408,532 416,530 491,532 492,526 505,526 513,532 525,532 525,526 535,526 544,531 549,540 552,540 552,542 322,541 257,546 239,546 237,540 199,540" />
+				<Baseline points="199,540 552,542" />
+				<TextEquiv index="1">
+					<Unicode>Truppen des Kurfürsten enthielt:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Bitten um Hilfe die Nachricht von der Einnahme Annabergs durch
+Truppen des Kurfürsten enthielt:</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="806,476 908,476 908,493 806,493" />
+			<!-- line left out: id="r12l0" points="806,476 817,476 824,485 852,483 862,483 868,486 875,478 880,478 883,484 894,483 908,483 908,493 894,493 862,492 829,492 806,492" baseline="806,492 852,492 908,493" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: das neben
+ | german_print2_15: das neben
+ -->
+		</TextRegion>
+		<GraphicRegion id="r13">
+			<Coords points="359,484 792,484 792,493 359,493" />
+		</GraphicRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="193,557 908,557 908,1150 193,1150" />
+			<TextLine id="r14l0" custom="readingOrder {index:0;}">
+				<Coords points="418,557 446,557 447,563 500,558 501,564 513,562 565,564 566,558 578,558 579,566 600,564 628,558 645,558 655,564 681,563 690,565 690,574 541,576 530,576 500,573 418,572" />
+				<Baseline points="418,572 690,574" />
+				<TextEquiv index="1">
+					<Unicode>Von Gotsgnaden Moritz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l1" custom="readingOrder {index:1;}">
+				<Coords points="442,583 457,583 459,591 471,588 519,590 521,584 608,584 610,591 672,590 672,600 595,600 519,602 504,602 496,599 442,599" />
+				<Baseline points="442,599 672,600" />
+				<TextEquiv index="1">
+					<Unicode>Hertzogk zu Sachssenn.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l2" custom="readingOrder {index:2;}">
+				<Coords points="251,607 258,607 271,608 272,614 283,614 283,608 295,608 296,614 343,614 355,612 407,614 457,609 478,609 479,615 518,610 520,616 529,616 530,610 542,610 545,616 633,616 661,618 661,611 671,611 672,617 692,618 699,611 710,611 712,617 766,616 776,611 792,611 812,612 839,616 887,618 887,612 893,612 908,617 908,627 513,625 499,631 479,631 478,624 429,629 331,629 308,624 251,623" />
+				<Baseline points="251,623 908,627" />
+				<TextEquiv index="1">
+					<Unicode>Lieben getrawen, Wyr haben ewer schreiben vnd bitt endt-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l3" custom="readingOrder {index:3;}">
+				<Coords points="198,639 210,639 212,633 220,633 220,639 278,639 281,647 308,640 330,640 331,634 342,634 363,640 384,641 431,641 432,635 444,635 444,642 499,636 506,636 506,642 552,642 552,636 565,636 566,643 590,642 618,637 678,637 689,642 779,642 784,647 791,637 802,637 808,642 814,650 840,643 855,644 857,638 873,638 888,644 908,642 908,653 814,654 716,651 646,654 588,652 577,655 516,656 499,656 384,651 198,654" />
+				<Baseline points="198,649 908,653" />
+				<TextEquiv index="1">
+					<Unicode>pfangen, vnd zu sonderm genedigen gefallen vormarckt, vnd ist</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l4" custom="readingOrder {index:4;}">
+				<Coords points="198,665 210,665 211,659 216,659 217,665 227,665 228,659 239,659 279,660 297,665 309,666 309,674 335,660 347,660 348,666 444,668 444,661 456,661 457,668 497,667 509,662 548,668 548,662 574,662 574,668 586,668 586,662 611,668 755,668 781,663 797,663 799,669 846,669 883,672 884,663 896,663 897,670 908,670 908,678 858,681 847,681 688,680 618,677 309,677 198,675" />
+				<Baseline points="198,675 908,679" />
+				<TextEquiv index="1">
+					<Unicode>nicht ahne, das vns die zeittungen von wegen einnhemung des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l5" custom="readingOrder {index:5;}">
+				<Coords points="197,686 213,686 268,686 286,691 307,692 309,686 319,686 334,692 369,687 379,687 393,693 415,693 417,687 427,687 428,693 482,693 528,688 549,688 550,695 560,695 560,688 606,688 620,696 642,694 643,688 659,688 660,694 701,689 749,698 755,688 765,688 773,694 821,695 862,690 896,690 908,694 908,705 805,706 794,704 724,703 537,703 307,707 295,707 269,702 197,701" />
+				<Baseline points="197,701 908,705" />
+				<TextEquiv index="1">
+					<Unicode>Annenbergk auch zukommen, Wolleth euch aber derwegen nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l6" custom="readingOrder {index:6;}">
+				<Coords points="197,718 215,715 320,718 320,712 326,712 326,718 395,717 417,719 488,719 489,726 507,714 519,714 519,720 532,719 549,714 562,714 589,722 596,720 648,718 663,714 673,714 684,720 724,720 726,714 731,714 733,720 745,715 771,714 776,714 777,720 787,720 787,714 799,714 809,719 820,721 845,718 880,723 887,721 907,721 907,733 898,733 871,730 630,731 519,728 493,731 418,732 364,728 197,727" />
+				<Baseline points="197,727 907,730" />
+				<TextEquiv index="1">
+					<Unicode>entsetzen ader vortzagt sein, Sonder ein guth manlich hertze fassen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l7" custom="readingOrder {index:7;}">
+				<Coords points="198,737 214,737 214,743 373,745 391,739 410,739 410,745 444,744 450,739 460,739 461,746 472,744 484,739 528,740 528,746 539,746 540,740 552,740 553,747 575,746 576,753 598,740 613,740 613,746 665,748 670,740 696,740 698,746 769,746 770,740 782,740 784,747 907,747 907,757 853,759 844,759 735,756 710,750 709,756 354,754 309,759 268,759 255,759 255,753 198,753" />
+				<Baseline points="198,753 907,756" />
+				<TextEquiv index="1">
+					<Unicode>Da wyr gewisse kuntschafft haben, Das solche einnhemung von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l8" custom="readingOrder {index:8;}">
+				<Coords points="195,763 219,763 220,769 269,764 284,764 284,770 350,768 365,765 376,765 389,771 480,771 496,765 509,765 520,768 522,774 531,771 554,772 555,766 559,766 560,772 572,772 574,766 584,766 599,772 621,772 622,766 633,766 658,771 703,772 705,766 715,766 726,772 742,766 751,766 758,772 765,772 766,766 777,766 779,774 814,767 819,767 821,773 906,773 906,786 872,783 733,781 731,787 726,787 703,784 560,786 539,781 509,782 499,786 389,786 365,781 195,779" />
+				<Baseline points="195,779 906,783" />
+				<TextEquiv index="1">
+					<Unicode>Thomashirn mith geringem fuſsvolgk vnd wenigk pferden bescheen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l9" custom="readingOrder {index:9;}">
+				<Coords points="197,795 219,795 220,789 231,789 249,796 254,789 269,789 269,796 310,794 332,790 332,796 390,797 390,791 401,791 428,799 437,795 477,798 478,791 488,791 504,800 520,797 576,799 577,792 630,792 684,798 685,792 702,792 718,798 797,798 798,792 802,792 832,799 843,799 844,793 849,793 851,801 872,799 874,793 886,793 886,800 906,799 906,809 832,810 768,808 754,814 735,814 730,807 652,808 564,806 465,811 413,807 197,805" />
+				<Baseline points="197,805 906,808" />
+				<TextEquiv index="1">
+					<Unicode>vnd des orths nicht stargk sein soll. Darumb wyr nicht gleuben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r14l10" points="196,815 208,815 208,821 289,816 295,816 339,824 346,824 346,817 357,817 357,823 371,823 394,825 395,817 400,817 401,823 411,823 412,817 422,817 437,823 468,823 545,822 548,822 602,818 606,818 608,824 631,824 702,824 712,818 723,818 736,822 737,831 755,818 771,818 780,824 791,824 792,818 803,818 805,826 816,824 848,824 872,825 878,819 883,819 896,823 906,826 906,834 803,834 792,834 771,833 741,835 737,835 725,834 702,833 696,834 652,834 631,836 620,836 548,833 530,834 489,834 482,834 422,833 273,835 262,835 251,832 226,832 208,831 196,831" baseline="196,831 755,833 906,834" reason: differs: "en,Iehr" against "n, Das " | Wikisource:  | next_nc_e1: konnen, I ehr sich vor ewre statt lagern wirdet, Sonder mochte | german_print2_15: konnen, I ehr sich vor ewre statt lagern wirdet, Sonder mochte -->
+			<TextLine id="r14l11" custom="readingOrder {index:11;}">
+				<Coords points="196,847 214,841 219,841 233,842 250,847 251,841 262,841 287,849 300,842 316,842 322,843 330,850 343,850 350,843 373,843 374,849 402,849 402,843 421,843 423,850 487,849 494,848 505,843 515,843 527,851 584,849 589,843 600,843 602,850 612,850 612,843 624,843 645,844 646,851 667,850 681,844 686,844 689,850 770,850 785,844 795,844 797,850 848,851 864,844 896,844 896,851 905,851 905,860 785,861 686,859 645,860 633,862 612,862 583,859 453,860 221,858 196,856" />
+				<Baseline points="196,857 905,860" />
+				<TextEquiv index="1">
+					<Unicode>villeichte Dieselbe alleine auff ein schregken berennen lassen, Der-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l12" custom="readingOrder {index:12;}">
+				<Coords points="195,868 207,868 238,868 271,873 361,875 361,869 375,869 375,875 387,875 395,877 408,870 420,870 443,875 495,870 517,870 517,876 529,876 530,870 573,869 586,881 592,876 616,870 649,870 650,878 686,870 699,870 701,876 717,876 719,870 722,870 738,878 767,873 782,873 800,878 807,870 833,870 835,876 851,877 852,871 862,871 873,877 894,877 896,871 905,871 905,886 504,885 480,887 427,888 408,885 388,884 387,890 375,890 195,884" />
+				<Baseline points="195,884 905,886" />
+				<TextEquiv index="1">
+					<Unicode>halb vnser gnedigs begern, Wolleth auff den fhal euch ehrlich vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l13" custom="readingOrder {index:13;}">
+				<Coords points="195,900 237,900 238,894 250,894 273,894 287,902 297,898 304,898 315,901 316,895 336,895 336,901 389,901 390,895 401,895 416,901 428,901 432,895 438,895 438,901 492,902 506,896 518,896 547,901 548,895 560,895 577,901 676,903 679,896 691,896 692,902 703,902 704,896 746,896 747,902 817,902 837,900 839,910 867,896 872,896 873,902 895,903 896,897 905,897 905,912 765,914 715,912 692,913 666,911 626,914 606,911 601,917 593,917 589,910 492,913 401,911 195,910" />
+				<Baseline points="195,910 905,912" />
+				<TextEquiv index="1">
+					<Unicode>menlich stellen vnd wheren, Seindt wyr genedigklich genaigt, Euch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l14" custom="readingOrder {index:14;}">
+				<Coords points="194,926 220,923 229,920 265,919 271,919 272,926 338,921 409,921 419,927 448,927 449,921 454,921 477,927 532,928 533,922 538,922 551,927 592,927 593,935 612,921 639,924 661,922 714,929 720,922 730,922 748,927 774,927 789,930 790,922 805,922 805,929 815,929 826,922 845,923 846,929 874,929 875,923 887,923 888,931 905,931 905,937 893,938 845,938 805,938 790,938 748,936 708,938 697,938 596,938 593,938 560,936 516,938 499,938 487,938 194,936" />
+				<Baseline points="194,936 905,938" />
+				<TextEquiv index="1">
+					<Unicode>mith Trost vnd rath nicht zuuorlassen, Do ihr auch von des fheindes</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l15" custom="readingOrder {index:15;}">
+				<Coords points="195,952 227,946 238,946 263,946 264,953 308,953 308,946 324,946 324,952 338,947 360,947 374,953 417,953 431,947 456,947 461,953 490,953 513,955 528,948 581,952 587,948 597,948 599,954 609,950 621,948 662,953 717,954 717,948 752,948 759,954 827,954 836,948 848,948 874,961 879,949 891,949 904,954 904,962 891,964 670,962 503,967 491,967 456,963 435,967 431,967 329,963 195,961" />
+				<Baseline points="195,961 795,963 904,965" />
+				<TextEquiv index="1">
+					<Unicode>vorhaben durch eure vleissige kuntschafft wes weithers werdet ab-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l16" custom="readingOrder {index:16;}">
+				<Coords points="194,978 202,978 203,972 209,972 232,972 240,975 301,978 301,972 312,972 326,979 346,979 347,972 356,972 367,973 368,979 411,979 412,986 437,974 467,974 479,979 480,973 491,973 493,982 522,979 549,981 550,974 562,974 564,982 575,978 652,979 670,982 670,973 682,973 684,979 733,978 779,974 781,980 822,979 824,986 836,981 894,980 894,974 904,974 904,990 847,992 836,992 817,990 755,989 449,989 412,991 194,988" />
+				<Baseline points="194,988 904,990" />
+				<TextEquiv index="1">
+					<Unicode>richten vnd erfharen, Solchs wollet vns ieder zeitt bei tage vnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l17" custom="readingOrder {index:17;}">
+				<Coords points="194,1004 206,1003 224,998 248,998 262,1005 273,1005 274,998 285,998 286,1004 317,1002 387,1005 428,1005 442,999 455,999 462,1005 489,1005 489,999 526,999 573,1005 611,1003 664,1005 683,1003 710,1006 712,1000 723,1000 751,1006 781,1006 799,1000 805,1000 805,1006 820,1006 822,1014 831,1014 845,1003 857,1003 872,1000 883,1000 884,1007 904,1006 904,1019 894,1019 845,1016 840,1010 831,1017 805,1019 799,1019 194,1014" />
+				<Baseline points="194,1014 904,1016" />
+				<TextEquiv index="1">
+					<Unicode>nacht eilents zuwissen thun, Darane ertzeigt ihr vns zugefallen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r14l18" points="193,1024 201,1024 203,1030 264,1030 264,1024 277,1024 277,1031 289,1030 326,1030 371,1031 414,1031 414,1025 430,1025 443,1031 485,1031 487,1025 498,1025 505,1031 543,1031 543,1041 527,1042 349,1046 337,1046 326,1045 240,1045 227,1045 193,1040" baseline="193,1040 313,1040 543,1041" reason: models differ | Wikisource: In gnaden gegen euch zuerkenne | next_nc_e1: In gnaden gegen euch zuerkenne
+ | german_print2_15: In gnaden gegen euch zuerkennen
+ -->
+			<TextLine id="r14l19" custom="readingOrder {index:19;}">
+				<Coords points="244,1051 254,1050 283,1050 283,1056 309,1056 366,1050 373,1050 373,1057 400,1052 412,1052 412,1058 444,1057 445,1051 482,1051 483,1059 504,1057 519,1051 614,1051 616,1057 656,1057 657,1064 675,1052 690,1052 726,1059 740,1051 812,1052 812,1067 715,1067 661,1069 445,1067 444,1073 431,1073 431,1067 280,1067 254,1066 244,1064" />
+				<Baseline points="244,1066 812,1067" />
+				<TextEquiv index="1">
+					<Unicode>Geben zu Freibergk den XVIII Martii, Anno XLVII.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r14l20" points="642,1077 698,1077 726,1083 734,1083 761,1077 772,1077 773,1083 801,1083 816,1084 846,1084 846,1094 826,1094 816,1093 801,1094 764,1094 761,1094 658,1093 642,1093" baseline="642,1093 697,1092 761,1092 846,1094" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: M h z Sachssen | german_print2_15:  -->
+			<!-- line left out: id="r14l21" points="700,1108 717,1108 756,1109 770,1103 781,1103 781,1119 756,1124 732,1124 717,1118 700,1118" baseline="700,1118 732,1118 781,1119" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: m pp ſſ | german_print2_15: m pp fl -->
+			<TextLine id="r14l22" custom="readingOrder {index:22;}">
+				<Coords points="217,1129 234,1128 246,1128 256,1133 299,1128 314,1128 327,1133 368,1134 383,1128 387,1128 390,1134 406,1135 407,1128 419,1128 419,1135 467,1134 479,1132 519,1135 545,1135 558,1128 570,1128 571,1135 588,1134 615,1129 661,1129 662,1136 686,1134 705,1135 720,1129 742,1129 745,1135 799,1133 819,1135 819,1145 779,1150 768,1150 661,1145 478,1145 467,1150 454,1150 441,1144 217,1144" />
+				<Baseline points="217,1144 819,1145" />
+				<TextEquiv index="1">
+					<Unicode>Adr.: Vnsern lieben getrawen dem Rathe zu Kempnitz.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Von Gotsgnaden Moritz
+Hertzogk zu Sachssenn.
+Lieben getrawen, Wyr haben ewer schreiben vnd bitt endt-
+pfangen, vnd zu sonderm genedigen gefallen vormarckt, vnd ist
+nicht ahne, das vns die zeittungen von wegen einnhemung des
+Annenbergk auch zukommen, Wolleth euch aber derwegen nicht
+entsetzen ader vortzagt sein, Sonder ein guth manlich hertze fassen,
+Da wyr gewisse kuntschafft haben, Das solche einnhemung von
+Thomashirn mith geringem fuſsvolgk vnd wenigk pferden bescheen,
+vnd des orths nicht stargk sein soll. Darumb wyr nicht gleuben
+villeichte Dieselbe alleine auff ein schregken berennen lassen, Der-
+halb vnser gnedigs begern, Wolleth auff den fhal euch ehrlich vnd
+menlich stellen vnd wheren, Seindt wyr genedigklich genaigt, Euch
+mith Trost vnd rath nicht zuuorlassen, Do ihr auch von des fheindes
+vorhaben durch eure vleissige kuntschafft wes weithers werdet ab-
+richten vnd erfharen, Solchs wollet vns ieder zeitt bei tage vnd
+nacht eilents zuwissen thun, Darane ertzeigt ihr vns zugefallen,
+Geben zu Freibergk den XVIII Martii, Anno XLVII.
+Adr.: Vnsern lieben getrawen dem Rathe zu Kempnitz.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r15">
+			<Coords points="549,668 572,668 572,680 549,680" />
+		</GraphicRegion>
+		<GraphicRegion id="r16">
+			<Coords points="295,813 328,813 328,836 295,836" />
+		</GraphicRegion>
+		<GraphicRegion id="r17">
+			<Coords points="854,893 866,893 866,916 854,916" />
+		</GraphicRegion>
+		<GraphicRegion id="r18">
+			<Coords points="815,980 837,980 837,990 815,990" />
+		</GraphicRegion>
+		<GraphicRegion id="r19">
+			<Coords points="546,1032 561,1032 561,1041 546,1041" />
+		</GraphicRegion>
+		<GraphicRegion id="r20">
+			<Coords points="535,1159 542,1159 542,1181 535,1181" />
+		</GraphicRegion>
+		<TextRegion id="r21" custom="readingOrder {index:21;} orientation {0;}">
+			<Coords points="715,1165 902,1165 902,1182 715,1182" />
+			<!-- line left out: id="r21l0" points="715,1165 727,1165 728,1174 740,1171 773,1171 792,1173 794,1165 805,1165 812,1171 824,1166 836,1166 866,1169 883,1170 902,1172 902,1182 896,1182 866,1181 844,1181 773,1181 727,1181 715,1181" baseline="715,1180 743,1180 902,1182" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: der in deutlichster
+ | german_print2_15: der in deutlichster
+ -->
+		</TextRegion>
+		<GraphicRegion id="r22">
+			<Coords points="686,1171 706,1171 706,1179 686,1179" />
+		</GraphicRegion>
+		<TextRegion id="r23" custom="readingOrder {index:23;} orientation {0;}">
+			<Coords points="188,1164 902,1164 902,1347 188,1347" />
+			<!-- line left out: id="r23l0" points="243,1164 267,1164 317,1164 328,1169 351,1170 382,1170 394,1168 401,1168 471,1170 477,1165 490,1165 491,1171 506,1171 521,1172 522,1165 570,1165 577,1166 648,1169 663,1171 663,1181 506,1181 420,1181 393,1181 382,1186 370,1186 370,1180 360,1180 351,1186 328,1186 328,1180 243,1180" baseline="243,1180 434,1180 663,1181" reason: differs: "Acht" against "nitz" | Wikisource:  | next_nc_e1: Acht Tage später wurden die Chemnitzer | german_print2_15: Acht Tage später wurden die Chemnitzer -->
+			<TextLine id="r23l1" custom="readingOrder {index:1;}">
+				<Coords points="192,1190 200,1189 214,1189 214,1196 225,1196 226,1190 241,1190 241,1196 287,1195 305,1197 305,1190 319,1190 320,1196 371,1191 372,1197 388,1197 398,1190 430,1191 431,1197 475,1196 482,1190 496,1190 496,1197 506,1197 507,1191 518,1191 520,1197 591,1197 647,1191 662,1191 672,1197 707,1197 707,1191 719,1191 720,1200 732,1197 742,1197 743,1191 754,1191 768,1199 774,1199 774,1191 787,1191 787,1197 832,1196 843,1199 855,1192 878,1191 879,1198 902,1198 902,1207 475,1206 475,1212 454,1212 441,1212 441,1206 430,1207 420,1212 406,1212 398,1207 192,1205" />
+				<Baseline points="192,1205 902,1207" />
+				<TextEquiv index="1">
+					<Unicode>Weise an die nahe Kriegsgefahr erinnert. Sonnabend den 26. März</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r23l2" custom="readingOrder {index:2;}">
+				<Coords points="190,1215 207,1215 207,1221 230,1221 230,1215 242,1215 242,1221 262,1216 275,1216 283,1219 296,1221 324,1220 350,1216 421,1217 422,1224 433,1224 434,1217 442,1217 442,1223 535,1223 537,1217 603,1217 605,1223 660,1223 678,1217 693,1217 695,1223 718,1222 730,1217 742,1217 743,1224 855,1217 856,1223 893,1222 901,1227 901,1229 893,1233 882,1233 880,1239 868,1239 868,1233 773,1235 717,1233 641,1233 618,1226 615,1232 603,1233 409,1233 350,1232 331,1223 324,1223 307,1237 230,1232 190,1231" />
+				<Baseline points="190,1231 901,1233" />
+				<TextEquiv index="1">
+					<Unicode>Nachmittag 5 Uhr lieſsen nämlich die zu Annaberg im Haupt-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r23l3" custom="readingOrder {index:3;}">
+				<Coords points="189,1247 227,1246 244,1241 249,1241 251,1247 299,1242 305,1247 315,1249 317,1242 328,1242 329,1248 340,1248 341,1242 360,1242 361,1248 373,1248 373,1242 390,1242 391,1248 413,1248 436,1242 448,1242 448,1248 469,1248 470,1242 484,1242 484,1248 508,1247 516,1243 551,1243 559,1249 575,1248 598,1242 611,1242 612,1249 623,1249 625,1243 636,1243 637,1249 820,1247 834,1249 858,1257 863,1245 900,1243 900,1259 373,1259 203,1257 202,1263 189,1263" />
+				<Baseline points="189,1257 900,1259" />
+				<TextEquiv index="1">
+					<Unicode>quartier befindlichen kurfürstlichen Führer einen zweiten Auf-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r23l4" custom="readingOrder {index:4;}">
+				<Coords points="190,1266 199,1266 199,1272 217,1267 230,1267 231,1273 296,1274 297,1267 303,1266 316,1266 325,1268 325,1275 336,1275 337,1267 344,1267 357,1274 369,1274 370,1268 383,1268 393,1274 423,1275 423,1269 429,1268 446,1268 446,1274 478,1274 478,1268 525,1268 532,1275 571,1274 585,1268 590,1268 592,1274 610,1272 648,1273 648,1284 423,1285 316,1289 296,1289 275,1289 275,1283 190,1282" />
+				<Baseline points="190,1282 648,1284" />
+				<TextEquiv index="1">
+					<Unicode>forderungsbrief überreichen. Dieser lautet:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r23l5" custom="readingOrder {index:5;}">
+				<Coords points="242,1297 248,1297 264,1298 265,1305 277,1305 294,1299 306,1299 307,1305 339,1305 340,1299 357,1299 359,1305 394,1300 419,1300 432,1305 442,1303 471,1305 486,1299 497,1299 498,1307 510,1305 521,1300 532,1300 533,1306 556,1307 557,1300 562,1300 565,1307 575,1305 640,1303 667,1305 700,1303 737,1306 744,1300 754,1300 781,1305 850,1300 899,1306 899,1314 442,1315 432,1321 420,1321 419,1315 294,1315 242,1313" />
+				<Baseline points="242,1313 899,1315" />
+				<TextEquiv index="1">
+					<Unicode>Des durchlauchtigsten hochgebornen fursten vnd hernn hernn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r23l6" custom="readingOrder {index:6;}">
+				<Coords points="188,1322 197,1322 198,1328 210,1328 210,1322 216,1322 216,1328 255,1328 263,1333 274,1324 310,1324 310,1331 348,1326 360,1326 360,1332 395,1331 405,1325 410,1325 410,1331 437,1328 466,1330 541,1331 550,1325 562,1325 562,1331 585,1331 585,1325 591,1325 591,1331 642,1331 654,1325 666,1325 667,1332 724,1331 726,1325 730,1325 732,1331 778,1331 795,1325 809,1325 810,1332 833,1331 867,1326 878,1326 879,1334 890,1331 899,1331 899,1341 809,1341 749,1346 478,1341 478,1347 465,1347 465,1341 297,1341 255,1339 198,1339 197,1345 188,1345" />
+				<Baseline points="188,1339 899,1341" />
+				<TextEquiv index="1">
+					<Unicode>Johans- friderichenn hertzogenn zu Sachssen, des heiligenn Romischen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Weise an die nahe Kriegsgefahr erinnert. Sonnabend den 26. März
+Nachmittag 5 Uhr lieſsen nämlich die zu Annaberg im Haupt-
+quartier befindlichen kurfürstlichen Führer einen zweiten Auf-
+forderungsbrief überreichen. Dieser lautet:
+Des durchlauchtigsten hochgebornen fursten vnd hernn hernn
+Johans- friderichenn hertzogenn zu Sachssen, des heiligenn Romischen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r24">
+			<Coords points="330,1225 331,1225 331,1234 330,1234" />
+		</GraphicRegion>
+		<TextRegion id="r25" custom="readingOrder {index:25;} orientation {0;}">
+			<Coords points="394,1519 658,1519 658,1547 394,1547" />
+			<!-- line left out: id="r25l0" points="394,1528 401,1528 408,1528 431,1528 456,1528 469,1528 481,1528 484,1519 492,1519 492,1528 494,1528 525,1528 553,1528 571,1528 594,1528 638,1528 658,1529 658,1537 492,1537 492,1547 484,1547 481,1537 452,1540 441,1540 424,1540 407,1540 394,1537" baseline="394,1537 658,1537" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnpldigital slub-dresden delppn301506842448
+ | german_print2_15: up digital slub-dresden de ppneO1506ö94448
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r26">
+			<Coords points="958,704 967,704 967,1169 958,1169" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r27">
+			<Coords points="968,949 977,949 977,1291 968,1291" />
+		</SeparatorRegion>
+		<GraphicRegion id="r28">
+			<Coords points="952,0 980,0 980,1564 952,1564" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+lasßenn. Wie euch dann ewere gesandten des weytter vnterrichtenn
+werdenn. Vnd begerenn derhalb gnedigklich Ihr wollet Jrenn
+anzeygenn volkommenlichenn glawbenn gebenn. Daran thut Ihr
+vnesere gefellige meynunge. Dat. Freybergk den XV. Martii,
+Anno LVII.
+⟦⟧
+⟦⟧
+|
+| Außen:
+|
+| Vnnsern liebenn getrewenn Dem Rathe
+|
+|
+|
+| vnnd Gemeyne zu Kempnitz.
+Ähnlichen Inhalts ist folgende herzogliche Antwort von Freitag
+dem 18. März auf ein weiteres verlornes Ratsschreiben, das neben
+Bitten um Hilfe die Nachricht von der Einnahme Annabergs durch
+Truppen des Kurfürsten enthielt:
+Von Gotsgnaden Moritz
+Hertzogk zu Sachssenn.
+Lieben getrawen, Wyr haben ewer schreiben vnd bitt
+endtpfangen, vnd zu sonderm genedigen gefallen vormarckt, vnd ist
+nicht ahne, das vns die zeittungen von wegen einnhemung des
+Annenbergk auch zukommen, Wolleth euch aber derwegen nicht
+entsetzen ader vortzagt sein, Sonder ein guth manlich hertze fassen,
+Da wyr gewisse kuntschafft haben, Das solche einnhemung von
+Thomashirn mith geringem fußvolgk vnd wenigk pferden bescheen,
+vnd des orths nicht stargk sein soll. Darumb wyr nicht gleuben
+konnen, Das ehr sich vor ewre statt lagern wirdet, Sonder mochte
+villeichte Dieselbe alleine auff ein schregken berennen lassen,
+Derhalb vnser gnedigs begern, Wolleth auff den fhal euch ehrlich vnd
+menlich stellen vnd wheren, Seindt wyr genedigklich genaigt, Euch
+mith Trost vnd rath nicht zuuorlassen, Do ihr auch von des fheindes
+vorhaben durch eure vleissige kuntschafft wes weithers werdet
+abrichten vnd erfharen, Solchs wollet vns ieder zeitt bei tage vnd
+nacht eilents zuwissen thun, Darane ertzeigt ihr vns zugefallen,
+In gnaden gegen euch zuerkennen.
+Geben zu Freibergk den XVIII Martii, Anno XLVII.
+⟦⟧
+⟦⟧
+|
+| Adr.: Vnsern lieben getrawen dem Rathe zu Kempnitz.
+Acht Tage später wurden die Chemnitzer wieder in deutlichster
+Weise an die nahe Kriegsgefahr erinnert. Sonnabend den 26. März
+Nachmittag 5 Uhr ließen nämlich die zu Annaberg im
+Hauptquartier befindlichen kurfürstlichen Führer einen zweiten
+Aufforderungsbrief überreichen. Dieser lautet:
+Des durchlauchtigsten hochgebornen fursten vnd hernn hernn
+Johans- friderichenn hertzogenn zu Sachssen, des heiligenn Romischen
+-->
+	</Page>
+</PcGts>

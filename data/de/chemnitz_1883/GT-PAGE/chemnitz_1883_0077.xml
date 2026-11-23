@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:48:24</Created>
+		<LastChange>2026-11-23T13:48:24</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/77 revision 5069880 of 2026-10-06T22:46:26Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0077.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro9780839722037357865" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="36,1158 39,1158 39,1489 36,1489" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="419,159 440,159 440,174 419,174" />
+			<!-- line left out: id="r1l0" points="419,159 440,159 440,174 433,174 419,172" baseline="419,171 440,174" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 67
+ | german_print2_15: 67
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="150,214 788,214 788,445 150,445" />
+			<!-- line left out: id="r2l0" points="178,214 186,214 196,215 257,220 272,221 291,220 296,220 311,222 327,214 351,214 353,220 381,220 383,214 388,214 393,222 403,222 407,215 436,214 442,214 448,221 458,221 463,214 474,214 478,221 505,218 511,218 533,220 556,222 573,214 587,214 592,223 599,221 610,221 610,214 629,214 634,222 648,215 652,215 655,222 664,221 670,221 670,231 556,231 546,231 533,230 420,231 407,231 381,230 311,230 272,231 262,231 191,230 186,237 178,237" baseline="178,230 670,230" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: [Innungen, Handel, Industrie, Verkehr. | german_print2_15: [Innungen, Handel, Industrie, Verkehr. -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="151,246 156,246 179,246 197,252 224,252 235,246 246,246 248,254 266,252 293,246 297,246 299,254 347,250 370,251 411,246 421,246 424,252 466,251 477,253 477,246 491,246 500,249 521,252 521,259 540,246 553,246 561,252 639,252 687,247 698,247 699,254 711,250 750,248 779,248 787,251 787,267 761,267 691,262 639,261 608,265 572,262 500,261 151,261" />
+				<Baseline points="151,261 787,262" />
+				<TextEquiv index="1">
+					<Unicode>Petition der Chemnitzer Obermeister, Innungswesen betr. 1845.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="151,272 195,272 195,278 234,273 270,274 290,276 302,283 308,277 339,272 358,272 360,280 379,272 390,272 425,277 452,271 466,271 466,277 487,278 492,272 502,272 510,278 522,278 532,272 543,272 544,279 554,279 567,272 578,272 588,280 610,278 619,281 624,285 640,274 651,272 661,272 662,278 717,272 735,267 766,267 766,297 735,297 717,293 578,287 151,288" />
+				<Baseline points="151,287 766,288" />
+				<TextEquiv index="1">
+					<Unicode>Böhme, Aufruf an alle Strumpfwirker Sachsens. Chemnitz 185</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="150,301 223,305 249,304 253,311 281,298 310,298 345,298 352,304 376,302 400,305 404,311 432,298 437,298 437,304 466,300 478,300 487,306 511,302 580,304 581,298 631,298 632,306 644,298 656,298 656,305 713,302 729,302 748,305 748,314 729,314 694,314 668,314 491,312 407,314 404,314 256,314 223,314 215,314 162,313 150,309" />
+				<Baseline points="150,313 748,314" />
+				<TextEquiv index="1">
+					<Unicode>Satzungen, Fabrikanten, Kaufleute und Webermeister</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="202,324 214,324 215,330 239,328 262,330 284,324 300,324 306,332 317,324 322,324 325,331 349,329 357,324 372,324 372,330 396,329 433,324 438,324 441,331 463,328 475,324 477,324 525,324 528,331 619,326 657,326 657,340 648,344 633,344 630,338 617,340 322,338 202,339" />
+				<Baseline points="202,339 284,338 657,340" />
+				<TextEquiv index="1">
+					<Unicode>bunten Weberwaaren betr. Chemnitz 1848.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="151,350 171,350 172,357 235,356 240,350 244,350 248,358 264,355 283,349 337,349 416,356 416,349 452,349 483,350 490,358 497,356 521,354 558,356 571,350 581,350 583,356 617,357 620,363 653,352 671,352 692,355 694,363 696,363 696,366 692,371 667,371 655,371 608,367 599,361 594,366 452,365 418,367 302,367 235,365 208,367 197,365 151,364" />
+				<Baseline points="151,364 696,366" />
+				<TextEquiv index="1">
+					<Unicode>Weissgerber-Kreis-Innung. Bekanntmachung. 1847.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="429,376 448,376 458,382 528,382 547,376 566,376 585,376 607,381 629,382 638,376 640,376 678,380 685,386 693,386 694,377 709,377 711,390 743,382 750,378 761,378 787,384 787,393 771,398 761,398 761,391 748,393 511,391 434,392 429,378" />
+				<Baseline points="429,391 666,391 787,393" />
+				<TextEquiv index="1">
+					<Unicode>Chemnitzer Industrie. S.-A. 1876.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="496,413 517,410 597,407 612,401 628,401 630,408 685,407 687,415 689,415 689,418 685,423 671,423 662,418 496,416" />
+				<Baseline points="496,415 689,418" />
+				<TextEquiv index="1">
+					<Unicode>wesen. S. Nr. 197.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="310,428 318,427 329,427 333,433 395,433 415,436 415,427 456,427 458,437 573,432 597,432 607,434 627,428 644,428 647,434 672,435 673,429 683,429 685,435 709,434 728,429 739,429 788,435 788,443 657,443 597,445 506,445 497,445 456,443 310,443" />
+				<Baseline points="310,443 788,443" />
+				<TextEquiv index="1">
+					<Unicode>Erzeugnisse des gesammten Maschinenbaues</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Petition der Chemnitzer Obermeister, Innungswesen betr. 1845.
+Böhme, Aufruf an alle Strumpfwirker Sachsens. Chemnitz 185
+Satzungen, Fabrikanten, Kaufleute und Webermeister
+bunten Weberwaaren betr. Chemnitz 1848.
+Weissgerber-Kreis-Innung. Bekanntmachung. 1847.
+Chemnitzer Industrie. S.-A. 1876.
+wesen. S. Nr. 197.
+Erzeugnisse des gesammten Maschinenbaues</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="202,454 654,454 654,470 202,470" />
+			<!-- line left out: id="r3l0" points="202,460 215,460 225,459 249,457 260,454 275,454 277,461 289,459 293,459 326,458 331,458 366,459 378,460 380,454 416,454 422,460 456,460 543,458 554,454 564,454 566,461 583,460 587,460 614,459 625,459 654,459 654,470 625,470 575,470 554,470 491,469 487,469 469,467 459,463 456,470 440,470 378,469 275,469 234,469 225,469 215,468 202,468" baseline="202,469 490,469 654,470" reason: differs: "egerChe" against "egend]." | Wikisource:  | next_nc_e1: von Chemnitz und Umgeger Chemnitz 1
+ | german_print2_15: von Chemnitz und Umgeger Chemnitz 1
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="194,480 787,480 787,499 194,499" />
+			<!-- line left out: id="r4l0" points="194,483 200,483 219,486 239,484 249,483 260,483 364,483 422,486 433,487 447,486 458,486 479,486 490,490 493,480 502,480 511,486 519,485 524,485 536,487 550,480 588,480 591,487 596,487 608,486 613,486 632,487 632,480 646,480 678,480 681,487 700,487 700,480 702,480 751,480 752,488 763,486 787,486 787,496 751,496 702,499 646,499 617,499 608,496 588,495 566,495 524,495 479,495 433,496 423,496 374,495 368,494 361,487 344,495 335,495 265,488 260,495 225,495 194,495" baseline="194,495 335,494 787,492" reason: differs: "tima" against "Umge" | Wikisource:  | next_nc_e1: timatior n für zugewanderte Webergesellen. Chem-
+ | german_print2_15: timatior n für zugewanderte Webergesellen. Chem-
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="83,511 788,511 788,809 83,809" />
+			<!-- line left out: id="r5l0" points="202,512 221,511 226,511 268,511 270,519 275,519 275,521 270,521 268,515 259,515 255,521 209,521 202,520" baseline="202,521 275,521" reason: differs: "nitz" against ". Ch" | Wikisource:  | next_nc_e1: nitz 182 | german_print2_15: nitz 182 -->
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="149,531 171,531 182,535 208,538 208,531 220,531 228,536 247,542 250,531 255,531 267,532 271,541 288,540 288,531 331,531 338,532 349,538 359,538 361,532 365,532 369,539 386,537 401,531 406,531 419,532 423,538 437,536 562,538 654,533 656,539 690,539 711,538 712,532 723,532 725,538 756,538 759,532 769,532 776,539 788,539 788,547 769,548 690,548 671,548 599,548 476,548 462,548 365,546 250,547 239,544 220,547 157,547 149,544" />
+				<Baseline points="149,546 788,548" />
+				<TextEquiv index="1">
+					<Unicode>Notariats-Protokoll über Prüfung eines eisernen Cassaschrankes</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l2" points="248,561 252,561 315,558 350,558 352,564 362,564 362,558 390,558 394,564 412,559 424,559 519,558 523,558 525,566 543,564 547,564 581,562 595,562 646,563 653,564 653,578 646,579 629,579 628,571 615,573 595,574 581,574 424,573 412,573 341,572 276,572 260,572 248,569" baseline="248,572 503,572 594,573 653,574" reason: differs: "Gust" against "von " | Wikisource:  | next_nc_e1: Gust. Ullmann & ( Chemnitz 1874. | german_print2_15: V Gust. Ulmann & Chemnitz 1874. -->
+			<!-- line left out: id="r5l3" points="92,585 103,585 116,586 149,585 160,583 174,583 175,589 208,589 230,590 235,597 277,590 297,586 302,586 309,592 326,588 331,588 339,590 363,592 366,583 376,583 384,589 389,589 395,590 425,589 436,588 440,588 461,589 473,592 502,584 513,584 514,592 526,590 530,590 545,598 547,584 561,584 568,588 579,590 581,597 625,586 628,586 631,594 638,594 644,586 655,586 657,598 690,587 708,587 723,589 733,591 733,600 726,600 718,606 708,606 708,600 693,600 693,606 690,606 660,600 629,600 579,600 561,600 526,600 513,599 401,599 363,599 355,599 339,598 280,599 239,600 235,600 219,599 208,599 149,598 121,596 117,596 92,595" baseline="92,596 733,600" reason: differs: "990." against "⟦⟧ |" | Wikisource:  | next_nc_e1: 990. Sammler, der Getreidemarkt in Chemnitz. S.-A. 1876. | german_print2_15: 990. Sammler, der Getreidemarkt in Chemnitz. S.-A. 1876. -->
+			<!-- line left out: id="r5l4" points="92,611 125,611 130,622 148,609 161,609 168,615 178,615 196,609 201,609 213,610 223,616 227,616 255,616 264,609 270,609 270,625 251,625 227,624 223,624 213,623 178,624 125,625 120,625 92,621" baseline="92,624 196,624 270,625" reason: differs: "991." against "⟦⟧ |" | Wikisource:  | next_nc_e1: 991. Zur Börsenft | german_print2_15: 991. Zur Börsenfi -->
+			<!-- line left out: id="r5l5" points="92,637 103,637 152,635 167,635 174,636 177,642 186,642 186,635 208,635 216,636 226,635 239,635 245,642 254,642 261,636 266,636 419,636 419,645 435,641 457,641 459,635 469,635 495,637 497,645 508,643 519,643 541,643 545,637 556,637 557,644 568,644 569,637 580,637 582,643 629,643 660,642 690,639 701,637 711,637 713,644 725,643 760,643 762,637 766,637 774,640 788,643 788,652 680,652 629,652 569,652 556,651 541,652 536,652 519,650 495,651 447,651 435,650 407,647 402,639 277,651 243,651 239,653 208,653 167,653 152,653 125,650 112,649 103,647 92,647" baseline="92,650 435,650 788,652" reason: differs: "993." against "⟦⟧ |" | Wikisource:  | next_nc_e1: 993. Jahresbericht Is- und Gewerbekammer zu Chemnitz. | german_print2_15: 993. Jahresbericht lIs- und Gewerbekammer zu Chemnitz. -->
+			<!-- line left out: id="r5l6" points="205,661 209,661 212,669 225,668 231,667 240,667 367,674 399,666 434,661 455,661 455,675 438,676 370,677 231,677 221,676 209,679 205,679" baseline="205,676 455,675" reason: differs: "Jahr" against "nitz" | Wikisource:  | next_nc_e1: Jahr 10 Bd | german_print2_15: Jahr  10 Bd -->
+			<!-- line left out: id="r5l7" points="92,689 118,688 125,688 125,695 152,687 171,687 171,696 185,693 213,693 234,694 237,701 262,697 269,694 290,694 337,692 340,692 347,693 374,692 404,691 421,687 431,687 433,696 444,693 448,693 476,692 486,692 545,694 559,695 574,695 591,694 626,689 638,689 647,697 662,695 671,695 672,689 684,689 692,695 702,695 704,689 715,689 717,695 751,695 753,689 764,689 767,696 778,695 786,695 786,704 764,705 715,705 684,705 662,705 647,703 635,691 635,704 603,709 559,709 548,709 545,703 444,703 431,702 384,703 347,703 337,703 290,702 241,705 237,705 217,702 213,702 213,696 202,700 193,703 185,703 171,702 152,702 124,701 118,700 105,699 92,698" baseline="92,699 152,700 725,704 786,704" reason: differs: "995." against "⟦⟧ |" | Wikisource:  | next_nc_e1: 995. Heinrich, eine directe Chemnitz ipziger Eisenbahn über | german_print2_15: 995. Heinrich, eine directe Chemnitz ipziger Eisenbahn über -->
+			<!-- line left out: id="r5l8" points="203,713 207,713 212,719 236,718 246,718 269,720 272,713 281,713 284,721 296,721 299,713 304,713 315,714 327,719 333,721 342,728 354,727 369,713 379,713 383,719 394,719 404,713 414,713 421,714 439,719 446,720 459,721 469,723 472,714 483,713 497,713 505,714 508,720 519,720 566,720 578,721 580,715 603,714 616,714 617,724 630,722 638,721 660,721 662,728 687,714 692,714 704,716 747,721 747,709 764,709 764,721 767,721 776,735 778,715 788,715 788,734 780,737 776,737 764,730 764,741 747,741 747,730 726,731 692,731 616,731 603,731 555,730 519,729 497,730 459,730 450,730 442,729 394,728 351,730 342,730 323,729 304,728 246,729 224,729 203,728" baseline="203,728 356,728 788,730" reason: differs: "Limb" against "über" | Wikisource:  | next_nc_e1: Limbach-Penig, Frohburg-Kohren und Borna. Borna o. J. | german_print2_15: Limbach-Penig, Frohburg-Kohren und Borna. Borna o. J. -->
+			<!-- line left out: id="r5l9" points="92,742 151,739 162,739 170,745 184,743 189,739 203,739 207,742 216,752 223,745 232,745 272,747 290,747 320,740 331,740 332,747 344,745 367,745 375,743 386,743 397,745 399,752 432,739 436,739 447,742 449,752 469,749 475,749 482,739 487,739 496,746 527,745 535,742 544,742 550,745 572,745 572,756 558,756 531,755 487,755 453,755 436,755 397,755 367,755 344,755 331,754 272,754 232,754 203,754 189,754 180,753 170,753 158,744 155,754 151,754 103,752 92,752" baseline="92,752 527,755 572,757" reason: differs: "998." against "⟦⟧ |" | Wikisource:  | next_nc_e1: 998. Portotaxe von Chemnitz. Dresden 1868. | german_print2_15: 998. Portotaxe von Chemnitz. Dresden 1868. -->
+			<!-- line left out: id="r5l10" points="93,767 128,767 292,772 295,765 305,765 307,771 321,771 341,769 354,769 357,775 364,775 367,765 372,765 383,766 405,770 405,761 419,761 419,774 426,774 472,779 475,769 478,769 537,767 564,767 566,774 577,772 588,772 615,771 619,771 631,773 632,779 665,772 672,769 683,769 685,780 690,780 706,780 706,782 699,787 685,787 683,780 670,782 564,782 554,782 519,781 468,781 419,778 419,790 405,790 405,780 372,780 354,780 321,781 307,781 106,780 93,777" baseline="93,780 288,780 537,781 665,782 706,783" reason: differs: "999a" against "und " | Wikisource:  | next_nc_e1: 999 ahrpost-Porto- if für Chemnitz. 1875. | german_print2_15: 999 ahrpost-Porto- if für Chemnitz. 1875. -->
+			<!-- line left out: id="r5l11" points="83,792 88,792 104,794 113,793 122,793 237,795 251,799 252,791 270,791 326,797 348,797 360,795 381,791 385,791 389,798 397,798 407,791 409,791 429,797 436,797 473,792 484,792 485,800 496,798 512,798 533,799 546,800 556,798 572,798 605,796 617,796 634,799 645,806 650,794 667,794 674,793 688,793 694,798 719,799 721,793 737,793 751,798 751,808 672,808 533,809 524,809 484,807 452,807 436,805 409,806 405,806 385,805 370,806 348,806 228,806 135,807 126,807 104,804 88,806 83,806" baseline="83,806 408,806 751,808" reason: differs: "1000" against "rief" | Wikisource:  | next_nc_e1: 1000. rto- nach bez. von dem gesammten Auslande 1
+ | german_print2_15:  -->
+			<TextEquiv index="1">
+				<Unicode>Notariats-Protokoll über Prüfung eines eisernen Cassaschrankes</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="84,832 793,832 793,1193 84,1193" />
+			<!-- line left out: id="r6l0" points="323,832 337,832 342,838 356,838 366,840 374,832 384,832 389,841 404,838 414,838 428,839 438,832 454,832 459,842 470,839 490,839 512,838 525,838 534,841 546,846 552,833 556,833 556,853 552,853 525,849 512,849 490,848 470,848 459,846 454,853 438,853 428,849 418,849 404,848 384,847 356,847 323,847" baseline="323,847 556,848" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Kirchengeschichte.]
+ | german_print2_15: Kirchengeschichte.]
+ -->
+			<!-- line left out: id="r6l1" points="84,864 88,864 126,864 132,875 155,862 160,862 164,864 172,866 192,869 197,862 207,858 236,858 244,871 257,869 260,869 274,867 278,867 284,871 300,863 314,863 324,869 328,869 335,871 343,863 347,863 350,870 367,869 371,869 413,868 417,868 437,868 465,867 477,867 477,858 498,858 498,867 506,867 530,868 547,870 580,869 595,869 597,858 608,858 608,871 614,871 623,865 626,858 636,858 643,870 650,869 659,869 669,870 686,872 713,879 715,879 715,881 669,883 659,885 650,885 643,880 636,889 626,889 623,883 608,880 608,889 597,889 595,880 530,880 519,880 498,879 498,889 477,889 477,879 444,879 432,879 377,878 350,878 347,872 335,876 328,878 278,878 260,878 257,878 244,876 236,889 207,889 207,881 197,881 172,878 160,881 155,881 126,878 113,878 104,875 88,877 84,877" baseline="84,877 155,877 519,879 715,880" reason: differs: "1001" against "⟦⟧ |" | Wikisource:  | next_nc_e1: 1001. Stier, die erste Kirchenvisitation in Chemnitz i. J. 1539. S.
+ | german_print2_15: 1001. Sier, die erste Kirchenvisitation in Chemnitz i. J. 1539. S.
+ -->
+			<!-- line left out: id="r6l2" points="84,890 97,890 130,891 132,901 153,889 162,889 171,891 193,895 193,888 204,888 225,888 225,896 233,896 240,898 246,902 262,889 266,889 270,902 285,902 302,889 326,889 336,896 348,895 367,893 380,893 401,895 416,889 421,889 433,890 437,898 448,897 455,890 466,890 468,897 480,894 485,894 502,895 515,896 517,890 528,890 534,891 537,899 544,899 560,891 569,891 569,903 580,891 606,891 609,899 620,897 626,891 637,891 639,897 656,897 679,897 747,897 748,891 760,891 761,898 773,897 781,897 790,898 790,910 782,910 747,907 679,910 663,910 620,906 609,904 606,910 580,910 560,906 534,905 515,906 505,906 485,905 477,907 468,907 455,905 433,904 380,904 246,906 225,906 213,906 193,904 162,904 153,904 119,903 105,901 97,904 84,904" baseline="84,902 416,904 678,906 790,907" reason: differs: "1003" against ". Nr" | Wikisource:  | next_nc_e1: 1003. Drabitius, L., Kemnitzer Predigtstuhls Einweihung. eiberg | german_print2_15: 1003. Drabitius, L., Kemnitzer Predigtstuhls Einweihung. eiberg -->
+			<TextLine id="r6l3" custom="readingOrder {index:3;}">
+				<Coords points="204,919 243,919 245,927 275,915 307,914 328,914 328,921 391,920 397,925 397,933 379,933 356,930 204,929" />
+				<Baseline points="204,929 397,930" />
+				<TextEquiv index="1">
+					<Unicode>1598. S. Nr. 1083.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l4" points="84,942 89,942 105,944 124,944 136,949 153,941 162,941 169,947 179,941 192,941 201,943 215,947 221,953 247,941 277,940 281,940 292,944 293,953 322,946 344,946 365,947 421,948 434,941 445,941 447,947 451,947 463,950 463,941 483,941 510,941 511,954 533,950 540,941 549,941 552,947 579,941 593,941 596,947 607,947 614,950 622,942 627,942 629,949 641,948 650,948 668,949 694,949 696,943 705,943 718,948 724,950 730,943 735,943 749,946 780,948 791,949 791,958 749,958 718,958 696,958 673,956 668,960 652,960 607,957 552,957 514,956 434,956 421,955 365,956 302,956 293,956 281,955 225,958 221,958 201,956 192,958 179,958 171,955 162,956 89,956 84,956" baseline="84,954 153,954 560,956 791,958" reason: differs: "1006" against "⟦⟧ |" | Wikisource:  | next_nc_e1: 1006. Richter, A. D., einige achrichten der Kirchengeschichte in | german_print2_15: 1006. Kichter, A. D., einige achrichten der Kirchengeschichte in -->
+			<!-- line left out: id="r6l5" points="205,966 215,966 217,975 228,972 262,966 265,966 273,978 287,966 291,966 330,972 334,972 358,972 386,971 395,971 444,968 466,968 475,975 485,968 496,968 500,975 508,975 517,968 519,968 554,972 575,972 591,972 591,985 575,988 557,988 554,982 517,982 496,981 478,982 395,982 358,982 354,982 337,981 334,975 318,979 314,979 294,973 287,968 273,981 215,981 205,981" baseline="205,981 404,981 591,982" reason: differs: "derSta" against "te in d" | Wikisource:  | next_nc_e1: der Stadt Chemnitz Annaberg 1743.
+ | german_print2_15: der Stadt Chemnitz Annaberg 1743.
+ -->
+			<!-- line left out: id="r6l6" points="85,993 89,993 114,992 130,992 133,1004 136,1004 194,1005 194,996 217,996 238,996 271,996 324,992 351,992 352,1000 364,998 368,998 389,1002 391,992 418,992 422,1002 434,992 436,992 462,999 466,999 495,999 514,993 525,993 527,1002 539,999 549,999 571,999 597,1001 599,993 609,993 611,1000 628,999 633,999 657,1000 659,994 671,994 672,1000 682,1000 695,999 705,999 724,1007 728,995 746,994 756,994 768,997 791,1000 791,1010 768,1010 682,1012 672,1012 599,1009 571,1008 549,1008 525,1008 486,1008 436,1007 418,1007 389,1007 351,1007 303,1008 271,1008 238,1008 217,1008 130,1008 114,1008 89,1007 85,1007" baseline="85,1004 324,1006 791,1009" reason: differs: "1007" against "| –," | Wikisource:  | next_nc_e1: 1007. ,„zerstreute Nachrichten von denen ehemaligen Aebten | german_print2_15: 1007. „zerstreute Nachrichten von denen ehemaligen Aebten -->
+			<TextLine id="r6l7" custom="readingOrder {index:7;}">
+				<Coords points="205,1023 228,1018 260,1018 282,1025 295,1022 324,1024 335,1030 353,1024 369,1027 391,1018 407,1018 408,1024 441,1022 461,1025 462,1018 473,1018 510,1019 523,1023 579,1023 591,1025 591,1019 593,1019 623,1033 627,1021 642,1021 667,1027 668,1020 680,1020 683,1027 699,1025 761,1023 776,1025 776,1035 759,1040 748,1041 738,1041 737,1035 718,1039 699,1039 691,1034 623,1035 205,1032" />
+				<Baseline points="205,1033 776,1035" />
+				<TextEquiv index="1">
+					<Unicode>und Klöstern in der Stadt Chemnitz. Annaberg 1746.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l8" points="85,1045 89,1045 131,1046 134,1056 154,1043 167,1043 177,1049 192,1047 196,1047 204,1043 256,1043 256,1050 273,1049 298,1049 310,1044 321,1044 346,1055 354,1052 366,1050 375,1050 393,1053 396,1044 406,1044 414,1050 433,1044 437,1044 441,1052 458,1051 470,1050 504,1050 548,1050 568,1053 581,1047 592,1045 604,1045 614,1051 625,1051 636,1052 638,1045 644,1045 661,1048 691,1051 737,1051 752,1045 764,1045 765,1053 776,1052 791,1052 791,1061 764,1061 717,1061 691,1060 679,1061 661,1061 636,1061 614,1061 548,1060 504,1061 467,1061 458,1061 375,1059 366,1059 350,1058 346,1058 323,1051 321,1058 298,1058 278,1058 273,1052 265,1058 206,1058 199,1058 192,1051 187,1058 167,1058 89,1058 85,1058" baseline="85,1058 346,1058 581,1059 717,1060 791,1061" reason: differs: "1009" against "⟦⟧ |" | Wikisource:  | next_nc_e1: 1009. Kurtze Nachricht von der Legung eines Grundsteins zu dem
+ | german_print2_15: 1009. Kurtze Nachricht von der Legung eines Grundsteins zu dem
+ -->
+			<TextLine id="r6l9" custom="readingOrder {index:9;}">
+				<Coords points="299,1075 373,1070 377,1070 378,1076 488,1073 499,1070 526,1070 534,1077 559,1074 581,1076 583,1083 615,1071 630,1073 651,1079 660,1078 665,1071 677,1071 679,1077 714,1076 726,1089 728,1089 728,1091 713,1091 709,1091 644,1086 510,1086 507,1075 499,1075 492,1082 472,1085 299,1084" />
+				<Baseline points="299,1084 728,1086" />
+				<TextEquiv index="1">
+					<Unicode>neuen Kirche zu Chemnitz. Dresden 175</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l10" points="86,1095 90,1095 116,1095 132,1096 134,1107 167,1094 170,1094 191,1094 201,1104 209,1100 213,1100 220,1108 236,1108 297,1095 301,1095 304,1107 324,1095 329,1095 338,1101 341,1095 355,1095 355,1108 376,1095 401,1095 401,1103 413,1101 421,1101 421,1095 435,1095 435,1103 446,1103 464,1105 468,1096 477,1096 486,1105 506,1099 517,1096 528,1096 538,1102 550,1102 561,1103 563,1096 568,1096 584,1100 603,1102 606,1108 618,1106 639,1102 659,1102 677,1105 692,1103 702,1103 715,1102 721,1102 747,1103 771,1103 792,1103 792,1113 783,1113 771,1112 747,1112 702,1112 685,1112 659,1111 615,1111 584,1112 570,1112 533,1111 477,1110 446,1112 421,1112 410,1111 401,1112 387,1112 356,1111 301,1111 232,1111 220,1110 213,1102 205,1106 201,1106 190,1096 190,1111 170,1111 167,1111 132,1110 112,1110 90,1109 86,1109" baseline="86,1110 461,1110 639,1111 736,1112 792,1113" reason: differs: "1012" against "0. ⟦" | Wikisource:  | next_nc_e1: 1012. Gühling, J. Fr., Legung des Grundsteins zu einer neuen | german_print2_15: 1012. Guhling, J. Fr., Legung des Grundsteins zu einer neuen -->
+			<TextLine id="r6l11" custom="readingOrder {index:11;}">
+				<Coords points="316,1124 360,1127 398,1125 401,1133 414,1134 446,1122 451,1122 485,1128 487,1122 498,1122 509,1122 555,1127 558,1137 577,1129 594,1130 594,1137 568,1136 563,1142 558,1142 498,1136 363,1136 348,1133 316,1131" />
+				<Baseline points="316,1135 594,1137" />
+				<TextEquiv index="1">
+					<Unicode>Chemnitz. Annaberg 1750.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l12" points="87,1146 91,1146 116,1146 132,1147 135,1158 158,1147 164,1146 184,1146 189,1152 203,1152 234,1154 246,1152 251,1152 257,1159 276,1146 285,1146 308,1146 321,1152 325,1152 334,1159 410,1146 433,1146 437,1152 442,1152 449,1153 461,1154 494,1155 496,1147 507,1147 515,1153 535,1151 554,1151 566,1153 567,1147 578,1147 626,1148 628,1155 639,1153 644,1153 671,1151 682,1151 718,1153 733,1151 753,1148 764,1148 766,1154 782,1154 792,1155 792,1164 766,1164 626,1163 554,1163 548,1163 461,1162 410,1162 308,1161 295,1161 285,1160 260,1163 257,1163 226,1159 210,1160 189,1160 178,1156 176,1163 164,1163 164,1156 138,1160 116,1161 112,1161 91,1160 87,1160" baseline="87,1158 137,1158 616,1162 753,1163 792,1164" reason: differs: "1015" against "⟦⟧ |" | Wikisource:  | next_nc_e1: 1015. Schmeisser, Vertra Rathes der Stadt Chemnitz mit dem | german_print2_15: 1015. Schmeisser, Vertra Rathes der Stadt Chemnitz mit dem -->
+			<!-- line left out: id="r6l13" points="207,1171 212,1171 225,1173 245,1178 246,1171 260,1171 294,1184 304,1177 327,1176 337,1176 404,1182 407,1182 442,1179 455,1178 482,1172 493,1172 495,1182 506,1179 522,1179 538,1173 549,1173 562,1174 575,1179 604,1178 621,1178 649,1181 742,1186 758,1178 763,1178 772,1177 782,1177 793,1181 793,1189 782,1191 772,1191 763,1189 649,1193 638,1193 621,1191 614,1191 575,1188 549,1191 538,1191 493,1188 437,1188 313,1186 298,1187 294,1187 207,1186" baseline="207,1186 294,1186 758,1188 793,1189" reason: differs: "Pfar" against "t de" | Wikisource:  | next_nc_e1: Pfarrer zu S b aus dem Jahre 1399. . Nr. 196.
+ | german_print2_15: Pfarrer zu S. b aus dem Jahre 1399. . Nr. 196.
+ -->
+			<TextEquiv index="1">
+				<Unicode>1598. S. Nr. 1083.
+und Klöstern in der Stadt Chemnitz. Annaberg 1746.
+neuen Kirche zu Chemnitz. Dresden 175
+Chemnitz. Annaberg 1750.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="84,1216 678,1216 678,1236 84,1236" />
+			<!-- line left out: id="r7l0" points="84,1219 98,1216 121,1216 127,1222 130,1222 141,1226 149,1217 165,1216 167,1216 206,1217 214,1223 274,1223 297,1223 308,1230 333,1217 338,1217 345,1219 368,1224 393,1225 400,1218 411,1218 416,1224 420,1224 434,1228 434,1217 449,1217 451,1228 459,1228 466,1220 480,1220 519,1225 521,1219 533,1219 540,1226 553,1225 564,1225 582,1224 589,1218 602,1218 604,1226 614,1226 614,1217 631,1217 631,1223 642,1223 678,1225 678,1236 667,1236 642,1234 631,1236 564,1236 553,1236 540,1232 519,1231 508,1235 491,1235 466,1234 451,1230 449,1236 434,1236 368,1233 354,1233 340,1225 338,1232 311,1234 308,1234 293,1233 274,1232 261,1233 251,1233 197,1232 130,1231 84,1231" baseline="84,1231 166,1231 678,1235" reason: differs: "[Kir" against "| Bu" | Wikisource:  | next_nc_e1: [Kirchl. Finanzen, Parochial-Angelegenheiten,
+ | german_print2_15: [Kirchl. Finanzen, Parochial -Angelegenheiten,
+ -->
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="392,1244 474,1244 474,1259 392,1259" />
+			<!-- line left out: id="r8l0" points="392,1244 404,1244 408,1250 419,1250 428,1244 441,1244 466,1244 466,1250 474,1250 474,1259 419,1259 408,1259 392,1258" baseline="392,1258 474,1259" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: bücher.
+ | german_print2_15: bücher.
+ -->
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="208,1274 794,1274 794,1320 208,1320" />
+			<TextLine id="r9l0" custom="readingOrder {index:0;}">
+				<Coords points="296,1275 306,1275 307,1283 320,1280 323,1275 343,1275 369,1282 376,1275 386,1275 394,1281 417,1275 422,1275 432,1281 487,1281 487,1275 532,1280 540,1274 578,1274 585,1281 596,1281 598,1274 612,1274 619,1275 622,1281 663,1281 682,1283 690,1276 694,1276 712,1281 735,1283 735,1291 641,1290 639,1296 634,1296 632,1290 622,1290 612,1296 598,1296 596,1290 585,1290 578,1296 570,1296 556,1290 483,1293 432,1287 422,1293 417,1293 386,1290 296,1289" />
+				<Baseline points="296,1291 555,1289 735,1291" />
+				<TextEquiv index="1">
+					<Unicode>Aerars der Johannis- und Jacobiparochien.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l1" custom="readingOrder {index:1;}">
+				<Coords points="208,1299 218,1299 242,1305 259,1303 306,1307 309,1299 320,1299 322,1308 348,1300 366,1302 376,1306 380,1300 394,1300 397,1309 409,1305 412,1300 452,1300 454,1308 488,1300 510,1300 520,1306 530,1306 531,1300 542,1300 543,1308 555,1306 637,1307 638,1301 649,1301 651,1309 730,1301 735,1301 742,1307 764,1307 767,1301 777,1301 785,1307 794,1307 794,1319 785,1319 777,1316 753,1316 735,1320 730,1320 696,1317 649,1316 567,1318 555,1316 519,1315 348,1315 208,1313" />
+				<Baseline points="208,1313 794,1317" />
+				<TextEquiv index="1">
+					<Unicode>ht über die Budgets der Kirchengemeinden St. Jacobi,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Aerars der Johannis- und Jacobiparochien.
+ht über die Budgets der Kirchengemeinden St. Jacobi,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r10">
+			<Coords points="0,0 1000,0 1000,1565 0,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+⟦⟧
+| style="text-align:right; vertical-align:top; width:40px" | 969.⟦⟧
+| Petition der Chemnitzer Obermeister, Innungswesen betr. 1845.
+| style="text-align:right; vertical-align:top;" | 971.⟦⟧
+| Böhme, Aufruf an alle Strumpfwirker Sachsens. Chemnitz 1850.
+| style="text-align:right; vertical-align:top;" | 972.⟦⟧
+| Satzungen, Fabrikanten, Kaufleute und Webermeister in bunten Weberwaaren betr. Chemnitz 1848.
+| style="text-align:right; vertical-align:top;" | 975.⟦⟧
+| Weissgerber-Kreis-Innung. Bekanntmachung. 1847.
+| style="text-align:right; vertical-align:top;" | 978.⟦⟧
+| Zöllner, die Anfänge der Chemnitzer Industrie. S.-A. 1876.
+| style="text-align:right; vertical-align:top;" | 979.⟦⟧
+| –, über das Chemnitzer Zunftwesen. S. Nr. 197.
+| style="text-align:right; vertical-align:top;" | 982.⟦⟧
+| Findeisen, [http://digital.slub-dresden.de/id329771132 die Erzeugnisse des gesammten Maschinenbaues von Chemnitz und Umgegend]. Chemnitz 1858.
+| style="text-align:right; vertical-align:top;" | 935.⟦⟧
+| Legitimationsschein für zugewanderte Webergesellen. Chemnitz 1823.⟦⟧
+| style="text-align:right; vertical-align:top;" | 987.⟦⟧
+| Notariats-Protokoll über Prüfung eines eisernen Cassaschrankes von Gust. Ullmann & Co. Chemnitz 1874.
+| style="text-align:right; vertical-align:top;" | 990.⟦⟧
+| Sammler, der Getreidemarkt in Chemnitz. S.-A. 1876.
+| style="text-align:right; vertical-align:top;" | 991.⟦⟧
+| Zur Börsenfrage.
+| style="text-align:right; vertical-align:top;" | 993.⟦⟧
+| Jahresbericht der Handels- und Gewerbekammer zu Chemnitz. Jahrg. 1863–82. 10 Bde.
+| style="text-align:right; vertical-align:top;" | 995.⟦⟧
+| Heinrich, [http://digital.slub-dresden.de/id328058602 eine directe Chemnitz-Leipziger Eisenbahn über Limbach-Penig, Frohburg-Kohren und Borna]. Borna o. J.
+| style="text-align:right; vertical-align:top;" | 998.⟦⟧
+| Portotaxe von Chemnitz. Dresden 1868.
+| style="text-align:right; vertical-align:top;" | 999.⟦⟧
+| Brief- und Fahrpost-Porto-Tarif für Chemnitz. 1875.
+| style="text-align:right; vertical-align:top;" | 1000.⟦⟧
+| Briefporto-Tarif nach bez. von dem gesammten Auslande 1875.
+⟦⟧
+| style="text-align:right; vertical-align:top; width:40px" | 1001.⟦⟧
+| Stier, die erste Kirchenvisitation in Chemnitz i. J. 1539. S. Nr. 197.
+| style="text-align:right; vertical-align:top;" | 1003.⟦⟧
+| Drabitius, L., Kemnitzer Predigtstuhls Einweihung. Freiberg 1598. S. Nr. 1083.
+| style="text-align:right; vertical-align:top;" | 1006.⟦⟧
+| Richter, A. D., einige Nachrichten der Kirchengeschichte in der Stadt Chemnitz. Annaberg 1743.
+| style="text-align:right; vertical-align:top;" | 1007.⟦⟧
+| –, zerstreute Nachrichten von denen ehemaligen Aebten und Klöstern in der Stadt Chemnitz. Annaberg 1746.
+| style="text-align:right; vertical-align:top;" | 1009.⟦⟧
+| Kurtze Nachricht von der Legung eines Grundsteins zu dem Bau der neuen Kirche zu Chemnitz. Dresden 1750.
+| style="text-align:right; vertical-align:top;" | 1012.⟦⟧
+| Gühling, M. J. Fr., Legung des Grundsteins zu einer neuen Kirche in Chemnitz. Annaberg 1750.
+| style="text-align:right; vertical-align:top;" | 1015.⟦⟧
+| Schmeisser, Vertrag der Rathes der Stadt Chemnitz mit dem Pfarrer zu St. Jacob aus dem Jahre 1399. S. Nr. 196.
+⟦⟧
+| style="text-align:right; vertical-align:top; width:40px" | 1021.⟦⟧
+| Budgets des Aerars der Johannis- und Jacobiparochien.
+| style="text-align:right; vertical-align:top;" | 1024.⟦⟧
+| Bericht über die Budgets der Kirchengemeinden St. Jacobi, Pauli, Petri und Johannis.
+-->
+	</Page>
+</PcGts>

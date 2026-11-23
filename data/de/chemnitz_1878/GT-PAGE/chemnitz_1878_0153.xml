@@ -1,0 +1,415 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:25:44</Created>
+		<LastChange>2026-11-23T14:25:44</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/153 revision 4773964 of 2025-12-31T07:48:06Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0153.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro15988975313962570971" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="407,164 434,164 434,181 407,181" />
+			<!-- line left out: id="r0l0" points="407,165 427,164 434,164 434,181 414,181 407,176" baseline="407,181 434,181" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 145
+ | german_print2_15: 145
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="66,206 805,206 805,1364 66,1364" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="66,218 78,218 79,224 101,224 101,218 114,218 134,223 134,217 140,217 140,224 158,224 158,217 206,217 207,229 227,222 255,221 261,215 305,215 325,220 325,214 337,214 379,219 380,213 478,211 549,210 560,215 599,215 599,209 612,209 613,215 644,209 694,208 723,213 736,206 774,206 774,216 781,216 781,218 774,222 761,223 649,226 255,232 211,236 207,236 151,234 66,235" />
+				<Baseline points="66,235 781,222" />
+				<TextEquiv index="1">
+					<Unicode>hochschädlich, wucherisch und unchristlich bezeichnet. Dem Erb-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="67,244 76,244 76,250 104,250 105,244 117,244 118,251 171,249 171,243 183,243 184,249 194,249 200,242 212,242 212,248 223,248 224,242 242,241 255,241 255,247 268,247 268,241 280,241 287,247 308,247 314,240 336,240 357,243 385,243 403,240 416,240 444,244 444,238 465,238 466,244 497,243 504,237 557,236 564,242 597,236 603,236 616,241 746,233 759,233 781,238 781,249 675,251 674,257 662,257 662,251 644,254 632,254 623,251 616,257 557,253 486,254 432,258 403,258 375,256 336,258 104,261 67,261" />
+				<Baseline points="67,261 781,249" />
+				<TextEquiv index="1">
+					<Unicode>feinde werde dadurch zu Fortsetzung seines blutdürstigen, tyrannischen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="67,271 89,271 105,276 105,270 111,270 111,276 130,271 174,275 174,283 198,269 247,268 247,275 270,273 356,272 357,266 399,265 400,273 412,271 425,271 425,265 466,265 543,269 544,277 555,268 593,268 607,261 614,261 614,268 631,268 632,261 645,261 646,269 657,269 657,262 670,262 677,264 701,266 718,260 734,260 775,265 781,269 781,271 775,275 761,276 729,275 701,277 631,278 620,283 569,280 519,280 503,286 491,286 491,280 394,280 356,283 332,283 314,289 302,289 234,285 111,287 67,286" />
+				<Baseline points="67,287 781,275" />
+				<TextEquiv index="1">
+					<Unicode>Vorhabens, Verheerung und Verderbung unseres geliebten Vater-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="67,297 72,297 85,302 98,303 98,296 110,296 117,304 152,303 152,296 167,296 167,302 182,299 209,301 209,295 221,295 221,302 240,301 259,294 275,294 325,299 327,307 353,293 358,293 359,299 376,298 377,292 393,292 394,298 409,295 426,295 442,291 449,291 468,296 468,290 474,290 474,296 500,296 518,290 527,289 534,289 534,295 565,294 575,289 588,289 588,295 600,295 601,289 634,288 634,294 654,295 655,288 660,288 679,293 742,285 754,285 755,293 765,291 783,291 783,302 742,302 721,310 708,305 668,304 660,298 648,298 643,310 630,310 612,304 564,306 528,305 399,308 331,311 302,310 67,313" />
+				<Baseline points="67,314 353,308 783,302" />
+				<TextEquiv index="1">
+					<Unicode>landes deutscher Nation, hochsträflicher Vorschub geleistet, dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="66,329 121,326 185,328 186,322 197,322 198,328 210,328 211,321 223,321 224,327 256,327 256,321 268,321 269,328 280,326 297,326 311,320 317,319 326,319 327,325 350,324 373,319 385,319 386,326 397,324 408,319 421,319 421,325 432,323 488,322 543,323 571,315 585,315 586,321 615,321 615,314 672,314 673,322 694,322 694,313 700,313 701,319 719,319 719,313 752,312 764,312 776,317 783,318 783,328 639,331 517,331 502,333 443,334 431,339 408,339 397,336 364,335 174,338 174,344 162,344 66,340" />
+				<Baseline points="66,340 783,328" />
+				<TextEquiv index="1">
+					<Unicode>man mit gebührendem Ernst begegnen müsse. Es wird deshalb das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="67,359 72,351 101,349 116,349 116,355 133,350 152,349 154,355 184,356 184,348 199,348 199,356 210,356 220,347 243,348 262,352 262,346 295,346 303,354 315,354 325,346 337,346 370,351 370,345 401,345 425,350 425,344 431,344 431,350 491,349 497,343 507,343 507,349 530,350 540,342 552,342 553,349 572,348 584,341 606,342 630,347 637,341 649,339 663,339 663,347 673,347 674,340 686,340 698,345 704,339 740,339 741,345 773,344 773,338 784,338 784,355 572,358 530,360 210,363 169,365 83,366 67,366" />
+				<Baseline points="67,366 314,361 784,355" />
+				<TextEquiv index="1">
+					<Unicode>Aufkaufen des Getreides durch Einheimische, der Getreidekauf durch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l6" points="69,378 73,378 112,381 113,375 125,375 126,382 135,382 144,375 161,375 182,380 189,375 200,375 201,381 212,380 235,380 237,374 249,374 291,379 292,373 298,373 300,379 316,378 324,378 325,372 330,372 332,378 370,375 381,375 398,377 422,377 423,371 428,371 431,378 443,374 454,374 516,375 517,369 543,369 545,376 562,376 562,368 569,368 569,376 581,374 654,373 672,373 672,366 684,365 696,365 722,366 739,371 745,365 752,365 753,372 764,371 772,368 784,368 784,384 772,384 739,382 716,382 696,384 631,384 545,384 543,391 535,391 527,385 483,390 473,390 454,386 428,386 422,387 381,387 370,387 368,393 355,393 291,389 249,390 200,391 161,391 125,392 69,392" baseline="69,392 134,391 380,387 482,385 630,383 784,381" reason: differs: "manaufg" against "mann au" | Wikisource:  | next_nc_e1: fremde Kornhändler überhaupt verboten, und Jederman aufgefordert, | german_print2_15: fremde Kornhändler überhaupt verboten, und Jederman aufgefordert, -->
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="68,408 112,408 112,402 127,402 127,408 149,409 149,402 155,402 157,408 208,406 225,400 237,400 238,406 249,406 250,400 262,400 264,407 273,407 292,399 304,399 305,405 316,405 324,407 337,400 354,399 356,406 367,401 381,401 401,404 402,397 414,397 415,404 424,404 445,409 446,402 480,402 480,396 493,396 493,402 504,402 504,395 517,395 526,400 554,401 569,395 590,395 596,401 622,400 622,394 634,394 659,400 698,395 763,395 785,397 785,407 590,411 554,414 526,412 324,414 138,419 127,423 102,423 68,418" />
+				<Baseline points="68,419 785,407" />
+				<TextEquiv index="1">
+					<Unicode>im gegebenen Falle das Getreide anzuhalten, Bericht zu erstatten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="67,434 90,434 91,428 102,428 122,434 126,428 139,428 141,436 153,436 171,426 185,427 186,435 206,432 217,427 223,427 223,433 236,433 236,427 247,426 259,426 260,434 358,429 485,428 524,421 565,421 571,428 591,427 592,421 610,421 618,427 629,424 660,420 672,420 673,427 684,425 724,425 725,419 736,419 785,423 785,434 423,440 383,444 373,444 358,441 310,440 310,447 298,447 279,440 271,442 247,443 67,444" />
+				<Baseline points="67,444 785,434" />
+				<TextEquiv index="1">
+					<Unicode>und des Bescheides gewärtig zu sein. Es verdient bemerkt zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="67,460 103,460 109,454 127,454 127,460 139,460 140,467 163,453 175,453 175,459 242,459 260,452 272,452 279,458 313,460 313,453 352,450 367,450 367,457 383,454 386,450 400,450 401,456 458,455 470,449 481,449 495,457 504,455 516,455 517,448 522,448 523,454 534,454 534,448 547,448 547,455 587,454 594,447 610,447 619,453 633,451 664,452 666,460 684,446 697,446 697,453 709,451 744,451 757,444 770,444 776,445 786,450 786,460 669,464 587,464 587,470 574,470 557,464 187,470 143,472 140,472 67,470" />
+				<Baseline points="67,471 786,461" />
+				<TextEquiv index="1">
+					<Unicode>werden, dass zu den Aufkäufern auch solche gehörten, denen die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="68,494 71,482 89,482 132,486 133,480 144,480 152,486 162,486 162,480 174,480 195,487 243,486 243,479 256,479 257,485 291,482 299,479 312,479 318,485 337,486 350,478 367,478 368,484 379,484 380,477 410,477 425,482 470,482 494,481 494,475 501,475 515,478 531,478 531,491 379,493 317,496 133,496 132,502 120,502 110,497 68,497" />
+				<Baseline points="68,497 447,491 531,491" />
+				<TextEquiv index="1">
+					<Unicode>Amtspflicht ein derartiges Gebahren verbot.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="120,507 150,506 159,512 177,512 193,506 205,506 207,512 223,512 237,505 256,506 268,511 269,505 281,505 307,513 322,511 323,504 339,504 341,511 369,510 369,504 382,504 383,510 394,510 432,508 452,502 467,503 469,509 528,505 575,507 576,501 588,501 600,506 611,507 626,500 634,499 648,499 655,505 666,503 713,505 731,498 745,498 745,504 763,501 777,501 786,504 786,516 763,519 731,519 702,515 576,517 543,511 541,517 528,517 528,523 516,523 515,517 177,523 136,523 120,522" />
+				<Baseline points="120,523 564,515 786,513" />
+				<TextEquiv index="1">
+					<Unicode>Wenn die Stadt sich diesem Rescripte ohne Weiteres fügte,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l12" custom="readingOrder {index:12;}">
+				<Coords points="68,541 101,539 122,540 123,533 128,533 129,539 142,537 201,539 238,538 244,532 249,532 251,538 333,538 348,530 409,530 430,535 430,542 448,535 460,535 461,528 466,528 468,537 475,537 490,528 502,528 502,534 531,533 546,527 595,527 596,534 688,529 689,539 708,525 722,525 722,532 733,532 734,525 740,525 787,529 787,540 466,544 433,547 409,545 409,551 353,551 348,551 333,544 282,548 141,551 129,551 68,548" />
+				<Baseline points="68,549 787,540" />
+				<TextEquiv index="1">
+					<Unicode>so zeigte sie sich um so rühriger, als dem Rathe am 16. Februar</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l13" custom="readingOrder {index:13;}">
+				<Coords points="70,565 77,562 158,565 224,564 244,557 291,558 294,564 327,563 328,557 339,557 340,564 383,560 397,560 406,562 430,555 442,555 443,561 463,555 478,555 485,559 496,562 516,554 530,554 530,560 558,560 558,554 569,554 591,559 593,553 626,552 644,552 646,560 655,560 655,552 658,552 788,556 788,567 129,575 107,581 99,581 70,576" />
+				<Baseline points="70,576 788,566" />
+				<TextEquiv index="1">
+					<Unicode>1657 eine von Schlosschemnitz datirte Zuschrift des Amtmanns</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l14" custom="readingOrder {index:14;}">
+				<Coords points="70,586 89,586 91,593 101,593 102,586 138,586 158,591 168,585 190,585 190,592 202,592 203,585 229,585 229,591 264,591 273,584 286,584 287,590 316,590 323,583 333,583 347,589 359,589 366,583 376,583 378,589 393,587 424,589 425,582 436,582 437,588 509,588 518,580 537,580 538,586 560,586 570,580 582,580 604,585 630,586 630,579 642,579 643,585 658,585 658,579 663,579 664,587 674,584 684,584 684,578 697,578 697,586 719,584 729,577 745,577 778,577 779,584 788,584 788,593 323,599 316,605 304,605 229,605 213,605 185,601 70,602" />
+				<Baseline points="70,602 788,593" />
+				<TextEquiv index="1">
+					<Unicode>Melchior Wolfgang Siegel nebst einer von dem kursächsischen Rathe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l15" custom="readingOrder {index:15;}">
+				<Coords points="71,612 94,612 113,615 123,612 146,612 147,618 199,617 214,611 270,611 272,618 289,616 334,616 335,609 370,609 378,615 399,615 410,609 427,609 428,615 504,610 515,607 533,607 534,613 548,613 566,607 577,607 595,612 606,606 623,605 635,605 636,611 648,611 649,605 661,605 661,613 672,613 674,605 686,605 686,611 782,609 789,613 789,615 782,620 491,624 438,623 399,625 146,628 113,628 71,628" />
+				<Baseline points="71,628 789,619" />
+				<TextEquiv index="1">
+					<Unicode>Dietrich von Werther und dem Secretär Christian Winkelmann aus-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l16" custom="readingOrder {index:16;}">
+				<Coords points="71,644 83,644 90,639 99,638 108,638 109,644 123,641 138,640 157,640 179,643 198,637 213,637 221,643 261,643 261,637 268,637 293,642 341,643 341,636 353,636 355,643 368,643 388,635 405,635 407,641 433,634 443,634 443,640 466,638 482,638 497,640 516,633 524,633 526,639 537,639 538,633 550,633 551,639 586,639 605,633 615,632 628,632 629,639 667,638 687,631 703,631 706,645 737,638 742,630 754,630 774,636 778,630 790,630 790,646 744,647 710,650 687,647 667,653 586,649 526,649 524,656 516,656 497,650 353,652 316,654 213,653 157,657 138,657 101,654 83,658 71,658" />
+				<Baseline points="71,654 790,646" />
+				<TextEquiv index="1">
+					<Unicode>gefertigten Verordnung des Kurfürsten Johann Georg II, d. d.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l17" custom="readingOrder {index:17;}">
+				<Coords points="73,664 80,664 104,670 124,671 124,664 139,664 139,670 191,668 192,676 211,663 241,663 242,669 323,666 324,681 334,675 366,675 367,667 376,667 376,661 387,661 387,668 397,668 402,664 418,664 425,661 442,661 497,666 498,660 510,660 511,668 525,668 541,660 595,665 596,659 693,661 712,663 721,657 729,657 783,663 789,666 789,669 783,669 783,678 693,674 450,677 340,683 324,683 289,679 232,679 191,684 181,684 159,682 73,680" />
+				<Baseline points="73,680 789,673" />
+				<TextEquiv index="1">
+					<Unicode>Dresden, 13. Februar 1657, zugestellt wurde, in welcher unter Bezug-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l18" custom="readingOrder {index:18;}">
+				<Coords points="73,696 97,697 97,690 109,690 110,696 170,696 170,690 185,690 198,697 226,695 236,689 262,689 281,694 286,689 299,689 335,696 335,688 346,688 348,695 356,695 371,687 394,687 439,693 479,692 490,686 523,686 524,692 548,691 569,686 586,686 629,691 643,684 650,684 661,690 712,688 751,683 760,683 761,689 780,689 780,683 791,683 791,699 761,700 760,706 751,706 739,700 661,700 629,706 619,706 609,702 511,702 504,709 490,709 479,703 73,707" />
+				<Baseline points="73,707 791,699" />
+				<TextEquiv index="1">
+					<Unicode>nahme auf ein Mandat des Kurfürsten Johann Georg I vom 26. Juni</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l19" custom="readingOrder {index:19;}">
+				<Coords points="74,722 81,718 156,722 157,716 168,716 185,722 203,722 203,716 217,716 234,723 240,723 240,715 252,715 254,723 280,721 314,721 325,723 326,715 331,715 333,721 389,721 408,714 418,713 431,713 431,719 465,719 466,713 477,713 478,719 491,718 503,713 517,713 517,731 541,718 614,716 627,719 641,711 650,711 651,717 669,717 669,711 681,711 698,717 703,710 741,710 743,723 762,716 767,709 781,709 782,715 791,715 791,726 743,726 741,733 733,733 715,727 651,727 650,733 598,732 541,727 519,734 503,734 444,729 379,729 379,735 367,735 343,731 314,736 302,736 252,732 102,734 74,733" />
+				<Baseline points="74,733 791,726" />
+				<TextEquiv index="1">
+					<Unicode>1656 und auf die zugehörige Verordnung vom 30. Juni d. J. die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l20" points="111,743 115,743 202,749 226,748 235,748 253,741 263,741 269,742 271,750 282,746 298,746 322,747 323,741 335,741 337,748 357,747 370,746 381,746 389,749 405,740 418,740 419,747 431,747 431,740 443,740 456,745 527,745 528,738 539,738 558,744 588,744 588,738 602,738 602,744 615,744 628,743 638,743 655,737 661,737 662,744 681,743 693,743 700,737 712,737 785,742 792,745 792,748 785,752 739,753 615,754 563,755 456,756 418,756 357,756 337,751 335,757 235,758 209,758 202,758 111,744" baseline="111,759 234,757 339,756 637,753 738,752 792,752" reason: differs: "ivon" against "Einf" | Wikisource:  | next_nc_e1: i von Getreide aus Böhmen und anderen Ländern ver- | german_print2_15: f von Getreide aus Böhmen und anderen Ländern ver- -->
+			<TextLine id="r1l21" custom="readingOrder {index:21;}">
+				<Coords points="72,770 85,770 109,773 182,775 182,769 247,768 248,774 283,774 302,767 314,767 328,768 328,775 361,776 380,767 395,766 396,772 416,772 417,766 423,766 424,772 437,769 447,769 466,778 471,771 501,771 502,765 513,765 529,773 535,771 585,770 588,764 601,764 602,771 644,769 651,764 663,764 676,769 687,770 751,769 751,776 773,768 792,768 792,778 755,781 644,780 614,783 559,781 194,785 127,785 72,785" />
+				<Baseline points="72,785 792,778" />
+				<TextEquiv index="1">
+					<Unicode>boten wird. Wenn dieses Verbot auch ein allgemeines war, so</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l22" custom="readingOrder {index:22;}">
+				<Coords points="73,801 110,801 111,795 123,795 124,803 133,803 152,795 165,795 165,802 187,801 188,795 242,795 243,801 292,798 305,798 313,800 332,794 344,794 365,799 391,799 414,793 419,793 420,799 452,795 489,795 509,797 528,791 545,791 545,797 562,797 563,791 575,791 576,799 586,799 606,789 611,789 619,791 620,798 631,795 659,796 660,789 675,789 685,795 696,795 697,803 719,789 731,789 732,795 742,795 761,789 773,789 793,794 793,805 731,806 701,808 654,806 611,808 365,809 123,812 89,812 73,811" />
+				<Baseline points="73,812 793,805" />
+				<TextEquiv index="1">
+					<Unicode>wurde doch Chemnitz davon in erster Reihe betroffen, da das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l23" custom="readingOrder {index:23;}">
+				<Coords points="74,822 106,822 147,827 153,829 158,821 170,821 170,829 180,829 195,823 205,821 211,821 213,827 224,825 258,827 259,820 270,820 271,827 331,826 331,820 347,820 364,826 370,826 370,819 383,819 390,827 416,825 441,821 448,818 461,818 461,824 472,824 473,818 485,818 509,824 521,824 532,826 534,818 542,818 542,824 553,824 554,818 625,822 625,816 669,816 737,821 737,814 750,814 754,816 779,821 780,814 793,814 793,831 124,838 87,838 74,837" />
+				<Baseline points="74,838 793,831" />
+				<TextEquiv index="1">
+					<Unicode>böhmische Getreide nach dieser Stadt geführt und hier verkauft</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l24" custom="readingOrder {index:24;}">
+				<Coords points="74,854 112,854 112,848 124,848 125,855 135,855 136,861 169,847 190,849 204,853 221,847 239,847 240,853 274,853 275,847 287,847 289,854 298,854 316,846 328,846 329,854 348,852 363,845 385,846 386,852 494,850 569,851 569,844 584,844 595,849 609,843 628,843 654,848 677,843 683,843 698,847 734,848 747,842 766,842 776,847 794,847 794,858 747,858 734,864 717,864 716,858 621,860 504,860 466,865 409,861 402,866 386,866 369,862 140,864 74,863" />
+				<Baseline points="74,864 794,858" />
+				<TextEquiv index="1">
+					<Unicode>wurde. Der Unwille der Regierung wegen der Missachtung ihrer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l25" custom="readingOrder {index:25;}">
+				<Coords points="76,874 101,874 101,880 119,880 119,874 131,874 132,880 144,877 176,874 180,874 190,879 197,874 208,874 221,877 284,879 284,873 297,873 297,879 373,878 373,872 451,878 473,877 488,871 500,871 501,878 538,871 610,875 610,869 616,869 616,875 629,871 636,871 636,877 675,875 675,882 692,869 704,869 705,876 716,874 734,874 735,882 754,874 782,875 783,868 793,868 793,884 739,887 679,888 628,886 500,887 451,892 428,892 415,892 385,888 76,891" />
+				<Baseline points="76,890 793,884" />
+				<TextEquiv index="1">
+					<Unicode>Mandate richtete sich zunächst gegen den Amtsschösser, dem, weil</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l26" points="76,908 87,906 129,906 136,900 147,900 190,900 198,906 208,906 226,908 228,900 233,900 245,905 279,899 282,899 308,899 315,905 325,905 325,899 338,899 358,905 369,905 380,906 381,898 393,898 394,904 406,904 406,898 411,898 420,902 438,903 444,904 445,911 467,904 479,903 496,903 516,910 528,910 529,903 553,902 654,902 654,895 660,895 661,901 679,901 689,899 696,899 707,902 717,898 742,895 754,894 767,894 767,911 742,911 728,904 717,904 717,911 689,911 679,917 661,917 654,912 624,912 624,918 612,918 611,912 587,912 541,918 529,918 516,915 477,914 449,915 445,915 406,914 369,918 358,918 314,915 282,915 279,915 245,921 233,921 233,915 218,915 190,916 182,921 179,921 76,916" baseline="76,916 573,912 767,910" reason: models differ | Wikisource: er nicht fleissig Aufsicht gehalten, ein „ganz ungnädigstes“ Mi | next_nc_e1: er nicht fleissig Aufsicht gehalten, ein „ganz ungnädigstes“ Mi | german_print2_15: er nicht fleissig Aufsicht gehalten, ein „ganz ungnädigstes“ Mi⸗ -->
+			<!-- line left out: id="r1l27" points="78,929 83,929 95,932 96,926 117,926 117,932 132,932 147,926 160,926 160,933 171,932 181,932 217,930 223,930 278,931 278,925 340,925 401,930 401,924 418,924 432,936 437,930 449,929 455,929 511,929 540,928 551,928 620,928 620,922 641,922 641,928 652,928 652,922 658,922 658,928 696,927 708,927 718,921 727,921 727,927 738,927 738,921 744,921 773,921 785,926 785,920 795,920 795,937 669,941 658,941 582,938 581,944 569,944 540,940 511,939 475,942 456,942 449,940 418,940 340,941 241,941 217,947 205,947 78,942" baseline="78,942 417,939 550,938 696,937 795,937" reason: differs: "falle" against "ssfal" | Wikisource:  | next_nc_e1: fallen bezeugt wird. Er wurde angewiesen, gründlich, usführlich | german_print2_15: fallen bezeugt wird. Er wurde angewiesen, gründlich, usführlich -->
+			<TextLine id="r1l28" custom="readingOrder {index:28;}">
+				<Coords points="78,958 97,958 97,952 113,952 126,958 133,958 139,952 150,952 152,958 163,958 164,952 174,952 200,958 243,957 307,952 314,952 315,958 352,958 358,950 370,950 378,954 401,956 402,963 419,956 532,954 538,949 562,949 606,954 640,954 640,948 675,948 676,954 688,951 704,951 710,948 722,947 735,947 735,953 763,953 764,947 775,947 776,953 788,953 796,956 796,959 788,963 735,964 201,968 200,974 189,974 188,968 139,968 133,974 126,974 113,968 78,968" />
+				<Baseline points="78,968 796,963" />
+				<TextEquiv index="1">
+					<Unicode>und pflichtgemäss zu berichten, von wem und wieviel Getreide ein-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l29" custom="readingOrder {index:29;}">
+				<Coords points="79,984 90,984 97,978 111,978 111,984 121,984 122,978 128,978 129,984 143,981 176,984 200,984 206,978 219,978 220,984 283,984 296,977 308,977 310,983 322,983 340,977 356,977 389,982 389,976 411,976 411,982 422,982 422,976 435,976 445,982 481,982 495,975 507,975 514,981 526,981 539,975 566,975 566,981 590,981 590,974 603,974 617,978 690,980 691,974 703,974 762,979 762,973 775,973 775,979 797,979 797,989 507,992 481,997 469,997 378,993 340,993 323,987 322,993 296,993 283,999 272,999 265,992 256,992 256,999 252,999 176,993 90,999 79,999" />
+				<Baseline points="79,994 797,989" />
+				<TextEquiv index="1">
+					<Unicode>geführt worden sei, die Durchführung der Mandate zu überwachen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l30" custom="readingOrder {index:30;}">
+				<Coords points="80,1010 103,1010 104,1004 115,1004 129,1011 134,1004 147,1004 149,1011 158,1011 172,1004 197,1004 197,1010 209,1005 217,1005 231,1010 253,1010 253,1004 266,1004 266,1011 299,1009 353,1009 354,1003 377,1003 384,1009 463,1007 484,1002 496,1002 504,1005 525,1007 526,1001 534,1001 534,1009 557,1007 620,1008 621,1000 633,1000 638,1007 661,1006 661,1016 525,1018 484,1017 426,1023 415,1023 390,1018 317,1020 80,1020" />
+				<Baseline points="80,1020 661,1016" />
+				<TextEquiv index="1">
+					<Unicode>und die Verbrecher unnachlässig zur Strafe zu ziehen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l31" custom="readingOrder {index:31;}">
+				<Coords points="132,1038 136,1030 154,1030 156,1038 209,1036 227,1030 286,1030 287,1038 294,1038 314,1029 332,1029 334,1035 366,1036 366,1029 379,1029 380,1036 389,1036 404,1029 437,1028 447,1034 459,1034 460,1028 472,1028 479,1034 502,1034 502,1028 508,1028 508,1034 520,1034 521,1028 533,1028 534,1035 556,1028 579,1027 591,1027 592,1034 611,1035 625,1028 723,1032 798,1031 798,1047 788,1047 788,1041 579,1043 558,1050 556,1050 556,1044 521,1044 520,1050 508,1050 508,1044 410,1043 341,1046 132,1046" />
+				<Baseline points="132,1046 798,1041" />
+				<TextEquiv index="1">
+					<Unicode>Als ein Beweis für die Offenherzigkeit des Amtmannes mag</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l32" custom="readingOrder {index:32;}">
+				<Coords points="81,1063 121,1061 173,1055 243,1061 267,1061 273,1055 285,1055 286,1061 307,1062 324,1056 336,1056 357,1061 509,1060 522,1054 536,1054 537,1060 565,1060 565,1054 575,1054 597,1059 599,1053 649,1059 663,1052 676,1052 676,1060 699,1058 713,1052 730,1052 730,1058 742,1058 742,1052 756,1052 756,1058 767,1058 781,1052 787,1052 798,1057 798,1068 767,1070 676,1069 357,1071 307,1074 296,1074 286,1072 158,1071 157,1077 145,1077 144,1071 81,1071" />
+				<Baseline points="81,1071 798,1068" />
+				<TextEquiv index="1">
+					<Unicode>es angeführt werden, dass er in seiner Zuschrift an den Rath, in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l33" custom="readingOrder {index:33;}">
+				<Coords points="81,1088 108,1089 110,1082 133,1082 133,1088 205,1088 205,1081 218,1081 219,1089 250,1087 290,1087 321,1082 358,1081 370,1081 371,1087 387,1088 398,1080 415,1080 435,1084 477,1081 501,1086 524,1086 536,1080 556,1080 556,1086 569,1086 578,1080 590,1080 610,1085 615,1079 630,1079 631,1085 670,1084 681,1079 693,1079 701,1083 742,1085 743,1078 756,1078 756,1085 768,1083 799,1083 799,1094 701,1095 643,1100 631,1100 610,1096 346,1100 334,1100 299,1098 81,1097" />
+				<Baseline points="81,1098 799,1094" />
+				<TextEquiv index="1">
+					<Unicode>welcher er diesen ersucht, die Unterthanen des Stadtgerichtes ebenso</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l34" custom="readingOrder {index:34;}">
+				<Coords points="81,1114 111,1114 129,1107 180,1108 182,1114 230,1113 247,1107 259,1107 265,1114 278,1114 293,1107 319,1107 319,1113 341,1114 341,1108 356,1108 377,1115 400,1106 405,1106 405,1113 445,1113 447,1107 476,1106 485,1111 509,1112 510,1120 533,1112 566,1113 584,1106 596,1106 597,1112 615,1112 649,1111 653,1105 666,1105 667,1111 679,1111 709,1110 741,1105 765,1104 777,1104 778,1111 799,1109 799,1120 615,1122 514,1126 485,1123 405,1126 344,1124 230,1128 219,1128 206,1124 194,1129 162,1129 149,1129 81,1125" />
+				<Baseline points="81,1125 799,1120" />
+				<TextEquiv index="1">
+					<Unicode>zur Befolgung des Mandats anzuhalten, wie dies seinerseits den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l35" custom="readingOrder {index:35;}">
+				<Coords points="82,1136 166,1138 188,1140 188,1134 202,1134 250,1139 347,1140 348,1134 361,1134 361,1141 380,1139 406,1133 412,1133 412,1139 449,1139 449,1133 462,1133 462,1140 473,1140 473,1133 485,1133 486,1140 497,1140 498,1146 524,1133 536,1133 548,1138 588,1138 588,1132 606,1132 618,1137 644,1131 657,1131 657,1137 678,1137 714,1133 800,1136 800,1146 768,1146 768,1152 755,1152 733,1146 723,1146 715,1152 644,1152 548,1148 498,1151 438,1149 426,1147 426,1153 347,1150 312,1152 290,1155 279,1155 256,1149 82,1151" />
+				<Baseline points="82,1151 800,1146" />
+				<TextEquiv index="1">
+					<Unicode>Amtsunterthanen gegenüber geschehe, das ihm bezeugte ganz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l36" custom="readingOrder {index:36;}">
+				<Coords points="83,1167 144,1167 144,1160 157,1160 158,1166 192,1164 203,1167 213,1160 226,1159 232,1159 235,1166 258,1167 260,1159 291,1159 293,1166 404,1166 404,1159 410,1159 411,1166 451,1165 466,1159 501,1159 569,1164 590,1164 611,1163 632,1158 698,1156 714,1156 714,1164 734,1162 765,1162 775,1159 791,1159 801,1161 801,1172 581,1174 569,1179 535,1179 515,1175 240,1175 175,1181 120,1182 108,1182 83,1177" />
+				<Baseline points="83,1177 801,1172" />
+				<TextEquiv index="1">
+					<Unicode>ungnädigste Missfallen zu erwähnen nicht vergessen hat. Es müsste</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l37" custom="readingOrder {index:37;}">
+				<Coords points="83,1187 95,1187 96,1194 107,1192 181,1193 183,1200 201,1186 213,1186 214,1192 234,1192 289,1191 290,1185 301,1185 315,1191 320,1185 333,1185 334,1191 357,1186 370,1186 377,1189 389,1191 394,1185 408,1185 423,1191 430,1185 441,1185 443,1191 473,1191 492,1194 492,1186 530,1185 531,1191 543,1190 551,1185 587,1184 588,1190 599,1190 599,1184 605,1184 605,1190 635,1190 649,1182 653,1182 653,1190 665,1189 671,1183 678,1182 692,1182 698,1189 708,1189 708,1198 653,1198 635,1200 553,1201 301,1201 187,1204 183,1204 83,1203" />
+				<Baseline points="83,1203 708,1199" />
+				<TextEquiv index="1">
+					<Unicode>denn sein, dass auch die Stadt ihren Antheil haben sollte.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l38" custom="readingOrder {index:38;}">
+				<Coords points="135,1213 159,1215 168,1213 183,1213 186,1220 203,1218 333,1217 346,1211 368,1212 380,1217 380,1211 397,1211 397,1217 415,1217 416,1211 430,1211 430,1217 485,1217 485,1211 491,1211 507,1216 526,1219 537,1211 575,1210 575,1216 596,1216 597,1210 612,1210 646,1215 675,1214 675,1208 681,1208 701,1208 701,1215 731,1214 731,1208 737,1208 761,1208 802,1213 802,1223 575,1227 478,1227 465,1233 446,1233 446,1227 203,1228 186,1223 183,1229 135,1229" />
+				<Baseline points="135,1228 802,1223" />
+				<TextEquiv index="1">
+					<Unicode>Diese war nun zur Beschaffung ihres Bedarfs ausschliesslich an</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l39" custom="readingOrder {index:39;}">
+				<Coords points="84,1239 96,1239 97,1245 108,1245 116,1247 129,1239 137,1238 196,1238 229,1244 229,1238 240,1238 250,1244 273,1243 290,1238 296,1238 297,1244 307,1244 344,1238 373,1237 390,1237 390,1243 406,1243 420,1237 434,1237 435,1243 588,1242 602,1236 614,1236 621,1241 632,1242 642,1234 659,1234 679,1234 679,1240 739,1240 739,1234 751,1234 763,1241 768,1234 779,1234 803,1238 803,1249 751,1250 702,1253 659,1251 533,1253 533,1259 520,1259 520,1253 502,1258 344,1258 273,1254 261,1258 216,1255 84,1255" />
+				<Baseline points="84,1256 803,1249" />
+				<TextEquiv index="1">
+					<Unicode>das Niederland gewiesen. Die Preise gingen in die Höhe, und eine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l40" custom="readingOrder {index:40;}">
+				<Coords points="85,1278 96,1278 97,1271 159,1271 159,1265 240,1264 264,1264 265,1270 431,1269 492,1268 502,1266 538,1266 566,1276 570,1263 627,1267 637,1264 686,1263 696,1267 706,1261 723,1260 724,1267 735,1265 744,1261 757,1259 774,1259 803,1265 803,1279 788,1279 774,1276 617,1277 617,1283 604,1283 595,1278 365,1278 351,1284 340,1284 294,1280 240,1281 231,1273 221,1273 220,1281 157,1281 96,1284 85,1284" />
+				<Baseline points="85,1281 803,1275" />
+				<TextEquiv index="1">
+					<Unicode>„menschliche“ Theuerung war zu erwarten. Ausgestreute Gerüchte,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l41" custom="readingOrder {index:41;}">
+				<Coords points="85,1297 90,1291 104,1291 105,1297 114,1297 128,1291 152,1291 152,1298 163,1298 164,1291 176,1291 177,1298 196,1297 196,1291 202,1291 203,1297 215,1296 227,1291 239,1291 240,1298 252,1296 305,1295 306,1289 318,1289 327,1293 350,1295 368,1289 387,1289 387,1296 397,1296 416,1289 431,1289 431,1295 544,1294 578,1291 615,1294 629,1286 645,1286 645,1292 667,1292 667,1286 674,1286 675,1292 711,1289 784,1287 797,1291 803,1295 803,1298 797,1298 797,1308 784,1308 784,1302 687,1303 674,1308 605,1303 605,1309 592,1309 586,1304 544,1304 543,1310 531,1310 517,1304 259,1307 85,1307" />
+				<Baseline points="85,1307 803,1301" />
+				<TextEquiv index="1">
+					<Unicode>die Niederländer wollten die für sie so günstige Conjunctur mög-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l42" custom="readingOrder {index:42;}">
+				<Coords points="86,1317 92,1317 100,1323 111,1323 111,1317 123,1317 156,1323 207,1321 255,1322 256,1329 277,1322 327,1321 328,1315 340,1315 341,1321 361,1321 371,1318 401,1321 419,1315 431,1315 432,1321 448,1322 466,1315 482,1315 483,1321 518,1319 529,1322 530,1314 536,1314 537,1320 577,1320 578,1314 593,1314 622,1319 622,1326 641,1318 692,1317 709,1317 710,1325 735,1314 759,1314 804,1315 804,1328 777,1328 777,1334 745,1334 709,1329 626,1332 559,1330 298,1332 259,1335 256,1335 242,1333 86,1333" />
+				<Baseline points="86,1333 804,1328" />
+				<TextEquiv index="1">
+					<Unicode>lichst ausnutzen, veranlassten die Viertelsmeister, am 12. August</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l43" custom="readingOrder {index:43;}">
+				<Coords points="88,1347 96,1344 108,1344 118,1347 129,1348 187,1350 201,1343 215,1343 216,1349 339,1347 339,1340 367,1340 368,1347 424,1346 429,1341 503,1341 526,1346 527,1353 549,1340 638,1339 717,1344 732,1338 751,1338 752,1344 805,1343 805,1354 531,1358 417,1357 403,1363 386,1363 386,1357 352,1357 352,1364 339,1364 339,1357 269,1358 260,1359 249,1364 237,1364 237,1358 147,1359 129,1364 118,1364 88,1358" />
+				<Baseline points="88,1359 805,1354" />
+				<TextEquiv index="1">
+					<Unicode>1659 eine Bürgerversammlung abzuhalten, in welcher man die zur</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>hochschädlich, wucherisch und unchristlich bezeichnet. Dem Erb-
+feinde werde dadurch zu Fortsetzung seines blutdürstigen, tyrannischen
+Vorhabens, Verheerung und Verderbung unseres geliebten Vater-
+landes deutscher Nation, hochsträflicher Vorschub geleistet, dem
+man mit gebührendem Ernst begegnen müsse. Es wird deshalb das
+Aufkaufen des Getreides durch Einheimische, der Getreidekauf durch
+im gegebenen Falle das Getreide anzuhalten, Bericht zu erstatten
+und des Bescheides gewärtig zu sein. Es verdient bemerkt zu
+werden, dass zu den Aufkäufern auch solche gehörten, denen die
+Amtspflicht ein derartiges Gebahren verbot.
+Wenn die Stadt sich diesem Rescripte ohne Weiteres fügte,
+so zeigte sie sich um so rühriger, als dem Rathe am 16. Februar
+1657 eine von Schlosschemnitz datirte Zuschrift des Amtmanns
+Melchior Wolfgang Siegel nebst einer von dem kursächsischen Rathe
+Dietrich von Werther und dem Secretär Christian Winkelmann aus-
+gefertigten Verordnung des Kurfürsten Johann Georg II, d. d.
+Dresden, 13. Februar 1657, zugestellt wurde, in welcher unter Bezug-
+nahme auf ein Mandat des Kurfürsten Johann Georg I vom 26. Juni
+1656 und auf die zugehörige Verordnung vom 30. Juni d. J. die
+boten wird. Wenn dieses Verbot auch ein allgemeines war, so
+wurde doch Chemnitz davon in erster Reihe betroffen, da das
+böhmische Getreide nach dieser Stadt geführt und hier verkauft
+wurde. Der Unwille der Regierung wegen der Missachtung ihrer
+Mandate richtete sich zunächst gegen den Amtsschösser, dem, weil
+und pflichtgemäss zu berichten, von wem und wieviel Getreide ein-
+geführt worden sei, die Durchführung der Mandate zu überwachen
+und die Verbrecher unnachlässig zur Strafe zu ziehen.
+Als ein Beweis für die Offenherzigkeit des Amtmannes mag
+es angeführt werden, dass er in seiner Zuschrift an den Rath, in
+welcher er diesen ersucht, die Unterthanen des Stadtgerichtes ebenso
+zur Befolgung des Mandats anzuhalten, wie dies seinerseits den
+Amtsunterthanen gegenüber geschehe, das ihm bezeugte ganz
+ungnädigste Missfallen zu erwähnen nicht vergessen hat. Es müsste
+denn sein, dass auch die Stadt ihren Antheil haben sollte.
+Diese war nun zur Beschaffung ihres Bedarfs ausschliesslich an
+das Niederland gewiesen. Die Preise gingen in die Höhe, und eine
+„menschliche“ Theuerung war zu erwarten. Ausgestreute Gerüchte,
+die Niederländer wollten die für sie so günstige Conjunctur mög-
+lichst ausnutzen, veranlassten die Viertelsmeister, am 12. August
+1659 eine Bürgerversammlung abzuhalten, in welcher man die zur</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="663,1378 681,1378 681,1388 663,1388" />
+			<!-- line left out: id="r2l0" points="663,1378 681,1378 681,1388 663,1388" baseline="663,1388 681,1388" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 10
+ | german_print2_15: 10
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="394,1549 604,1549 604,1561 394,1561" />
+			<!-- line left out: id="r3l0" points="394,1549 402,1549 408,1550 422,1549 434,1549 456,1549 469,1549 499,1549 524,1549 542,1557 551,1552 573,1550 580,1550 601,1550 601,1556 604,1556 604,1558 580,1558 566,1560 452,1561 441,1561 426,1561 414,1560 407,1560 394,1558" baseline="394,1558 459,1558 604,1557" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnp digital slub-dresden de ppn30125
+ | german_print2_15: Utpiital slub-dresden de ppne0125
+ -->
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+hochschädlich, wucherisch und unchristlich bezeichnet. Dem
+Erbfeinde werde dadurch zu Fortsetzung seines blutdürstigen, tyrannischen
+Vorhabens, Verheerung und Verderbung unseres geliebten
+Vaterlandes deutscher Nation, hochsträflicher Vorschub geleistet, dem
+man mit gebührendem Ernst begegnen müsse. Es wird deshalb das
+Aufkaufen des Getreides durch Einheimische, der Getreidekauf durch
+fremde Kornhändler überhaupt verboten, und Jedermann aufgefordert,
+im gegebenen Falle das Getreide anzuhalten, Bericht zu erstatten
+und des Bescheides gewärtig zu sein. Es verdient bemerkt zu
+werden, dass zu den Aufkäufern auch solche gehörten, denen die
+Amtspflicht ein derartiges Gebahren verbot.
+Wenn die Stadt sich diesem Rescripte ohne Weiteres fügte,
+so zeigte sie sich um so rühriger, als dem Rathe am 16. Februar
+1657 eine von Schlosschemnitz datirte Zuschrift des Amtmanns
+Melchior Wolfgang Siegel nebst einer von dem kursächsischen Rathe
+Dietrich von Werther und dem Secretär Christian Winkelmann
+ausgefertigten Verordnung des Kurfürsten Johann Georg II, d. d.
+Dresden, 13. Februar 1657, zugestellt wurde, in welcher unter
+Bezugnahme auf ein Mandat des Kurfürsten Johann Georg I vom 26. Juni
+1656 und auf die zugehörige Verordnung vom 30. Juni d. J. die
+Einführung von Getreide aus Böhmen und anderen Ländern
+verboten wird. Wenn dieses Verbot auch ein allgemeines war, so
+wurde doch Chemnitz davon in erster Reihe betroffen, da das
+böhmische Getreide nach dieser Stadt geführt und hier verkauft
+wurde. Der Unwille der Regierung wegen der Missachtung ihrer
+Mandate richtete sich zunächst gegen den Amtsschösser, dem, weil
+er nicht fleissig Aufsicht gehalten, ein „ganz ungnädigstes“
+Missfallen bezeugt wird. Er wurde angewiesen, gründlich, ausführlich
+und pflichtgemäss zu berichten, von wem und wieviel Getreide
+eingeführt worden sei, die Durchführung der Mandate zu überwachen
+und die Verbrecher unnachlässig zur Strafe zu ziehen.
+Als ein Beweis für die Offenherzigkeit des Amtmannes mag
+es angeführt werden, dass er in seiner Zuschrift an den Rath, in
+welcher er diesen ersucht, die Unterthanen des Stadtgerichtes ebenso
+zur Befolgung des Mandats anzuhalten, wie dies seinerseits den
+Amtsunterthanen gegenüber geschehe, das ihm bezeugte ganz
+ungnädigste Missfallen zu erwähnen nicht vergessen hat. Es müsste
+denn sein, dass auch die Stadt ihren Antheil haben sollte.
+Diese war nun zur Beschaffung ihres Bedarfs ausschliesslich an
+das Niederland gewiesen. Die Preise gingen in die Höhe, und eine
+„menschliche“ Theuerung war zu erwarten. Ausgestreute Gerüchte,
+die Niederländer wollten die für sie so günstige Conjunctur
+möglichst ausnutzen, veranlassten die Viertelsmeister, am 12. August
+1659 eine Bürgerversammlung abzuhalten, in welcher man die zur
+-->
+	</Page>
+</PcGts>

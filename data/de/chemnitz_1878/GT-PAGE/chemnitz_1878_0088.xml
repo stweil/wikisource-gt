@@ -1,0 +1,350 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:20:55</Created>
+		<LastChange>2026-11-23T14:20:55</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/88 revision 4655608 of 2025-11-12T07:50:36Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0088.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro18265671532336828437" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="0,1108 10,1108 10,1508 0,1508" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="261,323 879,323 879,366 261,366" />
+			<!-- line left out: id="r1l0" points="261,323 307,323 307,333 327,333 327,325 350,325 353,334 373,334 375,325 402,325 508,328 508,337 538,337 560,330 621,330 687,331 719,332 747,334 751,343 777,338 795,334 821,334 824,344 843,344 845,335 871,335 874,361 879,361 879,366 824,366 777,365 719,364 687,366 661,366 645,362 572,361 560,360 508,359 469,359 445,358 307,357 282,357 261,353" baseline="261,353 418,356 560,359 645,361 879,367" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Bericht über die Bibliothek.
+ | german_print2_15: Bericht über die Bibliothek.
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="189,419 923,419 923,1366 189,1366" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="264,419 283,419 284,425 307,426 307,419 322,419 322,426 341,421 346,421 348,427 358,427 366,421 378,421 379,430 408,422 420,422 428,426 467,426 542,430 568,433 574,425 586,425 587,433 598,431 631,432 640,426 654,426 661,433 716,433 717,427 722,427 724,434 766,429 789,429 789,435 815,436 823,430 842,430 861,431 863,437 873,437 881,431 894,431 894,437 912,439 913,432 923,432 923,448 913,448 770,446 759,448 677,448 661,448 660,442 574,441 554,439 542,445 529,445 527,439 264,435" />
+				<Baseline points="264,435 923,448" />
+				<TextEquiv index="1">
+					<Unicode>Bei der in den Statuten vorgesehenen Begründung einer Bibliothek</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="254,451 282,446 291,446 291,452 355,453 355,447 367,447 369,456 386,454 392,448 405,448 406,456 415,456 429,448 447,448 481,456 483,449 510,450 511,458 529,458 541,450 556,450 564,457 606,457 618,459 664,459 671,453 686,453 704,454 706,460 731,461 742,455 754,455 755,461 763,461 782,456 793,456 806,459 836,462 899,464 899,458 913,458 914,466 922,466 922,474 880,476 868,476 844,473 405,463 367,463 309,467 254,461" />
+				<Baseline points="254,461 625,467 922,474" />
+				<TextEquiv index="1">
+					<Unicode>anfangs, als die Mittel des Vereines noch beschränkt waren, die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="209,470 234,470 253,472 254,478 299,478 299,472 312,472 313,478 331,479 332,473 343,473 344,481 355,478 367,478 398,480 491,481 525,483 526,476 531,476 539,480 563,483 600,478 630,478 643,479 650,485 686,486 687,480 692,480 695,487 718,486 737,488 738,481 749,481 750,487 764,487 774,481 785,481 793,488 871,489 878,484 888,484 889,490 922,490 922,503 871,504 859,504 838,499 643,494 406,491 390,489 319,493 265,488 234,487 234,493 220,493 220,487 209,487" />
+				<Baseline points="209,486 922,500" />
+				<TextEquiv index="1">
+					<Unicode>Nothwendigkeit vor, nur in seltenen Fällen über das hinauszugehen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="209,503 255,500 266,498 276,498 277,504 339,503 442,507 442,501 454,501 455,509 465,509 478,502 491,502 498,506 510,508 510,502 522,502 529,506 579,510 580,504 609,504 609,517 621,517 622,511 646,511 647,505 652,505 654,514 667,514 668,506 679,506 680,512 696,512 699,506 712,506 720,512 736,512 736,520 754,513 774,512 800,508 812,508 820,515 922,516 922,526 906,526 736,524 712,522 555,520 454,517 340,517 209,512" />
+				<Baseline points="209,513 540,518 922,526" />
+				<TextEquiv index="1">
+					<Unicode>was Chemnitz, sowie die Städte und Landschaften, mit denen es in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l4" points="208,529 220,529 232,530 233,524 238,524 240,531 257,530 265,530 275,532 295,525 313,525 320,531 329,531 335,532 347,533 349,526 360,526 361,532 385,532 437,531 444,531 454,533 465,531 481,531 518,529 530,529 530,537 542,535 556,535 564,530 575,530 591,534 595,529 597,529 651,531 673,538 716,533 731,533 731,539 745,539 767,540 768,533 780,533 800,534 802,541 818,541 820,535 837,535 856,536 884,536 905,536 921,537 921,553 913,553 891,552 884,551 856,553 853,553 820,551 786,550 780,549 716,549 690,548 630,547 500,546 397,546 386,546 349,542 335,541 300,541 295,541 265,540 208,540" baseline="208,539 274,540 518,544 836,550 921,553" reason: differs: "ungtret" against "ng getr" | Wikisource:  | next_nc_e1: nähere Beziehung treten, berührt. Es wurden deshalb allerlei | german_print2_15: nähere Beziehung treten, berührt. Es wurden deshalb allerlei -->
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="208,549 215,549 260,551 261,558 265,558 275,563 284,554 321,558 345,558 349,566 371,559 394,561 399,553 403,553 405,559 415,559 416,553 427,553 428,561 463,560 480,555 491,555 505,567 511,561 523,561 524,555 538,555 549,563 556,556 567,556 569,564 578,564 592,558 614,557 617,564 635,565 642,558 646,558 648,564 671,564 671,558 683,558 701,566 716,559 728,559 736,565 761,560 773,560 792,566 793,560 804,560 826,567 850,567 851,561 861,561 893,562 895,568 921,569 921,578 876,578 427,569 349,570 321,568 208,566" />
+				<Baseline points="208,566 592,571 921,578" />
+				<TextEquiv index="1">
+					<Unicode>Publicationen, welche sich auf die Geschichte der Stadt und ihrer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="208,576 225,576 225,582 273,578 276,584 324,584 352,587 360,585 386,585 397,587 433,586 433,580 448,580 465,588 471,580 483,580 484,588 508,583 524,582 526,590 550,591 552,582 561,582 563,588 574,588 580,591 586,583 597,583 604,587 636,590 637,584 648,584 655,590 662,590 678,584 701,584 701,591 722,591 729,586 752,586 760,584 772,584 773,594 793,594 794,600 811,587 823,587 824,596 842,594 861,588 867,588 893,593 914,594 920,599 920,601 914,605 901,605 823,603 794,604 780,602 772,604 710,604 678,600 648,599 448,596 324,597 316,599 300,599 298,593 260,595 208,593" />
+				<Baseline points="208,592 508,596 920,605" />
+				<TextEquiv index="1">
+					<Unicode>Umgebung, sowie auf die Geschichte des Erzgebirges, des Oster-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="207,609 224,609 225,603 260,603 279,604 281,610 342,611 344,605 348,605 351,612 373,612 381,605 392,605 399,615 406,615 418,606 423,606 425,612 535,614 542,616 547,608 552,608 578,615 622,616 623,610 634,610 635,618 676,617 690,615 726,617 739,616 747,612 761,612 762,618 773,613 778,613 799,621 820,619 832,614 844,614 845,621 875,620 921,622 921,631 773,630 690,627 681,625 676,632 668,632 668,626 578,630 566,624 492,625 459,624 451,622 207,619" />
+				<Baseline points="207,619 644,625 921,631" />
+				<TextEquiv index="1">
+					<Unicode>und Pleissnerlandes bezogen, nicht gerade systematisch, sondern wie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="206,636 215,636 215,629 221,629 222,636 252,636 252,629 264,629 266,636 278,636 287,630 301,630 320,633 327,631 345,631 361,637 378,638 392,632 415,632 448,633 449,639 478,640 479,633 495,633 537,634 560,639 613,643 676,643 684,637 697,637 699,650 730,647 735,639 747,638 761,638 773,645 780,639 791,639 793,646 816,641 832,640 834,647 844,647 846,640 869,640 869,646 882,646 919,641 919,657 897,657 660,653 613,651 602,656 589,656 560,651 512,652 206,644" />
+				<Baseline points="206,645 919,657" />
+				<TextEquiv index="1">
+					<Unicode>sie der Zufall in die Hände führte, gesammelt. Als die Geldmittel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="206,661 214,661 221,656 231,656 261,656 263,662 280,662 281,656 292,656 293,664 305,663 329,657 340,657 341,665 383,664 423,659 425,665 462,668 462,659 474,659 478,668 526,666 527,660 537,660 559,661 568,667 579,665 591,665 609,668 610,662 622,662 623,669 648,664 670,663 676,669 703,664 722,667 775,665 800,672 819,666 822,666 831,672 842,672 844,666 852,666 871,670 880,667 891,667 899,673 919,673 919,684 871,682 819,684 757,681 745,686 733,686 732,680 441,674 388,676 362,672 281,673 206,671" />
+				<Baseline points="206,671 919,683" />
+				<TextEquiv index="1">
+					<Unicode>reichlicher flossen, liessen sich leitende Gesichtspunkte aufstellen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="206,687 240,688 241,682 252,682 277,683 278,690 423,685 438,700 443,686 479,686 480,692 528,694 528,687 538,687 541,693 553,693 568,687 614,688 615,695 627,695 627,689 640,689 642,695 658,696 660,689 669,689 684,695 715,696 717,690 725,690 725,696 735,696 736,690 747,690 749,697 805,692 818,693 830,697 854,698 855,705 888,693 904,694 919,699 919,709 894,709 888,709 614,704 480,704 468,702 400,700 206,698" />
+				<Baseline points="206,698 919,709" />
+				<TextEquiv index="1">
+					<Unicode>nach denen man bei Anlage der Bibliothek verfahren könne. Die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l11" points="206,708 229,708 229,714 250,714 265,715 266,709 271,709 273,715 302,715 317,716 317,708 319,708 353,716 356,716 373,718 374,711 394,711 402,717 433,712 438,712 447,717 454,712 469,712 482,732 485,719 496,716 508,716 524,717 552,714 557,714 559,720 584,720 585,714 596,714 602,720 629,719 639,719 671,721 671,715 698,710 704,710 704,723 722,723 722,710 750,710 751,717 756,717 766,723 776,723 777,717 787,717 788,724 811,719 822,718 834,718 840,724 853,724 855,718 865,718 867,725 877,725 885,719 895,719 909,722 919,727 919,735 885,735 855,734 834,733 798,733 777,733 756,732 704,733 627,736 615,736 615,730 494,730 486,734 482,734 469,728 438,728 433,728 394,727 381,727 356,726 319,731 303,731 302,725 265,725 252,725 206,724" baseline="206,724 318,725 433,727 638,730 698,731 811,733 919,735" reason: differs: "fsäsisc" against " sächsi" | Wikisource:  | next_nc_e1: Erwerbungen sollten sich jetzt überhaupt auf säsische Geschichte | german_print2_15: Erwerbungen sollten sich jetzt überhaupt auf sächsische Geschichte -->
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="203,741 240,738 267,743 342,740 353,740 371,743 393,743 397,737 401,737 403,744 426,744 428,738 438,738 440,744 479,744 491,753 496,740 512,740 518,745 541,747 543,740 566,740 568,746 624,744 667,749 668,741 679,741 686,747 704,742 710,742 711,749 741,748 748,743 753,743 754,750 767,750 770,743 779,743 780,749 791,746 804,746 813,748 864,750 873,753 875,745 884,745 886,751 896,751 897,745 908,745 909,753 918,753 918,760 908,761 884,761 841,761 831,761 753,758 518,755 440,756 428,754 371,752 303,753 203,749" />
+				<Baseline points="203,750 606,755 918,761" />
+				<TextEquiv index="1">
+					<Unicode>erstrecken, mit vorläufigem Ausschluss etwa der Landschaften, welche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="203,760 215,760 216,768 263,762 266,762 276,768 287,768 289,762 299,762 306,768 341,769 342,763 353,763 354,770 376,769 390,776 427,768 440,768 473,772 475,765 487,765 491,772 505,771 518,773 520,766 537,766 539,773 620,773 632,770 645,770 657,774 666,771 717,769 743,774 777,775 784,771 793,771 807,776 826,773 853,776 884,777 885,771 897,771 903,777 917,777 917,790 903,790 897,787 819,790 777,790 764,790 743,785 679,783 657,783 615,788 613,780 588,782 559,782 542,776 537,781 458,779 263,779 203,777" />
+				<Baseline points="203,777 917,787" />
+				<TextEquiv index="1">
+					<Unicode>dem sächsischen Staatsverbande am spätesten hinzugefügt wurden,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="202,786 214,786 222,793 255,788 258,794 288,789 303,789 311,792 382,796 383,789 419,790 427,797 438,797 455,791 464,790 507,791 509,797 533,792 544,792 545,799 556,799 565,801 570,805 600,793 632,799 646,806 650,799 658,794 670,794 671,800 729,800 775,802 793,802 793,796 803,796 811,802 825,802 847,797 858,797 859,805 868,805 882,798 906,798 907,805 917,805 917,810 906,813 858,813 847,813 753,811 671,812 605,808 544,808 500,812 481,812 481,805 371,806 202,803" />
+				<Baseline points="202,803 917,813" />
+				<TextEquiv index="1">
+					<Unicode>der Lausitzen und des Vogtlandes. Die allgemeine sächsische Ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="202,821 211,819 221,819 222,813 227,813 229,820 252,820 252,814 264,814 283,821 287,828 310,821 317,821 317,815 329,815 330,822 354,817 379,816 379,824 396,824 398,816 421,816 422,822 432,822 434,816 445,816 453,820 533,825 535,818 539,818 542,824 573,825 588,819 601,819 601,826 644,826 645,819 651,819 652,826 716,827 717,821 760,821 760,828 814,828 816,822 828,822 857,823 857,829 876,826 889,826 916,830 916,842 908,842 898,840 871,839 340,831 287,832 272,830 202,829" />
+				<Baseline points="202,829 588,834 916,842" />
+				<TextEquiv index="1">
+					<Unicode>schichte, die Geschichte einzelner Perioden und Persönlichkeiten,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="201,846 207,846 208,839 220,839 221,847 258,846 264,841 289,841 291,847 299,847 329,842 340,842 341,850 363,848 364,855 387,848 411,848 411,842 434,842 467,843 468,849 545,850 591,845 605,845 608,851 616,849 629,849 638,846 649,846 653,859 689,847 701,847 701,855 713,853 774,854 815,849 827,849 827,856 839,852 855,855 856,849 868,849 868,855 916,856 916,866 895,866 752,863 653,864 616,862 364,859 201,855" />
+				<Baseline points="201,855 916,866" />
+				<TextEquiv index="1">
+					<Unicode>die zahlreichen, nicht immer von Kritik, aber von schätzbarem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="202,865 221,865 223,873 233,873 235,867 239,867 241,875 297,868 313,868 319,873 360,875 363,868 367,868 369,875 408,869 420,869 420,875 487,870 489,876 527,871 537,871 544,885 567,879 573,871 583,871 591,881 616,878 688,879 705,873 713,873 715,879 726,879 727,873 733,873 734,879 749,874 760,874 761,880 792,881 793,874 798,874 799,882 853,875 857,875 867,881 874,875 885,875 894,879 915,882 915,892 715,889 713,895 705,895 688,889 654,891 634,888 583,887 367,884 332,888 297,888 268,877 263,882 202,882" />
+				<Baseline points="202,881 915,892" />
+				<TextEquiv index="1">
+					<Unicode>Fleisse zeugenden Sammelwerke des vorigen Jahrhunderts sollten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="200,892 205,892 207,898 256,898 260,892 272,892 279,899 292,894 301,894 322,898 343,898 343,908 360,894 372,894 374,901 422,901 429,895 439,895 453,899 472,902 482,900 492,895 504,895 504,902 583,898 584,904 641,905 642,899 654,899 662,903 689,905 690,899 701,899 702,906 721,905 745,900 756,900 768,906 793,907 793,901 824,901 826,907 842,907 843,901 854,901 861,908 870,908 885,902 897,902 898,908 916,908 916,918 870,920 861,920 854,917 721,916 683,914 663,915 634,913 625,913 622,920 617,920 603,912 595,914 504,916 461,916 440,912 372,911 335,914 260,914 250,909 200,907" />
+				<Baseline points="200,908 916,918" />
+				<TextEquiv index="1">
+					<Unicode>berücksichtigt, die wichtigsten auf das politische und rechtliche, das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="200,924 208,919 228,919 252,919 261,925 272,925 272,919 278,919 279,926 291,922 318,920 321,926 333,921 343,921 345,927 405,927 406,921 417,921 438,929 465,928 489,923 502,923 502,930 525,923 539,923 539,931 551,924 563,924 563,931 585,930 606,924 611,924 613,931 663,931 664,925 668,925 670,931 681,931 683,925 692,925 694,932 719,931 719,925 721,925 770,926 770,932 784,927 795,927 795,933 894,928 895,935 916,934 916,944 857,943 721,947 719,947 719,941 670,941 663,947 650,947 650,941 525,939 502,933 502,939 382,937 357,931 355,937 252,935 208,937 200,934" />
+				<Baseline points="200,934 916,944" />
+				<TextEquiv index="1">
+					<Unicode>wirthschaftliche und sociale Leben bezüglichen Werke erworben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="199,950 235,951 235,945 247,945 248,953 271,952 273,959 305,946 321,946 322,952 334,947 356,947 370,953 419,954 456,949 469,949 469,956 481,953 516,955 532,949 536,949 538,956 581,956 592,954 647,957 695,956 714,951 725,951 733,958 758,958 758,952 770,952 771,960 781,960 795,953 805,953 810,960 817,959 823,953 835,953 836,961 846,957 876,959 883,954 895,954 896,961 908,961 915,964 915,967 909,967 908,975 896,975 877,970 666,967 648,961 647,967 463,965 406,969 394,964 382,963 373,969 370,969 356,963 199,960" />
+				<Baseline points="199,960 915,970" />
+				<TextEquiv index="1">
+					<Unicode>werden. Nach einigen Seiten hin ist eine annähernde Vollständig-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="199,971 210,971 218,977 230,974 255,972 259,972 262,979 312,976 314,982 341,981 347,979 369,979 399,974 404,974 418,978 422,974 424,974 464,975 464,982 519,982 520,975 530,975 558,976 560,982 630,983 641,981 722,978 742,984 770,984 770,978 780,978 814,985 824,982 830,982 872,986 915,986 915,996 884,996 873,994 872,1001 865,1001 853,995 801,999 722,994 595,993 573,986 570,992 199,987" />
+				<Baseline points="199,987 915,996" />
+				<TextEquiv index="1">
+					<Unicode>keit bereits erreicht. So sind die meisten und wichtigsten jener</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="197,997 209,997 209,1003 264,1004 272,998 284,998 284,1004 315,999 326,999 327,1006 337,1006 352,1000 376,1000 382,1006 430,1007 444,1001 457,1001 460,1007 470,1007 471,1001 482,1001 486,1009 494,1006 514,1005 538,1008 577,1009 592,1003 607,1003 613,1009 691,1010 694,1017 713,1005 729,1005 752,1010 768,1011 769,1004 831,1005 836,1013 847,1013 851,1006 865,1006 875,1012 913,1009 913,1024 826,1020 779,1023 679,1021 655,1019 649,1025 632,1025 622,1019 538,1021 526,1021 514,1018 482,1017 417,1019 382,1014 365,1021 352,1021 337,1014 301,1015 197,1012" />
+				<Baseline points="197,1013 913,1022" />
+				<TextEquiv index="1">
+					<Unicode>Sammelwerke (Horn, Schöttgen, Kreysig, Arndt, Weinart,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="199,1023 220,1023 224,1031 295,1027 338,1027 371,1032 382,1026 414,1026 430,1031 451,1034 465,1027 477,1027 478,1035 497,1036 506,1028 521,1028 529,1034 565,1034 584,1037 584,1028 631,1029 651,1034 684,1030 696,1030 697,1038 708,1036 768,1036 775,1031 791,1031 799,1039 809,1039 810,1032 872,1031 878,1038 895,1033 906,1033 907,1042 913,1042 913,1045 906,1049 895,1049 484,1043 400,1043 199,1039" />
+				<Baseline points="199,1039 913,1048" />
+				<TextEquiv index="1">
+					<Unicode>Weisse etc.) im Besitze des Vereins. Unter den mancherlei Nach-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l24" custom="readingOrder {index:24;}">
+				<Coords points="196,1057 205,1055 216,1050 253,1050 260,1057 308,1057 309,1051 320,1051 321,1059 333,1057 411,1058 488,1054 500,1059 545,1060 546,1054 557,1054 559,1061 581,1061 590,1055 602,1055 603,1062 648,1055 663,1055 679,1056 693,1061 706,1070 712,1070 716,1056 730,1056 730,1063 762,1059 777,1059 804,1063 804,1071 828,1058 851,1058 856,1063 891,1065 891,1058 902,1058 904,1065 912,1065 912,1073 744,1077 728,1077 663,1072 500,1069 238,1068 196,1065" />
+				<Baseline points="196,1065 912,1074" />
+				<TextEquiv index="1">
+					<Unicode>schlagewerken nennen wir besonders den Codex Augusteus. Dass die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l25" custom="readingOrder {index:25;}">
+				<Coords points="195,1077 202,1076 221,1076 221,1082 231,1082 233,1076 250,1076 252,1083 312,1083 313,1077 325,1077 325,1085 353,1078 371,1078 406,1084 438,1085 456,1079 468,1079 469,1085 490,1080 506,1080 508,1086 530,1080 555,1080 557,1087 584,1087 586,1081 597,1081 604,1087 620,1087 651,1094 651,1082 665,1082 676,1085 707,1085 736,1088 769,1089 872,1084 872,1090 902,1090 902,1084 911,1084 911,1102 715,1099 699,1104 681,1104 676,1097 530,1097 288,1093 202,1096 195,1091" />
+				<Baseline points="195,1091 911,1101" />
+				<TextEquiv index="1">
+					<Unicode>Quellenwerke fast nur durch Menckens Scriptores vertreten sind,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l26" custom="readingOrder {index:26;}">
+				<Coords points="195,1108 207,1108 216,1102 234,1102 236,1108 267,1109 268,1103 279,1103 297,1110 303,1110 304,1103 317,1103 317,1110 367,1105 368,1111 377,1111 378,1104 394,1104 394,1111 407,1111 427,1115 427,1105 460,1105 460,1112 497,1109 512,1106 519,1113 539,1113 555,1107 571,1107 571,1113 699,1114 738,1109 782,1110 783,1122 806,1116 812,1116 812,1110 839,1110 839,1117 879,1114 893,1114 912,1117 912,1127 742,1126 688,1128 675,1128 666,1124 519,1122 508,1108 507,1122 468,1122 452,1127 438,1127 438,1121 350,1121 195,1118" />
+				<Baseline points="195,1117 845,1125 912,1127" />
+				<TextEquiv index="1">
+					<Unicode>während der Codex diplomaticus Saxoniae regiae fehlt, dass unter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l27" custom="readingOrder {index:27;}">
+				<Coords points="194,1128 207,1128 207,1134 259,1134 297,1137 315,1136 315,1130 325,1130 333,1136 368,1137 369,1131 380,1131 388,1137 417,1131 430,1131 430,1138 451,1138 451,1132 491,1132 517,1139 528,1133 539,1133 540,1139 570,1139 570,1133 593,1133 595,1139 605,1139 612,1133 625,1133 626,1139 651,1134 664,1134 665,1141 676,1138 689,1138 705,1143 705,1135 715,1135 723,1141 737,1141 739,1135 748,1135 759,1139 775,1141 786,1135 797,1135 798,1141 809,1141 830,1137 846,1137 871,1144 871,1136 900,1137 900,1124 915,1124 915,1159 900,1159 900,1153 809,1151 651,1151 194,1144" />
+				<Baseline points="194,1144 915,1153" />
+				<TextEquiv index="1">
+					<Unicode>den von sächsischer Geschichte handelnden Zeitschriften das Archiv</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l28" custom="readingOrder {index:28;}">
+				<Coords points="195,1154 203,1154 206,1160 230,1160 296,1156 300,1164 347,1157 359,1157 363,1164 374,1164 388,1157 404,1157 410,1164 443,1165 444,1158 470,1158 476,1165 487,1158 498,1158 509,1162 594,1165 619,1163 667,1166 673,1161 704,1161 705,1167 716,1165 802,1167 816,1161 833,1161 835,1167 867,1168 869,1162 880,1162 899,1163 900,1169 910,1169 910,1179 869,1179 673,1178 652,1176 561,1175 546,1167 546,1174 523,1175 195,1170" />
+				<Baseline points="195,1170 910,1179" />
+				<TextEquiv index="1">
+					<Unicode>für sächsische Geschichte vermisst wird, hat seinen Grund in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l29" custom="readingOrder {index:29;}">
+				<Coords points="193,1180 198,1180 200,1186 211,1186 213,1180 224,1180 225,1186 237,1181 242,1181 243,1188 281,1182 296,1182 297,1189 308,1189 309,1182 323,1182 323,1188 334,1188 335,1182 347,1182 356,1186 375,1189 417,1189 420,1182 422,1182 466,1184 466,1192 529,1191 531,1185 566,1185 581,1193 607,1186 618,1186 633,1192 674,1193 676,1187 705,1187 705,1193 715,1193 729,1187 741,1187 742,1193 818,1194 818,1188 846,1188 847,1194 857,1194 876,1197 878,1189 888,1189 889,1195 910,1195 910,1205 715,1206 705,1206 581,1200 529,1206 517,1206 498,1201 193,1196" />
+				<Baseline points="193,1196 910,1205" />
+				<TextEquiv index="1">
+					<Unicode>lokalen Verhältnissen. Es empfahl sich nämlich, da immerhin eine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l30" points="191,1212 205,1212 233,1207 248,1207 257,1213 283,1208 295,1208 296,1214 329,1214 368,1215 370,1209 387,1209 389,1215 400,1213 405,1213 435,1217 443,1210 460,1210 480,1214 541,1217 541,1211 553,1211 554,1218 576,1217 581,1217 625,1218 626,1212 637,1212 655,1220 662,1219 673,1219 683,1220 697,1213 714,1213 722,1220 728,1213 740,1213 741,1219 803,1219 803,1227 827,1220 860,1217 872,1217 881,1221 881,1231 803,1235 790,1235 789,1229 766,1234 753,1234 720,1229 655,1229 576,1228 563,1228 503,1227 492,1227 468,1226 443,1225 435,1231 423,1231 405,1225 338,1225 329,1224 302,1224 302,1230 296,1230 295,1223 228,1223 212,1222 205,1228 191,1228" baseline="191,1222 283,1223 521,1226 580,1227 806,1229 881,1231" reason: differs: "mfar" against "mfangre" | Wikisource:  | next_nc_e1: gewisse Sparsamkeit geboten schien und die Nöthigung, umfar | german_print2_15: gewisse Sparsamkeit geboten schien und die Nöthigung, umfan -->
+			<TextLine id="r2l31" custom="readingOrder {index:31;}">
+				<Coords points="192,1238 211,1239 212,1233 235,1233 235,1239 289,1240 291,1234 302,1234 336,1235 336,1241 369,1241 379,1243 394,1235 415,1235 416,1242 436,1242 437,1236 448,1236 449,1243 474,1242 479,1237 496,1237 497,1244 530,1244 531,1237 542,1237 544,1244 618,1244 620,1238 624,1238 626,1245 638,1242 704,1245 782,1242 800,1245 808,1251 817,1247 836,1246 850,1240 866,1240 867,1247 885,1247 889,1241 894,1241 895,1247 908,1247 908,1257 771,1256 735,1258 719,1258 674,1255 266,1250 249,1244 249,1250 192,1248" />
+				<Baseline points="192,1249 908,1257" />
+				<TextEquiv index="1">
+					<Unicode>reiche und theure Werke wie die erwähnten wegen starker Nach-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l32" custom="readingOrder {index:32;}">
+				<Coords points="192,1258 201,1258 208,1264 242,1266 256,1260 268,1260 269,1266 329,1261 331,1267 346,1267 347,1261 382,1261 389,1269 439,1262 467,1262 474,1268 500,1263 512,1263 512,1269 613,1270 629,1272 629,1265 639,1265 640,1271 657,1271 658,1265 681,1265 682,1271 698,1271 713,1264 721,1264 721,1271 740,1271 752,1265 780,1265 787,1271 810,1271 824,1267 837,1267 838,1273 884,1273 884,1267 895,1267 907,1271 907,1283 651,1281 499,1284 487,1284 486,1278 474,1278 467,1284 442,1284 439,1284 411,1278 232,1275 232,1281 219,1281 219,1275 192,1275" />
+				<Baseline points="192,1275 907,1283" />
+				<TextEquiv index="1">
+					<Unicode>frage in mehrfachen Exemplaren anzuschaffen, für Chemnitz nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l33" custom="readingOrder {index:33;}">
+				<Coords points="190,1290 214,1286 236,1286 236,1293 247,1292 260,1288 267,1288 268,1299 286,1291 310,1292 312,1286 320,1286 347,1287 348,1294 404,1289 420,1289 442,1294 448,1289 489,1289 492,1295 577,1296 578,1290 589,1290 589,1296 619,1291 619,1297 741,1297 742,1291 747,1291 761,1295 825,1299 826,1293 868,1293 882,1301 890,1301 891,1294 896,1294 906,1299 906,1309 779,1309 761,1307 699,1306 631,1311 619,1311 602,1307 545,1305 527,1311 515,1311 515,1305 368,1304 247,1307 247,1301 190,1300" />
+				<Baseline points="190,1300 906,1309" />
+				<TextEquiv index="1">
+					<Unicode>vorliegt, auf deren Anschaffung vorläufig zu verzichten, sobald sie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l34" custom="readingOrder {index:34;}">
+				<Coords points="190,1311 195,1311 221,1317 252,1317 252,1311 269,1311 270,1317 323,1313 325,1319 354,1319 354,1313 366,1313 391,1320 400,1315 414,1315 426,1320 450,1315 499,1315 499,1323 539,1316 579,1316 586,1322 598,1320 606,1316 618,1316 618,1322 630,1317 641,1317 642,1323 663,1323 682,1316 694,1316 701,1323 714,1323 730,1317 742,1317 750,1321 762,1318 774,1318 803,1324 825,1324 835,1319 847,1319 858,1324 870,1325 871,1319 883,1319 884,1326 905,1325 905,1335 547,1333 468,1336 450,1336 431,1331 426,1331 418,1326 414,1336 400,1336 400,1330 190,1327" />
+				<Baseline points="190,1327 905,1335" />
+				<TextEquiv index="1">
+					<Unicode>in anderen leicht zugänglichen Bibliotheken der Stadt vorhanden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l35" custom="readingOrder {index:35;}">
+				<Coords points="189,1343 254,1343 295,1339 311,1339 312,1345 376,1340 396,1345 408,1346 408,1340 419,1340 428,1347 439,1344 542,1342 542,1349 562,1348 578,1342 601,1342 601,1348 615,1348 657,1343 711,1343 711,1349 735,1343 745,1343 745,1349 834,1351 869,1350 875,1345 892,1345 904,1349 904,1362 834,1366 821,1366 802,1360 780,1365 768,1365 744,1360 408,1357 376,1355 289,1354 242,1355 189,1353" />
+				<Baseline points="189,1353 904,1362" />
+				<TextEquiv index="1">
+					<Unicode>waren, sowie andererseits auch der Verein Anschaffungen gemacht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Bei der in den Statuten vorgesehenen Begründung einer Bibliothek
+anfangs, als die Mittel des Vereines noch beschränkt waren, die
+Nothwendigkeit vor, nur in seltenen Fällen über das hinauszugehen,
+was Chemnitz, sowie die Städte und Landschaften, mit denen es in
+Publicationen, welche sich auf die Geschichte der Stadt und ihrer
+Umgebung, sowie auf die Geschichte des Erzgebirges, des Oster-
+und Pleissnerlandes bezogen, nicht gerade systematisch, sondern wie
+sie der Zufall in die Hände führte, gesammelt. Als die Geldmittel
+reichlicher flossen, liessen sich leitende Gesichtspunkte aufstellen,
+nach denen man bei Anlage der Bibliothek verfahren könne. Die
+erstrecken, mit vorläufigem Ausschluss etwa der Landschaften, welche
+dem sächsischen Staatsverbande am spätesten hinzugefügt wurden,
+der Lausitzen und des Vogtlandes. Die allgemeine sächsische Ge-
+schichte, die Geschichte einzelner Perioden und Persönlichkeiten,
+die zahlreichen, nicht immer von Kritik, aber von schätzbarem
+Fleisse zeugenden Sammelwerke des vorigen Jahrhunderts sollten
+berücksichtigt, die wichtigsten auf das politische und rechtliche, das
+wirthschaftliche und sociale Leben bezüglichen Werke erworben
+werden. Nach einigen Seiten hin ist eine annähernde Vollständig-
+keit bereits erreicht. So sind die meisten und wichtigsten jener
+Sammelwerke (Horn, Schöttgen, Kreysig, Arndt, Weinart,
+Weisse etc.) im Besitze des Vereins. Unter den mancherlei Nach-
+schlagewerken nennen wir besonders den Codex Augusteus. Dass die
+Quellenwerke fast nur durch Menckens Scriptores vertreten sind,
+während der Codex diplomaticus Saxoniae regiae fehlt, dass unter
+den von sächsischer Geschichte handelnden Zeitschriften das Archiv
+für sächsische Geschichte vermisst wird, hat seinen Grund in
+lokalen Verhältnissen. Es empfahl sich nämlich, da immerhin eine
+reiche und theure Werke wie die erwähnten wegen starker Nach-
+frage in mehrfachen Exemplaren anzuschaffen, für Chemnitz nicht
+vorliegt, auf deren Anschaffung vorläufig zu verzichten, sobald sie
+in anderen leicht zugänglichen Bibliotheken der Stadt vorhanden
+waren, sowie andererseits auch der Verein Anschaffungen gemacht</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="397,1549 654,1549 654,1560 397,1560" />
+			<!-- line left out: id="r3l0" points="397,1549 405,1549 411,1550 425,1549 437,1549 459,1549 472,1549 497,1549 528,1549 555,1549 574,1549 641,1549 654,1550 654,1558 574,1560 548,1560 534,1558 455,1560 444,1560 417,1560 410,1560 397,1558" baseline="397,1558 654,1558" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: htpdigital slub-dresden delppn30125964288
+ | german_print2_15: tp iitalslub-dresden de ppneO125964288
+ -->
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<SeparatorRegion id="r5">
+			<Coords points="943,782 974,782 974,1474 943,1474" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+⟦⟧
+Bei der in den Statuten vorgesehenen Begründung einer Bibliothek
+lag anfangs, als die Mittel des Vereines noch beschränkt waren, die
+Nothwendigkeit vor, nur in seltenen Fällen über das hinauszugehen,
+was Chemnitz, sowie die Städte und Landschaften, mit denen es in
+nähere Beziehung getreten, berührt. Es wurden deshalb allerlei
+Publicationen, welche sich auf die Geschichte der Stadt und ihrer
+Umgebung, sowie auf die Geschichte des Erzgebirges, des Oster-
+und Pleissnerlandes bezogen, nicht gerade systematisch, sondern wie
+sie der Zufall in die Hände führte, gesammelt. Als die Geldmittel
+reichlicher flossen, liessen sich leitende Gesichtspunkte aufstellen,
+nach denen man bei Anlage der Bibliothek verfahren könne. Die
+Erwerbungen sollten sich jetzt überhaupt auf sächsische Geschichte
+erstrecken, mit vorläufigem Ausschluss etwa der Landschaften, welche
+dem sächsischen Staatsverbande am spätesten hinzugefügt wurden,
+der Lausitzen und des Vogtlandes. Die allgemeine sächsische
+Geschichte, die Geschichte einzelner Perioden und Persönlichkeiten,
+die zahlreichen, nicht immer von Kritik, aber von schätzbarem
+Fleisse zeugenden Sammelwerke des vorigen Jahrhunderts sollten
+berücksichtigt, die wichtigsten auf das politische und rechtliche, das
+wirthschaftliche und sociale Leben bezüglichen Werke erworben
+werden. Nach einigen Seiten hin ist eine annähernde
+Vollständigkeit bereits erreicht. So sind die meisten und wichtigsten jener
+Sammelwerke (Horn, Schöttgen, Kreysig, Arndt, Weinart,
+Weisse etc.) im Besitze des Vereins. Unter den mancherlei
+Nachschlagewerken nennen wir besonders den Codex Augusteus. Dass die
+Quellenwerke fast nur durch Menckens Scriptores vertreten sind,
+während der Codex diplomaticus Saxoniae regiae fehlt, dass unter
+den von sächsischer Geschichte handelnden Zeitschriften das Archiv
+für sächsische Geschichte vermisst wird, hat seinen Grund in
+lokalen Verhältnissen. Es empfahl sich nämlich, da immerhin eine
+gewisse Sparsamkeit geboten schien und die Nöthigung,
+umfangreiche und theure Werke wie die erwähnten wegen starker
+Nachfrage in mehrfachen Exemplaren anzuschaffen, für Chemnitz nicht
+vorliegt, auf deren Anschaffung vorläufig zu verzichten, sobald sie
+in anderen leicht zugänglichen Bibliotheken der Stadt vorhanden
+waren, sowie andererseits auch der Verein Anschaffungen gemacht
+-->
+	</Page>
+</PcGts>

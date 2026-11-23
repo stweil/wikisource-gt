@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:01:15</Created>
+		<LastChange>2026-11-23T14:01:15</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/286 revision 4964789 of 2026-07-28T13:48:33Z, proofread level 3, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0286.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro13864771894653968250" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="16" regionRef="r16" />
+				<RegionRefIndexed index="19" regionRef="r19" />
+				<RegionRefIndexed index="20" regionRef="r20" />
+				<RegionRefIndexed index="22" regionRef="r22" />
+				<RegionRefIndexed index="23" regionRef="r23" />
+				<RegionRefIndexed index="25" regionRef="r25" />
+				<RegionRefIndexed index="27" regionRef="r27" />
+				<RegionRefIndexed index="29" regionRef="r29" />
+				<RegionRefIndexed index="31" regionRef="r31" />
+				<RegionRefIndexed index="34" regionRef="r34" />
+				<RegionRefIndexed index="35" regionRef="r35" />
+				<RegionRefIndexed index="36" regionRef="r36" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 1000,0 1000,202 0,202" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="226,204 568,204 568,276 226,276" />
+			<!-- line left out: id="r1l0" points="227,210 245,208 248,208 281,210 303,204 314,204 321,210 325,210 370,211 397,211 476,211 556,207 568,207 568,219 556,219 476,218 448,218 397,220 370,220 354,220 325,218 314,219 281,220 277,220 248,217 236,219 227,219" baseline="227,216 280,216 568,219" reason: differs: "ineeber" against "ine, ne" | Wikisource:  | next_nc_e1: ich 1. das meine eber nM | german_print2_15: ich 1. das meine eber n M. -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="226,233 244,234 279,231 280,239 292,236 350,236 362,239 379,230 392,230 398,241 398,245 302,245 279,245 244,245 239,245 226,244" />
+				<Baseline points="226,244 398,245" />
+				<TextEquiv index="1">
+					<Unicode>Sterbens und Kr</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l2" points="228,265 236,264 248,260 252,260 255,267 265,264 276,262 286,262 288,270 325,256 328,256 340,256 361,262 364,262 368,269 387,262 397,262 400,268 412,266 423,257 433,257 466,263 503,258 515,258 515,271 503,271 466,265 433,272 423,272 403,271 397,272 364,276 361,276 291,272 276,272 260,271 248,271 236,270 228,268" baseline="228,270 515,271" reason: differs: "setzen" against "iegsge" | Wikisource:  | next_nc_e1: setzen, vnd 4. mich auſs N
+ | german_print2_15: setzen, vnd 4. mich aufs N
+ -->
+			<TextEquiv index="1">
+				<Unicode>Sterbens und Kr</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="226,287 279,287 279,297 226,297" />
+			<!-- line left out: id="r2l0" points="226,292 238,287 242,287 255,288 261,294 267,288 279,288 279,297 242,297 238,297 226,296" baseline="226,296 279,297" reason: second model: differs: "etwas" against "ewe a" | Wikisource: etwas | next_nc_e1: etwas
+ | german_print2_15: etwas
+ -->
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="444,234 453,234 453,245 444,245" />
+		</GraphicRegion>
+		<GraphicRegion id="r4">
+			<Coords points="322,287 359,287 359,323 322,323" />
+		</GraphicRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="226,308 289,308 289,323 226,323" />
+			<!-- line left out: id="r5l0" points="226,313 238,313 255,314 266,315 287,308 289,308 289,323 226,323" baseline="226,322 289,323" reason: differs: "demI" against "von " | Wikisource:  | next_nc_e1: dem I
+ | german_print2_15: dem I
+ -->
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="394,336 403,336 403,347 394,347" />
+		</GraphicRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="227,334 366,334 366,350 227,350" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="227,340 237,340 255,344 263,334 296,334 303,335 307,343 314,343 315,334 326,334 333,340 356,340 366,342 366,350 359,350 296,350 263,350 227,349" />
+				<Baseline points="227,349 366,350" />
+				<TextEquiv index="1">
+					<Unicode>mich alsdann,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>mich alsdann,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="294,367 406,367 406,380 294,380" />
+		</GraphicRegion>
+		<GraphicRegion id="r9">
+			<Coords points="291,392 322,392 322,401 291,401" />
+		</GraphicRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="226,360 578,360 578,454 226,454" />
+			<!-- line left out: id="r10l0" points="226,364 237,364 254,366 273,360 278,360 282,373 292,373 292,360 306,360 309,361 313,368 330,366 348,365 362,364 371,364 413,372 464,370 471,365 502,365 504,376 510,376 571,367 578,367 578,371 571,371 510,377 481,377 435,376 413,376 352,375 309,375 237,375 226,375" baseline="226,375 434,375 578,376" reason: differs: "derL" against "vnse" | Wikisource:  | next_nc_e1: der Lieben Ol keit, desig S
+ | german_print2_15: der Lieben Or keit, desig S
+ -->
+			<!-- line left out: id="r10l1" points="227,392 233,392 254,392 271,394 279,386 289,386 377,386 377,401 362,402 279,402 254,401 245,401 233,400 227,400" baseline="227,401 361,401 377,402" reason: differs: "vors" against "leiſ" | Wikisource:  | next_nc_e1: vorseh d I
+ | german_print2_15: vorseh- d I
+ -->
+			<!-- line left out: id="r10l2" points="226,420 238,418 274,418 281,412 307,412 327,417 360,417 382,417 401,417 445,417 445,424 457,422 465,422 465,428 432,428 404,427 382,427 350,427 327,427 248,427 226,427" baseline="226,427 465,427" reason: second model has no such line | Wikisource: an wohl bestelter Schu | next_nc_e1: an wohl bestelter Schu
+ | german_print2_15:  -->
+			<!-- line left out: id="r10l3" points="235,444 254,443 276,443 288,446 300,449 321,442 332,442 352,444 352,454 345,454 300,453 283,453 235,453" baseline="235,453 299,453 352,454" reason: second model has no such line | Wikisource: idtener Sch | next_nc_e1: idtener Sch
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r11">
+			<Coords points="354,443 391,443 391,457 354,457" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="377,465 418,465 418,483 377,483" />
+		</GraphicRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="226,464 492,464 492,507 226,507" />
+			<!-- line left out: id="r13l0" points="227,469 230,469 239,470 258,469 270,465 282,465 282,473 289,473 297,465 312,465 331,470 352,464 363,464 369,465 369,479 331,480 312,480 282,480 270,480 254,477 239,479 235,479 227,478" baseline="227,478 369,479" reason: differs: "trös" against "ade," | Wikisource:  | next_nc_e1: tröstlichen IIe | german_print2_15: tröstlichen II -->
+			<!-- line left out: id="r13l1" points="226,494 234,490 255,490 258,496 279,496 298,500 301,490 305,490 308,496 327,496 346,496 368,496 370,504 394,497 413,497 442,491 446,491 460,497 482,491 492,491 492,506 482,506 460,500 446,506 373,507 370,507 358,506 349,499 346,505 338,506 330,506 279,505 234,505 226,502" baseline="226,504 492,506" reason: second model: differs: "dahi" against "sili" | Wikisource: dahin dirigirn, wie der L | next_nc_e1: dahin dirigirn, wie der L
+ | german_print2_15: dahin dirigirn, wie der I.
+ -->
+		</TextRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="227,516 373,516 373,533 227,533" />
+			<TextLine id="r14l0" custom="readingOrder {index:0;}">
+				<Coords points="227,516 231,516 233,523 243,523 251,517 254,517 268,520 292,522 294,529 318,525 329,520 373,523 373,531 297,533 294,533 268,531 227,531" />
+				<Baseline points="227,531 373,531" />
+				<TextEquiv index="1">
+					<Unicode>helffen, ich au</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>helffen, ich au</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r15">
+			<Coords points="342,529 374,529 374,532 342,532" />
+		</GraphicRegion>
+		<TextRegion id="r16" custom="readingOrder {index:16;} orientation {0;}">
+			<Coords points="226,542 350,542 350,558 226,558" />
+			<!-- line left out: id="r16l0" points="233,542 255,542 257,549 284,542 306,542 326,542 346,542 350,543 350,546 348,546 346,557 326,557 306,557 284,557 233,552" baseline="233,552 258,551 350,550" reason: differs: "demL" against "ch i" | Wikisource:  | next_nc_e1: dem Löblicl | german_print2_15: lem Loöblicl -->
+			<!-- line left out: id="r16l1" points="226,551 239,550 251,548 266,548 301,550 333,550 338,551 338,555 333,557 301,557 266,558 251,558 237,557 226,557" baseline="226,557 338,555" reason: differs: "demL" against "rsch" | Wikisource:  | next_nc_e1: dem Löblie
+ | german_print2_15: dem Löblie
+ -->
+		</TextRegion>
+		<GraphicRegion id="r17">
+			<Coords points="312,559 343,559 343,636 312,636" />
+		</GraphicRegion>
+		<GraphicRegion id="r18">
+			<Coords points="367,543 437,543 437,586 367,586" />
+		</GraphicRegion>
+		<TextRegion id="r19" custom="readingOrder {index:19;} orientation {0;}">
+			<Coords points="226,569 315,569 315,584 226,584" />
+			<!-- line left out: id="r19l0" points="226,572 237,572 284,569 305,569 313,575 315,575 315,583 305,584 287,584 251,584 226,583" baseline="226,582 315,583" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: dem Iler
+ | german_print2_15: dem IIer
+ -->
+		</TextRegion>
+		<TextRegion id="r20" custom="readingOrder {index:20;} orientation {0;}">
+			<Coords points="228,595 317,595 317,615 228,615" />
+			<!-- line left out: id="r20l0" points="228,605 237,601 247,601 249,595 259,595 302,601 317,601 317,607 310,607 306,615 302,615 237,610 228,608" baseline="228,610 317,610" reason: differs: "vndzupr" against "ulden v" | Wikisource:  | next_nc_e1: vnd zu pr
+ | german_print2_15: vnd zu pr
+ -->
+		</TextRegion>
+		<GraphicRegion id="r21">
+			<Coords points="371,597 410,597 410,632 371,632" />
+		</GraphicRegion>
+		<TextRegion id="r22" custom="readingOrder {index:22;} orientation {0;}">
+			<Coords points="225,621 512,621 512,688 225,688" />
+			<!-- line left out: id="r22l0" points="225,621 236,621 238,631 250,625 254,621 267,621 267,629 278,627 287,627 290,634 309,625 312,625 482,627 482,636 293,636 267,636 250,636 236,635 225,635" baseline="225,634 482,636" reason: differs: "dess" against "Vnte" | Wikisource:  | next_nc_e1: deſsen, t 1 | german_print2_15:  -->
+			<!-- line left out: id="r22l1" points="226,653 247,653 249,647 259,647 296,647 296,653 331,651 340,647 343,647 347,653 364,647 368,647 427,647 430,656 433,656 442,662 512,662 512,664 506,664 442,663 427,662 347,662 340,650 335,661 320,662 298,662 259,662 237,662 226,661" baseline="226,662 447,660 512,660" reason: differs: "vndC" against "esen" | Wikisource:  | next_nc_e1: vnd Christlicher Reg g | german_print2_15: vnd Christlicher Reg g -->
+			<!-- line left out: id="r22l2" points="238,674 261,674 335,677 348,679 367,679 412,686 416,678 442,678 485,681 485,685 435,688 412,688 364,681 356,687 335,688 248,688 238,687" baseline="238,688 485,688" reason: differs: "beri" against "mich" | Wikisource:  | next_nc_e1: ber in ihrer inst 1
+ | german_print2_15: ber in ihrer inst 1
+ -->
+		</TextRegion>
+		<TextRegion id="r23" custom="readingOrder {index:23;} orientation {0;}">
+			<Coords points="226,699 339,699 339,715 226,715" />
+			<!-- line left out: id="r23l0" points="226,699 241,699 244,707 256,705 265,705 265,699 279,699 280,705 290,705 304,709 310,699 315,699 322,700 338,708 339,708 339,711 327,714 315,714 290,715 265,715 241,714 226,714" baseline="226,714 339,714" reason: differs: "Hloh" against "empf" | Wikisource:  | next_nc_e1: Hlohen-Prie
+ | german_print2_15: Hlohen-Prie
+ -->
+		</TextRegion>
+		<GraphicRegion id="r24">
+			<Coords points="354,700 473,700 473,791 354,791" />
+		</GraphicRegion>
+		<TextRegion id="r25" custom="readingOrder {index:25;} orientation {0;}">
+			<Coords points="225,772 541,772 541,839 225,839" />
+			<TextLine id="r25l0" custom="readingOrder {index:0;}">
+				<Coords points="226,772 238,772 242,782 262,778 341,779 341,788 286,787 269,783 266,793 262,793 260,784 238,787 226,787" />
+				<Baseline points="226,787 341,787" />
+				<TextEquiv index="1">
+					<Unicode>Responsum,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r25l1" points="230,805 234,805 248,804 260,801 263,801 271,804 288,804 301,807 301,801 315,801 322,804 357,799 375,798 396,798 406,805 418,804 446,800 454,800 461,805 463,812 483,805 541,805 541,808 483,808 467,814 454,814 396,814 381,814 322,813 315,816 301,816 288,813 271,813 267,813 260,804 254,812 248,812 236,810 234,816 230,816" baseline="230,812 541,814" reason: differs: "gevl" against "quo " | Wikisource:  | next_nc_e1: gevlieſsener Adamus Andr S | german_print2_15: gevlieſsener Adamus Andr. S -->
+			<!-- line left out: id="r25l2" points="225,824 239,824 249,832 254,825 265,825 274,824 284,824 287,833 294,833 303,834 332,824 335,824 348,824 353,832 370,824 373,824 383,833 404,825 418,825 466,829 485,829 489,831 489,834 485,839 469,839 462,832 418,839 380,839 376,839 370,827 356,835 348,837 335,839 284,839 254,839 244,837 239,838 225,838" baseline="225,838 404,838 489,839" reason: differs: "Nobi" against "p. t" | Wikisource:  | next_nc_e1: Nobiliss. sobolis G teir
+ | german_print2_15: Nobiliss. sobolis G tein 1
+ -->
+			<TextEquiv index="1">
+				<Unicode>Responsum,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r26">
+			<Coords points="378,935 476,935 476,958 378,958" />
+		</GraphicRegion>
+		<TextRegion id="r27" custom="readingOrder {index:27;} orientation {0;}">
+			<Coords points="222,856 830,856 830,1059 222,1059" />
+			<!-- line left out: id="r27l0" points="278,860 282,860 287,867 295,867 310,856 324,856 339,866 358,861 369,861 380,866 438,866 438,873 513,868 515,868 830,868 830,872 548,876 447,876 405,876 339,876 324,875 324,885 310,885 295,876 287,876 278,875" baseline="278,875 425,874 830,874" reason: differs: "Inde" against "s, ⟦" | Wikisource:  | next_nc_e1: In der That bli m 1 ( 1 | german_print2_15: In der That bli⸗ m F 4 1 -->
+			<!-- line left out: id="r27l1" points="224,891 240,887 244,887 246,893 296,891 307,891 340,893 410,893 431,892 441,888 485,888 490,899 533,888 542,888 542,900 492,902 464,902 441,902 431,894 428,902 356,902 340,901 317,902 240,902 224,900" baseline="224,900 542,900" reason: differs: "Chem" against "1637" | Wikisource:  | next_nc_e1: Chemnitz von unmittelbar K | german_print2_15: Chemnitz von unmittelbar K -->
+			<!-- line left out: id="r27l2" points="224,919 240,919 270,920 290,913 300,913 310,919 333,917 344,917 368,919 394,921 394,913 407,913 451,913 705,918 705,924 691,924 448,916 440,924 368,928 344,928 300,928 290,928 270,922 264,927 240,928 224,928" baseline="224,928 705,928" reason: differs: "niss" against "erhä" | Wikisource:  | next_nc_e1: nisse konnten sobald 0 | german_print2_15: nisse konnten sobald 0 -->
+			<!-- line left out: id="r27l3" points="226,939 230,939 246,941 248,947 274,939 278,939 292,940 310,939 312,939 336,947 343,939 352,939 361,948 495,944 503,944 503,949 352,954 312,954 246,954 226,954" baseline="226,954 274,953 503,954" reason: differs: "DieB" against "hren" | Wikisource:  | next_nc_e1: Die Bitte des S | german_print2_15: Die Bitte des S 1 -->
+			<!-- line left out: id="r27l4" points="223,971 257,971 267,965 276,965 293,972 301,965 310,965 356,965 379,965 398,965 406,970 440,971 440,975 430,978 406,980 356,980 352,980 310,979 276,980 257,980 223,980" baseline="223,980 440,980" reason: second model has no such line | Wikisource: wurde oben bereits er | next_nc_e1: wurde oben bereits er | german_print2_15:  -->
+			<!-- line left out: id="r27l5" points="223,1000 232,997 242,997 249,991 253,991 256,998 279,997 289,997 306,998 314,991 318,991 321,998 355,997 405,997 426,991 430,991 457,991 463,1001 474,998 476,998 476,1000 466,1005 457,1006 430,1006 405,1010 395,1010 289,1006 232,1006 223,1003" baseline="223,1006 476,1006" reason: differs: "sich" against "wähn" | Wikisource:  | next_nc_e1: sich noch am 4. Dezer | german_print2_15:  -->
+			<!-- line left out: id="r27l6" points="222,1017 238,1017 239,1025 255,1025 263,1019 267,1019 270,1025 295,1023 311,1023 355,1023 406,1022 409,1022 423,1022 447,1022 454,1023 457,1030 472,1025 475,1025 483,1031 490,1022 533,1018 543,1018 650,1027 675,1024 705,1022 706,1022 706,1028 677,1030 543,1033 483,1033 461,1032 447,1033 433,1033 423,1032 409,1033 406,1033 355,1032 311,1032 302,1032 299,1026 273,1031 267,1032 238,1033 222,1033" baseline="222,1033 272,1032 406,1032 706,1033" reason: differs: "Neef" against "aria" | Wikisource:  | next_nc_e1: Neefe in einem lateinischen B dem ( | german_print2_15: Neefe in einem lateinischen B dem ( -->
+			<TextLine id="r27l7" custom="readingOrder {index:7;}">
+				<Coords points="223,1047 246,1049 269,1043 281,1043 282,1052 293,1049 303,1049 325,1043 329,1043 333,1051 420,1048 423,1043 437,1043 440,1055 449,1051 469,1051 469,1043 482,1043 484,1048 507,1054 514,1048 599,1049 599,1058 553,1059 528,1059 484,1059 437,1059 423,1059 420,1051 406,1058 223,1058" />
+				<Baseline points="223,1058 599,1058" />
+				<TextEquiv index="1">
+					<Unicode>für den Lebensunterhalt nötige G</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>für den Lebensunterhalt nötige G</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r28">
+			<Coords points="405,1070 445,1070 445,1088 405,1088" />
+		</GraphicRegion>
+		<TextRegion id="r29" custom="readingOrder {index:29;} orientation {0;}">
+			<Coords points="223,1069 387,1069 387,1084 223,1084" />
+			<TextLine id="r29l0" custom="readingOrder {index:0;}">
+				<Coords points="223,1072 235,1072 247,1075 259,1069 270,1069 271,1077 320,1074 356,1075 364,1077 387,1075 387,1084 364,1084 270,1084 247,1084 223,1084" />
+				<Baseline points="223,1084 387,1084" />
+				<TextEquiv index="1">
+					<Unicode>Suche man sich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Suche man sich</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r30">
+			<Coords points="460,1098 469,1098 469,1114 460,1114" />
+		</GraphicRegion>
+		<TextRegion id="r31" custom="readingOrder {index:31;} orientation {0;}">
+			<Coords points="221,1095 744,1095 744,1216 221,1216" />
+			<!-- line left out: id="r31l0" points="223,1102 233,1102 255,1101 267,1099 290,1095 301,1095 303,1102 313,1102 315,1095 338,1095 338,1108 363,1101 373,1101 460,1101 685,1108 687,1108 687,1110 449,1110 342,1111 324,1111 313,1110 233,1113 223,1113" baseline="223,1109 270,1109 687,1110" reason: differs: "gesä" against "etwa" | Wikisource:  | next_nc_e1: gesät habe, man auch „ | german_print2_15:  -->
+			<!-- line left out: id="r31l1" points="223,1120 228,1120 240,1121 241,1127 259,1127 261,1121 272,1121 275,1127 287,1126 298,1126 308,1121 318,1121 320,1127 324,1127 347,1127 359,1121 376,1121 381,1129 394,1125 407,1125 493,1127 509,1131 551,1122 588,1122 628,1127 713,1134 731,1127 744,1127 744,1135 716,1136 619,1136 590,1129 557,1129 551,1127 509,1136 407,1136 376,1136 324,1136 298,1136 223,1136" baseline="223,1136 744,1136" reason: differs: "Paul" against "h de" | Wikisource:  | next_nc_e1: Paulinischen Wortes erinner Irret eu , G | german_print2_15: Paulinischen Wortes erinnen Irret eu „G -->
+			<!-- line left out: id="r31l2" points="221,1154 231,1152 235,1152 250,1150 269,1150 293,1152 295,1160 318,1152 329,1152 343,1153 352,1156 371,1147 383,1147 384,1155 396,1153 421,1147 444,1147 452,1153 459,1147 487,1147 515,1156 529,1156 529,1159 487,1162 399,1162 383,1162 343,1162 298,1163 295,1163 269,1162 250,1162 238,1160 235,1167 231,1167 229,1160 221,1160" baseline="221,1162 297,1161 421,1161 529,1162" reason: differs: "spot" against "nich" | Wikisource:  | next_nc_e1: spotten, was der Mensch sà
+ | german_print2_15: spotten, was der Mensch sä
+ -->
+			<!-- line left out: id="r31l3" points="227,1181 239,1177 244,1177 277,1172 287,1172 289,1181 301,1178 311,1178 317,1180 343,1175 347,1175 390,1173 394,1173 396,1180 409,1180 409,1188 317,1188 287,1188 239,1188 227,1186" baseline="227,1188 409,1188" reason: differs: "etzt" against "sch " | Wikisource:  | next_nc_e1: etzt keine Guttha | german_print2_15: ſetzt keine Guttha -->
+			<TextLine id="r31l4" custom="readingOrder {index:4;}">
+				<Coords points="221,1199 225,1199 233,1204 247,1207 254,1198 259,1198 261,1204 296,1199 317,1199 325,1204 340,1201 349,1201 351,1207 370,1203 427,1199 430,1206 434,1206 445,1211 445,1199 481,1199 484,1205 500,1205 518,1199 522,1199 530,1206 622,1204 622,1210 550,1209 522,1215 349,1213 337,1216 321,1216 314,1207 310,1216 296,1216 221,1213" />
+				<Baseline points="221,1213 622,1214" />
+				<TextEquiv index="1">
+					<Unicode>lische Seligkeit nicht. Im Jahre 1636</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>lische Seligkeit nicht. Im Jahre 1636</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r32">
+			<Coords points="447,1127 472,1127 472,1136 447,1136" />
+		</GraphicRegion>
+		<GraphicRegion id="r33">
+			<Coords points="410,1173 494,1173 494,1203 410,1203" />
+		</GraphicRegion>
+		<TextRegion id="r34" custom="readingOrder {index:34;} orientation {0;}">
+			<Coords points="220,1224 683,1224 683,1266 220,1266" />
+			<!-- line left out: id="r34l0" points="220,1230 232,1230 248,1229 260,1229 262,1237 283,1224 294,1224 296,1231 305,1231 305,1224 318,1224 318,1233 337,1230 353,1230 376,1230 422,1231 483,1231 507,1235 649,1226 658,1226 662,1231 662,1238 658,1240 483,1240 422,1242 413,1242 376,1239 353,1240 337,1240 318,1239 266,1241 262,1241 248,1240 241,1239 220,1239" baseline="220,1239 375,1238 392,1238 662,1238" reason: differs: "weit," against "war m" | Wikisource:  | next_nc_e1: weit, daſs man sogar an t Ar | german_print2_15: weit, daſs man sogar an t . Ar -->
+			<!-- line left out: id="r34l1" points="225,1251 235,1251 261,1250 266,1250 268,1256 290,1256 304,1255 309,1255 339,1256 348,1258 371,1250 376,1250 403,1250 405,1261 409,1261 428,1262 431,1256 441,1256 483,1255 504,1255 663,1256 683,1256 683,1261 663,1265 631,1265 504,1266 441,1266 403,1266 393,1266 376,1265 339,1265 334,1266 304,1266 290,1265 225,1265" baseline="225,1265 683,1265" reason: differs: "Arit" against ". De" | Wikisource:  | next_nc_e1: Arithmeticus Dehnius bat Dezen
+ | german_print2_15: Arithmeticus Dehnius bat Dezen I
+ -->
+		</TextRegion>
+		<TextRegion id="r35" custom="readingOrder {index:35;} orientation {0;}">
+			<Coords points="263,1326 466,1326 466,1340 263,1340" />
+			<!-- line left out: id="r35l0" points="263,1326 291,1326 308,1328 313,1334 325,1327 339,1327 342,1337 366,1328 372,1328 374,1337 386,1333 405,1333 413,1334 428,1328 432,1328 461,1328 464,1337 466,1337 466,1339 432,1339 405,1339 379,1339 308,1340 293,1340 287,1339 263,1333" baseline="263,1340 287,1339 466,1339" reason: differs: "¹)R." against "r de" | Wikisource:  | next_nc_e1: ¹) R.- A. Loses Blatt
+ | german_print2_15: ¹²) K.-A. Loses Blatt.
+ -->
+		</TextRegion>
+		<TextRegion id="r36" custom="readingOrder {index:36;} orientation {0;}">
+			<Coords points="493,1528 658,1528 658,1539 493,1539" />
+			<!-- line left out: id="r36l0" points="493,1528 658,1528 658,1539 493,1539" baseline="493,1537 658,1537" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: —
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r37">
+			<Coords points="0,1520 1000,1520 1000,1564 0,1564" />
+		</GraphicRegion>
+		<SeparatorRegion id="r38">
+			<Coords points="966,234 982,234 982,909 966,909" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+ich 1. das meine, neben den Meinigen, bey ihnen zugesetzt, 2. in
+Sterbens und Kriegsgefahr viel ausgestanden, 3. nichts mehr
+zuzusetzen, vnd 4. mich aufs Newe anrichten muß, Ob sie mir interim
+etwas von dem Alt Restirenden salario, oder zum wenigsten von
+dem Legato H. Martini Horns Seeligen, vorschießen wollen, wolte
+mich alsdann, vnseumlich einstellen vnd meine, mir von Gott vnd
+der Lieben Obrigkeit, designirte Station, mit sondern ernst vnd fleiß
+vorsehen vnd Loblich vortretten. Dieweil dann der gemeinen Stadt,
+an wohl bestelter Schull viel gelegen, Auch meine miseria vnd
+erlidtener Schade, est res commiseratione digna, Als Lebe ich der
+tröstlichen Hoffnung E. E. V. vnd Gunsten, werden ihre consilia
+dahin dirigirn, wie der Lieben vnd zerfallenen Schull wieder
+aufzuhelffen, ich auch in etwas contentiret werden möchte. Solches wird
+dem Löblichen Stadt Regiment nicht allein Rühmlich vnd vor Gott
+dem Herrn acceptabel: sondern auch solche gutthat zu verschulden
+vnd zu praedicirn, erbiette mich wie schuldig also auch willig.
+Vnterdeßen, thue dieselben neben ihrem gantzen Löblichen Stadtwesen,
+vnd Christlicher Regierung, ich in Gottes gnädigen Schutz, mich
+aber in ihren günstigen favor gantz trewlich empfehlen. Datum
+Hohen-Prießnitz 18. Aprilis Ano. quo ita suspiro
+EXILIo nostro Det trIas aVXILIVM.
+Responsum, quo certior fiam, expectabo E. E. V. vnd Gunsten
+dienstgevließener Adamus Andreae Sch. Rector, p. t. necessitate ita adactus,
+Nobiliss. sobolis Goldsteinianae Informator.⟦⟧
+In der That blieb vom Frühling 1635 an bis zu Anfang 1637
+Chemnitz von unmittelbarer Kriegsnot verschont, aber die
+Verhältnisse konnten sobald nicht zu der alten Ordnung zurückkehren.
+Die Bitte des deutschen Schreibers Dehnius um Gehaltsauszahlung
+wurde oben bereits erwähnt, doch auch der Bakkalaureus Jahn wendet
+sich noch am 4. Dezember 1635 an den Bürgermeister Zacharias
+Neefe in einem lateinischen Briefe mit dem Gesuch, daß ihm das
+für den Lebensunterhalt nötige Getreide gereicht werden möge.
+Suche man sich etwa damit zu entschuldigen, daß, weil man nicht
+gesät habe, man auch nicht ernten könne, so solle man sich des
+Paulinischen Wortes erinnern: Irret euch nicht, Gott läßt sich nicht
+spotten, was der Mensch säet, das wird er ernten. Wolle man
+jetzt keine Gutthaten säen, so ernte man dereinst auch die
+himmlische Seligkeit nicht. Im Jahre 1636 war man jedoch wieder
+soweit, daß man sogar an theatralische Aufführungen dachte. Der
+Arithmeticus Dehnius bat den 15. Dezember den Rat um die
+-->
+	</Page>
+</PcGts>

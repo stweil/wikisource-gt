@@ -1,0 +1,414 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:28:13</Created>
+		<LastChange>2026-11-23T14:28:13</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/184 revision 4661850 of 2025-11-22T07:47:36Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0184.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro8359407446090930410" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="15" regionRef="r15" />
+				<RegionRefIndexed index="16" regionRef="r16" />
+				<RegionRefIndexed index="19" regionRef="r19" />
+				<RegionRefIndexed index="21" regionRef="r21" />
+				<RegionRefIndexed index="22" regionRef="r22" />
+				<RegionRefIndexed index="25" regionRef="r25" />
+				<RegionRefIndexed index="26" regionRef="r26" />
+				<RegionRefIndexed index="28" regionRef="r28" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="178,1203 196,1203 196,1215 178,1215" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="498,154 575,154 575,173 498,173" />
+			<!-- line left out: id="r1l0" points="498,161 519,161 548,154 551,154 575,154 575,173 551,173 548,173 519,162 498,162" baseline="498,166 518,166 548,167 575,168" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 176
+ | german_print2_15: — 176
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="199,194 918,194 918,542 199,542" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="205,194 219,194 228,203 256,196 269,196 271,204 325,203 325,197 331,197 369,198 370,206 418,201 453,201 453,207 500,208 562,204 583,210 623,206 660,206 680,213 735,209 770,209 772,216 807,211 819,211 826,214 859,212 860,219 869,219 889,213 900,213 907,219 918,219 918,229 735,226 628,222 526,224 500,218 418,218 357,214 296,213 274,206 269,211 205,210" />
+				<Baseline points="205,210 583,219 918,230" />
+				<TextEquiv index="1">
+					<Unicode>Freude und dem Schmerz gab er sich mit voller Stärke der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="205,220 232,220 232,227 263,222 264,228 276,223 288,223 302,228 326,230 346,224 351,224 351,230 376,230 377,238 403,231 415,226 427,226 428,232 439,232 449,234 469,228 481,228 482,235 518,234 542,236 588,230 602,230 602,237 639,232 645,232 653,237 676,232 693,232 693,240 719,233 767,234 787,236 788,243 833,243 833,237 908,239 909,247 917,247 917,254 908,255 875,255 872,255 749,251 741,249 719,250 693,243 693,249 639,249 542,245 542,251 530,251 530,244 381,242 231,243 231,237 205,237" />
+				<Baseline points="205,236 917,255" />
+				<TextEquiv index="1">
+					<Unicode>Empfindung hin, ohne deswegen für sanfte Gefühle und stille</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l2" points="204,247 231,247 244,248 246,254 276,252 291,249 302,249 324,256 365,256 390,257 392,251 403,251 404,258 435,253 440,253 442,259 453,259 454,253 464,253 465,260 512,260 552,263 554,256 565,256 576,256 627,257 628,266 639,264 653,264 686,266 704,268 705,260 717,260 735,261 736,267 746,267 752,268 771,261 788,261 789,268 806,268 824,269 870,264 880,264 901,272 907,271 918,271 918,281 901,281 858,280 849,278 826,273 824,284 806,284 806,278 789,278 771,277 749,270 746,276 718,276 705,275 686,274 639,274 621,273 611,273 554,272 542,271 434,273 390,273 379,273 377,267 355,267 324,266 276,265 234,264 204,262" baseline="204,263 301,265 468,269 611,272 751,276 828,278 901,280 918,281" reason: differs: "erdessl" against "erdries" | Wikisource:  | next_nc_e1: Wehmuth unempfänglich zu Sein. Verd essliche Dinge sah er | german_print2_15: Wehmuth unempfänglich zu sein. Verd lessliche Dinge sah er -->
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="204,273 215,273 245,274 261,280 323,276 324,282 360,279 385,281 405,285 418,279 423,279 432,285 442,285 443,279 455,279 471,283 524,281 525,289 536,286 549,286 560,289 589,288 601,290 628,284 645,284 646,290 657,288 697,286 709,286 711,292 789,288 808,290 815,294 829,293 837,290 850,290 857,296 875,291 880,291 882,300 896,297 917,297 917,307 808,307 734,307 723,307 697,302 560,298 512,298 455,295 357,296 311,292 204,288" />
+				<Baseline points="204,289 917,307" />
+				<TextEquiv index="1">
+					<Unicode>bald von der erträglichsten Seite an. Gutmüthig und mittheilsam</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l4" points="203,299 208,299 210,305 220,305 230,308 233,300 247,300 276,300 277,309 287,309 308,308 336,302 352,302 352,311 363,309 375,309 394,310 394,304 399,304 400,312 414,312 416,305 425,305 427,311 443,311 446,305 460,305 466,306 468,312 485,312 486,306 497,306 498,314 510,313 538,308 555,308 555,314 603,314 622,315 641,317 643,323 675,311 681,311 695,312 702,318 713,318 729,312 743,312 745,319 757,317 768,317 801,315 805,315 851,322 865,322 865,332 851,332 807,331 734,330 729,330 702,328 681,327 675,327 643,326 629,325 622,330 605,330 590,328 574,328 538,324 510,323 468,322 416,321 382,320 375,319 340,319 308,318 253,317 233,316 220,315 203,315" baseline="203,315 301,317 336,318 520,323 538,323 729,328 801,330 865,332" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: bedurfte er freundschaftlichen Umganges. Den Vater hat er | german_print2_15: bedurfte er freundschaftlichen Umganges. Den Vater hat er -->
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="202,326 207,326 210,332 219,332 221,326 245,326 260,336 293,333 300,328 311,328 312,334 342,330 416,331 418,338 527,340 527,347 546,334 551,334 554,340 711,344 799,340 800,348 810,348 811,341 816,341 819,348 846,347 854,350 870,343 878,342 890,342 891,350 903,350 903,343 918,343 918,359 878,359 799,356 713,357 706,354 668,352 564,350 484,351 465,348 428,346 342,346 202,341" />
+				<Baseline points="202,341 411,345 918,359" />
+				<TextEquiv index="1">
+					<Unicode>bald es ihm selbst besser ging, bis an seines eigenen Lebens Ende</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="201,358 220,356 233,356 307,358 309,367 325,360 339,360 368,356 380,356 388,363 400,363 410,357 429,357 431,364 444,362 464,362 479,372 494,365 516,367 516,360 526,360 528,366 539,366 539,360 545,360 546,366 575,360 591,360 609,361 611,368 661,366 683,369 683,363 695,363 695,377 714,370 747,371 748,365 759,365 770,375 778,373 851,368 852,374 894,375 895,369 906,369 908,377 916,377 916,384 906,385 871,385 759,381 695,381 683,379 636,378 479,378 466,368 464,374 368,372 339,370 309,372 292,370 239,368 201,368" />
+				<Baseline points="201,367 916,385" />
+				<TextEquiv index="1">
+					<Unicode>unterstützt, von der Mutter, welche früher starb, nach seiner Freunde</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l7" points="203,378 223,378 225,385 234,384 248,384 253,385 259,388 266,380 278,380 279,388 290,386 310,386 334,387 350,389 354,382 368,382 388,389 414,387 434,384 446,384 448,391 460,390 482,385 507,385 511,392 550,392 565,386 577,386 578,394 590,393 597,393 611,387 622,387 634,388 635,394 650,394 673,395 696,396 719,397 748,397 763,398 786,397 792,397 819,399 831,393 839,393 857,394 857,412 847,412 839,409 816,409 786,408 763,407 748,412 743,412 742,405 696,405 673,405 650,405 611,404 578,403 522,402 511,401 498,400 460,400 334,399 323,399 290,396 253,395 249,395 225,394 203,393" baseline="203,393 333,396 418,398 549,402 565,402 611,403 695,405 818,408 857,409" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Versicherung oft mit der Wonne der Thränen gesprochen. ¹⁰)
+ | german_print2_15: Versicherung oft mit der Wonne der Thränen gesprochen. ¹⁰)
+ -->
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="251,406 263,406 270,412 356,412 374,416 378,409 389,409 397,416 409,416 417,409 439,409 451,410 453,418 476,414 515,412 533,412 547,419 604,414 616,419 635,419 676,424 685,416 702,416 707,425 733,423 766,418 771,418 773,424 822,423 847,424 859,426 879,421 892,421 893,427 914,428 914,438 893,438 667,430 547,429 395,424 338,424 314,422 312,428 307,428 292,422 270,422 251,420" />
+				<Baseline points="251,421 675,430 914,438" />
+				<TextEquiv index="1">
+					<Unicode>Sein poetisches Talent und sein heiteres Wesen bereiteten ihm</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="200,436 212,431 224,431 225,438 297,438 298,432 308,432 340,434 362,438 388,440 410,436 422,436 448,442 461,443 462,437 468,437 469,443 491,443 493,450 525,438 540,438 568,439 575,446 623,441 647,441 648,447 702,448 720,456 726,451 736,451 739,443 750,443 751,451 810,450 820,455 821,446 833,446 835,453 852,452 854,446 867,446 868,454 889,451 916,454 916,464 902,464 736,460 690,461 684,458 623,456 437,453 410,451 393,445 388,450 328,450 200,446" />
+				<Baseline points="200,446 720,458 916,464" />
+				<TextEquiv index="1">
+					<Unicode>aber auch bittere Stunden. Ehrbare Männer, „die ernsthaftesten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l10" points="200,456 207,456 218,457 220,463 233,463 267,464 289,464 316,465 335,461 351,461 378,465 414,462 446,462 459,463 460,469 488,469 488,463 504,463 519,464 521,470 532,470 562,471 563,465 575,465 576,471 611,470 617,470 629,473 630,467 641,467 662,472 662,481 677,474 684,474 709,469 720,469 721,475 744,475 752,469 764,469 776,474 817,478 818,471 829,471 836,478 858,473 877,473 885,477 916,480 916,490 898,490 863,489 836,488 811,487 789,486 709,485 666,484 662,484 662,476 651,476 649,483 630,483 611,482 557,481 521,480 460,479 446,478 402,478 366,477 335,476 305,475 255,474 233,473 220,473 200,472" baseline="200,472 288,474 320,475 503,479 677,483 798,486 858,488 916,490" reason: differs: "dertadt" against "er Stad" | Wikisource:  | next_nc_e1: Personen in Amt und Würde bei der tadt“, verkündeten den Eltern | german_print2_15: Personen in Amt und Würde bei der tadt“, verkündeten den Eltern -->
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="199,489 277,485 313,485 313,494 325,494 326,486 338,486 339,494 400,488 422,488 423,494 446,494 446,488 462,488 462,495 502,497 504,490 514,490 516,497 530,497 564,492 575,492 577,498 614,493 632,493 633,499 685,500 701,494 715,494 716,501 727,501 735,495 751,495 772,502 828,498 828,506 837,506 839,498 851,498 852,505 882,505 883,499 894,499 895,507 915,506 915,516 906,516 530,506 471,508 446,505 361,502 313,501 304,503 277,503 245,500 199,499" />
+				<Baseline points="199,498 915,516" />
+				<TextEquiv index="1">
+					<Unicode>mit aufgehobenen Händen, dass ihr Sohn ein Ende mit Schrecken</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="199,515 221,517 223,510 240,510 241,516 306,517 331,513 342,513 343,521 347,521 359,526 391,514 467,515 474,522 538,523 544,517 549,517 551,524 577,524 598,518 610,518 611,527 622,523 638,523 644,526 656,527 657,520 668,520 687,529 693,526 758,526 767,522 777,522 779,529 800,528 900,532 905,526 914,526 914,542 889,542 735,537 598,535 199,525" />
+				<Baseline points="199,525 914,542" />
+				<TextEquiv index="1">
+					<Unicode>nehmen werde. Das Versemachen betrieb er seitdem nur noch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Freude und dem Schmerz gab er sich mit voller Stärke der
+Empfindung hin, ohne deswegen für sanfte Gefühle und stille
+bald von der erträglichsten Seite an. Gutmüthig und mittheilsam
+bald es ihm selbst besser ging, bis an seines eigenen Lebens Ende
+unterstützt, von der Mutter, welche früher starb, nach seiner Freunde
+Sein poetisches Talent und sein heiteres Wesen bereiteten ihm
+aber auch bittere Stunden. Ehrbare Männer, „die ernsthaftesten
+mit aufgehobenen Händen, dass ihr Sohn ein Ende mit Schrecken
+nehmen werde. Das Versemachen betrieb er seitdem nur noch</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="652,258 672,258 672,278 652,278" />
+		</GraphicRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="871,324 917,324 917,336 871,336" />
+			<!-- line left out: id="r4l0" points="871,330 891,324 903,324 917,324 917,332 874,336 871,336" baseline="871,332 917,332" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: , so0-
+ | german_print2_15: „Sso-
+ -->
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="605,466 607,466 607,469 605,469" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="277,480 610,480 610,508 277,508" />
+		</GraphicRegion>
+		<GraphicRegion id="r7">
+			<Coords points="511,543 527,543 527,559 511,559" />
+		</GraphicRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="197,536 914,536 914,646 197,646" />
+			<TextLine id="r8l0" custom="readingOrder {index:0;}">
+				<Coords points="198,536 203,536 205,542 241,537 252,537 260,543 271,543 272,537 283,537 284,545 304,544 315,538 336,538 337,548 349,545 427,541 443,549 455,547 491,549 549,548 625,552 685,552 692,554 697,547 708,547 722,553 742,554 757,548 768,548 770,556 810,550 829,550 839,554 860,554 903,558 904,552 914,552 914,568 880,568 697,563 671,560 625,566 608,566 606,560 479,561 467,558 427,557 371,559 363,555 198,551" />
+				<Baseline points="198,551 914,568" />
+				<TextEquiv index="1">
+					<Unicode>heimlicher Weise, und einige Zeit zwang er sich zu dem Ernste und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l1" custom="readingOrder {index:1;}">
+				<Coords points="197,562 209,562 210,569 254,563 266,563 269,569 303,571 339,571 340,565 352,565 359,573 371,570 382,570 385,580 403,573 430,575 431,567 453,568 455,574 554,575 590,577 592,571 603,571 604,577 700,579 717,577 729,581 729,587 748,580 776,581 794,587 807,576 834,577 834,583 845,583 847,577 863,577 883,584 894,584 899,578 914,578 914,594 899,594 729,592 717,589 700,588 484,584 468,578 467,584 385,584 371,582 197,578" />
+				<Baseline points="197,577 914,594" />
+				<TextEquiv index="1">
+					<Unicode>der Gemessenheit, welche man an ihm vermisste, um alsbald wie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l2" custom="readingOrder {index:2;}">
+				<Coords points="197,594 225,595 229,589 234,589 236,596 258,595 281,597 333,597 348,591 356,591 356,598 368,598 371,592 381,592 383,599 410,599 429,593 442,593 443,599 478,600 548,596 550,604 561,604 562,597 574,597 574,603 600,603 600,596 602,596 637,598 713,607 748,606 757,608 777,608 791,602 822,602 822,608 847,609 856,603 889,604 891,610 902,608 914,608 914,620 885,620 757,616 703,618 691,615 637,613 574,613 197,603" />
+				<Baseline points="197,603 914,620" />
+				<TextEquiv index="1">
+					<Unicode>vorher seiner frohen Laune zu leben. Die ungewisse Zukunft hat</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l3" custom="readingOrder {index:3;}">
+				<Coords points="197,615 208,615 216,621 261,622 277,616 312,617 314,624 397,623 447,620 461,629 469,627 480,627 494,621 499,621 501,628 529,628 558,623 570,623 578,629 613,628 633,630 635,624 646,624 647,630 658,630 672,636 678,631 718,631 738,635 738,626 749,626 757,632 773,627 785,627 786,635 825,635 852,630 861,630 869,637 891,636 892,630 904,630 905,638 913,638 913,646 880,646 804,643 584,641 578,639 447,636 385,637 277,632 266,626 261,631 197,631" />
+				<Baseline points="197,630 698,640 913,646" />
+				<TextEquiv index="1">
+					<Unicode>ihn nie bekümmert, und so beunruhigte ihn auch der bevorstehende</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>heimlicher Weise, und einige Zeit zwang er sich zu dem Ernste und
+der Gemessenheit, welche man an ihm vermisste, um alsbald wie
+vorher seiner frohen Laune zu leben. Die ungewisse Zukunft hat
+ihn nie bekümmert, und so beunruhigte ihn auch der bevorstehende</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="196,641 912,641 912,673 196,673" />
+			<TextLine id="r9l0" custom="readingOrder {index:0;}">
+				<Coords points="196,642 213,641 217,641 219,647 261,648 361,644 364,651 456,650 507,654 508,648 519,648 526,652 528,661 553,655 573,657 575,650 585,650 587,658 598,650 609,650 611,658 622,656 652,657 654,651 665,651 666,659 734,656 740,661 748,653 766,653 773,661 820,655 839,655 847,660 901,657 903,663 912,663 912,673 903,673 695,667 585,665 528,666 508,664 414,662 398,660 261,663 261,657 237,661 219,661 196,657" />
+				<Baseline points="196,656 802,669 912,673" />
+				<TextEquiv index="1">
+					<Unicode>Abgang zur Universität nicht, welcher die mittellosen Eltern in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Abgang zur Universität nicht, welcher die mittellosen Eltern in</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r10">
+			<Coords points="523,680 526,680 526,690 523,690" />
+		</GraphicRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="193,668 913,668 913,751 193,751" />
+			<TextLine id="r11l0" custom="readingOrder {index:0;}">
+				<Coords points="193,673 212,673 236,676 256,675 268,669 278,668 282,668 284,676 294,676 296,670 309,670 319,676 358,677 360,671 370,671 372,678 385,675 396,675 410,681 425,677 460,677 471,686 499,674 511,674 511,682 516,682 534,687 536,681 561,676 573,676 581,681 599,676 617,676 620,684 651,684 654,677 658,677 658,685 709,678 712,685 721,685 723,679 733,679 735,685 746,685 759,679 763,679 799,680 801,688 816,689 818,681 827,681 849,686 913,689 913,699 902,699 812,696 599,695 586,694 578,690 499,690 396,687 319,689 277,683 193,687" />
+				<Baseline points="193,682 705,693 913,699" />
+				<TextEquiv index="1">
+					<Unicode>grosse Verlegenheit setzte. Seine Sorglosigkeit behielt Recht: einer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l1" custom="readingOrder {index:1;}">
+				<Coords points="194,701 232,700 266,695 284,695 306,696 308,702 325,702 328,695 342,695 342,703 405,704 414,699 446,699 476,705 519,704 539,707 576,708 598,702 611,702 620,711 642,709 643,703 655,703 656,711 690,710 722,705 734,705 735,711 778,712 785,708 795,708 827,713 829,707 839,707 846,714 862,714 872,721 884,716 912,715 912,725 883,727 872,727 846,724 437,715 405,713 372,715 328,715 308,712 215,710 194,707" />
+				<Baseline points="194,709 476,714 912,725" />
+				<TextEquiv index="1">
+					<Unicode>seiner Mitbürger, welcher stets seine Freude an ihm gefunden, „ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r11l2" points="194,725 205,725 301,722 312,722 325,723 327,729 356,729 375,736 380,730 425,725 436,725 438,733 450,731 483,726 497,726 501,732 505,732 510,740 520,726 533,726 533,733 544,733 569,732 574,732 599,734 608,728 618,728 631,733 664,735 684,736 699,737 721,737 732,738 735,731 747,731 759,735 797,740 810,739 816,733 825,733 845,737 889,735 900,735 902,741 911,741 911,751 882,751 848,750 816,749 809,748 798,748 735,747 684,746 641,746 632,746 631,738 621,738 618,744 599,744 544,747 486,747 483,747 466,741 450,741 436,740 380,740 340,739 301,738 211,736 194,735" baseline="194,735 375,739 483,741 640,745 657,744 788,747 841,749 911,751" reason: differs: "würcMan" against "würdige" | Wikisource:  | next_nc_e1: würc Mann aus dem Kriegerstande“, verwendete sich für ihn
+ | german_print2_15: würdé Mann aus dem Kriegerstande“, verwendete sich für ihn
+ -->
+			<TextEquiv index="1">
+				<Unicode>grosse Verlegenheit setzte. Seine Sorglosigkeit behielt Recht: einer
+seiner Mitbürger, welcher stets seine Freude an ihm gefunden, „ein</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r12">
+			<Coords points="239,721 519,721 519,742 239,742" />
+		</GraphicRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="190,746 911,746 911,1008 190,1008" />
+			<TextLine id="r13l0" custom="readingOrder {index:0;}">
+				<Coords points="193,752 217,752 218,746 229,746 248,755 299,754 302,748 312,748 331,756 349,750 361,750 363,756 426,757 450,759 458,752 469,752 470,759 479,759 495,752 511,752 518,760 525,757 588,758 611,760 643,760 664,763 665,755 677,755 678,763 713,763 739,758 752,758 760,764 781,766 783,758 794,758 797,767 806,763 812,763 816,767 838,760 850,761 851,768 862,768 863,761 911,761 911,777 863,777 843,775 688,772 624,774 612,771 549,769 349,766 328,758 325,764 193,762" />
+				<Baseline points="193,762 911,777" />
+				<TextEquiv index="1">
+					<Unicode>und erwirkte ihm manche Unterstützung; die werthvollste Beihilfe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r13l1" custom="readingOrder {index:1;}">
+				<Coords points="193,780 220,773 231,773 239,779 259,777 270,781 281,774 292,774 294,780 330,775 353,775 353,782 374,777 395,777 396,783 423,783 439,777 452,777 453,784 520,785 533,779 540,779 541,787 636,787 638,794 655,782 667,782 668,791 718,789 730,783 735,783 738,789 749,789 751,783 756,783 757,790 767,790 768,784 780,784 783,791 822,789 833,786 843,786 851,792 881,790 910,793 910,803 884,803 799,802 780,799 673,797 605,801 566,801 564,795 471,799 465,793 384,793 220,789 193,787" />
+				<Baseline points="193,788 910,803" />
+				<TextEquiv index="1">
+					<Unicode>sicherte ihm das Haus Frege in Leipzig zu, dessen Inhaber, Christian</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r13l2" points="192,801 203,799 213,799 243,799 245,806 258,804 283,800 302,800 305,809 317,808 327,808 358,801 368,801 368,807 375,807 417,809 429,803 435,803 447,804 451,813 462,811 469,804 480,804 487,811 493,811 506,810 511,810 543,813 545,806 556,806 557,812 624,807 637,807 638,813 667,813 686,814 693,813 708,813 730,815 740,810 751,810 759,809 775,809 793,811 796,817 828,814 840,813 845,813 846,819 860,819 866,813 871,813 872,819 890,817 903,817 910,820 910,834 901,834 866,829 846,828 816,827 813,827 796,826 740,825 708,824 686,829 669,829 667,823 638,823 580,822 545,821 511,820 493,823 487,823 469,820 447,819 375,820 366,820 366,810 358,810 327,820 317,820 283,816 243,815 222,815 213,814 203,814 192,812" baseline="192,814 416,818 580,821 774,825 828,825 910,830" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Gottlob Frege ), ein Predigerssohn aus Lampertswalde bei Oschatz, | german_print2_15: Gottlob Frege ¹¹), ein Predigerssohn aus Lampertswalde bei Oschatz, -->
+			<!-- line left out: id="r13l3" points="191,825 203,825 211,831 225,831 237,826 247,826 269,827 278,834 288,832 300,832 323,833 336,834 337,828 349,828 349,837 363,835 375,832 380,832 420,830 457,830 458,836 476,833 488,830 501,830 503,837 544,837 559,838 565,840 572,832 583,832 584,844 603,836 614,833 625,833 628,839 665,839 673,834 698,834 700,841 710,841 724,839 747,839 767,841 788,837 800,837 800,845 811,845 811,838 823,838 831,844 842,843 855,843 886,840 897,840 899,847 910,847 910,853 897,855 868,855 855,854 823,854 811,854 800,852 768,852 712,851 649,850 583,848 572,848 503,847 470,846 395,845 337,844 300,843 288,843 278,842 275,848 271,848 269,841 225,841 205,841 191,840" baseline="191,840 246,841 586,847 746,851 756,851 910,855" reason: differs: "durc" against "an ⟦" | Wikisource:  | next_nc_e1: durch Sparsamkeit und kaufmännische Gewandtheit in bedeutendes | german_print2_15: durch Sparsamkeit und kaufmännische Gewandtheit e in bedeutendes -->
+			<TextLine id="r13l4" custom="readingOrder {index:4;}">
+				<Coords points="193,851 213,851 221,857 253,858 338,860 364,855 415,856 423,862 434,860 447,860 511,863 527,866 529,858 540,858 542,865 564,866 599,859 629,859 636,860 639,867 682,866 701,869 708,861 719,861 726,867 796,868 827,870 892,868 899,871 909,872 909,886 899,886 814,885 809,880 796,879 576,874 555,872 457,874 447,872 338,869 267,872 257,869 193,866" />
+				<Baseline points="193,866 773,877 909,882" />
+				<TextEquiv index="1">
+					<Unicode>Vermögen erworben hatte, aus dessen Fülle er ebenso uneigennützig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r13l5" custom="readingOrder {index:5;}">
+				<Coords points="190,883 274,884 297,880 307,880 328,886 366,891 366,881 390,881 391,890 413,888 435,882 453,883 456,890 465,890 467,882 478,882 479,889 509,887 527,890 555,890 555,882 557,882 590,885 592,893 604,892 632,886 643,886 645,892 667,893 691,887 705,887 707,895 719,892 734,892 841,897 843,891 853,891 876,892 907,899 907,911 900,911 886,908 691,905 590,901 557,905 511,905 509,899 390,897 330,899 309,896 190,892" />
+				<Baseline points="190,892 907,907" />
+				<TextEquiv index="1">
+					<Unicode>wie umsichtig jeden Bedürftigen, der ihm Vertrauen einflösste,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r13l6" custom="readingOrder {index:6;}">
+				<Coords points="190,910 215,908 227,908 297,909 313,913 313,922 297,922 280,922 227,919 190,919" />
+				<Baseline points="190,919 313,922" />
+				<TextEquiv index="1">
+					<Unicode>unterstützte.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r13l7" custom="readingOrder {index:7;}">
+				<Coords points="242,932 257,932 326,933 333,939 357,937 381,940 390,934 401,934 402,942 431,940 437,935 448,935 458,955 461,935 471,935 471,954 463,957 458,957 448,950 346,949 343,955 333,955 327,948 314,944 303,953 288,953 275,947 242,947" />
+				<Baseline points="242,947 471,951" />
+				<TextEquiv index="1">
+					<Unicode>Am 7. September d. J.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r13l8" points="190,956 195,956 198,962 233,958 236,958 243,959 255,963 279,958 283,958 286,964 297,964 298,958 307,958 309,966 322,965 331,965 355,960 365,959 376,959 394,960 396,968 405,968 408,961 412,961 415,967 427,965 438,965 449,967 469,967 489,968 497,967 507,967 521,968 530,972 535,976 553,969 573,969 603,970 612,972 614,964 624,964 626,970 637,965 653,965 656,971 665,971 676,972 693,966 698,966 713,967 715,973 724,973 724,966 735,966 750,972 772,967 792,967 792,983 772,983 724,982 656,981 624,980 535,980 531,980 521,978 497,978 489,977 469,977 458,977 449,976 438,977 427,977 394,976 376,976 365,976 336,975 322,975 286,974 255,973 236,975 233,975 198,972 190,971" baseline="190,972 233,972 335,974 534,978 592,979 756,982 792,983" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: Im feierlichen Valedictionsactus, zu welchem Rector Ha | german_print2_15: Im feierlichen Valedictionsactus, zu welchem Rector Ha -->
+			<!-- line left out: id="r13l9" points="675,999 681,997 693,996 698,996 713,1000 716,992 732,992 733,1000 742,1000 742,1008 698,1008 693,1008 681,1007 675,1001" baseline="675,1007 742,1008" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: eutsche
+ | german_print2_15: eutsche
+ -->
+			<TextEquiv index="1">
+				<Unicode>und erwirkte ihm manche Unterstützung; die werthvollste Beihilfe
+sicherte ihm das Haus Frege in Leipzig zu, dessen Inhaber, Christian
+Vermögen erworben hatte, aus dessen Fülle er ebenso uneigennützig
+wie umsichtig jeden Bedürftigen, der ihm Vertrauen einflösste,
+unterstützte.
+Am 7. September d. J.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r14">
+			<Coords points="485,940 727,940 727,956 485,956" />
+		</GraphicRegion>
+		<TextRegion id="r15" custom="readingOrder {index:15;} orientation {0;}">
+			<Coords points="186,937 907,937 907,1065 186,1065" />
+			<!-- line left out: id="r15l0" points="492,951 502,949 508,949 514,942 520,942 540,943 546,937 569,937 572,943 576,943 606,947 615,938 620,938 632,939 640,945 648,939 673,939 675,945 685,945 692,948 702,940 729,940 731,948 742,946 747,946 785,946 796,947 812,948 824,942 837,942 838,949 860,949 883,949 907,950 907,959 873,959 861,958 850,957 845,964 838,964 837,958 824,958 729,957 716,957 685,955 662,955 620,954 615,954 598,952 576,953 546,953 533,951 520,957 492,957" baseline="492,951 519,951 615,953 811,957 907,959" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 774 verliess Beil das Chemnitzer Lyceum. | german_print2_15: 774 verliess Beil das Chemnitzer Lyceum. -->
+			<!-- line left out: id="r15l1" points="807,974 813,974 852,969 863,969 865,975 897,970 906,970 906,986 897,986 865,985 826,984 814,983 807,979" baseline="807,983 852,984 906,986" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: ger durch | german_print2_15: ger durch -->
+			<!-- line left out: id="r15l2" points="189,982 210,982 210,991 223,990 236,989 247,989 291,990 310,991 330,991 353,992 818,1002 830,1000 842,999 846,999 874,1002 876,996 880,996 883,1002 906,1002 906,1012 894,1012 874,1011 842,1011 830,1010 818,1008 310,1003 234,1003 223,1003 222,997 210,998 189,998" baseline="189,997 290,1000 352,1002 818,1010 845,1010 906,1011" reason: differs: "ngechtü" against "ngelade" | Wikisource:  | next_nc_e1: Programm einge cht über | german_print2_15: Programm einge cht über -->
+			<TextLine id="r15l3" custom="readingOrder {index:3;}">
+				<Coords points="187,1009 198,1009 200,1016 251,1016 261,1010 273,1010 275,1016 289,1016 330,1012 357,1012 359,1019 363,1019 363,1026 398,1021 405,1013 416,1013 418,1019 478,1020 497,1014 509,1014 515,1021 547,1020 555,1016 625,1017 626,1024 637,1021 680,1020 688,1018 699,1018 701,1024 706,1024 724,1032 743,1025 800,1027 801,1020 811,1020 818,1026 841,1022 854,1022 854,1029 865,1022 870,1022 872,1028 888,1028 891,1022 905,1022 905,1037 888,1038 872,1038 800,1036 720,1036 706,1034 569,1031 497,1032 463,1030 363,1029 357,1027 187,1024" />
+				<Baseline points="187,1024 905,1038" />
+				<TextEquiv index="1">
+					<Unicode>den wahren Weg, der zur Unsterblichkeit führe, von der Schule</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r15l4" points="186,1043 192,1043 192,1035 208,1035 211,1042 224,1042 237,1036 241,1036 243,1042 254,1042 266,1044 266,1036 277,1036 310,1038 310,1050 328,1044 375,1039 389,1039 412,1039 426,1050 432,1045 445,1042 456,1042 471,1048 478,1048 478,1040 489,1040 491,1047 499,1047 517,1041 538,1041 547,1048 557,1048 557,1041 568,1041 577,1048 585,1048 595,1046 607,1046 639,1043 645,1043 647,1051 660,1049 684,1049 700,1050 712,1051 725,1045 737,1045 738,1052 750,1051 780,1046 792,1046 799,1049 812,1052 813,1046 824,1046 832,1053 860,1053 879,1055 880,1048 891,1048 893,1054 904,1054 904,1064 712,1064 684,1065 672,1065 670,1059 625,1059 568,1059 527,1059 517,1059 471,1056 389,1055 314,1055 299,1055 294,1040 277,1052 254,1052 237,1052 208,1051 186,1051" baseline="186,1050 294,1052 455,1055 624,1058 780,1061 874,1063 904,1064" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Abschied ²), um sich auf der Universität Leipzig dem Studium der
+ | german_print2_15: Abschied¹²), um sich auf der Universität Leipzig dem Studium der
+ -->
+			<TextEquiv index="1">
+				<Unicode>den wahren Weg, der zur Unsterblichkeit führe, von der Schule</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r16" custom="readingOrder {index:16;} orientation {0;}">
+			<Coords points="187,1061 510,1061 510,1082 187,1082" />
+			<TextLine id="r16l0" custom="readingOrder {index:0;}">
+				<Coords points="187,1061 202,1061 210,1069 219,1069 221,1062 231,1062 243,1066 261,1068 329,1070 336,1064 346,1064 347,1071 358,1067 463,1066 464,1072 510,1073 510,1082 451,1082 187,1077" />
+				<Baseline points="187,1077 510,1082" />
+				<TextEquiv index="1">
+					<Unicode>Rechtswissenschaft zu widmen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Rechtswissenschaft zu widmen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r17">
+			<Coords points="795,973 809,973 809,987 795,987" />
+		</GraphicRegion>
+		<GraphicRegion id="r18">
+			<Coords points="359,982 815,982 815,1011 359,1011" />
+		</GraphicRegion>
+		<TextRegion id="r19" custom="readingOrder {index:19;} orientation {0;}">
+			<Coords points="380,986 802,986 802,1009 380,1009" />
+			<!-- line left out: id="r19l0" points="380,986 392,986 393,994 404,993 415,993 417,1000 435,993 452,993 453,987 465,987 473,994 489,994 568,994 606,996 770,995 781,994 792,994 794,1001 802,1001 802,1009 781,1009 595,1006 538,1005 489,1004 420,1004 417,1004 404,1003 380,1002" baseline="380,1002 518,1004 583,1005 770,1008 802,1009" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: den, nahm er mit einem Gec
+ | german_print2_15: den, nahm er mit einem Gedé
+ -->
+		</TextRegion>
+		<GraphicRegion id="r20">
+			<Coords points="286,1036 307,1036 307,1051 286,1051" />
+		</GraphicRegion>
+		<TextRegion id="r21" custom="readingOrder {index:21;} orientation {0;}">
+			<Coords points="181,1180 899,1180 899,1244 181,1244" />
+			<!-- line left out: id="r21l0" points="227,1180 245,1180 264,1181 285,1182 316,1182 328,1188 337,1188 338,1194 352,1188 361,1188 361,1194 378,1187 388,1186 397,1186 423,1187 424,1196 439,1191 445,1189 472,1188 480,1186 486,1186 537,1187 567,1187 621,1188 655,1189 656,1196 667,1195 684,1190 694,1190 695,1196 705,1195 728,1191 745,1191 756,1196 764,1191 773,1191 806,1191 825,1196 833,1192 845,1192 866,1193 886,1198 899,1199 899,1203 893,1206 886,1209 876,1209 854,1206 845,1205 824,1205 773,1204 756,1204 728,1204 644,1203 640,1203 609,1201 599,1201 515,1200 459,1202 445,1202 443,1196 427,1198 397,1198 388,1198 365,1197 361,1197 328,1196 280,1195 227,1194" baseline="227,1194 259,1194 328,1195 378,1196 485,1198 583,1200 899,1206" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ) Iffland a. a. O. S. 93 ff. Iffland wird hier den Eindruck wiederge- | german_print2_15: 7⁰) Iffland a. a. O. S. 93 fl. Iffland wird hier den Eindruck wiederge- -->
+			<!-- line left out: id="r21l1" points="197,1207 202,1202 212,1202 222,1206 247,1202 251,1202 273,1203 274,1210 284,1208 298,1208 299,1214 318,1208 332,1204 347,1204 367,1204 368,1211 378,1210 387,1210 407,1213 410,1206 422,1206 444,1213 450,1210 460,1210 500,1208 510,1208 531,1212 579,1213 585,1214 594,1219 596,1209 606,1209 620,1214 631,1215 656,1211 661,1211 677,1212 685,1211 688,1211 739,1214 767,1212 777,1212 787,1217 788,1223 805,1217 815,1217 874,1214 890,1214 898,1219 898,1227 791,1227 788,1227 756,1225 718,1224 631,1226 585,1227 578,1227 569,1226 519,1221 511,1221 450,1220 410,1219 387,1218 358,1218 302,1217 299,1217 251,1216 213,1215 202,1214 197,1209" baseline="197,1214 301,1216 403,1218 444,1219 639,1223 687,1223 845,1225 898,1227" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: eben haben, welchen der dreiundzwanzigjährige Beil in Gotha, wo er ihn | german_print2_15: eben haben, welchen der dreiundzwanzigjährige Beil in Gotha, wo er ihn -->
+			<!-- line left out: id="r21l2" points="181,1227 207,1227 215,1228 226,1226 242,1223 253,1223 260,1228 315,1224 320,1224 326,1230 344,1229 354,1229 363,1232 391,1231 402,1229 419,1227 430,1227 457,1233 467,1233 502,1228 517,1228 545,1229 570,1233 570,1243 561,1243 497,1242 467,1244 457,1244 402,1240 356,1239 315,1238 258,1237 226,1236 215,1235 207,1236 195,1236 189,1235 181,1235" baseline="181,1235 230,1235 381,1239 444,1240 540,1242 570,1243" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: zuerst kennen lernte, auf ihn gemacht hat.
+ | german_print2_15: zuerst kennen lernte, auf ihn gemacht hat.
+ -->
+		</TextRegion>
+		<TextRegion id="r22" custom="readingOrder {index:22;} orientation {0;}">
+			<Coords points="180,1253 897,1253 897,1300 180,1300" />
+			<!-- line left out: id="r22l0" points="225,1253 229,1253 262,1255 276,1254 280,1254 291,1255 317,1260 328,1256 338,1256 385,1257 396,1262 405,1258 415,1258 416,1265 427,1264 486,1260 495,1260 524,1264 541,1260 551,1260 575,1261 614,1262 636,1262 666,1262 667,1273 692,1263 707,1263 767,1264 784,1268 789,1269 792,1275 815,1265 835,1265 847,1271 856,1271 857,1265 867,1265 878,1270 897,1271 897,1275 884,1279 867,1279 857,1279 495,1278 486,1278 469,1272 436,1275 427,1275 415,1271 377,1275 361,1275 354,1270 243,1269 233,1269 225,1261" baseline="225,1269 256,1268 307,1268 550,1273 795,1277 897,1279" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ¹) Bild und Nekrolog im Journal für Fabrik, Manufaktur, Handlung | german_print2_15: 3) Bild und Nekrolog im Journal für Fabrik, Manufaktur, Handlung -->
+			<!-- line left out: id="r22l1" points="180,1279 190,1279 201,1275 211,1275 246,1276 273,1276 273,1286 300,1277 306,1277 353,1277 381,1282 386,1291 395,1284 407,1283 416,1283 417,1290 444,1280 450,1280 450,1287 461,1287 463,1280 472,1280 514,1281 537,1282 573,1285 576,1298 597,1282 610,1282 610,1295 580,1300 576,1300 554,1299 494,1294 416,1296 391,1296 353,1296 334,1296 323,1296 323,1290 300,1290 258,1289 246,1288 191,1288 180,1287" baseline="180,1287 276,1289 486,1293 554,1294 610,1295" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: und Mode. Leipzig 1794. Bd. VI. S. 455 ff.
+ | german_print2_15: und Mode. Leipzig 1794. Bd. VI. S. 455 fl.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r23">
+			<Coords points="386,1282 581,1282 581,1288 386,1288" />
+		</GraphicRegion>
+		<GraphicRegion id="r24">
+			<Coords points="354,1290 362,1290 362,1295 354,1295" />
+		</GraphicRegion>
+		<TextRegion id="r25" custom="readingOrder {index:25;} orientation {0;}">
+			<Coords points="223,1305 895,1305 895,1346 223,1346" />
+			<!-- line left out: id="r25l0" points="223,1306 230,1305 242,1305 253,1317 263,1317 265,1308 280,1308 356,1314 366,1310 398,1310 419,1315 455,1315 465,1317 466,1311 477,1311 485,1315 510,1315 567,1318 619,1319 666,1319 682,1318 693,1318 720,1320 783,1316 792,1316 793,1323 804,1322 811,1316 823,1316 849,1325 882,1324 895,1324 895,1331 887,1332 882,1332 856,1331 849,1331 787,1330 783,1330 742,1329 693,1328 676,1328 631,1328 584,1327 510,1326 495,1326 449,1325 409,1324 393,1323 308,1322 263,1321 230,1321 223,1313" baseline="223,1320 241,1320 566,1326 643,1327 862,1330 895,1331" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ¹) „De vera ad immortalitatem via carmen teutonicum“ heisst es in | german_print2_15: ¹²) „De vera ad immortalitatem via carmen teutonicum“ heisst es in -->
+			<!-- line left out: id="r25l1" points="233,1334 240,1334 252,1327 260,1327 271,1328 285,1332 303,1333 347,1334 347,1343 295,1346 284,1346 274,1341 233,1340" baseline="233,1340 252,1340 347,1343" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: s Programm.
+ | german_print2_15: ⁸ Programm.
+ -->
+		</TextRegion>
+		<TextRegion id="r26" custom="readingOrder {index:26;} orientation {0;}">
+			<Coords points="178,1326 192,1326 192,1339 178,1339" />
+			<!-- line left out: id="r26l0" points="178,1326 192,1326 192,1339 178,1339" baseline="178,1339 192,1339" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: H
+ | german_print2_15: H
+ -->
+		</TextRegion>
+		<GraphicRegion id="r27">
+			<Coords points="196,1331 228,1331 228,1344 196,1344" />
+		</GraphicRegion>
+		<TextRegion id="r28" custom="readingOrder {index:28;} orientation {0;}">
+			<Coords points="394,1549 658,1549 658,1561 394,1561" />
+			<!-- line left out: id="r28l0" points="394,1549 402,1549 408,1550 422,1549 434,1549 456,1549 469,1549 499,1549 525,1549 552,1549 571,1549 638,1549 658,1550 658,1558 571,1560 545,1560 531,1558 452,1561 441,1561 426,1561 414,1560 407,1560 394,1558" baseline="394,1558 658,1558" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnp digital slub-dresden delppn301259642184
+ | german_print2_15: tpliital slub-dresden de ppne01259642184
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r29">
+			<Coords points="949,1064 962,1064 962,1369 949,1369" />
+		</SeparatorRegion>
+		<GraphicRegion id="r30">
+			<Coords points="940,0 978,0 978,1585 940,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Freude und dem Schmerz gab er sich mit voller Stärke der
+Empfindung hin, ohne deswegen für sanfte Gefühle und stille
+Wehmuth unempfänglich zu sein. Verdriessliche Dinge sah er
+bald von der erträglichsten Seite an. Gutmüthig und mittheilsam
+bedurfte er freundschaftlichen Umganges. Den Vater hat er,
+sobald es ihm selbst besser ging, bis an seines eigenen Lebens Ende
+unterstützt, von der Mutter, welche früher starb, nach seiner Freunde
+Versicherung oft mit der Wonne der Thränen gesprochen.⟦⟧
+Sein poetisches Talent und sein heiteres Wesen bereiteten ihm
+aber auch bittere Stunden. Ehrbare Männer, „die ernsthaftesten
+Personen in Amt und Würde bei der Stadt“, verkündeten den Eltern
+mit aufgehobenen Händen, dass ihr Sohn ein Ende mit Schrecken
+nehmen werde. Das Versemachen betrieb er seitdem nur noch
+heimlicher Weise, und einige Zeit zwang er sich zu dem Ernste und
+der Gemessenheit, welche man an ihm vermisste, um alsbald wie
+vorher seiner frohen Laune zu leben. Die ungewisse Zukunft hat
+ihn nie bekümmert, und so beunruhigte ihn auch der bevorstehende
+Abgang zur Universität nicht, welcher die mittellosen Eltern in
+grosse Verlegenheit setzte. Seine Sorglosigkeit behielt Recht: einer
+seiner Mitbürger, welcher stets seine Freude an ihm gefunden, „ein
+würdiger Mann aus dem Kriegerstande“, verwendete sich für ihn
+und erwirkte ihm manche Unterstützung; die werthvollste Beihilfe
+sicherte ihm das Haus Frege in Leipzig zu, dessen Inhaber, Christian
+Gottlob Frege⟦⟧, ein Predigerssohn aus Lampertswalde bei Oschatz,
+durch Sparsamkeit und kaufmännische Gewandtheit ein bedeutendes
+Vermögen erworben hatte, aus dessen Fülle er ebenso uneigennützig
+wie umsichtig jeden Bedürftigen, der ihm Vertrauen einflösste,
+unterstützte.
+Am 7. September d. J. 1774 verliess Beil das Chemnitzer Lyceum.
+Im feierlichen Valedictionsactus, zu welchem Rector Hager durch
+Programm eingeladen, nahm er mit einem deutschen Gedicht über
+den wahren Weg, der zur Unsterblichkeit führe, von der Schule
+Abschied⟦⟧, um sich auf der Universität Leipzig dem Studium der
+Rechtswissenschaft zu widmen.
+-->
+	</Page>
+</PcGts>

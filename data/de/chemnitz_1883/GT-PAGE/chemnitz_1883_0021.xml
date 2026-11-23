@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:45:25</Created>
+		<LastChange>2026-11-23T13:45:25</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/21 revision 4937823 of 2026-07-04T06:55:07Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0021.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro6602738445860032135" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="432,160 451,160 451,176 432,176" />
+			<!-- line left out: id="r0l0" points="432,160 451,160 451,176 432,176" baseline="432,176 451,176" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 11
+ | german_print2_15: 11
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="179,214 706,214 706,238 179,238" />
+			<!-- line left out: id="r1l0" points="179,218 187,218 196,220 211,223 241,219 245,219 261,223 339,218 355,218 403,218 518,216 542,216 544,228 564,215 591,215 654,214 706,214 706,230 599,235 575,235 542,232 478,233 451,238 437,238 414,234 369,235 355,238 339,238 261,235 224,235 187,238 179,238" baseline="179,235 547,231 626,230 706,229" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: vVereinsversammlung am 16. April 1880.
+ | german_print2_15: vereinsversammlung am 16. April 1880.
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="89,254 798,254 798,305 89,305" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="140,260 192,260 202,267 223,266 257,261 298,263 325,260 336,260 350,265 354,259 375,259 405,266 415,264 458,264 458,258 469,258 487,264 498,264 499,258 511,258 511,264 531,263 551,270 557,256 574,256 579,262 628,261 636,256 665,255 668,262 708,261 728,254 753,254 753,260 786,258 798,261 798,270 728,270 626,276 614,276 584,272 574,275 421,274 420,280 415,280 414,272 385,275 336,276 140,276" />
+				<Baseline points="140,276 798,270" />
+				<TextEquiv index="1">
+					<Unicode>Professor Gottschaldt sprach über „die goldene Pforte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l1" points="89,293 108,293 125,286 137,286 141,292 149,292 176,287 182,287 199,292 236,290 245,290 245,295 236,295 234,305 217,305 199,302 172,302 89,302" baseline="89,302 245,302" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: in Freiberg.“
+ | german_print2_15: in Freiberg.“
+ -->
+			<TextEquiv index="1">
+				<Unicode>Professor Gottschaldt sprach über „die goldene Pforte</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="113,317 812,317 812,1358 113,1358" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="167,322 180,322 180,328 208,329 208,322 221,322 222,328 232,328 251,322 264,322 265,328 276,328 276,322 288,322 289,329 308,326 421,321 432,321 440,327 451,327 471,320 486,320 487,327 499,324 571,325 572,319 583,319 584,326 615,324 673,325 695,317 698,317 730,321 738,317 749,317 758,323 778,323 778,317 790,317 790,324 799,324 799,333 664,334 663,340 651,340 651,334 619,334 619,340 594,334 548,335 548,341 536,341 535,335 390,337 379,341 340,341 288,338 167,338" />
+				<Baseline points="167,338 799,333" />
+				<TextEquiv index="1">
+					<Unicode>In der Einleitung gab der Vortragende einige historische</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l1" points="114,348 129,348 138,352 156,352 165,354 211,350 227,349 232,349 234,356 241,356 252,348 267,348 276,354 312,354 313,348 323,348 352,348 367,353 367,347 382,347 394,353 414,353 426,347 447,347 448,354 459,351 467,350 480,350 554,346 559,346 571,351 580,352 592,344 598,344 609,346 623,348 643,350 653,345 665,345 697,350 705,349 717,349 728,343 744,343 751,344 768,349 770,343 783,343 793,349 799,349 799,359 783,360 770,360 751,359 744,360 705,360 697,366 686,366 686,360 571,361 512,362 466,363 414,363 323,364 301,364 267,364 252,364 232,363 226,365 188,365 177,365 129,364 114,364" baseline="114,364 592,360 799,359" reason: second model: differs: "GraszuW" against "Graf zu" | Wikisource: Notizen: Als Konrad Graf zu Wettin 1156 ins Petersberger Kloster | next_nc_e1: Notizen: Als Konrad Graf zu Wettin 1156 ins Petersberger Kloster | german_print2_15: Notizen: Als Konrad Graſ zu Wettin usSé ins Petersberger Kloster -->
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="113,381 156,380 156,388 180,380 210,378 218,375 224,375 247,380 249,374 267,378 445,380 460,373 479,373 481,380 501,377 613,375 714,377 731,370 750,369 763,369 763,375 798,374 798,386 555,387 554,393 542,393 541,387 435,389 356,388 302,390 269,384 267,390 180,389 156,396 144,396 113,395" />
+				<Baseline points="113,391 713,385 798,386" />
+				<TextEquiv index="1">
+					<Unicode>ging, vertheilte er zuvor seine Besitzungen unter seine Söhne;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="114,408 164,407 165,400 178,400 179,406 203,407 204,400 260,401 275,404 300,400 312,400 313,406 332,407 353,400 365,399 371,399 373,405 385,400 405,400 438,405 440,399 448,399 448,405 469,405 471,399 484,399 485,405 520,404 541,398 553,397 559,397 561,404 665,403 666,397 699,396 716,397 733,402 733,396 751,396 771,402 775,395 783,395 799,396 799,412 587,413 418,418 406,418 384,416 324,415 153,416 114,414" />
+				<Baseline points="114,415 799,411" />
+				<TextEquiv index="1">
+					<Unicode>so erhielt Otto das Markgrafenthum Meissen und Dedo die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="114,430 125,427 185,426 185,432 197,432 205,426 243,426 251,433 261,433 262,426 291,426 299,430 312,432 312,426 370,426 372,432 382,429 409,432 483,431 490,425 501,425 513,429 570,429 581,423 593,423 594,429 614,429 625,422 640,422 696,428 705,422 725,422 745,422 771,422 779,428 800,427 800,439 653,438 560,445 513,441 451,441 450,447 438,447 428,441 169,443 125,442 114,440" />
+				<Baseline points="114,442 613,438 800,438" />
+				<TextEquiv index="1">
+					<Unicode>Grafschaft Rochlitz. Letzterer gründete 1174 das Kloster Zschillen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="114,461 121,459 133,459 143,456 175,458 266,452 294,452 297,459 311,456 337,458 357,452 394,452 396,459 449,457 460,455 522,451 527,451 535,454 570,456 576,450 593,450 595,456 694,452 703,449 711,449 711,462 736,448 748,448 748,455 799,454 799,464 769,464 711,468 634,469 574,465 520,467 451,467 449,473 443,473 442,465 394,467 221,469 114,467" />
+				<Baseline points="114,467 799,464" />
+				<TextEquiv index="1">
+					<Unicode>ersterer 1162 Kloster Zelle (später Altenzelle genannt), dessen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l6" points="115,485 147,485 157,486 159,478 170,478 178,482 184,484 206,485 221,479 237,479 238,486 249,486 249,479 254,479 257,485 267,484 290,484 291,478 307,478 370,484 385,484 387,478 405,478 407,485 418,483 430,478 441,478 515,483 515,477 528,477 549,482 549,492 528,493 511,493 459,493 377,493 370,493 355,485 349,485 347,499 337,499 237,494 221,494 204,488 202,500 184,500 184,494 123,494 120,500 115,500" baseline="115,494 205,493 549,492" reason: second model: differs: "ude5vol" against "de 1175" | Wikisource: prächtige Gebäude 1175 vollendet wurden. | next_nc_e1: prächtige Gebäude 1175 vollendet wurden.
+ | german_print2_15: prächtige Gebäude 5 vollendet wurden.
+ -->
+			<!-- line left out: id="r3l7" points="162,504 167,504 177,506 188,510 212,512 213,505 231,505 261,512 267,511 272,504 286,504 286,510 299,510 306,504 315,504 338,512 349,510 366,510 389,510 400,504 414,504 432,509 444,510 445,503 460,503 467,507 488,509 489,503 500,503 500,509 536,509 543,508 568,503 579,503 592,503 592,509 606,509 616,502 640,502 658,504 670,507 701,508 702,501 714,501 715,507 742,506 751,506 752,514 771,500 789,500 790,506 800,506 800,516 751,517 681,518 672,518 592,517 553,518 536,518 505,519 389,520 366,520 322,520 272,520 265,518 247,519 231,520 188,520 167,520 162,520" baseline="162,520 552,517 726,516 800,516" reason: differs: "n80ο0Hu" against " 800 Hu" | Wikisource:  | next_nc_e1: Dasselbe erhielt einen Landstrich von 80ο0 Huſen, der z. Th. | german_print2_15: Dasselbe erhielt einen Landstrich von 800 Huſen, der z. Th. -->
+			<TextLine id="r3l8" custom="readingOrder {index:8;}">
+				<Coords points="115,531 126,531 128,537 186,537 187,531 197,531 198,537 217,530 357,537 364,530 374,530 376,537 443,536 459,530 469,529 484,529 485,535 497,535 505,530 525,529 538,529 538,535 595,533 597,527 608,527 616,534 634,531 684,534 684,527 696,527 697,534 800,532 800,542 484,545 398,548 357,548 345,548 115,546" />
+				<Baseline points="115,546 800,542" />
+				<TextEquiv index="1">
+					<Unicode>die nach Böhmen zu gelegenen Urwälder umfasste; diese waren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l9" custom="readingOrder {index:9;}">
+				<Coords points="115,563 276,562 292,556 303,556 304,562 315,562 316,556 327,556 334,561 357,562 372,556 384,556 390,560 399,556 421,556 424,562 438,562 453,556 465,556 466,563 477,561 504,562 505,556 577,560 578,554 588,554 603,560 641,559 641,553 653,553 660,559 768,556 800,558 800,568 303,572 261,576 243,576 183,572 115,573" />
+				<Baseline points="115,573 800,568" />
+				<TextEquiv index="1">
+					<Unicode>nur an wenigen lichten Stellen bewohnt und wurden nun weiter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l10" custom="readingOrder {index:10;}">
+				<Coords points="115,589 223,587 258,582 285,585 321,583 323,590 367,589 369,582 380,582 382,588 391,588 407,582 418,582 420,588 475,588 487,587 501,582 512,582 513,589 525,587 569,586 576,584 624,586 624,580 636,580 637,586 800,585 800,596 475,596 418,598 321,598 229,603 227,603 179,598 159,603 147,603 133,599 115,598" />
+				<Baseline points="115,598 800,595" />
+				<TextEquiv index="1">
+					<Unicode>ausgerottet. Damals oder kurz vorher entstanden an einem in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l11" custom="readingOrder {index:11;}">
+				<Coords points="115,609 126,609 134,616 143,616 157,609 169,608 247,608 249,615 313,614 314,608 319,608 321,616 342,614 359,608 371,608 372,614 383,614 395,608 405,608 422,616 428,608 440,608 441,615 451,615 466,608 487,609 523,607 524,613 531,613 546,607 554,607 555,614 602,612 609,610 666,612 667,606 678,606 722,606 731,611 755,609 760,611 794,612 801,616 801,618 794,622 590,623 581,621 565,623 405,624 383,624 319,624 254,624 132,624 115,624" />
+				<Baseline points="115,624 801,622" />
+				<TextEquiv index="1">
+					<Unicode>die Mulde fliessenden Bach die Dörfer Lossnitz und Christians-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l12" points="116,635 127,635 135,641 150,638 154,638 159,648 182,641 198,641 213,635 224,635 225,642 237,640 261,640 281,634 297,634 298,641 309,641 310,634 321,634 322,642 351,640 391,640 405,634 408,634 433,634 435,640 445,640 452,634 465,634 467,640 483,640 485,634 497,634 500,640 517,640 537,641 552,633 571,633 579,639 590,639 610,638 634,634 645,634 671,638 671,632 677,632 678,645 709,632 727,632 729,638 750,638 750,632 762,632 762,638 789,634 800,634 800,648 774,653 762,653 720,648 619,649 590,649 558,649 528,649 517,653 505,653 483,650 452,650 445,649 425,650 408,653 405,653 321,650 163,651 159,651 127,650 116,650" baseline="116,650 552,648 800,648" reason: differs: "gras" against "graf Ot" | Wikisource:  | next_nc_e1: dorf, in deren Nähe man silberhaltiges Bleierz fand. Markgraſ | german_print2_15: dorf, in deren Nähe man silberhaltiges Bleierz ſand. Markgraſ -->
+			<TextLine id="r3l13" custom="readingOrder {index:13;}">
+				<Coords points="116,663 209,666 209,660 221,660 222,667 285,666 300,660 315,660 317,666 343,666 401,664 422,660 433,660 434,667 462,666 477,660 496,660 497,666 522,666 523,660 529,660 530,666 597,665 597,659 629,659 630,665 640,665 642,659 653,659 654,665 665,665 665,659 671,659 672,665 683,662 736,664 736,658 747,658 774,659 775,665 802,665 802,672 782,675 623,674 591,680 575,680 540,676 522,680 510,680 483,676 128,676 116,674" />
+				<Baseline points="116,674 802,675" />
+				<TextEquiv index="1">
+					<Unicode>Otto wurde vom Kaiser mit dem Bergbauregal belehnt und liess</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l14" custom="readingOrder {index:14;}">
+				<Coords points="116,687 138,687 167,693 184,693 184,686 199,686 199,693 221,693 222,686 235,686 242,693 258,693 258,686 265,686 266,694 278,692 311,692 336,686 358,686 359,692 392,692 400,686 540,686 550,693 571,692 594,686 629,691 630,685 644,685 646,691 670,689 700,691 702,698 727,685 745,685 766,690 773,685 786,685 787,693 793,693 793,699 786,701 745,700 571,702 381,702 380,708 368,708 368,702 265,702 210,705 116,702" />
+				<Baseline points="116,702 793,700" />
+				<TextEquiv index="1">
+					<Unicode>die aufgefundenen Erzquellen mit Eisen bearbeiten. Bereits</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l15" points="117,718 143,717 150,717 178,720 181,713 197,713 236,714 243,716 269,715 279,713 296,713 305,718 322,716 328,716 334,718 358,719 374,719 375,712 385,712 388,718 400,718 403,712 409,712 421,718 441,718 484,718 518,713 530,713 537,716 549,718 550,712 562,712 582,718 594,717 603,712 614,712 615,718 626,718 627,712 639,712 662,717 663,725 681,717 707,715 727,711 753,711 753,717 801,717 801,727 779,728 706,728 663,728 614,727 602,728 549,728 504,728 484,728 441,728 358,728 285,728 275,727 243,728 197,728 181,728 174,727 165,726 150,733 141,734 132,734 117,729" baseline="117,726 165,726 801,727" reason: second model: differs: "1775s" against "1175 " | Wikisource: 1175 soll Otto Christiansdorf zu einer Stadt erhoben, mit Mauern | next_nc_e1: 1175 soll Otto Christiansdorf zu einer Stadt erhoben, mit Mauern | german_print2_15: 1775 soll Otto Christiansdorf zu einer Stadt erhoben, mit Mauern -->
+			<TextLine id="r3l16" custom="readingOrder {index:16;}">
+				<Coords points="117,745 170,746 171,739 183,739 190,745 243,745 245,739 261,739 276,747 282,739 292,739 294,745 314,746 316,739 332,739 335,745 354,743 414,746 429,738 443,738 443,744 539,744 540,738 552,738 565,742 596,738 608,738 609,744 620,744 621,738 633,738 656,744 658,751 690,738 696,738 769,744 802,744 802,754 499,754 475,759 464,759 332,753 183,754 159,759 141,759 117,755" />
+				<Baseline points="117,755 660,753 802,754" />
+				<TextEquiv index="1">
+					<Unicode>umgeben und daselbst eine Burg errichtet haben. Diese neue</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l17" custom="readingOrder {index:17;}">
+				<Coords points="117,766 129,766 135,769 147,771 149,765 160,765 190,772 210,765 215,765 228,770 239,772 240,765 251,765 275,771 308,770 335,772 336,765 348,765 350,771 365,771 388,765 400,765 414,770 435,764 469,765 470,771 486,771 488,764 498,764 513,768 530,770 550,764 564,764 564,770 590,770 591,764 603,764 610,770 627,770 627,764 633,764 634,771 653,770 653,764 696,764 697,770 712,770 734,763 750,763 751,770 802,770 802,780 655,785 653,785 653,779 633,780 627,785 610,785 603,780 129,780 117,777" />
+				<Baseline points="117,780 802,780" />
+				<TextEquiv index="1">
+					<Unicode>Stadt erhielt von den ihr ertheilten Privilegien den Namen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l18" custom="readingOrder {index:18;}">
+				<Coords points="117,804 127,804 132,790 153,790 160,796 172,791 184,791 184,797 261,791 278,791 293,796 295,790 306,790 308,796 329,798 330,791 341,791 342,797 379,791 408,791 409,797 428,791 473,790 497,790 505,796 513,796 514,790 538,790 539,796 547,796 553,793 598,791 625,796 626,804 650,796 655,790 669,790 669,796 721,793 736,793 755,796 769,790 781,790 788,796 802,796 802,806 711,806 711,812 704,812 704,805 626,808 580,804 538,811 514,811 377,806 261,805 229,798 228,806 216,810 204,810 170,806 117,808" />
+				<Baseline points="117,806 802,805" />
+				<TextEquiv index="1">
+					<Unicode>„Freiberg.“ Wahrscheinlich hat Markgraf Otto, der später den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l19" custom="readingOrder {index:19;}">
+				<Coords points="118,817 132,817 132,824 143,822 213,823 239,816 242,816 263,816 264,822 276,822 292,816 297,816 347,817 348,824 359,820 400,824 402,817 416,817 428,822 435,816 445,816 459,816 481,822 492,822 516,817 551,816 562,816 583,817 584,823 595,822 607,817 619,817 620,823 655,823 674,817 686,817 693,823 706,823 722,816 752,816 804,823 804,830 796,832 686,833 655,837 644,837 595,833 402,832 390,831 369,824 359,824 352,831 347,832 118,832" />
+				<Baseline points="118,831 804,831" />
+				<TextEquiv index="1">
+					<Unicode>Beinamen „der Reiche“ erhielt, nach Vollendung des Klosters</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l20" custom="readingOrder {index:20;}">
+				<Coords points="118,843 122,843 137,850 142,843 160,843 162,850 209,849 210,843 221,843 222,849 235,849 250,843 261,842 267,842 290,846 302,850 304,843 328,849 366,849 382,842 387,842 400,843 418,848 433,842 446,842 447,849 472,849 474,843 479,843 481,849 609,849 610,843 622,843 623,849 635,847 679,849 679,842 727,842 744,843 757,850 764,848 787,846 794,846 803,849 803,857 787,859 562,859 518,857 518,864 506,864 492,859 439,858 185,858 162,852 160,858 142,858 137,853 118,845" />
+				<Baseline points="118,858 803,857" />
+				<TextEquiv index="1">
+					<Unicode>Zelle mehr Mittel zum Bau Freibergs verwendet und die erste</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l21" custom="readingOrder {index:21;}">
+				<Coords points="120,868 134,868 144,874 163,869 174,869 175,876 200,875 206,868 217,868 220,874 238,873 268,875 330,875 331,869 342,869 344,876 358,873 388,876 389,869 395,869 409,874 457,873 492,876 493,869 505,869 513,875 522,875 522,868 542,868 562,869 563,876 570,876 584,869 596,869 597,875 613,876 628,869 642,869 651,875 698,875 699,869 718,869 727,874 738,875 738,869 750,869 751,875 804,875 804,881 787,884 787,890 774,890 761,884 562,884 535,886 476,886 441,884 358,884 344,878 342,884 268,887 179,884 120,884" />
+				<Baseline points="120,884 804,885" />
+				<TextEquiv index="1">
+					<Unicode>Kirche dort gegründet; dies ist jedenfalls die Frauenkirche ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l22" custom="readingOrder {index:22;}">
+				<Coords points="120,901 217,900 235,902 237,895 249,895 250,901 280,902 280,895 293,895 294,902 318,900 346,902 352,895 378,895 380,901 403,899 468,901 469,895 480,895 481,901 504,901 511,895 526,895 536,902 551,902 565,895 572,895 572,901 581,901 583,895 594,895 613,895 615,901 641,901 651,895 659,895 681,895 681,901 694,899 747,901 747,895 759,895 760,901 782,898 794,898 804,902 804,911 759,911 735,916 723,916 659,912 594,911 581,915 565,915 526,911 444,909 183,911 120,910" />
+				<Baseline points="120,909 550,909 804,911" />
+				<TextEquiv index="1">
+					<Unicode>wesen, zu der die noch heute vorhandene goldene Pforte gehörte.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l23" custom="readingOrder {index:23;}">
+				<Coords points="121,920 126,920 207,926 274,927 276,921 280,921 287,926 294,928 299,921 311,921 312,927 321,927 332,921 354,921 355,927 395,926 403,921 453,921 453,928 463,928 478,921 484,921 485,927 553,925 583,921 595,921 595,927 637,927 649,929 649,922 661,922 662,929 673,927 719,927 719,921 730,921 745,927 784,921 796,921 796,927 805,927 805,937 661,938 605,942 594,942 535,937 378,936 311,936 274,941 257,941 225,936 223,942 217,942 207,936 121,936" />
+				<Baseline points="121,936 805,937" />
+				<TextEquiv index="1">
+					<Unicode>Diese ursprüngliche Frauenkirche brannte 1484 nieder und wurde</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l24" custom="readingOrder {index:24;}">
+				<Coords points="120,952 189,947 214,947 236,952 258,953 276,960 280,947 304,947 307,953 319,953 342,952 343,946 354,946 382,952 415,953 433,947 445,946 451,946 454,953 480,952 566,954 566,947 578,947 579,953 635,948 652,948 652,954 663,953 674,948 679,948 718,951 721,960 749,953 764,953 765,947 805,947 805,963 761,962 726,966 674,964 662,969 650,969 566,964 480,962 281,963 258,965 247,965 236,962 120,962" />
+				<Baseline points="120,962 382,961 805,963" />
+				<TextEquiv index="1">
+					<Unicode>unter Herzog Albrecht von Meissen wieder aufgebaut, wobei</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l25" custom="readingOrder {index:25;}">
+				<Coords points="121,979 148,979 152,973 163,973 164,979 187,978 188,972 200,972 200,979 222,978 233,980 251,973 262,972 268,972 271,978 294,978 315,973 328,973 329,979 352,978 354,972 364,972 396,973 398,979 433,976 507,979 508,973 518,973 537,980 543,980 543,973 556,973 556,980 566,980 583,973 601,973 609,979 621,974 651,974 652,980 662,980 663,974 674,974 675,980 723,980 724,974 805,979 805,989 766,989 746,984 746,990 695,989 601,991 583,991 507,989 251,989 121,987" />
+				<Baseline points="121,988 363,987 805,989" />
+				<TextEquiv index="1">
+					<Unicode>vorhandene Mauertheile benutzt und die glücklicherweise vom</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l26" custom="readingOrder {index:26;}">
+				<Coords points="122,999 135,999 143,1004 161,1005 162,998 178,998 192,1005 222,1004 243,999 310,1005 317,999 347,999 348,1006 358,1006 359,999 371,999 372,1006 434,1005 436,998 447,998 460,999 468,1005 495,1005 506,999 536,999 554,1003 598,1000 620,1007 669,1005 683,1000 688,1000 690,1006 701,1005 708,1000 720,1000 753,1005 778,1005 778,999 790,999 797,1005 805,1005 805,1015 525,1015 429,1017 418,1017 393,1014 327,1013 310,1017 298,1017 254,1014 122,1014" />
+				<Baseline points="122,1013 805,1015" />
+				<TextEquiv index="1">
+					<Unicode>Brand verschont gebliebene goldene Pforte ihr einverleibt wurde.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l27" custom="readingOrder {index:27;}">
+				<Coords points="121,1027 132,1025 151,1025 152,1031 163,1030 174,1025 185,1025 195,1030 226,1028 235,1025 237,1025 258,1031 274,1030 295,1025 307,1025 308,1032 343,1032 343,1025 361,1025 362,1031 387,1028 497,1031 512,1025 531,1025 531,1031 544,1031 582,1026 600,1026 642,1033 657,1025 663,1025 687,1025 769,1026 807,1033 807,1039 800,1042 781,1042 781,1048 768,1048 768,1042 715,1042 710,1048 702,1048 687,1041 550,1041 544,1047 530,1047 530,1041 258,1039 237,1045 226,1045 195,1040 139,1040 121,1038" />
+				<Baseline points="121,1040 391,1039 807,1042" />
+				<TextEquiv index="1">
+					<Unicode>Gleichzeitig wurde damit ein vom Papst Sixtus IV. bestätigtes</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l28" custom="readingOrder {index:28;}">
+				<Coords points="123,1050 128,1050 168,1056 198,1052 243,1058 250,1051 263,1051 294,1056 295,1050 307,1050 308,1057 329,1056 331,1063 363,1050 369,1050 395,1056 413,1050 433,1050 475,1058 476,1051 487,1051 512,1056 525,1057 543,1057 587,1051 599,1051 600,1058 659,1057 660,1051 678,1051 679,1058 724,1057 741,1051 765,1051 765,1057 784,1054 797,1054 806,1058 806,1069 775,1068 647,1072 635,1072 512,1071 476,1067 123,1065" />
+				<Baseline points="123,1066 806,1068" />
+				<TextEquiv index="1">
+					<Unicode>Domstift verbunden. Die Entstehungszeit der goldenen Pforte,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l29" points="122,1076 134,1076 135,1082 140,1082 160,1082 171,1083 193,1082 221,1082 258,1082 260,1076 278,1076 279,1082 290,1082 290,1076 302,1076 309,1082 334,1076 342,1076 358,1078 392,1082 399,1077 409,1077 418,1076 460,1076 468,1084 480,1084 490,1076 503,1076 504,1082 512,1082 531,1078 542,1078 575,1083 594,1083 605,1077 622,1077 629,1083 652,1083 672,1084 682,1078 690,1078 718,1078 727,1077 749,1077 757,1078 780,1078 780,1084 791,1083 807,1083 807,1095 739,1095 727,1095 718,1094 706,1094 690,1093 640,1094 629,1094 622,1093 586,1094 575,1098 563,1098 529,1093 524,1093 466,1092 430,1096 418,1096 392,1092 368,1092 347,1096 337,1096 337,1090 324,1092 302,1092 278,1092 221,1092 193,1092 171,1091 151,1091 140,1092 122,1092" baseline="122,1092 178,1091 232,1091 671,1092 807,1095" reason: differs: "hen(QQu" against "en Quer" | Wikisource:  | next_nc_e1: dieses am südlichen (QQuerschiff des Freiberger Domes befindlichen, | german_print2_15: dieses am südlichen Querschiff des Freiberger Domes befindlichen, -->
+			<TextLine id="r3l30" custom="readingOrder {index:30;}">
+				<Coords points="122,1114 127,1108 184,1106 249,1108 250,1102 260,1102 275,1109 313,1106 319,1102 331,1102 340,1106 382,1108 396,1102 415,1102 417,1108 437,1106 444,1103 455,1103 457,1110 466,1110 466,1116 491,1108 507,1107 607,1109 616,1111 620,1116 638,1103 650,1103 650,1109 662,1109 663,1103 682,1103 688,1106 722,1109 722,1103 736,1103 741,1109 807,1110 807,1120 789,1125 777,1125 777,1119 607,1119 595,1123 583,1123 572,1119 563,1123 551,1123 527,1119 496,1118 295,1118 285,1120 168,1117 122,1118" />
+				<Baseline points="122,1117 638,1118 807,1120" />
+				<TextEquiv index="1">
+					<Unicode>äusserst reich gestalteten Portals, ist ungewiss, dürfte aber spä-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l31" custom="readingOrder {index:31;}">
+				<Coords points="123,1132 141,1135 151,1131 157,1131 181,1134 215,1134 240,1136 241,1128 252,1128 253,1134 302,1134 330,1132 341,1135 351,1128 365,1128 367,1134 400,1132 406,1136 414,1129 432,1135 438,1128 450,1128 451,1136 494,1133 495,1141 513,1129 521,1129 523,1135 534,1135 535,1129 568,1129 569,1135 593,1135 599,1129 677,1134 719,1132 729,1135 771,1129 771,1136 784,1136 785,1129 803,1129 804,1142 807,1142 807,1145 523,1145 521,1151 513,1151 499,1144 494,1148 483,1148 450,1144 123,1143" />
+				<Baseline points="123,1143 807,1145" />
+				<TextEquiv index="1">
+					<Unicode>testens in das zweite Viertel des 13. Jahrhunderts zu setzen sein.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l32" custom="readingOrder {index:32;}">
+				<Coords points="125,1154 146,1156 157,1161 172,1153 185,1153 185,1161 196,1160 211,1154 222,1154 223,1161 243,1158 374,1160 375,1154 385,1154 399,1161 405,1154 418,1154 418,1160 432,1160 439,1154 454,1154 470,1160 474,1160 486,1155 498,1155 499,1162 520,1161 535,1155 547,1154 554,1154 556,1160 573,1160 592,1155 608,1155 645,1160 660,1154 675,1154 677,1160 709,1160 709,1154 727,1154 756,1155 768,1160 802,1161 808,1165 808,1167 802,1170 793,1170 793,1176 780,1176 744,1171 709,1176 696,1176 696,1170 670,1169 592,1170 592,1176 579,1176 579,1170 470,1171 343,1169 329,1174 319,1174 222,1169 125,1169" />
+				<Baseline points="125,1169 808,1171" />
+				<TextEquiv index="1">
+					<Unicode>Die Zeitbestimmung wird durch jeden Mangel an Vergleichungs-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l33" custom="readingOrder {index:33;}">
+				<Coords points="124,1185 160,1185 161,1179 172,1179 180,1183 202,1185 256,1186 257,1180 268,1180 269,1186 290,1186 298,1183 312,1183 314,1193 333,1187 338,1180 355,1180 369,1187 379,1185 426,1186 441,1180 454,1180 461,1186 528,1186 528,1180 587,1181 609,1183 615,1186 625,1185 636,1180 648,1180 648,1187 684,1180 722,1180 723,1193 745,1180 779,1181 790,1186 790,1180 802,1180 803,1190 809,1190 809,1193 802,1196 790,1197 727,1199 712,1196 712,1202 704,1202 704,1196 692,1196 692,1202 684,1202 670,1196 615,1196 574,1201 561,1201 487,1199 455,1196 384,1195 317,1197 290,1195 132,1195 129,1201 124,1201" />
+				<Baseline points="124,1195 217,1194 809,1196" />
+				<TextEquiv index="1">
+					<Unicode>punkten erschwert, da sie in Bezug auf plastischen Styl, Reich-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l34" custom="readingOrder {index:34;}">
+				<Coords points="125,1206 266,1206 266,1212 276,1212 279,1206 290,1206 291,1212 306,1212 329,1205 335,1205 356,1212 358,1206 366,1205 377,1205 378,1211 438,1212 465,1206 477,1206 477,1214 488,1212 510,1212 511,1206 523,1206 523,1213 534,1213 535,1206 553,1206 560,1211 568,1213 591,1205 603,1205 604,1211 615,1211 638,1205 652,1205 663,1205 668,1205 731,1206 731,1212 768,1210 809,1210 809,1223 780,1228 768,1228 726,1223 553,1221 534,1222 510,1227 495,1227 488,1222 468,1221 468,1227 427,1224 344,1222 329,1224 125,1221" />
+				<Baseline points="125,1221 567,1220 809,1223" />
+				<TextEquiv index="1">
+					<Unicode>thum und hohe Auffassung beispiellos dasteht. Die gute</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l35" points="126,1231 148,1231 154,1232 166,1237 166,1231 178,1231 186,1235 211,1237 223,1238 239,1232 244,1232 289,1232 318,1237 333,1231 349,1231 350,1237 368,1237 378,1235 390,1235 402,1237 415,1238 415,1231 432,1231 455,1232 502,1237 507,1232 519,1232 535,1237 541,1232 566,1232 588,1237 589,1245 615,1238 619,1232 632,1232 684,1233 684,1239 695,1239 695,1233 729,1233 730,1239 752,1239 766,1233 783,1233 784,1239 809,1239 809,1249 593,1250 589,1250 552,1248 455,1250 450,1250 368,1247 349,1248 223,1250 212,1250 126,1247" baseline="126,1247 450,1247 671,1248 809,1249" reason: differs: ",dabeid" against " dass b" | Wikisource:  | next_nc_e1: Erhaltung ist dem Umstande zuzuschreiben, da bei den Um- | german_print2_15: Erhaltung ist dem Umstande zuzuschreiben, da bei den Um- -->
+			<TextLine id="r3l36" custom="readingOrder {index:36;}">
+				<Coords points="126,1263 149,1263 150,1257 186,1257 194,1263 205,1258 276,1263 291,1257 303,1257 304,1265 322,1265 336,1257 352,1257 359,1263 460,1263 474,1257 486,1257 487,1263 532,1263 542,1257 550,1257 584,1261 600,1258 614,1264 625,1264 626,1258 631,1258 632,1264 640,1264 653,1258 669,1258 686,1264 735,1265 748,1259 791,1259 810,1264 810,1274 748,1275 735,1281 723,1281 723,1275 700,1275 700,1281 687,1281 686,1275 513,1273 424,1278 352,1273 199,1273 194,1267 186,1273 126,1273" />
+				<Baseline points="126,1273 336,1272 810,1275" />
+				<TextEquiv index="1">
+					<Unicode>und Neubauten des Domes 1500 dieses Portal als Eingang in das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l37" custom="readingOrder {index:37;}">
+				<Coords points="126,1289 146,1289 147,1283 179,1283 202,1283 203,1290 229,1283 245,1283 247,1289 307,1289 308,1283 319,1283 340,1283 361,1289 432,1289 432,1283 444,1283 445,1289 466,1283 468,1283 509,1288 523,1287 574,1290 626,1285 639,1285 682,1290 705,1284 722,1287 776,1290 776,1284 789,1284 789,1291 810,1290 810,1300 800,1301 735,1301 710,1301 672,1301 586,1301 361,1298 339,1285 339,1299 229,1299 206,1293 202,1298 184,1299 135,1299 126,1297" />
+				<Baseline points="126,1299 522,1299 810,1301" />
+				<TextEquiv index="1">
+					<Unicode>südliche Kreuzschiff verwendet, mit einem daran stossenden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l38" custom="readingOrder {index:38;}">
+				<Coords points="128,1309 143,1309 145,1315 283,1315 283,1309 295,1309 295,1315 318,1315 319,1309 331,1309 332,1316 398,1315 399,1309 410,1309 431,1315 435,1308 467,1308 468,1314 489,1314 500,1310 536,1310 536,1316 565,1316 565,1310 570,1310 571,1316 583,1316 583,1310 589,1310 589,1316 600,1311 657,1316 671,1310 684,1310 684,1316 705,1316 719,1309 789,1309 801,1314 811,1315 811,1325 583,1327 565,1332 552,1332 552,1326 536,1326 536,1332 530,1332 511,1326 252,1324 232,1330 221,1330 128,1325" />
+				<Baseline points="128,1325 811,1325" />
+				<TextEquiv index="1">
+					<Unicode>Kreuzgang verbunden und dadurch zugleich vor den Unbilden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l39" custom="readingOrder {index:39;}">
+				<Coords points="127,1335 138,1335 139,1343 158,1341 173,1335 194,1335 215,1339 272,1342 310,1341 310,1335 345,1335 347,1341 358,1336 392,1335 404,1340 423,1341 424,1334 435,1334 437,1340 457,1338 468,1342 487,1336 492,1336 504,1341 541,1342 611,1342 611,1336 623,1336 643,1339 712,1341 712,1335 724,1335 736,1340 736,1348 767,1335 777,1335 777,1341 788,1338 812,1339 812,1352 777,1352 777,1358 767,1358 740,1351 660,1353 580,1352 580,1358 567,1358 549,1352 347,1351 345,1357 337,1357 324,1351 127,1351" />
+				<Baseline points="127,1351 812,1351" />
+				<TextEquiv index="1">
+					<Unicode>der Witterung auf Jahrhunderte hinaus geschützt wurde. Jetzt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>In der Einleitung gab der Vortragende einige historische
+ging, vertheilte er zuvor seine Besitzungen unter seine Söhne;
+so erhielt Otto das Markgrafenthum Meissen und Dedo die
+Grafschaft Rochlitz. Letzterer gründete 1174 das Kloster Zschillen,
+ersterer 1162 Kloster Zelle (später Altenzelle genannt), dessen
+die nach Böhmen zu gelegenen Urwälder umfasste; diese waren
+nur an wenigen lichten Stellen bewohnt und wurden nun weiter
+ausgerottet. Damals oder kurz vorher entstanden an einem in
+die Mulde fliessenden Bach die Dörfer Lossnitz und Christians-
+Otto wurde vom Kaiser mit dem Bergbauregal belehnt und liess
+die aufgefundenen Erzquellen mit Eisen bearbeiten. Bereits
+umgeben und daselbst eine Burg errichtet haben. Diese neue
+Stadt erhielt von den ihr ertheilten Privilegien den Namen
+„Freiberg.“ Wahrscheinlich hat Markgraf Otto, der später den
+Beinamen „der Reiche“ erhielt, nach Vollendung des Klosters
+Zelle mehr Mittel zum Bau Freibergs verwendet und die erste
+Kirche dort gegründet; dies ist jedenfalls die Frauenkirche ge-
+wesen, zu der die noch heute vorhandene goldene Pforte gehörte.
+Diese ursprüngliche Frauenkirche brannte 1484 nieder und wurde
+unter Herzog Albrecht von Meissen wieder aufgebaut, wobei
+vorhandene Mauertheile benutzt und die glücklicherweise vom
+Brand verschont gebliebene goldene Pforte ihr einverleibt wurde.
+Gleichzeitig wurde damit ein vom Papst Sixtus IV. bestätigtes
+Domstift verbunden. Die Entstehungszeit der goldenen Pforte,
+äusserst reich gestalteten Portals, ist ungewiss, dürfte aber spä-
+testens in das zweite Viertel des 13. Jahrhunderts zu setzen sein.
+Die Zeitbestimmung wird durch jeden Mangel an Vergleichungs-
+punkten erschwert, da sie in Bezug auf plastischen Styl, Reich-
+thum und hohe Auffassung beispiellos dasteht. Die gute
+und Neubauten des Domes 1500 dieses Portal als Eingang in das
+südliche Kreuzschiff verwendet, mit einem daran stossenden
+Kreuzgang verbunden und dadurch zugleich vor den Unbilden
+der Witterung auf Jahrhunderte hinaus geschützt wurde. Jetzt</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="0,0 1000,0 1000,1565 0,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Professor Gottschaldt sprach über „die goldene Pforte
+in Freiberg.“⟦⟧
+⟦⟧
+In der Einleitung gab der Vortragende einige historische
+Notizen: Als Konrad Graf zu Wettin 1156 ins Petersberger Kloster
+ging, vertheilte er zuvor seine Besitzungen unter seine Söhne;
+so erhielt Otto das Markgrafenthum Meissen und Dedo die
+Grafschaft Rochlitz. Letzterer gründete 1174 das Kloster Zschillen,
+ersterer 1162 Kloster Zelle (später Altenzelle genannt), dessen
+prächtige Gebäude 1175 vollendet wurden.
+Dasselbe erhielt einen Landstrich von 800 Hufen, der z. Th.
+die nach Böhmen zu gelegenen Urwälder umfasste; diese waren
+nur an wenigen lichten Stellen bewohnt und wurden nun weiter
+ausgerottet. Damals oder kurz vorher entstanden an einem in
+die Mulde fliessenden Bach die Dörfer Lossnitz und
+Christiansdorf, in deren Nähe man silberhaltiges Bleierz fand. Markgraf
+Otto wurde vom Kaiser mit dem Bergbauregal belehnt und liess
+die aufgefundenen Erzquellen mit Eisen bearbeiten. Bereits
+1175 soll Otto Christiansdorf zu einer Stadt erhoben, mit Mauern
+umgeben und daselbst eine Burg errichtet haben. Diese neue
+Stadt erhielt von den ihr ertheilten Privilegien den Namen
+„Freiberg.“ Wahrscheinlich hat Markgraf Otto, der später den
+Beinamen „der Reiche“ erhielt, nach Vollendung des Klosters
+Zelle mehr Mittel zum Bau Freibergs verwendet und die erste
+Kirche dort gegründet; dies ist jedenfalls die Frauenkirche
+gewesen, zu der die noch heute vorhandene goldene Pforte gehörte.
+Diese ursprüngliche Frauenkirche brannte 1484 nieder und wurde
+unter Herzog Albrecht von Meissen wieder aufgebaut, wobei
+vorhandene Mauertheile benutzt und die glücklicherweise vom
+Brand verschont gebliebene goldene Pforte ihr einverleibt wurde.
+Gleichzeitig wurde damit ein vom Papst Sixtus IV. bestätigtes
+Domstift verbunden. Die Entstehungszeit der goldenen Pforte,
+dieses am südlichen Querschiff des Freiberger Domes befindlichen,
+äusserst reich gestalteten Portals, ist ungewiss, dürfte aber
+spätestens in das zweite Viertel des 13. Jahrhunderts zu setzen sein.
+Die Zeitbestimmung wird durch jeden Mangel an
+Vergleichungspunkten erschwert, da sie in Bezug auf plastischen Styl,
+Reichthum und hohe Auffassung beispiellos dasteht. Die gute
+Erhaltung ist dem Umstande zuzuschreiben, dass bei den Um-
+und Neubauten des Domes 1500 dieses Portal als Eingang in das
+südliche Kreuzschiff verwendet, mit einem daran stossenden
+Kreuzgang verbunden und dadurch zugleich vor den Unbilden
+der Witterung auf Jahrhunderte hinaus geschützt wurde. Jetzt
+-->
+	</Page>
+</PcGts>

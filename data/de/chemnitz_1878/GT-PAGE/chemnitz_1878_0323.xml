@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:37:15</Created>
+		<LastChange>2026-11-23T14:37:15</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/323 revision 4806617 of 2026-01-14T08:43:53Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0323.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro17475293461618921719" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="15" regionRef="r15" />
+				<RegionRefIndexed index="16" regionRef="r16" />
+				<RegionRefIndexed index="17" regionRef="r17" />
+				<RegionRefIndexed index="18" regionRef="r18" />
+				<RegionRefIndexed index="19" regionRef="r19" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="688,439 789,439 789,455 688,455" />
+			<!-- line left out: id="r0l0" points="688,439 710,439 710,445 769,440 789,440 789,455 695,455 688,454" baseline="688,454 721,454 789,455" reason: differs: "iemF" against "köni" | Wikisource:  | next_nc_e1: iem Fisch
+ | german_print2_15: lem Fisch
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="679,465 789,465 789,508 679,508" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="679,465 682,465 693,472 789,472 789,481 739,481 693,481 679,469" />
+				<Baseline points="679,481 789,481" />
+				<TextEquiv index="1">
+					<Unicode>lomäus an</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="721,492 770,492 780,498 789,498 789,508 770,508 731,508 721,507" />
+				<Baseline points="721,507 789,508" />
+				<TextEquiv index="1">
+					<Unicode>Farben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>lomäus an
+Farben</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="742,545 786,545 786,587 742,587" />
+			<!-- line left out: id="r2l0" points="759,545 770,545 772,555 784,552 786,552 786,561 784,561 770,560 759,560" baseline="759,559 786,561" reason: differs: "der" against "arbe" | Wikisource:  | next_nc_e1: der | german_print2_15: der -->
+			<!-- line left out: id="r2l1" points="742,578 768,578 782,578 782,587 768,587 742,587" baseline="742,587 782,586" reason: differs: "asie" against "an, j" | Wikisource:  | next_nc_e1: a sie
+ | german_print2_15: a sie
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="709,598 789,598 789,613 709,613" />
+			<!-- line left out: id="r3l0" points="709,607 715,607 736,598 739,598 758,598 768,605 778,605 789,607 789,611 778,613 736,613 709,610" baseline="709,613 789,613" reason: second model: differs: "sAlt" against "ren " | Wikisource: s Altars | next_nc_e1: s Altars
+ | german_print2_15: s Altars
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="711,914 790,914 790,930 711,930" />
+			<!-- line left out: id="r4l0" points="711,914 715,914 729,916 731,924 740,923 751,915 755,915 758,921 777,918 780,918 790,923 790,928 784,928 777,922 767,930 729,930 719,930 711,929" baseline="711,929 790,928" reason: differs: "Bisc" against "von " | Wikisource:  | next_nc_e1: Bischoſs
+ | german_print2_15: Bischofs
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="665,941 783,941 783,962 665,962" />
+			<!-- line left out: id="r5l0" points="665,946 713,941 727,941 735,947 746,947 775,945 783,945 783,956 775,956 773,962 761,962 759,956 665,956" baseline="665,955 783,956" reason: second model: differs: "imKamp" against "im Erdm" | Wikisource: im Kampfe | next_nc_e1: im Kampfe
+ | german_print2_15: im Kampfe
+ -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="156,966 783,966 783,1003 156,1003" />
+			<!-- line left out: id="r6l0" points="669,966 681,966 683,974 694,972 731,966 746,966 748,975 761,973 775,971 783,971 783,982 775,982 773,988 761,988 752,980 746,982 731,982 681,981 669,981" baseline="669,981 709,981 783,982" reason: second model: differs: "demK" against "arsc" | Wikisource: dem Kopfe | next_nc_e1: dem Kopfe | german_print2_15: dem Kopfe -->
+			<!-- line left out: id="r6l1" points="156,993 165,993 165,1003 156,1003" baseline="156,1001 165,1001" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: B
+ | german_print2_15: B
+ -->
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="101,1014 161,1014 161,1029 101,1029" />
+			<!-- line left out: id="r7l0" points="101,1020 134,1015 145,1014 161,1014 161,1029 117,1029 101,1029" baseline="101,1029 161,1029" reason: differs: "mMu" against "hofs" | Wikisource:  | next_nc_e1: m Mu
+ | german_print2_15: m Mu
+ -->
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="689,992 791,992 791,1009 689,1009" />
+			<TextLine id="r8l0" custom="readingOrder {index:0;}">
+				<Coords points="689,999 698,999 701,992 705,992 727,992 752,992 764,992 782,993 789,1004 791,1004 791,1006 764,1009 727,1009 698,1009 689,1009" />
+				<Baseline points="689,1009 791,1008" />
+				<TextEquiv index="1">
+					<Unicode>gleichfalls</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>gleichfalls</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {3;}">
+			<Coords points="983,980 994,980 994,1068 983,1068" />
+			<!-- line left out: id="r9l0" points="983,980 994,980 994,1068 983,1068" baseline="991,1068 990,980" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: —
+ | german_print2_15: —
+ -->
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {3;}">
+			<Coords points="980,1078 989,1078 989,1085 980,1085" />
+			<!-- line left out: id="r10l0" points="980,1078 989,1078 989,1085 980,1085" baseline="988,1085 988,1078" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 3
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="69,1078 149,1078 149,1093 69,1093" />
+			<TextLine id="r11l0" custom="readingOrder {index:0;}">
+				<Coords points="69,1078 86,1078 113,1078 149,1078 149,1093 93,1093 86,1093 69,1092" />
+				<Baseline points="69,1092 149,1093" />
+				<TextEquiv index="1">
+					<Unicode>Oelbild</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Oelbild</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="702,1081 790,1081 790,1097 702,1097" />
+			<!-- line left out: id="r12l0" points="702,1089 707,1081 720,1081 741,1081 743,1087 754,1087 760,1090 768,1081 790,1081 790,1097 720,1097 707,1097 702,1093" baseline="702,1096 790,1097" reason: second model: differs: "pend" against "auf " | Wikisource: bendmahl | next_nc_e1: vendmahl
+ | german_print2_15: pendmahl
+ -->
+		</TextRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="71,1135 283,1135 283,1153 71,1153" />
+			<TextLine id="r13l0" custom="readingOrder {index:0;}">
+				<Coords points="71,1135 87,1135 120,1135 130,1141 154,1136 189,1136 203,1141 244,1137 283,1137 283,1151 203,1153 192,1153 154,1150 71,1149" />
+				<Baseline points="71,1148 283,1151" />
+				<TextEquiv index="1">
+					<Unicode>Ovales Oelgemälde</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Ovales Oelgemälde</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="148,1138 790,1138 790,1168 148,1168" />
+			<!-- line left out: id="r14l0" points="682,1151 698,1151 701,1144 705,1144 739,1142 745,1139 749,1139 751,1147 763,1144 773,1144 781,1138 790,1138 790,1154 773,1154 763,1154 749,1153 724,1154 705,1154 701,1154 682,1153" baseline="682,1153 790,1154" reason: differs: "lars" against "auf " | Wikisource:  | next_nc_e1: larstellend, | german_print2_15: darstellend, -->
+			<!-- line left out: id="r14l1" points="148,1160 152,1160 167,1166 169,1166 169,1168 167,1168 148,1167" baseline="148,1167 169,1168" reason: models differ | Wikisource: er | next_nc_e1: er
+ | german_print2_15: der
+ -->
+		</TextRegion>
+		<TextRegion id="r15" custom="readingOrder {index:15;} orientation {0;}">
+			<Coords points="190,1157 251,1157 251,1185 190,1185" />
+			<TextLine id="r15l0" custom="readingOrder {index:0;}">
+				<Coords points="190,1166 206,1165 210,1173 232,1165 235,1157 246,1157 251,1169 251,1173 246,1185 235,1185 232,1176 210,1175 206,1167 199,1170 190,1170" />
+				<Baseline points="190,1175 251,1176" />
+				<TextEquiv index="1">
+					<Unicode>St. Jac</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>St. Jac</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r16" custom="readingOrder {index:16;} orientation {0;}">
+			<Coords points="70,1218 244,1218 244,1235 70,1235" />
+			<TextLine id="r16l0" custom="readingOrder {index:0;}">
+				<Coords points="70,1219 95,1219 109,1223 132,1223 187,1221 197,1218 215,1218 244,1222 244,1232 146,1233 132,1235 121,1235 109,1233 70,1233" />
+				<Baseline points="70,1233 244,1232" />
+				<TextEquiv index="1">
+					<Unicode>Glasgemälde di</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Glasgemälde di</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r17" custom="readingOrder {index:17;} orientation {0;}">
+			<Coords points="71,1276 747,1276 747,1293 71,1293" />
+			<!-- line left out: id="r17l0" points="71,1276 86,1276 129,1276 144,1276 160,1281 166,1288 197,1280 206,1280 284,1287 296,1280 300,1280 383,1281 409,1281 437,1281 454,1281 516,1284 669,1289 722,1277 730,1276 747,1276 747,1291 612,1292 580,1292 497,1289 494,1289 454,1283 443,1283 442,1291 437,1293 398,1293 398,1284 384,1285 383,1285 383,1293 354,1293 353,1287 300,1290 284,1290 206,1284 197,1284 170,1292 166,1292 139,1291 71,1290" baseline="71,1290 348,1290 747,1291" reason: differs: "Cruc" against "e Au" | Wikisource:  | next_nc_e1: Crucifix, S ad schriftplatt de nera v Wi
+ | german_print2_15: Crucifix, S 1d schriftplatt de- nera v Wi
+ -->
+		</TextRegion>
+		<TextRegion id="r18" custom="readingOrder {index:18;} orientation {0;}">
+			<Coords points="102,1303 792,1303 792,1345 102,1345" />
+			<!-- line left out: id="r18l0" points="102,1315 125,1306 140,1306 163,1306 163,1313 639,1309 664,1308 675,1308 716,1303 727,1303 728,1310 741,1309 751,1309 752,1303 769,1303 792,1308 792,1319 685,1319 675,1319 163,1321 140,1321 105,1321 102,1321" baseline="102,1316 125,1316 716,1317 792,1319" reason: differs: "†176" against "ter " | Wikisource:  | next_nc_e1: † 1769, nitz. Sämmt- | german_print2_15: †1769, nnitz. Sämmt- -->
+			<!-- line left out: id="r18l1" points="162,1330 173,1328 182,1328 645,1329 653,1336 665,1334 681,1329 714,1329 716,1336 728,1334 760,1333 763,1329 770,1329 784,1330 786,1339 792,1339 792,1342 784,1345 764,1345 633,1345 173,1342 162,1339" baseline="162,1342 181,1342 792,1345" reason: differs: "GePl" against "lich" | Wikisource:  | next_nc_e1: Ge Platte hat fol-
+ | german_print2_15: Ge Platte hat fol-
+ -->
+		</TextRegion>
+		<TextRegion id="r19" custom="readingOrder {index:19;} orientation {0;}">
+			<Coords points="394,1540 658,1540 658,1568 394,1568" />
+			<!-- line left out: id="r19l0" points="394,1549 406,1549 434,1549 443,1549 456,1549 469,1549 499,1549 533,1549 533,1540 547,1540 547,1549 658,1549 658,1560 547,1560 547,1568 533,1568 533,1560 511,1560 499,1560 485,1560 452,1561 443,1561 426,1561 414,1560 394,1560" baseline="394,1558 658,1558" reason: differs: "hupe" against "at f" | Wikisource:  | next_nc_e1: hupe digital slub-dresden de ppn301259842323
+ | german_print2_15: üPGGtal sub dresden de ppn01239642323
+ -->
+		</TextRegion>
+		<GraphicRegion id="r20">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+königlichen Museums in Berlin, Dr. Waagen, bei seiner
+Anwesenheit in Chemnitz i. J. 1839 mitgetheilt wurde, aus grossen
+in Holz geschnitzten und bemalten Figuren, die in den Ofen
+gewandert sind. Ihre Stelle wurde im 18. Jahrhundert durch die
+jetzt noch in der Jacobikirche befindliche „Auferstehung“ von
+Oeser ersetzt, an deren Rückseite man die Tafeln befestigte.
+Waagen sagt in seiner Schrift: „Kunstwerke und Künstler
+im Erzgebirge und in Franken, Leipzig 1843“ über dieselben:
+„Die Heiligen Franz von Assisi und Ulrich mit dem Fisch
+sind in ganzen kräftigen Farben, Petrus und Bartholomäus an
+den äusseren Seiten mehr in gebrochenen und hellen Farben
+durchgeführt. Die Gestalten sind edel, die Charaktere würdig,
+die Hände gut bewegt. Jedenfalls gehören diese Bilder der
+fränkischen Schule gegen Ende des 15. Jahrhunderts an, ja sie
+zeigen soviel Verwandtschaft zu den grossen Figuren des Altars
+von Schwabach, dass ich sehr geneigt bin, sie dem Wohlgemuth
+beizumessen, dessen Altar in Zwickau ihm vielleicht auch diesen
+Auftrag verschafft haben möchte. (?)
+„Sollte dieser Künstler nicht selbst der Maler des Altares
+sein, so wäre letzterer jedenfalls als eine vorzügliche Leistung
+der Schule Wohlgemuth’s anzuerkennen.
+„Insbesondere können die durch grossartige Anordnung der
+Gewänder und Feinheit der Charakteristik in den Köpfen
+ausgezeichneten Figuren der Apostel Petrus und Bartholomäus
+als würdige Vorgänger Dürer’scher Apostelgestalten bezeichnet
+werden.“
+Trefflich durchgebildet ist die würdige Gestalt des Bischofs
+Ulrich, des tapfern Vertheidigers von Augsburg im Kampfe
+gegen die Ungarn i. J. 955. Der Kopf ähnelt dem Kopfe
+eines Bischofs im Erdmannsdorfer Altarschrein, welcher gleichfalls
+im Museum aufgestellt ist.
+Von dem Kirchenvorstand zu St. Jacobi gegen Revers überlassen.
+Oelbild auf Holz, Christus und die zwölf Apostel beim Abendmahl
+darstellend, mit der Jahrzahl 1510.
+Ovales Oelgemälde auf Holz, die Anbetung der Hirten darstellend,
+aus der St. Jacobikirche zu Chemnitz. 18. Jahrhundert.
+Eigenthum des Vereins Kunsthütte zu Chemnitz, gegen Revers überlassen.
+Glasgemälde die Auferstehung darstellend.
+Eigenthum der Kunsthütte, dem Verein gegen Revers überlassen.
+Crucifix, Sarg und Inschriftplatte des Generals von Wilster
+† 1769, begraben in der Jacobikirche zu Chemnitz.
+Sämmtliche Gegenstände sind aus Blei gegossen, die Platte hat
+folgende Inschrift:
+-->
+	</Page>
+</PcGts>

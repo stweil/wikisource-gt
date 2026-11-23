@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:49:26</Created>
+		<LastChange>2026-11-23T13:49:26</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/97 revision 5018457 of 2026-08-22T06:56:00Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0097.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro1910413096947529889" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="470,751 583,751 583,767 470,767" />
+			<!-- line left out: id="r0l0" points="470,757 478,754 482,754 499,757 509,760 514,751 518,751 521,758 540,758 545,752 557,752 573,756 580,764 583,764 583,766 533,766 499,767 488,767 470,766" baseline="470,766 583,766" reason: differs: "itgl" against ", Ar" | Wikisource:  | next_nc_e1: itglieder.
+ | german_print2_15: itglieder.
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="524,783 716,783 716,798 524,798" />
+			<!-- line left out: id="r1l0" points="524,784 528,784 573,783 606,783 656,787 667,786 680,786 705,784 716,784 716,798 705,798 680,797 638,797 606,798 524,798" baseline="524,798 716,798" reason: differs: "InHi" against "ner," | Wikisource:  | next_nc_e1: In Hilbersdorf.
+ | german_print2_15: In Hilbersdorf.
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="562,1080 720,1080 720,1095 562,1095" />
+			<!-- line left out: id="r2l0" points="562,1081 575,1080 592,1080 661,1084 668,1086 672,1080 685,1080 720,1081 720,1095 710,1095 685,1094 664,1094 643,1093 628,1094 592,1095 575,1095 562,1094" baseline="562,1094 720,1095" reason: differs: "Meine" against "Masch" | Wikisource:  | next_nc_e1: Meinersdorf.
+ | german_print2_15: Meinersdorf.
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="625,1115 707,1115 707,1125 625,1125" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="625,1115 664,1115 689,1115 700,1115 707,1116 707,1125 680,1125 664,1125 633,1125 625,1124" />
+				<Baseline points="625,1124 707,1125" />
+				<TextEquiv index="1">
+					<Unicode>ullehrer.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ullehrer.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="547,1244 699,1244 699,1261 547,1261" />
+			<!-- line left out: id="r4l0" points="547,1245 553,1245 589,1244 594,1244 612,1245 612,1252 624,1249 639,1245 651,1245 661,1246 677,1244 690,1244 690,1250 699,1250 699,1261 677,1261 612,1260 547,1259" baseline="547,1259 589,1259 699,1261" reason: differs: "InRo" against "Webe" | Wikisource:  | next_nc_e1: In Rochlitz.
+ | german_print2_15: In Rochlitz.
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="494,1274 659,1274 659,1291 494,1291" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="494,1280 525,1279 552,1274 568,1274 569,1282 599,1279 612,1281 648,1281 659,1283 659,1291 614,1291 494,1289" />
+				<Baseline points="494,1289 659,1291" />
+				<TextEquiv index="1">
+					<Unicode>rich, Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>rich, Kaufmann.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="0,0 1000,0 1000,1565 0,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Dr. Wächter, Arzt.
+Wagner, Franz, Architekt.
+Wagner, Rich., Maschinenfabr.
+Waldau, Kaufmann.
+Walther, Gewerbschullehrer.
+Weber, Louis, Kaufmann.
+Webers, Herm., Kaufmann.
+† Wechsler, Oekonom u. Bankier.
+Wehle, Kamillo, Kaufmann.
+Dr. Weicker, Arzt.
+Weicker, Archidiakonus.
+Weidig, Th., Schuhmachermstr.
+°° Weigand, Lothar, Turnlehrer, Branddirektor.
+°° Weilbrenner, Möbelhändler.
+Weiser, Kirchner em.
+† Wenig, pens. Hausmeister.
+Wiede, Buchdruckereibesitzer.
+Wiede, Ed., Kaufmann.
+° Wiede, Otto, Kaufmann.
+Wiesbach, Referendar.
+Wilhelm, Fr., Kaufmann.
+Winter, Buchhändler.
+Winter, C., Partikulier.
+Winter, Restaurateur.
+Wust, L., Kaufmann.
+Zenker, Eisengiessereibesitzer.
+Zettler, Realschuloberlehrer.
+°° Zeuner, F., Kaufmann.
+° von Zimmermann, Kommerzienrath, Ritter.
+°° Dr. Zimmermann, Realschuloberlehrer.
+Zipper, Partikulier u. Stadtrath.
+Dr. Zwicker, Arzt, Ritter.
+Gefe, Brauereibesitzer.
+Schmiedel, Bäckermeister.
+Hilpert, Billeteur.
+Wagner, Br., Stiftspfarrer.
+Felber, Cl. J., Steinmetzmeister.
+Haupt, Pastor.
+Erler, Steinmetzmeister.
+Müller, Steinmetzmeister.
+Pötzsch, Steinmetzmeister.
+Uhlig, Restaurateur.
+Weber, Brauereibesitzer.
+Weber, Steinmetzmeister.
+°° Otto, Alb., Baumeister
+Seydel, Kirchschullehrer.
+Dr. Müller, Rechtsanwalt.
+Hedrich, Kaufmann.
+-->
+	</Page>
+</PcGts>

@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:57:41</Created>
+		<LastChange>2026-11-23T13:57:41</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/236 revision 5069872 of 2026-10-06T22:46:10Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0236.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro4860424342354258038" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="17" regionRef="r17" />
+				<RegionRefIndexed index="18" regionRef="r18" />
+				<RegionRefIndexed index="19" regionRef="r19" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,328 25,328 25,446 0,446" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="573,147 593,147 593,162 573,162" />
+			<!-- line left out: id="r1l0" points="573,147 584,147 593,148 593,162 573,162" baseline="573,162 593,162" reason: differs: "24" against "lspa" | Wikisource:  | next_nc_e1: 24
+ | german_print2_15: 24
+ -->
+		</TextRegion>
+		<GraphicRegion id="r2">
+			<Coords points="0,0 1000,0 1000,144 0,144" />
+		</GraphicRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="248,199 917,199 917,239 248,239" />
+			<!-- line left out: id="r3l0" points="248,199 282,199 287,209 327,209 398,209 443,210 488,211 513,202 537,202 542,211 599,211 627,202 658,202 662,212 741,212 768,214 774,204 796,204 800,214 839,214 844,205 888,205 917,208 917,235 888,235 875,234 844,234 818,233 796,234 774,234 682,232 638,235 627,235 560,231 542,231 423,230 398,239 365,239 365,229 300,229 287,229 248,228" baseline="248,228 598,230 627,231 917,235" reason: differs: "Ausz" against ""tex" | Wikisource:  | next_nc_e1: Auszug aus dem Kassenbericht
+ | german_print2_15: Auszug aus dem Kassenbericht
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="491,242 678,242 678,275 491,275" />
+			<!-- line left out: id="r4l0" points="491,242 506,242 529,245 532,252 549,252 574,243 591,242 659,242 678,243 678,275 633,275 619,274 529,273 507,273 491,271" baseline="491,272 574,272 678,273" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: für 1883.
+ | german_print2_15: für 1883.
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="500,312 676,312 676,328 500,328" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="500,312 515,312 619,313 643,317 676,318 676,328 596,328 584,328 500,327" />
+				<Baseline points="500,327 676,328" />
+				<TextEquiv index="1">
+					<Unicode>Einnahme.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Einnahme.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="229,349 417,349 417,418 229,418" />
+			<!-- line left out: id="r6l0" points="231,349 246,349 253,355 267,355 299,356 301,350 306,350 309,357 317,357 334,355 339,355 366,351 375,351 375,366 334,366 306,364 299,365 289,365 267,364 251,365 231,365" baseline="231,365 375,366" reason: differs: "Kass" against "⟦⟧ ⟦" | Wikisource:  | next_nc_e1: Kassenbestand | german_print2_15: Kassenbestand -->
+			<!-- line left out: id="r6l1" points="229,379 241,379 247,380 272,381 303,382 323,385 325,376 335,376 343,382 365,377 382,377 398,382 406,384 406,388 398,392 346,392 343,392 272,391 247,391 242,391 229,390" baseline="229,390 345,391 406,392" reason: differs: "Steu" against "| st" | Wikisource:  | next_nc_e1: Steuern der Mitg | german_print2_15: Steuern der Mitg -->
+			<!-- line left out: id="r6l2" points="229,404 240,402 251,402 260,410 270,410 278,402 289,402 290,410 302,408 308,402 324,402 340,411 344,411 359,409 369,409 388,412 403,406 417,406 417,418 369,418 324,418 308,418 302,411 289,417 278,417 251,416 240,416 229,414" baseline="229,416 387,416 403,417 417,418" reason: differs: "Gesc" against "p:hi" | Wikisource:  | next_nc_e1: Geschenk eines G
+ | german_print2_15: Geschenk eines G
+ -->
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="228,428 413,428 413,445 228,445" />
+			<!-- line left out: id="r7l0" points="228,431 240,431 253,428 258,428 261,434 273,434 295,432 306,432 314,428 328,428 328,434 337,434 356,437 359,428 368,428 377,435 397,429 413,429 413,445 397,445 337,444 314,444 289,443 273,442 252,443 242,443 228,442" baseline="228,442 352,443 413,444" reason: differs: "Subv" against "lign" | Wikisource:  | next_nc_e1: Subvention der St
+ | german_print2_15: Subvention der St
+ -->
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="399,377 483,377 483,419 399,419" />
+		</GraphicRegion>
+		<GraphicRegion id="r9">
+			<Coords points="419,425 530,425 530,451 419,451" />
+		</GraphicRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="231,454 525,454 525,471 231,471" />
+			<!-- line left out: id="r10l0" points="231,454 235,454 246,460 254,454 258,454 261,462 272,462 295,461 307,460 318,460 348,461 369,461 373,455 384,455 391,461 403,458 415,458 423,459 446,461 462,455 467,455 479,456 481,463 493,462 504,462 525,462 525,471 504,471 423,471 418,471 365,470 348,469 318,470 307,470 295,469 272,467 258,468 249,469 231,469" baseline="231,469 295,469 525,471" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Erlös aus verkauften Plänen
+ | german_print2_15: Erlös aus verkauften Plänen
+ -->
+		</TextRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="228,480 290,480 290,495 228,495" />
+			<!-- line left out: id="r11l0" points="228,480 241,480 260,485 269,487 282,485 290,485 290,495 260,495 228,495" baseline="228,495 290,495" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Zinsen
+ | german_print2_15: Zinsen
+ -->
+		</TextRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="229,550 661,550 661,654 229,654" />
+			<TextLine id="r12l0" custom="readingOrder {index:0;}">
+				<Coords points="509,550 525,550 548,554 627,551 631,557 661,556 661,566 627,566 590,569 578,569 568,563 548,565 509,565" />
+				<Baseline points="509,565 661,566" />
+				<TextEquiv index="1">
+					<Unicode>Ausgabe.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r12l1" points="229,583 246,583 250,589 267,588 272,588 301,589 310,592 396,598 430,598 430,600 396,600 301,599 272,599 239,599 229,599" baseline="229,599 309,598 398,599 430,600" reason: differs: "Miet" against "⟦⟧ ⟦" | Wikisource:  | next_nc_e1: Mietzins . . | german_print2_15: Mietzins . . . -->
+			<!-- line left out: id="r12l2" points="230,609 234,609 254,611 265,615 273,609 288,609 302,617 309,609 319,609 321,617 333,617 347,610 359,610 373,617 378,617 385,610 397,610 400,617 411,617 413,611 422,611 424,617 435,617 441,618 476,617 490,617 515,618 533,612 538,612 556,613 559,619 569,619 598,618 630,618 630,628 613,633 605,633 598,628 569,627 538,629 533,629 499,627 490,625 441,626 413,626 411,632 400,632 397,626 385,626 378,625 365,626 360,626 319,625 288,625 273,625 265,624 230,624" baseline="230,624 287,624 476,625 630,628" reason: differs: "Druc" against "yle=" | Wikisource:  | next_nc_e1: Druck des Stadtplanes vom Jahre 1761 | german_print2_15: Druck des Stadtplanes vom Jahre 1761 -->
+			<!-- line left out: id="r12l3" points="229,635 234,635 251,638 259,641 280,641 302,643 319,635 332,635 334,647 345,644 356,637 367,637 392,642 417,643 437,643 437,653 417,654 400,654 356,652 332,651 319,651 302,645 297,650 280,651 251,651 229,651" baseline="229,650 437,652" reason: differs: "Dive" against "n:ce" | Wikisource:  | next_nc_e1: Diverse Rechnungen
+ | german_print2_15: Diverse Rechnungen
+ -->
+			<TextEquiv index="1">
+				<Unicode>Ausgabe.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="490,717 668,717 668,733 490,733" />
+			<TextLine id="r13l0" custom="readingOrder {index:0;}">
+				<Coords points="490,717 530,717 540,725 558,724 573,717 585,717 602,718 640,724 640,717 658,717 658,724 668,724 668,733 640,733 490,732" />
+				<Baseline points="490,732 668,733" />
+				<TextEquiv index="1">
+					<Unicode>Abschluss.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Abschluss.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="416,752 677,752 677,796 416,796" />
+			<!-- line left out: id="r14l0" points="416,752 429,752 430,758 453,758 496,758 499,752 501,752 537,765 567,765 596,753 612,753 621,760 627,756 646,756 677,758 677,773 671,773 601,768 563,768 416,767" baseline="416,767 596,766 677,769" reason: differs: "Einn" against "| st" | Wikisource:  | next_nc_e1: Einnahme . . Mark 27. | german_print2_15: Einnahme . . Mark 27. -->
+			<TextLine id="r14l1" custom="readingOrder {index:1;}">
+				<Coords points="421,779 430,779 452,784 460,779 482,779 486,786 491,786 491,792 474,796 454,796 421,793" />
+				<Baseline points="421,793 491,792" />
+				<TextEquiv index="1">
+					<Unicode>Ausgabe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Ausgabe</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r15">
+			<Coords points="681,760 692,760 692,774 681,774" />
+		</GraphicRegion>
+		<GraphicRegion id="r16">
+			<Coords points="661,780 700,780 700,798 661,798" />
+		</GraphicRegion>
+		<TextRegion id="r17" custom="readingOrder {index:17;} orientation {0;}">
+			<Coords points="595,810 708,810 708,830 595,830" />
+			<!-- line left out: id="r17l0" points="595,810 617,810 619,816 630,816 635,810 643,810 672,819 680,815 692,815 708,820 708,830 684,830 643,825 606,825 595,823" baseline="595,823 708,825" reason: differs: "Mark" against "|| „" | Wikisource:  | next_nc_e1: Mark 974.
+ | german_print2_15: Mark 974.
+ -->
+		</TextRegion>
+		<TextRegion id="r18" custom="readingOrder {index:18;} orientation {0;}">
+			<Coords points="422,1528 658,1528 658,1540 422,1540" />
+			<!-- line left out: id="r18l0" points="422,1533 430,1531 443,1528 456,1528 469,1528 479,1528 494,1528 525,1528 542,1528 646,1528 657,1528 658,1529 658,1537 657,1539 566,1539 551,1539 479,1537 441,1540 430,1540 422,1536" baseline="422,1537 658,1537" reason: differs: "eita" against ". ||" | Wikisource:  | next_nc_e1: eital slub dresden de ppn015088422365
+ | german_print2_15: enhfelubdueden de poneoisoee2236
+ -->
+		</TextRegion>
+		<TextRegion id="r19" custom="readingOrder {index:19;} orientation {0;}">
+			<Coords points="778,354 826,354 826,370 778,370" />
+			<!-- line left out: id="r19l0" points="778,355 789,354 794,354 803,361 813,361 826,362 826,370 819,370 789,369 778,368" baseline="778,368 826,370" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Mark
+ | german_print2_15: Mark
+ -->
+		</TextRegion>
+		<GraphicRegion id="r20">
+			<Coords points="855,640 892,640 892,654 855,654" />
+		</GraphicRegion>
+		<GraphicRegion id="r21">
+			<Coords points="0,1521 1000,1521 1000,1564 0,1564" />
+		</GraphicRegion>
+		<SeparatorRegion id="r22">
+			<Coords points="962,293 969,293 969,862 962,862" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+| colspan=4 style="text-align:center;" | Einnahme.
+| style="text-align:left;" | Kassenbestand || Mark || ⟦⟧896. || 07.
+| style="text-align:left;" | Steuern der Mitglieder || „ || ⟦⟧870. || –.
+| style="text-align:left;" | Geschenk eines Gönners || „ || ⟦⟧⟦⟧25. || –.
+| style="text-align:left;" | Subvention der Stadtgemeinde || „ || ⟦⟧900. || –.
+| style="text-align:left;" | Erlös aus verkauften Plänen || „ || ⟦⟧⟦⟧22. || –.
+| style="text-align:left;" | Zinsen || „ || ⟦⟧⟦⟧17. || 83.
+| style="border-top:hidden;" | || Mark || 2730. || 90.
+| colspan=7 |
+| colspan=7 style="text-align:center;" | Ausgabe.
+| style="text-align:left;" | Mietzins || Mark || ⟦⟧690. || –.
+| style="text-align:left;" | Druck des Stadtplanes vom Jahre 1761 || „ || ⟦⟧400. || –.
+| style="text-align:left;" | Diverse Rechnungen || „ || ⟦⟧666. || 46.
+| style="border-top:hidden;" | || Mark || 1756. || 46.
+| colspan=4 style="text-align:center;" | Abschluss.
+| style="text-align:left;" | Einnahme || Mark || 2730. || 90.
+| style="text-align:left;" | Ausgabe || „ || 1756. || 46.
+| style="text-align:left; border-top:hidden;" | || Mark || ⟦⟧974. || 44.
+-->
+	</Page>
+</PcGts>

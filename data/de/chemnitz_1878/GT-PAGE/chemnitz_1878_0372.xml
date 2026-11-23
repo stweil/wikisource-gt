@@ -1,0 +1,585 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:40:19</Created>
+		<LastChange>2026-11-23T14:40:19</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/372 revision 4664812 of 2025-11-28T07:46:34Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0372.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro2514117747971943843" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="17" regionRef="r17" />
+				<RegionRefIndexed index="19" regionRef="r19" />
+				<RegionRefIndexed index="20" regionRef="r20" />
+				<RegionRefIndexed index="21" regionRef="r21" />
+				<RegionRefIndexed index="23" regionRef="r23" />
+				<RegionRefIndexed index="25" regionRef="r25" />
+				<RegionRefIndexed index="27" regionRef="r27" />
+				<RegionRefIndexed index="28" regionRef="r28" />
+				<RegionRefIndexed index="30" regionRef="r30" />
+				<RegionRefIndexed index="31" regionRef="r31" />
+				<RegionRefIndexed index="33" regionRef="r33" />
+				<RegionRefIndexed index="35" regionRef="r35" />
+				<RegionRefIndexed index="37" regionRef="r37" />
+				<RegionRefIndexed index="39" regionRef="r39" />
+				<RegionRefIndexed index="41" regionRef="r41" />
+				<RegionRefIndexed index="44" regionRef="r44" />
+				<RegionRefIndexed index="46" regionRef="r46" />
+				<RegionRefIndexed index="48" regionRef="r48" />
+				<RegionRefIndexed index="51" regionRef="r51" />
+				<RegionRefIndexed index="53" regionRef="r53" />
+				<RegionRefIndexed index="54" regionRef="r54" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="564,216 628,216 628,240 564,240" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="251,245 266,245 266,255 251,255" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="196,168 909,168 909,300 196,300" />
+			<!-- line left out: id="r2l0" points="487,177 510,177 540,168 559,168 576,170 609,179 625,179 625,180 559,185 553,185 540,184 510,178 487,178" baseline="487,183 509,183 625,186" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 118 — | german_print2_15: — 118 — -->
+			<!-- line left out: id="r2l1" points="255,215 264,215 283,216 304,222 310,214 320,214 323,221 338,221 356,227 362,216 379,216 382,222 393,222 416,222 440,223 493,218 512,218 548,219 550,227 559,227 609,233 642,232 648,228 659,228 660,221 674,221 696,226 703,228 728,228 755,223 768,223 769,231 781,230 791,230 801,225 813,225 815,231 841,231 852,232 884,234 886,227 896,227 899,233 909,233 909,242 864,244 854,244 815,241 796,240 781,239 768,238 755,238 728,237 703,237 660,237 642,236 548,235 537,235 521,234 501,233 466,233 452,232 393,233 382,233 372,230 310,230 283,229 255,229" baseline="255,229 282,229 356,230 558,234 673,236 755,238 909,242" reason: differs: "thendau" against "theil u" | Wikisource:  | next_nc_e1: Auf den allgemeinen Vorthe nd auf treue Bewahrung der | german_print2_15: Auf den allgemeinen Vorthe id auf treue Bewahrung der -->
+			<!-- line left out: id="r2l2" points="199,239 218,239 220,245 230,245 233,239 244,239 279,239 290,244 327,247 338,245 369,241 375,241 391,244 401,250 410,250 412,243 422,243 424,249 437,249 440,243 443,243 445,251 457,249 464,249 508,250 561,251 581,253 593,250 599,250 644,247 655,247 656,255 667,247 678,247 680,253 691,248 707,248 724,247 726,247 782,249 784,256 807,251 830,251 831,259 843,257 859,257 884,260 886,253 892,253 893,259 907,259 907,268 886,268 843,267 830,266 807,266 767,265 667,263 655,262 616,263 614,263 601,262 593,261 581,259 561,263 549,263 534,261 491,260 457,259 437,258 412,258 391,257 369,257 327,256 322,256 293,249 290,255 220,255 199,254" baseline="199,254 342,256 615,261 725,263 767,264 807,265 880,267 907,268" reason: differs: "Eink" against "g de" | Wikisource:  | next_nc_e1: Einkünfte ist Drechsler unausgesetzt bedacht. Na hdem der | german_print2_15: Einkünfte ist Drechsler unausgesetzt bedacht. Nac hdem der -->
+			<!-- line left out: id="r2l3" points="196,273 209,273 217,265 228,265 230,271 241,271 262,273 264,266 276,266 286,274 298,266 308,266 310,274 319,274 348,267 364,267 365,274 388,274 419,274 430,276 433,269 443,269 445,275 458,274 468,274 524,271 535,271 536,279 547,271 552,271 554,278 566,275 575,271 582,271 584,279 594,279 596,272 630,272 633,281 645,279 705,274 715,274 730,282 741,282 755,276 761,276 783,276 791,285 803,280 813,280 819,285 827,277 830,277 865,278 865,284 873,284 903,285 903,300 890,300 888,291 873,293 827,293 813,292 803,292 789,291 761,293 755,293 730,290 654,289 630,288 616,288 582,287 547,287 536,285 524,282 506,290 498,290 445,285 391,284 365,283 308,282 276,282 264,282 241,281 217,281 205,280 196,278" baseline="196,280 348,282 524,285 714,289 755,290 903,292" reason: models differ | Wikisource: schwedische Commandant 15 Scheffel Korn und 9 Scheffel Tresp | next_nc_e1: schwedische Commandant 15 Scheffel Korn und 9 Scheffel Tre sp
+ | german_print2_15: schwedische Commandant 15 Scheffel Korn und 9 Scheffel Tre spe
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="196,292 442,292 442,340 196,340" />
+			<!-- line left out: id="r3l0" points="197,292 202,292 204,298 215,295 228,295 237,296 267,303 273,292 285,292 304,293 313,301 326,301 326,307 304,308 285,308 273,308 237,307 197,307" baseline="197,307 241,306 326,308" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: hatte abhole | german_print2_15: hatte abhole -->
+			<!-- line left out: id="r3l1" points="196,317 207,317 209,326 221,324 230,322 235,322 287,323 294,324 314,326 314,319 326,319 345,319 348,325 352,325 364,324 369,324 395,326 432,327 442,328 442,337 421,337 386,336 358,335 348,327 345,333 334,335 326,340 314,340 314,333 307,333 297,332 294,340 289,340 287,330 259,334 250,334 221,333 196,332" baseline="196,332 276,333 442,337" reason: differs: "dert" against "n la" | Wikisource:  | next_nc_e1: derten Specification am
+ | german_print2_15: derten Specification am
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="364,294 909,294 909,321 364,321" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="364,294 368,294 370,300 422,301 423,308 447,302 527,297 529,304 558,301 589,307 596,304 652,305 701,300 715,300 717,306 751,304 764,307 839,309 863,311 881,307 900,311 909,315 909,317 900,320 863,321 848,321 839,319 796,318 775,314 764,317 752,317 668,315 652,313 423,312 412,310 364,309" />
+				<Baseline points="364,309 622,313 909,320" />
+				<TextEquiv index="1">
+					<Unicode>lassen, waren laut einer vom Kurfürsten eingefor-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>lassen, waren laut einer vom Kurfürsten eingefor-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="328,299 344,299 344,309 328,309" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="477,318 487,318 487,341 477,341" />
+		</GraphicRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="197,323 909,323 909,398 197,398" />
+			<!-- line left out: id="r7l0" points="493,330 505,323 510,323 513,329 570,328 575,328 581,329 631,329 661,330 673,325 677,325 680,333 688,333 688,325 701,325 707,330 737,327 763,327 763,334 779,334 805,333 846,333 851,337 858,330 862,330 885,330 892,332 895,339 907,331 909,331 909,346 892,346 872,346 858,345 789,344 763,344 748,344 737,342 707,341 680,341 638,340 635,340 613,338 601,338 598,344 594,344 581,335 575,339 544,339 513,338 505,337 493,336" baseline="493,337 570,338 637,339 723,341 805,343 909,346" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: ebruar 1640 51 Scheffel Korn, 65 Scheffel | german_print2_15: ebruar 1640 51 Scheffel Korn, 65 Scheffel
+ -->
+			<!-- line left out: id="r7l1" points="524,356 537,355 550,354 570,350 581,350 583,358 594,356 626,351 630,351 642,352 647,360 654,360 657,351 662,351 675,358 683,358 683,367 657,367 630,366 626,366 581,365 547,365 537,365 524,364" baseline="524,364 570,364 609,365 683,367" reason: differs: "aufd" against "Tres" | Wikisource:  | next_nc_e1: auf dem Boden | german_print2_15: auf dem Boden
+ -->
+			<TextLine id="r7l2" custom="readingOrder {index:2;}">
+				<Coords points="197,370 211,370 221,376 290,377 292,371 302,371 330,376 343,380 362,373 374,373 374,381 385,373 396,373 397,381 413,381 421,374 431,374 489,378 496,384 524,376 536,376 537,383 558,382 578,376 593,376 612,380 671,383 710,383 739,388 742,379 746,379 749,385 760,385 780,388 789,380 799,380 801,389 812,387 858,387 884,391 886,382 896,382 904,389 907,389 907,398 886,398 760,394 578,392 536,390 508,391 197,385" />
+				<Baseline points="197,385 779,394 907,398" />
+				<TextEquiv index="1">
+					<Unicode>Korn und 19 Schock 22 Garben Hafer unausgedroschen in der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Korn und 19 Schock 22 Garben Hafer unausgedroschen in der</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="196,397 490,397 490,416 196,416" />
+			<!-- line left out: id="r8l0" points="196,400 207,400 212,404 219,397 230,397 232,405 243,403 266,403 278,404 293,397 304,397 305,406 323,406 340,398 349,398 356,407 364,404 373,404 388,405 410,405 415,399 419,399 419,408 450,406 456,406 490,407 490,416 468,416 456,415 415,415 406,414 388,413 373,414 364,414 349,412 304,412 266,412 219,412 208,410 196,407" baseline="196,412 293,411 322,411 433,415 450,415 490,416" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: Scheune des Vorwerks vorh
+ | german_print2_15: Scheune des Vorwerks vorh
+ -->
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="195,343 910,343 910,373 195,373" />
+			<!-- line left out: id="r9l0" points="195,343 218,343 222,352 243,350 255,350 296,351 299,345 315,345 373,349 378,354 386,347 390,347 414,347 420,351 433,355 435,348 475,348 496,353 742,356 743,363 754,354 758,354 761,361 769,361 782,362 790,355 798,355 843,359 850,365 862,362 877,357 881,357 885,364 901,363 910,363 910,372 901,372 881,371 830,373 825,373 790,370 769,369 754,369 743,367 507,364 475,364 465,364 414,363 400,363 386,362 374,360 362,357 347,363 338,364 331,364 291,361 280,361 255,358 255,366 243,366 241,357 226,358 218,359 195,359" baseline="195,359 264,359 314,360 506,363 731,368 797,369 839,370 910,372" reason: differs: "Tres" against "ande" | Wikisource:  | next_nc_e1: Trespe und 33 Scheffel Haſer Schock 13 Garben
+ | german_print2_15: Trespe und 33 Scheffel Haſer Schock 13 Garben
+ -->
+		</TextRegion>
+		<GraphicRegion id="r10">
+			<Coords points="687,354 719,354 719,376 687,376" />
+		</GraphicRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="531,402 909,402 909,424 531,424" />
+			<!-- line left out: id="r11l0" points="531,410 542,408 552,408 554,415 588,402 592,402 602,405 613,409 667,404 676,404 683,412 686,412 696,410 709,410 718,409 733,405 742,405 762,406 765,414 775,410 793,410 832,413 877,409 888,409 889,415 903,415 909,419 909,420 903,424 880,424 877,424 845,423 821,422 793,420 785,421 758,421 718,420 696,419 676,418 651,419 641,419 613,418 604,418 592,417 542,417 531,415" baseline="531,417 556,417 667,418 799,420 909,422" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: en. Diesen Vorrath hatte man bis-
+ | german_print2_15: ſen. Diesen Vorrath hatte man bis-
+ -->
+		</TextRegion>
+		<GraphicRegion id="r12">
+			<Coords points="494,403 506,403 506,420 494,420" />
+		</GraphicRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="196,422 909,422 909,476 196,476" />
+			<TextLine id="r13l0" custom="readingOrder {index:0;}">
+				<Coords points="196,422 207,422 215,429 270,429 286,423 298,423 306,430 314,430 330,424 345,424 353,431 369,431 378,425 381,425 396,434 403,425 413,425 420,434 453,434 461,427 472,427 474,433 505,436 507,427 518,427 520,436 533,436 540,428 545,428 547,436 604,431 642,435 666,435 672,438 680,430 690,430 692,436 716,435 775,438 778,432 789,432 791,438 820,439 832,433 842,433 852,440 908,440 908,451 898,451 771,447 574,443 507,443 484,441 461,442 413,440 196,438" />
+				<Baseline points="196,438 441,440 759,446 908,451" />
+				<TextEquiv index="1">
+					<Unicode>her vor der Hand des schwedischen Commandanten wahren können;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r13l1" custom="readingOrder {index:1;}">
+				<Coords points="647,456 657,456 666,462 694,462 746,458 755,466 766,459 777,459 780,467 786,467 797,459 808,459 810,466 843,460 864,460 872,466 909,467 909,476 888,476 881,476 647,471" />
+				<Baseline points="647,471 704,471 909,476" />
+				<TextEquiv index="1">
+					<Unicode>komme theils den Herren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>her vor der Hand des schwedischen Commandanten wahren können;
+komme theils den Herren</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="196,448 563,448 563,478 196,478" />
+			<!-- line left out: id="r14l0" points="196,448 201,448 217,451 222,457 233,456 245,450 248,450 270,450 272,458 284,456 306,450 310,450 312,457 330,455 349,455 449,453 460,453 482,453 515,454 517,460 529,455 548,455 548,449 563,449 563,478 548,478 548,469 504,469 468,468 460,467 449,467 349,465 270,465 257,465 217,464 196,464" baseline="196,463 287,464 375,465 449,467 548,466 563,466" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Drechsler hatte v ben, das G
+ | german_print2_15: Drechsler hatte v ben, das G
+ -->
+		</TextRegion>
+		<GraphicRegion id="r15">
+			<Coords points="390,453 595,453 595,472 390,472" />
+		</GraphicRegion>
+		<GraphicRegion id="r16">
+			<Coords points="591,455 642,455 642,496 591,496" />
+		</GraphicRegion>
+		<TextRegion id="r17" custom="readingOrder {index:17;} orientation {0;}">
+			<Coords points="194,476 908,476 908,505 194,505" />
+			<!-- line left out: id="r17l0" points="194,478 198,478 244,476 258,476 276,476 279,482 300,482 345,482 369,487 371,478 376,478 377,484 388,484 407,484 426,478 431,478 491,479 492,485 503,485 515,486 571,486 687,488 774,490 794,489 799,489 806,490 817,492 821,485 831,485 861,490 868,492 884,493 884,485 898,485 898,493 908,493 908,502 898,505 871,505 833,501 777,500 735,499 706,497 687,498 684,498 571,497 551,497 517,497 479,495 388,493 377,493 335,492 230,491 224,490 215,489 206,489 194,488" baseline="194,489 325,491 546,495 663,497 719,498 770,499 908,502" reason: differs: "Geis" against "erre" | Wikisource:  | next_nc_e1: Geistlichen zu ihrer Be dung zu, sei es zu nothdürftigem
+ | german_print2_15: Geistlichen zu ihrer Be dung zu, sei es zu nothdürftigem
+ -->
+		</TextRegion>
+		<GraphicRegion id="r18">
+			<Coords points="420,564 433,564 433,576 420,576" />
+		</GraphicRegion>
+		<TextRegion id="r19" custom="readingOrder {index:19;} orientation {0;}">
+			<Coords points="192,502 908,502 908,632 192,632" />
+			<TextLine id="r19l0" custom="readingOrder {index:0;}">
+				<Coords points="199,502 209,502 237,502 237,510 253,508 399,510 425,504 442,504 444,511 455,511 469,508 480,508 492,504 524,512 547,512 548,506 558,506 582,513 620,513 666,508 676,516 693,513 704,513 710,518 737,510 740,510 749,518 770,516 770,510 784,510 797,521 823,517 849,518 854,512 858,512 858,523 872,519 908,517 908,528 620,522 582,523 199,517" />
+				<Baseline points="199,516 823,525 908,529" />
+				<TextEquiv index="1">
+					<Unicode>Auskommen seiner Familie und seiner Leute bereits verkauft.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r19l1" custom="readingOrder {index:1;}">
+				<Coords points="199,529 234,528 270,528 272,535 314,533 326,536 341,529 352,529 354,537 366,536 385,530 400,530 401,538 413,536 466,537 474,531 485,531 492,539 499,537 516,537 535,540 538,532 549,532 551,542 584,534 589,534 604,539 657,543 661,534 670,534 678,543 685,543 697,535 706,535 712,544 767,539 769,545 813,543 826,538 830,538 842,543 845,551 863,538 875,538 876,547 887,545 908,545 908,555 900,555 813,552 725,551 706,549 661,549 621,547 499,548 352,544 199,543" />
+				<Baseline points="199,542 908,554" />
+				<TextEquiv index="1">
+					<Unicode>Auch kannte der Commandant die Grösse des Vorraths nicht, denn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r19l2" custom="readingOrder {index:2;}">
+				<Coords points="193,554 204,554 211,560 225,562 238,554 273,554 273,560 296,558 302,562 321,555 333,555 334,562 572,565 604,560 607,566 666,566 720,563 777,568 796,567 828,570 846,568 859,571 878,571 886,565 908,569 908,582 898,582 819,580 796,578 722,577 708,574 689,576 633,577 604,574 570,574 568,568 546,574 321,570 302,564 296,569 284,570 193,569" />
+				<Baseline points="193,569 238,568 908,580" />
+				<TextEquiv index="1">
+					<Unicode>das Meiste davon war an einem verborgenen Orte untergebracht,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r19l3" points="192,580 203,580 205,588 218,586 272,586 319,587 343,587 366,588 384,581 388,581 388,591 400,589 410,589 430,589 431,583 443,583 444,592 448,592 461,597 464,581 484,581 501,590 520,585 536,585 556,586 577,586 605,592 616,592 618,586 628,586 631,592 640,592 648,586 652,586 655,593 659,593 672,592 694,587 707,587 707,596 719,593 732,592 736,592 776,589 798,589 800,600 817,596 843,595 852,595 891,597 907,598 907,608 895,608 840,606 798,606 785,606 760,604 751,604 736,602 729,603 719,603 707,602 672,602 659,601 652,602 648,602 609,601 577,602 556,602 552,602 501,600 457,599 443,598 430,599 425,599 410,598 388,599 384,599 356,597 345,594 343,600 327,600 272,596 246,596 203,595 192,595" baseline="192,594 483,599 694,602 851,605 907,607" reason: differs: "idefinu" against "ideten " | Wikisource:  | next_nc_e1: der nur wenigen vereidefin und vertraulichen Leuten bekannt war; | german_print2_15: der nur wenigen vereidefen und vertraulichen Leuten bekannt war; -->
+			<TextLine id="r19l4" custom="readingOrder {index:4;}">
+				<Coords points="194,606 199,606 215,609 219,615 234,614 242,606 246,606 268,607 270,615 283,613 317,613 323,607 333,607 340,608 359,620 365,609 400,609 400,618 422,615 480,617 482,610 487,610 489,616 525,617 527,624 562,612 565,612 568,620 595,618 630,618 664,621 735,621 756,614 761,614 765,628 777,621 805,621 840,617 851,617 854,623 905,624 905,632 777,631 679,626 527,627 194,621" />
+				<Baseline points="194,621 661,627 905,633" />
+				<TextEquiv index="1">
+					<Unicode>Drechsler will alles verwahren, als wäre es sein Eigen, aber er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Auskommen seiner Familie und seiner Leute bereits verkauft.
+Auch kannte der Commandant die Grösse des Vorraths nicht, denn
+das Meiste davon war an einem verborgenen Orte untergebracht,
+Drechsler will alles verwahren, als wäre es sein Eigen, aber er</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r20" custom="readingOrder {index:20;} orientation {0;}">
+			<Coords points="193,632 907,632 907,661 193,661" />
+			<TextLine id="r20l0" custom="readingOrder {index:0;}">
+				<Coords points="193,632 203,632 205,639 259,635 309,639 339,634 352,638 409,639 464,642 466,650 490,643 510,643 518,637 559,637 561,646 573,643 584,643 584,637 596,637 610,643 638,644 658,648 664,652 680,639 695,639 704,644 795,648 797,642 836,643 846,649 862,649 875,644 880,644 883,650 907,650 907,659 880,658 862,661 846,661 836,658 704,655 691,641 688,655 584,655 573,653 510,651 469,653 381,652 361,646 352,649 193,648" />
+				<Baseline points="193,647 907,658" />
+				<TextEquiv index="1">
+					<Unicode>kann für nichts gut sein, weil Verrätherei, Untreue und Angeben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>kann für nichts gut sein, weil Verrätherei, Untreue und Angeben</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r21" custom="readingOrder {index:21;} orientation {0;}">
+			<Coords points="191,658 907,658 907,686 191,686" />
+			<TextLine id="r21l0" custom="readingOrder {index:0;}">
+				<Coords points="191,664 204,659 212,658 215,658 229,659 236,664 317,668 325,660 330,660 332,666 345,666 358,675 366,675 366,667 470,669 471,675 500,663 515,665 564,663 574,670 589,670 611,664 622,664 623,673 657,671 681,666 708,666 748,673 756,667 766,667 774,673 802,673 837,677 844,669 848,669 851,676 869,671 879,671 881,679 893,676 907,677 907,686 899,686 879,684 611,680 574,679 564,677 451,678 358,677 325,675 191,674" />
+				<Baseline points="191,674 270,673 406,675 907,685" />
+				<TextEquiv index="1">
+					<Unicode>allhier so sehr gross wäre. Die Vorräthe nach Dresden zu schaffen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>allhier so sehr gross wäre. Die Vorräthe nach Dresden zu schaffen,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r22">
+			<Coords points="358,666 374,666 374,673 358,673" />
+		</GraphicRegion>
+		<TextRegion id="r23" custom="readingOrder {index:23;} orientation {0;}">
+			<Coords points="191,685 901,685 901,711 191,711" />
+			<TextLine id="r23l0" custom="readingOrder {index:0;}">
+				<Coords points="191,690 227,690 246,693 248,685 258,685 267,691 284,685 306,685 348,692 366,691 392,694 455,694 468,689 505,689 507,696 525,693 538,693 551,697 552,703 571,696 682,698 686,692 697,692 698,700 710,692 719,692 744,699 793,699 808,704 811,694 815,694 818,700 844,695 860,695 869,701 885,701 893,696 901,696 901,711 885,711 875,711 778,709 775,702 764,707 719,709 697,707 673,709 664,706 552,706 455,703 382,706 348,702 191,699" />
+				<Baseline points="191,699 901,710" />
+				<TextEquiv index="1">
+					<Unicode>was der Kurfürst gewünscht hatte, war unmöglich; wenn die Feinde</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>was der Kurfürst gewünscht hatte, war unmöglich; wenn die Feinde</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r24">
+			<Coords points="391,710 792,710 792,734 391,734" />
+		</GraphicRegion>
+		<TextRegion id="r25" custom="readingOrder {index:25;} orientation {0;}">
+			<Coords points="190,711 907,711 907,790 190,790" />
+			<!-- line left out: id="r25l0" points="191,711 202,711 205,717 209,717 236,712 251,712 278,716 320,718 320,712 332,712 340,713 352,718 364,719 424,720 441,722 450,715 460,715 484,715 484,721 490,721 531,720 538,716 549,716 551,724 555,724 566,725 586,721 591,721 615,724 617,730 640,723 650,723 655,730 661,724 671,724 692,729 695,718 700,718 714,724 742,724 759,728 761,720 772,720 796,720 796,727 802,727 818,720 831,720 840,727 862,727 881,729 884,721 894,721 901,730 907,730 907,735 894,737 862,737 853,737 818,736 796,734 761,734 751,733 671,733 621,733 617,733 591,732 574,732 549,731 490,731 470,731 460,730 450,730 424,729 374,730 332,730 320,730 278,727 236,727 209,726 191,726" baseline="191,726 236,726 373,728 640,732 736,733 907,737" reason: differs: "ungrsel" against "ng ders" | Wikisource:  | next_nc_e1: die Hinterziehung rselben entdeckten, war der völlige Ruin des | german_print2_15: die Hinterziehung rselben entdeckten, war der völlige Ruin des -->
+			<TextLine id="r25l1" custom="readingOrder {index:1;}">
+				<Coords points="192,737 201,737 208,745 215,743 265,744 267,738 278,738 279,746 415,746 417,740 427,740 456,741 491,750 498,742 524,742 527,750 572,743 572,751 579,751 587,743 591,743 605,748 684,748 696,751 782,748 803,746 829,753 831,747 842,747 844,753 854,753 854,746 856,746 897,751 907,755 907,761 819,762 644,759 619,751 614,755 591,757 417,756 362,754 353,756 308,756 278,753 192,752" />
+				<Baseline points="192,752 907,763" />
+				<TextEquiv index="1">
+					<Unicode>Vorwerks gewiss und Drechsler selbst in höchster Gefahr. So</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r25l2" custom="readingOrder {index:2;}">
+				<Coords points="190,769 245,768 359,771 424,767 428,767 437,773 528,768 530,775 568,772 575,778 597,774 604,770 619,770 621,780 633,770 663,778 675,776 771,778 776,772 797,772 817,777 866,774 868,780 896,783 906,788 906,790 903,790 860,790 857,790 750,786 475,783 428,781 395,784 361,781 190,779" />
+				<Baseline points="190,778 745,786 906,790" />
+				<TextEquiv index="1">
+					<Unicode>musste man warten, bis sich das Getreide einmal verkaufen lasse,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Vorwerks gewiss und Drechsler selbst in höchster Gefahr. So
+musste man warten, bis sich das Getreide einmal verkaufen lasse,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r26">
+			<Coords points="623,795 626,795 626,810 623,810" />
+		</GraphicRegion>
+		<TextRegion id="r27" custom="readingOrder {index:27;} orientation {0;}">
+			<Coords points="187,791 905,791 905,946 187,946" />
+			<!-- line left out: id="r27l0" points="190,796 218,796 237,802 243,796 286,791 297,791 299,799 311,797 327,797 344,791 358,791 378,792 382,800 414,800 416,793 426,793 429,800 433,800 455,802 464,794 474,794 483,801 494,800 543,800 544,794 554,794 575,801 592,801 640,803 667,801 679,801 694,804 714,797 730,797 733,807 744,798 755,798 757,805 769,803 776,803 809,804 860,800 868,800 876,812 882,804 898,804 899,810 904,810 904,812 898,815 864,815 860,815 826,814 809,813 769,813 755,812 714,812 679,811 633,811 630,811 592,810 543,810 532,810 494,809 474,808 426,808 416,808 378,807 311,807 297,806 255,806 190,805" baseline="190,805 237,805 553,809 630,810 803,813 860,814 904,815" reason: differs: "itz." against "itzthum" | Wikisource:  | next_nc_e1: um aus dem Erlös desselben und aus den 110 Thalern vom Vitz. | german_print2_15: um aus dem Erlös desselben und aus den 110 Thalern vom Vitz- -->
+			<TextLine id="r27l1" custom="readingOrder {index:1;}">
+				<Coords points="190,820 198,816 209,816 210,822 250,823 262,817 266,817 268,823 311,820 334,825 336,818 359,818 362,825 417,824 423,827 431,819 441,819 443,826 494,827 502,820 532,821 535,827 552,826 566,821 577,821 579,830 616,823 662,826 863,831 872,825 882,825 890,832 905,833 905,842 897,842 823,839 748,839 532,835 431,835 405,833 362,835 327,832 190,831" />
+				<Baseline points="190,831 905,841" />
+				<TextEquiv index="1">
+					<Unicode>thumschen Gelde, welche noch bei den Amtsunterthanen ausstanden,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r27l2" custom="readingOrder {index:2;}">
+				<Coords points="188,848 204,848 204,836 215,836 239,846 252,843 254,849 276,849 279,843 282,843 285,849 349,850 372,844 393,844 395,850 416,852 418,844 441,844 450,845 452,852 493,850 499,854 507,846 511,846 514,852 537,851 551,853 551,844 553,844 587,847 589,855 606,855 630,848 639,848 646,856 659,854 678,854 705,849 715,849 717,858 723,858 745,849 750,849 766,850 772,855 784,858 786,850 800,850 805,863 811,859 822,856 904,858 904,868 882,868 862,868 859,868 809,865 750,865 639,862 587,862 539,864 461,860 441,864 426,864 418,860 188,857" />
+				<Baseline points="188,857 576,861 904,868" />
+				<TextEquiv index="1">
+					<Unicode>zur theilweisen Wiederherstellung des Vorwerks Rindvieh anzu-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r27l3" custom="readingOrder {index:3;}">
+				<Coords points="188,876 196,874 207,874 208,868 219,868 220,875 233,870 243,870 262,874 271,868 273,868 326,870 328,878 413,874 422,880 431,879 441,874 495,873 505,880 535,878 549,875 585,879 629,878 671,880 770,880 789,888 794,877 805,877 808,885 815,885 835,877 902,884 902,894 883,894 870,894 805,891 505,888 326,884 208,884 188,881" />
+				<Baseline points="188,883 660,889 902,894" />
+				<TextEquiv index="1">
+					<Unicode>schaffen. Bis zu dessen Ankauf musste man Stroh als Dünger</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r27l4" custom="readingOrder {index:4;}">
+				<Coords points="187,900 257,901 258,894 270,894 271,901 294,901 296,907 331,895 346,895 349,902 359,902 367,896 409,897 412,903 475,907 479,901 489,901 491,907 520,903 531,903 567,905 587,908 590,900 600,900 607,906 663,906 686,904 704,911 711,901 720,901 729,907 751,902 765,902 768,908 778,908 791,905 856,904 866,911 872,904 883,904 903,909 903,920 891,920 856,920 851,920 686,916 479,914 187,908" />
+				<Baseline points="187,909 520,911 903,918" />
+				<TextEquiv index="1">
+					<Unicode>verwenden. Nicht bloss die Schweden, auch der Kurfürst selbst</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r27l5" points="618,926 623,926 638,929 669,927 674,927 678,939 687,939 689,933 699,933 711,934 714,927 725,927 726,935 747,935 804,935 816,934 824,934 824,927 837,927 837,936 857,930 878,930 879,936 890,936 904,937 904,945 890,946 867,946 824,945 804,944 780,944 747,945 738,945 689,943 641,942 623,941 618,941" baseline="618,941 837,945 857,945 904,946" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Der Landjägermeister Hans
+ | german_print2_15: Der Landjägermeister Hans
+ -->
+			<TextEquiv index="1">
+				<Unicode>thumschen Gelde, welche noch bei den Amtsunterthanen ausstanden,
+zur theilweisen Wiederherstellung des Vorwerks Rindvieh anzu-
+schaffen. Bis zu dessen Ankauf musste man Stroh als Dünger
+verwenden. Nicht bloss die Schweden, auch der Kurfürst selbst</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r28" custom="readingOrder {index:28;} orientation {0;}">
+			<Coords points="186,921 586,921 586,943 186,943" />
+			<TextLine id="r28l0" custom="readingOrder {index:0;}">
+				<Coords points="186,928 207,924 236,924 254,927 272,921 283,921 288,921 333,926 338,930 346,922 350,922 352,929 438,930 454,924 463,924 470,936 477,932 482,925 495,925 504,931 537,931 546,925 557,925 558,934 574,932 584,939 586,939 586,941 525,943 509,943 502,938 495,940 396,939 288,936 225,936 186,934" />
+				<Baseline points="186,935 272,935 586,941" />
+				<TextEquiv index="1">
+					<Unicode>setzten den Schösser in Verlegenheit.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>setzten den Schösser in Verlegenheit.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r29">
+			<Coords points="293,928 579,928 579,941 293,941" />
+		</GraphicRegion>
+		<TextRegion id="r30" custom="readingOrder {index:30;} orientation {0;}">
+			<Coords points="184,947 902,947 902,1050 184,1050" />
+			<TextLine id="r30l0" custom="readingOrder {index:0;}">
+				<Coords points="185,948 196,947 207,947 210,953 271,953 319,951 328,960 334,954 351,949 354,949 364,955 377,955 377,949 389,949 397,953 437,956 445,953 473,951 506,951 509,958 537,956 582,958 584,965 608,952 619,952 621,961 633,959 658,958 786,961 800,955 828,955 857,956 865,963 897,963 897,972 877,972 764,970 745,972 735,972 711,969 439,966 271,962 236,965 222,962 196,961 185,959" />
+				<Baseline points="185,961 897,972" />
+				<TextEquiv index="1">
+					<Unicode>Georg von Carlowitz auf Rabenstein, der seit längerer Zeit keine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r30l1" custom="readingOrder {index:1;}">
+				<Coords points="187,973 196,973 203,981 210,979 242,978 318,981 318,975 328,975 330,981 339,981 341,975 352,975 359,979 383,982 394,976 405,976 406,982 417,982 419,976 430,976 431,984 443,982 485,983 515,980 530,982 562,983 589,982 594,986 611,979 622,979 624,986 651,985 664,979 678,979 681,985 714,983 725,986 725,979 738,979 746,984 790,988 816,989 816,982 835,982 838,988 869,983 872,989 902,989 902,999 894,999 869,997 816,998 797,995 790,998 781,998 746,995 725,996 359,991 276,992 223,991 210,988 187,987" />
+				<Baseline points="187,988 902,998" />
+				<TextEquiv index="1">
+					<Unicode>Vergütung erhalten haben mochte, hatte dem Kurfürsten geschrieben,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r30l2" custom="readingOrder {index:2;}">
+				<Coords points="185,999 196,999 197,1005 268,1006 288,1000 308,1000 311,1007 347,1007 354,1002 367,1002 402,1010 409,1008 457,1009 482,1003 609,1005 617,1012 629,1009 639,1009 645,1014 654,1006 682,1011 704,1012 709,1006 719,1006 721,1014 743,1012 751,1006 761,1006 768,1013 844,1014 845,1021 869,1014 891,1015 893,1009 902,1009 902,1024 845,1024 682,1020 492,1019 482,1018 459,1012 457,1021 347,1016 258,1016 185,1014" />
+				<Baseline points="185,1013 902,1024" />
+				<TextEquiv index="1">
+					<Unicode>dass im Vorwerke einige Hundert Scheffel vorhanden seien, und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r30l3" custom="readingOrder {index:3;}">
+				<Coords points="184,1032 207,1031 224,1033 244,1027 254,1027 279,1032 347,1033 369,1035 372,1028 382,1028 383,1034 428,1031 449,1037 456,1035 469,1035 470,1029 482,1029 483,1037 494,1034 518,1035 527,1029 565,1030 569,1036 593,1031 604,1031 606,1040 645,1031 668,1032 675,1038 681,1036 735,1038 739,1032 749,1032 775,1033 777,1042 788,1039 831,1038 835,1043 843,1034 847,1034 849,1041 899,1041 899,1050 892,1050 428,1044 382,1044 337,1046 301,1042 244,1042 221,1035 218,1041 196,1041 184,1039" />
+				<Baseline points="184,1040 899,1050" />
+				<TextEquiv index="1">
+					<Unicode>eine Anweisung darauf erbeten. In der That ward dem Schösser</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Georg von Carlowitz auf Rabenstein, der seit längerer Zeit keine
+Vergütung erhalten haben mochte, hatte dem Kurfürsten geschrieben,
+dass im Vorwerke einige Hundert Scheffel vorhanden seien, und
+eine Anweisung darauf erbeten. In der That ward dem Schösser</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r31" custom="readingOrder {index:31;} orientation {0;}">
+			<Coords points="486,1056 902,1056 902,1076 486,1076" />
+			<!-- line left out: id="r31l0" points="486,1062 513,1062 514,1069 545,1056 557,1056 558,1065 569,1063 586,1063 609,1057 614,1057 618,1070 629,1063 639,1063 646,1064 654,1057 658,1057 666,1065 688,1065 697,1064 721,1064 745,1065 757,1063 761,1063 833,1064 860,1066 880,1066 892,1067 902,1068 902,1075 892,1076 860,1076 855,1076 804,1075 761,1074 745,1074 688,1075 678,1075 654,1073 557,1072 506,1072 491,1072 486,1068" baseline="486,1071 517,1071 609,1072 778,1074 855,1075 902,1076" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: ben, dem Landjägermeister auf seine
+ | german_print2_15: ben, dem Landjägermeister auf seine
+ -->
+		</TextRegion>
+		<GraphicRegion id="r32">
+			<Coords points="475,1052 485,1052 485,1074 475,1074" />
+		</GraphicRegion>
+		<TextRegion id="r33" custom="readingOrder {index:33;} orientation {0;}">
+			<Coords points="181,1052 901,1052 901,1156 181,1156" />
+			<!-- line left out: id="r33l0" points="184,1057 198,1057 217,1058 240,1052 245,1052 255,1053 270,1058 285,1059 286,1053 298,1053 299,1060 311,1059 321,1059 344,1065 350,1059 362,1059 398,1058 402,1058 441,1058 462,1058 469,1062 469,1074 462,1075 441,1075 402,1075 398,1075 376,1069 311,1069 298,1068 270,1068 245,1068 240,1068 208,1067 198,1066 184,1066" baseline="184,1066 469,1070" reason: differs: "vonD" against "Beso" | Wikisource:  | next_nc_e1: von Dresden aus aufgege | german_print2_15: von Dresden aus aufgege -->
+			<TextLine id="r33l1" custom="readingOrder {index:1;}">
+				<Coords points="184,1077 197,1077 204,1084 217,1084 229,1086 231,1078 255,1078 256,1084 280,1085 280,1077 285,1077 314,1085 338,1080 349,1080 380,1081 394,1086 406,1087 408,1081 418,1081 421,1087 444,1089 472,1081 482,1081 483,1089 528,1088 547,1090 549,1083 559,1083 572,1087 584,1081 615,1088 626,1088 647,1091 675,1085 709,1091 749,1085 792,1085 795,1094 803,1092 901,1093 901,1102 816,1102 626,1099 582,1100 572,1098 521,1098 500,1100 472,1100 430,1096 269,1096 231,1093 184,1093" />
+				<Baseline points="184,1092 901,1102" />
+				<TextEquiv index="1">
+					<Unicode>Besoldung und andere Jägerrechte 100 Scheffel Korn zuzu-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r33l2" custom="readingOrder {index:2;}">
+				<Coords points="181,1111 191,1107 196,1107 203,1111 211,1103 221,1103 223,1110 246,1109 249,1103 251,1103 291,1104 307,1106 321,1111 341,1105 385,1105 397,1106 422,1113 493,1114 540,1111 554,1115 556,1109 561,1109 563,1115 574,1115 578,1109 600,1109 600,1115 644,1110 646,1117 663,1115 680,1110 708,1116 772,1112 772,1118 781,1118 787,1120 795,1112 804,1112 822,1121 829,1112 833,1112 846,1120 882,1120 900,1123 900,1124 895,1124 882,1130 872,1130 804,1127 646,1126 191,1119 181,1116" />
+				<Baseline points="181,1118 900,1129" />
+				<TextEquiv index="1">
+					<Unicode>stellen. Der Befehl war unausführbar; hätte man sich des ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r33l3" points="757,1144 765,1144 782,1142 787,1142 799,1145 801,1138 820,1138 821,1144 831,1144 900,1145 900,1154 848,1156 840,1156 809,1154 782,1153 765,1151 757,1151" baseline="757,1153 900,1154" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: estellung un-
+ | german_print2_15: bestellung un-
+ -->
+			<TextEquiv index="1">
+				<Unicode>Besoldung und andere Jägerrechte 100 Scheffel Korn zuzu-
+stellen. Der Befehl war unausführbar; hätte man sich des ge-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r34">
+			<Coords points="737,1132 756,1132 756,1156 737,1156" />
+		</GraphicRegion>
+		<TextRegion id="r35" custom="readingOrder {index:35;} orientation {0;}">
+			<Coords points="176,1130 893,1130 893,1362 176,1362" />
+			<!-- line left out: id="r35l0" points="181,1134 189,1134 207,1135 264,1130 284,1130 293,1136 300,1136 316,1135 331,1131 342,1131 343,1140 377,1138 386,1138 394,1136 405,1136 434,1139 465,1137 474,1136 476,1136 498,1142 510,1142 539,1140 550,1140 575,1141 628,1142 666,1140 678,1140 730,1143 730,1152 691,1152 678,1151 618,1151 575,1150 476,1150 465,1150 434,1149 407,1149 377,1148 342,1147 227,1148 209,1148 190,1145 181,1144" baseline="181,1144 242,1145 539,1149 606,1150 730,1152" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: ringen Vorraths entäussert, so wäre eine Somme | german_print2_15: ringen Vorraths entäussert, so wäre eine Somme -->
+			<TextLine id="r35l1" custom="readingOrder {index:1;}">
+				<Coords points="180,1161 224,1162 226,1156 237,1156 238,1164 250,1156 260,1156 275,1163 362,1164 362,1174 320,1172 287,1176 275,1176 237,1172 212,1174 203,1171 180,1171" />
+				<Baseline points="180,1171 362,1174" />
+				<TextEquiv index="1">
+					<Unicode>möglich gewesen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r35l2" custom="readingOrder {index:2;}">
+				<Coords points="234,1182 249,1182 250,1190 289,1184 310,1184 318,1190 329,1190 331,1184 344,1184 347,1191 356,1191 358,1185 403,1185 434,1193 445,1185 450,1185 458,1194 485,1192 546,1192 637,1196 639,1188 644,1188 646,1194 669,1191 681,1191 688,1194 731,1189 770,1189 770,1205 721,1204 700,1206 690,1206 669,1204 555,1202 403,1200 372,1201 234,1198" />
+				<Baseline points="234,1199 770,1205" />
+				<TextEquiv index="1">
+					<Unicode>Der Haushalt Drechslers war sehr dürftig bestel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r35l3" points="179,1214 190,1214 192,1208 204,1208 204,1216 217,1214 223,1214 247,1217 249,1209 261,1209 261,1216 271,1216 291,1209 296,1209 298,1216 307,1216 311,1210 321,1210 323,1217 335,1216 367,1211 380,1211 382,1219 400,1217 414,1217 421,1211 431,1211 433,1217 444,1217 469,1218 469,1228 444,1233 433,1233 431,1227 400,1227 392,1226 371,1226 371,1233 367,1233 350,1226 311,1226 261,1225 249,1225 190,1224 179,1224" baseline="179,1223 242,1224 367,1226 469,1228" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: über die hohen Fleischpre | german_print2_15: über die hohen Fleischprer -->
+			<TextLine id="r35l4" custom="readingOrder {index:4;}">
+				<Coords points="178,1240 259,1241 262,1235 273,1235 274,1241 286,1236 296,1236 311,1242 328,1242 347,1246 348,1236 363,1236 370,1243 403,1243 416,1237 429,1238 443,1243 455,1244 487,1244 503,1238 539,1238 539,1245 563,1245 563,1254 423,1253 381,1255 370,1255 273,1251 178,1250" />
+				<Baseline points="178,1250 563,1255" />
+				<TextEquiv index="1">
+					<Unicode>zu ziemlich niedrigen Preisen Fleisch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r35l5" points="178,1269 188,1266 205,1261 215,1261 229,1272 235,1262 247,1262 250,1268 261,1267 273,1267 309,1268 310,1262 321,1262 329,1268 344,1263 348,1263 362,1268 369,1263 379,1263 390,1269 418,1269 441,1270 454,1268 469,1268 478,1264 487,1264 508,1265 509,1272 520,1271 530,1271 545,1272 556,1265 574,1265 574,1276 580,1276 580,1281 530,1281 520,1281 509,1274 508,1280 469,1280 454,1280 446,1279 441,1282 430,1282 369,1279 362,1278 342,1278 310,1278 273,1277 247,1277 229,1277 198,1276 188,1276 178,1273" baseline="178,1275 580,1280" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: sich aber sicherlich um gestohlenes Vie | german_print2_15: sich aber sicherlich um gestohlenes Vie -->
+			<!-- line left out: id="r35l6" points="181,1292 192,1292 229,1295 229,1287 246,1287 248,1293 255,1293 281,1299 287,1294 320,1294 366,1289 372,1289 374,1298 387,1295 397,1294 420,1294 447,1303 453,1296 471,1296 510,1297 520,1295 532,1295 576,1292 588,1292 604,1292 607,1300 617,1292 633,1292 633,1308 595,1308 555,1307 520,1307 510,1306 501,1307 490,1307 471,1306 447,1306 422,1300 420,1305 333,1305 320,1304 281,1304 223,1303 181,1302" baseline="181,1302 196,1302 281,1303 576,1307 633,1308" reason: differs: "zude" against "h, w" | Wikisource:  | next_nc_e1: zu der armen Leutte äusserstem Schad | german_print2_15: zu der armen Leute äusserstem Schad -->
+			<!-- line left out: id="r35l7" points="177,1318 214,1313 226,1313 227,1321 232,1321 242,1326 271,1314 277,1314 293,1315 307,1320 389,1316 393,1316 393,1326 406,1322 418,1320 430,1316 439,1316 445,1323 471,1321 476,1321 487,1322 510,1323 526,1317 532,1317 541,1319 555,1323 567,1325 567,1318 578,1318 580,1324 584,1324 594,1326 596,1318 607,1318 613,1324 620,1324 638,1325 638,1334 584,1334 553,1334 532,1333 510,1338 499,1338 487,1333 392,1332 319,1331 307,1330 281,1330 239,1329 199,1328 177,1327" baseline="177,1327 241,1328 471,1332 638,1334" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: wurde. Davon zu kaufen trug Drechsler i | german_print2_15: wurde. Davon zu kaufen trug Drechsler i -->
+			<TextLine id="r35l8" custom="readingOrder {index:8;}">
+				<Coords points="176,1341 236,1344 269,1344 277,1340 287,1340 299,1345 308,1340 310,1340 350,1342 389,1348 426,1348 441,1342 455,1342 455,1351 466,1351 467,1343 479,1343 480,1351 503,1349 505,1343 516,1343 517,1349 542,1349 542,1342 544,1342 584,1344 611,1350 697,1352 699,1345 710,1345 746,1353 752,1351 764,1351 805,1346 815,1346 832,1352 872,1347 884,1347 893,1352 893,1362 862,1362 849,1362 372,1358 176,1353" />
+				<Baseline points="176,1352 309,1356 893,1362" />
+				<TextEquiv index="1">
+					<Unicode>kurfürstlicher Amtmann Bedenken. Darum wendet er sich wieder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>möglich gewesen.
+Der Haushalt Drechslers war sehr dürftig bestel
+zu ziemlich niedrigen Preisen Fleisch
+kurfürstlicher Amtmann Bedenken. Darum wendet er sich wieder</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r36">
+			<Coords points="771,1186 898,1186 898,1210 771,1210" />
+		</GraphicRegion>
+		<TextRegion id="r37" custom="readingOrder {index:37;} orientation {0;}">
+			<Coords points="612,1214 899,1214 899,1233 612,1233" />
+			<!-- line left out: id="r37l0" points="612,1224 631,1214 642,1214 643,1220 669,1215 673,1215 673,1223 689,1221 760,1221 789,1222 804,1216 807,1216 807,1223 814,1223 824,1216 827,1216 830,1225 841,1222 846,1222 856,1216 867,1216 870,1222 879,1222 891,1223 899,1225 899,1229 891,1233 881,1233 856,1232 846,1231 841,1231 830,1229 824,1219 814,1231 807,1233 804,1233 749,1231 669,1230 612,1229" baseline="612,1229 652,1229 899,1232" reason: no text of Wikisource found | Wikisource:  | next_nc_e1:  da kor man allerdings
+ | german_print2_15:  da kor man allerdings
+ -->
+		</TextRegion>
+		<GraphicRegion id="r38">
+			<Coords points="473,1211 475,1211 475,1228 473,1228" />
+		</GraphicRegion>
+		<TextRegion id="r39" custom="readingOrder {index:39;} orientation {0;}">
+			<Coords points="479,1213 558,1213 558,1228 479,1228" />
+			<!-- line left out: id="r39l0" points="479,1221 503,1221 532,1213 547,1213 550,1219 558,1219 558,1228 488,1228 479,1226" baseline="479,1226 558,1228" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: se. Hie
+ | german_print2_15: se. Hie
+ -->
+		</TextRegion>
+		<GraphicRegion id="r40">
+			<Coords points="583,1216 599,1216 599,1252 583,1252" />
+		</GraphicRegion>
+		<TextRegion id="r41" custom="readingOrder {index:41;} orientation {0;}">
+			<Coords points="595,1242 898,1242 898,1257 595,1257" />
+			<!-- line left out: id="r41l0" points="595,1247 601,1246 614,1246 659,1246 754,1247 765,1248 781,1242 786,1242 788,1248 809,1248 822,1251 824,1242 854,1242 857,1249 866,1249 885,1250 898,1251 898,1255 885,1257 691,1257 677,1256 636,1256 622,1255 614,1257 601,1257 595,1254" baseline="595,1255 898,1257" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: bekommen, nn handelte es
+ | german_print2_15: pekommen, nn handelte es
+ -->
+		</TextRegion>
+		<GraphicRegion id="r42">
+			<Coords points="702,1216 743,1216 743,1261 702,1261" />
+		</GraphicRegion>
+		<GraphicRegion id="r43">
+			<Coords points="656,1262 658,1262 658,1281 656,1281" />
+		</GraphicRegion>
+		<TextRegion id="r44" custom="readingOrder {index:44;} orientation {0;}">
+			<Coords points="662,1267 897,1267 897,1284 662,1284" />
+			<!-- line left out: id="r44l0" points="662,1267 678,1267 680,1275 684,1275 709,1273 715,1273 741,1274 753,1268 764,1268 765,1277 777,1274 786,1274 799,1268 817,1268 819,1277 831,1274 834,1274 845,1273 856,1268 867,1268 868,1276 880,1274 897,1274 897,1284 889,1284 867,1283 834,1283 831,1283 819,1282 817,1275 807,1275 804,1283 764,1283 732,1283 715,1282 684,1282 662,1282" baseline="662,1282 709,1282 897,1284" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hes von den Fleischern
+ | german_print2_15: Thes von den Fleischern
+ -->
+		</TextRegion>
+		<GraphicRegion id="r45">
+			<Coords points="514,1271 517,1271 517,1276 514,1276" />
+		</GraphicRegion>
+		<TextRegion id="r46" custom="readingOrder {index:46;} orientation {0;}">
+			<Coords points="622,1272 640,1272 640,1281 622,1281" />
+			<!-- line left out: id="r46l0" points="622,1272 633,1272 640,1275 640,1281 622,1281" baseline="622,1280 640,1281" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: we
+ | german_print2_15: weé
+ -->
+		</TextRegion>
+		<GraphicRegion id="r47">
+			<Coords points="585,1268 609,1268 609,1286 585,1286" />
+		</GraphicRegion>
+		<TextRegion id="r48" custom="readingOrder {index:48;} orientation {0;}">
+			<Coords points="678,1293 896,1293 896,1310 678,1310" />
+			<!-- line left out: id="r48l0" points="678,1299 703,1294 708,1294 711,1300 720,1300 746,1301 747,1294 758,1294 759,1302 771,1300 780,1300 800,1306 806,1299 822,1299 839,1300 839,1293 863,1293 872,1300 886,1297 896,1297 896,1310 853,1310 839,1310 758,1309 747,1309 720,1308 701,1309 678,1309" baseline="678,1309 800,1309 896,1310" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: unbesehen angekauft
+ | german_print2_15: unbesehen angekauft
+ -->
+		</TextRegion>
+		<GraphicRegion id="r49">
+			<Coords points="637,1298 658,1298 658,1308 637,1308" />
+		</GraphicRegion>
+		<GraphicRegion id="r50">
+			<Coords points="642,1312 650,1312 650,1335 642,1335" />
+		</GraphicRegion>
+		<TextRegion id="r51" custom="readingOrder {index:51;} orientation {0;}">
+			<Coords points="797,1321 896,1321 896,1336 797,1336" />
+			<!-- line left out: id="r51l0" points="797,1328 806,1325 816,1325 842,1324 854,1324 871,1332 877,1321 888,1321 890,1328 896,1328 896,1334 888,1336 877,1336 828,1335 817,1334 806,1333 797,1332" baseline="797,1332 896,1334" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: schaft als
+ | german_print2_15: schaft als
+ -->
+		</TextRegion>
+		<GraphicRegion id="r52">
+			<Coords points="769,1325 793,1325 793,1335 769,1335" />
+		</GraphicRegion>
+		<TextRegion id="r53" custom="readingOrder {index:53;} orientation {0;}">
+			<Coords points="667,1320 776,1320 776,1337 667,1337" />
+			<!-- line left out: id="r53l0" points="667,1327 676,1326 687,1325 692,1325 704,1327 719,1325 742,1320 746,1320 756,1326 771,1326 776,1328 776,1334 771,1337 756,1337 719,1335 704,1334 692,1335 687,1335 676,1334 667,1332" baseline="667,1334 742,1335 776,1337" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: seiner Eige
+ | german_print2_15: seiner Eige
+ -->
+		</TextRegion>
+		<TextRegion id="r54" custom="readingOrder {index:54;} orientation {0;}">
+			<Coords points="394,1539 658,1539 658,1567 394,1567" />
+			<!-- line left out: id="r54l0" points="394,1549 402,1549 408,1550 422,1549 426,1539 434,1539 443,1539 452,1539 460,1549 469,1549 474,1539 482,1539 492,1539 492,1549 494,1549 502,1539 530,1539 535,1549 553,1549 571,1549 615,1549 638,1549 653,1549 658,1550 658,1558 653,1560 615,1560 571,1560 545,1560 535,1558 530,1567 492,1567 482,1567 474,1567 474,1558 460,1558 452,1567 443,1567 434,1567 426,1567 426,1558 414,1560 407,1560 394,1558" baseline="394,1558 658,1558" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: htp digital slub-dresden delppn301259642372
+ | german_print2_15:  -->
+		</TextRegion>
+		<SeparatorRegion id="r55">
+			<Coords points="944,662 965,662 965,1245 944,1245" />
+		</SeparatorRegion>
+		<GraphicRegion id="r56">
+			<Coords points="942,0 974,0 974,1585 942,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Auf den allgemeinen Vortheil und auf treue Bewahrung der
+Einkünfte ist Drechsler unausgesetzt bedacht. Nachdem der
+schwedische Commandant 15 Scheffel Korn und 9 Scheffel Trespe
+hatte abholen lassen, waren laut einer vom Kurfürsten eingeforderten
+Specification am 2. Februar 1640 51 Scheffel Korn, 65 Scheffel
+Trespe und 33 Scheffel Hafer auf dem Boden, 5 Schock 13 Garben
+Korn und 19 Schock 22 Garben Hafer unausgedroschen in der
+Scheune des Vorwerks vorhanden. Diesen Vorrath hatte man bisher
+vor der Hand des schwedischen Commandanten wahren können;
+Drechsler hatte vorgegeben, das Getreide komme theils den Herren
+Geistlichen zu ihrer Besoldung zu, theils sei es zu nothdürftigem
+Auskommen seiner Familie und seiner Leute bereits verkauft.
+Auch kannte der Commandant die Grösse des Vorraths nicht, denn
+das Meiste davon war an einem verborgenen Orte untergebracht,
+der nur wenigen vereideten und vertraulichen Leuten bekannt war;
+Drechsler will alles verwahren, als wäre es sein Eigen, aber er
+kann für nichts gut sein, weil Verrätherei, Untreue und Angeben
+allhier so sehr gross wäre. Die Vorräthe nach Dresden zu schaffen,
+was der Kurfürst gewünscht hatte, war unmöglich; wenn die Feinde
+die Hinterziehung derselben entdeckten, war der völlige Ruin des
+Vorwerks gewiss und Drechsler selbst in höchster Gefahr. So
+musste man warten, bis sich das Getreide einmal verkaufen lasse,
+um aus dem Erlös desselben und aus den 110 Thalern vom Vitzthumschen
+Gelde, welche noch bei den Amtsunterthanen ausstanden,
+zur theilweisen Wiederherstellung des Vorwerks Rindvieh anzuschaffen.
+Bis zu dessen Ankauf musste man Stroh als Dünger
+verwenden. Nicht bloss die Schweden, auch der Kurfürst selbst
+setzten den Schösser in Verlegenheit. Der Landjägermeister Hans
+Georg von Carlowitz auf Rabenstein, der seit längerer Zeit keine
+Vergütung erhalten haben mochte, hatte dem Kurfürsten geschrieben,
+dass im Vorwerke einige Hundert Scheffel vorhanden seien, und
+eine Anweisung darauf erbeten. In der That ward dem Schösser
+von Dresden aus aufgegeben, dem Landjägermeister auf seine
+Besoldung und andere Jägerrechte 100 Scheffel Korn zuzustellen.
+Der Befehl war unausführbar; hätte man sich des geringen
+Vorraths entäussert, so wäre eine Sommerbestellung unmöglich
+gewesen.
+Der Haushalt Drechslers war sehr dürftig bestellt; er klagt
+über die hohen Fleischpreise. Hie und da konnte man allerdings
+zu ziemlich niedrigen Preisen Fleisch bekommen, dann handelte es
+sich aber sicherlich um gestohlenes Vieh, welches von den Fleischern
+zu der armen Leute äusserstem Schaden unbesehen angekauft
+wurde. Davon zu kaufen trug Drechsler in seiner Eigenschaft als
+kurfürstlicher Amtmann Bedenken. Darum wendet er sich wieder
+-->
+	</Page>
+</PcGts>

@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:02:03</Created>
+		<LastChange>2026-11-23T14:02:03</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/298 revision 4971380 of 2026-08-03T18:15:05Z, proofread level 3, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0298.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro16113535473460822942" caption="Regions reading order">
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="15" regionRef="r15" />
+				<RegionRefIndexed index="19" regionRef="r19" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 1000,0 1000,199 0,199" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,347 30,347 30,800 0,800" />
+		</GraphicRegion>
+		<GraphicRegion id="r2">
+			<Coords points="7,894 35,894 35,921 7,921" />
+		</GraphicRegion>
+		<GraphicRegion id="r3">
+			<Coords points="0,1521 1000,1521 1000,1564 0,1564" />
+		</GraphicRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="224,205 933,205 933,461 224,461" />
+			<!-- line left out: id="r4l0" points="226,212 234,210 278,208 285,208 370,210 384,211 395,205 402,205 411,206 461,211 467,209 483,209 538,210 549,211 561,210 567,210 579,211 587,212 621,212 652,211 658,211 660,219 688,207 708,207 718,213 760,211 773,211 779,213 796,214 837,213 843,213 853,216 864,209 869,209 870,215 880,210 892,210 912,213 924,216 932,218 932,224 924,226 913,226 880,225 853,225 844,225 818,224 688,223 587,222 567,222 561,222 549,221 538,222 454,223 443,223 402,221 395,221 372,220 370,226 353,226 338,220 252,221 226,221" baseline="226,221 262,220 395,220 602,221 805,223 864,224 932,226" reason: differs: "rumt" against "tame" | Wikisource:  | next_nc_e1: rum tamen per Dei gratiam victor evasit. Et nisi tam arcte habitus | german_print2_15: rum tamen per Dei gratiam victor evasit. Et nisi tam arcte habitus -->
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="226,232 234,232 251,237 288,235 289,244 307,236 349,231 379,231 408,231 416,237 487,237 489,231 497,231 507,237 518,235 528,231 530,231 549,237 590,238 683,238 769,233 770,239 932,240 932,254 888,254 861,250 861,256 853,256 814,255 812,248 590,248 530,252 455,252 433,249 416,249 408,246 226,248" />
+				<Baseline points="226,248 455,245 932,251" />
+				<TextEquiv index="1">
+					<Unicode>fuisset, vix Theologi perfecti nomen meruisset. Tria quippe sunt,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="225,267 237,264 270,263 335,257 399,256 405,256 408,263 434,257 440,257 451,262 472,263 473,270 491,263 538,264 552,257 575,257 576,264 597,265 600,258 610,258 612,264 678,259 681,259 690,264 715,259 721,259 733,264 809,260 848,260 849,266 861,266 861,273 878,266 901,266 912,268 912,261 918,261 920,267 932,267 932,277 861,277 804,274 691,274 690,280 678,280 664,274 623,277 610,273 505,273 504,279 491,279 473,274 451,272 225,274" />
+				<Baseline points="225,274 399,272 932,277" />
+				<TextEquiv index="1">
+					<Unicode>ex mente Beati Lutheri, quae Theologum perficiunt: Oratio, medi-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="225,289 270,289 317,286 393,286 427,283 449,283 489,289 618,289 628,287 672,287 692,290 721,291 736,284 749,284 767,285 780,290 806,291 807,298 827,291 912,292 932,294 932,303 795,301 755,306 750,306 749,300 736,300 720,294 720,300 225,300" />
+				<Baseline points="225,301 269,298 317,298 736,300 932,303" />
+				<TextEquiv index="1">
+					<Unicode>tatio et tentatio. Haec omnia in nostro fuisse Ephoro, nemo, nisi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l4" custom="readingOrder {index:4;}">
+				<Coords points="225,311 374,314 374,321 393,314 440,315 440,309 458,309 516,309 517,315 542,313 668,316 695,314 772,316 782,311 793,311 801,317 827,317 831,325 849,317 903,318 912,313 919,313 921,319 932,319 932,329 793,326 668,326 654,331 648,331 633,325 510,325 472,328 417,328 338,325 328,330 308,330 270,326 225,327" />
+				<Baseline points="225,327 393,324 762,326 932,329" />
+				<TextEquiv index="1">
+					<Unicode>horum ignarus, negabit. Tuit enim in precatione ardens: in medi-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l5" custom="readingOrder {index:5;}">
+				<Coords points="225,341 244,340 253,336 264,336 282,341 315,342 315,335 334,335 341,340 487,338 538,341 574,341 656,339 662,342 748,341 771,343 790,337 802,337 809,343 867,344 884,338 890,338 890,344 925,344 933,347 933,353 913,357 902,357 884,354 845,353 843,359 832,359 831,353 631,351 631,357 625,357 608,349 597,351 377,350 354,354 342,354 328,351 225,352" />
+				<Baseline points="225,352 450,350 933,354" />
+				<TextEquiv index="1">
+					<Unicode>tatione diligens: in tentatione vero patiens: vitae denique hujus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l6" points="464,364 476,364 520,366 552,367 586,367 641,367 642,361 653,361 655,367 660,367 715,368 724,370 729,375 757,365 768,363 786,363 833,367 850,369 851,363 863,363 864,370 933,370 933,380 911,385 906,385 891,379 800,379 774,378 763,377 715,378 691,378 660,377 631,377 629,383 617,383 617,377 575,377 556,377 469,376 464,370" baseline="464,376 545,376 804,378 890,379 933,380" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: eternae vero cupidissimus. Obiit tandem pie | german_print2_15: eternae vero cupidissimus. Obiit tandem pie -->
+			<TextLine id="r4l7" custom="readingOrder {index:7;}">
+				<Coords points="225,396 231,392 262,394 263,388 274,388 287,393 304,393 305,387 316,387 318,393 407,393 407,386 413,386 415,392 446,387 458,387 458,394 468,394 470,387 512,387 512,393 561,394 572,388 586,388 659,391 692,395 692,388 705,388 707,395 725,393 744,393 745,401 760,388 776,388 783,394 797,394 828,389 839,389 849,395 903,393 933,394 933,406 856,407 776,404 646,407 636,403 263,403 262,410 256,410 242,404 225,404" />
+				<Baseline points="225,404 326,402 446,402 747,403 933,406" />
+				<TextEquiv index="1">
+					<Unicode>et placide in medio belli furore Anno 1632, die 16. Decembris, aetat.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l8" points="229,420 248,420 249,428 270,413 282,413 284,419 312,419 332,412 338,412 338,418 373,418 393,412 414,412 434,412 442,419 456,418 473,418 541,415 550,413 560,413 560,419 571,419 602,417 607,417 661,419 681,420 746,414 752,414 772,415 786,420 796,420 835,421 860,422 861,415 872,415 914,416 927,416 927,432 914,432 911,432 873,431 853,430 821,433 810,433 791,430 746,430 661,429 590,429 581,427 571,429 541,429 509,428 508,434 502,434 484,428 441,428 414,428 338,429 270,429 234,435 229,435" baseline="229,429 332,428 502,428 680,429 927,429" reason: differs: "nosDecu" against "os 21. " | Wikisource:  | next_nc_e1: 49, dum huic Ecclesiae praeſuisset annos De cujus obitu sie | german_print2_15: 49, dum huic Ecclesiae praeſfuisset annos De cujus obitu sic -->
+			<TextLine id="r4l9" custom="readingOrder {index:9;}">
+				<Coords points="224,447 303,445 304,439 316,439 317,446 328,444 345,444 359,438 365,438 392,438 406,444 571,443 622,445 624,439 634,439 636,445 682,446 682,440 694,440 695,446 732,445 732,456 616,460 483,454 481,460 476,460 460,452 452,454 425,454 418,460 406,460 392,454 293,455 293,461 279,461 277,455 247,455 247,461 235,461 224,456" />
+				<Baseline points="224,455 476,452 732,456" />
+				<TextEquiv index="1">
+					<Unicode>ego quidem sub ipsius persona tum plangebam:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>fuisset, vix Theologi perfecti nomen meruisset. Tria quippe sunt,
+ex mente Beati Lutheri, quae Theologum perficiunt: Oratio, medi-
+tatio et tentatio. Haec omnia in nostro fuisse Ephoro, nemo, nisi
+horum ignarus, negabit. Tuit enim in precatione ardens: in medi-
+tatione diligens: in tentatione vero patiens: vitae denique hujus
+et placide in medio belli furore Anno 1632, die 16. Decembris, aetat.
+ego quidem sub ipsius persona tum plangebam:</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="451,366 461,366 461,376 451,376" />
+		</GraphicRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="225,362 426,362 426,382 225,382" />
+			<!-- line left out: id="r6l0" points="225,368 255,368 256,362 268,362 269,368 282,367 293,367 330,366 348,366 354,364 369,364 381,366 423,366 423,374 426,374 426,377 423,377 348,376 335,376 335,382 281,382 269,382 237,379 225,379" baseline="225,379 314,376 426,376" reason: differs: "mali" against "| st" | Wikisource:  | next_nc_e1: malignae pertaesus,
+ | german_print2_15: malignae pertaesus, a
+ -->
+		</TextRegion>
+		<GraphicRegion id="r7">
+			<Coords points="666,397 677,397 677,409 666,409" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="688,415 713,415 713,433 688,433" />
+		</GraphicRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="277,469 901,469 901,778 277,778" />
+			<!-- line left out: id="r9l0" points="277,471 284,471 287,484 319,470 335,470 336,476 347,476 349,470 361,470 387,477 396,475 408,475 409,469 421,469 421,475 449,473 455,473 476,475 492,476 505,475 508,475 551,476 558,470 571,470 571,476 593,476 643,474 649,474 673,477 674,471 685,471 693,477 731,477 802,477 810,479 810,489 790,489 718,487 692,487 687,487 614,486 558,486 551,485 534,486 505,486 492,485 455,485 372,485 347,486 284,487 277,487" baseline="277,486 371,485 745,485 810,488" reason: differs: "I.Nu" against "t;" " | Wikisource:  | next_nc_e1: I. Nulla salus terris: coelum contendimus omnes, | german_print2_15: I. Nulla salus terris: coelum contendimus omnes, -->
+			<TextLine id="r9l1" custom="readingOrder {index:1;}">
+				<Coords points="351,496 373,496 439,496 462,501 496,501 520,504 525,496 537,496 539,502 565,501 582,496 593,496 601,502 653,497 687,502 789,504 789,513 783,518 770,518 770,512 760,512 753,518 741,518 739,512 351,511" />
+				<Baseline points="351,511 789,513" />
+				<TextEquiv index="1">
+					<Unicode>Heic ubi vera salus: heic ubi vera quies.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l2" custom="readingOrder {index:2;}">
+				<Coords points="317,522 329,521 339,521 346,527 397,527 405,521 417,521 422,521 494,522 507,527 524,528 542,522 542,530 559,528 560,522 576,522 608,528 630,528 644,522 654,522 685,529 686,536 704,525 761,527 768,529 782,523 793,523 794,529 814,529 814,539 690,540 686,540 654,538 647,540 644,540 339,536 329,538 317,538" />
+				<Baseline points="317,538 450,536 814,539" />
+				<TextEquiv index="1">
+					<Unicode>Terra vale: Coelum salve: ne flete, furenti hoc</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l3" custom="readingOrder {index:3;}">
+				<Coords points="350,551 362,549 376,549 431,553 555,552 592,554 634,554 650,548 654,548 656,554 666,554 674,552 706,554 739,554 765,552 765,564 625,565 594,562 592,570 578,570 578,564 482,563 420,563 419,569 401,569 386,563 364,568 350,568" />
+				<Baseline points="350,563 765,564" />
+				<TextEquiv index="1">
+					<Unicode>Qui pius emoritur tempore, laetus ovat.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l4" custom="readingOrder {index:4;}">
+				<Coords points="320,573 326,573 352,580 365,581 366,573 378,573 380,579 418,574 428,574 441,579 477,578 518,580 520,574 531,574 533,580 565,578 579,578 585,580 631,580 638,574 650,574 651,581 686,580 701,574 705,574 707,580 718,580 725,578 765,579 765,591 664,590 663,596 651,596 650,590 419,589 419,595 410,595 395,589 320,590" />
+				<Baseline points="320,590 765,590" />
+				<TextEquiv index="1">
+					<Unicode>Dissolvi placuit: vidi satis undique luctus;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l5" custom="readingOrder {index:5;}">
+				<Coords points="351,599 357,599 359,605 388,605 389,599 401,599 403,605 516,606 516,613 535,606 588,606 627,604 699,607 700,601 705,601 708,607 755,606 755,616 674,616 672,622 655,622 653,615 567,615 552,616 541,621 516,617 476,615 470,615 470,621 453,621 421,616 351,615" />
+				<Baseline points="351,615 755,616" />
+				<TextEquiv index="1">
+					<Unicode>Invidiam passus, passus et opprobrium</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l6" custom="readingOrder {index:6;}">
+				<Coords points="318,626 341,626 409,626 468,631 508,632 508,626 521,626 521,632 697,630 769,632 783,627 805,627 813,633 836,633 836,644 770,642 769,649 752,649 750,640 723,642 678,642 678,648 672,648 659,642 630,644 597,641 579,642 579,648 567,648 565,642 457,642 442,647 436,647 421,641 318,642" />
+				<Baseline points="318,642 481,640 836,644" />
+				<TextEquiv index="1">
+					<Unicode>Hinc mihi pro sudore quies jam parta sepulchro,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l7" custom="readingOrder {index:7;}">
+				<Coords points="350,651 371,651 385,659 395,657 446,656 489,652 500,652 501,658 597,656 666,658 666,652 679,652 681,658 704,659 704,668 608,668 577,673 532,673 526,673 512,667 489,667 483,673 471,673 457,667 401,667 401,673 395,673 394,667 350,667" />
+				<Baseline points="350,667 704,668" />
+				<TextEquiv index="1">
+					<Unicode>Et sperata polo pro pietate salus.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l8" custom="readingOrder {index:8;}">
+				<Coords points="318,679 348,678 350,684 393,685 399,683 435,681 469,686 474,678 487,678 499,683 513,685 527,678 535,678 543,685 587,684 587,678 622,678 625,684 640,685 705,685 711,678 722,678 725,684 740,686 750,677 753,677 753,695 537,694 535,700 527,700 495,694 318,693" />
+				<Baseline points="318,693 753,694" />
+				<TextEquiv index="1">
+					<Unicode>Salve sancta salus, Jesu dulcissime salve!</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l9" custom="readingOrder {index:9;}">
+				<Coords points="348,704 360,703 378,703 380,709 401,710 448,710 449,704 489,704 490,711 511,710 523,707 550,707 592,710 593,704 604,704 616,709 667,710 669,704 681,704 681,710 693,710 698,703 701,703 701,720 582,719 550,725 523,725 511,725 497,718 489,720 348,719" />
+				<Baseline points="348,719 496,718 701,720" />
+				<TextEquiv index="1">
+					<Unicode>Salve coelestis patria chara mihi!</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l10" custom="readingOrder {index:10;}">
+				<Coords points="318,730 342,730 342,736 362,736 377,729 382,729 382,735 401,730 419,730 458,736 473,730 484,730 484,736 572,734 607,736 640,734 652,737 665,731 670,731 671,737 736,736 742,738 749,730 760,730 761,736 901,736 901,747 847,745 836,746 824,751 812,751 810,745 694,746 607,751 601,751 572,746 558,740 558,746 318,746" />
+				<Baseline points="318,746 901,746" />
+				<TextEquiv index="1">
+					<Unicode>Heic habitare bonum est: parte heic meliore quiescam,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l11" custom="readingOrder {index:11;}">
+				<Coords points="348,758 356,756 368,756 395,759 408,756 413,756 443,764 450,760 475,756 484,756 486,763 603,757 616,757 646,762 765,762 765,772 486,772 484,778 475,778 461,772 348,771" />
+				<Baseline points="348,771 765,772" />
+				<TextEquiv index="1">
+					<Unicode>Cantabo et Jesum cum Simeone meum.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Heic ubi vera salus: heic ubi vera quies.
+Terra vale: Coelum salve: ne flete, furenti hoc
+Qui pius emoritur tempore, laetus ovat.
+Dissolvi placuit: vidi satis undique luctus;
+Invidiam passus, passus et opprobrium
+Hinc mihi pro sudore quies jam parta sepulchro,
+Et sperata polo pro pietate salus.
+Salve sancta salus, Jesu dulcissime salve!
+Salve coelestis patria chara mihi!
+Heic habitare bonum est: parte heic meliore quiescam,
+Cantabo et Jesum cum Simeone meum.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r10">
+			<Coords points="429,523 440,523 440,533 429,533" />
+		</GraphicRegion>
+		<GraphicRegion id="r11">
+			<Coords points="551,706 570,706 570,723 551,723" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="563,738 569,738 569,743 563,743" />
+		</GraphicRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="238,787 854,787 854,861 238,861" />
+			<!-- line left out: id="r13l0" points="238,788 296,787 310,787 330,791 356,793 356,787 368,787 375,793 437,793 438,787 450,787 458,793 492,793 595,788 599,788 618,788 632,792 642,794 642,804 599,804 595,804 492,803 404,804 388,804 356,803 356,809 343,809 343,803 318,803 310,809 296,809 238,804" baseline="238,804 403,803 579,802 595,802 642,804" reason: differs: "II.E" against "| st" | Wikisource:  | next_nc_e1: II. Epitaphium indicans annum obitu | german_print2_15: II. Epitaphium indicans annum obitu -->
+			<!-- line left out: id="r13l1" points="319,814 334,814 358,813 388,813 434,813 453,814 482,813 500,813 520,814 530,813 535,813 575,813 579,820 586,820 588,813 594,813 620,814 636,820 644,820 646,814 673,814 708,814 709,820 723,819 730,813 742,813 751,817 788,814 799,814 819,819 820,813 841,813 843,820 854,820 854,830 843,830 836,828 820,828 819,835 813,835 812,829 799,829 783,828 751,829 730,829 728,835 723,835 722,828 708,829 673,829 620,829 535,829 453,830 436,830 430,829 334,829 319,829" baseline="319,829 387,828 777,828 854,830" reason: second model: differs: "HoCC" against "itus" | Wikisource: HoCCe CVbat FabrI VIrIDI sVb CespIte CorpVs, | next_nc_e1: HoCCe CVbat FabrI VIrIDI sVb Cesplte CorpVs, | german_print2_15: HoCCe CVbat Fabrl VITIDI sVb Cesplte CorpyVs, -->
+			<!-- line left out: id="r13l2" points="347,840 360,840 360,846 370,846 372,839 387,839 418,839 420,850 430,850 430,844 446,839 471,839 484,845 492,845 524,843 537,839 543,839 567,845 574,845 635,840 647,840 654,846 663,844 675,844 725,845 727,839 733,839 754,839 754,855 727,855 714,854 713,861 701,861 688,855 675,856 609,856 598,858 586,858 511,855 511,861 500,861 492,856 484,856 456,855 360,855 347,854" baseline="347,854 754,855" reason: differs: "SeDf" against "rpVs" | Wikisource:  | next_nc_e1: SeD fLatVs repetlt regna beata poLl.
+ | german_print2_15: SeD fLatyVs repetlt regna beata polI.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r14">
+			<Coords points="645,795 666,795 666,803 645,803" />
+		</GraphicRegion>
+		<TextRegion id="r15" custom="readingOrder {index:15;} orientation {0;}">
+			<Coords points="224,871 862,871 862,1048 224,1048" />
+			<!-- line left out: id="r15l0" points="224,871 250,871 252,884 285,880 290,871 334,871 376,874 420,876 455,871 460,871 473,876 501,876 564,876 576,877 589,884 592,884 592,887 589,887 572,880 570,886 564,887 535,887 501,887 473,892 461,892 460,886 420,886 376,886 334,886 312,887 224,887" baseline="224,887 311,886 523,886 592,887" reason: differs: "III." against "t;" " | Wikisource:  | next_nc_e1: III. Ad beatissimos ipsius manes: | german_print2_15: III. Ad beatissimos ipsius manes: -->
+			<!-- line left out: id="r15l1" points="316,899 322,899 328,898 340,897 352,897 389,902 389,896 401,896 419,896 427,902 439,897 444,897 461,900 487,900 523,902 533,904 533,910 553,896 568,896 577,902 657,902 699,902 716,902 757,902 757,912 716,912 668,914 645,915 628,915 621,913 537,914 533,914 523,912 487,913 425,913 420,913 374,912 366,911 330,917 324,917 322,911 316,911" baseline="316,911 682,911 757,913" reason: differs: "(Qui" against "anes" | Wikisource:  | next_nc_e1: (Qui valedixisti terris, Vir magne, vicissim | german_print2_15: Qui valedixisti terris, Vir magne, vicissim -->
+			<!-- line left out: id="r15l2" points="347,922 359,922 359,928 371,928 372,922 376,922 378,928 389,928 442,923 450,923 456,928 478,929 478,923 491,923 523,928 539,926 552,926 597,926 617,926 643,923 647,923 672,923 684,928 684,938 668,938 656,937 656,944 643,944 629,938 597,943 577,943 564,937 552,938 539,939 531,939 512,937 512,944 450,944 434,944 399,939 389,939 359,938 347,935" baseline="347,939 628,937 643,937 684,938" reason: differs: "Salv" against "issi" | Wikisource:  | next_nc_e1: Salve suprcemi portio grata poli. | german_print2_15: Salve supremi portio grata poli. -->
+			<TextLine id="r15l3" custom="readingOrder {index:3;}">
+				<Coords points="366,954 373,949 408,954 465,954 480,956 480,962 498,955 510,954 568,954 602,952 626,954 632,952 664,954 735,954 749,948 771,948 773,955 781,955 781,965 615,964 614,970 602,970 588,964 484,966 444,964 366,964" />
+				<Baseline points="366,964 781,965" />
+				<TextEquiv index="1">
+					<Unicode>ii memores, memores pietatis et in Te,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r15l4" custom="readingOrder {index:4;}">
+				<Coords points="350,974 368,974 370,981 434,975 452,975 473,980 484,981 553,975 576,975 584,980 599,974 613,974 621,980 680,980 681,974 692,974 694,981 704,981 705,987 723,974 740,974 752,979 783,980 785,987 787,987 787,989 708,991 620,990 538,992 526,992 484,990 441,992 434,992 350,990" />
+				<Baseline points="350,990 787,989" />
+				<TextEquiv index="1">
+					<Unicode>Flemus discessum, Vir Reverende, Tuum.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r15l5" custom="readingOrder {index:5;}">
+				<Coords points="319,1001 331,1001 339,1004 365,1006 524,1007 526,1001 531,1001 532,1008 558,1006 599,1006 608,1009 621,1000 684,1000 684,1006 697,1003 709,1003 728,1006 732,1013 750,1006 802,1005 802,999 816,999 852,1005 860,1013 862,1013 862,1015 736,1017 599,1016 587,1019 518,1017 484,1022 470,1022 447,1017 413,1015 413,1022 400,1022 400,1016 354,1016 352,1022 340,1022 339,1016 319,1016" />
+				<Baseline points="319,1017 862,1015" />
+				<TextEquiv index="1">
+					<Unicode>Atque ego cumprimis, cujus Tu Fautor, an addam?</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r15l6" custom="readingOrder {index:6;}">
+				<Coords points="348,1026 361,1026 362,1032 469,1027 481,1032 506,1033 540,1032 551,1030 616,1032 646,1030 657,1032 671,1026 700,1026 708,1032 718,1032 718,1042 677,1042 671,1030 657,1040 646,1042 616,1043 596,1042 595,1048 583,1048 568,1042 520,1045 481,1043 455,1045 425,1043 348,1042" />
+				<Baseline points="348,1041 656,1040 718,1042" />
+				<TextEquiv index="1">
+					<Unicode>Promotor fueras, ista parento Tibi.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ii memores, memores pietatis et in Te,
+Flemus discessum, Vir Reverende, Tuum.
+Atque ego cumprimis, cujus Tu Fautor, an addam?
+Promotor fueras, ista parento Tibi.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r16">
+			<Coords points="577,878 583,878 583,884 577,884" />
+		</GraphicRegion>
+		<GraphicRegion id="r17">
+			<Coords points="346,934 347,934 347,938 346,938" />
+		</GraphicRegion>
+		<GraphicRegion id="r18">
+			<Coords points="316,948 363,948 363,965 316,965" />
+		</GraphicRegion>
+		<TextRegion id="r19" custom="readingOrder {index:19;} orientation {0;}">
+			<Coords points="219,1062 936,1062 936,1344 219,1344" />
+			<TextLine id="r19l0" custom="readingOrder {index:0;}">
+				<Coords points="273,1063 328,1063 349,1068 406,1066 465,1069 466,1063 479,1063 479,1070 621,1067 665,1069 677,1062 686,1062 687,1068 699,1068 699,1062 711,1062 711,1068 800,1068 800,1062 812,1062 843,1062 858,1062 936,1068 936,1080 900,1077 812,1078 774,1080 762,1080 752,1078 699,1079 687,1076 686,1084 677,1084 665,1077 654,1079 349,1079 304,1084 293,1084 291,1078 273,1078" />
+				<Baseline points="273,1079 936,1076" />
+				<TextEquiv index="1">
+					<Unicode>Sepultus extra urbem in coemeterio Johanneo, ubi sibi vivus,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r19l1" points="221,1094 261,1093 274,1093 281,1088 293,1088 302,1092 314,1091 322,1089 327,1089 329,1096 350,1094 421,1094 445,1094 463,1094 476,1095 492,1089 497,1089 511,1094 526,1092 532,1092 578,1089 582,1089 589,1095 601,1092 608,1092 624,1089 635,1089 650,1096 656,1094 705,1092 717,1092 719,1101 737,1094 748,1094 770,1094 782,1100 787,1094 793,1094 795,1088 813,1088 825,1093 827,1101 845,1093 869,1093 898,1093 909,1087 920,1087 930,1092 930,1102 920,1103 858,1103 856,1109 845,1109 827,1105 806,1104 748,1104 723,1106 719,1106 692,1104 658,1105 476,1107 464,1107 451,1105 376,1105 350,1105 327,1104 239,1104 233,1105 221,1105" baseline="221,1105 335,1104 769,1103 930,1103" reason: differs: "mhie" against " hic se" | Wikisource:  | next_nc_e1: mortalitatis suae memor, bustum extrui curavit, nec alibi, quam hie | german_print2_15: mortalitatis suae memor, bustum extrui curavit, nec alibi, quam hic -->
+			<TextLine id="r19l2" custom="readingOrder {index:2;}">
+				<Coords points="221,1121 265,1121 266,1114 314,1114 319,1120 331,1120 332,1114 345,1114 351,1120 358,1117 369,1117 369,1131 285,1130 285,1136 275,1136 275,1130 254,1130 250,1136 237,1136 236,1130 221,1128" />
+				<Baseline points="221,1129 369,1131" />
+				<TextEquiv index="1">
+					<Unicode>sepeliri voluit.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r19l3" custom="readingOrder {index:3;}">
+				<Coords points="273,1140 296,1140 303,1146 314,1146 315,1140 344,1140 344,1146 380,1148 381,1141 403,1140 410,1140 431,1147 437,1147 437,1140 449,1140 450,1147 460,1147 478,1140 492,1140 493,1146 511,1146 557,1141 575,1141 576,1147 726,1140 752,1147 771,1146 790,1139 795,1139 797,1145 872,1145 873,1139 883,1139 903,1145 935,1144 935,1154 832,1159 732,1156 598,1156 575,1157 556,1162 544,1162 543,1156 532,1157 523,1162 511,1162 460,1157 273,1156" />
+				<Baseline points="273,1156 935,1154" />
+				<TextEquiv index="1">
+					<Unicode>Freilich sind die Biographien sonst nicht so lang und von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r19l4" points="221,1166 233,1166 234,1172 283,1172 283,1166 296,1166 305,1169 369,1168 376,1166 385,1166 386,1173 397,1173 398,1167 413,1167 421,1166 434,1166 434,1172 445,1172 445,1166 457,1166 458,1173 469,1172 478,1172 478,1166 480,1166 506,1172 528,1167 593,1167 606,1172 607,1166 618,1166 620,1172 628,1172 676,1172 677,1165 692,1165 721,1172 753,1172 774,1166 786,1166 860,1171 861,1165 902,1165 922,1165 923,1171 935,1171 935,1181 905,1181 902,1187 895,1187 871,1181 814,1185 803,1185 786,1182 744,1182 649,1182 606,1183 539,1183 480,1183 397,1183 342,1183 316,1183 305,1183 221,1182" baseline="221,1182 774,1181 935,1181" reason: second model: differs: "dreãoft" against "dreä of" | Wikisource: den älteren Geistlichen weiſs Andreä oft nur Tag und Jahr | next_nc_e1: den älteren Geistlichen weiſs Andreä oft nur Tag und Jahr | german_print2_15: den älteren Geistlichen weiſs Andreã oft nur Tag und Jahr -->
+			<TextLine id="r19l5" custom="readingOrder {index:5;}">
+				<Coords points="220,1193 233,1193 233,1199 276,1201 276,1193 314,1195 356,1193 394,1195 406,1193 448,1198 449,1192 491,1192 498,1198 511,1198 522,1192 564,1192 571,1199 655,1198 655,1192 672,1192 673,1198 694,1197 704,1192 734,1191 760,1191 760,1197 773,1195 850,1197 851,1191 861,1191 862,1197 886,1197 902,1191 919,1191 920,1197 928,1197 934,1201 934,1203 928,1207 734,1207 706,1214 704,1214 695,1208 655,1208 655,1214 643,1214 643,1208 220,1209" />
+				<Baseline points="220,1208 934,1206" />
+				<TextEquiv index="1">
+					<Unicode>des Amtsantrittes und des Todes anzugeben. Trotz mancher Irr-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r19l6" custom="readingOrder {index:6;}">
+				<Coords points="220,1222 228,1220 246,1220 279,1224 299,1218 305,1218 306,1224 323,1224 346,1218 367,1219 383,1224 394,1225 395,1218 400,1218 401,1224 436,1224 456,1218 462,1218 470,1224 486,1221 540,1224 558,1218 570,1218 570,1224 593,1219 655,1224 656,1218 667,1218 684,1224 689,1217 703,1217 703,1223 717,1223 724,1218 758,1217 770,1217 783,1218 784,1224 826,1225 826,1217 852,1217 859,1222 870,1224 871,1217 883,1217 896,1225 914,1222 929,1223 929,1233 592,1235 521,1234 486,1240 470,1240 469,1234 220,1234" />
+				<Baseline points="220,1234 929,1233" />
+				<TextEquiv index="1">
+					<Unicode>tümer im einzelnen legte er doch auch durch diese Arbeit eine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r19l7" custom="readingOrder {index:7;}">
+				<Coords points="220,1244 268,1244 268,1250 316,1250 316,1244 322,1244 323,1250 424,1250 424,1244 445,1244 446,1250 456,1250 456,1244 468,1244 469,1250 491,1250 508,1244 556,1244 556,1250 578,1251 578,1244 582,1244 598,1250 610,1250 611,1244 623,1244 623,1257 646,1244 658,1244 659,1250 719,1250 782,1249 801,1243 806,1243 806,1249 840,1248 847,1243 861,1243 878,1249 903,1249 903,1243 913,1243 926,1246 934,1251 934,1258 823,1259 812,1262 719,1259 627,1261 456,1261 385,1265 372,1265 278,1260 220,1260" />
+				<Baseline points="220,1260 934,1258" />
+				<TextEquiv index="1">
+					<Unicode>Probe seines gründlichen Fleiſses ab, denn es war gewiſs nichts</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r19l8" points="221,1269 229,1269 229,1277 241,1277 241,1270 252,1270 264,1275 264,1269 276,1269 284,1273 330,1276 331,1270 343,1270 350,1276 363,1276 375,1270 394,1270 394,1276 417,1274 427,1270 449,1265 460,1265 533,1269 538,1270 539,1276 588,1273 594,1273 637,1272 647,1270 654,1270 655,1277 666,1277 666,1270 671,1270 690,1269 694,1269 696,1275 708,1275 708,1269 725,1269 726,1276 742,1275 751,1275 751,1269 786,1269 788,1275 793,1275 830,1274 875,1273 894,1273 904,1275 904,1286 894,1289 875,1289 826,1284 804,1285 753,1287 720,1287 708,1287 671,1286 625,1286 533,1287 496,1291 460,1295 449,1295 449,1287 427,1291 417,1291 296,1286 243,1286 228,1286 221,1285" baseline="221,1285 904,1283" reason: differs: "e50—60C" against " 50–60 " | Wikisource:  | next_nc_e1: Leichtes über die 50 — 60 Chemnitzer Geistlichen, die von 1539 | german_print2_15: Leichtes über die 50— 60 Chemnitzer Geistlichen, die von 1539 -->
+			<TextLine id="r19l9" custom="readingOrder {index:9;}">
+				<Coords points="220,1300 227,1297 389,1296 425,1302 426,1296 438,1296 439,1302 462,1302 462,1309 486,1296 498,1296 506,1302 546,1302 551,1296 556,1296 557,1302 568,1302 568,1296 594,1296 594,1302 607,1302 616,1299 645,1302 659,1295 675,1295 681,1301 698,1301 698,1295 710,1295 720,1301 737,1296 748,1296 765,1299 933,1300 933,1310 675,1312 607,1317 594,1317 516,1312 466,1314 239,1315 220,1311" />
+				<Baseline points="220,1311 933,1310" />
+				<TextEquiv index="1">
+					<Unicode>1639 im Amte standen, die wichtigsten Nachrichten zusammen zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r19l10" custom="readingOrder {index:10;}">
+				<Coords points="219,1322 349,1321 361,1321 361,1327 400,1322 401,1328 413,1328 413,1322 435,1322 448,1327 468,1326 510,1328 510,1322 525,1322 525,1330 550,1328 591,1328 591,1322 607,1322 617,1328 651,1329 651,1321 663,1321 711,1321 712,1327 727,1328 742,1321 761,1321 763,1327 843,1328 843,1321 853,1321 854,1327 863,1327 872,1321 883,1321 912,1326 933,1325 933,1336 626,1339 462,1338 460,1344 448,1344 448,1338 330,1337 299,1343 259,1343 253,1338 219,1337" />
+				<Baseline points="219,1338 933,1336" />
+				<TextEquiv index="1">
+					<Unicode>bringen. Sehr beklagt muſs werden, daſs die Mneme scholastica</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Sepultus extra urbem in coemeterio Johanneo, ubi sibi vivus,
+sepeliri voluit.
+Freilich sind die Biographien sonst nicht so lang und von
+des Amtsantrittes und des Todes anzugeben. Trotz mancher Irr-
+tümer im einzelnen legte er doch auch durch diese Arbeit eine
+Probe seines gründlichen Fleiſses ab, denn es war gewiſs nichts
+1639 im Amte standen, die wichtigsten Nachrichten zusammen zu
+bringen. Sehr beklagt muſs werden, daſs die Mneme scholastica</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r20">
+			<Coords points="972,256 981,256 981,788 972,788" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+tamen per Dei gratiam victor evasit. Et nisi tam arcte habitus
+fuisset, vix Theologi perfecti nomen meruisset. Tria quippe sunt,
+ex mente Beati Lutheri, quae Theologum perficiunt: Oratio,
+meditatio et tentatio. Haec omnia in nostro fuisse Ephoro, nemo, nisi
+horum ignarus, negabit. Tuit enim in precatione ardens: in
+meditatione diligens: in tentatione vero patiens: vitae denique hujus
+malignae pertaesus, aeternae vero cupidissimus. Obiit tandem pie
+et placide in medio belli furore Anno 1632, die 16. Decembris, aetat.
+49, dum huic Ecclesiae praefuisset annos 21. De cujus obitu sic
+ego quidem sub ipsius persona tum plangebam:
+| style="vertical-align:top;text-align:right;" | I.
+| Nulla salus terris: coelum contendimus omnes,
+Heic ubi vera salus: heic ubi vera quies.
+Terra vale: Coelum salve: ne flete, furenti hoc
+Qui pius emoritur tempore, laetus ovat.
+Dissolvi placuit: vidi satis undique luctus;
+Invidiam passus, passus et opprobrium.
+Hinc mihi pro sudore quies jam parta sepulchro,
+Et sperata polo pro pietate salus.
+Salve sancta salus, Jesu dulcissime salve!
+Salve coelestis patria chara mihi!
+Heic habitare bonum est: parte heic meliore quiescam,
+Cantabo et Jesum cum Simeone meum.
+| style="vertical-align:top;text-align:right;" | II.
+| Epitaphium indicans annum obitus:
+HoCCe CVbat FabrI VIrIDI sVb CespIte CorpVs,
+SeD fLatVs repetIt regna beata poLI.
+| style="vertical-align:top;text-align:right;" | III.
+| Ad beatissimos ipsius manes:
+Qui valedixisti terris, Vir magne, vicissim
+Salve supremi portio grata poli.
+Officii memores, memores pietatis et in Te,
+Flemus discessum, Vir Reverende, Tuum.
+Atque ego cumprimis, cujus Tu Fautor, an addam?
+Promotor fueras, ista parento Tibi.
+Sepultus extra urbem in coemeterio Johanneo, ubi sibi vivus,
+mortalitatis suae memor, bustum extrui curavit, nec alibi, quam hic
+sepeliri voluit.
+Freilich sind die Biographien sonst nicht so lang und von
+den älteren Geistlichen weiß Andreä oft nur Tag und Jahr
+des Amtsantrittes und des Todes anzugeben. Trotz mancher
+Irrtümer im einzelnen legte er doch auch durch diese Arbeit eine
+Probe seines gründlichen Fleißes ab, denn es war gewiß nichts
+Leichtes über die 50–60 Chemnitzer Geistlichen, die von
+1539–1639 im Amte standen, die wichtigsten Nachrichten zusammen zu
+bringen. Sehr beklagt muß werden, daß die Mneme scholastica
+-->
+	</Page>
+</PcGts>

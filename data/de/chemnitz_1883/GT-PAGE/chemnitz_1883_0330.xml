@@ -1,0 +1,462 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:04:24</Created>
+		<LastChange>2026-11-23T14:04:24</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/330 revision 5010388 of 2026-08-07T12:43:00Z, proofread level 3, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0330.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro10022469139295024131" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="19" regionRef="r19" />
+				<RegionRefIndexed index="21" regionRef="r21" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="25,1504 35,1504 35,1514 25,1514" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,0 1000,0 1000,144 0,144" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="499,135 641,135 641,172 499,172" />
+			<!-- line left out: id="r2l0" points="499,155 522,155 553,147 612,147 612,135 641,135 641,172 612,172 612,159 572,162 553,162 499,157" baseline="499,162 641,162" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 119 —
+ | german_print2_15: — 118 —
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="301,200 770,200 770,1333 301,1333" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="304,202 316,202 317,208 344,207 358,200 364,200 377,201 380,207 391,206 402,201 439,201 445,207 473,202 522,202 543,209 612,209 613,203 624,203 626,209 636,209 651,203 670,203 670,209 683,209 683,203 692,203 692,220 601,217 587,223 576,223 571,218 304,217" />
+				<Baseline points="304,217 601,217 692,220" />
+				<TextEquiv index="1">
+					<Unicode>Sein Reich das bleibt ewig ohn End,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="305,227 322,227 327,233 341,233 354,227 367,227 368,234 394,227 398,227 401,233 413,233 413,227 423,227 424,233 471,233 475,227 486,227 500,233 529,233 552,235 554,228 564,228 566,234 590,229 595,229 609,234 609,228 619,228 620,234 655,236 656,229 665,229 665,244 576,244 542,246 530,246 522,243 507,242 305,243" />
+				<Baseline points="305,243 665,244" />
+				<TextEquiv index="1">
+					<Unicode>Das Zeitlich wird vergehn behend.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="331,253 337,253 361,253 395,258 434,260 449,253 464,253 466,259 491,259 491,253 501,253 516,259 547,259 566,262 566,254 579,254 586,262 618,260 632,254 661,254 668,259 668,270 600,270 579,270 566,270 523,268 501,270 457,270 449,270 331,269" />
+				<Baseline points="331,269 546,268 668,270" />
+				<TextEquiv index="1">
+					<Unicode>Ich armes Kind, vor dieser Zeit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="305,279 327,279 327,285 347,285 361,279 406,279 437,279 464,285 475,285 476,279 488,279 489,286 528,286 528,279 540,279 541,285 616,287 664,286 664,280 673,280 673,298 664,298 617,296 604,292 597,298 586,298 572,292 546,295 305,295" />
+				<Baseline points="305,295 673,296" />
+				<TextEquiv index="1">
+					<Unicode>War ich nicht aller dings gescheid,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l4" points="305,306 313,305 332,305 379,305 419,304 425,304 455,304 471,313 479,311 489,311 490,305 501,305 512,306 537,311 552,305 558,305 575,306 575,321 558,321 501,321 490,321 455,320 393,321 313,321 305,320" baseline="305,320 471,320 575,321" reason: differs: "sah'sch" against "sah’ sc" | Wikisource:  | next_nc_e1: Wann ich sah' schöne Bil | german_print2_15: Wann ich sah' schöne Bil -->
+			<!-- line left out: id="r3l5" points="304,331 316,331 316,339 324,339 327,331 339,331 364,336 374,338 390,331 412,331 412,337 424,336 430,336 480,336 495,337 496,331 538,331 540,337 566,332 575,332 575,347 339,347 316,347 304,346" baseline="304,346 390,346 575,347" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: Schöne Häuser vnd Kirch | german_print2_15: Schöne Häuser vnd Kirch -->
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="304,360 340,357 342,363 417,363 417,357 428,357 436,361 448,364 463,356 469,356 512,357 512,365 532,363 533,357 544,357 546,363 572,363 572,374 532,373 410,375 398,375 304,371" />
+				<Baseline points="304,372 572,373" />
+				<TextEquiv index="1">
+					<Unicode>Oder vergülte Bücherlein,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="304,386 340,383 398,389 421,387 441,387 452,389 467,382 483,382 507,382 537,382 546,383 548,391 560,389 581,389 581,400 537,400 507,400 475,400 467,400 421,398 304,397" />
+				<Baseline points="304,397 581,399" />
+				<TextEquiv index="1">
+					<Unicode>Oder mosierte Kleiderlein,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l8" custom="readingOrder {index:8;}">
+				<Coords points="305,409 382,409 382,415 390,415 395,409 406,409 420,421 425,414 431,414 432,408 444,408 446,414 479,413 601,415 615,409 633,409 640,415 661,415 661,426 622,426 615,426 305,424" />
+				<Baseline points="305,424 661,425" />
+				<TextEquiv index="1">
+					<Unicode>Dacht ich allzeit in meinem Sinn,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l9" custom="readingOrder {index:9;}">
+				<Coords points="306,434 320,434 320,443 327,443 327,448 320,451 306,451" />
+				<Baseline points="306,451 327,448" />
+				<TextEquiv index="1">
+					<Unicode>Es</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l10" points="305,461 314,460 332,460 339,466 377,461 380,461 404,461 419,470 425,470 425,460 437,460 439,468 448,468 462,460 474,460 479,466 492,466 492,460 507,460 534,461 536,467 547,467 548,460 558,460 575,467 578,467 586,465 597,465 629,461 633,461 636,467 643,467 643,475 633,476 578,477 575,477 448,476 362,477 339,477 305,476" baseline="305,476 629,475 643,475" reason: differs: "Wann" against "könt" | Wikisource:  | next_nc_e1: Wann ich die Sach thu' jetzt be | german_print2_15: Wann ich die Sach thu' jetzt be -->
+			<TextLine id="r3l11" custom="readingOrder {index:11;}">
+				<Coords points="304,487 316,487 316,494 374,492 450,492 486,489 531,492 556,487 567,487 575,491 660,493 671,499 671,502 450,504 374,502 370,508 357,508 355,501 304,502" />
+				<Baseline points="304,501 671,502" />
+				<TextEquiv index="1">
+					<Unicode>So seyn sie gar für nichts zu acht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l12" custom="readingOrder {index:12;}">
+				<Coords points="306,513 319,513 320,519 331,519 346,513 369,513 406,518 456,518 472,512 494,512 496,518 527,513 543,513 557,521 573,518 583,518 585,512 595,512 609,521 617,521 629,513 639,513 649,519 664,519 670,521 688,513 699,513 705,519 727,518 749,520 749,530 741,530 670,528 418,530 409,530 306,528" />
+				<Baseline points="306,528 749,529" />
+				<TextEquiv index="1">
+					<Unicode>Im Himml, im Himml, sind schöne Sachn,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l13" custom="readingOrder {index:13;}">
+				<Coords points="306,539 327,540 328,546 337,546 352,538 364,538 365,546 376,544 404,545 418,538 431,538 432,544 478,546 493,538 503,538 510,544 527,544 541,551 547,545 604,544 619,547 622,539 632,539 633,545 653,545 653,555 591,554 589,560 584,560 582,552 564,554 467,556 394,554 306,554" />
+				<Baseline points="306,554 653,554" />
+				<TextEquiv index="1">
+					<Unicode>Die keine Zunge kan aussprechn,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l14" custom="readingOrder {index:14;}">
+				<Coords points="305,565 382,572 386,565 412,564 423,564 431,570 479,565 524,565 571,570 682,570 682,581 673,581 305,580" />
+				<Baseline points="305,580 682,580" />
+				<TextEquiv index="1">
+					<Unicode>Die noch kein Ohr hat vernommen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l15" custom="readingOrder {index:15;}">
+				<Coords points="304,590 320,590 327,596 339,591 354,591 374,596 429,596 438,599 453,590 478,590 479,596 515,596 516,590 527,590 528,599 565,591 580,591 583,598 594,595 652,596 663,598 666,590 671,590 701,592 705,598 717,596 761,597 761,606 701,606 618,606 527,606 504,606 429,606 320,606 304,606" />
+				<Baseline points="304,606 761,606" />
+				<TextEquiv index="1">
+					<Unicode>Noch in eins Menschen Hertz sind kommn.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l16" custom="readingOrder {index:16;}">
+				<Coords points="305,617 369,617 406,622 408,616 418,616 434,622 457,622 473,616 495,616 497,622 520,622 521,616 557,616 557,622 580,622 581,616 591,616 622,616 623,623 646,622 654,626 657,616 668,616 669,622 705,617 711,624 720,624 728,617 730,617 730,621 728,621 720,631 418,634 408,634 305,632" />
+				<Baseline points="305,632 730,632" />
+				<TextEquiv index="1">
+					<Unicode>Im Himml, im Himml sind frewden viel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l17" points="305,642 311,642 332,643 396,648 411,642 424,641 428,641 463,642 470,649 489,649 489,642 498,642 514,648 520,648 536,650 537,642 547,642 568,643 570,649 580,649 581,643 592,643 610,648 626,642 637,642 638,648 666,643 669,643 714,643 714,657 708,657 708,663 686,663 669,663 666,663 648,657 637,658 525,658 514,657 491,663 470,663 463,662 452,662 443,658 424,645 423,658 385,663 352,663 346,663 305,658" baseline="305,658 647,657 714,657" reason: second model: differs: "Dasi" against ", Da" | Wikisource: Da singn d’ Engel vnd habn jhr spiel. | next_nc_e1: Da singn d’ Engel vnd habn jhr spiel. | german_print2_15: Da singn d' Engel vnd habn jhr spiel. -->
+			<!-- line left out: id="r3l18" points="305,669 318,669 319,675 330,675 346,668 351,668 369,669 406,674 408,668 418,668 433,674 472,669 483,668 495,668 496,674 520,674 520,668 538,668 553,676 560,676 560,668 576,668 594,673 627,668 637,668 639,677 650,674 666,674 682,668 687,668 697,676 710,676 710,683 637,684 418,685 318,685 305,685" baseline="305,684 627,683 710,683" reason: second model: differs: "ImHi" against "piel" | Wikisource: Im Himml, im Himml da ist kein Lei | next_nc_e1: Im Himml, im Himml da ist kein Lei | german_print2_15: Im Himml, im FHlimml da ist kein Lei -->
+			<TextLine id="r3l19" custom="readingOrder {index:19;}">
+				<Coords points="305,695 344,694 350,694 350,700 372,700 373,694 383,694 398,702 404,694 416,694 417,701 427,701 443,694 465,694 466,700 484,700 484,694 495,694 512,700 632,699 676,701 677,694 686,694 686,709 601,710 584,708 562,711 544,711 305,710" />
+				<Baseline points="305,710 686,709" />
+				<TextEquiv index="1">
+					<Unicode>Da sind die Kindr in grosser frewd.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l20" points="305,721 319,721 330,726 346,720 351,720 369,721 406,726 408,720 418,720 432,726 454,726 471,720 475,720 493,721 528,726 528,736 418,737 319,737 305,737" baseline="305,736 528,736" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: Im Himml, im Himm | german_print2_15: Im Himml, im Himm -->
+			<!-- line left out: id="r3l21" points="305,747 310,747 326,748 341,753 349,752 396,752 408,753 409,746 420,746 430,752 454,752 468,759 472,752 479,752 480,746 494,745 497,745 524,746 526,752 537,752 555,746 565,746 569,752 653,752 653,761 631,762 555,762 538,756 537,762 512,762 494,748 492,762 435,762 426,761 420,762 396,767 385,767 310,763 305,763" baseline="305,762 653,762" reason: differs: "Dare" against "l is" | Wikisource:  | next_nc_e1: Darein gehörn all' die Frommen. | german_print2_15: Darein gehörn all' die Frommen. -->
+			<TextLine id="r3l22" custom="readingOrder {index:22;}">
+				<Coords points="305,773 378,773 409,778 418,772 421,772 441,780 447,780 447,772 460,772 461,778 473,778 488,772 510,772 512,778 535,778 536,772 553,772 569,778 590,776 619,781 625,773 636,773 667,778 705,775 710,780 717,772 721,772 723,778 752,775 756,781 761,781 761,785 752,787 441,788 418,782 409,788 328,789 315,789 305,788" />
+				<Baseline points="305,788 761,787" />
+				<TextEquiv index="1">
+					<Unicode>Der Himml, der Himml ist schönes Schloſs</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l23" custom="readingOrder {index:23;}">
+				<Coords points="305,799 398,804 406,806 410,798 420,798 421,804 434,802 492,804 539,798 549,798 557,804 597,799 602,799 604,806 616,803 629,803 643,816 649,805 656,803 688,803 695,806 695,813 688,818 677,818 668,813 647,818 643,818 602,813 305,814" />
+				<Baseline points="305,814 695,813" />
+				<TextEquiv index="1">
+					<Unicode>Darinn wohnt vnser Herr Gott groſs.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l24" custom="readingOrder {index:24;}">
+				<Coords points="303,825 315,825 322,831 334,830 357,825 369,825 388,830 390,824 407,824 422,830 443,829 465,833 466,824 482,824 574,824 580,824 612,824 621,831 639,824 645,824 645,831 661,831 671,828 697,824 701,824 719,828 719,839 654,842 639,842 488,840 303,840" />
+				<Baseline points="303,840 719,839" />
+				<TextEquiv index="1">
+					<Unicode>Sein Stuhl ist schön mit Perln gestickt,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l25" custom="readingOrder {index:25;}">
+				<Coords points="304,851 383,850 393,856 418,856 418,850 428,850 442,855 465,856 479,850 485,850 485,856 512,856 517,850 521,850 523,856 540,851 545,851 546,857 603,858 604,850 613,850 615,856 656,856 658,849 672,849 672,865 589,866 581,864 550,866 406,866 405,872 386,872 380,872 304,867" />
+				<Baseline points="304,867 672,866" />
+				<TextEquiv index="1">
+					<Unicode>Mit Teppichten zierlich geschmück</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l26" custom="readingOrder {index:26;}">
+				<Coords points="304,877 327,878 337,883 363,876 368,876 424,876 426,882 481,882 482,876 493,876 508,882 542,882 557,876 576,876 590,877 592,884 603,882 615,877 660,882 660,892 337,893 310,893 304,893" />
+				<Baseline points="304,893 660,892" />
+				<TextEquiv index="1">
+					<Unicode>Die Tritt die sind von Elffenbein,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l27" custom="readingOrder {index:27;}">
+				<Coords points="304,903 326,904 337,909 352,902 387,902 401,908 450,903 454,903 467,908 507,908 521,902 538,902 541,908 579,908 587,902 596,902 598,911 607,907 648,908 648,918 596,917 326,919 304,919" />
+				<Baseline points="304,919 648,918" />
+				<TextEquiv index="1">
+					<Unicode>Die Erd von lauter Marmelstein.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l28" custom="readingOrder {index:28;}">
+				<Coords points="304,929 326,930 340,934 353,928 377,928 387,934 397,934 398,928 408,928 424,934 507,928 518,928 534,934 549,934 551,928 589,928 601,929 620,934 628,928 637,928 646,934 667,935 667,945 658,945 310,945 304,945" />
+				<Baseline points="304,944 667,944" />
+				<TextEquiv index="1">
+					<Unicode>Der Tisch von Gold vnd Perelein,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l29" custom="readingOrder {index:29;}">
+				<Coords points="302,955 315,955 332,960 343,961 355,954 367,954 367,960 396,958 465,960 480,954 485,954 492,960 537,960 551,954 577,954 579,962 589,962 591,954 614,954 624,958 658,961 658,971 624,970 614,972 591,972 577,970 439,969 396,970 395,976 389,976 388,970 302,970" />
+				<Baseline points="302,971 658,970" />
+				<TextEquiv index="1">
+					<Unicode>Sein Sceptr von lauter Edelgstein,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l30" custom="readingOrder {index:30;}">
+				<Coords points="302,983 343,986 358,980 389,980 389,986 398,986 400,980 411,980 412,993 451,986 467,986 480,980 496,980 499,986 565,986 566,980 577,980 591,987 622,985 643,986 689,984 693,988 700,979 711,979 713,985 748,985 755,978 759,978 759,989 770,989 770,994 689,994 602,999 591,999 529,996 416,998 358,998 302,996" />
+				<Baseline points="302,996 770,993" />
+				<TextEquiv index="1">
+					<Unicode>Sein Kleid, sein Kron vnd gantzer Schmuck,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l31" custom="readingOrder {index:31;}">
+				<Coords points="304,1007 310,1007 313,1015 322,1010 343,1006 354,1006 362,1012 374,1010 401,1012 414,1006 431,1006 462,1006 477,1012 499,1012 500,1006 511,1006 526,1013 544,1012 544,1006 569,1006 570,1015 606,1007 618,1007 626,1010 645,1012 650,1006 655,1006 655,1012 665,1012 665,1023 591,1022 537,1025 526,1025 431,1021 304,1022" />
+				<Baseline points="304,1022 665,1022" />
+				<TextEquiv index="1">
+					<Unicode>Ist lauter Gold vnd gülden Stuck,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l32" custom="readingOrder {index:32;}">
+				<Coords points="303,1033 314,1032 376,1032 377,1038 394,1038 408,1032 414,1032 436,1039 436,1032 448,1032 456,1038 491,1039 491,1032 503,1032 505,1039 514,1039 530,1032 536,1032 539,1038 568,1038 581,1032 591,1032 599,1038 620,1038 620,1047 569,1047 568,1053 556,1053 424,1048 376,1053 363,1053 303,1048" />
+				<Baseline points="303,1048 620,1047" />
+				<TextEquiv index="1">
+					<Unicode>Vmb jhn stehen die Engelein.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l33" custom="readingOrder {index:33;}">
+				<Coords points="304,1058 344,1058 358,1064 370,1064 371,1058 382,1058 383,1065 393,1065 408,1058 417,1058 417,1064 483,1064 498,1058 514,1058 515,1064 533,1064 534,1058 546,1058 547,1065 567,1064 568,1058 589,1058 597,1064 606,1064 606,1075 589,1075 577,1075 304,1074" />
+				<Baseline points="304,1074 606,1074" />
+				<TextEquiv index="1">
+					<Unicode>Vnd alle fromme Kinderlein,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l34" custom="readingOrder {index:34;}">
+				<Coords points="303,1084 356,1084 356,1090 362,1090 373,1087 389,1087 399,1089 417,1088 488,1090 488,1084 499,1084 514,1091 520,1091 520,1084 535,1084 536,1090 558,1090 559,1084 577,1084 592,1090 606,1090 631,1087 635,1083 642,1083 644,1089 669,1089 669,1099 577,1100 556,1100 451,1100 310,1100 303,1100" />
+				<Baseline points="303,1100 669,1099" />
+				<TextEquiv index="1">
+					<Unicode>Die hertzet er vnd drückt sie fein,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l35" custom="readingOrder {index:35;}">
+				<Coords points="303,1110 369,1110 369,1116 412,1113 434,1117 435,1110 441,1110 441,1117 451,1117 463,1110 476,1110 476,1116 508,1115 541,1110 550,1110 550,1116 563,1111 571,1110 582,1110 584,1118 595,1110 605,1110 619,1118 634,1115 665,1115 665,1125 562,1126 476,1131 463,1131 412,1126 303,1125" />
+				<Baseline points="303,1125 665,1125" />
+				<TextEquiv index="1">
+					<Unicode>Vnd heisst sie jmmer frölich seyn.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l36" custom="readingOrder {index:36;}">
+				<Coords points="329,1135 335,1135 351,1136 352,1142 362,1142 376,1136 385,1135 397,1135 403,1142 415,1142 415,1135 431,1135 433,1141 467,1143 467,1136 473,1136 485,1141 486,1135 497,1135 511,1142 531,1141 550,1136 561,1136 569,1142 611,1141 613,1135 648,1135 652,1141 680,1143 687,1135 692,1135 694,1141 702,1141 702,1151 431,1152 415,1157 403,1157 397,1152 329,1152" />
+				<Baseline points="329,1152 702,1150" />
+				<TextEquiv index="1">
+					<Unicode>Die Engeln sind wacker vnd frisch,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l37" custom="readingOrder {index:37;}">
+				<Coords points="303,1161 343,1161 357,1168 362,1161 387,1161 388,1167 458,1167 485,1173 485,1162 499,1161 504,1161 506,1169 586,1161 591,1161 592,1168 606,1168 613,1162 623,1162 625,1168 633,1168 633,1178 585,1178 550,1178 458,1178 422,1178 387,1178 364,1178 313,1178 303,1177" />
+				<Baseline points="303,1178 633,1177" />
+				<TextEquiv index="1">
+					<Unicode>Vnd dienen vns allen zu Tisch,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l38" custom="readingOrder {index:38;}">
+				<Coords points="301,1188 313,1188 320,1193 345,1191 373,1193 445,1193 446,1187 460,1187 472,1193 488,1188 502,1187 507,1187 562,1193 563,1187 574,1187 589,1194 636,1193 636,1204 613,1203 604,1201 574,1203 540,1203 526,1209 514,1209 514,1203 385,1203 385,1209 372,1209 372,1203 320,1204 301,1202" />
+				<Baseline points="301,1202 636,1203" />
+				<TextEquiv index="1">
+					<Unicode>Sie tragen auff willig vnd gern,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l39" custom="readingOrder {index:39;}">
+				<Coords points="303,1213 324,1213 359,1219 391,1219 424,1214 441,1214 470,1217 562,1219 576,1221 576,1214 666,1214 675,1218 685,1219 685,1228 675,1229 666,1232 630,1232 620,1228 303,1229" />
+				<Baseline points="303,1229 685,1228" />
+				<TextEquiv index="1">
+					<Unicode>Was vnser Hertz nur möcht begern.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l40" custom="readingOrder {index:40;}">
+				<Coords points="329,1239 351,1239 351,1245 386,1246 400,1239 416,1239 441,1239 459,1239 460,1246 471,1246 472,1239 477,1239 478,1245 571,1245 571,1239 577,1239 578,1247 590,1245 608,1245 623,1239 626,1239 636,1245 652,1245 653,1239 664,1239 675,1243 675,1255 646,1255 489,1255 423,1255 329,1255" />
+				<Baseline points="329,1255 675,1255" />
+				<TextEquiv index="1">
+					<Unicode>Vnsre Röcklein vermodern nicht,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l41" custom="readingOrder {index:41;}">
+				<Coords points="301,1265 313,1265 320,1271 353,1271 353,1265 365,1265 383,1265 397,1271 431,1271 445,1265 467,1265 467,1271 514,1271 527,1265 532,1265 532,1271 581,1271 582,1265 604,1265 622,1269 622,1281 561,1286 527,1286 494,1281 487,1287 472,1287 472,1281 301,1281" />
+				<Baseline points="301,1281 622,1281" />
+				<TextEquiv index="1">
+					<Unicode>Sie sind von Purpur zugericht.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l42" custom="readingOrder {index:42;}">
+				<Coords points="301,1291 310,1290 324,1290 381,1296 478,1297 526,1297 539,1291 552,1291 559,1295 586,1297 594,1291 603,1291 612,1297 633,1297 633,1307 393,1307 393,1313 381,1313 381,1307 301,1306" />
+				<Baseline points="301,1307 633,1307" />
+				<TextEquiv index="1">
+					<Unicode>Wir tragn an vnserm Stirnelein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l43" points="301,1316 317,1316 323,1322 357,1317 391,1317 404,1322 415,1324 428,1317 444,1317 446,1323 491,1322 502,1322 514,1323 515,1317 558,1317 560,1323 584,1321 598,1321 605,1323 605,1333 477,1333 357,1333 334,1332 301,1332" baseline="301,1332 348,1332 605,1333" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: Ein güldne Kron vnd Kräntz
+ | german_print2_15: Ein güldne Kron vnd Kräntz
+ -->
+			<TextEquiv index="1">
+				<Unicode>Sein Reich das bleibt ewig ohn End,
+Das Zeitlich wird vergehn behend.
+Ich armes Kind, vor dieser Zeit
+War ich nicht aller dings gescheid,
+Oder vergülte Bücherlein,
+Oder mosierte Kleiderlein,
+Dacht ich allzeit in meinem Sinn,
+Es
+So seyn sie gar für nichts zu acht
+Im Himml, im Himml, sind schöne Sachn,
+Die keine Zunge kan aussprechn,
+Die noch kein Ohr hat vernommen,
+Noch in eins Menschen Hertz sind kommn.
+Im Himml, im Himml sind frewden viel
+Da sind die Kindr in grosser frewd.
+Der Himml, der Himml ist schönes Schloſs
+Darinn wohnt vnser Herr Gott groſs.
+Sein Stuhl ist schön mit Perln gestickt,
+Mit Teppichten zierlich geschmück
+Die Tritt die sind von Elffenbein,
+Die Erd von lauter Marmelstein.
+Der Tisch von Gold vnd Perelein,
+Sein Sceptr von lauter Edelgstein,
+Sein Kleid, sein Kron vnd gantzer Schmuck,
+Ist lauter Gold vnd gülden Stuck,
+Vmb jhn stehen die Engelein.
+Vnd alle fromme Kinderlein,
+Die hertzet er vnd drückt sie fein,
+Vnd heisst sie jmmer frölich seyn.
+Die Engeln sind wacker vnd frisch,
+Vnd dienen vns allen zu Tisch,
+Sie tragen auff willig vnd gern,
+Was vnser Hertz nur möcht begern.
+Vnsre Röcklein vermodern nicht,
+Sie sind von Purpur zugericht.
+Wir tragn an vnserm Stirnelein</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="604,306 652,306 652,323 604,323" />
+			<!-- line left out: id="r4l0" points="604,312 611,312 612,306 617,306 619,313 631,312 647,312 649,319 652,319 652,323 649,323 631,322 604,321" baseline="604,321 652,323" reason: differs: "ein," against "ein." | Wikisource:  | next_nc_e1: rlein,
+ | german_print2_15: rlein,
+ -->
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="579,310 601,310 601,321 579,321" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="579,344 582,344 582,347 579,347" />
+		</GraphicRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="590,332 630,332 630,349 590,349" />
+			<!-- line left out: id="r7l0" points="590,332 594,332 613,337 625,338 627,345 630,345 630,349 627,349 596,347 590,335" baseline="590,347 630,347" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: lein,
+ | german_print2_15: lein,
+ -->
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="342,434 352,434 352,450 342,450" />
+		</GraphicRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="355,433 702,433 702,450 355,450" />
+			<!-- line left out: id="r9l0" points="355,442 363,440 373,438 388,433 392,433 407,440 436,435 447,435 455,439 498,435 509,435 518,441 554,441 563,443 577,435 588,435 590,441 605,436 616,436 619,442 630,441 638,441 702,441 702,450 682,450 638,450 554,450 455,450 407,450 388,437 387,450 363,450 355,449" baseline="355,450 463,449 655,449 702,450" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: önt' nichts schöners drüber seyn.
+ | german_print2_15: önt' nichts schöners drüber seyn.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r10">
+			<Coords points="647,461 721,461 721,476 647,476" />
+		</GraphicRegion>
+		<GraphicRegion id="r11">
+			<Coords points="662,492 691,492 691,502 662,502" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="710,658 733,658 733,688 710,688" />
+		</GraphicRegion>
+		<GraphicRegion id="r13">
+			<Coords points="533,726 553,726 553,736 533,736" />
+		</GraphicRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="557,725 708,725 708,738 557,738" />
+			<!-- line left out: id="r14l0" points="557,729 566,725 570,725 614,725 640,726 651,725 662,725 708,726 708,737 699,737 640,735 595,738 585,738 566,736 557,733" baseline="557,736 629,735 708,735" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: st gut wohnen,
+ | german_print2_15: st gut wohnen,
+ -->
+		</TextRegion>
+		<GraphicRegion id="r15">
+			<Coords points="420,778 427,778 427,789 420,789" />
+		</GraphicRegion>
+		<GraphicRegion id="r16">
+			<Coords points="351,850 377,850 377,892 351,892" />
+		</GraphicRegion>
+		<GraphicRegion id="r17">
+			<Coords points="563,858 690,858 690,892 563,892" />
+		</GraphicRegion>
+		<GraphicRegion id="r18">
+			<Coords points="325,1219 658,1219 658,1229 325,1229" />
+		</GraphicRegion>
+		<TextRegion id="r19" custom="readingOrder {index:19;} orientation {0;}">
+			<Coords points="633,1323 660,1323 660,1333 633,1333" />
+			<!-- line left out: id="r19l0" points="633,1323 655,1323 657,1329 660,1329 660,1332 643,1333 638,1333 633,1326" baseline="633,1333 660,1332" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ein.
+ | german_print2_15: ein.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r20">
+			<Coords points="605,1321 635,1321 635,1337 605,1337" />
+		</GraphicRegion>
+		<TextRegion id="r21" custom="readingOrder {index:21;} orientation {0;}">
+			<Coords points="394,1528 602,1528 602,1540 394,1540" />
+			<!-- line left out: id="r21l0" points="394,1528 402,1528 408,1529 424,1528 431,1528 447,1529 453,1528 456,1528 469,1528 494,1528 525,1528 542,1528 602,1529 602,1537 566,1539 441,1540 434,1540 413,1539 407,1539 394,1537" baseline="394,1537 602,1537" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hup eigſtal slub dresden de ppn0s
+ | german_print2_15: eneb-dreeden de ppneo130
+ -->
+		</TextRegion>
+		<GraphicRegion id="r22">
+			<Coords points="0,1516 1000,1516 1000,1564 0,1564" />
+		</GraphicRegion>
+		<SeparatorRegion id="r23">
+			<Coords points="965,265 974,265 974,847 965,847" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Sein Reich das bleibt ewig ohn End,
+Das Zeitlich wird vergehn behend.
+Ich armes Kind, vor dieser Zeit
+War ich nicht aller dings gescheid,
+Wann ich sah’ schöne Bilderlein,
+Schöne Häuser vnd Kirchelein,
+Oder vergülte Bücherlein,
+Oder mosierte Kleiderlein,
+Dacht ich allzeit in meinem Sinn,
+Es könt’ nichts schöners drüber seyn.
+Wann ich die Sach thu’ jetzt betrachtn
+So seyn sie gar für nichts zu achtn.
+Im Himml, im Himml, sind schöne Sachn,
+Die keine Zunge kan aussprechn,
+Die noch kein Ohr hat vernommen,
+Noch in eins Menschen Hertz sind kommn.
+Im Himml, im Himml sind frewden viel,
+Da singn d’ Engel vnd habn jhr spiel.
+Im Himml, im Himml da ist kein Leid,
+Da sind die Kindr in grosser frewd.
+Im Himml, im Himml ist gut wohnen,
+Darein gehörn all’ die Frommen.
+Der Himml, der Himml ist schönes Schloß
+Darinn wohnt vnser Herr Gott groß.
+Sein Stuhl ist schön mit Perln gestickt,
+Mit Teppichten zierlich geschmückt.
+Die Tritt die sind von Elffenbein,
+Die Erd von lauter Marmelstein.
+Der Tisch von Gold vnd Perelein,
+Sein Sceptr von lauter Edelgstein,
+Sein Kleid, sein Kron vnd gantzer Schmuck,
+Ist lauter Gold vnd gülden Stuck,
+Vmb jhn stehen die Engelein.
+Vnd alle fromme Kinderlein,
+Die hertzet er vnd drückt sie fein,
+Vnd heisst sie jmmer frölich seyn.
+Die Engeln sind wacker vnd frisch,
+Vnd dienen vns allen zu Tisch,
+Sie tragen auff willig vnd gern,
+Was vnser Hertz nur möcht begern.
+Vnsre Röcklein vermodern nicht,
+Sie sind von Purpur zugericht.
+Wir tragn an vnserm Stirnelein
+Ein güldne Kron vnd Kräntzelein.
+-->
+	</Page>
+</PcGts>

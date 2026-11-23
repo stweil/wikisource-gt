@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:31:16</Created>
+		<LastChange>2026-11-23T14:31:16</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/221 revision 4675687 of 2025-12-16T07:48:40Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0221.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro37165385436252521" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="632,221 778,221 778,258 632,258" />
+			<TextLine id="r0l0" custom="readingOrder {index:0;}">
+				<Coords points="665,230 671,223 719,221 778,221 778,231 769,231 758,226 756,232 719,232 682,232 665,232" />
+				<Baseline points="665,232 778,231" />
+				<TextEquiv index="1">
+					<Unicode>anwesenden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l1" custom="readingOrder {index:1;}">
+				<Coords points="632,243 637,243 639,251 650,248 661,248 672,242 685,242 686,251 697,248 706,242 717,242 720,254 732,250 768,251 768,242 778,242 778,258 737,258 702,258 685,258 637,258 632,258" />
+				<Baseline points="632,258 778,257" />
+				<TextEquiv index="1">
+					<Unicode>den Ferdinand,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>anwesenden
+den Ferdinand,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="651,273 779,273 779,284 651,284" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="651,277 663,275 704,273 716,273 773,273 779,273 779,283 704,284 651,281" />
+				<Baseline points="651,285 779,283" />
+				<TextEquiv index="1">
+					<Unicode>er. Schiller</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>er. Schiller</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="61,537 130,537 130,579 61,579" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="61,537 72,537 74,543 113,543 129,545 129,550 113,554 107,554 61,553" />
+				<Baseline points="61,552 129,554" />
+				<TextEquiv index="1">
+					<Unicode>die pö</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l1" points="61,564 73,564 74,571 84,571 86,564 97,564 115,569 116,563 130,563 130,579 74,579 61,578" baseline="61,579 130,579" reason: differs: "behand" against "belhaf" | Wikisource:  | next_nc_e1: behand
+ | german_print2_15: behand
+ -->
+			<TextEquiv index="1">
+				<Unicode>die pö</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="610,804 786,804 786,1079 610,1079" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="743,805 761,804 776,804 783,805 783,810 776,813 743,813" />
+				<Baseline points="743,811 783,810" />
+				<TextEquiv index="1">
+					<Unicode>dess</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l1" points="663,827 674,824 701,824 701,833 721,830 732,830 734,837 744,837 745,830 773,830 773,834 765,834 757,840 701,840 674,840 663,837" baseline="663,840 773,840" reason: differs: "Gros" against "en d" | Wikisource:  | next_nc_e1: Grossmann
+ | german_print2_15: Grossmann
+ -->
+			<!-- line left out: id="r3l2" points="690,850 714,850 714,857 739,857 740,851 750,851 752,857 777,857 784,860 784,863 777,867 739,867 702,867 690,867" baseline="690,867 784,867" reason: differs: "Tünc" against "r Er" | Wikisource:  | next_nc_e1: Tüncher-
+ | german_print2_15: Tüncher-
+ -->
+			<!-- line left out: id="r3l3" points="667,877 678,877 680,886 691,883 701,883 718,877 733,877 742,883 753,883 761,882 775,882 784,887 784,889 775,890 760,893 678,893 667,893" baseline="667,893 784,893" reason: differs: "denKun" against "gefund" | Wikisource:  | next_nc_e1: den Kunst-
+ | german_print2_15: den Kunst-
+ -->
+			<!-- line left out: id="r3l4" points="646,917 665,906 676,904 681,904 683,910 695,910 733,910 736,917 747,910 785,910 785,919 771,920 747,920 722,919 712,917 695,919 651,920 646,920" baseline="646,919 785,919" reason: differs: "„Gro" against "i de" | Wikisource:  | next_nc_e1: „Grossmanns
+ | german_print2_15: „Grossmanns
+ -->
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="702,957 706,957 715,964 729,956 736,956 741,959 755,963 764,956 769,956 771,964 779,964 782,970 785,970 785,973 736,973 729,973 702,959" />
+				<Baseline points="702,972 729,971 785,973" />
+				<TextEquiv index="1">
+					<Unicode>le Stille,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="752,983 757,983 773,984 786,989 786,998 757,998 752,998" />
+				<Baseline points="752,998 786,998" />
+				<TextEquiv index="1">
+					<Unicode>der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="610,1015 621,1015 630,1021 635,1015 691,1015 703,1023 713,1023 717,1009 751,1009 752,1015 763,1015 771,1009 786,1009 786,1023 713,1026 703,1026 610,1024" />
+				<Baseline points="610,1026 786,1024" />
+				<TextEquiv index="1">
+					<Unicode>ung von „Kabale</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l8" custom="readingOrder {index:8;}">
+				<Coords points="703,1069 732,1068 740,1065 751,1065 769,1068 769,1078 712,1079 703,1079" />
+				<Baseline points="703,1079 769,1077" />
+				<TextEquiv index="1">
+					<Unicode>genblic</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>dess
+le Stille,
+der
+ung von „Kabale
+genblic</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="631,1114 755,1114 755,1130 631,1130" />
+			<!-- line left out: id="r4l0" points="631,1120 643,1120 669,1121 676,1114 687,1114 695,1122 721,1121 733,1120 739,1114 755,1114 755,1130 721,1130 693,1129 687,1130 643,1130 631,1130" baseline="631,1129 660,1129 755,1130" reason: second model: differs: "urje" against "k ⟦⟧" | Wikisource: r jedes and | next_nc_e1: r jedes and
+ | german_print2_15: ur jedes and-
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="536,1146 643,1146 643,1156 536,1156" />
+			<!-- line left out: id="r5l0" points="536,1147 544,1146 609,1146 643,1148 643,1155 609,1156 536,1156" baseline="536,1156 643,1155" reason: differs: "nenm" against "ere " | Wikisource:  | next_nc_e1: nen müsse.
+ | german_print2_15: nen müsse.
+ -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="394,1549 590,1549 590,1561 394,1561" />
+			<!-- line left out: id="r6l0" points="394,1549 402,1549 408,1550 422,1549 434,1549 443,1549 456,1549 469,1549 499,1549 504,1549 553,1549 590,1550 590,1558 566,1560 452,1561 443,1561 426,1561 415,1560 407,1560 394,1558" baseline="394,1558 590,1557" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnpdigital slub-dresden de/ppn30
+ | german_print2_15: up dgital slub-dresden de ppn301
+ -->
+		</TextRegion>
+		<GraphicRegion id="r7">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+und durch allgemeines Erheben von den Sitzen den anwesenden
+Verfasser ehrte. Bök spielte den Präsidenten, Beck den Ferdinand,
+Iffland den Secretär Wurm, Beil den Musikus Miller. Schiller
+hatte sich schon beim Entwurfe des Stückes oft daran ergötzt, wie
+Beil den Musikus Miller so recht naiv-drollig darstellen werde,
+und welche Wirkung solche komische Auftritte gegen die darauf
+folgenden tragischen auf die Zuschauer machen müssten.⟦⟧ In der
+That zeigte Beil, dass er, wie ihn Schiller selbst bezeichnet hat,⟦⟧
+„der wirklich grosse komische Spieler“ sei.
+Anfangs war Schiller mit Bök, den er als den besten
+Schauspieler an Kopf und Herz rühmte,⟦⟧ am vertraulichsten
+umgegangen, bis er später eingestand, dass er Bök, der öffentlich auf
+die pöbelhafteste Art von ihm geredet, mit unverdienter Achtung
+behandelt habe. Er merkte indessen die Ursache seiner Erbitterung.
+Bök, welcher Vergötterung erwartet und keine gefunden habe, sei
+durch die Achtung beleidigt, die er für Beil, Beck und Iffland
+empfinde, und wie tief stehe doch Bök unter seinen drei Rivalen!⟦⟧
+Schiller begleitete Beil und Iffland, als diese Ende April 1784 nach
+Frankfurt reisten, um dort bei der Grossmannschen Gesellschaft
+Gastrollen zu geben. Er findet, warm und voll von dem
+empfangenen Eindrucke, kaum Worte, um den Jubel zu schildern,
+welchen das Spiel der Mannheimer Abgesandten unter dem Frankfurter
+Publikum erregt habe. Es sei aber auch zuverlässig wahr, dass
+Iffland und Beil unter den besten Schauspielern der
+Grossmannschen Truppe, wie der Jupiter des Phidias unter
+Tüncherarbeiten hervorragten. Ihr Spiel hatte alle mitwirkenden
+Kunstgenossen so fortgerissen, dass man allgemein urtheilte, Grossmanns
+Schauspieler hätten noch nie so warm gespielt.⟦⟧ In dem
+vollgestopften Schauspielhause herrschte dabei eine ehrfurchtsvolle Stille,
+wie man sie seit der Kaiserkrönung nicht erlebt hatte. Der
+Dichter und die Künstler, alle drei bei der Darstellung von „Kabale
+und Liebe“ mit Ehren überhäuft, wurden von Gasterei zu Gasterei
+geschleppt, und Schiller klagt, es sei kaum ein nüchterner Augenblick
+zu erwischen, um einige Zeilen in Ruhe schreiben zu können.⟦⟧
+Er habe aber auch nie lebendiger gefühlt, wie sehr jedes andere
+Theater gegen das Mannheimer zurück stehen müsse.
+-->
+	</Page>
+</PcGts>

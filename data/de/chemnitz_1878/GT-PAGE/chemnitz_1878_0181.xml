@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:27:59</Created>
+		<LastChange>2026-11-23T14:27:59</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/181 revision 4661853 of 2025-11-22T07:47:42Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0181.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro12071966925020472939" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="197,293 629,293 629,333 197,333" />
+			<!-- line left out: id="r0l0" points="197,302 218,302 223,311 246,311 250,302 276,302 279,310 331,309 358,309 382,298 401,295 428,295 428,307 467,307 471,295 535,293 545,293 568,294 572,303 591,303 597,293 629,293 629,323 591,324 568,325 510,326 441,328 358,329 329,330 301,331 276,332 218,333 197,333" baseline="197,333 357,329 382,328 629,322" reason: differs: "Joha" against "⟦⟧ J" | Wikisource:  | next_nc_e1: Johann David Beil.
+ | german_print2_15: Johann David Beil.
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="60,361 777,361 777,435 60,435" />
+			<!-- line left out: id="r1l0" points="60,376 85,375 91,375 94,381 112,381 131,374 143,373 163,373 163,379 170,379 174,373 195,373 317,376 335,369 358,369 377,374 412,374 414,368 422,366 444,366 447,372 466,367 500,367 517,371 537,364 556,364 573,369 588,370 606,362 625,362 627,368 668,363 681,363 715,367 717,361 737,361 777,366 777,382 756,383 715,384 666,385 625,386 556,387 517,388 463,389 412,391 358,392 301,393 264,393 246,401 231,401 228,394 195,395 174,395 163,401 143,401 112,397 81,398 60,398" baseline="60,398 131,396 264,393 316,392 335,392 516,388 537,387 587,386 606,386 777,382" reason: differs: "EinB" against "ren." | Wikisource:  | next_nc_e1: Ein Beitrag zur Geschichte des deutschen | german_print2_15: Ein Beitrag zur Geschichte des deutschen -->
+			<!-- line left out: id="r1l1" points="339,413 373,413 373,419 385,417 423,412 435,412 469,416 490,417 490,432 464,433 421,434 401,435 361,435 339,435" baseline="339,435 490,431" reason: differs: "Thea" against "Sein" | Wikisource:  | next_nc_e1: Theaters.
+ | german_print2_15: Theaters.
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="705,670 784,670 784,687 705,687" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="705,680 725,677 749,677 750,670 762,670 763,677 784,675 784,686 737,687 725,687 705,685" />
+				<Baseline points="705,687 784,685" />
+				<TextEquiv index="1">
+					<Unicode>esunden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>esunden</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="627,722 788,722 788,796 627,796" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="627,731 647,731 669,724 678,723 690,723 692,729 775,728 776,722 786,722 786,737 634,741 627,741" />
+				<Baseline points="627,741 646,739 786,737" />
+				<TextEquiv index="1">
+					<Unicode>zu Ehren und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="635,751 649,752 650,759 667,756 675,764 701,763 720,749 728,749 731,762 747,754 787,753 787,767 731,765 728,771 720,771 705,765 679,767 635,766" />
+				<Baseline points="635,766 787,764" />
+				<TextEquiv index="1">
+					<Unicode>Beil, i. J. 1693</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l2" points="663,777 669,777 742,781 743,775 755,775 756,783 768,781 788,781 788,791 755,791 730,792 669,796 663,796" baseline="663,792 788,791" reason: differs: "Juru" against "gebo" | Wikisource:  | next_nc_e1: Ju rudenz
+ | german_print2_15: Ju⸗ rudenz
+ -->
+			<TextEquiv index="1">
+				<Unicode>zu Ehren und
+Beil, i. J. 1693</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="740,806 788,806 788,818 740,818" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="740,809 771,806 777,806 788,809 788,816 771,817 765,812 758,818 740,818" />
+				<Baseline points="740,818 788,816" />
+				<TextEquiv index="1">
+					<Unicode>angte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>angte</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="624,907 791,907 791,950 624,950" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="624,918 636,916 755,913 756,907 767,907 769,913 790,913 790,923 732,923 647,926 636,926 624,921" />
+				<Baseline points="624,926 790,922" />
+				<TextEquiv index="1">
+					<Unicode>eums geworden.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="691,942 703,940 742,941 757,933 769,933 770,941 791,940 791,949 703,950 691,948" />
+				<Baseline points="691,951 791,949" />
+				<TextEquiv index="1">
+					<Unicode>er in den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>eums geworden.
+er in den</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="627,986 793,986 793,1030 627,1030" />
+			<!-- line left out: id="r6l0" points="687,993 711,993 755,993 755,986 766,986 769,993 786,992 789,992 789,1001 766,1002 711,1005 700,1005 687,1003" baseline="687,1003 733,1002 789,1001" reason: models differ | Wikisource: ngen über | next_nc_e1: ngen über | german_print2_15: ungen über -->
+			<!-- line left out: id="r6l1" points="627,1021 639,1021 647,1028 658,1014 663,1014 685,1019 727,1016 738,1013 755,1013 755,1021 767,1018 793,1018 793,1028 755,1028 712,1029 663,1030 627,1030" baseline="627,1030 711,1028 793,1028" reason: differs: "undv" against "die " | Wikisource:  | next_nc_e1: und von Chem-
+ | german_print2_15: und von Chem-
+ -->
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="691,1065 792,1065 792,1081 691,1081" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="691,1075 697,1075 713,1065 729,1065 731,1071 742,1071 744,1065 761,1065 776,1072 782,1070 792,1070 792,1080 742,1081 713,1081 691,1078" />
+				<Baseline points="691,1081 792,1080" />
+				<TextEquiv index="1">
+					<Unicode>s Kind er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>s Kind er</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="394,1549 578,1549 578,1561 394,1561" />
+			<!-- line left out: id="r8l0" points="394,1549 402,1549 408,1550 422,1549 434,1549 443,1549 456,1549 469,1549 499,1549 525,1549 548,1549 578,1550 578,1560 551,1560 531,1558 452,1561 443,1561 426,1561 414,1560 407,1560 394,1558" baseline="394,1558 578,1558" reason: differs: "hnpd" against "war," | Wikisource:  | next_nc_e1: hnp digital slub-dresden de ppn
+ | german_print2_15: PGigital slub-dresden de ppne-
+ -->
+		</TextRegion>
+		<GraphicRegion id="r9">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+⟦⟧
+Johann David Beil wurde i. J. 1754 in Chemnitz geboren.
+Sein Vater, ein Tuchmacher, welcher trotz anhaltender
+Kränklichkeit den Sohn überlebte, wird als ein heiterer und gutmüthiger
+Mann, seine Mutter als eine vollherzige, rührige Frau, gesunden
+Verstandes und entschlossenen Sinnes, geschildert.⟦⟧
+Aus der Familie Beil waren schon mehrere zu Ehren und
+Würden gelangte Männer hervorgegangen. Gottlieb Beil, i. J. 1693
+geboren, hatte in Leipzig erst Theologie, darnach Jurisprudenz
+studirt; später liess er sich als Advokat in Zeitz nieder und erlangte
+als juristischer Schriftsteller einen gewissen Ruf. Gabriel Beil war
+dem einmal ergriffenen Studium der Theologie auf den Universitäten
+Leipzig und Wittenberg treu geblieben und im jugendlichen Alter
+von 26 Jahren (1730) Conrector des Chemnitzer Lyceums geworden.
+Nachdem er 16 Jahre lang Schulmeister gewesen, trat er in den
+geistlichen Stand; i. J. 1779 starb er als Pastor zu St. Johannis in
+Chemnitz. Er ist Verfasser zweier lateinischer Abhandlungen über
+die gelehrten Söhne von Chemnitzer Handwerkern und von
+Chemnitzer Superintendenten.⟦⟧
+Johann David ward von den Eltern, deren einziges Kind er
+war, trotz ihrer geringen Mittel zum Studiren bestimmt und in das
+Lyceum seiner Vaterstadt aufgenommen, welches damals unter der
+Leitung von Johann Georg Hager stand. Durch die Rectoren
+Gottfried Schulz und Daniel Müller war die Chemnitzer Gelehrtenschule
+zu hoher Blüthe gediehen. Während es früher üblich gewesen war,
+-->
+	</Page>
+</PcGts>

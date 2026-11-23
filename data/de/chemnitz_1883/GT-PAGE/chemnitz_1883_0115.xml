@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:50:09</Created>
+		<LastChange>2026-11-23T13:50:09</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/115 revision 5011460 of 2026-08-11T06:50:10Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0115.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro3093676208204844964" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="657,371 782,371 782,387 657,387" />
+			<TextLine id="r0l0" custom="readingOrder {index:0;}">
+				<Coords points="657,371 670,371 680,377 772,376 774,383 782,383 782,387 774,387 700,387 692,387 657,386" />
+				<Baseline points="657,386 782,387" />
+				<TextEquiv index="1">
+					<Unicode>Ringmauern,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Ringmauern,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="699,665 782,665 782,727 699,727" />
+			<!-- line left out: id="r1l0" points="719,666 732,665 757,665 766,668 766,672 757,674 728,675 719,675" baseline="719,675 766,672" reason: differs: "grun" against "⟦⟧ ⟦" | Wikisource:  | next_nc_e1: grune | german_print2_15: grune -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="726,685 730,685 735,691 760,691 760,685 782,685 782,700 726,700" />
+				<Baseline points="726,700 782,700" />
+				<TextEquiv index="1">
+					<Unicode>Land-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l2" points="699,719 705,719 718,720 726,712 731,712 733,718 736,718 771,717 782,717 782,727 771,727 726,726 715,725 699,722" baseline="699,725 753,726 782,727" reason: differs: "sicha" against "stadt" | Wikisource:  | next_nc_e1: sich aus
+ | german_print2_15: sich aus
+ -->
+			<TextEquiv index="1">
+				<Unicode>Land-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="632,737 781,737 781,754 632,754" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="632,743 650,737 654,737 659,743 681,741 735,745 743,738 747,738 750,744 781,745 781,754 769,754 632,752" />
+				<Baseline points="632,752 781,754" />
+				<TextEquiv index="1">
+					<Unicode>r Entwickelung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>r Entwickelung</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="643,763 783,763 783,779 643,779" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="643,763 653,763 659,767 681,771 683,777 714,770 724,770 733,774 744,764 772,764 772,770 783,770 783,779 724,779 686,779 683,779 667,777 643,778" />
+				<Baseline points="643,778 744,777 783,779" />
+				<TextEquiv index="1">
+					<Unicode>htes, aus dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>htes, aus dem</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="647,790 784,790 784,806 647,806" />
+			<!-- line left out: id="r4l0" points="647,796 659,795 664,795 715,795 727,796 737,797 754,790 765,790 767,798 779,795 784,795 784,805 737,806 729,806 715,805 696,805 664,804 647,804" baseline="647,804 784,804" reason: differs: "iuss" against "gewi" | Wikisource:  | next_nc_e1: iusserung der
+ | german_print2_15: äusserung der
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="633,815 783,815 783,833 633,833" />
+			<!-- line left out: id="r5l0" points="633,815 642,815 651,821 654,821 666,822 683,816 687,816 712,816 715,823 724,823 738,822 745,816 761,816 763,825 775,822 783,822 783,831 761,831 724,833 715,833 687,831 651,831 633,830" baseline="633,830 783,831" reason: differs: "lemF" against "g de" | Wikisource:  | next_nc_e1: lem Folgenden
+ | german_print2_15: lem Folgenden
+ -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="646,846 784,846 784,857 646,857" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="646,849 668,846 671,846 703,846 784,848 784,857 728,857 703,857 658,857 646,853" />
+				<Baseline points="646,857 784,857" />
+				<TextEquiv index="1">
+					<Unicode>erhaltene aus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>erhaltene aus</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="687,868 784,868 784,884 687,884" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="687,872 704,875 706,868 726,868 744,874 784,874 784,884 775,884 694,883 687,876" />
+				<Baseline points="687,883 784,884" />
+				<TextEquiv index="1">
+					<Unicode>falls man</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>falls man</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="676,946 783,946 783,988 676,988" />
+			<TextLine id="r8l0" custom="readingOrder {index:0;}">
+				<Coords points="704,952 732,950 759,954 762,946 771,946 780,953 782,953 782,961 732,961 704,961" />
+				<Baseline points="704,961 782,961" />
+				<TextEquiv index="1">
+					<Unicode>mit der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l1" custom="readingOrder {index:1;}">
+				<Coords points="676,980 697,978 713,979 715,972 725,972 733,978 783,977 783,986 769,988 765,988 697,987 676,984" />
+				<Baseline points="676,987 783,986" />
+				<TextEquiv index="1">
+					<Unicode>sondern ist</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>mit der
+sondern ist</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="658,1070 786,1070 786,1134 658,1134" />
+			<!-- line left out: id="r9l0" points="688,1070 696,1070 720,1076 722,1070 734,1070 768,1073 783,1075 783,1082 768,1082 764,1082 739,1081 696,1081 688,1081" baseline="688,1081 742,1081 783,1082" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Vereins fuür | german_print2_15: Vereins für -->
+			<!-- line left out: id="r9l1" points="658,1095 664,1095 664,1089 683,1089 707,1089 715,1096 727,1093 731,1093 747,1095 786,1095 786,1103 770,1103 747,1102 731,1102 707,1102 658,1102" baseline="658,1102 756,1102 786,1103" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: inerklosters zu | german_print2_15: inerklosters zu -->
+			<!-- line left out: id="r9l2" points="665,1111 668,1111 696,1119 703,1119 718,1114 724,1114 724,1101 735,1101 747,1115 759,1114 773,1114 779,1115 779,1124 773,1126 759,1126 747,1123 735,1134 724,1134 724,1121 708,1124 696,1124 665,1123" baseline="665,1123 667,1123 779,1124" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: F. 5, S. 231.
+ | german_print2_15: F. 5. S. 231.
+ -->
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="647,1137 787,1137 787,1151 647,1151" />
+			<!-- line left out: id="r10l0" points="647,1137 660,1137 677,1141 688,1142 711,1139 721,1137 733,1137 757,1143 766,1140 770,1140 777,1142 787,1143 787,1151 780,1151 770,1149 757,1149 733,1143 733,1149 688,1149 660,1149 647,1149" baseline="647,1149 757,1149 787,1150" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Kempnitz“ (19.
+ | german_print2_15: Kempnitz“ (19.
+ -->
+		</TextRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="649,1238 786,1238 786,1350 649,1350" />
+			<!-- line left out: id="r11l0" points="651,1238 654,1238 682,1239 718,1238 730,1238 748,1238 771,1238 786,1238 786,1242 784,1242 782,1251 773,1251 745,1247 736,1245 730,1251 718,1251 716,1247 689,1246 682,1247 670,1247 660,1245 651,1241" baseline="651,1247 786,1247" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: herren bestätigt | german_print2_15: herren bestätigt -->
+			<!-- line left out: id="r11l1" points="661,1262 671,1260 689,1259 693,1259 701,1265 710,1259 714,1259 732,1262 732,1249 747,1249 747,1277 732,1277 732,1268 706,1271 701,1271 671,1268 661,1265" baseline="661,1268 747,1268" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: er 1410 d
+ | german_print2_15: er 1410 d.
+ -->
+			<!-- line left out: id="r11l2" points="696,1276 726,1276 728,1282 742,1281 769,1281 785,1281 785,1289 745,1289 726,1289 696,1289" baseline="696,1289 785,1289" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hehen war
+ | german_print2_15: hehen war
+ -->
+			<!-- line left out: id="r11l3" points="651,1303 660,1301 688,1297 692,1297 701,1299 728,1297 732,1297 746,1307 750,1303 759,1303 761,1297 777,1297 786,1302 786,1309 651,1309" baseline="651,1309 786,1309" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: em Reichsadler
+ | german_print2_15: em Reichsadler
+ -->
+			<!-- line left out: id="r11l4" points="649,1322 673,1322 740,1328 745,1318 757,1317 777,1317 785,1322 785,1329 754,1330 699,1330 649,1329" baseline="649,1329 785,1329" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: nur den Adler
+ | german_print2_15: nur den Adler
+ -->
+			<!-- line left out: id="r11l5" points="740,1343 779,1341 781,1341 781,1344 779,1344 743,1350 740,1350" baseline="740,1344 781,1344" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: und 3
+ | german_print2_15: und 3
+ -->
+		</TextRegion>
+		<GraphicRegion id="r12">
+			<Coords points="0,0 1000,0 1000,1565 0,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Stadt einst Eigentum des Klosters gewesen ist,⟦⟧ und endlich die
+Bezeichnung des Abtes als des Herren von Chemnitz, die in
+mehreren Urkunden vorkommt,⟦⟧ erinnern noch in späterer Zeit, als
+die grundherrlichen Rechte des Abtes längst beseitigt waren, an die
+früheren Verhältnisse.
+Die Stadt vergrösserte sich schnell. Im Jahre 1264 besass sie
+bereits zwei Kirchen, die Jacobikirche innerhalb der Ringmauern,
+die Johanniskirche in der Vorstadt.⟦⟧ Im Jahre 1290 ist sie
+Reichsstadt und steht unter der Verwaltung des Rates.⟦⟧ Das Stadtrecht
+wird nicht mehr vom Stadtherren, dem Abte, verliehen, sondern
+beruht auf den Beschlüssen der autonomen Stadtgemeinde, es ist
+gewillkürtes Recht.
+Seit dem Jahre 1308 sind die Markgrafen von Meissen in Besitz
+von Chemnitz und das Stadtrecht ist von dem Willen der
+Landesherren beeinflusst; im allgemeinen aber bleibt die Autonomie der
+Gemeinde bestehen, so dass vor 1410 die Ratswillküren ohne
+Genehmigung des Landesherren publiciert werden.⟦⟧
+In verhältnismässig kurzer Zeit ist Chemnitz aus einer
+grundherrlichen Stadt eine Reichsstadt, aus einer Reichsstadt eine
+Landstadt der Mark Meissen geworden. Ihr Stadtrecht setzt sich aus
+drei Elementen zusammen, welche den drei Stufen ihrer Entwickelung
+entsprechen, also aus den Überresten des alten Hofrechtes, aus dem
+gewillkürten Rechte und aus dem durch die Willensäusserung der
+Landesherren geschaffenen Rechte. Wir fassen in dem Folgenden
+nur die Ratswillküren ins Auge, deren älteste, uns erhaltene aus
+dem Jahre 1352 stammt. Frühere Aufzeichnungen sind, falls man
+überhaupt solche gemacht und sich nicht mit der mündlichen
+Überlieferung des geltenden Rechtes begnügt hat, verloren gegangen.
+Die Willkür im mittelalterlichen Sinne hat nichts mit der
+Willkür in der jetzigen Bedeutung des Wortes gemein, sondern ist
+-->
+	</Page>
+</PcGts>

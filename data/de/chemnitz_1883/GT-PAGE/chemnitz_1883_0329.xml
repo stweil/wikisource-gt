@@ -1,0 +1,441 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:04:20</Created>
+		<LastChange>2026-11-23T14:04:20</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/329 revision 5081649 of 2026-10-24T06:54:31Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0329.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro4172974553945443623" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="423,145 455,145 455,161 423,161" />
+			<!-- line left out: id="r0l0" points="423,146 446,145 455,145 455,161 423,161" baseline="423,161 455,161" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 117
+ | german_print2_15: 117
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="175,201 584,201 584,427 175,427" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="177,201 201,201 209,210 216,210 221,202 295,202 296,209 315,208 315,202 336,202 358,210 378,207 458,207 476,201 481,201 509,207 511,201 522,201 523,208 543,207 544,201 557,201 562,207 583,207 583,218 390,217 385,223 378,223 377,217 177,217" />
+				<Baseline points="177,217 583,217" />
+				<TextEquiv index="1">
+					<Unicode>Möcht vielleicht seyn mein Brüderlein,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="177,228 235,233 259,233 260,227 270,227 303,233 337,233 354,227 360,227 361,236 373,236 374,228 384,228 396,233 465,231 499,236 500,227 510,227 541,227 542,233 557,233 557,244 443,243 398,245 373,243 321,243 315,249 306,249 303,249 270,243 177,243" />
+				<Baseline points="177,243 557,243" />
+				<TextEquiv index="1">
+					<Unicode>Der noch beym Lebn, Gotfriedelein,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l2" points="203,254 211,253 223,253 225,259 261,259 271,253 280,253 295,259 306,259 376,259 378,253 387,253 403,259 467,259 483,253 496,253 506,259 517,259 518,253 529,253 530,261 541,261 542,254 555,254 557,262 569,260 584,260 584,270 569,270 555,269 529,269 488,269 280,270 271,270 261,268 234,268 203,268" baseline="203,268 295,268 483,269 584,270" reason: second model: differs: "Brüäder" against "Brüderl" | Wikisource: Wiewol, wann ich meinm Brüderlein | next_nc_e1: Wiewol, wann ich meinm Brüderlein | german_print2_15: Wiewol, wann ich meinm Brüäderlein -->
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="175,280 194,279 203,279 226,285 322,285 322,279 337,279 353,280 355,286 430,285 445,279 450,279 458,287 478,283 567,286 569,293 572,293 572,298 536,298 531,298 404,294 175,294" />
+				<Baseline points="175,294 572,296" />
+				<TextEquiv index="1">
+					<Unicode>Solt was wündschen von hertzen rein,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="175,306 186,306 187,312 238,311 240,305 252,305 267,311 283,311 284,305 294,305 310,311 316,305 327,305 328,311 379,311 398,313 400,305 405,305 407,311 418,311 418,305 430,305 440,311 466,309 472,309 475,311 498,309 498,321 314,322 310,322 231,320 175,321" />
+				<Baseline points="175,321 498,321" />
+				<TextEquiv index="1">
+					<Unicode>So wolt ich jhm zu dieser zeit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="176,332 203,332 221,337 223,331 234,331 235,339 249,339 255,331 260,331 261,337 288,337 308,341 308,331 320,331 322,339 331,339 346,331 356,331 365,337 400,337 412,339 414,331 425,331 427,340 447,332 458,332 459,339 469,339 483,331 506,331 506,338 529,337 538,332 549,332 549,348 538,348 176,346" />
+				<Baseline points="176,346 549,347" />
+				<TextEquiv index="1">
+					<Unicode>Wündschen die himmelische Frewd.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="177,358 231,363 247,357 268,357 269,363 323,361 342,365 343,357 353,357 355,364 383,362 388,357 393,357 395,363 406,363 419,357 429,357 439,363 456,364 471,357 496,357 508,358 509,366 520,363 531,363 534,357 541,357 541,373 508,373 456,376 445,376 406,373 177,373" />
+				<Baseline points="177,373 541,373" />
+				<TextEquiv index="1">
+					<Unicode>Denn, Was ist das flüchtig Leben?</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="177,383 192,383 194,392 205,389 226,388 267,389 269,383 286,383 300,391 306,391 306,383 317,383 318,389 332,389 348,383 369,383 369,391 391,388 435,390 450,384 455,384 457,390 497,388 505,392 519,383 541,383 560,384 560,391 570,391 572,384 581,384 581,400 541,400 529,400 402,400 391,400 369,398 177,399" />
+				<Baseline points="177,399 348,398 581,400" />
+				<TextEquiv index="1">
+					<Unicode>Kehrt vmb das Wort, so heists Nebel.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="177,409 181,409 213,415 234,414 366,416 390,415 417,409 460,409 480,410 515,415 515,427 506,427 460,425 449,427 423,427 390,425 268,424 177,425" />
+				<Baseline points="177,425 292,424 515,426" />
+				<TextEquiv index="1">
+					<Unicode>Es ist wie ein schöne Feldblum,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Möcht vielleicht seyn mein Brüderlein,
+Der noch beym Lebn, Gotfriedelein,
+Solt was wündschen von hertzen rein,
+So wolt ich jhm zu dieser zeit
+Wündschen die himmelische Frewd.
+Denn, Was ist das flüchtig Leben?
+Kehrt vmb das Wort, so heists Nebel.
+Es ist wie ein schöne Feldblum,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="177,435 565,435 565,457 177,457" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="177,436 185,435 198,435 199,441 232,441 254,444 287,435 298,435 300,441 321,435 329,435 341,436 349,440 351,449 369,444 385,442 403,435 414,435 415,444 454,440 494,441 543,437 555,437 557,443 565,443 565,452 454,451 451,457 439,457 438,451 351,453 323,451 177,450" />
+				<Baseline points="177,450 369,449 565,452" />
+				<TextEquiv index="1">
+					<Unicode>Wann sie hinfelt, so kompt sie vmb.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Wann sie hinfelt, so kompt sie vmb.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="174,461 679,461 679,1332 174,1332" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="176,461 197,461 199,467 245,467 262,472 279,461 291,461 300,469 308,469 308,461 319,461 332,467 362,468 470,467 473,461 481,461 481,468 490,468 492,462 503,462 512,467 533,468 533,478 524,478 176,476" />
+				<Baseline points="176,476 533,478" />
+				<TextEquiv index="1">
+					<Unicode>Wie viel Böſs müssn wir erfahren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="176,487 201,487 203,496 227,493 256,493 272,487 287,487 296,493 413,494 454,493 470,487 485,487 515,493 537,494 537,505 485,506 470,506 287,502 176,503" />
+				<Baseline points="176,503 272,502 537,504" />
+				<TextEquiv index="1">
+					<Unicode>Ehe wir kommn zu vnsern Jahren,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="177,513 186,513 193,519 204,519 205,513 215,513 230,519 321,519 338,513 367,513 369,527 378,527 393,521 409,522 417,514 440,514 442,520 480,514 485,514 487,520 520,520 520,531 454,530 440,528 378,533 341,533 299,529 177,528" />
+				<Baseline points="177,528 520,530" />
+				<TextEquiv index="1">
+					<Unicode>Vnd wann wir lang gelebet han,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="174,543 241,545 325,545 342,547 344,539 354,539 358,547 368,547 373,540 384,540 397,548 404,545 424,546 426,539 438,539 440,545 446,545 452,548 457,540 468,540 483,548 489,548 489,539 504,539 511,546 532,546 532,557 523,557 241,554 212,555 174,550" />
+				<Baseline points="174,554 532,556" />
+				<TextEquiv index="1">
+					<Unicode>So müssen wir doch endlich dran,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="176,565 215,565 234,569 294,571 315,574 317,565 328,565 329,571 362,573 362,565 374,565 375,571 430,570 451,572 500,572 502,566 511,566 511,582 476,582 472,582 176,580" />
+				<Baseline points="176,580 511,582" />
+				<TextEquiv index="1">
+					<Unicode>Vnd ist nur das der vnterscheid</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="176,591 181,591 208,594 211,600 244,597 300,597 350,592 362,592 363,600 374,591 385,591 386,597 399,592 409,592 423,599 440,599 442,592 453,592 455,598 467,598 482,592 511,592 511,598 523,598 524,591 534,591 534,607 455,608 350,606 300,612 295,612 261,607 176,607" />
+				<Baseline points="176,607 232,606 534,608" />
+				<TextEquiv index="1">
+					<Unicode>Daſs einer paar Schuh oder Kleid</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="174,617 187,617 194,623 234,623 319,618 335,623 335,631 355,618 366,618 367,624 401,623 420,626 422,618 432,618 461,624 484,624 490,618 502,618 504,624 515,624 515,634 484,634 339,634 335,634 174,632" />
+				<Baseline points="174,632 515,634" />
+				<TextEquiv index="1">
+					<Unicode>Zurreisset mehr, dann der ander</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="176,643 214,643 228,649 266,649 285,651 286,643 297,643 300,650 309,650 311,644 326,644 340,656 346,650 358,649 375,644 385,644 400,652 407,650 429,650 429,644 441,644 450,650 460,650 461,644 471,644 486,650 531,650 532,644 555,644 555,650 574,650 574,662 555,662 541,662 531,660 448,659 176,658" />
+				<Baseline points="176,658 265,657 574,659" />
+				<TextEquiv index="1">
+					<Unicode>Vnd mus doch auch endlich wandern,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l8" custom="readingOrder {index:8;}">
+				<Coords points="175,669 180,669 196,671 215,678 223,669 233,669 248,675 264,675 276,677 277,669 318,669 339,670 342,676 355,676 361,670 372,670 374,683 391,670 403,670 415,675 425,670 441,670 442,676 461,671 475,671 501,676 511,674 554,676 555,670 601,670 622,671 624,677 633,677 633,688 624,688 601,686 590,688 580,688 208,684 175,685" />
+				<Baseline points="175,684 633,686" />
+				<TextEquiv index="1">
+					<Unicode>Durch viel Trübsal, durch Angst vnd Noth,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l9" custom="readingOrder {index:9;}">
+				<Coords points="175,695 197,695 205,702 229,699 240,695 245,695 260,701 280,701 294,695 310,695 318,701 350,696 372,696 374,702 410,702 412,696 416,696 419,702 433,702 445,696 456,696 457,703 478,702 494,696 511,696 520,702 528,700 539,700 539,715 528,715 501,712 175,710" />
+				<Baseline points="175,711 539,712" />
+				<TextEquiv index="1">
+					<Unicode>Hinauff zu dem Himmlischen Port,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l10" custom="readingOrder {index:10;}">
+				<Coords points="176,721 181,721 201,723 220,728 222,721 233,721 235,729 260,727 311,728 326,721 331,721 335,730 357,726 417,728 432,722 439,722 441,728 452,728 453,722 459,722 460,728 495,728 495,738 441,737 439,744 432,744 417,737 290,740 266,737 260,729 233,737 176,736" />
+				<Baseline points="176,736 495,738" />
+				<TextEquiv index="1">
+					<Unicode>Da die junge Leut von Jahren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l11" custom="readingOrder {index:11;}">
+				<Coords points="175,751 186,751 198,755 205,747 215,747 267,753 319,753 353,748 364,748 366,755 384,754 400,748 408,747 419,747 420,754 438,754 445,748 497,748 499,755 552,755 552,764 438,766 420,766 267,762 188,763 175,758" />
+				<Baseline points="175,762 552,764" />
+				<TextEquiv index="1">
+					<Unicode>Sich frewen mit der Engel Schaarn.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l12" custom="readingOrder {index:12;}">
+				<Coords points="177,774 203,776 220,780 221,773 233,773 234,780 269,773 286,773 288,779 300,774 311,774 324,779 359,780 378,785 378,774 396,774 399,780 443,780 445,774 455,774 455,789 390,789 337,792 326,792 288,789 177,789" />
+				<Baseline points="177,789 455,789" />
+				<TextEquiv index="1">
+					<Unicode>Da die Gläubigen allzumal</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l13" custom="readingOrder {index:13;}">
+				<Coords points="176,804 187,800 234,799 245,799 246,807 281,799 296,799 299,807 363,800 387,800 390,807 405,805 448,804 481,800 481,808 488,808 495,800 500,800 501,806 518,806 520,800 536,800 536,816 500,816 481,816 448,816 377,815 370,813 363,807 349,815 187,814 176,812" />
+				<Baseline points="176,812 536,815" />
+				<TextEquiv index="1">
+					<Unicode>Gott den Herren loben mit schall.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l14" custom="readingOrder {index:14;}">
+				<Coords points="178,825 183,825 223,830 236,825 246,825 260,831 283,831 289,833 295,825 306,825 320,834 329,831 367,829 390,825 401,825 403,833 462,826 467,826 469,832 479,832 487,826 514,826 514,832 568,832 568,842 367,841 365,847 360,847 358,841 178,841" />
+				<Baseline points="178,840 568,842" />
+				<TextEquiv index="1">
+					<Unicode>Da ich auch sampt dem Abel fromm</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l15" custom="readingOrder {index:15;}">
+				<Coords points="178,851 201,850 216,850 231,862 237,856 259,857 261,850 272,850 279,857 298,857 313,851 328,851 331,857 354,857 355,851 367,851 368,857 411,852 412,860 424,860 425,852 430,852 432,858 479,857 479,867 442,867 411,867 313,867 178,866" />
+				<Baseline points="178,866 479,867" />
+				<TextEquiv index="1">
+					<Unicode>Vnd andern Kindern lobesan</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l16" custom="readingOrder {index:16;}">
+				<Coords points="204,877 229,877 232,883 241,883 244,877 307,876 317,876 322,883 364,883 372,877 382,877 391,883 403,883 413,885 413,895 364,898 351,898 267,895 241,892 222,892 204,895" />
+				<Baseline points="204,892 413,894" />
+				<TextEquiv index="1">
+					<Unicode>Jubilire, Triumphire,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l17" custom="readingOrder {index:17;}">
+				<Coords points="203,903 214,902 226,902 230,910 239,910 241,902 246,902 248,908 260,903 272,903 282,911 329,909 330,903 368,904 369,912 383,910 389,903 408,904 410,910 433,911 433,919 361,919 318,919 203,918" />
+				<Baseline points="203,918 307,917 433,919" />
+				<TextEquiv index="1">
+					<Unicode>Modulire vnd Psallire.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l18" custom="readingOrder {index:18;}">
+				<Coords points="177,931 254,929 259,929 285,929 286,935 297,935 311,929 333,929 341,935 353,935 353,929 364,929 366,935 378,935 380,929 384,929 393,935 413,936 413,946 333,945 297,947 259,947 254,947 224,944 177,942" />
+				<Baseline points="177,942 413,945" />
+				<TextEquiv index="1">
+					<Unicode>O wie selig Kinderlein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l19" custom="readingOrder {index:19;}">
+				<Coords points="177,958 188,958 207,961 208,954 218,954 233,965 246,954 257,954 259,963 281,962 287,954 299,954 309,954 328,962 402,961 402,955 413,955 416,964 423,964 438,955 455,955 457,964 468,961 484,961 484,971 413,971 366,973 362,973 257,969 190,971 177,966" />
+				<Baseline points="177,970 362,969 484,971" />
+				<TextEquiv index="1">
+					<Unicode>Sind alle die, so jemals klein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l20" custom="readingOrder {index:20;}">
+				<Coords points="177,981 188,981 207,986 208,980 219,980 233,986 265,987 271,980 281,980 282,986 294,986 301,988 306,980 331,980 331,987 388,987 408,989 409,981 421,981 428,988 461,987 476,981 497,981 498,988 508,988 510,981 527,984 527,999 516,999 508,997 442,997 426,995 421,997 233,997 190,996 177,992" />
+				<Baseline points="177,996 527,998" />
+				<TextEquiv index="1">
+					<Unicode>Sind geschieden von dieser Welt,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l21" custom="readingOrder {index:21;}">
+				<Coords points="179,1007 185,1007 198,1012 213,1006 225,1006 226,1012 236,1012 245,1014 260,1006 274,1006 276,1012 307,1013 322,1007 345,1007 346,1013 382,1013 384,1007 388,1007 390,1013 415,1013 416,1007 458,1007 459,1015 469,1007 496,1007 509,1011 509,1023 307,1025 297,1025 274,1022 236,1021 179,1022" />
+				<Baseline points="179,1022 509,1022" />
+				<TextEquiv index="1">
+					<Unicode>In das Ewig Himmlisch Gezelt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l22" custom="readingOrder {index:22;}">
+				<Coords points="204,1035 215,1032 226,1032 229,1038 246,1038 246,1032 257,1032 285,1038 317,1038 336,1040 337,1033 363,1033 363,1042 384,1039 400,1039 401,1033 438,1033 439,1039 450,1039 458,1041 474,1033 484,1033 484,1039 522,1039 538,1033 545,1033 547,1040 559,1040 559,1033 569,1033 572,1039 592,1039 592,1050 561,1049 522,1052 511,1052 505,1049 285,1048 229,1047 204,1044" />
+				<Baseline points="204,1046 521,1048 592,1050" />
+				<TextEquiv index="1">
+					<Unicode>Glaubt mir daſs ich das Ewig Lebn,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l23" custom="readingOrder {index:23;}">
+				<Coords points="204,1057 220,1057 222,1063 226,1063 238,1058 248,1058 269,1064 280,1064 288,1066 292,1058 302,1058 323,1064 351,1065 353,1059 390,1059 396,1065 410,1065 425,1058 441,1058 448,1065 485,1064 494,1059 557,1059 569,1065 581,1065 588,1059 598,1059 621,1064 621,1074 590,1075 581,1079 569,1079 465,1073 461,1080 448,1080 447,1074 204,1073" />
+				<Baseline points="204,1073 621,1074" />
+				<TextEquiv index="1">
+					<Unicode>Nicht wolt vmb das Keyserthumb gebn.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l24" custom="readingOrder {index:24;}">
+				<Coords points="180,1083 201,1083 202,1089 239,1089 270,1084 281,1084 283,1090 298,1091 313,1084 397,1084 398,1091 422,1090 448,1085 470,1085 492,1090 500,1088 513,1088 518,1084 529,1084 529,1101 500,1100 492,1106 478,1106 470,1100 330,1100 313,1099 295,1094 292,1100 180,1098" />
+				<Baseline points="180,1098 529,1100" />
+				<TextEquiv index="1">
+					<Unicode>Was ist die Welt? dann Hospital</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l25" custom="readingOrder {index:25;}">
+				<Coords points="206,1109 211,1109 232,1111 301,1110 303,1116 339,1116 341,1110 374,1110 377,1116 395,1117 436,1116 436,1110 455,1110 456,1116 519,1111 519,1126 395,1128 383,1128 206,1124" />
+				<Baseline points="206,1124 519,1126" />
+				<TextEquiv index="1">
+					<Unicode>Da wir kranck ligen allzumal.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l26" custom="readingOrder {index:26;}">
+				<Coords points="181,1134 202,1134 203,1140 283,1136 298,1141 315,1135 328,1135 330,1142 361,1142 365,1136 374,1135 414,1136 415,1142 451,1142 465,1136 495,1136 503,1142 535,1137 548,1137 567,1142 568,1136 578,1136 578,1153 472,1153 465,1153 236,1151 181,1149" />
+				<Baseline points="181,1150 578,1152" />
+				<TextEquiv index="1">
+					<Unicode>Was ist jhr Frewd? dann Zehrenthal,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l27" custom="readingOrder {index:27;}">
+				<Coords points="207,1160 228,1160 282,1161 282,1170 299,1165 312,1165 322,1167 323,1175 341,1162 353,1161 386,1162 388,1168 407,1169 407,1162 418,1162 421,1175 440,1167 475,1167 492,1165 493,1175 511,1168 535,1166 543,1162 555,1162 569,1168 592,1167 592,1161 603,1161 618,1169 637,1166 655,1167 655,1161 665,1161 665,1177 638,1177 638,1183 625,1183 555,1178 523,1178 497,1182 456,1182 386,1177 323,1179 207,1175" />
+				<Baseline points="207,1175 665,1176" />
+				<TextEquiv index="1">
+					<Unicode>Viel Creutz, Trübsal, angst, noth vnd qual.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l28" custom="readingOrder {index:28;}">
+				<Coords points="180,1187 189,1186 201,1186 203,1192 257,1190 277,1195 278,1187 290,1187 291,1193 298,1193 313,1187 328,1187 329,1196 345,1193 357,1187 372,1186 380,1186 407,1187 408,1193 442,1193 458,1187 463,1187 464,1193 494,1193 495,1187 509,1187 519,1193 544,1188 579,1188 600,1193 600,1205 290,1203 277,1208 271,1208 257,1202 180,1201" />
+				<Baseline points="180,1201 544,1203 600,1205" />
+				<TextEquiv index="1">
+					<Unicode>Was ist jhr Reich? dann hauffen Bubn,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l29" custom="readingOrder {index:29;}">
+				<Coords points="207,1211 227,1211 228,1218 281,1218 282,1212 293,1212 312,1220 326,1214 341,1214 366,1219 376,1217 418,1219 418,1213 469,1213 478,1219 491,1219 491,1213 498,1213 499,1219 552,1219 552,1213 558,1213 559,1219 581,1219 581,1231 531,1229 530,1235 518,1235 518,1229 469,1229 348,1233 341,1229 326,1229 312,1223 306,1228 207,1227" />
+				<Baseline points="207,1227 581,1229" />
+				<TextEquiv index="1">
+					<Unicode>Ein rechte Angst vnd Mördergrubn,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l30" custom="readingOrder {index:30;}">
+				<Coords points="181,1238 258,1241 289,1239 298,1244 312,1238 325,1238 326,1244 351,1244 351,1238 363,1238 364,1252 383,1238 398,1238 399,1246 409,1246 410,1239 453,1239 453,1245 490,1245 491,1239 502,1239 517,1245 540,1245 540,1239 566,1238 582,1238 603,1244 607,1237 614,1237 614,1254 409,1255 368,1257 364,1257 273,1256 237,1253 181,1252" />
+				<Baseline points="181,1253 614,1254" />
+				<TextEquiv index="1">
+					<Unicode>Was ist jhr Zierd, Reichthumb vnd Ehr?</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l31" custom="readingOrder {index:31;}">
+				<Coords points="207,1263 214,1263 297,1264 299,1271 333,1270 334,1264 353,1264 354,1270 364,1270 365,1264 394,1265 421,1268 421,1278 440,1270 463,1270 464,1264 475,1264 489,1273 523,1267 538,1267 558,1270 558,1264 589,1264 603,1267 654,1269 654,1263 666,1263 679,1268 679,1279 522,1281 498,1280 425,1282 421,1282 207,1278" />
+				<Baseline points="207,1278 679,1279" />
+				<TextEquiv index="1">
+					<Unicode>Dann schendlich kot, vnd sonst nichts mehr.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l32" custom="readingOrder {index:32;}">
+				<Coords points="182,1289 204,1289 212,1295 223,1295 225,1289 236,1289 246,1296 257,1289 290,1289 290,1298 301,1298 308,1290 321,1289 323,1289 355,1295 377,1294 464,1296 464,1290 535,1290 545,1295 545,1305 483,1306 377,1306 371,1306 313,1304 182,1304" />
+				<Baseline points="182,1304 545,1305" />
+				<TextEquiv index="1">
+					<Unicode>Himlisch Leben ist ein recht Lebn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l33" custom="readingOrder {index:33;}">
+				<Coords points="182,1315 190,1315 198,1317 240,1315 245,1315 246,1321 258,1319 317,1319 355,1322 364,1315 376,1315 378,1323 396,1321 410,1315 418,1315 418,1321 449,1322 453,1316 465,1316 467,1323 522,1316 534,1316 551,1322 561,1322 562,1315 568,1315 591,1320 591,1330 477,1332 444,1332 426,1332 348,1330 182,1330" />
+				<Baseline points="182,1330 591,1330" />
+				<TextEquiv index="1">
+					<Unicode>Das thut stets voller frewden schwebn.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Wie viel Böſs müssn wir erfahren
+Ehe wir kommn zu vnsern Jahren,
+Vnd wann wir lang gelebet han,
+So müssen wir doch endlich dran,
+Vnd ist nur das der vnterscheid
+Daſs einer paar Schuh oder Kleid
+Zurreisset mehr, dann der ander
+Vnd mus doch auch endlich wandern,
+Durch viel Trübsal, durch Angst vnd Noth,
+Hinauff zu dem Himmlischen Port,
+Da die junge Leut von Jahren
+Sich frewen mit der Engel Schaarn.
+Da die Gläubigen allzumal
+Gott den Herren loben mit schall.
+Da ich auch sampt dem Abel fromm
+Vnd andern Kindern lobesan
+Jubilire, Triumphire,
+Modulire vnd Psallire.
+O wie selig Kinderlein
+Sind alle die, so jemals klein
+Sind geschieden von dieser Welt,
+In das Ewig Himmlisch Gezelt.
+Glaubt mir daſs ich das Ewig Lebn,
+Nicht wolt vmb das Keyserthumb gebn.
+Was ist die Welt? dann Hospital
+Da wir kranck ligen allzumal.
+Was ist jhr Frewd? dann Zehrenthal,
+Viel Creutz, Trübsal, angst, noth vnd qual.
+Was ist jhr Reich? dann hauffen Bubn,
+Ein rechte Angst vnd Mördergrubn,
+Was ist jhr Zierd, Reichthumb vnd Ehr?
+Dann schendlich kot, vnd sonst nichts mehr.
+Himlisch Leben ist ein recht Lebn
+Das thut stets voller frewden schwebn.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="394,1529 612,1529 612,1541 394,1541" />
+			<!-- line left out: id="r4l0" points="394,1529 401,1529 408,1531 424,1529 434,1529 443,1529 456,1529 469,1529 481,1529 494,1529 525,1529 542,1529 601,1530 609,1536 612,1536 612,1538 566,1540 551,1540 481,1538 452,1541 443,1541 434,1541 414,1540 407,1540 394,1538" baseline="394,1538 612,1538" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hupdigital slub-dresden dε ppn50
+ | german_print2_15: tpGigial slub-dresden de ppn01506,
+ -->
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="9,0 1000,0 1000,1565 9,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Möcht vielleicht seyn mein Brüderlein,
+Der noch beym Lebn, Gotfriedelein,
+Wiewol, wann ich meinm Brüderlein
+Solt was wündschen von hertzen rein,
+So wolt ich jhm zu dieser zeit
+Wündschen die himmelische Frewd.
+Denn, Was ist das flüchtig Leben?
+Kehrt vmb das Wort, so heists Nebel.
+Es ist wie ein schöne Feldblum,
+Wann sie hinfelt, so kompt sie vmb.
+Wie viel Böß müssn wir erfahren
+Ehe wir kommn zu vnsern Jahren,
+Vnd wann wir lang gelebet han,
+So müssen wir doch endlich dran,
+Vnd ist nur das der vnterscheid
+Daß einer paar Schuh oder Kleid
+Zurreisset mehr, dann der ander
+Vnd mus doch auch endlich wandern,
+Durch viel Trübsal, durch Angst vnd Noth,
+Hinauff zu dem Himmlischen Port,
+Da die junge Leut von Jahren
+Sich frewen mit der Engel Schaarn.
+Da die Gläubigen allzumal
+Gott den Herren loben mit schall.
+Da ich auch sampt dem Abel fromm
+Vnd andern Kindern lobesan
+Jubilire, Triumphire,
+Modulire vnd Psallire.
+O wie selig Kinderlein
+Sind alle die, so jemals klein
+Sind geschieden von dieser Welt,
+In das Ewig Himmlisch Gezelt.
+Glaubt mir daß ich das Ewig Lebn,
+Nicht wolt vmb das Keyserthumb gebn.
+Was ist die Welt? dann Hospital
+Da wir kranck ligen allzumal.
+Was ist jhr Frewd? dann Zehrenthal,
+Viel Creutz, Trübsal, angst, noth vnd qual.
+Was ist jhr Reich? dann hauffen Bubn,
+Ein rechte Angst vnd Mördergrubn,
+Was ist jhr Zierd, Reichthumb vnd Ehr?
+Dann schendlich kot, vnd sonst nichts mehr.
+Himlisch Leben ist ein recht Lebn
+Das thut stets voller frewden schwebn.
+-->
+	</Page>
+</PcGts>

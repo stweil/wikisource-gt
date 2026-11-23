@@ -1,0 +1,446 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:04:31</Created>
+		<LastChange>2026-11-23T14:04:31</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/332 revision 5010393 of 2026-08-07T12:58:02Z, proofread level 3, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0332.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro8261028595594831070" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,332 21,332 21,472 0,472" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="502,145 639,145 639,161 502,161" />
+			<!-- line left out: id="r1l0" points="502,154 524,154 554,145 589,145 624,155 639,155 639,157 589,161 566,161 554,160 502,155" baseline="502,156 554,156 639,158" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 120 —
+ | german_print2_15: — 120 —
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="302,198 809,198 809,1332 302,1332" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="310,198 331,198 331,204 342,204 343,198 354,198 368,204 434,205 434,199 445,199 460,207 477,205 494,200 500,200 500,206 510,206 524,200 536,200 537,206 548,206 556,209 570,201 606,201 607,208 656,202 684,202 685,215 688,215 688,220 659,220 656,220 310,214" />
+				<Baseline points="310,213 688,218" />
+				<TextEquiv index="1">
+					<Unicode>Lieb war ich euch, das bekenn ich,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="310,224 332,224 333,231 344,231 344,224 348,224 363,230 381,230 392,232 393,224 405,224 406,231 516,226 586,226 588,232 605,227 676,228 687,233 694,228 708,228 710,234 715,234 722,228 733,228 733,234 742,234 742,243 648,243 586,247 568,247 523,241 406,241 310,239" />
+				<Baseline points="310,240 554,241 742,244" />
+				<TextEquiv index="1">
+					<Unicode>Viel mehr meinm Gott, glaubt sicherlich.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="310,249 326,249 336,256 365,256 366,250 383,250 397,257 437,254 497,257 523,252 577,252 585,253 586,259 597,259 597,253 660,253 668,256 760,259 760,269 662,269 383,269 366,269 310,266" />
+				<Baseline points="310,266 760,269" />
+				<TextEquiv index="1">
+					<Unicode>Drumb, weint nur nicht liebst Eltern mein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="310,276 318,275 333,275 346,282 385,282 462,277 477,283 571,284 594,286 600,284 632,284 632,294 617,294 612,300 600,300 600,294 493,296 485,292 310,292" />
+				<Baseline points="310,292 477,292 632,294" />
+				<TextEquiv index="1">
+					<Unicode>Es mus einmal vergessen seyn.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="336,302 342,302 344,308 355,308 355,302 392,302 392,308 460,303 484,303 485,309 522,304 558,303 560,310 591,305 611,305 683,308 715,311 716,305 732,305 760,311 795,306 809,311 809,321 533,321 522,321 471,319 336,318" />
+				<Baseline points="336,317 809,321" />
+				<TextEquiv index="1">
+					<Unicode>Ich bin im Himml, drumb trawrt nicht mehr</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="310,328 331,327 350,327 379,328 379,334 407,334 408,328 437,328 451,335 455,328 469,328 469,336 479,336 494,329 552,330 567,336 588,336 655,331 674,331 681,337 710,336 710,348 679,345 663,348 511,350 494,350 469,346 310,343" />
+				<Baseline points="310,343 710,346" />
+				<TextEquiv index="1">
+					<Unicode>Vnd funckle da, gleich wie ein Stern,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="310,354 332,354 346,358 365,360 379,354 391,354 399,360 411,360 426,354 446,354 446,360 465,361 465,355 481,355 483,361 508,361 509,355 521,355 522,362 557,356 585,356 586,362 627,362 627,375 616,375 575,372 488,371 465,375 452,375 310,369" />
+				<Baseline points="310,369 627,372" />
+				<TextEquiv index="1">
+					<Unicode>Vnter der Engelischen Schaar,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="310,380 350,380 364,387 384,386 384,380 396,380 396,386 458,381 498,384 512,388 524,395 530,395 531,382 573,382 580,386 590,388 604,382 628,382 635,388 646,388 646,398 543,398 524,398 464,396 310,395" />
+				<Baseline points="310,395 646,398" />
+				<TextEquiv index="1">
+					<Unicode>Vnd schawe Gottes Antlitz klar.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="309,406 326,406 351,412 368,412 368,406 379,406 393,413 399,413 399,406 411,406 411,412 484,413 484,407 531,407 561,411 619,408 620,414 630,414 633,408 654,408 654,424 619,424 551,424 545,424 309,422" />
+				<Baseline points="309,422 499,422 654,424" />
+				<TextEquiv index="1">
+					<Unicode>Da ich dann auch in steter hold</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="309,432 330,432 330,438 381,438 382,432 404,432 451,435 463,439 463,446 482,432 493,432 494,438 506,433 514,433 514,439 553,439 611,434 625,440 637,440 644,439 653,434 664,434 664,449 467,450 420,450 417,450 363,447 309,448" />
+				<Baseline points="309,448 664,449" />
+				<TextEquiv index="1">
+					<Unicode>Für euch bitte, daſs er euch wolt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="309,458 332,458 333,464 343,464 358,458 381,458 382,464 430,465 431,458 436,458 519,459 520,465 580,465 609,463 623,471 628,465 646,466 648,460 658,460 661,473 663,473 663,477 661,477 554,475 309,474" />
+				<Baseline points="309,474 569,474 663,476" />
+				<TextEquiv index="1">
+					<Unicode>Die Himmelsthür thuen weit auff,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="309,484 331,484 331,490 366,490 378,484 391,484 391,490 406,490 419,484 425,484 426,490 443,491 452,484 468,484 487,484 488,491 499,491 514,488 564,491 572,493 587,485 594,485 596,493 606,493 608,486 618,486 629,491 656,491 670,485 676,485 684,491 709,485 724,485 724,500 528,501 419,499 391,505 378,505 309,499" />
+				<Baseline points="309,499 724,500" />
+				<TextEquiv index="1">
+					<Unicode>Wann jhr beschliest ewrs Lebens Lauff.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="335,510 362,510 384,515 401,516 401,510 438,510 438,516 462,516 463,510 476,510 489,516 495,516 496,510 508,510 509,516 611,512 617,518 688,517 688,527 630,526 629,532 617,532 611,527 496,526 495,532 489,532 476,526 335,525" />
+				<Baseline points="335,525 688,527" />
+				<TextEquiv index="1">
+					<Unicode>Warumb wolt jhr mir miſsgönnen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="309,536 328,536 342,539 377,536 382,536 383,542 394,542 394,536 406,536 406,543 478,542 513,537 525,537 526,543 607,543 607,553 585,553 548,556 537,556 309,552" />
+				<Baseline points="309,552 607,553" />
+				<TextEquiv index="1">
+					<Unicode>Mit solchen ewren begünnen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l14" points="309,562 331,562 332,569 342,569 357,562 386,562 386,568 398,568 400,562 412,562 422,568 432,568 433,562 439,561 449,561 463,568 496,568 509,569 509,561 513,561 544,563 546,570 558,569 575,569 576,563 587,563 612,563 613,570 625,567 635,567 635,579 608,584 588,584 528,579 509,565 509,583 496,583 412,578 331,578 309,578" baseline="309,578 512,578 635,579" reason: second model: differs: "sch'ewi" against "sch’ ew" | Wikisource: Die Himlisch’ ewig’ Herrligkeit | next_nc_e1: Die Himlisch’ ewig’ Herrligkeit | german_print2_15: Die Himlisch' ewig' Herrligkeit -->
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="309,588 331,588 332,594 361,595 361,588 373,588 422,588 423,594 485,594 516,588 528,588 528,594 563,595 577,589 642,589 642,596 653,596 656,589 703,593 703,598 698,598 692,604 666,605 653,610 642,610 622,605 605,605 583,610 577,610 502,605 422,603 309,604" />
+				<Baseline points="309,604 703,604" />
+				<TextEquiv index="1">
+					<Unicode>Die doch bessr ist dann Sterbligkeit?</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="335,614 342,614 397,614 417,614 418,620 426,620 441,614 449,614 449,620 487,621 487,615 498,615 522,621 534,621 535,615 540,615 542,621 559,621 559,615 576,615 577,621 585,621 592,615 634,615 639,630 642,630 642,631 634,634 611,634 592,631 534,634 522,634 335,629" />
+				<Baseline points="335,630 642,631" />
+				<TextEquiv index="1">
+					<Unicode>Ich halts für ein glückseligke</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="309,640 331,640 359,646 364,646 371,640 387,640 401,647 410,643 438,646 439,640 450,640 463,647 470,647 470,641 481,641 524,647 544,646 562,648 562,641 577,641 577,647 589,647 603,641 616,641 616,647 634,644 644,644 644,658 609,658 603,658 309,655" />
+				<Baseline points="309,655 644,657" />
+				<TextEquiv index="1">
+					<Unicode>Das ich starb eben zu der Zeit,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="308,666 362,666 362,672 386,672 387,665 398,665 412,672 435,672 436,666 473,666 473,672 484,672 484,666 496,666 496,672 519,672 520,666 531,666 545,673 568,673 569,667 580,667 625,673 632,673 636,667 642,667 643,673 665,673 669,667 680,667 681,673 704,671 704,665 714,665 714,681 692,683 610,683 556,683 519,683 508,683 308,682" />
+				<Baseline points="308,682 714,680" />
+				<TextEquiv index="1">
+					<Unicode>Da Sünd vnd Schand nehmn vberhand</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="309,691 315,691 383,692 383,698 460,693 495,698 495,692 515,692 516,699 552,693 564,693 571,696 583,698 601,693 612,693 612,709 571,709 565,709 309,708" />
+				<Baseline points="309,708 612,709" />
+				<TextEquiv index="1">
+					<Unicode>Bei jederman in allen Stand.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="308,717 316,717 336,718 349,724 354,717 368,717 369,724 413,724 413,718 427,718 434,724 452,724 466,718 481,718 483,725 494,725 494,718 506,718 507,725 519,725 520,719 529,719 547,724 547,734 529,734 519,739 507,739 379,734 308,733" />
+				<Baseline points="308,732 547,734" />
+				<TextEquiv index="1">
+					<Unicode>Da die wahre Religion</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="307,744 323,744 359,750 429,750 444,744 452,744 452,750 476,750 476,744 494,744 509,750 531,750 532,744 573,744 580,752 584,745 602,745 624,750 624,761 602,764 584,764 579,760 307,760" />
+				<Baseline points="307,760 624,761" />
+				<TextEquiv index="1">
+					<Unicode>Aus vnserm Land vnd Region</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="308,770 337,769 357,769 371,776 393,776 394,770 408,770 420,775 433,773 511,773 531,777 531,770 543,770 545,776 557,776 571,770 600,771 618,776 628,771 639,771 640,777 658,774 669,774 669,788 525,786 499,792 484,792 484,786 432,791 394,791 387,785 308,785" />
+				<Baseline points="308,785 669,787" />
+				<TextEquiv index="1">
+					<Unicode>Wird verjagt sampt der Erbarkeit,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="306,796 314,795 330,795 331,801 355,802 356,796 398,795 413,795 413,803 469,802 469,796 518,796 518,802 531,797 572,796 574,802 585,802 591,797 603,797 603,804 615,802 663,802 670,797 685,797 711,802 745,800 745,812 585,812 372,815 361,815 355,812 306,810" />
+				<Baseline points="306,811 745,812" />
+				<TextEquiv index="1">
+					<Unicode>Glaub, Trew vnd Lieb fliehen auch weit.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l24" custom="readingOrder {index:24;}">
+				<Coords points="309,821 325,821 325,827 349,822 361,822 411,828 441,829 442,823 489,826 521,826 532,829 547,822 563,822 564,828 587,829 587,823 600,823 607,829 618,826 630,826 630,839 532,839 498,839 448,839 309,838" />
+				<Baseline points="309,838 630,839" />
+				<TextEquiv index="1">
+					<Unicode>Da dann meine zarte Kindheit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l25" custom="readingOrder {index:25;}">
+				<Coords points="308,848 358,847 363,847 364,854 375,854 376,848 381,848 382,854 393,854 393,848 419,848 421,854 437,849 443,849 444,855 463,848 475,848 475,854 499,854 500,848 581,849 595,856 600,849 613,849 614,856 624,856 639,848 686,848 687,855 716,852 716,864 680,865 665,865 613,865 570,865 437,865 421,865 308,864" />
+				<Baseline points="308,864 716,864" />
+				<TextEquiv index="1">
+					<Unicode>Het leichtlich kund durch die Boſsheit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l26" custom="readingOrder {index:26;}">
+				<Coords points="307,874 324,874 378,879 434,874 449,874 449,881 460,881 460,874 493,874 498,880 520,874 533,874 545,875 552,881 566,878 639,880 639,893 620,897 607,897 607,891 493,891 377,895 307,890" />
+				<Baseline points="307,890 639,892" />
+				<TextEquiv index="1">
+					<Unicode>Der argen Welt verführet seyn,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l27" custom="readingOrder {index:27;}">
+				<Coords points="307,900 317,899 330,899 452,901 478,906 514,901 577,901 578,907 624,907 637,900 644,900 651,901 651,907 661,907 662,901 673,901 674,907 684,907 684,917 545,916 478,922 465,922 465,916 307,915" />
+				<Baseline points="307,916 684,917" />
+				<TextEquiv index="1">
+					<Unicode>Vnd mich bringen in schwere Pein.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l28" custom="readingOrder {index:28;}">
+				<Coords points="333,925 341,925 361,926 361,932 379,932 393,926 417,926 418,932 467,932 505,927 555,927 556,933 566,933 567,927 577,927 591,934 608,931 686,932 686,945 670,947 634,948 622,948 598,943 333,942" />
+				<Baseline points="333,942 686,944" />
+				<TextEquiv index="1">
+					<Unicode>Dem allen nun bin ich entgangn,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l29" custom="readingOrder {index:29;}">
+				<Coords points="306,952 327,952 329,958 336,958 349,952 368,952 369,958 380,958 380,952 399,952 399,958 411,955 443,953 523,958 523,952 534,952 547,959 571,959 572,953 581,953 602,958 625,958 625,969 615,974 560,974 547,974 500,969 306,968" />
+				<Baseline points="306,968 625,969" />
+				<TextEquiv index="1">
+					<Unicode>Ihr bleibet aber noch gefangn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l30" custom="readingOrder {index:30;}">
+				<Coords points="306,978 316,977 323,977 343,981 382,985 382,978 398,978 398,984 408,984 420,978 433,978 457,984 457,978 469,978 470,992 489,984 554,979 566,979 567,985 595,985 609,979 621,978 651,978 663,983 663,997 652,997 634,995 474,997 470,997 457,995 306,993" />
+				<Baseline points="306,994 663,995" />
+				<TextEquiv index="1">
+					<Unicode>Vnter der Sünd, vnter dem Todt,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l31" custom="readingOrder {index:31;}">
+				<Coords points="306,1004 316,1003 322,1003 363,1010 376,1004 388,1004 389,1010 423,1005 480,1007 481,1018 499,1004 520,1004 521,1010 613,1011 614,1004 681,1005 691,1010 691,1023 660,1021 648,1023 521,1021 520,1027 499,1027 451,1026 451,1020 423,1021 306,1019" />
+				<Baseline points="306,1020 591,1020 691,1022" />
+				<TextEquiv index="1">
+					<Unicode>Vnter der Angst, Jammer vnd Noth,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l32" custom="readingOrder {index:32;}">
+				<Coords points="305,1038 310,1030 343,1030 407,1030 423,1033 493,1030 504,1030 570,1031 580,1036 586,1031 597,1031 597,1047 580,1047 529,1047 497,1047 460,1047 448,1047 305,1046" />
+				<Baseline points="305,1046 597,1047" />
+				<TextEquiv index="1">
+					<Unicode>Aber es ist vmb kleine zeit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l33" custom="readingOrder {index:33;}">
+				<Coords points="305,1055 318,1055 318,1061 343,1058 351,1055 363,1055 363,1061 387,1061 388,1069 407,1056 419,1056 420,1062 440,1062 455,1056 598,1057 605,1063 617,1063 617,1057 628,1057 655,1063 681,1064 682,1057 698,1060 698,1074 688,1074 431,1072 392,1074 388,1074 305,1071" />
+				<Baseline points="305,1072 577,1072 698,1074" />
+				<TextEquiv index="1">
+					<Unicode>Zu thun, das End ist nun nicht weit,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l34" custom="readingOrder {index:34;}">
+				<Coords points="304,1082 333,1081 347,1081 347,1087 380,1082 387,1088 398,1085 414,1085 424,1088 425,1082 461,1082 489,1088 503,1082 537,1082 544,1088 603,1089 603,1083 613,1083 623,1088 623,1099 454,1099 347,1103 333,1103 321,1097 304,1097" />
+				<Baseline points="304,1097 623,1099" />
+				<TextEquiv index="1">
+					<Unicode>O jhr hertzliebste Eltern mein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l35" custom="readingOrder {index:35;}">
+				<Coords points="305,1107 355,1107 380,1107 407,1108 419,1111 450,1108 468,1108 469,1114 481,1114 481,1121 500,1114 536,1114 536,1108 648,1109 660,1115 708,1114 708,1125 689,1130 567,1130 561,1130 485,1128 393,1129 352,1124 305,1123" />
+				<Baseline points="305,1123 708,1125" />
+				<TextEquiv index="1">
+					<Unicode>Wo ich jetzt bin, werd jhr auch seyn.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l36" custom="readingOrder {index:36;}">
+				<Coords points="330,1134 340,1133 359,1133 360,1139 406,1133 418,1133 418,1139 429,1139 441,1133 453,1133 454,1140 479,1139 499,1134 511,1134 512,1140 524,1135 537,1134 596,1134 596,1141 607,1141 607,1134 619,1134 619,1150 375,1153 355,1153 340,1153 330,1150" />
+				<Baseline points="330,1150 619,1150" />
+				<TextEquiv index="1">
+					<Unicode>Ade, Ade du schnöde Welt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l37" custom="readingOrder {index:37;}">
+				<Coords points="304,1159 321,1159 321,1165 332,1165 333,1159 339,1159 339,1165 365,1162 373,1159 385,1159 385,1165 409,1165 423,1159 435,1159 441,1165 468,1160 479,1160 510,1165 558,1161 652,1160 661,1167 671,1167 673,1160 703,1160 711,1164 713,1173 716,1173 716,1176 671,1177 660,1182 648,1182 635,1176 586,1177 304,1175" />
+				<Baseline points="304,1176 716,1176" />
+				<TextEquiv index="1">
+					<Unicode>Dein thun durch aus mir nicht gefellt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l38" custom="readingOrder {index:38;}">
+				<Coords points="304,1185 321,1185 321,1191 341,1191 355,1185 362,1185 389,1185 405,1185 405,1191 417,1191 417,1185 434,1185 454,1186 495,1192 495,1186 520,1186 521,1192 532,1192 547,1186 563,1186 563,1192 575,1189 582,1189 594,1192 595,1186 608,1186 610,1192 639,1192 639,1186 649,1186 649,1205 639,1205 558,1202 304,1201" />
+				<Baseline points="304,1202 649,1202" />
+				<TextEquiv index="1">
+					<Unicode>Der Himmel ist mein Vaterland,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l39" custom="readingOrder {index:39;}">
+				<Coords points="303,1211 327,1211 328,1217 338,1217 353,1211 375,1211 375,1217 386,1217 387,1211 400,1211 492,1212 509,1218 522,1211 534,1211 535,1217 570,1218 585,1212 590,1212 591,1218 616,1215 642,1218 655,1212 678,1212 678,1218 702,1218 702,1212 713,1212 713,1228 668,1229 623,1229 303,1227" />
+				<Baseline points="303,1227 713,1228" />
+				<TextEquiv index="1">
+					<Unicode>Die Welt ist nichts dann lauter Tand.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l40" custom="readingOrder {index:40;}">
+				<Coords points="302,1237 369,1237 369,1243 380,1243 381,1237 393,1237 429,1243 442,1237 459,1237 477,1237 572,1243 590,1238 602,1238 602,1244 612,1244 612,1254 497,1254 380,1254 359,1254 302,1254" />
+				<Baseline points="302,1254 612,1254" />
+				<TextEquiv index="1">
+					<Unicode>Ade liebster Groſsvater mein.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l41" custom="readingOrder {index:41;}">
+				<Coords points="302,1263 369,1263 393,1263 420,1269 433,1263 451,1263 452,1269 472,1264 481,1264 499,1269 499,1263 514,1263 535,1266 598,1270 598,1264 610,1264 621,1269 621,1280 369,1280 311,1280 302,1279" />
+				<Baseline points="302,1279 621,1280" />
+				<TextEquiv index="1">
+					<Unicode>Ade liebste Groſsmutter mein.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l42" custom="readingOrder {index:42;}">
+				<Coords points="302,1289 312,1288 342,1288 368,1289 369,1295 389,1292 396,1289 420,1289 420,1295 431,1295 431,1289 444,1289 460,1293 504,1289 522,1289 530,1292 599,1290 611,1295 613,1303 616,1303 616,1306 480,1306 431,1306 380,1306 360,1306 356,1306 302,1305" />
+				<Baseline points="302,1305 616,1306" />
+				<TextEquiv index="1">
+					<Unicode>Ade hertzliebster Vater mein.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l43" custom="readingOrder {index:43;}">
+				<Coords points="302,1315 312,1314 342,1314 369,1315 369,1321 407,1315 420,1315 420,1321 431,1321 431,1315 444,1315 471,1321 484,1315 504,1315 505,1321 517,1318 532,1318 596,1322 597,1316 608,1316 618,1321 618,1332 431,1332 407,1332 360,1332 357,1332 302,1330" />
+				<Baseline points="302,1330 618,1332" />
+				<TextEquiv index="1">
+					<Unicode>Ade hertzliebste Mutter mein.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Lieb war ich euch, das bekenn ich,
+Viel mehr meinm Gott, glaubt sicherlich.
+Drumb, weint nur nicht liebst Eltern mein
+Es mus einmal vergessen seyn.
+Ich bin im Himml, drumb trawrt nicht mehr
+Vnd funckle da, gleich wie ein Stern,
+Vnter der Engelischen Schaar,
+Vnd schawe Gottes Antlitz klar.
+Da ich dann auch in steter hold
+Für euch bitte, daſs er euch wolt
+Die Himmelsthür thuen weit auff,
+Wann jhr beschliest ewrs Lebens Lauff.
+Warumb wolt jhr mir miſsgönnen
+Mit solchen ewren begünnen
+Die doch bessr ist dann Sterbligkeit?
+Ich halts für ein glückseligke
+Das ich starb eben zu der Zeit,
+Da Sünd vnd Schand nehmn vberhand
+Bei jederman in allen Stand.
+Da die wahre Religion
+Aus vnserm Land vnd Region
+Wird verjagt sampt der Erbarkeit,
+Glaub, Trew vnd Lieb fliehen auch weit.
+Da dann meine zarte Kindheit
+Het leichtlich kund durch die Boſsheit
+Der argen Welt verführet seyn,
+Vnd mich bringen in schwere Pein.
+Dem allen nun bin ich entgangn,
+Ihr bleibet aber noch gefangn
+Vnter der Sünd, vnter dem Todt,
+Vnter der Angst, Jammer vnd Noth,
+Aber es ist vmb kleine zeit
+Zu thun, das End ist nun nicht weit,
+O jhr hertzliebste Eltern mein
+Wo ich jetzt bin, werd jhr auch seyn.
+Ade, Ade du schnöde Welt
+Dein thun durch aus mir nicht gefellt.
+Der Himmel ist mein Vaterland,
+Die Welt ist nichts dann lauter Tand.
+Ade liebster Groſsvater mein.
+Ade liebste Groſsmutter mein.
+Ade hertzliebster Vater mein.
+Ade hertzliebste Mutter mein.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="488,283 509,283 509,298 488,298" />
+		</GraphicRegion>
+		<GraphicRegion id="r4">
+			<Coords points="529,382 544,382 544,397 529,397" />
+		</GraphicRegion>
+		<GraphicRegion id="r5">
+			<Coords points="610,615 664,615 664,636 610,636" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="352,684 368,684 368,713 352,713" />
+		</GraphicRegion>
+		<GraphicRegion id="r7">
+			<Coords points="431,1073 530,1073 530,1098 431,1098" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="0,0 1000,0 1000,141 0,141" />
+		</GraphicRegion>
+		<SeparatorRegion id="r9">
+			<Coords points="963,321 977,321 977,879 963,879" />
+		</SeparatorRegion>
+		<GraphicRegion id="r10">
+			<Coords points="0,1516 1000,1516 1000,1564 0,1564" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Lieb war ich euch, das bekenn ich,
+Viel mehr meinm Gott, glaubt sicherlich.
+Drumb, weint nur nicht liebst Eltern mein
+Es mus einmal vergessen seyn.
+Ich bin im Himml, drumb trawrt nicht mehr
+Vnd funckle da, gleich wie ein Stern,
+Vnter der Engelischen Schaar,
+Vnd schawe Gottes Antlitz klar.
+Da ich dann auch in steter hold
+Für euch bitte, daß er euch wolt
+Die Himmelsthür thuen weit auff,
+Wann jhr beschliest ewrs Lebens Lauff.
+Warumb wolt jhr mir mißgönnen
+Mit solchen ewren begünnen
+Die Himlisch’ ewig’ Herrligkeit
+Die doch bessr ist dann Sterbligkeit?
+Ich halts für ein glückseligkeit,
+Das ich starb eben zu der Zeit,
+Da Sünd vnd Schand nehmn vberhand
+Bei jederman in allen Stand.
+Da die wahre Religion
+Aus vnserm Land vnd Region
+Wird verjagt sampt der Erbarkeit,
+Glaub, Trew vnd Lieb fliehen auch weit.
+Da dann meine zarte Kindheit
+Het leichtlich kund durch die Boßheit
+Der argen Welt verführet seyn,
+Vnd mich bringen in schwere Pein.
+Dem allen nun bin ich entgangn,
+Ihr bleibet aber noch gefangn
+Vnter der Sünd, vnter dem Todt,
+Vnter der Angst, Jammer vnd Noth,
+Aber es ist vmb kleine zeit
+Zu thun, das End ist nun nicht weit,
+O jhr hertzliebste Eltern mein
+Wo ich jetzt bin, werd jhr auch seyn.
+Ade, Ade du schnöde Welt
+Dein thun durch aus mir nicht gefellt.
+Der Himmel ist mein Vaterland,
+Die Welt ist nichts dann lauter Tand.
+Ade liebster Großvater mein.
+Ade liebste Großmutter mein.
+Ade hertzliebster Vater mein.
+Ade hertzliebste Mutter mein.
+-->
+	</Page>
+</PcGts>

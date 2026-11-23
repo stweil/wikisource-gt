@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:39:14</Created>
+		<LastChange>2026-11-23T14:39:14</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/354 revision 4675683 of 2025-12-16T07:48:32Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0354.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro2434488432950499410" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="15" regionRef="r15" />
+				<RegionRefIndexed index="16" regionRef="r16" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="201,300 905,300 905,340 201,340" />
+			<!-- line left out: id="r0l0" points="201,302 230,302 237,311 278,311 390,310 409,310 456,311 490,301 513,301 519,310 577,310 615,300 645,300 650,310 669,310 742,310 755,311 763,303 784,303 789,311 813,310 829,310 834,302 858,301 877,301 905,305 905,331 883,331 855,330 784,330 721,330 669,330 619,331 615,331 538,330 427,330 390,330 350,340 329,340 323,331 248,331 201,331" baseline="201,331 455,329 615,329 905,331" reason: differs: "Ausz" against "cols" | Wikisource:  | next_nc_e1: Auszug aus dem Kassenbericht
+ | german_print2_15: Auszug aus dem Kassenhbericht
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="460,342 651,342 651,374 460,374" />
+			<!-- line left out: id="r1l0" points="460,342 474,342 496,345 502,352 518,352 545,342 651,342 651,374 607,374 586,373 496,373 476,373 460,371" baseline="460,371 651,371" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: für 1875.
+ | german_print2_15: für 1875.
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="481,408 631,408 631,423 481,423" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="481,408 497,408 581,408 601,412 631,414 631,423 562,423 481,423" />
+				<Baseline points="481,423 631,423" />
+				<TextEquiv index="1">
+					<Unicode>Einnahme.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Einnahme.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="291,435 348,435 348,458 291,458" />
+		</GraphicRegion>
+		<GraphicRegion id="r4">
+			<Coords points="478,494 488,494 488,511 478,511" />
+		</GraphicRegion>
+		<GraphicRegion id="r5">
+			<Coords points="459,518 511,518 511,542 459,542" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="752,660 813,660 813,684 752,684" />
+		</GraphicRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="196,438 906,438 906,737 196,737" />
+			<!-- line left out: id="r7l0" points="199,438 212,438 220,445 234,445 270,440 274,440 277,446 285,446 288,438 323,438 323,452 332,452 756,439 772,439 781,445 791,445 834,444 842,444 854,444 902,452 903,452 903,458 902,458 851,453 839,445 839,453 800,454 332,454 274,454 234,454 199,454" baseline="199,454 756,453 903,454" reason: differs: "Kass" against "⟦⟧ |" | Wikisource:  | next_nc_e1: Kassenbestan Mark 793. 84 | german_print2_15: Kassenbestan . Mark 793. 84 -->
+			<!-- line left out: id="r7l1" points="196,469 214,469 240,471 272,471 290,474 294,465 304,465 312,471 334,465 351,465 365,470 392,472 393,465 407,465 422,465 431,471 434,471 562,478 828,471 859,471 905,474 905,479 895,479 854,475 565,480 407,481 393,481 389,475 378,481 341,481 272,481 263,481 240,480 214,480 196,480" baseline="196,480 564,480 905,481" reason: differs: "Steu" against "t;" " | Wikisource:  | next_nc_e1: Steuern der Mitglieder . 1258. 50 | german_print2_15: Steuern der Mitglieder . 1258. 50. -->
+			<!-- line left out: id="r7l2" points="196,496 208,496 216,492 227,492 231,498 242,498 264,496 275,496 306,498 326,501 329,492 339,492 348,498 368,495 380,495 385,496 400,495 411,495 418,496 421,506 430,506 433,500 445,497 455,497 467,499 467,491 504,491 529,497 601,496 618,496 668,496 714,496 714,497 708,497 706,506 668,507 627,507 545,506 537,506 534,512 529,512 503,508 430,508 421,508 385,507 350,507 306,507 283,507 258,507 242,506 227,507 216,507 196,506" baseline="196,507 322,506 714,506" reason: differs: "Subv" against "50. " | Wikisource:  | next_nc_e1: Subvention der Stadtgemeinde pr Quartal 187
+ | german_print2_15: Subvention der Stadtgemeinde pr Quartal 187.
+ -->
+			<!-- line left out: id="r7l3" points="249,524 272,524 274,518 284,518 305,523 309,531 318,523 350,523 352,531 371,522 384,521 394,521 425,518 444,518 444,532 438,537 383,537 371,537 350,535 318,535 249,533" baseline="249,533 444,532" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: und 1.—3. Quartal | german_print2_15:  -->
+			<!-- line left out: id="r7l4" points="196,548 208,548 213,552 221,544 232,544 233,553 245,550 255,550 258,544 268,544 271,550 293,550 304,551 327,551 327,559 304,561 295,561 283,560 232,559 221,559 210,557 196,556" baseline="196,559 327,559" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Schenkungen | german_print2_15:  -->
+			<!-- line left out: id="r7l5" points="198,570 206,570 214,579 226,576 230,576 248,579 256,571 266,571 276,570 290,570 315,570 315,576 321,576 348,571 361,571 362,577 385,577 403,578 406,571 416,571 429,576 858,576 886,575 891,575 906,576 906,583 897,583 886,578 870,586 863,586 858,579 845,579 457,585 397,586 321,586 290,586 256,586 230,585 206,585 198,585" baseline="198,585 906,586" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Verschiedene Einnahmen 86. 86
+ | german_print2_15: Verschiedene Einnahmen . 86. 86.
+ -->
+			<!-- line left out: id="r7l6" points="757,602 779,602 781,608 798,607 800,607 826,613 832,607 836,607 848,613 861,611 863,611 863,618 853,620 848,620 836,614 831,619 826,619 768,617 757,616" baseline="757,616 826,617 863,618" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Mark 3639 | german_print2_15: Mark 3639 -->
+			<!-- line left out: id="r7l7" points="491,634 507,634 527,638 560,640 567,646 574,634 590,634 595,640 612,639 621,639 621,649 590,649 527,649 491,649" baseline="491,649 621,649" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Ausgabe.
+ | german_print2_15: Ausgabe.
+ -->
+			<!-- line left out: id="r7l8" points="198,665 202,665 211,671 227,671 247,665 251,665 265,666 277,671 285,665 289,665 291,673 309,671 834,670 850,670 858,671 858,673 855,673 850,680 843,685 834,685 198,680" baseline="198,680 247,679 858,680" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Für Bücher 718 | german_print2_15: Für Bücher 7¹8⁸ -->
+			<!-- line left out: id="r7l9" points="197,691 211,691 213,699 227,697 236,697 277,697 327,697 329,691 361,691 371,694 373,703 384,696 395,696 833,702 847,701 852,696 861,696 861,703 851,707 839,709 833,709 395,707 384,707 361,706 315,707 305,707 277,706 236,706 211,707 197,707" baseline="197,706 861,706" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: IHIonorare und Diäten 396 | german_print2_15: lonorare und Diäten . 396. -->
+			<!-- line left out: id="r7l10" points="197,718 206,718 211,724 226,724 245,718 256,718 263,724 267,724 277,727 293,717 309,717 319,723 334,723 374,723 854,728 884,722 895,722 905,723 905,729 895,730 884,730 859,737 856,737 849,735 838,734 334,733 309,733 267,733 197,733" baseline="197,733 858,729 905,729" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Für das Museum 337. 66
+ | german_print2_15: Für das Museum . 337. 66
+ -->
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="821,745 868,745 868,763 821,763" />
+		</GraphicRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="196,744 905,744 905,790 196,790" />
+			<!-- line left out: id="r9l0" points="196,744 213,744 217,750 235,748 243,744 247,744 249,750 282,750 292,753 304,757 304,759 282,759 208,759 196,758" baseline="196,758 304,759" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Miethzins. | german_print2_15: Miethzins: -->
+			<!-- line left out: id="r9l1" points="196,770 211,770 233,776 237,776 260,776 263,770 266,770 269,776 291,776 335,776 337,770 347,770 367,773 374,779 392,776 395,770 408,770 425,770 427,778 453,776 457,776 471,774 490,774 905,775 905,790 894,790 855,785 514,784 490,784 482,785 431,785 347,785 335,786 325,786 214,785 207,772 202,785 196,785" baseline="196,785 862,782 905,782" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Utensilien und Geräthschaften 01. 97
+ | german_print2_15: Utensilien und Geräthschaften ol. 97.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r10">
+			<Coords points="565,799 594,799 594,814 565,814" />
+		</GraphicRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="196,796 905,796 905,966 196,966" />
+			<!-- line left out: id="r11l0" points="196,796 201,796 212,798 235,800 246,803 246,796 279,796 280,805 291,805 293,797 304,797 312,804 343,803 349,802 359,802 362,796 377,796 391,802 396,796 410,796 415,803 419,803 435,804 443,796 454,796 457,802 460,802 477,804 480,796 484,796 487,804 498,802 508,802 538,797 547,797 553,802 628,802 844,805 851,802 896,800 900,800 905,803 905,808 896,808 863,814 851,814 844,811 547,811 508,811 484,811 460,811 419,811 377,812 320,812 293,812 279,811 248,813 238,813 201,812 196,812" baseline="196,812 319,811 896,810 905,810" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Porti, Löhne und verschiedene Aus n 554. 76. | german_print2_15: Porti, Löhne und verschiedene Aus- n . 554. 76. -->
+			<!-- line left out: id="r11l1" points="758,827 774,827 783,833 790,833 790,827 792,827 829,833 832,833 832,839 846,833 849,833 883,832 887,832 903,834 903,844 901,844 883,838 860,846 832,846 829,846 783,842 770,841 758,840" baseline="758,840 903,842" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Mark 3514. 64 | german_print2_15: Mark 3514. 64 -->
+			<!-- line left out: id="r11l2" points="475,859 506,859 510,866 535,865 550,859 575,859 610,859 610,865 624,865 624,872 610,874 583,874 506,873 491,874 475,874" baseline="475,874 624,871" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Abschluss | german_print2_15: AbsSschluss -->
+			<!-- line left out: id="r11l3" points="383,889 388,889 398,895 427,895 427,889 452,889 454,896 464,896 475,897 560,889 577,889 586,897 597,897 611,900 633,894 639,894 639,907 633,907 464,905 441,905 404,905 383,904" baseline="383,904 639,905" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Einnahme Mark 36 | german_print2_15: Einnahme Mark 360 -->
+			<!-- line left out: id="r11l4" points="387,917 397,917 410,922 422,931 427,923 438,919 449,919 460,923 587,929 635,927 642,926 653,921 669,921 672,929 691,921 700,921 700,928 691,928 669,935 664,935 640,933 635,933 587,932 449,931 428,932 422,932 397,931 387,931" baseline="387,931 459,930 674,928 700,928" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Ausgabe . 3514. 6 | german_print2_15: Ausgabe . 3514. 6. -->
+			<!-- line left out: id="r11l5" points="383,947 408,947 432,947 441,953 455,952 465,952 485,957 487,951 492,951 511,954 523,955 526,947 529,947 582,947 584,954 595,954 601,948 609,948 667,952 667,960 701,952 705,952 710,955 710,959 701,959 668,966 646,966 643,966 523,963 500,963 465,962 451,963 432,963 408,963 393,963 383,962" baseline="383,962 710,962" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Kassenbestand Mark 124. 56.
+ | german_print2_15: Kassenbestand Mark 124. 56.
+ -->
+		</TextRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="194,1024 905,1024 905,1064 194,1064" />
+			<!-- line left out: id="r12l0" points="194,1025 224,1025 232,1035 432,1035 452,1036 488,1025 511,1025 518,1034 537,1034 575,1035 613,1024 642,1024 648,1035 666,1035 687,1036 754,1036 762,1026 784,1026 787,1036 812,1035 828,1035 833,1025 877,1025 905,1028 905,1054 784,1054 666,1054 618,1054 537,1054 432,1055 412,1055 386,1054 345,1064 324,1064 318,1054 243,1054 194,1054" baseline="194,1054 344,1053 905,1053" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Auszug aus dem Kassenbericht
+ | german_print2_15: Auszug aus dem Kassenbericht
+ -->
+		</TextRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="456,1066 648,1066 648,1097 456,1097" />
+			<!-- line left out: id="r13l0" points="456,1066 471,1066 492,1069 498,1077 515,1077 543,1066 641,1066 644,1091 648,1091 648,1095 641,1096 585,1097 492,1097 472,1097 456,1095" baseline="456,1096 648,1095" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: für 1876.
+ | german_print2_15: für 1876.
+ -->
+		</TextRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="475,1131 626,1131 626,1147 475,1147" />
+			<!-- line left out: id="r14l0" points="475,1131 491,1131 539,1136 565,1132 577,1132 626,1136 626,1146 596,1147 557,1147 546,1147 491,1146 475,1146" baseline="475,1146 626,1146" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Einnahme.
+ | german_print2_15: Einnahme.
+ -->
+		</TextRegion>
+		<TextRegion id="r15" custom="readingOrder {index:15;} orientation {0;}">
+			<Coords points="188,1160 899,1160 899,1366 188,1366" />
+			<!-- line left out: id="r15l0" points="192,1160 205,1160 214,1166 228,1166 260,1168 263,1161 267,1161 271,1168 296,1165 301,1165 327,1167 328,1161 339,1161 768,1161 785,1168 835,1167 839,1167 857,1175 858,1175 858,1181 838,1181 835,1181 339,1176 296,1176 267,1175 260,1176 251,1176 228,1175 205,1176 192,1176" baseline="192,1176 858,1176" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Kassenbestand Mark 124 | german_print2_15: Kassenbestand Mark 124 -->
+			<!-- line left out: id="r15l1" points="189,1189 201,1189 208,1190 233,1193 265,1193 285,1195 287,1187 298,1187 306,1193 328,1187 345,1187 371,1191 376,1199 382,1193 386,1193 392,1196 399,1187 410,1187 412,1195 424,1193 827,1192 852,1192 857,1193 857,1202 410,1203 386,1203 371,1203 345,1203 328,1203 265,1202 233,1202 208,1202 203,1202 189,1201" baseline="189,1202 857,1202" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Steuern der Mitglieder 1221 | german_print2_15: Steuern der Mitglieder 1221 -->
+			<TextLine id="r15l2" custom="readingOrder {index:2;}">
+				<Coords points="189,1215 215,1213 219,1213 223,1219 254,1219 263,1217 275,1217 317,1221 320,1213 330,1213 334,1219 371,1216 390,1221 392,1214 403,1214 409,1218 422,1221 436,1219 483,1221 485,1213 496,1213 498,1222 527,1227 536,1220 554,1222 577,1227 598,1218 620,1218 672,1214 701,1219 705,1230 707,1230 707,1234 689,1234 661,1229 623,1229 611,1226 610,1233 574,1232 554,1225 536,1225 527,1234 523,1234 496,1228 413,1232 403,1229 189,1227" />
+				<Baseline points="189,1227 707,1229" />
+				<TextEquiv index="1">
+					<Unicode>Subvention der Stadtgemeinde pro 4. Quartal 187</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r15l3" points="242,1245 259,1245 262,1239 278,1239 299,1244 302,1252 310,1244 329,1244 343,1245 346,1252 364,1244 377,1242 387,1242 421,1244 433,1247 437,1240 439,1240 828,1245 834,1248 834,1254 824,1254 485,1252 484,1260 476,1260 473,1248 466,1248 461,1255 457,1255 437,1246 433,1254 421,1255 377,1259 343,1259 310,1259 242,1254" baseline="242,1254 364,1254 834,1255" reason: differs: "und1" against "4 ⟦⟧" | Wikisource:  | next_nc_e1: und 1.—4. Quartal 1876 11 | german_print2_15: und t.— 4. Quartal 1876 . 11 -->
+			<!-- line left out: id="r15l4" points="188,1267 200,1267 201,1273 212,1265 223,1265 225,1272 237,1271 247,1271 250,1265 260,1265 262,1271 279,1271 320,1272 363,1279 398,1279 825,1271 828,1271 846,1274 846,1279 828,1280 297,1283 281,1283 223,1280 212,1280 188,1279" baseline="188,1280 319,1280 825,1284 846,1284" reason: differs: "Sche" against "⟦⟧ |" | Wikisource:  | next_nc_e1: Schenkungen . . 100 | german_print2_15: Schenkungen . . 100 -->
+			<!-- line left out: id="r15l5" points="193,1292 203,1292 223,1295 278,1297 304,1297 328,1297 339,1299 365,1292 368,1292 374,1293 390,1292 400,1292 408,1298 415,1292 419,1292 422,1299 813,1296 820,1294 829,1294 831,1300 832,1300 832,1304 831,1304 820,1300 817,1306 430,1307 304,1307 236,1309 226,1309 193,1306" baseline="193,1306 429,1306 832,1307" reason: differs: "Aufg" against "t;" " | Wikisource:  | next_nc_e1: Aufgenommene Anleihe 180 | german_print2_15: Aufgenommene Anleihe 180 -->
+			<!-- line left out: id="r15l6" points="190,1316 198,1316 206,1323 218,1322 222,1322 239,1324 247,1317 251,1317 254,1323 264,1323 281,1325 284,1317 288,1317 290,1326 302,1323 312,1323 323,1325 339,1317 352,1317 354,1323 364,1323 394,1324 397,1318 408,1318 421,1323 833,1322 899,1322 899,1333 450,1333 383,1333 339,1333 312,1332 288,1332 264,1332 254,1332 222,1331 218,1331 198,1330 190,1330" baseline="190,1330 899,1334" reason: differs: "Vers" against "="bo" | Wikisource:  | next_nc_e1: Verschiedene Einnahmen 60. 97
+ | german_print2_15: Verschiedene Einnahmen 60. 97
+ -->
+			<!-- line left out: id="r15l7" points="753,1350 764,1350 773,1356 776,1356 845,1359 845,1366 842,1366 753,1362" baseline="753,1361 845,1362" reason: differs: "Ma3" against "| ||" | Wikisource:  | next_nc_e1: Ma 3
+ | german_print2_15: Ma 3
+ -->
+			<TextEquiv index="1">
+				<Unicode>Subvention der Stadtgemeinde pro 4. Quartal 187</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r16" custom="readingOrder {index:16;} orientation {0;}">
+			<Coords points="394,1549 658,1549 658,1561 394,1561" />
+			<!-- line left out: id="r16l0" points="394,1549 402,1549 408,1550 422,1549 434,1549 443,1549 456,1549 469,1549 494,1549 510,1549 525,1549 552,1549 571,1549 638,1549 658,1550 658,1558 571,1560 545,1560 531,1558 443,1561 426,1561 414,1560 407,1560 394,1558" baseline="394,1558 658,1558" reason: differs: "hnpd" against ". | " | Wikisource:  | next_nc_e1: hnp digital slub-dresden delppn301259642354
+ | german_print2_15: tpiital slub-dresden de ppne01259642354
+ -->
+		</TextRegion>
+		<GraphicRegion id="r17">
+			<Coords points="945,0 974,0 974,1585 945,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+⟦⟧
+| colspan=4 style="text-align:center;" | Einnahme.
+| style="text-align:left;" | Kassenbestand || Mark || ⟦⟧793. || 84.
+| style="text-align:left;" | Steuern der Mitglieder || „ || 1258. || 50.
+| style="text-align:left;" | Subvention der Stadtgemeinde pro 4. Quartal 1874
+und 1.–3. Quartal 1875 || „ || ⟦⟧900. || –.
+| style="text-align:left;" | Schenkungen || „ || ⟦⟧400. || –.
+| style="text-align:left;" | Verschiedene Einnahmen || „ || ⟦⟧286. || 86.
+| style="border-top:hidden;" | || Mark || 3639. || 20.
+| colspan=7 |
+| colspan=7 style="text-align:center;" | Ausgabe.
+| style="text-align:left;" | Für Bücher || Mark || ⟦⟧718. || 50.
+| style="text-align:left;" | Honorare und Diäten || „ || ⟦⟧396. || –.
+| style="text-align:left;" | Für das Museum || „ || ⟦⟧337. || 66.
+| style="text-align:left;" | Miethzins || „ || ⟦⟧705. || 75.
+| style="text-align:left;" | Utensilien und Geräthschaften || „ || ⟦⟧801. || 97.
+| style="text-align:left;" | Porti, Löhne und verschiedene Ausgaben || „ || ⟦⟧554. || 76.
+| style="border-top:hidden;" | || Mark || 3514. || 64.
+| colspan=4 style="text-align:center;" | Abschluss.
+| style="text-align:left;" | Einnahme || Mark || 3639. || 20.
+| style="text-align:left;" | Ausgabe || „ || 3514. || 64.
+| style="text-align:left; border-top:hidden;" | Kassenbestand || Mark || ⟦⟧124. || 56.
+| colspan=4 style="text-align:center;" | Einnahme.
+| style="text-align:left;" | Kassenbestand || Mark || ⟦⟧124. || 56.
+| style="text-align:left;" | Steuern der Mitglieder || „ || 1221. || 50.
+| style="text-align:left;" | Subvention der Stadtgemeinde pro 4. Quartal 1875
+und 1.–4. Quartal 1876 || „ || 1125. || –.
+| style="text-align:left;" | Schenkungen || „ || ⟦⟧100. || –.
+| style="text-align:left;" | Aufgenommene Anleihe || „ || 1800. || –.
+| style="text-align:left;" | Verschiedene Einnahmen || „ || ⟦⟧⟦⟧60. || 97.
+| style="border-top:hidden;" | || Mark || 4432. || 03.
+| colspan=7 |
+-->
+	</Page>
+</PcGts>

@@ -1,0 +1,504 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:49:40</Created>
+		<LastChange>2026-11-23T13:49:40</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/104 revision 5018254 of 2026-08-21T15:53:51Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0104.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro1024603900583039851" caption="Regions reading order">
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="17" regionRef="r17" />
+				<RegionRefIndexed index="20" regionRef="r20" />
+				<RegionRefIndexed index="21" regionRef="r21" />
+				<RegionRefIndexed index="28" regionRef="r28" />
+				<RegionRefIndexed index="29" regionRef="r29" />
+				<RegionRefIndexed index="30" regionRef="r30" />
+				<RegionRefIndexed index="33" regionRef="r33" />
+				<RegionRefIndexed index="35" regionRef="r35" />
+				<RegionRefIndexed index="38" regionRef="r38" />
+				<RegionRefIndexed index="39" regionRef="r39" />
+				<RegionRefIndexed index="40" regionRef="r40" />
+				<RegionRefIndexed index="41" regionRef="r41" />
+				<RegionRefIndexed index="43" regionRef="r43" />
+				<RegionRefIndexed index="44" regionRef="r44" />
+				<RegionRefIndexed index="48" regionRef="r48" />
+				<RegionRefIndexed index="51" regionRef="r51" />
+				<RegionRefIndexed index="53" regionRef="r53" />
+				<RegionRefIndexed index="57" regionRef="r57" />
+				<RegionRefIndexed index="58" regionRef="r58" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 1000,0 1000,182 0,182" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,344 45,344 45,1223 0,1223" />
+		</GraphicRegion>
+		<GraphicRegion id="r2">
+			<Coords points="0,1339 205,1339 205,1359 0,1359" />
+		</GraphicRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="561,158 584,158 584,174 561,174" />
+			<!-- line left out: id="r3l0" points="561,158 573,158 584,159 584,174 561,174" baseline="561,174 584,174" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 94
+ | german_print2_15: 94
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="218,209 922,209 922,360 218,360" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="272,209 278,209 341,210 342,216 403,218 409,212 419,212 436,220 453,219 454,212 465,212 467,218 494,213 514,213 522,219 582,221 583,215 593,215 612,223 628,224 630,216 640,216 642,222 652,222 671,216 689,216 713,223 728,224 729,217 741,217 743,223 792,223 792,234 560,230 545,235 540,235 539,229 387,227 371,232 366,232 356,226 272,225" />
+				<Baseline points="272,225 792,234" />
+				<TextEquiv index="1">
+					<Unicode>Der Fürsprech oder Vorsprech oder Fürreder ist</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l1" points="218,241 224,235 236,235 244,239 264,241 266,235 270,235 272,242 283,241 289,235 301,235 302,243 311,243 322,236 336,236 338,244 346,244 346,251 336,252 322,252 301,251 283,251 238,251 218,250" baseline="218,250 322,251 346,252" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: alterliche Re | german_print2_15: alterliche Re- -->
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="220,260 233,260 242,268 251,268 257,261 269,261 284,265 294,260 296,260 337,262 338,269 359,269 385,277 389,265 420,264 424,274 442,270 458,269 515,267 582,267 625,281 652,281 652,284 628,284 625,284 220,276" />
+				<Baseline points="220,276 652,284" />
+				<TextEquiv index="1">
+					<Unicode>Rechtes dem Advocaten gewichen ist,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l3" points="219,291 224,291 226,300 245,289 258,287 274,287 282,290 295,295 295,288 307,288 308,296 320,294 343,293 350,290 361,290 375,294 382,297 400,290 411,290 413,298 425,296 440,296 461,290 466,290 474,292 476,299 490,299 502,302 531,304 539,298 562,298 567,304 573,293 583,293 617,293 618,302 640,302 656,294 662,294 668,295 676,301 688,299 693,299 773,301 804,302 852,302 876,303 911,303 921,304 921,312 913,312 907,306 900,312 876,312 822,312 761,311 688,310 676,309 664,300 662,309 617,309 606,309 573,308 505,307 474,306 425,306 411,305 375,309 361,309 361,302 348,304 320,304 282,303 258,303 230,302 219,302" baseline="219,302 229,302 606,308 761,310 831,311 921,313" reason: differs: "1.Ok" against "welc" | Wikisource:  | next_nc_e1: 1. Oktober 1879 dem Rechtsanwalt den Platzl räumen müssen. | german_print2_15: 1. Oktober 1879 dem Rechtsanwalt den Platz h räumen müssen. -->
+			<!-- line left out: id="r4l4" points="218,312 225,312 228,319 238,319 262,320 263,313 278,313 278,319 289,319 311,320 311,314 323,314 325,320 335,317 348,317 370,315 381,315 382,324 393,321 421,319 432,319 437,324 444,316 455,316 457,322 476,322 497,323 518,317 522,317 524,325 535,322 547,322 570,327 572,318 582,318 591,325 612,319 631,319 632,326 643,326 679,326 679,319 692,319 704,320 706,327 709,327 738,329 751,327 761,327 790,328 807,321 822,321 824,328 846,328 874,329 893,323 897,323 901,330 908,330 922,333 922,334 908,336 897,337 874,338 865,338 775,337 751,336 709,335 692,335 692,341 679,341 679,334 669,334 667,341 656,341 655,333 643,335 612,335 572,334 518,333 455,332 444,332 402,331 381,331 370,331 348,330 325,330 263,329 218,328" baseline="218,328 257,328 496,332 546,333 730,335 922,338" reason: differs: "Inde" against "ssen" | Wikisource:  | next_nc_e1: In der deutschen Schweiz hat der Fürsprech seinen Namen be- | german_print2_15: In der deutschen Schweiz hat der Fürsprech seinen Namen be- -->
+			<!-- line left out: id="r4l5" points="218,338 229,338 236,345 260,345 267,342 279,342 292,343 294,352 317,345 319,345 319,356 260,360 248,360 248,354 218,354" baseline="218,354 297,355 319,356" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hauptet. *)
+ | german_print2_15: hauptet. *)
+ -->
+			<TextEquiv index="1">
+				<Unicode>Der Fürsprech oder Vorsprech oder Fürreder ist
+Rechtes dem Advocaten gewichen ist,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="271,366 560,366 560,389 271,389" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="271,366 293,366 295,372 319,371 342,374 344,366 356,366 357,374 367,374 386,367 396,367 402,374 437,373 458,376 465,368 481,368 488,375 532,370 537,370 539,377 560,375 560,385 440,383 437,389 432,389 431,381 419,383 271,381" />
+				<Baseline points="271,380 560,385" />
+				<TextEquiv index="1">
+					<Unicode>Über die Vorsprechen hat</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Über die Vorsprechen hat</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="360,219 922,219 922,261 360,261" />
+			<!-- line left out: id="r6l0" points="810,219 821,219 823,227 835,225 862,225 883,223 888,223 909,220 914,220 916,230 922,230 922,232 902,234 888,235 858,235 821,234 810,234" baseline="810,233 858,234 922,236" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: der mittel- | german_print2_15: der mittel- -->
+			<!-- line left out: id="r6l1" points="360,237 371,237 378,241 388,245 389,238 401,238 408,244 418,244 428,242 434,242 458,244 459,238 470,238 472,252 490,239 501,239 509,245 521,245 573,241 587,241 587,250 599,247 605,246 624,242 635,242 636,251 647,248 654,248 665,242 671,242 679,248 696,248 699,242 706,242 706,249 719,246 728,246 761,249 773,250 783,244 794,244 802,252 824,250 831,250 868,251 882,253 890,246 894,246 896,252 921,252 921,261 868,261 857,261 831,260 824,260 794,259 773,260 763,260 728,259 719,259 671,258 647,258 635,257 599,257 544,256 501,255 475,256 472,256 418,254 408,254 378,253 360,253" baseline="360,253 474,254 534,255 824,259 921,261" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: htsbeistand, der zur Zeit der Einführung des römischen
+ | german_print2_15: htsbeistand, der zur Zeit der Einführung des römischen
+ -->
+		</TextRegion>
+		<GraphicRegion id="r7">
+			<Coords points="346,237 348,237 348,242 346,242" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="639,271 755,271 755,283 639,283" />
+		</GraphicRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="775,276 921,276 921,287 775,287" />
+			<!-- line left out: id="r9l0" points="775,279 784,278 795,276 811,276 831,276 863,276 872,276 911,277 921,278 921,287 895,287 863,286 831,286 811,286 801,286 795,285 775,283" baseline="775,285 871,285 921,287" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: seinerseits am
+ | german_print2_15: seinerseits am
+ -->
+		</TextRegion>
+		<GraphicRegion id="r10">
+			<Coords points="500,291 744,291 744,310 500,310" />
+		</GraphicRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="614,371 910,371 910,390 614,390" />
+			<TextLine id="r11l0" custom="readingOrder {index:0;}">
+				<Coords points="614,371 639,371 677,372 684,381 690,378 842,380 861,374 877,374 883,383 894,380 903,374 910,374 910,390 903,390 798,388 786,385 760,388 668,388 614,386" />
+				<Baseline points="614,386 910,389" />
+				<TextEquiv index="1">
+					<Unicode>W. Planck in seinem Werk</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>W. Planck in seinem Werk</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r12">
+			<Coords points="495,366 730,366 730,413 495,413" />
+		</GraphicRegion>
+		<GraphicRegion id="r13">
+			<Coords points="417,450 922,450 922,476 417,476" />
+		</GraphicRegion>
+		<GraphicRegion id="r14">
+			<Coords points="391,479 393,479 393,485 391,485" />
+		</GraphicRegion>
+		<GraphicRegion id="r15">
+			<Coords points="424,496 430,496 430,499 424,499" />
+		</GraphicRegion>
+		<GraphicRegion id="r16">
+			<Coords points="709,502 733,502 733,514 709,514" />
+		</GraphicRegion>
+		<TextRegion id="r17" custom="readingOrder {index:17;} orientation {0;}">
+			<Coords points="216,391 922,391 922,544 216,544" />
+			<TextLine id="r17l0" custom="readingOrder {index:0;}">
+				<Coords points="217,404 227,404 229,391 240,391 241,397 282,398 284,391 295,391 297,398 308,396 320,396 335,400 342,392 352,392 354,400 378,394 394,393 395,401 428,394 438,394 469,400 491,401 491,393 517,393 527,401 536,401 536,393 549,393 549,403 596,403 613,397 630,397 644,402 648,408 657,397 681,397 691,403 697,397 708,397 709,410 724,403 728,403 729,411 752,404 762,404 771,399 785,399 785,407 796,399 800,399 803,406 826,408 844,400 879,400 893,411 899,406 921,404 921,415 856,415 844,415 729,414 724,406 713,413 708,414 613,414 581,412 486,411 469,409 252,406 217,408" />
+				<Baseline points="217,405 555,411 921,415" />
+				<TextEquiv index="1">
+					<Unicode>„das deutsche Gerichtsverfahren im Mittelalter“, welches sich auf</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r17l1" points="216,417 228,417 229,424 241,423 250,423 264,417 277,417 282,423 300,418 305,418 306,425 320,425 333,424 337,424 371,424 397,425 397,417 409,417 431,426 442,426 450,433 456,420 466,420 486,427 493,427 528,427 549,428 561,429 563,422 574,422 577,430 586,430 601,422 605,422 620,424 627,431 638,422 656,422 659,432 665,432 680,430 690,430 699,422 714,422 714,432 728,430 732,430 738,431 757,412 771,412 791,433 797,424 807,424 816,431 843,429 854,429 897,433 899,426 903,426 910,434 922,434 922,441 854,441 843,441 797,440 791,438 771,449 757,449 738,439 714,444 699,444 690,439 678,444 667,444 665,435 659,435 656,444 642,444 638,438 620,437 605,438 574,438 538,438 513,437 508,437 493,435 466,436 456,436 431,435 409,434 409,440 397,440 384,437 371,434 362,434 359,440 354,440 352,433 320,434 306,434 250,433 241,433 216,432" baseline="216,432 264,432 410,434 465,435 737,439 770,439 870,440 922,441" reason: differs: "len—dar" against "en – da" | Wikisource:  | next_nc_e1: den Sachsenspiegel und verwandte Rechtsquellen — darunter das | german_print2_15: den Sachsenspiegel und verwandte Rechtsquellen — darunter das -->
+			<!-- line left out: id="r17l2" points="216,443 228,443 235,447 247,449 247,443 259,443 266,447 273,449 299,444 310,444 337,450 343,450 369,450 385,444 394,444 406,445 407,453 419,446 430,446 437,452 463,452 463,444 468,444 485,457 528,452 531,452 550,452 580,452 582,461 603,457 615,455 625,455 643,456 678,455 729,450 733,450 734,456 747,456 768,456 811,456 823,457 834,458 848,457 857,457 878,458 878,466 857,467 834,468 825,468 792,466 778,465 747,465 700,466 678,466 666,464 643,466 633,466 585,464 531,464 528,464 485,459 468,465 458,465 430,461 419,461 406,460 359,460 343,459 316,460 312,460 293,459 247,459 236,459 229,458 216,457" baseline="216,458 337,459 467,461 528,462 878,466" reason: differs: "Stad" against "r da" | Wikisource:  | next_nc_e1: Stadtrecht von Freiberg — stützt, eingehende Erörterungen a | german_print2_15: Stadtrecht von Freiberg — stützt, eingehende Erörterungen a -->
+			<!-- line left out: id="r17l3" points="216,477 225,473 232,473 239,469 256,469 323,476 330,476 354,476 356,470 360,470 363,476 367,476 390,477 393,470 406,470 415,480 434,479 452,473 466,473 482,473 486,480 501,479 507,478 511,478 542,479 550,482 555,474 563,474 575,474 601,480 611,480 664,476 667,476 684,476 705,484 717,482 727,482 737,484 761,476 765,476 769,483 777,483 777,476 790,476 790,484 797,484 805,477 808,477 811,487 828,485 833,477 844,477 846,485 858,483 861,483 872,484 894,477 899,477 909,483 921,483 921,492 899,492 844,492 790,492 777,492 765,490 727,491 717,491 684,490 601,490 567,489 542,488 482,488 452,488 437,481 420,486 406,488 380,488 367,486 342,486 330,484 303,486 293,486 259,485 232,484 216,484" baseline="216,483 452,487 531,488 921,492" reason: differs: "stel" against "en ⟦" | Wikisource:  | next_nc_e1: stellt **); vorliegende Arbeit wolle man als eine bescheidene Er- | german_print2_15: stellt *); vorliegende Arbeit wolle man als eine bescheidene Er- -->
+			<!-- line left out: id="r17l4" points="216,501 227,501 284,501 329,502 346,496 351,496 363,497 365,503 394,503 401,497 407,496 419,496 419,506 440,504 472,504 484,505 485,499 503,499 505,508 516,506 543,506 554,508 557,500 562,500 564,506 579,506 590,507 607,501 623,501 629,508 639,508 641,501 653,501 655,514 690,508 701,508 724,508 729,514 735,509 744,508 758,508 767,509 767,517 690,517 641,516 615,515 531,517 516,517 497,514 451,517 440,517 425,510 419,513 383,513 365,512 363,503 353,503 351,512 296,513 227,514 216,514" baseline="216,510 295,511 589,515 607,515 690,516 767,517" reason: differs: "gänz" against "⟦⟧ E" | Wikisource:  | next_nc_e1: gänzung zu Planck's grundlegendem Werke ansehen.
+ | german_print2_15: gänzung zu Planck’s grundlegendem Werke anschen.
+ -->
+			<TextLine id="r17l5" custom="readingOrder {index:5;}">
+				<Coords points="269,521 282,521 284,527 323,522 341,522 349,528 405,527 416,529 418,523 448,522 448,530 469,524 480,524 482,534 518,531 571,532 594,526 605,526 607,535 619,531 636,531 640,537 659,533 690,533 709,527 728,529 735,537 746,528 773,532 775,541 795,535 806,535 808,528 811,528 814,537 821,537 846,529 850,529 852,536 864,534 902,533 922,537 922,544 902,544 850,544 846,544 778,544 775,544 728,542 518,541 349,538 341,530 331,530 328,537 269,537" />
+				<Baseline points="269,537 922,544" />
+				<TextEquiv index="1">
+					<Unicode>Im Glanzzeitalter des reinen deutschen Rechts, als der An-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>„das deutsche Gerichtsverfahren im Mittelalter“, welches sich auf
+Im Glanzzeitalter des reinen deutschen Rechts, als der An-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r18">
+			<Coords points="337,519 553,519 553,541 337,541" />
+		</GraphicRegion>
+		<GraphicRegion id="r19">
+			<Coords points="328,548 329,548 329,550 328,550" />
+		</GraphicRegion>
+		<TextRegion id="r20" custom="readingOrder {index:20;} orientation {0;}">
+			<Coords points="218,547 921,547 921,573 218,573" />
+			<TextLine id="r20l0" custom="readingOrder {index:0;}">
+				<Coords points="218,547 222,547 224,553 240,553 242,547 247,547 254,550 271,553 278,548 288,548 290,554 305,555 329,561 334,548 345,548 347,556 357,556 359,549 370,549 372,555 417,555 434,549 439,549 442,560 522,557 538,551 551,551 554,560 566,558 670,559 694,563 697,553 706,553 709,561 722,561 738,553 748,553 761,554 763,560 804,559 810,565 825,560 855,559 874,561 890,555 901,555 902,563 921,562 921,570 738,571 670,568 587,569 576,573 566,573 557,565 551,567 508,567 496,565 459,566 329,564 302,557 299,563 218,562" />
+				<Baseline points="218,562 921,570" />
+				<TextEquiv index="1">
+					<Unicode>haltische Edelmann Eike von Repgowe (um das Jahr 1230) für den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>haltische Edelmann Eike von Repgowe (um das Jahr 1230) für den</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r21" custom="readingOrder {index:21;} orientation {0;}">
+			<Coords points="214,573 922,573 922,752 214,752" />
+			<TextLine id="r21l0" custom="readingOrder {index:0;}">
+				<Coords points="215,575 227,573 242,573 242,579 260,576 283,580 306,574 327,574 331,580 454,576 467,577 494,583 521,582 588,585 646,583 652,579 666,579 666,588 673,588 681,579 685,579 693,588 705,588 707,579 721,579 725,588 743,585 780,588 789,580 839,581 839,587 858,587 871,581 875,581 879,589 921,587 921,596 886,598 858,596 839,598 814,598 752,595 739,600 735,600 733,592 725,592 721,600 707,600 705,592 691,594 666,594 666,600 652,600 652,590 604,594 347,590 343,596 331,596 327,590 227,589 215,586" />
+				<Baseline points="215,588 921,596" />
+				<TextEquiv index="1">
+					<Unicode>Grafen Hoyer von Falkenstein seinen Sachsenspiegel schrieb, in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r21l1" points="215,605 226,605 241,607 242,599 264,599 266,606 294,605 299,605 352,606 381,608 382,601 392,601 394,607 429,602 443,602 445,610 457,609 466,603 502,603 524,610 527,610 546,610 569,610 663,612 685,605 697,605 715,605 726,606 747,612 754,612 779,612 802,606 817,606 823,615 835,612 849,611 854,611 880,613 908,612 912,612 914,619 922,619 922,623 914,623 908,614 903,622 880,622 857,622 779,621 770,621 754,620 715,621 704,621 643,620 569,619 527,619 524,619 462,618 457,618 438,616 293,616 278,616 242,615 215,614" baseline="215,614 322,615 747,620 922,622" reason: differs: "nersenZ" against "er gros" | Wikisource:  | next_nc_e1: welchem wir das Vorbild einer sen Zahl von Weistümern, | german_print2_15: welchem wir das Vorbild einer sen Zahl von Weistümery, -->
+			<TextLine id="r21l2" custom="readingOrder {index:2;}">
+				<Coords points="214,625 225,625 233,629 245,631 246,625 257,625 265,629 290,634 297,626 312,625 314,625 358,633 380,633 382,627 392,627 419,631 423,636 431,628 441,628 451,634 545,636 563,633 591,636 626,637 630,631 635,631 638,639 650,637 660,639 668,631 677,631 679,642 691,637 855,638 872,632 901,632 901,638 912,635 920,635 920,647 872,648 776,645 725,648 635,645 545,645 519,650 514,650 512,644 484,642 476,642 473,650 451,650 441,643 227,641 214,637" />
+				<Baseline points="214,640 704,646 920,647" />
+				<TextEquiv index="1">
+					<Unicode>Stadtrechten und Schöppensprüchen erblicken, gab es einen Beruf</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r21l3" custom="readingOrder {index:3;}">
+				<Coords points="214,651 225,651 226,658 238,657 256,652 266,651 277,651 279,658 323,658 340,660 346,653 357,653 358,661 370,659 412,659 425,654 435,654 443,658 445,667 471,655 491,657 504,662 518,656 571,655 571,662 600,664 607,656 611,656 613,665 640,663 641,655 643,655 670,663 750,663 774,667 777,657 781,657 784,663 792,663 812,657 836,658 839,664 848,666 855,658 859,658 873,663 875,672 894,665 920,662 920,673 878,675 875,675 842,673 750,672 535,672 527,670 357,668 310,668 308,674 303,674 302,666 290,668 214,667" />
+				<Baseline points="214,666 920,674" />
+				<TextEquiv index="1">
+					<Unicode>der Vorsprechen nicht. Das Vorsprechsein war, wie die Pflicht, auf</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r21l4" custom="readingOrder {index:4;}">
+				<Coords points="215,677 220,677 245,677 256,677 256,684 279,684 332,678 335,685 343,683 367,685 369,679 373,679 375,686 446,684 469,687 472,681 477,681 478,690 490,687 529,690 537,682 546,682 555,688 561,688 578,682 591,682 592,691 609,688 644,689 672,695 678,687 746,690 769,689 771,697 805,690 821,691 845,684 870,684 893,693 899,684 909,684 917,690 919,690 919,699 774,699 746,701 736,701 717,698 640,698 623,693 623,699 609,699 591,697 413,696 367,694 328,694 268,697 215,692" />
+				<Baseline points="215,692 498,696 919,699" />
+				<TextEquiv index="1">
+					<Unicode>Befragen Urteile zu finden oder Zeugnis abzulegen, ein Teil der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r21l5" points="215,709 226,709 228,703 232,703 239,704 241,710 311,710 333,711 350,705 355,705 366,707 384,711 410,708 416,705 428,705 429,714 440,706 445,706 458,711 460,720 481,713 494,708 497,708 500,716 515,714 518,714 540,715 542,708 552,708 561,714 582,708 587,708 605,708 613,717 624,709 628,709 641,714 644,722 662,709 673,709 675,719 693,719 707,712 718,710 728,710 738,709 749,709 749,715 762,709 766,709 779,713 874,714 893,714 911,716 922,717 922,726 914,726 893,725 874,726 860,726 779,724 673,724 647,726 644,726 611,724 595,724 587,723 542,723 497,722 464,724 460,724 440,722 428,721 416,721 409,727 398,727 385,725 367,721 355,720 311,720 258,722 241,722 232,719 215,719" baseline="215,719 350,720 799,724 922,725" reason: differs: "teswart" against "es zu w" | Wikisource:  | next_nc_e1: allgemeinen Dingpflicht, also der Pflicht, des Gerichtes warten, | german_print2_15: allgemeinen Dingpflicht, also der Pflicht, des Gerichtes warten, -->
+			<TextLine id="r21l6" custom="readingOrder {index:6;}">
+				<Coords points="214,729 225,729 233,735 291,736 292,730 302,730 317,737 367,737 368,731 373,731 375,738 385,738 385,731 410,731 425,740 450,738 482,742 497,733 517,735 524,741 535,734 540,734 553,738 563,743 566,734 569,734 569,740 602,741 630,744 646,735 660,735 669,743 691,741 693,747 702,747 704,741 714,741 717,735 732,735 747,744 771,740 786,740 797,744 805,736 815,736 817,744 837,742 853,736 863,736 865,744 911,740 920,749 922,749 922,752 920,752 792,750 771,751 751,749 646,751 617,749 497,749 214,745" />
+				<Baseline points="214,745 922,752" />
+				<TextEquiv index="1">
+					<Unicode>der sich innerhalb seines Rechtskreises Niemand entziehen konnte,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Grafen Hoyer von Falkenstein seinen Sachsenspiegel schrieb, in
+Stadtrechten und Schöppensprüchen erblicken, gab es einen Beruf
+der Vorsprechen nicht. Das Vorsprechsein war, wie die Pflicht, auf
+Befragen Urteile zu finden oder Zeugnis abzulegen, ein Teil der
+der sich innerhalb seines Rechtskreises Niemand entziehen konnte,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r22">
+			<Coords points="601,609 633,609 633,623 601,623" />
+		</GraphicRegion>
+		<GraphicRegion id="r23">
+			<Coords points="325,629 341,629 341,646 325,646" />
+		</GraphicRegion>
+		<GraphicRegion id="r24">
+			<Coords points="536,648 654,648 654,672 536,672" />
+		</GraphicRegion>
+		<GraphicRegion id="r25">
+			<Coords points="624,695 635,695 635,698 624,698" />
+		</GraphicRegion>
+		<GraphicRegion id="r26">
+			<Coords points="815,712 843,712 843,725 815,725" />
+		</GraphicRegion>
+		<GraphicRegion id="r27">
+			<Coords points="765,847 793,847 793,858 765,858" />
+		</GraphicRegion>
+		<TextRegion id="r28" custom="readingOrder {index:28;} orientation {0;}">
+			<Coords points="211,756 922,756 922,909 211,909" />
+			<TextLine id="r28l0" custom="readingOrder {index:0;}">
+				<Coords points="214,761 225,761 234,764 236,756 246,756 247,763 259,756 269,756 271,763 317,763 319,757 324,757 327,764 343,763 352,757 362,757 364,763 406,761 433,764 488,760 489,767 528,760 538,760 563,766 620,767 634,769 641,762 652,762 653,770 665,768 686,769 686,762 699,762 699,769 734,767 743,761 809,762 812,768 826,766 855,768 856,762 867,762 876,769 922,768 922,777 641,777 396,773 393,779 389,779 386,773 214,771" />
+				<Baseline points="214,771 922,777" />
+				<TextEquiv index="1">
+					<Unicode>welcher überhaupt vor Gericht zu erscheinen und selbständig zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r28l1" custom="readingOrder {index:1;}">
+				<Coords points="215,782 226,782 227,788 249,788 257,782 280,782 283,788 312,783 315,789 326,785 345,783 345,789 370,787 424,790 424,799 361,800 345,800 312,798 215,798" />
+				<Baseline points="215,797 424,799" />
+				<TextEquiv index="1">
+					<Unicode>handeln befugt war.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r28l2" custom="readingOrder {index:2;}">
+				<Coords points="265,808 284,808 288,814 332,815 343,810 359,810 362,816 469,816 484,810 488,810 488,819 507,816 523,816 778,820 803,813 808,813 811,820 867,820 883,814 893,814 895,821 920,820 920,829 740,827 637,829 453,829 404,826 373,819 371,825 324,824 323,830 312,830 310,822 301,824 265,823" />
+				<Baseline points="265,824 920,829" />
+				<TextEquiv index="1">
+					<Unicode>Vorspreche en mag kein man weigern zu wesene binnen dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r28l3" points="212,840 222,840 253,840 253,834 274,834 287,838 293,842 293,848 314,835 326,835 327,841 337,841 357,835 362,835 363,842 376,841 388,841 414,842 435,842 443,836 453,836 455,842 468,840 480,840 499,841 515,841 541,844 542,837 553,837 554,845 566,843 569,843 609,842 634,842 671,844 716,844 797,843 819,839 841,839 841,846 850,846 866,839 870,839 875,852 885,846 895,846 907,847 910,840 921,840 921,855 801,855 736,855 685,854 671,853 594,856 584,856 553,852 515,852 499,852 425,852 414,850 388,851 297,851 293,851 287,850 265,853 222,853 212,853" baseline="212,850 336,850 584,852 819,854 921,855" reason: differs: "at,tdas" against "t, sagt" | Wikisource:  | next_nc_e1: gerichte, da her wonhaft ist oder gut binnen hat, t das Land- | german_print2_15: gerichte, da her wonhaft ist oder gut binnen hat, t das Land- -->
+			<TextLine id="r28l4" custom="readingOrder {index:4;}">
+				<Coords points="213,866 237,867 244,860 254,860 294,860 302,868 314,868 334,861 351,862 352,868 363,868 365,861 375,861 376,868 441,868 471,870 478,862 482,862 485,871 495,871 495,861 520,868 545,863 555,863 577,875 583,869 628,869 661,870 679,876 685,870 695,870 708,873 710,865 720,865 729,871 757,871 775,865 817,865 820,873 838,871 838,865 892,866 901,874 912,866 920,866 920,881 628,879 497,883 495,883 454,881 441,878 429,883 424,883 403,878 352,877 342,883 334,883 314,874 294,876 213,875" />
+				<Baseline points="213,875 920,881" />
+				<TextEquiv index="1">
+					<Unicode>recht des Sachsenspiegels, und an zwei anderen Stellen: Iclich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r28l5" custom="readingOrder {index:5;}">
+				<Coords points="211,893 218,886 226,886 228,893 251,892 252,886 257,886 259,892 270,892 272,886 281,886 283,893 433,894 437,888 446,888 461,894 519,894 539,897 546,889 550,889 552,895 567,895 588,898 617,890 628,890 629,896 681,896 691,890 702,890 704,899 715,896 723,896 723,890 725,890 757,891 760,897 775,897 787,901 790,891 798,891 817,897 889,892 892,901 919,898 919,907 856,907 855,901 834,906 596,905 523,903 507,909 502,909 501,901 489,903 446,904 287,902 240,904 228,900 226,908 218,908 211,901" />
+				<Baseline points="211,902 919,907" />
+				<TextEquiv index="1">
+					<Unicode>(Jeglich) man muz wol vorspreche sin binnen deme lande zu Sachsen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>welcher überhaupt vor Gericht zu erscheinen und selbständig zu
+handeln befugt war.
+Vorspreche en mag kein man weigern zu wesene binnen dem
+recht des Sachsenspiegels, und an zwei anderen Stellen: Iclich
+(Jeglich) man muz wol vorspreche sin binnen deme lande zu Sachsen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r29" custom="readingOrder {index:29;} orientation {0;}">
+			<Coords points="210,912 516,912 516,987 210,987" />
+			<!-- line left out: id="r29l0" points="210,918 230,918 246,912 250,912 252,918 271,915 282,915 308,920 315,913 327,913 334,917 346,921 391,925 391,929 334,929 315,929 298,928 230,928 221,928 210,927" baseline="210,927 391,929" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: zu lantrechte. **) | german_print2_15: zu lantrechte. *) -->
+			<!-- line left out: id="r29l1" points="264,938 269,938 279,940 291,945 337,945 339,939 342,939 365,945 376,945 386,940 406,940 428,946 485,946 488,940 504,940 504,934 516,934 516,966 504,966 504,956 475,956 337,955 329,957 319,957 291,954 269,954 264,954" baseline="264,954 304,954 475,955 516,956" reason: differs: "Dies" against "en ⟦" | Wikisource:  | next_nc_e1: Dies gilt nicht nur im I | german_print2_15: Dies gilt nicht nur im I -->
+			<!-- line left out: id="r29l2" points="211,970 233,970 235,964 246,964 261,970 297,969 316,969 328,971 330,965 341,965 349,969 363,972 375,974 382,966 386,966 399,970 403,965 405,965 450,966 457,975 464,974 470,972 492,972 500,978 502,978 502,981 500,981 492,987 487,987 486,981 470,981 450,980 405,981 363,981 316,981 311,981 211,980" baseline="211,980 297,980 502,981" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: und im Stadtrecht. Vorspr
+ | german_print2_15: und im Stadtrecht. Vorspr
+ -->
+		</TextRegion>
+		<TextRegion id="r30" custom="readingOrder {index:30;} orientation {0;}">
+			<Coords points="528,941 917,941 917,958 528,958" />
+			<!-- line left out: id="r30l0" points="528,947 546,947 554,941 565,941 569,949 584,949 591,941 596,941 608,946 612,954 631,951 647,948 662,948 663,942 674,942 676,951 687,949 691,949 748,949 755,943 765,943 777,949 798,949 811,943 816,943 820,951 828,951 836,943 840,943 843,950 860,949 863,949 876,949 895,951 903,944 906,944 917,948 917,958 876,958 730,958 726,958 674,957 616,958 612,958 565,957 554,957 546,956 528,956" baseline="528,956 631,956 917,958" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: andrecht, sondern auch im Lehenrecht
+ | german_print2_15: andrecht, sondern auch im Lehenrecht
+ -->
+		</TextRegion>
+		<GraphicRegion id="r31">
+			<Coords points="523,952 525,952 525,955 523,955" />
+		</GraphicRegion>
+		<GraphicRegion id="r32">
+			<Coords points="491,963 634,963 634,983 491,983" />
+		</GraphicRegion>
+		<TextRegion id="r33" custom="readingOrder {index:33;} orientation {0;}">
+			<Coords points="520,968 617,968 617,983 520,983" />
+			<!-- line left out: id="r33l0" points="520,974 530,974 568,975 572,968 590,968 606,976 617,976 617,983 606,983 530,982 520,982" baseline="520,982 533,981 556,981 589,982 617,983" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: he scal si
+ | german_print2_15: he scal si
+ -->
+		</TextRegion>
+		<GraphicRegion id="r34">
+			<Coords points="391,1045 571,1045 571,1066 391,1066" />
+		</GraphicRegion>
+		<TextRegion id="r35" custom="readingOrder {index:35;} orientation {0;}">
+			<Coords points="210,968 918,968 918,1086 210,1086" />
+			<TextLine id="r35l0" custom="readingOrder {index:0;}">
+				<Coords points="646,980 653,974 670,974 680,976 689,968 692,968 696,979 720,977 727,969 731,969 740,975 799,975 818,973 842,975 850,969 853,969 856,976 908,975 918,977 918,985 812,984 784,982 781,990 771,990 761,987 696,984 689,971 680,981 646,983" />
+				<Baseline points="646,983 918,985" />
+				<TextEquiv index="1">
+					<Unicode>irwelk dinghplichtich man,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r35l1" points="210,998 219,996 230,996 242,997 254,996 264,996 284,998 285,991 290,991 292,997 320,994 325,994 332,1000 345,999 349,999 358,1000 360,992 369,992 391,997 403,1000 403,992 424,992 425,999 437,998 461,993 467,993 479,995 498,996 519,996 538,993 559,993 559,1014 538,1014 536,1008 519,1008 486,1008 467,1007 467,1014 461,1014 446,1007 391,1007 371,1007 341,1006 301,1006 254,1006 243,1005 242,1011 230,1011 230,1005 219,1005 210,1004" baseline="210,1005 320,1005 559,1008" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: sagen die Goslarischen Statuten.
+ | german_print2_15: sagen die Goslarischen Statuten.
+ -->
+			<!-- line left out: id="r35l2" points="253,1050 258,1050 267,1047 320,1047 328,1051 343,1047 348,1047 356,1055 372,1053 376,1053 393,1053 393,1047 433,1047 441,1048 459,1052 469,1053 479,1055 482,1049 491,1049 605,1050 635,1050 730,1050 732,1058 742,1055 747,1055 761,1050 770,1050 781,1051 783,1058 792,1054 800,1054 854,1054 866,1056 877,1063 882,1058 897,1057 908,1054 909,1054 909,1063 891,1067 854,1067 851,1067 812,1063 800,1057 786,1062 781,1063 761,1063 730,1062 722,1063 706,1063 605,1062 575,1062 464,1061 441,1061 393,1061 381,1060 348,1060 328,1060 320,1061 313,1061 264,1060 253,1054" baseline="253,1059 301,1059 799,1062 909,1063" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: *)Im Sachsenspiegel findet  Ausdruck „sachewalde“ im uneigent | german_print2_15: *) Im Sachsenspiegel findet r Ausdruck „sachewalde“ im uneigent -->
+			<!-- line left out: id="r35l3" points="210,1067 214,1067 241,1067 242,1074 252,1073 273,1070 284,1070 311,1073 317,1074 342,1073 373,1069 377,1069 391,1070 401,1074 417,1074 428,1069 437,1069 468,1069 492,1077 498,1076 506,1076 527,1073 531,1073 566,1075 586,1075 593,1073 620,1070 625,1070 653,1077 655,1071 695,1071 709,1071 749,1071 776,1075 824,1072 848,1072 879,1076 895,1079 898,1073 902,1073 917,1078 917,1084 879,1084 754,1084 695,1084 595,1086 593,1086 586,1083 561,1086 552,1086 506,1082 468,1082 391,1082 378,1082 317,1081 312,1081 260,1080 241,1080 210,1080" baseline="210,1080 333,1080 468,1081 800,1083 917,1084" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: lichen Sinne zur Bezeichnung des Gegners. Im eigentlichen Sinne kommt das
+ | german_print2_15:  -->
+			<TextEquiv index="1">
+				<Unicode>irwelk dinghplichtich man,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r36">
+			<Coords points="478,1086 499,1086 499,1107 478,1107" />
+		</GraphicRegion>
+		<GraphicRegion id="r37">
+			<Coords points="659,1072 694,1072 694,1103 659,1103" />
+		</GraphicRegion>
+		<TextRegion id="r38" custom="readingOrder {index:38;} orientation {0;}">
+			<Coords points="209,1089 551,1089 551,1127 209,1127" />
+			<!-- line left out: id="r38l0" points="212,1089 237,1089 282,1089 329,1089 347,1089 386,1094 413,1094 424,1095 453,1092 456,1092 456,1102 424,1102 405,1103 399,1103 347,1102 329,1102 282,1102 279,1102 237,1101 212,1101" baseline="212,1101 373,1101 456,1102" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Wort „anwalde“ in einer ( | german_print2_15: Wort „anwalde“ in einer ( -->
+			<!-- line left out: id="r38l1" points="209,1109 218,1109 234,1114 244,1115 246,1109 256,1109 276,1110 293,1114 303,1109 312,1109 325,1116 330,1110 342,1110 375,1112 381,1113 391,1110 402,1110 438,1110 439,1116 488,1115 491,1115 513,1114 522,1114 551,1115 551,1127 544,1127 491,1124 465,1124 407,1123 349,1123 330,1123 312,1122 293,1122 218,1122 209,1122" baseline="209,1121 551,1122" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: kundenbuch der Stadt Chemnitz S. 40
+ | german_print2_15: kundenbuch der Stadt Chemnitz S. 40
+ -->
+		</TextRegion>
+		<TextRegion id="r39" custom="readingOrder {index:39;} orientation {0;}">
+			<Coords points="211,1130 619,1130 619,1148 211,1148" />
+			<!-- line left out: id="r39l0" points="211,1130 219,1130 225,1137 231,1136 237,1135 268,1135 280,1136 287,1137 291,1130 299,1130 312,1136 322,1136 374,1134 383,1134 399,1138 400,1131 414,1131 438,1131 440,1138 450,1136 454,1136 460,1139 465,1131 474,1131 475,1138 485,1137 493,1137 509,1139 512,1132 521,1132 549,1132 560,1134 572,1137 584,1138 599,1138 600,1132 611,1132 611,1138 619,1138 619,1145 611,1148 584,1148 575,1148 549,1145 481,1145 432,1148 423,1148 414,1144 383,1145 322,1147 312,1147 287,1144 281,1144 271,1142 257,1148 253,1148 219,1143 211,1143" baseline="211,1142 619,1143" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Vorsprech genannt, desgleichen der Bürgerme
+ | german_print2_15: Vorsprech genannt, desgleichen der Bürgerme
+ -->
+		</TextRegion>
+		<TextRegion id="r40" custom="readingOrder {index:40;} orientation {0;}">
+			<Coords points="252,1156 555,1156 555,1176 252,1176" />
+			<!-- line left out: id="r40l0" points="252,1158 261,1156 269,1156 294,1157 331,1156 336,1156 339,1167 354,1159 362,1159 383,1161 398,1163 411,1157 416,1157 461,1158 500,1163 517,1166 522,1158 526,1158 555,1163 555,1171 538,1171 528,1171 491,1170 488,1176 484,1176 483,1170 451,1170 383,1172 362,1173 354,1173 339,1171 294,1170 288,1170 270,1168 269,1161 258,1163 252,1163" baseline="252,1168 288,1168 442,1169 555,1171" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: **) Bd. 1, § 30. D. Vorsprechen.
+ | german_print2_15: **) Bd. 1, § 30. D. Vorsprechen.
+ -->
+		</TextRegion>
+		<TextRegion id="r41" custom="readingOrder {index:41;} orientation {0;}">
+			<Coords points="205,1182 650,1182 650,1356 205,1356" />
+			<!-- line left out: id="r41l0" points="251,1183 258,1183 269,1182 278,1182 284,1187 293,1193 297,1183 306,1183 320,1182 338,1182 347,1190 353,1183 357,1183 389,1183 420,1188 427,1183 437,1183 439,1192 448,1183 458,1183 459,1189 475,1186 483,1184 513,1184 527,1184 537,1187 537,1197 513,1197 492,1197 483,1186 479,1195 467,1197 459,1197 338,1196 306,1196 293,1196 284,1190 269,1190 258,1189 251,1189" baseline="251,1195 347,1195 475,1196 537,1197" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ***) Auch das heimliche Gericht | german_print2_15: ***) Auch das heimliche Gericht -->
+			<!-- line left out: id="r41l1" points="207,1203 217,1203 227,1207 238,1202 247,1202 259,1209 265,1203 277,1203 310,1205 315,1207 332,1204 361,1204 363,1210 373,1209 431,1207 441,1207 488,1208 523,1209 523,1221 520,1221 460,1217 431,1215 419,1221 389,1222 385,1222 332,1217 265,1216 227,1215 207,1215" baseline="207,1215 259,1215 523,1217" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: buch der Stadt Leipzig S. 286 (14
+ | german_print2_15: buch der Stadt Leipzig S. 286 (14.
+ -->
+			<!-- line left out: id="r41l2" points="251,1228 265,1228 281,1229 297,1231 318,1230 340,1230 348,1235 353,1229 357,1229 368,1233 406,1235 420,1237 422,1230 433,1230 466,1231 481,1236 635,1243 642,1243 642,1247 635,1247 440,1243 406,1246 392,1246 368,1242 265,1246 251,1246" baseline="251,1242 416,1242 635,1244 642,1245" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ) Der Rechtszug der Mei g | german_print2_15: †) Der Rechtszug der Mei g. -->
+			<!-- line left out: id="r41l3" points="208,1253 245,1253 276,1249 285,1249 323,1253 331,1252 340,1252 357,1255 390,1251 400,1251 401,1258 411,1256 433,1252 448,1252 459,1257 460,1251 472,1251 472,1259 477,1259 485,1251 487,1251 563,1255 620,1253 640,1253 641,1260 650,1260 650,1266 641,1266 630,1265 604,1264 563,1265 541,1265 487,1267 479,1267 340,1265 323,1266 315,1266 235,1264 228,1264 219,1262 208,1261" baseline="208,1261 486,1263 585,1264 650,1265" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 1156 und 1170) von dem Markgraſen Otto mit Mag | german_print2_15: 1156 und 1170) von dem Markgrafen Otto mit Mag -->
+			<!-- line left out: id="r41l4" points="207,1270 212,1270 230,1271 238,1276 242,1269 247,1269 258,1273 265,1277 281,1270 291,1270 291,1276 302,1275 322,1271 332,1271 363,1274 410,1272 420,1272 422,1279 431,1277 482,1277 485,1283 508,1273 513,1273 581,1273 583,1283 594,1275 596,1275 596,1280 587,1285 581,1287 556,1289 541,1289 471,1285 458,1285 363,1284 359,1284 238,1283 207,1283" baseline="207,1282 378,1283 454,1284 596,1285" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Rechte bewidmet worden war. Im 14. Jal | german_print2_15: Rechte bewidmet worden war. Im 14. Jah -->
+			<!-- line left out: id="r41l5" points="205,1295 225,1295 251,1296 255,1290 264,1290 265,1297 275,1296 291,1291 301,1291 383,1292 401,1295 408,1299 423,1293 438,1293 473,1293 484,1294 498,1293 502,1293 513,1294 538,1298 562,1298 562,1306 538,1306 444,1306 401,1305 378,1305 274,1304 232,1304 205,1303" baseline="205,1303 562,1305" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: unverkennbar Das Weichbild (von | german_print2_15: unverkennbar Das Weichbild (von 1 -->
+			<!-- line left out: id="r41l6" points="205,1317 224,1317 226,1311 235,1311 241,1316 252,1317 262,1314 273,1314 296,1316 313,1317 330,1319 331,1312 341,1312 342,1318 360,1315 377,1315 388,1313 398,1313 449,1314 478,1314 500,1318 511,1319 529,1320 530,1314 542,1314 560,1320 574,1320 585,1318 588,1318 588,1327 574,1327 511,1331 502,1331 472,1327 449,1331 437,1331 273,1327 262,1327 224,1325 215,1325 205,1324" baseline="205,1324 403,1325 588,1327" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: nehmet, wie die Stadt Magdeburg allererst | german_print2_15: nehmet, wie die Stadt Magdeburg allererst -->
+			<!-- line left out: id="r41l7" points="205,1332 215,1332 226,1337 265,1337 271,1333 285,1333 308,1334 331,1336 357,1336 374,1338 384,1336 389,1336 419,1338 436,1339 438,1333 448,1333 465,1338 486,1335 499,1335 502,1342 508,1342 519,1343 521,1334 531,1334 537,1337 538,1344 548,1340 560,1340 560,1334 578,1323 588,1323 603,1335 609,1335 609,1348 603,1348 588,1356 578,1356 562,1348 374,1350 302,1350 299,1350 205,1345" baseline="205,1345 284,1345 432,1346 609,1348" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: kuer und bestaetiget an ihren Rechten. — U
+ | german_print2_15: kuer und bestaetiget an ihren Rechten. — L
+ -->
+		</TextRegion>
+		<GraphicRegion id="r42">
+			<Coords points="468,1090 706,1090 706,1108 468,1108" />
+		</GraphicRegion>
+		<TextRegion id="r43" custom="readingOrder {index:43;} orientation {0;}">
+			<Coords points="709,1093 907,1093 907,1105 709,1105" />
+			<!-- line left out: id="r43l0" points="709,1094 737,1093 750,1093 765,1093 795,1096 827,1096 891,1093 895,1093 907,1098 907,1105 891,1105 853,1103 807,1105 791,1105 746,1104 737,1103 709,1099" baseline="709,1103 737,1103 863,1104 907,1105" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 8. März 1508 vor. Ur
+ | german_print2_15: 8. März 1508 vor. Ur.
+ -->
+		</TextRegion>
+		<TextRegion id="r44" custom="readingOrder {index:44;} orientation {0;}">
+			<Coords points="705,1117 911,1117 911,1126 705,1126" />
+			<!-- line left out: id="r44l0" points="705,1120 713,1118 744,1118 805,1118 819,1119 853,1117 856,1117 874,1118 895,1117 898,1117 911,1119 911,1122 909,1122 895,1120 891,1126 869,1126 853,1126 805,1125 801,1126 778,1126 705,1125" baseline="705,1125 853,1125 911,1126" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Vormund wird zuweilen
+ | german_print2_15: Vormund wird zuweilen
+ -->
+		</TextRegion>
+		<GraphicRegion id="r45">
+			<Coords points="561,1087 625,1087 625,1125 561,1125" />
+		</GraphicRegion>
+		<GraphicRegion id="r46">
+			<Coords points="628,1129 806,1129 806,1150 628,1150" />
+		</GraphicRegion>
+		<GraphicRegion id="r47">
+			<Coords points="541,1185 572,1185 572,1197 541,1197" />
+		</GraphicRegion>
+		<TextRegion id="r48" custom="readingOrder {index:48;} orientation {0;}">
+			<Coords points="591,1180 908,1180 908,1207 591,1207" />
+			<!-- line left out: id="r48l0" points="591,1185 595,1185 603,1192 613,1184 617,1184 618,1190 630,1190 630,1184 632,1184 668,1180 681,1180 681,1189 696,1186 704,1186 711,1193 722,1191 725,1191 738,1190 741,1190 752,1191 755,1185 768,1185 799,1185 799,1191 804,1191 805,1197 827,1187 831,1187 845,1192 850,1186 858,1186 869,1191 874,1192 884,1195 887,1189 895,1189 908,1193 908,1199 887,1199 869,1198 858,1199 808,1199 799,1199 768,1199 755,1199 749,1198 735,1195 725,1197 704,1198 681,1198 681,1207 668,1207 666,1198 657,1198 622,1197 595,1197 591,1197" baseline="591,1197 696,1197 827,1198 908,1199" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Fehme, hat Vorsprechen. Urkunden
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r49">
+			<Coords points="485,1188 510,1188 510,1197 485,1197" />
+		</GraphicRegion>
+		<GraphicRegion id="r50">
+			<Coords points="526,1208 550,1208 550,1217 526,1217" />
+		</GraphicRegion>
+		<TextRegion id="r51" custom="readingOrder {index:51;} orientation {0;}">
+			<Coords points="500,1231 619,1231 619,1244 500,1244" />
+			<!-- line left out: id="r51l0" points="500,1236 514,1236 528,1238 533,1231 538,1231 544,1238 554,1236 573,1235 590,1235 595,1241 606,1235 610,1235 619,1238 619,1242 610,1244 590,1244 580,1244 544,1244 504,1243 500,1243" baseline="500,1243 619,1244" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: nischen Städte
+ | german_print2_15: nischen Städte
+ -->
+		</TextRegion>
+		<GraphicRegion id="r52">
+			<Coords points="492,1238 496,1238 496,1241 492,1241" />
+		</GraphicRegion>
+		<TextRegion id="r53" custom="readingOrder {index:53;} orientation {0;}">
+			<Coords points="678,1219 754,1219 754,1255 678,1255" />
+			<!-- line left out: id="r53l0" points="678,1236 683,1219 694,1219 694,1237 700,1237 706,1231 709,1231 728,1232 728,1219 739,1219 739,1237 754,1237 754,1250 753,1250 750,1244 739,1244 739,1255 728,1255 728,1244 694,1244 694,1255 683,1255 678,1244" baseline="678,1244 754,1244" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: nach Lein
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r54">
+			<Coords points="645,1235 672,1235 672,1264 645,1264" />
+		</GraphicRegion>
+		<GraphicRegion id="r55">
+			<Coords points="561,1232 1000,1232 1000,1359 561,1359" />
+		</GraphicRegion>
+		<GraphicRegion id="r56">
+			<Coords points="486,1255 524,1255 524,1264 486,1264" />
+		</GraphicRegion>
+		<TextRegion id="r57" custom="readingOrder {index:57;} orientation {0;}">
+			<Coords points="617,1277 749,1277 749,1328 617,1328" />
+			<!-- line left out: id="r57l0" points="629,1278 643,1278 673,1277 676,1277 749,1277 749,1286 733,1286 676,1285 629,1285" baseline="629,1285 749,1284" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: undert sind G | german_print2_15: undert sind Ge -->
+			<!-- line left out: id="r57l1" points="617,1300 621,1300 633,1299 636,1299 651,1299 653,1305 673,1294 685,1294 693,1301 699,1294 712,1294 712,1306 676,1307 648,1307 636,1306 624,1306 617,1305" baseline="617,1305 712,1305" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: bvici, Halle | german_print2_15: pvici, Halle -->
+			<!-- line left out: id="r57l2" points="638,1318 643,1318 666,1318 686,1319 686,1327 659,1328 652,1328 638,1327" baseline="638,1327 686,1327" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: tzet w
+ | german_print2_15: tzet w.
+ -->
+		</TextRegion>
+		<TextRegion id="r58" custom="readingOrder {index:58;} orientation {0;}">
+			<Coords points="619,1335 688,1335 688,1348 619,1348" />
+			<!-- line left out: id="r58l0" points="619,1340 630,1335 658,1335 688,1335 688,1348 619,1348" baseline="619,1348 688,1348" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: nd Hall
+ | german_print2_15: nd Hall
+ -->
+		</TextRegion>
+		<GraphicRegion id="r59">
+			<Coords points="585,1273 635,1273 635,1338 585,1338" />
+		</GraphicRegion>
+		<GraphicRegion id="r60">
+			<Coords points="448,1319 450,1319 450,1322 448,1322" />
+		</GraphicRegion>
+		<GraphicRegion id="r61">
+			<Coords points="441,1325 451,1325 451,1330 441,1330" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Der Fürsprech oder Vorsprech oder Fürreder ist der
+mittelalterliche Rechtsbeistand, der zur Zeit der Einführung des römischen
+Rechtes dem Advocaten gewichen ist, welcher seinerseits am
+1. Oktober 1879 dem Rechtsanwalt den Platz hat räumen müssen.
+In der deutschen Schweiz hat der Fürsprech seinen Namen
+behauptet.⟦⟧
+Über die Vorsprechen hat J. W. Planck in seinem Werke
+„das deutsche Gerichtsverfahren im Mittelalter“, welches sich auf
+den Sachsenspiegel und verwandte Rechtsquellen – darunter das
+Stadtrecht von Freiberg – stützt, eingehende Erörterungen
+angestellt⟦⟧; vorliegende Arbeit wolle man als eine bescheidene
+Ergänzung zu Planck’s grundlegendem Werke ansehen.
+Im Glanzzeitalter des reinen deutschen Rechts, als der
+Anhaltische Edelmann Eike von Repgowe (um das Jahr 1230) für den
+Grafen Hoyer von Falkenstein seinen Sachsenspiegel schrieb, in
+welchem wir das Vorbild einer grossen Zahl von Weistümern,
+Stadtrechten und Schöppensprüchen erblicken, gab es einen Beruf
+der Vorsprechen nicht. Das Vorsprechsein war, wie die Pflicht, auf
+Befragen Urteile zu finden oder Zeugnis abzulegen, ein Teil der
+allgemeinen Dingpflicht, also der Pflicht, des Gerichtes zu warten,
+der sich innerhalb seines Rechtskreises Niemand entziehen konnte,
+welcher überhaupt vor Gericht zu erscheinen und selbständig zu
+handeln befugt war.
+Vorspreche en mag kein man weigern zu wesene binnen dem
+gerichte, da her wonhaft ist oder gut binnen hat, sagt das
+Landrecht des Sachsenspiegels, und an zwei anderen Stellen: Iclich
+(Jeglich) man muz wol vorspreche sin binnen deme lande zu Sachsen
+zu lantrechte.⟦⟧
+Dies gilt nicht nur im Landrecht, sondern auch im Lehenrecht
+und im Stadtrecht. Vorsprehe scal sin irwelk dinghplichtich man,
+sagen die Goslarischen Statuten.⟦⟧
+-->
+	</Page>
+</PcGts>

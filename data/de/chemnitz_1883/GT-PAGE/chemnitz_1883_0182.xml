@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:54:37</Created>
+		<LastChange>2026-11-23T13:54:37</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/182 revision 5066563 of 2026-09-28T06:43:14Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0182.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro16649553852919802730" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="26" regionRef="r26" />
+				<RegionRefIndexed index="28" regionRef="r28" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 1000,0 1000,272 0,272" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {3;}">
+			<Coords points="0,107 22,107 22,140 0,140" />
+			<!-- line left out: id="r1l0" points="0,107 22,107 22,140 0,140" baseline="21,140 21,107" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 52
+ | german_print2_15: D.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r2">
+			<Coords points="0,350 27,350 27,445 0,445" />
+		</GraphicRegion>
+		<GraphicRegion id="r3">
+			<Coords points="0,752 9,752 9,798 0,798" />
+		</GraphicRegion>
+		<GraphicRegion id="r4">
+			<Coords points="25,1214 34,1214 34,1253 25,1253" />
+		</GraphicRegion>
+		<GraphicRegion id="r5">
+			<Coords points="24,1272 34,1272 34,1287 24,1287" />
+		</GraphicRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="231,206 486,206 486,223 231,223" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="231,216 251,211 269,210 276,212 322,206 333,206 343,206 371,213 414,213 423,207 434,207 436,213 446,213 446,207 459,207 459,213 477,213 486,216 486,223 459,223 446,223 414,221 381,223 371,223 231,219" />
+				<Baseline points="231,219 486,220" />
+				<TextEquiv index="1">
+					<Unicode>verlässt die gewöhnliche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>verlässt die gewöhnliche</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="228,231 475,231 475,249 228,249" />
+			<!-- line left out: id="r7l0" points="228,234 240,233 254,231 265,231 267,237 302,237 313,238 336,240 338,232 349,232 357,238 377,236 381,236 409,241 412,232 417,232 423,239 434,239 437,233 453,233 455,242 466,239 475,239 475,248 453,248 412,248 398,247 361,247 313,249 304,249 240,246 228,242" baseline="228,245 332,246 475,248" reason: differs: "Ordn" against "Ausd" | Wikisource:  | next_nc_e1: Ordnung der Gedanken
+ | german_print2_15: Ordnung der Gedanken
+ -->
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="879,240 934,240 934,257 879,257" />
+		</GraphicRegion>
+		<GraphicRegion id="r9">
+			<Coords points="753,259 778,259 778,274 753,274" />
+		</GraphicRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="233,257 482,257 482,274 233,274" />
+			<!-- line left out: id="r10l0" points="233,258 242,258 250,263 290,263 294,257 305,257 307,266 319,264 335,264 350,258 353,258 360,262 373,264 375,258 386,258 388,267 399,263 419,259 430,259 438,265 450,265 466,259 471,259 482,260 482,274 430,274 399,274 386,273 353,274 350,274 319,273 305,272 264,272 233,272" baseline="233,272 334,272 403,273 449,274 482,275" reason: models differ | Wikisource: Ausserdem findet der Bi | next_nc_e1: Ausserdem findet der Bi
+ | german_print2_15: Ausserdem findet der Bi-
+ -->
+		</TextRegion>
+		<GraphicRegion id="r11">
+			<Coords points="222,204 827,204 827,687 222,687" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="314,257 823,257 823,358 314,358" />
+		</GraphicRegion>
+		<GraphicRegion id="r13">
+			<Coords points="224,345 934,345 934,453 224,453" />
+		</GraphicRegion>
+		<GraphicRegion id="r14">
+			<Coords points="869,471 915,471 915,489 869,489" />
+		</GraphicRegion>
+		<GraphicRegion id="r15">
+			<Coords points="316,491 812,491 812,563 316,563" />
+		</GraphicRegion>
+		<GraphicRegion id="r16">
+			<Coords points="923,657 935,657 935,667 923,667" />
+		</GraphicRegion>
+		<GraphicRegion id="r17">
+			<Coords points="489,671 616,671 616,694 489,694" />
+		</GraphicRegion>
+		<GraphicRegion id="r18">
+			<Coords points="382,705 772,705 772,721 382,721" />
+		</GraphicRegion>
+		<GraphicRegion id="r19">
+			<Coords points="316,705 518,705 518,746 316,746" />
+		</GraphicRegion>
+		<GraphicRegion id="r20">
+			<Coords points="491,780 835,780 835,824 491,824" />
+		</GraphicRegion>
+		<SeparatorRegion id="r21">
+			<Coords points="967,268 972,268 972,862 967,862" />
+		</SeparatorRegion>
+		<GraphicRegion id="r22">
+			<Coords points="642,751 935,751 935,903 642,903" />
+		</GraphicRegion>
+		<GraphicRegion id="r23">
+			<Coords points="326,858 541,858 541,954 326,954" />
+		</GraphicRegion>
+		<GraphicRegion id="r24">
+			<Coords points="418,962 735,962 735,1007 418,1007" />
+		</GraphicRegion>
+		<GraphicRegion id="r25">
+			<Coords points="434,1019 487,1019 487,1032 434,1032" />
+		</GraphicRegion>
+		<TextRegion id="r26" custom="readingOrder {index:26;} orientation {0;}">
+			<Coords points="225,271 932,271 932,1055 225,1055" />
+			<TextLine id="r26l0" custom="readingOrder {index:0;}">
+				<Coords points="840,278 848,278 853,271 856,271 866,272 866,274 856,278 848,279 840,279" />
+				<Baseline points="840,279 866,278" />
+				<TextEquiv index="1">
+					<Unicode>gke</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r26l1" points="233,284 242,284 255,288 265,283 276,283 278,289 296,289 296,283 321,283 324,292 349,289 359,289 372,290 379,292 401,284 405,284 416,296 417,284 431,284 431,297 448,292 860,289 893,289 893,296 900,296 915,297 915,304 860,304 416,300 372,299 353,299 321,299 296,299 255,298 233,298" baseline="233,298 915,301" reason: differs: "Ausd" against "it d" | Wikisource:  | next_nc_e1: Ausdrucks ihre Erklä Klima | german_print2_15: Ausdrucks ihre Erklä Klima -->
+			<!-- line left out: id="r26l2" points="229,335 250,335 275,340 288,341 288,335 314,335 460,337 460,339 458,339 314,346 303,350 253,350 229,349" baseline="229,349 460,350" reason: differs: "Himmel" against "tigen " | Wikisource:  | next_nc_e1: Himmels 3 | german_print2_15:  -->
+			<!-- line left out: id="r26l3" points="228,366 238,366 271,361 276,361 279,368 295,366 298,366 549,374 562,370 565,370 578,370 832,375 832,380 578,384 575,384 565,374 553,378 549,378 256,376 247,376 228,375" baseline="228,375 271,375 832,377" reason: differs: "ihnb" against "mach" | Wikisource:  | next_nc_e1: ihn bei ampf V | german_print2_15: ihn bei aumpf u 1 V -->
+			<!-- line left out: id="r26l4" points="234,423 241,417 261,417 280,419 298,419 620,419 625,425 712,417 719,417 719,432 712,432 620,431 589,431 280,428 241,428 234,427" baseline="234,427 719,429" reason: differs: "nehm" against "stos" | Wikisource:  | next_nc_e1: nehmen, Poes F | german_print2_15: nehmen, r Poes F -->
+			<!-- line left out: id="r26l5" points="227,470 241,470 278,469 294,469 316,469 327,475 338,471 364,471 690,481 834,470 845,470 845,483 692,484 690,484 333,481 327,481 311,480 294,479 290,480 278,480 241,479 231,479 227,475" baseline="227,479 263,479 845,481" reason: differs: "sies" against "f de" | Wikisource:  | next_nc_e1: sie selbst zu v 1 N | german_print2_15: sie selbst zu v 1 N -->
+			<!-- line left out: id="r26l6" points="227,490 238,490 239,499 252,497 276,491 301,491 691,495 824,502 871,502 871,508 691,509 679,509 255,506 252,506 238,505 227,505" baseline="227,505 871,505" reason: differs: "derM" against "igal" | Wikisource:  | next_nc_e1: der Mus K m si | german_print2_15: der Mus- K m si -->
+			<!-- line left out: id="r26l7" points="228,516 233,516 237,525 270,525 279,523 289,523 548,524 673,535 855,532 895,532 901,535 901,538 872,538 855,537 673,536 548,530 299,534 291,534 272,532 245,531 228,531" baseline="228,531 673,535 901,535" reason: differs: "Less" against "ch s" | Wikisource:  | next_nc_e1: Lessing n ( g folg | german_print2_15: Lessing n g 1 folg -->
+			<!-- line left out: id="r26l8" points="227,551 238,548 244,547 258,543 269,543 804,552 808,552 903,548 907,548 920,551 920,559 907,562 824,562 815,561 256,558 238,558 227,555" baseline="227,558 903,558 920,559" reason: differs: "entb" against "u fo" | Wikisource:  | next_nc_e1: entb Geset Di | german_print2_15: entbi Geset Di -->
+			<!-- line left out: id="r26l9" points="627,578 633,578 728,579 836,573 855,573 858,581 870,579 875,573 889,573 895,580 911,580 920,582 920,588 889,590 855,590 836,590 633,589 627,589" baseline="627,587 727,587 920,588" reason: differs: "4erK" against "n de" | Wikisource:  | next_nc_e1: 4 er K Jeremia | german_print2_15: 4 er K u Jeremia -->
+			<!-- line left out: id="r26l10" points="683,607 695,604 703,604 906,605 906,614 866,614 862,614 724,613 686,611 683,611" baseline="683,611 906,614" reason: differs: "em3rw" against "eremi" | Wikisource:  | next_nc_e1: em 3 rwäh | german_print2_15: em 3. rwäh -->
+			<!-- line left out: id="r26l11" points="863,628 876,628 903,634 910,634 910,640 903,640 863,636" baseline="863,640 910,640" reason: differs: "D1t" against "ähnt" | Wikisource:  | next_nc_e1: D 1t | german_print2_15: D it -->
+			<!-- line left out: id="r26l12" points="805,657 808,657 836,657 845,659 845,666 823,666 810,665 805,661" baseline="805,665 845,665" reason: second model has no such line | Wikisource: ne Re | next_nc_e1: Rege | german_print2_15:  -->
+			<!-- line left out: id="r26l13" points="228,677 233,677 265,680 280,679 284,679 388,681 390,674 400,674 408,680 444,679 447,679 857,685 861,685 871,690 900,681 904,681 931,684 931,692 904,692 868,692 487,690 459,688 447,690 444,690 265,689 259,689 228,688" baseline="228,688 294,688 931,692" reason: differs: "trag" against "gel " | Wikisource:  | next_nc_e1: tragen. dem besor e, dem | german_print2_15: tragen. i dem beson . e, dem -->
+			<!-- line left out: id="r26l14" points="228,730 232,730 258,731 304,730 313,730 388,730 461,726 482,726 487,736 502,736 512,726 525,726 525,741 531,741 564,735 567,735 633,734 647,734 904,740 917,737 929,730 932,730 932,744 531,744 512,744 505,742 494,739 482,744 468,744 393,743 383,743 304,741 278,740 228,740" baseline="228,740 461,741 646,742 932,744" reason: differs: "tüml" against "Eige" | Wikisource:  | next_nc_e1: tümlichk n glaubt Lessing in  G und | german_print2_15: tümlichk in glaubt Lessing in n G I und -->
+			<!-- line left out: id="r26l15" points="228,751 241,751 251,757 267,757 290,757 332,757 349,761 351,751 362,751 369,758 377,757 385,757 404,757 428,758 430,752 435,752 448,758 452,758 454,765 477,759 489,758 507,757 535,753 539,753 546,759 555,753 571,753 577,760 705,759 708,759 807,759 879,761 879,769 871,769 865,767 791,763 708,769 705,769 448,768 332,767 328,767 290,766 267,767 251,767 241,766 228,766" baseline="228,766 289,766 879,769" reason: differs: "Röme" against "n un" | Wikisource:  | next_nc_e1: Römer wiederzufinden und daher hr ter ur | german_print2_15: Römer wiederzufinden und daher te hr ter ur -->
+			<!-- line left out: id="r26l16" points="228,778 244,778 252,786 259,784 268,783 290,783 300,784 322,786 326,778 336,778 344,784 348,784 371,782 384,782 402,782 421,785 436,784 466,779 471,779 479,787 583,785 591,785 617,791 620,791 639,791 717,780 764,780 773,789 776,789 797,789 805,780 807,780 840,788 843,788 843,794 840,794 776,793 773,793 760,789 720,795 717,795 583,794 471,793 445,794 436,794 421,793 402,793 384,794 368,794 344,786 336,793 300,794 292,794 278,793 237,793 228,793" baseline="228,792 806,794 843,795" reason: differs: "klär" against "zur " | Wikisource:  | next_nc_e1: klärung der ersteren be u kör 1 diesem V | german_print2_15:  -->
+			<!-- line left out: id="r26l17" points="227,808 237,808 251,807 256,807 269,807 311,810 353,809 403,804 418,804 426,810 442,810 454,813 469,807 473,807 480,813 490,813 596,815 613,805 647,805 683,805 720,805 762,808 773,815 809,815 821,817 833,815 846,815 855,819 855,821 846,822 809,822 806,822 762,821 720,822 647,822 619,822 596,820 562,821 442,821 426,821 418,820 403,820 311,819 269,819 251,819 227,818" baseline="227,818 855,821" reason: differs: "hatt" against "ahre" | Wikisource:  | next_nc_e1: hatte er schon Hugo Gr zum Vorgänger. Als seinen | german_print2_15: hatte er schon Hugo Gr zum Vorgänger. Als seinen -->
+			<TextLine id="r26l18" custom="readingOrder {index:18;}">
+				<Coords points="228,830 237,830 242,836 248,830 259,830 261,836 321,837 323,830 348,830 348,836 425,835 461,837 480,831 665,832 692,838 725,838 729,845 760,832 764,832 772,842 802,837 839,837 839,846 855,839 855,843 842,848 819,848 805,848 228,845" />
+				<Baseline points="228,845 480,845 855,848" />
+				<TextEquiv index="1">
+					<Unicode>Führer aber nennt er R. Wood, Versuch über das Origin</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r26l19" points="228,856 248,856 268,861 292,862 304,865 342,869 343,857 359,857 365,862 408,862 411,856 416,856 418,864 429,863 598,862 608,862 729,863 729,869 784,864 786,864 825,863 826,863 826,872 737,873 707,873 445,872 429,872 416,871 397,871 383,868 365,871 292,871 228,871" baseline="228,871 444,871 826,872" reason: differs: "Home" against "alge" | Wikisource:  | next_nc_e1: Homers. Ausserdem S Schr n üb | german_print2_15:  -->
+			<!-- line left out: id="r26l20" points="226,888 248,888 261,881 272,881 275,887 279,887 306,881 318,881 328,890 340,888 362,888 364,882 375,882 377,891 405,890 411,882 421,882 430,889 575,889 593,883 596,883 764,884 797,884 802,890 809,884 811,884 848,890 858,887 859,887 859,899 811,900 797,900 751,900 741,899 433,898 430,898 375,897 324,897 279,897 226,897" baseline="226,897 432,897 859,899" reason: differs: "andi" against "Home" | Wikisource:  | next_nc_e1: an die Freunde der n I Boganus, HH | german_print2_15: an die Freunde der n I Boganus, H -->
+			<!-- line left out: id="r26l21" points="225,912 245,912 256,918 259,918 292,918 440,920 440,924 304,926 284,926 256,926 225,925" baseline="225,925 440,925" reason: differs: "βραί" against "erus" | Wikisource:  | next_nc_e1: β ραίζων * | german_print2_15:  -->
+			<!-- line left out: id="r26l22" points="228,941 237,941 253,940 257,940 265,938 273,938 282,937 296,937 382,938 403,940 433,940 851,941 882,941 904,941 931,944 931,952 904,952 882,952 851,952 828,952 819,951 403,950 267,950 257,950 246,949 236,949 228,946" baseline="228,949 392,949 819,951 931,952" reason: differs: "ment" against "um c" | Wikisource:  | next_nc_e1: mentati t imm hebräischen | german_print2_15: mentati t imme . 1 hebräischen -->
+			<!-- line left out: id="r26l23" points="231,960 246,960 254,966 266,964 272,964 314,968 317,960 328,960 329,966 343,966 349,969 355,960 365,960 391,964 694,963 702,963 927,973 931,973 931,974 791,977 702,977 694,977 386,976 343,976 329,976 279,975 272,976 236,976 231,976" baseline="231,975 927,974 931,974" reason: differs: "Text" against "sche" | Wikisource:  | next_nc_e1: Textes durch Ste d Ar n . | german_print2_15: Textes durch Ste 3 S . Ar n . -->
+			<!-- line left out: id="r26l24" points="225,993 234,993 249,992 271,992 318,992 321,999 346,986 359,986 360,992 371,992 392,993 412,996 415,986 426,986 428,993 512,990 530,990 535,999 632,997 639,996 666,995 668,995 806,997 815,998 815,1003 783,1003 773,1000 668,1002 538,1002 518,1002 512,995 438,1002 392,1002 381,1002 359,1001 318,1002 308,1002 271,1001 259,1002 234,1003 225,1003" baseline="225,1003 323,1001 437,1001 667,1002 815,1003" reason: differs: "gemess" against "der an" | Wikisource:  | next_nc_e1: gemessen. Zwar dür bei se n ssend | german_print2_15: gemessen. Zwar dür bei⸗ sen ssend 1 -->
+			<!-- line left out: id="r26l25" points="225,1019 237,1018 240,1018 263,1025 273,1018 283,1018 301,1012 312,1012 314,1021 325,1018 341,1018 372,1017 377,1017 390,1018 414,1018 520,1019 521,1013 530,1013 608,1027 614,1027 739,1019 753,1019 860,1020 860,1026 753,1028 614,1029 608,1029 520,1028 414,1028 341,1028 325,1028 312,1027 240,1028 237,1028 225,1027" baseline="225,1027 360,1027 752,1028 860,1029" reason: differs: "erzu" against "wenn" | Wikisource:  | next_nc_e1: er zu dem etwas end g G n | german_print2_15: er zu dem etwas end g G6 t -->
+			<!-- line left out: id="r26l26" points="226,1038 239,1038 247,1044 261,1044 329,1044 343,1038 354,1038 356,1044 400,1039 408,1038 419,1038 456,1044 466,1044 485,1047 487,1039 497,1039 506,1048 512,1048 619,1040 629,1039 662,1039 695,1050 753,1040 757,1040 761,1053 851,1040 855,1040 879,1040 889,1047 894,1040 905,1040 925,1040 926,1050 930,1050 930,1052 925,1055 866,1055 859,1044 855,1055 761,1055 497,1054 466,1054 456,1054 408,1053 383,1054 239,1054 226,1054" baseline="226,1054 285,1053 511,1053 763,1054 930,1055" reason: differs: "Ross" against "t de" | Wikisource:  | next_nc_e1: Rossen an dem W. n des Hohes I I, Parallel-
+ | german_print2_15: Rossen an dem W- n des Hohes I I, Parallel-
+ -->
+			<TextEquiv index="1">
+				<Unicode>gke
+Führer aber nennt er R. Wood, Versuch über das Origin</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r27">
+			<Coords points="275,914 602,914 602,1058 275,1058" />
+		</GraphicRegion>
+		<TextRegion id="r28" custom="readingOrder {index:28;} orientation {0;}">
+			<Coords points="226,1064 910,1064 910,1086 226,1086" />
+			<!-- line left out: id="r28l0" points="226,1074 232,1074 234,1068 239,1068 251,1071 253,1064 271,1064 273,1071 295,1064 312,1064 314,1071 324,1071 342,1071 344,1064 354,1064 356,1070 365,1069 377,1069 379,1077 399,1064 418,1064 419,1071 426,1071 432,1064 448,1064 448,1078 463,1064 479,1064 496,1065 500,1078 520,1074 554,1071 576,1071 578,1065 637,1065 647,1078 654,1070 682,1066 706,1066 709,1079 728,1071 731,1071 760,1078 763,1071 789,1071 824,1071 848,1075 863,1066 910,1066 910,1081 902,1081 848,1078 824,1081 712,1081 709,1081 682,1080 654,1072 651,1080 637,1080 530,1081 520,1081 448,1080 448,1086 426,1086 419,1086 418,1080 324,1080 295,1080 276,1074 271,1079 239,1080 234,1080 226,1077" baseline="226,1079 275,1079 760,1080 910,1081" reason: second model: differs: "stel" against "rall" | Wikisource: stelle Theokrit, Idyll. XII, 30 und Horat. III, 11 anführt oder d | next_nc_e1: stelle Theokrit, Idyll. XII, 30 und Horat. III, 11 anführt oder d
+ | german_print2_15: stelle Theokrit, Idyll. XII, 30 und Horat. III,  anführt oder d-
+ -->
+		</TextRegion>
+		<GraphicRegion id="r29">
+			<Coords points="244,1216 254,1216 254,1241 244,1241" />
+		</GraphicRegion>
+		<GraphicRegion id="r30">
+			<Coords points="257,1288 318,1288 318,1321 257,1321" />
+		</GraphicRegion>
+		<GraphicRegion id="r31">
+			<Coords points="0,1524 1000,1524 1000,1564 0,1564" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+verlässt die gewöhnliche Ausdrucksweise, unterbricht die übliche
+Ordnung der Gedanken und wählt kühnere und seltnere Worte.⟦⟧
+Ausserdem findet der Bilderreichtum, die Fülle und Üppigkeit des
+Ausdrucks ihre Erklärung in dem Einflusse des südlichen Klimas.
+Während die wohlthuende und gesunde Beschaffenheit des dortigen
+Himmelsstrichs den Geist rasch entwickelt und aufheitert, macht
+ihn bei uns die dicke Luft stumpf und unempfindlich. Viele
+Ausleger aber, welche an den mancherlei Unregelmässigkeiten Anstoss
+nehmen, rupfen dem Vogel der Poesie die Federn aus, dass er,
+statt sich in den Himmel zu erheben, auf der Erde hüpft, auf der
+sie selbst zu verweilen lieben, und verwandeln die liebliche Nachtigall
+der Musen in eine hässlich krächzende Krähe. Indem sich so
+Lessing vornimmt, dem freien Gedankenfluge des Dichters zu folgen,
+entbindet er ihn doch allzu bereitwillig von jedem Gesetz. Die
+alphabetische Strophenordnung in den 4 ersten Klageliedern Jeremiae
+und den besonders künstlichen Aufbau in dem 3. lässt er unerwähnt.
+Durch Anwendung einer solchen Form aber verrät der Dichter
+doch nicht gerade die Absicht, seine Gedanken ohne Regel
+vorzutragen. Von dem besondern Mittel der hebräischen Poesie, dem
+Parallelismus membrorum, ist ebenfalls nicht die Rede. Ihre
+Eigentümlichkeiten glaubt Lessing in den Gedichten der Griechen und
+Römer wiederzufinden und daher letztere ohne weiteres zur
+Erklärung der ersteren benutzen zu können. In diesem Verfahren
+hatte er schon Hugo Grotius zum Vorgänger. Als seinen eignen
+Führer aber nennt er R. Wood, Versuch über das Originalgenie
+Homers. Ausserdem benutzt er: Seybold, Schreiben über Homer
+an die Freunde der griechischen Literatur; Z. Boganus, Homerus
+ἑβραΐζων; A. Blackwallii de praestantia classicorum auctorum commentatio. Nicht immer jedoch sind die Erläuterungen des hebräischen
+Textes durch Stellen aus den klassischen Autoren nötig oder
+angemessen. Zwar dürfte es beispielsweise nicht unpassend sein, wenn
+er zu dem etwas auffallenden Vergleiche der Geliebten mit den
+Rossen an dem Wagen des Pharao, Hohes Lied I, 9, als
+Parallelstelle Theokrit, Idyll. XII, 30 und Horat. III, 11 anführt oder das
+-->
+	</Page>
+</PcGts>

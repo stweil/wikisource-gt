@@ -1,0 +1,418 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:15:40</Created>
+		<LastChange>2026-11-23T14:15:40</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/16 revision 4923878 of 2026-06-17T13:56:38Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0016.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro15004941285903371858" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="462,169 571,169 571,186 462,186" />
+			<!-- line left out: id="r0l0" points="462,180 484,180 511,169 521,169 548,181 571,181 571,183 521,186 511,186 462,181" baseline="462,181 483,181 571,183" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 8 —
+ | german_print2_15: — 8 —
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="256,218 779,218 779,251 256,251" />
+			<!-- line left out: id="r1l0" points="256,218 275,218 290,222 319,219 326,219 355,223 386,223 450,224 476,222 496,222 533,226 599,225 607,224 622,224 624,237 643,226 667,225 680,225 681,231 693,231 721,227 744,227 755,223 770,223 779,228 779,244 770,244 770,251 755,251 755,244 729,244 694,243 533,242 503,242 476,238 413,237 400,236 343,235 277,234 256,233" baseline="256,233 532,239 548,239 599,240 779,244" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Vereinsversammlung am 18. März 1873.
+ | german_print2_15: Vereinsversammlung am 18. März 1873.
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="143,257 872,257 872,1371 143,1371" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="211,257 219,257 237,259 238,271 257,258 271,258 275,264 283,264 293,259 316,259 335,266 388,260 399,260 416,267 422,267 422,261 436,261 450,266 483,262 496,262 497,268 520,263 537,263 547,270 591,267 629,271 655,272 661,266 673,266 676,272 692,267 701,267 710,270 767,269 771,275 793,275 806,269 819,269 829,273 849,270 860,270 870,274 870,286 823,286 645,282 344,281 343,273 316,275 211,273" />
+				<Baseline points="211,273 335,274 870,286" />
+				<TextEquiv index="1">
+					<Unicode>Dr. Preil sprach über die Gevatterschaften der Stadt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="156,286 176,283 188,283 192,290 349,285 352,291 422,293 425,287 437,287 441,295 450,295 455,288 460,288 464,295 486,294 491,288 503,288 508,296 522,295 548,290 565,290 569,296 581,296 585,290 594,290 597,298 611,298 611,307 597,307 156,298" />
+				<Baseline points="156,298 611,307" />
+				<TextEquiv index="1">
+					<Unicode>Chemnitz am kursächsischen Hofe.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="236,315 242,315 266,321 284,323 287,317 307,316 321,316 321,322 349,319 364,319 385,323 405,318 417,318 417,324 429,324 431,318 439,318 444,322 494,325 533,326 533,320 555,320 561,327 598,328 598,322 619,322 619,328 643,328 670,324 698,324 718,331 768,328 788,332 829,332 848,330 870,333 870,343 799,343 606,339 516,337 494,335 494,341 481,341 467,335 236,331" />
+				<Baseline points="236,331 287,331 870,344" />
+				<TextEquiv index="1">
+					<Unicode>Diese Gevatterschaften gewähren einen nicht uninteressanten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="183,341 203,341 205,347 216,347 217,341 235,341 260,342 260,352 284,342 289,342 291,348 326,349 326,342 339,342 340,350 374,349 391,344 405,344 406,350 439,350 466,352 466,345 483,345 552,347 552,353 565,353 596,348 612,348 613,355 625,354 633,349 645,349 645,356 656,356 657,349 662,349 676,353 684,350 698,350 708,358 717,358 734,351 746,351 753,358 799,357 800,366 823,353 860,353 860,359 869,359 869,369 860,373 829,373 799,373 789,373 753,368 607,363 426,366 426,360 243,358 183,356" />
+				<Baseline points="183,356 579,363 869,370" />
+				<TextEquiv index="1">
+					<Unicode>Einblick in die culturgeschichtlichen Verhältnisse des 17. Jahr-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="182,367 193,367 195,373 224,373 226,367 238,367 245,374 258,371 270,375 271,381 297,368 322,368 323,375 339,375 354,369 360,369 360,375 396,375 408,377 409,370 423,370 451,378 529,378 534,373 547,373 549,379 583,379 583,387 602,380 639,375 650,375 651,381 680,376 697,376 701,382 733,377 734,384 748,384 748,378 759,378 760,384 775,384 789,373 793,373 798,382 820,384 821,373 831,373 833,380 838,380 840,386 863,385 870,389 870,391 863,395 789,395 583,392 451,387 182,383" />
+				<Baseline points="182,382 870,396" />
+				<TextEquiv index="1">
+					<Unicode>hunderts. Man bemerkt einen naiven, an das Komische streifen-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="182,393 194,393 195,401 233,394 254,394 256,400 266,400 270,394 282,394 300,395 330,401 351,396 362,396 372,402 382,402 383,396 394,396 396,404 407,402 442,403 442,397 455,397 456,403 482,398 494,398 501,401 526,399 550,405 575,400 586,400 604,407 610,407 610,400 623,400 623,407 639,407 655,401 683,402 693,408 757,409 776,404 788,404 788,412 807,411 820,404 837,404 837,412 848,412 849,405 860,405 861,413 870,413 870,421 655,419 495,414 182,409" />
+				<Baseline points="182,408 531,414 870,422" />
+				<TextEquiv index="1">
+					<Unicode>den Verkehr zwischen der Stadt und den kleinen in der Nähe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="182,425 239,426 240,420 245,420 245,428 256,428 257,420 269,420 270,428 281,428 282,421 301,423 319,427 343,421 349,421 359,422 359,428 412,426 480,430 481,424 499,424 500,432 518,431 523,425 534,425 563,431 575,432 581,421 583,421 609,432 704,434 790,431 790,438 842,438 843,431 855,431 856,438 870,438 870,448 856,448 682,445 579,445 564,442 516,440 456,440 449,445 430,445 429,439 378,438 377,444 359,444 349,437 206,438 182,435" />
+				<Baseline points="182,435 343,437 870,448" />
+				<TextEquiv index="1">
+					<Unicode>angesiedelten Dynastengeschlechtern, man staunt über den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="195,452 247,452 278,454 279,447 293,447 293,453 318,453 319,447 329,447 347,454 370,454 370,448 381,448 382,454 393,449 405,449 406,456 428,455 454,457 454,450 467,450 469,456 496,451 513,451 514,457 535,457 537,451 549,451 549,458 565,458 574,455 610,452 617,460 627,460 644,453 656,453 663,458 700,455 701,462 740,461 747,457 767,456 767,462 798,460 802,470 825,463 831,463 832,457 843,457 844,463 870,464 870,473 802,476 792,472 791,478 779,478 779,472 496,468 381,464 195,461" />
+				<Baseline points="195,461 870,474" />
+				<TextEquiv index="1">
+					<Unicode>wang, durch welchen der Kurfürst die Stände nöthigt, ihrer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="181,472 204,472 206,479 229,478 231,472 235,472 238,478 262,473 273,473 274,479 303,479 312,485 317,479 355,481 355,474 367,474 369,480 400,475 416,475 416,483 433,481 446,476 458,476 459,482 471,482 503,477 518,477 519,483 534,478 544,478 544,484 635,485 660,481 690,481 690,487 750,488 750,482 762,482 763,488 863,489 870,493 870,496 863,499 814,504 803,504 784,499 585,494 557,499 459,498 458,492 405,491 405,498 400,498 384,491 181,488" />
+				<Baseline points="181,487 870,500" />
+				<TextEquiv index="1">
+					<Unicode>Theilnahme an den freudigen Ereignissen im Schosse der regieren-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="181,498 193,498 201,504 217,504 233,498 251,498 252,505 282,505 285,499 289,499 292,505 307,505 351,500 353,506 375,506 382,501 394,501 403,507 413,507 413,500 418,500 448,503 460,508 470,503 482,503 483,509 516,504 526,504 540,510 605,505 605,511 637,511 637,505 679,506 681,513 698,513 711,507 720,507 721,513 733,508 745,508 746,514 754,514 785,509 816,509 830,515 861,510 871,510 871,526 805,530 796,530 777,525 721,524 720,530 711,530 698,523 639,526 574,526 561,520 492,520 181,514" />
+				<Baseline points="181,514 306,515 871,526" />
+				<TextEquiv index="1">
+					<Unicode>den Familie officiellen Ausdruck zu geben. Im Jahre 1678 wird</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="181,524 193,524 204,524 238,525 244,528 257,531 258,525 319,526 320,534 332,532 356,532 364,527 376,527 378,533 436,534 453,528 464,528 485,532 527,530 527,536 539,536 540,530 552,530 553,536 563,531 574,531 575,537 638,538 651,532 663,532 686,533 694,539 704,534 717,534 719,540 757,540 757,548 779,535 802,535 804,541 837,542 838,536 850,536 861,541 871,542 871,552 815,552 790,551 779,549 757,556 745,556 745,550 686,549 575,552 563,547 464,544 181,540" />
+				<Baseline points="181,540 871,552" />
+				<TextEquiv index="1">
+					<Unicode>die Stadt Chemnitz von Otto Ludwig von Schönburg, Glauchau</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="182,556 207,551 259,551 260,558 270,558 273,552 296,552 299,558 309,553 322,553 324,559 363,559 365,567 389,559 397,554 408,554 418,559 513,556 514,563 525,563 526,557 538,557 538,563 554,563 554,557 577,557 577,563 622,563 647,559 666,559 667,565 693,567 695,560 704,560 721,566 732,566 739,560 754,560 789,561 796,567 827,567 837,565 849,565 871,568 871,578 827,578 796,578 666,575 408,576 408,569 351,572 324,569 182,566" />
+				<Baseline points="182,566 871,578" />
+				<TextEquiv index="1">
+					<Unicode>und Waldenburg, 1679 von Heinrich von Mosel auf Bärenstein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l12" points="183,582 192,582 301,582 344,586 357,587 358,580 370,580 371,587 383,583 395,583 414,586 418,594 443,587 501,582 513,582 525,587 549,587 564,589 585,589 585,582 592,582 615,590 632,590 658,592 660,586 670,586 682,591 711,592 766,593 786,593 807,594 832,595 832,588 842,588 850,591 872,594 872,604 850,604 825,604 809,598 807,604 796,604 754,603 730,603 683,602 660,601 504,600 501,600 467,598 454,597 422,598 418,598 395,596 344,600 333,600 308,595 301,594 267,594 183,593" baseline="183,592 421,596 476,597 631,600 872,604" reason: differs: "zuvatt" against "zu Geva" | Wikisource:  | next_nc_e1: zu vatter gebeten, von letzterem in einem unversiegelten | german_print2_15: zu vatter gebeten, von letzterem in einem unversiegelten -->
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="179,603 192,603 192,609 202,609 203,603 208,603 209,609 224,609 237,604 255,604 256,612 268,610 303,611 304,605 316,605 317,611 329,611 339,613 354,605 371,605 372,612 391,611 432,613 433,607 471,607 523,609 524,616 534,616 535,609 547,609 548,616 576,615 599,617 599,610 605,610 606,616 666,612 691,612 696,618 786,619 794,614 804,614 805,620 826,617 850,621 850,614 862,614 863,622 872,622 872,630 763,630 524,625 523,632 514,632 481,624 412,622 354,624 329,621 209,620 179,618" />
+				<Baseline points="179,618 872,631" />
+				<TextEquiv index="1">
+					<Unicode>Schreiben ohne Unterschrift. Jedem dieser Herren verehrt die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="179,629 191,629 198,633 217,636 218,630 229,630 244,638 263,636 287,631 310,631 310,638 362,636 366,645 388,639 403,639 406,633 439,633 439,639 452,639 480,635 530,635 543,639 649,637 680,643 693,644 748,639 774,639 795,640 804,646 848,641 860,646 871,648 871,653 860,656 748,656 617,653 366,651 321,647 212,646 179,644" />
+				<Baseline points="179,645 871,657" />
+				<TextEquiv index="1">
+					<Unicode>Stadt ein Präsent, welches im letzteren Fall aus 10 Thalern be-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="180,662 205,656 215,656 229,660 232,656 234,656 291,657 291,663 329,665 330,658 344,658 344,664 471,660 471,668 506,665 562,668 562,662 574,662 575,668 587,668 588,662 596,662 618,669 679,664 680,670 692,670 702,665 716,665 722,671 740,669 748,666 783,666 791,672 826,667 872,666 872,683 836,683 668,682 588,679 377,676 180,671" />
+				<Baseline points="180,671 872,683" />
+				<TextEquiv index="1">
+					<Unicode>steht. Bei der ersten Gevatterschaft am kurfürstlichen Hofe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="179,688 211,688 211,682 222,682 238,688 286,690 286,683 300,683 301,690 314,690 328,684 342,684 343,691 353,691 354,685 367,685 369,691 446,692 455,687 468,687 468,693 479,691 493,691 495,701 513,687 525,687 526,695 581,695 583,689 621,689 623,696 644,696 660,690 674,690 674,696 704,697 705,691 718,691 719,698 786,698 800,692 817,692 823,698 871,699 871,709 850,713 837,713 730,712 686,707 623,706 388,706 354,701 335,700 179,697" />
+				<Baseline points="179,697 498,704 871,709" />
+				<TextEquiv index="1">
+					<Unicode>wird nur der Beitrag erwähnt, der auf dem Landtage zu Torgau</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="180,713 187,710 239,709 247,709 247,715 293,716 294,710 306,710 307,717 357,718 460,713 473,713 479,717 516,714 517,721 546,720 563,715 579,715 612,721 648,716 667,716 670,730 687,723 731,723 739,718 753,718 774,724 785,719 816,719 836,725 859,725 861,719 871,719 871,735 698,733 604,736 593,736 550,731 516,730 446,729 333,731 317,725 287,726 180,724" />
+				<Baseline points="180,724 871,735" />
+				<TextEquiv index="1">
+					<Unicode>1601 für die gesammten Stände auf 3101 Fl. normirt wird und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="180,736 184,736 243,736 245,742 294,740 337,742 375,737 386,737 395,738 397,751 416,739 457,745 481,743 491,739 550,741 551,747 584,748 584,741 599,741 600,748 611,748 619,742 635,742 642,748 652,743 699,743 699,749 730,750 731,744 743,744 745,751 754,751 767,745 780,745 787,748 798,750 805,745 818,745 832,752 859,751 860,745 870,745 870,761 799,761 533,756 493,760 468,760 457,756 436,755 180,750" />
+				<Baseline points="180,750 870,761" />
+				<TextEquiv index="1">
+					<Unicode>für Chemnitz 102 Fl. beträgt. Sehr drückend für die Stadt sind</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="178,767 185,761 196,761 198,768 207,768 216,761 228,761 230,767 238,767 245,762 255,762 265,768 277,768 300,763 306,763 306,769 322,767 352,769 360,763 377,763 385,770 427,768 468,772 469,766 475,766 475,772 486,768 509,766 509,774 532,772 533,780 552,773 575,768 585,768 586,774 597,774 597,768 609,768 610,776 619,776 630,768 641,768 642,775 705,775 716,770 750,770 757,776 789,771 800,771 802,777 851,777 864,778 870,781 870,783 864,783 864,792 851,792 827,787 793,792 789,792 757,787 533,785 509,783 435,785 427,781 277,779 178,776" />
+				<Baseline points="178,776 870,788" />
+				<TextEquiv index="1">
+					<Unicode>die drei nächsten Gevatterschaften, welche kurz nach dem dreissig-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="180,793 188,793 197,787 208,787 210,794 218,794 219,788 224,788 224,794 236,794 274,789 299,789 308,795 342,796 355,790 361,790 362,796 374,791 411,791 411,797 423,797 424,791 453,792 478,798 483,792 496,792 498,798 521,793 537,793 538,799 559,799 561,793 574,793 574,800 589,800 598,797 650,795 651,801 663,801 664,795 675,795 676,801 719,796 736,796 737,802 788,803 793,791 805,791 821,800 864,801 864,807 870,807 870,810 864,813 821,813 805,822 793,822 768,818 768,812 676,812 651,810 650,818 641,818 628,811 435,808 319,811 319,805 308,805 299,811 283,811 283,805 236,808 180,806" />
+				<Baseline points="180,803 870,813" />
+				<TextEquiv index="1">
+					<Unicode>jährigen Kriege bei Enkeln des Kurfürsten Johann Georgs I statt-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="179,813 191,813 191,820 202,820 204,814 216,814 216,820 243,820 243,813 245,813 282,824 286,815 304,815 305,823 313,823 334,816 346,816 347,823 398,818 442,818 449,821 502,819 502,825 514,825 514,819 526,819 527,825 572,826 572,820 584,820 585,827 598,827 617,821 633,821 634,827 646,827 647,821 665,821 665,828 685,828 694,825 707,825 727,828 727,821 729,821 766,823 766,829 802,829 818,827 870,830 870,840 790,844 777,844 685,838 282,832 179,829" />
+				<Baseline points="179,829 870,840" />
+				<TextEquiv index="1">
+					<Unicode>haben. Als dem zweiten Sohne des Kurfürsten, August von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="179,840 201,840 202,847 262,847 263,841 274,840 288,840 289,848 298,848 298,855 325,843 337,843 347,847 381,850 381,843 391,843 392,849 403,849 412,843 425,843 425,849 437,844 449,844 450,850 487,851 494,845 505,845 505,851 517,851 517,845 530,845 530,851 555,851 584,847 615,847 629,853 652,854 653,848 659,848 660,854 706,855 706,848 720,848 721,856 731,856 742,849 754,849 761,853 797,850 798,857 821,855 870,855 870,866 833,871 821,871 808,865 762,866 642,863 641,869 629,869 530,866 474,866 461,860 337,863 302,859 179,855" />
+				<Baseline points="179,855 870,866" />
+				<TextEquiv index="1">
+					<Unicode>Weissenfels, 1650 ein Sohn geboren wird, geben die Stände 4000</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l23" points="179,866 204,866 204,873 214,873 215,867 227,867 236,873 248,873 266,874 267,867 279,867 281,875 289,875 303,868 328,868 349,869 350,876 362,875 386,875 417,876 418,870 429,870 430,877 442,876 447,871 466,871 479,877 510,872 526,872 527,880 548,876 561,873 573,873 596,880 603,879 625,879 645,880 659,874 667,874 690,874 695,875 715,879 733,879 740,881 758,881 789,883 789,876 800,876 802,883 855,882 860,876 869,876 869,892 860,892 855,884 811,892 769,893 715,894 697,894 677,890 667,889 645,890 386,891 373,891 373,885 330,885 281,884 191,883 179,882" baseline="179,882 262,883 465,887 479,887 768,891 869,893" reason: differs: "diech" against "ie nach" | Wikisource:  | next_nc_e1: Thaler als Pathengeschenk in Gestalt einer Obligation, die ch | german_print2_15: Thaler als Pathengeschenk in Gestalt einer Obligation, die TCh -->
+			<TextLine id="r2l24" custom="readingOrder {index:24;}">
+				<Coords points="178,896 204,893 222,893 224,899 248,899 268,897 306,902 308,895 318,895 320,901 344,901 351,895 362,895 363,902 375,902 385,899 391,899 442,903 442,897 454,897 461,903 477,903 513,898 525,898 527,911 548,899 564,899 566,905 622,905 622,899 628,899 629,907 672,901 684,901 702,905 772,908 772,902 786,902 787,909 796,909 803,903 816,903 828,908 869,908 869,918 835,918 828,924 816,924 816,914 796,918 723,923 723,917 352,912 344,916 332,916 308,911 178,908" />
+				<Baseline points="178,908 869,919" />
+				<TextEquiv index="1">
+					<Unicode>6 Monaten eingelöst werden soll. Ausserdem betragen die Spesen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l25" custom="readingOrder {index:25;}">
+				<Coords points="178,920 226,927 232,919 244,919 245,926 255,926 271,920 286,920 287,928 299,924 313,924 324,927 380,922 392,922 393,929 412,929 425,923 438,923 470,929 470,923 482,923 483,930 507,925 591,925 592,931 604,926 616,926 618,932 631,932 631,939 651,926 676,927 677,934 732,933 756,935 756,928 769,928 769,934 795,929 808,929 826,935 827,928 838,928 846,932 868,934 868,945 859,945 709,943 677,937 676,943 631,944 603,942 570,944 533,941 178,934" />
+				<Baseline points="178,934 868,945" />
+				<TextEquiv index="1">
+					<Unicode>für die Vertreter der Stände 600 Thaler, die von den Städten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l26" custom="readingOrder {index:26;}">
+				<Coords points="177,945 189,945 190,951 283,952 306,953 326,956 326,948 344,948 354,954 363,948 390,948 391,955 408,955 409,948 421,948 422,956 476,956 476,950 520,950 521,958 532,956 543,951 555,951 556,957 628,958 628,952 640,952 641,958 671,953 697,953 697,959 722,954 733,954 734,964 756,960 779,960 780,954 818,954 819,966 830,966 830,960 854,961 855,955 867,955 867,971 697,970 622,968 605,974 593,974 592,968 363,965 354,956 349,964 275,963 269,956 261,963 177,961" />
+				<Baseline points="177,961 867,971" />
+				<TextEquiv index="1">
+					<Unicode>des engeren Ausschusses auf Rechnung der Trank- und Land-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l27" custom="readingOrder {index:27;}">
+				<Coords points="176,979 186,975 217,978 291,979 324,974 335,974 336,980 365,981 435,981 435,975 447,975 455,982 490,977 502,977 514,982 566,983 583,979 623,978 625,985 680,985 682,979 718,980 719,986 768,984 802,985 839,980 867,981 867,997 810,997 803,997 523,993 464,995 422,992 357,990 335,990 279,994 271,989 186,988 176,986" />
+				<Baseline points="176,987 867,997" />
+				<TextEquiv index="1">
+					<Unicode>steuer vorgeschossen werden; davon entfallen auf Chemnitz 100 Thl.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l28" custom="readingOrder {index:28;}">
+				<Coords points="178,997 183,997 199,999 200,1005 275,1003 287,1007 297,1001 320,1000 327,1006 364,1004 386,1007 406,1007 406,1001 417,1001 418,1008 432,1002 472,1002 472,1009 483,1009 484,1003 516,1003 517,1010 566,1010 566,1004 587,1004 609,1007 653,1005 653,1011 665,1006 676,1006 688,1011 718,1012 718,1006 730,1006 731,1012 743,1012 756,1006 772,1006 773,1012 794,1012 795,1006 809,1006 816,1013 824,1010 839,1010 867,1013 867,1025 857,1025 839,1023 589,1021 178,1013" />
+				<Baseline points="178,1013 867,1024" />
+				<TextEquiv index="1">
+					<Unicode>Die zweite Gevatterschaft bei dem dritten Sohne des Kurfürsten,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l29" custom="readingOrder {index:29;}">
+				<Coords points="176,1025 188,1024 204,1024 205,1030 230,1028 238,1025 249,1025 257,1031 312,1032 321,1026 346,1026 348,1033 371,1033 378,1028 389,1028 402,1033 441,1031 452,1029 496,1029 506,1037 533,1036 533,1030 549,1030 551,1037 576,1037 576,1030 589,1030 590,1038 614,1038 614,1031 620,1031 622,1037 652,1035 662,1039 672,1032 688,1032 695,1038 708,1032 726,1032 726,1038 758,1033 793,1033 794,1039 861,1040 867,1044 867,1046 861,1050 848,1050 848,1056 828,1056 822,1050 793,1049 527,1046 491,1050 473,1050 441,1047 428,1050 416,1050 416,1044 193,1040 188,1027 182,1038 176,1038" />
+				<Baseline points="176,1040 867,1050" />
+				<TextEquiv index="1">
+					<Unicode>Christian von Merseburg (1653), sowie die dritte bei dem Schwieger-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l30" custom="readingOrder {index:30;}">
+				<Coords points="176,1057 196,1056 197,1050 209,1050 210,1057 251,1059 251,1051 266,1051 266,1058 278,1058 290,1052 314,1052 320,1058 330,1053 343,1053 350,1059 368,1056 399,1059 399,1067 418,1054 448,1055 448,1061 459,1061 460,1055 472,1055 473,1061 499,1061 500,1055 566,1056 567,1064 578,1064 579,1057 584,1057 585,1063 602,1063 618,1057 634,1057 649,1064 683,1064 701,1067 701,1058 717,1058 725,1061 757,1059 769,1064 806,1061 834,1063 866,1061 866,1078 861,1081 843,1081 812,1081 776,1081 775,1075 399,1072 314,1069 300,1072 290,1072 251,1068 176,1065" />
+				<Baseline points="176,1066 866,1076" />
+				<TextEquiv index="1">
+					<Unicode>sohne des Kurfürsten, Friedrich Wilhelm II von Altenburg (1656),</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l31" points="176,1076 186,1076 188,1082 200,1082 210,1080 216,1080 259,1084 261,1078 274,1078 274,1084 296,1079 309,1079 316,1082 334,1085 335,1079 347,1079 365,1080 367,1087 389,1085 424,1080 448,1080 460,1081 462,1087 489,1086 511,1082 528,1082 529,1088 555,1085 579,1083 603,1083 603,1097 629,1084 652,1084 653,1091 664,1090 679,1090 696,1085 715,1085 738,1090 796,1086 807,1086 820,1087 844,1092 866,1092 866,1102 766,1102 696,1101 679,1094 679,1100 663,1101 653,1101 629,1100 579,1099 521,1098 511,1096 498,1103 489,1103 475,1097 410,1101 389,1101 365,1098 361,1098 309,1095 261,1094 216,1093 210,1093 186,1092 176,1092" baseline="176,1092 255,1093 497,1097 565,1098 866,1102" reason: second model: differs: "lr.-7Gr" against "r. 7 Gr" | Wikisource: kosten der Stadt je 33 Thlr. 7 Gr. 6 Pf. Diese Summen können | next_nc_e1: kosten der Stadt je 33 Thlr. 7 Gr. 6 Pf. Diese Summen können | german_print2_15: kosten der Stadt je 33 Thlr.-7 Gr. 6 Pf. Diese Summen können -->
+			<TextLine id="r2l32" custom="readingOrder {index:32;}">
+				<Coords points="175,1108 234,1104 247,1104 296,1104 324,1105 343,1111 372,1106 388,1106 405,1107 444,1113 444,1107 456,1107 481,1114 504,1114 509,1108 529,1108 537,1115 624,1110 636,1113 749,1111 756,1112 758,1119 865,1117 865,1128 857,1133 835,1133 768,1128 547,1127 504,1124 396,1123 388,1127 372,1127 343,1122 175,1118" />
+				<Baseline points="175,1119 865,1129" />
+				<TextEquiv index="1">
+					<Unicode>nur mit Mühe aufgebracht werden, in letzterem Falle von 442</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l33" custom="readingOrder {index:33;}">
+				<Coords points="174,1130 185,1129 195,1129 196,1135 207,1132 243,1130 251,1136 345,1132 383,1133 389,1136 436,1139 463,1137 473,1139 496,1140 536,1140 561,1136 598,1135 653,1137 720,1137 738,1138 749,1143 768,1144 769,1138 780,1138 781,1145 807,1143 865,1144 865,1158 854,1159 835,1159 807,1156 653,1152 561,1152 174,1144" />
+				<Baseline points="174,1144 370,1148 865,1154" />
+				<TextEquiv index="1">
+					<Unicode>Contribuenten in Steuersätzen von 6 Pf. bis 16 Groschen; 449</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l34" custom="readingOrder {index:34;}">
+				<Coords points="173,1155 186,1155 192,1158 238,1162 276,1162 302,1158 314,1158 314,1164 365,1164 405,1159 405,1172 418,1165 428,1165 429,1159 472,1160 473,1166 494,1161 506,1161 506,1167 517,1167 518,1161 522,1161 538,1167 559,1162 570,1162 580,1168 590,1168 591,1162 602,1162 603,1168 637,1163 671,1162 680,1163 680,1176 697,1169 722,1164 782,1164 784,1170 797,1170 830,1165 831,1171 864,1171 864,1181 825,1181 405,1176 365,1180 348,1180 348,1174 205,1172 173,1170" />
+				<Baseline points="173,1171 864,1181" />
+				<TextEquiv index="1">
+					<Unicode>Steuersätze bewegen sich hierbei zwischen 6 Pf. und 6 Groschen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l35" custom="readingOrder {index:35;}">
+				<Coords points="174,1181 196,1181 197,1188 208,1188 224,1182 228,1182 249,1186 272,1185 277,1190 291,1184 316,1184 316,1190 359,1188 400,1191 400,1185 412,1185 412,1191 424,1191 426,1185 434,1185 440,1189 441,1199 463,1186 475,1186 475,1193 525,1193 533,1188 568,1188 569,1195 588,1194 601,1188 620,1188 621,1195 643,1195 657,1189 674,1189 674,1196 691,1195 700,1190 719,1190 762,1196 773,1196 773,1190 784,1190 785,1197 829,1197 830,1191 842,1191 842,1197 864,1197 864,1207 762,1205 744,1211 732,1211 674,1206 441,1205 400,1202 299,1200 272,1198 174,1197" />
+				<Baseline points="174,1197 444,1202 864,1207" />
+				<TextEquiv index="1">
+					<Unicode>Die letzte Gevatterschaft, bei welcher dem Täufling wie schon</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l36" custom="readingOrder {index:36;}">
+				<Coords points="172,1207 178,1207 179,1213 192,1208 201,1208 216,1215 222,1215 223,1208 237,1208 237,1214 269,1215 269,1208 275,1208 330,1216 344,1210 368,1210 374,1217 397,1215 421,1215 442,1217 448,1212 459,1212 459,1218 477,1218 479,1212 491,1212 505,1219 530,1214 549,1214 556,1220 597,1214 607,1214 609,1221 634,1221 634,1215 646,1215 653,1221 732,1221 743,1223 744,1216 755,1216 786,1222 829,1223 829,1217 844,1217 844,1223 863,1223 863,1236 853,1236 844,1234 802,1233 634,1232 518,1229 518,1235 505,1235 491,1229 373,1227 368,1229 355,1229 172,1222" />
+				<Baseline points="172,1222 490,1229 863,1233" />
+				<TextEquiv index="1">
+					<Unicode>bei der dritten Gevatterschaft goldene Geschirre verehrt wurden,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l37" custom="readingOrder {index:37;}">
+				<Coords points="172,1233 183,1233 185,1239 197,1234 209,1234 227,1237 312,1236 312,1243 323,1243 324,1237 356,1237 357,1244 376,1243 388,1237 406,1237 406,1243 429,1244 431,1238 440,1238 440,1245 448,1245 460,1238 470,1238 471,1245 482,1245 483,1239 495,1239 495,1245 548,1240 564,1240 568,1246 609,1247 623,1241 648,1241 668,1243 725,1241 812,1243 813,1249 825,1249 834,1247 863,1249 863,1260 753,1258 725,1264 723,1264 715,1260 701,1258 678,1258 668,1264 662,1264 648,1257 601,1257 601,1263 588,1263 588,1257 495,1256 471,1254 470,1261 460,1261 448,1255 172,1249" />
+				<Baseline points="172,1249 863,1260" />
+				<TextEquiv index="1">
+					<Unicode>findet statt bei der Taufe Johann Georgs IV (1668). Die Kosten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l38" custom="readingOrder {index:38;}">
+				<Coords points="171,1265 180,1260 186,1260 231,1260 231,1266 264,1267 264,1261 277,1261 284,1267 294,1267 321,1263 350,1263 372,1269 439,1271 439,1265 450,1265 456,1270 483,1271 483,1281 450,1280 440,1281 432,1286 409,1286 395,1286 395,1280 187,1276 171,1274" />
+				<Baseline points="171,1276 483,1281" />
+				<TextEquiv index="1">
+					<Unicode>sind hierbei nicht angegeben.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l39" custom="readingOrder {index:39;}">
+				<Coords points="197,1291 224,1291 224,1304 241,1292 254,1292 256,1298 289,1298 304,1294 321,1294 327,1301 411,1296 436,1303 453,1296 466,1296 466,1302 522,1303 522,1297 603,1298 603,1304 621,1298 635,1298 635,1304 702,1299 702,1305 747,1307 748,1300 759,1300 759,1306 771,1306 792,1300 809,1300 812,1306 833,1306 833,1300 854,1300 855,1310 861,1310 861,1312 854,1316 792,1317 773,1310 771,1316 677,1314 663,1320 651,1320 651,1314 511,1314 197,1307" />
+				<Baseline points="197,1307 435,1312 861,1316" />
+				<TextEquiv index="1">
+					<Unicode>Dr. Sammler machte darnach Mittheilung über eine Hand-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l40" custom="readingOrder {index:40;}">
+				<Coords points="144,1323 167,1322 172,1316 184,1316 189,1323 202,1318 227,1316 230,1316 255,1324 284,1325 296,1327 322,1320 335,1320 339,1327 372,1327 397,1321 421,1321 421,1328 456,1328 465,1323 488,1323 494,1330 500,1327 571,1330 576,1324 588,1324 638,1327 770,1326 774,1332 836,1330 859,1332 859,1344 847,1344 653,1341 397,1341 322,1336 144,1332" />
+				<Baseline points="144,1332 371,1337 859,1343" />
+				<TextEquiv index="1">
+					<Unicode>schrift aus dem Benedictinerkloster zu Chemnitz,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l41" custom="readingOrder {index:41;}">
+				<Coords points="143,1349 150,1349 150,1342 162,1342 163,1349 173,1349 185,1343 192,1343 212,1346 296,1345 296,1351 307,1346 323,1346 331,1349 380,1347 380,1353 400,1354 414,1348 476,1349 508,1355 521,1349 542,1349 557,1350 558,1356 631,1353 641,1351 679,1351 687,1357 707,1352 719,1352 719,1358 731,1358 731,1352 835,1352 835,1358 859,1358 859,1364 849,1368 783,1369 580,1367 530,1369 521,1366 488,1365 488,1371 475,1371 475,1365 460,1365 460,1371 447,1371 447,1365 290,1363 185,1365 173,1358 143,1358" />
+				<Baseline points="143,1358 414,1364 859,1369" />
+				<TextEquiv index="1">
+					<Unicode>die jetzt im Besitze der Leipziger Universitätsbibliothek ist. Die-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Dr. Preil sprach über die Gevatterschaften der Stadt
+Chemnitz am kursächsischen Hofe.
+Diese Gevatterschaften gewähren einen nicht uninteressanten
+Einblick in die culturgeschichtlichen Verhältnisse des 17. Jahr-
+hunderts. Man bemerkt einen naiven, an das Komische streifen-
+den Verkehr zwischen der Stadt und den kleinen in der Nähe
+angesiedelten Dynastengeschlechtern, man staunt über den
+wang, durch welchen der Kurfürst die Stände nöthigt, ihrer
+Theilnahme an den freudigen Ereignissen im Schosse der regieren-
+den Familie officiellen Ausdruck zu geben. Im Jahre 1678 wird
+die Stadt Chemnitz von Otto Ludwig von Schönburg, Glauchau
+und Waldenburg, 1679 von Heinrich von Mosel auf Bärenstein
+Schreiben ohne Unterschrift. Jedem dieser Herren verehrt die
+Stadt ein Präsent, welches im letzteren Fall aus 10 Thalern be-
+steht. Bei der ersten Gevatterschaft am kurfürstlichen Hofe
+wird nur der Beitrag erwähnt, der auf dem Landtage zu Torgau
+1601 für die gesammten Stände auf 3101 Fl. normirt wird und
+für Chemnitz 102 Fl. beträgt. Sehr drückend für die Stadt sind
+die drei nächsten Gevatterschaften, welche kurz nach dem dreissig-
+jährigen Kriege bei Enkeln des Kurfürsten Johann Georgs I statt-
+haben. Als dem zweiten Sohne des Kurfürsten, August von
+Weissenfels, 1650 ein Sohn geboren wird, geben die Stände 4000
+6 Monaten eingelöst werden soll. Ausserdem betragen die Spesen
+für die Vertreter der Stände 600 Thaler, die von den Städten
+des engeren Ausschusses auf Rechnung der Trank- und Land-
+steuer vorgeschossen werden; davon entfallen auf Chemnitz 100 Thl.
+Die zweite Gevatterschaft bei dem dritten Sohne des Kurfürsten,
+Christian von Merseburg (1653), sowie die dritte bei dem Schwieger-
+sohne des Kurfürsten, Friedrich Wilhelm II von Altenburg (1656),
+nur mit Mühe aufgebracht werden, in letzterem Falle von 442
+Contribuenten in Steuersätzen von 6 Pf. bis 16 Groschen; 449
+Steuersätze bewegen sich hierbei zwischen 6 Pf. und 6 Groschen.
+Die letzte Gevatterschaft, bei welcher dem Täufling wie schon
+bei der dritten Gevatterschaft goldene Geschirre verehrt wurden,
+findet statt bei der Taufe Johann Georgs IV (1668). Die Kosten
+sind hierbei nicht angegeben.
+Dr. Sammler machte darnach Mittheilung über eine Hand-
+schrift aus dem Benedictinerkloster zu Chemnitz,
+die jetzt im Besitze der Leipziger Universitätsbibliothek ist. Die-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r3">
+			<Coords points="956,703 969,703 969,1412 956,1412" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r4">
+			<Coords points="956,703 972,703 972,1412 956,1412" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r5">
+			<Coords points="957,703 971,703 971,1412 957,1412" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r6">
+			<Coords points="954,703 972,703 972,1486 954,1486" />
+		</SeparatorRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="397,1549 654,1549 654,1561 397,1561" />
+			<!-- line left out: id="r7l0" points="397,1549 405,1549 411,1549 422,1549 437,1549 446,1549 459,1549 472,1549 502,1549 557,1549 574,1549 643,1549 654,1550 654,1558 574,1560 455,1561 446,1561 422,1561 410,1561 397,1558" baseline="397,1558 654,1558" reason: differs: "hnpu" against "selb" | Wikisource:  | next_nc_e1: hnpuldigital slub-dresden delppn30125964216
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="0,0 986,0 986,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Dr. Preil sprach über die
+Gevatterschaften der Stadt Chemnitz am kursächsischen Hofe.
+⟦⟧
+Diese Gevatterschaften gewähren einen nicht uninteressanten
+Einblick in die culturgeschichtlichen Verhältnisse des 17.
+Jahrhunderts. Man bemerkt einen naiven, an das Komische
+streifenden Verkehr zwischen der Stadt und den kleinen in der Nähe
+angesiedelten Dynastengeschlechtern, man staunt über den
+Zwang, durch welchen der Kurfürst die Stände nöthigt, ihrer
+Theilnahme an den freudigen Ereignissen im Schosse der
+regierenden Familie officiellen Ausdruck zu geben. Im Jahre 1678 wird
+die Stadt Chemnitz von Otto Ludwig von Schönburg, Glauchau
+und Waldenburg, 1679 von Heinrich von Mosel auf Bärenstein
+zu Gevatter gebeten, von letzterem in einem unversiegelten
+Schreiben ohne Unterschrift. Jedem dieser Herren verehrt die
+Stadt ein Präsent, welches im letzteren Fall aus 10 Thalern
+besteht. Bei der ersten Gevatterschaft am kurfürstlichen Hofe
+wird nur der Beitrag erwähnt, der auf dem Landtage zu Torgau
+1601 für die gesammten Stände auf 3101 Fl. normirt wird und
+für Chemnitz 102 Fl. beträgt. Sehr drückend für die Stadt sind
+die drei nächsten Gevatterschaften, welche kurz nach dem
+dreissigjährigen Kriege bei Enkeln des Kurfürsten Johann Georgs I
+statthaben. Als dem zweiten Sohne des Kurfürsten, August von
+Weissenfels, 1650 ein Sohn geboren wird, geben die Stände 4000
+Thaler als Pathengeschenk in Gestalt einer Obligation, die nach
+6 Monaten eingelöst werden soll. Ausserdem betragen die Spesen
+für die Vertreter der Stände 600 Thaler, die von den Städten
+des engeren Ausschusses auf Rechnung der Trank- und
+Landsteuer vorgeschossen werden; davon entfallen auf Chemnitz 100 Thl.
+Die zweite Gevatterschaft bei dem dritten Sohne des Kurfürsten,
+Christian von Merseburg (1653), sowie die dritte bei dem
+Schwiegersohne des Kurfürsten, Friedrich Wilhelm II von Altenburg (1656),
+kosten der Stadt je 33 Thlr. 7 Gr. 6 Pf. Diese Summen können
+nur mit Mühe aufgebracht werden, in letzterem Falle von 442
+Contribuenten in Steuersätzen von 6 Pf. bis 16 Groschen; 449
+Steuersätze bewegen sich hierbei zwischen 6 Pf. und 6 Groschen.
+Die letzte Gevatterschaft, bei welcher dem Täufling wie schon
+bei der dritten Gevatterschaft goldene Geschirre verehrt wurden,
+findet statt bei der Taufe Johann Georgs IV (1668). Die Kosten
+sind hierbei nicht angegeben.
+⟦⟧
+Dr. Sammler machte darnach Mittheilung über eine
+Handschrift aus dem Benedictinerkloster zu Chemnitz,
+die jetzt im Besitze der Leipziger Universitätsbibliothek ist.
+Dieselbe
+-->
+	</Page>
+</PcGts>

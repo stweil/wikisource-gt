@@ -1,0 +1,371 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:55:24</Created>
+		<LastChange>2026-11-23T13:55:24</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/193 revision 5068275 of 2026-10-01T22:52:02Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0193.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro5110430143843647653" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="415,152 500,152 500,169 415,169" />
+			<!-- line left out: id="r0l0" points="415,153 427,152 451,152 478,162 500,162 500,163 478,163 451,169 422,169 415,169" baseline="415,169 500,169" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 183 —
+ | german_print2_15: 183 —
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="77,208 787,208 787,750 77,750" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="80,216 107,216 125,218 132,210 167,210 170,222 190,209 196,209 198,218 211,215 327,215 327,222 348,215 447,216 462,209 473,209 475,215 555,215 580,213 620,215 633,214 657,209 669,209 671,215 682,215 701,209 713,208 726,208 726,215 786,215 786,226 701,225 683,218 682,224 237,225 167,227 153,227 143,225 103,225 91,221 89,227 80,227" />
+				<Baseline points="80,225 786,225" />
+				<TextEquiv index="1">
+					<Unicode>gerechten Lohn erlangt; nur möge ihn nie verführen die Meinung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="79,238 90,238 110,243 129,235 162,235 165,241 184,241 185,248 206,245 213,235 224,235 225,243 253,241 271,238 306,238 314,240 353,238 400,241 422,244 426,235 431,235 439,244 452,244 459,235 464,235 488,241 520,242 534,235 545,235 548,241 563,242 577,235 600,235 604,241 667,242 667,234 679,234 687,241 693,241 709,235 763,235 765,241 775,241 782,248 785,248 785,250 577,251 563,245 557,249 545,250 370,253 353,253 337,253 327,251 306,253 294,253 281,251 79,251" />
+				<Baseline points="79,251 785,250" />
+				<TextEquiv index="1">
+					<Unicode>des Volks, die unbeständig wechselt wie die Hörner der Phoebe.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l2" points="80,262 90,262 96,269 103,268 133,264 138,264 161,264 182,264 223,264 253,262 258,262 292,268 299,262 310,262 326,266 352,266 352,276 367,267 374,266 384,266 408,268 410,274 433,270 445,267 464,267 471,269 477,262 482,262 495,265 628,267 630,261 673,261 681,267 738,267 758,268 759,261 776,261 777,267 786,267 786,277 738,277 693,277 647,276 617,277 471,277 413,278 410,278 402,277 372,277 355,278 329,278 310,276 258,276 223,278 202,278 182,278 161,278 133,278 103,277 90,276 80,276" baseline="80,276 786,276" reason: differs: "terundS" against "er Blic" | Wikisource:  | next_nc_e1: Von göttlicher Gewalt ergriffen, erhebt er  und Sinn zu den | german_print2_15: Von göttlicher Gewalt ergriffen, erhebt er k und Sinn zu den -->
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="79,291 90,288 100,288 122,292 173,293 185,287 208,287 209,296 215,296 226,288 241,288 286,294 344,293 346,287 362,287 377,296 385,292 401,293 408,295 414,288 469,294 476,296 481,288 491,288 505,294 513,287 523,287 526,294 598,293 617,295 618,287 630,287 631,293 643,293 658,287 663,287 683,287 690,291 741,294 764,293 771,287 780,287 780,303 742,302 741,308 729,308 723,303 663,302 79,302" />
+				<Baseline points="79,303 780,303" />
+				<TextEquiv index="1">
+					<Unicode>Gestirnen des Himmels und strebt nach oben wie der blitztragende</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="80,315 119,315 148,322 154,313 165,313 167,320 179,320 193,313 200,313 203,319 234,318 244,313 257,313 314,313 315,319 344,319 344,313 354,313 354,319 367,319 375,314 405,314 408,320 451,319 465,313 479,313 485,319 507,319 508,313 545,313 553,319 565,319 580,313 602,313 602,319 614,314 625,314 635,319 636,313 647,313 648,319 691,313 703,313 704,320 754,317 787,319 787,329 295,329 265,335 257,335 244,335 244,328 232,329 220,334 215,334 203,329 200,335 193,335 179,326 165,329 80,330" />
+				<Baseline points="80,329 787,329" />
+				<TextEquiv index="1">
+					<Unicode>Adler des Jupiter. Ein furchtbarer Feind der Wahrheit, der unter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l5" points="79,340 90,340 92,346 103,346 149,344 154,344 185,340 199,340 210,345 222,346 225,340 258,339 261,339 269,345 292,345 299,347 312,345 317,345 332,348 340,339 345,339 363,340 376,345 395,344 406,344 408,353 429,346 434,346 445,344 467,340 478,340 479,349 491,345 511,341 528,340 532,340 535,346 544,346 552,345 573,340 577,340 671,339 683,339 690,347 702,345 715,345 723,339 733,339 749,345 780,345 786,349 786,351 780,355 733,355 702,355 683,354 668,355 571,357 552,357 544,353 532,355 526,356 511,356 478,355 434,355 411,356 408,356 351,355 317,355 299,355 261,356 258,356 185,355 178,347 165,355 134,355 103,355 79,355" baseline="79,355 613,354 660,354 786,355" reason: differs: "aubÜber" against "aube. Ü" | Wikisource:  | next_nc_e1: ihrem Gewande einherschleicht, ist der Aberglaub Überall ver- | german_print2_15: ihrem Gewande einherschleicht, ist der Aberglaub- UÜberall ver- -->
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="79,374 88,372 123,370 236,373 257,365 281,365 282,373 305,370 348,371 356,366 372,366 391,374 403,371 444,370 468,366 483,366 486,372 533,372 541,366 588,371 589,365 654,365 677,365 719,365 740,365 742,372 777,371 784,379 786,379 786,382 641,381 442,383 432,383 427,375 419,381 88,381 79,377" />
+				<Baseline points="79,381 786,381" />
+				<TextEquiv index="1">
+					<Unicode>sucht er seine Macht und erregt Himmel und Hölle. Schaue,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l7" points="79,392 100,392 102,400 113,398 124,398 136,402 144,391 148,391 183,392 205,396 217,398 226,400 230,405 251,391 261,391 264,397 267,397 321,398 322,391 338,391 340,398 362,391 373,391 375,397 402,397 482,398 497,392 508,392 516,399 528,399 543,392 566,392 572,398 579,392 583,392 585,400 596,400 596,392 627,391 648,391 669,392 669,399 680,397 695,397 720,396 725,396 762,397 773,396 785,396 785,407 719,409 703,409 695,407 655,407 648,409 634,409 514,407 391,408 375,408 298,407 277,403 264,401 261,407 230,408 226,408 205,407 192,407 183,406 148,407 100,407 89,408 79,408" baseline="79,407 785,407" reason: differs: "msendes" against " Felsen" | Wikisource:  | next_nc_e1: Freund Gottes, hin nach dem sen des Heils. Unbesiegt wirst | german_print2_15: Freund Gottes, hin nach dem sen des Heils. Unbesiegt wirst -->
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="79,418 90,418 92,424 126,422 151,424 153,418 164,418 165,426 176,423 210,423 218,417 234,417 248,432 253,422 346,423 351,427 358,418 368,418 389,430 434,424 436,418 462,418 462,430 478,418 484,418 497,426 502,418 515,418 516,426 527,418 538,418 553,424 564,424 566,418 571,418 573,425 598,423 644,423 645,417 656,417 658,423 715,424 748,422 785,422 785,433 679,435 667,435 597,433 436,433 434,426 393,433 346,433 301,435 267,435 248,435 164,432 79,433" />
+				<Baseline points="79,433 785,433" />
+				<TextEquiv index="1">
+					<Unicode>du sterben und glaubt auch der Feind dich überwunden, so ertönt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l9" points="78,444 89,444 90,452 101,452 113,449 141,444 145,444 148,451 165,449 188,443 199,443 201,451 212,449 222,449 246,449 257,450 277,444 293,444 297,451 305,451 307,444 350,443 360,443 365,450 394,450 396,457 415,444 418,444 465,450 481,450 534,450 567,444 570,444 581,449 590,444 605,444 619,452 631,450 640,445 644,445 647,451 657,451 659,444 670,444 671,450 685,447 691,447 713,450 714,444 731,444 747,452 753,444 765,444 766,450 776,450 777,444 786,444 786,460 765,460 691,460 685,460 670,459 657,460 640,460 605,459 581,460 493,461 483,461 476,460 465,460 415,447 400,459 284,459 199,459 122,459 89,459 78,459" baseline="78,459 619,459 786,460" reason: differs: "umplang" against "umphges" | Wikisource:  | next_nc_e1: doch bei deinem Tode Triumpl ang und froh erhebst du dich | german_print2_15: doch bei deinem Tode Triumpf ang und froh erhebst du dich -->
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="78,479 87,476 97,476 112,469 123,469 125,478 136,475 196,476 212,469 218,469 228,478 257,475 297,478 299,470 309,470 317,476 323,476 339,470 399,470 401,477 424,475 479,477 490,475 505,475 525,470 562,470 564,476 583,470 596,470 597,476 629,476 642,470 654,470 656,478 673,479 689,470 710,470 714,478 723,478 724,470 735,470 759,474 786,476 786,486 660,485 629,488 618,488 567,486 164,484 78,486" />
+				<Baseline points="78,485 339,484 786,486" />
+				<TextEquiv index="1">
+					<Unicode>zu der vom Lichte der Wahrheit umstrahlten Burg des Höchsten.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="79,496 152,502 172,495 183,495 185,501 196,501 210,504 217,496 243,495 249,495 265,499 278,496 295,496 296,504 308,496 333,502 350,502 352,496 382,495 398,495 404,504 415,504 422,496 462,496 465,503 495,501 540,502 545,506 553,497 663,504 664,496 680,496 687,502 779,502 786,506 786,508 779,512 711,515 699,515 644,512 465,512 458,499 439,512 79,511" />
+				<Baseline points="79,511 786,512" />
+				<TextEquiv index="1">
+					<Unicode>Dorthin durch Dunkel und Nacht lasst auch uns zu dringen ver-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l12" custom="readingOrder {index:12;}">
+				<Coords points="79,531 87,528 143,528 145,535 171,522 256,522 258,529 267,529 268,521 274,521 276,527 285,527 294,521 296,521 335,528 378,529 380,522 424,523 432,528 444,523 454,523 469,531 476,522 486,522 488,529 500,529 511,522 517,522 533,525 534,531 545,522 550,522 564,527 627,528 629,522 640,522 661,530 673,530 673,522 685,522 686,528 708,529 719,523 735,523 786,528 786,538 697,538 646,538 616,538 533,538 454,538 432,538 399,538 245,536 209,529 195,537 87,537 79,534" />
+				<Baseline points="79,537 335,536 786,538" />
+				<TextEquiv index="1">
+					<Unicode>suchen. Im 7. Gedichte wendet sich der Dichter nicht ohne Humor</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l13" custom="readingOrder {index:13;}">
+				<Coords points="78,555 133,554 153,557 154,548 165,548 167,557 192,547 197,547 207,554 232,548 246,548 246,556 270,552 301,554 321,548 332,548 334,556 351,554 363,548 378,548 384,553 403,554 404,548 416,548 417,556 437,553 469,555 469,548 538,548 540,555 588,554 600,549 611,549 650,554 751,553 763,556 764,549 775,549 776,555 786,555 786,564 711,564 680,566 658,566 650,564 522,565 332,563 165,563 78,565" />
+				<Baseline points="78,563 786,564" />
+				<TextEquiv index="1">
+					<Unicode>gegen die Eitelkeit in der Kleidertracht. Niemand möge in eitelm</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l14" custom="readingOrder {index:14;}">
+				<Coords points="77,578 118,578 125,580 209,580 210,574 244,574 254,583 272,578 284,578 291,587 297,580 342,580 376,583 378,574 389,574 396,580 428,574 438,574 447,581 457,581 470,575 504,575 505,584 523,581 537,575 552,575 553,581 575,581 579,574 590,574 636,575 641,581 695,581 696,575 775,575 777,581 786,581 786,591 619,589 590,597 588,597 588,590 553,591 552,597 537,597 523,590 447,592 428,589 337,590 77,588" />
+				<Baseline points="77,589 786,591" />
+				<TextEquiv index="1">
+					<Unicode>Stolze einherschreiten wie der Vogel der Juno! Was rühmst du</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l15" points="78,609 84,605 95,605 118,605 120,613 138,609 146,608 161,600 169,600 177,606 188,606 240,606 240,600 242,600 263,608 269,600 279,600 287,612 299,611 305,609 317,606 320,606 348,607 350,601 354,601 367,606 373,610 380,600 391,600 397,601 400,607 410,607 417,601 422,601 429,609 440,606 462,601 477,601 487,607 506,607 534,602 539,602 552,607 560,601 572,601 573,607 608,607 639,608 640,600 651,600 653,607 665,607 679,601 690,601 708,601 709,607 720,607 761,607 786,607 786,617 777,617 761,616 720,617 608,619 598,619 552,617 533,617 520,617 509,616 506,622 492,622 483,615 477,616 428,616 367,616 348,617 338,617 303,616 299,616 263,615 242,622 240,622 232,617 205,616 196,616 177,615 169,622 161,622 148,612 123,616 120,616 95,615 84,615 78,614" baseline="78,615 319,615 754,616 786,617" reason: differs: "h,oοJün" against " o Jüng" | Wikisource:  | next_nc_e1: dich, oο Jüngling, deiner glücklichen Körperbildung oder deines von | german_print2_15: dich, o Jüngling, deiner glücklichen Körperbildung oder deines von -->
+			<TextLine id="r1l16" custom="readingOrder {index:16;}">
+				<Coords points="78,629 89,629 101,632 109,626 121,626 122,634 133,632 200,630 234,632 250,630 312,632 314,626 324,626 342,632 403,627 405,635 417,633 433,633 446,627 463,627 468,633 486,631 536,631 545,633 579,631 597,633 612,627 634,627 634,633 661,633 670,635 713,633 714,627 726,627 728,633 761,635 762,627 774,627 776,635 786,635 786,639 774,642 736,643 545,643 478,648 468,648 463,642 454,642 454,648 446,648 433,642 250,647 234,642 212,642 200,638 198,647 193,647 191,638 179,641 90,641 78,636" />
+				<Baseline points="78,641 786,642" />
+				<TextEquiv index="1">
+					<Unicode>Salben tropfenden und mit dem Zopf gezierten Haars, oder des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l17" custom="readingOrder {index:17;}">
+				<Coords points="79,652 89,652 99,658 151,658 151,652 162,652 170,658 210,655 214,660 221,652 232,652 234,658 328,658 335,652 340,652 361,660 367,653 377,653 385,659 391,659 410,667 419,667 422,653 426,653 433,660 490,659 491,653 502,653 509,659 550,653 580,653 582,659 592,659 594,653 612,653 614,659 676,661 677,653 688,653 695,659 702,659 722,653 740,653 741,659 774,660 774,667 649,672 639,672 625,669 539,670 433,668 422,655 419,670 210,667 79,667" />
+				<Baseline points="79,667 774,668" />
+				<TextEquiv index="1">
+					<Unicode>klirrenden Schwerts und der glänzenden Umhüllung der Füsse</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l18" custom="readingOrder {index:18;}">
+				<Coords points="79,678 84,678 99,681 100,687 128,686 137,684 154,685 155,678 189,678 190,684 215,684 216,678 227,678 229,686 250,684 268,687 270,678 280,678 288,687 295,687 307,678 313,678 359,685 360,692 379,685 402,685 404,679 414,679 428,685 477,685 496,688 497,679 514,679 524,689 530,680 542,680 543,687 553,687 563,680 575,680 620,685 664,685 668,679 673,679 674,686 685,686 686,679 697,679 698,685 713,684 740,679 745,679 746,685 770,680 786,683 786,695 725,696 713,696 697,694 79,694" />
+				<Baseline points="79,693 786,695" />
+				<TextEquiv index="1">
+					<Unicode>Das sind Zierden des Pfaus, und wenn du die Stimme erhebst, lacht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l19" points="78,704 89,704 91,710 95,710 108,709 133,704 144,704 150,710 164,710 175,704 209,704 212,710 216,710 232,713 233,705 238,705 239,711 251,710 267,710 304,710 314,713 318,718 342,705 351,705 358,711 405,711 412,713 418,705 429,705 449,713 461,711 469,711 482,714 489,706 494,706 496,714 513,712 520,711 524,711 556,711 562,714 568,705 579,705 589,717 595,705 606,705 608,713 625,712 636,712 637,705 642,705 649,706 736,711 756,711 757,705 763,705 764,712 782,711 784,711 784,721 736,721 661,721 645,709 636,721 606,721 489,721 469,720 436,721 418,721 318,720 304,720 238,720 184,720 95,719 78,719" baseline="78,719 175,719 614,720 784,721" reason: differs: ".Viicht" against " Vielle" | Wikisource:  | next_nc_e1: dich das Füchslein aus. Vi icht erscheine ich als allzu mürrischer | german_print2_15: dich das Füchslein aus. Vi⸗ icht erscheine ich als allzu mürrischer -->
+			<TextLine id="r1l20" custom="readingOrder {index:20;}">
+				<Coords points="79,730 92,730 109,730 112,736 141,738 143,730 154,730 156,737 179,736 198,738 201,730 211,730 219,736 331,736 337,739 363,737 377,731 390,731 391,739 403,737 418,731 455,731 465,734 524,732 535,736 589,738 596,731 607,731 615,737 668,738 670,732 680,732 681,738 733,737 747,731 770,731 771,737 786,737 786,750 771,750 708,746 566,748 455,746 272,747 79,745" />
+				<Baseline points="79,745 786,747" />
+				<TextEquiv index="1">
+					<Unicode>Lobredner der vergangenen Zeit. Die Sitten ändern sich von Tag</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>gerechten Lohn erlangt; nur möge ihn nie verführen die Meinung
+des Volks, die unbeständig wechselt wie die Hörner der Phoebe.
+Gestirnen des Himmels und strebt nach oben wie der blitztragende
+Adler des Jupiter. Ein furchtbarer Feind der Wahrheit, der unter
+sucht er seine Macht und erregt Himmel und Hölle. Schaue,
+du sterben und glaubt auch der Feind dich überwunden, so ertönt
+zu der vom Lichte der Wahrheit umstrahlten Burg des Höchsten.
+Dorthin durch Dunkel und Nacht lasst auch uns zu dringen ver-
+suchen. Im 7. Gedichte wendet sich der Dichter nicht ohne Humor
+gegen die Eitelkeit in der Kleidertracht. Niemand möge in eitelm
+Stolze einherschreiten wie der Vogel der Juno! Was rühmst du
+Salben tropfenden und mit dem Zopf gezierten Haars, oder des
+klirrenden Schwerts und der glänzenden Umhüllung der Füsse
+Das sind Zierden des Pfaus, und wenn du die Stimme erhebst, lacht
+Lobredner der vergangenen Zeit. Die Sitten ändern sich von Tag</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="77,756 786,756 786,779 77,779" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="77,762 97,762 112,756 128,756 141,762 147,762 148,769 173,757 181,756 193,756 196,762 230,757 240,762 294,763 313,757 317,757 325,763 359,763 390,757 402,757 403,765 421,763 433,757 453,760 479,761 494,766 501,758 512,758 513,765 610,764 619,758 640,758 641,764 786,763 786,775 741,773 734,779 722,779 714,773 641,775 590,773 537,774 240,771 77,771" />
+				<Baseline points="77,771 680,773 786,775" />
+				<TextEquiv index="1">
+					<Unicode>zu Tag. Wie verschieden ist der Deutsche unserer Tage von jenem,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>zu Tag. Wie verschieden ist der Deutsche unserer Tage von jenem,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="77,782 790,782 790,1347 77,1347" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="77,782 88,782 90,790 101,787 205,787 229,782 240,782 241,791 252,788 269,788 285,782 300,782 303,789 396,788 403,792 411,784 436,784 439,791 448,791 455,783 466,783 467,791 482,792 489,784 500,784 513,788 523,783 577,784 586,790 650,789 684,791 685,783 697,783 698,791 734,789 739,783 764,783 765,791 786,790 786,799 708,799 602,802 586,802 577,799 285,799 240,797 77,797" />
+				<Baseline points="77,797 786,799" />
+				<TextEquiv index="1">
+					<Unicode>der sich mit dem Kriegsmantel bedeckte. Mögen uns die wilden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="78,813 85,808 95,808 102,814 109,812 137,814 151,808 162,808 164,817 193,808 218,808 226,813 247,814 283,813 351,815 448,815 454,817 461,809 502,810 520,815 520,809 522,809 551,816 582,816 598,818 598,810 611,810 612,817 655,815 695,816 702,810 725,810 744,815 744,809 756,809 764,813 786,815 786,825 582,826 557,826 551,826 396,826 386,826 351,823 151,824 78,822" />
+				<Baseline points="78,823 786,825" />
+				<TextEquiv index="1">
+					<Unicode>Zeiten der Väter ebenso wenig zurückkehren wie die verweichlichten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="79,834 92,834 94,841 111,839 138,842 159,834 164,834 174,838 215,834 220,834 223,840 370,839 393,841 408,835 419,835 421,841 436,843 447,835 460,835 461,843 473,841 492,842 494,836 505,836 516,842 584,840 610,836 622,836 664,841 689,836 700,836 701,842 734,836 750,836 775,841 776,835 786,835 786,851 622,852 551,856 540,856 526,852 79,849" />
+				<Baseline points="79,849 786,851" />
+				<TextEquiv index="1">
+					<Unicode>Roms. Die Grazien fürchteten die Berührung mit der rauhen Hand</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="78,866 101,866 166,862 192,866 215,866 217,873 244,860 265,860 280,869 287,869 300,866 335,868 337,861 361,861 363,869 386,867 443,866 475,862 487,862 489,869 502,869 508,862 519,862 520,868 589,868 590,862 601,862 616,868 622,862 633,862 635,868 653,869 669,861 680,861 682,868 713,868 714,862 764,862 765,868 785,868 785,878 764,878 725,878 633,878 534,878 508,878 78,875" />
+				<Baseline points="78,875 785,877" />
+				<TextEquiv index="1">
+					<Unicode>unsrer Ahnen. Es schreckte sie ihr Geschrei und ihre durch Wein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l4" points="79,894 90,892 99,891 104,891 131,890 136,890 141,894 169,886 179,886 180,894 191,894 193,886 211,886 213,892 277,887 304,887 305,893 366,893 400,895 401,887 407,887 408,893 457,888 469,888 492,888 510,888 513,894 523,894 524,888 535,888 537,897 548,892 561,892 578,894 593,888 616,888 624,894 637,893 647,893 667,894 682,888 686,888 708,888 728,888 751,888 759,891 787,893 787,905 777,905 759,904 708,904 686,905 682,905 635,904 548,904 401,903 366,902 179,902 169,902 136,901 128,903 119,903 111,897 104,901 90,901 79,900" baseline="79,900 682,903 787,904" reason: differs: "lheWenn" against "lheit. " | Wikisource:  | next_nc_e1: erregte Tollhe Wenn sie die unbekleideten Männer erblickten, | german_print2_15: erregte Tollhe Wenn sie die unbekleideten Männer erblickten, -->
+			<!-- line left out: id="r3l5" points="79,918 92,913 124,913 135,918 155,919 182,918 189,916 199,916 281,921 289,920 300,917 334,913 348,913 367,917 419,919 452,921 453,913 465,913 466,920 476,920 495,921 496,913 507,913 509,919 537,914 552,914 553,920 564,920 566,914 584,914 585,921 597,920 619,920 620,914 631,914 638,918 664,914 675,914 677,921 687,919 698,919 712,927 717,915 735,915 755,919 776,919 786,920 786,930 776,930 755,929 735,930 712,930 675,929 631,930 608,930 577,930 553,930 465,929 453,929 419,928 398,928 367,925 353,927 348,928 287,928 208,928 182,928 155,925 135,928 99,928 89,927 79,927" baseline="79,927 207,927 712,929 786,930" reason: differs: "über" against "kten" | Wikisource:  | next_nc_e1: übergoss ihr sicht Röte wie die der frühleuchtenden Aurora. | german_print2_15: übergoss ihr ²¾ sicht Röte wie die der frühleuchtenden Aurora. -->
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="78,941 90,941 94,946 102,938 112,938 139,944 173,944 191,950 196,939 208,939 211,945 233,944 254,946 257,938 268,938 269,945 278,945 297,939 303,939 303,945 312,945 320,939 325,939 328,945 338,945 346,939 357,939 359,947 370,943 399,945 418,939 432,939 433,945 444,945 446,939 456,939 458,947 468,947 470,939 530,940 531,947 554,946 560,940 571,940 587,946 626,940 637,940 658,945 682,940 734,940 752,946 776,946 777,940 786,940 786,955 776,956 722,956 711,956 682,955 660,949 658,955 637,956 591,956 560,956 530,954 297,955 208,953 139,954 78,952" />
+				<Baseline points="78,953 786,956" />
+				<TextEquiv index="1">
+					<Unicode>Seht nun aber die gebildeten Enkel. Weich ist ihre Hand und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="79,964 90,964 102,964 138,965 166,970 168,977 199,964 214,964 217,970 227,970 234,964 238,964 269,972 275,964 285,964 293,970 315,964 331,964 343,965 351,971 357,965 368,965 370,971 404,971 424,965 434,965 441,973 447,965 459,965 460,971 471,971 472,978 516,971 528,966 539,966 540,974 561,971 601,972 608,966 628,965 632,965 651,971 670,970 698,965 751,966 753,972 786,973 786,985 777,985 753,982 713,981 539,981 424,983 331,980 124,980 79,978" />
+				<Baseline points="79,978 786,982" />
+				<TextEquiv index="1">
+					<Unicode>ihr Arm. Nicht der Kleidung ledig, sondern ach! mit Kleidung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l8" custom="readingOrder {index:8;}">
+				<Coords points="79,995 123,990 128,990 130,997 153,994 218,996 220,990 251,990 252,996 268,996 283,990 300,990 307,998 314,996 357,996 359,1004 388,995 430,995 505,992 517,992 521,1002 541,992 552,992 568,996 592,995 603,992 614,992 650,997 692,997 693,1005 711,997 723,997 733,999 734,992 762,992 764,998 787,999 787,1006 774,1008 697,1009 693,1009 669,1007 388,1008 283,1006 264,1000 262,1006 79,1004" />
+				<Baseline points="79,1004 787,1006" />
+				<TextEquiv index="1">
+					<Unicode>überhäuft sind die Männer. Sagt mir, verehrte Göttinnen, welches</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l9" custom="readingOrder {index:9;}">
+				<Coords points="79,1018 89,1015 99,1015 107,1022 140,1022 141,1016 157,1016 184,1020 184,1030 200,1021 306,1017 315,1017 334,1024 340,1017 395,1017 405,1019 472,1024 472,1017 485,1017 492,1023 513,1018 531,1017 534,1023 636,1025 651,1017 655,1017 657,1023 703,1024 723,1023 751,1018 774,1018 776,1024 787,1024 787,1033 693,1036 681,1036 625,1032 589,1034 282,1031 177,1034 89,1030 79,1028" />
+				<Baseline points="79,1030 787,1033" />
+				<TextEquiv index="1">
+					<Unicode>Gewand geziemt wohl dem Diener der Minerva, so lange er hier</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l10" custom="readingOrder {index:10;}">
+				<Coords points="80,1042 91,1042 99,1048 128,1048 148,1042 158,1042 159,1049 184,1047 195,1047 205,1049 208,1042 237,1042 240,1050 275,1048 287,1042 298,1042 312,1048 342,1042 349,1042 351,1055 361,1050 371,1050 379,1043 392,1042 407,1042 416,1043 419,1049 427,1049 427,1042 439,1042 467,1049 502,1044 603,1044 605,1050 612,1050 620,1047 681,1049 682,1043 693,1043 695,1050 707,1049 728,1044 742,1044 772,1050 778,1057 786,1057 786,1064 778,1064 693,1059 342,1058 312,1051 306,1058 248,1056 208,1057 197,1055 195,1062 184,1062 158,1057 80,1057" />
+				<Baseline points="80,1057 786,1059" />
+				<TextEquiv index="1">
+					<Unicode>ihren Tempel besucht? Lächerlich macht ein altväterischer Anzug</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l11" custom="readingOrder {index:11;}">
+				<Coords points="79,1075 91,1067 102,1067 103,1075 115,1073 240,1073 365,1074 373,1077 387,1068 399,1068 400,1077 444,1069 484,1069 486,1075 528,1075 528,1069 540,1069 542,1075 564,1075 566,1069 577,1069 578,1082 601,1075 613,1075 622,1077 624,1069 634,1069 636,1075 646,1075 647,1069 658,1069 659,1076 671,1075 693,1070 787,1075 787,1085 658,1085 582,1087 578,1087 285,1083 91,1083 79,1080" />
+				<Baseline points="79,1083 787,1085" />
+				<TextEquiv index="1">
+					<Unicode>oder ein neuersonnener aus dem Barbarenland, welcher kaum ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l12" custom="readingOrder {index:12;}">
+				<Coords points="82,1093 87,1093 90,1099 102,1097 151,1099 166,1093 177,1093 179,1102 197,1099 210,1093 234,1093 237,1101 246,1101 248,1093 264,1093 283,1094 308,1100 315,1094 338,1094 338,1107 362,1094 413,1095 426,1103 433,1095 443,1095 459,1103 474,1101 507,1100 551,1101 552,1095 652,1095 653,1101 676,1101 677,1095 688,1095 689,1102 712,1101 712,1095 724,1095 731,1101 787,1101 787,1111 652,1111 627,1114 616,1114 583,1111 483,1110 82,1110" />
+				<Baseline points="82,1108 787,1111" />
+				<TextEquiv index="1">
+					<Unicode>Jahr in der Mode bleibt. Reinlich sei er und billig denkenden er-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l13" custom="readingOrder {index:13;}">
+				<Coords points="81,1124 119,1125 121,1119 124,1119 128,1125 144,1120 158,1119 160,1119 181,1125 231,1125 297,1120 303,1126 313,1126 320,1120 324,1120 333,1128 335,1120 348,1120 348,1126 355,1126 362,1120 380,1120 400,1126 440,1126 466,1121 478,1121 479,1128 520,1121 545,1121 546,1127 557,1127 558,1121 581,1121 581,1127 610,1127 631,1121 636,1121 636,1127 655,1127 666,1124 680,1124 693,1127 694,1121 759,1121 774,1122 788,1127 788,1136 759,1137 693,1137 655,1137 557,1137 520,1137 324,1135 151,1136 119,1134 81,1134" />
+				<Baseline points="81,1134 788,1137" />
+				<TextEquiv index="1">
+					<Unicode>freulich, wenn er vielleicht auch den Mädchen missfällt. Das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l14" custom="readingOrder {index:14;}">
+				<Coords points="81,1145 98,1145 106,1151 144,1145 148,1145 150,1152 189,1151 200,1153 216,1145 220,1145 248,1151 250,1145 253,1145 256,1151 278,1146 280,1152 382,1151 408,1146 416,1146 416,1152 435,1152 450,1146 464,1146 466,1152 489,1152 490,1146 501,1146 502,1153 564,1147 607,1147 609,1153 621,1152 632,1147 644,1147 668,1152 697,1147 709,1147 721,1152 755,1147 766,1147 767,1154 788,1153 788,1163 644,1163 632,1163 415,1162 379,1161 335,1155 332,1161 191,1161 185,1153 178,1160 166,1161 81,1161" />
+				<Baseline points="81,1160 788,1162" />
+				<TextEquiv index="1">
+					<Unicode>Mäntelchen, freilich eine Last für Rücken und Hand, zeichnet den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l15" points="80,1174 91,1171 101,1171 103,1177 126,1176 150,1175 163,1175 173,1176 210,1171 221,1170 227,1170 230,1176 241,1176 283,1177 290,1171 301,1171 302,1177 337,1172 340,1172 369,1172 376,1174 380,1185 392,1179 397,1172 409,1172 410,1179 432,1177 443,1177 455,1178 585,1178 606,1172 657,1172 657,1185 690,1172 708,1172 710,1178 732,1178 752,1172 755,1172 755,1178 766,1178 773,1172 788,1172 788,1188 766,1188 732,1191 710,1191 701,1188 585,1188 502,1188 491,1187 455,1188 444,1188 384,1187 343,1187 290,1187 283,1186 220,1187 210,1187 173,1186 91,1186 80,1183" baseline="80,1186 210,1186 513,1187 788,1188" reason: differs: "voremVo" against "or alle" | Wikisource:  | next_nc_e1: Chemnitzer Musensohn trefflich aus vor em Volk. Mag sich | german_print2_15: Chemnitzer Musensohn trefflich aus vor em Volk. Mag sich -->
+			<TextLine id="r3l16" custom="readingOrder {index:16;}">
+				<Coords points="81,1196 105,1196 105,1202 137,1196 150,1196 156,1203 174,1203 189,1210 208,1203 214,1196 224,1196 227,1202 284,1202 334,1200 355,1203 382,1202 384,1210 406,1197 428,1197 428,1203 494,1198 495,1204 506,1204 507,1198 525,1198 528,1204 543,1204 544,1211 568,1204 595,1206 596,1198 607,1198 616,1203 639,1204 640,1198 651,1198 665,1205 671,1205 671,1197 684,1197 685,1205 694,1205 708,1198 767,1198 767,1204 788,1204 788,1214 731,1214 725,1201 708,1201 694,1213 616,1213 548,1216 544,1216 528,1214 439,1213 334,1214 156,1213 81,1211" />
+				<Baseline points="81,1211 788,1214" />
+				<TextEquiv index="1">
+					<Unicode>der Träge, der immer friert, darein hüllen, während die Tapfern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l17" points="113,1228 166,1228 191,1230 191,1222 202,1222 205,1228 269,1227 274,1227 302,1229 317,1223 334,1223 337,1229 349,1227 354,1227 378,1231 378,1223 389,1223 397,1232 403,1232 419,1223 439,1223 466,1227 487,1229 532,1230 532,1224 544,1224 544,1230 568,1228 574,1228 601,1229 611,1224 613,1224 633,1233 649,1233 676,1225 706,1224 723,1224 724,1230 740,1230 740,1224 746,1224 770,1224 788,1227 788,1239 770,1240 754,1240 692,1239 613,1239 520,1239 487,1239 441,1239 389,1238 150,1238 113,1237" baseline="113,1237 150,1237 788,1239" reason: differs: "arin" against "soga" | Wikisource:  | next_nc_e1: ar in der rauhen Zeit des Winters schwitzen. — 8. Gedicht. | german_print2_15: ſar in der rauhen Zeit des Winters schwitzen. — 8. Gedicht. -->
+			<TextLine id="r3l18" custom="readingOrder {index:18;}">
+				<Coords points="82,1248 99,1248 104,1256 110,1254 125,1254 140,1248 151,1248 152,1256 163,1253 180,1252 192,1252 202,1254 254,1254 256,1248 287,1248 331,1249 345,1253 370,1255 378,1248 380,1248 410,1254 442,1255 448,1250 461,1250 479,1255 495,1255 496,1262 518,1249 530,1249 537,1255 584,1255 596,1249 601,1249 603,1256 637,1256 637,1249 650,1249 651,1256 661,1256 675,1249 706,1249 712,1256 735,1253 746,1257 759,1249 771,1249 778,1255 789,1255 789,1265 530,1265 499,1267 496,1267 484,1265 479,1259 463,1257 461,1265 82,1262" />
+				<Baseline points="82,1262 789,1265" />
+				<TextEquiv index="1">
+					<Unicode>Wen Schätze und Reichtümer ergötzen, der suche die Paläste der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l19" custom="readingOrder {index:19;}">
+				<Coords points="83,1273 97,1273 107,1279 152,1281 189,1280 189,1274 204,1274 232,1280 251,1278 290,1280 432,1280 453,1286 457,1280 476,1275 491,1275 492,1281 504,1281 514,1275 521,1275 523,1281 544,1281 564,1275 575,1275 577,1281 593,1282 612,1274 657,1280 677,1281 694,1275 726,1275 726,1281 776,1280 789,1283 789,1291 745,1291 726,1291 706,1291 634,1291 622,1291 516,1291 458,1291 453,1291 335,1291 324,1291 264,1289 83,1289" />
+				<Baseline points="83,1289 789,1291" />
+				<TextEquiv index="1">
+					<Unicode>Könige auf; mit wenigem seien zufrieden die Diener Minervas.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l20" custom="readingOrder {index:20;}">
+				<Coords points="84,1299 110,1299 117,1305 192,1303 207,1305 228,1305 264,1303 266,1313 288,1306 328,1306 335,1307 342,1313 362,1304 387,1306 389,1300 402,1300 402,1308 413,1306 458,1306 459,1300 470,1300 484,1307 529,1301 535,1301 547,1306 558,1304 601,1306 603,1300 672,1301 673,1308 694,1306 709,1300 732,1300 733,1306 752,1304 789,1306 789,1316 484,1317 401,1315 389,1313 387,1321 381,1321 379,1315 342,1316 300,1314 269,1316 192,1316 84,1313" />
+				<Baseline points="84,1314 789,1316" />
+				<TextEquiv index="1">
+					<Unicode>Wenn du gerecht, weise, tapfer und gut bist und in den Künsten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l21" custom="readingOrder {index:21;}">
+				<Coords points="84,1333 106,1329 110,1329 113,1335 123,1335 125,1329 135,1329 143,1331 173,1329 214,1333 240,1332 296,1326 301,1326 312,1331 327,1325 334,1325 349,1327 355,1337 372,1331 384,1330 499,1332 499,1340 530,1326 551,1326 551,1332 562,1332 565,1326 576,1326 600,1335 607,1327 640,1326 659,1326 659,1333 701,1330 757,1332 767,1334 769,1327 781,1327 782,1334 790,1334 790,1342 583,1342 499,1347 450,1347 439,1347 421,1341 234,1341 204,1339 196,1336 173,1343 84,1340" />
+				<Baseline points="84,1339 790,1342" />
+				<TextEquiv index="1">
+					<Unicode>erfahren, so hast du Reichtum genug. Nicht ob das stürmische</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>der sich mit dem Kriegsmantel bedeckte. Mögen uns die wilden
+Zeiten der Väter ebenso wenig zurückkehren wie die verweichlichten
+Roms. Die Grazien fürchteten die Berührung mit der rauhen Hand
+unsrer Ahnen. Es schreckte sie ihr Geschrei und ihre durch Wein
+Seht nun aber die gebildeten Enkel. Weich ist ihre Hand und
+ihr Arm. Nicht der Kleidung ledig, sondern ach! mit Kleidung
+überhäuft sind die Männer. Sagt mir, verehrte Göttinnen, welches
+Gewand geziemt wohl dem Diener der Minerva, so lange er hier
+ihren Tempel besucht? Lächerlich macht ein altväterischer Anzug
+oder ein neuersonnener aus dem Barbarenland, welcher kaum ein
+Jahr in der Mode bleibt. Reinlich sei er und billig denkenden er-
+freulich, wenn er vielleicht auch den Mädchen missfällt. Das
+Mäntelchen, freilich eine Last für Rücken und Hand, zeichnet den
+der Träge, der immer friert, darein hüllen, während die Tapfern
+Wen Schätze und Reichtümer ergötzen, der suche die Paläste der
+Könige auf; mit wenigem seien zufrieden die Diener Minervas.
+Wenn du gerecht, weise, tapfer und gut bist und in den Künsten
+erfahren, so hast du Reichtum genug. Nicht ob das stürmische</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="8,0 1000,0 1000,1564 8,1564" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+gerechten Lohn erlangt; nur möge ihn nie verführen die Meinung
+des Volks, die unbeständig wechselt wie die Hörner der Phoebe.
+Von göttlicher Gewalt ergriffen, erhebt er Blick und Sinn zu den
+Gestirnen des Himmels und strebt nach oben wie der blitztragende
+Adler des Jupiter. Ein furchtbarer Feind der Wahrheit, der unter
+ihrem Gewande einherschleicht, ist der Aberglaube. Überall
+versucht er seine Macht und erregt Himmel und Hölle. Schaue,
+Freund Gottes, hin nach dem Felsen des Heils. Unbesiegt wirst
+du sterben und glaubt auch der Feind dich überwunden, so ertönt
+doch bei deinem Tode Triumphgesang und froh erhebst du dich
+zu der vom Lichte der Wahrheit umstrahlten Burg des Höchsten.
+Dorthin durch Dunkel und Nacht lasst auch uns zu dringen
+versuchen. Im 7. Gedichte wendet sich der Dichter nicht ohne Humor
+gegen die Eitelkeit in der Kleidertracht. Niemand möge in eitelm
+Stolze einherschreiten wie der Vogel der Juno! Was rühmst du
+dich, o Jüngling, deiner glücklichen Körperbildung oder deines von
+Salben tropfenden und mit dem Zopf gezierten Haars, oder des
+klirrenden Schwerts und der glänzenden Umhüllung der Füsse?
+Das sind Zierden des Pfaus, und wenn du die Stimme erhebst, lacht
+dich das Füchslein aus. Vielleicht erscheine ich als allzu mürrischer
+Lobredner der vergangenen Zeit. Die Sitten ändern sich von Tag
+zu Tag. Wie verschieden ist der Deutsche unserer Tage von jenem,
+der sich mit dem Kriegsmantel bedeckte. Mögen uns die wilden
+Zeiten der Väter ebenso wenig zurückkehren wie die verweichlichten
+Roms. Die Grazien fürchteten die Berührung mit der rauhen Hand
+unsrer Ahnen. Es schreckte sie ihr Geschrei und ihre durch Wein
+erregte Tollheit. Wenn sie die unbekleideten Männer erblickten,
+übergoss ihr Angesicht Röte wie die der frühleuchtenden Aurora.
+Seht nun aber die gebildeten Enkel. Weich ist ihre Hand und
+ihr Arm. Nicht der Kleidung ledig, sondern ach! mit Kleidung
+überhäuft sind die Männer. Sagt mir, verehrte Göttinnen, welches
+Gewand geziemt wohl dem Diener der Minerva, so lange er hier
+ihren Tempel besucht? Lächerlich macht ein altväterischer Anzug
+oder ein neuersonnener aus dem Barbarenland, welcher kaum ein
+Jahr in der Mode bleibt. Reinlich sei er und billig denkenden
+erfreulich, wenn er vielleicht auch den Mädchen missfällt. Das
+Mäntelchen, freilich eine Last für Rücken und Hand, zeichnet den
+Chemnitzer Musensohn trefflich aus vor allem Volk. Mag sich
+der Träge, der immer friert, darein hüllen, während die Tapfern
+sogar in der rauhen Zeit des Winters schwitzen. – 8. Gedicht.
+Wen Schätze und Reichtümer ergötzen, der suche die Paläste der
+Könige auf; mit wenigem seien zufrieden die Diener Minervas.
+Wenn du gerecht, weise, tapfer und gut bist und in den Künsten
+erfahren, so hast du Reichtum genug. Nicht ob das stürmische
+-->
+	</Page>
+</PcGts>

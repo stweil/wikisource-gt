@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:39:52</Created>
+		<LastChange>2026-11-23T14:39:52</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/367 revision 4664348 of 2025-11-27T07:46:34Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0367.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro16636293637899939276" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="418,167 453,167 453,184 418,184" />
+			<!-- line left out: id="r0l0" points="418,168 431,167 438,167 453,168 453,183 438,184 418,184" baseline="418,184 453,182" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 113
+ | german_print2_15: 113
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="83,218 808,218 808,1077 83,1077" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="137,222 173,227 189,221 202,221 208,226 220,228 221,221 232,221 257,227 268,227 358,226 360,220 382,220 415,226 443,227 445,219 475,219 478,226 502,227 524,224 633,224 673,219 689,219 707,224 747,231 769,224 792,224 794,218 803,218 803,234 568,237 531,234 487,233 445,235 433,233 426,228 422,234 394,236 315,235 143,238 137,238" />
+				<Baseline points="137,238 291,235 803,234" />
+				<TextEquiv index="1">
+					<Unicode>Der Stadt war es nicht viel besser ergangen. Am 27. und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="131,248 144,248 145,256 156,249 188,254 260,253 288,255 290,246 295,246 298,252 363,253 422,252 423,246 434,246 436,252 447,252 468,255 470,246 482,246 483,254 497,254 503,245 508,245 510,252 520,252 540,246 556,246 584,251 634,250 672,253 675,244 687,244 688,251 697,251 713,244 720,244 736,245 737,252 749,244 753,244 767,249 803,252 803,264 794,264 769,261 540,261 522,255 520,261 363,264 341,264 330,264 176,264 144,264 131,264" />
+				<Baseline points="131,264 403,260 803,260" />
+				<TextEquiv index="1">
+					<Unicode>Februar war die ganze schwedische Armee in der Richtung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="84,283 141,281 154,274 172,274 182,280 192,280 194,274 198,274 201,281 233,281 248,273 259,273 267,279 278,279 286,281 294,273 298,273 300,279 329,280 364,277 395,278 395,272 440,272 443,280 454,279 460,276 475,276 498,284 504,272 522,272 525,279 546,277 558,271 571,271 580,278 621,278 634,283 636,275 793,277 803,279 803,287 706,290 690,290 681,287 634,286 475,288 314,288 311,294 300,294 278,289 172,290 94,294 84,294" />
+				<Baseline points="84,291 639,286 803,287" />
+				<TextEquiv index="1">
+					<Unicode>gegen Freiberg durchpassirt und hatte allen Proviant mitgenommen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l3" points="86,303 95,303 102,310 114,308 147,306 155,306 157,314 170,293 183,293 195,305 202,303 213,303 215,313 233,300 256,300 258,306 299,305 310,305 332,305 336,299 370,299 379,305 404,305 406,299 410,299 413,306 422,306 434,311 439,305 449,305 467,299 472,299 473,306 485,304 501,302 524,298 530,298 532,305 547,305 549,298 560,298 561,304 579,304 586,303 600,302 607,302 608,311 630,297 642,297 643,303 648,303 657,306 672,297 685,297 686,304 699,303 710,303 710,297 719,297 719,303 727,303 753,304 754,297 767,297 767,303 794,298 803,298 803,313 612,314 579,316 561,316 549,313 541,312 530,313 496,314 449,316 439,316 410,314 370,314 346,315 281,315 244,316 200,316 195,316 183,323 170,323 160,316 129,317 95,317 86,317" baseline="86,317 195,315 299,314 505,313 803,313" reason: differs: "m2.—18." against " 2.–18." | Wikisource:  | next_nc_e1: Vom 2. — 18. März ward Freiberg hart belagert, bis Banér durch | german_print2_15:  -->
+			<!-- line left out: id="r1l4" points="85,329 95,329 108,334 133,332 138,332 165,330 169,330 220,329 231,326 241,326 244,333 258,333 272,332 296,332 323,333 401,338 406,325 426,325 445,325 459,329 473,337 514,324 526,324 528,330 545,330 549,339 559,339 560,324 574,324 574,330 622,330 623,324 653,323 660,323 673,324 706,324 708,331 719,330 732,327 741,323 743,323 769,330 792,330 794,324 804,324 804,339 792,340 743,345 741,345 741,339 719,339 708,337 706,345 688,345 687,339 673,339 622,340 574,341 549,341 459,340 323,341 283,341 258,343 244,343 231,341 220,339 196,348 194,348 194,342 184,342 172,341 163,348 152,348 133,343 110,338 108,344 85,344" baseline="85,344 112,343 195,341 322,340 633,339 742,339 804,340" reason: differs: "dieta" against "durch" | Wikisource:  | next_nc_e1: die tapfere Gegenweh Soldater Bürger und Bergleute und | german_print2_15: die tapfere Gegenwehr Soldater Bürger und Bergleute und -->
+			<!-- line left out: id="r1l5" points="84,355 95,355 97,361 109,360 127,360 128,354 153,353 164,353 166,361 177,359 203,354 212,354 238,359 258,358 274,358 286,352 296,352 311,360 318,352 362,352 362,362 375,358 380,358 414,358 425,357 443,352 447,352 455,360 467,357 476,357 489,351 504,351 506,360 517,359 524,357 534,357 548,358 571,356 598,356 610,357 621,351 638,350 643,350 646,356 684,356 695,358 715,350 718,350 728,356 738,356 750,357 759,350 772,350 780,356 799,354 802,354 802,366 796,367 718,367 684,368 667,368 636,366 571,366 548,365 534,366 504,366 476,367 453,367 414,367 396,367 296,368 274,368 187,369 164,369 113,370 84,370" baseline="84,370 137,369 203,368 295,367 489,366 802,366" reason: second model: differs: "durc" against "e un" | Wikisource: durch den Anmarsch des kaiserlichen Heeres zum Abzuge genöthigt | next_nc_e1: durch den Anmarsch des kaiserlichen Heeres zum Abzuge genöthigt | german_print2_15: durch den Amnarsch des kaiserlichen Heeres zum Abzuge genöthigt -->
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="84,387 112,386 120,380 132,380 133,388 146,388 146,380 238,384 252,387 270,379 282,378 287,378 290,384 354,384 372,386 375,378 385,378 393,384 423,377 433,377 438,384 444,378 455,378 457,384 503,381 569,386 571,377 582,377 584,385 621,385 629,377 640,377 642,383 675,384 675,376 688,376 698,384 710,382 743,383 760,377 769,377 776,385 783,383 793,383 803,386 803,388 793,392 354,393 148,396 132,396 100,396 84,395" />
+				<Baseline points="84,396 338,393 803,391" />
+				<TextEquiv index="1">
+					<Unicode>wurde. Am 20. März in der Frühe trafen die schwedischen Vor-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="83,410 118,412 185,412 226,406 228,413 278,409 346,409 366,404 377,404 378,411 461,410 465,404 495,404 497,411 566,409 583,403 596,403 597,412 609,409 615,405 627,405 629,411 639,411 653,403 665,403 673,411 685,411 696,403 718,403 719,409 776,410 779,403 789,403 790,409 804,409 804,419 745,417 737,424 719,424 665,419 403,420 366,419 346,411 342,419 330,420 138,420 137,427 118,428 106,428 105,422 83,422" />
+				<Baseline points="83,422 348,419 804,417" />
+				<TextEquiv index="1">
+					<Unicode>truppen in Chemnitz ein; dann ward hier im Laufe des Tages das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="85,434 99,433 107,439 131,439 138,437 170,438 184,436 197,436 205,438 257,435 268,435 281,438 309,439 316,431 338,431 347,437 380,437 382,444 426,438 448,438 459,430 486,430 486,437 543,434 609,435 618,429 633,429 643,438 679,435 703,436 704,429 715,429 729,435 750,435 762,429 771,429 776,436 804,438 804,444 517,446 496,448 440,446 357,448 165,447 164,454 153,454 149,448 138,448 131,454 120,454 118,448 85,449" />
+				<Baseline points="85,449 447,445 804,445" />
+				<TextEquiv index="1">
+					<Unicode>Hauptquartier aufgeschlagen. Alle Regimenter zu Ross und zu Fuss</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="84,466 117,465 121,459 132,459 133,466 177,464 220,465 222,458 233,458 235,464 244,464 263,458 273,457 282,457 292,463 314,462 331,464 334,457 367,463 391,463 392,457 403,457 422,464 428,457 440,457 447,463 503,463 509,457 513,457 554,463 571,464 579,456 583,456 585,465 596,463 631,462 643,463 654,466 669,455 675,455 714,458 717,464 728,462 796,462 803,466 803,468 796,472 690,471 631,472 606,475 596,475 272,472 132,475 100,475 84,474" />
+				<Baseline points="84,474 263,472 803,472" />
+				<TextEquiv index="1">
+					<Unicode>wurden in der Vorstadt und den nächst gelegenen Dörfern ein-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="83,493 124,489 215,491 217,484 227,484 249,490 278,490 297,493 298,487 382,490 404,493 407,483 417,483 426,489 462,487 482,490 483,483 494,483 519,495 525,489 673,487 759,488 763,482 775,482 783,488 803,489 803,498 610,498 607,504 603,504 594,498 577,497 501,499 356,498 192,500 168,507 160,507 139,507 124,507 124,501 102,501 95,507 83,507" />
+				<Baseline points="83,501 570,497 803,498" />
+				<TextEquiv index="1">
+					<Unicode>quartiert und mussten von der Stadt aus verproviantirt werden.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l11" points="84,513 98,513 110,518 111,512 124,511 205,511 208,517 270,517 270,510 290,510 298,514 303,518 322,510 335,510 336,517 348,516 355,509 368,509 372,516 400,516 417,510 444,510 446,517 458,516 481,516 490,514 502,514 510,518 517,522 537,510 545,509 554,509 560,515 615,515 675,515 681,517 688,509 693,509 707,513 709,522 724,515 735,515 744,517 746,509 757,509 758,517 770,509 782,509 783,516 795,515 804,515 804,524 782,525 770,525 735,524 712,526 709,526 675,524 647,525 632,525 615,524 570,525 517,525 444,525 405,525 298,526 284,526 240,528 98,528 84,528" baseline="84,528 141,527 252,525 516,524 804,524" reason: differs: "tlangwe" against " Tage l" | Wikisource:  | next_nc_e1: Acht lang weilte Banér in Chemnitz. Wir wissen nicht, welchen | german_print2_15: Acht“ lang weilte Banér in Chemnitz. Wir wissen nicht, welchen -->
+			<TextLine id="r1l12" custom="readingOrder {index:12;}">
+				<Coords points="86,538 105,538 107,544 117,544 119,538 130,538 132,545 141,543 151,543 165,537 174,537 190,546 198,546 210,543 227,543 254,536 270,538 283,543 333,542 346,537 369,536 371,544 389,540 419,543 444,542 468,544 476,536 512,536 514,543 537,540 562,547 568,541 578,541 597,544 599,535 604,535 618,541 664,541 665,535 675,535 689,547 694,536 714,536 716,543 725,543 740,535 760,535 762,541 803,542 803,551 773,555 762,555 714,551 369,551 86,554" />
+				<Baseline points="86,553 393,551 803,551" />
+				<TextEquiv index="1">
+					<Unicode>Eindruck seine Persönlichkeit gemacht hat, in der sich alle Eigen-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l13" custom="readingOrder {index:13;}">
+				<Coords points="84,572 97,572 105,564 115,564 117,571 130,566 159,564 184,572 191,563 201,563 203,571 241,569 300,569 317,563 338,563 345,571 358,569 366,565 391,565 405,568 486,567 508,571 510,562 520,562 528,568 549,562 560,562 567,570 578,570 581,563 595,562 605,562 607,568 618,568 620,562 631,562 651,562 652,569 670,568 697,562 708,562 710,569 729,570 744,563 766,563 804,568 804,578 291,578 249,576 238,582 228,582 201,579 105,580 84,578" />
+				<Baseline points="84,580 549,577 804,578" />
+				<TextEquiv index="1">
+					<Unicode>schaften des grossen Heerführers mit der Tollkühnheit des Aben-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l14" points="84,594 91,594 121,596 141,596 179,596 187,602 193,590 203,590 221,597 228,589 238,589 240,595 249,595 296,588 301,588 303,595 314,595 323,593 334,593 363,595 363,588 365,588 400,589 401,597 405,597 418,598 448,602 469,596 479,596 482,589 492,589 511,594 513,602 533,588 538,588 541,594 552,594 558,597 566,589 577,589 578,596 589,596 598,598 600,589 610,589 612,595 623,594 634,594 636,588 647,588 649,597 661,589 665,589 696,596 703,594 718,591 722,591 736,594 737,588 749,588 759,595 771,594 782,594 804,595 804,604 678,604 634,604 600,604 577,603 552,604 507,604 489,592 479,604 445,604 405,603 400,604 365,605 334,605 323,605 314,604 249,605 203,605 141,606 121,606 91,606 84,606" baseline="84,606 151,605 296,604 804,604" reason: differs: "rlanter" against " Galant" | Wikisource:  | next_nc_e1: teurers und der lanterie des in allen Liebeshändeln erfahrenen | german_print2_15: teurers und dern Hanterie des in allen Liebeshändeln erfahrenen -->
+			<!-- line left out: id="r1l15" points="84,620 95,617 103,617 112,623 133,623 135,617 146,617 147,625 159,622 163,622 196,622 216,622 270,620 281,620 308,620 334,621 378,621 381,615 385,615 388,622 398,622 411,621 422,621 459,621 530,621 562,621 579,615 590,615 592,623 603,620 613,620 625,614 630,614 645,616 672,618 688,622 694,615 705,615 713,622 717,622 731,628 750,614 762,614 763,622 775,621 780,621 795,620 804,620 804,631 735,633 731,633 717,624 711,628 705,630 672,630 630,630 590,630 530,630 482,631 459,631 411,631 400,628 398,634 388,634 372,630 346,631 308,632 305,632 281,631 267,633 257,633 216,631 163,632 146,632 95,632 84,631" baseline="84,632 173,630 612,629 625,629 750,630 804,631" reason: second model: differs: "Cava" against "rene" | Wikisource: Cavaliers vereinigten; im allgemeinen war er den Deutschen, deren | next_nc_e1: Cavaliers vereinigten; im allgemeinen war er den Deutschen, deren | german_print2_15: Cavaliers vereinigten; im algemeinen war er den Deutschen, deren -->
+			<TextLine id="r1l16" custom="readingOrder {index:16;}">
+				<Coords points="84,643 96,643 104,649 133,650 140,643 151,643 152,651 188,648 239,649 389,646 402,655 422,650 460,650 462,641 472,641 474,648 527,648 545,642 551,642 561,649 573,642 577,642 581,648 595,645 619,647 655,641 667,641 675,647 684,647 699,641 713,641 721,647 748,647 751,641 762,641 763,647 804,647 804,657 614,657 558,655 527,657 389,657 317,659 104,658 102,664 97,664 96,658 84,658" />
+				<Baseline points="84,658 456,656 804,657" />
+				<TextEquiv index="1">
+					<Unicode>Sprache er angenommen hatte, so dass er selbst mit der Kanzlei in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l17" custom="readingOrder {index:17;}">
+				<Coords points="84,672 96,672 115,677 128,669 150,669 152,676 163,676 165,669 169,669 171,675 231,674 252,676 255,668 265,668 273,674 279,672 291,672 306,676 313,668 323,668 339,674 367,674 372,668 382,668 383,676 396,673 422,672 436,681 456,674 472,674 480,668 490,668 506,676 513,668 517,668 520,674 618,675 621,667 632,667 634,674 643,674 654,667 659,667 662,674 688,672 717,673 730,667 745,667 748,674 767,673 767,683 480,683 468,676 461,683 440,684 436,684 231,684 150,684 107,684 84,684" />
+				<Baseline points="84,684 602,682 767,683" />
+				<TextEquiv index="1">
+					<Unicode>Stockholm nur deutsch verkehrte, und die er als die besten Krie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l18" custom="readingOrder {index:18;}">
+				<Coords points="84,699 96,699 112,702 131,696 151,695 153,703 166,699 193,695 204,695 206,703 217,695 222,695 236,699 249,708 268,699 302,699 327,706 332,701 343,701 346,695 402,694 409,701 425,699 558,700 571,699 590,695 603,700 618,702 625,694 636,694 638,701 647,701 663,693 683,693 687,702 696,701 708,694 712,694 714,700 787,700 789,707 792,707 792,709 787,714 770,714 749,710 561,709 558,715 546,715 489,710 84,711" />
+				<Baseline points="84,711 792,709" />
+				<TextEquiv index="1">
+					<Unicode>der Welt liebte, trotz aller Härte eine sympathische Erscheinung.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l19" custom="readingOrder {index:19;}">
+				<Coords points="136,722 148,722 149,729 160,721 171,721 172,729 240,727 257,735 265,735 267,726 276,726 278,734 298,721 321,721 322,727 398,726 419,729 422,721 465,727 569,726 602,728 605,720 616,720 618,729 626,729 627,720 643,720 645,727 650,727 676,720 698,720 706,728 712,726 795,726 805,730 805,732 795,736 278,736 276,742 267,742 265,736 136,736" />
+				<Baseline points="136,736 805,736" />
+				<TextEquiv index="1">
+					<Unicode>Schon am 27. März war das ganze schwedische Heer unver-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l20" custom="readingOrder {index:20;}">
+				<Coords points="85,755 93,755 106,748 117,748 118,755 173,754 188,751 230,747 247,747 255,753 295,747 306,747 313,753 341,754 420,751 438,751 451,754 458,747 492,747 494,753 603,753 611,747 615,747 629,751 631,760 652,746 664,746 665,753 726,753 728,747 785,752 806,752 806,762 634,764 553,764 543,762 322,762 319,768 313,768 306,762 85,763" />
+				<Baseline points="85,763 806,760" />
+				<TextEquiv index="1">
+					<Unicode>sehens mit allem Gepäck zur Stadt hinausgerückt, dann aber aus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l21" custom="readingOrder {index:21;}">
+				<Coords points="86,780 109,781 111,774 122,774 123,782 135,774 145,774 147,780 178,777 212,779 231,773 253,773 258,782 266,780 290,779 368,779 379,783 381,773 392,773 400,779 464,779 478,773 494,773 494,779 506,779 508,773 519,773 519,782 533,779 599,779 601,786 637,772 643,772 653,775 700,774 719,779 730,780 731,773 743,773 745,780 806,779 806,793 791,793 743,789 643,788 506,790 478,790 464,788 86,790" />
+				<Baseline points="86,789 806,789" />
+				<TextEquiv index="1">
+					<Unicode>unbekannten Ursachen wieder zurückgekommen. Die Annäherung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l22" custom="readingOrder {index:22;}">
+				<Coords points="86,801 107,801 138,804 157,808 166,800 190,800 190,813 208,806 228,807 230,800 240,800 242,808 254,800 264,800 266,808 278,806 302,808 305,800 316,800 318,808 352,799 365,799 374,805 384,805 393,807 401,799 412,799 414,807 426,805 473,805 485,799 500,799 508,805 530,804 559,807 571,800 575,800 579,807 599,808 601,799 613,799 616,806 624,799 634,799 647,802 706,806 708,799 713,799 715,805 747,805 749,799 765,799 777,807 784,807 784,799 789,799 791,805 806,805 806,815 656,816 647,814 219,814 192,817 176,817 145,815 86,816" />
+				<Baseline points="86,816 558,814 806,815" />
+				<TextEquiv index="1">
+					<Unicode>Hatzfeldts, welcher die Schweden im Rücken bedrohte, während die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l23" custom="readingOrder {index:23;}">
+				<Coords points="85,829 107,827 118,832 142,833 152,826 162,826 165,835 184,826 208,826 216,832 241,833 307,832 311,826 337,826 339,832 349,832 362,827 374,826 385,826 387,834 403,838 405,832 481,829 492,826 515,826 524,832 531,832 531,826 575,826 577,833 656,831 670,826 680,826 687,830 700,833 733,831 756,832 757,826 769,826 806,833 806,840 717,843 708,843 687,841 515,840 96,842 85,839" />
+				<Baseline points="85,842 806,841" />
+				<TextEquiv index="1">
+					<Unicode>Generale Marazini und Buchheim vom Gebirge her anrückten, mahnte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l24" custom="readingOrder {index:24;}">
+				<Coords points="86,859 112,859 132,853 140,853 147,860 150,860 182,858 195,853 219,853 264,856 323,852 331,852 349,856 376,855 392,860 399,852 427,852 436,858 448,858 456,865 463,860 484,858 518,858 526,861 529,852 538,852 541,858 629,858 646,852 651,852 660,853 661,859 673,859 686,852 696,852 705,858 712,856 787,858 805,861 805,863 800,863 787,872 775,872 728,868 660,867 605,869 376,867 86,868" />
+				<Baseline points="86,868 805,867" />
+				<TextEquiv index="1">
+					<Unicode>zur Vorsicht. Starke Streifschaaren wurden gegen Rochlitz ausge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l25" points="86,887 95,886 106,879 117,879 120,885 124,885 137,883 149,882 154,882 163,883 201,885 215,882 219,882 282,884 310,884 354,890 395,886 398,886 417,886 444,883 448,883 471,885 473,879 483,879 532,878 544,878 546,885 556,885 615,879 665,878 677,878 679,886 691,885 694,885 722,884 735,884 742,886 752,882 761,878 772,878 790,878 792,885 800,885 800,894 772,894 742,894 694,894 677,894 665,894 615,881 556,894 505,899 497,899 444,894 419,890 417,896 398,896 395,896 293,894 201,894 163,895 159,895 124,894 106,894 95,893 86,891" baseline="86,894 218,893 309,893 800,894" reason: differs: "näcnTag" against "nächste" | Wikisource:  | next_nc_e1: schickt; erst am näc n Tage früh 7 Uhr 1 der ernstliche | german_print2_15: schickt; erst am nac! n Tage früh 7 Uhr 1 der ernstliche -->
+			<TextLine id="r1l26" custom="readingOrder {index:26;}">
+				<Coords points="88,906 137,906 175,910 185,906 216,904 233,904 239,911 250,911 251,904 262,904 264,910 280,910 295,904 300,904 312,905 314,911 337,912 337,904 348,904 369,913 378,910 466,913 469,904 480,904 482,912 490,912 510,905 521,905 530,913 554,909 603,911 654,910 738,912 740,905 752,905 753,912 765,905 806,911 806,920 703,920 636,922 613,922 566,920 469,920 442,918 233,918 187,920 88,920" />
+				<Baseline points="88,920 806,920" />
+				<TextEquiv index="1">
+					<Unicode>Aufbruch. Wohin Banér sich wende, konnte wegen eines dichten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l27" custom="readingOrder {index:27;}">
+				<Coords points="86,930 101,930 104,939 115,931 119,931 123,938 131,938 131,930 144,930 153,931 168,937 185,936 198,931 209,931 231,938 243,936 252,931 262,931 287,936 296,930 305,930 332,936 365,936 369,930 380,930 381,938 400,935 411,935 449,937 455,939 462,931 472,931 488,937 529,937 540,931 562,931 563,937 581,937 583,931 618,937 642,931 659,931 668,935 706,937 706,931 748,931 756,937 793,937 807,941 807,949 748,947 621,946 585,950 581,950 563,950 509,945 411,947 119,945 86,946" />
+				<Baseline points="86,945 807,945" />
+				<TextEquiv index="1">
+					<Unicode>Nebels nicht erkundet werden; nach zwei Tagen stellte sich heraus,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l28" custom="readingOrder {index:28;}">
+				<Coords points="87,957 98,957 105,964 186,963 189,957 193,957 196,964 213,963 235,956 240,956 251,957 260,967 266,964 330,964 338,957 374,957 418,964 419,957 431,957 432,963 488,963 488,957 547,957 555,964 561,961 566,961 628,963 643,966 643,958 663,958 706,963 731,963 731,973 454,974 393,972 368,974 325,972 287,975 278,975 240,972 193,971 87,972" />
+				<Baseline points="87,972 731,973" />
+				<TextEquiv index="1">
+					<Unicode>dass er über Penig nach Altenburg und Zeitz marschirt sei.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l29" custom="readingOrder {index:29;}">
+				<Coords points="140,983 156,983 186,991 193,983 203,983 211,989 258,987 258,997 268,997 270,991 282,987 294,989 362,989 373,983 379,982 395,982 407,983 409,990 424,990 439,984 451,984 453,991 481,992 551,993 554,984 559,984 572,990 652,989 658,991 665,984 676,984 684,988 704,988 708,992 725,984 737,984 772,989 773,983 785,983 786,990 807,989 807,998 652,999 631,1002 614,1002 532,999 294,998 268,1001 235,1001 214,998 140,999" />
+				<Baseline points="140,998 807,999" />
+				<TextEquiv index="1">
+					<Unicode>Mit der eingetretenen Ruhe liess sich der angerichtete Schaden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l30" custom="readingOrder {index:30;}">
+				<Coords points="87,1015 97,1015 100,1009 111,1009 112,1017 128,1015 145,1018 153,1009 157,1009 160,1017 181,1016 191,1009 193,1009 237,1011 274,1009 285,1009 293,1015 314,1015 329,1009 335,1009 358,1009 361,1021 373,1017 406,1017 414,1023 433,1016 443,1016 452,1018 461,1010 465,1010 467,1017 479,1010 489,1010 491,1018 553,1014 587,1016 604,1021 621,1010 630,1010 637,1016 654,1017 656,1010 666,1010 691,1015 704,1016 706,1010 733,1009 739,1009 751,1010 754,1016 772,1015 774,1009 786,1009 787,1017 808,1015 808,1024 443,1024 417,1026 414,1026 364,1024 335,1026 329,1026 285,1024 87,1025" />
+				<Baseline points="87,1025 808,1025" />
+				<TextEquiv index="1">
+					<Unicode>übersehen. Auf dem Schlosse, welches mit viel Vieh und Pferden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l31" points="87,1036 92,1036 95,1043 103,1043 111,1036 130,1036 130,1042 141,1039 146,1039 194,1041 242,1041 244,1049 266,1041 277,1041 316,1039 320,1039 340,1045 347,1042 356,1042 375,1043 450,1044 465,1035 470,1035 485,1037 499,1036 514,1036 548,1040 563,1042 566,1036 577,1036 578,1043 601,1042 625,1042 625,1036 641,1036 643,1042 663,1035 678,1035 681,1043 693,1041 732,1041 744,1042 746,1035 756,1035 758,1041 799,1040 808,1040 808,1050 703,1051 678,1051 612,1051 514,1051 474,1051 388,1050 356,1051 247,1052 244,1052 231,1051 219,1049 199,1049 184,1055 140,1055 116,1055 111,1038 103,1049 92,1050 87,1050" baseline="87,1050 808,1050" reason: differs: "neisBun" against " einzig" | Wikisource:  | next_nc_e1: belegt gewesen, war kein ei s Bund Stroh noch Heu mehr zu | german_print2_15: belegt gewesen, war kein ei s Bund Stroh noch Heu mehr zu -->
+			<TextLine id="r1l32" custom="readingOrder {index:32;}">
+				<Coords points="88,1063 116,1068 119,1061 129,1061 131,1068 186,1068 188,1062 198,1062 224,1066 229,1070 237,1063 247,1063 249,1069 261,1067 342,1068 343,1062 360,1062 405,1069 502,1068 519,1062 523,1062 523,1069 545,1069 549,1062 552,1062 573,1065 586,1069 587,1061 598,1061 606,1066 624,1067 643,1061 648,1061 661,1062 664,1069 689,1067 691,1061 696,1061 698,1068 749,1067 750,1061 760,1061 760,1076 749,1077 689,1077 677,1077 648,1077 606,1077 573,1077 545,1077 523,1077 477,1077 469,1077 405,1077 379,1077 261,1077 198,1077 129,1077 93,1077 88,1077" />
+				<Baseline points="88,1077 760,1077" />
+				<TextEquiv index="1">
+					<Unicode>finden und Scheunen und Ställe lagen voll todter Pferde und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Der Stadt war es nicht viel besser ergangen. Am 27. und
+Februar war die ganze schwedische Armee in der Richtung
+gegen Freiberg durchpassirt und hatte allen Proviant mitgenommen.
+wurde. Am 20. März in der Frühe trafen die schwedischen Vor-
+truppen in Chemnitz ein; dann ward hier im Laufe des Tages das
+Hauptquartier aufgeschlagen. Alle Regimenter zu Ross und zu Fuss
+wurden in der Vorstadt und den nächst gelegenen Dörfern ein-
+quartiert und mussten von der Stadt aus verproviantirt werden.
+Eindruck seine Persönlichkeit gemacht hat, in der sich alle Eigen-
+schaften des grossen Heerführers mit der Tollkühnheit des Aben-
+Sprache er angenommen hatte, so dass er selbst mit der Kanzlei in
+Stockholm nur deutsch verkehrte, und die er als die besten Krie
+der Welt liebte, trotz aller Härte eine sympathische Erscheinung.
+Schon am 27. März war das ganze schwedische Heer unver-
+sehens mit allem Gepäck zur Stadt hinausgerückt, dann aber aus
+unbekannten Ursachen wieder zurückgekommen. Die Annäherung
+Hatzfeldts, welcher die Schweden im Rücken bedrohte, während die
+Generale Marazini und Buchheim vom Gebirge her anrückten, mahnte
+zur Vorsicht. Starke Streifschaaren wurden gegen Rochlitz ausge-
+Aufbruch. Wohin Banér sich wende, konnte wegen eines dichten
+Nebels nicht erkundet werden; nach zwei Tagen stellte sich heraus,
+dass er über Penig nach Altenburg und Zeitz marschirt sei.
+Mit der eingetretenen Ruhe liess sich der angerichtete Schaden
+übersehen. Auf dem Schlosse, welches mit viel Vieh und Pferden
+finden und Scheunen und Ställe lagen voll todter Pferde und</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="779,1067 808,1067 808,1080 779,1080" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="779,1067 791,1067 808,1068 808,1072 796,1076 791,1080 779,1080" />
+				<Baseline points="779,1070 808,1072" />
+				<TextEquiv index="1">
+					<Unicode>ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ge-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="89,1087 808,1087 808,1104 89,1104" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="89,1091 99,1091 108,1087 112,1087 125,1088 137,1093 148,1095 166,1095 183,1088 192,1088 200,1094 204,1094 217,1088 228,1088 230,1096 249,1098 284,1095 307,1095 333,1088 358,1088 367,1094 417,1092 480,1093 485,1100 491,1094 583,1094 608,1096 611,1088 621,1088 629,1094 639,1094 662,1088 725,1088 734,1094 743,1094 762,1088 767,1088 770,1095 787,1093 808,1094 808,1103 583,1104 574,1104 557,1102 256,1104 253,1104 89,1102" />
+				<Baseline points="89,1102 255,1101 808,1103" />
+				<TextEquiv index="1">
+					<Unicode>fallenen Viehes, alle Losamenter waren von den Abfällen beim</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>fallenen Viehes, alle Losamenter waren von den Abfällen beim</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="88,1113 808,1113 808,1135 88,1135" />
+			<!-- line left out: id="r4l0" points="88,1115 100,1115 100,1121 111,1113 116,1113 118,1119 128,1119 140,1120 146,1121 153,1114 164,1114 176,1118 253,1120 297,1120 329,1119 343,1119 350,1120 364,1119 368,1119 372,1127 395,1114 406,1114 407,1121 418,1121 455,1120 466,1120 514,1115 520,1115 528,1120 534,1123 541,1115 551,1115 571,1123 580,1122 591,1119 595,1119 621,1118 633,1118 670,1119 682,1120 682,1114 698,1114 698,1120 755,1120 768,1114 773,1114 775,1121 787,1120 797,1120 808,1121 808,1129 768,1129 757,1127 755,1135 698,1135 682,1135 551,1130 528,1130 455,1130 427,1127 418,1129 375,1130 360,1130 343,1130 329,1130 276,1129 272,1129 251,1128 230,1127 194,1129 176,1129 140,1129 130,1129 111,1128 88,1127" baseline="88,1128 808,1130" reason: differs: "tehmein" against "e hinei" | Wikisource:  | next_nc_e1: Schlachten so verunreinigt, dass man sich scheute hmeinzugehen.
+ | german_print2_15: Schlachten so verunreinigt, dass man sich scheute hmeinzugehen.
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="89,1138 812,1138 812,1368 89,1368" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="90,1138 96,1138 111,1142 116,1147 132,1139 144,1139 153,1147 164,1147 166,1140 176,1140 178,1148 200,1146 202,1140 213,1140 214,1148 245,1140 255,1140 268,1143 299,1146 341,1146 361,1149 373,1140 385,1140 395,1147 419,1146 427,1140 438,1140 439,1147 491,1147 493,1140 512,1140 522,1148 528,1148 529,1140 542,1140 542,1146 554,1146 558,1140 560,1140 626,1146 640,1144 656,1146 665,1152 670,1144 708,1147 716,1149 729,1140 742,1140 750,1148 770,1148 777,1141 788,1141 789,1147 809,1146 809,1155 708,1155 696,1158 685,1158 676,1156 90,1154" />
+				<Baseline points="90,1154 809,1155" />
+				<TextEquiv index="1">
+					<Unicode>Die drohende Gefahr eines Brandes ward durch rechtzeitiges Löschen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="89,1164 101,1164 102,1172 114,1170 143,1171 145,1165 156,1165 159,1172 194,1172 196,1166 206,1166 224,1172 288,1167 293,1167 306,1172 368,1172 369,1166 381,1166 382,1175 393,1172 436,1174 436,1166 452,1166 453,1172 486,1174 487,1166 499,1166 509,1172 520,1167 531,1167 533,1174 555,1172 574,1166 579,1166 581,1179 588,1179 593,1173 679,1173 681,1167 708,1166 728,1166 732,1173 740,1173 748,1166 807,1172 807,1180 632,1182 611,1186 593,1186 531,1182 89,1180" />
+				<Baseline points="89,1179 807,1181" />
+				<TextEquiv index="1">
+					<Unicode>der überall noch brennenden schwedischen Lager- und Kochfeuer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l2" custom="readingOrder {index:2;}">
+				<Coords points="89,1191 94,1191 98,1198 119,1198 119,1191 131,1191 146,1194 169,1191 171,1191 189,1197 213,1192 223,1192 242,1200 248,1192 253,1192 266,1198 304,1192 310,1199 334,1199 343,1192 391,1192 394,1200 415,1198 428,1195 490,1197 494,1205 516,1192 527,1192 530,1199 563,1196 574,1193 582,1193 583,1199 595,1199 596,1192 607,1192 608,1199 622,1199 639,1198 666,1191 669,1191 676,1195 712,1197 733,1197 740,1191 750,1191 752,1198 763,1197 770,1193 781,1193 810,1197 810,1206 563,1208 542,1202 540,1208 483,1211 472,1211 391,1207 310,1207 301,1195 296,1207 119,1209 119,1202 106,1205 89,1206" />
+				<Baseline points="89,1206 810,1207" />
+				<TextEquiv index="1">
+					<Unicode>beseitigt und der Caviller beauftragt, die Cadaver fortzuschaffen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l3" custom="readingOrder {index:3;}">
+				<Coords points="89,1217 139,1216 144,1216 158,1218 170,1223 170,1216 184,1216 192,1224 215,1223 237,1225 256,1218 268,1218 269,1227 282,1225 302,1219 318,1219 320,1227 332,1225 374,1224 446,1224 447,1218 490,1218 497,1224 525,1219 527,1227 546,1227 553,1219 558,1219 560,1225 571,1221 583,1221 616,1225 715,1223 735,1221 810,1222 810,1232 715,1232 635,1234 592,1234 541,1234 458,1234 342,1234 332,1234 89,1233" />
+				<Baseline points="89,1232 810,1232" />
+				<TextEquiv index="1">
+					<Unicode>Mit Reinigung der Gemächer und Wirthschaftsräume musste man</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l4" points="89,1249 100,1249 112,1250 157,1247 173,1247 192,1247 223,1249 238,1243 249,1243 251,1250 260,1250 293,1251 330,1251 341,1258 345,1245 371,1245 381,1244 393,1244 403,1248 407,1254 413,1254 415,1244 425,1244 427,1250 432,1250 441,1248 462,1248 486,1251 502,1244 510,1244 510,1252 519,1252 521,1245 539,1245 555,1248 562,1244 564,1244 604,1245 640,1243 652,1243 660,1249 675,1249 687,1243 693,1243 708,1245 731,1247 765,1249 801,1249 802,1242 811,1242 811,1258 765,1258 731,1258 693,1258 652,1258 623,1259 604,1260 532,1260 510,1260 462,1260 425,1260 403,1260 381,1260 371,1259 355,1260 341,1260 308,1259 279,1257 260,1258 223,1259 214,1259 208,1258 192,1257 178,1258 173,1259 134,1259 125,1259 112,1258 100,1259 89,1259" baseline="89,1259 133,1258 811,1258" reason: second model: differs: "enfsehl" against "n fehlt" | Wikisource: noch warten, da es an Arbeitskräften fehlte. Auf den Dörfern sah | next_nc_e1: noch varten, da es an Arbeitskräſten fehlte. Auf den Dörfern sah | german_print2_15: noch varten, da es an Arbeitskräften fſehlte. Auf den Dörfern sah -->
+			<TextLine id="r5l5" custom="readingOrder {index:5;}">
+				<Coords points="90,1276 153,1277 161,1269 170,1269 190,1278 198,1278 210,1269 220,1269 230,1275 332,1276 379,1284 383,1272 396,1270 407,1270 409,1278 446,1271 459,1271 473,1274 573,1277 590,1270 595,1270 598,1276 642,1275 643,1269 654,1269 668,1273 672,1282 697,1275 726,1274 748,1269 765,1269 767,1275 811,1274 811,1284 790,1288 779,1288 726,1284 676,1286 379,1286 170,1284 125,1285 90,1283" />
+				<Baseline points="90,1285 811,1284" />
+				<TextEquiv index="1">
+					<Unicode>es noch schlimmer aus. Alle Güter waren beraubt, zerschlagen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l6" custom="readingOrder {index:6;}">
+				<Coords points="91,1300 114,1301 115,1295 126,1295 147,1301 242,1299 248,1308 278,1301 294,1302 314,1295 320,1295 354,1302 355,1296 367,1296 368,1303 390,1304 398,1309 418,1296 441,1296 441,1304 452,1304 454,1297 465,1297 469,1309 493,1296 506,1296 511,1303 539,1296 550,1296 551,1303 573,1301 626,1302 627,1295 638,1295 680,1295 688,1301 731,1298 739,1295 750,1295 768,1301 812,1300 812,1310 779,1314 768,1314 700,1311 550,1311 469,1313 320,1310 170,1311 91,1309" />
+				<Baseline points="91,1309 812,1310" />
+				<TextEquiv index="1">
+					<Unicode>und verwüstet, an Pferden, Vieh, Saatkorn und Hausrath ganz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l7" custom="readingOrder {index:7;}">
+				<Coords points="92,1333 103,1333 104,1325 136,1326 146,1328 154,1325 164,1325 178,1328 180,1322 187,1321 198,1321 199,1329 211,1325 217,1325 237,1326 263,1330 265,1321 276,1321 278,1329 303,1321 324,1321 325,1327 571,1328 572,1334 594,1321 606,1321 607,1327 618,1327 638,1321 662,1321 670,1327 698,1328 702,1321 707,1321 709,1329 722,1327 769,1327 790,1330 790,1321 802,1321 804,1329 812,1329 812,1337 638,1337 620,1331 618,1337 576,1338 529,1337 491,1339 343,1336 234,1337 230,1329 220,1329 217,1337 146,1340 136,1340 92,1337" />
+				<Baseline points="92,1336 812,1337" />
+				<TextEquiv index="1">
+					<Unicode>„ausgefühlet“; die Häuser waren eingerissen, die Menschen in die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l8" custom="readingOrder {index:8;}">
+				<Coords points="94,1345 99,1345 129,1347 139,1352 200,1354 240,1352 245,1360 268,1359 273,1353 316,1353 316,1347 328,1347 344,1354 349,1347 369,1347 370,1354 392,1355 407,1347 438,1347 439,1353 504,1353 526,1348 537,1348 540,1359 565,1353 646,1354 664,1348 682,1348 684,1354 701,1354 703,1348 795,1348 798,1354 812,1354 812,1363 462,1362 462,1368 451,1368 443,1363 268,1362 233,1368 207,1368 203,1368 190,1363 183,1362 94,1361" />
+				<Baseline points="94,1360 812,1363" />
+				<TextEquiv index="1">
+					<Unicode>Hölzer verjagt, allenthalben Hungersnoth, in einer Meile um die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Die drohende Gefahr eines Brandes ward durch rechtzeitiges Löschen
+der überall noch brennenden schwedischen Lager- und Kochfeuer
+beseitigt und der Caviller beauftragt, die Cadaver fortzuschaffen.
+Mit Reinigung der Gemächer und Wirthschaftsräume musste man
+es noch schlimmer aus. Alle Güter waren beraubt, zerschlagen
+und verwüstet, an Pferden, Vieh, Saatkorn und Hausrath ganz
+„ausgefühlet“; die Häuser waren eingerissen, die Menschen in die
+Hölzer verjagt, allenthalben Hungersnoth, in einer Meile um die</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="394,1539 604,1539 604,1567 394,1567" />
+			<!-- line left out: id="r6l0" points="394,1549 402,1549 408,1550 422,1549 434,1549 443,1549 456,1549 469,1549 499,1549 533,1549 533,1539 547,1539 551,1552 570,1550 604,1550 604,1558 599,1560 578,1560 566,1560 551,1560 547,1567 533,1567 533,1558 452,1561 443,1561 426,1561 415,1560 407,1560 394,1558" baseline="394,1558 604,1557" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnpdigital slub-dresden de ppn3012s
+ | german_print2_15: P Giital slub-dresdenm de ppn50125
+ -->
+		</TextRegion>
+		<GraphicRegion id="r7">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Der Stadt war es nicht viel besser ergangen. Am 27. und
+28. Februar war die ganze schwedische Armee in der Richtung
+gegen Freiberg durchpassirt und hatte allen Proviant mitgenommen.
+Vom 2.–18. März ward Freiberg hart belagert, bis Banér durch
+die tapfere Gegenwehr der Soldaten, Bürger und Bergleute und
+durch den Anmarsch des kaiserlichen Heeres zum Abzuge genöthigt
+wurde. Am 20. März in der Frühe trafen die schwedischen Vortruppen
+in Chemnitz ein; dann ward hier im Laufe des Tages das
+Hauptquartier aufgeschlagen. Alle Regimenter zu Ross und zu Fuss
+wurden in der Vorstadt und den nächst gelegenen Dörfern einquartiert
+und mussten von der Stadt aus verproviantirt werden.
+Acht Tage lang weilte Banér in Chemnitz. Wir wissen nicht, welchen
+Eindruck seine Persönlichkeit gemacht hat, in der sich alle Eigenschaften
+des grossen Heerführers mit der Tollkühnheit des Abenteurers
+und der Galanterie des in allen Liebeshändeln erfahrenen
+Cavaliers vereinigten; im allgemeinen war er den Deutschen, deren
+Sprache er angenommen hatte, so dass er selbst mit der Kanzlei in
+Stockholm nur deutsch verkehrte, und die er als die besten Krieger
+der Welt liebte, trotz aller Härte eine sympathische Erscheinung.
+Schon am 27. März war das ganze schwedische Heer unversehens
+mit allem Gepäck zur Stadt hinausgerückt, dann aber aus
+unbekannten Ursachen wieder zurückgekommen. Die Annäherung
+Hatzfeldts, welcher die Schweden im Rücken bedrohte, während die
+Generale Marazini und Buchheim vom Gebirge her anrückten, mahnte
+zur Vorsicht. Starke Streifschaaren wurden gegen Rochlitz ausgeschickt;
+erst am nächsten Tage früh 7 Uhr erfolgte der ernstliche
+Aufbruch. Wohin Banér sich wende, konnte wegen eines dichten
+Nebels nicht erkundet werden; nach zwei Tagen stellte sich heraus,
+dass er über Penig nach Altenburg und Zeitz marschirt sei.
+Mit der eingetretenen Ruhe liess sich der angerichtete Schaden
+übersehen. Auf dem Schlosse, welches mit viel Vieh und Pferden
+belegt gewesen, war kein einziges Bund Stroh noch Heu mehr zu
+finden und Scheunen und Ställe lagen voll todter Pferde und gefallenen
+Viehes, alle Losamenter waren von den Abfällen beim
+Schlachten so verunreinigt, dass man sich scheute hineinzugehen.
+Die drohende Gefahr eines Brandes ward durch rechtzeitiges Löschen
+der überall noch brennenden schwedischen Lager- und Kochfeuer
+beseitigt und der Caviller beauftragt, die Cadaver fortzuschaffen.
+Mit Reinigung der Gemächer und Wirthschaftsräume musste man
+noch warten, da es an Arbeitskräften fehlte. Auf den Dörfern sah
+es noch schlimmer aus. Alle Güter waren beraubt, zerschlagen
+und verwüstet, an Pferden, Vieh, Saatkorn und Hausrath ganz
+„ausgefühlet“; die Häuser waren eingerissen, die Menschen in die
+Hölzer verjagt, allenthalben Hungersnoth, in einer Meile um die
+-->
+	</Page>
+</PcGts>

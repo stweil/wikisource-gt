@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:25:13</Created>
+		<LastChange>2026-11-23T14:25:13</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/147 revision 4773971 of 2025-12-31T07:48:20Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0147.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro11282787171953614533" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="30,1206 49,1206 49,1526 30,1526" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="350,166 430,166 430,183 350,183" />
+			<!-- line left out: id="r1l0" points="350,173 374,173 401,166 430,166 430,183 401,183 374,175 350,175" baseline="350,184 401,183 430,183" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 139
+ | german_print2_15: — 13⁰
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="60,207 809,207 809,1312 60,1312" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="60,223 75,223 83,229 112,227 112,221 135,221 137,228 157,225 181,225 182,219 204,218 216,218 236,225 252,217 259,216 305,216 307,222 364,221 366,214 374,214 374,220 384,220 385,214 390,214 391,220 547,216 548,210 566,210 578,215 579,209 591,209 592,217 616,214 637,214 654,207 667,207 685,207 693,210 716,212 718,219 741,211 775,210 775,220 752,220 722,224 704,223 452,228 409,232 345,231 329,237 281,233 157,236 137,231 135,237 124,240 100,240 89,240 60,239" />
+				<Baseline points="60,239 425,228 775,220" />
+				<TextEquiv index="1">
+					<Unicode>Angriffe auf das Privileg erfolgen von verschiedenen Seiten, von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="60,248 72,248 73,254 101,254 114,261 117,248 172,245 192,245 204,250 213,244 227,244 228,251 240,249 262,249 262,243 306,243 330,247 340,242 378,241 388,244 417,246 418,253 432,239 445,239 445,246 467,244 478,238 544,237 593,242 594,235 606,235 614,239 643,240 657,234 670,234 693,239 705,232 711,232 712,238 736,237 736,231 749,231 760,236 776,240 776,243 769,247 749,248 693,249 643,252 530,253 396,257 378,260 352,258 161,263 60,264" />
+				<Baseline points="60,265 213,260 642,251 776,246" />
+				<TextEquiv index="1">
+					<Unicode>dem Abte des Benedictinerklosters, den Nachbarstädten, den landes-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l2" points="60,275 72,275 102,280 103,274 108,274 110,280 120,280 122,273 132,273 133,279 146,278 161,278 178,271 190,271 190,277 201,277 201,271 212,271 223,272 223,278 244,277 256,275 313,275 313,268 325,268 355,269 383,267 395,267 420,270 449,272 463,265 475,265 477,271 488,270 510,265 525,265 556,267 593,268 594,261 606,261 616,267 626,267 627,261 639,261 651,266 653,260 661,260 700,259 708,259 721,264 736,258 748,258 777,262 777,274 721,275 672,278 670,278 639,277 593,278 556,279 532,280 487,281 449,283 382,283 355,284 313,285 244,286 212,287 161,288 132,289 120,290 72,291 60,291" baseline="60,290 274,285 448,281 569,278 736,274 777,273" reason: differs: "mtsands" against "mtsland" | Wikisource:  | next_nc_e1: herrlichen Schössern und Amtleuten, der Amts andschaft. In dem | german_print2_15: herrlichen Schössern und Amtleuten, der Amts andschaft. In dem -->
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="61,308 79,306 113,306 130,299 147,298 168,298 170,305 228,302 228,296 239,296 256,302 261,295 275,295 276,303 285,303 299,294 315,295 317,301 338,300 338,294 350,294 358,297 380,300 381,293 392,293 401,296 420,299 421,292 433,292 440,298 472,291 484,291 485,298 504,296 518,290 532,290 565,295 566,289 597,294 631,293 632,287 644,287 665,292 666,286 743,284 749,284 761,289 777,293 777,295 771,299 710,307 597,302 597,310 580,310 572,305 451,308 420,311 381,309 380,315 368,315 358,310 168,314 102,317 61,317" />
+				<Baseline points="61,317 777,299" />
+				<TextEquiv index="1">
+					<Unicode>einen Falle wird die Rechtsgiltigkeit des Privilegs überhaupt, ins-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="61,328 117,332 118,325 130,325 131,331 185,332 186,324 204,324 204,332 212,332 232,323 242,322 247,322 249,329 259,329 260,322 275,322 287,327 299,325 379,327 379,320 437,318 438,326 457,324 482,316 502,318 508,316 561,316 578,321 588,318 604,320 605,314 618,314 626,318 650,319 654,314 731,318 731,311 737,311 778,315 778,326 656,332 626,330 390,336 344,339 243,338 94,343 61,343" />
+				<Baseline points="61,343 778,326" />
+				<TextEquiv index="1">
+					<Unicode>besondere das Verbietungsrecht der Stadt bestritten, in einem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="62,359 86,359 86,353 98,353 118,358 253,355 255,348 275,348 276,354 320,351 321,361 354,347 400,353 442,351 442,344 454,344 454,350 464,350 465,344 489,343 549,343 558,348 577,345 602,347 619,340 625,340 626,346 642,346 643,340 687,344 693,342 713,341 739,336 751,336 752,342 772,342 779,344 779,352 725,355 693,354 687,360 673,360 649,356 602,360 591,360 584,358 558,358 507,362 404,360 386,362 325,364 288,364 276,356 275,364 98,369 62,369" />
+				<Baseline points="62,369 779,352" />
+				<TextEquiv index="1">
+					<Unicode>anderen zwar anerkannt, aber es wird gleichzeitig behauptet, dass</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="63,386 67,380 81,380 82,386 91,386 111,378 114,378 119,384 130,384 131,378 174,377 175,383 207,382 207,376 228,375 240,375 241,381 257,382 268,374 284,374 297,379 309,380 310,374 323,373 328,373 329,379 340,379 340,373 353,373 355,379 396,379 410,372 422,372 442,377 457,378 464,370 479,370 488,376 512,376 514,369 518,369 520,376 567,376 567,368 579,368 579,374 609,375 610,367 635,367 635,374 645,374 664,377 664,365 677,365 679,374 724,369 743,369 744,363 761,363 780,372 780,374 773,379 736,380 712,384 700,384 677,381 595,384 544,383 543,390 531,390 502,386 473,386 396,390 309,390 81,396 63,396" />
+				<Baseline points="63,396 780,378" />
+				<TextEquiv index="1">
+					<Unicode>die Stadt durch die Handhabung ihres Privilegs dasselbe als gemein-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="63,413 72,411 82,411 82,405 88,405 89,412 110,411 110,405 131,405 142,410 142,404 153,404 175,409 230,408 231,402 269,401 271,409 280,409 281,401 293,401 295,407 337,405 373,406 373,399 410,403 433,403 444,397 483,397 485,404 514,401 540,401 546,395 558,395 596,401 596,394 608,394 609,400 619,400 634,392 648,392 655,400 669,396 781,394 781,405 760,410 740,410 721,407 653,407 608,410 373,415 315,418 280,417 88,422 63,422" />
+				<Baseline points="63,422 781,404" />
+				<TextEquiv index="1">
+					<Unicode>schädlich verwirkt habe, im dritten Falle werden die Bestimmungen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="63,432 125,437 125,430 164,430 171,436 184,436 199,429 212,429 245,434 247,428 257,428 265,434 358,431 359,425 371,425 389,429 413,430 427,424 439,423 452,423 452,429 468,429 469,423 481,423 488,427 511,428 511,422 523,422 524,428 635,424 695,424 695,434 686,434 683,428 674,428 673,440 655,440 631,435 631,442 612,442 610,436 572,439 389,441 324,446 301,444 206,444 94,448 63,448" />
+				<Baseline points="63,448 695,434" />
+				<TextEquiv index="1">
+					<Unicode>der auf das Privileg gegründeten Marktordnung umgangen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="114,457 128,457 128,463 138,463 153,456 164,456 165,465 176,462 211,461 212,468 231,460 243,460 251,463 259,454 288,454 289,460 314,459 320,453 326,453 341,458 371,461 371,453 390,453 406,457 407,451 421,450 440,450 442,458 459,456 517,455 530,448 542,448 548,453 563,454 576,447 595,447 618,452 619,446 630,446 645,450 685,450 686,444 691,444 693,451 736,449 736,443 748,443 776,447 782,451 782,454 776,458 730,459 715,465 704,465 704,459 652,461 645,467 631,467 595,463 482,465 471,468 459,468 442,460 440,466 421,467 406,471 394,471 373,468 138,473 114,473" />
+				<Baseline points="114,473 782,458" />
+				<TextEquiv index="1">
+					<Unicode>Zu denen, welche ihre Angriffe gegen das Marktprivileg über-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="64,485 166,483 180,487 222,487 224,495 245,487 267,488 268,480 331,479 360,486 363,481 397,481 417,483 431,476 445,476 453,482 464,482 465,476 477,476 478,483 505,482 510,475 523,475 537,480 554,474 580,477 603,477 629,473 680,470 692,470 693,477 712,478 726,469 733,469 752,470 764,474 783,476 783,480 773,485 629,488 605,483 603,489 580,490 343,494 280,496 256,499 135,499 119,505 101,505 64,501" />
+				<Baseline points="64,501 783,484" />
+				<TextEquiv index="1">
+					<Unicode>haupt richteten, gehört in erster Reihe der letzte Abt des Bene-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="64,518 69,511 83,511 101,514 141,515 142,509 159,509 172,514 182,512 210,513 219,516 223,521 240,507 270,507 292,512 293,506 305,506 305,512 311,512 366,510 384,504 400,504 401,512 412,503 431,503 433,509 471,508 472,515 504,502 512,501 526,501 527,507 543,507 557,500 568,500 570,507 581,507 622,505 635,498 657,498 659,504 702,502 760,502 760,495 774,495 775,502 784,502 784,510 755,511 721,517 685,518 669,518 646,514 514,517 471,521 459,521 449,519 423,519 223,525 159,524 83,527 64,527" />
+				<Baseline points="64,527 784,510" />
+				<TextEquiv index="1">
+					<Unicode>dictinerklosters, Hilarius von Rehburg. Wie dessen Vorgänger die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="66,537 94,537 112,542 113,536 125,536 131,542 171,541 185,534 197,534 205,540 217,540 238,533 250,534 262,539 263,533 312,532 319,538 357,537 358,531 363,531 365,537 376,537 378,530 388,530 388,536 411,530 469,529 474,529 476,536 488,534 513,534 514,528 533,531 543,535 544,527 549,527 551,533 577,532 578,526 589,526 597,532 608,529 615,529 616,539 634,525 646,525 646,532 665,530 680,523 693,523 694,529 761,529 762,521 774,521 776,528 785,528 785,536 774,538 620,542 365,546 357,552 346,552 332,548 197,551 142,555 131,555 125,552 66,553" />
+				<Baseline points="66,553 785,537" />
+				<TextEquiv index="1">
+					<Unicode>Privilegien der Stadt bezüglich der Gerichtsbarkeit, der Bannmeile</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="66,569 106,570 107,576 126,568 200,567 207,560 221,560 231,566 242,566 242,560 254,560 261,564 325,564 326,558 358,557 366,564 376,564 376,557 391,557 409,560 446,556 452,556 453,562 464,559 510,560 511,568 541,559 552,559 573,553 586,553 586,559 597,559 598,552 610,552 616,558 662,554 674,554 685,557 700,550 719,549 730,549 781,554 782,561 785,561 785,565 643,567 641,573 426,572 221,576 200,578 106,579 66,579" />
+				<Baseline points="66,579 700,565 785,566" />
+				<TextEquiv index="1">
+					<Unicode>u. s. w. angefochten und verletzt hatten, so behauptete Hilarius,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="69,589 76,589 76,595 95,595 108,588 120,588 122,594 137,595 152,588 160,586 174,586 184,588 184,594 197,591 225,592 225,586 269,586 287,591 301,585 337,585 338,592 348,592 364,583 375,583 376,589 387,589 396,591 421,582 431,582 432,588 525,586 539,580 593,579 595,586 617,584 632,578 644,578 685,584 700,578 717,576 719,583 729,583 730,575 743,575 744,581 782,580 783,587 786,587 786,590 782,595 764,595 729,592 632,594 617,600 606,600 577,596 547,596 120,605 69,605" />
+				<Baseline points="69,605 786,590" />
+				<TextEquiv index="1">
+					<Unicode>für die Klosterdörfer habe das Chemnitzer Privileg keine Geltung.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="69,616 92,615 113,617 123,621 129,617 191,617 201,619 215,613 228,613 235,620 248,620 249,612 255,612 255,618 266,618 267,612 292,612 293,625 314,620 320,620 320,611 331,611 332,617 347,617 390,615 390,609 405,609 417,616 423,616 423,609 435,609 474,615 474,608 493,608 494,615 516,613 518,621 548,612 589,612 615,605 644,610 658,603 671,603 672,610 700,609 714,602 739,602 787,606 787,616 671,620 615,620 591,616 589,622 129,630 123,636 105,636 69,631" />
+				<Baseline points="69,631 787,617" />
+				<TextEquiv index="1">
+					<Unicode>Er gestattete deshalb, dass auf denselben, sowie bei dem Kloster</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="69,645 78,642 90,642 91,648 119,647 134,640 174,640 187,645 209,645 218,639 237,638 259,638 260,644 301,645 301,637 337,637 346,643 411,641 412,635 431,635 432,641 463,641 464,635 470,635 489,640 496,634 530,634 539,638 615,637 616,631 628,631 629,638 640,636 652,636 654,643 686,629 708,630 732,634 746,627 759,627 759,633 787,633 787,643 506,650 489,653 431,651 337,653 301,656 281,652 187,658 145,659 134,659 90,657 74,659 69,659" />
+				<Baseline points="69,659 787,643" />
+				<TextEquiv index="1">
+					<Unicode>(dem jetzigen Schlosse) Kornmärkte abgehalten wurden. Dass dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l17" points="71,669 87,668 93,668 106,671 164,672 178,666 193,666 216,671 216,665 222,665 261,665 274,670 281,669 354,669 361,670 366,662 378,662 405,668 420,667 427,665 442,665 473,667 474,661 500,660 505,660 508,666 513,666 534,665 542,665 571,665 581,667 583,659 594,659 632,663 633,657 645,657 646,663 664,662 676,662 676,656 689,656 691,662 696,662 703,663 708,655 719,655 757,660 764,654 775,654 776,660 788,660 788,670 745,671 696,672 677,673 632,674 581,675 519,675 513,676 485,678 414,678 354,679 304,680 235,681 193,682 106,683 86,685 71,685" baseline="71,684 135,682 405,677 541,673 788,669" reason: differs: "ichnach" against "ch ⟦⟧ d" | Wikisource:  | next_nc_e1: Abte ein Recht hierzu nicht zustand, liess sich urkundlich nach- | german_print2_15: Abte ein Recht hierzu nicht zustand, liess sich urkundlich nach- -->
+			<!-- line left out: id="r2l18" points="71,700 104,700 124,701 126,692 143,692 143,683 177,683 192,706 197,693 225,693 248,696 269,690 277,690 285,696 296,696 298,690 308,690 374,689 379,689 381,695 392,692 412,692 423,695 437,687 449,687 450,694 461,693 484,688 499,687 505,687 532,685 573,685 573,691 583,691 584,685 595,685 610,692 615,684 628,684 629,691 639,691 654,683 668,683 670,690 681,688 703,688 704,681 715,681 722,687 733,687 733,681 745,681 753,684 764,686 764,696 753,697 715,698 704,698 703,704 691,704 690,698 663,698 628,700 595,701 554,702 499,703 412,704 352,709 331,709 308,706 279,706 277,713 269,713 243,702 225,708 192,708 177,717 143,717 143,709 104,710 83,710 71,710" baseline="71,710 163,708 269,706 422,703 532,701 764,696" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: weisen ²). Am 2. Juni 1331 hatte der Abt Ulrich die Verpflichtu | german_print2_15: weisen ²). Am 2. Juni 1331 hatte der Abt Ulrich die Verpflichtu -->
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="71,727 77,727 77,721 90,721 103,726 116,720 160,722 181,725 182,719 187,719 189,726 199,724 227,724 229,731 241,723 258,721 335,722 336,716 347,716 391,719 393,728 412,715 430,714 433,720 444,720 445,713 459,713 483,717 490,713 508,713 582,718 583,711 602,711 603,717 630,715 790,712 790,722 634,727 430,730 397,732 233,733 77,737 71,737" />
+				<Baseline points="71,736 790,723" />
+				<TextEquiv index="1">
+					<Unicode>der Gotteshausleute anerkannt, Marktzoll zu zahlen; nur war man</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="71,753 83,753 84,747 96,747 96,754 108,752 163,752 171,745 187,745 189,751 285,750 286,743 296,743 298,749 340,749 340,742 353,742 361,749 393,747 412,741 422,740 426,740 428,748 439,746 461,746 462,739 473,739 480,745 491,745 492,739 503,739 530,744 553,744 567,737 579,737 580,744 596,744 612,737 624,737 625,743 644,736 718,740 732,734 769,733 781,733 782,740 791,740 791,749 612,753 593,747 591,753 567,753 553,759 536,759 530,755 479,756 461,761 449,761 421,756 303,758 260,761 187,761 163,765 147,765 116,763 71,763" />
+				<Baseline points="71,763 791,749" />
+				<TextEquiv index="1">
+					<Unicode>übereingekommen, dass dieser Verpflichtung, die in baarem Gelde</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="72,779 85,774 90,774 101,779 102,773 113,773 146,778 154,772 163,772 171,778 211,774 270,776 270,770 282,770 290,777 299,777 313,769 325,769 326,775 337,775 338,769 349,769 382,774 383,768 394,768 420,773 470,770 536,771 536,765 550,765 550,771 579,771 579,764 590,764 591,770 615,771 629,763 648,763 648,769 658,769 672,763 683,762 694,762 729,767 738,760 750,760 751,766 785,766 791,769 791,771 785,776 558,781 493,781 469,787 450,787 443,783 420,785 372,784 299,787 203,787 146,792 135,792 72,790" />
+				<Baseline points="72,790 791,775" />
+				<TextEquiv index="1">
+					<Unicode>nicht geleistet wurde, dadurch genügt werde, dass die Gotteshaus-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="73,800 79,800 80,806 104,803 174,804 188,797 202,797 202,803 238,803 238,797 338,803 339,795 344,795 346,801 362,801 376,793 383,793 395,798 413,800 414,793 426,793 441,799 471,798 472,792 485,792 486,798 515,798 515,791 527,791 530,797 614,796 642,789 666,789 667,795 677,795 698,786 712,786 721,793 742,793 743,786 761,786 762,792 772,792 773,786 778,786 779,792 792,792 792,802 743,803 742,809 730,809 729,803 721,803 712,809 698,809 698,803 585,807 151,815 135,815 118,809 117,815 103,816 79,816 73,816" />
+				<Baseline points="73,816 792,802" />
+				<TextEquiv index="1">
+					<Unicode>leute zum Zaunbau um die Stadt verbunden seien. Die Verpflich-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="74,831 164,830 177,824 191,824 191,830 202,830 203,824 221,824 275,830 281,822 293,822 294,829 307,829 322,822 334,821 340,821 342,827 362,827 364,821 375,821 382,824 405,826 406,820 418,820 420,827 439,827 458,819 517,824 518,818 530,818 530,825 550,823 568,817 580,817 582,823 598,824 613,817 628,817 641,822 661,821 662,815 674,815 675,823 686,820 767,820 767,813 780,813 780,820 793,820 793,829 747,834 674,831 400,837 275,838 258,844 208,840 155,841 117,846 107,846 74,842" />
+				<Baseline points="74,842 793,828" />
+				<TextEquiv index="1">
+					<Unicode>tung zur Zahlung des Marktzolles hat aber die Anerkennung des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l24" custom="readingOrder {index:24;}">
+				<Coords points="74,853 94,852 95,858 115,857 116,851 182,856 183,850 195,850 200,856 269,855 284,849 294,848 304,848 306,854 370,851 434,852 462,845 485,845 486,852 516,852 532,844 546,844 548,851 558,851 560,843 574,843 575,850 585,850 587,843 599,843 606,846 626,848 651,848 712,846 712,840 724,840 725,847 737,845 768,846 768,839 780,839 780,845 793,845 793,855 690,857 674,856 652,852 651,858 620,859 541,859 434,864 213,864 211,871 200,871 195,866 149,867 143,873 129,873 94,869 74,869" />
+				<Baseline points="74,868 532,860 655,856 793,855" />
+				<TextEquiv index="1">
+					<Unicode>Marktprivilegs zur Voraussetzung. Diese Verhältnisse wurden da-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l25" custom="readingOrder {index:25;}">
+				<Coords points="76,879 87,879 120,884 120,878 131,878 157,883 157,877 188,877 270,881 270,875 282,875 305,878 306,888 327,874 339,874 340,880 444,876 445,885 468,871 517,871 518,877 555,876 555,870 562,870 562,877 574,873 606,869 618,869 619,875 668,873 706,874 706,867 719,867 720,874 730,874 743,866 756,866 763,870 776,871 782,865 794,865 794,881 555,887 478,887 476,894 468,894 449,888 444,893 435,893 409,889 360,888 310,895 282,891 237,891 230,897 218,897 178,893 100,895 76,894" />
+				<Baseline points="76,894 794,881" />
+				<TextEquiv index="1">
+					<Unicode>durch nicht geändert, dass im 15. Jahrhundert die um die Stadt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l26" custom="readingOrder {index:26;}">
+				<Coords points="76,912 93,912 95,904 126,904 127,910 142,907 170,909 186,902 224,902 232,908 252,908 252,901 264,901 265,909 287,907 301,901 313,901 346,906 346,900 357,900 372,907 384,905 431,904 476,901 483,901 494,905 507,897 520,897 527,901 540,903 540,896 552,896 560,901 572,902 666,900 673,897 696,896 754,898 760,892 774,892 795,897 795,909 666,911 642,910 603,912 441,915 431,915 409,909 407,915 108,921 88,925 76,925" />
+				<Baseline points="76,921 795,908" />
+				<TextEquiv index="1">
+					<Unicode>geführten Pallisaden durch eine zweite Stadtmauer ersetzt wurden,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l27" custom="readingOrder {index:27;}">
+				<Coords points="77,937 98,937 99,931 117,931 149,936 150,930 161,930 181,937 187,929 199,929 213,934 227,928 240,928 241,934 277,928 351,932 369,926 378,925 391,925 392,933 403,929 422,929 435,931 436,925 443,924 485,924 510,929 512,936 544,922 557,922 557,931 607,927 703,926 704,919 724,919 725,926 745,925 745,919 764,919 797,925 797,934 789,939 680,937 435,941 422,944 403,944 379,941 117,947 90,947 77,947" />
+				<Baseline points="77,947 797,934" />
+				<TextEquiv index="1">
+					<Unicode>wodurch der Zaunbau in Wegfall kam. Es war nun allerdings</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l28" custom="readingOrder {index:28;}">
+				<Coords points="79,964 87,961 104,963 111,957 121,957 128,960 148,962 149,969 166,955 184,955 185,961 215,960 248,954 260,954 261,961 273,959 289,959 302,951 316,953 317,959 336,956 352,956 369,959 375,952 393,951 395,957 412,952 417,952 425,959 446,957 457,951 472,951 479,949 500,949 501,956 551,955 562,949 574,949 575,956 594,956 608,948 621,948 621,954 739,951 739,945 777,945 778,951 797,952 797,960 645,964 507,965 472,967 184,971 148,974 136,974 79,972" />
+				<Baseline points="79,973 189,969 797,960" />
+				<TextEquiv index="1">
+					<Unicode>streitig, ob mit dem thatsächlichen Aufhören des Zäunens auch das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l29" custom="readingOrder {index:29;}">
+				<Coords points="81,983 96,983 104,989 113,989 114,982 125,982 152,988 169,988 169,981 205,981 205,987 236,987 253,986 267,980 293,980 308,985 309,979 327,979 342,986 349,984 363,984 364,978 369,978 370,985 392,983 403,978 414,978 415,984 451,982 493,982 507,988 512,976 524,976 563,983 570,981 591,981 607,974 631,974 645,979 646,973 658,973 683,980 695,978 737,977 771,971 785,971 786,977 797,977 797,982 785,986 737,988 714,993 701,993 694,989 512,992 493,997 480,997 437,993 403,994 382,992 369,994 293,996 96,999 81,999" />
+				<Baseline points="81,998 797,986" />
+				<TextEquiv index="1">
+					<Unicode>Recht auf freien Markt erloschen war, aber ein Recht, eigene Ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l30" custom="readingOrder {index:30;}">
+				<Coords points="82,1012 98,1014 122,1014 122,1008 134,1008 140,1014 178,1013 179,1007 190,1007 199,1010 272,1007 284,1012 284,1006 297,1006 304,1012 320,1012 321,1019 344,1005 401,1007 435,1011 435,1003 446,1003 463,1008 530,1008 545,1002 575,1002 588,1007 608,1006 621,1000 643,1000 644,1006 695,1004 707,999 713,999 732,1004 743,1005 744,998 749,998 751,1005 762,1005 762,998 768,998 794,1000 795,1010 799,1010 799,1015 768,1014 720,1018 713,1014 325,1022 122,1024 82,1024" />
+				<Baseline points="82,1024 799,1013" />
+				<TextEquiv index="1">
+					<Unicode>treidemärkte zu haben, konnte daraus in keiner Weise abgeleitet,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l31" custom="readingOrder {index:31;}">
+				<Coords points="84,1034 96,1034 104,1040 120,1036 140,1036 170,1039 170,1033 182,1033 193,1038 208,1039 209,1033 288,1038 312,1037 325,1031 337,1031 338,1039 349,1037 385,1039 385,1031 397,1030 410,1030 428,1034 452,1036 454,1029 464,1029 501,1034 544,1034 551,1028 590,1027 688,1031 688,1025 755,1030 755,1023 781,1023 781,1029 799,1029 799,1041 781,1040 669,1042 654,1047 625,1043 544,1044 501,1047 277,1047 252,1053 246,1053 182,1048 84,1050" />
+				<Baseline points="84,1049 722,1040 799,1041" />
+				<TextEquiv index="1">
+					<Unicode>konnte überhaupt von dem Abte solange nicht beansprucht werden,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l32" custom="readingOrder {index:32;}">
+				<Coords points="84,1066 90,1066 90,1060 101,1060 103,1067 111,1067 124,1059 136,1059 137,1065 199,1064 204,1058 210,1058 237,1065 243,1058 255,1058 257,1065 266,1065 276,1059 290,1059 303,1064 324,1064 325,1058 393,1063 393,1056 406,1056 407,1063 419,1063 429,1056 441,1055 448,1055 450,1061 470,1061 471,1055 490,1055 491,1061 521,1061 521,1055 528,1055 541,1058 608,1059 623,1053 635,1053 636,1060 646,1058 664,1058 675,1051 682,1051 683,1057 720,1057 720,1051 735,1051 735,1058 748,1058 748,1051 754,1051 755,1057 801,1055 801,1065 541,1071 387,1072 373,1078 362,1078 324,1074 84,1076" />
+				<Baseline points="84,1076 801,1065" />
+				<TextEquiv index="1">
+					<Unicode>als ihm nicht die Ausübung des Marktrechtes von dem Landesherrn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l33" custom="readingOrder {index:33;}">
+				<Coords points="85,1093 116,1092 117,1086 121,1086 123,1092 136,1092 136,1085 147,1085 154,1091 206,1090 217,1089 230,1084 242,1084 243,1091 315,1090 315,1097 337,1089 433,1089 433,1082 451,1082 504,1088 511,1081 521,1081 552,1086 567,1079 574,1079 582,1080 583,1087 603,1085 604,1079 617,1079 629,1083 675,1084 689,1077 702,1077 702,1084 722,1083 735,1077 764,1077 764,1083 775,1081 801,1081 801,1092 702,1094 675,1096 574,1096 319,1100 206,1099 136,1102 85,1102" />
+				<Baseline points="85,1102 801,1092" />
+				<TextEquiv index="1">
+					<Unicode>verliehen worden war, was wiederum ohne Verletzung des Chem-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l34" custom="readingOrder {index:34;}">
+				<Coords points="85,1119 104,1116 121,1118 140,1118 161,1111 175,1111 207,1116 209,1110 221,1110 227,1116 267,1115 296,1110 307,1110 335,1116 359,1117 368,1109 392,1108 408,1108 410,1115 438,1114 456,1108 468,1108 468,1114 493,1113 505,1111 513,1111 527,1114 527,1108 563,1106 593,1106 607,1111 626,1111 641,1119 646,1106 688,1104 707,1109 753,1108 771,1102 783,1102 802,1107 802,1118 771,1118 753,1124 707,1120 572,1122 529,1124 359,1125 347,1130 335,1130 285,1125 238,1128 227,1128 221,1126 85,1129" />
+				<Baseline points="85,1129 139,1127 802,1118" />
+				<TextEquiv index="1">
+					<Unicode>nitzer Privilegs nicht geschehen konnte. Dieser Auffassung der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l35" custom="readingOrder {index:35;}">
+				<Coords points="84,1140 97,1140 108,1145 115,1139 138,1138 139,1144 173,1145 188,1137 196,1137 196,1143 220,1140 277,1141 278,1135 289,1135 301,1142 334,1142 334,1136 371,1136 391,1141 406,1149 411,1135 428,1135 442,1139 444,1148 461,1140 472,1139 480,1134 492,1134 535,1141 542,1139 609,1137 617,1133 690,1134 714,1136 714,1130 727,1130 803,1133 803,1149 772,1149 727,1145 679,1146 677,1152 670,1152 669,1146 447,1151 227,1152 218,1155 163,1156 151,1156 84,1155" />
+				<Baseline points="84,1154 803,1144" />
+				<TextEquiv index="1">
+					<Unicode>Sachlage fügte sich auch der Abt, indem er am 16. September 1534</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l36" custom="readingOrder {index:36;}">
+				<Coords points="85,1166 97,1166 126,1171 137,1164 153,1165 254,1162 255,1168 266,1168 273,1161 285,1161 304,1167 306,1174 319,1168 331,1167 351,1162 388,1162 389,1168 460,1166 486,1161 584,1164 594,1157 657,1157 659,1164 670,1162 682,1162 683,1169 700,1156 712,1156 713,1162 735,1161 745,1155 768,1155 797,1160 804,1164 804,1166 797,1170 712,1172 687,1174 657,1173 309,1179 266,1177 97,1182 85,1182" />
+				<Baseline points="85,1182 308,1177 804,1170" />
+				<TextEquiv index="1">
+					<Unicode>dem Rathe mittheilte, er habe seinem Amtmann befohlen, den Korn-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l37" points="86,1198 98,1198 109,1197 116,1197 118,1191 138,1191 145,1194 159,1202 165,1196 177,1192 201,1189 212,1189 214,1196 226,1194 236,1194 247,1188 254,1188 268,1191 278,1189 291,1187 304,1187 306,1193 349,1188 361,1188 400,1191 411,1195 412,1187 425,1187 433,1193 452,1193 452,1187 482,1186 488,1185 503,1185 503,1191 517,1191 527,1185 539,1185 541,1191 546,1191 556,1192 571,1185 592,1185 612,1190 624,1191 625,1184 637,1184 718,1187 718,1181 732,1181 767,1181 774,1184 792,1186 792,1180 805,1180 805,1196 745,1197 674,1202 657,1202 637,1200 577,1201 489,1202 454,1203 425,1203 254,1204 212,1205 189,1206 138,1208 111,1208 86,1208" baseline="86,1208 247,1203 673,1198 805,1195" reason: differs: "ungderS" against "ungen d" | Wikisource:  | next_nc_e1: markt auf den Dörfern abzustellen. Für die Beziehung der Stadt | german_print2_15: markt auf den Dörfern abzustellen. Für die Beziehunge der Stadt -->
+			<TextLine id="r2l38" custom="readingOrder {index:38;}">
+				<Coords points="87,1224 127,1224 127,1218 144,1218 155,1223 170,1216 198,1216 201,1222 216,1219 243,1221 243,1214 255,1214 264,1220 278,1220 280,1213 288,1213 298,1219 318,1219 332,1213 344,1213 351,1219 388,1217 435,1220 449,1212 455,1212 455,1218 475,1218 476,1212 519,1212 565,1217 565,1211 595,1211 635,1215 642,1209 660,1209 668,1214 682,1208 746,1213 762,1206 775,1206 775,1212 799,1212 806,1215 806,1218 799,1222 595,1227 255,1230 96,1235 87,1235" />
+				<Baseline points="87,1234 806,1221" />
+				<TextEquiv index="1">
+					<Unicode>zu den Klosterdörfern konnte es sich also nicht mehr darum han-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l39" custom="readingOrder {index:39;}">
+				<Coords points="88,1244 100,1244 101,1252 112,1244 117,1244 130,1249 131,1257 147,1249 159,1249 159,1243 197,1242 198,1248 209,1248 217,1250 242,1241 253,1241 254,1247 310,1243 347,1245 360,1239 374,1239 374,1245 407,1245 408,1239 413,1239 415,1246 437,1245 451,1238 476,1238 485,1242 542,1238 585,1243 598,1236 692,1239 706,1232 714,1232 757,1238 757,1232 772,1232 807,1237 807,1248 550,1254 525,1253 516,1251 503,1259 463,1257 458,1259 360,1259 289,1256 135,1260 100,1260 88,1260" />
+				<Baseline points="88,1259 807,1247" />
+				<TextEquiv index="1">
+					<Unicode>deln, ob das Chemnitzer Privileg giltig sei; es kam nur darauf an</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l40" custom="readingOrder {index:40;}">
+				<Coords points="99,1284 105,1268 126,1268 135,1275 163,1273 170,1268 188,1268 190,1275 212,1274 213,1281 231,1273 242,1273 243,1267 254,1267 265,1273 269,1266 283,1266 284,1273 294,1273 303,1266 315,1266 323,1270 335,1271 341,1265 371,1265 373,1271 419,1271 419,1265 446,1265 446,1271 465,1268 478,1277 484,1264 509,1264 557,1269 570,1263 583,1263 584,1269 607,1268 617,1261 734,1265 747,1258 759,1258 760,1264 808,1263 808,1274 583,1279 523,1279 509,1285 484,1285 478,1279 458,1285 446,1285 425,1281 355,1281 126,1286 99,1286" />
+				<Baseline points="99,1285 808,1273" />
+				<TextEquiv index="1">
+					<Unicode>estzustellen, ob die Stadt berechtigt sei, von den Bauern aus diesen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l41" custom="readingOrder {index:41;}">
+				<Coords points="90,1296 112,1297 121,1295 138,1295 138,1302 168,1300 182,1294 201,1294 203,1300 223,1299 225,1293 236,1293 254,1297 262,1293 278,1292 293,1298 352,1297 353,1291 365,1291 366,1297 376,1297 376,1291 389,1291 412,1296 413,1303 446,1290 462,1290 463,1297 496,1296 496,1290 538,1290 546,1292 583,1288 703,1285 709,1285 710,1291 787,1289 809,1290 809,1300 496,1306 496,1312 483,1312 483,1306 463,1306 453,1312 446,1312 412,1307 138,1312 97,1312 90,1312" />
+				<Baseline points="90,1312 809,1300" />
+				<TextEquiv index="1">
+					<Unicode>Dörfern Marktzoll zu erheben. Verpflichtet ihn zu zahlen waren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Angriffe auf das Privileg erfolgen von verschiedenen Seiten, von
+dem Abte des Benedictinerklosters, den Nachbarstädten, den landes-
+einen Falle wird die Rechtsgiltigkeit des Privilegs überhaupt, ins-
+besondere das Verbietungsrecht der Stadt bestritten, in einem
+anderen zwar anerkannt, aber es wird gleichzeitig behauptet, dass
+die Stadt durch die Handhabung ihres Privilegs dasselbe als gemein-
+schädlich verwirkt habe, im dritten Falle werden die Bestimmungen
+der auf das Privileg gegründeten Marktordnung umgangen.
+Zu denen, welche ihre Angriffe gegen das Marktprivileg über-
+haupt richteten, gehört in erster Reihe der letzte Abt des Bene-
+dictinerklosters, Hilarius von Rehburg. Wie dessen Vorgänger die
+Privilegien der Stadt bezüglich der Gerichtsbarkeit, der Bannmeile
+u. s. w. angefochten und verletzt hatten, so behauptete Hilarius,
+für die Klosterdörfer habe das Chemnitzer Privileg keine Geltung.
+Er gestattete deshalb, dass auf denselben, sowie bei dem Kloster
+(dem jetzigen Schlosse) Kornmärkte abgehalten wurden. Dass dem
+der Gotteshausleute anerkannt, Marktzoll zu zahlen; nur war man
+übereingekommen, dass dieser Verpflichtung, die in baarem Gelde
+nicht geleistet wurde, dadurch genügt werde, dass die Gotteshaus-
+leute zum Zaunbau um die Stadt verbunden seien. Die Verpflich-
+tung zur Zahlung des Marktzolles hat aber die Anerkennung des
+Marktprivilegs zur Voraussetzung. Diese Verhältnisse wurden da-
+durch nicht geändert, dass im 15. Jahrhundert die um die Stadt
+geführten Pallisaden durch eine zweite Stadtmauer ersetzt wurden,
+wodurch der Zaunbau in Wegfall kam. Es war nun allerdings
+streitig, ob mit dem thatsächlichen Aufhören des Zäunens auch das
+Recht auf freien Markt erloschen war, aber ein Recht, eigene Ge-
+treidemärkte zu haben, konnte daraus in keiner Weise abgeleitet,
+konnte überhaupt von dem Abte solange nicht beansprucht werden,
+als ihm nicht die Ausübung des Marktrechtes von dem Landesherrn
+verliehen worden war, was wiederum ohne Verletzung des Chem-
+nitzer Privilegs nicht geschehen konnte. Dieser Auffassung der
+Sachlage fügte sich auch der Abt, indem er am 16. September 1534
+dem Rathe mittheilte, er habe seinem Amtmann befohlen, den Korn-
+zu den Klosterdörfern konnte es sich also nicht mehr darum han-
+deln, ob das Chemnitzer Privileg giltig sei; es kam nur darauf an
+estzustellen, ob die Stadt berechtigt sei, von den Bauern aus diesen
+Dörfern Marktzoll zu erheben. Verpflichtet ihn zu zahlen waren</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="135,1349 287,1349 287,1367 135,1367" />
+			<!-- line left out: id="r3l0" points="135,1349 169,1349 173,1351 177,1358 188,1358 190,1350 204,1350 206,1361 223,1350 243,1350 273,1352 284,1353 285,1360 287,1360 287,1363 273,1367 264,1367 243,1364 135,1364" baseline="135,1364 251,1363 287,1363" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: )U.-V. Nr. 32.
+ | german_print2_15: *) U.-V. Nr. 32.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="394,1549 599,1549 599,1561 394,1561" />
+			<!-- line left out: id="r5l0" points="394,1549 402,1549 408,1550 422,1549 434,1549 456,1549 469,1549 499,1549 525,1549 548,1549 599,1550 599,1558 571,1560 551,1560 531,1558 452,1561 441,1561 426,1561 414,1560 407,1560 394,1558" baseline="394,1558 599,1557" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnp digital slub-dresden de ppn302 | german_print2_15: UtpPiital slub-dresden de ppne012: -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Angriffe auf das Privileg erfolgen von verschiedenen Seiten, von
+dem Abte des Benedictinerklosters, den Nachbarstädten, den
+landesherrlichen Schössern und Amtleuten, der Amtslandschaft. In dem
+einen Falle wird die Rechtsgiltigkeit des Privilegs überhaupt,
+insbesondere das Verbietungsrecht der Stadt bestritten, in einem
+anderen zwar anerkannt, aber es wird gleichzeitig behauptet, dass
+die Stadt durch die Handhabung ihres Privilegs dasselbe als
+gemeinschädlich verwirkt habe, im dritten Falle werden die Bestimmungen
+der auf das Privileg gegründeten Marktordnung umgangen.
+Zu denen, welche ihre Angriffe gegen das Marktprivileg
+überhaupt richteten, gehört in erster Reihe der letzte Abt des
+Benedictinerklosters, Hilarius von Rehburg. Wie dessen Vorgänger die
+Privilegien der Stadt bezüglich der Gerichtsbarkeit, der Bannmeile
+u. s. w. angefochten und verletzt hatten, so behauptete Hilarius,
+für die Klosterdörfer habe das Chemnitzer Privileg keine Geltung.
+Er gestattete deshalb, dass auf denselben, sowie bei dem Kloster
+(dem jetzigen Schlosse) Kornmärkte abgehalten wurden. Dass dem
+Abte ein Recht hierzu nicht zustand, liess sich urkundlich
+nachweisen⟦⟧. Am 2. Juni 1331 hatte der Abt Ulrich die Verpflichtung
+der Gotteshausleute anerkannt, Marktzoll zu zahlen; nur war man
+übereingekommen, dass dieser Verpflichtung, die in baarem Gelde
+nicht geleistet wurde, dadurch genügt werde, dass die
+Gotteshausleute zum Zaunbau um die Stadt verbunden seien.
+Die Verpflichtung zur Zahlung des Marktzolles hat aber die Anerkennung des
+Marktprivilegs zur Voraussetzung. Diese Verhältnisse wurden
+dadurch nicht geändert, dass im 15. Jahrhundert die um die Stadt
+geführten Pallisaden durch eine zweite Stadtmauer ersetzt wurden,
+wodurch der Zaunbau in Wegfall kam. Es war nun allerdings
+streitig, ob mit dem thatsächlichen Aufhören des Zäunens auch das
+Recht auf freien Markt erloschen war, aber ein Recht, eigene
+Getreidemärkte zu haben, konnte daraus in keiner Weise abgeleitet,
+konnte überhaupt von dem Abte solange nicht beansprucht werden,
+als ihm nicht die Ausübung des Marktrechtes von dem Landesherrn
+verliehen worden war, was wiederum ohne Verletzung des
+Chemnitzer Privilegs nicht geschehen konnte. Dieser Auffassung der
+Sachlage fügte sich auch der Abt, indem er am 16. September 1534
+dem Rathe mittheilte, er habe seinem Amtmann befohlen, den
+Kornmarkt auf den Dörfern abzustellen. Für die Beziehungen der Stadt
+zu den Klosterdörfern konnte es sich also nicht mehr darum
+handeln, ob das Chemnitzer Privileg giltig sei; es kam nur darauf an
+festzustellen, ob die Stadt berechtigt sei, von den Bauern aus diesen
+Dörfern Marktzoll zu erheben. Verpflichtet ihn zu zahlen waren
+-->
+	</Page>
+</PcGts>

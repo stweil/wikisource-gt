@@ -1,0 +1,532 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:26:10</Created>
+		<LastChange>2026-11-23T14:26:10</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/158 revision 4777813 of 2026-01-05T07:52:06Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0158.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro3281490642921473213" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="15" regionRef="r15" />
+				<RegionRefIndexed index="17" regionRef="r17" />
+				<RegionRefIndexed index="18" regionRef="r18" />
+				<RegionRefIndexed index="19" regionRef="r19" />
+				<RegionRefIndexed index="23" regionRef="r23" />
+				<RegionRefIndexed index="24" regionRef="r24" />
+				<RegionRefIndexed index="26" regionRef="r26" />
+				<RegionRefIndexed index="30" regionRef="r30" />
+				<RegionRefIndexed index="32" regionRef="r32" />
+				<RegionRefIndexed index="34" regionRef="r34" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="0,652 9,652 9,1075 0,1075" />
+		</SeparatorRegion>
+		<GraphicRegion id="r1">
+			<Coords points="164,1169 183,1169 183,1189 164,1189" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="189,201 899,201 899,311 189,311" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="190,201 210,201 211,207 222,207 232,202 244,202 251,206 265,208 275,204 309,201 323,201 323,210 352,213 352,206 367,206 368,214 378,214 396,207 413,207 414,214 490,217 491,211 502,211 523,218 535,218 546,220 556,219 567,214 578,214 579,221 589,221 590,215 601,215 609,221 627,218 684,224 684,218 696,218 697,225 707,225 708,231 738,219 752,219 753,225 811,221 878,224 879,230 899,230 899,240 885,240 847,240 841,240 747,234 609,234 603,231 567,230 546,227 535,230 467,229 433,231 431,224 348,222 329,226 309,226 309,218 265,224 253,224 251,218 190,217" />
+				<Baseline points="190,216 899,240" />
+				<TextEquiv index="1">
+					<Unicode>Marktprivileg die Umgegend geschädigt werde. Vorsicht schien</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="190,233 271,229 289,229 291,236 321,231 338,231 339,237 373,236 397,239 398,233 410,233 410,242 485,237 485,245 497,241 510,241 532,244 532,237 586,240 586,246 618,242 630,242 630,249 660,249 661,243 678,243 680,249 708,251 725,245 758,245 758,253 782,252 782,260 805,247 816,247 818,255 854,249 876,249 876,255 899,253 899,266 885,270 875,270 864,265 816,263 782,265 769,262 691,258 661,259 485,252 473,254 421,251 410,249 373,249 190,243" />
+				<Baseline points="190,242 899,266" />
+				<TextEquiv index="1">
+					<Unicode>unter allen Umständen geboten. Man beschloss daher, den Vogt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l2" points="189,258 200,258 223,259 257,260 268,261 302,261 303,269 328,257 340,257 341,263 351,263 369,264 408,265 433,268 433,261 444,261 450,268 481,263 486,263 497,265 527,270 562,265 574,265 585,266 585,273 598,273 598,267 610,267 612,273 621,273 623,267 633,267 634,276 661,275 697,270 719,270 720,276 725,276 737,271 749,271 750,279 761,278 793,273 804,273 811,278 820,280 842,281 842,291 832,291 811,288 796,291 793,291 761,288 737,287 702,286 667,285 661,284 621,282 610,283 598,283 562,282 511,280 498,279 486,278 450,278 427,277 389,275 361,274 351,273 307,274 303,274 291,272 268,271 259,271 235,270 223,270 189,269" baseline="189,268 306,272 407,275 545,280 640,283 793,287 842,289" reason: differs: "ube'sin" against "ube’s i" | Wikisource:  | next_nc_e1: anzuweisen, dass er den Diener Taube's in Frieden lasse, | german_print2_15: anzuweisen, dass er den Diener Taube's in Frieden lasse, -->
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="190,279 215,279 222,280 223,286 237,286 239,280 244,280 245,288 337,284 349,289 364,290 364,298 391,294 397,286 410,286 410,292 505,290 541,297 574,299 574,292 586,292 587,301 599,299 658,300 667,303 667,308 658,311 647,311 557,307 469,306 364,302 351,300 190,295" />
+				<Baseline points="190,294 667,311" />
+				<TextEquiv index="1">
+					<Unicode>Fuhrleuten aber, damit nicht wieder eine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Marktprivileg die Umgegend geschädigt werde. Vorsicht schien
+unter allen Umständen geboten. Man beschloss daher, den Vogt
+Fuhrleuten aber, damit nicht wieder eine</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="188,306 594,306 594,334 188,334" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="188,311 225,312 232,306 242,306 245,314 254,314 267,307 279,307 280,314 317,309 359,311 359,322 378,314 415,314 433,320 453,321 454,314 467,314 475,320 487,315 497,315 510,322 525,322 533,317 547,317 554,324 585,322 594,325 594,334 572,334 533,333 525,331 443,329 411,331 345,326 337,324 245,324 188,320" />
+				<Baseline points="188,320 594,334" />
+				<TextEquiv index="1">
+					<Unicode>werde, den Verkauf ernstlich verbiete.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>werde, den Verkauf ernstlich verbiete.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="446,242 473,242 473,256 446,256" />
+		</GraphicRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="688,275 899,275 899,320 688,320" />
+			<!-- line left out: id="r5l0" points="866,275 877,275 878,283 889,282 899,282 899,292 889,292 866,291" baseline="866,290 899,292" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: den | german_print2_15: den -->
+			<!-- line left out: id="r5l1" points="688,295 710,295 712,302 722,302 740,303 785,304 830,305 852,306 877,302 887,302 899,305 899,318 830,320 817,320 786,318 762,314 724,313 700,312 688,311" baseline="688,311 796,315 817,315 899,318" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Theuerung gemacht
+ | german_print2_15: Theuerung gemacht
+ -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="187,333 898,333 898,395 187,395" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="241,333 261,333 263,339 293,340 317,343 318,335 323,335 326,342 353,342 398,346 401,338 405,338 408,344 439,345 446,340 456,340 459,346 471,341 481,341 488,349 511,348 522,342 535,342 535,351 546,351 547,344 558,344 565,350 590,345 602,345 604,351 669,353 735,354 748,350 763,350 775,362 780,356 838,358 840,352 851,352 852,360 898,360 898,370 882,370 679,363 627,366 609,362 487,357 425,361 425,355 388,357 353,352 241,348" />
+				<Baseline points="241,348 898,370" />
+				<TextEquiv index="1">
+					<Unicode>Einer ebenso glimpflichen Behandlung, wenn auch aus anderem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l1" custom="readingOrder {index:1;}">
+				<Coords points="187,360 197,358 203,358 221,363 231,364 246,360 255,360 258,367 266,367 286,360 291,360 298,367 310,365 324,365 351,371 361,369 367,364 383,364 385,370 411,373 414,365 424,365 432,372 454,366 478,368 497,373 527,369 544,370 545,376 561,375 569,371 628,372 637,378 656,378 679,381 715,380 750,376 792,377 813,381 857,385 892,385 898,390 898,392 892,395 879,395 792,392 750,393 703,390 545,386 361,379 258,378 233,375 206,374 187,371" />
+				<Baseline points="187,373 898,395" />
+				<TextEquiv index="1">
+					<Unicode>Grunde, hatte sich der Bauer Barthel Kirmiss aus Körbitz zu er-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Einer ebenso glimpflichen Behandlung, wenn auch aus anderem
+Grunde, hatte sich der Bauer Barthel Kirmiss aus Körbitz zu er-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="188,383 898,383 898,422 188,422" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="188,383 196,383 196,389 253,391 253,383 255,383 296,386 297,393 329,388 331,395 354,392 368,394 452,397 479,394 503,394 503,400 618,398 621,405 640,402 693,406 717,406 734,413 739,407 764,402 774,402 776,408 844,404 844,410 898,412 898,422 889,422 693,415 590,413 562,410 561,417 548,417 539,411 395,407 371,399 368,405 188,399" />
+				<Baseline points="188,399 898,422" />
+				<TextEquiv index="1">
+					<Unicode>freuen. Er hatte am 6. Mai 1678 nebst einem anderen Bauern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>freuen. Er hatte am 6. Mai 1678 nebst einem anderen Bauern</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="186,411 898,411 898,451 186,451" />
+			<TextLine id="r8l0" custom="readingOrder {index:0;}">
+				<Coords points="186,416 210,416 218,418 234,411 245,411 247,419 290,413 306,413 308,419 318,419 330,422 332,414 342,414 350,421 359,416 363,416 365,422 389,417 401,417 402,425 412,425 427,418 449,418 449,425 537,428 552,422 564,422 565,430 602,424 620,424 621,431 631,431 633,425 643,425 643,432 683,429 689,427 710,427 712,433 720,433 721,427 735,427 749,433 788,429 810,429 812,436 888,438 898,442 898,444 888,448 836,445 835,451 824,451 812,446 788,445 689,444 427,433 290,432 258,428 186,425" />
+				<Baseline points="186,425 898,448" />
+				<TextEquiv index="1">
+					<Unicode>aus dem Niederlande Weizen an den Bäcker Christian Kluge ver-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>aus dem Niederlande Weizen an den Bäcker Christian Kluge ver-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="185,436 898,436 898,496 185,496" />
+			<TextLine id="r9l0" custom="readingOrder {index:0;}">
+				<Coords points="187,436 197,436 198,442 209,442 224,437 240,436 242,436 264,446 276,446 277,439 288,439 290,445 336,447 338,441 348,441 350,447 385,448 411,444 422,444 423,451 442,450 482,452 485,446 518,447 520,455 560,449 578,449 580,456 590,456 592,450 666,452 668,458 705,453 716,453 744,460 786,455 788,462 797,462 798,456 810,456 813,463 839,462 840,470 864,463 898,464 898,474 844,475 840,475 829,472 693,468 638,470 592,466 435,460 338,457 228,456 210,453 187,452" />
+				<Baseline points="187,452 898,474" />
+				<TextEquiv index="1">
+					<Unicode>kauft, ohne ihn vorher auf den Markt gebracht zu haben, war</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l1" custom="readingOrder {index:1;}">
+				<Coords points="185,468 238,464 260,464 260,471 282,471 283,465 308,466 317,472 329,472 350,480 355,474 391,475 398,469 403,469 405,476 414,476 416,470 427,470 436,475 513,473 535,480 576,475 590,475 591,483 603,481 611,477 622,477 624,485 642,481 653,481 661,478 672,478 675,485 702,483 716,485 727,483 754,483 754,496 737,496 705,496 702,496 622,492 576,493 436,486 375,487 350,484 185,477" />
+				<Baseline points="185,477 754,496" />
+				<TextEquiv index="1">
+					<Unicode>von Wächtler angehalten und an Rathsstelle sistirt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>kauft, ohne ihn vorher auf den Markt gebracht zu haben, war
+von Wächtler angehalten und an Rathsstelle sistirt</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="184,482 897,482 897,509 184,509" />
+			<TextLine id="r10l0" custom="readingOrder {index:0;}">
+				<Coords points="774,487 807,488 811,482 822,482 824,490 846,488 847,496 877,484 897,484 897,500 877,500 774,496" />
+				<Baseline points="774,496 877,500 897,500" />
+				<TextEquiv index="1">
+					<Unicode>worden. Er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r10l1" points="184,495 221,495 229,489 245,489 268,491 271,498 281,498 290,492 304,492 312,499 324,497 334,497 334,509 318,509 290,508 271,507 229,506 200,505 184,504" baseline="184,504 264,506 334,509" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: wurde bedeute
+ | german_print2_15: wurde bedeute
+ -->
+			<TextEquiv index="1">
+				<Unicode>worden. Er</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="183,495 897,495 897,548 183,548" />
+			<TextLine id="r11l0" custom="readingOrder {index:0;}">
+				<Coords points="375,495 386,495 387,501 398,501 407,503 489,504 539,508 554,501 576,501 584,508 597,508 608,510 610,503 620,503 651,510 662,510 674,505 687,505 694,511 741,506 742,512 753,507 764,507 767,514 811,509 886,510 888,517 897,517 897,530 851,530 848,530 799,524 651,523 597,518 489,514 480,519 468,519 445,513 375,510" />
+				<Baseline points="375,510 897,527" />
+				<TextEquiv index="1">
+					<Unicode>dass er grosses Unrecht gethan habe und billig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l1" custom="readingOrder {index:1;}">
+				<Coords points="183,521 234,521 255,523 258,517 266,517 276,523 354,520 374,523 404,522 419,531 425,530 431,523 444,523 447,529 511,531 560,527 567,534 583,534 601,537 603,529 608,529 610,535 653,534 661,536 670,534 682,534 733,538 742,533 751,533 751,548 742,548 733,546 684,547 431,539 422,536 378,537 183,531" />
+				<Baseline points="183,531 419,537 534,542 751,548" />
+				<TextEquiv index="1">
+					<Unicode>zu strafen sei. Doch erliess man ihm die Strafe, weil</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>dass er grosses Unrecht gethan habe und billig
+zu strafen sei. Doch erliess man ihm die Strafe, weil</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r12">
+			<Coords points="340,494 351,494 351,513 340,513" />
+		</GraphicRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="181,535 897,535 897,625 181,625" />
+			<TextLine id="r13l0" custom="readingOrder {index:0;}">
+				<Coords points="763,541 816,535 827,535 836,542 858,541 897,544 897,552 858,551 849,556 836,556 827,550 763,549" />
+				<Baseline points="763,549 897,552" />
+				<TextEquiv index="1">
+					<Unicode>einmal grosse</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r13l1" custom="readingOrder {index:1;}">
+				<Coords points="184,541 206,541 208,548 234,543 246,543 247,549 339,551 350,553 378,553 388,555 460,555 519,552 534,561 584,560 592,555 623,555 625,561 695,563 697,557 707,557 714,558 715,566 737,564 738,572 758,559 769,559 777,565 800,560 811,560 812,567 833,562 845,562 852,568 866,568 875,570 896,569 896,579 887,579 738,575 726,574 719,568 714,573 676,572 631,575 612,571 590,570 496,568 378,563 285,563 272,560 184,557" />
+				<Baseline points="184,557 896,579" />
+				<TextEquiv index="1">
+					<Unicode>Unordnung eingerissen war und es unbillig erschien, ihn da büssen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r13l2" custom="readingOrder {index:2;}">
+				<Coords points="182,573 202,574 218,568 222,568 230,575 309,577 324,579 339,573 342,573 350,579 361,579 363,573 373,573 374,582 393,580 418,575 429,575 430,583 450,582 460,584 477,577 481,577 484,583 516,585 517,579 522,579 524,587 535,585 547,580 557,580 559,587 592,587 604,581 622,581 624,588 684,590 699,585 722,584 734,585 743,589 744,598 762,591 784,592 786,586 819,587 819,594 885,592 896,596 896,604 879,607 842,608 830,608 819,603 712,600 691,598 684,602 674,602 634,597 582,597 522,594 516,596 504,596 477,593 272,588 266,586 182,583" />
+				<Baseline points="182,582 492,593 896,605" />
+				<TextEquiv index="1">
+					<Unicode>zu lassen, wo viele andere in gleichem Masse gefehlt, und begnügte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r13l3" points="181,601 191,600 203,600 203,594 214,594 215,601 251,601 270,601 293,606 295,597 306,597 314,604 317,604 373,600 385,600 385,608 396,608 397,601 409,601 410,607 421,607 445,608 467,610 468,603 480,603 481,610 509,607 520,605 525,605 527,614 539,611 547,611 557,612 560,606 569,606 593,611 603,614 603,625 594,625 548,622 539,621 520,620 494,619 445,622 434,622 423,618 410,617 373,616 354,615 295,613 240,612 215,611 191,610 181,609" baseline="181,609 240,611 269,612 444,618 509,620 603,623" reason: differs: "derinhe" against "er Einh" | Wikisource:  | next_nc_e1: sich mit der inhebung der Gerichtsg
+ | german_print2_15: sich mit der inhebung der Gerichtsg
+ -->
+			<TextEquiv index="1">
+				<Unicode>einmal grosse
+Unordnung eingerissen war und es unbillig erschien, ihn da büssen
+zu lassen, wo viele andere in gleichem Masse gefehlt, und begnügte</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r14">
+			<Coords points="335,595 798,595 798,628 335,628" />
+		</GraphicRegion>
+		<TextRegion id="r15" custom="readingOrder {index:15;} orientation {0;}">
+			<Coords points="617,608 789,608 789,628 617,628" />
+			<!-- line left out: id="r15l0" points="617,608 629,608 630,614 643,609 654,609 656,615 680,615 689,608 691,608 729,610 750,612 789,612 789,628 778,628 751,627 724,626 676,625 630,624 617,623" baseline="617,623 690,625 724,626 757,627 789,628" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: bühren. Der E
+ | german_print2_15: bühren. Der E
+ -->
+		</TextRegion>
+		<GraphicRegion id="r16">
+			<Coords points="348,610 608,610 608,621 348,621" />
+		</GraphicRegion>
+		<TextRegion id="r17" custom="readingOrder {index:17;} orientation {0;}">
+			<Coords points="177,614 895,614 895,859 177,859" />
+			<!-- line left out: id="r17l0" points="801,619 824,614 836,614 838,620 873,620 895,621 895,633 880,633 862,631 824,630 801,629" baseline="801,629 895,633" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: mahnung, | german_print2_15: mahnung, -->
+			<TextLine id="r17l1" custom="readingOrder {index:1;}">
+				<Coords points="622,634 633,634 640,641 698,643 699,636 710,636 712,644 764,638 792,644 809,645 811,639 822,639 824,647 894,647 894,657 874,662 861,662 861,656 731,652 682,653 655,650 622,650" />
+				<Baseline points="622,649 662,649 894,657" />
+				<TextEquiv index="1">
+					<Unicode>dass jeder Getreidewagen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r17l2" custom="readingOrder {index:2;}">
+				<Coords points="181,652 205,652 226,648 236,648 239,655 259,652 292,655 335,656 346,658 361,652 365,652 367,658 378,653 404,653 405,661 414,661 428,655 441,655 447,659 485,656 487,665 510,663 528,664 528,658 543,658 567,659 569,666 612,660 630,660 632,667 652,667 654,661 664,661 701,663 708,665 716,663 747,664 749,670 765,670 767,664 779,664 787,672 795,672 813,666 818,666 820,672 830,670 851,670 861,674 861,681 851,683 845,683 787,682 779,680 708,678 698,679 516,674 441,671 428,669 181,662" />
+				<Baseline points="181,662 698,678 861,681" />
+				<TextEquiv index="1">
+					<Unicode>mindestens eine halbe Stunde auf dem Markte feil halte, hätte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r17l3" points="180,673 192,673 192,680 205,679 223,674 241,674 248,681 271,676 296,676 298,682 310,677 320,677 322,683 336,683 369,679 379,679 380,687 393,684 421,681 446,681 470,682 497,683 499,689 512,689 546,690 551,696 558,685 568,685 579,686 620,693 664,688 675,688 676,697 687,688 698,688 700,695 722,693 726,693 740,694 740,705 667,705 664,705 620,703 558,701 546,700 535,700 512,699 499,699 454,698 429,697 393,696 379,695 369,695 349,694 310,693 298,692 271,691 241,690 223,690 205,689 180,688" baseline="180,688 223,689 254,690 271,691 402,695 519,699 664,703 740,705" reason: differs: "beid" against "es b" | Wikisource:  | next_nc_e1: bei der Wachsamkeit Wächtlers wohl um bedurft.
+ | german_print2_15: bei der Wachsamkeit Wächtlers wohl um bedurft.
+ -->
+			<TextLine id="r17l4" custom="readingOrder {index:4;}">
+				<Coords points="233,701 238,701 253,702 285,708 395,711 468,715 503,715 524,710 546,710 546,717 574,712 585,712 587,718 616,718 651,715 688,715 701,718 792,717 793,723 804,723 811,717 828,717 831,724 839,724 850,719 860,719 874,725 893,726 893,736 884,736 725,731 657,730 618,732 587,728 524,727 456,723 445,726 435,726 408,722 340,720 332,718 328,718 327,724 289,724 289,717 233,716" />
+				<Baseline points="233,716 633,729 893,735" />
+				<TextEquiv index="1">
+					<Unicode>Der eingerissenen grossen Unordnung suchte man dadurch zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r17l5" custom="readingOrder {index:5;}">
+				<Coords points="179,733 188,728 200,728 219,732 252,733 253,741 273,728 290,728 291,735 306,737 346,736 446,738 447,747 463,735 487,735 488,741 517,743 520,736 551,737 553,751 572,746 584,738 588,738 591,744 660,746 672,748 683,741 706,741 707,747 718,742 728,742 741,745 775,743 777,749 812,749 842,751 844,745 857,745 857,751 871,751 878,746 892,746 892,762 813,762 777,759 553,753 551,759 542,759 529,752 436,755 435,749 253,745 232,743 188,742 179,740" />
+				<Baseline points="179,741 892,763" />
+				<TextEquiv index="1">
+					<Unicode>steuern, dass man am 17. Mai d. J. eine neue Marktordnung durch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r17l6" points="178,752 190,752 191,759 203,758 231,756 242,754 247,754 249,761 261,760 274,760 282,755 292,755 306,759 316,764 317,756 328,756 330,762 340,762 352,764 359,757 369,757 400,767 406,760 418,760 433,766 450,764 459,761 463,761 466,767 477,767 478,761 488,761 489,768 520,768 532,769 552,769 563,770 566,764 577,764 579,771 636,766 646,766 677,767 678,774 689,773 720,768 737,768 738,774 761,774 786,775 828,776 831,770 838,770 864,771 865,778 892,778 892,788 876,788 864,787 852,787 817,786 777,785 738,784 689,783 624,782 612,781 552,780 532,779 522,779 489,778 459,777 438,776 437,770 418,775 406,775 359,774 340,773 330,773 317,772 306,771 282,771 261,770 242,769 212,768 190,768 178,768" baseline="178,767 211,768 231,769 380,773 433,775 592,780 645,781 805,785 837,786 892,788" reason: differs: "töfentl" against " öffent" | Wikisource:  | next_nc_e1: den Gerichtsknecht öf entlich ausrufen und den Bauern auf dem | german_print2_15: den Gerichtsknecht öf entlich ausrufen und den Bauern auf dem -->
+			<TextLine id="r17l7" custom="readingOrder {index:7;}">
+				<Coords points="178,778 202,778 211,785 219,785 220,779 238,779 240,787 280,788 289,782 303,782 311,789 324,789 366,784 375,791 407,793 407,784 409,784 439,786 450,788 461,793 532,793 550,796 591,795 612,799 614,791 624,791 625,798 639,798 654,792 696,794 708,799 727,797 771,801 819,797 840,797 869,804 870,798 882,798 883,806 892,806 892,813 882,814 870,814 840,814 828,814 771,810 678,809 670,807 574,809 563,806 550,805 304,798 280,795 220,796 178,794" />
+				<Baseline points="178,794 892,813" />
+				<TextEquiv index="1">
+					<Unicode>Markte vorlesen liess. Diese untersagt das Feilbieten von Getreide</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r17l8" points="177,811 210,806 231,806 233,812 246,807 256,807 256,815 269,815 271,807 281,807 283,813 288,813 299,814 314,808 321,808 336,809 344,815 354,815 366,816 367,810 380,810 387,818 400,817 410,817 446,818 477,819 490,820 491,814 501,814 542,815 561,816 572,817 580,823 590,823 621,824 623,818 639,818 660,819 661,825 671,825 682,826 685,819 696,819 696,825 707,820 716,820 754,821 756,828 767,827 793,822 813,822 835,823 835,829 846,829 865,830 867,824 878,824 881,830 892,830 892,840 848,840 821,839 813,837 803,838 793,838 767,837 707,836 696,835 685,835 660,834 623,834 580,833 550,832 518,831 479,830 466,829 420,828 410,827 387,827 355,826 299,825 289,825 246,823 233,822 177,821" baseline="177,820 314,824 450,828 589,832 728,836 742,836 892,840" reason: second model: differs: "hleInun" against "hlen un" | Wikisource: in Winkeln, Privathäusern und Mühlen und bedroht den Verkäufer | next_nc_e1: in Winkeln, Privathäusern und Mühle n und bedroht den Verkäufer | german_print2_15: in Winkeln, Privathäusern und Mähle In und bedroht den Verkäufer -->
+			<!-- line left out: id="r17l9" points="177,837 188,837 193,831 198,831 199,839 209,839 227,833 239,833 240,840 252,839 281,834 301,834 303,841 315,837 326,835 334,835 336,842 373,842 387,841 399,841 430,845 436,839 446,839 448,845 460,840 472,840 480,846 493,846 517,847 518,841 529,841 531,848 558,843 570,843 584,847 593,846 603,846 603,859 565,859 558,859 531,858 430,857 417,857 374,853 336,852 327,851 303,851 281,850 252,849 199,848 193,847 177,846" baseline="177,846 208,847 367,852 398,853 417,854 543,858 558,858 603,860" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: wie den Käufer mit gebührender Straf
+ | german_print2_15: wie den Käufer mit gebührender Straf
+ -->
+			<TextEquiv index="1">
+				<Unicode>dass jeder Getreidewagen
+mindestens eine halbe Stunde auf dem Markte feil halte, hätte
+Der eingerissenen grossen Unordnung suchte man dadurch zu
+steuern, dass man am 17. Mai d. J. eine neue Marktordnung durch
+Markte vorlesen liess. Diese untersagt das Feilbieten von Getreide</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r18" custom="readingOrder {index:18;} orientation {0;}">
+			<Coords points="181,620 594,620 594,650 181,650" />
+			<!-- line left out: id="r18l0" points="181,620 193,620 201,627 209,627 230,621 240,621 250,622 300,624 300,631 316,631 318,624 329,624 331,632 360,626 371,626 372,634 385,632 389,632 414,633 426,634 449,636 451,629 461,629 470,635 482,635 496,636 496,630 511,630 533,632 541,638 553,633 566,633 574,639 594,639 594,650 585,650 566,648 553,648 426,647 415,647 409,643 385,642 360,641 300,640 277,642 258,642 258,636 240,637 230,637 193,636 181,636" baseline="181,635 230,636 340,640 510,646 594,649" reason: differs: "derV" against "e. W" | Wikisource:  | next_nc_e1: der Vogt solle fleissig darauf halten,
+ | german_print2_15: der Vogt solle fleissig darauf halten,
+ -->
+		</TextRegion>
+		<TextRegion id="r19" custom="readingOrder {index:19;} orientation {0;}">
+			<Coords points="877,675 894,675 894,683 877,683" />
+			<!-- line left out: id="r19l0" points="877,675 894,675 894,682 887,683 877,683" baseline="877,683 894,682" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: es
+ | german_print2_15: es
+ -->
+		</TextRegion>
+		<GraphicRegion id="r20">
+			<Coords points="594,686 616,686 616,702 594,702" />
+		</GraphicRegion>
+		<GraphicRegion id="r21">
+			<Coords points="420,762 429,762 429,775 420,775" />
+		</GraphicRegion>
+		<GraphicRegion id="r22">
+			<Coords points="605,843 607,843 607,845 605,845" />
+		</GraphicRegion>
+		<TextRegion id="r23" custom="readingOrder {index:23;} orientation {0;}">
+			<Coords points="174,845 891,845 891,933 174,933" />
+			<TextLine id="r23l0" custom="readingOrder {index:0;}">
+				<Coords points="652,845 678,845 680,853 727,852 796,855 838,855 858,853 881,854 890,857 890,868 883,868 827,865 747,864 652,860" />
+				<Baseline points="652,860 890,867" />
+				<TextEquiv index="1">
+					<Unicode>Wie wenig sie nützte,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r23l1" custom="readingOrder {index:1;}">
+				<Coords points="175,865 196,858 207,858 233,858 269,859 270,866 302,866 324,868 324,874 347,862 358,862 359,868 370,868 380,871 458,871 503,867 505,874 552,874 610,870 611,877 623,877 638,871 658,871 659,878 682,876 694,872 707,872 709,880 728,878 767,879 779,881 780,874 791,874 793,882 830,881 891,883 891,893 879,893 505,883 503,889 495,889 477,882 175,873" />
+				<Baseline points="175,873 257,874 891,893" />
+				<TextEquiv index="1">
+					<Unicode>erhellt daraus, dass am 10. Januar 1680 Wächtler wiederum vor</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r23l2" custom="readingOrder {index:2;}">
+				<Coords points="175,884 187,884 188,891 238,885 252,886 260,892 319,893 331,895 332,888 374,895 388,889 405,889 406,898 434,891 447,891 461,898 473,898 480,893 517,894 525,900 554,896 566,896 574,902 608,900 630,903 668,898 690,898 692,904 746,906 749,913 770,902 781,901 832,902 853,906 890,909 890,920 879,920 871,918 749,917 725,914 722,921 717,921 715,915 525,911 319,903 260,906 175,899" />
+				<Baseline points="175,899 650,913 770,914 890,919" />
+				<TextEquiv index="1">
+					<Unicode>dem Bürgermeister Neefe und den Senatoren Klimper, G. Plattner,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r23l3" points="174,912 186,910 190,910 191,916 221,911 226,911 228,917 239,917 248,918 249,925 275,913 288,913 289,919 294,919 311,921 313,914 325,914 326,920 339,920 376,921 434,923 434,933 419,933 378,932 347,931 313,930 253,929 249,929 239,927 191,927 182,926 174,926" baseline="174,926 275,928 393,932 434,933" reason: differs: "nnur" against "n und W" | Wikisource:  | next_nc_e1: Crusius, Biedermann ur
+ | german_print2_15: Crusius, Biedermann un
+ -->
+			<TextEquiv index="1">
+				<Unicode>Wie wenig sie nützte,
+erhellt daraus, dass am 10. Januar 1680 Wächtler wiederum vor
+dem Bürgermeister Neefe und den Senatoren Klimper, G. Plattner,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r24" custom="readingOrder {index:24;} orientation {0;}">
+			<Coords points="175,936 294,936 294,956 175,956" />
+			<!-- line left out: id="r24l0" points="175,936 188,936 198,943 221,943 268,944 294,946 294,956 284,956 272,955 261,954 189,953 175,952" baseline="175,952 261,953 294,956" reason: differs: "Brau" against "mann" | Wikisource:  | next_nc_e1: Brauer von
+ | german_print2_15: Brauer von
+ -->
+		</TextRegion>
+		<GraphicRegion id="r25">
+			<Coords points="438,925 447,925 447,934 438,934" />
+		</GraphicRegion>
+		<TextRegion id="r26" custom="readingOrder {index:26;} orientation {0;}">
+			<Coords points="165,918 890,918 890,1283 165,1283" />
+			<!-- line left out: id="r26l0" points="450,918 455,918 486,919 499,920 499,926 509,926 554,927 591,928 611,929 612,923 623,923 625,929 636,929 697,925 707,925 728,932 761,927 765,927 781,932 792,933 805,928 809,928 822,931 864,936 866,929 877,929 879,935 890,935 890,945 839,946 831,946 822,944 811,944 792,943 781,943 752,942 697,941 642,940 612,939 591,938 523,939 511,939 499,936 486,935 477,935 450,934" baseline="450,934 454,934 673,940 728,941 859,944 890,945" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: d Wagner erschien und vorbrachte, der | german_print2_15: d Wagner erschien und vorbrachte, der -->
+			<!-- line left out: id="r26l1" points="339,947 352,942 356,942 356,948 384,948 391,943 402,943 403,949 425,949 448,951 467,951 490,952 498,951 509,951 521,950 525,950 551,955 552,948 564,948 564,956 576,954 586,954 620,955 620,949 634,949 660,950 661,958 673,956 705,952 722,952 725,958 737,953 750,953 764,956 808,954 824,954 839,961 851,961 866,962 868,955 879,955 881,962 890,962 890,970 879,971 868,971 851,970 824,970 808,970 789,969 737,968 705,967 660,966 649,966 576,965 525,963 490,964 486,964 448,961 443,961 415,960 402,959 391,959 384,958 355,958 339,957" baseline="339,957 486,961 633,965 687,966 789,968 839,969 890,971" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: ukirchen sei jetzt eben auf dem Markte und wolle | german_print2_15: ukirchen sei jetzt eben auf dem Markte und wolle -->
+			<TextLine id="r26l2" custom="readingOrder {index:2;}">
+				<Coords points="172,964 183,963 195,963 202,969 220,967 283,969 324,967 326,974 365,969 392,969 394,977 407,977 409,970 419,970 419,976 446,971 457,971 463,977 484,972 501,972 501,979 512,979 514,986 540,974 545,974 605,975 608,982 631,979 675,982 684,984 686,977 701,977 711,985 718,978 740,979 743,985 781,980 784,986 813,987 815,980 825,980 827,986 837,986 845,981 861,981 869,987 889,988 889,999 880,999 793,994 755,995 642,991 624,997 608,997 605,990 501,989 326,984 183,979 172,977" />
+				<Baseline points="172,978 435,986 889,997" />
+				<TextEquiv index="1">
+					<Unicode>Gerste unter dem Wische kaufen. Der Vogt wurde daher beschieden,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r26l3" custom="readingOrder {index:3;}">
+				<Coords points="172,997 179,995 222,997 225,990 235,990 249,991 251,998 273,992 285,992 286,999 326,993 346,993 379,995 381,1002 405,999 463,998 464,1005 504,999 525,999 527,1006 537,1006 542,1000 552,1000 553,1007 571,1007 571,1001 586,1001 604,1008 626,1009 628,1003 654,1002 655,1010 667,1006 735,1010 759,1005 770,1005 772,1013 799,1012 811,1007 816,1007 818,1013 863,1014 864,1008 876,1008 889,1013 889,1024 877,1024 700,1020 679,1018 527,1016 297,1009 273,1008 251,1001 249,1007 172,1004" />
+				<Baseline points="172,1004 434,1013 889,1024" />
+				<TextEquiv index="1">
+					<Unicode>er solle den Fuhrleuten den Verkauf verbieten; werde aber der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r26l4" custom="readingOrder {index:4;}">
+				<Coords points="173,1015 186,1015 187,1021 261,1023 309,1019 310,1027 348,1020 372,1021 373,1028 435,1023 437,1029 447,1029 455,1025 473,1024 476,1031 496,1030 564,1034 567,1027 585,1027 586,1035 671,1031 708,1037 715,1030 726,1030 734,1038 766,1039 781,1032 804,1032 816,1033 827,1039 868,1039 880,1040 887,1044 887,1046 880,1050 868,1050 838,1048 781,1048 556,1042 485,1042 467,1040 382,1037 173,1031" />
+				<Baseline points="173,1031 887,1050" />
+				<TextEquiv index="1">
+					<Unicode>Brauer vor dem Thore kaufen, so wolle man für dieses Mal conni-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r26l5" custom="readingOrder {index:5;}">
+				<Coords points="171,1047 266,1050 267,1044 277,1044 313,1045 315,1052 349,1052 367,1059 372,1047 385,1047 387,1056 432,1055 442,1057 519,1057 557,1060 574,1054 667,1055 685,1059 773,1064 774,1058 784,1058 786,1065 808,1064 834,1060 855,1060 856,1066 874,1066 886,1068 886,1077 875,1077 502,1068 385,1063 339,1065 300,1061 171,1057" />
+				<Baseline points="171,1057 886,1077" />
+				<TextEquiv index="1">
+					<Unicode>viren und thun, als wisse man es nicht. Sofort erschien Hans,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r26l6" custom="readingOrder {index:6;}">
+				<Coords points="170,1068 182,1068 182,1075 195,1074 217,1069 240,1069 246,1075 285,1077 285,1084 307,1078 369,1073 370,1080 415,1075 456,1076 469,1077 470,1083 555,1085 556,1079 616,1080 629,1081 635,1087 657,1085 670,1095 689,1083 700,1083 701,1089 729,1091 748,1084 760,1084 761,1090 783,1090 803,1093 805,1085 815,1085 822,1091 843,1086 866,1086 867,1092 887,1092 887,1102 701,1099 657,1097 591,1098 538,1095 382,1090 285,1089 271,1087 170,1084" />
+				<Baseline points="170,1083 518,1094 887,1103" />
+				<TextEquiv index="1">
+					<Unicode>der Brauer, auf dem Rathhause und erklärte, dass ihm der Herr</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r26l7" custom="readingOrder {index:7;}">
+				<Coords points="170,1095 185,1095 198,1100 206,1098 219,1098 237,1101 297,1098 298,1105 318,1102 406,1101 407,1107 425,1103 445,1102 446,1108 476,1104 525,1104 538,1105 540,1112 562,1111 575,1105 587,1105 588,1112 600,1107 611,1107 612,1114 625,1114 625,1105 627,1105 679,1109 691,1114 767,1116 769,1110 785,1110 801,1111 804,1118 824,1119 826,1112 836,1112 844,1118 856,1116 885,1116 885,1130 875,1130 836,1127 482,1120 310,1114 170,1111" />
+				<Baseline points="170,1110 885,1129" />
+				<TextEquiv index="1">
+					<Unicode>Amtmann Gerste zu kaufen befohlen habe. Hans wurde bedeutet,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r26l8" custom="readingOrder {index:8;}">
+				<Coords points="169,1127 223,1128 224,1122 244,1122 244,1129 263,1123 275,1123 276,1130 314,1125 338,1125 339,1131 367,1131 387,1128 402,1128 404,1134 423,1131 436,1131 460,1134 508,1130 508,1136 522,1136 552,1132 599,1132 612,1139 654,1140 736,1136 751,1142 757,1136 768,1136 769,1142 800,1138 857,1138 865,1145 885,1145 885,1156 804,1156 800,1156 751,1152 676,1151 654,1149 612,1150 500,1148 276,1140 263,1139 244,1132 244,1138 169,1137" />
+				<Baseline points="169,1136 483,1146 885,1155" />
+				<TextEquiv index="1">
+					<Unicode>er solle den Herrn Amtmann freundlich grüssen und ihm eröffnen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r26l9" custom="readingOrder {index:9;}">
+				<Coords points="168,1152 174,1147 185,1147 193,1153 230,1154 231,1148 241,1148 243,1155 256,1155 268,1149 315,1150 328,1159 334,1159 335,1151 346,1151 346,1157 361,1157 374,1164 380,1159 386,1159 387,1153 400,1153 401,1161 411,1161 428,1155 457,1155 478,1156 479,1163 515,1162 606,1164 635,1166 637,1160 652,1160 667,1169 673,1161 678,1161 681,1167 696,1167 716,1161 729,1161 730,1168 750,1168 761,1170 795,1164 807,1164 819,1169 841,1165 863,1164 864,1171 878,1171 884,1175 884,1177 878,1181 819,1180 761,1183 750,1183 730,1178 541,1175 168,1163" />
+				<Baseline points="168,1162 555,1174 884,1181" />
+				<TextEquiv index="1">
+					<Unicode>dass der Rath das alte Herkommen, wornach die Bürger das Vor-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r26l10" custom="readingOrder {index:10;}">
+				<Coords points="185,1179 206,1174 214,1174 223,1180 253,1181 254,1175 296,1176 297,1183 315,1180 329,1180 385,1185 428,1186 494,1182 514,1183 515,1189 526,1189 527,1183 539,1183 547,1187 607,1191 617,1185 628,1185 630,1193 641,1193 641,1200 663,1193 699,1188 746,1188 747,1195 872,1197 874,1191 883,1191 883,1207 832,1210 821,1210 797,1206 641,1203 607,1200 372,1200 347,1197 337,1194 185,1189" />
+				<Baseline points="185,1189 883,1208" />
+				<TextEquiv index="1">
+					<Unicode>aufsrecht hätten, gerne noch halten wolle, auch Theuerung und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r26l11" custom="readingOrder {index:11;}">
+				<Coords points="166,1200 172,1200 241,1201 249,1207 267,1202 291,1202 304,1203 305,1210 328,1211 342,1204 354,1204 354,1211 365,1211 367,1205 376,1205 376,1211 406,1212 407,1206 418,1206 438,1214 438,1221 454,1214 581,1216 615,1212 627,1212 629,1220 668,1214 689,1214 696,1220 735,1216 750,1216 790,1221 883,1224 883,1233 814,1233 569,1227 305,1225 304,1219 166,1215" />
+				<Baseline points="166,1214 441,1223 883,1234" />
+				<TextEquiv index="1">
+					<Unicode>böse Nachfolge befürchte, wenn man mit dem Herrn Amtmann eine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r26l12" points="166,1226 182,1226 183,1232 216,1232 228,1233 230,1227 241,1227 242,1233 260,1233 297,1234 321,1230 332,1230 332,1236 344,1236 355,1238 384,1232 398,1232 417,1233 418,1240 429,1240 446,1241 459,1235 464,1235 464,1242 473,1242 475,1235 493,1235 494,1242 504,1242 538,1242 556,1243 556,1236 568,1236 570,1244 590,1244 600,1245 613,1239 628,1239 648,1243 661,1245 687,1243 707,1240 724,1240 726,1247 762,1242 784,1242 786,1248 832,1244 848,1244 875,1247 876,1254 882,1254 882,1256 875,1260 860,1260 832,1259 762,1258 726,1257 687,1256 661,1255 629,1255 590,1254 580,1253 556,1253 518,1252 464,1251 459,1251 388,1249 384,1249 346,1247 309,1246 285,1245 242,1244 217,1243 166,1242" baseline="166,1241 270,1244 384,1248 445,1249 550,1252 691,1256 707,1256 818,1258 882,1260" reason: differs: "rrnAmt" against "rn ⟦⟧" | Wikisource:  | next_nc_e1: Ausnahme mache. Indess solle er diese Antwort dem Herrn Amt- | german_print2_15: Ausnahme mache. Indess solle er diese Antwort dem Herrn Amt- -->
+			<!-- line left out: id="r26l13" points="165,1258 232,1254 238,1254 259,1254 260,1260 292,1255 303,1255 309,1256 310,1262 321,1262 322,1256 333,1256 348,1263 380,1258 386,1258 386,1264 401,1264 433,1265 460,1266 470,1260 493,1260 493,1283 474,1283 470,1283 460,1276 433,1281 419,1281 419,1275 402,1275 363,1274 322,1273 305,1272 292,1271 291,1277 279,1277 278,1271 260,1271 247,1270 246,1276 238,1277 232,1277 220,1269 184,1269 165,1268" baseline="165,1268 219,1269 332,1272 459,1276 493,1277" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: mann glimpflich vorbringen. ¹1)
+ | german_print2_15: mann glimpflich vorbringen. 1)
+ -->
+			<TextEquiv index="1">
+				<Unicode>Gerste unter dem Wische kaufen. Der Vogt wurde daher beschieden,
+er solle den Fuhrleuten den Verkauf verbieten; werde aber der
+Brauer vor dem Thore kaufen, so wolle man für dieses Mal conni-
+viren und thun, als wisse man es nicht. Sofort erschien Hans,
+der Brauer, auf dem Rathhause und erklärte, dass ihm der Herr
+Amtmann Gerste zu kaufen befohlen habe. Hans wurde bedeutet,
+er solle den Herrn Amtmann freundlich grüssen und ihm eröffnen,
+dass der Rath das alte Herkommen, wornach die Bürger das Vor-
+aufsrecht hätten, gerne noch halten wolle, auch Theuerung und
+böse Nachfolge befürchte, wenn man mit dem Herrn Amtmann eine</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r27">
+			<Coords points="310,940 335,940 335,956 310,956" />
+		</GraphicRegion>
+		<GraphicRegion id="r28">
+			<Coords points="208,1153 209,1153 209,1163 208,1163" />
+		</GraphicRegion>
+		<GraphicRegion id="r29">
+			<Coords points="239,1201 241,1201 241,1204 239,1204" />
+		</GraphicRegion>
+		<TextRegion id="r30" custom="readingOrder {index:30;} orientation {0;}">
+			<Coords points="207,1334 698,1334 698,1365 207,1365" />
+			<!-- line left out: id="r30l0" points="207,1334 221,1334 252,1336 271,1337 286,1342 304,1338 315,1338 324,1343 331,1346 349,1340 364,1340 366,1347 376,1346 384,1341 394,1341 394,1347 404,1347 405,1341 417,1341 417,1347 428,1342 433,1342 434,1349 441,1349 448,1350 461,1343 472,1343 481,1348 501,1345 517,1345 545,1348 576,1350 606,1347 617,1347 632,1351 643,1352 653,1347 657,1347 673,1353 681,1352 698,1352 698,1361 643,1365 613,1365 606,1365 577,1360 522,1359 501,1358 461,1357 433,1356 428,1356 394,1355 360,1354 349,1354 304,1352 271,1351 252,1350 227,1354 221,1354 212,1342 207,1342" baseline="207,1349 226,1349 304,1351 447,1355 488,1357 656,1361 698,1361" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 10) Ueber das Verhältniss des Amtmanns Siegel zur
+ | german_print2_15: *) Ueber das Verhältniss des Amtmanns Siegel zur
+ -->
+		</TextRegion>
+		<GraphicRegion id="r31">
+			<Coords points="711,1351 721,1351 721,1361 711,1361" />
+		</GraphicRegion>
+		<TextRegion id="r32" custom="readingOrder {index:32;} orientation {0;}">
+			<Coords points="730,1349 878,1349 878,1367 730,1367" />
+			<!-- line left out: id="r32l0" points="730,1354 739,1354 745,1349 755,1349 768,1355 799,1350 809,1350 838,1354 839,1362 856,1355 872,1355 878,1357 878,1365 856,1365 839,1364 827,1361 809,1367 794,1367 777,1363 730,1362" baseline="730,1362 754,1362 841,1364 878,1365" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: adt vergl. S. 19.
+ | german_print2_15: adt vergl. S. 19.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r33">
+			<Coords points="808,1365 809,1365 809,1368 808,1368" />
+		</GraphicRegion>
+		<TextRegion id="r34" custom="readingOrder {index:34;} orientation {0;}">
+			<Coords points="394,1549 658,1549 658,1561 394,1561" />
+			<!-- line left out: id="r34l0" points="394,1549 402,1549 408,1550 422,1549 434,1549 456,1549 469,1549 494,1549 542,1549 553,1549 571,1549 638,1549 658,1550 658,1558 571,1560 452,1561 441,1561 426,1561 414,1560 407,1560 394,1558" baseline="394,1558 658,1558" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnp digital slub-dresden delppn301259642158
+ | german_print2_15: tpliital slub-dresden de ppne01259642156
+ -->
+		</TextRegion>
+		<GraphicRegion id="r35">
+			<Coords points="939,0 982,0 982,1585 939,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Marktprivileg die Umgegend geschädigt werde. Vorsicht schien
+unter allen Umständen geboten. Man beschloss daher, den Vogt
+anzuweisen, dass er den Diener Taube’s in Frieden lasse, den
+Fuhrleuten aber, damit nicht wieder eine Theuerung gemacht
+werde, den Verkauf ernstlich verbiete.
+Einer ebenso glimpflichen Behandlung, wenn auch aus anderem
+Grunde, hatte sich der Bauer Barthel Kirmiss aus Körbitz zu
+erfreuen. Er hatte am 6. Mai 1678 nebst einem anderen Bauern
+aus dem Niederlande Weizen an den Bäcker Christian Kluge
+verkauft, ohne ihn vorher auf den Markt gebracht zu haben, war
+von Wächtler angehalten und an Rathsstelle sistirt worden. Er
+wurde bedeutet, dass er grosses Unrecht gethan habe und billig
+zu strafen sei. Doch erliess man ihm die Strafe, weil einmal grosse
+Unordnung eingerissen war und es unbillig erschien, ihn da büssen
+zu lassen, wo viele andere in gleichem Masse gefehlt, und begnügte
+sich mit der Einhebung der Gerichtsgebühren. Der Ermahnung,
+der Vogt solle fleissig darauf halten, dass jeder Getreidewagen
+mindestens eine halbe Stunde auf dem Markte feil halte, hätte es
+bei der Wachsamkeit Wächtlers wohl kaum bedurft.
+Der eingerissenen grossen Unordnung suchte man dadurch zu
+steuern, dass man am 17. Mai d. J. eine neue Marktordnung durch
+den Gerichtsknecht öffentlich ausrufen und den Bauern auf dem
+Markte vorlesen liess. Diese untersagt das Feilbieten von Getreide
+in Winkeln, Privathäusern und Mühlen und bedroht den Verkäufer
+wie den Käufer mit gebührender Strafe. Wie wenig sie nützte,
+erhellt daraus, dass am 10. Januar 1680 Wächtler wiederum vor
+dem Bürgermeister Neefe und den Senatoren Klimper, G. Plattner,
+Crusius, Biedermann und Wagner erschien und vorbrachte, der
+Brauer von Neukirchen sei jetzt eben auf dem Markte und wolle
+Gerste unter dem Wische kaufen. Der Vogt wurde daher beschieden,
+er solle den Fuhrleuten den Verkauf verbieten; werde aber der
+Brauer vor dem Thore kaufen, so wolle man für dieses Mal
+conniviren und thun, als wisse man es nicht. Sofort erschien Hans,
+der Brauer, auf dem Rathhause und erklärte, dass ihm der Herr
+Amtmann Gerste zu kaufen befohlen habe. Hans wurde bedeutet,
+er solle den Herrn Amtmann freundlich grüssen und ihm eröffnen,
+dass der Rath das alte Herkommen, wornach die Bürger das
+Vorkaufsrecht hätten, gerne noch halten wolle, auch Theuerung und
+böse Nachfolge befürchte, wenn man mit dem Herrn Amtmann eine
+Ausnahme mache. Indess solle er diese Antwort dem Herrn
+Amtmann glimpflich vorbringen.⟦⟧
+-->
+	</Page>
+</PcGts>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:01:02</Created>
+		<LastChange>2026-11-23T14:01:02</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/282 revision 4964741 of 2026-07-28T11:18:11Z, proofread level 3, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0282.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro10188459176547333953" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="969,241 976,241 976,894 969,894" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="220,1069 386,1069 386,1111 220,1111" />
+			<!-- line left out: id="r1l0" points="227,1075 251,1071 262,1069 271,1069 290,1074 302,1073 312,1073 358,1073 376,1073 386,1075 386,1084 363,1084 358,1085 333,1085 324,1085 237,1084 227,1084" baseline="227,1084 386,1084" reason: differs: "nChu" against "h es" | Wikisource:  | next_nc_e1: n Churſ. gnader | german_print2_15: n Churf. gnaden -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="220,1098 279,1100 299,1109 308,1100 334,1101 337,1095 346,1095 346,1110 304,1111 299,1111 220,1109" />
+				<Baseline points="220,1110 346,1110" />
+				<TextEquiv index="1">
+					<Unicode>Sie in gnädi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Sie in gnädi</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="226,1120 376,1120 376,1138 226,1138" />
+			<!-- line left out: id="r2l0" points="226,1120 230,1120 232,1129 236,1129 253,1126 264,1126 272,1129 281,1135 290,1135 292,1129 304,1126 339,1126 369,1126 374,1134 376,1134 376,1136 339,1136 304,1136 292,1132 290,1138 281,1138 264,1135 230,1135 226,1135" baseline="226,1135 313,1135 376,1136" reason: differs: "lesw" against "gste" | Wikisource:  | next_nc_e1: leswegen verrie
+ | german_print2_15: leswegen verri⸗
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="219,1135 386,1135 386,1213 219,1213" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="221,1146 225,1146 229,1152 251,1152 305,1147 320,1147 342,1152 347,1156 355,1147 374,1147 374,1135 386,1135 386,1172 374,1172 374,1162 221,1161" />
+				<Baseline points="221,1161 386,1162" />
+				<TextEquiv index="1">
+					<Unicode>Bünau schrieb i</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l1" points="221,1177 237,1177 241,1185 259,1181 266,1172 276,1172 278,1181 289,1172 312,1172 312,1181 333,1172 355,1172 365,1178 367,1178 367,1187 343,1188 312,1188 276,1188 237,1191 233,1191 221,1187" baseline="221,1187 259,1186 367,1187" reason: differs: "14.d" against "nfol" | Wikisource:  | next_nc_e1: 14. dieses Mor | german_print2_15: 14. dieses Mor -->
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="219,1204 281,1202 286,1198 310,1198 310,1210 321,1198 324,1198 361,1207 377,1207 377,1210 324,1213 313,1213 230,1213 219,1213" />
+				<Baseline points="219,1212 377,1210" />
+				<TextEquiv index="1">
+					<Unicode>wes Standes sie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Bünau schrieb i
+wes Standes sie</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="518,1528 658,1528 658,1539 518,1539" />
+			<!-- line left out: id="r4l0" points="518,1532 524,1531 531,1528 548,1528 646,1528 658,1529 658,1537 566,1539 551,1539 531,1537 518,1537" baseline="518,1537 530,1536 533,1536 658,1537" reason: differs: "Ende" against "seie" | Wikisource:  | next_nc_e1: En de ppn301506842282
+ | german_print2_15: End penio-sceee2e2
+ -->
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="0,0 1000,0 1000,1564 0,1564" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+versetzt. Man möge durch solche Ungerechtigkeit Gottes Zorn,
+der sich in Verbrennung der Schule und vieler anderer herrlicher
+Gebäude offenbart habe, nicht noch einmal über sich herauf
+beschwören und bedenken, daß ein Lehrer nicht dem Chamäleon
+gleich von der Luft leben könne. Wenn sich vielleicht die eigentliche
+Besoldung nicht aufbringen lasse, so solle man wenigstens die von
+frommen Herzen zum bessern Auskommen der Lehrer gestifteten
+Legate und den bereits 2⟦⟧ Jahr rückständigen Hauszins nicht
+länger vorenthalten. Andreä insbesondere hatte vermutlich noch
+einen andern Verlust zu beklagen. Schon bevor das Kriegsunglück
+über Chemnitz kam, am 29. Mai 1632, war von dem Kurfürsten
+ein Schreiben⟦⟧ an Rudolf von Bünau zu Elsterberg, den
+Hauptmann des Vogtlandes, und an Daniel Rothen, Schösser zu Weida,
+erlassen worden. Darin hieß es, die Exulanten aus Böhmen, welche
+in Sachsen Häuser erkauft oder sich sonst niedergelassen hätten
+und gleich andern Unterthanen des Kurfürstlichen Schutzes genössen,
+seien anfangs erbötig gewesen durch eine „real demonstration“ ihre
+dankbare Gesinnung zu erweisen. Jetzt gerade bedürfe die
+Regierung des Geldes zur Erhaltung der Armee, welche auch den
+Exulanten zum Besten gereiche. Daher sollten die Kommisarien
+alle diejenigen unter den böhmischen Flüchtlingen, die etwas
+besäßen, in Chemnitz und Zwickau mit Zuziehung des Rates vor sich
+fordern, und zwar jeden besonders, ihnen die bevorstehende Gefahr
+zu Gemüte führen und sie so disponieren, daß sie eine ansehnliche
+Summe Geldes gegen Verzinsung und gegen genügende Sicherheit
+auf eine gewisse Zeit herliehen. „Wie wir nun zu ihnen sambt vnd
+sonders das gnädigste vertrauen haben, Sie würden sich hierinnen
+in erwegung vieler considerationen, wie auch das solches ihnen
+allen mit zum besten gereichet, vnterthänigst willfährig erweisen
+vndt vns nicht aushanden gehen, damit wier in der that verspüren
+mögen, weßen wier vns zu ihnen zu versehen, Als wollen wier
+sie nicht alleine wegen solches lehens der gebühr nach genügsamb
+versichern vnd ihnen zu danck wiederumb zahlen Sondern auch es
+in Churf. gnaden erkennen vnd alßdann wie vor alßo auch hinfüro
+Sie in gnädigsten schutz nehmen erwarten darauf alßbalt was ihr
+deswegen verrichtet Eures vnterthänigsten Berichtes.“ Rudolf von
+Bünau schrieb infolge dessen am 5. Juni an den Rat, daß er am
+14. dieses Monats in Chemnitz eintreffen werde und die Exulanten,
+wes Standes sie seien, an diesem Tage vor ihm im Gasthofe zum
+Bock⟦⟧ am Markte erscheinen sollten. Wenn Andreä einen Teil
+-->
+	</Page>
+</PcGts>

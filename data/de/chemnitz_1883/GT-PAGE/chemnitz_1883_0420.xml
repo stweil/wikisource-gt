@@ -1,0 +1,356 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:11:37</Created>
+		<LastChange>2026-11-23T14:11:37</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/420 revision 5023664 of 2026-08-26T09:37:31Z, proofread level 3, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0420.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro17032340205856768602" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,144 1000,144 1000,1564 0,1564" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="501,153 640,153 640,171 501,171" />
+			<!-- line left out: id="r1l0" points="501,162 525,162 553,153 565,153 589,154 617,164 640,164 640,165 617,165 589,171 578,171 566,168 501,164" baseline="501,164 553,164 640,165" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 208 —
+ | german_print2_15: — 208 —
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="212,206 924,206 924,1010 212,1010" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="268,206 289,206 296,212 306,207 340,207 340,213 351,213 351,207 362,207 423,208 423,214 443,214 453,208 467,208 507,209 508,215 531,215 532,209 537,209 538,215 578,210 590,210 630,211 650,216 650,210 669,210 678,217 691,212 696,212 707,217 708,211 714,211 727,215 744,213 777,213 777,220 847,220 847,214 861,214 867,221 876,221 878,215 888,215 922,221 922,232 839,235 828,235 828,229 744,229 538,225 531,231 518,231 518,225 467,225 462,231 453,231 443,224 268,223" />
+				<Baseline points="268,222 726,227 922,231" />
+				<TextEquiv index="1">
+					<Unicode>Rechtlich ist das Privilegium der Stadt nicht weiter angefochten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l1" points="215,238 237,238 244,232 265,232 271,238 313,233 327,233 361,236 384,239 384,233 402,233 432,233 451,240 488,240 488,234 501,234 501,242 528,241 588,241 595,236 611,236 628,242 644,237 661,237 678,243 688,242 725,238 729,238 735,243 756,244 756,238 761,238 763,245 774,243 798,243 799,252 831,240 838,240 853,241 854,247 864,247 878,254 881,241 900,241 914,244 923,249 923,257 889,257 881,257 831,256 729,255 725,255 685,253 635,252 589,252 488,251 421,250 339,249 318,250 296,252 281,252 271,249 215,248" baseline="215,248 295,248 610,251 678,252 831,255 878,256 923,257" reason: differs: "DieAÄbt" against "ie Äbte" | Wikisource:  | next_nc_e1: worden, thatsächlich wurde es nach wie vor verletzt. Die AÄbte | german_print2_15: worden, thatsächlich wurde es nach wie vor verletzt. Die Abte -->
+			<!-- line left out: id="r2l2" points="215,264 226,264 226,258 237,258 238,264 248,264 266,258 279,258 286,259 342,259 352,264 372,264 454,260 471,260 484,265 513,266 569,267 569,261 585,261 592,264 643,268 647,262 676,262 682,269 696,269 696,263 708,263 726,263 751,271 762,270 801,265 807,265 807,271 825,268 831,268 863,272 890,272 890,266 902,266 903,273 923,273 923,285 914,285 903,283 864,282 801,281 751,280 676,279 660,279 615,278 585,278 513,277 413,276 286,275 215,274" baseline="215,274 295,274 402,275 614,277 733,279 848,281 923,283" reason: second model: differs: "ulssten" against "uſsten " | Wikisource: wie die Herren von Harras muſsten wiederholt ermahnt werden, | next_nc_e1: wie die Herren von Harras muſsten wiederholt ermahnt werden, | german_print2_15: wie die Herren von Harras mulſsten wiederholt ermahnt werden, -->
+			<!-- line left out: id="r2l3" points="217,284 229,284 229,290 249,290 264,284 278,284 290,289 324,290 346,285 358,285 396,285 403,291 416,291 430,285 450,285 450,291 462,286 474,286 499,292 520,292 551,293 551,287 561,287 576,290 598,293 599,300 612,287 625,287 660,288 662,294 697,294 735,290 751,290 759,296 768,296 768,290 785,290 785,296 795,296 845,292 855,292 869,296 898,299 898,292 911,292 912,299 923,299 923,309 912,309 856,308 809,307 753,306 717,305 625,306 612,306 509,303 430,302 302,301 290,301 217,300" baseline="217,300 264,300 415,301 652,303 809,306 893,308 923,309" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: das Bannrecht der Stadt zu achten. ) Immer wieder machte der | german_print2_15: das Bannrecht der Stadt zu achten.¹) Immer wieder machte der -->
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="215,311 231,310 240,310 295,310 304,316 315,316 315,310 327,310 327,316 398,317 407,311 416,311 434,312 442,315 476,318 485,311 498,311 498,325 515,312 527,312 528,318 548,319 558,313 574,313 576,320 595,319 597,313 608,313 609,319 644,319 694,315 701,320 712,322 713,315 727,315 734,321 756,321 756,315 767,315 783,322 800,322 800,316 818,316 828,323 847,323 876,318 882,318 882,324 923,321 923,334 847,333 701,335 689,335 608,329 485,330 416,327 315,327 240,329 215,326" />
+				<Baseline points="215,325 558,328 923,334" />
+				<TextEquiv index="1">
+					<Unicode>Abt, obschon nur bittweise, das Herkommen geltend, und er scheint</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l5" points="215,336 222,336 258,336 259,342 278,342 291,336 316,336 316,342 327,339 356,337 362,337 368,343 377,342 397,337 402,337 403,343 414,343 414,337 426,337 447,344 457,343 482,338 488,338 488,344 499,344 499,338 518,338 525,345 534,344 546,344 566,345 566,339 577,339 599,339 612,345 630,343 641,343 691,345 697,351 714,351 718,345 742,341 748,341 749,348 767,347 773,347 785,348 811,348 819,343 830,343 831,349 890,349 913,350 913,344 923,344 923,360 891,360 848,359 812,358 742,357 691,356 652,356 641,355 631,356 546,356 534,356 447,354 367,353 327,353 215,352" baseline="215,351 447,353 725,356 879,359 923,360" reason: second model: differs: "er1—2Le" against "r 1–2 L" | Wikisource: in der That erreicht zu haben, daſs auſser 1–2 Leinewebern auch | next_nc_e1: in der That erreicht zu haben, daſs auſser 1–2 Leinewebern auch | german_print2_15: in der That erreicht zu haben, daſs auſser 1 — 2 Leinewebern auch -->
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="267,362 280,362 280,368 291,368 291,362 298,362 298,368 315,368 322,363 334,362 346,362 353,368 380,363 422,363 424,370 446,369 456,363 477,363 485,364 487,371 502,368 527,370 530,364 542,364 549,371 555,371 556,365 574,365 583,371 644,366 657,371 674,369 696,372 711,366 722,366 724,373 744,373 746,367 754,367 760,373 783,373 784,381 808,368 825,368 830,375 842,375 843,369 858,369 868,376 923,376 923,386 905,386 894,386 746,383 267,378" />
+				<Baseline points="267,378 711,382 923,386" />
+				<TextEquiv index="1">
+					<Unicode>Schneider in den Klosterdörfern arbeiten durften. Nach seiner</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="268,393 279,388 291,388 298,394 348,394 358,388 367,388 399,389 399,395 412,392 441,395 451,389 463,389 464,396 470,396 479,389 491,389 496,397 502,390 521,390 521,397 586,397 596,391 612,391 634,395 646,399 647,392 652,392 662,398 686,398 687,392 698,392 707,398 731,399 731,393 743,393 750,399 774,399 782,393 788,393 801,394 801,400 844,400 852,395 878,395 878,401 887,401 894,395 905,395 912,401 923,401 923,414 912,414 905,411 502,406 496,400 491,406 463,406 411,410 329,410 329,404 268,404" />
+				<Baseline points="268,404 585,406 923,412" />
+				<TextEquiv index="1">
+					<Unicode>cherung fertigten dieselben nur Kittel und andere Bauernkleider,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="215,414 221,414 239,419 269,419 288,417 334,421 334,414 347,414 347,421 357,421 370,414 390,414 398,420 410,415 421,415 433,420 443,415 455,415 456,422 467,419 477,414 480,414 499,422 523,422 523,416 535,416 552,422 596,423 622,423 629,417 644,417 654,421 722,424 736,418 760,418 760,425 771,425 771,419 783,419 783,426 878,421 879,428 923,428 923,437 878,437 803,437 795,437 747,435 357,431 269,435 248,430 215,430" />
+				<Baseline points="215,429 923,437" />
+				<TextEquiv index="1">
+					<Unicode>besorgten die Flickarbeit und verwendeten nur Tuche, von denen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="214,439 227,439 233,440 234,446 244,446 259,440 287,440 289,446 376,446 419,441 431,441 432,447 478,442 495,442 497,448 536,448 537,442 549,442 549,449 589,443 600,443 607,449 622,446 659,447 661,443 663,443 719,445 800,445 800,451 842,446 842,452 884,447 892,453 902,453 903,447 914,447 915,454 923,454 923,463 878,463 837,463 834,463 505,458 466,462 364,462 364,456 214,456" />
+				<Baseline points="214,455 692,459 923,463" />
+				<TextEquiv index="1">
+					<Unicode>die Elle weniger als 4 Groschen kostete. Da nun das fürstliche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="214,465 229,465 268,466 269,473 351,467 365,467 376,472 377,466 388,466 420,467 421,473 461,468 473,468 481,471 554,474 555,468 566,468 567,475 578,475 579,482 604,475 609,469 622,469 623,475 633,475 634,469 645,469 670,477 681,477 682,470 693,470 694,476 730,476 731,470 765,470 766,476 801,477 802,485 827,477 901,479 901,473 914,473 915,480 924,480 924,488 914,489 806,489 802,489 730,486 579,487 499,484 280,487 244,482 214,482" />
+				<Baseline points="214,481 604,484 924,489" />
+				<TextEquiv index="1">
+					<Unicode>Privilegium nicht beachtet wurde, nicht einmal dann, wenn die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l11" points="215,488 231,488 240,492 240,498 253,495 273,495 302,495 322,498 340,492 352,492 375,492 385,493 411,493 411,499 434,493 446,493 446,500 457,500 466,499 490,494 502,494 503,501 514,499 523,499 533,501 548,494 586,494 587,501 597,500 615,500 674,496 679,496 680,502 691,502 691,496 703,496 711,499 748,497 753,497 787,500 810,503 810,510 833,505 842,504 877,504 902,504 903,498 914,498 915,505 924,505 924,514 888,515 814,516 810,516 787,513 780,513 713,512 615,511 587,511 478,510 411,509 361,509 253,508 215,508" baseline="215,507 614,510 866,513 924,514" reason: differs: "hnuerha" against "hnung e" | Wikisource:  | next_nc_e1: Übertreter deshalb besondere Mahnu erhalten hatten, so wurde | german_print2_15: Übertreter deshalb besondere Mahnu erhalten hatten, so wurde -->
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="214,524 234,525 243,518 255,518 256,524 285,519 298,519 317,524 323,518 337,518 350,524 367,519 390,518 396,518 397,525 425,523 432,523 438,525 458,523 512,523 513,533 531,527 539,527 540,520 546,520 546,526 557,526 558,520 568,520 578,529 587,527 598,527 599,521 618,521 645,527 666,527 676,521 688,521 689,529 699,529 701,522 706,522 738,528 739,535 765,523 785,523 787,529 823,529 829,524 863,524 870,530 891,525 902,525 903,531 923,531 923,541 914,541 787,539 517,538 425,540 367,535 214,534" />
+				<Baseline points="214,533 632,536 923,541" />
+				<TextEquiv index="1">
+					<Unicode>es der Stadt wieder gestattet, sich selbst zu helfen. Von zahlreichen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="214,545 223,544 238,544 285,544 287,550 309,550 325,544 338,544 339,552 358,550 371,544 378,544 393,545 393,551 439,551 439,558 460,551 516,552 517,546 522,546 523,554 535,552 594,550 627,547 652,547 652,553 661,553 663,547 667,547 669,553 686,548 698,548 717,553 755,554 755,548 772,548 773,556 780,556 795,549 833,550 867,556 913,556 914,550 923,550 923,566 867,566 834,566 516,562 443,564 430,562 419,566 407,566 350,561 214,560" />
+				<Baseline points="214,559 627,562 923,566" />
+				<TextEquiv index="1">
+					<Unicode>Ausfällen der Bürger, zuweilen unter Teilnahme des Richters und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="214,570 226,570 227,576 247,576 255,570 267,570 267,576 278,576 279,570 284,570 284,576 296,571 304,570 329,570 330,576 340,576 341,583 360,570 372,570 372,577 393,577 393,571 422,571 430,575 453,577 467,571 479,571 481,578 496,579 509,573 526,572 546,576 588,579 588,572 601,572 601,579 613,579 624,572 668,576 710,574 738,582 743,587 765,574 778,574 779,580 789,580 800,574 833,576 835,583 878,582 880,576 890,576 904,582 923,582 923,592 855,592 739,590 341,589 329,587 214,586" />
+				<Baseline points="214,586 624,588 923,592" />
+				<TextEquiv index="1">
+					<Unicode>der Schöffen, berichten die Akten des Ratsarchivs. Zu Roſs und zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="215,596 229,596 229,602 241,602 243,596 258,596 258,609 277,602 283,602 284,596 299,596 363,596 376,596 377,603 406,603 419,597 457,603 458,597 469,597 469,610 488,603 563,604 563,598 576,598 576,605 586,605 597,598 610,598 611,604 694,605 728,600 770,600 784,607 790,607 790,600 802,600 803,607 815,607 826,601 843,601 845,609 856,609 857,602 868,602 870,609 923,608 923,618 757,616 643,619 632,619 510,617 497,614 474,616 305,613 258,615 215,612" />
+				<Baseline points="215,612 769,615 923,618" />
+				<TextEquiv index="1">
+					<Unicode>Fuſs, oft 60 Mann stark, zogen die Bürger innerhalb der Meile von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="214,622 244,622 262,622 278,628 300,628 314,622 331,622 331,628 351,628 353,622 362,622 362,636 381,629 455,629 455,623 466,623 467,629 494,629 514,631 515,624 527,624 527,631 550,630 550,637 572,631 584,631 584,625 679,625 680,631 690,631 691,625 701,625 714,632 792,627 803,627 805,633 811,633 826,627 851,628 863,633 885,633 907,629 924,631 924,644 750,642 738,636 734,641 727,646 714,646 550,643 494,640 360,641 214,638" />
+				<Baseline points="214,638 664,640 924,644" />
+				<TextEquiv index="1">
+					<Unicode>Dorf zu Dorf, um nachzusehen, ob man sich gegen ihr Bannrecht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="215,654 317,655 337,649 349,649 349,655 361,655 361,649 373,649 373,655 384,655 385,662 418,649 425,649 453,655 473,649 484,649 485,655 506,656 508,649 516,649 516,656 545,653 554,650 583,650 584,656 613,652 628,652 655,655 747,652 748,659 759,659 760,652 772,652 772,658 790,656 853,659 854,652 862,652 863,667 884,654 896,654 897,661 924,660 924,670 884,669 862,676 854,676 853,669 748,668 730,665 728,672 723,672 628,667 425,665 361,665 282,669 271,665 259,664 259,670 246,670 238,665 215,664" />
+				<Baseline points="215,664 613,666 924,670" />
+				<TextEquiv index="1">
+					<Unicode>vergangen habe. Der kurfürstliche Amtmann (Geleitsmann), dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="214,674 226,674 227,681 263,675 293,675 353,681 353,674 368,674 368,681 397,678 413,678 425,681 425,675 438,675 445,679 467,682 467,676 478,676 479,682 506,682 524,676 549,676 550,682 582,682 609,677 624,680 656,683 656,677 668,677 670,683 683,680 703,680 723,683 758,683 839,679 841,685 864,683 875,686 876,680 895,680 895,686 908,683 915,683 924,686 924,695 907,700 895,700 839,694 815,697 723,698 683,693 214,691" />
+				<Baseline points="214,691 650,692 924,695" />
+				<TextEquiv index="1">
+					<Unicode>der Schutz des städtischen Bannrechts übertragen war, beteiligte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="214,706 224,701 246,701 257,701 301,701 301,707 371,707 372,701 390,701 407,704 465,702 494,708 552,708 570,702 584,702 584,708 595,708 597,702 608,702 610,709 620,709 636,703 641,703 655,708 705,706 751,707 751,717 777,704 783,704 784,710 830,711 830,704 841,704 849,711 884,709 902,712 924,712 924,721 902,726 890,726 755,721 732,721 692,724 655,719 407,717 390,722 372,722 247,720 214,717" />
+				<Baseline points="214,716 924,721" />
+				<TextEquiv index="1">
+					<Unicode>sich, wie wenigstens in einem Falle bezeugt ist, bei derartigen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="213,726 228,726 228,733 275,733 276,739 310,727 377,727 378,733 456,732 532,728 533,735 702,735 703,729 714,729 715,735 745,733 756,736 771,730 793,730 793,736 824,731 837,731 845,737 856,734 869,734 899,738 899,731 910,731 912,738 924,738 924,746 824,746 824,752 812,752 811,746 482,743 429,748 359,743 358,749 349,749 335,743 240,748 228,743 213,742" />
+				<Baseline points="213,742 651,744 924,747" />
+				<TextEquiv index="1">
+					<Unicode>Zügen. Im Jahre 1512 erschienen zwei verordnete Hauptleute des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l21" points="215,752 231,752 251,756 299,759 299,753 312,753 337,760 348,757 363,757 401,754 413,754 425,759 440,753 465,753 465,759 495,759 515,753 522,753 528,754 529,760 540,760 542,754 557,754 558,760 574,760 576,754 599,754 624,755 684,755 686,762 703,761 719,761 726,755 736,755 765,755 790,758 804,757 814,757 832,762 872,763 890,757 901,757 902,764 914,763 923,763 923,773 765,774 758,774 736,771 697,771 686,771 660,770 635,771 625,771 557,770 529,770 522,769 495,770 465,770 363,769 215,769" baseline="215,769 440,769 653,770 764,771 836,772 890,773 923,774" reason: second model: differs: "ulssvol" against "uſsvolk" | Wikisource: Rates mit etwa 60 Mann Fuſsvolk in Olbersdorf, fielen in den | next_nc_e1: Rates mit etwa 60 Mann Fuſsvolk in Olbersdorf, fielen in den | german_print2_15: Rates mit etwa 60 Mann Fulſsvolk in Olbersdorf, fielen in den -->
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="213,778 236,778 256,779 258,786 301,785 301,778 316,778 316,786 327,786 341,779 381,779 416,785 443,787 444,780 455,780 467,785 468,792 490,785 539,786 540,780 558,780 560,786 584,787 646,786 670,788 684,781 716,781 717,787 728,787 728,781 734,781 747,785 779,783 788,789 814,785 831,785 832,791 852,789 924,790 924,799 831,799 788,801 782,797 767,803 756,803 747,797 571,801 519,796 468,797 213,795" />
+				<Baseline points="213,795 684,796 924,799" />
+				<TextEquiv index="1">
+					<Unicode>Keller des Richters ein, zerschlugen seine Milchtöpfe, aſsen seine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="212,810 264,812 264,805 276,805 276,812 322,811 337,805 349,805 366,805 375,809 399,811 413,805 437,805 450,806 475,811 519,811 519,805 530,805 545,812 568,812 569,806 581,806 582,812 645,811 658,813 671,806 687,806 694,813 717,807 730,807 743,813 785,808 801,808 807,815 870,815 871,809 882,809 896,817 903,815 923,815 923,825 706,828 694,828 212,826" />
+				<Baseline points="212,820 671,822 923,825" />
+				<TextEquiv index="1">
+					<Unicode>geriebenen kalten Erbsen und nahmen 20 Näpfe mit Käse und ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l24" points="213,831 223,830 234,830 249,831 249,838 255,838 268,831 284,831 290,832 291,838 304,837 340,835 354,835 363,837 413,837 420,831 437,831 472,832 473,838 483,838 498,831 512,831 512,837 524,832 564,832 573,838 584,838 584,832 596,832 596,839 609,838 621,838 664,838 679,832 685,832 699,833 706,839 751,837 764,837 766,846 779,833 786,833 826,834 829,841 845,841 859,854 862,835 873,835 924,839 924,851 916,851 909,847 905,855 873,855 864,857 859,857 845,850 792,854 787,854 786,842 779,842 771,849 664,849 633,849 621,848 621,854 609,854 608,848 564,848 509,848 413,848 363,848 353,848 213,847" baseline="213,847 436,847 663,848 889,850 924,851" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Faſs Chemnitzer und ein Faſs Zschopauer Bier mit.²) Im J. 1522 | german_print2_15: Faſs Chemnitzer und ein Faſs Zschopauer Bier mit. ²) Im J. 1522 -->
+			<!-- line left out: id="r2l25" points="214,857 223,857 238,862 245,856 257,856 275,864 286,864 288,858 299,858 304,863 318,857 332,857 333,863 410,863 411,857 443,857 463,857 463,864 497,864 497,857 509,857 533,858 548,865 558,861 564,861 592,861 592,871 614,857 619,857 663,859 682,864 690,865 709,859 717,859 717,865 745,865 745,859 750,859 767,865 797,865 833,861 863,860 868,860 871,867 905,867 923,868 923,873 913,877 619,877 614,877 533,874 498,874 491,874 445,873 443,880 435,880 422,874 393,874 376,873 356,879 344,879 333,874 214,873" baseline="214,873 435,873 647,874 767,875 863,876 923,877" reason: differs: "fand" against "⟦⟧ ⟦" | Wikisource:  | next_nc_e1: fand ein Zug nach Jahnsdorf statt. ) Hier fand man 18 Leine- | german_print2_15: fand ein Zug nach Jahnsdorf statt. ²) Hier fand man 18 Leine- -->
+			<!-- line left out: id="r2l26" points="213,889 228,889 229,883 247,883 253,888 273,886 290,886 297,883 322,883 323,889 334,889 334,896 354,889 362,889 388,889 404,890 404,883 417,883 417,889 445,889 468,888 475,884 487,884 506,889 525,890 526,884 537,884 538,890 604,889 612,889 670,890 694,888 706,888 713,891 723,888 736,888 747,889 769,891 776,885 786,885 788,891 799,891 870,892 890,887 902,887 903,893 923,893 923,902 838,903 828,903 817,902 808,901 769,906 757,906 723,901 694,900 688,906 670,906 664,901 646,901 589,903 579,903 457,900 405,900 398,900 362,899 338,902 334,902 247,899 225,899 213,899" baseline="213,899 398,899 623,900 847,901 923,902" reason: second model: differs: "4web" against "Lein" | Wikisource: weberstühle, von denen 16 zerhauen, 2 unangetastet gelassen wurden. | next_nc_e1: weberstühle, von denen 16 zerhauen, 2 unangetastet gelassen wurden. | german_print2_15: 4 weberstühle, von denen 16 zerhauen, 2 unangetastet gelassen wurden. -->
+			<TextLine id="r2l27" custom="readingOrder {index:27;}">
+				<Coords points="213,909 237,909 237,915 272,910 283,910 283,916 303,915 319,909 332,909 332,915 342,915 343,909 355,909 362,915 374,915 374,909 397,909 398,916 472,915 472,909 484,909 485,917 506,916 527,910 622,910 623,916 640,917 641,910 652,910 659,911 659,917 684,910 718,911 719,917 839,918 839,912 851,912 851,920 890,913 902,913 903,920 923,918 923,928 766,931 743,931 684,931 672,931 659,931 598,926 213,925" />
+				<Baseline points="213,925 701,926 923,928" />
+				<TextEquiv index="1">
+					<Unicode>Die vier Schneider wurden nicht behelligt, dagegen wurden den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l28" custom="readingOrder {index:28;}">
+				<Coords points="212,941 224,941 224,935 230,935 231,941 249,941 258,935 271,935 271,941 282,941 282,935 288,935 288,941 307,938 324,938 371,942 371,935 384,935 384,941 395,941 405,935 412,935 412,942 431,942 432,936 454,939 508,942 508,935 526,935 536,943 579,939 587,936 592,936 592,942 623,944 634,936 649,936 651,942 674,942 675,936 687,936 688,943 700,943 708,936 720,936 736,937 745,943 795,941 814,944 854,944 854,938 872,938 873,944 923,945 923,954 897,959 884,959 834,954 745,958 736,953 720,958 708,958 700,952 605,952 605,958 592,958 592,952 212,951" />
+				<Baseline points="212,951 923,954" />
+				<TextEquiv index="1">
+					<Unicode>vier Schustern die Leisten und sonstiges Handwerksgerät zerschlagen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l29" custom="readingOrder {index:29;}">
+				<Coords points="213,961 228,961 234,962 236,968 276,967 297,961 304,961 333,961 346,962 346,968 426,967 426,961 438,961 438,968 477,968 477,961 491,961 491,967 543,961 558,961 558,968 700,969 704,976 729,969 762,969 764,963 768,963 788,971 800,970 829,964 852,964 852,971 864,967 913,970 914,964 924,964 924,980 704,981 639,978 633,983 596,983 591,983 530,977 213,977" />
+				<Baseline points="213,977 729,978 924,980" />
+				<TextEquiv index="1">
+					<Unicode>Einem Bäcker wurde der Ofen eingerissen, weil er Brot und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l30" points="212,987 225,987 225,993 273,993 284,994 286,987 327,987 327,993 346,993 366,994 366,987 378,987 379,993 406,988 416,987 430,987 430,993 442,993 443,987 455,987 456,993 479,993 481,987 488,987 506,988 507,994 518,993 525,988 542,988 556,995 563,995 563,988 573,988 575,994 629,994 629,988 635,988 635,995 647,994 684,989 702,989 704,995 709,995 721,996 722,989 733,989 743,995 766,995 784,995 814,993 827,993 833,996 843,993 868,993 869,1003 886,996 909,996 914,990 923,990 923,1006 909,1006 873,1008 869,1008 833,1006 803,1010 790,1010 542,1007 525,1007 488,1004 467,1004 456,995 455,1004 395,1004 366,1004 303,1004 273,1004 225,1004 212,1003" baseline="212,1003 406,1003 743,1004 923,1006" reason: second model: differs: "PSem" against "Semm" | Wikisource: Semmeln für den Verkauf buk, ein anderer blieb unangetastet, weil | next_nc_e1: Semmeln für den Verkauf buk, ein anderer blieb unangetastet, weil
+ | german_print2_15: P Semmeln für den Verkauf buk, ein anderer blieb unangetastet, weil
+ -->
+			<TextEquiv index="1">
+				<Unicode>Rechtlich ist das Privilegium der Stadt nicht weiter angefochten
+Abt, obschon nur bittweise, das Herkommen geltend, und er scheint
+Schneider in den Klosterdörfern arbeiten durften. Nach seiner
+cherung fertigten dieselben nur Kittel und andere Bauernkleider,
+besorgten die Flickarbeit und verwendeten nur Tuche, von denen
+die Elle weniger als 4 Groschen kostete. Da nun das fürstliche
+Privilegium nicht beachtet wurde, nicht einmal dann, wenn die
+es der Stadt wieder gestattet, sich selbst zu helfen. Von zahlreichen
+Ausfällen der Bürger, zuweilen unter Teilnahme des Richters und
+der Schöffen, berichten die Akten des Ratsarchivs. Zu Roſs und zu
+Fuſs, oft 60 Mann stark, zogen die Bürger innerhalb der Meile von
+Dorf zu Dorf, um nachzusehen, ob man sich gegen ihr Bannrecht
+vergangen habe. Der kurfürstliche Amtmann (Geleitsmann), dem
+der Schutz des städtischen Bannrechts übertragen war, beteiligte
+sich, wie wenigstens in einem Falle bezeugt ist, bei derartigen
+Zügen. Im Jahre 1512 erschienen zwei verordnete Hauptleute des
+Keller des Richters ein, zerschlugen seine Milchtöpfe, aſsen seine
+geriebenen kalten Erbsen und nahmen 20 Näpfe mit Käse und ein
+Die vier Schneider wurden nicht behelligt, dagegen wurden den
+vier Schustern die Leisten und sonstiges Handwerksgerät zerschlagen.
+Einem Bäcker wurde der Ofen eingerissen, weil er Brot und</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="211,362 498,362 498,408 211,408" />
+		</GraphicRegion>
+		<GraphicRegion id="r4">
+			<Coords points="617,501 641,501 641,511 617,511" />
+		</GraphicRegion>
+		<GraphicRegion id="r5">
+			<Coords points="738,632 747,632 747,638 738,638" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="316,968 334,968 334,977 316,977" />
+		</GraphicRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="211,1013 924,1013 924,1061 211,1061" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="212,1019 232,1019 247,1013 253,1013 305,1014 333,1019 334,1013 346,1013 346,1020 447,1014 462,1014 478,1020 489,1020 490,1014 509,1013 524,1013 525,1020 537,1020 537,1014 548,1014 550,1020 572,1019 580,1014 597,1014 597,1020 691,1020 691,1014 703,1014 705,1020 734,1015 758,1015 760,1021 777,1016 787,1016 788,1022 798,1022 812,1016 826,1016 832,1022 845,1022 845,1016 858,1016 858,1022 870,1022 884,1029 903,1022 923,1022 923,1032 895,1034 884,1034 771,1031 212,1030" />
+				<Baseline points="212,1030 509,1029 923,1032" />
+				<TextEquiv index="1">
+					<Unicode>er Hausbäcker war. Zwei Radmachern wurden etliche Räder „ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l1" points="211,1045 227,1045 250,1045 252,1039 257,1039 257,1045 270,1042 281,1042 304,1045 324,1045 325,1039 337,1039 337,1045 378,1045 415,1046 415,1039 422,1039 423,1046 435,1045 445,1045 492,1046 492,1039 505,1039 505,1046 527,1041 537,1040 544,1040 545,1046 570,1043 584,1043 638,1046 657,1048 672,1040 688,1040 696,1046 711,1041 716,1041 719,1047 743,1047 755,1049 755,1040 757,1040 797,1041 803,1047 813,1042 859,1042 882,1045 893,1048 894,1042 905,1042 912,1048 924,1048 924,1058 830,1058 813,1058 735,1057 649,1056 515,1056 415,1056 389,1058 379,1058 294,1056 281,1048 270,1048 270,1061 257,1061 257,1055 237,1056 228,1056 211,1055" baseline="211,1056 404,1055 527,1055 829,1057 924,1058" reason: second model: differs: "„wen" against "weni" | Wikisource: wenig“ zerhauen, ebenso die Geräte eines Gerbers. Zwei Böttcher | next_nc_e1: wenig“ zerhauen, ebenso die Geräte eines Gerbers. Zwei Böttcher
+ | german_print2_15: „ wenig“ zerhauen, ebenso die Geräte eines Gerbers. Zwei Böttcher
+ -->
+			<TextEquiv index="1">
+				<Unicode>er Hausbäcker war. Zwei Radmachern wurden etliche Räder „ein</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="210,1065 923,1065 923,1218 210,1218" />
+			<TextLine id="r8l0" custom="readingOrder {index:0;}">
+				<Coords points="212,1065 225,1065 225,1072 237,1072 237,1065 252,1065 269,1071 329,1066 334,1066 346,1071 361,1065 375,1065 390,1066 390,1072 401,1072 401,1065 413,1065 421,1071 442,1071 442,1081 431,1082 375,1082 237,1082 212,1081" />
+				<Baseline points="212,1082 442,1081" />
+				<TextEquiv index="1">
+					<Unicode>lieſs man in Frieden.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l1" custom="readingOrder {index:1;}">
+				<Coords points="263,1091 290,1091 290,1097 303,1092 335,1091 347,1091 347,1097 367,1097 380,1091 398,1091 416,1091 417,1097 428,1097 430,1091 442,1091 463,1091 463,1097 485,1094 522,1097 536,1091 548,1091 549,1097 559,1097 568,1099 582,1091 599,1091 663,1097 677,1091 683,1091 683,1097 694,1095 716,1095 746,1099 747,1092 759,1092 760,1099 770,1099 783,1093 795,1093 814,1099 814,1093 826,1093 848,1099 893,1094 905,1094 923,1099 923,1105 912,1109 770,1109 760,1109 655,1107 263,1108" />
+				<Baseline points="263,1108 677,1107 923,1109" />
+				<TextEquiv index="1">
+					<Unicode>Nach der Säkularisation des Klosters hatte die Stadt mit be-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l2" custom="readingOrder {index:2;}">
+				<Coords points="211,1123 246,1123 247,1117 259,1117 301,1120 318,1123 355,1117 363,1117 363,1123 393,1117 399,1117 399,1123 458,1123 458,1130 483,1117 495,1117 495,1123 517,1123 539,1117 563,1117 563,1123 602,1118 614,1118 632,1123 632,1117 648,1117 648,1130 672,1118 693,1118 719,1123 740,1125 740,1131 764,1120 777,1120 788,1125 788,1119 813,1120 824,1125 825,1119 838,1119 838,1126 912,1125 913,1119 923,1119 923,1135 888,1135 868,1141 856,1141 856,1135 740,1137 731,1134 646,1136 632,1133 632,1139 620,1139 614,1134 463,1136 375,1134 211,1134" />
+				<Baseline points="211,1133 743,1133 923,1135" />
+				<TextEquiv index="1">
+					<Unicode>nachbarten Gutsherren, den Hünerkopf, Harras, Schönberg und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l3" custom="readingOrder {index:3;}">
+				<Coords points="210,1143 246,1143 261,1143 261,1149 272,1149 272,1143 285,1143 285,1150 296,1150 297,1143 302,1143 303,1156 329,1149 364,1149 364,1143 402,1143 435,1143 436,1149 473,1149 474,1143 479,1143 480,1149 492,1149 492,1143 532,1143 532,1149 580,1143 594,1143 613,1149 652,1149 691,1144 703,1144 719,1149 738,1150 757,1144 763,1144 775,1145 788,1150 827,1151 833,1145 844,1145 858,1148 916,1151 923,1155 923,1157 916,1161 730,1160 652,1164 629,1164 571,1159 569,1165 555,1165 555,1159 340,1160 308,1162 296,1160 255,1160 219,1162 210,1159" />
+				<Baseline points="210,1160 737,1159 923,1161" />
+				<TextEquiv index="1">
+					<Unicode>Einsiedel, noch zahlreiche Kämpfe wegen ihres Bannrechts aus-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l4" custom="readingOrder {index:4;}">
+				<Coords points="211,1175 233,1175 234,1169 243,1169 243,1175 264,1175 264,1169 276,1169 310,1175 310,1169 358,1169 358,1175 369,1175 369,1169 416,1169 435,1169 435,1175 446,1175 446,1169 458,1169 477,1175 591,1176 621,1171 641,1172 687,1169 699,1169 700,1176 803,1177 803,1171 815,1171 817,1177 830,1174 860,1177 878,1171 891,1171 891,1179 902,1175 915,1175 916,1181 922,1181 922,1183 915,1187 774,1187 687,1185 666,1191 664,1191 642,1190 621,1185 591,1185 591,1191 579,1191 559,1185 211,1186" />
+				<Baseline points="211,1185 743,1185 922,1187" />
+				<TextEquiv index="1">
+					<Unicode>zufechten. Schlieſslich war sie genötigt, den veränderten Zeit-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r8l5" points="211,1195 224,1195 224,1201 236,1201 236,1195 248,1195 280,1195 280,1201 292,1196 297,1196 338,1201 353,1195 369,1195 370,1202 381,1201 392,1201 392,1195 404,1195 404,1201 503,1198 510,1198 604,1201 605,1195 616,1195 631,1201 654,1201 668,1208 679,1208 680,1196 689,1195 706,1195 707,1201 712,1201 737,1201 749,1202 751,1196 765,1196 766,1202 777,1197 788,1197 796,1203 811,1203 826,1197 841,1197 842,1203 863,1200 878,1200 900,1202 900,1218 884,1218 884,1212 836,1212 679,1213 668,1213 544,1211 543,1217 531,1217 531,1211 468,1211 452,1217 440,1217 440,1211 211,1211" baseline="211,1211 668,1211 900,1212" reason: models differ | Wikisource: bedürfnissen Rechnung zu tragen und im „Grimmischen Vertrag | next_nc_e1: bedürfnissen Rechnung zu tragen und im „Grimmischen Vertrag
+ | german_print2_15: bedürfnissen Rechnung zu tragen und im „Grimmischen Vertrage
+ -->
+			<TextEquiv index="1">
+				<Unicode>lieſs man in Frieden.
+Nach der Säkularisation des Klosters hatte die Stadt mit be-
+nachbarten Gutsherren, den Hünerkopf, Harras, Schönberg und
+Einsiedel, noch zahlreiche Kämpfe wegen ihres Bannrechts aus-
+zufechten. Schlieſslich war sie genötigt, den veränderten Zeit-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r9">
+			<Coords points="0,1010 26,1010 26,1104 0,1104" />
+		</GraphicRegion>
+		<GraphicRegion id="r10">
+			<Coords points="878,1156 881,1156 881,1163 878,1163" />
+		</GraphicRegion>
+		<GraphicRegion id="r11">
+			<Coords points="902,1202 926,1202 926,1213 902,1213" />
+		</GraphicRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="263,1276 505,1276 505,1347 263,1347" />
+			<!-- line left out: id="r12l0" points="263,1276 276,1276 324,1276 335,1281 351,1277 366,1277 389,1277 399,1281 409,1276 419,1276 447,1277 505,1281 505,1295 488,1295 276,1294 270,1294 269,1284 263,1284" baseline="263,1289 431,1290 472,1291 505,1293" reason: differs: "¹)Ur" against "e“" | Wikisource:  | next_nc_e1: ¹) Urkundenbuch Nr. 227, | german_print2_15: ¹) Urkundenbuch Nr. 227, -->
+			<!-- line left out: id="r12l1" points="263,1302 274,1302 301,1303 330,1303 357,1303 438,1305 438,1317 402,1317 319,1317 294,1317 274,1320 269,1320 269,1310 263,1310" baseline="263,1316 419,1315 438,1317" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ²) Ermisch a. a. O. | german_print2_15: ²) Ermisch a. a. O. -->
+			<!-- line left out: id="r12l2" points="265,1329 324,1329 334,1333 345,1329 356,1329 388,1329 418,1329 431,1339 439,1335 470,1333 490,1333 499,1334 499,1346 490,1347 482,1347 470,1346 388,1343 300,1343 277,1347 265,1347" baseline="265,1342 458,1342 499,1343" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: )Urkundenbuch Nr. 454
+ | german_print2_15: ²) Urkundenbuch Nr. 454
+ -->
+		</TextRegion>
+		<GraphicRegion id="r13">
+			<Coords points="516,1274 692,1274 692,1299 516,1299" />
+		</GraphicRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="394,1528 598,1528 598,1540 394,1540" />
+			<!-- line left out: id="r14l0" points="394,1528 401,1528 408,1528 431,1528 456,1528 469,1528 480,1528 494,1528 525,1528 542,1528 564,1529 598,1529 598,1537 573,1539 551,1539 480,1537 452,1540 441,1540 427,1540 424,1540 407,1539 394,1537" baseline="394,1537 598,1536" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hupe eigſtal slub dresden de ppnss | german_print2_15: dealecb-dreeden de ppneo13, -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Rechtlich ist das Privilegium der Stadt nicht weiter angefochten
+worden, thatsächlich wurde es nach wie vor verletzt. Die Äbte
+wie die Herren von Harras mußten wiederholt ermahnt werden,
+das Bannrecht der Stadt zu achten.⟦⟧ Immer wieder machte der
+Abt, obschon nur bittweise, das Herkommen geltend, und er scheint
+in der That erreicht zu haben, daß außer 1–2 Leinewebern auch
+1–2 Schneider in den Klosterdörfern arbeiten durften. Nach seiner
+Versicherung fertigten dieselben nur Kittel und andere Bauernkleider,
+besorgten die Flickarbeit und verwendeten nur Tuche, von denen
+die Elle weniger als 4 Groschen kostete. Da nun das fürstliche
+Privilegium nicht beachtet wurde, nicht einmal dann, wenn die
+Übertreter deshalb besondere Mahnung erhalten hatten, so wurde
+es der Stadt wieder gestattet, sich selbst zu helfen. Von zahlreichen
+Ausfällen der Bürger, zuweilen unter Teilnahme des Richters und
+der Schöffen, berichten die Akten des Ratsarchivs. Zu Roß und zu
+Fuß, oft 60 Mann stark, zogen die Bürger innerhalb der Meile von
+Dorf zu Dorf, um nachzusehen, ob man sich gegen ihr Bannrecht
+vergangen habe. Der kurfürstliche Amtmann (Geleitsmann), dem
+der Schutz des städtischen Bannrechts übertragen war, beteiligte
+sich, wie wenigstens in einem Falle bezeugt ist, bei derartigen
+Zügen. Im Jahre 1512 erschienen zwei verordnete Hauptleute des
+Rates mit etwa 60 Mann Fußvolk in Olbersdorf, fielen in den
+Keller des Richters ein, zerschlugen seine Milchtöpfe, aßen seine
+geriebenen kalten Erbsen und nahmen 20 Näpfe mit Käse und ein
+Faß Chemnitzer und ein Faß Zschopauer Bier mit.⟦⟧ Im J. 1522
+fand ein Zug nach Jahnsdorf statt.⟦⟧ Hier fand man 18
+Leineweberstühle, von denen 16 zerhauen, 2 unangetastet gelassen wurden.
+Die vier Schneider wurden nicht behelligt, dagegen wurden den
+vier Schustern die Leisten und sonstiges Handwerksgerät zerschlagen.
+Einem Bäcker wurde der Ofen eingerissen, weil er Brot und
+Semmeln für den Verkauf buk, ein anderer blieb unangetastet, weil
+er Hausbäcker war. Zwei Radmachern wurden etliche Räder „ein
+wenig“ zerhauen, ebenso die Geräte eines Gerbers. Zwei Böttcher
+ließ man in Frieden.
+Nach der Säkularisation des Klosters hatte die Stadt mit
+benachbarten Gutsherren, den Hünerkopf, Harras, Schönberg und
+Einsiedel, noch zahlreiche Kämpfe wegen ihres Bannrechts
+auszufechten. Schließlich war sie genötigt, den veränderten
+Zeitbedürfnissen Rechnung zu tragen und im „Grimmischen Vertrage“
+-->
+	</Page>
+</PcGts>

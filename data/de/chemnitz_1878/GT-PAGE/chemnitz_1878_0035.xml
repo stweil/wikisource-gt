@@ -1,0 +1,425 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:17:13</Created>
+		<LastChange>2026-11-23T14:17:13</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/35 revision 4642617 of 2025-10-21T06:42:25Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0035.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro15516266755181913444" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="36,1174 49,1174 49,1485 36,1485" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="416,183 432,183 432,192 416,192" />
+			<!-- line left out: id="r1l0" points="416,185 428,183 432,183 432,192 428,192 416,187" baseline="416,192 432,192" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 27
+ | german_print2_15: 27
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="97,218 810,218 810,1376 97,1376" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="97,235 108,235 122,228 139,228 139,234 228,232 241,225 252,225 294,230 301,225 313,225 315,231 327,229 335,225 340,225 340,233 353,230 419,229 427,223 441,223 448,229 454,227 473,227 475,235 505,221 522,221 522,227 542,227 575,226 575,220 587,220 588,226 621,227 622,219 634,219 636,228 645,226 656,219 667,219 668,226 678,226 692,218 710,218 711,224 766,222 788,223 788,236 778,236 765,233 727,234 722,228 716,233 710,234 600,235 473,240 419,239 390,241 282,241 280,247 269,247 267,241 215,243 162,248 108,249 97,249" />
+				<Baseline points="97,245 555,235 788,233" />
+				<TextEquiv index="1">
+					<Unicode>4 Tagen zur Capitulation genöthigt. Das schwedische Heer zog</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="99,261 121,261 133,255 143,255 157,261 161,254 262,259 274,252 285,252 287,259 345,254 363,258 364,250 369,250 371,256 383,254 413,256 428,249 444,249 445,255 480,255 481,249 493,249 517,254 580,253 595,246 608,246 609,252 630,252 636,254 644,246 655,246 656,252 678,251 698,245 703,245 730,252 750,252 751,244 756,244 769,249 788,249 788,259 554,262 408,266 382,269 349,266 143,271 121,271 99,271" />
+				<Baseline points="99,270 788,259" />
+				<TextEquiv index="1">
+					<Unicode>nach der inzwischen erfolgten Einnahme von Zwickau in seiner</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="98,288 135,287 178,283 207,285 221,279 233,279 239,283 261,284 263,278 274,278 275,285 309,286 311,278 323,278 349,283 350,277 391,276 396,276 397,283 439,282 447,279 458,279 469,281 470,288 495,281 525,280 547,273 570,273 570,281 582,273 593,273 597,280 601,280 614,278 675,278 696,271 701,271 704,278 719,278 720,271 732,271 733,277 788,277 788,286 756,290 739,290 713,286 663,288 632,291 593,288 474,292 111,296 109,302 98,302" />
+				<Baseline points="98,297 788,285" />
+				<TextEquiv index="1">
+					<Unicode>gesammten Stärke durch Chemnitz, um Freiberg zu belagern,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="98,314 127,313 146,310 191,312 192,306 197,306 200,312 270,310 291,304 302,304 304,312 316,310 405,306 458,306 485,302 563,306 612,305 613,299 624,299 626,307 638,304 647,304 665,298 680,298 682,304 720,305 721,297 735,297 737,303 754,303 755,297 766,297 767,304 788,302 788,312 714,312 680,314 563,315 529,317 247,320 127,323 98,323" />
+				<Baseline points="98,323 788,312" />
+				<TextEquiv index="1">
+					<Unicode>musste aber vor den zum Entsatz heranrückenden Kaiserlichen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="98,340 139,339 145,341 153,333 164,333 181,340 203,338 210,332 215,332 217,338 289,337 290,330 301,330 319,337 342,336 343,330 354,330 440,333 442,342 464,328 489,328 561,332 573,326 629,328 651,331 689,328 697,338 724,330 746,329 758,331 759,323 770,323 790,328 790,338 107,350 98,350" />
+				<Baseline points="98,349 790,338" />
+				<TextEquiv index="1">
+					<Unicode>zurückweichen und gab am 28. März auch Chemnitz wieder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="97,366 120,366 123,359 130,359 130,373 163,359 204,366 206,358 237,358 240,366 258,363 280,357 285,357 287,363 298,361 356,362 357,356 381,356 383,365 407,355 444,355 450,362 459,362 474,354 512,354 513,362 525,354 530,354 544,358 550,366 570,358 603,358 605,352 653,357 681,351 692,351 753,351 784,354 784,365 681,366 655,361 653,367 582,367 512,370 368,372 351,372 327,366 325,372 109,376 97,376" />
+				<Baseline points="97,375 784,365" />
+				<TextEquiv index="1">
+					<Unicode>auf. Drechsler hatte üble Tage verlebt; weil die dem Amte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="97,392 107,392 115,390 148,391 149,385 154,385 156,393 180,388 210,387 222,384 230,384 233,390 264,389 274,384 286,384 316,389 409,386 428,389 454,388 480,380 518,380 518,394 540,386 564,387 571,379 627,384 633,377 638,377 647,384 658,384 659,378 711,383 783,382 788,389 790,389 790,392 647,394 639,390 633,379 627,394 518,397 415,396 409,390 403,398 126,402 97,402" />
+				<Baseline points="97,402 790,392" />
+				<TextEquiv index="1">
+					<Unicode>auferlegte Contribution von 12000 Thlrn. nicht aufzubringen war,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="100,413 111,413 112,419 132,415 230,411 345,417 360,409 364,409 366,415 375,415 375,409 391,409 391,423 400,423 416,414 438,414 453,407 472,408 474,414 484,414 491,407 518,407 524,413 605,413 607,405 630,405 639,413 674,410 711,410 719,403 729,403 731,410 742,409 749,403 763,403 764,411 775,408 791,408 791,420 763,418 700,422 651,418 607,421 592,417 579,424 542,422 364,425 334,428 314,428 311,428 253,426 164,427 146,422 143,428 122,428 100,428" />
+				<Baseline points="100,428 791,418" />
+				<TextEquiv index="1">
+					<Unicode>hatte man ihn 6 Tage lang im Stadthaus geschlossen gehalten,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="98,439 103,439 105,445 171,444 191,437 205,437 207,445 219,443 272,442 274,436 287,436 289,444 300,442 316,442 331,436 387,435 390,441 413,441 415,434 423,434 423,441 491,441 499,434 577,438 578,432 589,432 605,444 611,437 633,437 635,431 647,431 649,437 703,434 737,429 750,429 751,437 763,433 781,433 792,436 792,444 684,447 659,438 659,446 633,447 316,453 287,452 171,454 116,454 98,454" />
+				<Baseline points="98,454 792,444" />
+				<TextEquiv index="1">
+					<Unicode>bis seine Verwandten, die Kaufmannschaft und andere gute Leute</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="98,465 110,465 111,472 133,471 143,465 157,465 159,471 170,467 244,463 348,462 349,470 361,468 398,467 407,461 412,461 412,467 467,467 469,460 474,460 483,468 498,466 503,460 514,460 515,468 527,465 537,465 565,458 581,458 590,466 599,464 642,463 652,457 668,457 676,464 698,462 713,456 736,456 737,462 748,462 749,456 754,456 756,462 792,461 792,471 612,473 611,480 599,480 598,471 581,474 496,475 467,477 334,477 253,479 235,478 184,480 157,480 98,480" />
+				<Baseline points="98,480 792,471" />
+				<TextEquiv index="1">
+					<Unicode>den Rest in Gold- u. Silberwerk, englischen und spanischen Tüchern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="99,492 110,492 132,497 133,491 137,491 140,498 150,498 151,491 216,491 228,496 256,490 260,497 288,497 295,489 300,489 303,496 318,496 321,488 331,488 335,497 355,488 365,488 367,494 386,492 410,493 420,488 451,487 457,487 471,492 472,486 484,486 492,494 601,490 635,492 636,484 648,484 649,491 695,489 710,482 718,482 739,482 757,482 761,489 787,489 787,497 601,500 596,494 589,501 422,504 268,504 228,505 216,507 203,507 132,507 99,507" />
+				<Baseline points="99,506 787,497" />
+				<TextEquiv index="1">
+					<Unicode>darlehnsweise beschafft hatten. Indessen waren die im Schlosse</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="99,524 111,523 124,519 153,524 155,517 159,517 162,524 172,523 196,516 204,516 207,524 229,522 238,516 247,516 254,525 262,522 295,519 309,521 366,521 368,515 377,515 397,520 408,521 411,514 435,514 464,519 486,519 496,512 502,512 503,520 515,518 531,518 539,524 545,512 584,511 598,511 600,522 612,517 624,516 711,515 778,512 793,513 793,526 669,525 531,529 464,528 435,530 435,536 421,536 421,530 380,530 368,528 366,536 355,536 346,532 295,531 280,523 280,531 159,533 142,536 131,536 99,533" />
+				<Baseline points="99,533 793,524" />
+				<TextEquiv index="1">
+					<Unicode>aufgehäuften Vorräthe geplündert worden, alle Räume verunreinigt;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="100,544 111,544 119,551 143,550 164,546 194,546 218,549 228,542 254,542 263,548 328,547 343,541 354,541 356,549 377,547 387,540 407,544 431,543 490,546 580,544 581,538 592,538 632,543 640,537 690,537 691,543 722,543 726,535 736,535 738,541 749,541 751,535 761,535 763,541 794,541 794,553 782,553 773,551 714,551 537,555 188,559 100,559" />
+				<Baseline points="100,559 794,550" />
+				<TextEquiv index="1">
+					<Unicode>die meisten Häuser in den Dörfern waren nicht mehr bewohnbar,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="101,576 177,575 198,569 223,569 225,575 235,575 237,569 242,569 244,576 272,574 323,575 325,568 373,568 392,574 393,567 441,567 443,575 455,572 492,573 552,571 573,564 585,564 587,570 610,570 612,564 659,564 718,568 719,562 730,562 783,568 784,561 794,561 794,577 441,583 117,586 101,586" />
+				<Baseline points="101,586 794,577" />
+				<TextEquiv index="1">
+					<Unicode>in einer Meile um die Stadt herum kein Bund Heu und Stroh</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="100,602 136,596 152,596 154,603 165,603 166,596 176,596 191,602 198,602 198,596 237,595 281,601 298,594 318,594 319,602 342,600 343,594 354,594 373,600 583,597 598,603 604,591 615,591 618,597 638,596 638,590 650,590 652,597 657,597 670,590 690,589 692,595 713,596 732,600 733,589 745,589 747,596 755,596 769,588 774,588 776,594 787,594 794,598 794,600 787,604 200,612 140,612 100,612" />
+				<Baseline points="100,612 794,603" />
+				<TextEquiv index="1">
+					<Unicode>zu finden. Dem Elend war um so weniger abzuhelfen, als in-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="103,622 114,622 116,631 120,631 156,628 184,629 186,621 198,621 199,628 208,628 222,621 227,621 227,631 240,627 278,627 283,621 287,621 290,627 299,627 306,621 357,621 390,626 427,625 440,623 473,625 488,619 506,619 508,625 575,623 577,631 595,623 607,623 616,625 624,617 629,617 631,624 642,617 653,617 655,624 666,622 745,622 757,619 788,620 796,622 796,629 745,633 607,632 580,634 498,635 114,638 103,638" />
+				<Baseline points="103,637 796,632" />
+				<TextEquiv index="1">
+					<Unicode>dessen die kaiserliche Armee unter Marazini, welcher wenigstens</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="104,649 108,649 111,656 132,654 135,648 146,648 149,654 159,654 160,648 170,648 172,654 182,654 197,647 214,647 222,653 288,653 295,647 332,647 336,654 357,652 380,647 391,647 406,650 468,651 477,648 490,648 506,651 517,648 539,648 548,655 554,652 572,650 609,649 610,657 643,657 643,644 670,643 685,653 697,649 714,648 721,642 731,642 746,649 753,641 765,641 787,641 787,647 796,647 796,656 506,661 490,663 197,663 184,657 182,663 139,664 108,664 104,664" />
+				<Baseline points="104,664 796,656" />
+				<TextEquiv index="1">
+					<Unicode>leidliche Mannszucht bewahrte, eingetroffen war. Als auch diese</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l17" points="103,683 113,681 117,681 123,683 130,675 140,675 150,682 161,680 166,680 174,678 183,674 193,674 202,680 217,678 238,674 243,674 245,680 262,677 275,677 282,681 290,687 309,673 313,673 315,679 320,679 349,681 360,672 365,672 381,674 385,680 389,680 400,681 407,672 412,672 434,672 443,678 455,678 473,679 475,672 486,672 487,678 514,677 531,677 544,678 546,671 557,671 592,671 598,674 611,676 613,670 624,670 675,673 709,675 721,676 721,669 727,669 766,674 767,668 772,668 785,671 796,674 796,682 785,684 709,685 675,685 632,686 611,686 572,686 531,687 455,687 419,688 407,688 389,687 381,688 320,688 293,690 290,690 275,689 187,689 179,690 140,690 117,690 113,690 103,689" baseline="103,690 360,687 571,685 796,683" reason: differs: "entsfer" against "entfern" | Wikisource:  | next_nc_e1: sich entſfernt hatte, liess Drechsler das in der Stadt untergebrachte | german_print2_15: sich entfernt hatte, liess Drechsler das in der Stadt untergebrachte -->
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="104,701 117,701 127,707 137,707 146,701 159,701 168,706 182,701 275,699 279,705 304,706 321,705 330,699 340,699 342,707 395,705 403,698 414,698 416,707 431,704 452,710 458,704 481,703 506,705 508,697 518,697 519,704 533,704 548,697 595,697 599,704 620,705 634,696 639,696 642,703 663,701 710,701 712,708 735,701 751,701 765,694 777,694 779,702 797,700 797,710 686,714 595,712 340,715 304,714 137,717 104,717" />
+				<Baseline points="104,717 797,709" />
+				<TextEquiv index="1">
+					<Unicode>Rindvieh des Vorwerks wieder auf das Schloss bringen, in der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="104,728 127,728 190,733 191,740 214,735 248,732 282,732 286,726 297,726 299,733 336,731 378,731 384,734 392,725 430,724 430,732 448,732 452,724 484,724 486,730 496,730 497,724 507,724 521,732 527,730 555,729 561,723 577,723 584,731 605,726 653,728 654,722 665,722 680,728 732,727 736,721 741,721 743,727 753,727 754,721 766,721 773,724 797,726 797,736 530,740 484,739 471,740 465,742 378,741 190,745 173,745 104,742" />
+				<Baseline points="104,743 797,736" />
+				<TextEquiv index="1">
+					<Unicode>Meinung, es würde nunmehr gänzlich gesichert und zu erhalten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="103,762 119,760 146,760 194,753 217,753 236,760 269,758 312,760 334,758 383,757 420,758 422,751 434,751 435,758 445,758 467,751 475,750 545,758 545,750 572,750 587,756 607,756 607,750 648,749 684,755 686,748 696,748 699,755 713,755 714,748 718,748 721,755 795,753 795,763 648,764 609,768 572,766 559,768 545,768 532,766 397,767 287,770 269,770 112,769 103,766" />
+				<Baseline points="103,770 795,762" />
+				<TextEquiv index="1">
+					<Unicode>sein. Um so grösser war die Enttäuschung. Drechsler war</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="128,786 216,785 219,793 243,779 250,779 276,785 278,779 288,779 303,785 322,783 407,784 421,778 433,778 434,785 445,778 484,783 486,777 490,777 494,784 555,782 557,776 588,776 589,784 601,782 617,782 632,775 679,775 687,783 697,781 721,781 744,785 745,774 757,774 759,781 798,779 798,789 713,791 696,788 667,791 617,792 269,795 267,801 250,801 243,801 223,795 216,800 128,796" />
+				<Baseline points="128,796 798,788" />
+				<TextEquiv index="1">
+					<Unicode>en am 4. April mit einem Schreiber auf dem Schlosse, als er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="116,815 127,807 138,807 140,813 150,813 241,812 243,806 254,806 256,812 317,811 318,805 329,805 347,813 353,805 365,805 366,812 375,812 389,805 401,805 401,812 412,804 424,804 425,810 437,810 445,812 453,804 464,804 466,812 477,809 522,809 540,803 552,803 553,811 576,809 592,803 630,802 643,810 649,808 672,807 673,801 685,801 687,807 696,801 707,801 715,808 739,806 787,806 789,800 798,800 798,815 725,820 630,818 437,819 254,822 169,822 150,822 127,822 116,821" />
+				<Baseline points="116,822 798,816" />
+				<TextEquiv index="1">
+					<Unicode>chüsse vernahm und die Schweden in den Hof eindringen und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="104,833 116,833 117,839 127,839 136,841 162,833 183,833 184,839 195,839 196,833 241,832 241,838 250,838 325,832 326,839 347,837 367,831 393,831 396,838 405,838 449,830 466,832 467,838 477,838 498,830 503,830 503,840 516,836 555,837 558,829 589,829 591,836 606,836 632,829 642,829 671,834 751,833 771,827 776,827 779,833 788,833 791,826 799,826 799,842 632,844 603,838 600,845 311,847 276,850 241,850 238,850 183,848 104,849" />
+				<Baseline points="104,848 799,842" />
+				<TextEquiv index="1">
+					<Unicode>das Vieh wegtreiben sah. Die kaiserliche Armee war bei</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l24" custom="readingOrder {index:24;}">
+				<Coords points="106,860 140,859 143,866 170,865 181,862 193,862 256,867 257,858 269,858 278,865 323,865 344,864 345,858 362,858 375,863 388,864 459,863 463,857 474,857 476,865 487,862 542,862 543,856 554,856 569,862 575,855 587,855 588,863 598,863 631,854 671,862 672,854 684,854 685,862 697,860 745,859 747,853 758,853 760,859 800,859 800,869 504,873 437,872 388,874 323,872 312,876 301,876 239,873 193,875 106,875" />
+				<Baseline points="106,875 800,869" />
+				<TextEquiv index="1">
+					<Unicode>Hohenstein völlig geschlagen worden, und die Schweden nahmen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l25" custom="readingOrder {index:25;}">
+				<Coords points="106,892 117,892 118,886 129,886 130,893 173,892 175,885 186,885 188,893 221,891 271,885 281,885 283,891 332,888 344,888 353,890 370,884 388,885 396,892 431,884 469,883 530,883 537,886 550,888 551,882 577,882 577,890 593,888 635,887 664,888 665,881 737,880 748,880 750,886 800,883 800,895 748,894 709,897 474,899 388,898 344,900 245,901 234,901 186,901 106,901" />
+				<Baseline points="106,901 211,899 800,895" />
+				<TextEquiv index="1">
+					<Unicode>abermals von Chemnitz Besitz. Der Stadtkommandant, Oberst-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l26" custom="readingOrder {index:26;}">
+				<Coords points="107,913 111,913 126,918 199,916 221,911 227,911 271,917 273,924 298,917 321,916 330,911 384,911 452,916 467,910 546,914 577,914 606,907 614,912 634,914 635,908 640,908 642,914 653,914 660,907 665,907 667,914 677,914 704,907 710,907 713,913 724,913 732,906 746,906 746,913 779,911 800,912 800,925 746,922 704,922 679,917 677,923 634,927 501,925 384,928 372,928 361,928 305,926 155,928 123,928 114,928 107,927" />
+				<Baseline points="107,928 800,921" />
+				<TextEquiv index="1">
+					<Unicode>lieutenant Prinz, verlangte vom Amte eine tägliche Lieferung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l27" custom="readingOrder {index:27;}">
+				<Coords points="107,945 166,943 223,937 238,937 240,943 250,943 251,937 303,937 310,943 330,944 337,937 342,937 344,943 393,942 394,936 405,936 443,943 459,935 477,936 492,941 608,940 622,933 642,934 643,940 661,940 661,934 666,934 682,939 700,940 708,933 718,933 727,939 743,939 790,938 791,932 801,932 801,947 661,951 492,951 431,954 423,954 166,954 114,954 107,954" />
+				<Baseline points="107,954 801,947" />
+				<TextEquiv index="1">
+					<Unicode>von 102 Pfund Fleisch und 30 Personen zum Zugbrücken- und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l28" custom="readingOrder {index:28;}">
+				<Coords points="109,965 126,966 146,964 153,972 162,969 225,970 225,964 239,964 242,970 259,969 274,964 314,963 345,971 356,963 383,962 385,971 422,963 427,963 430,969 439,969 441,961 472,962 474,968 485,968 485,962 516,961 518,968 553,961 559,961 561,967 593,967 594,961 606,961 607,969 641,960 652,960 654,966 665,966 699,959 709,959 711,966 758,965 760,959 772,959 783,964 799,964 799,974 688,975 667,970 665,976 606,976 529,979 441,979 427,977 314,979 276,984 274,984 225,981 194,984 180,984 139,980 109,980" />
+				<Baseline points="109,980 799,974" />
+				<TextEquiv index="1">
+					<Unicode>Befestigungsbau. Drechsler beschuldigt hierbei die Chemnitzer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l29" custom="readingOrder {index:29;}">
+				<Coords points="110,990 123,990 124,998 134,998 135,991 146,991 156,997 165,997 169,991 180,991 182,998 204,996 206,1003 225,996 272,997 274,990 284,990 286,997 319,998 321,989 332,989 340,995 360,989 372,989 378,993 391,995 392,988 404,988 424,994 445,994 447,988 463,988 466,994 538,995 540,988 578,987 579,993 684,986 685,992 705,994 714,987 729,987 755,989 771,997 777,985 788,985 791,991 802,991 802,998 776,1001 729,1002 295,1005 209,1007 206,1007 110,1006" />
+				<Baseline points="110,1006 802,1000" />
+				<TextEquiv index="1">
+					<Unicode>Behörden, manche der Stadt zukommende Last auf das Amt ab-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l30" custom="readingOrder {index:30;}">
+				<Coords points="111,1022 146,1022 155,1017 166,1017 168,1023 177,1020 235,1017 335,1015 349,1015 351,1021 450,1020 465,1022 481,1013 494,1014 495,1020 530,1020 538,1017 550,1017 572,1020 656,1019 662,1021 669,1013 717,1020 732,1012 737,1012 740,1018 750,1018 752,1011 762,1011 781,1011 782,1017 803,1014 803,1027 122,1033 111,1033" />
+				<Baseline points="111,1032 803,1027" />
+				<TextEquiv index="1">
+					<Unicode>gewälzt zu haben. Ein genaues Inventarienverzeichniss belehrt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l31" custom="readingOrder {index:31;}">
+				<Coords points="112,1048 167,1048 167,1042 179,1042 182,1049 225,1049 227,1042 239,1042 240,1050 264,1043 278,1042 281,1050 291,1050 293,1042 306,1042 308,1048 335,1046 348,1049 349,1055 372,1047 383,1047 393,1049 395,1041 469,1041 475,1047 489,1047 502,1041 514,1041 515,1048 526,1041 544,1040 546,1046 574,1048 592,1040 604,1040 605,1047 639,1039 651,1039 652,1046 664,1045 689,1038 708,1038 710,1044 734,1044 735,1038 747,1038 803,1044 803,1057 734,1054 353,1058 335,1058 274,1058 239,1058 227,1058 112,1057" />
+				<Baseline points="112,1058 667,1054 803,1057" />
+				<TextEquiv index="1">
+					<Unicode>uns über die Verluste, welche das Schloss bei der Plünderung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l32" custom="readingOrder {index:32;}">
+				<Coords points="112,1074 159,1073 188,1068 202,1068 209,1073 236,1068 256,1075 276,1074 278,1068 301,1068 310,1074 340,1074 344,1068 393,1068 393,1075 424,1073 536,1071 576,1066 595,1066 596,1072 619,1072 620,1066 654,1065 668,1066 694,1071 695,1065 710,1065 719,1070 731,1072 732,1064 743,1064 765,1071 783,1069 804,1070 804,1078 630,1082 607,1081 545,1087 488,1082 346,1084 217,1083 209,1089 203,1089 202,1083 172,1088 159,1088 112,1083" />
+				<Baseline points="112,1083 804,1078" />
+				<TextEquiv index="1">
+					<Unicode>am 4. April erfahren. So war von 52 Stück Rindvieh eine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l33" custom="readingOrder {index:33;}">
+				<Coords points="113,1101 122,1101 126,1094 174,1094 187,1099 189,1093 193,1093 196,1100 231,1099 240,1101 242,1093 252,1093 254,1101 264,1094 270,1094 271,1101 316,1100 322,1102 328,1094 340,1094 361,1100 373,1100 385,1094 390,1094 392,1101 419,1099 428,1093 439,1093 448,1099 478,1097 521,1099 522,1093 534,1093 543,1099 588,1099 596,1093 620,1092 621,1098 627,1098 639,1092 652,1092 653,1099 664,1097 681,1097 696,1090 708,1090 709,1097 729,1097 739,1090 752,1090 776,1090 777,1097 797,1096 804,1099 804,1102 797,1105 776,1106 719,1106 681,1108 652,1107 568,1113 558,1113 534,1108 501,1110 439,1109 373,1111 231,1108 205,1110 113,1110" />
+				<Baseline points="113,1110 204,1108 804,1105" />
+				<TextEquiv index="1">
+					<Unicode>alte Kuh, welche nicht gehen konnte, übrig geblieben, das Feder-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l34" custom="readingOrder {index:34;}">
+				<Coords points="113,1128 135,1128 143,1121 154,1121 155,1134 174,1120 186,1120 187,1126 222,1123 249,1125 251,1119 256,1119 258,1126 306,1126 307,1120 312,1120 315,1127 353,1125 375,1127 388,1120 400,1120 408,1124 420,1126 433,1120 443,1120 456,1134 463,1134 463,1119 477,1119 477,1125 488,1125 494,1119 519,1119 527,1123 529,1132 549,1124 631,1121 691,1117 696,1117 716,1124 732,1116 747,1116 774,1116 775,1122 806,1122 806,1132 732,1132 713,1126 710,1132 691,1132 663,1124 657,1124 631,1134 477,1137 362,1134 362,1140 353,1140 312,1135 197,1135 159,1137 113,1136" />
+				<Baseline points="113,1137 205,1135 806,1131" />
+				<TextEquiv index="1">
+					<Unicode>vieh, das früher über 50 Stück gezählt, war auf 15 alte Hühner</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l35" custom="readingOrder {index:35;}">
+				<Coords points="113,1154 136,1154 138,1147 178,1147 192,1152 208,1153 239,1151 301,1151 368,1154 370,1146 379,1146 382,1152 405,1152 406,1146 423,1146 435,1153 452,1150 465,1150 484,1153 485,1145 536,1145 537,1153 549,1148 588,1151 589,1144 601,1144 603,1152 638,1148 703,1146 718,1143 741,1142 751,1142 759,1150 771,1142 779,1142 788,1144 796,1142 806,1142 806,1160 796,1160 788,1158 718,1158 691,1156 684,1153 673,1159 612,1161 452,1162 435,1160 422,1155 422,1163 332,1163 249,1161 136,1164 113,1164" />
+				<Baseline points="113,1164 806,1157" />
+				<TextEquiv index="1">
+					<Unicode>und Gänse zusammengeschmolzen; das Getreide, etwa 280 Scheffel,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l36" custom="readingOrder {index:36;}">
+				<Coords points="115,1181 219,1178 221,1172 271,1178 272,1172 343,1178 343,1172 355,1172 363,1178 376,1178 376,1172 388,1172 389,1179 411,1178 413,1185 435,1178 459,1177 460,1171 470,1171 489,1177 521,1177 535,1171 547,1171 548,1177 558,1177 576,1170 595,1170 605,1177 616,1170 621,1170 634,1173 641,1177 649,1170 666,1169 678,1169 679,1176 688,1176 701,1169 714,1169 715,1175 726,1172 806,1174 806,1184 765,1185 749,1179 748,1185 417,1188 196,1188 174,1194 163,1194 115,1189" />
+				<Baseline points="115,1189 254,1186 806,1184" />
+				<TextEquiv index="1">
+					<Unicode>war geraubt oder verdorben, und nur die Fischteiche hatte man</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l37" custom="readingOrder {index:37;}">
+				<Coords points="114,1207 145,1206 159,1208 166,1200 171,1200 173,1207 195,1205 213,1200 255,1200 261,1207 268,1205 279,1205 280,1198 349,1198 370,1204 415,1204 416,1198 445,1198 447,1204 451,1204 455,1211 488,1204 519,1203 525,1197 536,1197 537,1203 553,1203 666,1201 680,1195 697,1195 705,1202 715,1202 715,1195 732,1195 747,1201 807,1200 807,1210 459,1214 266,1213 215,1216 171,1216 145,1216 121,1216 114,1216" />
+				<Baseline points="114,1216 313,1213 807,1210" />
+				<TextEquiv index="1">
+					<Unicode>verschont. Geld fehlt gänzlich, so dass ein zum Tode verur-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l38" custom="readingOrder {index:38;}">
+				<Coords points="115,1231 123,1227 134,1227 152,1232 154,1226 158,1226 172,1230 187,1232 201,1226 263,1225 265,1233 276,1230 301,1228 342,1229 354,1223 395,1224 397,1230 471,1229 471,1223 509,1223 567,1228 567,1222 579,1222 580,1230 602,1228 620,1222 708,1227 722,1229 724,1221 735,1221 748,1227 807,1226 807,1236 632,1238 509,1242 496,1239 465,1239 433,1242 342,1239 134,1243 115,1243" />
+				<Baseline points="115,1243 305,1239 807,1236" />
+				<TextEquiv index="1">
+					<Unicode>theilter Maleficant nicht hingerichtet werden kann, weil es zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l39" points="116,1259 135,1259 135,1253 164,1252 176,1252 177,1260 188,1260 198,1255 210,1255 222,1258 241,1257 275,1257 279,1250 291,1250 292,1259 296,1259 308,1263 338,1249 343,1249 353,1251 367,1255 378,1257 385,1250 390,1250 392,1256 405,1256 459,1257 461,1249 479,1249 481,1255 496,1252 516,1249 521,1249 569,1254 603,1255 604,1248 626,1248 628,1254 633,1254 653,1254 666,1247 683,1247 690,1255 696,1255 696,1248 709,1248 711,1254 721,1254 734,1247 746,1247 754,1252 768,1253 797,1252 809,1252 809,1262 768,1263 721,1265 696,1265 690,1265 683,1264 569,1264 521,1264 479,1264 405,1265 367,1265 343,1265 308,1266 291,1266 275,1267 222,1268 198,1268 188,1266 176,1268 147,1269 127,1269 116,1268" baseline="116,1269 148,1268 338,1265 551,1263 775,1262 809,1262" reason: differs: "sselbst" against "sler se" | Wikisource:  | next_nc_e1: viel kosten würde. Drechs selbst ist in solcher Nath, dass er | german_print2_15: viel kosten würde. Drechs- selbst ist in solcher Nath, dass er -->
+			<TextLine id="r2l40" custom="readingOrder {index:40;}">
+				<Coords points="116,1287 136,1285 138,1279 148,1279 150,1286 174,1284 222,1285 224,1278 234,1278 237,1284 253,1284 268,1278 315,1280 326,1282 326,1276 379,1276 381,1282 408,1281 423,1275 435,1275 435,1282 446,1282 447,1275 459,1275 460,1281 480,1279 554,1278 587,1281 587,1274 605,1274 606,1280 642,1280 647,1274 684,1274 685,1280 698,1280 698,1274 704,1274 705,1280 716,1280 719,1273 729,1273 738,1277 783,1273 788,1273 808,1282 808,1284 801,1288 704,1290 435,1290 338,1293 153,1295 126,1295 116,1291" />
+				<Baseline points="116,1295 507,1290 808,1289" />
+				<TextEquiv index="1">
+					<Unicode>sich an den kurfürstlichen Sekretär mit der wiederholten in-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l41" custom="readingOrder {index:41;}">
+				<Coords points="118,1314 126,1309 157,1311 158,1305 170,1305 176,1310 189,1311 211,1310 227,1304 241,1304 268,1308 333,1309 335,1302 350,1302 359,1306 361,1315 380,1308 488,1307 489,1301 500,1301 573,1306 585,1315 590,1301 653,1304 682,1301 723,1305 743,1305 753,1299 776,1298 802,1298 803,1308 809,1308 809,1310 802,1315 730,1315 723,1321 653,1317 613,1319 590,1317 541,1316 457,1319 391,1316 365,1319 317,1319 288,1318 271,1314 268,1320 201,1320 190,1318 189,1324 177,1324 157,1321 126,1321 118,1317" />
+				<Baseline points="118,1321 380,1317 809,1314" />
+				<TextEquiv index="1">
+					<Unicode>ständigen Bitte wendet, es möge ihm vom Augustusburger Wild-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l42" custom="readingOrder {index:42;}">
+				<Coords points="117,1337 141,1337 163,1335 221,1337 222,1330 233,1330 234,1336 265,1330 307,1329 322,1329 323,1335 333,1335 334,1329 345,1329 359,1334 392,1333 413,1327 418,1327 418,1334 436,1335 437,1327 449,1327 450,1334 461,1334 462,1327 470,1327 470,1334 481,1333 490,1330 527,1333 542,1332 551,1327 563,1327 564,1334 587,1332 588,1340 613,1327 625,1327 656,1334 662,1332 675,1332 695,1325 699,1325 699,1332 707,1332 719,1329 735,1329 743,1325 766,1325 791,1330 810,1330 810,1340 735,1342 707,1345 636,1343 496,1343 413,1345 359,1343 345,1345 175,1347 141,1347 117,1347" />
+				<Baseline points="117,1347 810,1340" />
+				<TextEquiv index="1">
+					<Unicode>meister ein Wildschwein geliefert werden, da er gestohlenes</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l43" custom="readingOrder {index:43;}">
+				<Coords points="121,1357 140,1357 148,1363 178,1364 180,1357 191,1357 191,1369 210,1362 223,1362 233,1356 243,1356 245,1364 256,1356 261,1356 263,1363 288,1364 302,1356 334,1355 342,1361 354,1361 357,1355 370,1355 412,1360 425,1354 431,1354 432,1360 442,1360 442,1354 455,1354 458,1361 469,1359 554,1359 555,1353 560,1353 561,1361 569,1361 581,1353 595,1353 596,1360 638,1357 708,1358 708,1352 743,1351 755,1351 755,1357 780,1357 781,1350 790,1350 800,1356 810,1356 810,1366 767,1368 529,1371 370,1370 370,1376 342,1376 307,1371 196,1376 191,1376 159,1373 121,1373" />
+				<Baseline points="121,1373 810,1367" />
+				<TextEquiv index="1">
+					<Unicode>Fleisch, welches billiger zu haben sei, als Beamter nicht kaufen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>4 Tagen zur Capitulation genöthigt. Das schwedische Heer zog
+nach der inzwischen erfolgten Einnahme von Zwickau in seiner
+gesammten Stärke durch Chemnitz, um Freiberg zu belagern,
+musste aber vor den zum Entsatz heranrückenden Kaiserlichen
+zurückweichen und gab am 28. März auch Chemnitz wieder
+auf. Drechsler hatte üble Tage verlebt; weil die dem Amte
+auferlegte Contribution von 12000 Thlrn. nicht aufzubringen war,
+hatte man ihn 6 Tage lang im Stadthaus geschlossen gehalten,
+bis seine Verwandten, die Kaufmannschaft und andere gute Leute
+den Rest in Gold- u. Silberwerk, englischen und spanischen Tüchern
+darlehnsweise beschafft hatten. Indessen waren die im Schlosse
+aufgehäuften Vorräthe geplündert worden, alle Räume verunreinigt;
+die meisten Häuser in den Dörfern waren nicht mehr bewohnbar,
+in einer Meile um die Stadt herum kein Bund Heu und Stroh
+zu finden. Dem Elend war um so weniger abzuhelfen, als in-
+dessen die kaiserliche Armee unter Marazini, welcher wenigstens
+leidliche Mannszucht bewahrte, eingetroffen war. Als auch diese
+Rindvieh des Vorwerks wieder auf das Schloss bringen, in der
+Meinung, es würde nunmehr gänzlich gesichert und zu erhalten
+sein. Um so grösser war die Enttäuschung. Drechsler war
+en am 4. April mit einem Schreiber auf dem Schlosse, als er
+chüsse vernahm und die Schweden in den Hof eindringen und
+das Vieh wegtreiben sah. Die kaiserliche Armee war bei
+Hohenstein völlig geschlagen worden, und die Schweden nahmen
+abermals von Chemnitz Besitz. Der Stadtkommandant, Oberst-
+lieutenant Prinz, verlangte vom Amte eine tägliche Lieferung
+von 102 Pfund Fleisch und 30 Personen zum Zugbrücken- und
+Befestigungsbau. Drechsler beschuldigt hierbei die Chemnitzer
+Behörden, manche der Stadt zukommende Last auf das Amt ab-
+gewälzt zu haben. Ein genaues Inventarienverzeichniss belehrt
+uns über die Verluste, welche das Schloss bei der Plünderung
+am 4. April erfahren. So war von 52 Stück Rindvieh eine
+alte Kuh, welche nicht gehen konnte, übrig geblieben, das Feder-
+vieh, das früher über 50 Stück gezählt, war auf 15 alte Hühner
+und Gänse zusammengeschmolzen; das Getreide, etwa 280 Scheffel,
+war geraubt oder verdorben, und nur die Fischteiche hatte man
+verschont. Geld fehlt gänzlich, so dass ein zum Tode verur-
+theilter Maleficant nicht hingerichtet werden kann, weil es zu
+sich an den kurfürstlichen Sekretär mit der wiederholten in-
+ständigen Bitte wendet, es möge ihm vom Augustusburger Wild-
+meister ein Wildschwein geliefert werden, da er gestohlenes
+Fleisch, welches billiger zu haben sei, als Beamter nicht kaufen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="521,1549 602,1549 602,1560 521,1560" />
+			<!-- line left out: id="r3l0" points="521,1556 536,1553 538,1549 554,1549 574,1549 602,1549 602,1560 574,1560 548,1560 526,1558 521,1558" baseline="521,1558 536,1557 602,1557" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: en delppn3012.
+ | german_print2_15: en&ppn0122
+ -->
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+4 Tagen zur Capitulation genöthigt. Das schwedische Heer zog
+nach der inzwischen erfolgten Einnahme von Zwickau in seiner
+gesammten Stärke durch Chemnitz, um Freiberg zu belagern,
+musste aber vor den zum Entsatz heranrückenden Kaiserlichen
+zurückweichen und gab am 28. März auch Chemnitz wieder
+auf. Drechsler hatte üble Tage verlebt; weil die dem Amte
+auferlegte Contribution von 12000 Thlrn. nicht aufzubringen war,
+hatte man ihn 6 Tage lang im Stadthaus geschlossen gehalten,
+bis seine Verwandten, die Kaufmannschaft und andere gute Leute
+den Rest in Gold- u. Silberwerk, englischen und spanischen Tüchern
+darlehnsweise beschafft hatten. Indessen waren die im Schlosse
+aufgehäuften Vorräthe geplündert worden, alle Räume verunreinigt;
+die meisten Häuser in den Dörfern waren nicht mehr bewohnbar,
+in einer Meile um die Stadt herum kein Bund Heu und Stroh
+zu finden. Dem Elend war um so weniger abzuhelfen, als
+indessen die kaiserliche Armee unter Marazini, welcher wenigstens
+leidliche Mannszucht bewahrte, eingetroffen war. Als auch diese
+sich entfernt hatte, liess Drechsler das in der Stadt untergebrachte
+Rindvieh des Vorwerks wieder auf das Schloss bringen, in der
+Meinung, es würde nunmehr gänzlich gesichert und zu erhalten
+sein. Um so grösser war die Enttäuschung. Drechsler war
+eben am 4. April mit einem Schreiber auf dem Schlosse, als er
+Schüsse vernahm und die Schweden in den Hof eindringen und
+das Vieh wegtreiben sah. Die kaiserliche Armee war bei
+Hohenstein völlig geschlagen worden, und die Schweden nahmen
+abermals von Chemnitz Besitz. Der Stadtkommandant,
+Oberstlieutenant Prinz, verlangte vom Amte eine tägliche Lieferung
+von 102 Pfund Fleisch und 30 Personen zum Zugbrücken- und
+Befestigungsbau. Drechsler beschuldigt hierbei die Chemnitzer
+Behörden, manche der Stadt zukommende Last auf das Amt
+abgewälzt zu haben. Ein genaues Inventarienverzeichniss belehrt
+uns über die Verluste, welche das Schloss bei der Plünderung
+am 4. April erfahren. So war von 52 Stück Rindvieh eine
+alte Kuh, welche nicht gehen konnte, übrig geblieben, das
+Federvieh, das früher über 50 Stück gezählt, war auf 15 alte Hühner
+und Gänse zusammengeschmolzen; das Getreide, etwa 280 Scheffel,
+war geraubt oder verdorben, und nur die Fischteiche hatte man
+verschont. Geld fehlt gänzlich, so dass ein zum Tode
+verurtheilter Maleficant nicht hingerichtet werden kann, weil es zu
+viel kosten würde. Drechsler selbst ist in solcher Noth, dass er
+sich an den kurfürstlichen Sekretär mit der wiederholten
+inständigen Bitte wendet, es möge ihm vom Augustusburger
+Wildmeister ein Wildschwein geliefert werden, da er gestohlenes
+Fleisch, welches billiger zu haben sei, als Beamter nicht kaufen
+-->
+	</Page>
+</PcGts>

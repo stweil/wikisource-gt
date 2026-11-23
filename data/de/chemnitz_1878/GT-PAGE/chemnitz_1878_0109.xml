@@ -1,0 +1,750 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:22:26</Created>
+		<LastChange>2026-11-23T14:22:26</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/109 revision 4648817 of 2025-10-31T07:43:49Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0109.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro6458450121804531728" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="34,1117 44,1117 44,1478 34,1478" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="41,204 347,204 347,277 41,277" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="41,210 54,207 72,207 72,213 99,206 114,206 166,211 166,218 184,205 200,204 212,204 213,210 269,207 269,219 221,219 212,221 170,223 166,223 85,223 54,223 41,214" />
+				<Baseline points="41,223 269,219" />
+				<TextEquiv index="1">
+					<Unicode>Dr. Casten, Advocat.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="54,233 76,233 101,238 119,238 119,245 137,231 164,231 165,237 206,236 211,230 238,229 256,229 256,235 280,235 281,229 289,229 326,229 342,234 344,241 347,241 347,244 326,246 164,248 123,251 119,251 101,249 54,249" />
+				<Baseline points="54,249 347,244" />
+				<TextEquiv index="1">
+					<Unicode>Clauss, Edmund, Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="54,261 64,259 76,259 119,264 119,271 136,257 152,257 152,270 169,256 183,256 192,258 193,270 211,256 229,256 240,261 253,262 254,255 263,255 286,255 286,261 319,261 319,271 197,275 152,274 123,277 119,277 54,275" />
+				<Baseline points="54,275 319,271" />
+				<TextEquiv index="1">
+					<Unicode>Clauss, E. O., Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Dr. Casten, Advocat.
+Clauss, Edmund, Kaufmann.
+Clauss, E. O., Kaufmann.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="55,301 396,301 396,798 55,798" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="57,306 134,305 134,312 145,312 145,305 151,305 151,311 207,310 207,317 225,303 261,303 262,316 284,302 301,302 302,308 325,308 327,301 335,301 335,307 393,306 393,317 301,319 266,322 211,323 207,323 182,321 104,323 74,323 65,313 57,313" />
+				<Baseline points="57,323 393,317" />
+				<TextEquiv index="1">
+					<Unicode>° Dankelmann, Th., Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="56,333 73,333 114,337 114,345 131,331 149,331 149,337 173,337 174,331 183,331 240,335 240,346 161,348 118,351 114,351 56,349" />
+				<Baseline points="56,349 240,345" />
+				<TextEquiv index="1">
+					<Unicode>Dausz, Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="56,359 108,358 109,371 130,357 137,356 151,356 168,358 196,356 209,356 225,356 242,356 271,356 278,361 278,371 271,374 155,374 113,377 109,377 90,375 78,377 65,377 56,375" />
+				<Baseline points="56,375 278,371" />
+				<TextEquiv index="1">
+					<Unicode>Diehl, Fabrikdirector.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l3" points="57,384 100,384 106,385 125,387 132,384 142,384 143,397 160,383 178,383 198,383 261,383 288,383 292,387 303,385 316,385 335,386 335,397 288,397 288,405 266,405 261,398 223,398 223,405 211,405 211,399 198,399 198,405 184,405 178,400 147,403 143,403 100,401 93,403 84,403 75,393 67,393 57,392" baseline="57,401 146,400 160,400 335,396" reason: differs: "0⁰Di" against "°° D" | Wikisource:  | next_nc_e1: 0⁰ Dietel, Oberpostsecretär. | german_print2_15: 0°° Dietel, Oberpostsecretär. -->
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="55,411 75,410 89,411 97,414 112,411 123,416 124,410 135,410 136,424 151,410 198,409 199,415 229,415 229,406 263,406 277,408 277,414 289,414 289,407 304,407 305,413 321,412 333,407 345,407 357,412 357,406 370,406 377,411 394,411 394,422 265,424 263,430 222,430 198,426 140,428 55,428" />
+				<Baseline points="55,428 394,422" />
+				<TextEquiv index="1">
+					<Unicode>Dietrich, Kohlengeschäftsinhaber.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="56,438 78,437 98,441 117,437 129,437 130,450 149,438 159,436 173,436 174,450 192,435 210,435 210,441 228,441 228,434 244,434 244,440 301,439 301,450 210,452 178,455 134,456 130,456 56,454" />
+				<Baseline points="56,454 301,450" />
+				<TextEquiv index="1">
+					<Unicode>Dietsch, O., Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="55,464 98,466 107,469 108,477 126,463 141,463 153,468 163,463 208,461 208,467 239,467 240,474 258,460 276,460 276,466 300,466 301,459 310,459 310,465 367,464 367,475 288,477 244,480 167,479 112,482 108,482 98,480 76,482 63,482 55,480" />
+				<Baseline points="55,480 367,475" />
+				<TextEquiv index="1">
+					<Unicode>Dietz, Carl Oscar, Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="55,490 151,489 152,496 173,494 228,493 228,501 259,487 276,487 303,492 324,492 324,486 352,485 369,485 369,491 381,491 382,485 388,485 389,494 396,494 396,497 388,501 325,502 232,506 228,506 139,506 55,506" />
+				<Baseline points="55,506 396,500" />
+				<TextEquiv index="1">
+					<Unicode>Prof. Diezmann, Gewerbschul-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="108,516 113,516 115,522 125,522 126,516 138,516 147,521 204,520 204,514 236,513 246,513 246,519 257,519 258,513 270,513 270,519 293,516 336,518 336,528 158,532 108,532" />
+				<Baseline points="108,532 336,528" />
+				<TextEquiv index="1">
+					<Unicode>lehrer und Redacteur.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="56,543 79,543 103,548 103,542 124,542 125,548 149,548 149,555 168,541 184,541 191,548 196,541 213,541 234,546 234,540 246,540 247,546 259,546 259,540 272,540 273,546 281,546 285,539 297,539 297,545 330,544 330,555 191,557 149,563 137,563 85,559 56,559" />
+				<Baseline points="56,559 330,555" />
+				<TextEquiv index="1">
+					<Unicode>Dörstling, Realschullehrer.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="57,569 83,569 83,575 101,575 101,568 112,568 112,574 137,574 137,568 150,568 163,571 164,581 182,567 200,567 212,572 224,573 225,566 233,566 233,572 291,571 291,582 182,584 163,590 150,591 137,591 137,584 103,585 103,591 90,591 90,585 57,585" />
+				<Baseline points="57,585 291,581" />
+				<TextEquiv index="1">
+					<Unicode>Dreyhaupt, Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="57,595 133,595 134,608 151,594 169,594 181,599 193,600 194,593 202,593 237,599 237,593 251,593 260,598 260,609 251,611 220,610 138,612 134,612 79,612 67,612 57,611" />
+				<Baseline points="57,610 260,609" />
+				<TextEquiv index="1">
+					<Unicode>Droisch, Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="59,621 77,621 77,627 94,627 94,621 101,621 102,628 138,624 144,620 162,620 170,623 171,633 189,620 201,619 235,619 236,632 255,618 272,618 273,624 296,624 298,618 306,618 363,623 363,633 272,635 241,639 236,639 222,636 215,639 201,639 162,637 59,637" />
+				<Baseline points="59,637 363,633" />
+				<TextEquiv index="1">
+					<Unicode>Duderstädt, Emil, Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="60,647 77,647 78,653 90,653 90,647 102,647 103,653 123,650 139,650 150,653 150,646 162,646 170,649 171,659 190,646 213,646 246,651 253,658 270,644 288,644 288,650 312,650 313,644 321,644 378,649 378,659 257,663 213,662 175,664 171,664 60,663" />
+				<Baseline points="60,663 378,659" />
+				<TextEquiv index="1">
+					<Unicode>Duderstädt, Heinr., Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="60,673 77,673 78,679 95,679 95,673 107,673 114,679 123,677 139,677 150,679 151,672 163,672 170,676 171,686 191,672 207,672 252,677 254,684 271,670 288,670 289,676 313,676 314,670 322,670 346,670 379,675 379,685 257,689 228,688 175,691 171,691 107,689 60,690" />
+				<Baseline points="60,689 379,685" />
+				<TextEquiv index="1">
+					<Unicode>Duderstädt, Herm., Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l15" points="60,700 77,700 77,706 89,706 89,700 101,700 102,706 114,705 122,702 138,702 150,706 150,699 162,699 170,702 171,712 190,699 214,699 299,697 304,697 325,700 335,703 335,712 317,713 299,713 288,712 232,720 213,720 175,718 171,718 150,716 60,716" baseline="60,716 247,713 335,712" reason: differs: "go,chit" against "o, Arch" | Wikisource:  | next_nc_e1: Duderstädt, Hugo, chite | german_print2_15: Duderstädt, Hugo, chite -->
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="59,726 77,727 89,732 89,726 101,726 102,733 131,729 143,729 150,725 198,725 200,738 218,725 237,724 239,738 258,723 265,723 272,729 292,729 292,723 306,723 317,728 330,729 330,722 336,722 352,723 368,728 368,738 243,743 200,741 198,748 189,748 163,744 59,743" />
+				<Baseline points="59,743 368,738" />
+				<TextEquiv index="1">
+					<Unicode>Duderstädt, J. F., Particulier.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="59,753 70,752 84,752 103,752 104,766 121,752 139,752 139,758 163,758 165,752 173,752 230,757 230,767 108,771 84,771 70,771 59,769" />
+				<Baseline points="59,769 230,767" />
+				<TextEquiv index="1">
+					<Unicode>Düll, Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="60,779 85,779 90,781 100,778 137,779 138,792 158,778 174,778 187,783 198,784 200,777 208,777 208,783 265,782 265,793 174,795 143,798 138,798 60,796" />
+				<Baseline points="60,795 265,793" />
+				<TextEquiv index="1">
+					<Unicode>Dürfeld, Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>° Dankelmann, Th., Kaufmann.
+Dausz, Kaufmann.
+Diehl, Fabrikdirector.
+Dietrich, Kohlengeschäftsinhaber.
+Dietsch, O., Kaufmann.
+Dietz, Carl Oscar, Kaufmann.
+Prof. Diezmann, Gewerbschul-
+lehrer und Redacteur.
+Dörstling, Realschullehrer.
+Dreyhaupt, Kaufmann.
+Droisch, Kaufmann.
+Duderstädt, Emil, Kaufmann.
+Duderstädt, Heinr., Kaufmann.
+Duderstädt, Herm., Kaufmann.
+Duderstädt, J. F., Particulier.
+Düll, Kaufmann.
+Dürfeld, Kaufmann.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="61,820 404,820 404,1106 61,1106" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="61,821 96,821 96,828 116,827 116,821 128,821 152,826 153,834 171,820 195,820 196,826 308,824 317,821 331,821 349,824 349,834 245,835 245,841 226,841 189,837 157,839 61,839" />
+				<Baseline points="61,838 349,834" />
+				<TextEquiv index="1">
+					<Unicode>Eberlein, Klempnermeister.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="61,847 72,847 84,849 92,853 108,847 129,847 129,853 140,853 140,847 165,847 238,847 264,849 264,862 203,865 192,865 165,863 72,865 61,865" />
+				<Baseline points="61,864 264,862" />
+				<TextEquiv index="1">
+					<Unicode>Dr. Eichhorn, Arzt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="61,874 95,874 96,880 116,879 116,887 135,873 149,873 156,879 169,879 170,873 182,873 189,886 206,872 224,872 224,878 248,878 249,872 257,872 257,878 315,877 315,888 224,889 193,891 149,890 121,893 116,893 61,890" />
+				<Baseline points="61,890 315,888" />
+				<TextEquiv index="1">
+					<Unicode>Eifler, Ferd., Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l3" points="76,901 82,901 133,903 156,905 156,899 168,899 169,913 186,898 200,898 201,904 222,903 230,899 243,899 260,904 260,898 284,898 294,903 295,911 298,911 298,914 243,915 194,915 173,918 169,918 82,917 76,917" baseline="76,916 186,915 298,914" reason: models differ | Wikisource: isenstuck, Particulier. | next_nc_e1: isenstuck, Particulier. | german_print2_15: tisenstuck, Particulier. -->
+			<!-- line left out: id="r3l4" points="71,932 89,932 108,933 108,926 119,926 120,940 138,925 154,925 161,939 179,925 197,925 197,931 221,931 223,924 231,924 231,930 289,930 289,941 221,942 165,945 161,945 154,943 124,945 120,945 110,943 101,948 89,948 71,943" baseline="71,943 138,942 289,940" reason: models differ | Wikisource: ngel, E., Kaufmann. | next_nc_e1: ngel, E., Kaufmann.
+ | german_print2_15: Engel, E., Kaufmann.
+ -->
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="62,953 79,953 89,958 89,966 109,952 124,952 124,958 182,958 182,952 246,951 247,957 328,949 333,949 335,955 388,948 400,948 401,961 404,961 404,964 329,965 305,969 255,966 204,971 182,971 164,969 62,969" />
+				<Baseline points="62,970 404,964" />
+				<TextEquiv index="1">
+					<Unicode>Dr. Enzmann, Advocat, Vorst. d.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="114,978 127,978 135,982 146,984 146,978 158,978 166,982 219,983 219,977 240,977 240,983 251,980 290,983 290,993 240,995 166,995 114,995" />
+				<Baseline points="114,995 290,993" />
+				<TextEquiv index="1">
+					<Unicode>Stadtverordneten.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="89,1010 118,1008 119,1018 138,1005 155,1004 155,1010 177,1007 190,1007 191,1017 209,1003 227,1003 227,1009 251,1009 253,1003 261,1003 261,1009 296,1009 296,1003 311,1003 319,1008 319,1019 196,1024 191,1024 155,1021 123,1023 89,1021" />
+				<Baseline points="89,1021 319,1019" />
+				<TextEquiv index="1">
+					<Unicode>nst, Gust., Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l8" points="115,1037 125,1037 126,1043 143,1030 159,1030 159,1036 183,1036 193,1035 205,1035 206,1043 224,1029 242,1029 242,1035 266,1035 267,1029 275,1029 275,1035 298,1035 298,1029 312,1029 333,1034 333,1045 322,1046 266,1046 210,1049 183,1051 171,1051 130,1049 126,1049 115,1046" baseline="115,1046 333,1045" reason: differs: "e,Eu" against "Esch" | Wikisource:  | next_nc_e1: e, Eugen, Kaufmann. | german_print2_15: e, Eugen, Kaufmann. -->
+			<TextLine id="r3l9" custom="readingOrder {index:9;}">
+				<Coords points="118,1056 130,1056 131,1069 149,1056 156,1055 169,1055 169,1061 183,1059 191,1056 208,1056 208,1062 220,1062 220,1055 233,1055 234,1061 254,1061 255,1068 258,1068 258,1071 135,1075 131,1075 118,1072" />
+				<Baseline points="118,1072 258,1071" />
+				<TextEquiv index="1">
+					<Unicode>d, Particulier.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l10" custom="readingOrder {index:10;}">
+				<Coords points="68,1083 84,1083 84,1089 99,1089 113,1083 124,1082 131,1082 131,1088 143,1088 143,1082 196,1082 205,1087 211,1085 226,1085 255,1088 256,1081 262,1081 302,1087 302,1098 113,1099 92,1106 84,1106 84,1100 68,1100" />
+				<Baseline points="68,1100 302,1098" />
+				<TextEquiv index="1">
+					<Unicode>Ey, Todtenbettmeister.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Eberlein, Klempnermeister.
+Dr. Eichhorn, Arzt.
+Eifler, Ferd., Kaufmann.
+Dr. Enzmann, Advocat, Vorst. d.
+Stadtverordneten.
+nst, Gust., Kaufmann.
+d, Particulier.
+Ey, Todtenbettmeister.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="68,1122 414,1122 414,1353 68,1353" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="70,1126 90,1126 90,1132 100,1132 101,1125 113,1125 122,1131 135,1131 136,1138 154,1124 163,1124 163,1131 176,1131 177,1124 284,1122 301,1122 301,1128 325,1129 325,1139 297,1141 206,1139 140,1145 136,1145 122,1142 70,1144" />
+				<Baseline points="70,1143 325,1138" />
+				<TextEquiv index="1">
+					<Unicode>Feller, Leihbibliothekar.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="68,1152 83,1152 90,1158 100,1158 100,1151 119,1152 131,1157 131,1151 171,1151 191,1156 191,1150 205,1150 229,1155 229,1149 235,1149 248,1150 263,1155 264,1162 267,1162 267,1165 164,1167 142,1169 112,1169 68,1169" />
+				<Baseline points="68,1169 267,1165" />
+				<TextEquiv index="1">
+					<Unicode>Feudel, Particulier.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="69,1178 84,1178 90,1184 103,1184 103,1178 115,1178 116,1185 126,1185 127,1178 133,1178 133,1184 166,1183 167,1191 185,1177 203,1177 249,1181 250,1189 269,1175 287,1175 311,1180 312,1174 320,1174 320,1180 372,1180 374,1187 377,1187 377,1190 212,1193 171,1196 167,1196 69,1195" />
+				<Baseline points="69,1195 377,1190" />
+				<TextEquiv index="1">
+					<Unicode>Findeisen, Herm., Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="71,1205 91,1205 103,1210 104,1204 116,1204 121,1210 167,1209 167,1217 185,1203 211,1204 231,1208 232,1216 250,1201 268,1201 269,1207 293,1207 294,1200 303,1200 303,1206 314,1206 314,1200 327,1200 350,1200 350,1206 359,1206 359,1216 350,1218 281,1218 171,1222 167,1222 71,1221" />
+				<Baseline points="71,1221 359,1216" />
+				<TextEquiv index="1">
+					<Unicode>Findeisen, Otto, Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l4" custom="readingOrder {index:4;}">
+				<Coords points="71,1231 92,1231 112,1236 112,1230 124,1230 125,1238 144,1236 145,1243 163,1229 214,1229 214,1242 221,1242 235,1228 252,1228 253,1234 277,1234 279,1227 287,1227 287,1233 345,1232 345,1242 258,1245 221,1248 149,1249 145,1249 124,1247 71,1247" />
+				<Baseline points="71,1247 345,1242" />
+				<TextEquiv index="1">
+					<Unicode>Fischer, Edm., Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l5" custom="readingOrder {index:5;}">
+				<Coords points="72,1257 125,1257 126,1264 146,1262 150,1269 177,1255 183,1254 198,1254 208,1256 219,1261 219,1255 232,1255 232,1261 243,1260 256,1255 262,1255 263,1261 274,1261 274,1254 286,1254 287,1260 302,1259 313,1254 361,1258 383,1252 395,1252 395,1259 414,1257 414,1268 315,1272 302,1270 154,1275 150,1275 125,1273 72,1274" />
+				<Baseline points="72,1274 414,1268" />
+				<TextEquiv index="1">
+					<Unicode>Fischer, Zeichenlehrer an der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l6" custom="readingOrder {index:6;}">
+				<Coords points="125,1282 141,1282 141,1288 164,1288 164,1282 180,1282 180,1288 191,1288 191,1282 210,1282 222,1282 223,1289 238,1289 238,1298 210,1299 132,1299 125,1299" />
+				<Baseline points="125,1298 238,1297" />
+				<TextEquiv index="1">
+					<Unicode>Realschule.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l7" custom="readingOrder {index:7;}">
+				<Coords points="74,1309 119,1309 120,1315 131,1315 131,1322 149,1309 182,1308 190,1314 200,1314 201,1308 213,1308 214,1321 230,1307 249,1307 261,1312 273,1313 274,1306 283,1306 283,1312 306,1312 306,1306 320,1306 341,1311 341,1322 320,1324 249,1324 218,1327 214,1327 200,1325 165,1325 135,1327 131,1327 74,1325" />
+				<Baseline points="74,1325 341,1321" />
+				<TextEquiv index="1">
+					<Unicode>Flade, Alfred, Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l8" custom="readingOrder {index:8;}">
+				<Coords points="75,1334 121,1335 121,1341 132,1341 133,1348 151,1334 166,1334 167,1347 186,1335 202,1335 209,1347 225,1333 243,1333 244,1339 268,1339 269,1333 278,1333 278,1339 335,1338 335,1348 213,1353 209,1353 202,1351 136,1353 133,1353 121,1351 75,1351" />
+				<Baseline points="75,1351 335,1348" />
+				<TextEquiv index="1">
+					<Unicode>Flade, C. A., Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Feller, Leihbibliothekar.
+Feudel, Particulier.
+Findeisen, Herm., Kaufmann.
+Findeisen, Otto, Kaufmann.
+Fischer, Edm., Kaufmann.
+Fischer, Zeichenlehrer an der
+Realschule.
+Flade, Alfred, Kaufmann.
+Flade, C. A., Kaufmann.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="425,197 773,197 773,560 425,560" />
+			<!-- line left out: id="r5l0" points="426,200 447,200 471,200 479,206 502,201 537,198 552,198 559,211 578,197 595,197 597,203 620,203 621,197 630,197 683,202 684,209 687,209 687,212 670,213 595,214 563,215 559,215 552,214 488,216 479,216 471,215 460,216 426,216" baseline="426,216 578,213 687,212" reason: second model has no such line | Wikisource: Flade, C. E., Kaufmann. | next_nc_e1: Flade, C. E., Kaufmann.
+ | german_print2_15:  -->
+			<!-- line left out: id="r5l1" points="426,229 443,226 464,226 464,232 474,232 488,225 508,225 517,231 528,230 538,230 558,230 558,237 577,224 590,223 603,223 605,230 614,230 615,223 622,223 623,229 659,228 670,228 670,222 686,222 686,228 697,225 705,222 718,222 719,235 722,235 722,238 686,239 603,240 562,241 549,241 474,242 443,242 433,232 426,232" baseline="426,242 488,241 561,240 722,238" reason: differs: "*Dr." against "Dr. " | Wikisource:  | next_nc_e1: * Dr. Flinzer, Medicinalrath.
+ | german_print2_15: *Dr. Flinzer, Medicinalrath.
+ -->
+			<TextLine id="r5l2" custom="readingOrder {index:2;}">
+				<Coords points="426,252 440,252 441,258 463,258 463,252 475,252 487,257 487,265 506,251 521,251 544,256 544,250 599,250 600,263 621,255 645,255 646,249 671,247 678,247 699,247 727,247 740,247 758,247 758,253 768,253 768,264 491,269 463,269 440,269 426,269" />
+				<Baseline points="426,269 621,265 768,264" />
+				<TextEquiv index="1">
+					<Unicode>Focke, Buchhdlr. und Stadtrath.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l3" custom="readingOrder {index:3;}">
+				<Coords points="426,278 448,278 453,280 500,283 500,291 517,277 533,277 533,284 553,282 553,276 565,276 572,290 591,276 609,276 634,281 635,275 644,275 673,280 698,280 699,288 702,288 702,291 634,292 576,295 572,295 504,295 471,295 426,295" />
+				<Baseline points="426,295 702,291" />
+				<TextEquiv index="1">
+					<Unicode>Förster, Ferd., Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l4" custom="readingOrder {index:4;}">
+				<Coords points="426,305 441,305 473,310 474,304 486,304 487,311 498,311 498,317 516,303 533,303 533,309 552,309 553,303 565,303 577,308 577,316 596,302 614,302 626,307 638,308 640,301 649,301 649,307 702,307 703,314 706,314 706,317 546,320 502,323 498,323 486,321 426,321" />
+				<Baseline points="426,321 706,317" />
+				<TextEquiv index="1">
+					<Unicode>Franke, Guido, Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l5" custom="readingOrder {index:5;}">
+				<Coords points="425,331 488,331 489,344 507,330 525,330 549,335 551,329 560,329 560,335 613,334 614,342 617,342 617,345 493,349 489,349 425,348" />
+				<Baseline points="425,348 617,345" />
+				<TextEquiv index="1">
+					<Unicode>Frisch, Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l6" custom="readingOrder {index:6;}">
+				<Coords points="427,357 457,358 465,361 494,357 507,357 518,362 519,370 536,357 594,355 623,358 624,368 643,354 661,354 673,359 685,360 687,353 696,353 725,358 731,353 745,353 754,358 754,369 745,371 661,371 628,374 600,372 594,374 549,373 523,376 519,376 465,374 447,376 434,376 427,374" />
+				<Baseline points="427,374 754,369" />
+				<TextEquiv index="1">
+					<Unicode>Fritzsche, C. Gust., Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l7" custom="readingOrder {index:7;}">
+				<Coords points="426,384 457,384 474,389 494,389 494,383 507,383 507,389 518,389 518,396 537,382 554,382 555,395 574,381 590,381 594,387 608,387 609,381 621,381 622,394 641,381 657,381 683,386 684,380 693,380 753,385 753,395 626,399 554,399 523,401 518,401 438,401 426,401" />
+				<Baseline points="426,401 753,395" />
+				<TextEquiv index="1">
+					<Unicode>Fritzsche, G. Emil, Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l8" points="426,410 457,409 470,409 488,413 497,415 517,415 517,409 529,409 530,415 541,415 541,422 560,408 576,408 577,414 589,414 589,408 601,408 608,421 627,407 645,407 645,413 669,413 671,407 679,407 737,412 737,422 720,423 702,423 645,424 612,426 608,426 576,425 545,426 529,426 450,426 439,432 426,432" baseline="426,427 544,425 737,422" reason: second model: differs: "†+Fri" against "† Frit" | Wikisource: † Fritzsche, Rob., Kaufmann. | next_nc_e1: † Fritzsche, Rob., Kaufmann.
+ | german_print2_15: †+ Fritzsche, Rob., Kaufmann.
+ -->
+			<TextLine id="r5l9" custom="readingOrder {index:9;}">
+				<Coords points="427,437 520,435 530,436 544,441 558,434 572,434 582,440 593,435 619,435 652,440 673,439 673,447 692,432 709,432 710,438 772,437 772,448 722,449 721,455 710,455 709,449 677,452 660,450 652,455 639,455 606,451 451,453 440,459 427,459" />
+				<Baseline points="427,453 772,448" />
+				<TextEquiv index="1">
+					<Unicode>† Prof. Dr. Frohberger, Gymna-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l10" custom="readingOrder {index:10;}">
+				<Coords points="480,470 489,470 490,463 532,462 547,467 551,461 565,461 584,461 591,467 624,467 624,477 584,478 565,478 547,478 526,478 490,478 480,477" />
+				<Baseline points="480,478 624,477" />
+				<TextEquiv index="1">
+					<Unicode>sialoberlehrer.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l11" points="429,490 445,489 462,489 463,495 471,495 473,502 489,488 504,488 505,494 554,494 554,488 569,488 587,493 588,487 661,486 674,486 693,486 693,492 710,492 724,494 724,502 693,503 660,503 633,503 611,505 600,505 575,504 543,505 462,506 445,506 439,496 429,496" baseline="429,506 475,505 625,502 724,502" reason: models differ | Wikisource: Dr. Frommhold, Diakonus. | next_nc_e1:  Dr. Frommhold, Diakonus.
+ | german_print2_15: °Dr. Frommhold, Diakonus.
+ -->
+			<TextLine id="r5l12" custom="readingOrder {index:12;}">
+				<Coords points="429,515 451,515 456,521 467,516 479,516 493,521 499,515 513,515 534,520 546,521 547,514 559,514 560,520 591,520 592,514 606,514 618,519 618,513 630,513 631,520 711,513 724,513 745,513 773,514 773,528 751,528 745,534 711,534 711,528 689,528 689,534 676,534 642,530 577,530 493,535 451,535 438,535 429,532" />
+				<Baseline points="429,532 773,528" />
+				<TextEquiv index="1">
+					<Unicode>Fuchs, Brandversicherungsinspect.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l13" points="430,543 441,542 471,542 471,548 483,547 489,547 489,541 508,541 509,549 524,549 538,541 544,540 558,540 581,540 588,546 605,546 606,540 619,540 641,540 647,545 670,545 670,556 634,556 587,556 581,557 524,560 502,560 489,560 457,558 449,548 439,550 430,550" baseline="430,558 670,555" reason: differs: "0⁰Fu" against "°° F" | Wikisource:  | next_nc_e1: 0⁰ Funke, Seidenfärber.
+ | german_print2_15: *°°Funke, Seidenfärber.
+ -->
+			<TextEquiv index="1">
+				<Unicode>Focke, Buchhdlr. und Stadtrath.
+Förster, Ferd., Kaufmann.
+Franke, Guido, Kaufmann.
+Frisch, Kaufmann.
+Fritzsche, C. Gust., Kaufmann.
+Fritzsche, G. Emil, Kaufmann.
+† Prof. Dr. Frohberger, Gymna-
+sialoberlehrer.
+Fuchs, Brandversicherungsinspect.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="430,592 786,592 786,1348 430,1348" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="430,595 454,595 454,601 478,601 487,597 500,597 507,594 519,594 552,599 566,592 585,592 585,598 592,598 609,593 627,593 639,598 639,592 661,592 676,597 676,608 552,612 478,610 478,617 466,617 466,611 430,612" />
+				<Baseline points="430,612 676,608" />
+				<TextEquiv index="1">
+					<Unicode>Gagstädter, Particulier.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l1" custom="readingOrder {index:1;}">
+				<Coords points="430,621 453,622 484,627 503,626 503,620 516,620 516,634 535,620 554,620 556,626 567,626 568,620 581,619 587,619 588,626 612,625 612,619 625,619 626,626 636,626 646,619 652,619 694,624 694,634 547,637 520,640 516,640 439,638 430,636" />
+				<Baseline points="430,638 694,634" />
+				<TextEquiv index="1">
+					<Unicode>Gaitzsch, Mühlenbesitzer.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l2" custom="readingOrder {index:2;}">
+				<Coords points="431,648 448,648 508,654 521,645 525,645 533,646 533,653 544,653 544,646 556,646 557,652 572,652 573,646 605,649 617,652 617,645 630,645 632,652 652,651 652,658 655,658 655,661 556,663 492,669 479,669 472,664 431,664" />
+				<Baseline points="431,664 655,661" />
+				<TextEquiv index="1">
+					<Unicode>Gampe, Schriftsteller.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l3" custom="readingOrder {index:3;}">
+				<Coords points="432,674 455,674 478,677 478,687 497,673 519,673 519,679 530,679 530,673 566,673 579,678 579,672 591,672 592,678 616,678 616,688 482,692 455,692 443,692 432,690" />
+				<Baseline points="432,690 616,688" />
+				<TextEquiv index="1">
+					<Unicode>Gast, Buchbinder.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l4" custom="readingOrder {index:4;}">
+				<Coords points="433,700 487,700 514,705 514,699 590,698 591,704 602,704 603,711 622,698 640,698 664,703 666,697 674,697 674,703 732,703 732,714 534,717 521,717 444,716 433,714" />
+				<Baseline points="433,714 732,714" />
+				<TextEquiv index="1">
+					<Unicode>Gebhardt, Wilh., Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l5" custom="readingOrder {index:5;}">
+				<Coords points="433,727 456,727 472,732 473,726 493,726 493,732 514,731 514,739 533,725 550,725 550,731 574,731 575,724 583,724 583,730 641,730 641,741 550,742 518,744 514,744 440,743 433,741" />
+				<Baseline points="433,741 641,740" />
+				<TextEquiv index="1">
+					<Unicode>Gechter, Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l6" custom="readingOrder {index:6;}">
+				<Coords points="433,753 450,753 457,760 464,753 482,753 482,766 501,752 519,752 519,758 536,758 536,751 553,751 553,757 610,757 610,767 486,770 482,770 450,770 433,770" />
+				<Baseline points="433,770 610,767" />
+				<TextEquiv index="1">
+					<Unicode>Gefe, Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l7" custom="readingOrder {index:7;}">
+				<Coords points="433,780 488,779 510,782 511,792 528,779 574,778 575,784 596,783 596,791 615,777 632,777 656,782 658,776 666,776 666,782 695,781 701,776 715,776 724,781 724,792 715,794 683,793 515,796 511,796 469,796 443,796 433,793" />
+				<Baseline points="433,796 724,792" />
+				<TextEquiv index="1">
+					<Unicode>Gehlert, Arthur, Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l8" custom="readingOrder {index:8;}">
+				<Coords points="434,806 469,806 469,812 485,812 508,811 508,805 556,805 557,818 575,804 594,804 595,810 613,810 614,804 627,803 645,803 646,809 671,808 677,805 710,808 710,819 561,823 557,823 514,821 458,823 442,823 434,820" />
+				<Baseline points="434,823 560,820 710,819" />
+				<TextEquiv index="1">
+					<Unicode>Gehrenbeck, Bankdirector.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l9" custom="readingOrder {index:9;}">
+				<Coords points="434,833 470,833 485,838 508,838 508,832 514,832 529,837 543,837 544,831 583,830 594,830 623,831 629,836 647,836 647,846 561,850 540,850 444,849 434,847" />
+				<Baseline points="434,849 647,846" />
+				<TextEquiv index="1">
+					<Unicode>Gehrenbeck, Färber.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l10" custom="readingOrder {index:10;}">
+				<Coords points="434,859 499,858 501,872 519,858 534,858 535,864 553,864 553,858 566,855 578,855 593,855 610,855 628,857 629,864 640,862 660,863 660,856 673,856 673,862 700,861 700,855 713,855 714,861 744,861 745,868 748,868 748,871 673,872 610,875 505,876 451,876 434,876" />
+				<Baseline points="434,876 748,871" />
+				<TextEquiv index="1">
+					<Unicode>Geidel, Buchdruckereibesitzer.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l11" custom="readingOrder {index:11;}">
+				<Coords points="435,885 452,886 453,892 464,892 464,885 477,885 484,891 498,891 498,898 517,884 531,884 578,887 615,884 629,884 637,889 637,900 546,901 502,904 498,904 443,902 435,900" />
+				<Baseline points="435,900 637,899" />
+				<TextEquiv index="1">
+					<Unicode>Geiler, Privatmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l12" custom="readingOrder {index:12;}">
+				<Coords points="436,912 456,911 465,917 490,917 490,911 496,911 497,917 517,917 517,924 536,910 550,910 550,916 561,916 561,910 574,910 574,916 630,914 630,926 522,929 517,929 456,929 444,929 436,928" />
+				<Baseline points="436,928 630,926" />
+				<TextEquiv index="1">
+					<Unicode>Geissler, Zahnarzt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l13" custom="readingOrder {index:13;}">
+				<Coords points="436,938 453,938 461,944 475,944 478,937 492,937 497,944 515,943 515,937 522,937 522,943 581,942 581,950 598,937 624,936 645,938 653,948 671,935 688,935 701,940 713,941 714,934 723,934 723,940 781,940 781,950 585,954 561,958 548,958 515,954 503,954 503,948 497,948 492,958 478,958 460,954 436,955" />
+				<Baseline points="436,955 781,950" />
+				<TextEquiv index="1">
+					<Unicode>Gerstenberger, Gust., Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l14" custom="readingOrder {index:14;}">
+				<Coords points="437,964 454,964 462,970 477,970 483,964 534,963 546,963 547,969 570,969 576,977 584,963 598,963 605,965 605,979 503,981 483,981 454,981 437,981" />
+				<Baseline points="437,980 605,978" />
+				<TextEquiv index="1">
+					<Unicode>Geyer, Advocat.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l15" custom="readingOrder {index:15;}">
+				<Coords points="438,992 445,990 464,990 467,996 478,996 482,990 494,990 494,996 504,996 518,990 575,989 576,1002 586,1002 601,988 619,988 619,994 643,994 645,987 654,987 654,993 676,993 676,983 690,983 690,993 711,993 711,1004 690,1004 690,1012 676,1012 676,1004 619,1005 586,1008 518,1006 494,1013 467,1013 464,1007 445,1007 438,1005" />
+				<Baseline points="438,1005 711,1004" />
+				<TextEquiv index="1">
+					<Unicode>Geyer, F. W., Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l16" custom="readingOrder {index:16;}">
+				<Coords points="439,1017 501,1016 501,1022 514,1022 514,1030 533,1016 564,1016 587,1021 588,1015 608,1015 636,1017 636,1031 564,1032 518,1036 501,1036 489,1036 448,1033 439,1031" />
+				<Baseline points="439,1033 636,1031" />
+				<TextEquiv index="1">
+					<Unicode>Giehler, Fabrikant.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l17" custom="readingOrder {index:17;}">
+				<Coords points="439,1044 463,1043 464,1049 494,1049 494,1056 511,1043 528,1043 553,1048 554,1042 563,1042 588,1042 621,1047 621,1058 553,1059 498,1062 494,1062 445,1059 439,1057" />
+				<Baseline points="439,1059 621,1057" />
+				<TextEquiv index="1">
+					<Unicode>Glass, Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l18" custom="readingOrder {index:18;}">
+				<Coords points="440,1069 472,1070 519,1068 526,1068 574,1068 586,1068 605,1068 606,1074 626,1073 627,1080 630,1080 630,1083 505,1088 462,1088 450,1088 440,1087" />
+				<Baseline points="440,1087 630,1083" />
+				<TextEquiv index="1">
+					<Unicode>Glück, Particulier.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l19" custom="readingOrder {index:19;}">
+				<Coords points="440,1097 497,1096 527,1093 541,1093 607,1100 607,1094 613,1094 614,1100 639,1098 670,1100 671,1093 706,1093 713,1099 722,1098 728,1095 740,1095 761,1098 761,1109 614,1110 607,1116 594,1116 585,1111 547,1112 541,1116 527,1116 505,1113 446,1113 440,1111" />
+				<Baseline points="440,1111 761,1109" />
+				<TextEquiv index="1">
+					<Unicode>Götze, Actienspinnereidirector.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l20" custom="readingOrder {index:20;}">
+				<Coords points="441,1122 463,1121 505,1127 505,1121 550,1121 551,1135 569,1122 606,1120 612,1120 613,1133 631,1119 649,1119 650,1125 674,1125 675,1119 684,1119 684,1125 737,1124 739,1132 742,1132 742,1135 662,1136 555,1140 551,1140 463,1140 451,1140 441,1139" />
+				<Baseline points="441,1139 742,1134" />
+				<TextEquiv index="1">
+					<Unicode>Gottschald, Carl, Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l21" points="443,1151 458,1148 473,1148 482,1154 494,1154 495,1148 503,1148 503,1161 526,1148 533,1147 549,1147 572,1150 591,1147 604,1147 616,1152 616,1146 636,1146 644,1149 649,1159 674,1145 691,1145 691,1152 702,1152 702,1145 715,1145 715,1151 776,1150 786,1150 786,1161 735,1162 653,1163 622,1163 572,1164 507,1164 481,1165 458,1165 443,1154" baseline="443,1165 526,1163 742,1161 786,1161" reason: differs: "*Pro" against "Prof" | Wikisource:  | next_nc_e1: * Prof. Gottschaldt, Lehrer an | german_print2_15: *Prof. Gottschaldt, Lehrer an -->
+			<TextLine id="r6l22" custom="readingOrder {index:22;}">
+				<Coords points="495,1174 507,1174 508,1181 527,1180 540,1174 555,1174 592,1179 640,1178 641,1172 647,1171 681,1171 691,1177 696,1171 709,1171 709,1177 721,1177 722,1171 736,1171 736,1177 744,1177 744,1187 686,1187 681,1195 647,1195 647,1188 592,1189 592,1195 580,1195 495,1191" />
+				<Baseline points="495,1191 744,1187" />
+				<TextEquiv index="1">
+					<Unicode>der Baugewerkenschule.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l23" custom="readingOrder {index:23;}">
+				<Coords points="444,1201 516,1201 527,1206 545,1206 559,1200 579,1200 617,1204 656,1203 665,1200 699,1200 716,1203 716,1214 699,1214 688,1216 665,1216 656,1214 617,1215 527,1219 516,1222 477,1222 444,1217" />
+				<Baseline points="444,1217 716,1213" />
+				<TextEquiv index="1">
+					<Unicode>Graupner, Zimmermeister.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l24" points="446,1227 456,1225 465,1225 484,1226 489,1227 520,1232 566,1227 575,1224 587,1224 608,1225 621,1225 638,1228 641,1224 654,1224 666,1227 666,1240 654,1241 638,1241 615,1241 587,1242 553,1245 540,1245 534,1242 520,1243 490,1243 483,1242 472,1241 465,1233 446,1233" baseline="446,1243 666,1240" reason: differs: "0⁰Gr" against "°° G" | Wikisource:  | next_nc_e1: 0⁰ Grosser, Architekt.
+ | german_print2_15: ⁰° Grosser, Architekt.
+ -->
+			<!-- line left out: id="r6l25" points="447,1251 456,1251 487,1252 487,1258 491,1258 503,1259 503,1253 540,1252 553,1252 570,1252 576,1251 591,1250 608,1250 624,1250 641,1250 671,1250 671,1256 678,1256 678,1267 671,1268 659,1268 646,1267 641,1268 603,1268 527,1271 487,1271 473,1271 464,1269 456,1260 447,1260" baseline="447,1270 455,1269 678,1266" reason: differs: "⁰Gru" against "kt. " | Wikisource:  | next_nc_e1: ⁰ Gruhl, Schuldirector.
+ | german_print2_15: °Gruhl, Schuldirector.
+ -->
+			<TextLine id="r6l26" custom="readingOrder {index:26;}">
+				<Coords points="446,1279 510,1279 510,1286 530,1285 530,1292 549,1278 565,1278 586,1283 586,1277 600,1276 613,1276 613,1290 632,1276 650,1276 650,1282 674,1282 675,1276 684,1276 684,1282 742,1281 742,1292 617,1296 565,1294 534,1298 471,1298 457,1298 446,1296" />
+				<Baseline points="446,1296 742,1292" />
+				<TextEquiv index="1">
+					<Unicode>Günther, Ewald, Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l27" custom="readingOrder {index:27;}">
+				<Coords points="447,1305 465,1305 465,1311 477,1311 477,1305 496,1305 496,1311 520,1311 520,1318 539,1304 557,1304 581,1309 582,1303 591,1303 616,1303 632,1308 649,1309 649,1319 524,1323 520,1323 447,1322" />
+				<Baseline points="447,1322 649,1319" />
+				<TextEquiv index="1">
+					<Unicode>Gulden, Kaufmann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l28" custom="readingOrder {index:28;}">
+				<Coords points="448,1331 465,1331 486,1335 515,1331 528,1331 529,1338 539,1338 539,1330 552,1330 587,1335 587,1329 600,1329 600,1342 618,1330 634,1330 653,1335 653,1329 673,1328 686,1328 704,1334 704,1328 717,1328 717,1334 753,1333 766,1335 766,1344 496,1348 448,1348" />
+				<Baseline points="448,1348 766,1344" />
+				<TextEquiv index="1">
+					<Unicode>Gutzschebauch, Archidiakonus.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Gagstädter, Particulier.
+Gaitzsch, Mühlenbesitzer.
+Gampe, Schriftsteller.
+Gast, Buchbinder.
+Gebhardt, Wilh., Kaufmann.
+Gechter, Kaufmann.
+Gefe, Kaufmann.
+Gehlert, Arthur, Kaufmann.
+Gehrenbeck, Bankdirector.
+Gehrenbeck, Färber.
+Geidel, Buchdruckereibesitzer.
+Geiler, Privatmann.
+Geissler, Zahnarzt.
+Gerstenberger, Gust., Kaufmann.
+Geyer, Advocat.
+Geyer, F. W., Kaufmann.
+Giehler, Fabrikant.
+Glass, Kaufmann.
+Glück, Particulier.
+Götze, Actienspinnereidirector.
+Gottschald, Carl, Kaufmann.
+der Baugewerkenschule.
+Graupner, Zimmermeister.
+Günther, Ewald, Kaufmann.
+Gulden, Kaufmann.
+Gutzschebauch, Archidiakonus.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="394,1549 590,1549 590,1561 394,1561" />
+			<!-- line left out: id="r7l0" points="394,1549 402,1549 408,1550 422,1549 434,1549 456,1549 469,1549 494,1549 525,1549 553,1549 590,1550 590,1558 566,1560 545,1560 531,1558 452,1561 441,1561 426,1561 415,1560 407,1560 394,1558" baseline="394,1558 590,1557" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnpdigital slub-dresden de/ppn3
+ | german_print2_15: p ligital slub-dresden de ppn301
+ -->
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Dr. Casten, Advocat.
+Clauss, Edmund, Kaufmann.
+Clauss, E. O., Kaufmann.
+° Dankelmann, Th., Kaufmann.
+Dausz, Kaufmann.
+Diehl, Fabrikdirector.
+°° Dietel, Oberpostsecretär.
+Dietrich, Kohlengeschäftsinhaber.
+Dietsch, O., Kaufmann.
+Dietz, Carl Oscar, Kaufmann.
+Prof. Diezmann, Gewerbschullehrer und Redacteur.
+Dörstling, Realschullehrer.
+Dreyhaupt, Kaufmann.
+Droisch, Kaufmann.
+Duderstädt, Emil, Kaufmann.
+Duderstädt, Heinr., Kaufmann.
+Duderstädt, Herm., Kaufmann.
+Duderstädt, Hugo, Architekt.
+Duderstädt, J. F., Particulier.
+Düll, Kaufmann.
+Dürfeld, Kaufmann.
+Eberlein, Klempnermeister.
+Dr. Eichhorn, Arzt.
+Eifler, Ferd., Kaufmann.
+Eisenstuck, Particulier.
+Engel, E., Kaufmann.
+Dr. Enzmann, Advocat, Vorst. d. Stadtverordneten.
+Ernst, Gust., Kaufmann.
+Esche, Eugen, Kaufmann.
+Ewald, Particulier.
+Ey, Todtenbettmeister.
+Feller, Leihbibliothekar.
+Feudel, Particulier.
+Findeisen, Herm., Kaufmann.
+Findeisen, Otto, Kaufmann.
+Fischer, Edm., Kaufmann.
+Fischer, Zeichenlehrer an der Realschule.
+Flade, Alfred, Kaufmann.
+Flade, C. A., Kaufmann.
+Flade, C. E., Kaufmann.
+Dr. Flinzer, Medicinalrath.
+Focke, Buchhdlr. und Stadtrath.
+Förster, Ferd., Kaufmann.
+Franke, Guido, Kaufmann.
+Frisch, Kaufmann.
+Fritzsche, C. Gust., Kaufmann.
+Fritzsche, G. Emil, Kaufmann.
+† Fritzsche, Rob., Kaufmann.
+† Prof. Dr. Frohberger, Gymnasialoberlehrer.
+° Dr. Frommhold, Diakonus.
+Fuchs, Brandversicherungsinspect.
+°° Funke, Seidenfärber.
+Gagstädter, Particulier.
+Gaitzsch, Mühlenbesitzer.
+Gampe, Schriftsteller.
+Gast, Buchbinder.
+Gebhardt, Wilh., Kaufmann.
+Gechter, Kaufmann.
+Gefe, Kaufmann.
+Gehlert, Arthur, Kaufmann.
+Gehrenbeck, Bankdirector.
+Gehrenbeck, Färber.
+Geidel, Buchdruckereibesitzer.
+Geiler, Privatmann.
+Geissler, Zahnarzt.
+Gerstenberger, Gust., Kaufmann.
+Geyer, Advocat.
+Geyer, F. W., Kaufmann.
+Giehler, Fabrikant.
+Glass, Kaufmann.
+Glück, Particulier.
+Götze, Actienspinnereidirector.
+Gottschald, Carl, Kaufmann.
+Prof. Gottschaldt, Lehrer an der Baugewerkenschule.
+Graupner, Zimmermeister.
+°° Grosser, Architekt.
+° Gruhl, Schuldirector.
+Günther, Ewald, Kaufmann.
+Gulden, Kaufmann.
+Gutzschebauch, Archidiakonus.
+-->
+	</Page>
+</PcGts>

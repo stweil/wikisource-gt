@@ -1,0 +1,462 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:28:52</Created>
+		<LastChange>2026-11-23T14:28:52</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/192 revision 4652507 of 2025-11-06T07:13:33Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0192.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro12636515043426567000" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="15" regionRef="r15" />
+				<RegionRefIndexed index="17" regionRef="r17" />
+				<RegionRefIndexed index="19" regionRef="r19" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="206,204 325,204 325,222 206,222" />
+			<!-- line left out: id="r0l0" points="206,209 230,204 241,204 281,205 302,206 325,207 325,222 302,222 289,222 267,221 218,220 206,219" baseline="206,219 262,220 325,222" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: und Entbeh
+ | german_print2_15: und Entbeh
+ -->
+		</TextRegion>
+		<GraphicRegion id="r1">
+			<Coords points="327,209 351,209 351,223 327,223" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="198,211 915,211 915,583 198,583" />
+			<!-- line left out: id="r2l0" points="354,214 378,214 379,222 405,215 412,215 426,216 437,217 455,211 463,211 475,212 476,219 527,214 540,214 541,221 573,221 591,222 624,218 641,218 679,219 693,219 696,225 713,220 724,220 738,227 758,227 758,221 770,221 794,226 825,229 849,225 872,225 878,227 909,232 915,233 915,243 899,247 879,247 872,241 849,241 826,240 814,239 794,232 794,238 780,238 738,237 661,236 591,237 574,237 573,231 555,231 527,230 497,229 476,228 378,227 367,227 354,224" baseline="354,224 381,224 436,226 455,227 590,232 605,232 640,233 814,239 849,240 915,243" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: ng, von Bewunderung und Mitleid zehrte an Körper | german_print2_15: ing, von Bewunderung und Mitleid zehrte an Körper -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="205,235 229,230 240,230 272,230 273,238 307,235 308,245 339,233 357,233 376,234 393,242 411,236 423,236 423,242 435,242 443,245 455,238 479,238 480,245 517,244 537,246 580,247 591,249 605,243 647,243 658,244 659,252 692,252 692,245 698,245 699,252 735,247 747,247 761,251 771,247 782,247 783,254 794,254 794,248 824,247 843,250 844,263 875,257 882,252 899,252 915,258 915,269 907,269 735,268 718,262 617,260 357,249 339,251 300,248 205,245" />
+				<Baseline points="205,244 915,268" />
+				<TextEquiv index="1">
+					<Unicode>und Geist. Sollte das Theater eine Schule der Sittlichkeit, sollte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="204,263 243,263 244,256 256,256 257,264 266,264 281,258 297,258 299,264 318,263 375,268 376,260 391,260 391,267 436,270 436,263 459,264 461,272 471,268 477,268 532,272 602,274 637,273 648,276 648,270 660,270 660,278 679,276 722,279 722,272 733,272 735,279 744,279 763,273 785,273 805,278 857,282 889,278 890,284 915,284 915,298 901,298 859,293 763,291 716,288 567,286 559,283 549,282 532,286 520,286 490,281 204,271" />
+				<Baseline points="204,271 915,294" />
+				<TextEquiv index="1">
+					<Unicode>es die Hüterin der edelsten geistigen Schätze der Nation werden,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="203,290 212,287 223,287 264,289 274,287 298,287 370,293 382,287 400,287 402,293 412,293 412,287 424,287 434,289 436,295 441,295 448,298 454,287 479,287 479,297 522,298 524,292 544,292 554,294 566,299 598,295 615,295 623,302 657,297 669,297 670,304 769,305 771,313 802,302 830,302 841,308 896,307 914,310 914,321 906,321 721,314 623,312 544,308 412,308 402,304 323,302 203,296" />
+				<Baseline points="203,295 587,310 914,320" />
+				<TextEquiv index="1">
+					<Unicode>so mussten seine Mitglieder aufhören Nomaden zu sein. Sie mussten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="203,316 241,317 242,309 253,309 281,309 282,317 292,317 307,311 325,311 354,318 355,312 366,312 367,320 377,320 378,313 390,313 398,320 420,315 431,315 439,322 470,317 473,323 509,323 536,319 539,325 555,325 556,319 567,319 568,328 600,322 616,322 623,328 646,328 658,330 658,323 669,323 677,330 690,330 692,324 701,324 702,330 721,325 733,325 749,332 785,332 790,327 805,327 805,333 851,334 881,330 915,330 915,346 884,346 881,346 815,345 771,342 549,335 491,338 341,333 341,327 203,324" />
+				<Baseline points="203,323 600,337 915,346" />
+				<TextEquiv index="1">
+					<Unicode>sesshafte Mitglieder der bürgerlichen Gemeinschaft werden, um sich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="203,340 226,341 228,335 238,335 251,335 271,342 307,337 308,343 360,344 371,346 388,340 401,340 402,347 425,348 476,349 519,345 557,345 557,357 569,352 588,347 600,347 601,356 611,352 627,352 655,355 656,349 667,349 674,356 705,351 717,351 718,358 728,358 729,351 741,351 742,357 771,359 772,352 783,352 794,353 823,360 866,362 873,355 883,355 883,361 915,362 915,376 900,376 893,372 644,364 407,362 402,357 388,356 203,350" />
+				<Baseline points="203,349 475,359 915,372" />
+				<TextEquiv index="1">
+					<Unicode>nicht mehr wie Zigeuner und Landstreicher behandelt zu sehen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="202,368 272,368 298,366 321,369 354,365 370,365 371,371 437,375 439,368 451,368 452,376 461,376 476,370 511,370 512,377 545,372 556,372 557,379 579,378 605,380 605,373 616,373 618,381 654,379 672,381 685,380 693,376 698,376 700,382 712,377 722,377 724,384 787,385 789,379 799,379 819,380 820,386 851,381 864,381 873,387 884,382 895,382 896,390 915,388 915,398 831,397 616,389 395,383 298,378 202,376" />
+				<Baseline points="202,376 915,399" />
+				<TextEquiv index="1">
+					<Unicode>sie mussten sich an die Schranken des staatlichen und häuslichen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="203,386 217,386 217,393 229,388 241,388 241,395 307,391 355,391 356,397 391,398 392,406 416,400 463,395 475,395 476,403 519,397 532,397 545,398 546,404 564,399 575,399 576,405 643,407 676,402 688,402 716,403 719,409 735,404 759,404 759,412 783,409 785,419 803,406 815,406 816,413 852,412 872,407 880,407 893,408 894,414 908,414 915,418 915,421 908,424 882,424 785,423 759,420 519,415 463,411 307,410 273,402 264,404 203,403" />
+				<Baseline points="203,403 272,403 497,412 915,424" />
+				<TextEquiv index="1">
+					<Unicode>Lebens gewöhnen, um den Idealen reiner Sittlichkeit, deren Dar-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="201,421 210,416 217,416 228,420 230,414 242,414 243,420 273,420 273,414 278,414 299,421 332,422 360,418 371,418 373,424 461,427 462,421 466,421 468,428 537,425 584,425 586,433 619,432 625,427 641,427 643,434 696,434 726,436 727,430 738,430 740,436 777,437 778,444 800,438 894,438 914,440 914,451 901,451 676,444 492,442 480,438 440,436 261,435 243,430 201,428" />
+				<Baseline points="201,428 914,451" />
+				<TextEquiv index="1">
+					<Unicode>stellung von ihnen verlangt wurde, sich anzunähern, sie mussten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="200,447 212,445 229,446 231,440 242,440 250,446 262,441 272,441 287,448 293,448 293,441 306,441 306,448 321,448 327,443 342,443 362,444 363,451 380,450 439,454 454,448 463,448 470,454 502,455 522,455 524,449 529,449 530,456 626,458 694,456 710,459 775,457 778,464 836,464 864,460 914,461 914,476 880,476 695,471 683,469 652,470 589,467 388,465 363,460 200,455" />
+				<Baseline points="200,454 551,466 914,476" />
+				<TextEquiv index="1">
+					<Unicode>endlich durch längeres Verweilen an einem Orte zu besserer Wahl</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="200,472 223,472 225,466 236,466 319,476 336,475 336,469 349,469 350,476 383,475 404,478 445,473 465,473 467,480 490,481 492,475 504,475 505,481 566,484 566,477 579,477 580,484 618,480 628,483 653,486 655,480 665,480 666,488 672,488 678,494 705,487 725,488 747,482 757,482 757,489 810,489 889,494 890,486 902,486 903,494 914,494 914,502 865,504 855,504 832,501 793,500 782,498 610,498 529,495 505,492 295,484 274,482 273,488 255,488 236,482 200,481" />
+				<Baseline points="200,481 914,503" />
+				<TextEquiv index="1">
+					<Unicode>und gewissenhafterer Einübung der Stücke, zu Erweiterung des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="199,499 205,499 205,492 218,492 218,498 229,496 238,492 249,492 250,499 274,500 291,500 305,494 319,494 321,504 338,501 347,494 360,494 366,500 377,500 401,504 435,505 486,501 487,507 542,508 573,504 584,504 592,510 596,510 607,504 658,508 659,514 679,509 705,508 712,514 735,515 737,508 749,508 750,515 839,517 855,511 867,511 869,518 879,518 881,512 892,512 894,518 914,519 914,528 776,529 761,529 750,525 669,522 499,521 422,519 409,512 360,517 333,517 325,510 274,514 255,514 250,509 199,508" />
+				<Baseline points="199,508 305,510 914,529" />
+				<TextEquiv index="1">
+					<Unicode>dürftigen Repertoirs genöthigt werden. Die Gründung einer Bühne</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="199,525 228,526 234,519 245,519 259,527 266,520 277,520 279,527 345,528 353,522 363,522 366,530 376,530 376,524 387,524 389,531 434,525 449,526 456,532 503,534 555,535 572,531 591,531 606,537 745,535 747,541 758,536 770,536 778,542 848,539 907,545 913,549 913,551 907,555 877,554 861,559 848,559 791,556 770,551 657,549 632,547 486,549 484,543 199,534" />
+				<Baseline points="199,533 913,555" />
+				<TextEquiv index="1">
+					<Unicode>nach diesen idealen Principien ward zuerst in Hamburg 1767 ver-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="198,552 230,551 231,545 242,545 254,551 272,546 284,546 285,554 297,553 319,548 333,548 336,555 359,555 362,549 374,549 375,556 399,556 449,552 456,559 468,559 468,553 478,553 480,561 548,561 571,564 573,556 584,556 586,564 596,564 610,558 622,558 629,566 637,566 640,558 649,558 651,566 699,566 700,560 711,560 725,568 732,561 743,561 745,567 811,567 842,571 857,564 863,564 871,572 881,572 882,565 894,565 902,571 913,571 913,581 811,579 786,583 781,583 780,576 676,576 622,573 468,569 468,575 456,575 455,568 254,564 207,561 198,559" />
+				<Baseline points="198,560 913,581" />
+				<TextEquiv index="1">
+					<Unicode>sucht; der Kaufmann Seyler war die Seele und der spätere Leiter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>und Geist. Sollte das Theater eine Schule der Sittlichkeit, sollte
+es die Hüterin der edelsten geistigen Schätze der Nation werden,
+so mussten seine Mitglieder aufhören Nomaden zu sein. Sie mussten
+sesshafte Mitglieder der bürgerlichen Gemeinschaft werden, um sich
+nicht mehr wie Zigeuner und Landstreicher behandelt zu sehen,
+sie mussten sich an die Schranken des staatlichen und häuslichen
+Lebens gewöhnen, um den Idealen reiner Sittlichkeit, deren Dar-
+stellung von ihnen verlangt wurde, sich anzunähern, sie mussten
+endlich durch längeres Verweilen an einem Orte zu besserer Wahl
+und gewissenhafterer Einübung der Stücke, zu Erweiterung des
+dürftigen Repertoirs genöthigt werden. Die Gründung einer Bühne
+nach diesen idealen Principien ward zuerst in Hamburg 1767 ver-
+sucht; der Kaufmann Seyler war die Seele und der spätere Leiter</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="452,290 475,290 475,306 452,306" />
+		</GraphicRegion>
+		<GraphicRegion id="r4">
+			<Coords points="290,395 307,395 307,410 290,410" />
+		</GraphicRegion>
+		<GraphicRegion id="r5">
+			<Coords points="382,451 385,451 385,460 382,460" />
+		</GraphicRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="194,571 912,571 912,734 194,734" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="197,571 209,571 210,578 229,579 244,572 266,572 279,577 325,581 327,574 337,574 339,581 380,582 394,585 411,577 424,577 431,584 497,584 508,581 516,581 519,587 551,588 552,582 563,582 565,591 589,587 667,585 709,592 742,591 785,595 788,589 792,589 794,595 826,597 890,595 912,597 912,608 903,608 804,604 750,607 722,603 504,596 484,599 473,599 455,595 429,593 381,594 327,590 197,587" />
+				<Baseline points="197,586 593,599 912,607" />
+				<TextEquiv index="1">
+					<Unicode>des Unternehmens, Lessing Consulent und Dramaturg dieses ersten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l1" custom="readingOrder {index:1;}">
+				<Coords points="196,605 202,605 203,597 215,597 216,604 227,602 239,602 255,606 261,599 273,599 274,607 295,606 313,600 329,600 330,607 348,605 360,608 391,609 393,603 406,603 413,604 415,611 457,610 485,614 517,607 523,607 540,609 554,614 565,615 566,609 576,609 596,616 634,616 645,618 659,611 665,611 681,613 684,619 740,618 773,620 809,617 852,622 858,624 864,617 869,617 884,620 901,621 912,625 912,633 804,633 747,630 457,621 313,622 295,615 196,613" />
+				<Baseline points="196,613 912,634" />
+				<TextEquiv index="1">
+					<Unicode>deutschen Nationaltheaters. Durch seine Dramaturgie vernichtete</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l2" custom="readingOrder {index:2;}">
+				<Coords points="196,631 212,630 235,632 236,624 248,624 249,632 258,632 273,638 278,627 344,631 383,636 384,629 396,629 397,636 425,634 429,630 440,630 441,637 464,637 517,641 524,634 534,634 536,642 568,637 590,636 593,643 612,644 618,637 628,637 630,643 670,644 672,638 682,638 684,647 702,647 703,653 722,646 733,646 742,640 754,640 755,646 793,647 794,641 804,641 819,649 825,642 837,642 838,649 848,649 858,643 873,643 874,649 911,650 911,659 897,660 887,660 770,656 703,657 664,653 453,648 314,642 273,642 196,639" />
+				<Baseline points="196,639 911,660" />
+				<TextEquiv index="1">
+					<Unicode>er die Autorität des französischen Geschmackes, während die Ham-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l3" custom="readingOrder {index:3;}">
+				<Coords points="196,650 208,650 209,656 292,656 298,661 304,653 309,653 311,659 323,654 334,654 336,661 385,661 440,658 477,658 483,659 485,666 498,663 508,663 510,673 537,666 575,663 596,663 612,668 638,664 649,664 651,670 673,670 684,672 704,666 715,666 723,673 735,673 755,667 774,667 775,673 789,673 814,668 837,668 839,676 883,675 901,670 911,670 911,686 882,686 877,686 850,684 721,681 675,683 651,680 589,678 462,678 449,660 449,674 373,672 229,672 226,666 196,665" />
+				<Baseline points="196,665 911,686" />
+				<TextEquiv index="1">
+					<Unicode>burger Schule unter Eckhof, in Abrundung des Ensembles und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l4" custom="readingOrder {index:4;}">
+				<Coords points="196,682 229,680 233,680 264,684 278,681 311,680 315,680 317,686 327,686 349,681 361,681 402,688 413,687 421,683 434,680 438,680 471,684 473,691 505,686 518,686 527,694 539,693 557,688 569,688 570,696 582,694 675,691 678,697 688,697 695,699 701,692 711,692 726,698 754,699 761,693 798,699 810,694 822,694 822,702 834,700 846,695 857,695 859,708 877,696 889,696 890,703 910,702 910,712 862,712 859,712 421,700 381,697 311,700 299,694 196,692" />
+				<Baseline points="196,692 910,712" />
+				<TextEquiv index="1">
+					<Unicode>in feiner Charakteristik den Fremden mit Glück nachstrebend, den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l5" points="194,703 206,703 229,703 229,710 235,710 259,711 261,704 273,704 280,711 284,711 309,713 311,706 321,706 329,711 347,711 363,714 369,708 380,708 388,715 424,710 436,710 436,716 448,711 459,711 460,717 471,717 492,717 511,718 523,721 525,713 534,710 546,710 546,719 550,719 581,721 583,715 588,715 591,722 608,721 611,721 639,725 641,716 652,716 654,722 687,722 687,733 546,734 534,734 525,729 501,728 499,734 494,734 492,727 448,727 436,726 388,725 369,724 347,723 235,724 215,724 207,719 194,716" baseline="194,718 234,719 304,721 402,725 424,725 549,729 687,733" reason: second model: piece of a line: ends inside a word | Wikisource: Sieg der deutschen Schauspieler über die | next_nc_e1: Sieg der deutschen Schauspieler über die
+ | german_print2_15: Sieg der deutschen Schauspieler über die f
+ -->
+			<TextEquiv index="1">
+				<Unicode>des Unternehmens, Lessing Consulent und Dramaturg dieses ersten
+deutschen Nationaltheaters. Durch seine Dramaturgie vernichtete
+er die Autorität des französischen Geschmackes, während die Ham-
+burger Schule unter Eckhof, in Abrundung des Ensembles und
+in feiner Charakteristik den Fremden mit Glück nachstrebend, den</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r7">
+			<Coords points="449,663 474,663 474,675 449,675" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="689,717 691,717 691,719 689,719" />
+		</GraphicRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="700,720 910,720 910,739 700,739" />
+			<!-- line left out: id="r9l0" points="700,724 717,724 733,725 761,725 776,727 776,720 787,720 789,726 810,726 840,721 844,721 846,727 877,722 888,722 896,728 910,728 910,739 896,739 889,738 840,737 789,736 733,735 719,735 700,734" baseline="700,734 814,736 910,738" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: anzösischen in den
+ | german_print2_15: anzösischen in den
+ -->
+		</TextRegion>
+		<GraphicRegion id="r10">
+			<Coords points="692,724 698,724 698,733 692,733" />
+		</GraphicRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="181,733 909,733 909,1318 181,1318" />
+			<TextLine id="r11l0" custom="readingOrder {index:0;}">
+				<Coords points="192,736 214,736 235,738 310,734 329,739 337,733 349,733 351,741 424,736 438,745 456,743 469,738 480,738 483,744 494,746 500,739 510,739 524,745 558,746 559,740 569,740 584,748 606,748 621,742 632,742 634,750 655,749 667,743 677,743 687,750 718,749 741,751 743,745 748,745 750,752 773,745 780,745 782,752 842,750 857,755 858,748 869,748 876,754 891,754 900,749 909,749 909,765 900,765 500,755 235,746 205,750 192,750" />
+				<Baseline points="192,744 909,765" />
+				<TextEquiv index="1">
+					<Unicode>grösseren Städten und endlich auch an den Fürstenhöfen entschied.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l1" custom="readingOrder {index:1;}">
+				<Coords points="192,755 209,755 210,765 222,756 226,756 229,763 282,758 291,766 337,765 389,767 391,761 401,761 442,763 443,769 462,764 474,764 476,771 514,771 517,779 542,772 568,774 570,767 592,767 594,774 633,775 634,769 639,769 641,775 675,770 696,770 698,777 751,775 785,776 797,778 819,773 830,773 831,781 868,774 888,774 900,778 902,785 908,785 908,787 900,791 728,792 717,792 698,787 494,786 487,781 349,779 303,780 297,774 192,772" />
+				<Baseline points="192,771 908,791" />
+				<TextEquiv index="1">
+					<Unicode>Neben Leipzig und Hamburg, welche die Hauptstätten der Ent-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l2" custom="readingOrder {index:2;}">
+				<Coords points="192,788 225,789 227,783 237,783 255,783 258,790 291,791 306,785 310,785 323,786 326,792 343,793 344,787 356,787 356,794 378,793 379,800 403,789 408,789 410,795 491,797 510,799 512,792 524,792 525,799 535,799 549,793 571,793 585,794 588,801 618,800 659,796 681,796 682,802 704,803 743,801 748,805 755,798 759,798 760,804 799,804 864,800 886,801 887,807 907,807 907,819 898,819 773,814 705,814 668,811 477,807 331,802 276,805 258,800 192,798" />
+				<Baseline points="192,797 490,806 843,814 907,817" />
+				<TextEquiv index="1">
+					<Unicode>wickelung blieben, bewiesen die Höfe von Wien, Schwerin, Gotha,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l3" custom="readingOrder {index:3;}">
+				<Coords points="193,809 219,809 221,816 268,816 309,818 311,812 322,812 362,813 363,819 386,820 386,814 399,814 401,821 441,821 458,824 460,816 470,816 472,823 522,824 523,818 535,818 543,825 557,825 571,833 576,820 619,820 627,827 637,827 639,821 648,821 648,837 639,837 193,824" />
+				<Baseline points="193,824 648,837" />
+				<TextEquiv index="1">
+					<Unicode>Weimar und Mannheim dauernden Antheil.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l4" custom="readingOrder {index:4;}">
+				<Coords points="244,837 267,837 269,843 286,843 308,846 310,838 346,839 362,850 368,840 380,840 382,846 430,842 440,848 451,848 452,842 462,842 494,850 506,850 508,844 512,844 514,850 538,845 550,845 551,851 574,851 577,859 605,853 611,846 621,846 623,853 669,856 671,848 676,848 678,854 703,855 740,850 752,850 753,856 781,857 800,851 805,851 806,859 818,858 830,853 851,851 873,859 896,860 897,854 907,854 907,869 896,870 885,870 770,869 758,866 628,862 494,864 382,856 244,853" />
+				<Baseline points="244,852 907,870" />
+				<TextEquiv index="1">
+					<Unicode>Man darf aber nicht glauben, dass dieser Sieg leicht und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l5" custom="readingOrder {index:5;}">
+				<Coords points="190,870 199,868 209,868 211,862 221,862 222,868 234,868 241,863 258,863 277,870 300,870 301,864 312,864 337,866 376,866 379,872 400,873 401,867 411,867 429,874 458,871 484,876 484,869 495,869 497,876 572,878 619,873 620,879 701,881 703,875 711,875 721,882 732,882 733,876 744,876 769,883 829,884 830,878 841,878 843,892 876,879 897,880 898,887 907,887 907,896 876,896 572,888 526,891 331,887 312,880 211,878 190,876" />
+				<Baseline points="190,877 907,896" />
+				<TextEquiv index="1">
+					<Unicode>schnell und sogleich auf der ganzen Linie erfochten ward. Die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r11l6" points="189,888 213,888 214,895 236,895 238,889 249,889 250,895 262,890 274,890 275,896 299,896 373,898 385,900 429,900 441,901 442,895 453,895 473,902 496,902 509,903 510,897 515,897 517,905 528,903 541,898 551,898 552,904 556,904 601,905 602,899 613,899 636,906 653,906 661,901 672,901 673,908 684,905 700,905 724,908 732,902 743,902 743,909 755,909 758,917 783,913 792,913 840,905 851,905 871,912 895,912 896,906 905,906 905,922 755,923 743,923 701,918 673,917 636,916 577,915 541,914 515,913 509,915 497,915 473,912 442,911 429,910 425,910 357,908 337,907 262,906 214,905 189,904" baseline="189,904 309,906 473,911 612,915 761,919 791,919 905,922" reason: differs: "g,zdund" against ", zagen" | Wikisource:  | next_nc_e1: Theilnahme erwies sich ungleich und unbeständig, z d und | german_print2_15: Theilnahme erwies sich ungleich und unbeständig, z. ſd und -->
+			<TextLine id="r11l7" custom="readingOrder {index:7;}">
+				<Coords points="188,921 256,916 267,916 292,918 294,924 306,924 307,917 311,917 312,924 338,922 390,925 420,921 432,921 433,928 455,927 510,929 555,924 568,924 568,931 579,931 581,925 592,925 593,931 632,932 632,924 634,924 684,928 686,934 725,930 735,933 755,943 759,930 795,930 797,939 818,937 834,931 846,931 847,938 858,938 860,932 871,932 872,938 905,938 905,948 860,948 735,945 719,946 675,943 360,935 340,928 338,934 325,938 211,935 197,931 188,931" />
+				<Baseline points="188,930 905,948" />
+				<TextEquiv index="1">
+					<Unicode>zögernd folgte man den neuen Bahnen. Die stehenden Bühnen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l8" custom="readingOrder {index:8;}">
+				<Coords points="189,941 199,941 208,948 244,945 268,948 281,955 287,949 314,944 320,944 320,950 331,950 339,944 349,944 351,952 383,948 407,948 417,951 511,955 576,951 577,959 616,953 644,953 646,959 670,958 753,963 766,956 790,956 793,963 814,963 847,958 861,958 874,964 904,966 904,971 892,974 887,979 874,979 834,973 834,979 823,979 814,973 500,966 331,960 314,961 189,957" />
+				<Baseline points="189,956 904,975" />
+				<TextEquiv index="1">
+					<Unicode>konnten an vielen Orten nur unter dem Schutze eines Monopols ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l9" custom="readingOrder {index:9;}">
+				<Coords points="187,967 199,967 200,974 210,974 212,968 224,968 225,975 253,976 259,982 290,976 314,976 319,970 323,970 325,979 331,979 337,971 348,971 349,979 425,979 483,975 485,983 516,983 517,976 555,977 563,983 576,979 627,979 634,985 648,985 669,991 675,986 711,988 718,982 740,982 749,989 778,990 779,983 790,983 791,989 802,989 803,983 807,983 809,989 823,989 823,982 863,984 871,991 880,991 886,985 903,988 903,1001 886,1001 769,997 743,998 539,993 510,991 485,992 360,987 259,988 225,985 187,984" />
+				<Baseline points="187,983 903,1001" />
+				<TextEquiv index="1">
+					<Unicode>deihen, welches einer Gesellschaft das ausschliessliche Recht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l10" custom="readingOrder {index:10;}">
+				<Coords points="187,998 195,994 206,994 214,1001 231,998 265,996 267,1002 293,1002 294,996 305,996 313,1003 341,1006 341,998 393,998 399,999 400,1005 474,1007 489,1014 494,1008 507,1008 507,1002 522,1002 534,1011 540,1009 563,1009 574,1011 587,1005 607,1005 614,1011 625,1011 626,1005 632,1005 644,1009 698,1014 710,1007 732,1007 739,1014 749,1014 749,1007 760,1007 769,1015 783,1015 784,1022 800,1017 812,1016 903,1017 903,1025 851,1031 839,1031 787,1026 440,1022 440,1016 187,1010" />
+				<Baseline points="187,1009 903,1027" />
+				<TextEquiv index="1">
+					<Unicode>theatralischer Aufführungen auf eine Stadt, eine Provinz, ein ganzes</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l11" custom="readingOrder {index:11;}">
+				<Coords points="187,1020 201,1020 201,1027 225,1027 226,1021 237,1021 256,1028 288,1023 386,1025 387,1031 411,1026 428,1026 429,1033 439,1033 463,1027 478,1027 481,1034 511,1029 522,1029 529,1035 620,1035 644,1037 647,1045 677,1041 683,1033 694,1033 695,1039 744,1042 745,1034 756,1034 758,1042 797,1044 818,1036 842,1036 844,1042 891,1044 893,1038 901,1038 901,1053 881,1052 879,1059 869,1059 866,1053 647,1049 564,1046 463,1045 271,1038 187,1037" />
+				<Baseline points="187,1036 901,1053" />
+				<TextEquiv index="1">
+					<Unicode>Land verlieh. Manche Kritiker meinten, dass dieses Monopol</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l12" custom="readingOrder {index:12;}">
+				<Coords points="185,1047 197,1047 198,1054 273,1052 296,1055 311,1049 327,1049 329,1057 360,1056 361,1050 372,1050 373,1057 414,1058 416,1052 425,1052 444,1059 468,1060 469,1054 480,1054 506,1055 507,1062 550,1056 569,1056 572,1063 592,1061 659,1066 661,1058 672,1058 673,1065 704,1067 704,1060 720,1060 720,1067 775,1065 796,1068 797,1062 808,1062 809,1069 846,1063 861,1063 864,1069 901,1067 901,1079 820,1079 698,1076 654,1074 640,1068 623,1067 616,1073 605,1078 593,1078 586,1073 457,1070 240,1069 226,1063 185,1063" />
+				<Baseline points="185,1062 901,1080" />
+				<TextEquiv index="1">
+					<Unicode>dem guten Geschmack und dem Fortgang der dramatischen Kunst</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l13" custom="readingOrder {index:13;}">
+				<Coords points="184,1080 204,1079 205,1073 216,1073 216,1080 228,1080 228,1074 240,1074 241,1081 252,1081 253,1088 277,1081 355,1082 391,1084 391,1078 405,1078 405,1084 449,1086 482,1086 483,1080 513,1081 513,1087 576,1083 577,1090 589,1086 603,1086 604,1094 618,1084 656,1084 657,1093 677,1093 694,1086 717,1086 719,1093 754,1091 774,1094 823,1095 831,1089 901,1090 901,1106 864,1106 571,1098 436,1101 420,1095 344,1092 344,1098 331,1098 331,1091 285,1091 284,1097 277,1097 253,1092 184,1089" />
+				<Baseline points="184,1088 901,1106" />
+				<TextEquiv index="1">
+					<Unicode>schade, ja sogar den gänzlichen Verfall des Theaters nach sich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l14" custom="readingOrder {index:14;}">
+				<Coords points="183,1105 206,1100 217,1100 218,1106 237,1107 237,1100 239,1100 358,1103 358,1109 405,1105 443,1106 444,1113 483,1112 507,1108 536,1108 544,1114 566,1115 580,1109 597,1109 614,1110 617,1116 638,1111 650,1111 653,1117 669,1117 671,1111 682,1111 695,1112 697,1118 728,1120 729,1113 744,1113 758,1121 774,1121 774,1114 823,1115 830,1121 843,1121 858,1115 879,1115 879,1122 893,1122 900,1126 900,1128 893,1132 858,1132 628,1126 451,1125 430,1122 392,1120 183,1115" />
+				<Baseline points="183,1115 900,1133" />
+				<TextEquiv index="1">
+					<Unicode>ziehe. Der Eifer erkalte, weil kein Nebenbuhler da sei; der Ehr-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l15" custom="readingOrder {index:15;}">
+				<Coords points="182,1131 202,1126 213,1126 213,1132 287,1133 293,1128 304,1128 305,1134 340,1129 340,1135 362,1135 363,1129 373,1129 388,1136 445,1139 446,1132 451,1132 453,1138 513,1134 520,1137 559,1141 585,1141 650,1137 665,1139 702,1139 711,1145 726,1145 727,1152 746,1140 757,1140 758,1147 805,1146 853,1148 853,1142 866,1142 881,1147 892,1148 899,1152 899,1154 892,1158 853,1158 848,1158 561,1151 559,1157 546,1157 546,1151 362,1146 182,1147" />
+				<Baseline points="182,1141 899,1158" />
+				<TextEquiv index="1">
+					<Unicode>geiz wünsche sich nur einen Stümper zum Rivalen, den man über-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l16" custom="readingOrder {index:16;}">
+				<Coords points="182,1158 202,1159 203,1152 215,1152 215,1159 254,1153 291,1155 342,1161 377,1156 414,1157 427,1158 428,1165 438,1165 450,1159 463,1159 463,1165 483,1165 497,1159 504,1159 531,1160 541,1167 551,1167 552,1161 564,1161 564,1169 584,1167 584,1175 608,1168 631,1170 631,1163 641,1163 642,1169 653,1164 665,1164 666,1172 698,1165 710,1165 711,1172 730,1173 745,1166 809,1167 810,1173 839,1173 898,1169 898,1185 889,1185 641,1179 584,1179 383,1172 310,1172 182,1168" />
+				<Baseline points="182,1168 898,1185" />
+				<TextEquiv index="1">
+					<Unicode>sehen könne; so bleibe der Pfuscher, welcher das Publikum nach</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l17" custom="readingOrder {index:17;}">
+				<Coords points="182,1184 206,1184 206,1178 218,1178 234,1185 269,1186 270,1180 281,1180 299,1192 305,1187 351,1187 405,1183 425,1183 436,1185 459,1185 459,1191 499,1192 535,1187 546,1187 547,1193 558,1193 627,1189 642,1198 649,1198 649,1190 664,1190 664,1196 702,1191 716,1191 720,1200 729,1198 739,1198 740,1192 751,1192 752,1198 782,1198 789,1193 804,1193 817,1201 824,1201 824,1194 834,1194 835,1200 881,1198 898,1201 898,1215 888,1215 881,1211 846,1210 677,1207 486,1207 469,1201 342,1199 182,1194" />
+				<Baseline points="182,1194 898,1211" />
+				<TextEquiv index="1">
+					<Unicode>und nach an seine Fehler gewöhne und den Geschmack einseitig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l18" custom="readingOrder {index:18;}">
+				<Coords points="181,1205 187,1205 219,1205 220,1212 269,1212 269,1206 281,1206 294,1212 316,1212 326,1207 338,1207 344,1214 359,1209 371,1209 372,1216 385,1214 443,1216 469,1212 493,1212 495,1218 530,1220 531,1214 568,1214 569,1221 581,1218 587,1218 598,1221 612,1215 624,1215 631,1219 644,1216 689,1217 698,1223 737,1224 749,1230 754,1219 766,1219 768,1227 777,1227 777,1219 789,1219 789,1225 825,1226 838,1220 844,1220 845,1226 876,1228 876,1221 887,1221 887,1227 897,1227 897,1237 869,1237 530,1230 519,1235 506,1235 506,1228 181,1220" />
+				<Baseline points="181,1220 597,1231 897,1237" />
+				<TextEquiv index="1">
+					<Unicode>bilde und verderbe; eine feingebildete Stadt könne alsdann in ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r11l19" points="181,1231 202,1231 203,1237 215,1237 215,1231 230,1231 230,1238 276,1238 333,1239 346,1240 346,1234 352,1234 370,1235 393,1241 408,1241 429,1242 435,1237 441,1237 442,1243 470,1243 478,1237 486,1237 503,1239 503,1257 492,1257 492,1246 478,1246 470,1254 458,1254 405,1253 353,1251 321,1250 299,1249 279,1249 215,1248 196,1247 181,1247" baseline="181,1246 268,1248 377,1251 478,1254 503,1255" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Abdera verwandelt werden. ³⁰)
+ | german_print2_15: Abdera verwandelt werden. 3³⁰)
+ -->
+			<TextLine id="r11l20" custom="readingOrder {index:20;}">
+				<Coords points="232,1258 239,1258 256,1259 256,1265 302,1263 314,1266 315,1259 327,1259 327,1266 351,1261 363,1261 364,1267 406,1262 429,1262 430,1269 478,1267 561,1272 563,1266 568,1266 569,1272 580,1272 590,1274 599,1271 629,1273 630,1281 657,1275 714,1276 714,1270 727,1270 728,1276 784,1276 784,1267 796,1267 825,1271 836,1277 895,1278 895,1288 854,1288 853,1294 841,1294 841,1288 796,1290 796,1298 784,1298 784,1287 630,1286 590,1283 232,1274" />
+				<Baseline points="232,1274 895,1289" />
+				<TextEquiv index="1">
+					<Unicode>Die stehenden Theater veranlassten, von der sorgfältigeren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l21" custom="readingOrder {index:21;}">
+				<Coords points="257,1285 269,1285 270,1293 305,1286 322,1286 324,1292 405,1288 405,1295 428,1295 448,1297 449,1290 461,1290 462,1296 489,1296 524,1292 541,1292 542,1298 553,1298 553,1292 565,1292 566,1300 594,1299 603,1294 626,1294 626,1300 647,1294 658,1294 660,1302 703,1296 720,1296 722,1303 734,1303 735,1297 747,1297 748,1304 782,1298 797,1298 823,1303 848,1299 882,1299 894,1303 894,1315 823,1318 804,1318 710,1312 520,1308 404,1311 404,1304 257,1301" />
+				<Baseline points="257,1301 574,1309 894,1315" />
+				<TextEquiv index="1">
+					<Unicode>der Kunst abgesehen, welche sich dem blöden Auge nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>grösseren Städten und endlich auch an den Fürstenhöfen entschied.
+Neben Leipzig und Hamburg, welche die Hauptstätten der Ent-
+wickelung blieben, bewiesen die Höfe von Wien, Schwerin, Gotha,
+Weimar und Mannheim dauernden Antheil.
+Man darf aber nicht glauben, dass dieser Sieg leicht und
+schnell und sogleich auf der ganzen Linie erfochten ward. Die
+zögernd folgte man den neuen Bahnen. Die stehenden Bühnen
+konnten an vielen Orten nur unter dem Schutze eines Monopols ge-
+deihen, welches einer Gesellschaft das ausschliessliche Recht
+theatralischer Aufführungen auf eine Stadt, eine Provinz, ein ganzes
+Land verlieh. Manche Kritiker meinten, dass dieses Monopol
+dem guten Geschmack und dem Fortgang der dramatischen Kunst
+schade, ja sogar den gänzlichen Verfall des Theaters nach sich
+ziehe. Der Eifer erkalte, weil kein Nebenbuhler da sei; der Ehr-
+geiz wünsche sich nur einen Stümper zum Rivalen, den man über-
+sehen könne; so bleibe der Pfuscher, welcher das Publikum nach
+und nach an seine Fehler gewöhne und den Geschmack einseitig
+bilde und verderbe; eine feingebildete Stadt könne alsdann in ein
+Die stehenden Theater veranlassten, von der sorgfältigeren
+der Kunst abgesehen, welche sich dem blöden Auge nicht</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r12">
+			<Coords points="788,910 837,910 837,924 788,924" />
+		</GraphicRegion>
+		<GraphicRegion id="r13">
+			<Coords points="743,936 769,936 769,940 743,940" />
+		</GraphicRegion>
+		<GraphicRegion id="r14">
+			<Coords points="639,1068 640,1068 640,1074 639,1074" />
+		</GraphicRegion>
+		<TextRegion id="r15" custom="readingOrder {index:15;} orientation {0;}">
+			<Coords points="178,1283 210,1283 210,1300 178,1300" />
+			<!-- line left out: id="r15l0" points="178,1283 204,1283 205,1291 210,1291 210,1300 193,1300 187,1299 178,1299" baseline="178,1299 210,1300" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Pfle
+ | german_print2_15: Pfle
+ -->
+		</TextRegion>
+		<GraphicRegion id="r16">
+			<Coords points="212,1290 238,1290 238,1306 212,1306" />
+		</GraphicRegion>
+		<TextRegion id="r17" custom="readingOrder {index:17;} orientation {0;}">
+			<Coords points="219,1339 433,1339 433,1364 219,1364" />
+			<!-- line left out: id="r17l0" points="219,1339 227,1339 239,1340 266,1341 290,1342 343,1343 370,1344 371,1355 388,1349 403,1346 414,1346 433,1346 433,1360 418,1364 398,1364 352,1358 343,1357 324,1357 239,1357 231,1357 227,1348 219,1348" baseline="219,1354 251,1354 388,1358 433,1360" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ³0) Goth. Th.-K. 1778.
+ | german_print2_15: ¹⁰⁹) Goth. Th.-K. 1778.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r18">
+			<Coords points="444,1344 530,1344 530,1370 444,1370" />
+		</GraphicRegion>
+		<TextRegion id="r19" custom="readingOrder {index:19;} orientation {0;}">
+			<Coords points="394,1539 649,1539 649,1567 394,1567" />
+			<!-- line left out: id="r19l0" points="394,1549 401,1549 408,1550 413,1552 422,1549 433,1549 443,1549 447,1550 453,1549 458,1539 481,1539 481,1549 524,1549 547,1549 618,1549 638,1549 644,1550 646,1557 649,1557 649,1558 566,1560 524,1561 484,1561 481,1567 458,1567 458,1558 443,1561 426,1561 413,1560 407,1560 394,1558" baseline="394,1558 649,1558" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hupe digſtal slub dresden de ppn 25964218
+ | german_print2_15: PGital sub dresdenm de ppna 40123964219
+ -->
+		</TextRegion>
+		<GraphicRegion id="r20">
+			<Coords points="946,0 988,0 988,1585 946,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+und Entbehrung, von Bewunderung und Mitleid zehrte an Körper
+und Geist. Sollte das Theater eine Schule der Sittlichkeit, sollte
+es die Hüterin der edelsten geistigen Schätze der Nation werden,
+so mussten seine Mitglieder aufhören Nomaden zu sein. Sie mussten
+sesshafte Mitglieder der bürgerlichen Gemeinschaft werden, um sich
+nicht mehr wie Zigeuner und Landstreicher behandelt zu sehen,
+sie mussten sich an die Schranken des staatlichen und häuslichen
+Lebens gewöhnen, um den Idealen reiner Sittlichkeit, deren Darstellung
+von ihnen verlangt wurde, sich anzunähern, sie mussten
+endlich durch längeres Verweilen an einem Orte zu besserer Wahl
+und gewissenhafterer Einübung der Stücke, zu Erweiterung des
+dürftigen Repertoirs genöthigt werden. Die Gründung einer Bühne
+nach diesen idealen Principien ward zuerst in Hamburg 1767 versucht;
+der Kaufmann Seyler war die Seele und der spätere Leiter
+des Unternehmens, Lessing Consulent und Dramaturg dieses ersten
+deutschen Nationaltheaters. Durch seine Dramaturgie vernichtete
+er die Autorität des französischen Geschmackes, während die Hamburger
+Schule unter Eckhof, in Abrundung des Ensembles und
+in feiner Charakteristik den Fremden mit Glück nachstrebend, den
+Sieg der deutschen Schauspieler über die französischen in den
+grösseren Städten und endlich auch an den Fürstenhöfen entschied.
+Neben Leipzig und Hamburg, welche die Hauptstätten der Entwickelung
+blieben, bewiesen die Höfe von Wien, Schwerin, Gotha,
+Weimar und Mannheim dauernden Antheil.
+Man darf aber nicht glauben, dass dieser Sieg leicht und
+schnell und sogleich auf der ganzen Linie erfochten ward. Die
+Theilnahme erwies sich ungleich und unbeständig, zagend und
+zögernd folgte man den neuen Bahnen. Die stehenden Bühnen
+konnten an vielen Orten nur unter dem Schutze eines Monopols gedeihen,
+welches einer Gesellschaft das ausschliessliche Recht
+theatralischer Aufführungen auf eine Stadt, eine Provinz, ein ganzes
+Land verlieh. Manche Kritiker meinten, dass dieses Monopol
+dem guten Geschmack und dem Fortgang der dramatischen Kunst
+schade, ja sogar den gänzlichen Verfall des Theaters nach sich
+ziehe. Der Eifer erkalte, weil kein Nebenbuhler da sei; der Ehrgeiz
+wünsche sich nur einen Stümper zum Rivalen, den man übersehen
+könne; so bleibe der Pfuscher, welcher das Publikum nach
+und nach an seine Fehler gewöhne und den Geschmack einseitig
+bilde und verderbe; eine feingebildete Stadt könne alsdann in ein
+Abdera verwandelt werden.⟦⟧
+Die stehenden Theater veranlassten, von der sorgfältigeren Pflege der Kunst abgesehen, welche sich dem blöden Auge nicht
+-->
+	</Page>
+</PcGts>

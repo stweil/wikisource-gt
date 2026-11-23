@@ -1,0 +1,416 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:27:18</Created>
+		<LastChange>2026-11-23T14:27:18</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/172 revision 4779402 of 2026-01-08T07:47:58Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0172.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro15597092941745702100" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="17" regionRef="r17" />
+				<RegionRefIndexed index="20" regionRef="r20" />
+				<RegionRefIndexed index="23" regionRef="r23" />
+				<RegionRefIndexed index="24" regionRef="r24" />
+				<RegionRefIndexed index="26" regionRef="r26" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="490,157 570,157 570,174 490,174" />
+			<!-- line left out: id="r0l0" points="490,161 542,157 556,157 570,159 570,174 545,174 542,174 505,162 490,162" baseline="490,167 504,167 570,168" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 164
+ | german_print2_15: — 164
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="194,197 913,197 913,465 194,465" />
+			<!-- line left out: id="r1l0" points="201,201 218,201 236,201 260,202 285,197 296,197 298,204 339,204 363,204 420,201 438,201 439,207 449,207 462,208 470,206 482,206 501,209 533,209 567,205 578,205 579,213 590,211 618,206 632,206 633,212 645,212 669,213 689,210 693,210 696,216 702,216 716,213 723,213 761,215 761,219 757,219 750,226 747,226 716,225 702,224 676,224 629,223 618,222 579,221 545,220 526,218 501,224 483,224 482,218 470,218 439,217 427,216 427,224 420,224 407,215 378,215 322,214 285,213 277,212 260,211 218,211 213,211 201,210" baseline="201,210 248,211 362,214 510,218 676,223 733,225 761,226" reason: differs: "niss" against "werd" | Wikisource:  | next_nc_e1: niss werde man am Sonntage vor dem Fraue nfeste (2 | german_print2_15: niss werde man am Sonntage vor dem Fraue nfeste (2. -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="200,221 215,221 217,227 235,227 243,222 247,222 250,228 258,228 258,221 270,221 270,236 285,229 337,224 337,231 346,231 348,224 370,224 370,231 394,231 394,225 402,225 404,234 441,227 465,227 469,234 498,233 517,235 560,236 584,231 604,231 605,239 644,240 659,233 670,233 676,242 692,240 711,240 711,250 685,250 662,250 659,250 615,247 517,250 499,250 498,244 356,243 337,240 217,241 210,236 200,236" />
+				<Baseline points="200,236 711,250" />
+				<TextEquiv index="1">
+					<Unicode>Vigilie, am folgenden Montag eine Messe lesen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="252,249 265,249 275,255 286,255 288,249 299,249 300,257 373,257 374,251 390,251 412,259 461,258 496,255 515,255 517,261 556,261 575,257 623,258 623,264 656,263 666,267 686,260 698,260 706,267 746,262 756,270 804,264 816,264 819,270 865,271 889,274 889,266 900,266 902,274 913,274 913,282 883,282 698,276 557,277 374,270 363,267 350,266 252,264" />
+				<Baseline points="252,264 913,282" />
+				<TextEquiv index="1">
+					<Unicode>Früher noch, am 5. Mai 1486, hatte der Generalvicar des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="198,275 231,274 242,274 244,281 287,279 290,275 305,275 307,282 339,283 340,276 351,276 353,285 362,285 382,277 405,279 434,279 442,285 475,288 477,280 482,280 483,286 524,289 526,282 576,283 577,292 616,284 630,284 637,291 672,293 698,298 705,287 710,287 720,293 732,293 732,287 744,287 744,294 756,289 766,289 774,295 784,295 784,287 796,287 796,296 854,291 855,299 866,299 868,292 879,292 879,298 913,299 913,309 868,308 855,306 854,313 845,313 825,307 816,307 807,300 805,307 796,308 784,308 769,305 754,308 732,308 720,303 663,301 662,307 650,307 650,301 526,298 509,296 405,295 210,290 198,286" />
+				<Baseline points="198,289 564,298 913,309" />
+				<TextEquiv index="1">
+					<Unicode>Ordens für die Brüder diesseit der Berge (Erzgebirge), Johann</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="198,305 264,301 268,301 269,307 285,302 294,302 296,308 320,308 321,316 347,315 353,303 364,303 366,312 458,306 459,314 508,312 521,312 531,314 567,309 585,309 661,320 673,318 708,317 719,313 727,313 731,319 755,320 823,317 830,323 846,323 849,317 859,317 860,325 877,325 878,318 891,318 892,326 912,324 912,335 846,337 830,337 823,332 771,331 755,329 731,330 661,327 395,321 364,319 321,320 285,318 269,317 264,304 257,314 231,316 198,315" />
+				<Baseline points="198,315 640,326 912,335" />
+				<TextEquiv index="1">
+					<Unicode>von Crohin, als im Chemnitzer Kloster ein Convent abgehalten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="197,332 231,332 241,327 253,327 254,335 285,336 287,328 299,328 300,336 364,333 374,330 385,330 454,332 456,339 465,339 465,332 478,332 486,333 498,338 506,345 512,340 535,335 547,335 547,341 558,341 559,335 570,335 571,341 584,336 601,336 601,342 637,344 639,337 648,337 650,343 740,343 751,340 760,340 761,346 822,346 888,351 888,344 902,344 904,353 912,353 912,361 884,361 663,353 444,349 385,345 254,344 197,342" />
+				<Baseline points="197,342 535,349 672,354 912,360" />
+				<TextEquiv index="1">
+					<Unicode>wurde, die in Gott geliebten Schuhknechte von Chemnitz in die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l6" points="197,352 210,352 212,359 239,359 239,353 253,353 253,360 274,360 283,362 286,354 291,354 293,360 310,360 312,354 323,354 343,361 354,361 366,362 369,356 376,356 376,363 414,363 460,364 472,367 473,359 491,359 491,352 534,352 560,361 578,361 580,368 620,363 625,363 625,369 663,369 699,365 710,365 712,371 722,371 729,373 742,372 752,372 753,380 779,376 788,374 799,374 841,372 852,370 856,370 869,375 878,370 889,370 890,376 901,376 911,377 911,388 903,388 878,386 857,385 847,384 808,385 800,385 757,383 753,383 742,382 699,381 650,380 620,379 580,378 560,377 534,384 491,384 473,379 391,377 375,377 366,372 355,372 312,371 275,370 262,369 215,369 197,368" baseline="197,368 343,371 491,375 620,378 756,382 911,387" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Bruderschaft aufgenommen *). Man könne ihnen, sagt Crohin, | german_print2_15: Bruderschaft aufgenommen *¹). Man könne ihnen, sagt Crohin, -->
+			<!-- line left out: id="r1l7" points="196,379 207,379 216,385 228,385 234,387 253,380 267,380 268,386 274,386 274,396 253,396 234,390 228,395 196,395" baseline="196,395 233,395 274,396" reason: differs: "ihreE" against "ie ⟦⟧" | Wikisource:  | next_nc_e1: ihre Er, | german_print2_15: ihre Er -->
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="196,414 205,411 216,411 236,406 248,406 249,412 262,407 267,407 268,413 294,413 294,420 325,414 336,414 354,408 359,408 361,415 440,416 466,412 494,412 502,418 586,414 589,420 602,415 612,415 615,422 695,417 713,423 724,423 751,419 772,419 773,428 795,426 801,420 806,420 852,421 853,429 886,429 887,422 898,422 900,429 911,429 911,439 900,439 440,426 385,428 294,425 281,423 236,422 218,415 216,421 205,421 196,419" />
+				<Baseline points="196,421 549,428 911,439" />
+				<TextEquiv index="1">
+					<Unicode>sie daher, so lange sie Schuster blieben und im Weichbilde der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="194,432 206,432 225,438 226,432 238,432 261,439 282,440 284,433 295,433 297,439 309,436 322,436 344,440 346,448 365,441 388,442 403,436 417,436 418,444 428,444 429,437 441,437 441,444 501,444 502,438 513,438 529,445 566,440 607,441 609,449 632,446 640,442 652,442 653,449 663,449 665,443 676,443 684,449 696,449 696,443 707,443 708,450 774,445 776,451 787,451 796,454 863,454 877,448 889,448 890,456 911,455 911,465 901,465 441,452 346,452 273,448 207,448 194,446" />
+				<Baseline points="194,447 566,455 911,465" />
+				<TextEquiv index="1">
+					<Unicode>Stadt wohnten, im Leben und im Tode theilnehmen lassen an den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Vigilie, am folgenden Montag eine Messe lesen.
+Früher noch, am 5. Mai 1486, hatte der Generalvicar des
+Ordens für die Brüder diesseit der Berge (Erzgebirge), Johann
+von Crohin, als im Chemnitzer Kloster ein Convent abgehalten
+wurde, die in Gott geliebten Schuhknechte von Chemnitz in die
+sie daher, so lange sie Schuster blieben und im Weichbilde der
+Stadt wohnten, im Leben und im Tode theilnehmen lassen an den</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="781,211 913,211 913,232 781,232" />
+			<!-- line left out: id="r2l0" points="781,211 794,211 811,212 813,218 826,218 866,218 904,221 913,222 913,230 904,231 866,232 852,232 828,229 813,228 781,227" baseline="781,226 865,230 876,230 913,231" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Februar) eine
+ | german_print2_15: Februar) eine
+ -->
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="764,223 767,223 767,226 764,226" />
+		</GraphicRegion>
+		<GraphicRegion id="r4">
+			<Coords points="354,231 364,231 364,236 354,236" />
+		</GraphicRegion>
+		<GraphicRegion id="r5">
+			<Coords points="458,259 597,259 597,273 458,273" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="426,338 449,338 449,350 426,350" />
+		</GraphicRegion>
+		<GraphicRegion id="r7">
+			<Coords points="282,387 286,387 286,392 282,392" />
+		</GraphicRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="289,381 912,381 912,413 289,413" />
+			<!-- line left out: id="r8l0" points="289,388 300,388 301,381 312,381 313,389 324,387 335,387 337,381 342,381 343,388 368,386 372,386 397,390 399,383 411,383 411,389 426,389 437,390 438,384 448,384 473,385 473,391 481,391 484,385 496,385 504,394 519,389 528,389 575,388 588,388 601,392 644,395 656,396 664,394 674,394 708,397 744,398 754,400 756,392 760,392 775,396 787,399 822,400 834,402 836,395 846,395 861,402 876,402 888,403 890,397 901,397 903,404 912,404 912,412 901,413 890,413 744,412 732,412 712,407 656,406 645,406 639,405 601,404 575,404 540,402 473,402 469,402 438,400 392,399 356,398 313,397 301,396 289,395" baseline="289,396 469,400 620,404 791,409 912,412" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ebenheit durch irdische Güter nicht vergelten und wolle
+ | german_print2_15: ebenheit durch irdische Güter nicht vergelten und wolle
+ -->
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="185,458 910,458 910,908 185,908" />
+			<TextLine id="r9l0" custom="readingOrder {index:0;}">
+				<Coords points="194,464 214,463 236,458 248,458 265,459 266,465 289,465 309,460 325,460 327,466 350,467 351,461 363,461 365,469 381,467 416,470 418,462 430,462 431,470 455,465 475,464 519,473 536,466 548,466 548,472 559,472 561,466 566,466 566,472 584,472 585,480 609,474 615,474 616,467 627,467 628,474 665,469 689,469 692,476 712,476 732,482 737,471 755,471 758,479 777,480 794,474 818,473 831,477 854,479 855,487 877,475 889,475 890,482 910,481 910,491 859,492 855,492 831,489 804,489 777,486 585,484 511,480 382,480 351,477 248,474 194,477" />
+				<Baseline points="194,473 640,483 910,491" />
+				<TextEquiv index="1">
+					<Unicode>göttlichen Gnaden, die Gottes Sohn, der Geber alles Guten, den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r9l1" points="194,484 219,484 226,491 236,491 245,485 259,485 267,489 291,491 292,499 312,486 323,486 325,495 337,493 362,490 370,488 389,488 390,494 411,494 447,495 491,496 492,490 503,490 529,491 537,498 552,498 567,492 573,492 590,493 591,499 602,499 603,493 615,493 616,501 628,500 647,500 685,501 686,495 697,495 715,503 721,503 721,496 733,496 733,502 763,498 775,498 792,498 793,505 803,505 803,514 782,514 749,513 732,513 715,512 661,511 616,510 575,509 537,508 517,507 468,506 437,505 411,504 382,505 370,505 347,502 337,502 323,501 296,505 292,505 280,502 236,501 221,501 194,500" baseline="194,500 312,501 362,502 468,505 502,506 646,510 696,511 803,514" reason: differs: "Schy" against "Schwest" | Wikisource:  | next_nc_e1: Minoriten, den Clarissen und den Brüdern und den Schy | german_print2_15: Minoriten, den Clarissen und den Brüdern und den Schvw -->
+			<TextLine id="r9l2" custom="readingOrder {index:2;}">
+				<Coords points="193,516 293,516 322,514 326,514 345,519 371,514 375,514 377,520 402,515 459,516 461,522 480,524 480,532 473,532 345,529 322,531 280,528 212,526 205,532 193,532" />
+				<Baseline points="193,526 480,532" />
+				<TextEquiv index="1">
+					<Unicode>poenitentia zuertheilt habe.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l3" custom="readingOrder {index:3;}">
+				<Coords points="245,538 284,538 286,546 292,546 298,539 309,539 310,547 340,539 383,539 407,547 480,543 481,549 504,549 506,543 516,543 519,550 547,551 553,545 565,545 567,552 613,546 617,546 626,552 652,547 663,547 665,553 682,553 692,548 707,548 725,554 752,555 756,549 767,549 775,556 808,557 825,556 886,558 888,552 901,552 901,560 908,560 908,571 901,571 888,569 808,565 536,565 519,560 245,553" />
+				<Baseline points="245,553 908,569" />
+				<TextEquiv index="1">
+					<Unicode>Welche Fülle von Gnadengaben hierdurch verheissen wurde,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l4" custom="readingOrder {index:4;}">
+				<Coords points="192,569 304,565 315,565 316,571 341,571 383,567 428,567 436,575 481,574 482,582 501,570 512,570 519,576 560,577 591,580 594,572 606,572 614,580 647,579 656,573 670,573 670,581 689,578 777,576 780,582 803,583 832,581 855,584 897,585 898,579 908,579 908,595 874,595 738,590 482,586 449,583 386,586 308,582 215,584 192,579" />
+				<Baseline points="192,578 908,595" />
+				<TextEquiv index="1">
+					<Unicode>mag man daraus schliessen, dass in dieser Zeit 2186 Minoriten- und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r9l5" points="191,592 202,590 212,590 219,596 239,596 281,597 284,591 301,591 311,599 325,596 332,596 379,594 403,594 407,600 414,594 431,594 457,601 495,596 505,596 581,597 582,604 620,599 631,599 639,606 654,606 672,599 693,599 695,607 707,607 708,600 717,600 739,603 755,602 765,602 785,608 796,608 818,609 823,603 833,603 834,611 846,610 856,610 879,611 881,605 893,605 899,611 907,611 907,621 881,621 846,620 801,619 785,618 725,617 717,616 677,616 672,603 654,615 631,615 620,615 582,614 403,613 369,613 332,608 325,608 301,607 271,607 239,606 212,606 202,606 191,604" baseline="191,605 457,610 504,611 672,615 874,620 907,621" reason: differs: "urdFürd" against "urden. " | Wikisource:  | next_nc_e1: Clarissenklöster gezählt wurd Für den Todesfall wurden den | german_print2_15: Clarissenklöster gezählt wurd Für den Todesfall wurden den -->
+			<TextLine id="r9l6" custom="readingOrder {index:6;}">
+				<Coords points="189,616 202,616 202,622 213,622 214,616 219,616 221,622 255,620 311,625 312,618 323,618 331,626 355,626 356,618 368,618 371,626 397,626 416,620 421,620 444,626 461,627 483,625 514,628 591,630 592,624 603,624 604,632 626,631 627,638 651,625 663,625 664,632 756,628 758,634 799,629 810,629 812,637 851,630 868,630 875,638 886,633 895,631 907,631 907,647 875,647 717,643 701,642 677,636 676,642 627,642 560,639 559,645 547,645 537,639 514,638 189,631" />
+				<Baseline points="189,631 907,647" />
+				<TextEquiv index="1">
+					<Unicode>Schustern dieselben Dienste versprochen, die wir bei den Neefe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l7" custom="readingOrder {index:7;}">
+				<Coords points="191,642 201,642 202,650 260,649 291,651 294,644 304,644 306,651 372,645 372,652 384,652 385,646 404,646 404,652 413,652 423,645 425,645 473,648 480,654 497,654 509,656 510,649 524,649 553,656 588,651 599,651 600,657 612,657 613,651 618,651 621,659 641,658 643,665 661,658 718,654 729,654 750,657 793,655 816,658 817,669 835,656 846,656 847,664 867,665 907,663 907,673 858,672 821,674 817,674 793,670 643,669 618,666 600,667 460,663 275,663 250,659 191,658" />
+				<Baseline points="191,657 907,673" />
+				<TextEquiv index="1">
+					<Unicode>kennen gelernt haben. Bemerkt ist dabei, man bitte Gott, dass er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r9l8" points="189,668 201,668 202,676 214,675 224,675 235,669 256,669 275,670 290,677 296,670 307,670 343,671 360,671 361,677 380,676 395,676 441,679 458,678 481,674 485,674 487,681 511,681 535,681 557,684 557,691 535,691 500,691 458,690 373,688 350,687 296,686 246,685 201,685 189,685" baseline="189,684 274,685 331,686 415,688 557,692" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: den Tod der Schuster weit hinaussc | german_print2_15: den Tod der Schuster weit hinausse -->
+			<TextLine id="r9l9" custom="readingOrder {index:9;}">
+				<Coords points="190,695 231,695 237,696 237,703 287,704 294,696 299,696 300,704 312,699 406,699 425,707 431,699 441,699 454,700 457,706 533,708 534,702 552,702 554,708 576,703 578,710 605,710 628,704 660,704 681,705 683,713 707,709 754,706 755,713 766,713 767,707 778,707 780,715 826,708 826,714 883,713 905,716 905,726 885,726 681,720 647,721 190,710" />
+				<Baseline points="190,710 905,725" />
+				<TextEquiv index="1">
+					<Unicode>Werke schaffen und dabei reichlichen Verdienst haben könnten.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r9l10" points="190,721 195,721 198,729 210,727 221,727 228,721 241,721 247,728 254,728 284,728 286,722 294,722 294,729 303,729 305,723 316,723 318,729 326,729 374,730 407,731 420,732 426,733 433,726 437,726 467,733 488,733 525,734 537,735 539,729 543,729 558,736 564,736 565,729 576,729 578,738 595,730 608,730 624,730 626,736 643,736 653,735 665,735 691,734 695,734 726,732 737,732 745,739 759,739 832,740 839,742 844,735 856,735 857,742 869,741 877,739 883,739 905,742 905,752 896,752 844,751 828,750 812,749 807,749 737,748 726,748 672,747 643,746 614,746 576,745 558,745 525,744 521,744 488,743 456,743 445,743 433,742 402,741 348,740 333,740 305,739 228,738 190,737" baseline="190,736 347,740 363,740 467,742 579,744 717,747 758,748 905,752" reason: differs: "denesic" against "en zuge" | Wikisource:  | next_nc_e1: Leider erfahren wir nicht, wie viel die Schuster für den esicherten | german_print2_15: Leider erfahren wir nicht, wie viel die Schuster für den esicherten -->
+			<!-- line left out: id="r9l11" points="188,748 203,748 230,748 232,755 245,754 255,754 257,748 261,748 275,755 297,755 314,749 325,749 333,756 371,751 383,751 393,757 403,757 404,751 415,751 417,760 428,758 453,755 463,753 477,753 490,757 537,755 542,755 544,761 575,756 587,756 627,756 629,763 639,763 640,757 652,757 654,763 686,763 686,773 666,773 593,772 575,772 544,771 504,770 490,769 463,769 438,768 428,768 383,767 371,767 326,766 275,765 188,764" baseline="188,763 260,764 314,765 537,770 686,773" reason: second model: differs: "Anth" against "erte" | Wikisource: Antheil an himmlischen Gütern bezahlt haben. | next_nc_e1: Antheil an himmlischen Gütern bezahlt haben.
+ | german_print2_15: Antheil an himmlischen Gütern bezahlt haben. -->
+			<!-- line left out: id="r9l12" points="361,783 372,783 390,777 394,777 394,786 409,784 442,784 460,785 503,786 523,780 535,780 536,787 547,787 569,782 581,782 581,788 630,788 667,785 671,785 723,790 732,793 740,784 744,784 746,793 757,785 768,785 769,793 802,793 804,785 815,785 823,793 844,786 868,786 868,793 880,788 890,788 892,794 903,794 903,803 857,803 844,802 823,795 815,801 797,801 768,800 740,800 631,799 581,798 569,797 549,790 547,796 493,796 460,795 372,797 361,797" baseline="361,792 459,794 645,798 903,803" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: g kennen wir die Summe, für welche die Tuch- | german_print2_15: ig kennen wir die Summe, für welche die Tuch- -->
+			<!-- line left out: id="r9l13" points="188,806 225,801 234,801 236,808 248,807 261,807 279,809 281,801 293,801 294,809 304,809 319,802 324,802 338,803 342,809 361,809 361,803 371,803 374,810 383,809 396,809 403,811 407,804 418,804 419,810 433,809 462,805 474,805 475,813 486,813 509,809 535,809 541,807 553,807 555,813 564,813 610,815 612,808 625,808 625,814 636,814 658,813 686,810 690,810 692,816 702,816 703,810 715,810 717,816 779,811 785,811 799,812 801,818 808,818 819,820 832,813 844,813 851,820 860,820 862,813 872,813 880,819 896,819 903,824 903,826 896,829 872,829 862,829 844,828 819,827 808,828 801,828 779,827 715,826 692,826 658,825 612,824 604,823 536,823 522,822 474,821 440,821 396,820 384,819 342,819 319,818 225,817 188,816" baseline="188,816 274,817 444,820 599,823 779,827 903,829" reason: differs: "abeIhre" against "aben. I" | Wikisource:  | next_nc_e1: macher die Bruderschaft des Ordens erkauft habe Ihre Seelen- | german_print2_15: macher die Bruderschaft des Ordens erkauft habe Ihre Seelen- -->
+			<TextLine id="r9l14" custom="readingOrder {index:14;}">
+				<Coords points="187,832 319,834 321,828 330,828 371,835 422,834 430,831 440,831 441,838 452,838 454,831 465,831 467,837 492,838 495,832 505,832 506,841 542,839 550,833 560,833 562,841 583,842 583,833 595,833 595,840 603,840 605,847 630,841 653,841 660,835 675,835 697,845 706,842 728,843 730,836 735,836 737,850 763,843 824,843 874,845 875,839 886,839 889,846 902,846 902,856 889,856 789,853 737,854 675,851 583,852 560,849 542,852 532,852 495,848 187,842" />
+				<Baseline points="187,842 902,855" />
+				<TextEquiv index="1">
+					<Unicode>messen wurden vierteljährlich gelesen, auch sind, was bei den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r9l15" points="185,853 198,853 198,860 204,860 210,853 214,853 216,859 244,857 250,857 271,859 318,860 329,861 330,855 341,855 348,858 367,864 379,862 399,862 408,857 420,857 422,863 433,861 446,861 492,864 499,858 509,858 529,865 536,859 546,859 548,865 556,865 566,868 582,860 603,860 604,866 615,866 627,867 651,867 652,874 679,862 694,862 696,868 706,868 718,870 720,862 729,862 766,869 777,869 790,870 791,864 802,864 841,865 842,872 854,871 867,871 873,872 885,873 887,866 897,866 897,882 887,882 841,881 834,881 802,880 779,880 656,879 652,879 627,877 616,877 582,876 556,875 509,877 499,877 492,874 478,874 446,873 422,873 383,872 379,872 330,871 272,870 198,869 185,867" baseline="185,868 367,871 529,874 679,877 728,878 824,880 897,882" reason: differs: "ndeundG" against "nder un" | Wikisource:  | next_nc_e1: Schustern nicht erwähnt wird, ihre Frauen, Kinde und Gesinde | german_print2_15: Schustern nicht erwähnt wird, ihre Frauen, Kinde und Gesinde -->
+			<TextLine id="r9l16" custom="readingOrder {index:16;}">
+				<Coords points="185,879 197,879 205,885 226,881 249,880 251,886 274,886 275,880 286,880 294,886 310,886 318,881 391,882 393,889 404,889 411,883 436,883 437,890 454,887 485,891 485,882 487,882 527,885 534,893 567,892 578,887 589,887 591,895 603,893 642,894 657,888 673,888 681,894 704,895 728,895 734,889 764,890 767,897 775,897 775,890 786,890 792,899 813,897 833,892 838,892 841,899 869,898 871,892 901,892 901,908 871,908 543,901 471,902 404,898 185,895" />
+				<Baseline points="185,895 361,897 486,901 558,901 901,908" />
+				<TextEquiv index="1">
+					<Unicode>der Gnadenmittel theilhaftig. Sie scheinen demnach besser bezahlt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>göttlichen Gnaden, die Gottes Sohn, der Geber alles Guten, den
+poenitentia zuertheilt habe.
+Welche Fülle von Gnadengaben hierdurch verheissen wurde,
+mag man daraus schliessen, dass in dieser Zeit 2186 Minoriten- und
+Schustern dieselben Dienste versprochen, die wir bei den Neefe
+kennen gelernt haben. Bemerkt ist dabei, man bitte Gott, dass er
+Werke schaffen und dabei reichlichen Verdienst haben könnten.
+messen wurden vierteljährlich gelesen, auch sind, was bei den
+der Gnadenmittel theilhaftig. Sie scheinen demnach besser bezahlt</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="836,501 909,501 909,517 836,517" />
+			<!-- line left out: id="r10l0" points="836,503 842,503 888,501 900,501 901,508 909,508 909,517 888,517 855,516 836,515" baseline="836,515 873,516 909,517" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: tern de
+ | german_print2_15: tern de
+ -->
+		</TextRegion>
+		<GraphicRegion id="r11">
+			<Coords points="805,505 832,505 832,515 805,515" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="379,599 534,599 534,612 379,612" />
+		</GraphicRegion>
+		<GraphicRegion id="r13">
+			<Coords points="566,677 568,677 568,692 566,692" />
+		</GraphicRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="572,677 900,677 900,704 572,704" />
+			<!-- line left out: id="r14l0" points="572,684 579,677 583,677 584,685 597,677 601,677 604,685 613,685 620,691 638,678 649,678 650,684 673,684 681,683 692,683 725,685 754,686 765,688 779,689 785,681 795,681 815,682 822,688 827,688 838,689 840,682 855,682 864,689 890,687 900,687 900,699 877,704 864,704 855,698 815,698 812,698 785,697 750,696 624,695 620,695 583,692 572,692" baseline="572,692 638,693 691,694 864,698 900,699" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: niebe, damit sie noch viele gute
+ | german_print2_15: niebe, damit sie noch viele gute
+ -->
+		</TextRegion>
+		<GraphicRegion id="r15">
+			<Coords points="773,739 805,739 805,749 773,749" />
+		</GraphicRegion>
+		<GraphicRegion id="r16">
+			<Coords points="343,782 363,782 363,792 343,792" />
+		</GraphicRegion>
+		<TextRegion id="r17" custom="readingOrder {index:17;} orientation {0;}">
+			<Coords points="242,774 339,774 339,791 242,791" />
+			<!-- line left out: id="r17l0" points="242,774 256,774 268,775 269,783 281,781 285,781 302,782 326,782 339,784 339,791 302,791 281,791 242,790" baseline="242,790 339,791" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Ebensowe
+ | german_print2_15: Ebensowe
+ -->
+		</TextRegion>
+		<GraphicRegion id="r18">
+			<Coords points="729,812 753,812 753,830 729,830" />
+		</GraphicRegion>
+		<GraphicRegion id="r19">
+			<Coords points="735,865 745,865 745,882 735,882" />
+		</GraphicRegion>
+		<TextRegion id="r20" custom="readingOrder {index:20;} orientation {0;}">
+			<Coords points="177,906 902,906 902,1224 177,1224" />
+			<TextLine id="r20l0" custom="readingOrder {index:0;}">
+				<Coords points="184,912 220,906 225,906 227,912 244,912 245,906 250,906 253,913 280,912 296,919 301,907 313,907 315,916 346,915 346,908 358,908 359,916 369,916 392,921 393,909 416,909 424,916 446,914 546,912 546,918 696,920 706,915 717,915 719,921 741,921 760,924 774,924 802,917 826,917 832,923 843,925 849,918 867,919 880,924 882,918 893,918 895,927 902,927 902,932 893,934 813,937 802,937 769,932 650,930 543,934 529,933 506,928 458,926 393,927 313,923 184,922" />
+				<Baseline points="184,921 902,934" />
+				<TextEquiv index="1">
+					<Unicode>zu haben als die Schuster. Aufgenommen wurden sie gleichfalls</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r20l1" custom="readingOrder {index:1;}">
+				<Coords points="185,932 189,932 191,945 210,932 218,932 221,945 240,938 259,935 270,935 277,938 287,939 287,949 259,947 257,953 252,953 221,948 218,954 210,954 194,948 185,948" />
+				<Baseline points="185,948 240,947 287,949" />
+				<TextEquiv index="1">
+					<Unicode>i. J. 1486.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r20l2" custom="readingOrder {index:2;}">
+				<Coords points="237,959 250,959 251,967 272,965 296,966 298,959 302,959 304,965 322,960 327,960 328,967 349,961 361,961 362,968 381,967 401,961 408,961 409,970 427,968 457,968 465,970 468,963 478,963 480,969 522,965 560,965 579,971 646,972 683,972 738,968 760,968 768,974 788,974 794,977 801,969 845,970 848,976 897,977 897,986 895,986 683,982 522,981 457,978 284,980 237,974" />
+				<Baseline points="237,974 897,985" />
+				<TextEquiv index="1">
+					<Unicode>Bezüglich der Leinweber sind wir in einer Hinsicht besser</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r20l3" custom="readingOrder {index:3;}">
+				<Coords points="183,990 258,986 268,986 302,986 308,986 361,987 363,993 394,988 404,988 413,994 487,996 489,990 500,990 510,997 520,997 539,991 545,991 546,999 581,995 625,998 670,995 711,1001 734,1000 743,1003 761,994 788,994 811,999 875,1004 882,997 899,1001 899,1013 888,1013 825,1012 817,1009 811,1011 690,1009 613,1012 589,1008 570,1007 183,1000" />
+				<Baseline points="183,1000 899,1012" />
+				<TextEquiv index="1">
+					<Unicode>unterrichtet. Wir kennen ihre Leistungen für das Kloster, nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r20l4" custom="readingOrder {index:4;}">
+				<Coords points="182,1017 193,1017 195,1011 200,1011 201,1017 227,1017 247,1019 247,1012 260,1012 260,1019 295,1018 330,1013 342,1013 348,1020 368,1019 386,1014 396,1014 399,1020 434,1019 490,1022 490,1013 492,1013 532,1017 533,1023 587,1024 589,1018 593,1018 595,1024 622,1024 635,1018 642,1018 643,1026 653,1026 655,1018 660,1018 661,1024 681,1019 684,1025 696,1020 706,1020 708,1026 801,1021 805,1029 816,1028 823,1025 879,1023 885,1023 897,1028 897,1039 643,1034 642,1040 635,1040 622,1034 587,1034 576,1036 451,1035 409,1030 365,1034 348,1034 342,1028 240,1028 182,1026" />
+				<Baseline points="182,1026 897,1039" />
+				<TextEquiv index="1">
+					<Unicode>aber dessen Gegenleistungen. Sie gaben jährlich im Advent 1 Gr.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r20l5" custom="readingOrder {index:5;}">
+				<Coords points="181,1040 207,1037 215,1037 233,1037 273,1044 284,1038 297,1038 304,1044 316,1039 327,1039 346,1046 347,1053 365,1046 403,1041 415,1041 416,1047 460,1045 484,1048 542,1049 542,1043 553,1043 575,1044 576,1050 603,1050 618,1044 623,1044 642,1045 649,1051 658,1051 661,1045 671,1045 681,1051 710,1052 710,1044 722,1044 722,1051 823,1048 825,1054 858,1056 865,1049 876,1049 877,1056 897,1055 897,1065 876,1065 865,1065 844,1063 825,1064 731,1062 722,1064 699,1064 690,1061 507,1059 484,1057 484,1063 471,1063 471,1057 441,1058 394,1056 347,1059 335,1056 181,1053" />
+				<Baseline points="181,1053 897,1065" />
+				<TextEquiv index="1">
+					<Unicode>6 Pf. für Lichte, am Sonntage nach dem Dreikönigsfeste 18 Groschen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r20l6" custom="readingOrder {index:6;}">
+				<Coords points="182,1062 191,1062 191,1069 220,1064 239,1063 241,1071 278,1070 279,1064 290,1064 291,1078 306,1071 345,1066 357,1066 357,1073 405,1073 407,1067 412,1067 414,1073 441,1073 443,1067 454,1067 464,1073 499,1074 499,1068 547,1069 548,1076 619,1075 659,1071 662,1077 705,1072 731,1072 733,1086 752,1079 791,1074 803,1074 803,1081 852,1075 863,1075 864,1082 887,1081 888,1075 897,1075 897,1091 839,1091 803,1089 733,1090 662,1087 643,1084 634,1092 625,1092 624,1086 536,1085 528,1091 519,1091 510,1084 291,1083 258,1080 182,1079" />
+				<Baseline points="182,1079 897,1091" />
+				<TextEquiv index="1">
+					<Unicode>für Fleisch, am Sonnabend nach Johannis 17 Gr. 6 Pf., am Sonnabend</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r20l7" points="180,1095 215,1090 252,1090 253,1097 264,1096 297,1091 312,1091 312,1099 324,1095 338,1095 355,1095 366,1098 379,1099 403,1098 413,1098 440,1096 451,1094 466,1094 466,1100 478,1100 498,1100 499,1094 510,1094 521,1094 547,1102 586,1102 601,1096 614,1096 615,1102 626,1102 638,1103 655,1103 702,1104 712,1106 715,1111 715,1114 702,1114 674,1117 663,1117 638,1115 626,1115 614,1112 547,1112 510,1111 499,1111 466,1110 451,1110 426,1109 379,1111 302,1111 297,1111 264,1107 215,1106 180,1105" baseline="180,1105 280,1106 388,1108 715,1114" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: nach dem Veitstage 20 Groschen zum Begängniss.
+ | german_print2_15: nach dem Veitstage 20 Groschen zum Begängniss.
+ -->
+			<TextLine id="r20l8" custom="readingOrder {index:8;}">
+				<Coords points="231,1117 247,1117 282,1117 303,1125 309,1125 310,1117 322,1117 323,1125 333,1125 354,1118 369,1118 370,1124 391,1119 407,1119 414,1126 429,1126 429,1120 440,1120 441,1126 453,1123 466,1123 476,1126 517,1122 550,1122 563,1126 595,1128 595,1122 629,1123 630,1129 679,1124 706,1124 710,1132 724,1129 768,1126 784,1126 785,1132 796,1132 798,1126 809,1126 810,1133 832,1132 834,1140 868,1128 881,1128 890,1133 890,1143 873,1143 868,1143 809,1141 785,1142 630,1139 354,1137 231,1132" />
+				<Baseline points="231,1132 890,1143" />
+				<TextEquiv index="1">
+					<Unicode>Auch die Bruchschützen stifteten dem Kloster Gaben. Sie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r20l9" custom="readingOrder {index:9;}">
+				<Coords points="178,1149 187,1147 198,1147 199,1141 210,1141 211,1149 223,1148 229,1142 247,1142 255,1146 301,1149 302,1156 322,1144 340,1144 373,1149 440,1151 484,1147 528,1147 529,1153 579,1154 590,1148 627,1149 629,1158 638,1157 649,1150 660,1150 661,1163 681,1155 744,1156 780,1152 795,1152 803,1159 817,1158 828,1153 839,1153 847,1159 895,1159 895,1169 734,1167 717,1165 701,1157 697,1171 688,1171 649,1166 604,1164 458,1162 364,1165 322,1160 178,1156" />
+				<Baseline points="178,1157 895,1170" />
+				<TextEquiv index="1">
+					<Unicode>schenkten z. B. 1513 einen Gulden zu Fleisch, 1530 20 Groschen zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r20l10" custom="readingOrder {index:10;}">
+				<Coords points="179,1167 198,1167 216,1168 217,1175 232,1176 238,1169 249,1169 250,1182 277,1174 342,1175 392,1171 394,1177 433,1178 434,1172 445,1172 446,1180 458,1178 532,1174 556,1174 559,1180 568,1180 578,1175 605,1174 628,1181 692,1177 696,1185 720,1185 727,1177 738,1177 740,1185 752,1183 822,1179 835,1179 836,1185 861,1185 862,1179 872,1179 874,1187 894,1186 894,1195 872,1195 850,1195 836,1195 637,1191 596,1192 568,1190 532,1192 489,1189 406,1187 355,1187 284,1190 179,1183" />
+				<Baseline points="179,1183 375,1185 894,1195" />
+				<TextEquiv index="1">
+					<Unicode>Fleisch, 1531 20 Groschen zu Fleisch, 20 Groschen zu Fischen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r20l11" custom="readingOrder {index:11;}">
+				<Coords points="177,1199 188,1199 190,1207 204,1207 204,1193 227,1193 234,1201 245,1201 250,1208 288,1209 288,1197 298,1197 311,1202 349,1203 350,1197 362,1197 370,1203 415,1198 417,1204 444,1205 508,1206 562,1201 572,1201 591,1207 666,1207 761,1204 762,1213 774,1204 785,1204 785,1211 807,1209 837,1211 859,1209 893,1214 893,1220 884,1224 873,1224 761,1218 752,1218 752,1224 749,1224 650,1222 643,1218 475,1214 282,1212 234,1210 227,1223 204,1223 204,1210 177,1209" />
+				<Baseline points="177,1209 893,1222" />
+				<TextEquiv index="1">
+					<Unicode>u. s. w. Ausserdem liessen sie sich seit 1514 am Sebastianstage</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>zu haben als die Schuster. Aufgenommen wurden sie gleichfalls
+i. J. 1486.
+Bezüglich der Leinweber sind wir in einer Hinsicht besser
+unterrichtet. Wir kennen ihre Leistungen für das Kloster, nicht
+aber dessen Gegenleistungen. Sie gaben jährlich im Advent 1 Gr.
+6 Pf. für Lichte, am Sonntage nach dem Dreikönigsfeste 18 Groschen
+für Fleisch, am Sonnabend nach Johannis 17 Gr. 6 Pf., am Sonnabend
+Auch die Bruchschützen stifteten dem Kloster Gaben. Sie
+schenkten z. B. 1513 einen Gulden zu Fleisch, 1530 20 Groschen zu
+Fleisch, 1531 20 Groschen zu Fleisch, 20 Groschen zu Fischen
+u. s. w. Ausserdem liessen sie sich seit 1514 am Sebastianstage</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r21">
+			<Coords points="523,1095 525,1095 525,1111 523,1111" />
+		</GraphicRegion>
+		<GraphicRegion id="r22">
+			<Coords points="701,1161 715,1161 715,1169 701,1169" />
+		</GraphicRegion>
+		<TextRegion id="r23" custom="readingOrder {index:23;} orientation {0;}">
+			<Coords points="220,1302 423,1302 423,1320 220,1320" />
+			<!-- line left out: id="r23l0" points="220,1302 235,1302 254,1303 282,1303 284,1314 300,1304 304,1304 307,1310 316,1310 316,1304 325,1304 344,1305 353,1306 371,1305 381,1305 388,1308 420,1307 423,1307 423,1320 420,1320 356,1319 339,1318 284,1317 265,1316 258,1307 254,1315 235,1319 220,1319" baseline="220,1314 401,1319 423,1320" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ) Urk. bei Richter I
+ | german_print2_15: *²) Urk. bei Richter I
+ -->
+		</TextRegion>
+		<TextRegion id="r24" custom="readingOrder {index:24;} orientation {0;}">
+			<Coords points="216,1327 397,1327 397,1350 216,1350" />
+			<!-- line left out: id="r24l0" points="216,1327 235,1327 263,1329 290,1329 306,1333 328,1331 333,1331 355,1336 397,1336 397,1349 385,1349 379,1345 373,1344 355,1350 346,1350 333,1344 235,1346 216,1346" baseline="216,1342 248,1342 332,1343 373,1344 397,1345" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ) Richter I p. 97.
+ | german_print2_15: *²*) Richter I p. 97.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r25">
+			<Coords points="434,1310 483,1310 483,1329 434,1329" />
+		</GraphicRegion>
+		<TextRegion id="r26" custom="readingOrder {index:26;} orientation {0;}">
+			<Coords points="394,1539 657,1539 657,1567 394,1567" />
+			<!-- line left out: id="r26l0" points="394,1549 402,1549 434,1549 443,1549 456,1549 469,1549 474,1539 482,1539 482,1549 493,1549 552,1549 619,1549 638,1549 657,1550 657,1558 619,1560 566,1560 544,1560 493,1558 482,1558 482,1567 474,1567 474,1558 452,1560 443,1560 415,1560 400,1560 394,1558" baseline="394,1558 657,1558" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hpdigital slub-d Gelppn3012596842172
+ | german_print2_15: tp liital slub- ppnS1239642172
+ -->
+		</TextRegion>
+		<GraphicRegion id="r27">
+			<Coords points="938,0 978,0 978,1585 938,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+werde man am Sonntage vor dem Frauenfeste (2. Februar) eine
+Vigilie, am folgenden Montag eine Messe lesen.
+Früher noch, am 5. Mai 1486, hatte der Generalvicar des
+Ordens für die Brüder diesseit der Berge (Erzgebirge), Johann
+von Crohin, als im Chemnitzer Kloster ein Convent abgehalten
+wurde, die in Gott geliebten Schuhknechte von Chemnitz in die
+Bruderschaft aufgenommen⟦⟧. Man könne ihnen, sagt Crohin,
+ihre Ergebenheit durch irdische Güter nicht vergelten und wolle
+sie daher, so lange sie Schuster blieben und im Weichbilde der
+Stadt wohnten, im Leben und im Tode theilnehmen lassen an den
+göttlichen Gnaden, die Gottes Sohn, der Geber alles Guten, den
+Minoriten, den Clarissen und den Brüdern und den Schwestern de
+poenitentia zuertheilt habe.
+Welche Fülle von Gnadengaben hierdurch verheissen wurde,
+mag man daraus schliessen, dass in dieser Zeit 2186 Minoriten- und
+Clarissenklöster gezählt wurden. Für den Todesfall wurden den
+Schustern dieselben Dienste versprochen, die wir bei den Neefe
+kennen gelernt haben. Bemerkt ist dabei, man bitte Gott, dass er
+den Tod der Schuster weit hinausschiebe, damit sie noch viele gute
+Werke schaffen und dabei reichlichen Verdienst haben könnten.
+Leider erfahren wir nicht, wie viel die Schuster für den zugesicherten
+Antheil an himmlischen Gütern bezahlt haben.
+Ebensowenig kennen wir die Summe, für welche die
+Tuchmacher die Bruderschaft des Ordens erkauft haben. Ihre
+Seelenmessen wurden vierteljährlich gelesen, auch sind, was bei den
+Schustern nicht erwähnt wird, ihre Frauen, Kinder und Gesinde
+der Gnadenmittel theilhaftig. Sie scheinen demnach besser bezahlt
+zu haben als die Schuster. Aufgenommen wurden sie gleichfalls
+i. J. 1486.
+Bezüglich der Leinweber sind wir in einer Hinsicht besser
+unterrichtet. Wir kennen ihre Leistungen für das Kloster, nicht
+aber dessen Gegenleistungen. Sie gaben jährlich im Advent 1 Gr.
+6 Pf. für Lichte, am Sonntage nach dem Dreikönigsfeste 18 Groschen
+für Fleisch, am Sonnabend nach Johannis 17 Gr. 6 Pf., am Sonnabend
+nach dem Veitstage 20 Groschen zum Begängniss.⟦⟧
+Auch die Bruchschützen stifteten dem Kloster Gaben. Sie
+schenkten z. B. 1513 einen Gulden zu Fleisch, 1530 20 Groschen zu
+Fleisch, 1531 20 Groschen zu Fleisch, 20 Groschen zu Fischen
+u. s. w. Ausserdem liessen sie sich seit 1514 am Sebastianstage
+-->
+	</Page>
+</PcGts>

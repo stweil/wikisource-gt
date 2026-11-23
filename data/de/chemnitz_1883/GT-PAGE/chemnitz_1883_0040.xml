@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:46:37</Created>
+		<LastChange>2026-11-23T13:46:37</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/40 revision 5014239 of 2026-08-18T06:43:17Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0040.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro15617484238608231032" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="559,151 581,151 581,166 559,166" />
+			<!-- line left out: id="r0l0" points="559,151 570,151 581,154 581,164 570,166 559,166" baseline="559,164 581,164" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 30
+ | german_print2_15: 30
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="231,204 919,204 919,795 231,795" />
+			<!-- line left out: id="r1l0" points="340,204 355,204 359,210 385,210 397,212 400,204 412,204 415,210 439,210 452,211 475,205 501,205 503,219 533,212 538,212 584,213 586,207 596,207 619,213 625,213 628,221 666,209 672,209 679,210 709,216 720,216 753,218 761,212 770,212 808,218 812,218 824,219 824,229 817,229 808,227 770,226 746,226 715,226 684,225 672,224 666,224 596,223 538,226 533,226 452,223 442,223 385,221 374,221 340,219" baseline="340,219 451,220 630,223 794,226 824,227" reason: second model: differs: "unds.Br" against "nd 5. B" | Wikisource: Augsburg Bd. 4 und 5. Braunschweig | next_nc_e1: Augsburg Bd. 4 und 5. Braunschwe ig | german_print2_15: Augsburg Bd. 4 und s. Braunschwe ig -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="340,229 358,229 363,235 388,236 398,230 427,231 429,237 474,237 488,231 518,232 538,237 540,245 564,237 585,237 636,242 640,235 651,235 655,241 691,242 706,236 736,236 770,243 794,238 802,238 802,252 792,253 770,253 736,251 611,249 529,252 493,247 474,249 453,249 443,247 377,248 340,245" />
+				<Baseline points="340,245 529,247 802,253" />
+				<TextEquiv index="1">
+					<Unicode>Magdeburg Bd. 7. Strassburg Bd. 8 und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l2" points="340,255 353,255 365,256 367,269 386,261 422,261 447,262 449,270 481,257 496,257 498,263 528,259 532,259 535,266 545,264 566,264 572,265 586,266 593,259 598,259 620,259 620,266 626,266 643,260 676,260 676,268 684,268 687,261 691,261 707,266 719,269 727,262 737,262 741,270 750,270 765,262 770,262 788,263 812,271 819,268 825,268 828,277 830,277 830,279 815,279 812,279 784,278 770,277 737,277 719,277 676,277 652,277 643,267 626,275 606,275 572,274 447,276 422,276 406,276 386,272 340,271" baseline="340,271 386,271 528,273 765,277 830,279" reason: differs: "Bd.1" against "9. K" | Wikisource:  | next_nc_e1: Bd. 12—14. Die bairischen Landstädte Bd. 15. | german_print2_15: Bd. 12— 14. Die bairischen Landstädte Bd. 15. -->
+			<!-- line left out: id="r1l3" points="231,283 236,283 287,281 297,281 307,287 330,287 356,284 364,284 364,295 383,283 397,283 412,288 419,291 427,283 437,283 442,290 457,289 467,289 507,284 520,284 527,290 542,288 548,288 572,290 580,285 588,285 609,295 615,292 646,291 682,287 701,287 707,296 714,294 723,293 732,293 751,294 765,288 773,287 785,287 785,293 796,293 798,302 816,297 828,296 836,296 836,305 801,305 785,305 773,305 751,303 701,305 689,305 682,304 609,301 572,300 542,300 478,299 467,298 437,298 412,298 363,298 340,297 297,296 264,297 236,297 231,297" baseline="231,295 263,295 587,300 648,301 816,304 836,305" reason: differs: "100." against "⟦⟧ |" | Wikisource:  | next_nc_e1: 100. Laurent, Aachener Zustände im 14. Jahrhundert, au | german_print2_15: 100. Laurent, Aachener Zustände im 14. jahrhundert, au -->
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="339,313 396,308 401,308 414,309 426,314 427,308 439,308 449,314 630,317 659,322 662,312 671,312 679,319 711,316 735,318 773,318 787,325 795,317 846,316 855,316 857,322 880,322 888,316 897,316 905,323 913,323 913,332 905,332 779,329 715,332 711,332 662,328 608,326 528,326 456,324 396,326 339,322" />
+				<Baseline points="339,322 913,332" />
+				<TextEquiv index="1">
+					<Unicode>von Stadtrechnungen nach den Stadtarchivurkunden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="339,335 352,335 370,340 377,334 382,334 383,341 426,339 432,336 443,336 469,343 469,350 453,355 443,355 443,348 430,350 339,349" />
+				<Baseline points="339,349 469,350" />
+				<TextEquiv index="1">
+					<Unicode>Aachen 1876.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="285,361 296,360 303,360 327,360 357,360 406,360 409,366 422,366 430,374 453,364 464,361 474,361 482,367 623,367 641,370 650,364 660,364 677,370 701,365 710,365 726,374 733,365 801,369 826,369 826,375 847,366 858,366 867,380 878,373 892,376 895,368 904,368 904,382 881,382 867,382 782,381 773,378 741,380 701,380 689,373 687,379 625,378 612,374 594,371 585,377 365,377 348,375 348,381 332,381 332,375 285,375" />
+				<Baseline points="285,375 596,377 904,382" />
+				<TextEquiv index="1">
+					<Unicode>Schlöpke, Chr., Chronicon der Stadt und des Stiftes Barde</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="422,386 435,386 436,393 446,393 448,387 453,387 456,394 475,395 477,387 492,387 511,392 550,397 550,408 541,408 532,401 522,408 513,408 506,403 453,401 422,402" />
+				<Baseline points="422,402 550,403" />
+				<TextEquiv index="1">
+					<Unicode>Lübeck 1704.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l8" points="285,411 295,411 305,417 318,417 350,417 405,415 417,415 443,418 455,419 478,421 502,420 558,420 571,421 584,420 594,420 626,421 653,420 656,420 679,422 705,425 713,417 722,417 726,423 734,423 734,417 748,417 748,425 755,425 763,417 766,417 769,423 779,423 785,424 799,422 808,422 876,425 876,433 874,433 808,432 779,432 748,432 734,432 705,430 679,430 639,430 616,430 594,429 571,429 502,429 455,428 418,428 405,427 381,433 373,433 373,426 350,429 333,431 317,431 295,427 285,427" baseline="285,426 394,427 496,428 678,430 876,433" reason: differs: "Lang" against "⟦⟧ |" | Wikisource:  | next_nc_e1: Lange, eyn Sermon vonn menschlicher schwachheit wie er | german_print2_15: Lange, eyn Sermon vonn menschlicher schwachheit wie er -->
+			<!-- line left out: id="r1l9" points="337,446 347,443 364,438 374,438 388,444 406,444 418,439 429,439 436,443 466,445 495,445 561,446 564,440 579,440 598,443 604,449 609,449 621,451 623,445 635,445 652,449 683,449 725,450 853,448 864,448 898,448 913,452 913,457 898,459 885,460 864,460 853,460 847,459 702,457 635,456 623,456 609,455 579,455 531,456 521,456 482,455 466,453 436,454 406,454 388,454 357,453 347,453 337,451" baseline="337,453 388,453 593,455 742,457 913,460" reason: differs: "sich" against "r au" | Wikisource:  | next_nc_e1: sich nichts vormag und Gott ynn allen anruffer | german_print2_15: sich nichts vormag und Gott ynn allen anruffen -->
+			<!-- line left out: id="r1l10" points="337,472 345,470 357,470 359,464 417,464 422,470 434,469 438,469 532,470 532,483 526,485 508,485 500,485 492,481 405,480 359,479 337,477" baseline="337,478 474,480 532,481" reason: differs: "soll" against "uffe" | Wikisource:  | next_nc_e1: soll. Erfurt 1523. | german_print2_15: soll. Erfurt 18523. -->
+			<!-- line left out: id="r1l11" points="283,490 307,490 307,496 314,496 322,500 328,490 336,490 346,495 367,495 371,503 394,492 405,491 416,491 418,498 431,498 443,491 454,491 461,496 472,497 473,491 484,491 497,496 523,492 534,492 536,500 548,498 573,497 591,497 616,497 646,493 655,493 662,499 666,499 697,499 713,504 719,498 722,498 737,500 737,509 729,509 713,508 586,508 534,507 523,507 499,501 497,507 473,507 461,506 443,506 416,505 376,508 371,508 322,506 299,506 283,506" baseline="283,505 394,505 501,506 737,509" reason: differs: "Kirc" against "⟦⟧ |" | Wikisource:  | next_nc_e1: Kirchner, Geschichte der Stadt Frankfu | german_print2_15: Kirchner, Geschichte der Stadt Frankfu -->
+			<!-- line left out: id="r1l12" points="338,515 359,515 360,522 382,522 385,515 402,515 412,520 431,521 456,523 458,530 477,517 501,517 534,519 577,519 602,523 609,524 622,527 622,532 609,534 605,534 589,533 577,538 544,538 539,532 521,533 489,533 461,532 385,532 338,531" baseline="338,531 500,532 622,534" reason: second model: differs: "Fran" against ". II" | Wikisource: Frankfurt a. M. 1807–1810 | next_nc_e1: Frankfurt a. M. 1807–1810 | german_print2_15: Frankfurt a. M. 1807 — 1810 -->
+			<!-- line left out: id="r1l13" points="283,542 302,542 324,545 349,548 363,542 368,542 381,543 383,549 396,549 408,543 413,543 428,548 445,549 447,543 459,543 460,549 494,549 511,552 515,544 524,544 532,550 553,548 564,548 570,549 582,551 591,547 619,545 623,545 660,545 660,552 671,549 682,549 710,550 710,560 682,560 591,560 582,559 535,559 494,561 484,561 472,559 445,558 428,558 408,558 397,557 381,556 368,557 349,558 324,558 309,558 283,557" baseline="283,557 363,557 600,559 710,560" reason: differs: "Batt" against ". ⟦⟧" | Wikisource:  | next_nc_e1: Batton, Beschreibung der Stadt Frankfurt | german_print2_15: Batton, Beschreibung der Stadt Frankfurt -->
+			<!-- line left out: id="r1l14" points="338,567 359,567 359,574 376,574 378,568 389,568 402,571 464,572 517,572 530,574 532,586 534,586 534,590 532,590 530,584 517,584 517,590 489,590 483,584 451,584 378,584 338,583" baseline="338,583 447,584 534,585" reason: second model: differs: "Fran" against "1–7." | Wikisource: Frankfurt 1861–187 | next_nc_e1: Frankfurt 1861–187 | german_print2_15: Frankfurt 1861 — 187 -->
+			<!-- line left out: id="r1l15" points="284,596 292,594 302,594 315,600 348,599 357,599 369,600 369,607 394,594 408,594 410,601 427,601 444,599 449,599 491,601 493,595 503,595 527,596 528,602 556,602 564,601 577,596 591,596 600,603 603,603 634,604 661,597 665,597 674,603 678,603 708,598 711,598 724,602 752,602 781,607 787,611 804,599 819,599 823,612 847,609 863,606 903,606 911,612 913,612 913,617 911,617 868,615 851,613 826,614 804,614 728,613 577,612 491,611 373,614 369,614 292,609 284,608" baseline="284,609 372,609 502,610 602,611 786,613 876,615 913,616" reason: differs: "Gwwi" against "5. ⟦" | Wikisource:  | next_nc_e1: Gwwinner, Kunst und Künstler in Frankfurt a. M. vom 13 | german_print2_15: Gwinner, Kunst und Künstler in Frankfurt a. M. vom 13. -->
+			<!-- line left out: id="r1l16" points="335,619 343,619 345,625 358,620 362,620 364,626 378,626 379,620 384,620 386,627 395,627 411,621 415,621 418,627 428,627 480,627 496,621 501,621 505,628 515,628 527,626 543,626 552,634 558,628 581,628 590,630 612,623 622,623 629,632 649,627 660,627 664,622 678,622 715,622 725,632 737,624 746,624 748,631 759,630 768,630 781,624 790,624 790,631 819,631 831,629 835,629 848,631 858,624 868,624 868,630 884,630 902,631 902,624 913,624 917,639 919,639 919,641 888,641 877,640 868,641 858,641 819,640 803,640 759,639 746,638 713,639 678,639 664,639 622,638 590,639 582,639 537,637 527,637 515,636 428,636 364,636 345,635 343,641 335,641" baseline="335,635 451,635 781,639 919,641" reason: differs: "Jahr" against "m 13" | Wikisource:  | next_nc_e1: Jahrh. bis zur Eröffnung des Städel’'schen Kunstinstituts. | german_print2_15: Jahrh. bis zur Eröffnung des Städel'schen Kunstinstituts. -->
+			<TextLine id="r1l17" custom="readingOrder {index:17;}">
+				<Coords points="337,645 346,645 351,652 379,652 379,645 403,645 410,652 430,650 455,653 458,660 478,647 501,647 518,653 525,651 561,652 561,663 544,663 337,661" />
+				<Baseline points="337,661 561,663" />
+				<TextEquiv index="1">
+					<Unicode>Frankfurt a. M. 1862.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l18" points="285,671 311,671 312,677 322,677 330,674 343,674 353,677 378,674 389,673 400,673 407,680 419,680 427,673 430,673 443,678 456,673 461,673 474,677 505,682 508,673 517,673 526,679 548,673 553,673 555,679 574,678 578,678 600,680 635,685 651,674 663,674 728,681 738,681 750,685 767,675 771,675 786,677 789,683 792,683 806,689 819,685 820,685 820,688 810,691 806,691 786,690 767,690 578,689 553,690 548,690 474,688 443,688 427,688 400,687 362,690 322,692 312,692 311,686 301,687 285,687" baseline="285,686 749,689 820,691" reason: differs: "Weyd" against "⟦⟧ |" | Wikisource:  | next_nc_e1: Weyden, Geschichte der Juden in K um Rhein | german_print2_15: Weyden, Geschichte der Juden in K am Rhein -->
+			<!-- line left out: id="r1l19" points="337,698 350,698 360,704 369,704 382,705 395,704 417,704 431,703 436,703 460,705 539,703 565,700 574,700 756,701 760,710 780,707 820,707 826,708 826,714 820,717 806,717 756,716 744,716 574,710 541,714 460,714 436,714 382,714 371,714 350,713 337,713" baseline="337,713 573,714 787,716 826,717" reason: differs: "Röme" against "n de" | Wikisource:  | next_nc_e1: Römerzeitenl auf di Köln 186 | german_print2_15: Römerzeiten h auf di- N Köln 186 -->
+			<!-- line left out: id="r1l20" points="281,724 301,724 323,724 323,730 371,727 382,725 392,725 399,733 412,733 414,725 424,725 426,732 444,731 449,725 460,725 473,729 505,734 508,726 518,726 527,732 529,732 529,740 508,740 501,739 475,734 473,740 449,740 444,733 430,740 414,740 392,739 350,742 342,742 292,739 281,739" baseline="281,739 371,739 529,740" reason: differs: "Beck" against "⟦⟧ |" | Wikisource:  | next_nc_e1: Becker, Geschichte der | german_print2_15:  -->
+			<!-- line left out: id="r1l21" points="336,750 349,750 350,756 361,756 363,750 368,750 370,757 385,757 398,751 406,751 450,755 481,755 506,755 533,756 533,766 493,766 481,771 462,771 451,766 440,762 438,771 430,771 361,766 350,766 336,765" baseline="336,765 533,766" reason: second model has no such line | Wikisource: Lübeck 1782–1805. | next_nc_e1: Lübeck 1782–1805. | german_print2_15:  -->
+			<!-- line left out: id="r1l22" points="282,776 300,776 302,782 313,781 326,781 333,782 333,789 352,776 365,776 366,782 378,777 383,777 386,783 395,783 405,784 408,777 417,777 417,783 430,783 444,785 452,777 462,777 464,785 487,777 500,777 507,783 514,782 527,782 546,783 557,784 560,778 568,778 568,792 539,793 535,793 462,792 430,792 376,792 337,795 332,795 326,792 313,792 282,791" baseline="282,791 352,791 568,792" reason: differs: "Paul" against "⟦⟧ |" | Wikisource:  | next_nc_e1: Pauli, Lübeckische Zustände
+ | german_print2_15: Pauli, Lübeckische Zustände
+ -->
+			<TextEquiv index="1">
+				<Unicode>Magdeburg Bd. 7. Strassburg Bd. 8 und
+von Stadtrechnungen nach den Stadtarchivurkunden
+Aachen 1876.
+Schlöpke, Chr., Chronicon der Stadt und des Stiftes Barde
+Lübeck 1704.
+Frankfurt a. M. 1862.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="317,802 701,802 701,845 317,845" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="336,802 349,802 350,808 362,803 367,803 370,809 390,809 392,803 407,803 459,808 464,816 466,816 466,818 459,823 437,823 430,819 336,817" />
+				<Baseline points="336,817 466,818" />
+				<TextEquiv index="1">
+					<Unicode>Lübeck 1847.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l1" points="317,841 338,828 343,828 346,834 358,829 369,829 372,835 392,835 394,829 404,827 425,827 426,836 437,829 448,829 450,837 472,829 485,829 493,835 508,834 512,834 537,838 539,830 550,830 552,838 576,836 598,836 615,830 630,830 634,836 641,835 648,834 657,830 670,830 679,837 693,835 696,835 701,839 701,843 683,845 670,845 576,845 550,844 537,845 520,845 448,844 416,845 409,845 369,844 322,845 317,845" baseline="317,845 451,843 701,843" reason: differs: "„Lüb" against "⟦⟧ |" | Wikisource:  | next_nc_e1: „Lübeck’'sche Zustände im Mittelalte
+ | german_print2_15: „Lübeck'sche Zustände im Mittelalte
+ -->
+			<TextEquiv index="1">
+				<Unicode>Lübeck 1847.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="279,854 715,854 715,875 279,875" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="279,854 294,854 300,860 341,860 344,854 357,854 359,861 392,861 396,855 401,855 404,861 448,862 451,868 496,855 510,855 512,864 526,861 553,862 557,856 561,856 564,862 573,862 581,856 608,855 608,866 638,856 642,856 646,862 715,857 715,870 693,869 678,871 608,872 510,871 341,875 328,875 315,870 279,869" />
+				<Baseline points="279,869 715,871" />
+				<TextEquiv index="1">
+					<Unicode>Nymphenburg. Königliches Lustschl</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Nymphenburg. Königliches Lustschl</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="206,881 914,881 914,1337 206,1337" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="332,884 344,884 352,881 362,881 365,887 373,887 375,881 386,881 387,887 397,887 403,889 410,881 414,881 416,887 460,885 486,888 486,896 470,901 461,901 460,893 447,896 414,897 332,895" />
+				<Baseline points="332,895 486,896" />
+				<TextEquiv index="1">
+					<Unicode>Sulzbach. 1856.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l1" points="280,909 294,906 304,906 304,912 347,912 373,913 373,906 375,906 401,913 428,913 431,907 486,907 488,913 500,913 529,912 563,908 571,908 581,914 597,914 612,916 635,908 639,908 639,914 667,914 685,913 688,913 702,917 710,908 719,908 719,920 699,920 682,919 675,919 663,916 661,922 639,923 587,923 581,917 571,923 529,923 509,922 365,922 295,921 280,921" baseline="280,920 719,922" reason: second model: differs: "Grün" against "⟦⟧ |" | Wikisource: Grüneisen und Mauch: Ulms Kunstleb | next_nc_e1: Gruneisen und Mauch: Ulms Kunstleb | german_print2_15: Grüneisen und Manuch: Uhms Kunstlebe -->
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="332,936 343,936 442,936 453,936 470,938 480,941 480,948 474,948 466,945 463,953 458,953 453,945 439,948 380,950 369,948 345,947 332,943" />
+				<Baseline points="332,947 480,948" />
+				<TextEquiv index="1">
+					<Unicode>Stuttgart 1846.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="279,957 302,957 304,964 315,964 320,958 330,958 338,961 340,968 347,968 350,958 368,960 372,966 388,964 397,967 411,959 423,959 424,968 453,963 470,963 482,965 484,959 528,959 534,968 575,964 580,964 594,968 594,970 571,975 555,975 528,973 279,973" />
+				<Baseline points="279,973 594,974" />
+				<TextEquiv index="1">
+					<Unicode>Markt-Preis der Stadt Neusta</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l4" points="277,985 288,984 292,984 303,986 316,989 325,990 329,997 344,984 357,984 357,992 361,992 381,992 384,985 393,985 395,991 406,991 426,991 429,985 440,985 441,991 503,991 505,985 521,985 564,986 564,994 579,991 582,991 615,990 624,990 663,991 678,995 688,987 698,986 714,986 714,994 728,987 731,987 741,996 749,991 768,986 780,986 782,997 794,993 816,993 817,987 842,987 852,994 868,994 882,992 886,992 908,994 908,1002 886,1002 868,1002 842,1002 806,1002 780,1001 760,1001 737,1001 714,1001 702,1001 698,995 691,1001 663,1001 624,1001 609,1001 588,1000 564,1001 550,1001 521,1000 475,1002 466,1002 426,1000 406,1000 384,1000 357,999 333,1003 329,1003 316,999 290,999 277,998" baseline="277,999 344,999 688,1000 908,1002" reason: differs: "Stire," against "dt a. d" | Wikisource:  | next_nc_e1: Stire, Beschreibung und Geschichte des Ilochstifts und Fürsten | german_print2_15: Siuwe, Beschreibung und Geschichte des HIochstifts und Fürsten -->
+			<!-- line left out: id="r4l5" points="331,1010 343,1010 345,1016 368,1016 381,1017 417,1013 421,1013 425,1020 437,1017 461,1017 466,1011 477,1011 484,1017 522,1012 531,1012 534,1024 565,1014 577,1013 582,1013 596,1017 609,1015 620,1015 713,1016 722,1022 723,1022 723,1026 722,1026 703,1023 701,1032 693,1032 686,1027 633,1026 602,1027 583,1027 570,1025 537,1026 461,1026 381,1026 345,1026 331,1025" baseline="331,1025 417,1025 723,1026" reason: differs: "thum" against "ürst" | Wikisource:  | next_nc_e1: thums Osnabrück. Osnabrück 1789 | german_print2_15: thums Osnabrück. Osnabrück 1789. -->
+			<!-- line left out: id="r4l6" points="278,1035 297,1035 319,1035 323,1041 347,1038 355,1038 373,1036 382,1036 382,1050 405,1039 416,1037 427,1037 434,1046 442,1044 453,1037 458,1037 460,1043 470,1043 476,1045 483,1037 493,1037 546,1037 554,1045 566,1045 589,1037 602,1037 612,1046 633,1042 639,1037 653,1037 662,1047 691,1038 703,1038 709,1044 725,1038 728,1038 743,1041 770,1044 770,1038 785,1038 791,1039 791,1053 763,1053 754,1052 740,1045 728,1052 713,1053 657,1053 633,1053 602,1052 593,1053 589,1053 552,1051 546,1052 470,1052 427,1052 416,1052 405,1049 385,1055 381,1055 367,1052 354,1052 304,1051 278,1050" baseline="278,1050 405,1050 791,1053" reason: differs: "Ball" against "⟦⟧ |" | Wikisource:  | next_nc_e1: Ballenstedt, Geschichte des Klosters Riddagsl | german_print2_15: Ballenstedt, Geschichte des Klosters Riddags! -->
+			<!-- line left out: id="r4l7" points="331,1061 343,1061 353,1068 389,1068 410,1063 420,1063 423,1069 434,1069 455,1069 466,1070 469,1076 501,1067 516,1067 528,1068 565,1068 577,1069 588,1067 594,1067 643,1067 662,1071 674,1074 674,1078 666,1078 654,1077 646,1076 635,1072 632,1078 594,1080 588,1080 508,1080 466,1080 457,1080 420,1078 389,1078 365,1078 331,1077" baseline="331,1077 674,1078" reason: differs: "Brau" against "n be" | Wikisource:  | next_nc_e1: Braunschweig. Scheningen 1809. | german_print2_15: Braunschweig. Scheningen 1809. -->
+			<!-- line left out: id="r4l8" points="346,1091 357,1088 367,1088 370,1095 383,1095 390,1088 399,1088 401,1094 424,1089 429,1089 449,1092 454,1096 477,1089 488,1089 490,1097 502,1095 531,1089 538,1089 549,1093 561,1096 563,1089 574,1089 612,1093 650,1093 661,1095 682,1096 682,1099 667,1103 661,1104 574,1104 488,1104 477,1104 451,1098 449,1104 390,1104 367,1103 357,1103 346,1101" baseline="346,1102 682,1104" reason: differs: "Gesc" against "100-" | Wikisource:  | next_nc_e1: Geschichte der Stadt Schenir | german_print2_15: Geschichte der Stadt Schenin -->
+			<!-- line left out: id="r4l9" points="330,1117 343,1117 354,1120 355,1114 360,1114 361,1120 407,1120 420,1121 428,1120 457,1119 464,1118 475,1118 492,1122 504,1124 504,1130 462,1130 420,1133 409,1133 395,1130 355,1130 343,1129 330,1128" baseline="330,1128 504,1130" reason: second model: differs: "Sche" against "gen " | Wikisource: Scheningen 1809. | next_nc_e1: Scheningen 1809. | german_print2_15: Scheningen 1800. -->
+			<!-- line left out: id="r4l10" points="206,1139 229,1139 262,1138 283,1138 283,1144 295,1141 304,1141 312,1145 312,1153 334,1140 346,1140 347,1146 358,1146 366,1149 380,1140 393,1140 394,1146 412,1142 423,1142 432,1144 445,1146 469,1147 482,1146 492,1146 542,1145 564,1145 590,1147 614,1150 619,1142 630,1142 675,1142 675,1154 707,1141 722,1141 734,1146 734,1156 659,1156 651,1150 645,1156 635,1156 590,1155 564,1156 526,1156 510,1156 445,1155 432,1156 358,1156 316,1159 312,1159 295,1155 206,1154" baseline="206,1154 365,1154 707,1155 734,1156" reason: differs: "129." against "⟦⟧ |" | Wikisource:  | next_nc_e1: 129. Heitz, das Zunftwesen in Strassburg. Mit | german_print2_15: 129. Meitz, das Zunftwesen in Strassburg. Mit -->
+			<TextLine id="r4l11" custom="readingOrder {index:11;}">
+				<Coords points="327,1179 339,1174 356,1173 357,1166 372,1166 373,1172 395,1172 396,1166 407,1166 415,1169 438,1172 453,1166 466,1166 466,1172 485,1169 496,1169 582,1173 584,1179 613,1167 647,1173 649,1167 683,1167 684,1173 748,1171 750,1177 759,1172 773,1175 773,1182 757,1180 695,1182 560,1181 559,1187 536,1187 533,1181 384,1182 327,1186" />
+				<Baseline points="327,1182 773,1182" />
+				<TextEquiv index="1">
+					<Unicode>gedruckten Zunftwappen. Strassburg 1856.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l12" points="220,1191 274,1190 292,1190 299,1198 308,1195 324,1195 331,1192 341,1192 349,1198 365,1194 370,1194 474,1195 485,1199 487,1192 491,1192 491,1198 504,1198 506,1192 517,1192 524,1199 541,1197 545,1197 564,1199 605,1195 646,1193 650,1193 695,1193 738,1203 747,1193 751,1193 751,1199 772,1199 776,1193 818,1193 826,1199 830,1199 850,1199 859,1193 871,1193 877,1202 885,1197 896,1197 906,1200 906,1208 871,1208 830,1208 761,1208 747,1208 687,1207 564,1208 554,1208 545,1207 535,1208 485,1208 452,1212 441,1212 348,1208 343,1208 331,1207 308,1206 292,1205 280,1206 246,1206 220,1205" baseline="220,1205 738,1207 906,1208" reason: differs: "131." against "⟦⟧ |" | Wikisource:  | next_nc_e1: 131. Festschrift zur 4. Säkulärfeier der Eberl -Karls-Universitä | german_print2_15: 131. Festschrift zur 4. Säkulärfeier der Eberl -Karls-Universitä -->
+			<!-- line left out: id="r4l13" points="327,1224 347,1224 367,1218 397,1218 399,1224 434,1224 462,1225 487,1226 488,1218 498,1218 499,1224 511,1224 525,1225 534,1218 544,1218 547,1224 556,1224 575,1225 583,1218 588,1218 734,1219 737,1227 745,1225 773,1225 773,1219 786,1219 793,1227 805,1222 814,1222 816,1229 828,1225 836,1225 866,1222 876,1222 905,1223 914,1228 914,1230 905,1232 899,1233 876,1233 836,1234 828,1234 814,1233 791,1233 786,1234 756,1234 734,1233 525,1235 462,1235 434,1236 423,1236 327,1233" baseline="327,1233 914,1232" reason: differs: "zuTü" against "sitä" | Wikisource:  | next_nc_e1: zu Tübingen, dargebracht Königlichen öffent- | german_print2_15: zu Tübingen, dargebracht en Königlichen öffent- -->
+			<!-- line left out: id="r4l14" points="328,1244 331,1244 356,1244 364,1251 375,1250 385,1250 397,1244 435,1244 438,1250 447,1250 456,1248 464,1244 475,1244 476,1251 486,1251 488,1244 498,1244 523,1250 543,1248 561,1248 590,1248 613,1250 625,1248 628,1248 673,1249 697,1248 702,1248 763,1249 795,1249 797,1257 823,1252 834,1244 852,1244 873,1245 875,1251 879,1251 900,1249 901,1249 901,1259 865,1260 855,1260 838,1259 834,1259 823,1255 795,1264 787,1264 785,1250 777,1250 776,1258 763,1259 714,1260 705,1260 683,1259 677,1258 670,1257 657,1255 628,1262 626,1262 620,1259 602,1262 592,1262 561,1259 532,1259 475,1259 447,1259 362,1259 351,1259 328,1258" baseline="328,1258 901,1259" reason: differs: "lich" against "öffe" | Wikisource:  | next_nc_e1: lichen Bibliothek zu Stuttgart. Stuttgart 1977. (Enthält | german_print2_15: lichen Bibliothek zu Stuttgart. Stuttgart 1977. (Enthält -->
+			<!-- line left out: id="r4l15" points="327,1269 351,1269 363,1274 371,1270 382,1270 417,1270 420,1277 437,1277 445,1270 449,1270 451,1276 462,1276 468,1277 475,1270 485,1270 492,1274 504,1277 519,1270 530,1270 531,1278 549,1278 565,1269 570,1269 574,1278 607,1276 620,1274 632,1274 637,1279 645,1270 656,1270 657,1276 673,1276 679,1278 687,1270 696,1270 709,1275 743,1276 771,1275 788,1275 790,1283 814,1270 817,1270 826,1279 832,1270 836,1270 839,1277 854,1274 862,1274 862,1285 817,1287 788,1289 783,1289 733,1285 709,1284 696,1285 632,1285 620,1285 611,1284 535,1284 530,1285 492,1285 462,1285 445,1285 417,1284 382,1287 363,1289 351,1289 327,1284" baseline="327,1284 395,1284 862,1285" reason: second model: differs: "HMey" against "hält" | Wikisource: Heyd, Geschichte des Levantehandels im 14. Jahrh | next_nc_e1: Heyd, Geschichte des Levantehandels im 14. Jahrh | german_print2_15: HMeyd, Geschichte des Levantehandels im 14. Jahrh -->
+			<!-- line left out: id="r4l16" points="330,1294 349,1293 364,1293 385,1297 392,1300 402,1295 417,1295 417,1301 428,1301 428,1308 446,1296 457,1296 503,1296 506,1302 514,1301 526,1296 538,1295 549,1295 551,1304 562,1301 569,1296 586,1296 598,1301 616,1302 618,1296 677,1296 677,1302 689,1302 722,1300 733,1296 737,1296 738,1302 751,1301 755,1301 764,1306 766,1300 780,1300 797,1302 797,1316 782,1316 766,1311 760,1310 751,1304 748,1311 738,1311 733,1298 727,1308 710,1311 689,1311 598,1311 549,1311 524,1311 432,1314 428,1314 330,1310" baseline="330,1310 487,1310 797,1311" reason: second model: differs: "Wint" against "ahrh" | Wikisource: Wintterlin, die Grabdenkmale Herzog Christo | next_nc_e1: Wintterlin, die Grabdenkmale Herzog Christo
+ | german_print2_15: Wintterlin, die Grabdenkmale Herzog Christoy
+ -->
+			<!-- line left out: id="r4l17" points="377,1325 389,1324 395,1324 408,1324 417,1325 440,1325 460,1327 460,1321 479,1321 481,1330 514,1327 523,1327 543,1321 548,1321 555,1328 561,1322 572,1322 575,1328 596,1328 598,1335 610,1331 622,1328 630,1328 630,1336 605,1337 548,1337 543,1337 479,1336 460,1336 417,1335 389,1335 377,1332" baseline="377,1335 630,1336" reason: models differ | Wikisource: Stiftskirche zu Tübingen | next_nc_e1: Stiftskirche zu Tübingen
+ | german_print2_15: Stiftskirche zu Tübingen.
+ -->
+			<TextEquiv index="1">
+				<Unicode>Sulzbach. 1856.
+Stuttgart 1846.
+Markt-Preis der Stadt Neusta
+gedruckten Zunftwappen. Strassburg 1856.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="0,0 1000,0 1000,1564 0,1564" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Augsburg Bd. 4 und 5. Braunschweig Bd. 6. Magdeburg Bd. 7. Strassburg Bd. 8 und 9. Köln Bd. 12–14. Die bairischen Landstädte Bd. 15.)
+| style="text-align:right; vertical-align:top; width:40px" | 100.⟦⟧
+| Laurent, Aachener Zustände im 14. Jahrhundert, auf Grund von Stadtrechnungen nach den Stadtarchivurkunden. Aachen 1876.
+| style="text-align:right; vertical-align:top;" | 101.⟦⟧
+| Schlöpke, Chr., Chronicon der Stadt und des Stiftes Bardeweck. Lübeck 1704.
+| style="text-align:right; vertical-align:top;" | 102.⟦⟧
+| Lange, [http://resolver.staatsbibliothek-berlin.de/SBB00016EE600000000 eyn Sermon vonn menschlicher schwachheit wie er aus sich nichts vormag und Gott ynn allen Dingen anruffen soll.] Erfurt 1523.
+| style="text-align:right; vertical-align:top;" | 103.⟦⟧
+| Kirchner, [https://www.digitale-sammlungen.de/de/search?filter=volumes%3A%22bsb10019935%2FBV003989250%22 Geschichte der Stadt Frankfurt a. M.] I. II. Frankfurt a. M. 1807–1810.
+| style="text-align:right; vertical-align:top;" | 104.⟦⟧
+| Batton, [https://www.digitale-sammlungen.de/de/search?filter=volumes%3A%22bsb11694611%2FBV008700377%22 Beschreibung der Stadt Frankfurt a. M. Band 1–7.] Frankfurt 1861–1875.
+| style="text-align:right; vertical-align:top;" | 105.⟦⟧
+| Gwinner, [https://archive.org/details/bub_gb_sJVAAAAAYAAJ Kunst und Künstler in Frankfurt a. M. vom 13. Jahrh. bis zur Eröffnung des Städel’schen Kunstinstituts.] Frankfurt a. M. 1862.
+| style="text-align:right; vertical-align:top;" | 109.⟦⟧
+| Weyden, [https://mdz-nbn-resolving.de/details:bsb10570903 Geschichte der Juden in Köln am Rhein von den Römerzeiten bis auf die Gegenwart.] Köln 1867.
+| style="text-align:right; vertical-align:top;" | 111.⟦⟧
+| Becker, [https://viewer.onb.ac.at/ABO_+Z174346905 Geschichte der freien Stadt Lübeck.] 3 Bände. Lübeck 1782–1805.
+| style="text-align:right; vertical-align:top;" | 114.⟦⟧
+| Pauli, [https://www.digitale-sammlungen.de/de/search?filter=volumes%3A%22bsb10020804%2FBV010639466%22 Lübeckische Zustände zu Anfang des 14. Jahrhunderts.] Lübeck 1847.
+| style="text-align:right; vertical-align:top;" | 115.⟦⟧
+| –, [https://mdz-nbn-resolving.de/details:bsb11694781 Lübeck’sche Zustände im Mittelalter.] Lübeck 1872.
+| style="text-align:right; vertical-align:top;" | 117.⟦⟧
+| [https://mdz-nbn-resolving.de/details:bsb10388051 Nymphenburg. Königliches Lustschloss bei München.] Sulzbach. 1856.
+| style="text-align:right; vertical-align:top;" | 119.⟦⟧
+| Grüneisen und Mauch: Ulms Kunstleben im Mittelalter. Stuttgart 1846.
+| style="text-align:right; vertical-align:top;" | 120.⟦⟧
+| Markt-Preis der Stadt Neustadt a. d. Orla vom 2. Aug. 1742.
+| style="text-align:right; vertical-align:top;" | 122.⟦⟧
+| Stüve, [https://mdz-nbn-resolving.de/details:bsb10021761 Beschreibung und Geschichte des Hochstifts und Fürstenthums Osnabrück.] Osnabrück 1789.
+| style="text-align:right; vertical-align:top;" | 123.⟦⟧
+| Ballenstedt, [https://doi.org/10.24355/dbbs.084-200812120100-5 Geschichte des Klosters Riddagshausen bei Braunschweig.] Scheningen 1809.
+| style="text-align:right; vertical-align:top;" | 124.⟦⟧
+| –, [https://doi.org/10.24355/dbbs.084-200812120100-6 Geschichte der Stadt Scheningen bei Helmstedt.] Scheningen 1809.
+| style="text-align:right; vertical-align:top;" | 129.⟦⟧
+| Heitz, [https://digital.deutsches-museum.de/item/BV019986291 das Zunftwesen in Strassburg.] Mit 22 in den Text gedruckten Zunftwappen. Strassburg 1856.
+| style="text-align:right; vertical-align:top;" | 131.⟦⟧
+| [https://mdz-nbn-resolving.de/details:bsb11694848 Festschrift zur 4. Säkulärfeier der Eberhard-Karls-Universität zu Tübingen, dargebracht von der Königlichen öffentlichen Bibliothek zu Stuttgart.] Stuttgart 1977. (Enthält:
+Heyd, Geschichte des Levantehandels im 14. Jahrh.
+Wintterlin, die Grabdenkmale Herzog Christophus in der Stiftskirche zu Tübingen.
+-->
+	</Page>
+</PcGts>

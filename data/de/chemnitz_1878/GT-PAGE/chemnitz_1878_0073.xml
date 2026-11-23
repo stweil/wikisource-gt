@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:19:55</Created>
+		<LastChange>2026-11-23T14:19:55</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/73 revision 4668501 of 2025-12-05T07:48:40Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0073.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro4057628902817471568" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="32,1129 45,1129 45,1489 32,1489" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="355,164 416,164 416,181 355,181" />
+			<!-- line left out: id="r1l0" points="355,176 378,176 406,164 416,164 416,181 406,181 355,178" baseline="355,182 377,181 416,181" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 6
+ | german_print2_15: — 6
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="115,215 781,215 781,358 115,358" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="330,223 338,222 347,217 401,216 425,219 431,216 486,215 507,215 507,231 456,233 389,233 358,239 347,239 338,239 330,234" />
+				<Baseline points="330,234 507,231" />
+				<TextEquiv index="1">
+					<Unicode>1585, October 16.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="115,253 158,252 167,253 180,258 181,252 186,252 186,258 234,257 243,251 255,251 255,258 275,256 284,250 299,250 299,256 320,256 320,250 333,250 352,255 362,248 379,248 385,255 405,254 408,248 413,248 418,254 432,253 438,248 485,246 516,246 546,251 549,245 555,245 570,250 570,244 581,244 594,250 619,250 619,243 657,242 659,248 701,247 703,241 727,241 756,246 759,240 772,240 781,243 781,256 690,258 687,264 631,260 492,263 461,266 405,265 275,268 243,267 234,273 223,273 210,269 198,274 186,274 180,269 158,274 145,274 130,270 115,270" />
+				<Baseline points="115,270 781,256" />
+				<TextEquiv index="1">
+					<Unicode>Erbeinigung der Brüder Niclass, Heinrich und Engelberdt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="116,286 153,285 170,279 184,279 187,285 228,284 237,279 299,282 311,284 312,276 324,276 325,282 349,282 350,276 375,275 391,275 407,280 438,281 442,274 575,277 595,270 685,274 702,267 740,267 780,272 780,283 659,285 656,291 575,287 427,291 423,297 410,297 407,291 337,293 285,292 253,300 228,300 207,300 153,296 116,295" />
+				<Baseline points="116,296 780,283" />
+				<TextEquiv index="1">
+					<Unicode>von Langen, weiland Engelberts von Langen Söhnen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="115,306 174,305 182,311 221,312 221,299 228,299 228,310 238,310 238,320 228,321 210,326 198,326 147,322 115,323" />
+				<Baseline points="115,323 238,320" />
+				<TextEquiv index="1">
+					<Unicode>Mit Zeugen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="141,343 150,337 175,337 176,343 220,343 220,336 228,336 231,342 256,342 260,335 281,335 311,339 333,339 334,347 353,339 361,337 373,337 374,346 391,332 410,332 418,338 495,331 507,331 527,336 527,330 540,330 540,336 568,337 568,345 465,348 353,349 333,355 302,355 294,351 281,357 273,358 260,358 249,356 242,352 200,352 197,358 185,358 167,354 141,355" />
+				<Baseline points="141,354 568,345" />
+				<TextEquiv index="1">
+					<Unicode>(Kreyenburg), 1585, 16. Monatz Oktobris.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>1585, October 16.
+Erbeinigung der Brüder Niclass, Heinrich und Engelberdt
+von Langen, weiland Engelberts von Langen Söhnen.
+Mit Zeugen.
+(Kreyenburg), 1585, 16. Monatz Oktobris.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="127,355 783,355 783,445 127,445" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="127,371 142,370 154,374 162,368 183,369 202,373 203,379 218,372 234,370 265,368 326,370 326,364 346,364 357,369 357,375 371,364 381,364 415,369 415,363 426,363 446,368 447,362 485,362 508,364 514,366 534,366 543,361 646,364 658,358 675,358 695,368 698,358 711,358 722,361 738,359 745,355 767,355 783,360 783,369 636,373 584,378 543,375 534,379 485,376 398,377 337,381 305,379 265,379 202,385 192,385 127,381" />
+				<Baseline points="127,382 783,369" />
+				<TextEquiv index="1">
+					<Unicode>Or. Perg. mit (8) Siegeln, beziehentlich Siegelfragmenten der Aussteller</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="127,394 147,389 181,389 182,395 192,393 230,393 244,398 244,392 347,386 375,386 404,396 416,389 437,384 547,382 567,385 607,381 618,386 621,380 635,380 639,384 658,385 669,379 680,379 680,385 696,386 709,380 726,378 731,378 783,381 783,389 731,392 446,398 404,398 386,392 386,398 328,400 284,404 274,404 259,401 220,402 212,406 202,406 181,403 127,403" />
+				<Baseline points="127,403 520,396 783,389" />
+				<TextEquiv index="1">
+					<Unicode>und Zeugen auf grünem Wachs und mit den Unterschriften des Clawes</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="178,411 206,411 228,414 253,414 257,420 282,409 290,408 305,408 349,414 350,406 360,406 379,412 426,406 453,406 477,410 502,409 506,415 538,402 541,402 541,415 560,408 583,409 585,402 637,404 706,400 720,400 782,403 782,412 758,416 677,414 583,417 570,421 477,423 349,421 287,422 228,427 206,427 189,427 178,424" />
+				<Baseline points="178,423 782,411" />
+				<TextEquiv index="1">
+					<Unicode>Langen, Hinrich von Langen, Engelbert von Langen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l3" points="314,433 324,433 334,434 335,428 366,428 367,434 376,434 382,435 395,428 440,428 456,432 470,426 478,426 494,431 498,425 503,425 573,425 595,430 595,436 577,437 573,438 534,439 484,439 478,445 470,445 440,441 376,441 344,442 314,442" baseline="314,442 356,441 470,439 595,437" reason: models differ | Wikisource: und des Zeugen Johan Voss | next_nc_e1: und des Zeugen Johan Voss
+ | german_print2_15: und des Zeugen Johan Voss-
+ -->
+			<TextEquiv index="1">
+				<Unicode>Or. Perg. mit (8) Siegeln, beziehentlich Siegelfragmenten der Aussteller
+und Zeugen auf grünem Wachs und mit den Unterschriften des Clawes
+Langen, Hinrich von Langen, Engelbert von Langen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="340,496 507,496 507,519 340,519" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="340,502 357,498 368,498 378,502 378,510 398,496 412,496 429,496 445,501 507,502 507,513 398,513 378,519 368,519 368,513 357,518 347,518 340,513" />
+				<Baseline points="340,513 507,511" />
+				<TextEquiv index="1">
+					<Unicode>1587, Februar 9.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>1587, Februar 9.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="118,521 787,521 787,661 118,661" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="118,534 129,532 142,532 144,538 156,538 156,531 170,531 174,539 185,534 197,531 210,531 232,536 236,543 269,530 291,530 316,535 385,534 408,528 426,528 426,534 437,534 438,528 449,528 450,534 488,533 489,540 520,525 537,525 538,531 559,531 560,525 575,525 575,531 589,531 608,525 638,524 644,524 657,529 658,523 668,523 670,529 681,529 681,523 759,522 772,527 772,521 787,521 787,538 714,539 610,543 550,542 493,545 426,544 338,547 316,545 158,548 129,548 118,546" />
+				<Baseline points="118,548 787,537" />
+				<TextEquiv index="1">
+					<Unicode>Christian, Herzog zu Sachsen, Kurfürst, belehnt Wolf</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="121,559 135,558 136,564 173,561 174,571 192,557 200,557 202,564 213,564 214,557 219,557 221,563 267,562 283,556 298,556 300,563 339,561 357,556 369,556 370,569 389,554 403,554 403,560 415,560 416,554 428,554 429,560 463,560 463,567 482,553 499,553 532,558 583,557 583,551 625,550 671,553 687,549 699,549 699,563 716,549 733,549 743,555 755,555 756,548 765,548 775,554 785,554 785,565 701,568 671,566 583,568 543,573 532,573 509,569 468,571 428,570 373,572 202,572 200,579 192,579 165,574 121,574" />
+				<Baseline points="121,574 785,564" />
+				<TextEquiv index="1">
+					<Unicode>Ernst, Johann, Heinrich, Ludwig, Georg und Christoff, Grafen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l2" custom="readingOrder {index:2;}">
+				<Coords points="121,591 144,591 146,584 202,584 224,589 281,588 307,583 319,583 345,589 350,582 373,582 378,589 394,587 419,587 424,581 478,586 479,580 544,579 646,582 656,576 677,576 694,582 699,576 744,575 756,575 758,582 785,581 785,591 608,593 605,599 544,595 419,600 330,598 132,601 121,601" />
+				<Baseline points="121,601 785,591" />
+				<TextEquiv index="1">
+					<Unicode>und Herren zu Stolbergk und Wernigerode mit dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l3" custom="readingOrder {index:3;}">
+				<Coords points="122,613 133,613 139,618 145,611 163,611 164,618 193,618 206,612 224,612 266,618 271,612 324,609 328,616 343,614 368,614 369,621 400,607 447,606 461,606 467,612 524,611 524,622 496,624 433,623 368,627 253,624 224,629 206,629 193,623 163,626 122,626" />
+				<Baseline points="122,626 524,622" />
+				<TextEquiv index="1">
+					<Unicode>Schloss Questenberg. Mit Zeugen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l4" custom="readingOrder {index:4;}">
+				<Coords points="149,642 169,642 182,647 182,641 222,641 232,646 273,644 274,650 285,645 294,645 295,653 314,640 326,640 326,647 338,645 375,646 376,652 394,639 419,639 444,644 451,642 476,642 500,644 501,637 528,636 541,636 547,644 553,637 616,636 626,636 626,652 501,653 500,659 444,655 419,655 375,658 314,655 294,661 273,661 264,661 231,659 222,656 216,659 149,658" />
+				<Baseline points="149,655 626,651" />
+				<TextEquiv index="1">
+					<Unicode>Dressden, 1587, den 9. Monatstagk Februarii.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Christian, Herzog zu Sachsen, Kurfürst, belehnt Wolf
+Ernst, Johann, Heinrich, Ludwig, Georg und Christoff, Grafen
+und Herren zu Stolbergk und Wernigerode mit dem
+Schloss Questenberg. Mit Zeugen.
+Dressden, 1587, den 9. Monatstagk Februarii.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="133,669 522,669 522,689 133,689" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="133,676 147,675 159,678 173,672 211,672 238,676 274,672 321,676 357,675 366,670 394,670 403,675 409,676 424,669 441,669 472,671 482,674 493,672 522,673 522,681 429,683 403,681 357,687 347,687 337,684 321,683 283,684 211,689 202,689 178,685 149,686 133,684" />
+				<Baseline points="133,685 522,681" />
+				<TextEquiv index="1">
+					<Unicode>Or. Perg. mit Reitersiegel des Kurfürsten.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Or. Perg. mit Reitersiegel des Kurfürsten.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="122,738 788,738 788,792 122,792" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="362,744 390,743 402,745 403,752 422,738 430,738 432,744 444,744 445,738 456,738 491,740 493,750 495,750 495,752 432,754 430,760 422,760 402,756 391,756 379,752 378,759 369,759 362,755" />
+				<Baseline points="362,756 495,752" />
+				<TextEquiv index="1">
+					<Unicode>1589, Juli 18.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l1" custom="readingOrder {index:1;}">
+				<Coords points="122,772 136,772 142,779 199,778 207,781 219,772 231,772 239,778 251,778 265,771 285,772 312,777 350,777 378,774 406,776 452,775 453,769 477,768 518,768 519,774 551,774 551,767 564,767 564,773 577,773 588,767 604,767 605,773 629,773 630,766 640,766 641,773 656,773 665,769 685,771 686,765 717,764 734,764 778,765 782,774 788,774 788,776 778,780 763,781 439,786 319,786 312,792 300,792 237,787 199,788 176,791 122,788" />
+				<Baseline points="122,788 788,780" />
+				<TextEquiv index="1">
+					<Unicode>Zeugniss des Bürgermeisters und Raths der Reichsstadt Nörd-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>1589, Juli 18.
+Zeugniss des Bürgermeisters und Raths der Reichsstadt Nörd-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="124,791 789,791 789,842 124,842" />
+			<TextLine id="r8l0" custom="readingOrder {index:0;}">
+				<Coords points="124,799 129,799 135,805 171,805 200,804 220,798 228,798 228,804 244,804 266,797 283,797 289,809 295,803 308,802 326,797 338,797 342,803 390,796 407,796 408,802 419,802 419,796 435,796 435,802 447,802 498,801 498,795 511,795 541,802 556,799 567,799 567,793 579,793 597,801 603,801 603,793 609,793 611,799 632,796 641,792 659,792 666,798 677,798 678,792 691,792 696,797 713,791 721,791 747,791 748,797 755,797 773,791 779,791 789,796 789,806 723,807 721,814 713,814 691,808 524,810 473,813 457,813 447,811 435,813 419,813 419,806 408,806 407,812 389,813 175,813 171,819 159,819 150,815 124,815" />
+				<Baseline points="124,815 789,806" />
+				<TextEquiv index="1">
+					<Unicode>lingen für Marthin Mezger, der sich drittehalb Jahr in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l1" custom="readingOrder {index:1;}">
+				<Coords points="124,825 136,825 143,831 181,825 190,825 191,831 208,831 209,825 223,825 226,831 242,830 256,837 267,837 270,824 278,824 278,830 364,830 380,822 386,822 388,828 400,828 450,826 474,821 487,821 487,827 499,827 499,821 512,821 512,828 548,826 554,820 572,820 617,825 617,819 623,819 624,826 653,825 667,818 673,818 674,824 732,824 732,834 549,836 548,842 536,842 499,837 474,837 460,830 450,830 449,838 425,841 400,839 386,842 380,842 288,840 124,841" />
+				<Baseline points="124,841 732,834" />
+				<TextEquiv index="1">
+					<Unicode>der Canzlei „für einen Jungen“ habe gebrauchen lassen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>lingen für Marthin Mezger, der sich drittehalb Jahr in
+der Canzlei „für einen Jungen“ habe gebrauchen lassen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="137,851 632,851 632,904 137,904" />
+			<TextLine id="r9l0" custom="readingOrder {index:0;}">
+				<Coords points="151,857 188,856 188,862 204,862 204,856 223,856 235,861 305,859 315,855 326,855 327,862 339,862 339,868 358,854 370,854 371,862 382,860 408,859 415,854 426,854 427,867 446,854 471,853 472,859 509,857 518,861 532,851 555,851 555,857 573,857 587,851 595,851 597,857 609,857 610,851 625,851 629,863 632,863 632,866 629,866 625,873 610,873 609,867 597,867 595,874 554,873 554,867 426,870 283,876 274,876 234,875 223,872 151,873" />
+				<Baseline points="151,872 632,866" />
+				<TextEquiv index="1">
+					<Unicode>(Nördlingen), 1589, den 18. Monats Tag July.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l1" custom="readingOrder {index:1;}">
+				<Coords points="137,890 157,890 160,898 177,887 189,887 190,893 219,892 219,904 185,904 177,904 137,899" />
+				<Baseline points="137,899 219,900" />
+				<TextEquiv index="1">
+					<Unicode>Or. Perg.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>(Nördlingen), 1589, den 18. Monats Tag July.
+Or. Perg.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="128,946 799,946 799,1319 128,1319" />
+			<TextLine id="r10l0" custom="readingOrder {index:0;}">
+				<Coords points="336,953 354,949 364,949 365,955 381,955 396,948 408,948 408,955 426,951 464,952 465,946 479,946 484,951 531,950 531,962 426,963 425,969 420,969 419,963 381,967 369,967 364,963 354,963 353,969 344,969 336,964" />
+				<Baseline points="336,964 531,961" />
+				<TextEquiv index="1">
+					<Unicode>1589, September 2.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l1" custom="readingOrder {index:1;}">
+				<Coords points="128,983 139,981 153,981 163,987 181,987 196,985 249,987 265,981 287,981 312,986 367,985 377,979 389,979 390,985 400,985 412,979 417,979 419,985 461,985 476,977 498,977 507,983 515,983 516,977 530,977 536,983 545,981 561,981 562,990 580,976 586,976 588,982 598,982 614,979 660,978 680,975 692,975 692,981 708,980 732,975 755,975 780,980 780,974 793,974 793,990 660,991 660,997 648,997 640,992 498,994 461,996 433,994 367,995 335,998 319,998 312,996 249,998 237,998 139,997 128,995" />
+				<Baseline points="128,997 793,990" />
+				<TextEquiv index="1">
+					<Unicode>Christian, Herzog zu Sachsen, Kurfürst, bestätigt dem Hand-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l2" custom="readingOrder {index:2;}">
+				<Coords points="130,1013 165,1013 166,1007 177,1007 191,1014 196,1007 208,1007 210,1013 222,1013 233,1007 247,1007 247,1015 266,1012 301,1012 310,1014 312,1006 322,1006 325,1014 336,1012 383,1011 395,1005 409,1005 413,1011 449,1010 454,1004 459,1004 460,1010 506,1010 511,1004 522,1004 525,1016 544,1003 561,1003 565,1010 591,1008 601,1002 614,1002 617,1008 642,1005 669,1007 685,1001 710,1001 735,1001 735,1007 742,1007 746,1001 762,1001 784,1001 793,1006 793,1019 652,1020 629,1018 597,1018 506,1022 454,1019 449,1026 438,1026 435,1020 277,1023 166,1023 130,1021" />
+				<Baseline points="130,1021 793,1017" />
+				<TextEquiv index="1">
+					<Unicode>werk der Leineweber zu Freybergk, Kembnitz, Rochlitz,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l3" custom="readingOrder {index:3;}">
+				<Coords points="131,1033 160,1032 171,1036 186,1038 217,1033 228,1033 231,1040 242,1040 245,1046 290,1033 343,1032 366,1037 370,1045 406,1031 412,1031 415,1038 427,1038 486,1035 507,1036 512,1030 522,1030 526,1043 561,1029 574,1029 577,1037 597,1036 600,1028 612,1028 616,1034 628,1034 630,1028 643,1028 675,1033 679,1041 713,1029 734,1027 747,1027 794,1032 794,1046 561,1044 507,1051 495,1051 444,1046 373,1049 318,1048 249,1050 186,1047 131,1048" />
+				<Baseline points="131,1048 794,1043" />
+				<TextEquiv index="1">
+					<Unicode>Mitweide, Colditz, Leissnigk, Zschobaw, Ödern,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l4" custom="readingOrder {index:4;}">
+				<Coords points="134,1058 146,1058 150,1064 195,1065 204,1058 215,1058 219,1065 233,1064 249,1059 261,1059 265,1066 280,1064 303,1065 308,1058 320,1058 324,1071 362,1058 387,1058 429,1063 433,1057 450,1057 485,1062 489,1069 537,1056 672,1060 673,1054 684,1054 746,1060 746,1053 759,1053 774,1058 795,1058 795,1069 597,1071 537,1071 526,1069 493,1075 413,1073 303,1079 291,1079 280,1074 261,1073 134,1074" />
+				<Baseline points="134,1075 795,1068" />
+				<TextEquiv index="1">
+					<Unicode>Franckenbergk, Heinichen, Geitten und anderen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l5" custom="readingOrder {index:5;}">
+				<Coords points="131,1085 143,1085 162,1090 170,1084 182,1084 184,1091 196,1089 273,1091 287,1084 295,1084 333,1090 438,1086 459,1083 483,1083 661,1086 675,1093 678,1081 745,1079 760,1085 785,1085 786,1078 796,1078 796,1094 605,1097 587,1102 551,1102 539,1102 483,1099 131,1100" />
+				<Baseline points="131,1100 796,1094" />
+				<TextEquiv index="1">
+					<Unicode>Städten seine Privilegien mit Hinzufügung neuer Artikel und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r10l6" points="132,1111 144,1111 144,1118 155,1118 165,1114 178,1114 224,1114 226,1123 257,1116 263,1116 263,1110 274,1110 275,1116 290,1116 327,1117 327,1110 340,1110 341,1117 351,1117 371,1117 394,1111 420,1109 432,1109 433,1115 445,1114 469,1114 481,1115 504,1107 509,1107 509,1114 525,1114 526,1108 544,1108 545,1115 557,1114 563,1114 563,1107 581,1107 581,1113 612,1106 619,1106 642,1106 650,1110 674,1111 699,1105 704,1105 704,1111 715,1111 715,1105 733,1105 734,1112 744,1112 769,1105 778,1105 778,1111 797,1111 797,1121 717,1122 625,1122 624,1128 612,1128 545,1123 544,1129 509,1129 481,1130 470,1130 340,1126 230,1128 226,1128 204,1126 165,1126 155,1125 144,1127 132,1127" baseline="132,1127 229,1125 370,1124 612,1122 743,1121 797,1121" reason: second model: differs: "hgehens" against " gelten" | Wikisource: bestimmt, dass diese Ordnung zugleich gelten solle für | next_nc_e1: bestimmt, dass diese Ordnung zugleich gelten solle für | german_print2_15: bestimmt, dass diese Ordnung zugleich gehen solle für -->
+			<TextLine id="r10l7" custom="readingOrder {index:7;}">
+				<Coords points="132,1137 145,1137 149,1143 182,1144 193,1137 204,1137 235,1142 239,1149 263,1137 277,1137 323,1142 326,1136 332,1136 335,1143 397,1141 400,1149 423,1135 451,1135 451,1141 485,1140 499,1135 512,1135 554,1140 558,1134 569,1134 574,1146 599,1133 616,1133 669,1138 683,1131 705,1131 709,1137 725,1135 788,1137 793,1144 796,1144 796,1150 701,1147 578,1152 554,1155 542,1155 480,1151 404,1154 332,1151 132,1153" />
+				<Baseline points="132,1153 796,1147" />
+				<TextEquiv index="1">
+					<Unicode>Zwickau, Annabergk, Mariabergk, Grim, Wurtzen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l8" custom="readingOrder {index:8;}">
+				<Coords points="132,1164 161,1163 162,1170 168,1170 174,1163 201,1163 203,1170 218,1168 262,1168 281,1162 297,1162 313,1167 328,1165 344,1165 359,1167 362,1175 380,1162 401,1162 404,1169 412,1162 425,1162 441,1167 444,1161 456,1161 460,1169 501,1165 548,1166 552,1173 577,1160 590,1160 616,1165 620,1158 685,1163 689,1157 701,1157 705,1171 730,1157 747,1157 750,1163 774,1163 797,1167 797,1169 787,1173 747,1174 685,1179 672,1179 625,1174 556,1178 401,1177 366,1180 362,1180 132,1179" />
+				<Baseline points="132,1179 797,1172" />
+				<TextEquiv index="1">
+					<Unicode>Waltheim, Hartta, Wolckenstein, Stolbergk, Ross-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l9" custom="readingOrder {index:9;}">
+				<Coords points="133,1195 181,1195 186,1203 227,1189 250,1190 285,1188 299,1193 303,1201 343,1188 391,1188 441,1193 445,1187 457,1187 460,1200 496,1186 543,1186 548,1193 562,1189 595,1191 598,1198 638,1184 684,1184 684,1190 711,1190 712,1184 728,1184 753,1184 753,1190 797,1189 797,1202 783,1202 773,1200 559,1202 463,1205 445,1203 441,1209 429,1209 424,1203 360,1203 356,1197 349,1197 349,1203 269,1204 190,1207 133,1205" />
+				<Baseline points="133,1205 797,1199" />
+				<TextEquiv index="1">
+					<Unicode>wen, Rötha, Frobergk, Schletta, Siebenlehen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r10l10" points="134,1216 149,1216 152,1222 196,1222 206,1216 219,1215 247,1215 251,1223 258,1215 274,1215 278,1227 298,1213 311,1213 315,1219 353,1219 399,1217 406,1217 444,1219 448,1227 466,1213 482,1213 487,1219 513,1218 521,1218 521,1212 550,1212 575,1212 630,1210 642,1210 646,1216 657,1216 661,1210 682,1210 686,1217 701,1216 713,1216 717,1210 722,1210 773,1215 777,1209 789,1209 794,1222 798,1222 798,1229 794,1229 777,1225 773,1231 760,1231 713,1226 657,1226 589,1229 574,1229 550,1228 537,1229 452,1231 282,1231 247,1231 196,1235 175,1235 134,1232" baseline="134,1232 298,1229 588,1226 798,1225" reason: differs: "in,chei" against "n, Sche" | Wikisource:  | next_nc_e1: Langefeldt, Frauenstein, Grünhain, cheibenbergk, | german_print2_15: Langefeldt, Frauenstein, Grünhain, cheibenbergk, -->
+			<TextLine id="r10l11" custom="readingOrder {index:11;}">
+				<Coords points="135,1242 165,1242 169,1248 178,1248 218,1241 232,1241 236,1247 242,1247 246,1241 258,1241 263,1248 279,1246 312,1248 316,1239 327,1239 331,1246 355,1245 359,1239 368,1239 370,1253 401,1240 413,1240 416,1247 426,1247 427,1240 510,1244 541,1244 545,1238 558,1238 562,1244 576,1242 599,1242 604,1236 616,1236 620,1249 650,1235 675,1235 716,1236 728,1239 788,1235 799,1235 799,1251 624,1255 604,1252 599,1258 588,1258 584,1252 510,1255 327,1255 219,1258 135,1258" />
+				<Baseline points="135,1258 799,1251" />
+				<TextEquiv index="1">
+					<Unicode>Ehrenfriderssdorf, Schwartzenbergk, Zöblitz und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l12" custom="readingOrder {index:12;}">
+				<Coords points="134,1268 167,1268 170,1274 208,1274 208,1284 134,1284" />
+				<Baseline points="134,1284 208,1284" />
+				<TextEquiv index="1">
+					<Unicode>Thum.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l13" custom="readingOrder {index:13;}">
+				<Coords points="161,1299 185,1299 185,1305 218,1305 223,1299 298,1299 300,1305 311,1305 316,1310 332,1296 344,1296 345,1304 357,1302 404,1302 405,1296 417,1296 418,1304 429,1302 449,1302 462,1296 480,1296 504,1301 505,1295 531,1294 543,1294 544,1301 575,1294 587,1293 595,1293 596,1299 647,1299 661,1293 673,1293 674,1300 685,1296 705,1296 713,1293 727,1293 749,1293 764,1293 777,1298 777,1308 758,1309 727,1314 685,1314 661,1309 644,1302 631,1310 505,1311 504,1317 311,1317 255,1319 244,1319 218,1315 185,1319 171,1319 161,1315" />
+				<Baseline points="161,1315 777,1308" />
+				<TextEquiv index="1">
+					<Unicode>Dressden, 1589, den andern Tagk des Monats Septembris.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>1589, September 2.
+Christian, Herzog zu Sachsen, Kurfürst, bestätigt dem Hand-
+werk der Leineweber zu Freybergk, Kembnitz, Rochlitz,
+Mitweide, Colditz, Leissnigk, Zschobaw, Ödern,
+Franckenbergk, Heinichen, Geitten und anderen
+Städten seine Privilegien mit Hinzufügung neuer Artikel und
+Zwickau, Annabergk, Mariabergk, Grim, Wurtzen,
+Waltheim, Hartta, Wolckenstein, Stolbergk, Ross-
+wen, Rötha, Frobergk, Schletta, Siebenlehen,
+Ehrenfriderssdorf, Schwartzenbergk, Zöblitz und
+Thum.
+Dressden, 1589, den andern Tagk des Monats Septembris.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="146,1322 801,1322 801,1361 146,1361" />
+			<TextLine id="r11l0" custom="readingOrder {index:0;}">
+				<Coords points="146,1332 204,1330 231,1334 232,1340 276,1331 306,1328 362,1331 370,1327 375,1327 395,1332 405,1327 440,1327 457,1332 480,1325 491,1325 509,1329 518,1325 534,1325 542,1329 550,1327 565,1327 571,1325 604,1328 615,1324 653,1323 679,1326 709,1323 774,1322 794,1322 801,1327 801,1336 720,1338 550,1338 404,1341 395,1345 332,1341 306,1341 231,1347 221,1347 213,1343 146,1343" />
+				<Baseline points="146,1343 801,1336" />
+				<TextEquiv index="1">
+					<Unicode>Or. Perg. mit Reitersiegel des Kurfürsten und Unterschrift des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l1" custom="readingOrder {index:1;}">
+				<Coords points="358,1348 409,1348 434,1355 445,1348 460,1348 468,1352 483,1353 484,1346 494,1346 523,1352 535,1345 553,1345 586,1345 586,1359 460,1361 358,1361" />
+				<Baseline points="358,1361 586,1358" />
+				<TextEquiv index="1">
+					<Unicode>Kanzlers Nicolaus Krell.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Or. Perg. mit Reitersiegel des Kurfürsten und Unterschrift des
+Kanzlers Nicolaus Krell.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="397,1549 602,1549 602,1561 397,1561" />
+			<!-- line left out: id="r12l0" points="397,1549 405,1549 411,1550 425,1549 437,1549 446,1549 459,1549 472,1549 502,1549 528,1549 551,1549 574,1550 602,1550 602,1558 574,1560 554,1560 534,1558 455,1561 446,1561 429,1561 416,1560 410,1560 397,1558" baseline="397,1558 533,1557 602,1557" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnp digital slub-dresden de ppn302
+ | german_print2_15: pGigital slub-dresden de ppne012:
+ -->
+		</TextRegion>
+		<GraphicRegion id="r13">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+| colspan="2"; style="text-align:center;" | 1585, October 16.
+| style="vertical-align:top;"| 122.
+| Erbeinigung der Brüder Niclass, Heinrich und Engelberdt von Langen, weiland Engelberts von Langen Söhnen. Mit Zeugen.
+|
+| (Kreyenburg), 1585, 16. Monatz Oktobris.
+|
+| Or. Perg. mit (8) Siegeln, beziehentlich Siegelfragmenten der Aussteller und Zeugen auf grünem Wachs und mit den Unterschriften des Clawes von Langen, Hinrich von Langen, Engelbert von Langen und des Zeugen Johan Voss.
+| colspan="2"; style="text-align:center;" | 1587, Februar 9.
+| style="vertical-align:top;"| 123.
+| Christian, Herzog zu Sachsen, Kurfürst, belehnt Wolf Ernst, Johann, Heinrich, Ludwig, Georg und Christoff, Grafen und Herren zu Stolbergk und Wernigerode mit dem Schloss Questenberg. Mit Zeugen.
+|
+| Dressden, 1587, den 9. Monatstagk Februarii.
+|
+| Or. Perg. mit Reitersiegel des Kurfürsten.
+| colspan="2"; style="text-align:center;" | 1589, Juli 18.
+| style="vertical-align:top;"| 124.
+| Zeugniss des Bürgermeisters und Raths der Reichsstadt Nördlingen für Marthin Mezger, der sich drittehalb Jahr in der Canzlei „für einen Jungen“ habe gebrauchen lassen.
+|
+| (Nördlingen), 1589, den 18. Monats Tag July.
+|
+| Or. Perg.
+| colspan="2"; style="text-align:center;" | 1589, September 2.
+| style="vertical-align:top;"| 125.
+| Christian, Herzog zu Sachsen, Kurfürst, bestätigt dem Handwerk der Leineweber zu Freybergk, Kembnitz, Rochlitz, Mitweide, Colditz, Leissnigk, Zschobaw, Ödern, Franckenbergk, Heinichen, Geitten und anderen Städten seine Privilegien mit Hinzufügung neuer Artikel und bestimmt, dass diese Ordnung zugleich gelten solle für Zwickau, Annabergk, Mariabergk, Grim, Wurtzen, Waltheim, Hartta, Wolckenstein, Stolbergk, Rosswen, Rötha, Frobergk, Schletta, Siebenlehen, Langefeldt, Frauenstein, Grünhain, Scheibenbergk, Ehrenfriderssdorf, Schwartzenbergk, Zöblitz und Thum.
+|
+| Dressden, 1589, den andern Tagk des Monats Septembris.
+|
+| Or. Perg. mit Reitersiegel des Kurfürsten und Unterschrift des Kanzlers Nicolaus Krell.
+-->
+	</Page>
+</PcGts>

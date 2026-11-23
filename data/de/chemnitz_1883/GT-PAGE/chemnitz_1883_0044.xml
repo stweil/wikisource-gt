@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:46:52</Created>
+		<LastChange>2026-11-23T13:46:52</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/44 revision 4959515 of 2026-07-24T07:17:00Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0044.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro16018069126381319889" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="253,33 577,33 577,49 253,49" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="369,232 501,232 501,248 369,248" />
+			<!-- line left out: id="r1l0" points="369,245 389,232 416,232 433,239 452,237 463,237 479,239 490,241 501,246 501,248 424,248 374,248 369,248" baseline="369,248 434,246 452,246 501,248" reason: second model: differs: "„Pet" against "rdam" | Wikisource: Peter Schen | next_nc_e1: Peter Schen
+ | german_print2_15: „Peter Schen
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="346,258 492,258 492,275 346,275" />
+			<!-- line left out: id="r2l0" points="346,264 357,264 384,264 396,267 402,272 423,259 434,258 445,258 481,259 484,272 492,272 492,275 484,275 445,274 402,275 399,275 368,273 346,272" baseline="346,272 401,272 464,274 492,275" reason: differs: "mann" against "k. 1" | Wikisource:  | next_nc_e1: mann, M. M.,
+ | german_print2_15: mann, M. M.,
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="264,651 603,651 603,1037 264,1037" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="325,651 329,651 333,659 350,656 364,659 374,657 434,657 444,664 444,667 402,668 393,668 374,666 364,663 354,666 325,666" />
+				<Baseline points="325,666 444,667" />
+				<TextEquiv index="1">
+					<Unicode>Leissnigium,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="327,678 337,678 361,682 370,686 372,677 377,677 380,683 415,684 419,690 421,690 421,692 380,692 372,691 365,688 361,694 345,694 327,692" />
+				<Baseline points="327,692 421,692" />
+				<TextEquiv index="1">
+					<Unicode>Augsburg.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l2" points="285,712 296,711 308,710 321,709 341,708 349,703 358,703 361,709 371,709 386,710 393,703 404,703 405,711 433,703 438,703 448,706 449,712 453,712 470,716 470,718 438,718 371,718 349,718 346,724 341,724 339,718 317,719 308,719 285,716" baseline="285,719 408,718 470,718" reason: second model: differs: "ecog" against "⟦⟧ |" | Wikisource: eographische Deli | next_nc_e1: cographische Deli | german_print2_15: ecographische Deli -->
+			<!-- line left out: id="r3l3" points="323,738 331,733 336,733 360,735 369,742 387,730 403,729 407,729 416,733 436,730 444,730 444,744 416,744 401,745 372,746 369,746 360,740 355,744 336,744 331,744 323,741" baseline="323,744 444,744" reason: differs: "stei" against "neat" | Wikisource:  | next_nc_e1: stein, Altent | german_print2_15: stein, Altent -->
+			<!-- line left out: id="r3l4" points="296,765 308,762 321,761 325,761 353,761 354,755 358,755 361,761 371,761 385,764 393,756 397,755 459,755 459,770 442,770 403,776 401,776 401,770 371,770 361,770 353,776 342,776 339,770 317,771 308,771 296,768" baseline="296,768 459,769" reason: models differ | Wikisource: ographische D | next_nc_e1: ographische D | german_print2_15: ographische De -->
+			<!-- line left out: id="r3l5" points="322,781 328,781 338,782 351,789 357,781 378,781 380,789 389,789 389,781 401,781 410,790 419,786 480,784 484,784 492,790 508,788 520,787 524,787 552,788 552,796 429,796 401,796 357,796 338,795 330,795 322,791" baseline="322,796 552,796" reason: differs: "Wolc" against "elin" | Wikisource:  | next_nc_e1: Wolckenste Grünha | german_print2_15: Wolckenste Grünha -->
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="322,812 354,812 354,822 338,820 336,828 328,828 322,822" />
+				<Baseline points="322,822 354,822" />
+				<TextEquiv index="1">
+					<Unicode>1761</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="295,833 298,833 302,839 312,839 321,833 335,833 374,839 401,833 412,833 413,841 447,840 447,833 449,833 473,846 483,840 532,838 577,840 603,843 603,846 558,849 555,849 477,849 473,849 379,849 365,849 335,849 321,849 302,848 295,836" />
+				<Baseline points="295,848 603,848" />
+				<TextEquiv index="1">
+					<Unicode>lineation derer zum Chursäc</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l8" points="320,866 329,866 335,868 344,860 354,860 364,866 382,866 399,867 399,860 416,860 449,862 452,868 463,865 551,861 559,861 570,866 570,875 449,875 416,876 385,876 354,875 329,875 320,875" baseline="320,875 551,874 570,875" reason: differs: "gehö" against "hsis" | Wikisource:  | next_nc_e1: gehörigen Aemm Au | german_print2_15: gehörigen Aemm Au -->
+			<TextLine id="r3l9" custom="readingOrder {index:9;}">
+				<Coords points="425,886 428,886 438,892 456,892 465,898 470,893 482,886 486,886 488,899 517,886 521,886 525,893 533,893 543,897 543,900 525,899 505,894 492,901 468,901 438,901 425,900" />
+				<Baseline points="425,901 543,900" />
+				<TextEquiv index="1">
+					<Unicode>Franckenber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l10" custom="readingOrder {index:10;}">
+				<Coords points="456,915 479,915 523,915 531,916 531,919 529,919 523,927 466,927 456,924" />
+				<Baseline points="456,927 531,927" />
+				<TextEquiv index="1">
+					<Unicode>Comitat</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l11" custom="readingOrder {index:11;}">
+				<Coords points="317,941 329,941 349,944 375,945 468,944 473,950 486,944 525,944 525,953 512,958 489,958 489,950 477,953 452,951 444,958 433,958 430,949 398,953 347,953 317,948" />
+				<Baseline points="317,952 525,953" />
+				<TextEquiv index="1">
+					<Unicode>Saxoniae superiorem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l12" points="317,971 327,971 329,964 340,964 342,970 365,970 367,964 378,964 381,970 390,970 406,968 411,968 427,972 427,964 479,964 520,964 520,967 519,967 514,979 317,979" baseline="317,979 520,979" reason: differs: "adum" against "pert" | Wikisource:  | next_nc_e1: adumbratac. Augsl | german_print2_15: adumbratac. Augs! -->
+			<!-- line left out: id="r3l13" points="264,990 269,990 281,991 292,1000 298,994 303,994 328,996 336,990 352,989 356,989 357,1001 370,996 385,994 389,994 420,999 423,990 433,990 442,999 448,999 461,990 465,990 483,991 483,1003 465,1005 461,1005 433,1004 389,1004 381,1005 328,1006 318,1006 269,1005 264,1005" baseline="264,1005 401,1004 483,1004" reason: second model: differs: "Best" against "⟦⟧ |" | Wikisource: Bestandskarte des Bö | next_nc_e1: Bestandskarte des Bö | german_print2_15: Bestandskarte des B6. -->
+			<TextLine id="r3l14" custom="readingOrder {index:14;}">
+				<Coords points="316,1016 328,1016 331,1025 339,1024 350,1016 376,1016 376,1022 433,1022 433,1031 392,1030 386,1037 360,1037 360,1031 316,1030" />
+				<Baseline points="316,1029 433,1031" />
+				<TextEquiv index="1">
+					<Unicode>Zschopau u</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Leissnigium,
+Augsburg.
+1761
+lineation derer zum Chursäc
+Franckenber
+Comitat
+Saxoniae superiorem
+Zschopau u</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="316,1079 432,1079 432,1093 316,1093" />
+			<!-- line left out: id="r4l0" points="316,1080 331,1079 340,1079 347,1086 350,1086 370,1085 374,1085 394,1083 404,1083 432,1084 432,1093 360,1093 331,1093 316,1089" baseline="316,1093 432,1093" reason: differs: "[All" against "nd d" | Wikisource:  | next_nc_e1: [Allgemei
+ | german_print2_15: [Allgemei
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="317,1092 373,1092 373,1100 317,1100" />
+			<!-- line left out: id="r5l0" points="317,1093 326,1092 373,1092 373,1095 363,1100 339,1100 326,1093 323,1100 317,1100" baseline="317,1095 373,1095" reason: differs: "[AlI" against "Amte" | Wikisource:  | next_nc_e1: [AlIg
+ | german_print2_15: [AlIg
+ -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="260,1119 630,1119 630,1321 260,1321" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="260,1121 273,1121 283,1127 287,1120 299,1120 320,1124 340,1133 349,1120 380,1120 381,1127 396,1132 411,1119 415,1119 422,1131 427,1119 438,1119 442,1126 449,1126 449,1119 462,1119 473,1129 473,1132 461,1134 362,1135 340,1137 337,1137 260,1134" />
+				<Baseline points="260,1133 473,1132" />
+				<TextEquiv index="1">
+					<Unicode>Schäfer, Arn., Tabelle</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l1" points="262,1160 272,1146 293,1146 303,1152 313,1152 332,1154 338,1158 362,1145 379,1145 382,1153 393,1151 397,1151 421,1151 443,1151 456,1145 460,1145 463,1153 469,1153 469,1160 443,1160 397,1160 379,1160 338,1163 334,1163 323,1161 262,1161" baseline="262,1161 362,1160 469,1160" reason: differs: "Albi" against "zur " | Wikisource:  | next_nc_e1: Albinus, Meissnische | german_print2_15: Albinus, Meissnische -->
+			<!-- line left out: id="r6l2" points="315,1171 320,1171 336,1174 340,1180 360,1180 361,1171 372,1171 374,1180 386,1177 412,1176 420,1175 439,1175 484,1176 507,1176 523,1185 525,1185 525,1187 507,1187 483,1187 480,1187 416,1186 395,1187 386,1187 372,1186 336,1187 326,1187 315,1186" baseline="315,1186 480,1186 525,1187" reason: differs: "Dres" against "eile" | Wikisource:  | next_nc_e1: Dresden 1589 —1590. | german_print2_15:  -->
+			<!-- line left out: id="r6l3" points="260,1198 275,1197 282,1197 311,1197 319,1206 329,1197 337,1197 337,1203 344,1203 361,1197 365,1197 415,1210 435,1197 457,1197 471,1203 509,1203 524,1205 524,1214 512,1214 503,1212 475,1213 457,1214 441,1214 420,1213 365,1215 361,1215 336,1214 323,1213 311,1214 299,1214 282,1213 260,1213" baseline="260,1213 343,1212 415,1212 524,1214" reason: differs: "Klot" against "⟦⟧ |" | Wikisource:  | next_nc_e1: Klotzsch, ] „Ursprung | german_print2_15: Klotzsch, ] „Ursprung -->
+			<TextLine id="r6l4" custom="readingOrder {index:4;}">
+				<Coords points="314,1229 332,1227 337,1227 374,1237 374,1243 371,1243 314,1238" />
+				<Baseline points="314,1238 374,1238" />
+				<TextEquiv index="1">
+					<Unicode>nitz 17</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l5" custom="readingOrder {index:5;}">
+				<Coords points="356,1249 366,1249 391,1249 391,1256 431,1255 441,1249 443,1249 488,1250 490,1256 529,1255 549,1262 549,1265 533,1265 526,1258 517,1265 443,1265 440,1265 356,1264" />
+				<Baseline points="356,1264 549,1265" />
+				<TextEquiv index="1">
+					<Unicode>Fabricii., Chemn.,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l6" points="327,1282 334,1280 366,1280 383,1281 415,1282 432,1275 441,1275 441,1292 383,1292 369,1292 354,1289 350,1295 346,1295 343,1289 334,1289 327,1288" baseline="327,1289 441,1290" reason: second model: differs: "eipz" against "reru" | Wikisource: eipzig o. J. | next_nc_e1: eipzig o. J. | german_print2_15: eipzig o. ]. -->
+			<!-- line left out: id="r6l7" points="260,1304 269,1301 283,1301 303,1300 315,1300 316,1306 320,1306 324,1313 346,1301 359,1301 368,1300 399,1300 400,1306 413,1306 423,1313 443,1301 456,1301 459,1310 471,1307 475,1307 489,1308 508,1310 511,1301 521,1301 529,1307 549,1305 553,1305 603,1306 630,1307 630,1310 621,1313 609,1315 606,1315 603,1309 591,1314 571,1315 532,1315 521,1316 489,1316 456,1316 426,1317 423,1317 359,1316 328,1319 315,1321 303,1321 283,1318 260,1317" baseline="260,1317 327,1315 549,1312 630,1311" reason: differs: "Glaf" against "⟦⟧ |" | Wikisource:  | next_nc_e1: Glafey, Ad. Fr., Kern der Geschicl
+ | german_print2_15: Glafey, Ad. Fr., Kern der Geschicl
+ -->
+			<TextEquiv index="1">
+				<Unicode>Schäfer, Arn., Tabelle
+nitz 17
+Fabricii., Chemn.,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="312,1327 599,1327 599,1342 312,1342" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="312,1327 316,1327 341,1327 342,1333 369,1334 385,1327 400,1327 436,1335 436,1327 438,1327 472,1335 517,1331 523,1327 536,1327 536,1334 549,1334 552,1327 556,1327 559,1334 589,1333 599,1336 599,1342 563,1342 523,1342 341,1342 316,1342 312,1342" />
+				<Baseline points="312,1341 599,1342" />
+				<TextEquiv index="1">
+					<Unicode>lichen Hauses von Sachsen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>lichen Hauses von Sachsen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="0,0 1000,0 1000,1564 0,1564" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Herrschaften des fürstlichen Hauses Sachsen. Amsterdam, Peter Schenk. 1781.
+| style="text-align:right; vertical-align:top; width:40px" | 33.⟦⟧
+| Tutzschmann, M. M., Atlas zur Geschichte der sächsischen Länder mit Einschluss der schwarzburgischen und reussischen, in 22 Karten. Grimma 1852.
+| style="text-align:right; vertical-align:top;" | 34.⟦⟧
+| –, Erläuterung des Atlas zur Geschichte der sächsischen Länder. Grimma 1852.
+| style="text-align:right; vertical-align:top;" | 36.⟦⟧
+| Saxonica superioris circulus, in quo ducatus et electoratus Saxoniae, Marchionatus Misniae et Landgraviatus Thuringiae exhibentur. Nürnberg.
+| style="text-align:right; vertical-align:top;" | 39.⟦⟧
+| Der südliche Theil des obersächsischen Kreises, die Chur- und Fürstlichen Sächsische Länder vorstellend. Nürnberg 1783.
+| style="text-align:right; vertical-align:top;" | 40.⟦⟧
+| Bilder aus dem Königreiche Sachsen. Leipzig 1881.
+| style="text-align:right; vertical-align:top;" | 42.⟦⟧
+| Schulkarte des Königreichs Sachsen. Entworf. von v. Schlieben. Dresden 1810.
+| style="text-align:right; vertical-align:top;" | 45.⟦⟧
+| Delineatio geographica omnium Electoratus Saxonici circulo Lipsiensi appartenentium praefecturarum Colditium, Leissnigium, Rochlitium, praefectura Portae Grimmensis. Augsburg.
+| style="text-align:right; vertical-align:top;" | 46.⟦⟧
+| Geographische Delineation derer Aemter Freyberg, Frauenstein, Altenberg und Lauterstein. Amsterdam 1760.
+| style="text-align:right; vertical-align:top;" | 47.⟦⟧
+| Geographische Delineation derer Aemter Schwartzenberg, Wolckenstein, Grünhayn und Wiesenburg. Amsterdam 1761.
+| style="text-align:right; vertical-align:top;" | 48.⟦⟧
+| Delineation derer zum Chursächsisch-Gebürgischen Kreisse gehörigen Aemmter Augustusburg, Chemnitz, Sachsenburg mit Franckenberg und Stollberg. Amsterdam 1758.
+| style="text-align:right; vertical-align:top;" | 49.⟦⟧
+| Seutter, dynastiae Comitatus Schoenburgii ad circulum S. R. J. Saxoniae superiorem pertinentes geographica delineatione adumbratae. Augsburg.
+| style="text-align:right; vertical-align:top;" | 51.⟦⟧
+| Bestandskarte des Börnicher Reviers in der Oberforstmeisterei Zschopau und dem Amte Augustusburg 1813.
+⟦⟧
+| style="text-align:right; vertical-align:top; width:40px" | 54.⟦⟧
+| Schäfer, Arn., Tabelle zur sächsischen Geschichte. Leipzig 1863.
+| style="text-align:right; vertical-align:top;" | 57.⟦⟧
+| Albinus, [http://digital.slub-dresden.de/id264502388 Meissnische Land- und Bergchronica]. 2 Theile. Dresden 1589–1590.
+| style="text-align:right; vertical-align:top;" | 58.⟦⟧
+| Klotzsch, J. Fr., Ursprung der Bergwerke in Sachsen. Chemnitz 1764.
+| style="text-align:right; vertical-align:top;" | 60.⟦⟧
+| Georgii Fabricii., Chemn., rerum Misnicarum libri VII. Leipzig o. J.
+| style="text-align:right; vertical-align:top;" | 63.⟦⟧
+| Glafey, Ad. Fr., Kern der Geschichte des Chur- und Fürstlichen Hauses von Sachsen. Nürnberg 1753.
+-->
+	</Page>
+</PcGts>

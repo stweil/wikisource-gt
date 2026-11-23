@@ -1,0 +1,462 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:25:39</Created>
+		<LastChange>2026-11-23T14:25:39</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/152 revision 4648283 of 2025-10-30T07:48:23Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0152.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro17354330084200115100" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="18" regionRef="r18" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,313 8,313 8,543 0,543" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,585 7,585 7,609 0,609" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="504,176 580,176 580,192 504,192" />
+			<!-- line left out: id="r2l0" points="504,181 551,176 570,176 580,177 580,192 551,192 514,182 504,182" baseline="504,192 580,192" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 144
+ | german_print2_15: — 144
+ -->
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="368,224 370,224 370,232 368,232" />
+		</GraphicRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="177,214 913,214 913,1371 177,1371" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="206,214 218,214 231,219 266,221 267,229 286,222 329,218 349,218 350,225 377,225 391,218 403,218 403,226 438,225 516,228 516,222 529,222 552,231 566,223 578,223 579,229 598,230 611,224 626,224 626,231 675,232 675,224 689,224 698,232 710,227 715,227 732,230 776,228 784,232 845,230 887,233 896,231 907,231 912,233 912,252 896,252 888,252 866,248 822,245 647,246 626,241 452,240 391,234 377,228 367,233 267,233 254,231 206,230" />
+				<Baseline points="206,229 751,243 844,247 912,247" />
+				<TextEquiv index="1">
+					<Unicode>davon, es müsse denn sein, dass der Bürgermeister Streubel (1658)</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="205,246 217,246 218,240 230,240 230,247 320,248 347,254 354,254 356,244 425,245 426,251 445,251 454,244 457,244 485,253 520,248 531,248 557,255 564,249 576,249 577,255 649,252 688,252 689,259 712,259 714,253 726,253 726,261 776,256 835,256 835,262 846,262 848,256 859,256 881,257 882,263 892,258 904,258 905,265 913,265 913,274 812,271 812,277 799,277 799,271 788,271 780,277 776,277 748,270 726,269 649,268 613,266 426,267 425,261 372,260 372,267 356,267 354,259 347,259 325,253 320,258 205,256" />
+				<Baseline points="205,255 913,274" />
+				<TextEquiv index="1">
+					<Unicode>oder seine Nachfolger nach ihrem Gutdünken ungebührliche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="204,266 222,266 229,273 304,274 343,271 406,271 406,277 445,272 457,272 511,279 511,272 513,272 567,275 567,281 592,276 683,278 696,279 698,286 715,280 727,280 727,287 738,287 739,280 750,280 752,288 763,286 776,281 781,281 781,287 911,284 911,300 898,300 804,299 715,295 701,289 696,294 403,287 376,291 343,291 326,285 304,289 291,289 252,283 204,282" />
+				<Baseline points="204,282 834,297 911,300" />
+				<TextEquiv index="1">
+					<Unicode>Neuerungen ergriffen hätten. Der Rath solle bedenken, wie viel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="204,292 219,292 226,299 262,294 274,294 276,300 292,302 307,294 313,294 351,296 353,303 395,297 397,303 441,304 442,298 453,298 454,305 465,305 466,299 515,300 522,306 551,301 565,301 565,307 631,309 631,303 643,303 644,310 695,310 726,312 726,305 737,305 739,312 765,307 777,307 796,313 797,307 809,307 835,308 838,315 863,314 869,310 887,310 894,316 912,316 912,328 887,330 869,330 863,324 608,319 204,308" />
+				<Baseline points="204,308 912,325" />
+				<TextEquiv index="1">
+					<Unicode>Bier die Dörfer innerhalb der Bannmeile aus der Stadt bezögen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l4" custom="readingOrder {index:4;}">
+				<Coords points="204,324 228,325 229,319 240,319 241,333 283,326 306,326 317,328 335,322 352,322 353,328 364,328 365,322 371,322 371,328 385,323 404,323 404,329 418,322 436,322 442,328 501,331 521,334 523,327 534,327 535,334 558,333 559,327 570,327 571,341 596,328 608,328 616,336 625,336 645,330 650,330 652,336 695,331 696,337 724,335 728,339 745,333 786,333 790,339 803,339 804,333 815,333 823,340 905,341 912,345 912,348 905,351 767,349 745,348 725,341 724,347 404,344 392,339 353,338 343,344 335,344 317,337 241,337 204,335" />
+				<Baseline points="204,334 912,352" />
+				<TextEquiv index="1">
+					<Unicode>und, seine Unbilligkeit einsehend, die berührte Anforderung in-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l5" custom="readingOrder {index:5;}">
+				<Coords points="204,345 215,345 235,345 236,351 274,352 277,345 279,345 320,347 321,353 365,349 396,349 407,350 409,356 504,358 504,352 553,353 554,361 586,355 601,355 602,361 622,359 665,361 709,357 711,363 756,359 757,366 781,365 789,363 876,361 878,367 891,364 903,364 912,368 912,377 854,377 586,371 473,367 471,373 465,373 464,366 365,366 307,363 204,361" />
+				<Baseline points="204,360 912,377" />
+				<TextEquiv index="1">
+					<Unicode>hibiren. Zum Schluss spricht der Amtmann die bereits erwähnte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l6" custom="readingOrder {index:6;}">
+				<Coords points="204,371 215,371 253,372 254,378 334,380 334,374 396,375 397,382 420,384 421,376 433,376 434,383 478,383 479,377 488,377 504,378 512,384 584,387 585,380 599,380 599,388 647,382 649,390 659,386 683,383 705,383 706,390 728,389 757,385 776,385 783,393 795,393 822,386 834,386 834,394 873,387 884,387 885,395 896,393 911,393 911,404 896,404 610,397 545,398 521,395 279,394 267,389 204,387" />
+				<Baseline points="204,387 555,396 911,403" />
+				<TextEquiv index="1">
+					<Unicode>Drohung auf Wiedereinführung des Getreidemarktes bei dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l7" custom="readingOrder {index:7;}">
+				<Coords points="226,398 244,398 252,406 335,406 335,416 298,416 226,414" />
+				<Baseline points="226,414 285,414 335,416" />
+				<TextEquiv index="1">
+					<Unicode>hlosse aus.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l8" custom="readingOrder {index:8;}">
+				<Coords points="255,424 262,424 277,426 323,427 357,432 388,431 415,435 415,428 427,428 429,436 441,436 460,429 481,431 502,430 503,437 529,437 529,444 555,432 566,432 568,445 593,439 598,432 609,432 631,438 667,434 681,434 682,442 692,442 693,435 705,435 706,441 737,441 779,437 797,437 808,442 809,451 848,441 892,446 893,440 904,440 905,446 912,446 912,456 838,454 808,458 799,458 797,452 681,450 647,455 638,455 637,449 529,448 427,444 255,441" />
+				<Baseline points="255,441 409,443 912,456" />
+				<TextEquiv index="1">
+					<Unicode>Die Antwort des Rathes, d. d. 17. Februar 1684, ist sehr</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l9" points="201,457 212,456 223,456 245,456 256,457 258,451 262,451 272,457 284,452 294,452 312,458 324,458 335,460 337,453 342,453 343,459 354,459 354,453 367,453 381,457 402,460 402,453 404,453 455,455 481,456 493,457 514,457 516,470 540,457 548,457 548,464 567,464 588,465 590,459 602,459 603,467 613,467 627,460 639,460 640,466 657,466 681,467 682,461 694,461 694,468 705,468 767,468 795,469 803,464 826,464 840,473 846,471 867,471 891,479 893,479 893,481 846,481 803,480 795,478 705,481 694,481 682,477 640,476 520,475 474,475 470,475 404,473 324,473 312,473 256,472 244,472 244,466 223,466 212,466 201,465" baseline="201,465 403,470 454,471 716,477 866,480 893,481" reason: models differ | Wikisource: energisch gehalten. Es fehlt, für die damalige Zeit wohl ein E | next_nc_e1: energisch gehalten. Es fehlt, für die damalige Zeit wohl ein E | german_print2_15: energisch gehalten. Es fehlt, für die damalige Zeit wohl ein E- -->
+			<TextLine id="r4l10" custom="readingOrder {index:10;}">
+				<Coords points="200,483 249,482 258,485 268,486 272,491 289,478 295,478 296,484 307,484 307,478 319,478 320,486 330,486 344,479 361,479 374,484 382,480 394,480 396,487 408,484 437,487 437,494 459,482 470,482 472,488 483,488 506,483 518,483 519,489 551,490 552,484 562,484 578,492 606,491 625,485 676,487 695,493 732,492 747,494 754,492 843,491 845,504 877,491 883,491 911,498 911,508 900,508 519,500 506,499 488,493 483,498 437,500 416,497 350,495 344,483 330,494 296,494 295,500 289,500 258,493 230,497 218,497 200,492" />
+				<Baseline points="200,492 911,508" />
+				<TextEquiv index="1">
+					<Unicode>eigniss, jede Titulatur, die durch ein P. P. vertreten wird. Der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l11" custom="readingOrder {index:11;}">
+				<Coords points="200,504 215,504 279,509 320,506 327,510 350,506 360,506 361,512 408,513 429,507 434,507 435,514 446,514 448,508 458,508 468,516 478,512 582,511 584,519 626,512 637,512 638,520 649,513 654,513 656,519 667,519 688,514 700,514 701,521 722,520 742,522 744,515 754,515 756,521 769,521 783,515 789,515 804,517 830,517 831,524 850,525 854,530 875,519 896,518 898,524 910,524 910,532 890,534 851,534 830,532 783,532 458,524 317,525 254,520 200,519" />
+				<Baseline points="200,518 910,533" />
+				<TextEquiv index="1">
+					<Unicode>Amtmann verlange, heisst es in dem Schreiben des Rathes, Ab-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l12" custom="readingOrder {index:12;}">
+				<Coords points="199,536 209,532 215,532 227,536 228,529 233,529 249,530 249,536 278,536 298,530 310,530 318,537 405,539 406,533 411,533 413,539 450,534 461,534 474,538 492,541 513,535 526,535 527,545 547,544 559,537 569,537 571,543 606,544 607,538 619,538 620,545 636,545 644,535 646,535 700,539 702,546 767,547 832,543 834,549 884,544 887,551 910,550 910,560 899,560 559,553 531,551 477,551 394,548 394,554 381,554 381,548 266,551 236,546 199,544" />
+				<Baseline points="199,544 910,560" />
+				<TextEquiv index="1">
+					<Unicode>stellung der vorgebrachten Beschwerden. Man müsse ihm aber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l13" custom="readingOrder {index:13;}">
+				<Coords points="199,555 211,555 211,563 223,561 246,561 254,556 274,556 281,563 302,563 317,557 329,557 336,564 396,564 444,560 446,568 456,568 457,560 462,560 464,569 475,565 488,565 508,567 521,570 522,562 526,562 563,563 563,569 597,564 623,564 625,571 748,573 750,567 754,567 756,575 768,575 784,569 847,569 875,576 877,570 899,570 901,576 909,576 909,586 877,586 847,584 756,584 664,581 498,580 488,577 292,574 199,570" />
+				<Baseline points="199,570 909,586" />
+				<TextEquiv index="1">
+					<Unicode>bemerken, dass man Geleitsgeld für Waaren niemals, für Getreide</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l14" custom="readingOrder {index:14;}">
+				<Coords points="198,587 231,588 250,582 262,582 263,589 339,590 340,584 352,584 352,591 364,591 365,585 377,585 377,593 421,586 426,586 428,592 439,587 451,587 453,593 469,593 469,600 494,594 588,596 595,590 599,590 601,596 635,591 661,591 680,599 686,599 686,592 692,592 693,598 737,594 772,594 774,601 792,596 814,595 833,602 845,602 852,596 862,596 864,602 875,602 875,596 887,596 888,603 908,603 908,613 845,614 833,614 680,608 469,605 421,602 198,598" />
+				<Baseline points="198,597 908,612" />
+				<TextEquiv index="1">
+					<Unicode>nur dann erhoben habe, wenn mehr als drei Scheffel geladen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l15" custom="readingOrder {index:15;}">
+				<Coords points="196,614 342,616 382,611 390,611 417,611 421,618 431,618 454,614 466,614 479,619 517,615 518,621 529,621 529,615 541,615 543,621 579,623 581,616 593,616 594,623 604,623 621,617 633,617 646,620 671,618 686,626 734,619 747,619 756,627 765,627 772,620 782,620 820,627 872,623 908,623 908,639 878,639 872,639 795,638 772,636 671,633 518,631 279,625 196,628" />
+				<Baseline points="196,623 908,639" />
+				<TextEquiv index="1">
+					<Unicode>gewesen seien. Dazu aber habe die Stadt ein Recht; wer sich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l16" custom="readingOrder {index:16;}">
+				<Coords points="197,640 210,635 215,635 217,641 238,641 251,635 263,635 265,641 330,643 364,638 380,638 382,644 401,641 444,639 445,647 456,647 457,640 468,640 475,646 517,647 518,641 530,641 568,643 569,650 575,650 581,643 593,643 599,649 613,647 662,650 663,644 674,644 675,650 704,650 733,646 748,646 757,652 778,646 794,646 814,647 821,654 839,654 846,648 856,648 857,654 907,655 907,666 900,666 834,663 530,657 504,661 487,661 444,655 413,654 317,657 307,652 197,650" />
+				<Baseline points="197,650 907,664" />
+				<TextEquiv index="1">
+					<Unicode>über die wegen Hinterziehung des Geleites erkannte Strafe beschwere,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l17" custom="readingOrder {index:17;}">
+				<Coords points="195,660 208,660 215,667 228,667 243,661 248,661 249,667 286,662 298,662 299,670 310,670 324,663 336,663 343,670 355,670 355,664 365,664 367,670 382,667 414,670 437,666 482,666 484,673 498,673 499,667 504,667 506,673 518,673 518,667 540,666 591,669 591,675 617,670 632,670 683,676 800,679 801,673 812,673 814,679 843,674 860,674 862,681 873,678 886,678 907,685 907,687 898,690 759,690 696,687 567,684 437,683 437,677 414,681 403,681 195,676" />
+				<Baseline points="195,676 907,691" />
+				<TextEquiv index="1">
+					<Unicode>der handle höchst ungebührlich. Der Amtmann möge den Unter-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l18" custom="readingOrder {index:18;}">
+				<Coords points="195,690 204,687 215,687 216,693 296,688 297,694 366,696 373,691 400,690 401,696 481,694 487,698 515,699 515,693 525,693 526,701 626,701 708,697 723,704 782,704 800,700 822,700 907,708 907,722 897,722 873,717 830,716 822,714 800,715 626,711 457,713 441,707 419,706 419,712 406,712 406,706 195,703" />
+				<Baseline points="195,702 907,717" />
+				<TextEquiv index="1">
+					<Unicode>thanen ihre unnöthigen Querelen verweisen und sie zur Abstattung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l19" custom="readingOrder {index:19;}">
+				<Coords points="195,713 213,713 223,719 253,714 265,714 265,720 276,720 277,714 282,714 284,721 295,721 295,715 327,715 328,722 340,722 342,716 346,716 346,722 377,720 416,723 417,717 422,717 424,724 434,724 435,718 447,718 455,722 479,725 480,732 498,725 533,726 533,720 545,720 557,721 559,727 579,727 592,721 596,721 633,722 635,728 678,723 688,723 703,729 764,724 766,730 802,731 822,726 834,726 834,732 881,733 882,727 894,727 895,733 906,733 906,743 862,747 847,747 822,742 766,740 484,736 328,736 265,730 195,729" />
+				<Baseline points="195,729 906,743" />
+				<TextEquiv index="1">
+					<Unicode>ihrer Schuldigkeit anhalten, nachdrücklich und zur Vermeidung der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l20" points="194,739 206,739 207,745 219,745 248,746 271,748 272,740 290,740 291,747 323,747 384,748 408,749 408,743 420,743 430,750 441,750 453,751 454,745 466,745 467,752 479,751 509,746 524,746 526,752 531,752 550,753 560,754 562,747 573,747 580,753 598,753 614,754 616,748 627,748 628,755 640,754 646,752 659,752 748,750 754,750 769,752 807,755 836,758 861,758 884,759 884,753 895,753 897,761 906,761 906,768 895,769 878,769 825,768 770,767 748,766 660,765 627,764 598,767 580,767 573,763 550,767 537,767 509,762 479,761 420,760 408,760 385,759 312,758 272,757 194,756" baseline="194,755 266,756 488,761 509,761 680,765 825,767 878,768 906,769" reason: differs: "en.Dami" against "n. – Da" | Wikisource:  | next_nc_e1: ihnen daraus erwachsenden Ungelegenheiten. Damit war die | german_print2_15: ihnen daraus erwachsenden Ungelegenheiten. Damit war die -->
+			<TextLine id="r4l21" custom="readingOrder {index:21;}">
+				<Coords points="192,766 205,766 205,772 228,772 228,766 233,766 234,772 265,767 270,767 272,773 308,773 319,775 320,768 355,767 362,771 362,784 355,789 308,789 295,789 295,783 192,781" />
+				<Baseline points="192,782 362,784" />
+				<TextEquiv index="1">
+					<Unicode>Sache beigelegt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l22" custom="readingOrder {index:22;}">
+				<Coords points="246,793 274,793 275,799 303,799 324,803 324,795 341,795 385,803 385,796 437,796 437,802 448,800 462,800 512,803 513,797 524,797 538,812 543,799 560,799 560,805 581,799 596,799 598,805 627,806 628,800 659,801 661,807 672,802 775,802 782,808 798,809 801,803 812,803 813,809 831,804 836,804 837,810 903,811 903,821 830,824 813,824 793,819 499,814 349,814 341,811 246,809" />
+				<Baseline points="246,809 903,821" />
+				<TextEquiv index="1">
+					<Unicode>Wenn Abt, Amtleute und Amtslandschaft das Privilegium im</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l23" custom="readingOrder {index:23;}">
+				<Coords points="191,824 203,824 204,818 216,818 216,825 259,825 267,820 284,820 291,826 353,821 355,828 374,827 400,829 400,822 410,822 411,828 444,823 460,823 460,829 471,829 472,823 487,823 531,830 532,823 557,823 557,833 595,831 619,826 630,826 685,827 688,833 718,834 719,828 730,828 755,835 761,829 775,829 775,835 817,832 837,836 837,830 849,830 873,837 903,837 903,847 873,847 665,842 648,844 595,842 565,839 507,840 454,838 313,837 216,840 216,834 191,834" />
+				<Baseline points="191,834 903,847" />
+				<TextEquiv index="1">
+					<Unicode>allgemeinen oder das Verbietungs- und Zollrecht der Stadt an-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l24" custom="readingOrder {index:24;}">
+				<Coords points="191,850 198,845 218,845 235,845 235,851 256,851 257,859 276,846 287,846 287,852 300,852 301,846 306,846 307,853 336,852 375,854 376,861 394,854 430,849 441,849 455,855 490,850 500,850 511,859 516,851 533,851 552,857 560,857 561,851 572,851 573,859 584,857 608,857 671,853 672,860 691,860 701,854 706,854 716,858 735,860 736,854 740,854 755,855 765,861 775,861 776,855 787,855 795,862 810,862 822,856 843,857 844,864 851,864 860,857 864,857 899,864 900,870 902,870 902,875 900,875 787,871 627,872 584,868 552,867 376,866 306,862 261,865 191,866" />
+				<Baseline points="191,860 902,873" />
+				<TextEquiv index="1">
+					<Unicode>griffen, indem sie, auch nach Anerkennung des städtischen Rechtes,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l25" custom="readingOrder {index:25;}">
+				<Coords points="190,876 214,877 223,879 237,872 264,872 264,878 295,878 295,872 309,872 309,879 324,879 342,873 355,873 356,879 390,874 423,875 431,881 443,881 445,875 456,875 457,881 481,879 510,882 532,877 543,877 550,883 581,881 605,884 606,892 630,886 636,886 637,879 647,879 649,885 692,886 694,880 705,880 707,888 716,888 732,881 745,881 751,885 763,887 770,881 783,881 801,888 808,882 819,882 820,888 850,888 867,897 873,884 888,884 902,889 902,899 867,899 663,895 574,898 431,896 411,891 393,890 393,896 390,896 375,889 190,887" />
+				<Baseline points="190,886 902,899" />
+				<TextEquiv index="1">
+					<Unicode>aus Gründen der Billigkeit verlangten, dass die Stadt ihren An-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l26" custom="readingOrder {index:26;}">
+				<Coords points="189,903 244,898 256,898 257,904 334,905 335,899 351,899 353,906 375,907 376,900 389,900 389,908 400,908 403,914 442,908 517,903 544,910 551,904 562,904 563,911 573,911 598,904 603,904 606,911 740,911 772,914 773,908 785,908 787,914 799,914 829,908 833,920 844,915 856,914 869,909 881,909 882,916 895,916 901,919 901,921 895,924 881,925 665,925 649,925 598,920 403,919 376,916 371,910 363,921 353,921 351,915 221,913 211,919 199,919 198,912 189,912" />
+				<Baseline points="189,913 901,925" />
+				<TextEquiv index="1">
+					<Unicode>sprüchen nachgebe, so sind die Irrungen mit der Landes-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l27" points="189,929 227,929 274,930 313,932 314,925 344,925 346,932 378,927 389,927 415,929 457,931 470,933 484,929 495,929 496,936 508,935 520,935 520,942 544,936 551,936 551,930 568,930 578,938 609,938 611,931 622,931 624,940 635,939 648,939 651,931 653,931 682,932 684,938 694,938 702,942 723,933 736,933 745,939 760,939 760,933 771,933 802,941 809,934 819,934 827,940 851,935 869,935 877,941 890,936 900,936 900,951 859,951 851,951 802,950 760,949 694,948 671,948 630,947 611,947 568,946 524,947 415,947 411,947 286,945 274,945 222,944 209,944 189,939" baseline="189,939 308,941 523,945 604,946 671,947 802,949 900,951" reason: differs: "ieséeda" against "iese da" | Wikisource:  | next_nc_e1: regierung dadurch entstanden, dass diesée das Recht der Stadt | german_print2_15: regierung dadurch entstanden, dass diese das Recht der Stadt -->
+			<TextLine id="r4l28" custom="readingOrder {index:28;}">
+				<Coords points="188,955 211,955 214,949 222,949 233,956 253,951 287,951 295,957 312,957 319,951 331,951 353,956 394,953 395,960 406,957 423,957 440,960 441,954 453,954 460,961 495,961 497,955 505,955 505,961 515,961 517,955 528,955 530,961 605,963 606,957 617,957 618,963 648,964 649,958 660,958 662,964 708,959 729,965 738,959 748,959 761,964 786,963 796,959 846,961 861,967 900,967 900,981 884,981 861,977 703,976 331,967 253,968 233,966 188,965" />
+				<Baseline points="188,965 900,977" />
+				<TextEquiv index="1">
+					<Unicode>auf ungehinderte Getreideeinfuhr zu schmälern trachtete. Es mag</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l29" custom="readingOrder {index:29;}">
+				<Coords points="187,981 197,981 216,976 229,976 246,976 270,977 271,983 281,983 284,977 292,977 315,985 335,985 336,978 358,978 377,985 390,985 390,979 401,979 418,987 425,980 438,980 438,986 466,981 479,981 486,985 498,987 499,981 510,981 534,988 569,988 570,982 580,982 602,991 648,984 670,984 671,991 679,991 686,984 691,984 723,991 741,991 741,985 756,985 770,992 807,993 814,986 824,986 826,993 857,993 857,987 867,987 900,994 900,1003 807,1006 795,1006 770,1002 347,996 336,994 297,993 187,992" />
+				<Baseline points="187,991 900,1003" />
+				<TextEquiv index="1">
+					<Unicode>zweifelhaft sein, ob der Stadt auch ein Recht auf ungehinderte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l30" custom="readingOrder {index:30;}">
+				<Coords points="186,1003 198,1002 204,1002 204,1009 216,1006 233,1006 250,1009 251,1003 263,1003 264,1010 310,1004 318,1004 318,1010 329,1010 330,1004 341,1004 343,1010 388,1011 398,1009 411,1009 435,1012 436,1006 543,1008 550,1014 585,1012 597,1015 610,1016 611,1009 620,1009 640,1016 646,1010 656,1010 657,1017 715,1017 715,1011 730,1011 745,1019 787,1013 792,1013 795,1019 832,1019 833,1013 850,1013 858,1019 870,1014 881,1014 888,1020 899,1020 899,1028 850,1032 833,1032 819,1029 792,1028 287,1020 204,1018 186,1016" />
+				<Baseline points="186,1017 899,1028" />
+				<TextEquiv index="1">
+					<Unicode>Getreideausfuhr zustand. Der Umstand, dass auf ein bezügliches</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l31" custom="readingOrder {index:31;}">
+				<Coords points="187,1028 201,1028 210,1035 229,1034 244,1029 302,1030 303,1037 321,1038 340,1031 356,1031 358,1038 382,1037 411,1038 420,1040 440,1032 492,1033 494,1039 509,1034 525,1034 527,1041 551,1035 597,1035 599,1042 609,1042 611,1035 622,1035 623,1042 667,1042 669,1036 682,1036 701,1051 706,1038 724,1037 735,1037 736,1043 800,1044 818,1042 840,1045 898,1046 898,1056 885,1056 446,1048 400,1052 399,1046 340,1047 258,1045 256,1051 244,1051 243,1044 187,1044" />
+				<Baseline points="187,1044 898,1056" />
+				<TextEquiv index="1">
+					<Unicode>Rescript des Herzogs Friedrich Wilhelm als Administrators von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l32" custom="readingOrder {index:32;}">
+				<Coords points="186,1054 211,1054 217,1060 257,1061 258,1055 270,1055 270,1063 340,1057 351,1057 366,1064 372,1057 383,1057 385,1065 397,1065 412,1058 464,1059 465,1065 504,1060 518,1060 519,1066 529,1066 542,1060 551,1060 552,1067 564,1067 565,1061 576,1061 577,1067 638,1062 640,1069 682,1068 684,1076 701,1063 712,1063 714,1071 724,1071 733,1073 745,1064 759,1064 761,1070 774,1066 796,1064 797,1071 834,1069 845,1071 898,1072 898,1082 724,1079 667,1082 640,1078 552,1076 551,1083 542,1083 529,1076 487,1075 478,1080 465,1080 445,1075 270,1071 186,1071" />
+				<Baseline points="186,1070 898,1081" />
+				<TextEquiv index="1">
+					<Unicode>Kursachsen und des Markgrafen Johann Georg, des Kurfürsten von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l33" custom="readingOrder {index:33;}">
+				<Coords points="185,1080 199,1080 200,1086 233,1081 245,1081 246,1088 257,1087 270,1082 282,1082 282,1088 316,1089 316,1096 348,1089 353,1083 366,1083 367,1089 401,1084 420,1084 447,1090 512,1092 513,1086 525,1086 525,1093 569,1087 596,1087 598,1093 628,1092 658,1094 667,1097 694,1089 751,1090 752,1103 779,1091 791,1091 793,1104 820,1091 841,1091 844,1098 897,1098 897,1110 868,1113 854,1113 854,1107 704,1110 694,1105 658,1104 569,1104 366,1099 303,1103 257,1098 185,1096" />
+				<Baseline points="185,1096 897,1109" />
+				<TextEquiv index="1">
+					<Unicode>Brandenburg, als Mitvormundes Christians II, d. d. Torgau,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l34" custom="readingOrder {index:34;}">
+				<Coords points="184,1107 196,1107 197,1119 215,1108 241,1108 320,1113 342,1113 342,1122 370,1116 393,1116 427,1110 443,1110 447,1117 512,1118 536,1113 555,1113 569,1118 593,1120 644,1118 699,1123 701,1116 713,1116 714,1122 740,1117 752,1117 759,1120 777,1122 778,1116 790,1116 808,1123 825,1123 832,1118 843,1118 855,1121 890,1124 896,1128 896,1130 890,1134 855,1134 844,1134 644,1130 593,1134 581,1134 549,1129 447,1131 443,1127 403,1126 342,1130 303,1130 285,1124 184,1123" />
+				<Baseline points="184,1122 896,1134" />
+				<TextEquiv index="1">
+					<Unicode>6. August 1597, eine Gegenvorstellung seitens der Stadt nicht er-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l35" custom="readingOrder {index:35;}">
+				<Coords points="184,1132 193,1132 193,1138 203,1138 204,1132 209,1132 209,1138 229,1136 245,1140 262,1133 266,1133 267,1140 288,1140 298,1137 304,1137 328,1141 375,1139 395,1136 397,1142 449,1144 451,1137 462,1137 463,1143 505,1145 505,1138 518,1138 519,1144 541,1139 553,1139 573,1145 579,1139 591,1139 602,1145 613,1145 620,1140 661,1141 663,1147 689,1142 729,1142 737,1148 764,1150 774,1142 781,1142 802,1143 803,1149 823,1144 833,1144 840,1150 888,1150 897,1152 897,1159 850,1163 840,1163 833,1159 420,1154 288,1149 237,1153 231,1148 222,1154 209,1154 209,1148 184,1148" />
+				<Baseline points="184,1148 897,1160" />
+				<TextEquiv index="1">
+					<Unicode>folgte, lässt vermuthen, dass der Stadt auf Grund ihres Privilegiums</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l36" custom="readingOrder {index:36;}">
+				<Coords points="182,1166 189,1166 189,1159 200,1159 247,1159 255,1167 303,1166 310,1161 320,1161 321,1167 368,1168 368,1162 380,1162 405,1169 411,1163 423,1163 423,1169 434,1169 435,1163 446,1163 469,1170 493,1171 493,1164 505,1164 506,1171 517,1171 519,1165 524,1165 525,1171 547,1168 562,1172 562,1164 599,1165 602,1171 632,1174 634,1166 646,1166 647,1174 695,1174 711,1168 717,1168 733,1169 734,1175 791,1173 841,1176 842,1170 852,1170 867,1176 888,1176 895,1180 895,1183 888,1187 785,1190 774,1190 772,1184 612,1182 562,1185 482,1179 482,1185 469,1185 454,1179 277,1176 275,1182 269,1182 269,1176 182,1175" />
+				<Baseline points="182,1175 895,1187" />
+				<TextEquiv index="1">
+					<Unicode>ein Einspruchsrecht nicht gebührte. In diesem Rescript wird zu-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l37" custom="readingOrder {index:37;}">
+				<Coords points="181,1190 216,1191 217,1185 229,1185 270,1193 270,1186 282,1186 312,1193 349,1193 349,1187 361,1187 362,1194 384,1194 400,1188 423,1188 455,1196 510,1196 568,1192 608,1192 610,1199 647,1198 688,1201 689,1194 700,1194 702,1200 724,1200 724,1194 735,1194 761,1200 784,1201 786,1195 796,1195 832,1196 872,1203 878,1197 895,1197 895,1212 853,1212 836,1212 713,1210 665,1211 624,1208 510,1206 487,1209 475,1209 464,1206 181,1201" />
+				<Baseline points="181,1200 895,1212" />
+				<TextEquiv index="1">
+					<Unicode>nächst des reichen Erntesegens in Sachsen gedacht und Gott ob</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l38" custom="readingOrder {index:38;}">
+				<Coords points="180,1217 196,1217 196,1211 207,1211 208,1217 283,1216 305,1213 334,1213 335,1219 364,1220 378,1214 393,1214 393,1220 432,1221 434,1215 445,1215 446,1223 496,1217 507,1217 508,1225 520,1223 526,1220 546,1217 608,1218 609,1224 620,1219 631,1219 645,1226 668,1226 675,1220 710,1220 722,1224 725,1233 744,1220 755,1220 757,1226 791,1227 806,1233 811,1222 823,1222 825,1228 850,1228 870,1231 870,1223 881,1223 883,1229 891,1229 891,1239 870,1239 864,1239 729,1237 645,1238 483,1235 466,1232 180,1227" />
+				<Baseline points="180,1227 891,1239" />
+				<TextEquiv index="1">
+					<Unicode>seiner väterlichen Barmherzigkeit höchlich gedankt, dann aber der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l39" custom="readingOrder {index:39;}">
+				<Coords points="180,1237 202,1237 202,1243 238,1243 251,1241 271,1241 300,1245 300,1239 315,1239 315,1245 392,1246 424,1244 425,1254 447,1242 459,1242 466,1247 512,1248 546,1243 557,1243 558,1250 570,1249 582,1244 601,1244 603,1250 615,1245 625,1245 627,1251 675,1246 698,1246 720,1252 762,1247 774,1247 781,1253 819,1248 833,1248 843,1252 854,1254 871,1254 872,1248 884,1248 885,1256 894,1256 894,1265 872,1265 685,1262 359,1261 346,1255 327,1256 215,1253 215,1259 202,1259 202,1253 180,1253" />
+				<Baseline points="180,1253 894,1265" />
+				<TextEquiv index="1">
+					<Unicode>Eigennutz derer gerügt, die zu schändlichem Gewinn das Getreide</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l40" custom="readingOrder {index:40;}">
+				<Coords points="179,1268 203,1269 205,1263 214,1263 225,1264 237,1269 250,1270 252,1264 260,1264 266,1267 331,1271 332,1265 343,1265 362,1272 422,1273 426,1267 437,1267 438,1273 451,1268 528,1269 529,1277 561,1275 571,1277 571,1283 599,1276 610,1276 619,1278 622,1271 644,1271 664,1277 696,1277 712,1283 718,1278 763,1280 766,1273 777,1273 778,1279 788,1279 789,1273 800,1273 801,1280 837,1276 854,1276 892,1281 892,1291 883,1291 735,1288 664,1290 610,1286 571,1287 528,1285 179,1279" />
+				<Baseline points="179,1279 892,1291" />
+				<TextEquiv index="1">
+					<Unicode>aufkauften und ausserhalb Sachsens, wohl gar an solchen Orten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l41" custom="readingOrder {index:41;}">
+				<Coords points="179,1294 201,1294 211,1289 223,1289 243,1289 264,1290 264,1297 287,1296 287,1304 304,1296 328,1297 337,1299 350,1292 363,1292 363,1299 435,1299 443,1302 456,1294 469,1294 481,1299 510,1295 560,1295 571,1296 573,1302 584,1302 585,1296 597,1296 598,1303 608,1303 620,1297 633,1297 640,1303 675,1297 693,1297 694,1304 725,1302 743,1299 780,1299 799,1305 833,1306 849,1300 871,1301 892,1304 892,1317 833,1319 821,1319 757,1315 677,1313 287,1309 275,1307 231,1309 211,1306 179,1305" />
+				<Baseline points="179,1305 892,1317" />
+				<TextEquiv index="1">
+					<Unicode>verkauften, aus denen es dem Erbfeinde der Christenheit zugeführt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l42" custom="readingOrder {index:42;}">
+				<Coords points="178,1320 188,1315 201,1315 234,1315 234,1321 263,1316 290,1316 318,1320 321,1316 374,1318 374,1325 417,1325 417,1319 538,1321 538,1327 552,1327 553,1321 558,1321 559,1328 571,1325 654,1323 655,1329 675,1329 690,1323 704,1323 705,1330 734,1330 734,1324 750,1324 750,1331 761,1330 782,1325 794,1325 801,1331 848,1332 866,1339 870,1332 879,1327 891,1327 891,1343 871,1343 842,1347 824,1347 794,1342 750,1341 612,1344 612,1338 474,1337 178,1331" />
+				<Baseline points="178,1331 891,1343" />
+				<TextEquiv index="1">
+					<Unicode>werden sollte. Dies wird als Verletzung der Landesordnung, als</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l43" custom="readingOrder {index:43;}">
+				<Coords points="177,1340 195,1340 196,1346 236,1347 236,1341 248,1341 249,1348 280,1343 288,1343 310,1348 317,1344 356,1344 356,1350 369,1350 406,1345 430,1345 430,1351 519,1352 519,1360 542,1353 554,1353 555,1347 560,1347 562,1356 569,1356 587,1348 625,1348 626,1354 634,1354 658,1349 669,1349 670,1355 706,1356 724,1350 736,1350 737,1356 748,1356 773,1352 789,1352 834,1357 865,1353 883,1353 884,1361 891,1361 891,1369 706,1371 694,1371 694,1365 670,1366 560,1363 519,1368 499,1368 482,1363 370,1360 369,1366 356,1366 356,1360 297,1359 288,1366 280,1366 259,1358 177,1357" />
+				<Baseline points="177,1357 891,1369" />
+				<TextEquiv index="1">
+					<Unicode>Ursache unnöthiger Theuerung, als Bedrückung der Armen, als</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>davon, es müsse denn sein, dass der Bürgermeister Streubel (1658)
+oder seine Nachfolger nach ihrem Gutdünken ungebührliche
+Neuerungen ergriffen hätten. Der Rath solle bedenken, wie viel
+Bier die Dörfer innerhalb der Bannmeile aus der Stadt bezögen,
+und, seine Unbilligkeit einsehend, die berührte Anforderung in-
+hibiren. Zum Schluss spricht der Amtmann die bereits erwähnte
+Drohung auf Wiedereinführung des Getreidemarktes bei dem
+hlosse aus.
+Die Antwort des Rathes, d. d. 17. Februar 1684, ist sehr
+eigniss, jede Titulatur, die durch ein P. P. vertreten wird. Der
+Amtmann verlange, heisst es in dem Schreiben des Rathes, Ab-
+stellung der vorgebrachten Beschwerden. Man müsse ihm aber
+bemerken, dass man Geleitsgeld für Waaren niemals, für Getreide
+nur dann erhoben habe, wenn mehr als drei Scheffel geladen
+gewesen seien. Dazu aber habe die Stadt ein Recht; wer sich
+über die wegen Hinterziehung des Geleites erkannte Strafe beschwere,
+der handle höchst ungebührlich. Der Amtmann möge den Unter-
+thanen ihre unnöthigen Querelen verweisen und sie zur Abstattung
+ihrer Schuldigkeit anhalten, nachdrücklich und zur Vermeidung der
+Sache beigelegt.
+Wenn Abt, Amtleute und Amtslandschaft das Privilegium im
+allgemeinen oder das Verbietungs- und Zollrecht der Stadt an-
+griffen, indem sie, auch nach Anerkennung des städtischen Rechtes,
+aus Gründen der Billigkeit verlangten, dass die Stadt ihren An-
+sprüchen nachgebe, so sind die Irrungen mit der Landes-
+auf ungehinderte Getreideeinfuhr zu schmälern trachtete. Es mag
+zweifelhaft sein, ob der Stadt auch ein Recht auf ungehinderte
+Getreideausfuhr zustand. Der Umstand, dass auf ein bezügliches
+Rescript des Herzogs Friedrich Wilhelm als Administrators von
+Kursachsen und des Markgrafen Johann Georg, des Kurfürsten von
+Brandenburg, als Mitvormundes Christians II, d. d. Torgau,
+6. August 1597, eine Gegenvorstellung seitens der Stadt nicht er-
+folgte, lässt vermuthen, dass der Stadt auf Grund ihres Privilegiums
+ein Einspruchsrecht nicht gebührte. In diesem Rescript wird zu-
+nächst des reichen Erntesegens in Sachsen gedacht und Gott ob
+seiner väterlichen Barmherzigkeit höchlich gedankt, dann aber der
+Eigennutz derer gerügt, die zu schändlichem Gewinn das Getreide
+aufkauften und ausserhalb Sachsens, wohl gar an solchen Orten
+verkauften, aus denen es dem Erbfeinde der Christenheit zugeführt
+werden sollte. Dies wird als Verletzung der Landesordnung, als
+Ursache unnöthiger Theuerung, als Bedrückung der Armen, als</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="344,243 347,243 347,259 344,259" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="877,285 895,285 895,302 877,302" />
+		</GraphicRegion>
+		<GraphicRegion id="r7">
+			<Coords points="420,329 427,329 427,340 420,340" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="855,358 869,358 869,377 855,377" />
+		</GraphicRegion>
+		<GraphicRegion id="r9">
+			<Coords points="202,399 223,399 223,413 202,413" />
+		</GraphicRegion>
+		<GraphicRegion id="r10">
+			<Coords points="646,446 651,446 651,451 646,451" />
+		</GraphicRegion>
+		<GraphicRegion id="r11">
+			<Coords points="726,458 915,458 915,485 726,485" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="268,589 272,589 272,598 268,598" />
+		</GraphicRegion>
+		<GraphicRegion id="r13">
+			<Coords points="399,618 418,618 418,628 399,628" />
+		</GraphicRegion>
+		<GraphicRegion id="r14">
+			<Coords points="532,830 555,830 555,840 532,840" />
+		</GraphicRegion>
+		<GraphicRegion id="r15">
+			<Coords points="213,956 279,956 279,991 213,991" />
+		</GraphicRegion>
+		<GraphicRegion id="r16">
+			<Coords points="380,1035 394,1035 394,1050 380,1050" />
+		</GraphicRegion>
+		<GraphicRegion id="r17">
+			<Coords points="287,1186 295,1186 295,1202 287,1202" />
+		</GraphicRegion>
+		<TextRegion id="r18" custom="readingOrder {index:18;} orientation {0;}">
+			<Coords points="394,1549 658,1549 658,1561 394,1561" />
+			<!-- line left out: id="r18l0" points="394,1549 402,1549 408,1550 422,1549 434,1549 456,1549 469,1549 494,1549 524,1549 553,1549 571,1549 638,1549 644,1550 658,1550 658,1558 571,1560 545,1560 524,1558 452,1561 441,1561 426,1561 415,1560 407,1560 394,1558" baseline="394,1558 658,1558" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnpdigital slub-dresden delppn301259642152
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r19">
+			<Coords points="933,0 982,0 982,1585 933,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+davon, es müsse denn sein, dass der Bürgermeister Streubel (1658)
+oder seine Nachfolger nach ihrem Gutdünken ungebührliche
+Neuerungen ergriffen hätten. Der Rath solle bedenken, wie viel
+Bier die Dörfer innerhalb der Bannmeile aus der Stadt bezögen,
+und, seine Unbilligkeit einsehend, die berührte Anforderung
+inhibiren. Zum Schluss spricht der Amtmann die bereits erwähnte
+Drohung auf Wiedereinführung des Getreidemarktes bei dem
+Schlosse aus.
+Die Antwort des Rathes, d. d. 17. Februar 1684, ist sehr
+energisch gehalten. Es fehlt, für die damalige Zeit wohl ein
+Ereigniss, jede Titulatur, die durch ein P. P. vertreten wird. Der
+Amtmann verlange, heisst es in dem Schreiben des Rathes,
+Abstellung der vorgebrachten Beschwerden. Man müsse ihm aber
+bemerken, dass man Geleitsgeld für Waaren niemals, für Getreide
+nur dann erhoben habe, wenn mehr als drei Scheffel geladen
+gewesen seien. Dazu aber habe die Stadt ein Recht; wer sich
+über die wegen Hinterziehung des Geleites erkannte Strafe beschwere,
+der handle höchst ungebührlich. Der Amtmann möge den
+Unterthanen ihre unnöthigen Querelen verweisen und sie zur Abstattung
+ihrer Schuldigkeit anhalten, nachdrücklich und zur Vermeidung der
+ihnen daraus erwachsenden Ungelegenheiten. – Damit war die
+Sache beigelegt.
+Wenn Abt, Amtleute und Amtslandschaft das Privilegium im
+allgemeinen oder das Verbietungs- und Zollrecht der Stadt
+angriffen, indem sie, auch nach Anerkennung des städtischen Rechtes,
+aus Gründen der Billigkeit verlangten, dass die Stadt ihren
+Ansprüchen nachgebe, so sind die Irrungen mit der
+Landesregierung dadurch entstanden, dass diese das Recht der Stadt
+auf ungehinderte Getreideeinfuhr zu schmälern trachtete. Es mag
+zweifelhaft sein, ob der Stadt auch ein Recht auf ungehinderte
+Getreideausfuhr zustand. Der Umstand, dass auf ein bezügliches
+Rescript des Herzogs Friedrich Wilhelm als Administrators von
+Kursachsen und des Markgrafen Johann Georg, des Kurfürsten von
+Brandenburg, als Mitvormundes Christians II, d. d. Torgau,
+6. August 1597, eine Gegenvorstellung seitens der Stadt nicht
+erfolgte, lässt vermuthen, dass der Stadt auf Grund ihres Privilegiums
+ein Einspruchsrecht nicht gebührte. In diesem Rescript wird
+zunächst des reichen Erntesegens in Sachsen gedacht und Gott ob
+seiner väterlichen Barmherzigkeit höchlich gedankt, dann aber der
+Eigennutz derer gerügt, die zu schändlichem Gewinn das Getreide
+aufkauften und ausserhalb Sachsens, wohl gar an solchen Orten
+verkauften, aus denen es dem Erbfeinde der Christenheit zugeführt
+werden sollte. Dies wird als Verletzung der Landesordnung, als
+Ursache unnöthiger Theuerung, als Bedrückung der Armen, als
+-->
+	</Page>
+</PcGts>

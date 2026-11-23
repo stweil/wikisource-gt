@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:31:30</Created>
+		<LastChange>2026-11-23T14:31:30</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/224 revision 4693477 of 2025-12-19T09:20:55Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0224.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro18233281863200282414" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="493,151 629,151 629,182 493,182" />
+			<!-- line left out: id="r0l0" points="493,165 544,160 562,155 603,151 629,151 629,182 603,182 603,172 544,172 493,167" baseline="493,171 513,171 629,173" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 216 —
+ | german_print2_15: — 2¹6 —
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="199,199 926,199 926,1279 199,1279" />
+			<!-- line left out: id="r1l0" points="213,199 225,199 232,200 233,206 268,206 277,207 291,201 310,201 312,207 322,207 346,207 374,203 393,203 393,209 410,209 417,204 432,204 434,210 444,210 453,211 465,205 480,205 485,206 487,212 516,212 527,214 528,207 533,207 548,213 572,208 611,208 623,209 637,214 659,215 659,209 677,209 678,215 690,213 711,211 733,211 733,217 744,217 745,211 761,211 775,215 787,218 788,212 796,211 798,211 845,213 860,214 874,221 881,221 881,215 899,215 899,221 918,221 924,226 924,228 918,232 893,232 881,232 837,231 828,231 760,228 729,227 659,226 626,225 611,224 548,224 528,223 498,222 487,222 360,221 347,221 335,218 331,224 323,224 322,217 303,218 291,218 257,217 213,216" baseline="213,215 374,219 582,223 828,229 924,232" reason: differs: "dien" against "Meye" | Wikisource:  | next_nc_e1: diener Meyer, Kanzler Flessel und Consulent Wachtel. Oft über- | german_print2_15: diener Meyer, Kanzler Flessel und Consulent Wachtel. Oſt über- -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="213,229 241,232 243,226 250,226 264,232 283,233 297,227 309,227 310,233 332,234 347,228 364,228 394,229 401,233 413,235 459,237 459,231 470,231 485,238 517,233 529,233 530,240 541,240 542,233 553,233 567,240 591,240 592,234 604,234 605,240 616,235 628,235 629,242 683,236 695,236 696,242 731,237 753,237 772,238 773,244 809,239 821,239 822,245 853,240 865,240 878,246 887,246 898,242 904,242 925,247 925,258 905,258 213,242" />
+				<Baseline points="213,241 925,258" />
+				<TextEquiv index="1">
+					<Unicode>traf er den Dichter und verlieh unbedeutenden Rollen durch seine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="213,251 236,251 243,258 268,256 279,260 280,253 293,253 295,259 331,260 344,254 377,254 405,256 421,263 446,263 447,257 458,257 494,258 495,264 506,259 519,259 552,265 553,259 564,259 565,266 577,264 590,264 593,258 595,258 631,261 632,267 646,267 646,261 662,261 670,267 708,262 720,262 721,269 779,264 783,264 802,271 826,271 827,265 838,265 851,272 864,267 870,267 881,272 891,267 925,268 925,284 748,285 735,285 734,279 709,278 540,281 539,275 320,275 313,270 243,269 236,275 223,275 223,268 213,268" />
+				<Baseline points="213,267 925,284" />
+				<TextEquiv index="1">
+					<Unicode>Darstellung Werth und Wichtigkeit. Immer Original und niemals</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="212,277 229,277 230,284 253,279 289,279 291,285 369,286 457,290 585,292 604,291 625,287 658,287 658,294 670,294 671,301 706,289 719,289 719,295 766,290 787,290 832,297 833,291 841,291 841,298 851,298 852,292 864,292 891,299 915,299 915,293 926,293 926,310 821,313 808,313 808,307 775,306 775,313 766,313 747,305 658,309 604,307 585,302 562,307 549,307 543,302 457,301 381,303 381,297 369,302 350,303 329,296 212,295" />
+				<Baseline points="212,294 625,302 926,310" />
+				<TextEquiv index="1">
+					<Unicode>Nachahmer ging er seinen eigenen Weg. Sein Zartgefühl und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="212,310 251,311 281,307 309,306 321,306 328,311 341,312 406,313 432,309 443,309 445,318 463,316 480,310 506,310 512,317 523,315 602,313 621,317 667,320 668,314 680,314 680,320 714,315 733,315 734,321 761,317 777,317 802,322 824,318 842,318 843,324 908,319 909,325 926,325 926,336 878,340 867,340 855,335 806,333 486,327 407,325 383,323 366,329 354,329 353,323 212,321" />
+				<Baseline points="212,320 926,336" />
+				<TextEquiv index="1">
+					<Unicode>seine Achtung vor der Kunst verboten ihm die Anwendung der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="213,331 230,331 233,337 272,337 305,332 321,332 346,333 346,339 364,334 378,334 404,340 415,348 417,332 419,332 456,336 457,342 490,337 501,337 518,343 541,338 551,338 553,344 563,344 564,338 576,338 576,345 586,345 602,339 615,339 615,345 626,340 638,340 649,345 689,339 703,339 709,346 757,342 769,347 778,348 795,342 809,342 809,349 822,344 840,344 867,345 872,350 926,351 926,362 906,362 821,360 703,362 679,362 672,362 671,356 553,355 501,353 415,354 394,351 213,347" />
+				<Baseline points="213,346 926,362" />
+				<TextEquiv index="1">
+					<Unicode>kleinen Hilfsmittel, durch welche Schauspieler das Publikum zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="212,363 224,363 226,357 237,357 238,363 279,363 300,358 312,358 313,365 385,360 400,368 461,368 476,362 490,363 491,370 503,369 510,363 540,364 555,370 606,371 606,365 642,365 648,366 650,372 679,367 691,367 691,374 790,374 792,382 823,370 850,366 864,366 864,376 879,371 891,371 900,366 914,366 914,372 925,372 925,388 914,388 914,397 900,397 900,388 864,387 864,397 850,397 850,386 606,383 212,373" />
+				<Baseline points="212,373 925,388" />
+				<TextEquiv index="1">
+					<Unicode>überraschen und seinen Beifall zu erschleichen wissen. Manchmal</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l7" points="211,383 224,383 234,389 257,384 267,384 281,392 287,391 293,390 305,390 342,391 352,392 367,386 403,386 409,393 422,388 433,388 447,394 452,389 465,389 477,394 488,395 489,389 494,389 507,390 516,389 537,389 537,379 553,379 562,396 586,396 596,397 597,391 609,391 621,392 622,398 650,398 683,398 736,399 785,400 795,401 805,402 818,396 831,396 831,402 852,402 888,397 906,397 907,403 919,403 925,407 925,410 919,414 888,414 852,413 762,416 749,416 736,410 553,412 537,412 465,408 452,408 372,404 305,404 293,404 288,400 246,400 211,399" baseline="211,398 367,402 537,406 735,410 888,413 925,414" reason: differs: "brac" against "⟦⟧ h" | Wikisource:  | next_nc_e1: brach er, wie Iffland erzählt, ) nachdem er eine ganze Scene hin- | german_print2_15: brach er, wie Iffland erzählt,'¹) nachdem er eine ganze Scene hin- -->
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="211,409 223,409 225,415 236,415 257,410 268,410 283,416 329,411 344,411 344,418 444,420 445,414 456,414 485,415 489,421 591,421 591,431 614,418 625,418 626,424 677,424 727,420 727,427 769,421 782,421 782,427 792,427 793,421 811,421 812,428 853,428 855,438 877,429 926,430 926,440 858,440 855,440 769,437 591,435 575,433 568,439 555,439 555,433 376,434 376,428 211,425" />
+				<Baseline points="211,425 926,440" />
+				<TextEquiv index="1">
+					<Unicode>durch mit Energie und Feuer agirt, kurz vor dem Schlusse, wenn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="211,443 257,442 259,436 263,436 264,442 321,443 322,437 333,437 347,444 368,444 422,440 429,446 454,441 466,441 466,447 478,445 554,444 594,450 595,444 624,444 625,451 643,450 656,445 667,445 681,451 705,446 717,446 731,452 795,447 821,448 827,454 843,454 856,448 868,448 868,455 879,455 879,449 897,449 898,455 926,455 926,466 752,468 741,468 739,462 554,460 454,461 245,457 211,452" />
+				<Baseline points="211,451 926,466" />
+				<TextEquiv index="1">
+					<Unicode>er glänzend zu enden hatte, vorsätzlich ab und sprach den Schluss</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l10" points="211,468 223,468 231,466 243,466 269,469 298,469 311,470 348,469 355,469 376,471 376,478 396,472 407,472 414,470 428,470 439,472 454,473 455,467 461,467 463,473 478,473 489,474 489,467 502,467 514,468 515,476 526,475 534,475 544,469 566,469 566,475 583,470 597,470 598,484 615,476 636,471 653,471 668,477 686,477 711,478 711,472 717,472 718,478 749,478 779,474 784,474 808,474 819,479 831,480 838,474 848,470 862,470 862,476 871,476 884,481 919,482 926,486 926,488 919,492 896,492 896,498 883,498 883,492 862,492 862,502 848,502 848,492 838,492 820,491 785,490 730,489 603,488 566,488 553,488 544,486 489,485 463,484 449,483 380,483 347,485 330,485 311,480 280,480 269,485 256,485 243,479 231,479 211,478" baseline="211,478 242,478 379,482 396,482 602,486 926,492" reason: second model: differs: "äassigt" against "ässigte" | Wikisource: mit gemässigter, unterdrückter Kraft, weil er einer solchen Gelegen | next_nc_e1: mit gemässigter, unterdrückter Kraft, weil er einer solchen Gelegen- | german_print2_15: mit gemäassigter, unterdrückter Kraft, weil er einer solchen Gelegen- -->
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="211,488 223,488 224,496 241,492 249,492 249,502 270,489 282,489 283,495 360,493 374,497 429,498 466,495 532,495 551,501 574,502 588,496 600,496 601,502 612,502 621,505 635,496 649,496 650,503 661,503 662,497 700,498 701,504 755,499 756,505 775,500 785,500 793,504 794,513 816,506 828,506 846,501 858,501 866,505 919,508 926,512 926,515 919,518 798,520 794,520 777,516 484,516 482,510 249,508 211,505" />
+				<Baseline points="211,504 926,519" />
+				<TextEquiv index="1">
+					<Unicode>heit, die er für einen Appell an das Publikum hielt, nichts ver-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l12" custom="readingOrder {index:12;}">
+				<Coords points="211,514 223,514 224,520 249,515 260,515 261,521 317,522 322,517 334,517 343,521 358,523 358,517 360,517 406,518 407,524 427,524 445,520 464,520 464,526 525,527 557,523 631,523 632,529 660,525 689,524 689,530 751,526 781,526 781,532 799,533 799,526 811,526 812,532 830,530 910,528 910,534 926,534 926,550 910,550 910,544 859,543 849,549 830,549 829,543 759,542 759,549 751,549 725,545 713,541 702,540 701,546 689,546 689,540 612,544 557,544 557,538 211,531" />
+				<Baseline points="211,530 926,545" />
+				<TextEquiv index="1">
+					<Unicode>danken wollte. War aber ein energischer Abgang unbedingt nöthig,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l13" custom="readingOrder {index:13;}">
+				<Coords points="210,548 252,542 269,542 292,542 307,550 327,549 327,556 349,550 424,551 426,545 437,545 438,552 473,547 485,547 486,553 523,548 548,548 571,555 585,549 598,549 599,555 622,549 636,549 676,550 687,555 695,556 709,550 722,550 723,557 755,552 767,552 778,557 848,559 849,553 867,553 868,559 926,560 926,571 905,576 892,576 892,570 664,566 327,563 307,559 210,557" />
+				<Baseline points="210,557 926,571" />
+				<TextEquiv index="1">
+					<Unicode>so wich er, wenn ihm der laute Beifall der Zuschauer erklungen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l14" custom="readingOrder {index:14;}">
+				<Coords points="209,573 329,575 344,569 358,569 359,576 403,577 404,571 415,571 417,578 457,573 481,573 482,579 509,574 534,574 560,575 560,581 653,582 654,576 665,576 680,582 745,583 800,579 848,579 849,585 882,580 897,580 899,586 919,586 925,590 925,593 919,597 899,597 528,590 457,591 417,588 323,586 219,588 209,583" />
+				<Baseline points="209,583 925,597" />
+				<TextEquiv index="1">
+					<Unicode>war, seinen Freunden absichtlich aus und war in merklicher Ver-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l15" custom="readingOrder {index:15;}">
+				<Coords points="210,593 215,593 216,599 263,600 265,594 277,594 277,602 289,599 298,599 298,593 301,593 332,596 344,601 368,597 380,597 381,603 404,604 422,598 438,598 438,604 481,605 482,599 494,599 495,606 546,604 569,607 572,615 597,602 609,602 616,608 709,609 710,603 722,603 723,609 787,608 800,611 840,611 840,601 854,601 859,606 860,612 873,612 873,601 887,601 911,610 925,613 925,623 887,623 887,632 873,632 873,622 860,622 854,632 840,632 840,622 823,627 787,627 787,621 576,619 469,621 467,615 227,616 227,610 210,610" />
+				<Baseline points="210,610 925,623" />
+				<TextEquiv index="1">
+					<Unicode>legenheit bei den Complimenten, die man ihm entgegenbrachte.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l16" points="209,620 232,620 232,626 260,621 265,621 284,621 286,627 306,627 326,628 333,626 351,626 374,629 375,623 380,623 388,629 399,624 411,624 412,631 423,630 449,625 463,625 471,632 487,631 492,627 511,627 530,632 564,628 567,628 588,631 594,628 605,628 607,634 622,633 629,633 710,630 716,630 717,636 728,636 739,637 751,630 775,630 792,631 793,638 804,637 854,637 869,638 869,628 882,628 885,632 915,633 926,638 926,655 915,655 915,649 882,649 882,659 869,659 862,654 862,648 793,648 785,647 775,648 761,648 699,646 567,645 548,649 530,649 530,643 486,647 471,647 464,642 423,641 382,640 333,639 265,638 260,638 217,637 209,636" baseline="209,636 321,638 547,643 689,645 814,647 926,649" reason: second model: differs: "orgsalt" against "orgfält" | Wikisource: Bei aller natürlichen Begabung studirte er seine Rollen sorgfältig | next_nc_e1: Bei aller natürlichen Begabung studirte er seine Rollen sorgſältig | german_print2_15: Bei aller natürlichen Begabung studirte er seine Rollen sorgſaltig -->
+			<TextLine id="r1l17" custom="readingOrder {index:17;}">
+				<Coords points="209,652 221,647 232,647 234,653 238,653 239,660 262,654 274,654 275,647 287,647 288,654 331,654 331,648 337,648 338,654 405,656 406,650 417,650 434,658 441,658 441,651 453,651 454,659 498,653 522,653 527,659 551,654 569,654 569,660 582,660 583,653 602,653 602,661 637,655 649,655 651,661 682,661 683,655 693,655 707,668 710,657 723,657 724,663 769,660 778,657 789,657 790,663 800,663 801,657 833,657 833,663 907,659 908,665 926,665 926,675 833,678 759,678 747,678 747,672 569,676 569,670 406,667 239,666 209,662" />
+				<Baseline points="209,662 692,672 926,675" />
+				<TextEquiv index="1">
+					<Unicode>ein, ohne dass sich diese Genauigkeit durch Aengstlichkeit in der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l18" custom="readingOrder {index:18;}">
+				<Coords points="209,673 231,673 239,678 265,677 276,680 278,674 289,674 292,680 316,680 370,676 370,682 387,680 403,676 409,676 409,682 424,682 451,678 463,678 463,685 475,682 499,682 506,686 506,695 218,695 218,689 209,689" />
+				<Baseline points="209,689 342,691 506,696" />
+				<TextEquiv index="1">
+					<Unicode>Darstellung verrathen hätte.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l19" custom="readingOrder {index:19;}">
+				<Coords points="261,700 284,700 286,707 295,707 311,701 335,701 360,705 367,708 380,709 381,702 392,702 393,709 434,704 446,704 447,711 459,710 481,705 506,705 506,711 537,712 537,706 549,706 557,712 607,713 620,707 632,707 632,713 644,708 649,708 662,713 719,714 720,708 725,708 727,716 828,710 835,710 835,716 907,717 907,711 919,711 925,715 925,728 702,724 701,730 689,730 688,724 367,724 367,718 261,716" />
+				<Baseline points="261,716 925,728" />
+				<TextEquiv index="1">
+					<Unicode>Die Thätigkeit der Mannheimer Schauspieler war aber nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l20" custom="readingOrder {index:20;}">
+				<Coords points="208,732 212,726 232,726 234,732 245,732 246,726 289,726 291,734 310,733 324,727 338,727 339,734 351,734 352,728 364,728 364,735 486,737 487,731 499,731 500,739 512,735 594,739 595,733 606,733 621,734 630,739 694,735 750,735 764,736 764,742 784,741 813,737 842,737 852,742 869,743 869,737 881,737 908,738 909,744 924,744 924,754 858,754 796,752 796,758 784,758 784,752 512,750 469,747 447,747 435,752 423,752 423,746 208,742" />
+				<Baseline points="208,741 924,754" />
+				<TextEquiv index="1">
+					<Unicode>allein der Bühne zugewendet; sie sollten nach Dalbergs Absicht im</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l21" custom="readingOrder {index:21;}">
+				<Coords points="208,752 225,752 226,758 318,758 377,755 378,761 488,763 522,758 543,758 553,765 564,765 564,759 575,759 577,765 619,760 629,760 646,766 665,761 713,761 713,767 724,767 726,761 741,761 780,768 824,763 840,763 924,769 924,780 914,780 914,786 894,786 877,780 700,777 696,764 682,776 657,777 553,776 476,773 275,775 275,769 263,774 244,774 208,769" />
+				<Baseline points="208,768 924,780" />
+				<TextEquiv index="1">
+					<Unicode>Umgang mit Männern von Geschmack und Talent zur Höhe ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l22" custom="readingOrder {index:22;}">
+				<Coords points="207,785 227,785 228,779 240,779 241,787 261,785 262,779 274,779 302,779 308,780 310,786 327,786 328,780 335,780 335,787 356,787 356,779 359,779 419,782 421,789 498,790 498,784 516,784 535,791 543,791 543,785 555,785 559,791 575,791 575,785 585,785 592,786 594,793 614,792 615,786 626,786 626,792 638,792 639,786 648,786 691,787 691,793 711,793 711,785 713,785 752,789 765,794 786,794 787,788 797,788 799,794 826,794 826,788 830,788 854,795 923,796 923,807 897,811 875,811 865,806 765,804 711,807 668,803 592,801 576,802 555,807 535,807 516,801 445,805 445,799 207,795" />
+				<Baseline points="207,795 923,807" />
+				<TextEquiv index="1">
+					<Unicode>sellschaftlicher Bildung und gesellschaftlichen Ansehens empor-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l23" custom="readingOrder {index:23;}">
+				<Coords points="206,811 216,808 260,808 265,811 306,806 318,806 319,813 335,813 349,807 365,807 365,815 388,814 388,808 401,808 401,814 424,809 430,809 443,813 480,816 496,810 526,811 526,817 598,812 620,815 630,819 631,826 650,812 662,812 669,820 679,820 695,813 718,813 724,819 746,817 843,815 850,821 878,822 891,816 916,816 917,826 923,826 923,829 916,833 843,832 815,835 798,835 786,831 585,829 539,827 499,828 480,832 461,832 461,826 235,827 216,822 206,822" />
+				<Baseline points="206,821 923,833" />
+				<TextEquiv index="1">
+					<Unicode>steigen; die Beobachtung feinerer Sitte, die Erweiterung ihres all-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l24" custom="readingOrder {index:24;}">
+				<Coords points="205,837 279,838 313,833 334,833 335,839 354,840 354,833 367,833 367,839 421,835 422,841 438,842 449,836 464,836 465,842 493,841 511,844 513,837 521,837 521,843 575,844 577,838 582,838 582,844 598,844 629,839 640,839 641,845 674,845 674,839 688,839 689,846 715,845 731,847 731,840 741,840 742,846 783,841 795,841 808,846 828,847 829,841 840,841 841,847 924,849 924,859 902,864 890,864 889,858 544,859 544,853 465,853 459,851 396,854 205,853" />
+				<Baseline points="205,847 924,859" />
+				<TextEquiv index="1">
+					<Unicode>gemeinen Wissens, die Vertiefung ihrer künstlerischen Anschauungen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l25" custom="readingOrder {index:25;}">
+				<Coords points="206,858 218,858 231,863 251,864 252,858 263,858 294,858 294,865 351,863 357,866 379,861 390,861 391,867 414,862 427,862 446,868 447,862 459,862 461,868 507,864 540,864 555,868 577,864 589,864 590,871 684,872 699,866 708,866 708,873 720,873 721,867 732,867 771,874 771,867 780,867 780,873 801,873 801,867 814,867 821,874 830,874 831,868 850,868 857,874 874,874 913,869 923,869 923,886 913,886 577,881 556,874 555,880 206,874" />
+				<Baseline points="206,873 923,885" />
+				<TextEquiv index="1">
+					<Unicode>durch theoretische Studien sollte ihnen zum Lebensbedürfniss und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l26" custom="readingOrder {index:26;}">
+				<Coords points="205,890 245,885 269,885 276,890 287,892 288,885 300,885 302,892 329,892 329,886 341,886 342,892 355,892 364,886 377,886 377,895 388,895 389,888 408,888 437,893 449,889 460,889 468,893 534,896 560,896 562,890 575,890 579,897 596,897 620,891 661,892 663,899 739,899 739,893 752,893 765,897 795,900 795,893 808,893 809,901 819,901 833,895 894,895 895,901 907,899 923,901 923,911 857,911 846,915 833,915 688,914 688,908 532,907 505,911 493,911 482,906 388,904 245,906 205,901" />
+				<Baseline points="205,900 504,906 923,911" />
+				<TextEquiv index="1">
+					<Unicode>zur Quelle der Selbstachtung werden. Dalberg suchte die gebildete</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l27" custom="readingOrder {index:27;}">
+				<Coords points="205,916 230,917 230,911 278,911 298,911 300,918 336,918 346,912 355,912 355,919 365,919 366,913 372,913 373,919 407,921 425,915 445,915 469,919 491,916 503,916 504,922 541,917 560,917 567,923 599,918 610,918 611,925 647,924 688,919 726,919 727,925 750,925 752,933 779,920 811,925 842,926 842,920 857,920 861,926 895,921 907,921 908,927 923,927 923,938 895,938 504,933 491,932 469,926 469,932 397,936 384,936 384,930 336,934 316,934 316,928 264,927 264,936 260,936 242,927 205,927" />
+				<Baseline points="205,926 923,938" />
+				<TextEquiv index="1">
+					<Unicode>und bildungsfähige Elite der Mannheimer Bühne, besonders die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l28" custom="readingOrder {index:28;}">
+				<Coords points="205,937 217,937 227,942 238,944 239,937 284,937 284,945 320,939 332,939 333,946 340,946 362,939 370,939 376,940 376,946 393,946 395,940 400,940 401,954 425,941 439,941 440,949 451,947 463,942 473,942 490,948 502,948 509,943 571,943 571,950 595,950 596,944 607,944 611,957 633,944 645,944 647,951 678,951 679,945 689,945 704,952 838,952 845,948 877,947 878,953 888,953 889,947 901,947 901,953 922,954 922,964 809,962 803,968 797,968 782,962 740,967 727,967 727,961 401,960 376,957 205,953" />
+				<Baseline points="205,953 922,964" />
+				<TextEquiv index="1">
+					<Unicode>drei Freunde Beil, Beck und Iffland, durch engeren persönlichen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l29" custom="readingOrder {index:29;}">
+				<Coords points="206,963 221,963 222,969 243,969 244,963 249,963 249,969 267,964 273,964 273,970 324,970 365,972 366,966 377,966 391,973 428,967 446,967 455,974 475,974 476,968 499,967 547,969 561,976 590,976 592,970 608,970 633,974 745,972 746,978 774,978 789,972 820,972 839,978 871,974 922,974 922,990 794,990 789,990 247,981 206,979" />
+				<Baseline points="206,979 922,990" />
+				<TextEquiv index="1">
+					<Unicode>Verkehr an sich zu fesseln. Er machte sie mit dem kleinen Kreis</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l30" custom="readingOrder {index:30;}">
+				<Coords points="203,995 213,992 221,992 230,995 241,996 242,990 255,990 255,996 276,996 323,992 359,992 391,993 408,996 421,994 441,994 446,1000 468,995 481,995 481,1001 492,1001 493,995 504,995 504,1001 549,1000 550,1009 584,997 624,997 625,1003 680,1003 681,997 686,997 686,1003 752,1004 754,998 765,998 766,1004 777,1004 778,1012 797,1005 803,999 815,999 816,1005 887,1006 887,1000 899,1000 901,1007 921,1006 921,1016 912,1017 901,1017 782,1017 778,1017 766,1015 580,1013 550,1015 441,1010 323,1010 295,1008 203,1006" />
+				<Baseline points="203,1006 921,1016" />
+				<TextEquiv index="1">
+					<Unicode>strebsamer Schriftsteller bekannt, welcher sich um ihn, der zuweilen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l31" custom="readingOrder {index:31;}">
+				<Coords points="203,1022 213,1021 225,1016 244,1016 280,1025 280,1017 293,1017 294,1023 305,1018 317,1018 325,1021 344,1022 356,1025 356,1032 374,1025 420,1025 469,1028 470,1021 506,1022 533,1025 545,1029 546,1035 572,1023 602,1023 607,1029 624,1027 629,1023 660,1023 661,1029 744,1031 745,1025 808,1025 814,1031 824,1031 826,1025 838,1025 838,1032 921,1032 921,1042 912,1043 900,1043 545,1039 374,1041 326,1035 203,1032" />
+				<Baseline points="203,1032 482,1037 921,1042" />
+				<TextEquiv index="1">
+					<Unicode>selbst dichtete, gesammelt hatte. Hier finden wir den Freiherrn von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l32" custom="readingOrder {index:32;}">
+				<Coords points="203,1042 220,1042 221,1048 331,1050 365,1046 382,1046 383,1052 394,1052 394,1046 406,1046 407,1052 470,1047 471,1053 503,1055 504,1048 518,1048 518,1054 532,1054 546,1062 559,1057 564,1049 576,1049 578,1055 596,1053 623,1055 623,1049 635,1049 636,1057 658,1056 673,1050 696,1050 696,1056 760,1054 808,1057 815,1051 826,1051 826,1057 841,1052 847,1052 847,1059 858,1059 859,1052 871,1052 871,1065 893,1058 920,1058 920,1069 875,1070 871,1070 815,1068 800,1066 786,1060 776,1060 775,1067 566,1066 557,1068 449,1069 448,1063 289,1065 271,1060 203,1059" />
+				<Baseline points="203,1058 920,1069" />
+				<TextEquiv index="1">
+					<Unicode>Gemmingen, welcher 1780 den „deutschen Hausvater“ schrieb, ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l33" custom="readingOrder {index:33;}">
+				<Coords points="203,1068 218,1068 240,1068 261,1069 270,1075 306,1076 341,1072 379,1072 379,1085 402,1072 422,1072 422,1079 453,1080 453,1074 467,1074 468,1081 492,1079 501,1075 544,1075 552,1081 571,1082 584,1076 601,1076 602,1082 643,1082 645,1076 677,1076 679,1082 690,1077 714,1077 721,1083 733,1081 780,1083 781,1077 823,1078 843,1081 890,1079 890,1085 914,1085 920,1089 920,1091 914,1091 914,1101 901,1101 901,1095 383,1090 293,1092 293,1086 249,1085 240,1092 226,1092 226,1085 203,1085" />
+				<Baseline points="203,1085 920,1095" />
+				<TextEquiv index="1">
+					<Unicode>Familiengemälde, das die thatlose Gemüthlichkeit und Gutmüthig-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l34" custom="readingOrder {index:34;}">
+				<Coords points="203,1095 215,1095 215,1102 226,1102 227,1095 232,1095 258,1101 271,1096 276,1096 277,1102 322,1103 322,1097 336,1097 336,1104 364,1101 374,1105 387,1098 402,1098 402,1105 455,1100 467,1100 474,1106 504,1101 516,1101 524,1107 581,1102 582,1109 604,1108 618,1102 640,1102 640,1108 672,1108 681,1103 692,1103 707,1106 784,1110 794,1107 838,1104 839,1110 862,1111 876,1105 920,1105 920,1121 754,1119 752,1125 746,1125 729,1119 524,1118 426,1115 426,1121 413,1121 413,1115 356,1114 355,1106 336,1107 336,1113 322,1114 203,1111" />
+				<Baseline points="203,1111 920,1121" />
+				<TextEquiv index="1">
+					<Unicode>keit als edelste Züge des deutschen Charakters preist; den Hof-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l35" custom="readingOrder {index:35;}">
+				<Coords points="201,1127 253,1122 265,1122 273,1125 318,1123 318,1129 337,1124 357,1124 358,1130 374,1130 374,1124 387,1124 394,1131 439,1131 462,1133 462,1126 476,1126 476,1133 503,1133 503,1140 520,1127 532,1127 533,1134 565,1134 566,1128 607,1128 614,1134 632,1132 640,1128 651,1128 652,1136 672,1136 684,1130 695,1129 708,1129 744,1135 774,1136 798,1126 812,1126 833,1130 833,1136 856,1137 858,1131 866,1131 866,1137 920,1137 920,1152 910,1152 898,1148 812,1146 812,1156 798,1156 798,1146 502,1146 436,1142 387,1147 358,1147 357,1140 201,1143" />
+				<Baseline points="201,1137 920,1148" />
+				<TextEquiv index="1">
+					<Unicode>gerichtsrath Meyer, welcher, durch Goethes Götz zur Nacheiferung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l36" custom="readingOrder {index:36;}">
+				<Coords points="201,1153 303,1152 304,1162 324,1156 349,1154 376,1157 390,1151 403,1151 403,1158 432,1158 447,1152 461,1152 461,1158 473,1153 492,1153 538,1154 539,1160 558,1160 571,1154 585,1154 585,1161 597,1160 603,1157 677,1161 714,1156 768,1152 781,1152 798,1160 820,1162 839,1157 851,1157 852,1163 869,1163 869,1152 882,1152 886,1163 897,1158 919,1157 919,1174 882,1183 869,1183 869,1173 791,1173 781,1183 768,1183 768,1172 677,1172 659,1170 646,1171 623,1176 610,1176 610,1170 234,1169 212,1164 201,1164" />
+				<Baseline points="201,1163 526,1169 919,1174" />
+				<TextEquiv index="1">
+					<Unicode>ermuntert, unter dem Beifall der Zeitgenossen das Ritterschauspiel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l37" custom="readingOrder {index:37;}">
+				<Coords points="201,1179 208,1174 220,1174 239,1174 264,1175 282,1178 330,1176 331,1182 380,1183 414,1178 427,1178 427,1184 438,1179 470,1179 471,1185 496,1185 496,1178 529,1180 529,1186 540,1186 541,1180 553,1180 553,1186 589,1181 601,1181 601,1188 612,1188 614,1181 625,1181 625,1187 707,1182 758,1182 770,1187 807,1188 848,1186 857,1183 868,1183 884,1190 908,1184 919,1184 919,1200 890,1200 297,1195 274,1192 246,1191 220,1195 208,1195 201,1190" />
+				<Baseline points="201,1190 919,1200" />
+				<TextEquiv index="1">
+					<Unicode>cultivirte; den aus Schillers Leben bekannten Hofkammerrath und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l38" custom="readingOrder {index:38;}">
+				<Coords points="202,1200 215,1200 216,1207 239,1207 240,1201 277,1203 295,1208 295,1202 309,1202 309,1209 321,1208 342,1203 355,1203 355,1209 366,1204 378,1204 379,1210 423,1210 443,1212 443,1205 451,1205 451,1211 484,1206 501,1206 503,1212 591,1207 599,1213 610,1213 610,1207 622,1207 623,1214 633,1214 646,1207 738,1208 749,1211 750,1217 760,1214 791,1209 821,1215 845,1215 845,1209 857,1209 888,1210 912,1215 918,1220 918,1222 901,1231 888,1231 839,1226 760,1230 759,1224 738,1224 738,1230 726,1230 721,1225 549,1223 412,1224 391,1221 202,1217" />
+				<Baseline points="202,1217 918,1226" />
+				<TextEquiv index="1">
+					<Unicode>Buchhändler Schwan, der eine ziemliche Zahl Lustspiele und Ope-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l39" custom="readingOrder {index:39;}">
+				<Coords points="200,1233 221,1230 236,1230 248,1233 286,1234 296,1228 309,1228 316,1234 327,1229 339,1229 347,1233 392,1230 392,1236 404,1234 449,1236 473,1232 516,1233 543,1236 640,1233 641,1240 661,1234 701,1234 726,1240 727,1234 739,1234 747,1238 781,1241 782,1235 810,1235 824,1241 886,1236 903,1236 910,1242 919,1242 919,1252 843,1252 609,1249 272,1250 259,1244 200,1243" />
+				<Baseline points="200,1243 437,1247 919,1252" />
+				<TextEquiv index="1">
+					<Unicode>retten gedichtet hat; auch Gotter aus Gotha stellte sich ein. Die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l40" custom="readingOrder {index:40;}">
+				<Coords points="199,1259 248,1254 272,1254 293,1254 344,1255 344,1261 360,1256 372,1256 372,1262 412,1257 418,1263 436,1263 436,1257 442,1257 443,1263 454,1258 466,1258 474,1261 530,1259 541,1264 561,1262 582,1265 582,1259 594,1259 594,1265 619,1260 636,1260 637,1266 668,1266 669,1260 681,1260 682,1266 702,1261 733,1260 742,1261 743,1274 761,1261 773,1261 774,1267 816,1267 825,1261 841,1261 842,1268 862,1268 862,1262 874,1262 886,1267 898,1268 899,1262 911,1262 911,1272 917,1272 917,1275 911,1279 887,1279 406,1275 199,1269" />
+				<Baseline points="199,1269 406,1273 917,1279" />
+				<TextEquiv index="1">
+					<Unicode>von Karl Theodor errichtete deutsche Gesellschaft, deren Verhand-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>traf er den Dichter und verlieh unbedeutenden Rollen durch seine
+Darstellung Werth und Wichtigkeit. Immer Original und niemals
+Nachahmer ging er seinen eigenen Weg. Sein Zartgefühl und
+seine Achtung vor der Kunst verboten ihm die Anwendung der
+kleinen Hilfsmittel, durch welche Schauspieler das Publikum zu
+überraschen und seinen Beifall zu erschleichen wissen. Manchmal
+durch mit Energie und Feuer agirt, kurz vor dem Schlusse, wenn
+er glänzend zu enden hatte, vorsätzlich ab und sprach den Schluss
+heit, die er für einen Appell an das Publikum hielt, nichts ver-
+danken wollte. War aber ein energischer Abgang unbedingt nöthig,
+so wich er, wenn ihm der laute Beifall der Zuschauer erklungen
+war, seinen Freunden absichtlich aus und war in merklicher Ver-
+legenheit bei den Complimenten, die man ihm entgegenbrachte.
+ein, ohne dass sich diese Genauigkeit durch Aengstlichkeit in der
+Darstellung verrathen hätte.
+Die Thätigkeit der Mannheimer Schauspieler war aber nicht
+allein der Bühne zugewendet; sie sollten nach Dalbergs Absicht im
+Umgang mit Männern von Geschmack und Talent zur Höhe ge-
+sellschaftlicher Bildung und gesellschaftlichen Ansehens empor-
+steigen; die Beobachtung feinerer Sitte, die Erweiterung ihres all-
+gemeinen Wissens, die Vertiefung ihrer künstlerischen Anschauungen
+durch theoretische Studien sollte ihnen zum Lebensbedürfniss und
+zur Quelle der Selbstachtung werden. Dalberg suchte die gebildete
+und bildungsfähige Elite der Mannheimer Bühne, besonders die
+drei Freunde Beil, Beck und Iffland, durch engeren persönlichen
+Verkehr an sich zu fesseln. Er machte sie mit dem kleinen Kreis
+strebsamer Schriftsteller bekannt, welcher sich um ihn, der zuweilen
+selbst dichtete, gesammelt hatte. Hier finden wir den Freiherrn von
+Gemmingen, welcher 1780 den „deutschen Hausvater“ schrieb, ein
+Familiengemälde, das die thatlose Gemüthlichkeit und Gutmüthig-
+keit als edelste Züge des deutschen Charakters preist; den Hof-
+gerichtsrath Meyer, welcher, durch Goethes Götz zur Nacheiferung
+ermuntert, unter dem Beifall der Zeitgenossen das Ritterschauspiel
+cultivirte; den aus Schillers Leben bekannten Hofkammerrath und
+Buchhändler Schwan, der eine ziemliche Zahl Lustspiele und Ope-
+retten gedichtet hat; auch Gotter aus Gotha stellte sich ein. Die
+von Karl Theodor errichtete deutsche Gesellschaft, deren Verhand-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r2">
+			<Coords points="688,341 709,341 709,357 688,357" />
+		</GraphicRegion>
+		<GraphicRegion id="r3">
+			<Coords points="593,528 606,528 606,539 593,539" />
+		</GraphicRegion>
+		<GraphicRegion id="r4">
+			<Coords points="347,1105 351,1105 351,1113 347,1113" />
+		</GraphicRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="245,1336 662,1336 662,1357 245,1357" />
+			<!-- line left out: id="r5l0" points="245,1336 264,1336 300,1337 336,1342 346,1339 385,1339 394,1340 446,1340 472,1343 482,1345 491,1340 493,1340 536,1341 557,1342 557,1353 584,1343 600,1343 642,1343 662,1345 662,1356 642,1357 623,1357 547,1356 535,1356 473,1355 421,1354 346,1353 326,1352 316,1352 253,1351 245,1343" baseline="245,1350 560,1355 641,1356 662,1357" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ¹) Almanach fürs Theater. 1808. S. 168 f.
+ | german_print2_15: ¹²) Almanach fürs Theater. 1808. S. 168 f.
+ -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="394,1539 658,1539 658,1567 394,1567" />
+			<!-- line left out: id="r6l0" points="394,1549 401,1549 408,1550 413,1552 422,1549 426,1539 433,1539 443,1539 443,1550 447,1550 453,1549 456,1549 469,1549 474,1539 481,1539 481,1549 494,1549 533,1549 533,1539 547,1539 547,1549 591,1549 611,1550 658,1550 658,1558 591,1560 547,1560 547,1567 533,1567 533,1560 524,1560 481,1558 481,1567 474,1567 474,1558 443,1558 443,1567 433,1567 426,1567 426,1558 413,1560 407,1560 394,1558" baseline="394,1558 533,1557 658,1558" reason: differs: "hupe" against "erha" | Wikisource:  | next_nc_e1: hupe digſtal slud dresden de ppn30288642224
+ | german_print2_15: üPdefal acb desdenm de opne401239e2 222
+ -->
+		</TextRegion>
+		<GraphicRegion id="r7">
+			<Coords points="939,0 983,0 983,1585 939,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Meyer, Kanzler Flessel und Consulent Wachtel. Oft
+übertraf er den Dichter und verlieh unbedeutenden Rollen durch seine
+Darstellung Werth und Wichtigkeit. Immer Original und niemals
+Nachahmer ging er seinen eigenen Weg. Sein Zartgefühl und
+seine Achtung vor der Kunst verboten ihm die Anwendung der
+kleinen Hilfsmittel, durch welche Schauspieler das Publikum zu
+überraschen und seinen Beifall zu erschleichen wissen. Manchmal
+brach er, wie Iffland erzählt,⟦⟧ nachdem er eine ganze Scene
+hindurch mit Energie und Feuer agirt, kurz vor dem Schlusse, wenn
+er glänzend zu enden hatte, vorsätzlich ab und sprach den Schluss
+mit gemässigter, unterdrückter Kraft, weil er einer solchen
+Gelegenheit, die er für einen Appell an das Publikum hielt, nichts
+verdanken wollte. War aber ein energischer Abgang unbedingt nöthig,
+so wich er, wenn ihm der laute Beifall der Zuschauer erklungen
+war, seinen Freunden absichtlich aus und war in merklicher
+Verlegenheit bei den Complimenten, die man ihm entgegenbrachte.
+Bei aller natürlichen Begabung studirte er seine Rollen sorgfältig
+ein, ohne dass sich diese Genauigkeit durch Aengstlichkeit in der
+Darstellung verrathen hätte.
+Die Thätigkeit der Mannheimer Schauspieler war aber nicht
+allein der Bühne zugewendet; sie sollten nach Dalbergs Absicht im
+Umgang mit Männern von Geschmack und Talent zur Höhe
+gesellschaftlicher Bildung und gesellschaftlichen Ansehens
+emporsteigen; die Beobachtung feinerer Sitte, die Erweiterung ihres
+allgemeinen Wissens, die Vertiefung ihrer künstlerischen Anschauungen
+durch theoretische Studien sollte ihnen zum Lebensbedürfniss und
+zur Quelle der Selbstachtung werden. Dalberg suchte die gebildete
+und bildungsfähige Elite der Mannheimer Bühne, besonders die
+drei Freunde Beil, Beck und Iffland, durch engeren persönlichen
+Verkehr an sich zu fesseln. Er machte sie mit dem kleinen Kreis
+strebsamer Schriftsteller bekannt, welcher sich um ihn, der zuweilen
+selbst dichtete, gesammelt hatte. Hier finden wir den Freiherrn von
+Gemmingen, welcher 1780 den „deutschen Hausvater“ schrieb, ein
+Familiengemälde, das die thatlose Gemüthlichkeit und
+Gutmüthigkeit als edelste Züge des deutschen Charakters preist; den
+Hofgerichtsrath Meyer, welcher, durch Goethes Götz zur Nacheiferung
+ermuntert, unter dem Beifall der Zeitgenossen das Ritterschauspiel
+cultivirte; den aus Schillers Leben bekannten Hofkammerrath und
+Buchhändler Schwan, der eine ziemliche Zahl Lustspiele und
+Operetten gedichtet hat; auch Gotter aus Gotha stellte sich ein. Die
+von Karl Theodor errichtete deutsche Gesellschaft, deren
+Verhandlungen
+-->
+	</Page>
+</PcGts>

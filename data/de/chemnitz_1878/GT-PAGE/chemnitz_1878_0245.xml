@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:33:01</Created>
+		<LastChange>2026-11-23T14:33:01</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/245 revision 4667236 of 2025-12-03T07:47:59Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0245.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro3920955287800538305" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="99,594 740,594 740,624 99,624" />
+			<!-- line left out: id="r0l0" points="99,598 118,598 150,597 170,597 170,604 182,599 195,599 211,604 212,597 233,597 235,603 250,603 251,597 306,596 337,596 340,603 353,603 371,596 390,596 392,602 423,602 441,596 480,596 531,597 565,601 583,595 600,594 620,594 630,595 648,600 650,594 669,594 669,600 740,600 740,624 717,624 717,617 700,618 648,618 620,618 620,624 600,624 600,618 531,619 469,619 390,620 337,620 277,620 233,620 170,621 137,621 99,621" baseline="99,620 306,619 740,617" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Schutzbrief für das Kloster Adelberg.
+ | german_print2_15: Schutzbrief für das Kloster Adelberg.
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="60,664 792,664 792,1370 60,1370" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="113,668 128,668 138,666 182,666 184,672 226,672 226,666 239,666 245,672 324,672 335,666 354,666 363,672 476,672 655,668 748,670 749,664 757,664 757,670 782,670 782,680 634,681 633,687 621,687 621,681 560,681 560,687 543,687 488,682 483,676 476,682 296,682 276,686 196,682 113,683" />
+				<Baseline points="113,682 782,680" />
+				<TextEquiv index="1">
+					<Unicode>Adolfus dei gracia Romanorum rex semper augustus omnibus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="61,694 73,694 93,699 144,697 201,698 232,692 242,699 248,697 263,697 303,700 321,692 333,692 341,698 430,698 431,692 442,692 443,698 512,698 528,692 535,691 552,691 571,691 572,698 584,697 593,692 639,692 665,697 692,696 703,694 723,696 733,691 739,691 740,697 782,694 782,707 672,707 665,713 650,713 609,708 133,709 132,715 120,715 119,709 95,708 93,715 87,715 85,709 61,710" />
+				<Baseline points="61,709 782,707" />
+				<TextEquiv index="1">
+					<Unicode>imperpetuum: Litteras dive recordacionis Friderici imperatoris et</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="62,720 85,720 85,726 140,725 191,722 204,722 229,725 249,719 263,719 265,726 327,724 426,725 481,723 596,724 603,717 620,717 624,723 724,723 743,717 746,717 763,717 764,723 777,723 782,727 782,729 777,733 582,734 582,740 575,740 557,734 426,734 419,737 323,735 191,735 190,741 179,741 173,735 62,736" />
+				<Baseline points="62,735 782,733" />
+				<TextEquiv index="1">
+					<Unicode>Heinrici septimi Romanorum regis nostrorum predecessorum illu-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="61,753 70,750 178,752 201,745 205,745 205,751 251,751 259,745 270,745 272,751 297,750 303,751 321,759 350,751 385,751 406,745 431,745 431,752 443,752 443,745 456,745 470,748 476,751 538,751 559,745 602,750 602,744 615,744 624,750 732,747 773,747 783,750 783,760 745,760 744,766 732,766 708,760 637,760 636,766 624,766 622,760 431,760 321,763 303,761 251,760 242,762 205,763 61,762" />
+				<Baseline points="61,762 384,760 783,760" />
+				<TextEquiv index="1">
+					<Unicode>strium non cancellatas, non abolitas nec in aliqua sui parte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="60,780 69,778 102,778 125,776 144,778 187,778 188,772 200,772 201,778 281,776 299,783 304,778 322,778 329,771 342,771 343,777 392,777 400,779 420,771 432,771 433,777 493,777 494,771 506,771 506,777 546,777 547,771 558,771 621,771 675,773 692,775 705,773 719,773 732,776 764,774 783,778 783,786 109,788 102,794 90,794 89,788 60,788" />
+				<Baseline points="60,788 783,786" />
+				<TextEquiv index="1">
+					<Unicode>suspectas vidimus et audivimus de verbo ad verbum continentes</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l5" points="60,801 67,801 91,804 112,804 151,804 163,805 165,798 173,798 173,806 184,804 192,804 210,804 268,804 277,802 288,802 313,802 364,798 378,798 394,801 439,802 488,803 542,803 557,797 562,797 586,801 639,801 684,802 698,796 701,796 705,800 717,802 718,796 729,796 729,813 506,813 496,819 484,819 439,814 334,815 332,815 313,814 268,814 256,815 210,815 173,815 120,815 91,815 67,815 60,815" baseline="60,815 217,814 468,813 729,813" reason: models differ | Wikisource: tenores inferius annotatos. Est autem prime littere tenor tali | next_nc_e1: tenores inferius annotatos. Est autem prime littere tenor tali
+ | german_print2_15: tenores inferius annotatos. Est autem prime littere tenor tali⸗
+ -->
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="112,827 123,825 157,825 160,831 222,831 224,825 229,825 289,830 352,828 387,831 387,824 393,824 394,830 418,831 425,824 431,824 432,830 509,827 535,828 542,830 573,823 587,823 592,829 612,829 617,823 629,823 633,830 656,829 660,823 666,823 685,829 729,829 729,823 743,823 761,823 784,828 784,839 380,841 324,841 267,841 216,841 132,841 112,841" />
+				<Baseline points="112,841 784,839" />
+				<TextEquiv index="1">
+					<Unicode>C. In nomine sancte et individue trinitatis. Fridericus divina</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="62,851 74,851 81,857 128,855 155,859 162,851 174,851 175,857 250,857 270,851 286,851 287,857 447,857 473,854 600,852 667,849 678,849 718,855 777,852 785,857 785,866 729,866 708,871 696,871 649,866 619,872 617,872 617,866 563,866 562,872 550,872 550,866 448,866 442,872 427,872 392,867 162,867 151,866 130,861 128,867 62,867" />
+				<Baseline points="62,867 785,865" />
+				<TextEquiv index="1">
+					<Unicode>favente clemencia Romanorum imperator augustus. Ad presentis</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="94,885 101,881 145,883 195,882 233,878 327,884 330,878 341,878 354,883 387,883 388,877 400,877 401,883 431,884 438,877 456,877 457,883 583,882 597,876 604,876 604,882 619,882 619,876 641,876 660,880 742,882 742,876 773,881 773,875 784,875 784,892 718,895 672,893 610,898 532,893 532,899 489,899 474,893 327,893 232,897 94,893" />
+				<Baseline points="94,893 784,892" />
+				<TextEquiv index="1">
+					<Unicode>eterne vite gloriam nobis admodum speramus profuturum, si ad</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="62,909 162,910 163,904 285,904 285,910 315,909 326,911 369,907 395,912 395,903 406,903 407,911 418,909 497,909 516,903 540,903 541,910 551,910 553,903 558,903 560,909 573,909 573,903 586,903 613,909 647,906 693,908 707,902 713,902 713,908 742,905 756,905 771,908 772,902 785,902 785,918 295,919 285,921 230,921 227,921 62,920" />
+				<Baseline points="62,920 333,918 785,918" />
+				<TextEquiv index="1">
+					<Unicode>conservandum largiciones et elemosinas fidelium nostram auctori-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="64,933 194,930 206,936 224,930 235,930 263,935 280,936 283,930 297,930 306,936 330,936 330,930 378,935 378,929 391,929 392,935 535,935 543,938 567,932 608,929 632,929 652,932 730,931 738,934 750,931 765,931 765,945 469,945 466,951 440,951 440,945 64,946" />
+				<Baseline points="64,946 765,945" />
+				<TextEquiv index="1">
+					<Unicode>tatem et confirmacionis robur apponimus et dexteram nost</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="65,955 78,955 118,955 136,956 137,962 200,961 212,959 247,962 247,956 255,956 256,962 293,962 302,964 307,969 332,955 348,955 357,960 375,960 415,956 416,962 429,959 484,962 666,961 667,955 679,955 686,961 706,961 716,955 722,955 723,961 733,961 733,955 747,955 755,960 782,955 787,955 787,971 755,971 755,977 733,977 733,971 587,972 562,977 549,977 484,972 442,972 428,977 413,977 410,977 348,972 65,971" />
+				<Baseline points="65,972 787,970" />
+				<TextEquiv index="1">
+					<Unicode>defensionis extendimus. Notum igitur esse cupimus omnibus imperii</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l12" custom="readingOrder {index:12;}">
+				<Coords points="66,988 83,985 161,982 162,989 173,982 198,982 199,988 211,988 220,991 225,996 239,988 276,988 277,982 287,982 302,990 307,990 314,996 320,988 344,988 354,985 440,982 483,982 493,988 528,988 529,982 540,982 555,989 560,985 608,982 716,984 770,981 777,981 787,986 787,997 252,998 251,1004 239,1004 211,998 66,998" />
+				<Baseline points="66,998 787,997" />
+				<TextEquiv index="1">
+					<Unicode>nostri fidelibus, quod claustrum Adelberch et omnia ei attinencia</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l13" custom="readingOrder {index:13;}">
+				<Coords points="65,1014 229,1015 253,1012 312,1015 383,1012 422,1014 444,1011 553,1014 582,1011 609,1011 623,1008 636,1008 661,1013 694,1011 788,1012 788,1023 553,1026 429,1024 422,1030 314,1025 312,1031 306,1031 291,1025 128,1024 121,1030 108,1030 108,1024 65,1024" />
+				<Baseline points="65,1025 788,1024" />
+				<TextEquiv index="1">
+					<Unicode>recepimus in nostram pacem et protectionem, statuimus etiam una</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l14" custom="readingOrder {index:14;}">
+				<Coords points="66,1040 104,1040 120,1034 165,1034 173,1040 220,1040 220,1034 230,1034 232,1041 306,1039 361,1041 362,1035 367,1035 369,1041 404,1041 426,1038 450,1040 471,1034 483,1034 484,1041 493,1041 507,1035 519,1035 526,1038 551,1040 553,1034 561,1034 571,1040 582,1040 584,1048 606,1040 637,1040 655,1034 664,1034 664,1040 687,1040 688,1033 706,1033 720,1037 755,1033 775,1033 788,1036 788,1050 620,1050 618,1056 606,1056 561,1051 404,1050 241,1053 139,1051 120,1053 66,1050" />
+				<Baseline points="66,1050 788,1050" />
+				<TextEquiv index="1">
+					<Unicode>cum Folkenando, ministeriali nostro de Stoufen, qui fundator fuit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l15" custom="readingOrder {index:15;}">
+				<Coords points="67,1059 73,1059 92,1059 92,1065 117,1061 135,1061 144,1067 155,1067 165,1069 169,1074 185,1066 196,1064 416,1068 416,1061 455,1061 478,1066 484,1064 500,1064 513,1067 513,1061 519,1061 527,1067 664,1066 683,1060 692,1060 692,1066 724,1066 724,1060 762,1059 765,1059 774,1059 787,1060 787,1076 743,1079 683,1079 643,1077 478,1082 448,1082 369,1077 312,1077 311,1083 299,1083 298,1077 238,1077 238,1083 225,1083 155,1077 117,1078 67,1075" />
+				<Baseline points="67,1076 787,1076" />
+				<TextEquiv index="1">
+					<Unicode>loci illius, ut, quicumque in sede apostolica successor fuerit, illi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l16" custom="readingOrder {index:16;}">
+				<Coords points="68,1091 86,1087 98,1087 119,1089 131,1087 143,1087 144,1093 224,1092 241,1088 256,1088 265,1092 277,1093 285,1096 304,1088 310,1088 333,1093 362,1093 364,1087 383,1087 384,1093 401,1093 401,1087 435,1087 436,1093 448,1093 448,1087 461,1087 492,1093 582,1092 652,1087 670,1087 699,1087 788,1089 788,1102 713,1102 712,1108 532,1103 230,1103 224,1109 211,1109 211,1103 192,1108 184,1108 165,1102 98,1107 79,1107 79,1101 68,1101" />
+				<Baseline points="68,1101 788,1102" />
+				<TextEquiv index="1">
+					<Unicode>apostolico prepositus loci illius dabit aureum unum in signum et</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l17" custom="readingOrder {index:17;}">
+				<Coords points="68,1117 119,1112 131,1112 131,1118 183,1119 262,1119 269,1113 316,1113 323,1114 336,1119 337,1113 348,1113 362,1121 370,1117 482,1119 482,1113 510,1113 520,1119 532,1119 532,1113 577,1113 577,1120 588,1120 588,1113 601,1113 601,1120 612,1116 656,1116 674,1119 674,1113 751,1113 777,1118 777,1112 788,1112 788,1128 544,1130 250,1130 249,1136 237,1136 208,1134 183,1129 68,1127" />
+				<Baseline points="68,1127 788,1128" />
+				<TextEquiv index="1">
+					<Unicode>recordacionem, quod illud claustrum defendi debet et adiuvari ab</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l18" custom="readingOrder {index:18;}">
+				<Coords points="68,1144 157,1144 165,1143 173,1139 191,1139 199,1145 219,1145 252,1143 272,1140 323,1140 325,1147 336,1147 337,1153 355,1146 374,1145 400,1140 408,1140 408,1146 418,1146 450,1140 479,1139 479,1145 542,1145 550,1148 563,1139 576,1139 577,1145 587,1145 599,1139 612,1139 619,1143 644,1145 645,1139 654,1139 664,1144 676,1145 677,1152 700,1138 717,1138 718,1144 730,1144 731,1138 737,1138 737,1144 789,1145 789,1154 368,1156 368,1162 355,1162 272,1156 191,1156 133,1160 133,1154 97,1153 87,1160 75,1160 68,1154" />
+				<Baseline points="68,1153 789,1155" />
+				<TextEquiv index="1">
+					<Unicode>ipso apostolico et ab illo, qui fuerit dominus de Stoufen. Volumus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l19" custom="readingOrder {index:19;}">
+				<Coords points="68,1172 88,1164 100,1164 100,1170 124,1169 126,1177 148,1170 160,1168 205,1166 218,1166 219,1172 249,1172 264,1166 295,1166 369,1172 369,1166 381,1166 390,1171 428,1169 484,1169 502,1171 574,1165 576,1171 606,1171 607,1178 627,1171 636,1171 636,1165 659,1165 685,1178 714,1170 725,1170 726,1164 762,1164 783,1164 789,1167 789,1180 648,1181 648,1187 627,1187 607,1183 588,1182 567,1182 493,1187 481,1187 381,1182 126,1182 68,1180" />
+				<Baseline points="68,1180 789,1180" />
+				<TextEquiv index="1">
+					<Unicode>etiam, ut nullum habeant advocatum preter illum, qui est vel erit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l20" custom="readingOrder {index:20;}">
+				<Coords points="68,1191 80,1191 166,1197 170,1191 188,1191 207,1192 214,1195 248,1192 258,1198 269,1198 271,1205 291,1198 303,1197 323,1191 328,1191 330,1198 348,1197 374,1192 407,1192 407,1198 441,1195 489,1198 490,1192 502,1192 503,1198 519,1198 519,1192 535,1192 561,1197 574,1195 637,1197 637,1191 651,1191 661,1197 783,1195 790,1199 790,1202 772,1211 749,1211 694,1206 694,1212 680,1212 661,1207 617,1210 522,1208 315,1208 274,1211 226,1208 68,1207" />
+				<Baseline points="68,1206 790,1206" />
+				<TextEquiv index="1">
+					<Unicode>dominus de Stoufen, nullum habeant subadvocatum, nisi quem pre-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l21" custom="readingOrder {index:21;}">
+				<Coords points="68,1223 92,1223 108,1221 129,1223 174,1219 214,1222 269,1222 290,1226 308,1218 320,1218 321,1225 331,1225 347,1232 350,1219 364,1218 376,1218 377,1224 387,1224 388,1218 401,1218 401,1224 439,1224 439,1218 485,1218 486,1225 530,1224 531,1218 653,1217 667,1220 703,1216 716,1216 781,1218 791,1221 791,1231 653,1232 653,1238 633,1238 608,1234 591,1234 562,1240 560,1240 560,1234 510,1234 510,1240 498,1240 497,1234 474,1234 474,1240 468,1240 450,1234 226,1233 81,1233 81,1239 68,1239" />
+				<Baseline points="68,1233 791,1231" />
+				<TextEquiv index="1">
+					<Unicode>positus et conventus de Adelberch elegerint. Ut igitur hec rata</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l22" custom="readingOrder {index:22;}">
+				<Coords points="69,1250 80,1246 172,1248 217,1243 241,1243 277,1250 395,1248 397,1257 422,1250 489,1247 580,1250 580,1244 587,1244 630,1248 648,1241 653,1241 681,1241 681,1247 691,1247 708,1241 715,1241 715,1247 737,1247 746,1242 792,1247 792,1257 580,1259 580,1265 544,1265 515,1260 515,1266 502,1266 502,1260 430,1260 429,1266 422,1266 397,1263 301,1260 289,1258 289,1266 277,1266 259,1259 69,1259" />
+				<Baseline points="69,1259 792,1257" />
+				<TextEquiv index="1">
+					<Unicode>et incommutabilia permaneant, presentem paginam inde iussimus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l23" custom="readingOrder {index:23;}">
+				<Coords points="69,1274 132,1275 140,1270 146,1270 172,1276 184,1272 309,1276 309,1270 315,1270 316,1277 327,1277 336,1273 378,1270 435,1271 502,1276 502,1270 515,1270 515,1276 535,1276 535,1270 541,1270 542,1283 570,1272 598,1272 611,1274 642,1271 662,1273 709,1268 721,1273 721,1267 733,1267 733,1273 762,1268 768,1268 780,1273 781,1267 791,1267 791,1283 741,1289 721,1289 692,1284 589,1285 546,1288 515,1286 515,1292 494,1292 494,1286 423,1286 415,1292 395,1292 391,1292 378,1286 69,1285" />
+				<Baseline points="69,1285 791,1283" />
+				<TextEquiv index="1">
+					<Unicode>conscribi et nostre maiestatis sigillo insigniri, statuentes et imperiali</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l24" custom="readingOrder {index:24;}">
+				<Coords points="70,1301 130,1296 149,1296 174,1301 199,1301 244,1297 268,1301 286,1300 299,1297 314,1297 397,1302 419,1297 425,1297 497,1302 500,1297 612,1297 654,1294 667,1294 753,1296 791,1299 791,1310 525,1312 502,1318 498,1318 456,1313 438,1318 426,1318 419,1313 382,1312 382,1318 375,1318 352,1312 181,1312 174,1318 162,1318 161,1312 134,1312 134,1318 130,1318 106,1311 83,1311 83,1317 70,1317" />
+				<Baseline points="70,1312 791,1310" />
+				<TextEquiv index="1">
+					<Unicode>qua fungimur auctoritate precipientes, ut contra hoc nostrum</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l25" custom="readingOrder {index:25;}">
+				<Coords points="72,1326 80,1324 127,1324 139,1327 157,1328 174,1322 180,1322 187,1328 199,1328 200,1322 213,1322 214,1328 255,1328 255,1322 272,1322 273,1328 284,1323 290,1323 312,1328 358,1325 486,1323 499,1328 499,1321 583,1320 592,1320 624,1325 710,1326 710,1320 722,1320 722,1326 773,1326 773,1320 779,1320 791,1324 791,1340 743,1337 743,1343 710,1343 710,1337 670,1342 657,1342 634,1337 583,1336 550,1342 537,1342 499,1338 486,1342 440,1344 408,1344 396,1344 395,1338 107,1338 72,1336" />
+				<Baseline points="72,1337 643,1336 791,1340" />
+				<TextEquiv index="1">
+					<Unicode>statutum nullus obviare attemptet. Quod qui facere presumpserit,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l26" custom="readingOrder {index:26;}">
+				<Coords points="74,1351 90,1351 102,1347 108,1347 176,1348 197,1353 236,1353 259,1349 341,1348 372,1349 382,1354 383,1348 392,1348 402,1354 412,1349 426,1349 452,1353 549,1351 581,1348 584,1359 609,1346 622,1346 622,1352 654,1346 667,1346 791,1352 791,1363 734,1363 734,1369 722,1369 703,1363 584,1364 537,1362 537,1368 458,1363 401,1365 306,1364 296,1370 284,1370 263,1364 90,1367 90,1361 74,1360" />
+				<Baseline points="74,1363 791,1363" />
+				<TextEquiv index="1">
+					<Unicode>viginti libras auri pro satisfactione componat, dimidiam partem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Adolfus dei gracia Romanorum rex semper augustus omnibus
+imperpetuum: Litteras dive recordacionis Friderici imperatoris et
+Heinrici septimi Romanorum regis nostrorum predecessorum illu-
+strium non cancellatas, non abolitas nec in aliqua sui parte
+suspectas vidimus et audivimus de verbo ad verbum continentes
+C. In nomine sancte et individue trinitatis. Fridericus divina
+favente clemencia Romanorum imperator augustus. Ad presentis
+eterne vite gloriam nobis admodum speramus profuturum, si ad
+conservandum largiciones et elemosinas fidelium nostram auctori-
+tatem et confirmacionis robur apponimus et dexteram nost
+defensionis extendimus. Notum igitur esse cupimus omnibus imperii
+nostri fidelibus, quod claustrum Adelberch et omnia ei attinencia
+recepimus in nostram pacem et protectionem, statuimus etiam una
+cum Folkenando, ministeriali nostro de Stoufen, qui fundator fuit
+loci illius, ut, quicumque in sede apostolica successor fuerit, illi
+apostolico prepositus loci illius dabit aureum unum in signum et
+recordacionem, quod illud claustrum defendi debet et adiuvari ab
+ipso apostolico et ab illo, qui fuerit dominus de Stoufen. Volumus
+etiam, ut nullum habeant advocatum preter illum, qui est vel erit
+dominus de Stoufen, nullum habeant subadvocatum, nisi quem pre-
+positus et conventus de Adelberch elegerint. Ut igitur hec rata
+et incommutabilia permaneant, presentem paginam inde iussimus
+conscribi et nostre maiestatis sigillo insigniri, statuentes et imperiali
+qua fungimur auctoritate precipientes, ut contra hoc nostrum
+statutum nullus obviare attemptet. Quod qui facere presumpserit,
+viginti libras auri pro satisfactione componat, dimidiam partem</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="394,1539 523,1539 523,1567 394,1567" />
+			<!-- line left out: id="r2l0" points="394,1549 402,1549 408,1549 433,1549 443,1549 447,1550 453,1549 456,1549 469,1549 474,1539 481,1539 484,1549 494,1549 523,1549 523,1558 484,1558 481,1567 474,1567 474,1558 443,1561 426,1561 413,1560 407,1560 394,1558" baseline="394,1558 523,1558" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hupe digſtal slub drese
+ | german_print2_15: EPdgtal sob dresde:
+ -->
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+⟦⟧
+Adolfus dei gracia Romanorum rex semper augustus omnibus
+imperpetuum: Litteras dive recordacionis Friderici imperatoris et
+Heinrici septimi Romanorum regis nostrorum predecessorum
+illustrium non cancellatas, non abolitas nec in aliqua sui parte
+suspectas vidimus et audivimus de verbo ad verbum continentes
+tenores inferius annotatos. Est autem prime littere tenor talis:
+C. In nomine sancte et individue trinitatis. Fridericus divina
+favente clemencia Romanorum imperator augustus. Ad presentis
+et eterne vite gloriam nobis admodum speramus profuturum, si ad
+conservandum largiciones et elemosinas fidelium nostram
+auctoritatem et confirmacionis robur apponimus et dexteram nostre
+defensionis extendimus. Notum igitur esse cupimus omnibus imperii
+nostri fidelibus, quod claustrum Adelberch et omnia ei attinencia
+recepimus in nostram pacem et protectionem, statuimus etiam una
+cum Folkenando, ministeriali nostro de Stoufen, qui fundator fuit
+loci illius, ut, quicumque in sede apostolica successor fuerit, illi
+apostolico prepositus loci illius dabit aureum unum in signum et
+recordacionem, quod illud claustrum defendi debet et adiuvari ab
+ipso apostolico et ab illo, qui fuerit dominus de Stoufen. Volumus
+etiam, ut nullum habeant advocatum preter illum, qui est vel erit
+dominus de Stoufen, nullum habeant subadvocatum, nisi quem
+prepositus et conventus de Adelberch elegerint. Ut igitur hec rata
+et incommutabilia permaneant, presentem paginam inde iussimus
+conscribi et nostre maiestatis sigillo insigniri, statuentes et imperiali
+qua fungimur auctoritate precipientes, ut contra hoc nostrum
+statutum nullus obviare attemptet. Quod qui facere presumpserit,
+viginti libras auri pro satisfactione componat, dimidiam partem
+-->
+	</Page>
+</PcGts>

@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:47:15</Created>
+		<LastChange>2026-11-23T13:47:15</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/52 revision 5014717 of 2026-08-19T06:48:07Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0052.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro3319973762470924815" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="24" regionRef="r24" />
+				<RegionRefIndexed index="25" regionRef="r25" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,214 974,214 974,550 0,550" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="408,208 702,208 702,226 408,226" />
+			<!-- line left out: id="r1l0" points="408,216 411,216 422,221 452,208 470,208 470,214 493,214 512,214 531,216 542,217 542,208 544,208 571,216 602,211 629,211 684,216 702,220 702,223 692,226 668,226 593,225 544,225 536,225 512,222 479,223 470,225 454,225 419,223 408,220" baseline="408,223 543,222 702,223" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: c. Erzgebirge und Voigtlan
+ | german_print2_15: c. Erzgebirge und Voigtlan
+ -->
+		</TextRegion>
+		<GraphicRegion id="r2">
+			<Coords points="491,240 542,240 542,260 491,260" />
+		</GraphicRegion>
+		<GraphicRegion id="r3">
+			<Coords points="222,323 513,323 513,391 222,391" />
+		</GraphicRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="225,238 888,238 888,387 225,387" />
+			<!-- line left out: id="r4l0" points="225,238 245,238 291,238 300,245 306,240 319,240 329,238 340,238 360,241 367,243 381,240 385,240 395,245 411,238 416,238 428,239 436,248 443,248 456,244 460,244 472,246 490,246 565,249 589,241 611,241 620,254 622,241 643,241 674,241 685,241 735,247 738,247 767,249 778,253 782,246 786,246 841,246 857,254 863,251 871,251 871,259 841,259 809,259 800,258 782,258 767,257 685,257 643,257 622,257 565,256 558,256 490,249 472,254 456,254 428,253 416,254 411,254 381,253 367,252 360,253 256,253 245,253 234,253 225,252" baseline="225,252 282,252 871,253" reason: differs: "120." against "⟦⟧ |" | Wikisource:  | next_nc_e1: 120. Ansführliche Beschrei les Meissnischen Ober-Ertzgebür | german_print2_15: 120. Ansführliche Beschrei les Meissnischen Ober-Ertzgebür -->
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="333,263 339,263 341,271 353,269 444,269 456,270 458,278 460,278 460,280 456,285 425,285 402,281 372,279 370,285 365,285 363,279 333,278" />
+				<Baseline points="333,278 460,280" />
+				<TextEquiv index="1">
+					<Unicode>Leipzig 1747.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l2" points="225,290 280,289 289,289 294,298 302,289 314,289 315,295 355,295 371,296 385,290 390,290 398,296 404,295 417,295 446,296 458,299 458,290 471,290 471,297 478,297 523,297 539,299 559,298 562,298 575,299 586,297 606,297 668,294 672,294 674,300 689,300 700,301 718,295 728,294 749,294 770,294 779,303 790,294 813,294 835,294 857,301 869,297 878,297 887,304 888,304 888,310 835,310 770,310 749,310 736,310 700,309 672,309 668,309 638,308 616,302 606,307 599,309 575,309 565,309 562,302 545,307 494,307 491,307 478,306 471,307 458,307 446,306 428,306 417,305 371,307 356,307 253,305 245,305 234,305 225,304" baseline="225,304 280,303 888,307" reason: differs: "121." against "⟦⟧ |" | Wikisource:  | next_nc_e1: 121. Lehmann, historischer Schauplatz in dem Meissnischen Obe | german_print2_15: 421. Lehmann, historischer Schauplatz in dem Meissnischen Obe -->
+			<!-- line left out: id="r4l3" points="330,323 342,322 351,320 356,320 367,321 378,323 392,317 396,317 411,323 415,323 429,324 433,317 480,317 504,317 507,324 511,324 519,331 530,324 533,324 536,333 542,333 561,324 569,324 569,333 542,334 536,334 519,333 507,326 504,334 446,334 420,334 399,331 392,330 380,328 378,334 368,334 342,331 330,328" baseline="330,331 561,329 569,329" reason: models differ | Wikisource: ertzgebirge. Leipzig 1 | next_nc_e1: ertzgebirge. Leipzig 1 | german_print2_15: ertzgebirge. Leipzig 16 -->
+			<!-- line left out: id="r4l4" points="377,342 392,342 398,354 404,349 416,342 431,342 438,343 447,349 451,349 471,350 480,358 489,358 492,342 494,342 537,350 553,350 778,351 820,352 855,352 888,353 888,357 887,357 878,363 855,363 840,363 494,361 489,361 431,361 416,361 398,357 377,356" baseline="377,356 888,357" reason: differs: "Wand" against "699." | Wikisource:  | next_nc_e1: Wanderungen du ten Gegend | german_print2_15: Wanderungen du ten Gegend -->
+			<!-- line left out: id="r4l5" points="355,376 361,376 369,370 382,370 390,376 408,373 411,373 433,375 447,377 455,370 465,370 470,370 524,371 573,383 581,378 613,378 702,373 710,373 735,378 743,384 807,378 808,378 808,384 745,387 726,387 702,386 613,385 573,385 507,382 470,384 465,384 433,384 429,384 411,383 382,384 369,384 355,379" baseline="355,383 503,382 523,382 808,384" reason: differs: "ssäc" against "den " | Wikisource:  | next_nc_e1: s sächsischen Ot zgebirg Anna 1
+ | german_print2_15: s sächsischen Ot zgebirg Anna 1
+ -->
+			<TextEquiv index="1">
+				<Unicode>Leipzig 1747.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="455,396 539,396 539,437 455,437" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="0,439 974,439 974,497 0,497" />
+		</GraphicRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="329,447 906,447 906,517 329,517" />
+			<!-- line left out: id="r7l0" points="410,447 418,447 426,460 445,453 467,453 469,447 479,447 498,452 515,457 536,450 647,449 651,449 708,459 713,459 733,457 808,456 843,456 863,456 883,456 889,457 895,459 906,461 906,465 898,465 889,464 883,465 863,465 843,465 818,465 735,464 719,464 716,464 651,463 479,463 457,463 426,462 410,461" baseline="410,462 478,462 708,463 906,464" reason: differs: "V.un" against "h, E" | Wikisource:  | next_nc_e1: V. und G. A. U sicl Geschichte | german_print2_15: V. und G. A. 1I1. 1 sict Geschichte -->
+			<!-- line left out: id="r7l1" points="329,471 340,471 342,481 353,480 360,480 373,471 378,471 381,481 398,478 401,478 415,480 418,473 422,473 430,485 436,480 449,479 458,479 499,480 522,483 522,467 535,467 549,480 552,480 642,479 645,479 681,479 687,484 771,478 804,478 812,488 872,483 873,483 873,489 814,491 771,491 681,490 645,490 642,490 622,483 612,487 552,489 549,489 535,498 522,498 522,489 490,489 458,488 415,489 406,489 378,488 373,488 340,486 329,486" baseline="329,486 873,489" reason: differs: "desB" against "icht" | Wikisource:  | next_nc_e1: des Bergbaues im sächs en Erzge Anna 1 | german_print2_15: des Bergbaues im sächs en Erzge Anna 1 -->
+			<!-- line left out: id="r7l2" points="361,498 377,498 381,511 400,508 413,505 435,505 479,505 510,500 514,500 522,502 596,507 730,506 734,506 767,511 780,515 782,508 792,508 832,508 832,511 827,511 823,517 792,517 776,517 745,516 742,516 596,514 514,515 428,515 416,515 390,514 381,514 373,513 361,511" baseline="361,513 832,513" reason: differs: "M.,s" against "ring" | Wikisource:  | next_nc_e1: M., sächsische Ber yhe Grimma 18
+ | german_print2_15: M., sächsische Ber yhe 1 Grimma 18
+ -->
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="385,455 395,455 395,465 385,465" />
+		</GraphicRegion>
+		<GraphicRegion id="r9">
+			<Coords points="0,497 1000,497 1000,1564 0,1564" />
+		</GraphicRegion>
+		<GraphicRegion id="r10">
+			<Coords points="504,536 520,536 520,543 504,543" />
+		</GraphicRegion>
+		<GraphicRegion id="r11">
+			<Coords points="341,584 369,584 369,598 341,598" />
+		</GraphicRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="329,598 436,598 436,633 329,633" />
+			<TextLine id="r12l0" custom="readingOrder {index:0;}">
+				<Coords points="329,608 333,608 337,615 353,614 397,617 397,598 411,598 413,620 436,623 436,626 413,624 411,633 397,633 397,623 329,621" />
+				<Baseline points="329,621 436,623" />
+				<TextEquiv index="1">
+					<Unicode>blick der g</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>blick der g</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r13">
+			<Coords points="432,610 528,610 528,656 432,656" />
+		</GraphicRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="328,633 401,633 401,649 328,649" />
+			<!-- line left out: id="r14l0" points="328,636 339,634 349,634 370,634 373,641 383,633 401,633 401,646 394,649 367,649 339,648 328,645" baseline="328,645 401,646" reason: differs: "Göth" against "este" | Wikisource:  | next_nc_e1: Göthe's
+ | german_print2_15: Göthe's
+ -->
+		</TextRegion>
+		<GraphicRegion id="r15">
+			<Coords points="370,692 458,692 458,706 370,706" />
+		</GraphicRegion>
+		<GraphicRegion id="r16">
+			<Coords points="425,717 457,717 457,734 425,734" />
+		</GraphicRegion>
+		<GraphicRegion id="r17">
+			<Coords points="425,798 479,798 479,812 425,812" />
+		</GraphicRegion>
+		<GraphicRegion id="r18">
+			<Coords points="473,831 506,831 506,865 473,865" />
+		</GraphicRegion>
+		<GraphicRegion id="r19">
+			<Coords points="570,970 572,970 572,972 570,972" />
+		</GraphicRegion>
+		<GraphicRegion id="r20">
+			<Coords points="523,1041 553,1041 553,1047 523,1047" />
+		</GraphicRegion>
+		<GraphicRegion id="r21">
+			<Coords points="565,1070 611,1070 611,1079 565,1079" />
+		</GraphicRegion>
+		<GraphicRegion id="r22">
+			<Coords points="725,1087 784,1087 784,1138 725,1138" />
+		</GraphicRegion>
+		<GraphicRegion id="r23">
+			<Coords points="539,1157 558,1157 558,1162 539,1162" />
+		</GraphicRegion>
+		<TextRegion id="r24" custom="readingOrder {index:24;} orientation {0;}">
+			<Coords points="4,743 910,743 910,1294 4,1294" />
+			<!-- line left out: id="r24l0" points="220,744 238,744 275,743 285,743 297,744 311,749 311,755 330,753 339,750 345,750 351,757 370,744 382,744 391,750 402,750 416,748 425,748 466,751 472,752 482,756 507,747 541,747 563,747 586,747 590,754 593,754 718,753 751,750 781,750 803,750 809,758 885,751 894,748 896,748 896,762 894,762 885,755 811,762 803,763 754,763 586,762 541,762 515,762 472,760 325,763 310,763 238,758 220,758" baseline="220,758 251,757 725,760 896,762" reason: differs: "440." against "iz 1" | Wikisource:  | next_nc_e1: 440. Dunger, Rundâs und Reimsprüch m Vogtla MI | german_print2_15: 440. Dunger, Rundàâs und Reimsprüche ¹ m Vogtla NI -->
+			<!-- line left out: id="r24l1" points="331,774 334,774 364,776 395,774 406,774 409,784 425,775 436,775 437,782 449,777 465,777 482,778 500,780 513,784 518,778 522,778 547,778 547,772 568,772 626,772 634,783 637,783 646,772 660,772 672,772 705,773 730,773 733,784 744,773 746,773 781,778 805,778 810,779 810,786 809,786 805,793 783,793 781,788 716,787 709,778 705,787 672,792 660,792 646,792 640,787 634,786 626,792 601,792 589,787 578,785 568,792 536,792 513,787 482,787 478,787 412,786 392,789 382,789 374,784 359,784 331,778" baseline="331,786 810,786" reason: second model: differs: "e2vo" against "Mit " | Wikisource: 22 vogtl. Schnaderhüpfl-Melodien. Plauen 1876 | next_nc_e1: 22 vogtl. Schnaderhüpfl-Melodien. Plauen 1876 | german_print2_15: e2 vogtl. Schnaderhupfl-Melodien. Plauen 187 -->
+			<!-- line left out: id="r24l2" points="220,795 225,795 248,796 311,809 330,805 337,796 346,796 355,802 379,801 383,801 422,801 491,804 525,812 528,805 569,805 712,799 717,799 724,800 731,810 793,808 800,804 804,804 822,805 822,811 820,811 800,806 797,814 793,814 731,813 720,803 717,813 561,814 409,814 383,814 379,814 315,811 311,811 220,810" baseline="220,810 247,810 421,811 822,814" reason: differs: "141„" against ". ⟦⟧" | Wikisource:  | next_nc_e1: 141 „der vogtl he gelel Ple 1876 | german_print2_15: 141 „der vogtl he gelen. 1 r Ple 1876 -->
+			<!-- line left out: id="r24l3" points="219,827 252,827 311,840 317,827 346,827 349,833 359,833 374,832 378,832 396,834 408,840 413,827 427,827 436,829 437,838 449,835 518,830 550,830 553,839 716,837 743,837 756,831 763,831 834,841 842,841 842,846 834,846 550,845 518,845 449,844 436,843 427,844 413,844 378,843 335,844 311,844 232,842 219,841" baseline="219,842 311,842 762,845 842,846" reason: differs: "442‚" against "8857" | Wikisource:  | next_nc_e1: 442 ‚Kinderlieder Kine s dem X d | german_print2_15:  -->
+			<!-- line left out: id="r24l4" points="326,867 338,859 354,859 378,859 412,855 422,855 431,861 442,861 490,856 493,856 506,861 519,856 546,856 580,861 588,863 630,861 646,861 741,863 766,863 772,864 792,863 839,858 842,858 843,864 851,864 857,858 882,858 898,868 910,868 910,869 901,872 898,872 882,866 882,872 741,872 727,872 712,871 611,872 597,872 580,871 571,872 568,872 519,871 506,870 493,871 490,871 412,870 378,869 354,871 336,871 326,871" baseline="326,869 545,870 910,872" reason: differs: "gele" against "e, e" | Wikisource:  | next_nc_e1: geleitet durch einen Vortrag üb ksthümliche Kinder- | german_print2_15: geleitet durch einen Vortrag übe ksthümliche Kinder- -->
+			<!-- line left out: id="r24l5" points="326,885 337,885 349,887 377,885 415,880 419,880 426,882 440,888 444,888 452,887 532,887 532,895 539,895 539,901 532,902 515,902 513,895 500,897 497,897 440,896 423,886 419,896 379,900 377,900 371,895 354,894 350,894 338,893 337,900 326,900" baseline="326,895 378,895 478,896 539,897" reason: differs: "poes" against "Kind" | Wikisource:  | next_nc_e1: poesie Plauen 1874. | german_print2_15: poesie Plauen 1874. -->
+			<!-- line left out: id="r24l6" points="25,906 218,905 237,905 250,906 309,918 324,912 330,906 341,906 349,912 363,912 379,906 384,906 394,908 420,915 423,915 436,916 436,908 460,908 460,897 495,897 495,908 552,908 573,917 599,917 655,911 678,911 697,911 714,918 790,909 810,909 832,909 833,918 845,915 870,915 881,916 881,920 870,924 860,924 832,923 697,925 664,925 599,923 495,923 495,932 460,932 460,923 436,923 411,922 396,922 384,921 341,921 313,921 309,921 237,920 36,925 25,925" baseline="25,918 35,918 218,919 790,923 881,924" reason: differs: "1143" against "| –," | Wikisource:  | next_nc_e1: 1 143 „über Dialekt und Volkslied Vogtla Plauen 18 | german_print2_15: 7 143 „über Dialekt und Volkslied Vogtla Plauen 18. -->
+			<!-- line left out: id="r24l7" points="218,931 277,931 282,937 303,937 315,938 324,932 334,932 337,938 353,938 374,938 386,941 386,931 400,931 408,941 435,932 439,932 464,932 464,938 484,938 484,932 496,932 506,932 534,938 545,938 603,938 615,940 624,938 640,938 640,949 663,940 664,940 664,949 643,950 624,950 617,946 605,944 603,950 577,950 567,949 506,949 471,949 439,949 400,950 386,950 374,947 367,950 357,950 315,949 305,949 295,947 218,946" baseline="218,946 272,946 409,947 505,948 664,950" reason: differs: "144." against "⟦⟧ |" | Wikisource:  | next_nc_e1: 144. Erzgebirgische Blätter. Schneeberg 1 | german_print2_15: 444. Erzgebirgische Blätter. Schneeberg 1 -->
+			<!-- line left out: id="r24l8" points="218,958 246,958 246,965 272,958 284,957 295,957 298,964 309,964 315,963 326,963 353,961 357,961 364,967 368,967 403,967 406,959 417,959 418,968 443,960 451,959 480,959 487,960 489,966 499,966 499,959 513,959 513,968 522,968 569,967 574,959 606,959 606,969 640,967 648,967 761,972 802,962 806,962 816,968 817,968 817,971 806,976 759,976 640,975 606,973 606,981 569,981 566,972 547,975 513,975 513,981 499,981 499,970 487,975 480,975 480,981 466,981 466,974 417,974 380,975 335,975 325,975 315,973 295,973 272,973 235,972 218,972" baseline="218,972 272,972 817,976" reason: differs: "145." against "⟦⟧ |" | Wikisource:  | next_nc_e1: 145. Mosen, G., die Weihnachtsspiele in ien Er | german_print2_15: 145. Mosen, G., die Weihnachtsspiele in ien Er -->
+			<TextLine id="r24l9" custom="readingOrder {index:9;}">
+				<Coords points="324,984 336,984 338,990 370,990 372,984 381,984 383,991 429,988 456,990 456,1000 426,1000 358,1000 343,1000 324,999" />
+				<Baseline points="324,999 456,1000" />
+				<TextEquiv index="1">
+					<Unicode>Zwickau 1861</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r24l10" points="4,1000 35,1000 218,1011 275,1009 290,1009 296,1019 305,1016 338,1016 338,1009 351,1009 377,1010 381,1019 390,1019 398,1011 402,1011 404,1017 427,1017 453,1015 457,1015 485,1012 497,1012 498,1020 516,1020 532,1012 548,1012 557,1021 567,1012 582,1012 604,1012 660,1012 670,1019 682,1012 697,1012 765,1017 820,1017 873,1018 873,1029 861,1029 697,1028 660,1028 604,1028 567,1028 548,1027 497,1027 485,1027 436,1026 427,1027 357,1028 338,1028 290,1025 235,1025 218,1025 35,1031 4,1031" baseline="4,1023 34,1023 218,1024 720,1026 873,1029" reason: differs: ".146." against ". ⟦⟧ |" | Wikisource:  | next_nc_e1: . 146. Weinart, Lehnrecht des Markgraſenthums Oberlausitz. D | german_print2_15: G 146. Weinart, Lehnrecht des Markgraſenthums Oberlausitz. D -->
+			<!-- line left out: id="r24l11" points="25,1049 31,1049 323,1036 335,1036 336,1043 348,1042 357,1042 392,1037 430,1037 438,1045 445,1044 451,1043 462,1043 547,1043 552,1051 554,1051 554,1053 547,1058 512,1058 485,1056 473,1053 464,1052 462,1059 451,1059 442,1051 430,1052 335,1052 31,1054 25,1054" baseline="25,1050 30,1050 323,1051 493,1052 554,1053" reason: differs: "3den" against ". Dr" | Wikisource:  | next_nc_e1: 3 den und Leipzig 1788.
+ | german_print2_15: . den und Leipzig 1788.
+ -->
+			<!-- line left out: id="r24l12" points="217,1062 287,1062 300,1069 306,1068 312,1065 323,1065 335,1070 343,1075 351,1062 362,1062 364,1068 374,1068 380,1070 390,1063 405,1063 407,1072 418,1069 432,1069 449,1072 456,1064 460,1064 463,1071 473,1068 503,1064 514,1063 527,1063 539,1064 563,1070 619,1070 635,1076 702,1065 726,1065 820,1065 851,1065 851,1080 869,1071 870,1071 870,1080 851,1085 799,1085 794,1079 732,1079 637,1079 635,1079 616,1073 563,1072 559,1079 539,1079 492,1079 432,1079 428,1079 405,1078 390,1078 377,1072 374,1078 343,1080 339,1080 296,1077 217,1077" baseline="217,1077 351,1077 870,1081" reason: differs: "147." against "⟦⟧ |" | Wikisource:  | next_nc_e1: 147. Richter, die Herrschaft Mühltr nd Besitzer. Leipzig 1 | german_print2_15: 147. Richter, die Herrschaft Mühltr nd Besitzer. Leipzig 1 -->
+			<!-- line left out: id="r24l13" points="216,1093 233,1093 290,1093 294,1099 306,1096 318,1093 329,1093 355,1094 367,1100 390,1100 391,1094 429,1094 438,1102 448,1102 448,1094 462,1094 476,1097 481,1104 492,1101 503,1101 513,1104 519,1108 533,1095 544,1095 546,1101 550,1101 574,1095 596,1095 607,1102 616,1102 621,1108 628,1106 638,1106 652,1104 655,1104 678,1102 703,1102 846,1096 849,1096 853,1102 863,1102 875,1101 878,1101 886,1103 908,1107 908,1108 895,1111 878,1111 849,1111 663,1111 660,1111 649,1110 638,1111 628,1111 603,1110 550,1110 519,1112 515,1112 508,1110 476,1109 469,1110 462,1112 448,1112 429,1110 419,1110 306,1109 300,1108 233,1108 216,1108" baseline="216,1107 908,1111" reason: differs: "448." against "pzig" | Wikisource:  | next_nc_e1: 448. Berthold und Fürstenau, die Fabrikation Instru- | german_print2_15: 448. Berthold und Fuürstenau, die Fabrikationer 1 Instru- -->
+			<!-- line left out: id="r24l14" points="322,1125 345,1125 365,1124 381,1124 411,1126 412,1120 429,1120 444,1126 467,1126 483,1127 490,1126 502,1126 512,1127 529,1127 548,1120 553,1120 576,1120 576,1126 586,1126 595,1132 608,1129 616,1129 620,1122 624,1122 638,1126 647,1120 660,1120 694,1130 701,1125 710,1125 719,1133 815,1130 839,1122 843,1122 843,1129 858,1129 858,1122 871,1122 881,1129 890,1129 890,1138 871,1138 858,1138 660,1137 576,1137 553,1137 548,1137 512,1136 483,1136 429,1136 395,1136 322,1135" baseline="322,1135 395,1135 890,1137" reason: differs: "ment" against "Inst" | Wikisource:  | next_nc_e1: mente und einzelner Bestandtheile der n König
+ | german_print2_15:  -->
+			<!-- line left out: id="r24l15" points="322,1153 331,1152 342,1152 349,1145 365,1145 366,1154 374,1154 379,1159 396,1146 415,1146 418,1153 436,1151 444,1147 453,1147 462,1153 472,1153 474,1147 485,1147 486,1155 490,1155 501,1160 531,1147 559,1147 562,1153 566,1153 589,1153 646,1153 646,1168 628,1168 620,1163 566,1168 535,1168 535,1162 485,1162 433,1165 418,1165 405,1161 365,1161 331,1161 322,1158" baseline="322,1161 396,1161 531,1162 598,1163 646,1164" reason: differs: "säch" against "nigl" | Wikisource:  | next_nc_e1: sächs. Vogtlande. Leipzig 1876 | german_print2_15: sächs. Vogtlande. Leipzig 1876 -->
+			<!-- line left out: id="r24l16" points="215,1171 243,1171 279,1174 317,1177 317,1171 328,1171 335,1177 386,1172 397,1172 420,1176 448,1178 464,1178 479,1179 482,1173 486,1173 513,1172 525,1172 525,1179 566,1179 596,1182 597,1174 608,1174 610,1182 622,1180 650,1174 664,1174 667,1180 682,1178 687,1178 706,1179 714,1180 740,1180 749,1174 751,1174 777,1180 798,1180 830,1179 835,1179 875,1179 894,1179 894,1188 887,1190 838,1190 830,1190 737,1189 714,1188 706,1189 687,1189 664,1189 624,1189 608,1189 597,1189 566,1188 448,1188 420,1188 397,1188 310,1190 299,1190 243,1186 220,1186 215,1186" baseline="215,1185 894,1189" reason: differs: "451." against "N776" | Wikisource:  | next_nc_e1: 451. Singularia historico-litteraria oder Historische und gelehrt | german_print2_15:  -->
+			<!-- line left out: id="r24l17" points="320,1203 344,1203 350,1197 366,1197 376,1203 387,1203 405,1204 406,1198 419,1198 425,1204 451,1199 463,1198 475,1198 477,1204 490,1204 502,1199 512,1199 514,1205 558,1202 562,1202 580,1206 583,1200 587,1200 595,1208 608,1204 618,1204 641,1206 656,1210 659,1200 669,1200 677,1206 685,1200 687,1200 722,1199 737,1199 754,1199 756,1209 768,1206 777,1206 787,1200 803,1200 811,1206 822,1206 827,1200 831,1200 831,1207 852,1206 856,1206 873,1203 876,1203 880,1209 892,1206 899,1206 899,1213 876,1215 856,1216 849,1217 831,1217 768,1215 754,1214 737,1215 722,1215 714,1206 687,1214 685,1214 677,1208 669,1214 641,1215 618,1215 593,1215 580,1217 565,1217 512,1214 490,1214 436,1214 419,1214 387,1214 376,1214 320,1213" baseline="320,1213 451,1213 899,1215" reason: second model has no such line | Wikisource: auch andere Merckwürdigkeiten derer beiden Markgrafen | next_nc_e1: auch andere Merckwürdigkeiten derer beiden Markgraſen | german_print2_15:  -->
+			<!-- line left out: id="r24l18" points="321,1224 333,1224 380,1229 410,1227 422,1225 434,1225 457,1230 511,1225 555,1225 558,1231 567,1231 579,1235 582,1225 586,1225 600,1231 604,1231 615,1235 619,1225 638,1225 638,1232 650,1231 655,1231 666,1230 730,1228 752,1228 785,1228 794,1228 833,1231 838,1237 844,1237 845,1231 855,1231 877,1233 880,1239 905,1227 907,1227 907,1241 880,1241 874,1237 844,1243 838,1243 833,1232 825,1232 822,1241 794,1246 785,1246 752,1246 738,1246 730,1235 675,1241 655,1241 638,1241 604,1241 600,1241 567,1240 548,1241 541,1241 457,1240 380,1240 365,1240 321,1239" baseline="321,1239 467,1239 907,1241" reason: differs: "sitLeip" against "sitz.] " | Wikisource:  | next_nc_e1: thümer Ober- und Nieder-Lausit Leipzig 1736 und | german_print2_15: thümer Ober- und Nieder-Lausit Leipzig 1736 und -->
+			<!-- line left out: id="r24l19" points="321,1254 337,1254 366,1255 366,1265 348,1269 328,1269 321,1264" baseline="321,1263 366,1264" reason: second model has no such line | Wikisource: 1740. | next_nc_e1: 1740. | german_print2_15:  -->
+			<!-- line left out: id="r24l20" points="213,1274 267,1273 289,1273 290,1280 308,1277 316,1277 344,1280 372,1281 383,1275 393,1275 395,1281 401,1281 444,1280 448,1280 477,1281 505,1283 520,1285 527,1277 532,1277 554,1277 569,1281 581,1282 589,1283 601,1281 605,1281 613,1283 625,1286 625,1277 666,1276 671,1276 679,1278 691,1286 697,1286 697,1276 709,1276 717,1283 727,1283 728,1276 740,1276 762,1276 783,1276 787,1292 795,1292 812,1277 822,1277 830,1286 846,1278 850,1278 861,1280 869,1284 878,1284 891,1287 891,1293 874,1293 850,1292 846,1292 822,1291 795,1294 762,1294 740,1294 728,1294 715,1292 709,1294 697,1294 679,1292 671,1293 666,1293 613,1292 589,1292 554,1292 505,1292 477,1292 372,1294 356,1294 325,1290 218,1289 213,1289" baseline="213,1289 267,1289 812,1292 891,1293" reason: differs: "152." against "⟦⟧ |" | Wikisource:  | next_nc_e1: 152. Hartmann, kurze historisch-statistische Beschreibung des Dorſe
+ | german_print2_15: 152. Hartmann, kurze historisch-statistische Beschreibung des Dorfſe
+ -->
+			<TextEquiv index="1">
+				<Unicode>Zwickau 1861</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r25" custom="readingOrder {index:25;} orientation {0;}">
+			<Coords points="319,1300 888,1300 888,1350 319,1350" />
+			<TextLine id="r25l0" custom="readingOrder {index:0;}">
+				<Coords points="319,1301 331,1301 341,1306 343,1300 354,1300 355,1306 376,1306 383,1309 389,1301 400,1301 407,1307 421,1307 431,1302 442,1302 443,1308 531,1309 534,1303 544,1303 581,1310 590,1310 598,1304 612,1304 612,1310 653,1309 662,1304 672,1304 688,1309 700,1316 706,1310 723,1309 727,1309 735,1316 757,1304 783,1304 783,1312 812,1309 821,1304 839,1304 866,1311 873,1304 877,1304 886,1312 888,1312 888,1317 845,1318 833,1320 662,1318 653,1324 642,1324 640,1318 629,1318 612,1324 598,1324 590,1320 544,1317 455,1318 319,1315" />
+				<Baseline points="319,1315 888,1318" />
+				<TextEquiv index="1">
+					<Unicode>Schwickershausen nebst geographischen, geschichtliche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r25l1" points="319,1333 342,1333 343,1326 354,1326 369,1339 373,1327 386,1327 394,1330 412,1333 415,1327 429,1327 437,1333 460,1333 469,1328 480,1328 481,1334 493,1332 503,1332 526,1335 541,1328 556,1328 557,1336 569,1333 575,1333 595,1334 595,1328 608,1328 608,1335 615,1335 617,1342 648,1333 659,1333 670,1336 683,1341 689,1335 705,1335 723,1336 736,1335 763,1333 780,1333 782,1339 789,1339 791,1333 800,1333 800,1343 780,1344 736,1344 725,1343 723,1350 708,1350 699,1345 679,1345 660,1344 648,1339 615,1345 595,1345 556,1344 503,1344 469,1344 386,1343 319,1343" baseline="319,1343 369,1343 800,1344" reason: models differ | Wikisource: und alterthümlichen Notizen. Salzungen 1856 | next_nc_e1: und alterthümlichen Notizen. Salzungen 1856 | german_print2_15: und alterthümlichen Notizen. Salzungen 1856. -->
+			<TextEquiv index="1">
+				<Unicode>Schwickershausen nebst geographischen, geschichtliche</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+⟦⟧
+| style="text-align:right; vertical-align:top; width:40px" | 420.⟦⟧
+| Ansführliche Beschreibung des Meissnischen Ober-Ertzgebürges. Leipzig 1747.
+| style="text-align:right; vertical-align:top;" | 421.⟦⟧
+| Lehmann, historischer Schauplatz in dem Meissnischen Oberertzgebirge. Leipzig 1699.
+| style="text-align:right; vertical-align:top;" | 423.⟦⟧
+| Lindner, Wanderungen durch die interessantesten Gegenden des sächsischen Obererzgebirges. Annaberg 1848.
+| style="text-align:right; vertical-align:top;" | 426.⟦⟧
+| Hering, C. W., Geschichte des sächsichsen Hochlandes. 2 Thle. Leipzig 1828.
+| style="text-align:right; vertical-align:top;" | 429.⟦⟧
+| Dietrich, E. V. und G. A. Weber, Uebersicht der Geschichte des Bergbaues im sächsischen Erzgebirge. Annaberg 1822.
+| style="text-align:right; vertical-align:top;" | 432.⟦⟧
+| Döring, M., sächsische Bergreyhen. 2 Hefte. Grimma 1839–40.
+| style="text-align:right; vertical-align:top;" | 435.⟦⟧
+| Waagen, G. F., Kunstwerke und Künstler im Erzgebirge und in Franken. Leipzig 1843.
+| style="text-align:right; vertical-align:top;" | 437.⟦⟧
+| Biedermann, [http://digital.slub-dresden.de/id398847622 Göthe und das sächs. Erzgebirge. Nebst Ueberblick der gesteinkundigen und bergmännischen Thätigkeit Göthe’s]. Stuttgart 1877.
+| style="text-align:right; vertical-align:top;" | 438.⟦⟧
+| Sigismund, B., Lebensbilder vom sächsischen Erzgebirge. Leipzig 1859.
+| style="text-align:right; vertical-align:top;" | 438.⟦⟧
+| v. Geldern, Vogtland unter der Vögten. Greiz 1870.
+| style="text-align:right; vertical-align:top;" | 440.⟦⟧
+| Dunger, [https://mdz-nbn-resolving.de/details:bsb11336251 Rundâs und Reimsprüche aus dem Vogtlande.] Mit 22 vogtl. Schnaderhüpfl-Melodien. Plauen 1876.
+| style="text-align:right; vertical-align:top;" | 441.⟦⟧
+| –, [https://mdz-nbn-resolving.de/details:bsb11698036 der vogtländische gelehrte Bauer.] Plauen 1876.
+| style="text-align:right; vertical-align:top;" | 442.⟦⟧
+| –, [https://mdz-nbn-resolving.de/details:bsb11188576 Kinderlieder und Kinderspiele aus dem Vogtlande, eingeleitet durch einen Vortrag über volksthümliche Kinderpoesie] Plauen 1874.
+| style="text-align:right; vertical-align:top;" | 443.⟦⟧
+| –, über Dialekt und Volkslied des Vogtlandes. Plauen 1870.
+| style="text-align:right; vertical-align:top;" | 444.⟦⟧
+| Erzgebirgische Blätter. Schneeberg 1793.
+| style="text-align:right; vertical-align:top;" | 445.⟦⟧
+| Mosen, G., die Weihnachtsspiele im sächsischen Erzgebirge. Zwickau 1861.
+| style="text-align:right; vertical-align:top;" | 446.⟦⟧
+| Weinart, Lehnrecht des Markgrafenthums Oberlausitz. Dresden und Leipzig 1788.
+| style="text-align:right; vertical-align:top;" | 447.⟦⟧
+| Richter, [https://mdz-nbn-resolving.de/details:bsb10048009 die Herrschaft Mühltroff und ihre Besitzer]. Leipzig 1857.
+| style="text-align:right; vertical-align:top;" | 448.⟦⟧
+| Berthold und Fürstenau, [http://digital.slub-dresden.de/id393977838 die Fabrikation musikalischer Instrumente und einzelner Bestandtheile derselben im Königl. sächs. Vogtlande.] Leipzig 1876.
+| style="text-align:right; vertical-align:top;" | 451.⟦⟧
+| [https://gdz.sub.uni-goettingen.de/volumes/id/PPN776871862 Singularia historico-litteraria oder Historische und gelehrte auch andere Merckwürdigkeiten derer beiden Markgrafenthümer Ober- und Nieder-Lausitz.] Leipzig 1736 und 1740.
+| style="text-align:right; vertical-align:top;" | 452.⟦⟧
+| Hartmann, kurze historisch-statistische Beschreibung des Dorfes Schwickershausen nebst geographischen, geschichtlichen
+und alterthümlichen Notizen. Salzungen 1856.
+-->
+	</Page>
+</PcGts>

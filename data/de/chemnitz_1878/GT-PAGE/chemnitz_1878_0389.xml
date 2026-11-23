@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:41:36</Created>
+		<LastChange>2026-11-23T14:41:36</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/389 revision 5025368 of 2026-08-27T14:34:59Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0389.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro14962970436887858352" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="38,1088 42,1088 42,1515 38,1515" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="191,227 552,227 552,298 191,298" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="191,233 202,229 235,227 243,227 264,231 285,232 292,235 292,237 285,241 197,244 191,244" />
+				<Baseline points="191,244 215,240 292,241" />
+				<TextEquiv index="1">
+					<Unicode>Ob Petrus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l1" points="207,260 217,260 234,253 248,253 250,261 261,259 273,258 295,253 318,253 322,265 436,250 449,250 471,252 552,254 552,263 546,263 531,257 530,264 471,265 449,265 325,267 322,267 318,273 281,273 248,269 207,269" baseline="207,269 436,265 552,263" reason: differs: "inKe" against "Arno" | Wikisource:  | next_nc_e1: in Kempnicz Rathmannen | german_print2_15: in Kempnicz . Rathmannen -->
+			<!-- line left out: id="r1l2" points="205,282 216,282 217,294 233,290 244,290 250,280 257,280 270,281 284,289 290,285 302,284 433,282 441,282 443,275 456,275 464,282 471,282 479,275 510,275 527,279 527,283 523,283 520,290 510,292 491,292 471,292 456,292 307,294 290,294 284,293 260,289 257,295 221,298 217,298 205,296" baseline="205,296 233,293 527,289" reason: differs: "2,31" against "hron" | Wikisource:  | next_nc_e1: 2, 312 an. weifelhaft
+ | german_print2_15: 2, 312 an. 1 weifelhaft
+ -->
+			<TextEquiv index="1">
+				<Unicode>Ob Petrus</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="191,302 570,302 570,322 191,322" />
+			<!-- line left out: id="r2l0" points="191,308 201,307 212,307 236,312 244,307 270,305 292,305 305,309 323,310 403,310 432,310 483,310 485,315 502,302 523,302 532,312 538,307 547,302 561,302 570,307 570,315 561,317 523,317 485,318 418,318 414,313 399,312 351,318 323,320 305,320 246,322 236,322 191,322" baseline="191,322 322,319 570,315" reason: differs: "Henn" against ". | " | Wikisource:  | next_nc_e1: Hennel Hüter b rmeister, Heinen
+ | german_print2_15: Hennel Hüter bi rmeister, Heinen
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="196,384 244,384 244,401 196,401" />
+			<!-- line left out: id="r3l0" points="196,385 215,384 220,384 222,391 244,391 244,400 210,401 196,401" baseline="196,401 244,400" reason: differs: "Wahr" against ". | " | Wikisource:  | next_nc_e1: Wahr
+ | german_print2_15: Wah
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="207,414 278,414 278,426 207,426" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="207,418 222,418 246,414 261,414 276,424 278,424 278,426 276,426 264,420 261,426 231,426 207,424" />
+				<Baseline points="207,422 278,420" />
+				<TextEquiv index="1">
+					<Unicode>meister;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>meister;</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="663,409 703,409 703,420 663,420" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="663,409 666,409 692,411 698,419 703,419 703,420 682,420 663,419" />
+				<Baseline points="663,419 703,420" />
+				<TextEquiv index="1">
+					<Unicode>burg</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>burg</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="191,431 708,431 708,454 191,454" />
+			<!-- line left out: id="r6l0" points="191,438 205,438 215,446 227,442 230,442 254,444 266,446 563,432 575,432 580,443 586,438 595,438 651,431 664,431 668,437 691,437 708,440 708,443 691,446 664,447 595,448 575,448 254,451 242,452 230,453 213,454 210,454 191,452" baseline="191,453 265,452 563,448 594,447 651,446 708,446" reason: differs: "Nicl" against "erme" | Wikisource:  | next_nc_e1: Niclaws Kur Kumh
+ | german_print2_15: Niclaws r 1 t Kur Kumh
+ -->
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="210,465 284,465 284,481 210,481" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="210,465 214,465 227,470 258,471 284,477 284,479 214,481 210,481" />
+				<Baseline points="210,481 284,479" />
+				<TextEquiv index="1">
+					<Unicode>Junghil,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Junghil,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="394,1540 658,1540 658,1568 394,1568" />
+			<!-- line left out: id="r8l0" points="394,1549 406,1549 434,1549 443,1549 456,1549 469,1549 499,1549 533,1549 533,1540 547,1540 551,1552 563,1549 571,1549 640,1549 658,1550 658,1558 571,1560 551,1560 547,1568 533,1568 533,1558 452,1561 443,1561 426,1561 414,1560 394,1560" baseline="394,1558 413,1557 418,1557 658,1558" reason: differs: "hnpd" against "Heyn" | Wikisource:  | next_nc_e1: hnp digital slub-dresden de ppn301259642389
+ | german_print2_15: Ep dgitalsub dresden de ppne0 1259642389
+ -->
+		</TextRegion>
+		<GraphicRegion id="r9">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+| style="vertical-align:top;" | 1383.
+|
+| Ob Petrus Arnoldi und Mathias Calcariator opidani opidi in Kempnicz (No. 52) Rathmannen waren, wie Richter Chron. 2, 312 annimmt, ist zweifelhaft.
+| style="vertical-align:top;" | 1395.
+|
+| Hennel Hüter burgermeister, Heineman Stolle, Concze Kumherre, Concze Gunther, Nickel Czindeler, Nickel Smacztenteig unde gemeynlichen alde unde nuwe rete (No. 63).
+| style="vertical-align:top;" | 1398.
+|
+| Wahrscheinlich war Petir von Schonaw in diesem Jahr Bürgermeister; er heisst 1399 (No. 67) der alde burgermeistir.
+| style="vertical-align:top;" | 1399.
+|
+| Niclaws Berenwald burgermeister, Kuncze Kumherre, Nickel Junghil, Heynemann Stolle, Ditrich Eberstorff, Nickel Ortwin, Nickel Czindler, Nickel Smacztenteig, Nickel Tufel, Hanns Stein, Peter Homut, Hans Thomas, gesworne ratlute des nwen ratis (No. 68).
+| style="vertical-align:top;" | 1401.
+|
+| Heyneman Stolle burgermeister, Nigkel Berenwald, Diterich Eberstorf, Nigkel Örtwin, Nigkel Czindeler, Hans Stein, Nigkel Tüfel, Hans Thomas, Peter Homut, Nigkel Rudolff, Pauel Römer und Küne Heynichs gesworne ratlüte (No. 72–74).
+| style="vertical-align:top;" | 1400.
+|
+| Ob Nicolaus Bernwalde, Nicolaus Ortwun und Johannes Loubil opidani opidi Kempnicz (No. 386) mit Richter 2, 311 für Rathsmannen zu halten sind, ist zweifelhaft.
+| style="vertical-align:top;" | 1408.
+|
+| Andrebis Eghard burgermeister, Pauel Romer, Lange Hensil, Pesold Hünyl, Nickil Jacoff, Michil Habirberg, Hannus Libel, Peter Weidemann, Peter Homud, Hannus Bürnichin, Nickil von Burkirsdorff und Thime Giseler gesworne ratmanne des nuwen und des alden rates (No. 79).
+| style="vertical-align:top;" | 1412.
+|
+| Johannes Steyn proconsul (No. 86).
+| style="vertical-align:top;" | 1416.
+|
+| Hannus Stein burgermeister, Cunrat Kümher, Nicglaus Melczer, Andres Eghardt, Hannus Thomes, Nickil von Burkirsdorff und ander gesworne ratisman dez nüwen und aldin rates (No. 92).
+| style="vertical-align:top;" | 1420.
+|
+| Die bei Richter 2, 314 mitgetheilte Rathslinie des Jahres 1420 ist urkundlich nicht zu belegen und scheint auf einer irrthümlichen Wiederholung der Namen von 1416 zu beruhen.
+| style="vertical-align:top;" | 1422.
+|
+| Niclaus von Burckersdorf bei Richter 2, 315 lässt sich urkundlich nicht als Mitglied des Rathes in diesem Jahre nachweisen.
+| style="vertical-align:top;" | 1423.
+|
+| Nickil Jocof burgirmeister, Jocof Hillebrant, Peter Swertfegir, Nickil Flechser, Pauel Tüfel, Hans Gäbil, Nickil Mölner, Hans Huter, Pauel Bachman, Heyncze Kammermeister, Claus von Uwirswalde, Pauel Eckart, Nickil Burgkirstorf, Andres Friberger der eldir, Kunrad Kromer, Nickil Haldenort, Hans Margkirstorf, Hans Molner, Hans Lyncke, Nickil Tüfel, Hans Schuppult, Nickil Wayner gesworn ratislüte des nüwen unde alden rates (No. 99, 101).
+-->
+	</Page>
+</PcGts>

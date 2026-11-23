@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:40:14</Created>
+		<LastChange>2026-11-23T14:40:14</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/371 revision 4664343 of 2025-11-27T07:46:26Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0371.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro13423656881515044431" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="33,1089 41,1089 41,1472 33,1472" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="423,166 456,166 456,183 423,183" />
+			<!-- line left out: id="r1l0" points="423,167 448,166 456,166 456,182 442,183 423,183" baseline="423,183 456,182" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 117
+ | german_print2_15: 117
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="79,215 811,215 811,1261 79,1261" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="79,228 91,223 120,228 135,222 140,222 142,228 173,227 187,221 197,221 199,228 212,226 264,227 266,219 280,219 280,225 303,222 314,219 341,218 341,224 399,224 410,225 428,230 430,224 452,224 452,218 490,217 499,224 509,224 510,217 573,220 583,223 627,216 638,216 641,224 653,222 659,216 671,216 672,223 694,222 696,229 715,221 748,222 750,216 770,215 781,215 783,221 801,221 801,230 699,233 399,233 376,236 291,235 140,238 135,238 90,238 79,238" />
+				<Baseline points="79,235 801,230" />
+				<TextEquiv index="1">
+					<Unicode>aber hier könne der Gefangene auch nicht sitzen bleiben, weil das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="83,250 172,255 175,248 186,248 220,255 225,246 237,246 237,252 251,252 270,245 319,246 383,250 384,244 395,244 416,251 422,251 422,244 433,244 433,250 476,244 570,244 607,249 609,243 673,248 713,248 736,247 750,245 758,242 763,242 765,248 800,248 800,257 696,257 491,260 290,260 251,262 120,264 83,264" />
+				<Baseline points="83,264 447,259 800,257" />
+				<TextEquiv index="1">
+					<Unicode>Amt weder das Recht noch das Geld habe ihn zu executiren.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l2" points="82,275 87,275 102,278 116,280 132,274 154,274 175,273 184,273 184,279 198,279 208,277 213,277 264,278 267,272 271,272 315,277 343,279 345,271 355,271 356,277 367,277 380,276 390,276 405,270 425,270 439,275 454,278 455,271 465,271 467,278 484,276 490,270 501,270 514,276 526,276 537,277 538,270 543,270 545,276 557,274 569,274 593,275 594,283 613,276 625,276 626,269 637,269 652,277 656,265 671,265 697,268 698,276 709,274 726,274 741,268 753,268 767,272 778,274 779,268 786,268 801,272 801,284 748,284 697,284 637,284 598,286 594,286 569,285 537,286 526,290 514,290 439,286 367,287 315,287 264,288 198,289 176,290 87,290 82,290" baseline="82,291 115,290 212,288 270,287 329,286 636,284 801,284" reason: second model: differs: ",ob&dem" against "ob er d" | Wikisource: Der Kurfürst wird um seinen Entscheid gebeten, ob er dem Städt | next_nc_e1: Der Kurfürst wird um seinen Entscheid gebeten, ob ἐr dem Städt- | german_print2_15: Der Kurfürst wird um seinen Entscheid gebeten, ob & dem Staädt- -->
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="81,307 91,307 92,301 103,301 104,307 126,306 144,300 219,303 237,306 237,298 249,298 250,307 262,304 270,304 280,298 292,298 292,304 313,304 315,297 322,297 338,303 372,303 373,297 384,297 386,303 409,303 409,297 421,297 423,305 430,305 448,297 459,297 461,303 477,304 494,298 517,296 529,296 530,303 540,303 543,296 553,296 556,302 633,301 634,295 671,294 676,294 678,301 689,301 691,295 702,295 704,303 714,298 735,300 754,295 765,295 802,300 802,313 747,309 671,309 592,313 270,313 126,316 103,316 92,316 81,314" />
+				<Baseline points="81,316 494,311 802,310" />
+				<TextEquiv index="1">
+					<Unicode>chen Ehrenfriedersdorf nochmals die Abholung und Vollstreckung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="81,327 92,327 93,334 105,333 125,326 149,326 157,333 179,330 192,330 198,332 268,330 282,336 288,330 300,330 309,328 349,329 427,324 451,324 451,330 494,328 506,323 518,323 519,330 538,328 553,322 570,322 571,328 606,323 621,323 648,325 659,329 671,321 692,321 693,328 704,328 706,321 730,321 732,327 748,327 770,321 783,321 791,326 801,327 801,339 770,339 748,336 538,339 327,340 256,340 245,338 243,346 237,346 198,341 81,342" />
+				<Baseline points="81,342 478,338 801,337" />
+				<TextEquiv index="1">
+					<Unicode>der Execution per arctiora auferlegen oder dem Amte Wolkenstein,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="81,359 91,359 100,361 103,353 136,353 137,360 176,355 223,355 238,359 240,351 252,351 254,359 273,353 286,351 296,351 299,357 362,356 370,350 379,350 393,354 434,356 446,350 510,349 515,349 515,355 548,356 548,349 559,349 574,354 589,356 590,348 600,348 676,353 706,351 744,351 802,354 802,362 770,365 744,363 683,363 676,369 661,369 653,364 641,369 636,369 600,364 472,366 393,365 341,368 324,368 308,365 201,368 81,368" />
+				<Baseline points="81,368 752,362 802,363" />
+				<TextEquiv index="1">
+					<Unicode>welchem sonst die Obergerichte zu Ehrenfriedersdorf proprietatis jure</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="79,385 100,385 110,383 140,385 142,379 153,379 160,384 271,383 273,391 295,384 302,377 312,377 315,383 330,383 350,376 363,376 371,383 419,380 436,382 510,381 531,383 553,381 576,381 577,375 582,375 585,381 607,374 639,375 641,381 710,380 712,374 728,374 755,380 791,379 792,373 802,373 802,389 697,389 627,391 582,390 480,392 480,398 468,398 466,389 457,392 384,392 382,398 371,398 369,392 354,392 354,398 350,398 330,392 273,394 233,391 201,396 172,397 140,395 79,395" />
+				<Baseline points="79,395 276,392 802,389" />
+				<TextEquiv index="1">
+					<Unicode>zuständig gewesen, den Inquisitionsprozess anbefehlen wolle, auch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="80,412 99,413 103,406 112,406 115,413 127,411 162,412 163,405 175,405 177,412 187,412 207,404 237,404 241,412 284,408 333,409 336,403 344,403 344,409 405,409 407,403 418,403 436,407 495,403 497,411 509,408 523,408 535,402 547,402 564,411 566,401 577,401 577,408 589,408 599,405 625,407 625,401 671,406 672,400 683,400 708,402 714,408 725,408 727,401 737,401 750,406 752,400 763,400 764,406 801,406 801,415 683,416 628,418 418,418 354,422 343,422 333,419 80,421" />
+				<Baseline points="80,421 801,415" />
+				<TextEquiv index="1">
+					<Unicode>woher die allbereit aufgewendeten Gerichtskosten und Gebühren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="80,438 223,437 224,430 264,430 264,436 283,436 285,430 296,430 297,437 365,433 425,433 481,435 482,429 494,429 495,436 507,434 554,435 556,428 574,428 576,434 596,434 596,428 626,427 660,427 663,434 687,433 704,427 716,427 717,433 728,433 737,435 753,426 792,426 793,434 802,434 802,441 517,445 356,445 348,443 328,445 223,447 103,447 92,445 91,451 80,451" />
+				<Baseline points="80,447 802,442" />
+				<TextEquiv index="1">
+					<Unicode>genommen und anhero erstattet werden sollen. Ueber das Ende</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="80,458 91,458 99,465 121,466 121,458 135,458 135,466 153,458 174,458 189,465 199,465 201,457 318,456 326,463 335,463 355,457 365,457 388,465 389,456 407,456 425,461 428,455 435,455 446,460 446,471 135,474 97,474 80,474" />
+				<Baseline points="80,474 446,471" />
+				<TextEquiv index="1">
+					<Unicode>dieses Handels fehlt die Auskunft.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="134,484 155,486 166,491 190,483 254,483 255,490 282,488 333,488 355,482 367,482 374,488 387,488 405,482 416,482 417,490 428,482 440,482 441,488 472,490 474,482 581,487 601,480 605,480 605,487 624,487 631,480 636,480 676,485 802,486 802,491 791,491 784,498 721,498 701,496 685,501 669,501 614,497 416,497 312,500 134,500" />
+				<Baseline points="134,500 802,494" />
+				<TextEquiv index="1">
+					<Unicode>Die Anforderungen der Schweden waren nicht geringer ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="81,517 117,517 117,511 129,511 130,518 152,516 155,523 188,510 203,512 244,510 248,517 300,513 361,513 414,515 428,517 434,508 446,508 447,516 470,514 471,508 482,508 483,516 506,508 511,508 513,515 524,512 538,511 591,513 593,507 603,507 605,514 625,507 638,507 638,513 655,513 656,507 667,507 690,515 706,506 748,512 749,506 767,505 782,505 790,511 802,511 802,521 545,524 368,524 279,527 263,527 256,524 192,526 81,525" />
+				<Baseline points="81,526 689,521 802,522" />
+				<TextEquiv index="1">
+					<Unicode>worden. Der begehrten Steuerschocke hatte sich Paulus Drechsler</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="81,538 115,537 115,543 121,543 140,542 158,536 169,536 177,542 191,542 203,536 213,536 232,548 237,536 255,536 258,544 269,541 301,541 312,543 315,535 325,535 345,542 389,541 401,535 406,535 449,549 453,536 498,534 500,540 523,540 524,534 535,534 548,538 595,540 597,533 643,533 657,538 679,539 680,533 718,532 731,532 732,539 802,538 802,548 781,551 743,552 732,552 710,548 572,550 554,544 548,549 535,550 378,551 369,548 356,554 345,554 255,551 81,552" />
+				<Baseline points="81,552 802,547" />
+				<TextEquiv index="1">
+					<Unicode>bisher durch allerhand gesuchte Ausflüchte und Entschuldigungen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="81,571 105,567 113,563 124,563 126,569 138,569 148,563 174,563 176,569 195,569 195,563 230,562 307,570 321,562 350,562 351,568 374,562 380,562 382,569 393,569 394,562 429,561 438,567 463,567 465,574 489,567 500,567 509,569 517,561 539,561 541,567 546,567 574,560 586,560 587,568 606,566 623,560 638,560 639,567 651,565 718,566 720,559 731,559 732,565 745,562 802,564 802,574 534,576 517,565 509,574 469,578 327,578 280,582 271,582 230,578 93,579 81,577" />
+				<Baseline points="81,577 802,574" />
+				<TextEquiv index="1">
+					<Unicode>entbrochen. Die 500 Scheffel Korn, welche der Commandant an-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="83,589 93,589 95,595 124,596 180,595 195,589 206,589 208,596 230,595 245,603 250,590 314,594 322,592 334,592 363,588 366,594 454,595 455,588 468,588 476,594 513,591 523,585 533,585 535,594 546,591 566,591 579,594 580,600 599,592 689,592 690,585 705,585 718,592 724,592 724,585 730,585 732,591 748,591 757,585 771,585 803,591 803,599 784,601 636,602 584,604 566,602 249,605 154,604 124,607 113,607 83,605" />
+				<Baseline points="83,605 803,600" />
+				<TextEquiv index="1">
+					<Unicode>fangs von den Amtsunterthanen verlangt hatte, waren auf die Bitte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="81,616 92,616 100,623 113,623 123,616 134,616 135,623 146,615 157,615 166,623 179,623 201,621 255,621 256,615 267,615 282,623 288,615 298,615 307,621 310,621 324,629 328,616 366,618 368,624 377,620 442,620 462,613 489,613 502,623 509,613 521,613 522,621 532,621 543,614 565,613 577,613 600,617 671,619 709,615 762,617 769,611 781,611 782,617 803,618 803,628 737,627 708,632 696,632 671,628 620,628 603,623 600,629 345,631 81,631" />
+				<Baseline points="81,631 726,627 803,628" />
+				<TextEquiv index="1">
+					<Unicode>des Schössers und der Amtsrichter auf die Hälfte ermässigt worden,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l16" points="86,648 109,648 127,648 128,642 138,642 155,649 162,642 197,642 200,648 209,648 244,646 250,646 293,647 293,641 351,641 353,647 382,647 384,641 395,641 397,647 411,645 428,640 441,640 442,647 453,647 461,640 472,640 474,646 486,646 498,640 519,640 522,646 602,641 607,641 635,642 688,644 689,638 700,638 702,646 713,644 767,643 793,643 803,644 803,653 793,654 723,654 663,654 635,655 607,655 537,656 453,656 382,657 306,657 250,657 217,657 209,656 197,657 115,658 98,658 86,657" baseline="86,657 257,656 739,653 803,653" reason: differs: "ufertwo" against " gelief" | Wikisource:  | next_nc_e1: zumal da bereits viele Hundert Fuder Heu fert worden waren. | german_print2_15: zumal da bereits viele Hundert Fuder Heu fert worden waren. -->
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="84,668 163,674 209,674 228,679 230,668 241,668 244,674 267,674 282,668 293,668 295,674 311,675 327,669 396,673 441,667 452,667 459,673 499,673 514,666 517,666 525,674 558,673 559,666 569,666 572,672 577,672 589,666 594,666 607,670 627,670 629,679 648,666 653,666 656,672 676,671 689,665 719,664 727,664 729,672 743,668 757,670 804,670 804,684 757,684 720,680 653,681 633,683 559,682 558,688 546,688 537,683 525,681 517,688 514,688 452,683 84,684" />
+				<Baseline points="84,684 804,680" />
+				<TextEquiv index="1">
+					<Unicode>Dafür waren aber die Amtsunterthanen verpflichtet, bei Befestigung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="82,695 94,695 95,702 108,701 128,695 140,695 159,700 160,694 171,694 197,700 244,694 275,694 283,700 314,700 335,694 344,695 345,702 355,702 356,694 394,694 396,700 406,700 408,694 418,694 420,701 442,699 485,701 498,699 557,699 559,692 570,692 588,698 597,698 603,693 628,693 638,698 649,699 650,692 673,692 674,698 685,698 762,696 783,691 795,691 796,698 805,698 805,706 727,706 725,713 719,713 718,705 709,705 687,701 685,707 673,708 387,710 82,710" />
+				<Baseline points="82,710 805,705" />
+				<TextEquiv index="1">
+					<Unicode>der Stadt mit Fuhren behilflich zu sein und zahlreiche spanische</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="85,721 98,721 107,727 118,725 202,724 217,727 234,724 287,727 313,725 335,720 347,720 348,726 395,726 417,720 428,720 436,726 470,726 491,719 503,719 505,726 515,726 517,720 535,720 553,725 602,725 603,719 646,720 653,723 691,724 771,723 771,717 783,717 791,723 805,723 805,733 691,736 602,735 453,738 436,738 383,736 361,730 359,736 287,738 276,738 217,735 207,738 202,738 85,736" />
+				<Baseline points="85,736 805,732" />
+				<TextEquiv index="1">
+					<Unicode>Reiter zu verfertigen; die nöthigen Balken und Stangen wurden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="83,754 106,753 115,755 134,747 145,747 146,754 165,755 180,748 195,748 203,754 245,746 260,746 268,753 279,753 285,747 323,746 345,747 346,754 385,753 397,750 490,752 492,760 527,760 527,747 552,746 553,753 579,751 599,752 618,745 635,745 635,751 713,750 724,748 796,749 806,751 806,758 713,760 654,764 635,764 584,761 83,763" />
+				<Baseline points="83,763 806,758" />
+				<TextEquiv index="1">
+					<Unicode>aus des Amts Küchwalde entnommen. Alle 10 Tage mussten sie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l21" points="88,779 96,779 104,781 123,774 130,773 141,773 153,774 156,787 174,779 203,779 220,773 241,773 248,779 265,776 274,773 296,773 306,779 340,779 354,773 365,773 373,779 385,779 399,773 425,773 426,779 457,779 471,778 501,773 506,773 528,773 528,779 540,777 547,777 571,778 609,777 629,772 640,772 642,778 658,778 672,771 698,771 699,777 744,776 752,776 753,770 764,770 766,776 784,773 796,773 805,777 805,787 798,787 782,786 711,787 672,787 655,781 653,787 612,789 609,789 571,788 547,788 528,789 516,789 506,787 486,788 471,788 460,786 457,794 439,794 437,788 425,789 399,789 365,788 340,790 304,791 296,794 262,794 248,794 241,788 203,789 128,790 123,790 96,788 88,788" baseline="88,790 123,789 220,788 657,787 805,787" reason: second model: differs: "2Thl." against "20 Th" | Wikisource: 20 Thl. zur Verpflegung der Truppen beisteuern; die Zimmerleute, | next_nc_e1: 20 Thl. zur Verpflegung der Truppen beisteuern; die Zimmerleute, | german_print2_15: 2 Thl. zur Verpflegung der Truppen beisteuern; die Zimmerleute, -->
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="82,800 93,800 95,806 150,806 169,800 180,800 182,808 218,804 226,800 247,800 249,806 310,806 329,812 335,805 347,805 351,799 355,799 359,807 382,804 413,803 431,805 433,812 457,805 494,805 495,799 506,799 508,806 581,804 594,798 606,798 613,802 625,804 627,798 689,803 690,797 701,797 732,798 785,803 805,803 805,808 792,811 785,816 774,816 732,813 555,813 436,816 433,816 150,816 140,816 128,815 107,810 105,816 95,816 82,815" />
+				<Baseline points="82,815 805,811" />
+				<TextEquiv index="1">
+					<Unicode>die an den Schanzen arbeiteten, wurden von Stadt und Amt ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="83,832 168,832 188,838 194,827 205,827 224,832 237,826 241,826 243,833 255,833 256,826 267,826 269,832 281,830 291,826 326,826 342,828 353,833 367,825 390,825 392,832 402,832 415,829 466,831 471,837 477,831 561,831 561,825 573,825 598,830 606,825 616,825 666,831 674,824 696,824 704,829 716,831 717,824 730,824 730,831 752,829 754,836 776,830 782,822 795,822 796,829 805,829 805,838 757,840 684,839 666,842 342,841 293,845 291,845 267,842 241,841 224,845 213,845 205,842 83,842" />
+				<Baseline points="83,842 805,838" />
+				<TextEquiv index="1">
+					<Unicode>meinsam abgelohnt. Die Teiche waren unversehrt geblieben, die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l24" custom="readingOrder {index:24;}">
+				<Coords points="85,852 97,852 97,858 121,856 193,858 201,852 239,852 239,859 270,858 277,852 294,852 297,858 309,853 319,853 321,859 396,859 397,852 410,852 411,858 435,858 437,852 509,852 509,860 567,857 569,851 618,851 620,859 632,857 715,857 716,850 728,850 730,856 760,855 772,850 783,850 805,855 805,865 705,865 698,861 674,870 637,867 618,867 610,870 509,868 467,871 465,871 423,868 385,871 374,871 324,868 251,870 193,868 85,868" />
+				<Baseline points="85,868 805,865" />
+				<TextEquiv index="1">
+					<Unicode>Ernte wurde glücklich eingebracht. Es ward fleissig gedroschen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l25" custom="readingOrder {index:25;}">
+				<Coords points="84,885 107,885 109,879 119,879 137,885 153,884 165,886 167,879 170,879 191,885 208,884 217,886 235,878 277,878 297,885 329,883 370,883 405,880 419,880 431,884 434,878 441,878 441,884 476,885 494,878 509,878 519,884 557,884 558,878 570,878 573,885 692,881 715,883 729,876 735,876 753,876 764,876 766,883 776,883 778,876 789,876 805,876 805,892 746,891 702,897 596,893 465,896 405,894 380,886 376,894 329,894 315,891 308,899 297,899 277,893 84,894" />
+				<Baseline points="84,894 805,891" />
+				<TextEquiv index="1">
+					<Unicode>und viel ins Feld gestreut; Anfang November waren 50 Scheffel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l26" custom="readingOrder {index:26;}">
+				<Coords points="86,905 99,905 109,911 169,905 171,912 220,909 242,910 278,905 301,904 303,910 327,912 328,918 352,910 376,905 385,905 388,913 398,905 410,905 411,912 434,909 456,911 472,904 477,904 501,910 522,912 524,904 536,904 536,910 562,910 575,903 583,903 604,904 606,910 622,911 623,904 633,903 641,903 653,904 680,911 697,907 765,903 771,903 773,909 805,908 805,920 734,919 733,925 720,925 719,917 709,919 444,919 443,925 434,925 421,918 410,920 331,921 86,921" />
+				<Baseline points="86,921 805,918" />
+				<TextEquiv index="1">
+					<Unicode>Korn Chemnitzer Mass, welche 70 Dresdner Scheffeln entsprachen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l27" custom="readingOrder {index:27;}">
+				<Coords points="85,937 149,936 159,938 167,936 177,936 181,944 208,931 214,931 235,937 252,945 256,932 277,931 282,931 285,938 308,935 441,937 443,931 448,931 451,938 502,938 509,931 520,931 533,936 605,936 652,933 691,935 706,929 718,929 726,936 736,936 747,930 799,932 799,939 805,939 805,941 799,945 448,946 362,949 352,949 313,946 159,947 149,949 129,949 117,949 107,947 85,946" />
+				<Baseline points="85,947 604,944 805,945" />
+				<TextEquiv index="1">
+					<Unicode>ausgesäet. Die Arbeiten gingen aber schwer von statten: die Amts-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l28" custom="readingOrder {index:28;}">
+				<Coords points="86,963 156,957 158,963 203,963 205,971 228,963 251,963 259,958 273,958 293,965 299,957 303,957 306,963 394,963 396,971 419,964 425,957 437,957 439,965 463,963 470,958 481,958 491,963 513,963 529,957 585,957 592,960 643,962 690,959 739,962 754,955 767,955 775,962 785,962 786,955 798,955 800,965 806,965 806,967 798,971 705,971 689,976 678,976 615,972 437,973 371,975 273,973 86,973" />
+				<Baseline points="86,973 806,971" />
+				<TextEquiv index="1">
+					<Unicode>unterthanen, auch diejenigen, die ihren Pflichten wenigstens theil-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l29" custom="readingOrder {index:29;}">
+				<Coords points="86,989 168,989 192,984 202,984 221,990 244,990 256,984 280,984 281,990 353,990 372,984 387,984 392,990 414,988 450,990 455,997 499,987 546,990 568,989 592,983 598,983 607,989 617,989 618,983 629,983 650,989 654,982 668,982 669,988 685,988 701,981 707,981 727,982 728,988 740,988 740,982 760,981 772,981 773,987 806,987 806,997 785,1001 773,1001 752,997 727,998 707,1001 701,1001 629,998 546,1001 534,1001 522,999 372,1000 86,998" />
+				<Baseline points="86,999 806,997" />
+				<TextEquiv index="1">
+					<Unicode>weise noch nachkommen konnten, entzogen sich den schuldigen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l30" custom="readingOrder {index:30;}">
+				<Coords points="88,1010 108,1011 110,1017 143,1013 203,1016 205,1009 217,1009 219,1017 228,1017 242,1010 254,1010 254,1017 266,1010 271,1010 272,1016 304,1016 305,1010 317,1010 318,1017 379,1016 380,1010 412,1010 428,1012 429,1018 441,1016 458,1016 461,1010 497,1016 518,1017 520,1010 549,1010 550,1016 565,1016 642,1015 658,1009 686,1008 715,1008 717,1014 753,1013 767,1007 778,1007 786,1013 800,1013 807,1016 807,1019 800,1022 753,1026 742,1026 708,1024 620,1024 602,1019 600,1025 287,1026 266,1026 88,1025" />
+				<Baseline points="88,1025 807,1022" />
+				<TextEquiv index="1">
+					<Unicode>Diensten; die Schreiber und Diener, welche sie an Erfüllung der-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l31" custom="readingOrder {index:31;}">
+				<Coords points="86,1045 95,1043 105,1043 107,1036 126,1036 126,1044 138,1042 217,1041 238,1039 251,1039 262,1042 297,1043 298,1036 309,1036 311,1044 323,1042 389,1043 391,1036 402,1036 404,1043 416,1043 431,1036 443,1036 443,1043 455,1036 459,1036 461,1043 518,1042 526,1044 545,1037 574,1035 585,1035 587,1041 642,1042 644,1035 656,1035 671,1040 684,1034 697,1034 698,1040 752,1040 753,1033 763,1033 779,1039 808,1038 808,1049 740,1049 722,1053 704,1053 671,1050 644,1050 638,1048 618,1054 608,1054 595,1051 488,1050 459,1052 138,1052 95,1051 86,1049" />
+				<Baseline points="86,1051 415,1050 545,1046 617,1050 808,1049" />
+				<TextEquiv index="1">
+					<Unicode>selben erinnerten oder in des Schössers Auftrag das Zugvieh zur</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l32" custom="readingOrder {index:32;}">
+				<Coords points="86,1062 115,1062 115,1068 127,1068 127,1062 159,1062 161,1068 171,1068 174,1062 184,1062 186,1070 204,1066 239,1068 241,1062 259,1062 260,1068 273,1063 282,1063 284,1069 305,1068 323,1062 329,1062 329,1070 335,1070 340,1063 356,1062 371,1067 388,1069 391,1075 412,1068 450,1068 451,1062 462,1062 463,1069 522,1066 550,1061 569,1061 573,1067 608,1068 610,1061 621,1061 623,1067 627,1067 656,1066 693,1060 707,1060 733,1065 790,1065 791,1059 808,1059 808,1075 733,1074 733,1080 683,1076 681,1082 670,1082 668,1076 597,1079 462,1077 394,1079 184,1077 161,1079 86,1077" />
+				<Baseline points="86,1077 808,1075" />
+				<TextEquiv index="1">
+					<Unicode>Schuldigkeit abholen sollten, wurden mit Prügeln empfangen und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l33" custom="readingOrder {index:33;}">
+				<Coords points="87,1094 112,1092 132,1088 143,1088 150,1097 157,1095 166,1095 169,1088 173,1088 175,1095 188,1095 190,1088 212,1088 214,1094 237,1094 249,1088 261,1088 262,1096 272,1096 273,1088 284,1088 286,1094 305,1096 306,1089 318,1089 324,1092 327,1101 361,1090 371,1090 383,1095 395,1088 425,1088 436,1093 457,1095 460,1088 468,1088 468,1094 583,1093 611,1095 615,1087 625,1087 627,1093 637,1093 638,1087 649,1087 663,1092 696,1092 703,1086 715,1086 723,1092 760,1092 771,1085 784,1085 785,1092 796,1089 807,1089 807,1101 740,1104 583,1103 502,1106 425,1106 413,1106 400,1104 293,1104 237,1106 227,1106 173,1104 87,1104" />
+				<Baseline points="87,1104 807,1101" />
+				<TextEquiv index="1">
+					<Unicode>mit Todschlag bedroht. An Bestrafung war in solch unruhiger Zeit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l34" custom="readingOrder {index:34;}">
+				<Coords points="88,1120 122,1115 153,1121 173,1121 189,1114 200,1114 202,1122 220,1121 226,1114 237,1114 239,1121 265,1119 345,1118 440,1121 441,1115 457,1115 459,1121 510,1121 525,1114 537,1114 538,1121 554,1121 569,1114 585,1114 586,1120 638,1120 659,1122 660,1113 671,1113 673,1119 685,1119 700,1113 729,1113 730,1119 743,1119 743,1113 756,1112 767,1112 775,1118 808,1118 808,1128 787,1131 775,1131 743,1129 569,1130 551,1124 550,1130 510,1131 463,1131 440,1131 435,1131 88,1129" />
+				<Baseline points="88,1130 808,1128" />
+				<TextEquiv index="1">
+					<Unicode>nicht zu denken; man konnte sich nur die Namen der Schuldigen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l35" custom="readingOrder {index:35;}">
+				<Coords points="89,1144 142,1141 143,1148 162,1149 194,1147 194,1141 233,1140 234,1146 257,1147 332,1147 346,1146 354,1141 365,1141 367,1148 389,1147 391,1154 425,1155 425,1142 443,1142 453,1147 455,1141 470,1141 486,1147 516,1147 526,1150 527,1144 542,1144 553,1147 565,1140 581,1141 595,1146 606,1148 608,1140 640,1140 642,1147 697,1146 698,1140 778,1138 790,1138 791,1145 809,1144 809,1154 542,1157 378,1157 289,1155 257,1159 153,1155 89,1155" />
+				<Baseline points="89,1160 393,1156 809,1154" />
+				<TextEquiv index="1">
+					<Unicode>für bessere Tage vormerken. Auch musste Drechsler sehr auf der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l36" custom="readingOrder {index:36;}">
+				<Coords points="90,1166 114,1166 125,1169 166,1174 180,1180 204,1172 227,1171 248,1167 258,1167 260,1173 290,1173 292,1167 296,1167 299,1173 309,1173 316,1167 321,1167 323,1173 411,1173 425,1180 436,1180 437,1174 495,1169 503,1167 513,1167 521,1173 536,1173 544,1175 555,1166 567,1166 568,1174 587,1172 599,1166 619,1166 623,1172 648,1172 655,1165 670,1165 692,1165 700,1166 702,1172 712,1172 719,1169 735,1169 742,1165 761,1165 810,1167 810,1172 800,1172 799,1183 712,1180 692,1183 608,1181 436,1184 425,1184 377,1182 90,1182" />
+				<Baseline points="90,1182 810,1180" />
+				<TextEquiv index="1">
+					<Unicode>Hut sein; erst kürzlich war er „aus Anlass der Vorwerksbestellung“</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l37" custom="readingOrder {index:37;}">
+				<Coords points="89,1199 135,1192 159,1192 166,1196 178,1199 179,1193 225,1193 226,1200 244,1201 259,1194 278,1194 282,1200 304,1199 328,1205 330,1199 353,1199 355,1193 366,1193 367,1199 379,1196 442,1199 528,1199 544,1193 585,1196 675,1199 676,1192 688,1192 690,1199 699,1199 713,1191 725,1191 745,1196 752,1190 765,1190 780,1196 809,1196 809,1201 797,1204 792,1208 89,1208" />
+				<Baseline points="89,1210 809,1205" />
+				<TextEquiv index="1">
+					<Unicode>auf Befehl des Commandanten von zwei Reitern in die Stadt ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l38" custom="readingOrder {index:38;}">
+				<Coords points="89,1219 119,1218 142,1224 175,1224 179,1218 190,1218 192,1226 203,1224 245,1225 247,1219 263,1219 277,1225 356,1220 356,1227 407,1220 419,1220 477,1225 503,1225 524,1227 525,1219 530,1219 532,1225 557,1225 567,1219 594,1219 594,1225 600,1225 610,1218 622,1218 648,1224 716,1222 728,1222 739,1224 739,1216 759,1215 783,1215 783,1221 811,1221 811,1230 802,1230 802,1236 783,1236 740,1232 716,1232 594,1235 477,1234 455,1237 437,1237 394,1235 277,1235 190,1233 89,1234" />
+				<Baseline points="89,1234 811,1232" />
+				<TextEquiv index="1">
+					<Unicode>holt worden und unter Bewachung von drei Musketieren zwei Tage</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l39" custom="readingOrder {index:39;}">
+				<Coords points="90,1251 117,1246 131,1246 151,1250 173,1248 200,1250 223,1245 266,1245 268,1251 295,1251 297,1258 324,1246 345,1246 346,1253 365,1250 376,1250 412,1254 426,1246 437,1246 444,1252 465,1252 466,1246 477,1246 480,1252 530,1252 535,1246 553,1245 569,1253 575,1251 624,1250 625,1244 662,1249 664,1243 678,1243 697,1248 711,1242 717,1242 718,1248 762,1247 762,1241 768,1241 810,1247 810,1258 729,1257 697,1261 686,1261 662,1259 553,1261 504,1261 392,1261 301,1261 290,1261 177,1259 131,1261 102,1261 90,1260" />
+				<Baseline points="90,1260 324,1260 810,1256" />
+				<TextEquiv index="1">
+					<Unicode>in Arrest verblieben. Weiteres darüber will er zukünftig berichten,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>aber hier könne der Gefangene auch nicht sitzen bleiben, weil das
+Amt weder das Recht noch das Geld habe ihn zu executiren.
+chen Ehrenfriedersdorf nochmals die Abholung und Vollstreckung
+der Execution per arctiora auferlegen oder dem Amte Wolkenstein,
+welchem sonst die Obergerichte zu Ehrenfriedersdorf proprietatis jure
+zuständig gewesen, den Inquisitionsprozess anbefehlen wolle, auch
+woher die allbereit aufgewendeten Gerichtskosten und Gebühren
+genommen und anhero erstattet werden sollen. Ueber das Ende
+dieses Handels fehlt die Auskunft.
+Die Anforderungen der Schweden waren nicht geringer ge-
+worden. Der begehrten Steuerschocke hatte sich Paulus Drechsler
+bisher durch allerhand gesuchte Ausflüchte und Entschuldigungen
+entbrochen. Die 500 Scheffel Korn, welche der Commandant an-
+fangs von den Amtsunterthanen verlangt hatte, waren auf die Bitte
+des Schössers und der Amtsrichter auf die Hälfte ermässigt worden,
+Dafür waren aber die Amtsunterthanen verpflichtet, bei Befestigung
+der Stadt mit Fuhren behilflich zu sein und zahlreiche spanische
+Reiter zu verfertigen; die nöthigen Balken und Stangen wurden
+aus des Amts Küchwalde entnommen. Alle 10 Tage mussten sie
+die an den Schanzen arbeiteten, wurden von Stadt und Amt ge-
+meinsam abgelohnt. Die Teiche waren unversehrt geblieben, die
+Ernte wurde glücklich eingebracht. Es ward fleissig gedroschen
+und viel ins Feld gestreut; Anfang November waren 50 Scheffel
+Korn Chemnitzer Mass, welche 70 Dresdner Scheffeln entsprachen,
+ausgesäet. Die Arbeiten gingen aber schwer von statten: die Amts-
+unterthanen, auch diejenigen, die ihren Pflichten wenigstens theil-
+weise noch nachkommen konnten, entzogen sich den schuldigen
+Diensten; die Schreiber und Diener, welche sie an Erfüllung der-
+selben erinnerten oder in des Schössers Auftrag das Zugvieh zur
+Schuldigkeit abholen sollten, wurden mit Prügeln empfangen und
+mit Todschlag bedroht. An Bestrafung war in solch unruhiger Zeit
+nicht zu denken; man konnte sich nur die Namen der Schuldigen
+für bessere Tage vormerken. Auch musste Drechsler sehr auf der
+Hut sein; erst kürzlich war er „aus Anlass der Vorwerksbestellung“
+auf Befehl des Commandanten von zwei Reitern in die Stadt ge-
+holt worden und unter Bewachung von drei Musketieren zwei Tage
+in Arrest verblieben. Weiteres darüber will er zukünftig berichten,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="90,1267 811,1267 811,1316 90,1316" />
+			<!-- line left out: id="r3l0" points="90,1279 95,1271 112,1271 126,1279 130,1279 145,1280 160,1274 164,1274 183,1274 200,1274 262,1276 274,1273 286,1271 298,1271 306,1277 313,1277 315,1271 327,1271 328,1279 339,1272 349,1272 364,1279 372,1279 385,1278 393,1276 397,1276 423,1278 424,1272 430,1272 433,1279 444,1278 456,1278 488,1278 503,1272 508,1272 537,1275 555,1275 582,1276 590,1274 602,1274 625,1273 633,1269 644,1269 650,1275 670,1274 682,1269 695,1269 704,1272 706,1281 725,1275 731,1268 743,1268 750,1275 776,1273 781,1267 792,1267 792,1283 748,1283 725,1283 695,1289 670,1289 662,1285 631,1285 602,1285 582,1286 537,1287 508,1287 456,1287 397,1288 393,1288 349,1287 327,1287 315,1287 274,1286 266,1284 262,1288 250,1288 194,1286 170,1288 160,1288 130,1286 90,1286" baseline="90,1286 199,1285 396,1284 792,1282" reason: models differ | Wikisource: da es jetzt zu gefährlich sei; aber er bittet unterthänigst, dass al | next_nc_e1: da es jetzt zu gefährlich sei; aber er bittet unterthänigst, dass al | german_print2_15: da es jetzt zu gefährlich sei; aber er bittet unterthänigst, dass al- -->
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="91,1297 102,1297 114,1302 156,1305 158,1297 170,1297 171,1304 181,1304 196,1296 203,1296 214,1297 230,1302 287,1302 288,1309 311,1302 323,1302 333,1297 343,1297 345,1305 356,1297 368,1297 369,1303 396,1303 398,1297 410,1297 410,1303 447,1304 447,1297 460,1297 468,1305 481,1303 528,1303 529,1297 541,1297 542,1304 575,1295 598,1295 607,1301 619,1301 655,1296 668,1296 679,1300 680,1294 692,1294 699,1300 724,1299 725,1293 739,1293 751,1300 805,1299 811,1303 811,1305 805,1309 789,1310 725,1310 724,1316 709,1316 709,1310 619,1314 575,1314 558,1312 91,1312" />
+				<Baseline points="91,1310 311,1311 811,1309" />
+				<TextEquiv index="1">
+					<Unicode>dann die Personen, welche ihm diesen abermaligen Schimpf verur-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>dann die Personen, welche ihm diesen abermaligen Schimpf verur-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="94,1320 811,1320 811,1365 94,1365" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="94,1329 126,1326 155,1327 156,1336 190,1329 249,1329 269,1322 272,1322 281,1328 335,1322 337,1329 384,1329 443,1323 466,1323 467,1329 481,1327 521,1329 584,1327 591,1321 607,1321 622,1329 629,1327 665,1324 673,1321 685,1320 703,1320 703,1326 763,1328 763,1320 775,1320 789,1324 811,1326 811,1336 633,1337 626,1335 607,1337 384,1340 373,1340 353,1338 306,1338 272,1340 269,1340 143,1339 103,1337 94,1335" />
+				<Baseline points="94,1335 159,1339 811,1336" />
+				<TextEquiv index="1">
+					<Unicode>sachet, seinem unterthänigsten Vertrauen nach ernstlich möchten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="94,1352 104,1352 112,1354 132,1352 142,1354 159,1351 193,1355 216,1355 223,1349 234,1349 236,1355 257,1355 257,1364 234,1365 216,1365 203,1365 94,1362" />
+				<Baseline points="94,1362 257,1364" />
+				<TextEquiv index="1">
+					<Unicode>bestraft werden.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>sachet, seinem unterthänigsten Vertrauen nach ernstlich möchten
+bestraft werden.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="394,1539 604,1539 604,1567 394,1567" />
+			<!-- line left out: id="r5l0" points="394,1549 402,1549 408,1550 418,1549 433,1549 443,1549 456,1549 469,1549 474,1539 481,1539 481,1549 499,1549 533,1549 533,1539 547,1539 551,1552 563,1550 571,1550 601,1550 601,1556 604,1556 604,1558 571,1560 551,1560 547,1567 533,1567 533,1558 481,1558 481,1567 474,1567 474,1558 452,1561 443,1561 426,1561 414,1560 407,1560 394,1558" baseline="394,1558 604,1557" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnp digital slub dresden de ppns0125
+ | german_print2_15: PGigital slub-dresden de ppn30125
+ -->
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+aber hier könne der Gefangene auch nicht sitzen bleiben, weil das
+Amt weder das Recht noch das Geld habe ihn zu executiren.
+Der Kurfürst wird um seinen Entscheid gebeten, ob er dem Städtchen
+Ehrenfriedersdorf nochmals die Abholung und Vollstreckung
+der Execution per arctiora auferlegen oder dem Amte Wolkenstein,
+welchem sonst die Obergerichte zu Ehrenfriedersdorf proprietatis jure
+zuständig gewesen, den Inquisitionsprozess anbefehlen wolle, auch
+woher die allbereit aufgewendeten Gerichtskosten und Gebühren
+genommen und anhero erstattet werden sollen. Ueber das Ende
+dieses Handels fehlt die Auskunft.
+Die Anforderungen der Schweden waren nicht geringer geworden.
+Der begehrten Steuerschocke hatte sich Paulus Drechsler
+bisher durch allerhand gesuchte Ausflüchte und Entschuldigungen
+entbrochen. Die 500 Scheffel Korn, welche der Commandant anfangs
+von den Amtsunterthanen verlangt hatte, waren auf die Bitte
+des Schössers und der Amtsrichter auf die Hälfte ermässigt worden,
+zumal da bereits viele Hundert Fuder Heu geliefert worden waren.
+Dafür waren aber die Amtsunterthanen verpflichtet, bei Befestigung
+der Stadt mit Fuhren behilflich zu sein und zahlreiche spanische
+Reiter zu verfertigen; die nöthigen Balken und Stangen wurden
+aus des Amts Küchwalde entnommen. Alle 10 Tage mussten sie
+20 Thl. zur Verpflegung der Truppen beisteuern; die Zimmerleute,
+die an den Schanzen arbeiteten, wurden von Stadt und Amt gemeinsam
+abgelohnt. Die Teiche waren unversehrt geblieben, die
+Ernte wurde glücklich eingebracht. Es ward fleissig gedroschen
+und viel ins Feld gestreut; Anfang November waren 50 Scheffel
+Korn Chemnitzer Mass, welche 70 Dresdner Scheffeln entsprachen,
+ausgesäet. Die Arbeiten gingen aber schwer von statten: die Amtsunterthanen,
+auch diejenigen, die ihren Pflichten wenigstens theilweise
+noch nachkommen konnten, entzogen sich den schuldigen
+Diensten; die Schreiber und Diener, welche sie an Erfüllung derselben
+erinnerten oder in des Schössers Auftrag das Zugvieh zur
+Schuldigkeit abholen sollten, wurden mit Prügeln empfangen und
+mit Todschlag bedroht. An Bestrafung war in solch unruhiger Zeit
+nicht zu denken; man konnte sich nur die Namen der Schuldigen
+für bessere Tage vormerken. Auch musste Drechsler sehr auf der
+Hut sein; erst kürzlich war er „aus Anlass der Vorwerksbestellung“
+auf Befehl des Commandanten von zwei Reitern in die Stadt geholt
+worden und unter Bewachung von drei Musketieren zwei Tage
+in Arrest verblieben. Weiteres darüber will er zukünftig berichten,
+da es jetzt zu gefährlich sei; aber er bittet unterthänigst, dass alsdann
+die Personen, welche ihm diesen abermaligen Schimpf verursachet,
+seinem unterthänigsten Vertrauen nach ernstlich möchten
+bestraft werden.
+-->
+	</Page>
+</PcGts>

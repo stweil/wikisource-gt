@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:33:16</Created>
+		<LastChange>2026-11-23T14:33:16</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/253 revision 4643844 of 2025-10-22T11:59:15Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0253.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro7843395250544397363" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="126,638 219,638 219,675 126,675" />
+			<TextLine id="r0l0" custom="readingOrder {index:0;}">
+				<Coords points="128,638 140,638 149,641 192,641 192,648 149,649 143,649 128,648" />
+				<Baseline points="128,648 192,648" />
+				<TextEquiv index="1">
+					<Unicode>Reinhar</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l1" custom="readingOrder {index:1;}">
+				<Coords points="126,668 178,663 191,663 195,669 207,666 219,666 219,674 191,675 178,675 146,675 142,675 126,671" />
+				<Baseline points="126,675 219,674" />
+				<TextEquiv index="1">
+					<Unicode>Otto Kohl</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Reinhar
+Otto Kohl</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="394,1539 608,1539 608,1567 394,1567" />
+			<!-- line left out: id="r1l0" points="394,1549 402,1549 408,1550 422,1549 431,1549 443,1549 447,1550 453,1549 456,1549 469,1549 472,1539 481,1539 499,1539 517,1539 517,1549 525,1549 548,1549 608,1550 608,1558 566,1560 551,1560 530,1558 517,1558 517,1567 499,1567 481,1567 472,1567 472,1558 443,1561 430,1561 414,1560 407,1560 394,1558" baseline="394,1558 608,1557" reason: differs: "hupd" against "| st" | Wikisource:  | next_nc_e1: hup dgſtal slub dresden de ppn0125
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r2">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+⟦⟧
+| colspan=2 style="text-align:right;" | Seite
+| Allgemeiner Bericht
+| style="text-align:right;" | 1
+| Sitzungsberichte
+| style="text-align:right;" | 2
+| Katalog der Bibliothek
+| style="text-align:right;" | 40
+| Bericht über das Museum
+| style="text-align:right;" | 65
+| Mitglieder-Verzeichniss
+| style="text-align:right;" | 87
+| Nekrologe:
+|
+| Reinhard Zöllner
+| style="text-align:right;" | 94
+| Otto Kohl
+| style="text-align:right;" | 95
+| Anton Haendler
+| style="text-align:right;" | 97
+| Kassenbericht 1875–78
+| style="text-align:right;" | 100
+|
+|
+| colspan=2 style="text-align:right;" |
+|
+|
+| Abhandlungen zur Geschichte von Chemnitz:
+|
+| A. Scholtze, aus bedrängter Zeit
+| style="text-align:right;" | 105
+| H. Ermisch, die Rathslinie der Stadt Chemnitz bis 1484
+| style="text-align:right;" | 130
+| Miscelle. Mitgetheilt von Dr. W. Loose (Meissen)
+| style="text-align:right;" | 141
+-->
+	</Page>
+</PcGts>

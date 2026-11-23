@@ -1,0 +1,397 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:44:48</Created>
+		<LastChange>2026-11-23T13:44:48</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/13 revision 4919456 of 2026-06-12T07:01:43Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0013.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro14224478658702534250" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="37,1093 43,1093 43,1481 37,1481" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="469,149 524,149 524,164 469,164" />
+			<!-- line left out: id="r1l0" points="469,149 480,149 507,159 524,159 524,160 480,164 469,164" baseline="469,160 524,160" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 3 —
+ | german_print2_15: 3 —
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="148,204 841,204 841,1268 148,1268" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="148,209 161,209 168,216 182,213 257,214 258,222 281,214 336,214 339,206 349,206 350,213 361,213 362,207 367,207 368,215 380,213 429,213 444,206 449,206 459,212 469,212 470,206 480,206 494,214 500,212 523,210 545,206 556,206 563,211 579,213 579,205 587,205 588,212 599,210 621,212 636,205 658,205 664,211 679,211 679,204 685,204 733,208 806,204 820,204 821,210 831,210 831,220 658,220 262,225 210,225 161,225 148,225" />
+				<Baseline points="148,225 831,220" />
+				<TextEquiv index="1">
+					<Unicode>Posten ein, in welchen er sich entschiedene Verdienste erwarb.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="149,235 171,235 185,241 201,241 201,235 221,235 234,240 247,242 277,239 313,242 313,234 326,234 327,240 337,240 349,234 371,233 392,234 404,239 404,233 416,233 423,237 459,239 459,233 553,238 554,231 591,231 615,231 630,239 636,239 636,231 654,231 654,237 664,237 676,231 698,231 698,237 726,231 764,231 775,236 783,237 797,231 809,231 832,236 832,247 591,247 515,250 423,249 234,251 171,251 149,251" />
+				<Baseline points="149,251 336,248 832,247" />
+				<TextEquiv index="1">
+					<Unicode>Er verbesserte die Gerichtsordnung und hob den Werth der ihm</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="149,268 173,266 200,267 216,265 228,269 228,261 248,261 254,267 271,267 286,260 300,260 300,267 323,266 323,260 334,260 342,266 390,265 410,259 421,259 422,265 454,265 455,259 497,259 512,264 513,258 518,258 519,264 545,266 566,263 610,263 629,265 629,257 643,257 643,264 655,264 666,257 680,257 680,263 692,263 693,257 705,257 705,263 735,263 735,257 737,257 795,263 826,263 833,266 833,269 826,273 643,273 599,275 545,272 531,274 310,277 266,277 216,277 200,277 149,277" />
+				<Baseline points="149,277 609,273 833,273" />
+				<TextEquiv index="1">
+					<Unicode>unterstellten Ländereien durch Verbesserung des Bodens; so ver-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l3" points="149,291 153,287 157,287 157,294 181,292 195,292 239,293 267,294 267,287 280,287 281,294 291,294 311,286 336,286 344,292 359,292 360,286 371,286 372,294 383,292 394,292 396,286 401,286 403,294 414,292 426,291 450,291 489,294 489,285 502,285 508,293 515,293 536,284 542,284 589,284 596,289 614,290 621,289 628,289 649,283 672,283 672,289 688,289 688,283 700,283 700,289 724,289 724,283 727,283 765,284 808,284 833,287 833,299 808,300 765,300 661,300 614,303 597,303 570,300 542,300 502,300 460,303 425,303 414,303 394,302 371,302 336,302 316,302 311,289 291,301 280,302 239,303 232,303 221,301 195,297 195,303 180,308 168,308 154,303 149,303" baseline="149,303 238,302 484,300 627,299 833,299" reason: differs: "fsügt" against "fügte" | Wikisource:  | next_nc_e1: fſügte er die Trockenlegung des Dollinger Teiches im Amt | german_print2_15: fügte er die Trockenlegung des Dollinger Teiches im Amt -->
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="149,313 163,313 164,319 180,321 181,314 193,314 194,321 205,319 225,319 225,313 239,313 239,319 253,319 259,313 272,313 272,319 281,319 300,312 304,312 306,318 336,321 336,312 407,312 409,320 420,317 431,317 448,323 453,317 464,317 466,311 477,311 479,318 514,316 559,316 585,319 590,323 606,316 618,316 622,323 661,314 745,315 745,309 757,309 757,316 768,316 782,309 799,309 823,309 823,315 833,315 833,326 768,326 682,330 661,330 590,326 502,328 477,327 149,329" />
+				<Baseline points="149,329 833,325" />
+				<TextEquiv index="1">
+					<Unicode>Liebenwerda, liess Mühlen anlegen u. s. w. 1541 wurde Dehn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="148,346 160,345 182,340 252,345 266,339 283,339 293,345 301,343 525,343 526,336 537,336 555,342 590,342 608,336 699,336 700,342 719,342 733,336 745,336 745,342 764,342 777,335 793,335 833,343 833,354 537,352 273,355 148,355" />
+				<Baseline points="148,355 589,351 833,352" />
+				<TextEquiv index="1">
+					<Unicode>auch zum Forstmeister ernannt und war als solcher der Erste,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="148,372 160,372 170,366 249,365 255,365 257,373 269,370 280,370 289,365 300,365 302,373 311,369 355,370 366,372 366,364 376,364 392,370 421,370 436,363 449,363 456,369 493,369 494,363 505,363 513,369 560,368 582,370 582,362 593,362 595,368 664,368 665,362 689,362 695,367 753,368 769,362 805,362 806,368 834,368 834,378 708,378 708,384 695,384 695,378 633,380 576,378 560,384 549,384 548,378 392,380 376,374 367,374 367,380 357,380 355,386 349,386 347,380 223,382 148,380" />
+				<Baseline points="148,380 834,378" />
+				<TextEquiv index="1">
+					<Unicode>welcher Metallstempel zur Bezeichnung der geschlagenen Hölzer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="154,398 177,391 186,391 187,397 207,396 226,398 248,398 266,392 271,392 277,397 288,399 309,399 309,392 357,390 386,397 391,390 404,390 412,397 493,395 494,389 506,389 520,395 534,396 534,389 547,389 547,395 575,395 589,388 606,388 607,394 660,394 660,388 671,388 673,394 689,394 704,388 709,388 715,394 743,394 747,388 758,388 758,394 784,391 834,394 834,404 792,404 784,410 772,410 771,404 715,404 709,410 704,410 689,404 469,405 466,411 462,411 447,405 350,407 309,407 288,405 277,407 226,410 154,407" />
+				<Baseline points="154,407 834,403" />
+				<TextEquiv index="1">
+					<Unicode>anfertigen liess. Mit diesen praktischen Tugenden vereinigte er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="150,417 164,417 187,422 208,421 221,417 235,417 235,424 262,423 263,417 275,417 276,424 298,423 299,430 323,423 334,423 346,426 347,416 359,416 360,422 381,422 453,421 471,416 553,415 554,422 607,415 631,415 676,420 677,414 694,414 695,421 705,421 718,414 730,414 737,420 772,414 823,414 824,420 833,420 833,430 553,430 303,434 275,433 245,436 221,436 150,433" />
+				<Baseline points="150,433 525,430 833,430" />
+				<TextEquiv index="1">
+					<Unicode>Rittertugenden, indem er auch mit dem Gebrauche der Waffen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="149,450 180,448 279,448 323,443 338,443 350,449 500,446 508,450 519,444 532,441 542,441 545,448 601,445 649,446 650,440 678,440 729,446 749,446 750,440 762,440 762,447 792,447 793,441 834,446 834,456 556,457 519,454 508,462 488,462 486,456 303,459 149,458" />
+				<Baseline points="149,459 834,456" />
+				<TextEquiv index="1">
+					<Unicode>vertraut war; auch war er seit 1539 Oberrüst- und Harnischmeister</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="150,470 172,470 179,476 255,470 257,477 266,477 274,475 323,476 324,469 336,469 337,477 350,477 364,468 369,468 411,474 447,474 448,481 473,473 502,470 553,473 554,467 564,467 612,472 639,471 644,467 663,466 675,466 676,474 687,472 766,473 766,467 779,467 779,473 822,473 822,466 836,466 836,483 644,483 612,487 592,487 502,480 500,487 489,488 480,488 336,484 294,486 255,485 219,487 150,485" />
+				<Baseline points="150,485 451,483 836,483" />
+				<TextEquiv index="1">
+					<Unicode>Herzog Georgs des Bärtigen. 1548 und 1549 finden wir ihn auf</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="149,495 174,495 174,501 215,502 271,501 286,495 302,495 311,501 344,501 344,495 357,495 358,501 410,500 411,508 430,500 441,500 449,503 454,494 463,494 464,500 487,500 520,499 534,493 546,493 547,501 569,499 581,493 604,493 610,499 661,494 696,494 748,497 792,496 813,499 834,499 834,509 792,510 773,515 761,515 760,509 702,514 683,514 650,510 627,509 454,510 441,508 414,511 368,512 334,511 324,508 321,516 311,516 302,511 149,511" />
+				<Baseline points="149,511 649,508 834,509" />
+				<TextEquiv index="1">
+					<Unicode>Turniren zu Kopenhagen, wohin er den Herzog August (späteren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="150,521 166,521 173,527 193,521 207,521 209,528 227,526 255,528 272,522 291,521 305,525 354,522 391,526 452,526 474,529 475,520 486,520 488,528 511,527 558,519 568,519 572,527 581,527 582,519 593,519 593,525 715,520 750,524 752,533 775,519 792,519 800,525 834,525 834,539 819,539 792,536 752,537 523,535 502,533 486,535 408,536 391,539 368,539 354,537 150,537" />
+				<Baseline points="150,537 470,535 834,535" />
+				<TextEquiv index="1">
+					<Unicode>Kurfürsten Vater August) zu dessen Hochzeit mit Anna, König</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l13" points="149,550 160,547 176,547 178,553 202,552 208,552 238,554 240,547 244,547 246,557 253,557 268,547 293,547 296,560 314,553 342,553 361,547 376,547 377,559 389,553 399,553 412,552 424,552 452,549 482,546 493,546 501,553 505,546 521,546 541,550 550,546 580,545 586,545 587,551 599,551 604,545 621,545 630,551 641,549 647,549 684,545 696,545 697,551 708,549 724,549 738,552 738,545 740,545 796,545 797,551 835,551 835,562 813,566 797,566 724,561 621,563 599,563 552,562 550,562 501,561 489,548 487,562 399,562 293,563 238,564 202,564 159,563 149,563" baseline="149,564 346,562 461,561 739,560 835,561" reason: second model: differs: "an’'sII" against "an’s II" | Wikisource: Christian’s III. von Dänemark Tochter, begleitet hatte. Wegen | next_nc_e1: Christian’s III. von Dänemark Tochter, begleitet hatte. Wegen | german_print2_15: Christian’'s III. von Dänemark Tochter, begleitet hatte. Wegen -->
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="149,573 161,573 162,579 179,580 207,580 222,574 237,574 245,580 266,582 266,574 328,579 335,573 344,573 372,577 455,578 470,586 474,574 491,572 513,572 529,580 540,580 542,573 549,571 562,571 589,571 598,571 614,577 658,577 660,571 671,571 671,577 791,572 829,572 834,575 834,587 740,587 720,589 708,589 593,586 328,589 268,589 255,589 237,589 188,589 168,589 149,589" />
+				<Baseline points="149,588 834,587" />
+				<TextEquiv index="1">
+					<Unicode>dieser Reise wurde erst sein Adel offiziell anerkannt, es existirt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="150,606 168,605 180,600 195,600 209,606 213,600 227,600 261,605 287,605 303,599 371,599 378,612 397,605 414,604 428,599 432,599 445,604 447,598 457,598 465,604 487,604 513,612 517,599 540,598 541,605 552,605 553,598 574,598 596,603 609,597 616,597 629,603 723,603 723,616 714,618 686,618 616,613 574,612 532,614 261,614 215,616 150,615" />
+				<Baseline points="150,616 491,613 723,613" />
+				<TextEquiv index="1">
+					<Unicode>noch der von Karl V. verliehene Adelsbrief von 1549.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="201,626 268,625 269,633 281,631 319,629 397,629 451,626 452,633 463,630 494,628 521,630 525,637 552,629 583,628 612,631 612,623 630,623 631,629 638,629 662,623 677,623 678,631 689,629 725,629 726,623 740,623 741,629 828,629 835,633 835,636 828,639 797,639 776,645 765,645 678,639 668,645 662,645 638,639 528,641 451,640 335,643 201,642" />
+				<Baseline points="201,642 835,639" />
+				<TextEquiv index="1">
+					<Unicode>Mit den genannten Aemtern, mit der Verwaltung ver-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="150,659 169,658 170,652 181,652 189,659 199,659 199,652 211,652 218,658 253,658 271,651 284,651 291,657 300,656 317,651 321,651 324,657 334,657 335,651 345,651 347,658 357,658 386,652 400,652 413,657 438,651 442,651 445,657 485,656 487,650 498,650 499,658 503,658 514,663 534,650 550,650 567,655 577,653 601,655 646,650 721,650 757,656 780,655 788,650 801,650 825,655 825,649 835,649 835,665 543,665 514,667 436,666 253,668 170,668 150,665" />
+				<Baseline points="150,668 513,665 835,666" />
+				<TextEquiv index="1">
+					<Unicode>schiedener fürstlicher Amtsbezirke, Forsten und Waffen verband</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="151,686 160,684 176,684 177,678 219,678 221,685 254,683 282,685 289,678 299,678 310,686 316,683 349,685 359,677 382,677 384,684 401,681 414,681 426,683 428,677 438,677 440,685 451,682 464,681 465,690 484,676 496,676 497,682 517,682 529,676 539,676 550,682 561,682 571,684 572,676 583,676 584,683 590,683 595,676 607,676 608,683 666,682 667,676 678,676 679,682 723,682 723,676 735,676 736,682 759,681 777,676 794,675 799,675 799,682 811,682 811,676 826,676 827,683 836,683 836,691 777,691 748,697 736,697 678,692 438,692 426,694 338,692 266,694 160,694 151,692" />
+				<Baseline points="151,694 298,692 836,691" />
+				<TextEquiv index="1">
+					<Unicode>sich aber noch eine Thätigkeit, durch welche merkwürdiger Weise</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l19" points="151,710 162,710 194,710 194,704 206,704 207,711 216,711 231,704 264,704 265,710 275,710 278,703 288,703 290,712 296,712 310,703 325,703 327,709 350,709 360,711 386,703 391,703 394,710 409,710 415,703 429,703 429,709 442,709 449,703 460,703 472,708 526,706 548,702 562,702 563,708 574,708 576,702 587,702 588,708 628,707 640,702 696,702 709,707 790,708 797,702 807,702 809,708 835,708 835,718 821,718 790,717 790,723 772,723 684,718 658,717 640,718 562,718 472,718 442,718 415,718 405,712 403,718 360,719 325,719 288,719 237,720 162,722 151,722" baseline="151,720 215,719 530,717 835,717" reason: differs: "ehn'sNa" against "ehn’s N" | Wikisource:  | next_nc_e1: gerade Dehn's Name besonders mit Ruhm und Glanz umgeben | german_print2_15: gerade Dehn'’s Name besonders mit Ruhm und Glanz umgeben -->
+			<!-- line left out: id="r2l20" points="151,736 194,736 194,730 210,730 224,736 242,736 243,730 260,730 275,736 304,735 326,730 336,730 343,729 359,729 367,735 379,735 397,738 400,729 411,729 413,736 422,736 438,728 457,728 464,735 475,735 476,728 489,728 496,733 507,735 516,734 526,734 537,728 548,728 549,735 561,734 581,729 594,729 604,734 605,728 617,728 618,734 629,734 691,734 692,728 704,728 721,734 736,734 755,734 771,728 777,728 804,728 805,734 822,734 824,727 836,727 836,742 822,744 745,744 721,743 667,749 655,749 654,743 617,744 548,744 507,744 411,744 379,744 359,745 336,745 290,745 260,746 167,746 151,745" baseline="151,746 289,744 525,743 836,742" reason: second model: differs: "wurd" against "gebe" | Wikisource: wurde und in welcher die Tradition den Schwerpunkt von Dehn’s | next_nc_e1: wurde und in welcher die Tradition den Schwerpunkt von Dehn’s | german_print2_15: wurde und in welcher die Tradition den Schwerpunkt von Dehn's -->
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="152,757 201,756 211,762 234,762 242,756 253,756 254,764 266,760 309,761 313,755 330,755 339,761 349,761 350,755 395,755 401,762 407,760 414,760 416,768 444,755 450,755 459,763 481,758 501,758 520,762 522,754 534,754 535,761 618,761 632,754 637,754 640,760 663,760 663,754 674,754 705,754 706,761 715,761 725,754 755,754 775,754 806,754 807,760 818,760 819,754 831,754 834,767 836,767 836,769 800,770 800,776 775,776 774,770 749,770 749,776 735,776 735,770 546,769 201,772 152,771" />
+				<Baseline points="152,772 553,769 836,770" />
+				<TextEquiv index="1">
+					<Unicode>Wirksamkeit erblickt hat. Es ist dies seine bauliche Thätigkeit.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="153,782 174,784 199,790 206,788 268,782 279,782 313,787 354,788 356,781 366,781 374,787 390,787 398,781 421,781 422,789 458,785 481,786 482,780 494,780 495,788 506,786 557,786 558,780 568,780 583,788 603,780 614,780 615,787 661,784 694,785 723,783 738,783 758,786 768,780 793,780 806,785 838,786 838,801 827,801 827,794 816,796 681,801 614,796 288,796 286,802 281,802 279,796 203,796 174,798 153,797" />
+				<Baseline points="153,797 567,795 838,796" />
+				<TextEquiv index="1">
+					<Unicode>Die ersten Spuren derselben finden sich schon 1540 unter Herzog</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="151,811 162,808 173,808 180,816 187,814 210,814 231,807 243,807 244,815 256,813 271,813 293,806 298,806 333,811 369,812 378,806 380,806 413,821 417,808 459,806 463,806 486,806 496,806 505,814 539,814 541,806 552,806 554,813 565,813 589,817 590,806 602,806 616,810 633,812 655,806 670,806 671,813 682,813 683,806 710,806 717,812 753,812 759,806 782,806 804,811 837,814 837,824 821,824 804,821 503,821 380,824 243,823 210,826 201,826 162,823 151,820" />
+				<Baseline points="151,823 513,821 837,822" />
+				<TextEquiv index="1">
+					<Unicode>Georg dem Bärtigen. An Stelle des alten Residenzschlosses,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l24" custom="readingOrder {index:24;}">
+				<Coords points="152,840 164,840 174,834 184,834 186,841 197,834 208,834 209,841 262,840 275,834 335,840 342,833 347,833 349,839 390,839 444,836 458,846 480,838 517,838 523,832 533,832 557,840 564,838 632,837 718,838 718,832 730,832 737,836 756,836 758,845 782,838 792,837 803,832 815,832 817,838 837,838 837,848 762,850 758,850 644,847 461,849 444,848 437,850 390,850 379,850 220,848 208,850 197,850 152,848" />
+				<Baseline points="152,848 837,846" />
+				<TextEquiv index="1">
+					<Unicode>welches nicht mehr genügte, wurde ein neues errichtet, wobei</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l25" custom="readingOrder {index:25;}">
+				<Coords points="154,860 186,860 187,866 225,868 229,860 238,860 240,866 267,867 281,859 294,859 295,865 334,863 347,866 348,859 427,859 440,864 473,870 474,864 510,864 516,862 572,862 582,866 597,860 615,858 627,858 627,866 647,864 648,858 658,858 660,864 672,861 715,864 730,858 734,858 741,864 762,861 783,864 790,858 809,858 817,864 827,864 828,858 838,858 838,874 734,874 715,879 704,879 648,874 602,872 572,874 334,874 186,876 154,875" />
+				<Baseline points="154,875 581,873 838,874" />
+				<TextEquiv index="1">
+					<Unicode>Dehn ohne Zweifel die ihm anvertraute Oberleitung vortrefflich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l26" custom="readingOrder {index:26;}">
+				<Coords points="153,892 163,892 177,888 182,888 195,892 196,886 246,886 279,889 291,893 292,899 315,885 326,885 327,891 336,891 355,885 366,885 374,891 409,892 410,885 423,885 438,890 449,885 475,884 497,884 499,890 544,891 559,884 577,884 579,891 600,888 656,890 657,884 668,884 669,891 774,891 786,884 794,884 796,890 807,890 808,884 813,884 813,890 838,891 838,900 796,900 794,906 786,906 774,900 764,900 764,906 746,906 745,900 577,899 544,902 521,900 438,900 296,902 279,901 153,904" />
+				<Baseline points="153,901 838,900" />
+				<TextEquiv index="1">
+					<Unicode>geführt hatte, da ihm durch Herzog Moritz schon wenige Jahre</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l27" custom="readingOrder {index:27;}">
+				<Coords points="153,918 186,917 187,911 252,911 254,919 276,917 277,911 288,911 290,917 325,917 343,920 344,911 357,911 358,918 370,918 383,912 405,911 407,918 419,916 477,916 482,910 505,910 515,917 548,916 557,919 561,923 582,914 620,914 621,923 644,910 655,910 663,916 675,916 690,910 710,910 710,916 727,916 741,910 762,910 762,917 772,917 785,909 793,909 795,915 819,910 831,910 832,920 838,920 838,922 819,930 806,930 795,926 793,932 785,932 772,926 609,930 589,930 548,925 339,926 325,931 314,931 301,927 153,927" />
+				<Baseline points="153,927 560,925 838,926" />
+				<TextEquiv index="1">
+					<Unicode>nach Vollendung des Georgenschlosses, 1542, der Bau des Jagd-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l28" custom="readingOrder {index:28;}">
+				<Coords points="153,946 162,945 168,937 190,937 198,944 239,946 249,937 267,937 270,945 291,940 302,940 313,943 314,937 347,942 378,943 379,937 390,937 393,943 417,941 530,942 537,935 548,935 558,949 575,942 608,941 627,943 627,935 639,935 641,943 672,941 700,936 753,939 772,939 795,936 824,936 839,942 839,949 831,952 672,952 582,950 561,952 445,951 358,954 348,954 313,952 168,953 153,951" />
+				<Baseline points="153,953 478,951 839,951" />
+				<TextEquiv index="1">
+					<Unicode>schlosses Moritzburg übertragen wurde; von diesem Bau ist nichts</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l29" custom="readingOrder {index:29;}">
+				<Coords points="153,969 176,969 178,963 188,963 189,969 241,969 242,963 253,963 254,969 265,969 266,962 271,962 292,969 302,969 306,962 359,962 367,968 383,968 384,962 407,962 409,970 420,968 479,968 501,982 504,961 514,961 528,962 529,968 576,967 636,962 658,962 660,968 706,968 727,961 747,961 748,967 769,962 782,962 791,967 811,961 822,961 833,962 833,977 747,978 706,981 695,981 683,977 613,982 583,982 540,977 514,979 506,983 501,983 479,977 153,979" />
+				<Baseline points="153,979 833,976" />
+				<TextEquiv index="1">
+					<Unicode>mehr erhalten. Nachdem im Jahre 1547 Herzog Moritz die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l30" custom="readingOrder {index:30;}">
+				<Coords points="153,997 178,997 184,989 195,989 205,995 224,996 231,989 237,989 238,995 248,995 273,988 289,988 296,994 348,994 349,988 360,988 362,996 394,996 394,988 417,988 419,994 455,992 487,988 489,995 500,992 519,991 532,995 532,1001 559,994 595,993 596,987 608,987 609,995 644,993 677,994 696,987 711,987 713,993 838,994 838,1008 745,1003 745,1009 732,1009 732,1003 706,1002 536,1004 519,1003 454,1006 394,1006 360,1003 273,1004 250,998 248,1004 162,1005 153,1002" />
+				<Baseline points="153,1005 363,1003 838,1003" />
+				<TextEquiv index="1">
+					<Unicode>sächsische Kurwürde erlangt hatte, wurde eine Vergrösserung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l31" custom="readingOrder {index:31;}">
+				<Coords points="153,1015 165,1015 173,1021 208,1021 210,1015 246,1021 261,1015 282,1015 306,1020 330,1021 331,1014 335,1014 338,1020 348,1020 355,1014 360,1014 362,1021 389,1020 404,1014 410,1014 428,1015 428,1022 441,1020 447,1014 458,1014 459,1021 490,1020 504,1014 509,1014 521,1019 536,1021 548,1013 553,1013 566,1014 567,1021 610,1019 658,1019 659,1013 670,1013 685,1024 690,1019 735,1019 735,1013 751,1013 773,1013 774,1019 784,1016 828,1019 829,1013 839,1013 839,1029 730,1029 730,1035 717,1035 717,1029 579,1028 490,1030 371,1030 330,1032 314,1032 306,1030 153,1030" />
+				<Baseline points="153,1030 839,1029" />
+				<TextEquiv index="1">
+					<Unicode>der alten Herzoglichen Residenz beschlossen und ausgeführt und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l32" custom="readingOrder {index:32;}">
+				<Coords points="155,1040 193,1041 255,1046 256,1040 267,1040 268,1048 356,1042 363,1040 401,1040 403,1047 449,1046 468,1044 549,1045 594,1043 595,1052 623,1039 640,1039 671,1046 717,1043 733,1039 746,1039 774,1039 775,1046 793,1039 808,1039 808,1045 839,1045 839,1055 701,1058 683,1058 676,1054 155,1056" />
+				<Baseline points="155,1056 839,1055" />
+				<TextEquiv index="1">
+					<Unicode>Dehn wurde zum Oberbaumeister ernannt. Der eigentliche Bau-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l33" custom="readingOrder {index:33;}">
+				<Coords points="155,1072 172,1072 200,1069 252,1072 258,1066 269,1066 270,1073 352,1072 368,1065 384,1065 390,1072 437,1072 452,1066 462,1065 472,1065 476,1071 499,1069 553,1071 568,1065 589,1065 591,1071 647,1071 647,1064 653,1064 666,1068 666,1080 526,1080 498,1082 461,1080 414,1081 412,1087 397,1087 396,1081 293,1082 252,1080 226,1082 155,1082" />
+				<Baseline points="155,1082 318,1080 666,1080" />
+				<TextEquiv index="1">
+					<Unicode>meister jedoch war Kaspar Voigt von Wierandt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l34" custom="readingOrder {index:34;}">
+				<Coords points="207,1100 211,1093 228,1093 243,1098 270,1098 272,1092 284,1092 291,1098 312,1098 326,1092 338,1092 345,1099 366,1100 377,1091 393,1091 394,1098 420,1091 429,1091 429,1098 474,1091 485,1091 494,1097 503,1095 516,1095 544,1098 545,1091 557,1091 559,1098 568,1098 578,1091 590,1091 597,1095 609,1096 616,1090 646,1090 665,1092 686,1097 686,1090 698,1090 705,1096 734,1091 739,1091 757,1096 758,1090 771,1090 800,1096 839,1097 839,1107 812,1111 800,1111 771,1106 739,1105 485,1107 377,1107 358,1105 338,1107 207,1108" />
+				<Baseline points="207,1108 326,1106 641,1105 839,1107" />
+				<TextEquiv index="1">
+					<Unicode>Ausserdem liess Kurfüst Moritz die Stadt Dresden befestigen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l35" points="156,1124 166,1124 175,1118 205,1118 207,1125 268,1123 275,1122 297,1122 303,1123 317,1117 332,1117 332,1125 344,1123 366,1123 385,1126 388,1118 397,1118 401,1125 417,1123 421,1123 430,1120 440,1117 461,1117 463,1126 484,1123 504,1123 519,1117 524,1117 526,1125 538,1122 544,1120 556,1120 573,1122 588,1116 600,1116 627,1119 639,1123 642,1129 660,1115 672,1115 673,1121 685,1116 697,1116 704,1122 771,1122 771,1116 788,1116 802,1123 820,1122 831,1122 841,1124 841,1131 831,1132 645,1132 642,1132 627,1131 600,1132 556,1132 524,1132 493,1133 484,1133 461,1132 452,1133 423,1133 397,1132 366,1133 332,1133 175,1133 156,1132" baseline="156,1133 644,1131 712,1131 841,1132" reason: differs: "cheuten" against "he Baut" | Wikisource:  | next_nc_e1: welche uten Dehn ebenfalls zu leiten hatte; dabei wurde eine | german_print2_15: welche uten Dehn ebenfalls zu leiten hatte; dabei wurde eine -->
+			<TextLine id="r2l36" custom="readingOrder {index:36;}">
+				<Coords points="157,1143 179,1143 180,1149 220,1147 301,1152 303,1143 314,1143 321,1149 365,1147 378,1150 379,1143 390,1143 418,1149 557,1148 559,1155 595,1141 601,1141 616,1143 628,1147 653,1141 668,1141 669,1147 690,1147 692,1141 706,1141 706,1147 720,1147 762,1142 763,1148 774,1148 775,1142 786,1142 787,1149 799,1149 799,1142 811,1142 831,1145 841,1149 841,1157 601,1157 533,1158 466,1161 450,1161 441,1158 425,1157 397,1159 325,1158 276,1160 192,1158 157,1159" />
+				<Baseline points="157,1159 561,1157 841,1158" />
+				<TextEquiv index="1">
+					<Unicode>Erweiterung der Stadt vorgenommen. Der Kurfürst belohnte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l37" custom="readingOrder {index:37;}">
+				<Coords points="157,1169 196,1169 198,1175 233,1176 234,1169 247,1169 247,1175 261,1175 272,1169 309,1170 309,1177 320,1169 331,1169 339,1175 354,1175 356,1169 367,1169 368,1175 499,1175 555,1174 570,1168 582,1168 589,1171 610,1173 681,1173 682,1167 693,1167 711,1175 717,1173 759,1175 773,1167 802,1167 823,1173 841,1176 841,1183 610,1182 499,1187 488,1187 331,1184 157,1184" />
+				<Baseline points="157,1185 841,1182" />
+				<TextEquiv index="1">
+					<Unicode>Dehn durch Schenkung einer ganzen Strasse und eines Platzes</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l38" custom="readingOrder {index:38;}">
+				<Coords points="154,1201 166,1201 186,1195 198,1195 198,1203 217,1201 231,1194 246,1194 254,1201 271,1199 287,1199 298,1201 305,1195 318,1195 320,1208 344,1203 364,1201 385,1201 411,1194 422,1194 423,1200 443,1200 449,1203 455,1195 509,1194 521,1199 531,1194 542,1194 594,1199 608,1192 616,1192 616,1198 660,1198 673,1192 692,1192 702,1199 712,1199 713,1193 724,1193 732,1199 792,1199 807,1193 819,1193 820,1200 841,1199 841,1209 640,1208 594,1211 577,1211 549,1209 323,1211 320,1211 154,1210" />
+				<Baseline points="154,1210 841,1207" />
+				<TextEquiv index="1">
+					<Unicode>in der Neustadt, sowie durch Gewährung freier Fischerei in den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l39" custom="readingOrder {index:39;}">
+				<Coords points="156,1223 167,1221 199,1221 201,1227 227,1226 246,1229 249,1221 259,1221 261,1228 273,1228 291,1232 293,1221 303,1221 312,1224 335,1226 351,1220 356,1220 380,1226 400,1228 402,1220 413,1220 421,1226 435,1227 435,1235 380,1236 356,1236 312,1236 259,1236 227,1236 199,1236 167,1236 156,1233" />
+				<Baseline points="156,1235 435,1235" />
+				<TextEquiv index="1">
+					<Unicode>Gräben des alten Dresden.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l40" points="208,1247 223,1247 266,1257 275,1257 289,1266 292,1246 304,1246 322,1246 375,1251 401,1250 407,1250 464,1251 466,1245 475,1245 485,1252 491,1248 509,1244 513,1244 516,1250 526,1250 533,1244 537,1244 539,1252 559,1243 574,1243 576,1250 589,1245 601,1244 616,1244 618,1250 626,1250 635,1248 656,1245 679,1245 702,1245 710,1249 720,1251 720,1258 744,1251 751,1251 778,1251 823,1251 841,1251 841,1260 811,1261 724,1262 720,1262 679,1261 656,1261 626,1260 508,1260 491,1260 478,1259 466,1257 464,1266 458,1266 441,1257 426,1260 419,1261 401,1261 393,1258 375,1266 369,1266 304,1265 293,1268 289,1268 275,1262 208,1262" baseline="208,1262 542,1259 559,1259 841,1260" reason: differs: "uli3sta" against "li 1553" | Wikisource:  | next_nc_e1: Am 9. Juli 3 starb plötzlich Kurfürst Moritz, von einer
+ | german_print2_15: Am 9. Juli 3 starb plötzlich Kurfürst Moritz, von einer
+ -->
+			<TextEquiv index="1">
+				<Unicode>Posten ein, in welchen er sich entschiedene Verdienste erwarb.
+Er verbesserte die Gerichtsordnung und hob den Werth der ihm
+unterstellten Ländereien durch Verbesserung des Bodens; so ver-
+Liebenwerda, liess Mühlen anlegen u. s. w. 1541 wurde Dehn
+auch zum Forstmeister ernannt und war als solcher der Erste,
+welcher Metallstempel zur Bezeichnung der geschlagenen Hölzer
+anfertigen liess. Mit diesen praktischen Tugenden vereinigte er
+Rittertugenden, indem er auch mit dem Gebrauche der Waffen
+vertraut war; auch war er seit 1539 Oberrüst- und Harnischmeister
+Herzog Georgs des Bärtigen. 1548 und 1549 finden wir ihn auf
+Turniren zu Kopenhagen, wohin er den Herzog August (späteren
+Kurfürsten Vater August) zu dessen Hochzeit mit Anna, König
+dieser Reise wurde erst sein Adel offiziell anerkannt, es existirt
+noch der von Karl V. verliehene Adelsbrief von 1549.
+Mit den genannten Aemtern, mit der Verwaltung ver-
+schiedener fürstlicher Amtsbezirke, Forsten und Waffen verband
+sich aber noch eine Thätigkeit, durch welche merkwürdiger Weise
+Wirksamkeit erblickt hat. Es ist dies seine bauliche Thätigkeit.
+Die ersten Spuren derselben finden sich schon 1540 unter Herzog
+Georg dem Bärtigen. An Stelle des alten Residenzschlosses,
+welches nicht mehr genügte, wurde ein neues errichtet, wobei
+Dehn ohne Zweifel die ihm anvertraute Oberleitung vortrefflich
+geführt hatte, da ihm durch Herzog Moritz schon wenige Jahre
+nach Vollendung des Georgenschlosses, 1542, der Bau des Jagd-
+schlosses Moritzburg übertragen wurde; von diesem Bau ist nichts
+mehr erhalten. Nachdem im Jahre 1547 Herzog Moritz die
+sächsische Kurwürde erlangt hatte, wurde eine Vergrösserung
+der alten Herzoglichen Residenz beschlossen und ausgeführt und
+Dehn wurde zum Oberbaumeister ernannt. Der eigentliche Bau-
+meister jedoch war Kaspar Voigt von Wierandt.
+Ausserdem liess Kurfüst Moritz die Stadt Dresden befestigen,
+Erweiterung der Stadt vorgenommen. Der Kurfürst belohnte
+Dehn durch Schenkung einer ganzen Strasse und eines Platzes
+in der Neustadt, sowie durch Gewährung freier Fischerei in den
+Gräben des alten Dresden.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="158,1270 826,1270 826,1292 158,1292" />
+			<!-- line left out: id="r3l0" points="158,1276 164,1276 182,1279 184,1272 203,1272 205,1278 215,1278 217,1272 227,1272 229,1279 241,1278 250,1278 274,1272 289,1272 292,1278 315,1278 322,1272 330,1272 356,1284 386,1272 397,1272 398,1280 410,1277 434,1276 446,1276 458,1271 464,1270 475,1270 477,1276 488,1276 494,1277 499,1270 511,1270 544,1270 557,1276 566,1276 586,1270 604,1270 605,1277 616,1276 626,1276 647,1276 657,1271 668,1271 669,1277 693,1277 724,1277 745,1271 749,1271 749,1277 757,1277 769,1274 776,1274 786,1276 798,1278 799,1271 819,1271 826,1276 826,1286 786,1286 758,1286 757,1292 745,1292 693,1287 668,1287 657,1287 647,1286 593,1287 586,1287 557,1286 544,1285 475,1286 416,1286 397,1287 315,1291 298,1291 197,1287 164,1287 158,1287" baseline="158,1286 517,1285 826,1286" reason: differs: "tödt" against "eine" | Wikisource:  | next_nc_e1: tödtlichen Kugel in der Schlacht bei Sievershausen getroffer
+ | german_print2_15: tödtlichen Kugel in der Schlacht bei Sievershausen getroffen
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="158,1295 842,1295 842,1343 158,1343" />
+			<!-- line left out: id="r4l0" points="158,1305 164,1297 174,1297 182,1303 200,1302 219,1302 225,1303 237,1304 237,1298 243,1298 258,1303 276,1304 286,1305 298,1297 314,1297 315,1303 328,1300 342,1300 365,1303 375,1302 392,1298 407,1298 428,1298 461,1300 463,1309 480,1301 489,1301 489,1295 513,1295 530,1296 532,1303 544,1302 556,1302 592,1302 592,1296 603,1296 613,1303 625,1303 637,1302 645,1302 657,1303 657,1297 669,1297 670,1304 691,1302 708,1302 718,1296 735,1296 736,1302 761,1302 784,1302 784,1296 797,1296 808,1301 842,1301 842,1311 821,1316 809,1316 761,1311 761,1317 748,1317 748,1311 735,1312 625,1317 613,1317 581,1312 556,1312 513,1312 466,1312 440,1314 415,1314 407,1313 365,1313 276,1316 265,1316 225,1315 219,1318 209,1318 182,1313 158,1312" baseline="158,1312 465,1311 842,1311" reason: second model: differs: "derz" against "; de" | Wikisource: der 27jährige Kurfürst August, welcher sich gerade in Kopenhagen | next_nc_e1: der 27jährige Kurfürst August, welcher sich gerade in Kopenhagen | german_print2_15: der zjjährige Kurfürst August, welcher sich gerade in Kopenhagen -->
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="158,1329 186,1329 202,1323 247,1323 267,1329 315,1330 340,1327 362,1329 363,1323 374,1323 397,1328 420,1329 465,1326 557,1328 574,1322 593,1323 620,1328 627,1323 637,1323 638,1329 647,1329 670,1321 674,1321 682,1328 693,1328 695,1321 715,1321 738,1321 746,1325 748,1334 771,1327 782,1327 783,1321 788,1321 790,1329 814,1327 821,1321 832,1321 833,1327 842,1327 842,1337 788,1336 752,1340 670,1340 593,1337 421,1337 420,1343 404,1343 397,1338 158,1338" />
+				<Baseline points="158,1338 796,1336 842,1337" />
+				<TextEquiv index="1">
+					<Unicode>am Hofe seines Schwiegervaters zum Besuche aufhielt, als ihn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>am Hofe seines Schwiegervaters zum Besuche aufhielt, als ihn</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="719,1356 734,1356 734,1369 719,1369" />
+			<!-- line left out: id="r5l0" points="719,1361 728,1356 734,1356 734,1364 724,1369 719,1369" baseline="719,1364 734,1364" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 1*
+ | german_print2_15: 1*
+ -->
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="0,0 1000,0 1000,1565 0,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Posten ein, in welchen er sich entschiedene Verdienste erwarb.
+Er verbesserte die Gerichtsordnung und hob den Werth der ihm
+unterstellten Ländereien durch Verbesserung des Bodens; so
+verfügte er die Trockenlegung des Dollinger Teiches im Amt
+Liebenwerda, liess Mühlen anlegen u. s. w. 1541 wurde Dehn
+auch zum Forstmeister ernannt und war als solcher der Erste,
+welcher Metallstempel zur Bezeichnung der geschlagenen Hölzer
+anfertigen liess. Mit diesen praktischen Tugenden vereinigte er
+Rittertugenden, indem er auch mit dem Gebrauche der Waffen
+vertraut war; auch war er seit 1539 Oberrüst- und Harnischmeister
+Herzog Georgs des Bärtigen. 1548 und 1549 finden wir ihn auf
+Turniren zu Kopenhagen, wohin er den Herzog August (späteren
+Kurfürsten Vater August) zu dessen Hochzeit mit Anna, König
+Christian’s III. von Dänemark Tochter, begleitet hatte. Wegen
+dieser Reise wurde erst sein Adel offiziell anerkannt, es existirt
+noch der von Karl V. verliehene Adelsbrief von 1549.
+Mit den genannten Aemtern, mit der Verwaltung
+verschiedener fürstlicher Amtsbezirke, Forsten und Waffen verband
+sich aber noch eine Thätigkeit, durch welche merkwürdiger Weise
+gerade Dehn’s Name besonders mit Ruhm und Glanz umgeben
+wurde und in welcher die Tradition den Schwerpunkt von Dehn’s
+Wirksamkeit erblickt hat. Es ist dies seine bauliche Thätigkeit.
+Die ersten Spuren derselben finden sich schon 1540 unter Herzog
+Georg dem Bärtigen. An Stelle des alten Residenzschlosses,
+welches nicht mehr genügte, wurde ein neues errichtet, wobei
+Dehn ohne Zweifel die ihm anvertraute Oberleitung vortrefflich
+geführt hatte, da ihm durch Herzog Moritz schon wenige Jahre
+nach Vollendung des Georgenschlosses, 1542, der Bau des
+Jagdschlosses Moritzburg übertragen wurde; von diesem Bau ist nichts
+mehr erhalten. Nachdem im Jahre 1547 Herzog Moritz die
+sächsische Kurwürde erlangt hatte, wurde eine Vergrösserung
+der alten Herzoglichen Residenz beschlossen und ausgeführt und
+Dehn wurde zum Oberbaumeister ernannt. Der eigentliche
+Baumeister jedoch war Kaspar Voigt von Wierandt.
+Ausserdem liess Kurfüst Moritz die Stadt Dresden befestigen,
+welche Bauten Dehn ebenfalls zu leiten hatte; dabei wurde eine
+Erweiterung der Stadt vorgenommen. Der Kurfürst belohnte
+Dehn durch Schenkung einer ganzen Strasse und eines Platzes
+in der Neustadt, sowie durch Gewährung freier Fischerei in den
+Gräben des alten Dresden.
+Am 9. Juli 1553 starb plötzlich Kurfürst Moritz, von einer
+tödtlichen Kugel in der Schlacht bei Sievershausen getroffen;
+der 27jährige Kurfürst August, welcher sich gerade in Kopenhagen
+am Hofe seines Schwiegervaters zum Besuche aufhielt, als ihn
+-->
+	</Page>
+</PcGts>

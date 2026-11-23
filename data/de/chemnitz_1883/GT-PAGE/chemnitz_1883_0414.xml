@@ -1,0 +1,394 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:11:07</Created>
+		<LastChange>2026-11-23T14:11:07</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/414 revision 5023579 of 2026-08-26T06:15:52Z, proofread level 3, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0414.png" imageWidth="1000" imageHeight="1564">
+		<ReadingOrder>
+			<OrderedGroup id="ro12232786223510967796" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,1001 24,1001 24,1311 0,1311" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="498,157 635,157 635,173 498,173" />
+			<!-- line left out: id="r1l0" points="498,166 521,166 549,157 561,157 586,157 612,167 635,167 635,169 586,173 561,173 549,173 521,167 498,167" baseline="498,171 612,169 635,169" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 202 —
+ | german_print2_15: — 202 —
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="199,208 920,208 920,1299 199,1299" />
+			<!-- line left out: id="r2l0" points="212,208 235,208 235,215 296,210 308,210 308,216 320,215 328,214 345,214 358,211 369,211 371,218 382,218 384,224 407,217 436,217 462,219 463,212 469,212 470,218 520,218 522,212 529,212 555,213 556,219 598,214 617,214 629,219 639,214 650,214 686,220 702,220 724,224 724,215 737,215 737,221 762,216 774,216 805,216 830,225 837,224 846,224 847,217 859,217 860,223 872,223 897,224 919,224 919,234 908,234 860,233 811,232 793,232 749,231 724,231 609,230 388,230 299,230 296,230 235,225 212,224" baseline="212,224 478,227 701,230 871,232 919,233" reason: second model: differs: "eausdem" against " auf de" | Wikisource: Waren herstelle, um sie auf dem Markte in der Stadt oder vor | next_nc_e1: Waren herstelle, um sie auf dem Markte in der Stadt oder vor | german_print2_15: Waren herstelle, um sie auſ dem Markte in der Stadt oder vor -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="211,241 217,241 217,234 235,234 236,240 257,235 274,235 286,240 296,235 322,235 323,241 342,236 354,236 355,242 377,242 393,236 401,236 401,243 417,243 418,237 422,237 437,243 468,238 497,238 506,242 530,244 531,251 560,239 566,239 574,246 585,246 587,239 600,239 609,243 641,247 694,246 703,240 715,240 716,248 737,247 748,241 764,241 772,247 785,247 787,241 795,241 805,242 806,248 829,243 841,243 853,248 874,249 878,243 889,243 896,249 919,250 919,260 910,260 764,257 211,251" />
+				<Baseline points="211,250 919,259" />
+				<TextEquiv index="1">
+					<Unicode>den Dorfkirchen feil zu halten. Letzteres war den Dorfhandwerkern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="211,266 295,261 307,261 308,267 343,262 361,262 361,268 425,269 425,263 440,263 440,269 452,269 466,263 483,263 521,264 523,270 544,270 550,265 562,265 562,271 593,269 616,272 625,269 682,270 682,282 665,281 605,286 593,286 562,281 544,280 366,283 343,278 211,277" />
+				<Baseline points="211,276 682,281" />
+				<TextEquiv index="1">
+					<Unicode>nur an den Tagen der Kirchweihe gestattet.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="263,287 286,287 301,292 311,300 314,288 367,288 376,294 387,294 387,288 399,288 400,295 410,295 420,288 434,288 434,294 500,296 502,290 513,290 521,297 557,296 563,291 574,291 588,294 633,297 642,303 647,292 659,292 669,298 750,293 783,299 844,294 844,300 861,299 864,294 878,294 879,302 885,302 890,295 901,295 902,303 920,301 920,311 914,311 659,307 314,305 263,303" />
+				<Baseline points="263,303 689,307 920,311" />
+				<TextEquiv index="1">
+					<Unicode>Das städtische Bannmeilenrecht war also zunächst in mehrfacher</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="212,313 235,313 248,318 254,313 269,313 287,313 323,313 324,320 344,319 355,314 367,314 368,320 423,313 425,313 466,315 493,322 505,322 510,316 550,316 572,318 581,323 583,317 594,317 595,323 610,323 610,330 630,325 636,325 636,317 648,317 649,325 684,323 724,323 734,325 748,319 759,319 760,326 771,319 776,319 777,325 799,325 800,319 812,319 822,325 855,320 866,320 866,326 878,324 898,324 919,327 919,338 859,338 855,338 793,335 724,334 702,337 690,337 550,332 511,332 505,336 493,336 462,318 425,331 212,328" />
+				<Baseline points="212,329 543,331 919,336" />
+				<TextEquiv index="1">
+					<Unicode>Hinsicht beschränkt. Es gab Dörfer, die eigene Schänken hatten,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="211,344 236,339 247,339 268,345 300,345 303,352 326,346 332,346 332,339 346,339 346,346 359,346 406,341 482,341 482,347 548,348 586,343 627,343 628,349 640,349 644,343 651,343 670,344 696,349 751,352 752,344 765,344 765,350 780,344 810,344 838,359 842,346 898,347 899,354 920,353 920,363 911,363 495,357 268,358 211,355" />
+				<Baseline points="211,354 920,362" />
+				<TextEquiv index="1">
+					<Unicode>und eins, dessen Wirt für seinen Bedarf brauen durfte. Auf den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="211,364 218,364 251,364 258,364 258,370 339,371 376,366 399,366 399,372 424,372 424,366 437,366 437,372 467,373 467,367 479,367 480,373 557,369 570,374 571,368 583,368 590,375 605,375 607,382 625,376 631,376 631,369 643,369 645,376 689,375 827,377 828,371 840,371 841,377 919,379 919,388 895,388 678,385 607,387 512,384 211,380" />
+				<Baseline points="211,380 757,385 919,388" />
+				<TextEquiv index="1">
+					<Unicode>Dörfern waren Handwerker zu finden, die zwar nur ausnahmsweise</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l7" points="210,396 229,391 272,391 274,397 282,397 304,397 318,391 332,391 419,399 423,399 435,398 460,393 483,393 483,399 507,399 507,393 513,393 529,394 552,398 562,400 573,401 575,395 586,395 588,401 593,401 615,401 618,408 642,401 652,401 653,395 659,395 661,401 715,396 728,396 730,402 740,402 755,401 766,396 771,396 772,402 786,402 811,397 822,397 828,401 843,409 848,403 861,403 861,397 875,397 908,398 909,405 919,405 919,410 908,414 896,414 823,413 755,412 740,411 622,412 618,412 593,411 586,410 493,410 435,409 424,408 419,401 332,407 210,407" baseline="210,406 303,407 699,411 888,413 919,414" reason: differs: "enEsenH" against "n Erzeu" | Wikisource:  | next_nc_e1: mit ihren E sen Handel treiben, aber unbeschränkt auf Be- | german_print2_15: mit ihren E sen Handel treiben, aber unbeschränkt auf Be- -->
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="209,423 219,420 226,420 238,424 238,417 250,417 252,423 288,423 302,417 311,417 311,423 349,424 349,418 362,418 363,424 373,424 383,418 397,418 397,424 453,424 492,420 505,425 524,423 546,426 561,420 572,420 574,426 600,423 636,427 636,420 672,421 702,427 711,435 716,422 765,422 767,429 778,426 798,426 809,429 823,423 835,423 841,429 855,429 865,423 879,423 887,430 897,430 898,424 907,424 920,427 920,440 909,440 672,437 276,438 209,433" />
+				<Baseline points="209,432 920,439" />
+				<TextEquiv index="1">
+					<Unicode>stellung für die Bauern arbeiten durften. Der Abt hatte das Recht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="209,443 222,443 222,449 241,449 255,443 268,443 276,447 288,448 294,443 307,443 321,449 347,444 354,444 366,451 372,451 372,444 385,444 385,451 395,451 406,444 420,444 421,450 456,450 486,452 487,446 499,446 500,452 568,452 569,446 580,446 586,452 624,451 651,454 651,447 662,447 663,453 720,448 784,455 784,448 790,448 792,454 816,449 828,449 834,453 847,455 854,449 866,449 881,455 897,455 905,450 915,450 916,463 919,463 919,468 916,468 866,465 807,464 628,464 209,459" />
+				<Baseline points="209,458 919,465" />
+				<TextEquiv index="1">
+					<Unicode>der Stadt auf die Bannmeile anerkannt; damit hatte die Stadt viel,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="209,474 221,469 228,469 245,474 270,475 270,469 284,469 285,475 296,470 352,470 354,477 438,476 490,477 513,479 513,471 530,471 543,478 548,472 561,472 561,478 575,478 590,472 618,473 642,477 675,479 681,474 691,474 703,479 711,477 722,477 724,487 743,480 821,480 830,475 842,475 843,481 855,478 867,478 868,488 887,481 920,481 920,491 872,492 868,492 764,490 728,492 724,492 663,491 618,488 599,492 590,492 410,487 399,491 386,491 308,486 209,485" />
+				<Baseline points="209,485 920,491" />
+				<TextEquiv index="1">
+					<Unicode>aber nicht alles gewonnen, da das Klostergebiet, wie erwähnt, von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="210,495 219,495 219,501 256,501 257,495 269,495 270,501 312,496 354,496 390,503 404,496 417,496 417,502 444,503 444,497 455,497 455,503 506,501 557,504 558,511 591,498 607,500 623,505 637,499 644,499 674,505 675,499 708,499 709,506 735,503 777,506 779,500 783,500 785,506 810,506 812,500 822,500 823,506 855,505 885,501 885,507 919,507 919,517 855,516 853,522 841,522 841,516 210,511" />
+				<Baseline points="210,511 919,517" />
+				<TextEquiv index="1">
+					<Unicode>fremdem Gebiete durchsetzt war. Die Stadt hatte überhaupt kein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="210,527 234,522 241,522 252,527 252,521 277,521 278,527 310,525 329,529 340,522 353,522 354,528 416,529 416,523 427,523 478,529 513,530 515,524 520,524 534,528 577,532 595,536 595,530 674,531 703,529 732,534 741,525 753,525 754,533 766,531 808,529 823,526 843,526 847,532 874,528 896,527 919,534 919,542 910,543 889,543 874,543 724,541 627,543 615,543 595,541 513,540 301,543 266,543 252,543 234,538 210,538" />
+				<Baseline points="210,538 919,542" />
+				<TextEquiv index="1">
+					<Unicode>unbedingtes Bannrecht; sie übte es aus, soweit es der mit dem Abte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="208,553 221,553 258,547 271,547 271,553 365,548 366,555 378,552 427,555 445,549 450,549 450,555 464,555 465,549 470,549 471,555 501,550 516,553 527,557 530,563 552,556 558,551 570,551 572,557 596,557 613,551 628,551 629,558 663,557 665,551 670,551 684,555 770,558 771,552 782,552 804,558 838,553 877,553 883,559 905,559 907,553 919,553 919,569 713,566 530,569 495,566 427,571 415,571 415,565 360,564 221,563 221,569 208,569" />
+				<Baseline points="208,563 919,569" />
+				<TextEquiv index="1">
+					<Unicode>geschlossene Vertrag erlaubte, aber sie übte es nicht nach Land-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="208,579 217,579 239,574 251,574 309,579 309,590 208,590" />
+				<Baseline points="208,590 309,590" />
+				<TextEquiv index="1">
+					<Unicode>recht aus.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="262,600 269,599 283,599 284,605 316,600 367,600 374,605 387,606 387,600 399,600 406,605 408,614 439,602 450,602 451,608 543,606 565,609 582,608 596,603 607,603 609,609 624,609 637,603 642,603 659,607 661,616 679,609 723,604 733,604 740,610 781,610 791,604 803,604 803,611 838,610 846,605 857,605 884,611 891,605 901,605 903,611 920,612 920,621 781,624 770,624 754,619 637,621 565,618 536,623 524,623 492,617 486,622 474,622 262,615" />
+				<Baseline points="262,616 920,621" />
+				<TextEquiv index="1">
+					<Unicode>War die Stadt, wie gezeigt worden ist, unablässig bemüht, ihre</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="207,627 217,626 225,626 225,633 236,633 237,626 251,626 275,626 283,630 304,632 336,632 336,626 349,626 372,632 415,627 415,633 430,633 434,628 448,628 448,635 462,631 488,634 551,635 552,629 563,629 577,635 631,635 632,629 643,629 726,636 780,634 840,638 841,631 858,631 860,637 875,635 889,637 913,637 919,641 919,644 913,647 797,645 563,645 488,649 470,649 448,644 291,647 283,642 225,642 207,640" />
+				<Baseline points="207,641 919,646" />
+				<TextEquiv index="1">
+					<Unicode>Gerichtsgewalt zu befestigen und auszudehnen, so ist es selbstver-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l17" points="207,658 216,655 224,655 247,658 247,652 266,652 297,652 297,665 316,652 329,652 329,658 341,653 350,653 370,660 379,660 380,653 385,653 386,659 410,654 422,654 430,660 437,660 448,654 461,654 473,659 507,660 530,655 535,655 562,661 605,661 636,661 651,662 653,656 666,655 682,655 685,661 773,656 776,656 789,660 806,662 807,656 817,656 830,660 838,659 850,659 862,664 867,669 889,657 908,657 909,664 919,664 919,670 908,673 896,673 830,672 776,672 773,672 653,671 636,670 628,671 583,671 535,671 410,670 350,669 302,671 297,671 235,669 216,669 207,668" baseline="207,668 301,668 773,671 919,672" reason: differs: "te.Be" against "e. ⟦⟧ d" | Wikisource:  | next_nc_e1: ständlich, daſs sie ihr Bannrecht zu vervollkommnen trachtete. Be- | german_print2_15: ständlich, daſs sie ihr Bannrecht zu vervollkommnen trachtete. Be- -->
+			<!-- line left out: id="r2l18" points="207,684 216,684 227,685 227,679 233,679 250,679 279,683 319,683 350,679 358,679 372,684 469,685 478,679 491,679 505,687 516,687 517,681 531,681 543,686 568,684 574,684 618,687 653,688 654,681 665,681 667,688 676,688 694,681 712,681 733,685 752,686 796,687 808,688 832,690 832,682 844,682 845,690 868,689 879,689 880,683 899,683 899,690 910,689 920,689 920,699 910,699 844,698 808,702 796,702 772,700 760,700 712,697 618,697 604,697 576,696 567,702 555,702 544,697 512,696 491,698 469,701 460,701 437,700 401,696 359,695 358,701 350,701 326,698 250,695 216,695 207,695" baseline="207,694 267,694 415,695 826,697 920,698" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: reits am 19. Januar 1334 ) erlangte sie die Bestätigung desselben | german_print2_15: reits am 19. Januar 1334) erlangte sie die Bestätigung desselben -->
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="206,704 219,704 220,710 251,710 252,704 263,704 281,710 286,704 305,704 305,710 342,704 349,704 351,710 363,705 377,704 390,704 398,711 417,711 419,705 437,705 438,712 448,712 463,706 477,706 478,712 503,713 503,706 548,707 549,713 572,707 584,707 585,714 606,713 623,707 637,707 638,713 651,713 681,707 682,714 693,710 737,713 739,720 762,714 768,714 768,707 780,707 781,713 851,714 864,720 869,714 877,709 888,709 890,715 919,716 919,721 901,729 890,729 739,725 714,723 474,722 397,727 377,727 377,721 206,721" />
+				<Baseline points="206,720 919,724" />
+				<TextEquiv index="1">
+					<Unicode>durch den Markgrafen Friedrich den Ernsthaften, der ganz allge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l20" points="206,736 225,736 236,737 237,731 274,731 281,736 292,737 293,730 305,730 329,731 331,744 353,731 365,731 385,731 385,740 392,740 409,732 421,732 422,739 433,739 433,732 445,732 452,739 462,739 475,732 488,732 488,738 498,738 499,732 510,732 511,738 534,738 535,732 546,732 548,739 586,739 587,733 598,733 600,740 611,739 618,739 633,733 654,733 655,740 666,740 667,733 681,733 704,737 781,733 793,733 809,734 810,740 837,737 844,737 864,740 896,740 907,741 909,735 919,735 919,751 884,751 864,750 844,750 799,750 731,749 618,749 598,749 557,749 511,749 409,748 385,747 335,749 331,749 281,747 274,746 254,747 206,747" baseline="206,746 353,747 730,749 884,750 919,751" reason: differs: "attSchu" against "tt – Sc" | Wikisource:  | next_nc_e1: mein befahl, daſs keine Schänke oder Werkstatt Schuster- und | german_print2_15: mein befahl, daſs keine Schänke oder Werkstatt Schuster- und -->
+			<!-- line left out: id="r2l21" points="205,757 217,757 240,757 253,762 260,757 271,756 284,756 284,762 332,762 342,757 354,757 371,760 409,761 417,756 421,756 440,764 476,764 477,758 489,758 490,765 501,764 530,759 535,759 537,765 547,765 593,765 593,759 606,759 606,765 619,765 657,765 674,765 710,763 778,760 788,760 790,766 807,766 828,766 829,760 840,760 840,766 852,766 853,760 865,760 865,766 870,766 894,768 894,761 907,761 907,767 918,767 918,777 888,777 865,776 657,780 645,780 627,774 619,775 575,775 547,774 421,774 371,774 305,773 217,773 205,772" baseline="205,773 530,774 778,775 918,776" reason: differs: "Schn" against "- un" | Wikisource:  | next_nc_e1: Schneiderwerkstätten werden besonders genannt innerhalb der | german_print2_15: Schneiderwerkstätten werden besonders genannt innerhalb der -->
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="207,783 219,782 226,782 227,789 238,789 239,783 251,783 252,789 262,789 282,783 322,785 333,789 334,783 346,783 346,789 393,790 393,784 399,784 401,790 412,790 414,784 432,784 432,791 441,791 444,798 467,792 482,790 500,790 515,792 515,785 528,785 542,792 548,792 548,785 561,785 562,792 624,791 625,785 636,785 658,791 669,791 670,785 675,785 695,786 697,793 707,793 708,785 722,785 722,791 778,792 780,786 791,786 793,792 803,792 804,786 814,786 828,793 848,792 887,787 908,787 910,794 918,794 918,802 908,803 887,803 734,801 573,801 448,803 444,803 430,801 387,800 207,799" />
+				<Baseline points="207,799 282,798 828,801 918,803" />
+				<TextEquiv index="1">
+					<Unicode>Meile bestehen dürfe, soweit dies nicht altherkömmlich sei. Die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="206,809 219,809 219,815 263,814 263,808 276,808 276,815 307,815 325,809 345,809 346,816 357,816 357,809 370,809 370,816 381,816 381,823 405,810 417,810 418,816 511,814 572,815 632,812 663,817 663,811 680,811 690,817 745,812 746,818 793,818 795,812 807,812 808,818 817,818 831,812 842,812 843,818 854,818 855,812 860,812 861,818 918,819 918,827 882,830 854,828 699,828 544,831 531,831 464,827 381,829 206,825" />
+				<Baseline points="206,824 918,828" />
+				<TextEquiv index="1">
+					<Unicode>besondere Liebe, die er mit gutem Grunde zu Chemnitz habe, so</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l24" custom="readingOrder {index:24;}">
+				<Coords points="206,835 218,835 224,841 230,835 245,835 259,838 292,841 306,835 312,835 312,841 323,841 337,835 349,835 350,842 370,841 385,843 385,836 411,837 417,843 461,842 502,837 514,837 515,843 574,843 576,837 587,837 588,843 624,838 643,838 645,844 655,844 712,842 721,838 732,838 756,843 758,850 776,844 811,843 831,845 831,838 843,838 844,844 867,840 879,840 886,843 904,845 906,839 917,839 917,855 758,855 655,853 604,856 593,856 536,853 496,853 438,856 427,856 418,853 206,851" />
+				<Baseline points="206,851 776,853 917,855" />
+				<TextEquiv index="1">
+					<Unicode>heiſst es in derselben, veranlasse ihn, alles zu thun, was die Stadt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l25" custom="readingOrder {index:25;}">
+				<Coords points="206,861 215,861 241,861 247,861 248,867 260,866 274,861 308,861 361,868 361,861 363,861 466,863 467,869 495,867 526,869 533,863 543,863 560,870 566,870 566,863 593,863 593,869 627,864 643,864 651,870 687,867 699,867 709,869 728,863 733,863 733,869 770,869 830,864 837,870 849,870 863,864 874,864 881,870 907,871 908,865 917,865 917,881 794,879 593,880 543,882 533,882 485,879 206,877" />
+				<Baseline points="206,877 786,879 917,881" />
+				<TextEquiv index="1">
+					<Unicode>fördern könne. Der Umstand, daſs Chemnitz kurz vorher durch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l26" points="205,893 216,893 217,887 222,887 223,893 246,893 258,887 273,887 273,893 317,893 326,888 338,888 347,893 382,892 401,889 413,889 445,889 445,895 456,894 483,889 503,889 504,895 515,895 516,889 532,889 532,896 556,895 609,895 616,894 632,894 644,893 650,893 679,895 701,895 701,889 713,889 720,895 790,895 809,898 811,890 821,890 843,890 856,898 862,896 874,896 916,897 916,907 907,907 892,906 863,906 834,906 790,907 777,907 713,906 701,906 679,905 615,906 578,906 562,906 413,905 382,905 372,904 246,904 223,904 205,903" baseline="205,903 258,903 856,905 916,907" reason: second model: differs: "alssesv" against "ſs es v" | Wikisource: eine Feuersbrunst in dem Maſse verwüstet worden war, daſs es von | next_nc_e1: eine Feuersbrunst in dem Maſse verwüstet worden war, daſs es von | german_print2_15: eine Feuersbrunst in dem Maſse verwüstet worden war, dalſs es von -->
+			<!-- line left out: id="r2l27" points="204,913 216,913 217,919 240,919 250,913 264,913 264,919 304,914 316,914 316,920 328,919 340,919 360,920 374,914 383,914 408,918 443,920 452,915 458,915 458,921 464,921 469,915 491,915 500,921 627,915 640,915 640,921 654,921 674,922 675,916 686,916 720,916 721,922 731,922 741,919 754,919 809,922 810,916 827,916 836,922 871,922 895,923 916,923 916,933 883,933 849,936 836,936 785,932 755,932 731,931 674,932 617,935 599,935 561,934 549,934 491,931 408,931 383,931 340,931 275,930 240,930 217,930 204,929" baseline="204,929 250,929 708,931 836,932 916,933" reason: second model: differs: "denB" against "s vo" | Wikisource: den Bewohnern fast verlassen war, mag für ihn bestimmend gewesen | next_nc_e1: den Bewohnern fast verlassen war, mag für ihn bestimmend gewesen | german_print2_15: den Bewohnern ſfast verlassen war, mag für ihn bestimmend gewesen -->
+			<TextLine id="r2l28" custom="readingOrder {index:28;}">
+				<Coords points="204,945 224,940 230,940 242,945 242,952 257,945 294,945 294,939 306,939 306,945 319,940 337,940 347,947 376,941 388,941 389,947 423,947 433,941 441,941 441,947 457,947 457,941 521,941 526,947 557,948 557,941 571,941 572,948 624,948 624,941 637,941 638,948 648,948 657,942 669,942 676,945 688,947 695,941 707,941 718,947 731,942 736,942 748,947 778,942 779,948 789,948 795,942 818,942 820,948 868,949 869,943 880,943 889,946 915,949 915,962 906,962 900,959 748,957 489,960 441,958 285,956 242,959 204,956" />
+				<Baseline points="204,955 841,957 915,959" />
+				<TextEquiv index="1">
+					<Unicode>sein, weshalb er denn auch allen, die in die Stadt übersiedeln wollten,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l29" custom="readingOrder {index:29;}">
+				<Coords points="204,971 232,971 232,965 238,965 238,971 286,966 328,971 351,967 389,967 389,973 447,973 478,975 478,968 543,968 561,973 599,974 599,967 612,967 614,973 647,973 662,967 674,967 744,968 760,973 770,968 793,968 799,973 835,971 842,974 842,984 501,984 447,986 431,986 413,984 204,981" />
+				<Baseline points="204,981 842,984" />
+				<TextEquiv index="1">
+					<Unicode>woher sie auch kämen, seinen besonderen Schutz zusicherte.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l30" custom="readingOrder {index:30;}">
+				<Coords points="256,992 273,992 322,992 323,998 344,993 357,993 357,999 369,999 369,993 381,993 381,999 393,999 394,993 407,993 408,1006 426,993 439,993 439,999 450,999 451,993 460,993 460,1001 466,1001 479,994 486,993 501,993 501,1000 513,999 522,994 569,995 599,1000 613,994 620,994 652,997 664,1000 665,993 677,993 684,999 718,1000 719,993 731,993 738,999 746,999 748,993 761,993 769,999 839,999 865,997 884,1001 884,994 897,994 904,1001 915,1001 915,1010 812,1009 790,1012 779,1012 652,1009 460,1010 412,1012 408,1012 317,1008 256,1008" />
+				<Baseline points="256,1008 789,1008 915,1010" />
+				<TextEquiv index="1">
+					<Unicode>Der Vorbehalt, daſs Werkstätten bestehen dürften, soweit dies</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l31" custom="readingOrder {index:31;}">
+				<Coords points="202,1023 215,1018 220,1018 242,1018 242,1024 262,1024 262,1018 274,1018 287,1019 299,1024 299,1018 315,1018 315,1024 325,1024 326,1018 331,1018 361,1019 375,1025 384,1025 390,1020 401,1020 402,1033 420,1019 431,1019 432,1025 561,1019 626,1019 633,1025 663,1025 665,1019 669,1019 671,1025 770,1025 784,1019 797,1019 798,1025 836,1023 854,1026 854,1019 866,1019 885,1021 892,1024 914,1027 914,1037 866,1040 737,1040 725,1040 691,1034 590,1036 431,1035 406,1038 384,1036 202,1034" />
+				<Baseline points="202,1034 784,1035 914,1037" />
+				<TextEquiv index="1">
+					<Unicode>altherkömmlich sei, konnte wohl die Veranlassung zu Zwistigkeiten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l32" custom="readingOrder {index:32;}">
+				<Coords points="202,1049 230,1049 239,1044 252,1044 252,1050 274,1050 276,1057 308,1044 316,1044 317,1050 345,1045 357,1045 358,1051 377,1051 389,1045 496,1045 497,1051 508,1051 515,1045 528,1045 528,1051 557,1046 595,1046 608,1052 612,1045 620,1045 621,1051 635,1051 641,1047 651,1045 668,1045 669,1051 680,1051 693,1045 702,1045 704,1051 715,1051 716,1045 727,1045 728,1051 747,1052 783,1051 835,1046 847,1046 848,1053 859,1052 880,1047 902,1047 914,1050 914,1062 783,1061 783,1067 771,1067 770,1059 747,1061 704,1061 702,1067 693,1067 669,1065 652,1061 459,1062 252,1061 202,1059" />
+				<Baseline points="202,1060 914,1061" />
+				<TextEquiv index="1">
+					<Unicode>werden. In der That befanden sich dreiſsig Jahre später der Abt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l33" custom="readingOrder {index:33;}">
+				<Coords points="203,1070 238,1070 239,1076 260,1071 266,1071 277,1076 278,1070 311,1070 313,1083 335,1076 360,1071 372,1071 390,1078 396,1078 396,1071 446,1071 453,1075 464,1077 465,1071 477,1071 499,1078 510,1078 511,1072 543,1077 557,1071 568,1071 570,1078 586,1079 600,1073 615,1073 637,1077 638,1071 643,1071 645,1078 722,1078 723,1071 734,1071 736,1078 748,1078 763,1071 778,1071 780,1078 800,1075 846,1078 878,1078 882,1085 900,1072 908,1072 910,1085 913,1085 913,1088 910,1088 908,1094 900,1094 886,1088 828,1091 773,1087 734,1087 703,1091 655,1091 643,1087 465,1088 203,1086" />
+				<Baseline points="203,1086 913,1087" />
+				<TextEquiv index="1">
+					<Unicode>Heinrich I. und die Stadt über die Auslegung des Vertrages v. J.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l34" custom="readingOrder {index:34;}">
+				<Coords points="202,1101 258,1097 270,1102 281,1096 321,1096 340,1096 340,1102 385,1103 391,1097 408,1097 409,1110 427,1103 467,1103 467,1097 484,1097 484,1104 526,1103 537,1097 556,1097 557,1103 575,1098 580,1098 582,1104 593,1104 593,1098 621,1098 658,1103 672,1097 677,1097 679,1103 702,1103 708,1097 775,1097 777,1104 806,1104 806,1097 818,1097 819,1105 829,1105 840,1098 853,1098 854,1104 907,1104 913,1108 913,1111 907,1114 886,1118 875,1118 854,1114 672,1112 658,1118 647,1118 621,1114 575,1118 557,1118 526,1114 409,1116 359,1113 359,1119 352,1119 352,1113 340,1113 340,1119 327,1119 327,1113 209,1117 202,1112" />
+				<Baseline points="202,1112 913,1114" />
+				<TextEquiv index="1">
+					<Unicode>1331 in Widerspruch, zu dessen Begleichung beide Teile die Bürger-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l35" custom="readingOrder {index:35;}">
+				<Coords points="202,1128 211,1123 248,1123 256,1125 313,1128 313,1122 325,1122 337,1129 342,1123 356,1123 357,1129 367,1129 382,1123 417,1124 447,1129 447,1123 465,1123 466,1129 486,1124 499,1124 506,1127 518,1129 518,1123 530,1123 563,1137 568,1124 585,1124 593,1127 617,1124 630,1124 663,1129 663,1136 685,1122 698,1122 699,1129 732,1129 734,1123 744,1123 745,1129 806,1129 806,1123 817,1123 853,1124 860,1130 870,1130 871,1124 883,1124 890,1130 913,1130 913,1145 903,1145 870,1140 685,1138 663,1144 650,1144 616,1140 202,1139" />
+				<Baseline points="202,1139 913,1140" />
+				<TextEquiv index="1">
+					<Unicode>meister und die Räte der Städte Altenburg, Zwickau und Freiberg</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l36" custom="readingOrder {index:36;}">
+				<Coords points="201,1154 241,1149 241,1155 252,1155 253,1148 271,1148 277,1154 286,1154 286,1148 339,1148 340,1154 369,1149 381,1149 382,1155 407,1155 421,1149 464,1149 472,1152 657,1155 671,1148 687,1148 688,1154 791,1155 792,1162 816,1157 822,1149 834,1149 835,1156 913,1155 913,1170 904,1170 891,1164 882,1166 796,1167 768,1165 201,1165" />
+				<Baseline points="201,1165 913,1164" />
+				<TextEquiv index="1">
+					<Unicode>anriefen. Die drei Städte ernannten eine Kommission, die aus 3</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l37" custom="readingOrder {index:37;}">
+				<Coords points="201,1174 220,1174 220,1180 252,1180 266,1174 278,1174 279,1181 315,1181 315,1174 329,1174 338,1178 350,1180 359,1178 375,1178 430,1181 431,1175 477,1175 542,1181 559,1175 579,1176 606,1181 625,1181 642,1175 647,1175 648,1181 665,1181 665,1174 683,1174 684,1180 702,1175 715,1175 722,1178 735,1175 781,1175 781,1182 838,1181 839,1175 850,1175 900,1177 913,1182 913,1192 659,1191 647,1193 614,1192 606,1196 593,1196 512,1191 503,1197 490,1197 490,1191 467,1191 467,1197 460,1197 442,1191 375,1191 240,1196 201,1190" />
+				<Baseline points="201,1191 913,1192" />
+				<TextEquiv index="1">
+					<Unicode>bis 4 der ältesten und klügsten Bürger jeder Stadt bestand. Der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l38" points="200,1206 245,1205 263,1205 264,1215 277,1200 290,1200 290,1207 302,1206 315,1204 322,1204 352,1201 359,1201 458,1201 458,1207 474,1204 481,1202 500,1201 505,1201 514,1204 524,1208 533,1201 546,1201 546,1207 557,1207 557,1201 575,1201 576,1208 587,1208 588,1201 600,1201 600,1209 619,1207 652,1206 663,1201 680,1199 694,1199 709,1208 718,1206 729,1201 735,1201 753,1201 776,1201 790,1209 799,1207 815,1207 816,1201 826,1201 846,1202 858,1207 865,1205 871,1205 886,1208 893,1202 912,1202 912,1217 903,1218 893,1218 886,1217 858,1217 766,1217 741,1217 694,1218 680,1218 663,1217 631,1217 631,1223 619,1223 618,1217 524,1217 417,1222 406,1222 352,1217 314,1222 302,1222 268,1218 248,1218 245,1218 200,1217" baseline="200,1217 775,1215 912,1217" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: am 12. September 1368 erteilte Schiedsspruch) schloſs sich betreffs | german_print2_15: am 12. September 1368 erteilte Schiedsspruch ²) schloſs sich betreffs -->
+			<!-- line left out: id="r2l39" points="200,1226 212,1226 213,1232 232,1232 244,1226 265,1226 277,1231 367,1232 381,1226 393,1226 394,1233 415,1232 426,1227 438,1227 450,1232 471,1233 484,1227 496,1227 497,1233 525,1233 537,1227 553,1227 554,1234 564,1233 573,1230 590,1230 719,1231 751,1232 783,1227 788,1227 804,1232 815,1233 821,1227 832,1227 845,1231 881,1228 887,1228 912,1233 912,1244 768,1244 719,1246 708,1247 698,1247 624,1243 614,1243 614,1249 595,1249 595,1243 554,1243 543,1242 543,1249 537,1249 525,1243 348,1248 335,1248 335,1242 323,1243 232,1243 200,1243" baseline="200,1243 740,1242 783,1242 912,1243" reason: differs: "desB" against "er ⟦" | Wikisource:  | next_nc_e1: des Bierzwanges durchaus dem Vertrage v. 1331 an, brachte aber | german_print2_15: des Bierzwanges durchaus dem Vertrage v. 1331 an, brachte aber -->
+			<TextLine id="r2l40" custom="readingOrder {index:40;}">
+				<Coords points="200,1252 210,1252 220,1254 229,1258 242,1252 261,1252 261,1258 272,1258 284,1252 297,1252 317,1258 317,1252 329,1252 357,1253 368,1258 390,1258 391,1252 400,1252 410,1258 480,1259 486,1258 496,1253 541,1253 541,1259 570,1259 579,1253 596,1253 603,1259 613,1259 613,1253 629,1253 630,1259 673,1258 678,1252 690,1252 692,1261 700,1261 713,1252 724,1252 730,1258 745,1258 755,1252 761,1252 775,1253 796,1258 815,1254 827,1254 864,1261 870,1254 880,1254 892,1259 911,1261 911,1268 901,1270 894,1270 658,1270 647,1270 200,1269" />
+				<Baseline points="200,1269 911,1268" />
+				<TextEquiv index="1">
+					<Unicode>für die Stadt insofern wesentlichen Gewinn, als das Betreiben eines</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l41" custom="readingOrder {index:41;}">
+				<Coords points="199,1278 230,1278 230,1284 242,1284 242,1278 254,1278 255,1284 292,1284 292,1278 304,1278 304,1284 350,1284 350,1278 366,1278 384,1285 389,1278 408,1278 408,1284 420,1284 436,1278 465,1278 509,1284 509,1278 521,1278 534,1280 543,1284 545,1278 553,1278 563,1285 582,1285 600,1279 611,1279 641,1286 642,1278 656,1278 663,1284 674,1284 675,1278 687,1278 689,1284 710,1278 721,1278 723,1285 742,1284 760,1278 779,1278 780,1285 790,1285 791,1279 802,1279 804,1286 814,1286 831,1279 839,1279 848,1285 875,1285 877,1279 888,1279 890,1285 901,1280 910,1280 910,1295 872,1295 847,1299 831,1299 779,1294 687,1293 656,1295 242,1295 199,1293" />
+				<Baseline points="199,1293 910,1295" />
+				<TextEquiv index="1">
+					<Unicode>Handwerks auf den Klosterdörfern innerhalb der Meile gänzlich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>den Dorfkirchen feil zu halten. Letzteres war den Dorfhandwerkern
+nur an den Tagen der Kirchweihe gestattet.
+Das städtische Bannmeilenrecht war also zunächst in mehrfacher
+Hinsicht beschränkt. Es gab Dörfer, die eigene Schänken hatten,
+und eins, dessen Wirt für seinen Bedarf brauen durfte. Auf den
+Dörfern waren Handwerker zu finden, die zwar nur ausnahmsweise
+stellung für die Bauern arbeiten durften. Der Abt hatte das Recht
+der Stadt auf die Bannmeile anerkannt; damit hatte die Stadt viel,
+aber nicht alles gewonnen, da das Klostergebiet, wie erwähnt, von
+fremdem Gebiete durchsetzt war. Die Stadt hatte überhaupt kein
+unbedingtes Bannrecht; sie übte es aus, soweit es der mit dem Abte
+geschlossene Vertrag erlaubte, aber sie übte es nicht nach Land-
+recht aus.
+War die Stadt, wie gezeigt worden ist, unablässig bemüht, ihre
+Gerichtsgewalt zu befestigen und auszudehnen, so ist es selbstver-
+durch den Markgrafen Friedrich den Ernsthaften, der ganz allge-
+Meile bestehen dürfe, soweit dies nicht altherkömmlich sei. Die
+besondere Liebe, die er mit gutem Grunde zu Chemnitz habe, so
+heiſst es in derselben, veranlasse ihn, alles zu thun, was die Stadt
+fördern könne. Der Umstand, daſs Chemnitz kurz vorher durch
+sein, weshalb er denn auch allen, die in die Stadt übersiedeln wollten,
+woher sie auch kämen, seinen besonderen Schutz zusicherte.
+Der Vorbehalt, daſs Werkstätten bestehen dürften, soweit dies
+altherkömmlich sei, konnte wohl die Veranlassung zu Zwistigkeiten
+werden. In der That befanden sich dreiſsig Jahre später der Abt
+Heinrich I. und die Stadt über die Auslegung des Vertrages v. J.
+1331 in Widerspruch, zu dessen Begleichung beide Teile die Bürger-
+meister und die Räte der Städte Altenburg, Zwickau und Freiberg
+anriefen. Die drei Städte ernannten eine Kommission, die aus 3
+bis 4 der ältesten und klügsten Bürger jeder Stadt bestand. Der
+für die Stadt insofern wesentlichen Gewinn, als das Betreiben eines
+Handwerks auf den Klosterdörfern innerhalb der Meile gänzlich</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="583,243 600,243 600,255 583,255" />
+		</GraphicRegion>
+		<GraphicRegion id="r4">
+			<Coords points="316,289 340,289 340,304 316,304" />
+		</GraphicRegion>
+		<GraphicRegion id="r5">
+			<Coords points="264,315 477,315 477,331 264,331" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="261,346 265,346 265,354 261,354" />
+		</GraphicRegion>
+		<GraphicRegion id="r7">
+			<Coords points="334,397 424,397 424,408 334,408" />
+		</GraphicRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="342,392 403,392 403,414 342,414" />
+			<!-- line left out: id="r8l0" points="342,397 352,397 392,398 392,392 403,392 403,408 387,408 387,414 369,414 369,408 342,408" baseline="342,408 403,408" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: zeugni
+ | german_print2_15: zeugni
+ -->
+		</TextRegion>
+		<GraphicRegion id="r9">
+			<Coords points="315,470 344,470 344,486 315,486" />
+		</GraphicRegion>
+		<GraphicRegion id="r10">
+			<Coords points="464,921 492,921 492,931 464,931" />
+		</GraphicRegion>
+		<GraphicRegion id="r11">
+			<Coords points="801,1178 806,1178 806,1191 801,1191" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="648,1226 676,1226 676,1249 648,1249" />
+		</GraphicRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="252,1333 692,1333 692,1352 252,1352" />
+			<!-- line left out: id="r13l0" points="252,1333 258,1333 312,1334 323,1338 334,1334 345,1334 354,1338 365,1334 376,1334 441,1334 524,1334 558,1335 567,1334 581,1334 602,1334 649,1334 684,1337 692,1338 692,1352 668,1352 542,1348 524,1342 518,1342 482,1352 264,1352 257,1352 252,1341" baseline="252,1348 692,1348" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ¹) Urkundenbuch Nr. 14. ² Daselbst Nr. 37.
+ | german_print2_15: ¹) Urkundenbuch Nr. 14. ²) Daselbst Nr. 37.
+ -->
+		</TextRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="394,1519 658,1519 658,1547 394,1547" />
+			<!-- line left out: id="r14l0" points="394,1528 401,1528 408,1529 424,1528 431,1528 437,1519 443,1519 446,1528 456,1528 469,1528 481,1528 494,1528 518,1528 542,1528 578,1528 609,1528 638,1528 658,1529 658,1537 609,1539 578,1539 566,1539 551,1539 481,1537 443,1537 443,1547 437,1547 437,1540 430,1540 413,1539 407,1539 394,1537" baseline="394,1537 658,1537" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnp digital slub-dresden de ppn301508842414
+ | german_print2_15:  -->
+		</TextRegion>
+		<SeparatorRegion id="r15">
+			<Coords points="964,628 974,628 974,1361 964,1361" />
+		</SeparatorRegion>
+		<GraphicRegion id="r16">
+			<Coords points="956,0 984,0 984,1564 956,1564" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Waren herstelle, um sie auf dem Markte in der Stadt oder vor
+den Dorfkirchen feil zu halten. Letzteres war den Dorfhandwerkern
+nur an den Tagen der Kirchweihe gestattet.
+Das städtische Bannmeilenrecht war also zunächst in mehrfacher
+Hinsicht beschränkt. Es gab Dörfer, die eigene Schänken hatten,
+und eins, dessen Wirt für seinen Bedarf brauen durfte. Auf den
+Dörfern waren Handwerker zu finden, die zwar nur ausnahmsweise
+mit ihren Erzeugnissen Handel treiben, aber unbeschränkt auf
+Bestellung für die Bauern arbeiten durften. Der Abt hatte das Recht
+der Stadt auf die Bannmeile anerkannt; damit hatte die Stadt viel,
+aber nicht alles gewonnen, da das Klostergebiet, wie erwähnt, von
+fremdem Gebiete durchsetzt war. Die Stadt hatte überhaupt kein
+unbedingtes Bannrecht; sie übte es aus, soweit es der mit dem Abte
+geschlossene Vertrag erlaubte, aber sie übte es nicht nach
+Landrecht aus.
+War die Stadt, wie gezeigt worden ist, unablässig bemüht, ihre
+Gerichtsgewalt zu befestigen und auszudehnen, so ist es
+selbstverständlich, daß sie ihr Bannrecht zu vervollkommnen trachtete.
+Bereits am 19. Januar 1334⟦⟧ erlangte sie die Bestätigung desselben
+durch den Markgrafen Friedrich den Ernsthaften, der ganz
+allgemein befahl, daß keine Schänke oder Werkstatt – Schuster- und
+Schneiderwerkstätten werden besonders genannt – innerhalb der
+Meile bestehen dürfe, soweit dies nicht altherkömmlich sei. Die
+besondere Liebe, die er mit gutem Grunde zu Chemnitz habe, so
+heißt es in derselben, veranlasse ihn, alles zu thun, was die Stadt
+fördern könne. Der Umstand, daß Chemnitz kurz vorher durch
+eine Feuersbrunst in dem Maße verwüstet worden war, daß es von
+den Bewohnern fast verlassen war, mag für ihn bestimmend gewesen
+sein, weshalb er denn auch allen, die in die Stadt übersiedeln wollten,
+woher sie auch kämen, seinen besonderen Schutz zusicherte.
+Der Vorbehalt, daß Werkstätten bestehen dürften, soweit dies
+altherkömmlich sei, konnte wohl die Veranlassung zu Zwistigkeiten
+werden. In der That befanden sich dreißig Jahre später der Abt
+Heinrich I. und die Stadt über die Auslegung des Vertrages v. J.
+1331 in Widerspruch, zu dessen Begleichung beide Teile die
+Bürgermeister und die Räte der Städte Altenburg, Zwickau und Freiberg
+anriefen. Die drei Städte ernannten eine Kommission, die aus 3
+bis 4 der ältesten und klügsten Bürger jeder Stadt bestand. Der
+am 12. September 1368 erteilte Schiedsspruch⟦⟧ schloß sich betreffs
+des Bierzwanges durchaus dem Vertrage v. J. 1331 an, brachte aber
+für die Stadt insofern wesentlichen Gewinn, als das Betreiben eines
+Handwerks auf den Klosterdörfern innerhalb der Meile gänzlich
+-->
+	</Page>
+</PcGts>

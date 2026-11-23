@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:39:42</Created>
+		<LastChange>2026-11-23T14:39:42</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/365 revision 4664350 of 2025-11-27T07:46:38Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0365.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro5686149040001518303" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="725,219 803,219 803,262 725,262" />
+			<TextLine id="r0l0" custom="readingOrder {index:0;}">
+				<Coords points="725,227 735,227 737,219 741,219 755,222 763,228 769,219 780,219 787,226 803,227 803,235 755,235 746,235 737,222 735,235 725,235" />
+				<Baseline points="725,235 803,235" />
+				<TextEquiv index="1">
+					<Unicode>alledem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l1" custom="readingOrder {index:1;}">
+				<Coords points="729,256 739,252 772,253 786,250 789,250 790,256 803,256 803,262 772,262 729,262" />
+				<Baseline points="729,262 803,262" />
+				<TextEquiv index="1">
+					<Unicode>zurück-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>alledem
+zurück-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="626,272 801,272 801,290 626,290" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="626,281 643,281 659,272 672,272 674,279 694,279 730,286 733,278 801,280 801,288 774,290 762,290 709,288 697,286 690,281 683,287 672,288 626,285" />
+				<Baseline points="626,288 801,288" />
+				<TextEquiv index="1">
+					<Unicode>bis Zwickau ging</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>bis Zwickau ging</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="679,304 733,304 733,315 679,315" />
+			<!-- line left out: id="r2l0" points="679,304 693,304 712,308 722,306 730,304 733,304 733,315 718,315 693,315 683,315 679,310" baseline="679,315 733,315" reason: differs: "unis" against "man " | Wikisource:  | next_nc_e1: unisirt
+ | german_print2_15: anisirt
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="712,375 802,375 802,404 712,404" />
+			<!-- line left out: id="r3l0" points="712,379 718,375 730,375 730,385 749,379 760,375 774,375 775,387 786,384 793,383 802,383 802,394 786,394 775,392 774,404 760,404 759,392 733,394 730,394 730,404 718,404 712,382" baseline="712,394 802,394" reason: differs: "lerN" against "er N" | Wikisource:  | next_nc_e1: ler Nacht
+ | german_print2_15: ler Nacht
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="669,437 802,437 802,448 669,448" />
+			<!-- line left out: id="r4l0" points="669,439 683,438 704,438 745,438 757,443 766,437 779,437 802,438 802,447 779,447 722,448 691,448 683,447 669,444" baseline="669,447 802,447" reason: models differ | Wikisource: ruar) hatten | next_nc_e1: ruar) hatten
+ | german_print2_15: bruar) hatten
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="711,459 756,459 756,474 711,474" />
+			<!-- line left out: id="r5l0" points="711,459 721,459 740,464 749,469 755,462 756,462 756,468 755,468 749,474 721,474 711,474" baseline="711,474 756,474" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: hützf
+ | german_print2_15: hützf
+ -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="642,465 803,465 803,633 642,633" />
+			<!-- line left out: id="r6l0" points="762,467 774,465 800,465 800,473 789,474 780,474 774,473 762,472" baseline="762,474 800,473" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: euer | german_print2_15: euer -->
+			<!-- line left out: id="r6l1" points="649,491 659,491 666,490 717,490 717,500 728,490 733,490 767,495 776,494 788,486 797,486 797,501 788,501 774,500 733,501 721,502 698,502 679,502 666,502 659,500 649,500" baseline="649,500 797,501" reason: models differ | Wikisource: bestätigte sich | next_nc_e1: bestätigte sich | german_print2_15: bestätigte sich. -->
+			<TextLine id="r6l2" custom="readingOrder {index:2;}">
+				<Coords points="647,522 654,517 676,520 685,512 694,512 697,521 709,518 744,518 761,521 763,512 767,512 771,519 792,518 803,520 803,529 795,529 740,526 709,528 647,524" />
+				<Baseline points="647,529 734,527 803,528" />
+				<TextEquiv index="1">
+					<Unicode>stecken wollen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l3" custom="readingOrder {index:3;}">
+				<Coords points="655,544 675,546 685,539 689,539 691,547 704,545 738,546 752,543 760,539 771,539 778,545 803,543 803,555 738,556 728,556 655,554" />
+				<Baseline points="655,554 803,554" />
+				<TextEquiv index="1">
+					<Unicode>haden gethan;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l4" custom="readingOrder {index:4;}">
+				<Coords points="645,572 656,572 659,565 663,565 666,574 677,571 722,571 731,565 762,565 765,578 776,565 787,565 791,573 797,573 797,579 762,581 758,581 645,580" />
+				<Baseline points="645,580 797,579" />
+				<TextEquiv index="1">
+					<Unicode>rden und habe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l5" points="642,598 671,592 675,592 679,600 701,599 703,592 718,592 726,598 745,596 750,596 753,605 786,592 791,592 795,598 803,598 803,607 741,608 718,608 703,608 703,602 682,604 679,604 642,600" baseline="642,607 671,606 803,607" reason: second model: differs: "Iinbeg" against "sich m" | Wikisource: n begnügt. In | next_nc_e1: n begnügt. In
+ | german_print2_15: Iin begnügt. In
+ -->
+			<TextLine id="r6l6" custom="readingOrder {index:6;}">
+				<Coords points="694,623 705,623 718,627 741,618 746,618 759,620 762,627 775,624 787,626 790,618 798,618 798,633 779,633 759,633 711,633 694,633" />
+				<Baseline points="694,633 798,633" />
+				<TextEquiv index="1">
+					<Unicode>hre Pferde</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>stecken wollen,
+haden gethan;
+rden und habe
+hre Pferde</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="703,645 803,645 803,660 703,660" />
+			<!-- line left out: id="r7l0" points="703,645 706,645 738,645 738,651 762,650 770,650 784,651 803,651 803,660 801,660 784,659 770,660 710,660 703,648" baseline="703,660 803,660" reason: differs: "Iten" against "besc" | Wikisource:  | next_nc_e1: Iten zwei
+ | german_print2_15: Ulten zwei
+ -->
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="567,862 809,862 809,1367 567,1367" />
+			<!-- line left out: id="r8l0" points="742,862 750,862 750,871 742,871" baseline="742,871 750,871" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: n | german_print2_15: n -->
+			<TextLine id="r8l1" custom="readingOrder {index:1;}">
+				<Coords points="567,887 650,887 711,891 724,882 728,882 733,888 742,888 751,882 765,882 765,891 805,890 805,897 636,898 626,898 584,897 567,894" />
+				<Baseline points="567,897 805,897" />
+				<TextEquiv index="1">
+					<Unicode>Chemnitz und Lichten-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r8l2" points="595,920 603,908 617,908 622,915 637,908 640,908 682,915 686,915 699,916 717,915 728,915 731,909 763,909 763,924 717,924 686,923 617,923 603,923 595,922" baseline="595,923 682,923 763,924" reason: differs: "ardrgsa" against "alde, P" | Wikisource:  | next_nc_e1: ward rgsam | german_print2_15: ward rgsam F -->
+			<!-- line left out: id="r8l3" points="598,944 629,935 644,935 652,941 665,938 674,938 683,945 686,935 702,935 702,943 714,941 733,941 746,935 755,935 755,950 733,950 723,950 714,943 712,956 686,956 683,950 644,949 600,950 598,950" baseline="598,949 629,949 755,950" reason: second model: differs: "rsWi" against "echs" | Wikisource: rs Widerspruch | next_nc_e1: rs Widerspruch
+ | german_print2_15: rs Widerspruch de
+ -->
+			<!-- line left out: id="r8l4" points="597,966 599,966 658,972 675,967 695,967 737,974 761,962 771,961 776,961 784,969 792,967 805,967 805,976 740,976 679,976 662,975 658,975 597,969" baseline="597,977 658,976 805,976" reason: differs: "tvom" against "besc" | Wikisource:  | next_nc_e1: t vom . März | german_print2_15: 1 vom . März -->
+			<!-- line left out: id="r8l5" points="654,994 661,993 671,993 673,987 683,987 686,996 698,993 699,987 701,987 739,988 747,994 753,993 764,993 766,987 776,987 778,996 798,993 807,993 807,1002 798,1002 776,1001 764,1002 671,1002 654,1002" baseline="654,1002 807,1002" reason: differs: "unders" against "entsch" | Wikisource:  | next_nc_e1: unders handeln | german_print2_15: anders handeln -->
+			<!-- line left out: id="r8l6" points="750,1026 773,1019 792,1014 807,1014 807,1027 790,1028 753,1030 750,1030" baseline="750,1028 807,1027" reason: differs: "„und" against "hwac" | Wikisource:  | next_nc_e1: „ und
+ | german_print2_15: „ und
+ -->
+			<TextLine id="r8l7" custom="readingOrder {index:7;}">
+				<Coords points="730,1047 763,1044 778,1044 807,1045 807,1054 766,1054 763,1054 730,1051" />
+				<Baseline points="730,1053 807,1053" />
+				<TextEquiv index="1">
+					<Unicode>e schon</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l8" custom="readingOrder {index:8;}">
+				<Coords points="710,1071 727,1073 727,1065 740,1065 750,1073 772,1071 774,1065 785,1065 787,1074 800,1071 808,1071 808,1080 785,1080 740,1080 725,1080 710,1074" />
+				<Baseline points="710,1079 808,1080" />
+				<TextEquiv index="1">
+					<Unicode>rlebenden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l9" custom="readingOrder {index:9;}">
+				<Coords points="742,1096 772,1100 775,1091 798,1091 800,1098 807,1098 807,1106 769,1106 742,1104" />
+				<Baseline points="742,1106 807,1106" />
+				<TextEquiv index="1">
+					<Unicode>tanden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l10" custom="readingOrder {index:10;}">
+				<Coords points="747,1118 761,1118 765,1125 787,1126 796,1118 807,1118 807,1133 781,1133 761,1133 747,1133" />
+				<Baseline points="747,1133 807,1133" />
+				<TextEquiv index="1">
+					<Unicode>Kund-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l11" custom="readingOrder {index:11;}">
+				<Coords points="737,1144 749,1144 749,1150 799,1148 803,1154 807,1154 807,1155 799,1159 789,1159 737,1158" />
+				<Baseline points="737,1158 807,1158" />
+				<TextEquiv index="1">
+					<Unicode>Wacht-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l12" custom="readingOrder {index:12;}">
+				<Coords points="737,1179 786,1175 808,1175 808,1184 758,1185 750,1185 737,1182" />
+				<Baseline points="737,1184 808,1184" />
+				<TextEquiv index="1">
+					<Unicode>en am</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l13" custom="readingOrder {index:13;}">
+				<Coords points="745,1201 781,1203 785,1195 798,1195 798,1209 760,1210 745,1210" />
+				<Baseline points="745,1210 798,1209" />
+				<TextEquiv index="1">
+					<Unicode>in da</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r8l14" points="748,1227 770,1221 774,1221 785,1227 789,1227 807,1228 807,1235 748,1235" baseline="748,1235 807,1235" reason: second model: differs: "r-Em" against "s sc" | Wikisource: r Em | next_nc_e1: rEm- | german_print2_15: r -Em- -->
+			<!-- line left out: id="r8l15" points="727,1255 741,1254 750,1254 762,1259 765,1253 769,1253 787,1254 801,1253 809,1253 809,1262 787,1263 777,1263 769,1256 762,1261 750,1262 741,1262 727,1258" baseline="727,1264 809,1262" reason: second model: differs: "Drgang" against "freund" | Wikisource: rgängen | next_nc_e1: rgangen
+ | german_print2_15: Drgangen
+ -->
+			<TextLine id="r8l16" custom="readingOrder {index:16;}">
+				<Coords points="735,1273 747,1273 749,1281 760,1279 806,1278 806,1287 776,1288 760,1288 735,1287" />
+				<Baseline points="735,1286 806,1287" />
+				<TextEquiv index="1">
+					<Unicode>dem er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l17" custom="readingOrder {index:17;}">
+				<Coords points="716,1303 727,1303 732,1308 741,1299 745,1299 749,1307 774,1303 787,1305 809,1305 809,1314 741,1314 728,1313 716,1309" />
+				<Baseline points="716,1314 809,1314" />
+				<TextEquiv index="1">
+					<Unicode>Sebastian</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r8l18" points="716,1325 725,1325 737,1334 744,1332 765,1327 778,1327 781,1334 792,1325 797,1325 808,1329 808,1341 778,1341 725,1341 716,1341" baseline="716,1341 808,1341" reason: differs: "hinA" against "Homm" | Wikisource:  | next_nc_e1: h in Acht
+ | german_print2_15: h in Acht
+ -->
+			<TextLine id="r8l19" custom="readingOrder {index:19;}">
+				<Coords points="713,1352 724,1352 725,1359 736,1359 744,1361 766,1352 772,1352 779,1358 806,1358 806,1366 794,1367 736,1367 713,1367" />
+				<Baseline points="713,1367 806,1367" />
+				<TextEquiv index="1">
+					<Unicode>das Thor</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Chemnitz und Lichten-
+e schon
+rlebenden
+tanden
+Kund-
+Wacht-
+en am
+in da
+dem er
+Sebastian
+das Thor</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="394,1540 658,1540 658,1568 394,1568" />
+			<!-- line left out: id="r9l0" points="394,1549 406,1549 434,1549 443,1549 456,1549 469,1549 499,1549 533,1549 533,1540 552,1540 552,1552 563,1552 563,1540 571,1540 572,1550 628,1549 646,1549 658,1550 658,1558 571,1558 571,1568 563,1568 563,1560 552,1560 552,1568 533,1568 533,1558 452,1561 443,1561 426,1561 414,1560 394,1560" baseline="394,1558 413,1557 420,1557 658,1558" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnp digital slub-dresden delppn301 259642365
+ | german_print2_15: np igital slub dresden de ppne01259642365
+ -->
+		</TextRegion>
+		<GraphicRegion id="r10">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+gezeichnet sind, bedenklich nahe gelegt. Trotz alledem
+brauchte ein Bote, um den Weg von Chemnitz bis Freiberg zurückzulegen,
+etwa 12 bis 13 Stunden; von Chemnitz bis Zwickau ging
+man in 10 Stunden. Der Postdienst war leidlich organisirt. Die
+Bewohner der Niclasgasse waren verpflichtet, die in Chemnitz ankommenden
+und von Chemnitz abgefertigten Posten gegen eine
+Meilengebühr von 1 Gr. 6 Pf. am Tage und von 2 Gr. in der Nacht
+weiterzutragen.
+Am Sonntag und Montag früh (24. und 25. Februar) hatten
+Boten, welche sich bis Lichtenstein durchgeschlichen, kein Geschützfeuer
+mehr gehört; der Schluss, dass Zwickau accordire, bestätigte sich.
+Anfangs, hiess es, habe Banér die Stadt in Brand stecken wollen,
+weil sie mit Hagel aus Stücken seinem Volke viel Schaden gethan;
+er sei jedoch von anderen zur Milde gestimmt worden und habe
+sich mit reichlicher Lieferung an Geld und Pferden begnügt. In
+Lichtenstein hörte einer der Boten einige Reiter, die ihre Pferde
+beschlagen liessen, erzählen, heute den 25. Februar sollten zwei
+Regimenter vor Chemnitz rücken. Die Meldung war bis auf die
+Zahl der Regimenter richtig; am 25. Februar Abends erschien der
+Oberst Hans Wachtmeister mit seinem ganzen Regiment von 13
+Compagnien, darunter viel Dragoner, vor der Stadt. Die Zahl der
+in ihrem Bestande wechselnden Compagnien lässt keinen Schluss
+auf die Mannschaftsstärke zu.
+Wachtmeister forderte die Uebergabe der Stadt, gestand jedoch
+dem Rathe Aufschub und Bedenkzeit bis auf den folgenden Tag
+zu. Unter Zuziehung der Amtsschösser von Chemnitz und Lichtenwalde,
+Paulus Drechsler und Daniel Graull, ward sorgsam Rath
+gepflogen und die Capitulation unter Drechslers Widerspruch beschlossen.
+In einem Bericht an den Kurfürsten, vom 28. März
+datirt, entschuldigt sich der Rath: er habe nicht anders handeln
+können; der Ort sei an Mannschaft sehr schwach und bloss, und
+an Gewehren, an Kraut und Loth Mangel gewesen, weil sie schon
+vorher etliche Male desarmirt worden seien; die wenigen überlebenden
+Bürger hätten damals schon drei Tage auf der Wache gestanden
+und nicht abgelöst werden können; auch habe man gewisse Kundschaft
+gehabt, dass Zwickau über sei und die ganze Armee Wachtmeisters
+Truppe folge. Auf schwedisches Begehren gingen am
+folgenden Tage alle Rathspersonen und Geistlichen hinaus in das
+schwedische Lager, den gefassten Beschluss mitzutheilen. Der Empfang
+war kein freundlicher: der Oberst war von den Vorgängen
+in der Rathsversammlung unterrichtet und auf Drechsler, dem er
+mit dem Tode drohte, sehr erbittert. Der Archidiakonus Sebastian
+Hommel liess den Schösser vertraulich warnen, er solle sich in Acht
+nehmen. Drechsler aber ging unerschrocken selbst vor das Thor
+-->
+	</Page>
+</PcGts>

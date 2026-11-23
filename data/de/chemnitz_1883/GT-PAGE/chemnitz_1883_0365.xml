@@ -1,0 +1,347 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:07:09</Created>
+		<LastChange>2026-11-23T14:07:09</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/365 revision 5012796 of 2026-08-14T14:23:23Z, proofread level 3, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0365.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro6375431779554309221" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="33,1150 38,1150 38,1494 33,1494" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="413,151 446,151 446,169 413,169" />
+			<!-- line left out: id="r1l0" points="413,153 436,151 446,151 446,168 419,169 413,169" baseline="413,169 446,168" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 153
+ | german_print2_15: 153
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="76,206 793,206 793,1166 76,1166" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="76,214 87,214 110,219 129,213 139,212 150,212 150,218 190,216 214,217 216,211 252,211 253,218 265,216 299,216 301,210 327,216 382,215 383,209 393,209 411,215 445,215 468,214 487,208 528,208 553,213 553,207 565,207 566,214 577,214 578,221 603,207 614,207 622,214 632,214 634,207 693,207 694,213 704,213 706,207 718,207 718,213 741,212 757,206 776,206 776,212 786,212 786,222 358,225 333,224 327,218 319,225 190,227 181,233 170,233 168,227 76,229" />
+				<Baseline points="76,227 603,222 786,222" />
+				<TextEquiv index="1">
+					<Unicode>den Hauptteil der alten und neuen Erblande, doch blieben die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l1" points="77,240 86,240 110,245 120,243 129,240 141,240 163,242 204,243 223,237 228,237 237,249 242,243 277,241 282,241 330,242 331,236 358,235 364,235 366,247 376,247 377,241 400,241 402,235 422,235 425,242 437,241 483,241 493,240 506,240 507,234 517,234 526,240 550,239 563,239 585,243 626,233 638,233 645,239 657,237 677,233 690,233 718,238 733,232 741,232 743,238 754,238 755,232 767,232 768,238 786,238 786,248 743,248 741,254 733,254 718,248 690,249 656,249 563,249 551,250 517,250 483,250 461,253 450,253 438,251 400,251 317,252 204,253 163,254 141,255 110,255 86,255 77,255" baseline="77,255 223,252 341,251 626,248 786,248" reason: differs: "en.Seit" against "n. – Se" | Wikisource:  | next_nc_e1: Fürstentümer Lausitz und Landsberg verloren. Seit dem Jahre | german_print2_15: Fürstentümer Lausitz und Landsberg verloren. Seit dem Jahre -->
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="77,271 174,270 177,264 208,262 225,262 231,269 247,270 254,263 268,263 269,269 279,269 287,262 291,262 293,269 415,267 431,261 453,261 462,269 474,261 485,261 504,266 506,260 520,260 520,266 630,265 648,259 658,258 671,258 694,258 700,262 712,265 729,259 741,259 741,265 785,264 785,274 610,275 555,279 506,276 504,282 494,282 485,276 321,277 107,281 93,283 87,283 77,281" />
+				<Baseline points="77,280 785,274" />
+				<TextEquiv index="1">
+					<Unicode>1320 wurde Friedrich von einer Erschöpfung seiner Kräfte heim-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="76,299 118,297 126,291 141,291 149,295 151,304 175,296 207,295 230,298 232,289 243,289 245,295 253,295 395,293 397,287 401,287 429,293 450,293 456,296 463,287 474,287 476,294 488,292 532,292 533,286 689,285 728,290 729,284 740,284 754,291 759,284 778,284 779,290 786,290 786,300 207,305 181,304 154,307 118,306 93,307 85,309 76,309" />
+				<Baseline points="76,307 429,302 786,300" />
+				<TextEquiv index="1">
+					<Unicode>gesucht, von der er sich nicht wieder erholt hat. Während der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="77,319 115,322 190,322 204,315 212,315 214,323 224,323 226,316 236,316 246,321 308,320 327,323 341,314 346,314 350,322 360,322 362,314 371,314 374,320 430,317 524,318 542,312 558,312 559,319 600,318 601,312 614,311 626,311 627,317 637,317 653,311 673,311 676,317 691,316 703,311 715,311 716,317 727,315 735,310 746,310 759,316 771,316 773,310 777,310 779,317 786,317 786,326 570,328 542,327 525,322 524,328 371,328 214,331 212,337 204,337 190,331 109,333 77,332" />
+				<Baseline points="77,332 786,326" />
+				<TextEquiv index="1">
+					<Unicode>letzten vier Jahre seines Lebens tritt seine Gemahlin Elisabeth als</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="78,344 114,344 158,348 203,349 218,341 243,341 253,348 286,347 304,341 315,341 331,346 350,349 364,340 393,340 395,346 432,348 447,339 460,339 461,345 492,347 493,339 536,339 554,346 560,346 561,338 573,338 581,345 593,345 608,337 631,337 633,343 645,341 672,342 690,337 701,337 701,343 731,341 749,347 754,342 774,339 785,339 785,352 731,354 579,353 560,358 475,355 417,355 114,359 90,359 78,359" />
+				<Baseline points="78,359 364,355 785,352" />
+				<TextEquiv index="1">
+					<Unicode>Regentin im Namen ihres Sohnes Friedrich (des Ernsthaften) auf.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l6" points="76,374 87,374 99,375 179,380 182,374 192,374 214,374 236,376 238,367 250,367 251,376 276,367 284,367 292,375 298,373 308,373 312,367 321,367 342,367 369,367 373,373 376,373 399,375 401,366 413,366 419,374 445,371 473,371 508,371 524,364 543,364 550,370 567,368 574,368 646,368 664,383 668,363 672,363 675,369 687,367 702,367 713,369 714,376 737,371 743,368 767,368 786,368 786,378 719,381 714,381 675,379 669,385 664,385 646,379 574,380 485,383 475,383 449,382 445,382 413,381 369,382 308,382 250,383 214,383 192,383 170,383 102,379 99,385 90,385 76,380" baseline="76,385 104,384 253,382 375,381 595,379 718,378 786,378" reason: differs: "Sieauch" against "ie hat " | Wikisource:  | next_nc_e1: Sie auch die Verlobung des jungen Fürsten mit Jutta, einer | german_print2_15: Sie h auch die Verlobung des jungen Fürsten mit Jutta, einer -->
+			<!-- line left out: id="r2l7" points="82,395 86,395 93,404 116,401 122,399 133,399 151,401 167,394 187,394 203,401 210,400 252,399 258,399 284,399 296,393 308,393 309,400 321,400 322,393 333,393 345,398 380,398 395,404 405,397 425,392 437,392 444,396 469,397 470,391 481,391 483,400 507,398 517,398 525,391 535,391 562,396 568,398 574,390 586,390 593,394 595,403 621,389 626,389 643,390 664,397 670,397 670,389 684,389 684,395 731,394 744,394 770,394 770,404 744,405 731,405 720,404 698,405 593,406 517,408 507,408 481,406 469,407 415,407 380,408 356,408 308,408 284,409 274,409 258,408 241,409 187,412 167,412 133,410 86,411 82,411" baseline="82,411 150,410 283,408 485,406 697,404 770,404" reason: second model: differs: "Toch" against "eine" | Wikisource: Tochter Johanns von Böhmen, zu Stande gebracht. Bei den voraus | next_nc_e1: Tochter Johanns von Böhmen, zu Stande gebracht. Bei den voraus | german_print2_15: Tochter ohanns von Böhmen, zu Stande gebracht. Bei den voraus -->
+			<!-- line left out: id="r2l8" points="76,428 85,428 91,430 100,422 110,422 112,429 123,427 133,427 134,421 146,421 193,421 200,429 213,426 221,420 226,420 228,427 239,426 249,426 261,427 264,420 274,420 299,425 311,426 325,425 355,424 450,424 462,417 474,417 475,425 488,423 525,423 551,425 552,417 563,417 563,423 577,423 598,415 602,415 622,416 624,422 637,421 641,421 663,421 683,421 684,415 696,415 696,421 720,421 721,415 726,415 747,422 754,421 765,420 786,420 786,431 726,431 641,431 622,432 525,433 474,433 450,433 445,433 429,432 369,439 355,439 311,436 301,436 261,435 193,435 150,438 146,438 110,437 85,438 76,438" baseline="76,436 185,435 524,432 786,430" reason: differs: "spiwied" against "spielt " | Wikisource:  | next_nc_e1: gehenden Verhandlungen spi wiederum das Pleiſsnerland eine | german_print2_15: gehenden Verhandlungen spi⸗ wiederum das Pleiſsnerland eine -->
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="76,454 89,451 113,451 157,447 170,448 181,458 183,447 242,446 245,453 257,451 303,451 323,445 327,445 331,452 356,449 402,448 413,448 418,452 441,444 452,444 454,451 497,443 517,443 522,449 556,449 574,442 587,442 588,448 599,448 606,442 619,442 619,448 647,448 650,455 671,449 692,447 786,447 786,456 647,461 599,458 556,461 517,459 339,459 257,461 245,459 242,468 235,468 208,462 157,462 126,464 113,462 105,464 76,464" />
+				<Baseline points="76,462 786,456" />
+				<TextEquiv index="1">
+					<Unicode>groſse Rolle. Johann bestimmte den König Ludwig, seinem zu-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="78,473 88,473 90,479 122,477 134,479 164,479 185,476 197,476 201,480 209,472 219,472 221,478 240,478 240,472 254,472 254,478 282,478 296,480 296,472 318,472 330,477 363,479 365,471 376,471 378,479 406,470 411,470 423,471 432,481 437,477 447,477 449,470 460,470 462,476 537,475 572,468 584,468 585,476 608,474 625,468 639,469 640,475 664,474 669,468 674,468 676,474 690,474 691,468 696,468 698,475 708,475 709,467 721,467 721,474 779,472 785,477 785,479 779,483 584,484 508,487 435,485 330,486 310,489 282,487 265,489 240,489 232,487 197,487 152,491 136,491 78,488" />
+				<Baseline points="78,488 625,483 785,483" />
+				<TextEquiv index="1">
+					<Unicode>künftigen Schwiegersohne die Belehnung mit den Reichslehen zu-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="76,513 86,505 111,505 124,500 134,500 136,507 148,504 263,504 265,498 275,498 277,504 306,504 308,498 312,498 316,505 332,503 376,502 382,497 437,502 559,501 573,494 590,494 592,500 613,500 628,494 644,494 653,500 676,499 699,501 714,493 720,493 723,499 739,499 746,493 766,493 776,499 786,499 786,513 676,514 644,510 486,511 464,514 453,514 437,511 280,513 207,511 171,515 162,515 80,515 76,515" />
+				<Baseline points="76,515 786,508" />
+				<TextEquiv index="1">
+					<Unicode>zusichern, lieſs sich aber selbst wegen seiner dem Könige Ludwig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="77,531 93,531 110,525 121,525 123,533 159,529 170,529 174,533 182,525 198,525 206,531 216,532 223,525 258,524 263,524 266,530 286,530 304,524 316,523 321,523 324,530 334,530 337,523 412,522 446,522 454,528 470,527 479,522 492,522 501,526 518,527 538,521 543,521 583,526 686,525 688,533 705,522 718,520 735,520 756,526 756,520 763,520 764,526 775,524 787,524 787,535 718,535 705,533 686,540 675,540 629,536 608,530 608,536 492,539 459,537 440,539 263,538 233,540 186,540 141,540 121,540 77,540" />
+				<Baseline points="77,540 787,534" />
+				<TextEquiv index="1">
+					<Unicode>in der Schlacht bei Mühldorf geleisteten Dienste am 4. Oktober</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="77,556 168,557 194,559 196,550 207,550 209,559 230,556 257,556 283,558 285,550 297,550 298,557 332,559 335,549 346,549 350,557 389,549 402,550 404,556 426,554 434,548 438,548 440,555 453,555 464,552 470,552 481,555 483,548 534,547 545,547 546,554 557,554 565,556 588,546 613,547 653,552 674,552 675,546 686,546 686,552 704,552 705,546 717,546 717,553 737,553 761,545 775,545 775,551 788,551 788,561 594,562 506,564 402,563 168,566 143,565 93,569 87,569 77,566" />
+				<Baseline points="77,566 788,561" />
+				<TextEquiv index="1">
+					<Unicode>1322 von diesem die drei Reichsstädte des Pleiſsnerlandes für</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l14" points="77,582 87,582 136,584 155,577 172,577 181,583 192,583 196,576 229,575 233,575 233,582 269,580 278,580 303,581 305,575 350,574 360,574 384,581 401,581 403,574 419,574 453,578 473,578 494,588 499,575 515,575 538,578 544,574 555,574 563,577 565,586 591,579 615,578 624,578 644,572 655,572 657,579 668,578 679,578 700,578 701,572 713,572 715,578 727,577 737,577 786,577 786,587 737,588 700,588 679,588 655,588 598,588 569,590 360,593 319,596 317,596 316,590 303,591 281,591 269,590 265,596 261,596 251,591 233,589 233,596 229,596 172,592 87,592 77,592" baseline="77,592 135,591 418,589 568,588 741,587 786,587" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 10000 Mark verpfänden ) und traf Anstalt, von denselben im | german_print2_15: 10000 Mark verpfänden¹) und traf Anstalt, von denselben im -->
+			<!-- line left out: id="r2l15" points="77,603 91,603 93,609 115,609 145,609 167,611 170,603 180,603 183,609 194,609 213,602 217,602 226,603 228,610 240,608 250,608 257,602 280,602 281,611 287,611 310,602 326,602 355,606 425,603 428,603 466,606 486,603 555,601 570,601 612,603 623,603 625,611 646,602 659,598 676,598 684,602 696,605 697,598 709,598 710,604 722,603 758,602 787,602 787,613 769,617 758,617 684,614 629,614 587,615 466,615 457,618 428,618 425,618 348,617 335,617 326,616 314,617 280,618 250,618 240,618 226,617 180,617 145,618 93,618 77,617" baseline="77,618 193,617 586,614 728,613 787,613" reason: differs: "Name" against "ür ⟦" | Wikisource:  | next_nc_e1: Namen des Reiches Besitz zu ergreife Am 1I1I. Oktober 1322 | german_print2_15: Namen des Reiches Besitz zu ergreifer Am II. Oktober 1322 -->
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="77,635 97,635 117,638 136,629 147,629 149,637 188,628 202,628 204,636 213,634 244,635 263,628 287,633 288,627 299,627 301,634 357,635 359,627 370,627 372,636 395,631 415,631 426,633 428,626 474,626 475,632 507,632 509,626 523,626 533,632 594,631 596,625 607,625 621,631 683,630 684,624 698,624 722,624 787,624 787,640 523,642 474,641 334,645 323,645 299,643 244,645 236,645 77,643" />
+				<Baseline points="77,644 787,639" />
+				<TextEquiv index="1">
+					<Unicode>wies der König Ludwig die Stadt Zwickau (und vermutlich auch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="82,656 97,655 106,659 130,661 132,655 143,655 145,661 200,660 212,662 214,654 259,654 261,661 308,658 377,659 379,666 401,653 417,653 420,659 441,658 457,652 489,653 532,658 533,652 544,652 544,660 571,657 606,658 606,664 632,656 680,658 680,650 693,650 693,656 788,656 788,665 708,666 594,670 544,668 382,670 224,669 174,672 165,672 130,670 82,670" />
+				<Baseline points="82,670 788,665" />
+				<TextEquiv index="1">
+					<Unicode>Altenburg und Chemnitz) an, dem Böhmenkönige, an den er sie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l18" points="77,687 83,687 116,685 125,685 143,687 155,688 158,680 167,680 200,681 202,687 218,687 220,681 224,681 228,689 238,687 262,686 307,686 320,680 324,680 327,687 339,685 351,685 357,688 364,680 374,680 392,685 422,684 444,679 456,679 457,686 482,684 517,684 536,687 538,678 548,678 578,683 591,689 596,677 609,677 611,684 622,683 635,682 667,677 681,677 694,684 700,684 700,676 712,676 713,683 723,683 735,676 760,676 762,682 779,682 786,685 786,688 780,688 779,697 762,697 760,691 746,692 647,693 566,694 517,694 487,694 456,693 425,694 422,694 418,687 412,687 403,695 307,698 296,698 270,696 247,697 238,697 224,695 218,696 138,696 112,701 108,701 83,696 77,696" baseline="77,696 246,695 532,693 786,691" reason: differs: "verp" against "⟦⟧ M" | Wikisource:  | next_nc_e1: verpfändet habe, zu gehorchen. ²) So war denn abermals die Mög- | german_print2_15: verpfändet habe, zu gehorchen.²) So war denn abermals die Mög- -->
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="78,712 81,712 91,707 111,707 124,711 197,713 203,715 211,707 215,707 218,714 239,712 270,715 272,706 331,706 339,712 351,710 382,711 428,709 443,704 456,704 457,713 469,713 470,705 541,708 554,710 617,708 672,709 672,702 685,702 685,709 765,708 765,702 780,702 780,709 788,709 788,718 672,719 615,723 573,720 554,720 541,723 456,720 249,723 215,721 197,725 187,725 173,723 78,722" />
+				<Baseline points="78,722 788,718" />
+				<TextEquiv index="1">
+					<Unicode>lichkeit gegeben, daſs Pleiſsen mit Böhmen vereinigt werden würde.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="130,733 135,733 138,739 148,739 150,733 170,733 178,738 207,738 217,742 218,736 256,740 271,732 282,732 283,738 350,738 362,732 373,732 395,738 412,738 414,732 423,732 423,739 438,737 487,736 532,738 532,730 549,730 563,738 569,730 582,730 582,737 592,737 608,729 649,729 651,736 662,736 663,729 676,729 676,735 711,735 730,740 731,734 755,728 780,728 782,738 788,738 788,740 782,740 780,749 700,749 649,745 630,745 508,748 434,747 412,750 395,750 242,746 223,748 130,748" />
+				<Baseline points="130,748 788,744" />
+				<TextEquiv index="1">
+					<Unicode>Indeſs ist es dazu nicht gekommen, da die Verlobung aufge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="76,766 87,766 100,760 111,760 112,768 124,765 165,765 168,759 199,758 211,758 213,764 243,765 245,758 260,758 267,764 328,762 349,758 366,758 369,765 382,765 382,758 435,758 443,761 445,770 468,764 517,762 531,756 548,756 548,762 571,762 572,756 583,756 590,760 611,761 626,755 642,755 651,761 686,761 701,754 715,754 716,760 727,760 734,754 747,754 747,760 788,761 788,773 764,774 747,770 686,774 642,771 449,774 265,773 87,775 76,775" />
+				<Baseline points="76,774 788,770" />
+				<TextEquiv index="1">
+					<Unicode>hoben und Friedrich mit Mechthilt, einer Tochter König Ludwigs,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="76,792 99,791 107,786 136,786 196,790 200,784 211,784 212,794 227,797 260,784 278,784 279,790 315,792 316,784 328,784 336,791 354,784 375,783 376,792 387,788 497,788 521,790 521,783 534,783 535,790 565,788 586,782 606,782 606,788 656,782 668,782 687,787 688,781 700,781 701,787 788,786 788,796 755,795 736,801 725,801 643,798 211,799 116,801 99,801 76,800" />
+				<Baseline points="76,800 788,796" />
+				<TextEquiv index="1">
+					<Unicode>verlobt wurde. Für die Wettiner war diese Eheverbindung von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="78,818 103,819 109,811 149,811 152,817 161,817 168,811 173,811 175,817 208,816 229,810 245,810 247,818 258,816 307,816 307,810 346,810 361,812 417,810 443,815 520,813 583,814 590,808 606,808 652,812 653,820 677,807 703,807 743,811 788,810 788,825 743,826 737,822 652,828 643,828 634,826 484,825 476,821 455,827 346,825 78,826" />
+				<Baseline points="78,826 788,822" />
+				<TextEquiv index="1">
+					<Unicode>wesentlichem Gewinn. Der König säumte nicht (7. Mai 1323),</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l24" custom="readingOrder {index:24;}">
+				<Coords points="77,847 97,844 143,843 163,837 168,837 182,842 183,836 194,836 196,843 248,843 249,836 261,836 262,844 291,836 321,836 323,843 333,843 334,836 345,836 347,842 433,840 462,835 485,835 487,841 567,840 568,847 595,834 721,839 722,833 760,833 761,839 788,838 788,849 632,850 544,854 533,854 498,851 393,853 321,851 97,853 77,851" />
+				<Baseline points="77,851 788,848" />
+				<TextEquiv index="1">
+					<Unicode>seinem Eidam die Belehnung mit Thüringen, Meiſsen und dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l25" custom="readingOrder {index:25;}">
+				<Coords points="77,868 94,867 127,870 132,864 136,864 138,870 161,869 162,863 173,863 175,871 199,868 253,866 277,868 279,862 284,862 286,869 312,866 383,869 389,862 400,862 401,870 421,866 433,866 453,861 465,861 466,867 533,867 534,861 549,861 563,868 570,866 614,866 625,859 632,859 648,860 660,865 667,863 701,865 701,859 713,859 733,863 789,865 789,874 453,877 435,871 433,877 400,878 245,877 236,875 218,878 161,879 127,879 110,879 96,879 77,877" />
+				<Baseline points="77,879 789,874" />
+				<TextEquiv index="1">
+					<Unicode>Osterlande zu erteilen; er sicherte ihm auch einen Brautschatz von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l26" custom="readingOrder {index:26;}">
+				<Coords points="79,896 111,898 121,896 137,896 151,889 169,889 171,895 202,894 215,888 246,888 250,895 294,893 315,894 316,901 335,894 346,894 354,896 357,890 367,887 375,887 376,894 417,894 434,887 446,887 448,893 480,887 500,889 512,892 519,887 529,887 531,893 545,893 555,891 573,892 574,886 585,886 601,890 631,885 683,885 684,891 779,890 779,884 790,884 790,900 619,902 601,896 601,902 346,902 320,904 240,903 162,905 151,905 111,903 89,905 79,905" />
+				<Baseline points="79,904 790,900" />
+				<TextEquiv index="1">
+					<Unicode>10000 Mark Silbers zu, wofür er die Reichsstädte Mühlhausen und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l27" points="78,916 93,916 114,921 121,916 132,916 172,921 210,920 217,920 238,920 254,921 256,914 266,914 293,919 301,914 312,914 313,927 338,920 361,920 362,913 373,913 432,919 443,918 482,918 488,920 505,913 523,913 524,919 560,918 604,916 613,916 623,917 626,924 645,911 653,911 654,917 697,916 726,915 764,915 764,923 779,909 789,909 789,931 764,931 744,930 737,930 711,927 654,927 653,933 645,933 631,927 623,932 615,932 541,929 505,929 485,923 482,929 349,930 313,930 293,929 238,929 194,930 172,931 150,931 114,931 93,932 78,932" baseline="78,931 193,930 315,929 726,926 789,926" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Nordhausen verschrieb, und attete ihm am 24. Januar 1323, ³) | german_print2_15: Nordhausen verschrieb, und attete ihm am 24. Januar 1323, ) -->
+			<TextLine id="r2l28" custom="readingOrder {index:28;}">
+				<Coords points="78,942 100,942 142,947 155,941 167,941 168,948 180,948 181,941 253,946 263,940 309,940 317,946 330,940 340,940 353,944 399,943 418,946 425,940 438,940 439,947 449,947 461,941 481,940 489,943 514,945 515,939 527,939 548,944 561,945 561,952 579,938 593,938 593,944 626,944 627,938 701,943 702,937 751,937 788,942 788,952 593,954 561,957 534,955 317,955 309,961 296,961 296,955 287,955 285,961 263,961 263,954 251,954 249,948 234,955 216,956 78,957" />
+				<Baseline points="78,957 788,952" />
+				<TextEquiv index="1">
+					<Unicode>die an Böhmen verpfändeten Städte Altenburg, Zwickau und Chem-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l29" custom="readingOrder {index:29;}">
+				<Coords points="79,974 98,972 144,973 172,971 231,973 246,965 263,965 266,972 312,966 317,966 335,972 338,966 349,966 350,974 362,972 414,972 429,966 433,966 435,973 482,972 482,966 512,964 528,964 536,971 546,971 552,965 563,965 597,970 612,964 624,964 631,970 654,969 664,963 688,963 690,969 718,968 732,962 759,962 767,968 790,969 790,981 775,981 747,978 747,984 732,984 718,978 624,980 447,980 403,982 192,980 177,982 79,983" />
+				<Baseline points="79,983 790,978" />
+				<TextEquiv index="1">
+					<Unicode>nitz um 10000 Mark Silbers zu lösen. Noch in demselben Jahre,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l30" points="84,1000 91,999 125,998 138,998 141,1006 164,994 174,994 226,994 263,997 299,996 305,996 334,998 346,992 373,991 394,991 402,999 412,999 413,992 425,992 435,998 441,997 453,992 463,992 465,1000 472,1000 487,991 504,991 506,997 519,995 534,995 553,996 568,990 588,990 591,996 596,996 611,998 611,990 623,990 631,996 641,996 642,990 655,990 656,996 681,989 703,989 760,995 766,995 766,988 781,988 781,995 791,995 791,1004 686,1005 623,1006 534,1006 518,1007 497,1007 463,1007 440,1007 412,1008 402,1008 334,1007 305,1007 263,1007 226,1009 206,1009 189,1009 174,1008 131,1011 125,1011 84,1009" baseline="84,1009 125,1008 225,1007 681,1004 791,1004" reason: differs: "am3t.Au" against "m 31. A" | Wikisource:  | next_nc_e1: am 3t. August, nennt sich Friedrichs Mutter Elisabeth Herrin des | german_print2_15: am z1. August, nennt sich Friedrichs Mutter Elisabeth Herrin des -->
+			<!-- line left out: id="r2l31" points="81,1019 98,1019 100,1027 112,1025 119,1021 122,1021 125,1027 134,1025 144,1025 162,1025 167,1018 187,1018 247,1016 254,1016 298,1017 303,1024 310,1021 322,1021 330,1018 344,1018 346,1024 356,1024 358,1018 368,1018 370,1024 403,1023 427,1023 441,1017 448,1017 451,1025 462,1025 463,1017 474,1017 475,1023 528,1022 557,1022 557,1016 563,1016 601,1018 623,1021 661,1018 667,1018 668,1028 691,1022 701,1021 712,1020 755,1015 771,1015 783,1020 791,1023 791,1026 783,1030 660,1034 612,1035 594,1035 557,1033 474,1033 463,1033 451,1030 448,1039 441,1039 427,1033 373,1033 212,1035 187,1035 175,1035 167,1021 162,1034 144,1034 122,1035 119,1035 98,1034 86,1035 81,1035" baseline="81,1034 247,1033 441,1032 740,1030 791,1030" reason: differs: "Plei" against "es ⟦" | Wikisource:  | next_nc_e1: Pleiſsnerlandes. ) Natürlich war Johann nicht geneigt, seine An- | german_print2_15: Pleiſsnerlandes.⁴) Natürlich war Johann nicht geneigt, seine An- -->
+			<TextLine id="r2l32" custom="readingOrder {index:32;}">
+				<Coords points="82,1055 89,1051 121,1051 123,1045 138,1045 140,1052 175,1051 183,1043 199,1043 201,1049 371,1048 412,1050 414,1044 425,1044 427,1050 438,1049 457,1044 491,1042 508,1042 509,1048 531,1049 532,1042 575,1042 576,1048 604,1048 625,1042 656,1047 691,1046 706,1040 730,1040 759,1045 792,1047 792,1056 782,1061 770,1061 770,1055 459,1061 425,1059 412,1061 255,1058 150,1059 102,1060 100,1066 89,1066 88,1059 82,1059" />
+				<Baseline points="82,1060 792,1055" />
+				<TextEquiv index="1">
+					<Unicode>sprüche ohne weiteres aufzugeben. Nach dem Egerer Vertrage</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l33" custom="readingOrder {index:33;}">
+				<Coords points="91,1081 104,1077 136,1075 163,1071 172,1071 180,1075 201,1075 203,1069 269,1075 326,1075 345,1077 347,1069 359,1069 360,1077 369,1077 381,1070 402,1069 403,1078 414,1074 469,1075 469,1082 487,1075 499,1075 499,1069 544,1069 545,1075 574,1074 574,1068 586,1068 601,1073 616,1067 661,1068 683,1072 703,1072 704,1066 709,1066 733,1071 734,1065 745,1065 764,1069 792,1069 792,1082 473,1085 188,1084 180,1090 175,1090 147,1086 104,1086 91,1084" />
+				<Baseline points="91,1085 792,1081" />
+				<TextEquiv index="1">
+					<Unicode>om 1. April 1311 waren die Wettiner, welche das Pleiſsnerland seit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l34" custom="readingOrder {index:34;}">
+				<Coords points="81,1097 92,1097 94,1105 105,1102 121,1102 138,1096 162,1096 175,1101 220,1100 234,1102 235,1095 273,1099 365,1100 393,1096 408,1101 431,1101 432,1095 443,1095 444,1102 466,1101 481,1095 486,1095 488,1101 497,1101 500,1094 510,1094 510,1100 569,1097 615,1099 629,1093 722,1092 728,1092 764,1097 791,1098 791,1110 673,1108 549,1109 547,1115 535,1115 522,1111 486,1110 263,1111 234,1109 220,1113 175,1111 143,1114 81,1111" />
+				<Baseline points="81,1110 791,1107" />
+				<TextEquiv index="1">
+					<Unicode>dem Jahre 1308 fast ununterbrochen behauptet zu haben scheinen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l35" custom="readingOrder {index:35;}">
+				<Coords points="82,1128 118,1128 126,1122 136,1122 144,1129 155,1122 166,1122 172,1125 192,1125 194,1134 215,1121 226,1121 227,1127 256,1128 269,1121 280,1121 282,1127 297,1128 315,1121 320,1121 321,1127 419,1128 421,1121 431,1121 434,1128 497,1128 501,1121 548,1120 562,1127 567,1120 581,1120 581,1126 612,1125 613,1119 625,1119 637,1124 683,1123 725,1117 739,1117 739,1123 751,1123 751,1117 764,1117 784,1117 784,1123 793,1123 793,1133 784,1133 784,1139 770,1139 770,1133 714,1133 714,1139 708,1139 707,1133 548,1136 493,1135 466,1138 419,1135 414,1138 172,1136 126,1137 118,1143 114,1143 109,1137 82,1137" />
+				<Baseline points="82,1137 793,1132" />
+				<TextEquiv index="1">
+					<Unicode>verpflichtet, dasselbe herauszugeben, sobald die ihnen verpfändete</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l36" points="81,1152 98,1152 111,1154 113,1148 124,1148 147,1147 160,1147 161,1154 173,1153 214,1152 257,1151 266,1151 306,1153 320,1147 344,1147 350,1147 390,1153 401,1153 408,1147 419,1147 428,1155 442,1151 448,1151 542,1147 557,1147 574,1151 593,1157 609,1157 632,1146 644,1144 662,1144 670,1147 682,1150 682,1144 688,1144 739,1147 749,1142 792,1142 792,1165 749,1165 740,1162 714,1159 662,1160 644,1160 632,1158 609,1165 593,1165 557,1162 448,1162 419,1162 401,1166 390,1166 331,1163 320,1163 280,1162 160,1163 81,1163" baseline="81,1163 257,1161 713,1158 792,1158" reason: differs: "Stad" against "⟦⟧ s" | Wikisource:  | next_nc_e1: Stadt Laun um 2000 Mark gelöst war. Am 27. Oktober 1323)
+ | german_print2_15: Stadt Laun um 2000 Mark gelöst war. Am 27. Oktober 1323 *)
+ -->
+			<TextEquiv index="1">
+				<Unicode>den Hauptteil der alten und neuen Erblande, doch blieben die
+1320 wurde Friedrich von einer Erschöpfung seiner Kräfte heim-
+gesucht, von der er sich nicht wieder erholt hat. Während der
+letzten vier Jahre seines Lebens tritt seine Gemahlin Elisabeth als
+Regentin im Namen ihres Sohnes Friedrich (des Ernsthaften) auf.
+groſse Rolle. Johann bestimmte den König Ludwig, seinem zu-
+künftigen Schwiegersohne die Belehnung mit den Reichslehen zu-
+zusichern, lieſs sich aber selbst wegen seiner dem Könige Ludwig
+in der Schlacht bei Mühldorf geleisteten Dienste am 4. Oktober
+1322 von diesem die drei Reichsstädte des Pleiſsnerlandes für
+wies der König Ludwig die Stadt Zwickau (und vermutlich auch
+Altenburg und Chemnitz) an, dem Böhmenkönige, an den er sie
+lichkeit gegeben, daſs Pleiſsen mit Böhmen vereinigt werden würde.
+Indeſs ist es dazu nicht gekommen, da die Verlobung aufge-
+hoben und Friedrich mit Mechthilt, einer Tochter König Ludwigs,
+verlobt wurde. Für die Wettiner war diese Eheverbindung von
+wesentlichem Gewinn. Der König säumte nicht (7. Mai 1323),
+seinem Eidam die Belehnung mit Thüringen, Meiſsen und dem
+Osterlande zu erteilen; er sicherte ihm auch einen Brautschatz von
+10000 Mark Silbers zu, wofür er die Reichsstädte Mühlhausen und
+die an Böhmen verpfändeten Städte Altenburg, Zwickau und Chem-
+nitz um 10000 Mark Silbers zu lösen. Noch in demselben Jahre,
+sprüche ohne weiteres aufzugeben. Nach dem Egerer Vertrage
+om 1. April 1311 waren die Wettiner, welche das Pleiſsnerland seit
+dem Jahre 1308 fast ununterbrochen behauptet zu haben scheinen,
+verpflichtet, dasselbe herauszugeben, sobald die ihnen verpfändete</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="83,1168 786,1168 786,1191 83,1191" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="83,1183 103,1179 124,1181 172,1179 188,1185 194,1178 221,1178 240,1180 242,1172 254,1172 256,1181 279,1173 283,1173 287,1180 302,1178 308,1172 319,1172 321,1181 342,1179 354,1172 368,1172 371,1180 379,1178 413,1179 438,1172 444,1172 446,1178 463,1178 464,1172 475,1172 477,1178 543,1178 544,1172 566,1171 572,1171 573,1177 585,1177 586,1171 598,1171 649,1177 655,1175 701,1175 712,1169 722,1168 727,1168 728,1175 740,1171 756,1171 786,1175 786,1190 777,1190 777,1184 722,1183 701,1185 609,1186 586,1186 573,1184 572,1190 510,1191 499,1191 475,1188 402,1190 368,1188 283,1187 150,1187 103,1189 91,1188 83,1185" />
+				<Baseline points="83,1185 354,1184 438,1188 554,1185 786,1184" />
+				<TextEquiv index="1">
+					<Unicode>schlossen nun die beiden Könige Ludwig und Johann einen Vertrag</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>schlossen nun die beiden Könige Ludwig und Johann einen Vertrag</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="83,1194 792,1194 792,1219 83,1219" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="83,1206 129,1205 137,1208 147,1202 150,1202 156,1206 163,1199 174,1199 176,1206 187,1204 204,1204 222,1198 227,1198 229,1205 240,1202 303,1204 347,1199 376,1198 381,1198 381,1204 420,1204 421,1198 432,1198 440,1204 450,1204 450,1198 462,1198 470,1202 488,1201 500,1205 500,1211 522,1198 534,1198 542,1204 550,1204 568,1197 576,1196 631,1195 639,1195 641,1201 712,1199 749,1199 770,1201 770,1194 782,1194 783,1201 792,1201 792,1210 749,1215 718,1215 682,1211 641,1211 639,1217 631,1217 617,1211 540,1213 504,1216 488,1214 420,1219 408,1219 399,1214 391,1213 381,1213 381,1219 376,1219 335,1214 281,1213 83,1215" />
+				<Baseline points="83,1215 203,1213 792,1210" />
+				<TextEquiv index="1">
+					<Unicode>in welchem letzterer sich verpflichtete, bis Ende Januar 1324 die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>in welchem letzterer sich verpflichtete, bis Ende Januar 1324 die</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="136,1254 720,1254 720,1318 136,1318" />
+			<!-- line left out: id="r5l0" points="136,1255 181,1255 191,1259 202,1260 207,1254 211,1254 229,1259 229,1262 221,1266 181,1267 148,1268 136,1268" baseline="136,1268 229,1265" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: )Mencker | german_print2_15: ¹) Meneken -->
+			<!-- line left out: id="r5l1" points="335,1282 350,1282 365,1282 388,1283 390,1290 405,1285 414,1280 419,1280 426,1283 442,1284 453,1285 464,1279 475,1279 501,1283 520,1279 531,1279 575,1279 593,1283 594,1277 599,1277 631,1277 637,1280 659,1277 671,1277 672,1288 686,1281 697,1279 704,1279 717,1280 718,1288 720,1288 720,1290 717,1294 695,1294 686,1294 671,1291 637,1291 619,1291 575,1292 539,1292 519,1293 510,1293 501,1292 482,1293 453,1293 436,1293 388,1293 357,1293 339,1293 335,1286" baseline="335,1293 370,1292 645,1290 720,1290" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: chaft f. ältere deutsche Geschichte S. 467. | german_print2_15: chaft f. ältere deutsche Geschichte S. 467. -->
+			<!-- line left out: id="r5l2" points="364,1306 368,1306 382,1308 395,1310 400,1305 410,1305 416,1306 448,1305 454,1305 461,1306 482,1311 491,1312 491,1318 461,1318 416,1318 395,1318 364,1318" baseline="364,1318 491,1318" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Daselbst II 98
+ | german_print2_15: Daselbst II 98
+ -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="368,1334 420,1334 420,1348 368,1348" />
+			<!-- line left out: id="r6l0" points="368,1335 375,1335 376,1342 394,1335 413,1334 420,1334 420,1348 403,1348 380,1346 376,1346 368,1344" baseline="368,1348 420,1348" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 2, 143
+ | german_print2_15: 2, 143
+ -->
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="394,1529 585,1529 585,1541 394,1541" />
+			<!-- line left out: id="r7l0" points="394,1529 402,1529 413,1531 424,1529 431,1529 443,1529 456,1529 469,1529 485,1529 494,1529 525,1529 548,1529 571,1530 585,1530 585,1538 571,1540 551,1540 531,1538 485,1538 443,1541 430,1541 413,1540 401,1540 394,1538" baseline="394,1538 551,1537 585,1537" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hp digital slub-dresden de ppnso
+ | german_print2_15: tPGiYital slub-dresdenm de ppny
+ -->
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="2,0 1000,0 1000,1565 2,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+den Hauptteil der alten und neuen Erblande, doch blieben die
+Fürstentümer Lausitz und Landsberg verloren. – Seit dem Jahre
+1320 wurde Friedrich von einer Erschöpfung seiner Kräfte
+heimgesucht, von der er sich nicht wieder erholt hat. Während der
+letzten vier Jahre seines Lebens tritt seine Gemahlin Elisabeth als
+Regentin im Namen ihres Sohnes Friedrich (des Ernsthaften) auf.
+Sie hat auch die Verlobung des jungen Fürsten mit Jutta, einer
+Tochter Johanns von Böhmen, zu Stande gebracht. Bei den
+vorausgehenden Verhandlungen spielt wiederum das Pleißnerland eine
+große Rolle. Johann bestimmte den König Ludwig, seinem
+zukünftigen Schwiegersohne die Belehnung mit den Reichslehen
+zuzusichern, ließ sich aber selbst wegen seiner dem Könige Ludwig
+in der Schlacht bei Mühldorf geleisteten Dienste am 4. Oktober
+1322 von diesem die drei Reichsstädte des Pleißnerlandes für
+10000 Mark verpfänden⟦⟧ und traf Anstalt, von denselben im
+Namen des Reiches Besitz zu ergreifen. Am 11. Oktober 1322
+wies der König Ludwig die Stadt Zwickau (und vermutlich auch
+Altenburg und Chemnitz) an, dem Böhmenkönige, an den er sie
+verpfändet habe, zu gehorchen.⟦⟧ So war denn abermals die
+Möglichkeit gegeben, daß Pleißen mit Böhmen vereinigt werden würde.
+Indeß ist es dazu nicht gekommen, da die Verlobung
+aufgehoben und Friedrich mit Mechthilt, einer Tochter König Ludwigs,
+verlobt wurde. Für die Wettiner war diese Eheverbindung von
+wesentlichem Gewinn. Der König säumte nicht (7. Mai 1323),
+seinem Eidam die Belehnung mit Thüringen, Meißen und dem
+Osterlande zu erteilen; er sicherte ihm auch einen Brautschatz von
+10000 Mark Silbers zu, wofür er die Reichsstädte Mühlhausen und
+Nordhausen verschrieb, und gestattete ihm am 24. Januar 1323,⟦⟧
+die an Böhmen verpfändeten Städte Altenburg, Zwickau und
+Chemnitz um 10000 Mark Silbers zu lösen. Noch in demselben Jahre,
+am 31. August, nennt sich Friedrichs Mutter Elisabeth Herrin des
+Pleißnerlandes.⟦⟧ Natürlich war Johann nicht geneigt, seine
+Ansprüche ohne weiteres aufzugeben. Nach dem Egerer Vertrage
+vom 1. April 1311 waren die Wettiner, welche das Pleißnerland seit
+dem Jahre 1308 fast ununterbrochen behauptet zu haben scheinen,
+verpflichtet, dasselbe herauszugeben, sobald die ihnen verpfändete
+Stadt Laun um 2000 Mark gelöst war. Am 27. Oktober 1323⟦⟧
+schlossen nun die beiden Könige Ludwig und Johann einen Vertrag,
+in welchem letzterer sich verpflichtete, bis Ende Januar 1324 die
+-->
+	</Page>
+</PcGts>

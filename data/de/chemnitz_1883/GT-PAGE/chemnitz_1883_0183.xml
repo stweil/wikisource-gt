@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:54:40</Created>
+		<LastChange>2026-11-23T13:54:40</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/183 revision 5066876 of 2026-09-29T06:46:05Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0183.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro11960974859474119002" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="500,214 767,214 767,289 500,289" />
+			<TextLine id="r0l0" custom="readingOrder {index:0;}">
+				<Coords points="518,214 529,214 580,214 580,220 631,224 633,215 644,215 647,222 659,222 673,216 689,216 691,224 702,216 714,216 716,225 726,217 746,220 747,226 758,223 767,223 767,233 758,233 689,231 647,232 518,230" />
+				<Baseline points="518,228 609,228 767,233" />
+				<TextEquiv index="1">
+					<Unicode>die Nase der Geliebten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l1" custom="readingOrder {index:1;}">
+				<Coords points="504,249 529,246 547,246 583,241 588,241 590,248 612,250 612,241 626,241 626,248 664,245 687,251 689,242 730,242 732,249 766,247 766,259 756,259 719,258 714,245 699,259 689,259 631,257 504,257" />
+				<Baseline points="504,257 766,258" />
+				<TextEquiv index="1">
+					<Unicode>äutert durch Ovid, Trist.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l2" points="500,277 514,276 540,276 552,267 557,267 579,267 579,281 596,281 668,269 680,269 681,275 689,275 712,275 725,269 736,269 737,276 748,275 757,275 757,285 736,285 725,285 712,284 681,284 668,280 596,289 593,289 579,283 579,289 567,289 567,282 552,282 522,280 500,279" baseline="500,279 668,281 757,283" reason: differs: "sses" against "I, 3" | Wikisource:  | next_nc_e1: sses Beisp brauchen
+ | german_print2_15: osses Beisy. brauchen
+ -->
+			<TextEquiv index="1">
+				<Unicode>die Nase der Geliebten
+äutert durch Ovid, Trist.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="486,295 766,295 766,704 486,704" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="654,301 670,301 672,295 688,295 719,295 721,304 738,301 766,303 766,312 760,312 654,310" />
+				<Baseline points="654,310 766,312" />
+				<TextEquiv index="1">
+					<Unicode>und Cicero,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l1" points="607,332 614,330 660,329 683,327 708,327 751,327 760,329 760,337 708,337 700,337 683,336 629,334 611,335 607,335" baseline="607,334 628,334 661,335 760,336" reason: second model: differs: "asss" against "De n" | Wikisource: ass sie wie eine | next_nc_e1: ass sie wie eine | german_print2_15: ass sie wie einée -->
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="610,353 620,353 622,347 627,347 650,347 665,347 668,354 678,354 687,356 698,354 735,354 737,348 741,348 745,354 764,354 764,363 712,364 707,364 650,364 637,364 610,362" />
+				<Baseline points="610,361 764,362" />
+				<TextEquiv index="1">
+					<Unicode>überflüssig aber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="639,373 644,373 670,380 696,380 705,383 710,388 722,374 737,374 740,380 749,378 759,378 759,389 710,390 707,390 660,389 647,379 644,388 639,388" />
+				<Baseline points="639,388 759,389" />
+				<TextEquiv index="1">
+					<Unicode>Plinius, Hist</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="533,404 589,403 608,406 611,399 616,399 617,407 642,404 704,406 710,407 711,413 732,406 755,406 757,400 766,400 766,415 742,416 685,416 682,416 533,414" />
+				<Baseline points="533,414 766,415" />
+				<TextEquiv index="1">
+					<Unicode>mhaftigkeit seien, und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="514,435 520,430 575,431 592,425 611,425 617,439 639,430 688,430 733,435 736,426 746,426 754,435 765,435 765,443 754,443 688,441 514,440" />
+				<Baseline points="514,440 765,442" />
+				<TextEquiv index="1">
+					<Unicode>ung zu IV, 16 über das,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="494,450 499,450 532,459 574,458 604,451 635,451 653,455 694,460 696,452 706,452 714,459 720,453 731,453 731,461 751,459 765,460 765,468 714,468 494,465" />
+				<Baseline points="494,465 765,468" />
+				<TextEquiv index="1">
+					<Unicode>Boreas und Notus denken.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l7" points="486,483 534,482 537,482 557,483 559,490 568,482 584,482 599,482 660,484 662,478 677,478 689,485 708,485 710,479 736,479 740,485 744,485 756,479 765,479 765,494 744,494 704,494 643,493 612,492 486,492" baseline="486,492 625,492 765,494" reason: second model: differs: "InKo" against "Der " | Wikisource: n Kommentare und wirklich | next_nc_e1: n Kommentare und wirklich | german_print2_15: In Kommentare und wirklich -->
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="587,503 592,503 620,511 620,503 632,503 632,510 662,508 709,512 712,518 735,505 750,508 752,514 759,514 759,521 709,522 632,522 620,522 620,516 608,518 587,518" />
+				<Baseline points="587,518 759,521" />
+				<TextEquiv index="1">
+					<Unicode>Übersetzung. Die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="574,536 584,536 586,543 609,538 615,530 631,530 634,539 657,531 690,531 693,538 701,538 724,531 729,531 739,538 755,538 763,532 765,532 765,547 724,547 574,544" />
+				<Baseline points="574,544 765,547" />
+				<TextEquiv index="1">
+					<Unicode>n, das Hohe Lied</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="574,588 605,588 611,591 650,588 670,596 688,588 732,590 738,592 746,585 750,585 752,591 766,591 766,599 732,599 706,604 702,604 699,598 590,597 574,592" />
+				<Baseline points="574,597 766,600" />
+				<TextEquiv index="1">
+					<Unicode>römischen Sprache</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="527,616 582,612 595,614 631,609 653,609 673,609 677,617 684,617 684,609 696,609 741,611 744,618 763,616 763,626 755,626 733,626 720,626 673,624 640,625 538,623 527,620" />
+				<Baseline points="527,623 631,623 763,626" />
+				<TextEquiv index="1">
+					<Unicode>chen treu bleibe. Aber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l12" points="539,647 552,634 561,634 570,640 598,640 622,641 626,635 629,635 633,641 650,639 654,639 667,643 686,642 693,640 697,640 721,642 737,651 742,644 765,644 765,648 752,650 742,652 712,652 690,651 686,651 650,650 633,649 626,638 622,650 613,650 598,649 561,649 539,649" baseline="539,649 737,652 765,653" reason: second model: differs: "aUnm" against "die " | Wikisource: Unmöglichkeiten ge | next_nc_e1:  Unmöglichkeiten ge-
+ | german_print2_15: a Unmöglichkeiten ge-
+ -->
+			<TextLine id="r1l13" custom="readingOrder {index:13;}">
+				<Coords points="615,670 631,666 666,667 678,676 684,676 684,668 694,668 702,662 706,662 715,668 738,669 738,679 728,679 709,677 702,667 694,676 685,677 631,676 615,673" />
+				<Baseline points="615,676 678,676 738,679" />
+				<TextEquiv index="1">
+					<Unicode>s ihm gelung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l14" custom="readingOrder {index:14;}">
+				<Coords points="611,686 631,686 631,693 659,692 765,696 765,704 709,704 671,701 611,702" />
+				<Baseline points="611,702 765,705" />
+				<TextEquiv index="1">
+					<Unicode>der bessern la-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>und Cicero,
+überflüssig aber
+Plinius, Hist
+mhaftigkeit seien, und
+ung zu IV, 16 über das,
+Boreas und Notus denken.
+Übersetzung. Die
+n, das Hohe Lied
+römischen Sprache
+chen treu bleibe. Aber
+s ihm gelung
+der bessern la-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="600,713 765,713 765,730 600,730" />
+			<!-- line left out: id="r2l0" points="600,719 622,719 633,723 649,713 654,713 656,720 674,717 677,717 688,720 688,713 702,713 702,721 710,721 719,724 725,725 733,715 743,715 745,722 756,721 765,721 765,730 743,730 710,730 688,730 665,729 649,729 600,728" baseline="600,727 765,730" reason: second model: differs: "lemheb" against "teinis" | Wikisource: em hebräischen | next_nc_e1: em hebräischen
+ | german_print2_15: lem hebräischen
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="603,741 765,741 765,940 603,940" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="686,741 707,741 710,748 724,745 754,747 756,741 765,741 765,756 724,756 700,756 686,756" />
+				<Baseline points="686,756 765,756" />
+				<TextEquiv index="1">
+					<Unicode>Abstand</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="681,774 693,772 709,772 736,768 746,768 748,775 764,777 764,779 746,782 709,782 699,782 681,779" />
+				<Baseline points="681,781 764,782" />
+				<TextEquiv index="1">
+					<Unicode>eine he-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="672,798 692,798 754,799 764,801 764,809 749,809 672,807" />
+				<Baseline points="672,807 764,809" />
+				<TextEquiv index="1">
+					<Unicode>zu einem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="670,824 690,824 744,826 764,829 764,831 744,835 730,835 670,833" />
+				<Baseline points="670,833 764,835" />
+				<TextEquiv index="1">
+					<Unicode>zu unge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="621,850 638,849 645,852 662,844 673,844 674,852 740,846 742,852 751,852 764,855 764,857 719,864 715,864 673,859 621,858" />
+				<Baseline points="621,858 764,861" />
+				<TextEquiv index="1">
+					<Unicode>aus den 4 he-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="641,877 692,877 695,871 718,871 735,879 742,871 752,871 759,877 762,877 762,887 759,887 647,884 641,879" />
+				<Baseline points="641,884 762,887" />
+				<TextEquiv index="1">
+					<Unicode>en wählt der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="603,903 619,907 621,901 664,896 668,896 707,897 715,905 726,898 730,898 733,905 764,904 764,915 756,915 742,913 713,912 621,911 603,908" />
+				<Baseline points="603,910 764,913" />
+				<TextEquiv index="1">
+					<Unicode>einen bildlichen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="649,922 663,922 671,928 684,923 699,923 711,937 717,930 742,924 764,927 764,940 754,940 733,938 711,939 649,936" />
+				<Baseline points="649,936 764,940" />
+				<TextEquiv index="1">
+					<Unicode>Hand giebt,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Abstand
+eine he-
+zu einem
+zu unge-
+aus den 4 he-
+en wählt der
+einen bildlichen,
+Hand giebt,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="553,1035 764,1035 764,1078 553,1078" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="573,1046 599,1039 626,1039 631,1043 644,1035 649,1035 688,1041 688,1035 702,1035 702,1044 714,1040 754,1042 763,1044 763,1053 702,1053 686,1053 665,1049 573,1049" />
+				<Baseline points="573,1049 644,1049 763,1052" />
+				<TextEquiv index="1">
+					<Unicode>ischen Übersetzung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="553,1060 576,1060 578,1066 587,1066 600,1060 612,1060 618,1068 626,1061 636,1060 649,1060 653,1060 681,1067 691,1067 697,1069 708,1062 719,1062 721,1070 733,1068 764,1069 764,1078 756,1078 719,1076 618,1075 608,1062 604,1075 563,1075 553,1073" />
+				<Baseline points="553,1074 696,1075 764,1078" />
+				<TextEquiv index="1">
+					<Unicode>den Fällen, in denen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ischen Übersetzung
+den Fällen, in denen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="594,1088 764,1088 764,1104 594,1104" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="594,1092 633,1092 647,1100 659,1095 671,1093 706,1093 732,1088 742,1088 744,1096 764,1094 764,1104 724,1103 706,1101 602,1102 594,1100" />
+				<Baseline points="594,1100 696,1101 764,1105" />
+				<TextEquiv index="1">
+					<Unicode>rgezogen werden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>rgezogen werden</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="572,1146 762,1146 762,1242 572,1242" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="572,1150 583,1148 603,1148 626,1153 628,1146 633,1146 662,1149 662,1157 603,1157 583,1157 572,1154" />
+				<Baseline points="572,1157 662,1157" />
+				<TextEquiv index="1">
+					<Unicode>cruentam</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l1" points="615,1174 621,1168 631,1168 652,1172 655,1181 657,1181 657,1183 640,1183 631,1182 621,1182 615,1181" baseline="615,1182 657,1183" reason: differs: "ubit" against "Mand" | Wikisource:  | next_nc_e1: ubit.
+ | german_print2_15: ubit.
+ -->
+			<!-- line left out: id="r6l2" points="632,1201 641,1201 648,1205 698,1203 704,1202 708,1202 711,1209 722,1206 735,1201 740,1201 743,1209 753,1207 762,1207 762,1216 753,1216 740,1215 708,1215 698,1215 648,1214 644,1214 632,1213" baseline="632,1214 663,1214 762,1216" reason: differs: "hier" against "m is" | Wikisource:  | next_nc_e1: hier ffenbar
+ | german_print2_15: hier ffenbar
+ -->
+			<!-- line left out: id="r6l3" points="619,1230 650,1229 698,1226 702,1226 706,1232 719,1230 729,1230 739,1227 750,1227 750,1233 758,1233 758,1239 750,1242 739,1242 716,1241 701,1242 698,1242 650,1240 619,1239" baseline="619,1239 758,1241" reason: second model: differs: "immt" against "ar w" | Wikisource: mmt. Infolge | next_nc_e1: mmt. Infolge
+ | german_print2_15: immt. Infolge
+ -->
+			<TextEquiv index="1">
+				<Unicode>cruentam</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="668,1252 765,1252 765,1267 668,1267" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="668,1257 682,1259 685,1252 698,1252 699,1259 731,1252 735,1252 738,1258 746,1258 746,1252 765,1252 765,1267 698,1267 685,1267 678,1262 668,1261" />
+				<Baseline points="668,1265 765,1267" />
+				<TextEquiv index="1">
+					<Unicode>wesentlich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>wesentlich</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="394,1529 511,1529 511,1541 394,1541" />
+			<!-- line left out: id="r8l0" points="394,1529 402,1529 408,1531 424,1529 434,1529 457,1529 469,1529 494,1529 511,1532 511,1538 441,1541 432,1541 413,1540 407,1540 394,1538" baseline="394,1538 511,1538" reason: differs: "hupe" against "matt" | Wikisource:  | next_nc_e1: hup eigſaſsſud ree
+ | german_print2_15: enche
+ -->
+		</TextRegion>
+		<GraphicRegion id="r9">
+			<Coords points="0,0 1000,0 1000,1565 0,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+kühne Bild, H. L. VII, 5, nach welchem die Nase der Geliebten
+sein soll wie der Turm des Libanon, erläutert durch Ovid, Trist.
+I, 3, 25: „Ist es erlaubt für Kleines ein grosses Beispiel zu brauchen:
+Dies war Trojas Gesicht, als man erstürmte die Stadt,“ und Cicero,
+De nat. deor. II, 57: „Die Nase ist so gestellt, dass sie wie eine
+Mauer zwischen den Augen zu liegen scheint.“ Sehr überflüssig aber
+sind Bemerkungen wie die zu H. L. IV, 3, dass nach Plinius, Hist.
+natur. IX, 37, die Wangen der Sitz der Schamhaftigkeit seien, und
+gerade zu irreführend die Auseinandersetzung zu IV, 16 über das,
+was die Lateiner und Griechen über den Boreas und Notus denken.
+Der wichtigste Bestandteil der Lessingschen Kommentare und wirklich
+eine recht respektabele Leistung ist die lateinische Übersetzung. Die
+Klagelieder will er nach den lateinischen Elegien, das Hohe Lied
+nach den Eklogen Virgils beurteilt wissen. Seine Absicht ist, so
+zu übertragen, dass er sowohl dem Genius der römischen Sprache
+als auch dem Sinn und Ausdruck des Hebräischen treu bleibe. Aber
+die Lösung dieser Aufgabe möchte wohl zu den Unmöglichkeiten
+gehören und alle Anerkennung verdient es schon, dass es ihm gelungen
+ist, nach dem Muster und aus den Redensarten der bessern
+lateinischen Dichter gewandte Verse zu bilden, die dem hebräischen
+Original freilich immer nur respektvoll in einem gewissen Abstand
+folgen. Da er in den 2 ersten Kapiteln der Klagelieder eine
+hebräische Strophe in der Regel zu zwei und im 3. Kapitel zu einem
+lateinischen Distichon umgestaltet, so sieht er sich oft zu
+ungebührlichen Dehnungen veranlasst. So z. B. werden aus den 4
+hebräischen Worten in III, 15 zwei ganze Verse. Bisweilen wählt der
+Übersetzer statt des eigentlichen Ausdrucks im Urtext einen bildlichen,
+wenn ihm sein römischer Dichter einen solchen an die Hand giebt,
+z. B. III, 38:
+Infit et infelix lolium dominatur in agro,
+Infit et insurgit frugibus ampla seges.
+Mitunter auch entspricht der Sinn der lateinischen Übersetzung
+nicht völlig dem Original, ganz abgesehn von den Fällen, in denen
+eine andere Erklärung der hebräischen Worte vorgezogen werden
+muss, z. B. III, 29:
+Pondere cum pressus procumbit et ore cruentam
+Mandit humum, fatur: Spes mihi forte subit.
+Die virgilische Redensart mandere humum ist hier offenbar
+weniger am Platze als IV, 5, wo sie wieder vorkommt. Infolge
+ihrer breiteren Ausdrucksweise wird die Übersetzung oft wesentlich
+matter als das Original, z. B. III, 51:
+Indulgent natae lacrimis; mihi largior imber
+Labitur ex oculis, qui solet esse gravis.
+-->
+	</Page>
+</PcGts>

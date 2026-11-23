@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:41:46</Created>
+		<LastChange>2026-11-23T14:41:46</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/392 revision 4809579 of 2026-01-20T07:48:58Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0392.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro6460687920343545625" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="18" regionRef="r18" />
+				<RegionRefIndexed index="20" regionRef="r20" />
+				<RegionRefIndexed index="24" regionRef="r24" />
+				<RegionRefIndexed index="26" regionRef="r26" />
+				<RegionRefIndexed index="29" regionRef="r29" />
+				<RegionRefIndexed index="30" regionRef="r30" />
+				<RegionRefIndexed index="33" regionRef="r33" />
+				<RegionRefIndexed index="36" regionRef="r36" />
+				<RegionRefIndexed index="37" regionRef="r37" />
+				<RegionRefIndexed index="38" regionRef="r38" />
+				<RegionRefIndexed index="40" regionRef="r40" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="282,227 839,227 839,250 282,250" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="169,179 882,179 882,355 169,355" />
+			<!-- line left out: id="r1l0" points="514,179 536,179 547,182 547,193 536,194 519,195 514,195" baseline="514,195 547,193" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 138 | german_print2_15: 138 -->
+			<!-- line left out: id="r1l1" points="169,225 218,225 220,237 249,228 253,228 368,232 390,232 401,234 416,234 445,235 470,235 474,243 486,238 499,236 515,235 529,235 538,242 553,235 557,235 576,237 583,244 607,231 615,231 622,239 632,239 652,237 681,233 722,233 735,237 787,240 790,248 817,235 826,235 847,246 854,242 874,242 880,243 880,245 878,245 874,251 861,251 858,257 854,257 852,249 793,250 773,250 763,250 747,249 722,250 698,250 692,248 681,247 661,241 652,241 649,247 646,247 632,246 622,246 615,253 607,253 583,246 576,239 564,242 560,242 553,238 541,245 529,246 515,246 483,245 474,245 459,244 445,242 401,244 390,247 376,247 371,242 362,241 354,247 341,247 273,240 223,240 179,240 169,239" baseline="169,239 249,240 441,243 681,247 792,249 847,250 880,251" reason: differs: "1455" against "p;" " | Wikisource:  | next_nc_e1: 1455. Ca pringer burgermeister, Jacuff Hillebrand, C spar | german_print2_15: 1455. Ca Springer burgermeister, Jacuff Hillebrand., C Spar -->
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="263,254 268,254 330,258 369,258 429,254 443,254 446,260 464,255 487,255 518,256 563,262 586,263 622,261 633,258 641,258 643,264 663,264 705,259 717,259 719,265 734,260 738,260 742,268 758,266 794,267 801,274 826,261 865,261 871,262 873,268 882,268 882,278 766,277 758,275 738,274 674,274 663,279 659,279 657,273 589,273 301,267 296,273 288,273 287,267 263,264" />
+				<Baseline points="263,266 882,278" />
+				<TextEquiv index="1">
+					<Unicode>Czymmerman, Nickil Hofeman, Caspar Friberger, Nickil</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="264,277 277,277 284,285 293,285 301,278 311,278 313,286 329,284 333,291 355,279 382,279 391,286 424,282 454,281 454,289 468,289 476,281 487,281 489,295 509,282 524,282 531,288 557,290 577,283 600,283 603,291 614,289 643,289 653,291 653,297 677,285 691,285 699,291 710,291 724,294 739,288 750,288 793,293 809,300 826,287 848,287 848,293 861,288 865,288 865,294 876,294 876,303 806,303 795,299 793,305 783,305 765,301 653,300 624,298 577,300 460,296 441,297 264,292" />
+				<Baseline points="264,292 876,303" />
+				<TextEquiv index="1">
+					<Unicode>Becker, Hans Arnold, Hans Allexius, Hans Stange, Nicki</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="264,304 275,303 281,303 283,311 294,311 296,304 314,304 322,310 408,312 424,306 428,306 439,319 452,315 457,307 468,307 469,314 487,313 513,308 530,308 533,315 586,309 598,309 605,317 611,315 652,316 686,314 693,324 711,311 737,312 744,317 804,316 823,321 825,314 829,314 832,320 852,320 862,314 875,314 875,320 882,320 882,330 862,330 783,327 642,328 609,324 487,323 388,320 386,326 381,326 379,320 275,319 264,317" />
+				<Baseline points="264,318 882,329" />
+				<TextEquiv index="1">
+					<Unicode>Moller, Caspar Lindaw, Mattis Baumgarte, Hannus Stobener,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l5" points="263,330 278,330 280,337 293,336 338,331 379,331 384,338 391,338 391,331 401,331 411,340 421,340 426,341 438,346 456,333 470,333 478,340 489,340 515,338 526,338 552,339 579,338 589,338 610,341 630,342 644,335 663,335 663,342 671,342 679,336 683,336 737,342 740,342 747,342 771,344 784,345 802,345 806,352 826,339 836,339 844,345 865,345 875,346 875,355 861,355 844,354 835,353 826,348 809,355 784,355 775,355 741,353 737,353 663,352 651,352 630,351 621,351 601,350 552,350 546,352 535,352 528,349 504,348 435,348 421,347 401,348 391,348 384,347 338,346 331,345 278,345 274,345 263,344" baseline="263,344 629,350 737,352 875,355" reason: differs: "Ilei" against "Hein" | Wikisource:  | next_nc_e1: Ileinrich Friozko, Hlans Siptenhayn, Nickil Fribe rger, Nicki
+ | german_print2_15: Ileinrich Friczko. Llans Siptenhayn, Nickil Fribe rger, Nicki
+ -->
+			<TextEquiv index="1">
+				<Unicode>Czymmerman, Nickil Hofeman, Caspar Friberger, Nickil
+Becker, Hans Arnold, Hans Allexius, Hans Stange, Nicki
+Moller, Caspar Lindaw, Mattis Baumgarte, Hannus Stobener,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r2">
+			<Coords points="709,333 734,333 734,356 709,356" />
+		</GraphicRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="262,356 418,356 418,399 262,399" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="264,356 299,356 306,360 340,361 343,370 361,357 382,357 382,364 401,362 410,359 418,359 418,373 346,373 343,373 264,371" />
+				<Baseline points="264,371 418,373" />
+				<TextEquiv index="1">
+					<Unicode>Eckhart, Nickil</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l1" points="262,387 266,387 291,385 297,384 327,383 339,383 339,390 360,390 360,383 362,383 390,384 395,390 402,390 402,399 352,399 297,398 266,397 262,397" baseline="262,396 361,398 402,399" reason: differs: "torff,P" against "Torhute" | Wikisource:  | next_nc_e1: torff, Paul Bi
+ | german_print2_15: torff, Paul Bi-
+ -->
+			<TextEquiv index="1">
+				<Unicode>Eckhart, Nickil</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="437,355 881,355 881,387 437,387" />
+			<!-- line left out: id="r4l0" points="437,359 452,359 456,365 470,360 475,360 477,366 489,364 500,364 519,366 523,374 542,364 546,364 567,367 583,368 596,367 606,367 622,361 643,361 646,368 652,368 673,369 677,376 697,363 712,363 720,372 732,368 736,368 748,370 751,364 769,355 781,355 781,371 811,368 815,368 823,374 834,371 845,371 854,372 859,373 875,375 881,376 881,377 875,381 850,381 823,380 800,379 792,379 781,378 781,387 769,387 751,368 748,379 732,379 718,378 680,378 643,378 631,378 586,376 583,382 579,382 577,373 567,376 526,376 523,376 500,375 456,375 437,374" baseline="437,374 622,375 769,378 811,379 881,381" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: orhuter, Caspar Beyer, Nickil von Garnis-
+ | german_print2_15: Forhuter, Caspar Beyer, Nickil von Garnis-
+ -->
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="403,370 416,370 416,403 403,403" />
+		</GraphicRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="421,385 879,385 879,407 421,407" />
+			<!-- line left out: id="r6l0" points="421,391 448,391 450,399 469,385 483,385 486,392 491,392 505,387 508,387 553,387 561,393 565,393 572,396 581,390 585,390 591,391 640,395 663,394 674,394 710,395 747,395 767,395 793,396 822,397 833,398 861,396 870,396 879,400 879,402 870,407 822,407 747,407 744,407 710,404 686,404 674,402 640,404 630,404 606,395 597,401 585,402 565,402 548,402 491,401 453,401 440,401 429,401 421,400" baseline="421,400 452,400 713,404 832,406 879,407" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: ich, Nickil Treffer gesworne rathmanne des
+ | german_print2_15: ich, Nickil Treffer gesworne rathmanne des
+ -->
+		</TextRegion>
+		<GraphicRegion id="r7">
+			<Coords points="488,411 595,411 595,427 488,427" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="315,431 811,431 811,560 315,560" />
+		</GraphicRegion>
+		<GraphicRegion id="r9">
+			<Coords points="422,578 448,578 448,589 422,589" />
+		</GraphicRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="165,410 881,410 881,616 165,616" />
+			<!-- line left out: id="r10l0" points="261,415 297,415 323,415 358,413 374,413 389,422 402,410 405,410 419,415 421,421 439,420 471,416 529,411 545,411 574,419 579,419 584,425 600,415 604,415 604,429 600,429 539,428 471,427 419,426 408,426 402,413 393,425 345,425 284,424 261,424" baseline="261,423 339,424 471,426 529,427 574,428 604,429" reason: differs: "ratNo.1" against "ratis (" | Wikisource:  | next_nc_e1: nuwen und alden rat No. 171
+ | german_print2_15: nuwen und alden rat No. 171
+ -->
+			<!-- line left out: id="r10l1" points="169,435 215,435 216,447 246,439 251,439 262,446 267,442 283,441 288,441 329,439 340,439 359,442 364,448 436,446 448,444 465,444 469,452 477,452 477,444 503,444 512,445 539,445 553,444 557,444 577,446 581,453 608,440 612,440 620,448 630,448 645,445 677,441 680,441 700,442 707,448 710,448 737,446 747,446 753,448 782,447 783,441 785,441 817,448 839,448 858,450 879,451 879,459 861,459 858,465 854,465 851,459 839,459 839,465 825,465 821,456 785,458 782,458 750,457 654,456 645,456 630,455 612,457 608,457 581,455 557,454 553,454 539,453 524,454 503,455 469,455 454,453 446,452 347,456 342,456 340,446 311,450 291,450 288,456 283,456 282,450 220,450 191,450 177,450 169,449" baseline="169,448 329,450 583,454 817,457 879,459" reason: differs: "1457" against "p;" " | Wikisource:  | next_nc_e1: 1457. Caspar Spri burgermeyster, Jacoff Hyldebrant, Caspar | german_print2_15: 1457. Caspar Spri burgermeyster, Jacoff Hyldebrant, Caspar -->
+			<!-- line left out: id="r10l2" points="260,466 269,466 326,468 426,463 450,463 450,473 461,469 465,469 467,463 469,463 525,465 541,467 543,473 554,472 565,472 588,473 599,479 623,470 628,470 826,469 847,469 847,476 860,470 865,470 865,477 875,477 875,486 847,486 835,486 826,485 602,481 525,481 513,481 450,480 435,480 371,478 355,478 326,477 297,477 292,483 284,483 278,475 269,476 260,476" baseline="260,476 370,477 601,480 646,481 826,485 875,486" reason: differs: "Zcym" against "aspa" | Wikisource:  | next_nc_e1: Zcymmerm Nickil Hoffeman, Ca Nicki | german_print2_15: Zcymmerm Nickil Hoffeman, Ca Nicki -->
+			<!-- line left out: id="r10l3" points="262,487 274,487 282,494 291,494 298,488 308,488 310,495 322,494 326,494 330,501 355,489 381,489 384,495 388,495 402,499 423,491 440,491 450,498 457,498 553,500 573,494 607,494 639,498 826,496 847,496 847,502 875,502 875,511 864,512 847,512 836,512 826,511 633,508 607,508 577,508 573,508 528,506 423,505 388,504 333,504 330,504 308,503 282,503 262,502" baseline="262,502 355,503 552,506 826,511 875,511" reason: differs: "Beck" against "icki" | Wikisource:  | next_nc_e1: Becker, Ians Arne uns Allexius, Nicki | german_print2_15: Becker, Hlans Arne uns Allexius, Nicki -->
+			<!-- line left out: id="r10l4" points="261,514 272,513 278,513 281,521 292,521 294,514 298,514 308,526 390,525 407,522 429,516 433,516 443,522 456,517 472,517 552,518 556,524 566,524 574,528 595,518 614,518 623,524 634,524 656,525 676,526 693,525 696,525 710,526 747,526 837,523 857,523 867,526 867,533 857,538 634,539 614,539 599,539 599,533 566,533 527,533 450,532 390,531 278,529 261,529" baseline="261,528 595,533 672,534 837,537 867,538" reason: differs: "Moll" against "icki" | Wikisource:  | next_nc_e1: Molle ar Lind Hans Tirpan ratmanne 178
+ | german_print2_15: Molle ar Lind- Hans Tirpan ratmanne 17
+ -->
+			<!-- line left out: id="r10l5" points="165,540 201,540 214,541 215,552 244,543 250,543 259,551 265,547 282,546 286,546 392,544 396,544 421,548 434,549 462,549 475,550 476,544 490,544 494,551 504,548 515,548 527,551 531,557 547,551 558,544 584,544 584,553 607,548 618,548 624,549 649,549 667,551 687,548 711,547 721,546 732,546 740,555 746,553 772,553 778,556 785,548 794,548 824,548 829,554 833,554 856,549 860,549 861,557 870,557 881,562 881,564 860,564 833,564 829,564 807,563 746,562 667,561 662,561 651,559 637,557 624,560 619,560 595,559 531,559 515,558 493,558 490,559 434,559 425,559 399,557 392,556 289,555 286,561 282,561 280,555 219,555 201,555 188,555 165,554" baseline="165,554 301,555 533,559 594,559 711,561 881,564" reason: differs: "1458" against "p;" " | Wikisource:  | next_nc_e1: 1458. Caspa burgermeister, Hans Stobener, Heinrich Friczko, | german_print2_15: 1458. Gaspa burgermeister. Hans Stobener, Heinrich Friczko. -->
+			<!-- line left out: id="r10l6" points="261,566 276,566 278,574 291,572 301,572 327,570 338,570 364,572 388,574 391,568 395,568 397,575 408,574 468,569 482,569 491,578 500,569 512,569 521,578 533,576 540,576 540,569 542,569 576,571 594,577 601,575 610,571 622,571 625,577 628,577 632,585 642,585 645,579 657,577 661,577 668,585 694,572 736,572 744,573 746,579 769,579 777,582 796,574 801,574 810,582 821,574 831,574 838,579 862,580 871,583 873,575 881,575 881,590 840,590 801,589 796,589 769,588 702,588 671,587 642,588 622,588 610,588 610,581 598,586 594,586 512,585 500,585 490,584 486,584 468,583 420,590 408,590 406,583 364,583 351,588 347,588 340,582 301,581 261,581" baseline="261,581 419,583 571,585 776,588 881,590" reason: differs: "IIan" against "zko," | Wikisource:  | next_nc_e1: IIans Siptenhay Nicolaus Friberger, Nicolaus Eckhard, | german_print2_15: Hlans Siptenhay- Nicolaus Friberger, Nicolaus Eckhard, -->
+			<!-- line left out: id="r10l7" points="259,592 274,592 277,598 281,598 336,599 344,602 370,594 375,594 381,601 389,600 398,600 403,594 407,594 410,601 422,599 432,599 491,600 512,603 524,602 528,602 541,609 548,603 575,602 580,602 641,603 680,604 710,605 715,612 745,599 752,599 763,605 772,605 782,608 787,600 795,600 798,606 820,606 881,607 881,616 873,616 856,615 820,615 787,615 772,614 763,614 750,613 745,603 718,614 715,614 670,613 612,612 601,606 598,612 590,612 545,611 528,613 524,613 512,611 508,611 432,610 403,610 375,609 370,609 336,608 288,608 277,608 259,606" baseline="259,607 343,608 575,611 717,613 827,615 881,616" reason: differs: "Nico" against "hard" | Wikisource:  | next_nc_e1: Nicolaus Torhut Caspar Czymmerman, Nicolaus von
+ | german_print2_15: Nicolaus Torhut Caspar Czymmerman, Nicolaus von
+ -->
+		</TextRegion>
+		<GraphicRegion id="r11">
+			<Coords points="435,603 463,603 463,640 435,640" />
+		</GraphicRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="467,622 880,622 880,669 467,669" />
+			<!-- line left out: id="r12l0" points="471,622 475,622 478,630 496,627 499,627 505,630 507,636 532,623 548,623 557,631 563,627 575,623 589,623 589,632 609,623 621,623 622,633 635,630 645,630 675,630 690,629 703,629 710,632 717,638 739,625 752,625 755,631 760,631 775,634 779,626 788,626 791,632 821,632 842,626 853,626 870,628 870,642 842,642 779,641 760,640 720,640 675,641 665,641 635,639 621,638 589,638 510,638 507,638 478,637 471,627" baseline="471,637 532,637 609,638 820,641 870,642" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: lich, Mattis Boumgarte, Nicolaus Tile | german_print2_15: lich, Mattis Boumgarte, Nicolaus Tile -->
+			<TextLine id="r12l1" custom="readingOrder {index:1;}">
+				<Coords points="467,648 481,648 485,654 524,652 543,655 551,658 577,650 613,650 620,658 631,656 659,657 662,663 679,664 702,650 723,650 723,657 739,659 743,652 752,652 754,658 777,658 785,660 811,652 872,652 872,659 880,659 880,669 851,669 838,669 638,665 635,658 613,666 467,663" />
+				<Baseline points="467,663 784,666 880,669" />
+				<TextEquiv index="1">
+					<Unicode>Nicolaus Hoffeman, Nicolaus Becker,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Nicolaus Hoffeman, Nicolaus Becker,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="258,620 446,620 446,636 258,636" />
+			<!-- line left out: id="r13l0" points="258,623 263,623 331,624 360,624 362,633 386,620 398,620 398,628 410,627 420,627 420,620 436,620 446,621 446,636 362,636 331,635 311,635 270,634 258,630" baseline="258,633 446,636" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Garnistorf, Paul!
+ | german_print2_15: Garnistorf, Paul h
+ -->
+		</TextRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="258,649 386,649 386,667 258,667" />
+			<!-- line left out: id="r14l0" points="258,649 263,649 284,651 360,651 366,652 386,652 386,662 366,667 361,667 360,658 323,661 307,661 307,667 295,667 294,660 284,661 274,661 258,658" baseline="258,660 349,661 386,662" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Caspar Spri
+ | german_print2_15: Caspar Spri
+ -->
+		</TextRegion>
+		<GraphicRegion id="r15">
+			<Coords points="389,650 680,650 680,696 389,696" />
+		</GraphicRegion>
+		<GraphicRegion id="r16">
+			<Coords points="387,706 422,706 422,746 387,746" />
+		</GraphicRegion>
+		<GraphicRegion id="r17">
+			<Coords points="529,790 643,790 643,795 529,795" />
+		</GraphicRegion>
+		<TextRegion id="r18" custom="readingOrder {index:18;} orientation {0;}">
+			<Coords points="161,672 879,672 879,823 161,823" />
+			<!-- line left out: id="r18l0" points="259,672 280,672 293,677 323,673 333,673 349,678 360,680 370,674 386,674 388,687 408,674 423,674 425,681 438,680 442,680 457,682 473,675 497,675 498,682 510,681 519,681 545,681 545,675 547,675 739,677 739,683 745,683 780,685 788,684 813,679 824,678 829,678 831,687 843,687 844,679 862,679 870,686 871,686 871,694 829,694 824,694 800,693 770,693 755,692 739,693 725,693 717,691 583,681 574,685 547,690 497,690 473,690 435,689 391,689 388,689 375,688 370,680 360,688 333,688 323,688 259,687" baseline="259,687 323,687 582,690 813,693 871,694" reason: differs: "Hans" against "cker" | Wikisource:  | next_nc_e1: Hans Arnold, Hlans Allexius, II Nicolaus Moller | german_print2_15: Hans Arnold. Hlans Allexius, II Nicolaus Moller -->
+			<!-- line left out: id="r18l1" points="257,701 263,701 273,709 278,704 300,704 323,705 346,699 350,699 354,705 377,705 385,700 400,700 463,701 465,707 488,707 496,710 520,701 525,701 533,712 540,708 564,708 566,701 568,701 606,717 614,717 618,711 638,708 649,708 685,709 722,704 739,704 740,712 765,710 800,710 866,709 879,709 879,720 847,720 800,718 788,719 765,719 739,718 685,718 675,718 649,717 614,718 549,718 488,716 451,716 385,715 377,714 346,714 303,713 300,719 295,719 293,713 278,714 273,714 257,711" baseline="257,713 322,713 606,716 825,719 879,720" reason: differs: "Casp" against "ller" | Wikisource:  | next_nc_e1: Caspar Linda IHlans Tirpan gesworne des nuwen und | german_print2_15: Caspar Linda Hans Tirpan gesworne des nuwen und -->
+			<!-- line left out: id="r18l2" points="256,730 270,724 287,724 295,730 329,730 336,731 345,730 357,730 366,734 443,728 464,728 476,730 476,741 450,742 443,742 357,740 295,740 256,739" baseline="256,739 476,741" reason: differs: "alde" against "n un" | Wikisource:  | next_nc_e1: alden ratis 180
+ | german_print2_15: alden ratis 180
+ -->
+			<!-- line left out: id="r18l3" points="161,751 212,751 213,763 240,753 252,751 260,751 282,756 323,755 335,755 375,758 386,759 404,759 465,759 484,759 499,760 510,761 534,759 539,759 556,760 585,754 604,754 642,756 656,758 666,759 666,769 642,770 585,770 545,768 539,769 504,769 465,770 455,770 434,768 393,767 386,772 341,772 336,772 335,766 286,766 282,772 268,772 267,765 217,766 171,766 161,765" baseline="161,765 240,765 636,769 666,770" reason: differs: "1460" against "p;" " | Wikisource:  | next_nc_e1: 1460. Caspar Springer burgermeister (No. 185
+ | german_print2_15: 1460. Caspar Springer burgermeister (No. 1586
+ -->
+			<!-- line left out: id="r18l4" points="161,777 211,777 211,789 242,777 270,777 272,783 282,783 313,781 325,781 333,782 345,786 347,778 359,778 359,786 371,784 382,784 430,783 434,783 459,785 474,786 513,786 535,783 557,783 605,781 614,781 626,782 634,787 647,794 650,785 681,785 711,785 727,788 727,781 750,781 752,787 758,787 811,787 848,787 879,790 879,798 811,798 804,798 750,797 703,797 680,797 671,794 651,797 557,797 535,797 531,790 519,794 513,795 474,797 463,797 448,795 382,794 371,794 359,793 333,793 327,793 282,792 161,792" baseline="161,791 760,797 879,798" reason: differs: "1466" against "p;" " | Wikisource:  | next_nc_e1: 1466. Hans Stobener burgermeister Hauptstaatsarch. Dresden | german_print2_15: 1466. Hans Stobener burgermeister Mauptstaatsarch. Dresden -->
+			<!-- line left out: id="r18l5" points="258,803 267,803 277,810 286,810 291,817 309,805 321,805 359,806 361,818 394,809 403,806 413,806 423,813 439,809 449,809 467,813 475,815 500,818 529,807 555,807 558,813 572,813 631,819 643,818 647,818 661,819 684,812 709,812 709,821 732,811 736,811 736,823 689,823 647,823 643,823 529,822 497,821 475,819 453,821 433,821 413,821 403,821 353,820 335,819 321,818 294,819 258,819" baseline="258,819 309,818 631,821 684,822 736,823" reason: differs: "Loc." against "esde" | Wikisource:  | next_nc_e1: Loc. 9831. Geschoss- u. Mem uch fol. 1
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r19">
+			<Coords points="571,811 641,811 641,826 571,826" />
+		</GraphicRegion>
+		<TextRegion id="r20" custom="readingOrder {index:20;} orientation {0;}">
+			<Coords points="154,829 878,829 878,1240 154,1240" />
+			<!-- line left out: id="r20l0" points="160,829 170,829 209,830 210,842 240,830 262,830 275,835 290,836 304,830 316,830 323,834 335,837 337,831 348,831 349,838 360,837 377,837 388,838 407,832 411,832 414,838 436,838 450,839 465,838 490,838 519,837 523,837 543,838 546,845 566,833 580,833 583,839 587,839 601,837 610,837 613,833 656,833 657,844 668,839 680,834 690,834 692,842 704,840 708,840 712,847 731,834 745,834 748,840 753,840 776,840 779,834 781,834 815,835 824,844 836,837 845,837 871,839 871,850 815,850 810,850 715,849 704,849 690,848 656,848 610,848 549,848 546,848 523,847 490,847 450,849 441,849 425,847 323,846 317,846 290,845 197,845 160,844" baseline="160,844 304,845 566,847 780,849 871,850" reason: differs: "1467" against "p;" " | Wikisource:  | next_nc_e1: 1467. Hans Stobener burgermeister, Nickel Becker, Nickel Eckart | german_print2_15: 1467. Hans Stobener burgermeister, Nickel Becker, Nickel Eckart -->
+			<TextLine id="r20l1" custom="readingOrder {index:1;}">
+				<Coords points="255,856 283,856 285,862 304,863 324,857 336,857 342,860 379,863 398,870 423,857 440,857 481,863 481,857 520,857 521,866 534,864 601,863 603,857 658,860 681,864 733,864 811,869 818,862 822,862 835,867 862,862 878,866 878,877 849,877 255,871" />
+				<Baseline points="255,871 482,872 878,877" />
+				<TextEquiv index="1">
+					<Unicode>Hans Stange, Mattis Bawmgart, Bartel Seinsenschmidt,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r20l2" custom="readingOrder {index:2;}">
+				<Coords points="254,882 268,882 281,887 289,881 304,881 304,889 322,889 339,882 365,882 372,891 376,891 386,896 387,889 408,887 411,896 435,883 449,883 453,890 457,890 470,884 531,885 539,893 558,891 575,885 589,888 591,898 610,889 658,889 676,893 693,886 702,886 707,892 738,889 761,893 762,886 786,886 789,893 793,893 797,901 817,888 831,888 844,896 852,888 870,888 877,894 877,898 870,903 838,903 800,903 786,903 762,903 622,900 610,895 591,901 578,900 572,889 558,900 411,899 408,890 386,898 254,897" />
+				<Baseline points="254,897 321,896 877,903" />
+				<TextEquiv index="1">
+					<Unicode>Andres Weczel, Nickel Peczold, Steffan Freiberger, Nickel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r20l3" points="258,907 269,907 275,908 294,908 296,915 307,915 307,921 326,911 343,911 352,914 376,915 412,910 438,910 447,916 457,916 459,910 470,910 472,916 477,916 492,918 493,910 503,910 505,918 514,918 533,911 549,911 549,918 556,918 560,925 570,925 572,919 595,915 606,915 622,917 628,919 642,916 657,912 660,912 663,920 675,918 678,918 682,926 708,912 720,912 720,919 743,919 745,913 770,913 780,921 792,913 801,913 803,920 816,919 824,918 828,918 859,920 866,921 877,924 877,925 866,929 859,931 849,931 812,929 792,929 770,928 682,928 653,927 628,927 618,927 607,926 595,922 570,928 549,928 533,928 505,927 477,926 438,927 376,928 364,928 352,924 310,924 307,924 294,923 258,923" baseline="258,922 326,923 685,927 877,929" reason: second model: differs: "ler.Pau" against "ler, Pa" | Wikisource: Thile, Greger Wyndisch, Jorge Scheitler, Paul Eckart ge | next_nc_e1: Thile, Greger Wyndisch, Jorge Scheitler, Paul Eckart ge- | german_print2_15: Thile, Greger Wyndisch, Jorge Scheitler. Paul Eckart ge- -->
+			<!-- line left out: id="r20l4" points="252,941 261,940 271,940 273,934 283,934 285,940 296,940 321,940 333,942 363,943 366,935 377,935 383,944 406,942 441,942 468,942 500,943 502,937 518,937 533,949 538,942 550,942 558,937 569,937 577,944 606,944 616,942 631,938 641,938 650,945 661,945 679,947 712,947 717,952 736,940 743,940 751,941 767,946 767,954 743,955 736,955 684,954 647,952 641,953 569,953 558,953 458,952 441,951 429,952 406,952 377,951 366,951 309,950 296,949 283,950 261,950 252,947" baseline="252,949 337,950 660,953 767,954" reason: second model: differs: "schw" against "art " | Wikisource: schworne des nawen und alden rathes (No. 195 | next_nc_e1: schworne des nawen und alden rathes (No. 195
+ | german_print2_15: schworne des nawen und alden rathes (N. 195
+ -->
+			<!-- line left out: id="r20l5" points="157,959 167,959 207,959 223,959 227,965 240,959 252,959 252,966 263,966 278,965 303,961 331,961 333,968 342,968 367,962 372,962 374,968 413,968 433,968 451,968 470,967 483,967 544,971 549,964 572,964 574,970 586,970 593,967 604,966 617,966 627,968 637,970 645,968 658,968 683,971 691,976 698,970 704,970 711,964 713,964 765,966 771,974 776,974 788,972 812,972 812,966 814,966 852,967 856,978 867,978 867,981 852,982 843,982 799,981 788,981 765,979 751,981 713,985 711,985 704,976 691,980 687,980 676,979 647,979 617,980 595,985 585,985 585,979 549,979 469,978 451,978 413,980 393,980 374,978 303,977 252,976 223,975 194,975 167,974 157,973" baseline="157,974 240,975 712,980 813,981 867,982" reason: differs: "1469" against "). |" | Wikisource:  | next_nc_e1: 1469.*) Paul Han burgermeist (Hauptstaatsarchie Dresden Lο | german_print2_15: 1469.) Paul Han burgermeist (Hauptstaatsarchi- Dresden Lor -->
+			<!-- line left out: id="r20l6" points="251,987 264,987 302,988 305,1000 332,991 341,988 355,988 355,994 366,994 376,989 388,989 394,997 403,994 413,994 421,999 475,989 494,989 494,995 519,995 542,996 548,994 561,990 572,990 573,996 583,996 593,990 603,990 630,995 630,1007 624,1007 572,1006 548,1006 519,1005 494,1005 475,1005 413,1002 405,1005 394,1005 341,1004 302,1003 295,1003 278,1002 264,1001 251,1001" baseline="251,1002 602,1006 630,1007" reason: differs: "9831" against "Loc." | Wikisource:  | next_nc_e1: 9831. Geschoss- Memorialbuch f
+ | german_print2_15: 9531. Geschoss- Memorialbuch S.
+ -->
+			<!-- line left out: id="r20l7" points="156,1012 194,1012 202,1013 205,1025 237,1012 243,1012 254,1013 255,1019 268,1016 296,1014 317,1014 318,1020 354,1015 359,1015 387,1020 438,1021 468,1020 473,1020 492,1022 495,1029 520,1019 531,1016 540,1016 541,1022 562,1022 588,1022 605,1016 609,1016 622,1018 642,1025 644,1016 656,1016 656,1023 664,1023 664,1033 644,1033 636,1031 609,1032 562,1037 557,1037 556,1031 540,1032 498,1032 495,1032 473,1031 438,1031 421,1031 408,1030 408,1036 387,1036 387,1030 335,1030 306,1030 255,1029 237,1028 166,1027 156,1026" baseline="156,1027 207,1027 520,1031 664,1032" reason: differs: "1471" against "p;" " | Wikisource:  | next_nc_e1: 1471. Paul Han burgermeister, Caspar Beyer, | german_print2_15: 1471. Paul Han burgermeister, Caspar Beyer, -->
+			<!-- line left out: id="r20l8" points="250,1039 258,1039 260,1047 272,1047 273,1040 284,1040 285,1046 319,1046 331,1054 336,1041 360,1041 368,1047 378,1047 378,1041 397,1041 399,1054 414,1041 430,1041 432,1049 444,1048 463,1048 474,1042 496,1042 498,1048 536,1048 547,1049 559,1042 575,1042 577,1048 581,1048 588,1050 594,1043 604,1043 606,1051 618,1043 640,1043 640,1058 638,1058 618,1047 610,1057 604,1058 547,1059 538,1059 515,1057 512,1063 507,1063 506,1057 430,1057 368,1057 304,1056 273,1055 260,1054 258,1061 250,1061" baseline="250,1054 546,1057 640,1058" reason: differs: "Joha" against "enaw" | Wikisource:  | next_nc_e1: Johann Allexii, Hans Tirpan, Nickel 1 | german_print2_15: Johann Allexii, Hans Tirpan, Nickel'1 -->
+			<TextLine id="r20l9" custom="readingOrder {index:9;}">
+				<Coords points="250,1068 273,1072 342,1070 348,1074 354,1067 359,1067 360,1073 371,1073 378,1067 391,1067 399,1073 409,1073 413,1081 426,1067 443,1067 450,1073 470,1074 491,1068 521,1068 526,1074 536,1074 538,1068 549,1068 551,1075 566,1074 577,1069 582,1069 584,1076 593,1076 609,1069 625,1070 643,1075 663,1069 672,1069 677,1077 689,1070 696,1070 706,1077 747,1070 751,1070 753,1077 775,1076 782,1074 816,1071 825,1077 859,1077 863,1082 863,1085 859,1088 844,1088 835,1086 747,1087 526,1084 521,1090 508,1090 508,1083 470,1085 459,1085 450,1083 443,1089 426,1089 413,1084 371,1082 284,1085 250,1078" />
+				<Baseline points="250,1081 863,1085" />
+				<TextEquiv index="1">
+					<Unicode>Gregor Schetler, Jurge Wyndisch, Paul Eckart, Jacuff Lange</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r20l10" points="250,1093 264,1093 277,1097 286,1092 297,1092 317,1094 357,1094 370,1098 436,1094 440,1094 462,1098 475,1098 486,1102 488,1094 503,1094 507,1100 536,1100 639,1097 675,1097 675,1108 662,1111 639,1111 539,1110 536,1116 531,1116 529,1110 488,1110 475,1109 449,1109 440,1116 436,1116 414,1109 393,1109 357,1108 348,1108 317,1107 250,1107" baseline="250,1107 326,1107 413,1108 675,1111" reason: differs: "Andr" against ", An" | Wikisource:  | next_nc_e1: Andreſs Awener ratiſskompan 219
+ | german_print2_15: Andreſs Awener ratiſskompan 219
+ -->
+			<!-- line left out: id="r20l11" points="154,1116 191,1116 204,1117 204,1129 234,1120 240,1120 283,1123 302,1124 327,1118 332,1118 336,1124 361,1119 372,1119 373,1126 384,1125 445,1120 450,1120 491,1125 533,1126 533,1120 546,1120 546,1127 558,1125 564,1125 582,1127 589,1120 591,1120 639,1122 641,1128 658,1128 692,1126 699,1126 710,1127 721,1126 730,1126 815,1126 846,1126 856,1127 856,1138 815,1138 745,1138 710,1137 699,1138 692,1138 658,1137 591,1140 546,1140 491,1140 470,1140 407,1135 283,1138 271,1138 270,1132 208,1132 204,1132 164,1131 154,1130" baseline="154,1130 207,1131 590,1136 856,1138" reason: differs: "1472" against "p;" " | Wikisource:  | next_nc_e1: 1472. Caspar Lindenaw burgermeister, Hans Stöbener, Steffe | german_print2_15: 1472. Caspar Lindenaw burgermeister, Hans Stöôbener, Steffe -->
+			<TextLine id="r20l12" custom="readingOrder {index:12;}">
+				<Coords points="250,1143 263,1143 264,1149 290,1150 291,1144 303,1144 303,1151 353,1151 359,1159 392,1146 416,1145 437,1146 439,1152 450,1152 459,1154 483,1146 501,1147 526,1152 568,1151 583,1161 619,1148 635,1149 637,1156 647,1156 650,1148 660,1148 665,1156 682,1157 707,1149 715,1148 722,1148 728,1156 758,1154 767,1148 827,1149 830,1155 862,1158 873,1161 873,1164 862,1165 820,1165 813,1165 568,1162 528,1163 489,1161 324,1163 250,1158" />
+				<Baseline points="250,1159 873,1164" />
+				<TextEquiv index="1">
+					<Unicode>Freiberger, Mathis Bomgarte, Andres Weczel, Nickel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r20l13" points="249,1169 255,1169 267,1170 269,1178 284,1176 293,1176 301,1171 311,1171 358,1171 361,1178 371,1178 373,1172 386,1172 394,1178 407,1178 418,1172 437,1172 446,1173 447,1180 453,1180 459,1172 470,1172 472,1186 489,1172 499,1172 499,1188 476,1189 437,1189 425,1189 407,1188 329,1188 318,1188 301,1187 284,1186 249,1185" baseline="249,1185 489,1188 499,1189" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: Peczold, Mathis Vlich, E | german_print2_15: Peczold, Mathis Vlich, E -->
+			<TextLine id="r20l14" custom="readingOrder {index:14;}">
+				<Coords points="246,1197 259,1197 267,1200 284,1197 298,1197 299,1203 314,1203 331,1197 352,1197 354,1203 366,1202 375,1197 377,1197 414,1198 422,1204 483,1199 489,1206 496,1203 577,1205 579,1213 603,1200 624,1201 639,1207 651,1207 667,1201 682,1201 685,1208 695,1208 697,1201 708,1201 721,1206 756,1207 766,1204 778,1204 785,1207 812,1206 872,1208 872,1217 845,1222 840,1222 785,1216 722,1218 682,1216 267,1213 246,1211" />
+				<Baseline points="246,1212 872,1217" />
+				<TextEquiv index="1">
+					<Unicode>Steffen Voit, Donat Vetterman, Hans Helbig ratiskompan</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r20l15" custom="readingOrder {index:15;}">
+				<Coords points="246,1228 256,1221 280,1221 280,1229 303,1224 355,1225 355,1240 316,1240 303,1240 246,1238" />
+				<Baseline points="246,1238 355,1240" />
+				<TextEquiv index="1">
+					<Unicode>(No. 231).</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Hans Stange, Mattis Bawmgart, Bartel Seinsenschmidt,
+Andres Weczel, Nickel Peczold, Steffan Freiberger, Nickel
+Gregor Schetler, Jurge Wyndisch, Paul Eckart, Jacuff Lange
+Freiberger, Mathis Bomgarte, Andres Weczel, Nickel
+Steffen Voit, Donat Vetterman, Hans Helbig ratiskompan
+(No. 231).</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r21">
+			<Coords points="762,882 784,882 784,908 762,908" />
+		</GraphicRegion>
+		<GraphicRegion id="r22">
+			<Coords points="687,936 770,936 770,951 687,951" />
+		</GraphicRegion>
+		<GraphicRegion id="r23">
+			<Coords points="482,969 514,969 514,982 482,982" />
+		</GraphicRegion>
+		<TextRegion id="r24" custom="readingOrder {index:24;} orientation {0;}">
+			<Coords points="667,991 699,991 699,1005 667,1005" />
+			<!-- line left out: id="r24l0" points="667,991 674,991 688,995 699,999 699,1003 681,1004 674,1005 667,1005" baseline="667,1004 699,1003" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 50.)
+ | german_print2_15: 50.)
+ -->
+		</TextRegion>
+		<GraphicRegion id="r25">
+			<Coords points="437,982 649,982 649,1010 437,1010" />
+		</GraphicRegion>
+		<TextRegion id="r26" custom="readingOrder {index:26;} orientation {0;}">
+			<Coords points="688,1022 691,1022 691,1031 688,1031" />
+			<!-- line left out: id="r26l0" points="688,1022 691,1022 691,1031 688,1031" baseline="688,1031 691,1031" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: (
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r27">
+			<Coords points="646,1034 656,1034 656,1062 646,1062" />
+		</GraphicRegion>
+		<GraphicRegion id="r28">
+			<Coords points="703,1029 705,1029 705,1034 703,1034" />
+		</GraphicRegion>
+		<TextRegion id="r29" custom="readingOrder {index:29;} orientation {0;}">
+			<Coords points="709,1018 875,1018 875,1038 709,1038" />
+			<!-- line left out: id="r29l0" points="709,1024 729,1024 752,1024 772,1018 775,1018 779,1024 801,1024 826,1024 838,1025 875,1025 875,1034 849,1034 840,1034 826,1033 746,1033 729,1038 725,1038 723,1032 709,1032" baseline="709,1032 751,1032 875,1034" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: spar Lyndenaw,
+ | german_print2_15: ispar Lyndenaw.,
+ -->
+		</TextRegion>
+		<TextRegion id="r30" custom="readingOrder {index:30;} orientation {0;}">
+			<Coords points="663,1043 793,1043 793,1060 663,1060" />
+			<!-- line left out: id="r30l0" points="663,1051 666,1051 674,1057 691,1043 696,1043 697,1052 711,1047 721,1047 756,1050 769,1044 785,1044 785,1050 793,1050 793,1059 696,1060 674,1060 663,1057" baseline="663,1057 793,1059" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: e, Johann Fre
+ | german_print2_15: e, Johann Fre
+ -->
+		</TextRegion>
+		<GraphicRegion id="r31">
+			<Coords points="788,1048 855,1048 855,1062 788,1062" />
+		</GraphicRegion>
+		<GraphicRegion id="r32">
+			<Coords points="582,1094 610,1094 610,1115 582,1115" />
+		</GraphicRegion>
+		<TextRegion id="r33" custom="readingOrder {index:33;} orientation {0;}">
+			<Coords points="512,1174 873,1174 873,1192 512,1192" />
+			<!-- line left out: id="r33l0" points="512,1178 524,1175 528,1175 531,1181 540,1179 597,1174 615,1174 618,1182 629,1180 633,1180 691,1180 737,1176 746,1176 764,1181 767,1175 779,1175 782,1181 787,1181 796,1184 811,1176 820,1176 843,1181 849,1182 873,1182 873,1192 863,1192 849,1191 820,1191 811,1191 787,1190 708,1190 700,1189 678,1189 666,1190 656,1190 633,1189 615,1189 597,1189 528,1188 512,1188" baseline="512,1188 584,1188 811,1190 873,1191" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: aſsimus Fleischawer, Andris Awner,
+ | german_print2_15: aſsimus Fleischawer, Andris Awner,
+ -->
+		</TextRegion>
+		<GraphicRegion id="r34">
+			<Coords points="499,1170 500,1170 500,1188 499,1188" />
+		</GraphicRegion>
+		<GraphicRegion id="r35">
+			<Coords points="472,1321 525,1321 525,1356 472,1356" />
+		</GraphicRegion>
+		<TextRegion id="r36" custom="readingOrder {index:36;} orientation {0;}">
+			<Coords points="586,1320 865,1320 865,1356 586,1356" />
+			<!-- line left out: id="r36l0" points="586,1325 609,1320 630,1320 641,1325 683,1332 693,1329 699,1329 704,1323 713,1323 729,1326 768,1325 771,1325 782,1326 814,1327 853,1324 856,1324 865,1326 865,1332 856,1333 782,1333 738,1333 713,1333 692,1336 683,1336 614,1332 586,1331" baseline="586,1331 865,1331" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: nNan gehören bis auf die | german_print2_15: n Nanm gehören bis auf die -->
+			<!-- line left out: id="r36l1" points="605,1345 615,1340 623,1340 649,1344 656,1348 660,1341 664,1341 677,1344 691,1344 729,1347 744,1346 766,1345 781,1344 802,1344 832,1347 848,1347 852,1353 859,1353 863,1347 864,1347 864,1354 859,1356 832,1356 793,1356 778,1356 743,1353 682,1353 674,1352 664,1353 656,1354 649,1354 623,1353 605,1353" baseline="605,1353 818,1353 864,1354" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: nd Schöffen von 1472 (vergl
+ | german_print2_15: nd Schöffen von 1472 (vergl.
+ -->
+		</TextRegion>
+		<TextRegion id="r37" custom="readingOrder {index:37;} orientation {0;}">
+			<Coords points="150,1314 480,1314 480,1375 150,1375" />
+			<!-- line left out: id="r37l0" points="193,1314 207,1314 240,1315 273,1316 314,1317 323,1318 340,1316 346,1316 356,1320 395,1320 397,1328 416,1326 425,1321 430,1321 466,1321 466,1333 462,1333 439,1331 430,1330 421,1333 416,1333 397,1331 365,1330 358,1330 280,1329 273,1328 228,1328 225,1328 193,1325" baseline="193,1327 225,1327 388,1329 466,1330" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: * Die bei Richter 2, 319, 3 | german_print2_15: *) Die bei Richter 2, 319, 3 -->
+			<!-- line left out: id="r37l1" points="150,1338 173,1334 178,1334 195,1338 205,1337 211,1337 247,1338 263,1340 293,1337 309,1337 360,1342 374,1348 378,1342 389,1338 399,1338 451,1338 472,1338 473,1345 480,1345 480,1352 442,1352 430,1352 374,1351 309,1350 247,1350 242,1350 221,1348 173,1347 150,1345" baseline="150,1346 173,1346 229,1347 480,1352" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 6 letzten (von Awener an), welche | german_print2_15: 6 leizten (von Awener an), welche -->
+			<!-- line left out: id="r37l2" points="152,1355 165,1355 198,1358 210,1357 220,1357 237,1363 245,1361 261,1357 272,1357 273,1367 288,1357 299,1357 314,1362 341,1358 345,1358 363,1358 377,1363 405,1363 428,1363 462,1365 462,1372 428,1375 412,1375 345,1373 341,1373 209,1372 203,1372 165,1369 152,1369" baseline="152,1368 190,1368 288,1369 437,1372 462,1373" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: No. 238) sind, dem Jahre 1479 a
+ | german_print2_15: No. 238) sind, dem Jahre 1479 ar
+ -->
+		</TextRegion>
+		<TextRegion id="r38" custom="readingOrder {index:38;} orientation {0;}">
+			<Coords points="529,1340 555,1340 555,1353 529,1353" />
+			<!-- line left out: id="r38l0" points="529,1340 540,1340 552,1347 555,1347 555,1353 540,1353 529,1353" baseline="529,1353 555,1353" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: tvo
+ | german_print2_15: tvo
+ -->
+		</TextRegion>
+		<GraphicRegion id="r39">
+			<Coords points="558,1324 604,1324 604,1356 558,1356" />
+		</GraphicRegion>
+		<TextRegion id="r40" custom="readingOrder {index:40;} orientation {0;}">
+			<Coords points="394,1540 658,1540 658,1568 394,1568" />
+			<!-- line left out: id="r40l0" points="394,1549 402,1549 408,1550 422,1549 434,1549 456,1549 469,1549 474,1540 481,1540 499,1540 518,1540 518,1549 525,1549 545,1553 551,1552 565,1550 600,1550 615,1551 658,1554 658,1558 615,1558 566,1560 551,1560 518,1558 518,1568 499,1568 481,1568 474,1568 474,1558 441,1561 426,1561 414,1560 407,1560 394,1558" baseline="394,1558 658,1558" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnp digial slub dresden depon 828
+ | german_print2_15: nP dgital sub dresden de pomee
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r41">
+			<Coords points="948,1057 959,1057 959,1471 948,1471" />
+		</SeparatorRegion>
+		<GraphicRegion id="r42">
+			<Coords points="944,0 972,0 972,1585 944,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+| style="vertical-align:top;" | 1455.
+|
+| Caspar Springer burgermeister, Jacuff Hillebrand, Caspar Czymmerman, Nickil Hofeman, Caspar Friberger, Nickil Becker, Hans Arnold, Hans Allexius, Hans Stange, Nickil Moller, Caspar Lindaw, Mattis Baumgarte, Hannus Stobener, Heinrich Friczko, Hans Siptenhayn, Nickil Friberger, Nickil Eckhart, Nickil Torhuter, Caspar Beyer, Nickil von Garnistorff, Paul Billich, Nickil Treffer gesworne rathmanne des nuwen und alden ratis (No. 171).
+| style="vertical-align:top;" | 1457.
+|
+| Caspar Springer burgermeyster, Jacoff Hyldebrant, Caspar Zcymmerman, Nickil Hoffeman, Caspar Friberger, Nickil Becker, Hans Arnolt, Hans Allexius, Hans Stange, Nickil Moller, Caspar Lindaw, Hans Tirpan ratmanne (No. 178).
+| style="vertical-align:top;" | 1458.
+|
+| Caspar Beyer burgermeister, Hans Stobener, Heinrich Friczko, Hans Siptenhayn, Nicolaus Friberger, Nicolaus Eckhard, Nicolaus Torhuter, Caspar Czymmerman, Nicolaus von Garnistorf, Paul Billich, Mattis Boumgarte, Nicolaus Tile, Caspar Springer, Nicolaus Hoffeman, Nicolaus Becker, Hans Arnold, Hans Allexius, Hans Stange, Nicolaus Moller, Caspar Lindaw, Hans Tirpan gesworne des nuwen und alden ratis (No. 180).
+| style="vertical-align:top;" | 1460.
+|
+| Caspar Springer burgermeister (No. 186).
+| style="vertical-align:top;" | 1466.
+|
+| Hans Stobener burgermeister (Hauptstaatsarchiv Dresden Loc. 9831. Geschoss- u. Memorialbuch fol. 1.)
+| style="vertical-align:top;" | 1467.
+|
+| Hans Stobener burgermeister, Nickel Becker, Nickel Eckart, Hans Stange, Mattis Bawmgart, Bartel Seinsenschmidt, Andres Weczel, Nickel Peczold, Steffan Freiberger, Nickel Thile, Greger Wyndisch, Jorge Scheitler, Paul Eckart geschworne des nawen und alden rathes (No. 195).
+| style="vertical-align:top;" | 1469.
+| style="vertical-align:top;" |⟦⟧
+| Paul Han burgermeister. (Hauptstaatsarchiv Dresden Loc. 9831. Geschoss- u. Memorialbuch fol 50.)
+| style="vertical-align:top;" | 1471.
+|
+| Paul Han burgermeister, Caspar Beyer, Caspar Lyndenaw, Johann Allexii, Hans Tirpan, Nickel Tile, Johann Freiberger, Gregor Schetler, Jurge Wyndisch, Paul Eckart, Jacuff Lange, Andreß Awener ratißkompan (No. 219).
+| style="vertical-align:top;" | 1472.
+|
+| Caspar Lindenaw burgermeister, Hans Stöbener, Steffen Freiberger, Mathis Bomgarte, Andres Weczel, Nickel Peczold, Mathis Vlich, Eraßimus Fleischawer, Andris Awner, Steffen Voit, Donat Vetterman, Hans Helbig ratiskompan (No. 231).
+-->
+	</Page>
+</PcGts>

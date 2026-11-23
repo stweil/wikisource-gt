@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:25:04</Created>
+		<LastChange>2026-11-23T14:25:04</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/145 revision 4773976 of 2025-12-31T07:48:30Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0145.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro8631285064102970138" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="30,1138 46,1138 46,1466 30,1466" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="56,310 771,310 771,355 56,355" />
+			<!-- line left out: id="r1l0" points="56,325 89,325 92,333 131,333 155,321 174,316 200,316 200,324 228,324 231,331 251,330 270,330 274,320 313,320 317,328 381,326 425,326 426,316 452,316 495,315 505,315 507,324 534,324 556,312 614,312 618,321 682,320 709,320 712,310 724,310 743,313 744,320 771,320 771,340 743,341 680,341 666,342 637,343 586,344 471,346 425,348 336,349 313,350 270,351 228,352 200,353 111,354 89,355 56,355" baseline="56,355 130,353 155,353 470,345 533,344 556,344 771,339" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Der Getreidemarkt in Chemnitz.
+ | german_print2_15: Der Getreidemarkt in Chemnitz.
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="396,386 424,386 424,399 396,399" />
+			<!-- line left out: id="r2l0" points="396,387 405,386 414,386 424,391 424,397 404,399 396,399" baseline="396,399 424,397" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Von
+ | german_print2_15: Von
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="338,431 486,431 486,446 338,446" />
+			<!-- line left out: id="r3l0" points="338,431 352,431 355,443 373,432 385,432 474,432 486,433 486,443 445,444 417,444 399,445 358,445 352,446 338,446" baseline="338,446 357,445 486,442" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: A. SAMMLER.
+ | german_print2_15: A. SAMMLER.
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="58,490 795,490 795,1304 58,1304" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="108,502 136,502 137,510 159,508 160,501 171,501 173,509 184,507 223,509 225,500 230,500 232,507 261,503 272,500 282,500 284,506 333,502 345,502 355,504 375,503 390,497 397,497 399,503 410,503 411,497 456,502 464,496 492,498 503,502 518,495 530,495 546,500 592,500 608,493 619,493 620,499 706,499 707,491 734,491 753,496 753,490 766,490 767,497 775,497 775,505 721,507 667,506 666,513 654,513 631,509 399,513 397,519 390,519 375,513 108,518" />
+				<Baseline points="108,518 775,505" />
+				<TextEquiv index="1">
+					<Unicode>Nachdem die Chemnitzer Jahrmärkte ihre in das gewerbliche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l1" points="59,529 89,529 101,529 132,530 148,534 150,528 161,528 163,534 180,533 185,533 203,533 216,526 229,526 236,534 242,531 253,531 292,528 297,528 305,529 313,528 322,528 363,530 385,530 397,529 405,526 416,526 440,529 442,522 447,522 448,530 458,530 471,522 484,522 497,521 507,521 516,527 527,525 540,525 596,526 611,527 612,520 626,520 648,525 687,524 699,523 720,523 722,517 747,517 748,525 759,522 775,522 775,532 747,533 710,534 676,536 666,536 657,535 626,535 605,535 576,539 560,539 547,537 458,538 416,539 374,541 365,541 311,540 305,541 253,542 234,542 203,543 185,543 132,544 101,545 82,545 59,545" baseline="59,545 100,544 202,542 471,537 589,535 775,532" reason: second model: differs: "nac.hde" against "nachdem" | Wikisource: Leben früherer Zeiten tief eingreifende Bedeutung verloren, nachdem | next_nc_e1: Leben früherer Zeiten tief eingreifende Bedeutung verloren, nac hdem | german_print2_15: Leben früherer Zeiten tief eingreifende Bedeutung verloren, nac. hdem -->
+			<!-- line left out: id="r4l2" points="58,556 69,556 77,563 101,555 111,555 123,560 136,554 147,554 155,561 172,560 179,553 192,553 232,559 237,559 239,566 257,552 265,552 267,565 286,557 293,553 304,553 314,556 346,559 347,551 359,551 371,556 381,559 387,551 408,550 413,550 438,550 438,558 445,558 453,549 460,548 471,548 473,554 484,554 494,556 515,555 522,548 535,548 535,555 558,553 567,551 572,551 585,554 592,547 606,547 612,552 633,552 633,546 645,546 646,553 658,551 683,547 694,545 703,545 711,544 723,544 725,550 736,549 748,549 749,543 754,543 755,551 766,548 776,548 776,558 754,559 748,564 736,564 723,560 711,560 689,559 668,561 645,562 628,562 585,563 558,563 535,557 535,563 494,564 438,565 413,565 396,566 341,566 314,572 304,572 296,567 270,568 267,568 265,574 257,574 243,568 210,569 170,570 123,570 75,571 58,571" baseline="58,571 101,570 395,565 444,564 558,562 776,558" reason: second model: differs: "dieV" against "chde" | Wikisource: die Viehmärkte i. J. 1870 durch Beschluss der städtischen Collegien | next_nc_e1: die Viehmärkte i. J. 1870 durch Besc hluss der städtischen Collegien | german_print2_15: die Viehmärkte i. J. 1870 durch Besce hluss der städtischen Collegien -->
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="59,582 71,582 72,588 108,581 146,580 147,588 156,588 177,579 183,579 183,586 195,582 231,585 233,579 245,579 245,587 257,584 267,584 289,578 294,578 295,584 307,578 317,578 321,584 380,581 388,576 449,575 450,582 489,579 505,574 510,574 512,582 567,577 604,579 623,573 634,572 646,572 669,577 686,577 688,571 699,571 701,578 712,576 751,575 752,569 764,569 776,573 776,586 418,592 380,592 371,589 353,596 317,593 245,594 192,599 177,599 156,593 146,596 108,597 83,589 83,597 59,597" />
+				<Baseline points="59,597 776,585" />
+				<TextEquiv index="1">
+					<Unicode>ihr Ende gefunden haben, steht der Chemnitzer Getreidemarkt,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l4" custom="readingOrder {index:4;}">
+				<Coords points="60,614 152,613 159,606 169,606 185,612 233,611 240,605 251,605 259,611 283,611 301,604 310,604 314,613 322,609 351,610 370,603 390,603 409,608 409,602 417,602 422,608 428,602 439,602 441,609 451,609 451,602 462,602 491,607 515,608 521,601 549,603 649,604 658,598 670,598 690,603 707,597 749,596 754,596 756,603 776,603 776,611 670,614 658,614 649,612 620,615 564,616 556,622 545,622 532,616 110,623 72,623 60,623" />
+				<Baseline points="60,623 776,611" />
+				<TextEquiv index="1">
+					<Unicode>wenn auch in anderer Form als früher, noch jetzt in voller Blüthe.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l5" custom="readingOrder {index:5;}">
+				<Coords points="63,634 158,640 160,632 165,632 167,638 177,638 211,637 223,631 246,631 248,637 260,637 264,631 274,631 300,636 337,636 339,630 344,630 346,638 361,633 451,633 472,635 473,627 526,627 550,631 575,633 577,626 588,626 590,633 613,630 637,632 648,624 655,624 657,631 668,631 669,624 703,624 735,629 735,623 747,623 770,626 778,629 778,636 770,638 657,640 655,647 648,647 637,641 618,641 87,649 63,649" />
+				<Baseline points="63,649 778,638" />
+				<TextEquiv index="1">
+					<Unicode>Da nun dieser Markt mindestens seit der Mitte des 16. Jahrhunderts</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l6" custom="readingOrder {index:6;}">
+				<Coords points="61,666 79,666 91,660 147,665 154,658 158,658 161,664 237,664 238,657 249,657 251,664 264,664 292,662 300,656 344,656 345,664 369,655 387,656 390,662 399,662 400,655 412,655 428,660 430,654 442,654 450,660 464,660 472,663 486,654 491,654 494,661 511,657 526,657 544,661 545,653 556,653 564,659 598,652 603,652 605,659 616,656 629,656 631,665 651,658 683,657 684,650 695,650 697,659 709,656 752,656 752,649 765,649 778,654 778,664 634,668 576,672 511,669 503,667 491,669 464,670 337,672 283,671 72,676 61,676" />
+				<Baseline points="61,675 778,664" />
+				<TextEquiv index="1">
+					<Unicode>nicht mehr nur das örtliche Bedürfniss befriedigt hat, sondern der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l7" custom="readingOrder {index:7;}">
+				<Coords points="63,687 79,686 102,689 115,693 117,685 121,685 124,691 159,691 162,685 205,684 206,692 250,684 260,684 284,689 306,689 309,682 314,682 315,690 326,682 337,682 339,688 361,688 363,682 392,681 395,690 401,690 421,684 448,686 463,680 475,680 476,687 522,685 559,687 581,684 606,684 625,678 648,678 650,684 668,683 674,677 694,676 705,676 707,684 725,685 740,675 760,675 773,680 779,685 779,690 648,694 559,694 537,695 527,700 475,696 205,699 147,701 135,706 124,706 115,700 79,702 63,701" />
+				<Baseline points="63,701 779,691" />
+				<TextEquiv index="1">
+					<Unicode>Mittelpunkt des Getreidehandels für den grösseren Theil des Erz-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l8" custom="readingOrder {index:8;}">
+				<Coords points="61,721 67,719 77,719 86,712 90,712 93,718 172,718 219,716 229,710 239,710 247,716 277,713 298,713 300,722 335,715 400,715 408,707 419,707 421,713 473,714 568,711 570,705 581,705 583,713 594,711 652,708 660,704 672,704 673,717 695,709 718,708 727,711 746,702 758,702 759,708 779,707 779,717 677,722 444,722 438,715 430,722 419,723 304,726 197,725 172,730 115,730 103,728 72,727 72,733 61,733" />
+				<Baseline points="61,727 779,717" />
+				<TextEquiv index="1">
+					<Unicode>gebirges geworden ist, so erschien es wünschenswerth, aus den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l9" points="61,731 72,731 74,739 91,738 102,738 103,744 120,744 132,745 134,738 144,738 147,744 176,743 199,743 201,737 211,737 227,750 231,737 247,737 259,740 302,743 305,735 315,735 323,744 330,744 346,734 351,734 365,735 374,734 386,734 389,741 402,741 409,739 423,739 430,733 440,733 442,739 461,739 471,740 485,741 495,731 508,731 525,741 531,732 541,732 543,738 557,738 571,744 577,738 589,737 647,737 654,730 667,730 667,738 678,736 703,735 726,735 728,729 739,729 780,734 780,744 726,745 689,746 667,746 647,746 636,747 541,748 508,752 495,752 485,746 471,748 453,749 402,750 315,751 283,751 259,752 199,753 132,754 72,755 61,755" baseline="61,754 329,750 688,745 751,744 780,744" reason: differs: "Urku" against "⟦⟧ z" | Wikisource:  | next_nc_e1: Urkunden und Acten des Rathsarchives ) das auszuziehen und zu- | german_print2_15: Urkunden und Acten des Rathsarchives') das auszuziehen und zu- -->
+			<TextLine id="r4l10" custom="readingOrder {index:10;}">
+				<Coords points="62,773 71,771 132,770 165,770 174,773 176,767 194,763 206,763 208,772 219,769 230,769 231,776 250,768 352,767 365,761 391,766 392,760 416,760 424,768 436,760 446,760 478,767 492,759 503,759 505,765 510,765 551,758 554,766 566,758 579,758 581,765 592,764 599,758 611,758 631,763 660,764 673,756 685,756 686,763 705,764 715,755 743,755 744,762 780,760 780,770 597,774 423,775 328,777 235,781 231,781 206,778 94,781 71,781 62,780" />
+				<Baseline points="62,781 780,770" />
+				<TextEquiv index="1">
+					<Unicode>sammenzustellen, was einen Einblick in die Verhältnisse des Chem-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l11" points="63,798 70,797 82,795 88,795 136,793 147,790 158,790 170,794 181,796 203,796 205,789 225,789 225,795 234,795 257,795 257,789 268,789 282,793 302,797 307,801 328,794 379,793 393,793 432,792 437,792 443,794 450,786 460,786 574,790 594,790 614,784 627,784 628,792 640,787 667,782 673,782 673,789 683,789 690,790 700,787 713,782 725,782 734,786 742,785 753,785 781,786 781,798 771,798 753,797 734,798 712,798 683,801 667,801 594,800 574,800 460,802 437,802 393,802 354,803 307,804 282,804 234,805 181,805 114,808 112,808 103,807 68,808 63,808" baseline="63,807 113,806 306,803 379,802 459,801 781,796" reason: differs: "hinrerZ" against "in früh" | Wikisource:  | next_nc_e1: nitzer Getreidemarktes, wie sie sich in rer Zeit gestalteten, | german_print2_15:  -->
+			<TextLine id="r4l12" custom="readingOrder {index:12;}">
+				<Coords points="64,824 113,824 114,817 126,817 136,825 147,822 156,822 174,816 185,816 186,824 219,819 231,819 244,828 280,814 285,814 294,822 315,820 317,814 328,814 331,820 367,818 373,822 381,813 399,813 401,821 412,819 445,821 447,812 458,812 460,820 469,820 484,811 500,811 520,816 539,818 543,811 554,811 555,817 646,816 668,818 668,811 685,811 693,809 705,809 727,812 783,813 783,828 735,828 705,825 573,829 458,828 126,833 76,832 75,838 64,838" />
+				<Baseline points="64,833 783,823" />
+				<TextEquiv index="1">
+					<Unicode>gewähren könnte. Leider fehlen die Unterlagen zur Anfertigung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l13" custom="readingOrder {index:13;}">
+				<Coords points="64,851 87,847 99,847 105,850 116,847 144,850 151,843 155,843 157,849 181,848 192,842 226,842 230,849 238,849 238,841 258,841 260,849 271,847 300,847 301,841 323,841 349,847 356,840 367,840 368,847 420,845 428,839 447,839 456,845 478,846 488,839 504,839 514,844 556,845 566,837 578,837 586,844 598,844 612,836 629,836 630,842 676,840 712,843 728,835 733,835 752,840 753,834 765,834 783,839 783,850 712,853 537,852 468,857 456,857 447,855 440,857 428,857 420,854 99,860 74,860 64,858" />
+				<Baseline points="64,860 349,855 783,850" />
+				<TextEquiv index="1">
+					<Unicode>statistischer Tabellen über die jeweilige Grösse des Umsatzes, leider</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l14" points="65,871 77,871 93,874 125,870 141,870 143,876 161,869 172,869 201,868 215,868 218,874 241,874 272,874 275,867 286,867 287,875 298,867 316,867 324,875 335,871 357,866 368,866 370,875 381,872 386,866 401,866 408,872 456,869 461,869 468,873 475,865 487,865 495,869 497,878 511,870 538,868 543,868 591,869 650,869 657,868 690,863 705,863 773,866 774,860 784,860 784,876 750,876 741,882 728,882 705,878 668,879 650,882 638,882 591,880 501,881 487,881 461,881 401,882 368,882 322,882 316,883 286,883 272,888 262,888 260,882 247,883 241,884 215,884 141,885 93,886 65,886" baseline="65,886 145,884 411,881 500,880 784,876" reason: differs: "rautell" against "rausges" | Wikisource:  | next_nc_e1: hat sich die Unmöglichkeit herau tellt, mit nur einigem Anspruch | german_print2_15: hat sich die Unmöglichkeit herau- tellt, mit nur einigem Anspruch -->
+			<!-- line left out: id="r4l15" points="66,903 84,899 108,896 126,896 147,896 416,894 421,894 427,900 445,895 452,895 459,897 479,897 481,891 492,891 493,899 505,897 525,897 538,896 543,896 612,896 625,897 626,890 638,890 639,897 651,895 676,894 697,894 712,888 723,888 724,894 737,893 775,892 784,892 784,902 762,903 723,904 685,905 625,905 612,907 601,907 594,906 577,906 563,900 557,904 543,906 525,906 512,906 510,912 505,912 492,906 479,907 459,907 406,908 147,911 126,911 94,912 66,912" baseline="66,912 108,911 562,905 784,902" reason: differs: "aufV" against "pruc" | Wikisource:  | next_nc_e1: auf Vollst n Getreidepreise angeben zu können
+ | german_print2_15: auf Vollst ſn Getreidepreise angeben zu können
+ -->
+			<TextLine id="r4l16" custom="readingOrder {index:16;}">
+				<Coords points="99,930 125,928 153,928 163,921 173,921 184,928 207,925 261,927 269,920 280,920 281,928 303,926 305,919 335,919 337,926 409,924 417,918 427,918 427,925 474,919 496,923 504,917 516,917 518,925 540,923 550,916 562,916 563,922 606,923 607,916 619,916 663,921 685,921 695,914 714,914 716,920 728,917 756,919 757,913 767,913 785,913 785,930 607,931 603,926 583,932 496,933 474,937 383,933 316,935 247,934 236,941 225,941 223,932 213,936 173,938 99,937" />
+				<Baseline points="99,937 785,930" />
+				<TextEquiv index="1">
+					<Unicode>es wird, entsprechend dem von den Quellen dargebotenen Material,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l17" custom="readingOrder {index:17;}">
+				<Coords points="68,956 79,954 90,954 99,956 112,948 124,948 125,955 153,954 169,947 199,947 203,953 236,952 238,946 249,946 250,957 262,954 307,952 322,945 334,945 335,953 370,945 391,945 451,950 606,948 607,942 618,942 626,948 732,946 733,953 752,946 785,945 785,955 759,955 737,959 678,957 560,959 419,959 417,965 405,965 334,961 249,961 213,965 203,965 174,963 68,964" />
+				<Baseline points="68,964 785,955" />
+				<TextEquiv index="1">
+					<Unicode>aus dem Folgenden in der Hauptsache nur zu erkennen sein, von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l18" custom="readingOrder {index:18;}">
+				<Coords points="69,981 144,980 146,974 246,980 253,973 258,973 260,979 278,978 299,972 315,972 321,980 333,977 377,979 378,971 383,971 385,977 401,977 416,970 428,971 450,976 450,970 484,970 484,984 490,984 499,977 502,970 515,970 515,976 521,976 535,969 593,969 600,972 612,974 619,968 652,968 654,974 692,973 693,966 711,966 719,972 730,972 730,966 741,966 756,973 762,966 774,966 776,973 787,973 787,981 730,983 711,988 693,988 681,984 652,983 515,986 315,987 133,990 81,990 69,990" />
+				<Baseline points="69,990 787,981" />
+				<TextEquiv index="1">
+					<Unicode>wem und in welcher Weise die Privilegien der Stadt bezüglich des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l19" custom="readingOrder {index:19;}">
+				<Coords points="70,1002 93,1001 105,1003 112,1006 137,1006 139,1000 144,1000 146,1008 157,1005 192,1005 196,999 207,999 214,1003 256,1011 258,1005 288,1005 301,1003 344,1002 407,1002 409,996 418,996 451,1002 474,1001 483,996 495,996 507,999 525,1000 527,1009 549,1001 606,1002 608,994 618,994 620,1000 630,1000 630,994 642,994 643,1001 663,999 677,993 706,993 707,999 776,998 777,992 787,992 787,1008 530,1012 349,1013 288,1015 214,1014 105,1016 95,1016 70,1013" />
+				<Baseline points="70,1016 787,1008" />
+				<TextEquiv index="1">
+					<Unicode>Getreidemarktes angefochten oder verletzt, in welcher Weise und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l20" custom="readingOrder {index:20;}">
+				<Coords points="72,1032 103,1030 137,1033 144,1025 149,1025 151,1033 161,1025 173,1025 174,1033 185,1031 201,1031 216,1025 265,1025 267,1031 365,1029 395,1030 397,1023 407,1023 422,1028 437,1022 444,1022 473,1028 474,1022 488,1022 501,1028 508,1028 517,1021 546,1022 548,1029 569,1028 571,1021 582,1021 590,1027 602,1025 666,1026 666,1020 680,1020 680,1026 700,1026 700,1036 602,1039 517,1039 508,1037 437,1038 422,1031 416,1031 407,1038 277,1041 103,1042 72,1042" />
+				<Baseline points="72,1041 700,1036" />
+				<TextEquiv index="1">
+					<Unicode>mit welchem Erfolge sie von der Stadt vertheidigt wurden.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l21" custom="readingOrder {index:21;}">
+				<Coords points="125,1052 216,1050 218,1057 345,1051 349,1058 381,1055 403,1056 404,1049 468,1048 536,1055 548,1048 560,1048 567,1054 600,1054 600,1047 619,1047 620,1053 630,1053 631,1047 664,1046 671,1054 684,1054 693,1047 718,1046 726,1044 738,1044 770,1044 778,1051 789,1051 789,1056 777,1060 758,1061 619,1063 611,1066 560,1064 536,1069 525,1069 519,1063 434,1065 357,1064 329,1066 125,1067" />
+				<Baseline points="125,1067 789,1060" />
+				<TextEquiv index="1">
+					<Unicode>Wann Chemnitz ein besonderes Privileg bezüglich des Getreide-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l22" custom="readingOrder {index:22;}">
+				<Coords points="73,1085 108,1084 113,1078 130,1081 146,1087 176,1082 186,1082 190,1076 195,1076 197,1083 206,1083 207,1076 244,1076 244,1082 268,1076 279,1076 281,1083 292,1080 298,1080 300,1090 323,1082 385,1081 395,1083 402,1075 424,1075 426,1082 459,1081 478,1075 495,1075 497,1081 509,1081 510,1075 524,1075 564,1080 566,1074 574,1074 574,1080 621,1080 623,1073 640,1073 641,1079 676,1079 678,1073 689,1073 690,1079 733,1078 735,1071 745,1071 747,1077 758,1077 758,1071 770,1071 790,1076 790,1085 780,1087 621,1090 552,1095 531,1095 337,1091 303,1095 300,1095 206,1092 73,1094" />
+				<Baseline points="73,1094 790,1086" />
+				<TextEquiv index="1">
+					<Unicode>marktes erhalten hat, von welchem Markgrafen ihm ein solches</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l23" custom="readingOrder {index:23;}">
+				<Coords points="73,1111 104,1111 106,1105 110,1105 112,1111 122,1111 130,1104 134,1104 142,1111 154,1109 220,1108 222,1102 227,1102 229,1108 286,1107 287,1116 305,1103 317,1103 318,1109 350,1109 351,1103 356,1103 359,1109 415,1107 417,1101 425,1101 425,1107 434,1107 436,1101 446,1101 448,1107 562,1107 570,1109 583,1100 595,1100 603,1106 640,1101 650,1101 662,1105 674,1106 675,1099 688,1099 711,1104 726,1097 730,1097 762,1097 777,1100 790,1105 790,1113 662,1115 650,1120 640,1120 638,1113 618,1116 562,1117 291,1119 190,1117 104,1121 91,1121 73,1120" />
+				<Baseline points="73,1121 162,1118 790,1113" />
+				<TextEquiv index="1">
+					<Unicode>verliehen worden ist, darüber erfahren wir aus den Quellen nichts.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l24" custom="readingOrder {index:24;}">
+				<Coords points="72,1145 83,1145 84,1132 136,1130 152,1130 156,1138 168,1135 193,1136 200,1129 211,1129 212,1136 224,1134 259,1135 259,1128 271,1128 272,1136 293,1134 295,1128 306,1128 307,1136 325,1133 341,1133 342,1142 371,1137 387,1136 404,1131 461,1134 462,1128 492,1128 498,1133 516,1127 530,1127 536,1133 580,1129 645,1132 668,1131 685,1125 698,1125 704,1130 715,1131 729,1125 744,1125 786,1129 787,1136 790,1136 790,1142 752,1140 645,1140 645,1146 579,1142 342,1145 259,1143 248,1140 246,1146 152,1145 103,1147 84,1143 83,1149 72,1149" />
+				<Baseline points="72,1147 790,1139" />
+				<TextEquiv index="1">
+					<Unicode>„Seit Menschengedenken“, „seit uralten Zeiten“, sagen die Acten,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l25" custom="readingOrder {index:25;}">
+				<Coords points="72,1166 93,1164 127,1157 137,1157 139,1164 151,1162 186,1161 194,1159 245,1160 267,1162 269,1154 281,1154 288,1162 313,1160 338,1155 354,1155 396,1162 401,1154 442,1154 451,1160 483,1160 484,1154 490,1154 492,1161 531,1158 644,1158 676,1151 691,1151 716,1156 716,1150 727,1150 748,1156 754,1156 754,1150 766,1150 768,1156 792,1155 792,1165 603,1168 578,1169 566,1173 503,1172 478,1169 450,1175 438,1175 286,1168 281,1170 72,1174" />
+				<Baseline points="72,1174 228,1170 792,1165" />
+				<TextEquiv index="1">
+					<Unicode>sei Chemnitz in dieser Hinsicht privilegirt gewesen. Auch über</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l26" custom="readingOrder {index:26;}">
+				<Coords points="73,1184 85,1184 86,1192 108,1190 124,1184 139,1183 150,1183 152,1190 161,1190 163,1182 173,1182 196,1189 203,1181 213,1181 223,1191 244,1180 288,1186 289,1180 314,1180 314,1186 328,1188 343,1181 355,1181 356,1187 366,1187 367,1181 379,1181 380,1188 391,1186 451,1186 469,1180 474,1180 474,1188 493,1186 545,1185 545,1179 557,1179 559,1185 567,1185 590,1182 683,1177 697,1177 711,1182 733,1182 746,1176 758,1176 766,1182 775,1182 782,1176 792,1176 792,1191 733,1193 680,1192 679,1198 662,1198 654,1194 510,1196 427,1195 320,1197 289,1197 280,1195 108,1200 85,1200 73,1200" />
+				<Baseline points="73,1200 792,1191" />
+				<TextEquiv index="1">
+					<Unicode>den Inhalt des Privilegs haben wir keine directen Angaben, doch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l27" custom="readingOrder {index:27;}">
+				<Coords points="75,1210 80,1210 81,1217 115,1214 139,1220 146,1215 156,1217 163,1209 174,1209 189,1215 194,1208 206,1208 222,1213 236,1214 244,1207 262,1207 264,1214 288,1212 311,1212 319,1214 333,1206 345,1206 346,1213 368,1212 382,1219 387,1208 403,1208 415,1210 593,1209 620,1203 637,1203 638,1209 656,1209 656,1203 672,1203 686,1209 692,1209 692,1202 699,1202 700,1208 749,1208 763,1202 770,1202 794,1204 794,1217 738,1218 733,1212 722,1218 593,1222 311,1222 91,1226 75,1226" />
+				<Baseline points="75,1225 794,1217" />
+				<TextEquiv index="1">
+					<Unicode>lässt sich derselbe aus den Acten reconstruiren. Nach diesen hat</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l28" custom="readingOrder {index:28;}">
+				<Coords points="76,1238 97,1236 99,1244 147,1238 158,1238 169,1241 183,1234 194,1234 201,1240 215,1240 227,1233 232,1233 246,1235 259,1240 266,1233 306,1238 318,1232 324,1232 325,1238 336,1238 336,1232 348,1232 362,1236 363,1245 381,1238 417,1238 425,1232 435,1232 437,1238 467,1238 467,1232 473,1232 474,1239 486,1235 521,1232 530,1232 532,1238 543,1235 577,1237 578,1231 590,1231 644,1235 659,1240 659,1229 673,1228 678,1228 680,1235 702,1234 711,1228 727,1228 727,1234 750,1234 751,1228 763,1228 794,1233 794,1243 550,1248 336,1248 306,1250 246,1249 120,1252 87,1252 76,1251" />
+				<Baseline points="76,1252 214,1249 794,1243" />
+				<TextEquiv index="1">
+					<Unicode>Chemnitz das Recht gehabt, ungehindert Getreide aus allen Ländern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l29" custom="readingOrder {index:29;}">
+				<Coords points="75,1269 128,1263 133,1263 146,1268 148,1262 160,1262 169,1267 192,1266 194,1274 223,1266 260,1265 295,1259 306,1259 320,1263 347,1264 348,1258 360,1258 367,1264 392,1264 393,1258 405,1258 422,1264 481,1264 481,1258 493,1258 494,1265 504,1265 504,1258 517,1258 517,1265 578,1263 579,1257 590,1257 615,1262 615,1256 665,1255 691,1255 715,1255 724,1258 795,1258 795,1269 566,1274 306,1274 197,1278 194,1278 114,1278 82,1278 75,1277" />
+				<Baseline points="75,1278 284,1274 795,1269" />
+				<TextEquiv index="1">
+					<Unicode>einzuführen, einen Getreidezoll zu erheben und das Abhalten von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l30" custom="readingOrder {index:30;}">
+				<Coords points="76,1289 100,1289 144,1294 144,1288 180,1293 201,1292 203,1286 214,1286 228,1290 287,1291 289,1285 323,1284 324,1292 345,1290 366,1284 390,1284 419,1286 439,1290 489,1290 489,1284 526,1282 612,1282 707,1286 727,1281 741,1280 759,1280 791,1285 792,1292 795,1292 795,1296 593,1299 589,1301 323,1300 146,1304 85,1304 76,1303" />
+				<Baseline points="76,1304 311,1300 795,1296" />
+				<TextEquiv index="1">
+					<Unicode>Getreidemärkten auf den Kloster- und Amtsdörfern zu verbieten.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Nachdem die Chemnitzer Jahrmärkte ihre in das gewerbliche
+ihr Ende gefunden haben, steht der Chemnitzer Getreidemarkt,
+wenn auch in anderer Form als früher, noch jetzt in voller Blüthe.
+Da nun dieser Markt mindestens seit der Mitte des 16. Jahrhunderts
+nicht mehr nur das örtliche Bedürfniss befriedigt hat, sondern der
+Mittelpunkt des Getreidehandels für den grösseren Theil des Erz-
+gebirges geworden ist, so erschien es wünschenswerth, aus den
+sammenzustellen, was einen Einblick in die Verhältnisse des Chem-
+gewähren könnte. Leider fehlen die Unterlagen zur Anfertigung
+statistischer Tabellen über die jeweilige Grösse des Umsatzes, leider
+es wird, entsprechend dem von den Quellen dargebotenen Material,
+aus dem Folgenden in der Hauptsache nur zu erkennen sein, von
+wem und in welcher Weise die Privilegien der Stadt bezüglich des
+Getreidemarktes angefochten oder verletzt, in welcher Weise und
+mit welchem Erfolge sie von der Stadt vertheidigt wurden.
+Wann Chemnitz ein besonderes Privileg bezüglich des Getreide-
+marktes erhalten hat, von welchem Markgrafen ihm ein solches
+verliehen worden ist, darüber erfahren wir aus den Quellen nichts.
+„Seit Menschengedenken“, „seit uralten Zeiten“, sagen die Acten,
+sei Chemnitz in dieser Hinsicht privilegirt gewesen. Auch über
+den Inhalt des Privilegs haben wir keine directen Angaben, doch
+lässt sich derselbe aus den Acten reconstruiren. Nach diesen hat
+Chemnitz das Recht gehabt, ungehindert Getreide aus allen Ländern
+einzuführen, einen Getreidezoll zu erheben und das Abhalten von
+Getreidemärkten auf den Kloster- und Amtsdörfern zu verbieten.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="125,1342 441,1342 441,1362 125,1362" />
+			<!-- line left out: id="r5l0" points="125,1343 129,1343 131,1349 147,1345 153,1345 176,1349 185,1351 199,1344 212,1344 232,1346 262,1346 263,1354 278,1343 298,1342 342,1342 347,1342 374,1345 377,1353 394,1344 403,1344 403,1351 420,1345 435,1345 441,1347 441,1355 381,1356 295,1356 266,1357 237,1357 226,1357 199,1356 176,1362 171,1362 135,1361 131,1361 125,1350" baseline="125,1357 184,1356 312,1355 441,1355" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ¹) Cap. V Sect. XII Nr. 1. 2. 10.
+ | german_print2_15: ²) Cap. V Sect. XII Nr. 1. 2. 10.
+ -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="394,1549 635,1549 635,1561 394,1561" />
+			<!-- line left out: id="r6l0" points="394,1549 402,1549 408,1550 422,1549 434,1549 456,1549 469,1549 499,1549 548,1549 554,1550 571,1550 614,1549 617,1549 635,1549 635,1556 629,1558 571,1560 452,1561 441,1561 426,1561 415,1560 407,1560 394,1558" baseline="394,1558 614,1557 635,1557" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnpdigital slub-dresden delppn301 259642
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r7">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+⟦⟧
+Nachdem die Chemnitzer Jahrmärkte ihre in das gewerbliche
+Leben früherer Zeiten tief eingreifende Bedeutung verloren, nachdem
+die Viehmärkte i. J. 1870 durch Beschluss der städtischen Collegien
+ihr Ende gefunden haben, steht der Chemnitzer Getreidemarkt,
+wenn auch in anderer Form als früher, noch jetzt in voller Blüthe.
+Da nun dieser Markt mindestens seit der Mitte des 16. Jahrhunderts
+nicht mehr nur das örtliche Bedürfniss befriedigt hat, sondern der
+Mittelpunkt des Getreidehandels für den grösseren Theil des
+Erzgebirges geworden ist, so erschien es wünschenswerth, aus den
+Urkunden und Acten des Rathsarchives⟦⟧ das auszuziehen und
+zusammenzustellen, was einen Einblick in die Verhältnisse des
+Chemnitzer Getreidemarktes, wie sie sich in früherer Zeit gestalteten,
+gewähren könnte. Leider fehlen die Unterlagen zur Anfertigung
+statistischer Tabellen über die jeweilige Grösse des Umsatzes, leider
+hat sich die Unmöglichkeit herausgestellt, mit nur einigem Anspruch
+auf Vollständigkeit die jeweiligen Getreidepreise angeben zu können
+– es wird, entsprechend dem von den Quellen dargebotenen Material,
+aus dem Folgenden in der Hauptsache nur zu erkennen sein, von
+wem und in welcher Weise die Privilegien der Stadt bezüglich des
+Getreidemarktes angefochten oder verletzt, in welcher Weise und
+mit welchem Erfolge sie von der Stadt vertheidigt wurden.
+Wann Chemnitz ein besonderes Privileg bezüglich des
+Getreidemarktes erhalten hat, von welchem Markgrafen ihm ein solches
+verliehen worden ist, darüber erfahren wir aus den Quellen nichts.
+„Seit Menschengedenken“, „seit uralten Zeiten“, sagen die Acten,
+sei Chemnitz in dieser Hinsicht privilegirt gewesen. Auch über
+den Inhalt des Privilegs haben wir keine directen Angaben, doch
+lässt sich derselbe aus den Acten reconstruiren. Nach diesen hat
+Chemnitz das Recht gehabt, ungehindert Getreide aus allen Ländern
+einzuführen, einen Getreidezoll zu erheben und das Abhalten von
+Getreidemärkten auf den Kloster- und Amtsdörfern zu verbieten.
+-->
+	</Page>
+</PcGts>

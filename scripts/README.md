@@ -49,10 +49,11 @@ Environment variables, chosen per work after a look at the scans:
 | Variable | Default | Meaning |
 |---|---|---|
 | `ZFORM` | `ʒ` | Form of the tailed z. Use `ZFORM=z` for prints after about 1530. |
+| `LONGS` | `1` | `LONGS=0` for a print without long s (modern Antiqua): a long s read by the models then counts as s. |
 | `ESZETT` | empty | `ESZETT=ſs` for a print which has no ß type and sets ſs for it. |
 | `DPI` | `300` | Resolution of the page images of a PDF scan. Choose it so that the embedded scan is not scaled (`pdfimages -list`). It is stored in `provenance/source.txt`. |
 | `MAXSUBST` | `2` | How many single letters per line may differ between a model and Wikisource (the letter of Wikisource is taken). |
-| `TESSERACT` | `tesseract` | The Tesseract program, if it is not the one in the path. |
+| `TESSERACT` | `~/tess-next/build/bin/tesseract` | The Tesseract program. |
 
 The table `PAIRS` at the top of `ws-build.py` lists which print forms may
 stand for which normalised forms of Wikisource. A new work may need new

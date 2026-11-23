@@ -1,0 +1,432 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:30:36</Created>
+		<LastChange>2026-11-23T14:30:36</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/213 revision 4672481 of 2025-12-11T07:47:09Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0213.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro16573490780934897396" caption="Regions reading order">
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="17" regionRef="r17" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,165 406,165 406,180 0,180" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="28,181 406,181 406,197 28,197" />
+		</GraphicRegion>
+		<SeparatorRegion id="r2">
+			<Coords points="42,1069 45,1069 45,1447 42,1447" />
+		</SeparatorRegion>
+		<GraphicRegion id="r3">
+			<Coords points="28,165 1000,165 1000,248 28,248" />
+		</GraphicRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="354,173 437,173 437,189 354,189" />
+			<!-- line left out: id="r4l0" points="354,180 379,180 406,173 437,173 437,189 410,189 406,189 379,181 354,181" baseline="354,185 437,185" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 205
+ | german_print2_15: — 205
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="78,218 808,218 808,1270 78,1270" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="222,223 561,218 571,218 605,218 620,218 645,222 645,232 483,233 462,238 452,238 361,235 222,237" />
+				<Baseline points="222,236 502,232 645,232" />
+				<TextEquiv index="1">
+					<Unicode>Sind die süssen Träume gleich verschwunden,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="223,249 238,249 245,253 365,253 379,252 396,247 428,247 505,251 505,245 527,245 559,245 569,248 569,260 553,264 542,264 537,259 527,264 490,264 455,260 396,265 365,265 355,265 292,262 223,262" />
+				<Baseline points="223,262 479,259 569,260" />
+				<TextEquiv index="1">
+					<Unicode>Die wir unvergänglich einst geglaubt,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l2" custom="readingOrder {index:2;}">
+				<Coords points="223,275 243,275 243,286 258,280 287,274 398,274 429,278 429,272 440,272 440,279 465,279 465,272 501,272 520,277 520,271 531,271 539,273 567,271 582,271 597,275 597,287 561,285 531,290 408,287 324,288 247,291 243,291 223,288" />
+				<Baseline points="223,288 597,284" />
+				<TextEquiv index="1">
+					<Unicode>Ei, so habt Ihr Freunde doch gefunden,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l3" points="224,301 245,301 280,301 291,305 300,301 310,301 353,300 358,300 405,300 441,304 462,299 491,299 528,303 559,302 574,297 591,297 612,295 632,295 632,315 612,315 569,312 538,312 461,313 354,314 280,315 224,315" baseline="224,315 267,314 632,310" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Die Euch weder Zeit noch Laune raubt! )
+ | german_print2_15: Die Euch weder Zeit noch Laune raubt! ⁵7)
+ -->
+			<TextLine id="r5l4" custom="readingOrder {index:4;}">
+				<Coords points="130,329 151,329 151,335 159,335 174,328 195,328 205,334 251,334 251,328 289,328 289,334 312,334 313,328 327,328 344,331 363,332 374,335 387,327 410,327 452,332 466,326 479,326 479,332 495,334 510,325 526,325 533,331 544,331 578,330 578,324 590,324 591,330 614,330 615,337 641,323 650,323 651,329 662,329 674,323 687,323 699,328 707,329 719,322 732,322 740,326 790,328 796,332 796,335 790,339 313,344 312,350 300,350 300,344 284,344 284,350 277,350 262,344 130,345" />
+				<Baseline points="130,345 796,338" />
+				<TextEquiv index="1">
+					<Unicode>Bis Eisenach begleitete Gotter die Reisenden. In das Stamm-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l5" custom="readingOrder {index:5;}">
+				<Coords points="78,357 157,355 157,362 168,362 169,355 181,355 182,364 190,364 207,355 293,360 310,354 322,354 323,360 339,362 357,354 379,354 379,361 391,357 478,359 484,355 496,355 530,358 562,357 589,364 601,364 603,350 619,350 619,358 630,356 648,356 667,350 675,349 690,349 690,356 761,354 786,355 786,348 796,348 796,365 630,367 601,370 530,368 530,374 517,374 517,368 486,369 478,373 391,370 78,372" />
+				<Baseline points="78,372 796,364" />
+				<TextEquiv index="1">
+					<Unicode>buch Beils hatte er die Worte eingetragen: „Dem Weisen und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l6" custom="readingOrder {index:6;}">
+				<Coords points="79,382 90,382 138,388 152,381 158,381 158,388 175,389 176,381 207,382 231,387 232,395 257,387 299,381 312,381 351,388 362,388 363,381 375,381 420,386 436,379 506,379 549,384 551,378 586,377 586,385 598,383 628,383 628,376 647,376 648,382 656,382 670,376 700,376 712,381 712,375 727,375 727,381 759,381 764,375 777,375 779,381 798,381 798,391 760,391 759,397 741,397 731,392 727,397 656,393 506,397 457,396 410,398 357,396 164,398 164,404 152,404 138,398 79,399" />
+				<Baseline points="79,399 798,391" />
+				<TextEquiv index="1">
+					<Unicode>Guten gefallen, ist der einzige Beifall, auf den der Schauspieler</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l7" points="79,416 87,413 95,413 101,409 113,409 114,415 157,415 157,409 163,409 163,415 188,414 193,408 218,408 235,408 274,408 280,412 280,426 277,426 274,414 247,416 236,416 235,424 174,425 95,425 79,425" baseline="79,425 173,424 280,424" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: stolz sein darf.“ *)
+ | german_print2_15: stolz sein darf.“ 88)
+ -->
+			<TextLine id="r5l8" custom="readingOrder {index:8;}">
+				<Coords points="130,435 166,436 192,441 205,435 213,434 228,434 228,440 245,440 245,434 265,434 285,439 305,434 368,439 380,438 393,433 405,433 405,439 416,439 417,433 484,438 484,432 532,431 532,437 632,436 649,430 665,430 665,437 675,437 694,430 707,430 707,436 727,436 744,430 759,430 788,433 798,437 798,446 632,447 586,449 527,447 368,449 368,455 343,455 342,448 307,452 130,452" />
+				<Baseline points="130,451 510,447 798,446" />
+				<TextEquiv index="1">
+					<Unicode>Ueber Frankfurt, Oppenheim und Worms, wo sie das letzte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l9" custom="readingOrder {index:9;}">
+				<Coords points="79,462 145,462 170,467 189,467 207,461 244,461 252,464 276,466 277,473 300,466 312,466 318,460 328,460 342,465 366,463 396,465 411,458 446,459 446,465 464,464 465,458 477,458 478,472 501,458 515,458 516,465 526,465 527,458 539,458 581,463 582,457 608,456 622,456 622,463 644,462 645,456 656,456 673,462 696,463 715,457 727,457 739,462 751,463 765,456 782,456 798,459 798,473 581,474 482,477 411,477 366,475 366,481 300,480 252,477 213,478 170,483 102,483 88,483 79,479" />
+				<Baseline points="79,478 798,472" />
+				<TextEquiv index="1">
+					<Unicode>Nachtlager hielten, gelangten Iffland, Beil und Beck an den Ort</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l10" custom="readingOrder {index:10;}">
+				<Coords points="79,489 98,489 107,494 126,494 140,488 189,488 214,493 264,493 265,500 297,486 305,486 347,494 352,487 402,486 413,491 414,485 454,485 455,492 474,493 488,484 535,485 568,490 585,483 591,483 597,489 609,487 659,489 659,483 665,483 666,490 676,490 689,484 741,489 741,483 754,483 754,489 791,489 798,493 798,495 791,499 754,500 355,503 297,502 264,508 252,508 214,504 179,508 165,508 126,505 79,505" />
+				<Baseline points="79,505 297,502 798,499" />
+				<TextEquiv index="1">
+					<Unicode>ihrer Bestimmung. Der Anblick des Rheines hatte sie in schwär-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l11" custom="readingOrder {index:11;}">
+				<Coords points="80,521 122,521 122,515 134,515 141,521 153,521 171,514 186,514 186,520 198,517 239,519 239,513 251,513 252,520 295,518 325,519 346,516 370,516 411,513 427,513 457,519 463,517 516,517 535,510 543,510 560,516 560,510 574,510 575,517 640,516 640,509 677,509 677,516 763,515 763,509 776,509 777,516 798,515 798,526 703,526 703,532 690,532 690,526 677,526 677,532 671,532 652,526 80,531" />
+				<Baseline points="80,531 295,528 798,525" />
+				<TextEquiv index="1">
+					<Unicode>mendes Entzücken versetzt. An einem kalten und regnerischen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l12" custom="readingOrder {index:12;}">
+				<Coords points="79,542 135,544 169,547 186,540 197,540 199,546 211,546 211,540 221,540 230,544 279,546 279,539 284,539 285,547 295,547 311,539 323,539 339,544 362,544 378,538 400,538 400,544 446,544 462,538 475,538 475,544 495,537 514,537 515,543 540,542 552,537 565,537 565,543 576,543 577,536 589,536 589,542 602,542 603,549 637,536 654,536 654,542 673,542 690,536 696,536 707,540 719,542 720,536 726,536 727,543 743,543 756,536 778,536 798,545 798,548 791,552 514,554 446,559 434,559 412,555 186,556 159,562 147,562 79,557" />
+				<Baseline points="79,557 798,551" />
+				<TextEquiv index="1">
+					<Unicode>Sonntage hielten sie ihren Einzug in Mannheim. Der trübe Ein-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l13" custom="readingOrder {index:13;}">
+				<Coords points="80,567 92,567 102,573 124,573 125,567 136,567 137,581 156,572 168,572 178,566 189,566 190,572 200,572 201,566 213,566 220,572 256,573 256,566 268,566 269,573 279,573 288,566 300,566 308,569 326,571 326,565 339,565 353,571 373,568 386,568 406,571 407,565 419,565 428,570 450,570 465,564 470,564 483,569 562,569 562,563 580,563 603,568 638,568 639,562 645,562 645,568 714,569 767,568 767,562 776,562 776,568 798,568 798,578 742,582 730,582 714,579 714,585 701,585 701,579 627,579 627,585 614,585 614,579 519,580 508,585 495,585 450,581 168,583 141,585 137,585 80,584" />
+				<Baseline points="80,583 798,578" />
+				<TextEquiv index="1">
+					<Unicode>druck, welchen die Stadt mit ihren langen und regelmässigen, aber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l14" custom="readingOrder {index:14;}">
+				<Coords points="80,599 142,599 143,593 154,593 155,599 178,599 179,593 184,593 186,599 239,599 255,593 268,593 275,596 296,598 385,597 386,591 403,591 429,597 429,604 454,596 488,596 488,590 551,589 563,589 580,597 591,597 592,589 598,589 598,595 639,595 658,589 674,589 674,595 724,589 737,589 737,595 748,595 748,589 761,589 761,595 794,594 795,602 798,602 798,605 163,610 142,610 80,610" />
+				<Baseline points="80,610 335,607 798,605" />
+				<TextEquiv index="1">
+					<Unicode>menschenleeren Strassen machte, wich bald einem freundlichern.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l15" custom="readingOrder {index:15;}">
+				<Coords points="81,620 108,621 109,628 147,626 149,620 177,620 217,625 231,619 259,619 259,625 272,625 341,624 356,618 374,617 376,624 441,624 441,617 454,617 456,625 465,625 478,617 498,617 519,622 683,621 697,615 702,615 734,615 746,615 753,616 764,621 764,615 777,615 777,622 799,621 799,632 465,633 421,636 374,634 279,634 272,640 259,640 177,636 81,636" />
+				<Baseline points="81,636 559,632 799,632" />
+				<TextEquiv index="1">
+					<Unicode>Des nächsten Tages war Messe, die Strassen waren von fröhlichen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l16" custom="readingOrder {index:16;}">
+				<Coords points="80,646 100,646 100,652 144,652 145,646 163,646 163,652 178,652 192,645 197,645 205,651 213,651 214,645 247,645 255,649 256,659 275,651 286,651 287,645 371,644 407,647 466,649 481,643 500,643 502,649 514,649 514,643 542,643 580,648 581,642 593,642 623,642 625,649 685,648 685,664 669,664 663,659 593,658 424,660 407,654 407,660 300,660 260,664 256,664 227,662 203,662 197,664 192,664 124,662 80,663" />
+				<Baseline points="80,662 685,658" />
+				<TextEquiv index="1">
+					<Unicode>Menschen erfüllt, überall hörte man Musik und Gesang.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l17" custom="readingOrder {index:17;}">
+				<Coords points="133,673 159,672 159,678 181,678 181,672 195,672 196,679 237,677 253,671 322,671 356,676 356,670 370,670 372,678 379,678 401,670 410,670 410,676 454,676 454,670 472,670 472,677 480,677 498,671 514,671 522,669 534,669 535,675 580,675 580,668 600,668 600,674 644,674 644,668 670,670 682,674 705,674 723,667 746,667 746,674 775,671 799,674 799,684 271,687 271,693 253,693 133,689" />
+				<Baseline points="133,688 799,684" />
+				<TextEquiv index="1">
+					<Unicode>Mannheim galt damals für das Athen der schönen Künste.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l18" custom="readingOrder {index:18;}">
+				<Coords points="81,701 90,699 111,699 111,705 123,705 124,699 136,699 159,704 159,698 170,698 184,704 268,702 294,704 308,697 368,697 407,702 424,695 464,696 488,701 493,695 505,695 523,702 529,702 529,695 536,695 536,701 557,701 559,695 567,695 574,699 608,701 618,703 631,695 643,695 656,700 666,695 678,695 693,701 755,700 769,694 781,694 782,700 800,700 800,710 732,716 505,713 316,713 147,715 123,720 111,720 81,714" />
+				<Baseline points="81,715 800,710" />
+				<TextEquiv index="1">
+					<Unicode>Obgleich nur 20000 Bewohner zählend, durfte es doch wegen der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l19" custom="readingOrder {index:19;}">
+				<Coords points="82,725 139,725 163,731 168,724 181,724 182,730 195,730 213,723 251,724 251,730 271,724 277,724 290,729 291,723 301,723 302,730 330,730 347,724 358,723 389,723 389,729 413,728 413,722 425,722 426,730 437,730 441,735 462,728 547,728 547,721 560,721 561,727 591,722 630,722 686,730 686,721 711,721 712,727 789,726 789,720 800,720 800,737 502,737 501,743 485,743 438,741 425,739 82,741" />
+				<Baseline points="82,741 329,738 800,737" />
+				<TextEquiv index="1">
+					<Unicode>Pracht der öffentlichen Gebäude, wegen der breiten Alleen und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l20" custom="readingOrder {index:20;}">
+				<Coords points="82,757 102,757 103,751 121,752 131,757 143,758 143,751 166,751 174,758 196,756 211,750 227,750 254,756 255,750 267,750 267,757 318,755 326,749 376,749 378,755 389,753 412,755 418,756 422,762 445,754 506,755 525,748 537,748 538,754 557,754 572,747 587,747 588,755 616,748 636,748 654,753 654,747 668,747 675,748 675,754 688,754 688,748 718,748 763,753 763,747 769,747 770,753 801,753 801,763 742,763 688,769 578,769 484,769 468,769 422,767 412,765 82,768" />
+				<Baseline points="82,767 801,763" />
+				<TextEquiv index="1">
+					<Unicode>zahlreichen Kirchen und Plätze, wegen der Reichhaltigkeit seiner</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l21" custom="readingOrder {index:21;}">
+				<Coords points="111,783 135,783 135,777 149,777 151,783 241,782 241,776 259,776 272,783 279,783 279,776 285,776 286,782 318,779 348,781 358,779 431,775 449,775 456,781 551,780 551,774 561,774 586,774 587,780 630,780 644,774 650,774 651,780 661,778 677,778 677,787 701,781 712,781 713,774 718,774 719,780 742,780 761,774 766,774 794,779 800,783 800,786 794,789 780,790 681,793 650,790 509,793 484,791 402,792 384,796 372,796 348,792 331,797 259,793 187,798 174,798 111,793" />
+				<Baseline points="111,793 406,790 800,789" />
+				<TextEquiv index="1">
+					<Unicode>mmlungen und der geistigen Genüsse, welche es bot, eine her-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l22" custom="readingOrder {index:22;}">
+				<Coords points="81,810 168,809 169,803 181,803 182,809 192,809 208,803 253,803 255,810 311,806 337,808 359,802 371,802 379,808 393,808 410,801 430,802 430,808 442,808 442,801 454,801 462,805 485,807 504,800 512,800 521,802 521,808 545,804 561,804 572,806 572,800 585,800 616,806 617,800 629,800 630,806 657,801 705,806 749,805 760,800 767,800 767,806 801,805 801,816 737,817 728,822 715,822 705,817 145,819 145,825 133,825 81,819" />
+				<Baseline points="81,820 801,816" />
+				<TextEquiv index="1">
+					<Unicode>vorragende Stelle unter den Städten Deutschlands beanspruchen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l23" points="82,830 104,830 105,836 144,836 144,830 149,830 162,831 184,835 207,836 207,829 220,829 237,833 247,836 263,829 288,829 298,835 304,834 316,829 328,829 329,835 363,835 363,828 381,828 382,834 390,834 401,828 414,828 421,831 433,834 433,828 446,828 472,827 478,827 479,834 497,831 512,831 551,833 551,827 565,827 598,827 599,834 610,833 628,833 642,827 651,827 670,827 671,833 713,832 720,831 770,826 781,826 781,842 770,842 731,848 720,848 652,843 651,850 642,850 628,843 497,844 328,845 237,846 220,846 144,850 131,850 82,846" baseline="82,846 472,843 753,842 781,842" reason: second model: differs: "20b." against "0 begon" | Wikisource: Die glänzendste Periode der Stadt hatte mit dem Jahre 1720 b | next_nc_e1: Die glänzendste Periode der Stadt hatte mit dem Jahre 1720 b | german_print2_15: Die glänzendste Periode der Stadt hatte mit dem Jahre 1720 b. -->
+			<!-- line left out: id="r5l24" points="80,863 92,861 105,861 178,862 178,856 192,856 193,862 201,862 219,855 235,855 236,861 257,861 259,855 273,855 279,861 297,859 317,855 337,855 337,861 349,861 350,855 356,855 405,862 414,861 425,860 454,860 472,854 488,854 488,860 509,859 515,859 515,853 528,853 528,861 539,859 612,859 612,853 657,853 659,859 695,859 695,853 708,853 708,859 719,859 720,853 726,853 784,858 784,869 708,870 601,870 539,870 495,870 414,870 405,869 388,876 364,876 356,871 248,872 192,872 156,874 146,874 129,873 117,873 93,872 93,878 80,878" baseline="80,872 387,870 560,869 784,868" reason: models differ | Wikisource: gonnen, als Kurfürst Philipp seine Residenz nach Mannheim ve | next_nc_e1: gonnen, als Kurfürst Philipp seine Residenz nach Mannheim ve | german_print2_15: gonnen, als Kurfürst Philipp seine Residenz nach Mannheim ver -->
+			<TextLine id="r5l25" custom="readingOrder {index:25;}">
+				<Coords points="81,883 87,883 88,890 112,886 130,888 131,896 152,888 176,888 177,882 207,882 209,888 281,887 296,881 380,886 456,887 456,880 468,880 504,886 516,886 516,880 522,880 524,888 531,888 544,879 561,879 567,885 583,880 599,879 616,879 623,880 623,886 653,886 653,880 666,880 678,885 734,885 735,879 773,879 773,885 802,885 802,895 522,896 490,898 456,897 417,901 404,901 380,896 380,902 360,902 311,897 311,904 296,904 281,898 135,900 119,899 112,904 99,904 99,898 81,899" />
+				<Baseline points="81,898 530,895 802,895" />
+				<TextEquiv index="1">
+					<Unicode>legte, und bis zum Jahr 1778 gewährt, als Karl Theodor nach dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l26" custom="readingOrder {index:26;}">
+				<Coords points="81,909 123,909 124,916 153,917 154,908 167,908 167,915 179,915 194,908 210,908 211,914 223,910 237,908 247,908 261,913 326,907 351,907 359,913 382,913 384,907 403,907 415,912 427,913 439,906 447,906 448,912 493,912 494,906 545,906 560,912 595,912 609,906 623,906 623,912 674,912 688,906 707,906 708,913 718,913 731,906 746,906 746,912 770,911 770,905 783,905 783,911 802,911 802,922 494,922 493,928 481,928 470,923 448,922 447,929 439,929 427,923 81,925" />
+				<Baseline points="81,925 504,922 802,922" />
+				<TextEquiv index="1">
+					<Unicode>Tode des Kurfürsten Maximilian Joseph III von Baiern die Länder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l27" custom="readingOrder {index:27;}">
+				<Coords points="82,935 94,935 101,941 175,941 207,940 226,933 231,933 231,940 249,937 264,937 292,941 292,934 304,934 327,939 327,933 333,933 333,939 367,937 401,939 421,933 441,933 442,939 510,933 522,933 538,936 587,938 588,932 599,932 616,938 636,933 649,933 666,940 687,939 687,933 699,933 735,938 755,932 786,931 802,931 802,948 575,949 563,948 538,942 538,948 226,950 175,956 137,956 131,956 82,951" />
+				<Baseline points="82,951 540,948 802,948" />
+				<TextEquiv index="1">
+					<Unicode>der jüngern wittelsbachischen Linie erbte und mit seinem Hofe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l28" custom="readingOrder {index:28;}">
+				<Coords points="83,968 117,967 117,961 170,961 196,966 199,961 217,961 257,967 257,960 269,960 270,966 306,965 323,967 324,960 336,960 336,967 347,967 348,959 370,963 376,959 429,959 441,964 441,958 495,958 495,965 530,964 530,958 540,958 541,964 556,964 574,958 587,958 614,962 680,962 713,964 713,958 725,958 725,964 754,961 763,958 770,958 796,961 797,967 803,967 803,970 796,974 233,977 196,977 83,977" />
+				<Baseline points="83,977 469,974 803,974" />
+				<TextEquiv index="1">
+					<Unicode>nach München übersiedelte. Karl Theodor hatte stets ein that-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l29" custom="readingOrder {index:29;}">
+				<Coords points="84,987 96,987 97,993 117,993 118,987 133,987 140,993 171,994 186,987 194,987 234,993 274,994 289,986 297,986 297,992 316,992 330,986 342,986 349,992 361,990 395,991 395,985 407,985 408,992 418,992 432,985 439,985 440,991 494,988 560,990 561,984 613,984 613,990 667,985 669,991 720,991 756,985 781,984 797,984 797,990 804,990 804,1000 407,1001 226,1003 151,1007 140,1007 133,1003 84,1003" />
+				<Baseline points="84,1003 536,1000 804,1000" />
+				<TextEquiv index="1">
+					<Unicode>kräftiges Interesse für deutsche Literatur und Kunst bewiesen. Er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l30" custom="readingOrder {index:30;}">
+				<Coords points="85,1019 120,1018 134,1012 150,1012 152,1018 185,1018 251,1013 252,1020 263,1016 284,1016 303,1018 303,1012 309,1012 310,1020 325,1020 336,1012 356,1012 363,1018 372,1015 388,1015 389,1025 408,1011 420,1011 421,1018 460,1018 460,1011 472,1011 472,1017 502,1012 549,1017 549,1011 562,1011 565,1024 574,1011 580,1011 590,1017 601,1017 601,1011 613,1011 614,1017 624,1017 634,1011 658,1011 658,1017 689,1015 737,1016 763,1010 776,1010 776,1016 804,1017 804,1026 562,1027 393,1030 389,1030 259,1028 85,1028" />
+				<Baseline points="85,1028 804,1026" />
+				<TextEquiv index="1">
+					<Unicode>war der erste deutsche Fürst, der das französische Theater entliess</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l31" custom="readingOrder {index:31;}">
+				<Coords points="84,1045 109,1045 109,1039 121,1039 136,1047 143,1044 185,1044 185,1038 199,1038 199,1044 215,1041 232,1041 242,1044 243,1038 255,1038 255,1044 299,1038 305,1038 306,1044 317,1044 319,1038 339,1039 341,1045 370,1043 458,1043 459,1037 471,1037 479,1041 498,1041 509,1043 510,1050 531,1043 552,1043 566,1037 578,1037 579,1044 620,1043 653,1037 667,1037 667,1043 735,1040 743,1037 749,1037 804,1042 804,1052 684,1053 683,1059 667,1059 653,1059 514,1055 420,1054 84,1056" />
+				<Baseline points="84,1055 411,1053 804,1053" />
+				<TextEquiv index="1">
+					<Unicode>und ein deutsches Hoftheater errichtete, zu dessen Organisation er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l32" custom="readingOrder {index:32;}">
+				<Coords points="86,1066 93,1066 93,1073 129,1073 130,1065 142,1065 142,1071 199,1070 199,1064 347,1065 348,1071 358,1071 360,1064 413,1064 424,1069 439,1063 445,1063 481,1063 482,1070 492,1070 505,1063 518,1063 518,1070 541,1069 551,1076 556,1064 573,1064 587,1067 658,1063 663,1063 665,1070 676,1070 676,1063 682,1063 682,1069 701,1066 763,1063 777,1063 798,1068 804,1072 804,1075 798,1079 738,1082 701,1080 619,1085 608,1085 608,1079 372,1081 246,1080 199,1081 160,1086 148,1086 108,1082 86,1082" />
+				<Baseline points="86,1082 439,1079 804,1079" />
+				<TextEquiv index="1">
+					<Unicode>Lessing und Eckhof berief. Da beide den Antrag ablehnten, über-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l33" custom="readingOrder {index:33;}">
+				<Coords points="85,1097 109,1092 120,1092 154,1097 168,1091 180,1091 181,1097 197,1098 212,1090 219,1090 220,1097 233,1097 233,1090 244,1090 253,1094 277,1096 321,1091 334,1091 340,1096 359,1099 372,1090 396,1090 397,1097 419,1093 434,1093 455,1095 463,1098 475,1089 488,1089 489,1096 516,1095 528,1089 539,1089 560,1095 571,1096 573,1090 584,1090 593,1094 613,1096 624,1090 636,1089 657,1089 657,1096 677,1096 677,1090 718,1096 718,1089 731,1089 746,1096 757,1096 758,1089 770,1089 770,1095 804,1094 804,1105 731,1109 718,1109 701,1106 301,1106 288,1112 277,1112 277,1106 187,1107 108,1108 97,1113 85,1113" />
+				<Baseline points="85,1107 804,1105" />
+				<TextEquiv index="1">
+					<Unicode>gab er die Leitung seines Theaters dem Direktor Marchand, einem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l34" custom="readingOrder {index:34;}">
+				<Coords points="87,1117 111,1118 123,1123 124,1117 133,1117 133,1124 143,1124 144,1117 169,1117 169,1123 187,1123 188,1117 200,1117 201,1123 223,1123 238,1116 255,1116 256,1122 280,1120 297,1116 303,1116 304,1122 324,1122 324,1130 346,1123 358,1123 367,1117 379,1117 391,1122 391,1116 403,1116 404,1123 491,1123 507,1116 529,1116 542,1120 614,1122 615,1116 644,1115 653,1115 718,1116 726,1119 769,1121 769,1115 782,1115 783,1121 805,1121 805,1131 369,1133 328,1135 324,1135 255,1133 248,1135 238,1135 87,1134" />
+				<Baseline points="87,1134 238,1132 805,1132" />
+				<TextEquiv index="1">
+					<Unicode>feinfühlenden Künstler, welcher seine Väter- und Charakterrollen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l35" custom="readingOrder {index:35;}">
+				<Coords points="86,1149 95,1146 118,1146 161,1149 162,1143 179,1143 179,1149 197,1150 212,1144 228,1144 235,1150 250,1147 282,1148 283,1142 294,1142 309,1148 333,1148 333,1142 345,1142 358,1148 413,1148 414,1142 440,1142 441,1148 472,1148 487,1142 507,1142 528,1150 530,1142 544,1142 577,1142 578,1148 614,1148 627,1142 632,1142 637,1148 668,1148 668,1142 674,1142 683,1146 698,1148 698,1158 650,1158 650,1164 632,1164 594,1164 594,1158 519,1158 453,1161 381,1159 86,1160" />
+				<Baseline points="86,1160 293,1158 698,1158" />
+				<TextEquiv index="1">
+					<Unicode>mit vielem Anstand und anmuthiger Masshaltung spielte.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l36" custom="readingOrder {index:36;}">
+				<Coords points="138,1169 154,1169 154,1177 180,1175 238,1176 238,1169 250,1169 251,1175 262,1175 281,1168 299,1168 301,1174 318,1174 318,1168 342,1168 343,1174 360,1169 366,1169 366,1175 388,1174 388,1168 424,1169 425,1175 436,1175 437,1168 449,1168 450,1174 473,1174 475,1168 487,1168 487,1174 497,1174 514,1168 527,1168 527,1175 546,1174 565,1168 582,1168 595,1173 605,1168 619,1168 674,1174 675,1181 697,1168 710,1168 710,1174 727,1175 740,1168 753,1167 773,1167 780,1173 805,1173 805,1184 680,1186 407,1184 391,1190 388,1190 360,1185 301,1184 299,1190 281,1190 138,1185" />
+				<Baseline points="138,1185 805,1183" />
+				<TextEquiv index="1">
+					<Unicode>Es war ein glücklicher Gedanke des Kurfürsten, die Mann-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l37" custom="readingOrder {index:37;}">
+				<Coords points="87,1196 98,1196 99,1204 111,1202 156,1201 173,1195 193,1194 205,1194 205,1201 261,1201 261,1195 274,1195 286,1200 287,1194 332,1194 332,1200 374,1195 386,1195 387,1201 426,1195 443,1194 456,1194 456,1200 503,1200 521,1194 534,1194 534,1200 583,1194 623,1194 623,1202 659,1201 659,1194 665,1194 687,1199 693,1193 740,1193 765,1193 771,1196 806,1199 806,1214 727,1214 687,1210 521,1210 503,1216 491,1216 491,1210 468,1210 468,1216 456,1216 456,1210 220,1211 220,1217 193,1217 193,1211 87,1212" />
+				<Baseline points="87,1212 300,1210 806,1209" />
+				<TextEquiv index="1">
+					<Unicode>heimer Bürgerschaft für den Abgang des Hofes durch Stiftung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l38" custom="readingOrder {index:38;}">
+				<Coords points="87,1229 117,1228 137,1230 151,1221 173,1221 212,1227 218,1222 257,1222 258,1229 270,1228 281,1225 353,1226 398,1224 418,1226 419,1220 430,1220 431,1227 442,1227 442,1220 455,1220 462,1226 491,1226 501,1220 630,1220 630,1226 641,1226 641,1220 654,1220 661,1223 766,1218 790,1218 806,1219 806,1234 714,1234 698,1241 687,1241 687,1235 624,1236 611,1241 590,1241 532,1236 503,1242 501,1242 501,1236 474,1236 474,1242 462,1242 461,1236 257,1238 99,1238 87,1236" />
+				<Baseline points="87,1238 806,1234" />
+				<TextEquiv index="1">
+					<Unicode>eines Nationaltheaters zu entschädigen. Die Einrichtung und Lei-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l39" custom="readingOrder {index:39;}">
+				<Coords points="88,1252 151,1254 151,1248 158,1248 159,1254 257,1253 271,1247 286,1247 309,1251 345,1250 356,1253 415,1252 415,1246 428,1246 428,1253 438,1253 451,1246 464,1246 464,1252 493,1251 506,1245 520,1245 561,1246 561,1253 621,1245 635,1245 635,1251 647,1251 648,1245 664,1245 664,1251 711,1251 723,1244 741,1244 741,1250 762,1250 762,1244 776,1244 776,1250 788,1247 808,1247 808,1260 723,1260 711,1266 663,1266 590,1262 241,1263 235,1269 216,1269 216,1263 198,1263 197,1269 146,1264 131,1270 120,1270 120,1264 88,1264" />
+				<Baseline points="88,1264 808,1260" />
+				<TextEquiv index="1">
+					<Unicode>tung des jungen Institutes wurde dem Freiherrn Wolfgang Heribert</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Sind die süssen Träume gleich verschwunden,
+Die wir unvergänglich einst geglaubt,
+Ei, so habt Ihr Freunde doch gefunden,
+Bis Eisenach begleitete Gotter die Reisenden. In das Stamm-
+buch Beils hatte er die Worte eingetragen: „Dem Weisen und
+Guten gefallen, ist der einzige Beifall, auf den der Schauspieler
+Ueber Frankfurt, Oppenheim und Worms, wo sie das letzte
+Nachtlager hielten, gelangten Iffland, Beil und Beck an den Ort
+ihrer Bestimmung. Der Anblick des Rheines hatte sie in schwär-
+mendes Entzücken versetzt. An einem kalten und regnerischen
+Sonntage hielten sie ihren Einzug in Mannheim. Der trübe Ein-
+druck, welchen die Stadt mit ihren langen und regelmässigen, aber
+menschenleeren Strassen machte, wich bald einem freundlichern.
+Des nächsten Tages war Messe, die Strassen waren von fröhlichen
+Menschen erfüllt, überall hörte man Musik und Gesang.
+Mannheim galt damals für das Athen der schönen Künste.
+Obgleich nur 20000 Bewohner zählend, durfte es doch wegen der
+Pracht der öffentlichen Gebäude, wegen der breiten Alleen und
+zahlreichen Kirchen und Plätze, wegen der Reichhaltigkeit seiner
+mmlungen und der geistigen Genüsse, welche es bot, eine her-
+vorragende Stelle unter den Städten Deutschlands beanspruchen.
+legte, und bis zum Jahr 1778 gewährt, als Karl Theodor nach dem
+Tode des Kurfürsten Maximilian Joseph III von Baiern die Länder
+der jüngern wittelsbachischen Linie erbte und mit seinem Hofe
+nach München übersiedelte. Karl Theodor hatte stets ein that-
+kräftiges Interesse für deutsche Literatur und Kunst bewiesen. Er
+war der erste deutsche Fürst, der das französische Theater entliess
+und ein deutsches Hoftheater errichtete, zu dessen Organisation er
+Lessing und Eckhof berief. Da beide den Antrag ablehnten, über-
+gab er die Leitung seines Theaters dem Direktor Marchand, einem
+feinfühlenden Künstler, welcher seine Väter- und Charakterrollen
+mit vielem Anstand und anmuthiger Masshaltung spielte.
+Es war ein glücklicher Gedanke des Kurfürsten, die Mann-
+heimer Bürgerschaft für den Abgang des Hofes durch Stiftung
+eines Nationaltheaters zu entschädigen. Die Einrichtung und Lei-
+tung des jungen Institutes wurde dem Freiherrn Wolfgang Heribert</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="142,626 478,626 478,636 142,636" />
+		</GraphicRegion>
+		<GraphicRegion id="r7">
+			<Coords points="81,762 109,762 109,793 81,793" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="783,832 801,832 801,842 783,842" />
+		</GraphicRegion>
+		<GraphicRegion id="r9">
+			<Coords points="786,858 802,858 802,869 786,869" />
+		</GraphicRegion>
+		<GraphicRegion id="r10">
+			<Coords points="340,913 352,913 352,923 340,923" />
+		</GraphicRegion>
+		<GraphicRegion id="r11">
+			<Coords points="545,1012 572,1012 572,1027 545,1027" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="580,1220 606,1220 606,1236 580,1236" />
+		</GraphicRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="131,1328 709,1328 709,1372 131,1372" />
+			<!-- line left out: id="r13l0" points="131,1329 151,1329 171,1330 190,1330 192,1336 201,1335 211,1330 222,1330 223,1341 240,1331 256,1330 261,1330 307,1334 317,1329 327,1329 346,1332 348,1339 368,1329 378,1328 389,1328 399,1334 409,1332 417,1328 419,1328 462,1328 483,1328 484,1338 511,1328 527,1328 553,1331 573,1331 573,1341 545,1341 473,1342 419,1342 417,1342 389,1341 374,1342 307,1343 227,1345 168,1345 165,1345 131,1343" baseline="131,1343 511,1340 541,1340 573,1341" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ) Iffland, Almanach ſ. Theat. 1808. S. 162. | german_print2_15: *3) Iffland, Almanach f. Theat. 1808. S. 162. -->
+			<!-- line left out: id="r13l1" points="185,1361 192,1358 197,1358 198,1366 216,1356 236,1356 237,1362 258,1359 268,1359 272,1367 278,1367 279,1355 289,1355 290,1361 305,1360 310,1360 322,1361 322,1354 334,1354 336,1361 345,1361 345,1354 371,1354 377,1361 384,1361 387,1354 397,1354 414,1354 415,1360 423,1360 428,1365 441,1354 451,1353 462,1353 481,1357 507,1358 517,1353 521,1353 534,1359 544,1358 577,1354 593,1354 594,1364 610,1354 616,1353 629,1353 644,1353 645,1364 671,1354 679,1354 680,1364 695,1358 706,1358 706,1364 709,1364 709,1367 500,1372 462,1372 451,1372 428,1369 424,1369 397,1367 371,1369 334,1369 299,1369 244,1369 192,1369 185,1366" baseline="185,1369 427,1367 709,1367" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: gl. Die Schauspielerschule, Lustspiel von D. Beil. I. 6.
+ | german_print2_15: gl. Die Schauspielerschule, Lustspiel von D. Beil. I. 6.
+ -->
+		</TextRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="168,1361 188,1361 188,1373 168,1373" />
+			<!-- line left out: id="r14l0" points="168,1361 174,1361 181,1367 188,1367 188,1373 181,1373 168,1369" baseline="168,1373 188,1373" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: vg
+ | german_print2_15: Vg
+ -->
+		</TextRegion>
+		<GraphicRegion id="r15">
+			<Coords points="352,1359 369,1359 369,1368 352,1368" />
+		</GraphicRegion>
+		<GraphicRegion id="r16">
+			<Coords points="0,1361 1000,1361 1000,1585 0,1585" />
+		</GraphicRegion>
+		<TextRegion id="r17" custom="readingOrder {index:17;} orientation {0;}">
+			<Coords points="980,480 989,480 989,495 980,495" />
+			<!-- line left out: id="r17l0" points="980,480 989,480 989,495 980,495" baseline="980,492 989,492" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 5
+ | german_print2_15: 7 -->
+		</TextRegion>
+		<GraphicRegion id="r18">
+			<Coords points="980,248 1000,248 1000,433 980,433" />
+		</GraphicRegion>
+		<GraphicRegion id="r19">
+			<Coords points="25,1039 1000,1039 1000,1376 25,1376" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Sind die süssen Träume gleich verschwunden,
+Die wir unvergänglich einst geglaubt,
+Ei, so habt Ihr Freunde doch gefunden,
+Die Euch weder Zeit noch Laune raubt!⟦⟧
+Bis Eisenach begleitete Gotter die Reisenden. In das
+Stammbuch Beils hatte er die Worte eingetragen: „Dem Weisen und
+Guten gefallen, ist der einzige Beifall, auf den der Schauspieler
+stolz sein darf.“⟦⟧
+Ueber Frankfurt, Oppenheim und Worms, wo sie das letzte
+Nachtlager hielten, gelangten Iffland, Beil und Beck an den Ort
+ihrer Bestimmung. Der Anblick des Rheines hatte sie in
+schwärmendes Entzücken versetzt. An einem kalten und regnerischen
+Sonntage hielten sie ihren Einzug in Mannheim. Der trübe
+Eindruck, welchen die Stadt mit ihren langen und regelmässigen, aber
+menschenleeren Strassen machte, wich bald einem freundlichern.
+Des nächsten Tages war Messe, die Strassen waren von fröhlichen
+Menschen erfüllt, überall hörte man Musik und Gesang.
+Mannheim galt damals für das Athen der schönen Künste.
+Obgleich nur 20000 Bewohner zählend, durfte es doch wegen der
+Pracht der öffentlichen Gebäude, wegen der breiten Alleen und
+zahlreichen Kirchen und Plätze, wegen der Reichhaltigkeit seiner
+Sammlungen und der geistigen Genüsse, welche es bot, eine
+hervorragende Stelle unter den Städten Deutschlands beanspruchen.
+Die glänzendste Periode der Stadt hatte mit dem Jahre 1720
+begonnen, als Kurfürst Philipp seine Residenz nach Mannheim
+verlegte, und bis zum Jahr 1778 gewährt, als Karl Theodor nach dem
+Tode des Kurfürsten Maximilian Joseph III von Baiern die Länder
+der jüngern wittelsbachischen Linie erbte und mit seinem Hofe
+nach München übersiedelte. Karl Theodor hatte stets ein
+thatkräftiges Interesse für deutsche Literatur und Kunst bewiesen. Er
+war der erste deutsche Fürst, der das französische Theater entliess
+und ein deutsches Hoftheater errichtete, zu dessen Organisation er
+Lessing und Eckhof berief. Da beide den Antrag ablehnten,
+übergab er die Leitung seines Theaters dem Direktor Marchand, einem
+feinfühlenden Künstler, welcher seine Väter- und Charakterrollen
+mit vielem Anstand und anmuthiger Masshaltung spielte.
+Es war ein glücklicher Gedanke des Kurfürsten, die
+Mannheimer Bürgerschaft für den Abgang des Hofes durch Stiftung
+eines Nationaltheaters zu entschädigen. Die Einrichtung und
+Leitung des jungen Institutes wurde dem Freiherrn Wolfgang Heribert
+-->
+	</Page>
+</PcGts>

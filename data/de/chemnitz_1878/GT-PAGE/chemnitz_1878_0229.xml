@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:31:53</Created>
+		<LastChange>2026-11-23T14:31:53</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Erster_Band.pdf/229 revision 4775114 of 2026-01-02T07:47:22Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1878_0229.png" imageWidth="1000" imageHeight="1585">
+		<ReadingOrder>
+			<OrderedGroup id="ro11007630980253618583" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="590,459 696,459 696,477 590,477" />
+			<TextLine id="r0l0" custom="readingOrder {index:0;}">
+				<Coords points="590,460 616,459 626,459 627,467 638,467 645,473 665,459 687,459 687,465 696,465 696,474 649,477 645,477 600,475 590,473" />
+				<Baseline points="590,475 696,474" />
+				<TextEquiv index="1">
+					<Unicode>Höhe, das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Höhe, das</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="668,485 755,485 755,502 668,502" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="668,489 677,485 691,485 691,493 707,491 745,491 755,494 755,500 714,502 707,502 668,499" />
+				<Baseline points="668,500 755,500" />
+				<TextEquiv index="1">
+					<Unicode>Gespräch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Gespräch</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="659,512 785,512 785,554 659,554" />
+			<!-- line left out: id="r2l0" points="659,512 672,512 673,520 685,517 695,512 706,512 763,517 785,517 785,527 706,528 659,528" baseline="659,528 705,527 785,526" reason: differs: "Beck" against "en ⟦" | Wikisource:  | next_nc_e1: Beck waren | german_print2_15: Beck waren -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="704,546 756,543 763,537 780,537 785,541 785,553 743,554 737,554 704,553" />
+				<Baseline points="704,553 785,553" />
+				<TextEquiv index="1">
+					<Unicode>es nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>es nicht</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="646,643 792,643 792,871 646,871" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="652,650 669,650 671,644 687,644 698,653 727,649 765,649 770,643 788,643 788,659 687,660 652,660" />
+				<Baseline points="652,660 788,659" />
+				<TextEquiv index="1">
+					<Unicode>und so wurde</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="671,671 679,671 680,679 692,676 699,676 708,669 722,669 724,676 768,676 768,669 780,669 781,679 787,679 787,681 780,685 768,686 671,686" />
+				<Baseline points="671,686 787,685" />
+				<TextEquiv index="1">
+					<Unicode>der Freund-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l2" points="669,697 687,697 702,709 707,697 730,697 730,710 720,712 687,713 676,713 669,700" baseline="669,713 730,710" reason: second model: differs: "Idab" against "scha" | Wikisource: ld abl | next_nc_e1: ld abl | german_print2_15: Id abl -->
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="671,729 702,729 713,732 713,723 732,723 788,728 788,738 772,739 671,739" />
+				<Baseline points="671,739 788,738" />
+				<TextEquiv index="1">
+					<Unicode>oder um</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="673,751 688,751 701,756 732,755 739,749 751,749 752,755 788,754 788,765 701,766 673,766" />
+				<Baseline points="673,766 788,765" />
+				<TextEquiv index="1">
+					<Unicode>Aus ihrem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="675,788 691,788 703,776 719,776 721,783 730,783 730,776 744,776 745,783 757,781 789,781 789,791 744,792 691,792 675,792" />
+				<Baseline points="675,792 789,791" />
+				<TextEquiv index="1">
+					<Unicode>in Geheim-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="736,814 743,802 761,802 763,809 792,807 792,818 736,818" />
+				<Baseline points="736,818 792,818" />
+				<TextEquiv index="1">
+					<Unicode>allein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="672,835 722,834 734,829 780,828 792,828 792,844 721,845 683,845 672,845" />
+				<Baseline points="672,845 792,844" />
+				<TextEquiv index="1">
+					<Unicode>ms und mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l8" custom="readingOrder {index:8;}">
+				<Coords points="646,860 734,861 735,855 745,855 764,862 776,860 792,860 792,870 745,871 670,871 646,871" />
+				<Baseline points="646,870 792,870" />
+				<TextEquiv index="1">
+					<Unicode>das ward am</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>und so wurde
+der Freund-
+oder um
+Aus ihrem
+in Geheim-
+allein
+ms und mit
+das ward am</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="643,908 797,908 797,1186 643,1186" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="704,917 715,914 762,908 768,908 793,912 793,923 767,923 762,916 756,923 736,924 704,924" />
+				<Baseline points="704,924 793,923" />
+				<TextEquiv index="1">
+					<Unicode>enz über</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="700,934 715,934 736,934 738,940 793,939 793,950 773,951 753,951 715,951 705,951 700,937" />
+				<Baseline points="700,950 793,949" />
+				<TextEquiv index="1">
+					<Unicode>ljährigem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="711,969 722,965 741,965 794,965 794,976 772,981 722,981 719,973 711,973" />
+				<Baseline points="711,976 794,976" />
+				<TextEquiv index="1">
+					<Unicode>s gegen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="643,992 700,992 702,986 718,986 719,992 735,994 737,986 748,986 756,990 795,994 795,1002 777,1002 776,1008 764,1008 763,1002 643,1002" />
+				<Baseline points="643,1002 795,1002" />
+				<TextEquiv index="1">
+					<Unicode>in aufrichtiges</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l4" custom="readingOrder {index:4;}">
+				<Coords points="643,1021 651,1018 678,1013 684,1013 684,1019 697,1019 713,1017 725,1012 748,1012 754,1018 795,1017 795,1026 785,1028 658,1029 643,1029" />
+				<Baseline points="643,1029 795,1027" />
+				<TextEquiv index="1">
+					<Unicode>er Fortschritte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l5" points="718,1043 723,1043 764,1039 779,1038 785,1038 786,1045 795,1045 795,1054 718,1054" baseline="718,1054 795,1054" reason: differs: "füra" against "able" | Wikisource:  | next_nc_e1: für alle | german_print2_15: für alle -->
+			<TextLine id="r4l6" custom="readingOrder {index:6;}">
+				<Coords points="732,1065 776,1065 777,1071 796,1070 796,1080 776,1081 732,1081" />
+				<Baseline points="732,1081 796,1080" />
+				<TextEquiv index="1">
+					<Unicode>Fehler</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l7" custom="readingOrder {index:7;}">
+				<Coords points="716,1091 739,1091 740,1099 751,1097 769,1097 770,1091 788,1091 789,1100 795,1100 795,1102 788,1107 716,1107" />
+				<Baseline points="716,1107 795,1106" />
+				<TextEquiv index="1">
+					<Unicode>Freund-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l8" custom="readingOrder {index:8;}">
+				<Coords points="704,1123 733,1123 734,1117 746,1117 789,1123 796,1126 796,1129 789,1133 704,1133" />
+				<Baseline points="704,1133 796,1133" />
+				<TextEquiv index="1">
+					<Unicode>nicht zu-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l9" points="649,1177 654,1177 673,1182 673,1176 701,1176 714,1175 756,1175 762,1169 775,1169 790,1174 797,1178 797,1180 790,1184 756,1185 673,1186 668,1186 649,1181" baseline="649,1186 797,1183" reason: models differ | Wikisource: auseinander | next_nc_e1:  auseinander-
+ | german_print2_15: g auseinander-
+ -->
+			<TextEquiv index="1">
+				<Unicode>enz über
+ljährigem
+s gegen
+in aufrichtiges
+er Fortschritte
+Fehler
+Freund-
+nicht zu-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="394,1549 658,1549 658,1561 394,1561" />
+			<!-- line left out: id="r5l0" points="394,1549 402,1549 408,1550 413,1552 422,1549 434,1549 443,1549 456,1549 469,1549 499,1549 554,1549 571,1549 601,1549 615,1549 638,1549 658,1550 658,1558 615,1560 571,1560 452,1561 443,1561 426,1561 413,1560 407,1560 394,1558" baseline="394,1558 658,1558" reason: differs: "hnpe" against "gese" | Wikisource:  | next_nc_e1: hnpe digital slub-dresden delppn301259642229
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="0,0 1000,0 1000,1585 0,1585" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+aber eine angenehme Aussicht auf die Bergstrasse und die
+Rheinebene. In der Nähe war ein von schönen Alleen
+durchschnittener Wald. Hier erneuerte sich mit mehr Gemächlichkeit
+und Aufwand, aber mit alter Unbefangenheit und Fröhlichkeit
+das Treiben im Siebeleber Holze. „Wir frühstückten im Walde,
+zerstreuten uns in die Alleen zu lernen oder zu lesen, trafen zur
+Mittagsstunde wieder zusammen, wandelten dem Dorfe und dem
+gemeinsamen frugalen Mahle zu. Nachmittags arbeitete jeder auf
+seinem Zimmer. In der Abendkühle gingen wir zu einem Brunnen
+in den Wald. Ein grosses Feuer loderte in die Höhe, das
+Abendessen wurde dort bereitet, und in den traulichsten Gesprächen
+überraschte uns oft die Mitternacht.“⟦⟧ Beil und Beck waren
+damals willens, die Mannheimer Bühne zu verlassen, weil es nicht
+gut sei, lange an einem Orte zu verweilen. Iffland ward von solchen
+Aeusserungen schmerzlich berührt; mit der Wärme der Freundschaft
+und mit Gründen der Vernunft sprach er für Mannheim. Endlich
+ward für Mannheim entschieden; „wir umarmten uns, und so wurde
+abermals im Kreise um das Feuer im Walde der Bund der
+Freundschaft geheiligt.“ Sie beschlossen, da die Contracte bald abliefen,
+für ihre Zukunft bedacht zu sein und um Pensionen oder um
+mässige Verbesserung ihres Einkommens zu bitten. Aus ihrem
+festen Vorsatze, in Mannheim zu bleiben, wollten sie kein
+Geheimniss machen, obgleich Schweigen einträglicher gewesen wäre; allein
+sie scheuten sich, mit der guten Meinung des Publikums und mit
+ihrer Unentbehrlichkeit Wucher zu treiben. Alles das ward am
+Brunnen im Walde verhandelt.
+An demselben Orte ward auch eine förmliche Conferenz über
+Fragen der Kunst abgehalten. Damit keiner nach vieljährigem
+Aufenthalte in Mannheim gegen das Publikum und dieses gegen
+ihn gleichgiltig werde, solle einer dem andern ein aufrichtiges
+Bekenntniss über wahrgenommene Rückschritte oder Fortschritte
+ablegen; in Kunstsachen solle wie in vergangenen Jahren für alle
+drei nur ein Gewinn, ein Verlust, eine Ehre sein. Alle Fehler
+und Vorzüge sollen im Geiste treuester und ehrlichster
+Freundschaft besprochen werden. Wenn einer mit dem andern nicht
+zufrieden sei, solle Stillschweigen auf dem Theater Misbilligung
+ausdrücken, bis man sich in der nächsten Unterredung
+auseinandergesetzt habe. Es ward auch festgesetzt, dass die Darstellungsweise
+des einen, im Augenblicke, wo sie zusammen auf der Bühne zu
+thun hätten, das Interesse am Charakter des andern niemals stören,
+dass im stummen Spiel, im Gehen und Stehen, nie mehr oder
+-->
+	</Page>
+</PcGts>

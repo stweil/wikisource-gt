@@ -1,0 +1,407 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T14:11:12</Created>
+		<LastChange>2026-11-23T14:11:12</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/415 revision 5023583 of 2026-08-26T06:25:54Z, proofread level 3, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0415.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro69541605412472328" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="32,946 38,946 38,1484 32,1484" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="75,157 788,157 788,544 75,544" />
+			<!-- line left out: id="r1l0" points="364,167 383,167 411,157 422,157 447,158 475,167 498,167 498,168 475,168 447,174 422,174 411,174 383,168 364,168" baseline="364,174 446,173 498,173" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 203 — | german_print2_15: — 203 — -->
+			<!-- line left out: id="r1l1" points="76,223 101,221 113,221 221,221 222,215 233,215 235,222 245,222 246,228 278,215 284,215 287,221 296,221 313,215 324,215 326,221 337,220 353,220 391,218 417,214 428,214 430,221 441,220 457,220 473,228 478,215 489,214 501,214 534,213 557,213 559,219 585,219 585,213 627,213 630,226 647,219 671,219 691,219 692,213 709,213 731,218 786,218 786,228 776,229 765,229 741,228 722,227 709,228 680,228 671,227 660,227 659,234 647,234 596,229 573,229 550,230 488,230 428,230 376,231 371,231 324,230 296,231 249,231 233,231 113,232 76,232" baseline="76,232 134,231 278,230 595,228 786,228" reason: differs: "erswurd" against "ersagt " | Wikisource:  | next_nc_e1: unters wurde. In dem mit dem Abte Ulrich II. geschlossenen | german_print2_15: unters- wurde. In dem mit dem Abte Ulrich II. geschlossenen -->
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="77,243 98,242 100,248 113,246 131,248 131,242 143,242 143,260 159,248 184,242 188,242 190,250 199,245 226,241 237,241 238,248 323,246 334,241 346,241 373,248 379,248 379,240 396,240 399,248 420,240 435,240 437,248 447,248 448,240 459,240 460,247 474,245 532,245 550,239 562,239 563,246 581,245 599,239 622,239 634,244 646,245 646,239 670,239 688,244 706,239 719,239 742,244 744,238 755,238 756,244 786,244 786,254 474,257 420,256 399,250 396,256 184,257 159,251 144,262 131,262 112,258 77,257" />
+				<Baseline points="77,257 786,254" />
+				<TextEquiv index="1">
+					<Unicode>Vertrage ist davon nicht die Rede; nur der Handel mit ihren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l3" points="78,269 86,268 103,268 104,274 123,273 152,273 202,273 212,267 223,267 224,275 235,273 245,273 257,267 263,267 277,268 299,267 313,267 338,272 339,266 351,266 352,272 363,272 388,272 389,266 400,266 401,275 413,272 431,272 494,272 497,266 513,266 526,272 550,272 551,266 561,266 588,272 600,271 623,270 635,270 641,265 653,265 675,270 687,271 710,270 721,265 733,265 767,265 788,270 788,280 746,281 708,281 687,281 561,282 431,282 351,282 313,283 263,283 223,283 152,283 103,284 86,284 78,283" baseline="78,283 244,282 788,280" reason: differs: "ern—und" against "rn – un" | Wikisource:  | next_nc_e1: Waaren war den Dorfhandwerkern — und nicht einmal ausnahmslos | german_print2_15: Waaren war den Dorfhandwerkern — und nicht einmal ausnahmslos -->
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="114,300 135,301 136,294 149,294 156,299 201,294 246,294 264,299 271,293 305,293 306,299 316,299 333,293 345,293 346,301 357,299 374,299 389,293 400,293 420,298 434,305 436,293 485,293 499,301 501,292 515,292 532,296 540,292 550,292 565,296 583,297 597,291 625,291 626,297 633,297 638,291 649,291 651,299 661,299 662,291 680,291 687,297 710,297 726,290 740,290 755,291 756,298 767,298 767,290 779,290 779,300 786,300 786,302 779,306 680,310 659,310 625,307 374,309 114,308" />
+				<Baseline points="114,308 786,306" />
+				<TextEquiv index="1">
+					<Unicode>verboten. Auch in dem der Stadt erteilten Privilegium Fried-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="76,326 95,326 97,320 107,320 108,326 118,326 118,320 153,320 154,327 172,328 192,319 211,319 216,325 245,319 278,319 288,323 332,325 399,325 423,327 425,318 436,318 438,326 447,326 467,319 521,319 544,322 601,324 645,323 665,317 686,317 687,325 707,323 708,317 719,317 786,322 786,332 625,333 572,336 561,336 332,334 121,336 76,336" />
+				<Baseline points="76,335 786,332" />
+				<TextEquiv index="1">
+					<Unicode>richs des Ernsthaften ist nur die Errichtung neuer Werkstätten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l6" points="75,352 94,350 107,350 127,352 160,350 200,345 206,345 216,348 251,354 257,345 279,345 279,351 287,351 332,345 343,345 350,349 394,351 395,345 406,345 407,353 418,350 423,350 435,351 448,350 458,350 502,351 503,345 514,345 665,347 682,349 692,348 704,343 749,343 749,359 642,359 635,365 618,365 610,360 547,362 535,362 490,361 473,361 435,360 406,361 384,361 361,360 350,361 287,361 264,361 255,360 233,361 206,361 172,362 159,362 107,362 87,362 75,362" baseline="75,362 171,361 360,360 713,359 749,359" reason: differs: "idtesch" against " Städte" | Wikisource:  | next_nc_e1: untersagt. Die drei dte scheinen nicht ganz unparteiisch Re
+ | german_print2_15: untersagt. Die drei dte scheinen nicht ganz unparteiisch Re
+ -->
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="75,379 115,377 144,378 151,372 156,372 158,378 236,377 239,371 261,371 261,378 286,377 293,371 297,371 298,377 313,377 330,373 341,373 352,377 353,371 364,371 366,377 384,377 384,371 397,371 429,376 445,374 457,377 465,371 509,371 509,377 582,373 616,376 624,370 655,370 689,375 712,365 725,365 725,374 733,374 739,369 764,369 765,375 776,375 776,369 786,369 786,385 757,389 739,389 725,385 725,393 712,393 712,385 616,386 581,389 545,386 519,387 509,389 429,386 190,389 115,387 113,393 108,393 107,386 87,390 75,390" />
+				<Baseline points="75,387 786,385" />
+				<TextEquiv index="1">
+					<Unicode>gesprochen, sondern ihre Schwesterstadt begünstigt zu haben. Fraglich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="76,399 112,405 161,405 162,398 199,397 206,403 228,399 287,397 289,405 320,398 331,398 371,405 377,398 387,398 401,406 407,397 420,397 420,403 432,403 442,397 455,397 456,403 466,403 467,397 478,397 480,403 502,404 503,397 508,397 510,403 617,401 735,401 750,395 761,395 763,401 775,398 786,398 786,411 657,412 640,414 593,412 345,413 344,419 333,419 331,412 76,414" />
+				<Baseline points="76,413 786,411" />
+				<TextEquiv index="1">
+					<Unicode>ist es, ob der Abt den Spruch der Schiedsmänner angenommen hat.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="77,424 97,426 108,430 124,424 147,423 154,430 182,431 184,423 188,423 204,429 271,428 303,425 345,425 421,427 463,431 463,424 507,423 508,430 548,430 559,424 573,424 596,428 597,422 608,422 610,428 633,428 635,421 648,421 650,435 669,427 703,422 722,421 733,421 734,427 779,427 786,429 786,436 654,440 633,438 451,439 445,441 410,439 399,443 389,443 210,438 77,440" />
+				<Baseline points="77,440 786,436" />
+				<TextEquiv index="1">
+					<Unicode>Der Schied vom 26. August 1428 giebt keine Auskunft, weil daraus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="75,456 104,456 104,450 149,450 178,455 202,455 219,457 221,450 231,450 244,454 246,463 264,457 275,457 277,450 287,450 301,457 308,449 318,449 326,455 352,458 353,449 363,449 365,456 434,454 442,449 453,449 455,455 465,455 467,449 486,453 509,455 530,449 553,449 554,455 600,454 623,460 628,454 641,454 641,447 656,447 684,447 685,454 696,454 698,448 709,448 710,454 750,448 772,448 786,453 786,461 766,464 530,465 511,459 509,465 250,467 212,467 203,467 170,465 75,466" />
+				<Baseline points="75,466 786,463" />
+				<TextEquiv index="1">
+					<Unicode>nicht hervorgeht, ob der darin enthaltene Hinweis auf frühere Ab-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="76,482 110,482 111,476 121,476 123,482 164,482 203,476 240,476 257,482 286,478 310,483 312,476 323,476 331,482 340,482 358,476 390,476 400,479 460,481 464,488 486,475 577,482 577,475 589,475 590,481 646,480 646,474 764,474 765,481 776,481 776,473 786,473 786,489 685,490 541,494 489,494 486,494 367,491 286,491 164,494 147,494 76,492" />
+				<Baseline points="76,491 786,489" />
+				<TextEquiv index="1">
+					<Unicode>machungen sich auf den Vertrag v. J. 1331 oder auf den Schied</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l12" custom="readingOrder {index:12;}">
+				<Coords points="76,509 82,509 87,515 105,502 113,502 116,515 135,507 164,504 195,502 199,508 229,507 241,509 242,502 254,502 260,505 263,515 294,502 307,502 309,508 319,508 325,502 330,502 332,509 371,506 393,506 425,511 430,515 449,509 455,509 455,501 481,501 481,510 488,510 503,501 514,501 516,509 548,502 565,501 570,501 598,509 608,506 625,506 625,500 636,500 651,506 656,500 668,500 670,506 680,506 681,500 686,500 724,500 724,506 786,506 786,512 774,515 768,520 668,516 430,518 416,516 330,518 163,516 151,519 116,517 113,524 105,524 90,518 76,518" />
+				<Baseline points="76,518 173,516 786,515" />
+				<TextEquiv index="1">
+					<Unicode>v. J. 1368 bezieht. Sicher ist es, daſs der Abt sich nicht für ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l13" custom="readingOrder {index:13;}">
+				<Coords points="76,529 87,529 111,534 112,528 123,528 125,536 136,534 170,533 199,535 206,528 210,528 224,531 248,531 255,535 258,541 280,528 292,528 293,534 336,534 357,528 369,528 370,536 391,534 407,528 435,528 447,533 448,527 459,527 461,533 472,533 498,528 509,528 510,536 518,536 548,533 581,534 599,527 611,527 612,534 634,533 651,526 663,526 664,532 674,532 675,526 686,526 688,532 711,532 712,526 724,526 725,536 751,532 775,532 776,526 786,526 786,542 391,544 381,544 336,544 328,544 261,544 258,544 146,544 123,544 76,544" />
+				<Baseline points="76,544 786,542" />
+				<TextEquiv index="1">
+					<Unicode>bunden erachtete, da er den Handwerks- wie den Schank- und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Vertrage ist davon nicht die Rede; nur der Handel mit ihren
+verboten. Auch in dem der Stadt erteilten Privilegium Fried-
+richs des Ernsthaften ist nur die Errichtung neuer Werkstätten
+gesprochen, sondern ihre Schwesterstadt begünstigt zu haben. Fraglich
+ist es, ob der Abt den Spruch der Schiedsmänner angenommen hat.
+Der Schied vom 26. August 1428 giebt keine Auskunft, weil daraus
+nicht hervorgeht, ob der darin enthaltene Hinweis auf frühere Ab-
+machungen sich auf den Vertrag v. J. 1331 oder auf den Schied
+v. J. 1368 bezieht. Sicher ist es, daſs der Abt sich nicht für ge-
+bunden erachtete, da er den Handwerks- wie den Schank- und</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="75,552 792,552 792,1352 75,1352" />
+			<!-- line left out: id="r2l0" points="77,555 81,555 98,556 141,560 159,560 160,554 172,554 172,562 183,557 190,557 218,554 222,554 226,561 251,560 269,560 271,554 278,554 297,563 305,562 312,560 339,560 357,560 375,554 380,554 395,556 418,556 474,557 481,560 492,561 502,557 515,557 600,552 617,552 624,558 717,558 734,552 737,552 758,552 766,558 780,558 787,562 787,564 780,568 624,569 492,569 481,573 470,573 380,569 339,569 328,570 312,570 278,569 251,569 222,568 210,569 172,569 141,570 77,570" baseline="77,570 277,568 787,568" reason: differs: "tetNunw" against "tete. N" | Wikisource:  | next_nc_e1: Brauereibetrieb auf seinen Dörfern gestattet Nun waren aller- | german_print2_15: Brauereibetrieb auf seinen Dörfern gestattet Nun waren aller- -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="75,581 86,581 104,586 149,587 150,580 162,580 163,587 173,587 189,579 202,579 209,587 223,584 333,586 349,580 361,580 362,587 373,584 412,582 415,588 422,588 441,580 452,580 453,587 472,588 486,580 497,580 498,587 509,580 521,580 521,586 544,586 546,580 557,580 558,587 569,585 631,585 633,579 659,578 664,578 681,579 682,585 779,584 787,588 787,591 779,594 464,594 394,596 361,595 316,597 207,594 162,595 118,599 106,599 75,596" />
+				<Baseline points="75,596 172,594 787,594" />
+				<TextEquiv index="1">
+					<Unicode>dings die Bestimmungen betreffs des Schänkens und Brauens un-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="75,613 117,612 118,606 129,606 131,614 142,612 149,609 161,609 168,611 214,611 216,605 232,605 260,606 261,612 286,610 309,606 321,606 321,612 405,606 405,612 439,609 484,614 486,606 496,606 511,611 525,605 533,605 563,612 564,605 578,605 605,613 643,609 664,609 693,605 698,605 764,611 764,605 774,605 787,607 787,620 609,620 585,623 439,621 286,621 179,624 169,624 129,621 75,622" />
+				<Baseline points="75,621 787,620" />
+				<TextEquiv index="1">
+					<Unicode>zweideutig und lauteten zu Gunsten der Stadt; es ist aber recht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="75,638 86,638 95,640 98,633 109,632 120,632 135,639 141,632 189,632 192,638 220,637 244,640 246,632 304,632 305,641 337,633 353,632 358,632 387,640 401,638 414,632 423,632 438,638 449,638 451,632 455,632 458,638 482,638 497,632 508,632 509,638 545,638 561,631 574,631 575,639 585,639 595,634 726,637 727,630 738,630 738,636 788,636 788,646 684,648 370,647 268,648 220,650 209,650 75,647" />
+				<Baseline points="75,647 788,646" />
+				<TextEquiv index="1">
+					<Unicode>wohl denkbar, daſs der Abt sich über diese Bestimmungen ebenso</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="76,659 87,659 100,664 166,661 209,661 221,665 222,671 248,664 312,664 324,658 334,658 354,666 359,658 371,658 373,666 383,666 400,658 406,658 414,663 433,665 434,658 446,658 456,665 468,665 470,658 480,658 482,665 509,665 527,658 539,658 540,664 550,664 551,658 562,658 568,663 580,665 580,657 592,657 594,663 701,663 702,657 714,657 759,663 764,657 777,657 788,662 788,672 509,674 279,673 225,675 209,673 144,676 135,676 119,673 76,674" />
+				<Baseline points="76,674 143,672 788,672" />
+				<TextEquiv index="1">
+					<Unicode>hinweg setzte, wie sich die städtischen Schiedsmänner über die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="78,684 95,685 107,688 150,690 159,692 173,683 184,683 186,692 204,692 215,685 231,684 236,684 270,692 285,685 347,692 348,685 384,685 394,692 399,688 443,684 444,690 455,688 500,690 501,697 520,684 532,684 538,690 589,690 639,689 641,683 661,683 661,689 688,689 690,683 701,683 753,683 765,683 787,683 787,699 574,699 549,701 392,699 184,699 150,700 133,703 116,703 78,700" />
+				<Baseline points="78,700 787,699" />
+				<TextEquiv index="1">
+					<Unicode>Befugnis des Abtes hinweggesetzt hatten, da, wo es altherkömmlich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="76,716 189,716 205,710 226,710 246,713 281,711 305,716 327,716 341,710 353,710 361,716 388,711 410,710 411,716 434,716 436,710 449,710 459,718 469,718 471,710 506,710 508,716 538,714 559,717 560,710 571,710 585,716 640,715 641,709 651,709 660,715 672,710 684,710 685,716 707,715 709,722 734,709 750,709 752,715 757,715 764,709 775,709 788,712 788,725 160,726 115,728 104,728 76,725" />
+				<Baseline points="76,725 788,725" />
+				<TextEquiv index="1">
+					<Unicode>war, seinen Unterthanen den Handwerksbetrieb zu erlauben. Nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="76,742 140,742 155,735 166,735 168,743 203,740 229,736 256,736 301,742 302,736 313,736 322,742 337,739 375,742 376,749 399,742 421,744 421,736 431,736 433,742 444,737 455,737 456,743 485,744 486,736 497,736 504,742 512,742 527,736 542,736 543,743 555,740 633,741 648,735 656,735 658,748 677,740 739,741 787,739 787,754 739,751 695,755 658,751 656,758 648,758 633,751 603,754 537,751 380,753 256,751 76,752" />
+				<Baseline points="76,752 787,751" />
+				<TextEquiv index="1">
+					<Unicode>nur in den 6 Klosterdörfern, welche der Vertrag v. J. 1331 nennt,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="76,770 108,768 109,762 120,762 122,769 183,767 208,762 218,762 241,768 294,768 296,762 313,762 321,768 411,763 433,770 452,770 471,763 489,762 499,762 500,768 529,768 531,762 542,762 543,770 565,768 566,775 593,767 604,767 611,762 685,762 752,767 771,761 776,761 777,767 787,767 787,777 570,779 566,779 388,779 376,779 196,777 97,778 76,776" />
+				<Baseline points="76,776 787,777" />
+				<TextEquiv index="1">
+					<Unicode>sondern auch in anderen gab es Schänken, und nicht nur in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="78,788 90,788 98,794 112,794 114,788 118,788 118,794 159,794 160,788 193,787 200,787 216,795 238,793 249,788 261,788 262,795 340,794 341,788 352,788 367,794 389,794 397,788 408,788 410,794 460,792 528,794 528,788 539,788 541,795 618,795 619,788 635,788 674,793 674,787 712,787 712,793 722,793 725,787 735,787 742,793 787,790 787,803 735,803 722,808 705,808 667,804 582,803 576,807 539,804 78,804" />
+				<Baseline points="78,804 787,803" />
+				<TextEquiv index="1">
+					<Unicode>Burkersdorf, sondern auch anderwärts wurde gemälzt und gebraut.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="78,814 98,816 110,820 124,814 137,814 146,820 308,820 310,814 315,814 317,820 360,815 362,821 433,820 450,815 460,815 475,822 481,814 493,814 495,820 520,815 533,814 539,814 567,820 585,820 585,814 620,814 621,820 641,820 650,814 667,814 668,820 703,814 713,814 732,819 733,813 744,813 745,819 757,817 770,817 780,822 788,823 788,825 780,828 770,829 632,830 433,830 423,827 408,833 394,833 386,830 315,829 249,833 238,833 167,830 161,833 146,833 137,830 78,830" />
+				<Baseline points="78,830 788,829" />
+				<TextEquiv index="1">
+					<Unicode>Der Regierung gegenüber bezog sich der Abt auf das Gewohnheits-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="77,846 85,846 108,841 118,841 125,844 131,853 157,846 168,846 170,840 174,840 178,847 201,845 223,852 227,847 238,847 239,840 250,840 251,847 270,848 291,840 298,840 300,846 311,846 313,840 323,840 325,846 392,846 393,840 404,840 405,846 452,846 452,840 457,840 478,846 495,846 517,840 539,842 553,846 562,840 574,840 575,848 620,841 636,840 641,840 643,846 704,845 705,839 717,839 725,842 762,846 763,839 775,839 776,846 788,846 788,854 666,859 649,859 641,855 300,855 298,862 291,862 270,854 226,856 134,857 77,856" />
+				<Baseline points="77,856 788,855" />
+				<TextEquiv index="1">
+					<Unicode>recht, aber jedes Jahr erschienen in Dresden Abgesandte des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="76,869 97,867 99,873 153,869 169,869 188,872 202,866 206,866 221,867 256,873 257,879 275,872 323,873 325,866 335,866 338,872 350,872 360,866 374,866 381,874 385,866 396,866 398,872 441,870 496,874 498,866 509,866 511,874 524,874 534,867 556,867 569,870 651,872 656,866 679,866 694,871 725,871 743,866 753,866 754,872 787,871 787,881 711,881 710,887 704,887 694,881 509,882 477,885 429,882 427,888 415,888 415,882 385,882 381,876 374,882 87,882 76,880" />
+				<Baseline points="76,882 319,880 787,881" />
+				<TextEquiv index="1">
+					<Unicode>Chemnitzer Rates, um der Behauptung des Abtes zu widersprechen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l13" points="88,905 119,896 123,896 158,892 163,892 165,898 190,898 213,898 220,892 224,892 226,898 243,898 266,898 268,892 278,892 302,895 324,898 342,892 354,892 355,898 366,898 445,898 456,900 456,892 468,892 470,898 480,894 492,892 501,892 503,899 528,894 542,894 565,898 565,892 570,892 572,898 583,898 585,892 603,892 605,898 640,898 657,892 669,892 690,897 710,891 716,891 719,897 754,897 754,891 768,891 768,897 782,897 788,901 788,903 782,907 640,912 629,912 583,908 565,908 501,908 445,910 433,910 391,908 368,902 366,908 305,908 243,907 237,908 190,908 177,908 163,907 139,908 88,908" baseline="88,908 277,907 788,907" reason: second model: differs: "6sis" against "Es i" | Wikisource: s ist bezeichnend für die mangelhafte Ausbildung der Landes | next_nc_e1: s ist bezeichnend für die mangelhaſte Ausbildung der Landes- | german_print2_15: 6s ist bezeichnend für die mangelhafte Ausbildung der Landes- -->
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="77,918 88,918 89,924 100,924 101,918 106,918 108,925 131,922 210,922 212,931 230,918 238,918 240,924 251,924 252,918 257,918 259,924 273,924 274,918 285,918 287,924 315,924 317,918 329,918 349,922 350,932 372,918 437,918 445,924 454,924 470,918 484,918 492,925 572,924 585,918 663,923 670,917 683,917 683,923 716,923 730,917 749,917 785,917 788,917 788,933 597,934 572,936 492,936 484,934 402,934 350,936 329,934 240,933 238,940 230,940 215,933 210,938 202,938 179,934 77,934" />
+				<Baseline points="77,934 788,933" />
+				<TextEquiv index="1">
+					<Unicode>hoheit im 15. Jahrhundert, daſs die Regierung kein anderes Mittel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="78,946 89,946 113,950 114,944 119,944 121,957 144,950 195,950 197,944 209,944 210,951 258,950 278,944 281,944 291,950 302,950 303,944 315,944 321,950 331,950 333,944 345,944 347,950 357,950 359,944 369,944 376,951 397,950 409,944 423,944 424,950 435,950 445,947 457,947 475,950 477,944 488,944 489,951 548,950 563,944 602,944 603,950 698,949 699,943 710,943 710,949 768,949 768,943 780,943 782,949 789,949 789,959 745,962 733,962 602,959 209,959 124,962 121,962 78,960" />
+				<Baseline points="78,960 789,959" />
+				<TextEquiv index="1">
+					<Unicode>fand, um diesem unleidlichen Zustande ein Ende zu machen, als</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="76,970 106,972 108,978 142,978 143,970 152,970 155,977 174,970 186,970 187,978 231,970 296,974 315,978 325,974 377,974 389,978 393,983 411,976 437,974 474,978 477,970 492,970 500,976 521,976 536,970 550,970 571,975 712,975 713,969 724,969 725,975 748,975 748,982 772,969 777,969 779,975 788,975 788,985 753,987 583,988 571,988 499,985 393,987 357,986 304,988 293,988 174,985 155,980 152,986 76,985" />
+				<Baseline points="76,985 788,985" />
+				<TextEquiv index="1">
+					<Unicode>daſs sie dem Rate gestattete, mit seinen Bürgern auszuziehen, in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="77,996 89,996 90,1002 153,1002 166,1001 175,996 186,996 197,1001 200,995 211,995 214,1003 237,1002 243,995 254,995 256,1001 268,1001 283,995 288,995 301,996 302,1002 337,1002 361,1004 362,996 373,996 375,1003 411,1002 418,996 428,996 430,1004 441,1002 476,1001 514,995 545,995 587,1001 587,995 599,995 622,996 663,1003 670,995 680,995 681,1001 715,1001 715,995 727,995 743,995 744,1001 788,1001 788,1011 768,1015 755,1015 650,1011 476,1011 453,1014 441,1014 428,1011 411,1013 211,1010 124,1012 106,1006 101,1011 77,1011" />
+				<Baseline points="77,1011 788,1011" />
+				<TextEquiv index="1">
+					<Unicode>die innerhalb der Bannmeile gelegenen Klosterdörfer einzudringen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="78,1028 101,1028 102,1022 113,1022 127,1029 133,1029 133,1022 156,1022 179,1028 212,1027 219,1021 233,1021 233,1027 255,1027 256,1021 267,1021 268,1029 313,1028 327,1022 344,1022 346,1029 427,1028 428,1022 455,1021 460,1021 513,1027 552,1025 563,1028 576,1034 587,1034 588,1027 673,1027 673,1021 691,1021 703,1026 717,1027 778,1027 779,1021 789,1021 789,1037 717,1042 704,1042 653,1037 587,1040 520,1037 513,1041 495,1041 460,1037 381,1038 369,1036 360,1038 201,1039 175,1036 156,1038 78,1038" />
+				<Baseline points="78,1038 169,1036 789,1037" />
+				<TextEquiv index="1">
+					<Unicode>und die vorgefundenen Fässer und Braugeräte „zu zerschlagen und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="78,1054 144,1054 146,1048 157,1048 182,1053 206,1053 252,1047 257,1047 278,1053 312,1054 332,1048 347,1048 350,1054 418,1054 428,1051 459,1053 460,1047 471,1047 489,1053 541,1053 541,1047 553,1047 554,1054 566,1053 589,1048 605,1047 617,1047 644,1053 661,1053 661,1047 705,1047 731,1053 731,1047 745,1047 764,1048 780,1053 789,1054 789,1059 780,1063 418,1063 387,1066 371,1066 363,1064 252,1063 224,1055 214,1055 212,1062 78,1063" />
+				<Baseline points="78,1063 789,1063" />
+				<TextEquiv index="1">
+					<Unicode>zu zerhauen.“ Dieser Kriegszustand zwischen Abt und Stadt be-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="78,1080 144,1078 179,1073 197,1073 199,1079 230,1073 242,1073 249,1080 261,1080 273,1073 294,1073 323,1074 331,1080 349,1077 378,1080 389,1074 395,1073 411,1073 419,1080 436,1080 436,1073 448,1073 458,1079 468,1079 469,1073 480,1073 481,1081 489,1081 503,1073 519,1073 522,1086 540,1079 563,1079 564,1073 602,1073 622,1073 622,1079 647,1076 708,1079 708,1073 743,1073 767,1078 790,1079 790,1089 780,1094 768,1094 767,1088 378,1090 282,1090 242,1088 154,1089 78,1092" />
+				<Baseline points="78,1089 168,1087 790,1089" />
+				<TextEquiv index="1">
+					<Unicode>gann zur Zeit des Kurfürsten Friedrichs II. und dauerte noch lange</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="78,1099 86,1099 88,1105 99,1105 100,1099 111,1099 121,1107 168,1105 180,1102 189,1102 203,1108 284,1099 304,1099 308,1107 317,1107 318,1100 350,1099 361,1099 370,1105 378,1103 389,1103 389,1115 289,1115 284,1102 269,1115 88,1114 86,1121 78,1121" />
+				<Baseline points="78,1115 389,1115" />
+				<TextEquiv index="1">
+					<Unicode>Jahre nach seinem Tode fort.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="130,1126 152,1125 154,1132 196,1130 213,1130 220,1132 225,1124 230,1124 258,1131 289,1131 304,1125 315,1125 323,1131 350,1127 372,1126 386,1129 387,1138 411,1133 432,1130 443,1130 450,1124 467,1124 477,1130 536,1125 567,1125 569,1131 596,1130 619,1125 638,1125 650,1130 673,1128 683,1131 699,1124 715,1124 716,1130 761,1127 790,1129 790,1140 739,1140 724,1145 716,1145 650,1141 619,1141 614,1133 602,1141 130,1141" />
+				<Baseline points="130,1141 790,1140" />
+				<TextEquiv index="1">
+					<Unicode>Aber nicht nur der Abt, sondern auch benachbarte Dynasten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="79,1151 91,1151 101,1157 122,1157 123,1151 135,1151 136,1158 180,1158 181,1150 192,1150 193,1157 207,1157 222,1150 227,1150 279,1156 301,1157 302,1151 313,1151 339,1158 345,1151 360,1151 360,1157 368,1157 385,1151 398,1151 418,1156 419,1150 430,1150 480,1150 481,1156 551,1156 566,1165 569,1152 589,1152 602,1156 645,1156 645,1150 657,1150 682,1150 702,1152 719,1156 728,1152 782,1152 791,1155 791,1165 708,1165 708,1171 602,1167 481,1166 480,1172 472,1172 444,1166 79,1166" />
+				<Baseline points="79,1166 791,1165" />
+				<TextEquiv index="1">
+					<Unicode>brachen das Bannrecht der Stadt. Jan von Auerswalde gestattete</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l24" custom="readingOrder {index:24;}">
+				<Coords points="80,1183 135,1184 136,1177 147,1177 149,1184 182,1182 204,1176 210,1176 220,1179 245,1176 258,1176 291,1177 293,1184 315,1183 316,1177 326,1177 327,1183 337,1183 352,1186 368,1176 384,1176 385,1182 438,1182 447,1184 465,1176 477,1176 478,1183 517,1178 590,1177 591,1186 616,1182 640,1182 641,1176 694,1176 719,1181 719,1175 733,1175 741,1180 753,1181 754,1175 774,1175 775,1182 784,1182 791,1184 791,1187 784,1190 774,1191 337,1192 291,1196 274,1196 210,1192 80,1192" />
+				<Baseline points="80,1192 791,1191" />
+				<TextEquiv index="1">
+					<Unicode>in seinem Dorfe gleiches Namens den Schank- und Handwerks-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l25" custom="readingOrder {index:25;}">
+				<Coords points="80,1203 92,1203 110,1206 130,1203 149,1203 150,1216 172,1208 220,1208 267,1203 327,1203 327,1209 346,1209 360,1203 409,1209 410,1202 486,1202 487,1208 498,1208 499,1202 504,1202 518,1206 590,1208 590,1202 610,1205 650,1207 650,1201 669,1201 702,1206 717,1200 732,1200 732,1206 757,1206 757,1200 762,1200 770,1201 781,1206 781,1200 791,1200 791,1216 764,1216 757,1222 737,1222 737,1216 720,1216 720,1222 702,1216 626,1220 596,1218 454,1217 454,1223 442,1223 441,1217 184,1217 154,1221 130,1221 80,1217" />
+				<Baseline points="80,1217 791,1216" />
+				<TextEquiv index="1">
+					<Unicode>betrieb, wozu er sich für berechtigt halten mochte, da es fraglich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l26" custom="readingOrder {index:26;}">
+				<Coords points="81,1234 146,1235 147,1229 158,1229 173,1235 179,1228 189,1228 191,1234 222,1235 223,1228 235,1228 237,1234 249,1234 262,1228 274,1228 292,1234 299,1228 312,1228 327,1234 360,1234 371,1228 384,1228 411,1235 412,1227 423,1227 425,1233 439,1233 440,1227 456,1227 456,1233 475,1228 487,1228 487,1234 516,1234 526,1228 542,1228 542,1234 562,1234 572,1228 586,1228 605,1233 606,1227 620,1227 644,1232 657,1226 661,1226 669,1232 677,1229 685,1229 696,1233 696,1226 708,1226 728,1232 737,1226 751,1226 784,1227 784,1236 791,1236 791,1239 784,1242 562,1244 205,1243 120,1246 109,1246 81,1243" />
+				<Baseline points="81,1243 791,1242" />
+				<TextEquiv index="1">
+					<Unicode>war, ob das der Stadt von Friedrich dem Ernsthaften erteilte Privi-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l27" custom="readingOrder {index:27;}">
+				<Coords points="81,1254 122,1254 134,1259 145,1260 161,1254 166,1254 169,1261 186,1257 201,1257 212,1261 213,1254 218,1254 220,1260 237,1259 254,1254 312,1254 313,1260 320,1260 330,1257 343,1257 353,1260 375,1260 375,1254 387,1254 395,1257 442,1259 444,1253 457,1253 457,1259 475,1261 476,1254 488,1254 488,1260 525,1254 582,1256 593,1260 631,1260 631,1253 643,1251 664,1251 696,1252 718,1257 754,1252 791,1252 791,1268 353,1270 178,1268 110,1271 89,1271 81,1269" />
+				<Baseline points="81,1269 791,1268" />
+				<TextEquiv index="1">
+					<Unicode>legium bestehende Privatrechte aufheben konnte. Auf keinen Fall</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l28" custom="readingOrder {index:28;}">
+				<Coords points="82,1285 168,1287 169,1280 181,1280 183,1287 192,1287 208,1293 212,1279 229,1279 236,1285 250,1285 262,1280 306,1280 307,1287 326,1288 341,1280 352,1279 388,1279 395,1285 408,1284 429,1279 437,1279 471,1285 554,1284 556,1291 578,1284 601,1284 615,1277 627,1277 628,1285 671,1278 678,1278 689,1283 703,1280 711,1280 722,1283 722,1277 734,1277 735,1284 758,1284 758,1278 770,1278 770,1284 792,1284 792,1294 627,1294 559,1296 494,1295 484,1299 471,1299 427,1295 395,1297 306,1295 82,1294" />
+				<Baseline points="82,1295 615,1293 792,1295" />
+				<TextEquiv index="1">
+					<Unicode>war es die Absicht des Markgrafen gewesen, an dem bestehenden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l29" custom="readingOrder {index:29;}">
+				<Coords points="83,1305 97,1305 105,1313 114,1313 120,1305 131,1305 139,1310 188,1309 216,1312 266,1311 287,1317 291,1312 314,1313 316,1305 327,1305 329,1313 354,1311 356,1318 380,1305 392,1305 393,1311 429,1311 430,1304 442,1304 442,1310 477,1305 490,1305 500,1311 514,1311 518,1305 650,1310 650,1303 665,1303 665,1309 688,1309 689,1303 707,1303 709,1309 726,1309 726,1303 732,1303 732,1310 757,1304 770,1304 770,1310 792,1310 792,1320 561,1320 560,1326 542,1326 538,1320 356,1323 329,1315 327,1321 83,1320" />
+				<Baseline points="83,1321 792,1319" />
+				<TextEquiv index="1">
+					<Unicode>Rechte etwas zu ändern, da das Privilegium ausdrücklich den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l30" custom="readingOrder {index:30;}">
+				<Coords points="82,1331 94,1331 95,1338 105,1331 117,1331 118,1337 140,1337 142,1331 153,1331 154,1341 181,1337 204,1337 205,1331 253,1331 254,1337 277,1337 277,1331 291,1331 301,1338 311,1338 312,1331 349,1331 374,1335 402,1337 402,1331 414,1331 415,1343 446,1336 471,1336 493,1334 537,1336 554,1330 566,1330 566,1337 587,1335 587,1329 600,1329 600,1335 649,1335 651,1329 663,1329 663,1335 674,1335 674,1329 686,1329 731,1334 785,1335 792,1339 792,1342 785,1346 774,1346 774,1352 761,1352 674,1346 419,1348 82,1346" />
+				<Baseline points="82,1346 792,1346" />
+				<TextEquiv index="1">
+					<Unicode>Schank- und Handwerksbetrieb, soweit er herkömmlich war, ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>dings die Bestimmungen betreffs des Schänkens und Brauens un-
+zweideutig und lauteten zu Gunsten der Stadt; es ist aber recht
+wohl denkbar, daſs der Abt sich über diese Bestimmungen ebenso
+hinweg setzte, wie sich die städtischen Schiedsmänner über die
+Befugnis des Abtes hinweggesetzt hatten, da, wo es altherkömmlich
+war, seinen Unterthanen den Handwerksbetrieb zu erlauben. Nicht
+nur in den 6 Klosterdörfern, welche der Vertrag v. J. 1331 nennt,
+sondern auch in anderen gab es Schänken, und nicht nur in
+Burkersdorf, sondern auch anderwärts wurde gemälzt und gebraut.
+Der Regierung gegenüber bezog sich der Abt auf das Gewohnheits-
+recht, aber jedes Jahr erschienen in Dresden Abgesandte des
+Chemnitzer Rates, um der Behauptung des Abtes zu widersprechen.
+hoheit im 15. Jahrhundert, daſs die Regierung kein anderes Mittel
+fand, um diesem unleidlichen Zustande ein Ende zu machen, als
+daſs sie dem Rate gestattete, mit seinen Bürgern auszuziehen, in
+die innerhalb der Bannmeile gelegenen Klosterdörfer einzudringen
+und die vorgefundenen Fässer und Braugeräte „zu zerschlagen und
+zu zerhauen.“ Dieser Kriegszustand zwischen Abt und Stadt be-
+gann zur Zeit des Kurfürsten Friedrichs II. und dauerte noch lange
+Jahre nach seinem Tode fort.
+Aber nicht nur der Abt, sondern auch benachbarte Dynasten
+brachen das Bannrecht der Stadt. Jan von Auerswalde gestattete
+in seinem Dorfe gleiches Namens den Schank- und Handwerks-
+betrieb, wozu er sich für berechtigt halten mochte, da es fraglich
+war, ob das der Stadt von Friedrich dem Ernsthaften erteilte Privi-
+legium bestehende Privatrechte aufheben konnte. Auf keinen Fall
+war es die Absicht des Markgrafen gewesen, an dem bestehenden
+Rechte etwas zu ändern, da das Privilegium ausdrücklich den
+Schank- und Handwerksbetrieb, soweit er herkömmlich war, ge-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="394,1519 576,1519 576,1547 394,1547" />
+			<!-- line left out: id="r3l0" points="394,1529 401,1529 414,1530 424,1529 434,1528 452,1528 456,1529 469,1529 481,1529 491,1524 499,1524 499,1532 511,1529 524,1524 533,1519 547,1519 576,1524 576,1540 551,1540 547,1547 533,1547 533,1538 481,1538 452,1541 443,1541 434,1541 414,1540 401,1540 394,1538" baseline="394,1538 576,1538" reason: differs: "hpdi" against "stat" | Wikisource:  | next_nc_e1: hpdigſtal slub-dresden de ppr
+ | german_print2_15: tGdiSitl slub-drescen de nr
+ -->
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="0,0 1000,0 1000,1565 0,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+untersagt wurde. In dem mit dem Abte Ulrich II. geschlossenen
+Vertrage ist davon nicht die Rede; nur der Handel mit ihren
+Waaren war den Dorfhandwerkern – und nicht einmal ausnahmslos
+– verboten. Auch in dem der Stadt erteilten Privilegium
+Friedrichs des Ernsthaften ist nur die Errichtung neuer Werkstätten
+untersagt. Die drei Städte scheinen nicht ganz unparteiisch Recht
+gesprochen, sondern ihre Schwesterstadt begünstigt zu haben. Fraglich
+ist es, ob der Abt den Spruch der Schiedsmänner angenommen hat.
+Der Schied vom 26. August 1428 giebt keine Auskunft, weil daraus
+nicht hervorgeht, ob der darin enthaltene Hinweis auf frühere
+Abmachungen sich auf den Vertrag v. J. 1331 oder auf den Schied
+v. J. 1368 bezieht. Sicher ist es, daß der Abt sich nicht für
+gebunden erachtete, da er den Handwerks- wie den Schank- und
+Brauereibetrieb auf seinen Dörfern gestattete. Nun waren
+allerdings die Bestimmungen betreffs des Schänkens und Brauens
+unzweideutig und lauteten zu Gunsten der Stadt; es ist aber recht
+wohl denkbar, daß der Abt sich über diese Bestimmungen ebenso
+hinweg setzte, wie sich die städtischen Schiedsmänner über die
+Befugnis des Abtes hinweggesetzt hatten, da, wo es altherkömmlich
+war, seinen Unterthanen den Handwerksbetrieb zu erlauben. Nicht
+nur in den 6 Klosterdörfern, welche der Vertrag v. J. 1331 nennt,
+sondern auch in anderen gab es Schänken, und nicht nur in
+Burkersdorf, sondern auch anderwärts wurde gemälzt und gebraut.
+Der Regierung gegenüber bezog sich der Abt auf das
+Gewohnheitsrecht, aber jedes Jahr erschienen in Dresden Abgesandte des
+Chemnitzer Rates, um der Behauptung des Abtes zu widersprechen.
+Es ist bezeichnend für die mangelhafte Ausbildung der
+Landeshoheit im 15. Jahrhundert, daß die Regierung kein anderes Mittel
+fand, um diesem unleidlichen Zustande ein Ende zu machen, als
+daß sie dem Rate gestattete, mit seinen Bürgern auszuziehen, in
+die innerhalb der Bannmeile gelegenen Klosterdörfer einzudringen
+und die vorgefundenen Fässer und Braugeräte „zu zerschlagen und
+zu zerhauen.“ Dieser Kriegszustand zwischen Abt und Stadt
+begann zur Zeit des Kurfürsten Friedrichs II. und dauerte noch lange
+Jahre nach seinem Tode fort.
+Aber nicht nur der Abt, sondern auch benachbarte Dynasten
+brachen das Bannrecht der Stadt. Jan von Auerswalde gestattete
+in seinem Dorfe gleiches Namens den Schank- und
+Handwerksbetrieb, wozu er sich für berechtigt halten mochte, da es fraglich
+war, ob das der Stadt von Friedrich dem Ernsthaften erteilte
+Privilegium bestehende Privatrechte aufheben konnte. Auf keinen Fall
+war es die Absicht des Markgrafen gewesen, an dem bestehenden
+Rechte etwas zu ändern, da das Privilegium ausdrücklich den
+Schank- und Handwerksbetrieb, soweit er herkömmlich war,
+gestattete.
+-->
+	</Page>
+</PcGts>

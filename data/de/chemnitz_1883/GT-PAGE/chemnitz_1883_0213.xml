@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:56:15</Created>
+		<LastChange>2026-11-23T13:56:15</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/213 revision 4954036 of 2026-07-19T07:06:28Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0213.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro1190298402704949112" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="197,523 646,523 646,562 197,562" />
+			<!-- line left out: id="r0l0" points="197,524 255,524 261,534 359,534 359,524 379,524 387,534 453,534 479,523 510,523 514,534 555,534 560,524 604,524 606,534 618,534 625,527 646,527 646,554 604,554 492,554 479,554 361,553 330,553 285,552 282,562 261,562 255,552 197,552" baseline="197,552 479,552 646,554" reason: differs: "Allg" against "er v" | Wikisource:  | next_nc_e1: Allgemeiner Bericht.
+ | german_print2_15: Allgemeiner Bericht.
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="731,630 775,630 775,643 731,643" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="731,630 768,630 768,636 775,636 775,643 756,643 751,635 739,633 736,641 731,641" />
+				<Baseline points="731,641 775,641" />
+				<TextEquiv index="1">
+					<Unicode>1883.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>1883.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="730,657 776,657 776,667 730,667" />
+			<!-- line left out: id="r2l0" points="730,658 749,657 759,657 776,658 776,667 730,667" baseline="730,666 776,667" reason: differs: "aume" against "Nach" | Wikisource:  | next_nc_e1: aume
+ | german_print2_15: aume
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="608,704 776,704 776,745 608,745" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="668,708 679,708 687,704 698,704 713,709 733,709 753,704 766,704 775,709 775,719 729,719 698,719 682,719 668,713" />
+				<Baseline points="668,718 775,719" />
+				<TextEquiv index="1">
+					<Unicode>Subvention</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="608,732 612,732 619,738 645,736 739,736 749,730 759,730 767,736 776,736 776,745 739,745 678,745 661,745 634,745 608,742" />
+				<Baseline points="608,745 776,745" />
+				<TextEquiv index="1">
+					<Unicode>Gönner wurden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Subvention
+Gönner wurden</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="599,756 650,756 650,771 599,771" />
+			<!-- line left out: id="r4l0" points="599,762 610,762 611,756 616,756 624,764 636,762 641,762 650,765 650,768 641,771 636,771 624,770 611,764 610,770 599,770" baseline="599,770 650,771" reason: models differ | Wikisource: übers | next_nc_e1: übers
+ | german_print2_15: übers-
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="621,959 776,959 776,995 621,995" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="756,961 768,959 776,959 776,968 768,968 756,967" />
+				<Baseline points="756,967 776,968" />
+				<TextEquiv index="1">
+					<Unicode>an</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="621,986 628,980 632,980 635,987 656,988 664,980 674,980 684,985 708,983 716,985 753,987 756,979 760,979 763,986 770,986 770,994 726,995 719,995 635,993 632,984 624,989 621,989" />
+				<Baseline points="621,993 770,994" />
+				<TextEquiv index="1">
+					<Unicode>gleichzeitig die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>an
+gleichzeitig die</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="633,1005 776,1005 776,1021 633,1021" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="633,1009 637,1009 641,1017 650,1017 652,1011 663,1011 671,1005 676,1005 680,1014 703,1009 754,1012 776,1011 776,1020 754,1021 745,1021 633,1020" />
+				<Baseline points="633,1020 776,1020" />
+				<TextEquiv index="1">
+					<Unicode>tandssitzungen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>tandssitzungen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="562,1145 625,1145 625,1160 562,1160" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="562,1147 582,1145 586,1145 599,1150 607,1145 618,1145 625,1150 625,1160 607,1160 562,1159" />
+				<Baseline points="562,1159 625,1160" />
+				<TextEquiv index="1">
+					<Unicode>führer,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>führer,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="454,1195 777,1195 777,1264 454,1264" />
+			<!-- line left out: id="r8l0" points="454,1208 460,1195 487,1195 511,1196 514,1202 519,1202 532,1200 551,1200 556,1204 564,1195 575,1195 577,1202 589,1201 621,1201 634,1203 635,1195 646,1195 661,1209 666,1196 682,1196 686,1203 697,1195 702,1195 710,1201 724,1201 751,1201 751,1212 740,1212 697,1211 682,1210 666,1211 551,1211 519,1211 499,1211 476,1211 454,1211" baseline="454,1211 591,1210 661,1210 751,1212" reason: differs: "‚Bib" against "| Dr" | Wikisource:  | next_nc_e1: ‚Bibliothekar und Archivar, | german_print2_15: „Bibliothekar und Archivar, -->
+			<!-- line left out: id="r8l1" points="475,1225 480,1225 495,1228 499,1221 510,1221 520,1225 525,1234 546,1221 559,1221 604,1229 611,1229 624,1221 635,1221 637,1229 655,1229 669,1221 694,1221 695,1227 700,1227 738,1227 751,1228 764,1231 764,1238 753,1238 700,1237 679,1237 669,1237 635,1236 559,1236 529,1237 525,1237 475,1236" baseline="475,1236 669,1236 764,1238" reason: differs: "tädt" against "Dude" | Wikisource:  | next_nc_e1: tädt, K s des Museums, | german_print2_15: tädt, K s des Museums, -->
+			<TextLine id="r8l2" custom="readingOrder {index:2;}">
+				<Coords points="561,1255 572,1252 602,1255 604,1246 614,1246 622,1256 651,1260 651,1248 660,1248 683,1256 684,1250 698,1250 723,1247 726,1253 749,1253 777,1257 777,1259 760,1264 751,1264 614,1261 572,1262 561,1259" />
+				<Baseline points="561,1259 777,1264" />
+				<TextEquiv index="1">
+					<Unicode>er des Ausstellungs-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>er des Ausstellungs-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r9">
+			<Coords points="0,0 1000,0 1000,1565 0,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+⟦⟧
+Der vorliegende Bericht umfaßt die Thätigkeit des Vereins
+für Chemnitzer Geschichte während der Jahre 1882 und 1883.
+Nach wie vor erfreute sich der Verein in diesem Zeitraume
+der Teilnahme und Gunst der Chemnitzer Bürgerschaft, sowie der
+städtischen Behörden, welche wie seither eine jährliche Subvention
+von Mark 900. –. gewährten. Von einem Gönner wurden
+Mark 60. –. und Mark 25. –. schenkungsweise übersandt.
+Der Verein bestand am Ende des Jahres 1883 aus
+| ⟦⟧⟦⟧
+| Ehrenmitgliedern
+| rowspan="4" | \left. \begin{align} \\ \\ \\ \\ \\ \end{align} \right\}
+| rowspan="4" | zusammen 299 Mitgliedern.
+| ⟦⟧⟦⟧
+| korrespondierenden
+| ⟦⟧⟦⟧
+| auswärtigen
+| ⟦⟧⟦⟧
+| hiesigen
+Während der Jahre 1882 und 1883 hat der Verein 9 Sitzungen
+abgehalten, in welchen wissenschaftliche Vorträge dargeboten
+wurden; an zwei Versammlungsabenden fanden gleichzeitig die
+statutengemäßen Generalversammlungen statt; Vorstandssitzungen
+wurden während dieser Zeit 21 abgehalten.
+Der Vorstand besteht gegenwärtig aus:
+| Prof. Alwin Gottschaldt, Vorsitzender,
+| Dr. Karl Kirchner, stellvertr. Vorsitzender,
+| Kaufmann Guido Franke, Schriftführer,
+| Dr. Herm. Stier, Kassierer,
+| Lehrer Ernst Emmrich, Bibliothekar und Archivar,
+| Baumeister Hugo Duderstädt, Kustos des Museums,
+| Redakteur Friedr. Fischer, Führer des Ausstellungskatalogs.
+-->
+	</Page>
+</PcGts>

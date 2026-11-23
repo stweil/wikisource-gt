@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:56:28</Created>
+		<LastChange>2026-11-23T13:56:28</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/217 revision 5066573 of 2026-09-28T06:43:34Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0217.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro4879969499072969548" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="638,1218 786,1218 786,1234 638,1234" />
+			<TextLine id="r0l0" custom="readingOrder {index:0;}">
+				<Coords points="638,1223 673,1225 687,1222 700,1222 736,1218 756,1218 765,1225 786,1227 786,1234 756,1234 714,1234 651,1232 638,1225" />
+				<Baseline points="638,1232 786,1234" />
+				<TextEquiv index="1">
+					<Unicode>mmerten Kain.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>mmerten Kain.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="701,1244 774,1244 774,1260 701,1260" />
+			<!-- line left out: id="r1l0" points="701,1251 706,1251 718,1244 722,1244 731,1250 744,1250 774,1253 774,1260 744,1260 718,1260 706,1259 701,1259" baseline="701,1259 774,1260" reason: differs: "ichs" against "Ihre" | Wikisource:  | next_nc_e1: ichsisch
+ | german_print2_15: ichsisch
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="660,1295 775,1295 775,1316 660,1316" />
+			<!-- line left out: id="r2l0" points="660,1295 674,1295 678,1301 682,1301 714,1301 736,1301 775,1301 775,1316 747,1316 744,1309 736,1311 704,1311 674,1310 660,1310" baseline="660,1310 775,1309" reason: models differ | Wikisource: Kreuzgrupp | next_nc_e1: Kreuzgrupp
+ | german_print2_15: Kreuzgrupp-
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="661,1325 783,1325 783,1338 661,1338" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="661,1326 669,1325 680,1325 705,1327 719,1325 731,1325 783,1327 783,1336 768,1336 761,1332 741,1338 733,1338 700,1336 680,1338 669,1338 661,1335" />
+				<Baseline points="661,1335 783,1336" />
+				<TextEquiv index="1">
+					<Unicode>bständig für</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>bständig für</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="394,1519 597,1519 597,1547 394,1547" />
+			<!-- line left out: id="r4l0" points="394,1529 402,1529 408,1530 422,1529 431,1529 443,1529 448,1529 456,1529 469,1529 474,1519 481,1519 481,1529 499,1529 533,1529 533,1519 547,1519 551,1532 565,1530 586,1530 593,1536 597,1536 597,1538 566,1540 551,1540 547,1547 533,1547 533,1538 481,1538 481,1547 474,1547 474,1538 443,1541 427,1541 422,1541 407,1540 394,1538" baseline="394,1538 593,1537 597,1537" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hup eigſtal slub dresden de ppn s
+ | german_print2_15: PGGtel sGb dresden de ppn 2813
+ -->
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="0,0 1000,0 1000,1565 0,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+die byzantinische Kunst an den Stätten ihres Ursprunges erstarrte.
+Am sichtbarsten äußert sich diese fortschreitende künstlerische
+Thätigkeit für kirchliche Kunstzwecke auf dem kunstgewerblichen
+und plastischen Gebiete. Die Folge dieser Arbeiten äußert sich
+in einer ununterbrochenen Kette weithin strahlender und wirkender
+Werke, unter welchen für die Entwickelung der romanischen
+Plastik als Etappen jene von Gernroda, Goslar, Wechselburg
+und Freiberg zu bezeichnen sind, und als deren reifste Frucht
+die goldene Pforte aufzufassen ist.
+In der Bildung des sogenannten heiligen Grabes zu Gernroda
+vom Ende des 10. Jahrhunderts tritt uns zuerst erkenntlich jenes
+künstlerische Schaffen entgegen in Arbeiten, die in Stein und
+Stuck gebildet sind, welches letzteren Materials man sich gern
+bediente. Die im Teppichstil geschaffenen, zum Teil
+rosettenartig angeordneten feierlichen Darstellungen, obwohl noch in den
+Banden des Byzantinismus, lassen die später erfolgende Schönheit
+schon ahnen und schildern mit christlicher Mystik und Symbolik
+das fruchtbringende Christentum. Von besonderer Wichtigkeit
+sind die Marienfiguren im Innern des Werkes.
+Einen weiteren Schritt zeigen die Skulpturen an der
+Steinkanzel des Klosters Neuwerk zu Goslar, großartige Darstellungen
+des thronend segnenden Heilandes, der Maria etc.;
+bemerkenswert ist die in antikem Sinne gefühlte Gewandbehandlung.
+Ähnlich gebildet sind die Figuren von Otto I. und dessen Gemahlin
+in der westlichen Kapelle des Domes zu Magdeburg, die
+Stuckreliefs zu Kloster Gröningen bei Halberstadt, Darstellungen
+gleiches Inhalts in der Liebfrauenkirche zu Halberstadt. Es
+sind die kunsthistorischen Erfolge einer mächtig beginnenden
+Schule, welche sich von der Tradition bewußt losringt, frisches
+Blut belebend alten Formen mitteilt.
+Diese Schule bildete sich, fast geheimnisvoll für uns, am
+Ende des 11. Jahrhunderts weiter. Die nächste für uns erkennbare
+Folge war die in Rochlitzer Porphyr gefertigte Kanzel der
+Klosterkirche zu Wechselburg. Ihre Skulpturen zeigen den segnenden
+Heiland als Weltenrichter, den evangelischen Johannes, Maria,
+Moses, den Juden die eherne Schlange zeigend, Abrahams Opfer
+und die beiden ersten Brüder. Die künstlerische Eigentümlichkeit
+dieses Werkes zeigt sich bei auffallender Unkenntnis der
+Körperverhältnisse in dem großen antiken Ausdruck der Köpfe des
+unschuldig bittenden Abel, des grollenden, tiefbekümmerten Kain.
+Ihre künstlerische Behandlung deutet auf gemeinsame sächsische
+Schule, auf eine Kunst, welche aufzufassen versteht.
+Der Kanzel in Wechselburg folgt die dortige Kreuzgruppe
+über dem Altar, ursprünglich als Triumphkreuz selbständig für
+-->
+	</Page>
+</PcGts>

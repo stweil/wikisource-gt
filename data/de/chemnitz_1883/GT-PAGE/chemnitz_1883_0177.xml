@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T13:54:21</Created>
+		<LastChange>2026-11-23T13:54:21</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Mitteilungen_des_Vereins_für_Chemnitzer_Geschichte_Dritter_und_Vierter_Band.pdf/177 revision 5066368 of 2026-09-27T06:42:25Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="chemnitz_1883_0177.png" imageWidth="1000" imageHeight="1565">
+		<ReadingOrder>
+			<OrderedGroup id="ro11450171215342595514" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="558,201 782,201 782,819 558,819" />
+			<!-- line left out: id="r0l0" points="652,202 663,202 665,210 676,207 685,207 701,201 716,201 718,210 747,206 767,206 774,211 774,212 767,216 752,217 747,217 716,216 707,217 663,217 652,217" baseline="652,217 774,217" reason: differs: "denR" against "talt" | Wikisource:  | next_nc_e1: den Reichs-
+ | german_print2_15: den Reichs-
+ -->
+			<!-- line left out: id="r0l1" points="643,235 653,235 655,228 659,228 663,235 679,234 683,234 707,239 709,228 720,228 723,236 744,235 749,227 762,227 763,233 774,233 774,242 762,243 720,243 683,243 679,243 659,242 653,243 643,243" baseline="643,243 728,242 774,242" reason: differs: "aber" against "sich" | Wikisource:  | next_nc_e1: aber als der | german_print2_15: aber als der -->
+			<!-- line left out: id="r0l2" points="655,265 662,262 674,259 697,259 774,259 774,269 708,271 698,271 655,269" baseline="655,269 774,269" reason: differs: "ikun" against "rst " | Wikisource:  | next_nc_e1: ikungen im | german_print2_15: nakungen im -->
+			<TextLine id="r0l3" custom="readingOrder {index:3;}">
+				<Coords points="689,279 696,279 711,280 713,287 735,285 744,288 775,285 775,295 735,295 711,295 689,295" />
+				<Baseline points="689,295 775,295" />
+				<TextEquiv index="1">
+					<Unicode>Preussen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l4" points="694,310 700,310 710,312 721,315 724,309 727,309 752,314 752,305 759,305 761,311 769,311 769,321 694,321" baseline="694,321 769,321" reason: differs: "traf" against "⟦⟧ ü" | Wikisource:  | next_nc_e1: traf die
+ | german_print2_15: traf die
+ -->
+			<TextLine id="r0l5" custom="readingOrder {index:5;}">
+				<Coords points="647,341 669,341 683,331 698,331 705,338 728,339 732,332 741,332 743,340 775,338 775,347 732,347 720,345 717,353 705,353 700,348 647,343" />
+				<Baseline points="647,347 775,347" />
+				<TextEquiv index="1">
+					<Unicode>ass Napoleon</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l6" points="642,364 651,364 669,358 672,358 686,366 693,358 729,358 729,367 741,366 746,358 757,358 769,363 769,373 729,373 651,374 642,374" baseline="642,372 769,372" reason: differs: "ubal" against "die " | Wikisource:  | next_nc_e1: u bald sollte
+ | german_print2_15: u bald sollte
+ -->
+			<TextLine id="r0l7" custom="readingOrder {index:7;}">
+				<Coords points="592,385 597,385 619,391 652,394 661,397 667,391 684,392 691,384 701,384 723,390 751,390 755,384 766,384 768,391 776,391 776,398 751,400 701,400 648,400 619,394 597,400 592,400" />
+				<Baseline points="592,400 776,399" />
+				<TextEquiv index="1">
+					<Unicode>Dem Lande wurde</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l8" custom="readingOrder {index:8;}">
+				<Coords points="602,416 629,417 632,423 669,419 675,411 686,411 688,419 705,414 722,414 735,416 776,416 776,425 760,426 686,426 646,426 602,426" />
+				<Baseline points="602,426 776,425" />
+				<TextEquiv index="1">
+					<Unicode>3 mal die Summe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l9" points="607,450 620,437 625,437 627,445 638,443 670,443 724,443 740,443 748,437 753,437 770,441 770,452 647,453 638,453 625,452 607,452" baseline="607,453 646,452 770,451" reason: second model: differs: "1ade" against "von " | Wikisource: aden verursachte | next_nc_e1: aden verursachte | german_print2_15: 1 aden verursachte -->
+			<TextLine id="r0l10" custom="readingOrder {index:10;}">
+				<Coords points="558,463 594,463 599,477 618,469 693,469 702,472 718,463 723,463 727,470 743,470 744,463 749,463 752,470 777,468 777,478 749,477 693,479 650,479 636,479 635,473 627,473 623,479 569,479 558,477" />
+				<Baseline points="558,479 777,478" />
+				<TextEquiv index="1">
+					<Unicode>Nov. 1806 ins Leben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l11" points="565,490 569,490 572,496 582,496 582,490 607,490 641,491 650,502 666,499 680,495 692,490 703,490 715,495 733,498 753,489 764,489 772,495 777,495 777,504 715,505 690,505 654,505 572,505 565,497" baseline="565,505 732,502 777,504" reason: differs: "durc" against "⟦⟧ e" | Wikisource:  | next_nc_e1: durch Ausschluss der | german_print2_15: durch Ausschluss der -->
+			<TextLine id="r0l12" custom="readingOrder {index:12;}">
+				<Coords points="573,524 579,522 667,522 669,516 679,516 701,525 708,515 717,515 719,521 741,519 775,521 775,530 731,531 679,531 602,531 573,531" />
+				<Baseline points="573,531 775,530" />
+				<TextEquiv index="1">
+					<Unicode>andes und darüber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l13" custom="readingOrder {index:13;}">
+				<Coords points="626,548 635,546 664,546 692,548 736,541 757,541 759,548 777,548 777,557 664,557 635,557 626,556" />
+				<Baseline points="626,555 777,557" />
+				<TextEquiv index="1">
+					<Unicode>waltsame Um-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l14" points="678,574 685,573 697,573 706,575 715,573 726,573 756,573 777,573 777,583 756,583 697,583 685,583 678,582" baseline="678,583 777,583" reason: differs: "viel" against "schw" | Wikisource:  | next_nc_e1: vielſachen
+ | german_print2_15: vielſachen
+ -->
+			<TextLine id="r0l15" custom="readingOrder {index:15;}">
+				<Coords points="663,604 670,599 729,599 742,601 744,595 749,595 771,600 778,603 778,605 771,609 742,609 697,609 663,609" />
+				<Baseline points="663,609 778,609" />
+				<TextEquiv index="1">
+					<Unicode>ichts fabri-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l16" points="666,620 686,620 690,626 701,626 723,626 723,620 737,620 737,626 753,624 759,624 776,626 776,635 759,635 737,635 737,641 709,641 707,635 666,635" baseline="666,635 776,635" reason: models differ | Wikisource: Imperator | next_nc_e1: Imperator
+ | german_print2_15: n Imperator
+ -->
+			<TextLine id="r0l17" custom="readingOrder {index:17;}">
+				<Coords points="666,647 676,647 686,654 689,654 718,653 742,646 760,646 777,650 777,661 720,662 683,662 680,662 666,659" />
+				<Baseline points="666,662 777,661" />
+				<TextEquiv index="1">
+					<Unicode>dieser Zeit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l18" points="630,673 652,673 659,682 672,679 689,679 704,678 708,678 726,679 739,678 749,678 779,678 779,688 749,688 726,689 717,689 704,682 702,688 697,688 686,682 676,688 652,688 630,688" baseline="630,688 779,688" reason: models differ | Wikisource: Vorgängen in | next_nc_e1: Vorgängen in
+ | german_print2_15: n Vorgängen in
+ -->
+			<TextLine id="r0l19" custom="readingOrder {index:19;}">
+				<Coords points="693,733 708,731 718,731 741,731 773,733 773,740 761,740 718,740 708,740 693,738" />
+				<Baseline points="693,738 773,740" />
+				<TextEquiv index="1">
+					<Unicode>seien sie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l20" custom="readingOrder {index:20;}">
+				<Coords points="686,757 726,757 744,751 748,751 748,757 757,757 764,759 771,751 780,751 780,766 748,766 686,766" />
+				<Baseline points="686,766 780,766" />
+				<TextEquiv index="1">
+					<Unicode>man sich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l21" custom="readingOrder {index:21;}">
+				<Coords points="591,783 602,783 662,783 689,783 728,783 747,783 771,785 780,790 780,793 778,793 662,793 615,793 591,789" />
+				<Baseline points="591,792 780,792" />
+				<TextEquiv index="1">
+					<Unicode>bekümmern müsse,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l22" custom="readingOrder {index:22;}">
+				<Coords points="600,812 620,810 642,810 669,813 671,804 676,804 685,811 704,807 715,803 725,803 727,809 770,809 772,803 782,803 782,818 654,819 620,819 600,816" />
+				<Baseline points="600,819 782,818" />
+				<TextEquiv index="1">
+					<Unicode>e und die Chronik</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Preussen
+ass Napoleon
+Dem Lande wurde
+3 mal die Summe
+Nov. 1806 ins Leben
+andes und darüber
+waltsame Um-
+ichts fabri-
+dieser Zeit
+seien sie
+man sich
+bekümmern müsse,
+e und die Chronik</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="573,829 782,829 782,845 573,845" />
+			<!-- line left out: id="r1l0" points="573,830 577,830 614,834 630,836 653,836 666,834 693,834 694,842 715,835 738,835 756,836 758,829 769,829 777,835 782,835 782,844 738,845 697,845 641,845 598,845 573,845" baseline="573,845 782,843" reason: differs: "DaCh" against "der " | Wikisource:  | next_nc_e1: Da Chemnitz an der
+ | german_print2_15: Da Chemnitz an der
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="585,855 783,855 783,1027 585,1027" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="679,862 700,861 713,856 717,856 721,863 742,861 751,855 764,855 765,863 783,863 783,868 764,870 689,871 679,871" />
+				<Baseline points="679,871 783,868" />
+				<TextEquiv index="1">
+					<Unicode>n überdies</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="691,886 696,886 717,886 773,886 782,887 782,896 773,897 759,897 755,891 738,890 736,896 717,897 696,897 691,897" />
+				<Baseline points="691,896 782,896" />
+				<TextEquiv index="1">
+					<Unicode>tierungen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l2" points="652,914 671,913 703,912 742,907 747,907 762,909 773,914 780,920 782,920 782,922 747,922 719,924 713,924 687,923 664,923 652,922" baseline="652,922 782,922" reason: differs: "zum13." against "zu eine" | Wikisource:  | next_nc_e1: zum 13. Dec. | german_print2_15: zum 13. Dec. -->
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="648,937 671,937 682,940 684,933 696,933 698,939 722,937 766,939 768,932 783,932 783,948 682,949 661,949 648,946" />
+				<Baseline points="648,949 783,948" />
+				<TextEquiv index="1">
+					<Unicode>Oudinot und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="610,960 624,960 627,969 646,964 656,964 687,966 706,971 708,963 739,965 742,959 753,959 755,965 783,965 783,974 702,974 690,972 683,968 676,975 624,975 610,975" />
+				<Baseline points="610,975 783,974" />
+				<TextEquiv index="1">
+					<Unicode>Kontingent ihren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l5" points="585,991 596,991 608,992 630,986 641,986 643,994 654,992 664,992 688,991 693,991 729,991 752,990 761,990 783,991 783,1000 761,1000 729,1000 717,1001 705,1001 696,1000 693,1006 688,1006 686,998 664,1001 641,1001 602,1001 585,1001" baseline="585,1001 679,999 783,1000" reason: differs: "fürd" against "⟦⟧ K" | Wikisource:  | next_nc_e1: für den spanischen | german_print2_15: für den spanischen -->
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="644,1012 653,1012 660,1020 664,1010 678,1010 689,1012 692,1020 718,1015 748,1015 772,1017 774,1010 783,1010 783,1025 689,1027 664,1027 644,1026" />
+				<Baseline points="644,1026 783,1025" />
+				<TextEquiv index="1">
+					<Unicode>Volksaufstand</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>n überdies
+tierungen
+Oudinot und
+Kontingent ihren
+Volksaufstand</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="629,1036 784,1036 784,1078 629,1078" />
+			<!-- line left out: id="r3l0" points="629,1047 646,1044 649,1044 670,1043 681,1043 708,1046 715,1037 726,1037 728,1044 738,1044 749,1045 751,1036 762,1036 764,1044 776,1042 784,1042 784,1051 762,1052 726,1052 702,1052 681,1052 655,1053 652,1053 646,1047 637,1053 629,1053" baseline="629,1053 784,1051" reason: differs: "lenw" against "erli" | Wikisource:  | next_nc_e1: len weichenden | german_print2_15: dlen weichenden -->
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="756,1062 762,1062 774,1063 784,1068 784,1078 762,1078 756,1078" />
+				<Baseline points="756,1078 784,1078" />
+				<TextEquiv index="1">
+					<Unicode>Bei</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Bei</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="0,0 1000,0 1000,1565 0,1565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+gestalteten sich die Verhältnisse, als sich Sachsen an den
+Reichskriegen von 1793–1796 beteiligte,⟦⟧ ganz besonders aber als der
+Kurfürst Friedrich August III nach manchen Schwankungen im
+Herbst des Jahres 1806 seine Truppen mit denen der Preussen
+vereinigte.⟦⟧ Sieben Tage nach der Schlacht bei Jena traf die
+überall freudig begrüsste Nachricht in Chemnitz ein, dass Napoleon
+die Neutralität Sachsens anerkannt habe. Aber nur zu bald sollte
+man erfahren, dass aller Grund zur Freude fehle. Dem Lande wurde
+eine Kriegskontribution aufgelegt, zu der Chemnitz 3 mal die Summe
+von 7166 Thalern entrichten sollte. Grossen Schaden verursachte
+auch die durch das Blockadedekret vom 21. Nov. 1806 ins Leben
+gerufene Kontinentalsperre.⟦⟧ Zwar hob sich durch Ausschluss der
+englischen Waaren die Fabrikation des Festlandes und darüber
+liess sich manches verschmerzen. Aber dieser gewaltsame
+Umschwung der Erwerbsverhältnisse war doch auch wieder mit vielfachen
+Nachteilen verbunden, namentlich für solche, welche nichts
+fabricierten. 6000 Sachsen ferner mussten dem französischen Imperator
+auf seinem Siegeszuge gegen Preussen folgen. Seit dieser Zeit
+erwacht in Chemnitz das lebhafteste Interesse an den Vorgängen in
+der politischen Welt, und während die früheren Jahrgänge des
+Chemnitzer Anzeigers die Meinung erwecken könnten, als seien sie
+auf einer einsamen Insel des Oceans geschrieben, wo man sich
+notgedrungen nur um die eignen Angelegenheiten bekümmern müsse,
+werden nun die Berichte von dem Kriegsschauplatze und die Chronik
+der Weltbegebenheiten immer umfangreicher. Da Chemnitz an der
+französischen Militärstrasse lag und Etappenort war, fanden überdies
+häufige Truppenmärsche statt und machten die Einquartierungen
+zu einer unerträglichen Last. Von Ende August bis zum 13. Dec.
+1808 nahmen 4 Armeekorps unter Ney, Mortier, Oudinot und
+Davoust, dazu das bairische und würtembergische Kontingent ihren
+Weg durch Chemnitz.⟦⟧ Sie waren zum Teil für den spanischen
+Kriegsschauplatz bestimmt, um die durch den dortigen Volksaufstand
+erlittenen Niederlagen der Franzosen rächen und den weichenden
+Zauber napoleonischer Politik wiederherstellen zu helfen. Bei
+solchen Durchzügen grösserer Truppenteile wurde die
+Einwohnerschaft wochenlang in ihrer gewöhnlichen Beschäftigung gestört
+und oft auch die lateinische Schule zu Einquartierungszwecken
+benutzt.
+-->
+	</Page>
+</PcGts>
