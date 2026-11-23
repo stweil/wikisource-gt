@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:47:23</Created>
+		<LastChange>2026-11-23T18:47:23</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Schnitzler_Traumnovelle.djvu/79 revision 3389885 of 2018-08-01T07:34:47Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="schnitzler_traumnovelle_1926_0079.png" imageWidth="800" imageHeight="1375">
+		<ReadingOrder>
+			<OrderedGroup id="ro7333500409107523157" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 8,0 8,136 0,136" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="91,121 656,121 656,1186 91,1186" />
+			<!-- line left out: id="r1l0" points="315,125 363,121 388,121 431,126 431,128 417,128 388,140 363,140 333,128 315,128" baseline="315,128 431,128" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 77 — | german_print2_15: — 77 — -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="95,165 120,165 145,165 145,172 160,172 163,180 181,166 202,166 202,172 238,167 257,166 271,166 288,172 300,172 300,166 322,166 322,172 339,172 353,166 361,166 361,172 372,169 415,167 423,167 437,172 453,165 466,165 466,172 488,172 496,166 505,165 518,165 537,165 537,173 596,172 596,166 604,166 604,172 619,172 619,166 634,166 634,172 655,172 655,184 634,184 634,190 604,190 604,184 488,184 361,189 271,184 239,184 168,188 160,190 120,190 105,190 105,183 95,183" />
+				<Baseline points="95,183 655,184" />
+				<TextEquiv index="1">
+					<Unicode>Dinge, die sich eben jetzt in der Villa ereignen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="94,203 106,203 116,209 140,209 140,203 154,203 163,207 221,210 221,203 232,203 258,203 277,210 283,203 312,203 312,210 326,209 348,204 370,203 390,203 407,204 407,210 426,210 426,203 440,203 440,210 455,210 459,203 478,203 478,210 520,210 520,203 534,203 568,203 568,210 590,210 590,203 604,203 604,209 614,209 619,203 636,203 636,209 649,209 655,212 655,215 649,215 649,221 619,221 614,227 590,227 590,221 534,221 534,227 520,227 520,221 455,226 94,226" />
+				<Baseline points="94,221 655,221" />
+				<TextEquiv index="1">
+					<Unicode>mochten, erfüllte ihn mit Grimm, Verzweiflung, Be-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="95,248 114,247 114,241 129,241 141,243 156,248 156,241 170,241 170,248 237,248 237,241 284,242 290,248 303,245 320,245 320,256 331,241 359,242 359,248 403,248 411,240 431,240 431,248 454,248 454,240 470,240 495,245 524,248 524,240 538,240 562,240 575,241 583,248 655,248 655,259 304,259 304,266 268,266 268,259 209,259 201,267 170,267 156,267 156,259 95,259" />
+				<Baseline points="95,259 655,259" />
+				<TextEquiv index="1">
+					<Unicode>schämung und Angst. Dieser Gemütszustand war so</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l4" points="95,286 115,286 115,280 129,280 154,284 163,281 169,280 202,280 226,280 227,295 233,295 242,280 255,280 255,287 267,287 267,279 282,279 342,280 342,286 354,286 354,280 370,280 370,287 383,287 396,280 410,280 410,286 422,286 422,280 430,280 430,287 454,287 454,280 471,280 471,286 481,286 495,280 509,280 509,287 520,287 520,280 535,280 553,280 553,287 570,284 591,284 602,286 602,295 616,287 629,286 654,286 654,298 607,302 602,302 591,299 553,302 535,302 233,303 227,303 194,298 194,304 169,304 169,298 129,298 129,304 115,304 115,297 95,297" baseline="95,298 616,298 654,299" reason: second model: differs: "daß,Fri" against "aß Frid" | Wikisource: unerträglich, daß Fridolin beinahe bedauerte, von | next_nc_e1: unerträglich, daß Fridolin beinahe bedauerte, von | german_print2_15: unerträglich, daß, Fridolin beinahe bedauerte, von -->
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="95,318 120,318 120,325 141,325 150,318 163,318 173,322 182,318 202,318 227,318 228,333 240,318 253,318 253,325 317,325 325,318 339,318 339,325 369,325 369,318 384,318 407,318 420,322 496,325 496,319 530,319 539,322 596,325 596,318 607,318 631,318 631,325 654,325 654,336 586,336 586,343 571,343 571,336 516,337 476,341 427,341 407,336 407,343 363,343 349,343 349,336 233,341 150,341 95,336" />
+				<Baseline points="95,336 654,336" />
+				<TextEquiv index="1">
+					<Unicode>dem Strolch, dem er begegnet war, nicht angefallen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="94,363 104,363 104,357 152,357 176,362 203,363 208,357 244,357 244,363 256,363 260,357 267,357 268,363 279,363 283,357 297,357 297,363 308,363 308,357 317,357 317,364 342,363 342,357 356,357 357,363 368,363 374,357 386,357 386,363 398,363 398,357 412,357 418,353 430,353 430,363 448,360 460,360 460,353 474,353 474,363 483,363 492,357 502,353 514,353 569,364 569,357 609,357 609,363 632,363 632,357 646,357 646,363 654,363 654,374 514,375 514,385 502,385 502,375 483,379 474,379 474,385 460,385 460,375 437,375 430,385 418,385 418,374 268,374 267,380 208,379 94,374" />
+				<Baseline points="94,374 654,375" />
+				<TextEquiv index="1">
+					<Unicode>worden zu sein, ja beinahe bedauerte, nicht mit einem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="94,394 120,394 120,400 178,398 187,395 194,395 195,401 205,401 205,395 220,395 232,401 263,402 263,395 279,394 307,394 307,401 330,401 342,395 356,395 356,401 381,402 390,395 415,395 416,401 429,401 438,395 453,395 453,401 523,401 523,395 551,395 551,401 573,401 581,395 596,394 605,394 615,401 629,401 629,395 644,395 654,400 654,412 453,413 453,419 416,419 409,413 94,412" />
+				<Baseline points="94,412 654,413" />
+				<TextEquiv index="1">
+					<Unicode>Messerstich zwischen den Rippen an einer Planke</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="94,432 102,432 102,439 116,439 129,432 143,432 143,439 211,439 211,432 219,432 219,439 245,439 245,432 260,432 260,439 293,439 306,432 326,432 326,439 405,439 417,433 456,433 456,439 483,440 483,447 498,433 512,433 512,439 524,439 535,433 558,433 580,436 590,439 602,433 623,433 623,439 654,439 654,451 469,451 469,458 442,458 442,451 422,451 422,458 417,458 405,451 94,450" />
+				<Baseline points="94,450 654,451" />
+				<TextEquiv index="1">
+					<Unicode>in der verlorenen Gasse zu liegen. So hätte diese</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="94,477 122,476 130,471 152,471 152,477 166,477 166,471 174,471 174,477 197,477 205,471 233,471 233,477 247,477 247,471 290,471 362,471 362,477 387,478 398,471 407,471 445,478 445,472 451,472 452,478 471,478 471,471 487,471 487,477 513,478 513,486 525,471 552,471 552,478 573,478 573,471 587,471 597,477 621,477 621,471 635,471 635,477 648,477 653,481 653,484 648,489 563,489 563,495 539,495 539,489 525,489 518,495 513,495 513,489 452,489 445,496 431,496 417,495 417,489 187,489 187,495 173,495 173,488 152,488 152,495 137,495 137,488 94,488" />
+				<Baseline points="94,488 653,489" />
+				<TextEquiv index="1">
+					<Unicode>unsinnige Nacht mit ihren läppischen, abgebroche-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="94,515 134,515 145,508 176,508 176,515 202,512 211,512 222,515 259,515 259,508 271,508 283,516 316,515 324,509 416,509 416,515 431,515 431,509 478,510 478,516 502,516 511,510 540,510 559,516 599,516 607,509 621,509 628,510 628,516 644,516 644,509 655,509 655,527 222,527 189,527 120,527 94,526" />
+				<Baseline points="94,527 655,527" />
+				<TextEquiv index="1">
+					<Unicode>nen Abenteuern am Ende doch eine Art von Sinn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="94,553 116,553 116,546 131,546 131,553 142,553 142,546 150,546 159,550 184,553 184,561 198,547 212,547 212,553 225,553 236,546 252,546 252,553 263,553 263,547 271,547 271,553 315,553 315,546 330,546 330,553 341,553 341,547 349,546 362,546 362,553 392,553 393,561 399,561 408,554 429,554 429,548 436,548 459,554 535,554 543,548 551,548 551,554 572,554 581,547 655,547 655,565 645,565 645,572 609,572 609,565 590,565 590,572 581,572 572,565 393,570 392,564 362,564 362,570 349,570 349,564 94,564" />
+				<Baseline points="94,564 655,565" />
+				<TextEquiv index="1">
+					<Unicode>erhalten. So heimzukehren, wie er nun im Begriff</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l12" custom="readingOrder {index:12;}">
+				<Coords points="93,590 159,590 159,583 172,583 172,590 192,590 192,583 208,583 240,590 252,584 275,584 275,590 296,590 309,584 317,584 321,590 344,590 344,584 376,584 376,591 404,591 416,585 492,585 498,586 509,591 509,585 523,585 524,600 538,585 571,585 571,591 629,591 629,585 654,585 654,604 416,604 376,602 376,609 362,609 362,602 322,602 322,609 309,609 296,602 142,607 93,607" />
+				<Baseline points="93,602 416,602 654,604" />
+				<TextEquiv index="1">
+					<Unicode>war, erschien ihm geradezu lächerlich. Aber noch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l13" custom="readingOrder {index:13;}">
+				<Coords points="93,628 137,628 147,622 196,622 212,625 255,628 255,621 264,621 264,628 313,628 314,636 324,622 358,622 358,628 462,629 506,629 506,622 522,622 530,629 542,624 550,624 550,630 564,630 573,623 612,623 612,630 621,630 628,623 656,623 656,642 621,647 598,647 598,641 386,641 386,647 372,647 372,640 358,640 358,647 344,647 344,640 93,640" />
+				<Baseline points="93,639 656,642" />
+				<TextEquiv index="1">
+					<Unicode>war nichts verloren. Morgen war auch ein Tag. Er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l14" points="94,666 102,665 113,665 113,659 129,659 154,659 154,665 173,665 184,659 189,659 201,660 201,666 212,666 212,659 226,659 238,666 263,666 263,674 277,666 291,666 291,660 299,660 299,666 310,666 310,659 325,659 344,667 369,667 381,660 394,660 394,667 405,667 405,660 419,660 439,660 439,667 472,667 472,661 487,661 488,667 533,667 541,661 555,661 555,667 574,667 602,667 602,661 616,661 631,662 631,668 644,667 655,667 655,680 631,680 451,684 426,684 405,679 394,678 394,684 381,684 369,678 268,683 262,683 173,678 103,678 94,678" baseline="94,677 184,677 655,679" reason: differs: "ichzu,n" against "ich, ni" | Wikisource:  | next_nc_e1: schwor sich zu, nicht zu ruhen, ehe er das schöne | german_print2_15: schwor sich zu, nicht zu ruhen, ehe er das schöne -->
+			<TextLine id="r1l15" custom="readingOrder {index:15;}">
+				<Coords points="91,697 122,697 172,697 189,698 190,704 201,704 201,697 216,697 216,704 261,704 261,697 272,697 272,705 291,705 291,697 306,697 311,698 311,705 342,705 352,698 366,698 366,705 420,705 429,699 450,699 450,705 475,706 475,699 490,699 490,705 515,706 515,699 529,699 529,706 540,706 548,699 574,699 574,706 590,706 590,699 628,699 628,706 639,706 639,700 654,700 654,718 386,717 342,721 321,721 306,716 306,722 291,722 291,716 250,716 250,722 226,722 226,716 172,716 172,722 161,722 152,716 91,716" />
+				<Baseline points="91,716 654,718" />
+				<TextEquiv index="1">
+					<Unicode>Weib wiedergefunden, dessen blendende Nacktheit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l16" custom="readingOrder {index:16;}">
+				<Coords points="94,736 117,736 117,742 130,742 135,736 150,736 150,742 189,743 189,736 202,736 205,742 215,742 215,736 266,736 300,742 309,736 329,736 329,743 344,743 344,737 357,737 362,744 410,741 418,741 423,743 441,741 456,737 471,737 471,744 488,744 488,737 508,737 527,742 583,744 587,738 627,738 627,744 649,744 655,748 655,751 649,751 649,757 616,757 601,757 94,754" />
+				<Baseline points="94,754 655,756" />
+				<TextEquiv index="1">
+					<Unicode>ihn berauscht hatte. Und nun erst dachte er an Alber-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l17" points="93,775 115,775 115,781 136,781 170,784 181,774 195,774 195,781 207,781 207,775 232,775 241,781 268,781 275,775 295,775 295,782 303,782 309,775 325,775 342,775 354,779 412,782 436,782 436,776 473,776 473,783 521,780 530,780 547,783 600,783 600,776 614,776 635,776 635,784 649,784 649,792 654,792 654,800 635,800 622,800 268,798 244,798 241,798 181,793 170,787 145,787 140,797 115,797 101,797 93,793" baseline="93,793 309,793 490,794 654,795" reason: differs: "ne,—doc" against "e, – do" | Wikisource:  | next_nc_e1: tine, — doch so, als hätte er auch sie erst zu erobern, | german_print2_15: tine, — doch so, als hätte er auch sie erst zu erobern, -->
+			<TextLine id="r1l18" custom="readingOrder {index:18;}">
+				<Coords points="93,812 112,812 112,819 120,819 128,813 228,813 228,819 263,819 263,813 272,813 272,820 280,820 289,813 312,813 345,814 345,820 373,820 373,814 381,814 381,820 416,815 423,815 434,820 434,814 513,814 513,821 561,821 561,815 569,815 569,821 581,821 581,814 596,814 596,821 617,821 622,815 643,816 654,821 654,833 312,832 246,836 215,836 211,836 164,831 93,830" />
+				<Baseline points="93,830 654,833" />
+				<TextEquiv index="1">
+					<Unicode>als könnte sie, als dürfte sie nicht früher wieder die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l19" custom="readingOrder {index:19;}">
+				<Coords points="94,850 120,850 127,851 127,857 177,857 177,851 192,851 192,857 207,857 207,851 239,851 239,858 273,858 273,851 290,851 290,858 358,858 358,852 367,852 367,858 402,853 429,853 449,858 449,852 468,852 494,853 494,859 557,859 557,853 571,853 571,859 593,859 593,853 605,853 617,860 656,860 656,871 252,874 192,874 177,874 141,869 94,869" />
+				<Baseline points="94,868 656,871" />
+				<TextEquiv index="1">
+					<Unicode>Seine werden, ehe er sie mit all den andern von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l20" custom="readingOrder {index:20;}">
+				<Coords points="92,888 108,888 108,895 142,893 173,896 173,889 218,889 231,893 262,896 262,890 306,890 306,896 377,896 377,890 392,890 401,894 425,897 438,891 455,891 455,897 470,897 470,891 484,891 484,898 494,898 504,891 570,891 577,892 589,897 604,898 604,891 615,891 650,898 650,906 654,906 654,915 615,915 604,915 577,910 563,915 553,915 517,910 494,914 367,909 173,912 92,907" />
+				<Baseline points="92,907 654,910" />
+				<TextEquiv index="1">
+					<Unicode>heute nacht, mit der nackten Frau, mit Pierrette,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l21" custom="readingOrder {index:21;}">
+				<Coords points="92,928 143,927 169,927 199,928 199,935 250,935 250,943 267,935 289,935 289,929 320,928 334,928 334,935 367,935 378,929 399,929 440,935 440,929 456,929 456,936 531,936 545,930 559,930 559,936 655,937 655,949 631,949 631,955 617,955 617,949 606,949 606,955 592,955 581,948 290,947 250,952 250,946 158,946 158,952 143,952 130,946 92,946" />
+				<Baseline points="92,946 481,947 655,949" />
+				<TextEquiv index="1">
+					<Unicode>mit Marianne, mit dem Dirnchen aus der engen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l22" custom="readingOrder {index:22;}">
+				<Coords points="94,965 114,965 114,972 154,972 165,966 180,966 188,967 188,973 202,970 243,973 243,966 257,966 257,973 309,973 309,981 324,967 386,967 392,973 404,973 404,967 429,967 451,974 494,974 494,968 527,967 538,975 553,975 553,969 571,968 587,968 606,975 641,975 641,969 656,969 656,987 284,984 284,991 270,991 270,984 257,984 257,991 232,991 232,984 94,984" />
+				<Baseline points="94,984 656,986" />
+				<TextEquiv index="1">
+					<Unicode>Gasse hintergangen. Und sollte er sich nicht auch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l23" custom="readingOrder {index:23;}">
+				<Coords points="92,1003 144,1003 167,1004 167,1010 198,1010 201,1004 223,1004 223,1010 240,1010 243,1004 299,1004 299,1011 324,1011 328,1005 342,1005 363,1012 363,1005 396,1005 423,1009 474,1012 474,1005 523,1006 523,1012 609,1012 609,1006 644,1005 644,1013 654,1013 654,1029 644,1031 630,1031 630,1024 538,1024 537,1031 523,1031 523,1024 493,1024 493,1031 481,1031 481,1024 92,1027" />
+				<Baseline points="92,1022 654,1024" />
+				<TextEquiv index="1">
+					<Unicode>bemühen, den frechen Studenten ausfindig zu machen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l24" custom="readingOrder {index:24;}">
+				<Coords points="93,1040 119,1040 119,1048 129,1048 137,1042 159,1042 159,1049 183,1049 183,1042 231,1042 231,1049 251,1049 251,1042 267,1042 267,1049 299,1049 299,1042 377,1043 381,1047 381,1058 392,1050 428,1050 435,1044 459,1044 459,1050 487,1050 487,1044 602,1044 610,1045 610,1051 621,1051 621,1044 647,1044 647,1051 656,1051 656,1063 588,1067 332,1066 289,1061 289,1068 267,1068 251,1068 251,1061 233,1061 233,1067 231,1068 208,1068 183,1068 174,1060 93,1060" />
+				<Baseline points="93,1060 656,1063" />
+				<TextEquiv index="1">
+					<Unicode>der ihn angerempelt hatte, um ihn auf Säbel, lieber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l25" custom="readingOrder {index:25;}">
+				<Coords points="93,1086 102,1086 102,1080 146,1080 155,1087 161,1087 161,1081 256,1081 256,1088 314,1088 323,1081 334,1081 334,1088 346,1088 355,1081 370,1081 370,1088 381,1088 381,1081 395,1081 395,1088 406,1088 408,1082 499,1082 499,1089 512,1089 519,1083 542,1083 542,1089 563,1089 566,1076 580,1076 580,1089 615,1090 615,1084 647,1084 647,1090 656,1090 656,1102 580,1102 580,1112 566,1112 563,1102 519,1101 512,1108 485,1108 485,1101 161,1100 93,1098" />
+				<Baseline points="93,1098 656,1102" />
+				<TextEquiv index="1">
+					<Unicode>noch auf Pistolen zu fordern? Was lag ihm an eines</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l26" custom="readingOrder {index:26;}">
+				<Coords points="93,1118 105,1118 105,1124 118,1124 118,1118 133,1118 152,1118 174,1118 182,1126 291,1127 291,1121 299,1121 299,1127 315,1127 315,1121 330,1121 330,1127 368,1127 368,1121 418,1121 418,1127 441,1128 450,1121 505,1121 505,1128 519,1128 521,1122 601,1121 609,1129 655,1129 655,1141 418,1140 418,1146 375,1146 370,1140 292,1139 137,1142 118,1137 105,1136 105,1142 93,1142" />
+				<Baseline points="93,1136 655,1141" />
+				<TextEquiv index="1">
+					<Unicode>andern, was an seinem eigenen Leben? Sollte man</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l27" custom="readingOrder {index:27;}">
+				<Coords points="92,1162 124,1157 178,1157 178,1164 292,1165 301,1158 375,1158 389,1166 423,1166 432,1159 523,1159 558,1160 558,1166 576,1167 576,1160 616,1161 616,1167 628,1167 628,1161 655,1160 655,1179 630,1179 630,1186 615,1186 615,1179 523,1179 523,1185 432,1185 423,1178 380,1182 301,1182 207,1177 92,1175" />
+				<Baseline points="92,1175 655,1179" />
+				<TextEquiv index="1">
+					<Unicode>es immer nur aus Pflicht, aus Opfermut aufs Spiel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Dinge, die sich eben jetzt in der Villa ereignen
+mochten, erfüllte ihn mit Grimm, Verzweiflung, Be-
+schämung und Angst. Dieser Gemütszustand war so
+dem Strolch, dem er begegnet war, nicht angefallen
+worden zu sein, ja beinahe bedauerte, nicht mit einem
+Messerstich zwischen den Rippen an einer Planke
+in der verlorenen Gasse zu liegen. So hätte diese
+unsinnige Nacht mit ihren läppischen, abgebroche-
+nen Abenteuern am Ende doch eine Art von Sinn
+erhalten. So heimzukehren, wie er nun im Begriff
+war, erschien ihm geradezu lächerlich. Aber noch
+war nichts verloren. Morgen war auch ein Tag. Er
+Weib wiedergefunden, dessen blendende Nacktheit
+ihn berauscht hatte. Und nun erst dachte er an Alber-
+als könnte sie, als dürfte sie nicht früher wieder die
+Seine werden, ehe er sie mit all den andern von
+heute nacht, mit der nackten Frau, mit Pierrette,
+mit Marianne, mit dem Dirnchen aus der engen
+Gasse hintergangen. Und sollte er sich nicht auch
+bemühen, den frechen Studenten ausfindig zu machen,
+der ihn angerempelt hatte, um ihn auf Säbel, lieber
+noch auf Pistolen zu fordern? Was lag ihm an eines
+andern, was an seinem eigenen Leben? Sollte man
+es immer nur aus Pflicht, aus Opfermut aufs Spiel</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Dinge, die sich eben jetzt in der Villa ereignen mochten, erfüllte ihn mit Grimm, Verzweiflung, Beschämung und Angst. Dieser Gemütszustand war so unerträglich, daß Fridolin beinahe bedauerte, von dem Strolch, dem er begegnet war, nicht angefallen worden zu sein, ja beinahe bedauerte, nicht mit einem Messerstich zwischen den Rippen an einer Planke in der verlorenen Gasse zu liegen. So hätte diese unsinnige Nacht mit ihren läppischen, abgebrochenen Abenteuern am Ende doch eine Art von Sinn erhalten. So heimzukehren, wie er nun im Begriff war, erschien ihm geradezu lächerlich. Aber noch war nichts verloren. Morgen war auch ein Tag. Er schwor sich, nicht zu ruhen, ehe er das schöne Weib wiedergefunden, dessen blendende Nacktheit ihn berauscht hatte. Und nun erst dachte er an Albertine, – doch so, als hätte er auch sie erst zu erobern, als könnte sie, als dürfte sie nicht früher wieder die Seine werden, ehe er sie mit all den andern von heute nacht, mit der nackten Frau, mit Pierrette, mit Marianne, mit dem Dirnchen aus der engen Gasse hintergangen. Und sollte er sich nicht auch bemühen, den frechen Studenten ausfindig zu machen, der ihn angerempelt hatte, um ihn auf Säbel, lieber noch auf Pistolen zu fordern? Was lag ihm an eines andern, was an seinem eigenen Leben? Sollte man es immer nur aus Pflicht, aus Opfermut aufs Spiel
+-->
+	</Page>
+</PcGts>

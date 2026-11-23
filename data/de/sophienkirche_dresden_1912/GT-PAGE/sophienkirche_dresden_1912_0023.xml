@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:27:41</Created>
+		<LastChange>2026-11-23T18:27:41</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Die_Sophienkirche_in_Dresden_(1912).pdf/23 revision 4815379 of 2026-01-30T07:49:22Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="sophienkirche_dresden_1912_0023.png" imageWidth="1000" imageHeight="1439">
+		<ReadingOrder>
+			<OrderedGroup id="ro6425043827286498439" caption="Regions reading order">
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="18" regionRef="r18" />
+				<RegionRefIndexed index="20" regionRef="r20" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="125,199 753,199 753,532 125,532" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="233,762 242,762 242,773 233,773" />
+		</GraphicRegion>
+		<GraphicRegion id="r2">
+			<Coords points="135,932 236,932 236,1000 135,1000" />
+		</GraphicRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="153,942 288,942 288,1020 153,1020" />
+			<!-- line left out: id="r3l0" points="186,942 189,942 212,942 218,944 218,952 195,952 186,945" baseline="186,952 218,952" reason: second model: hyphen at the line end, but the word ends in Wikisource | Wikisource: kirch | next_nc_e1: kirch | german_print2_15: Kirche- -->
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="153,1018 158,1013 202,1009 234,1008 285,1008 288,1010 288,1013 285,1018 157,1020 153,1020" />
+				<Baseline points="153,1019 288,1019" />
+				<TextEquiv index="1">
+					<Unicode>be an den Rat nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>be an den Rat nicht</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="135,1012 153,1012 153,1020 135,1020" />
+		</GraphicRegion>
+		<GraphicRegion id="r5">
+			<Coords points="264,1032 287,1032 287,1040 264,1040" />
+		</GraphicRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="136,1053 298,1053 298,1064 136,1064" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="136,1053 146,1053 168,1056 175,1053 184,1053 198,1053 264,1056 298,1055 298,1062 233,1062 198,1064 168,1064 146,1064 136,1063" />
+				<Baseline points="136,1063 298,1062" />
+				<TextEquiv index="1">
+					<Unicode>Bedürfnis von neuen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Bedürfnis von neuen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r7">
+			<Coords points="257,1095 280,1095 280,1110 257,1110" />
+		</GraphicRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="189,1100 248,1100 248,1109 189,1109" />
+			<!-- line left out: id="r8l0" points="189,1100 203,1100 223,1102 231,1101 235,1101 248,1102 248,1108 242,1109 230,1109 223,1109 203,1109 189,1109" baseline="189,1106 248,1108" reason: differs: "Rats" against "Begr" | Wikisource:  | next_nc_e1: Ratsakten
+ | german_print2_15: Ratsakten
+ -->
+		</TextRegion>
+		<GraphicRegion id="r9">
+			<Coords points="706,558 717,558 717,572 706,572" />
+		</GraphicRegion>
+		<GraphicRegion id="r10">
+			<Coords points="335,606 345,606 345,617 335,617" />
+		</GraphicRegion>
+		<GraphicRegion id="r11">
+			<Coords points="670,715 679,715 679,726 670,726" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="672,737 684,737 684,753 672,753" />
+		</GraphicRegion>
+		<GraphicRegion id="r13">
+			<Coords points="603,763 613,763 613,773 603,773" />
+		</GraphicRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="316,585 745,585 745,647 316,647" />
+			<!-- line left out: id="r14l0" points="341,585 346,585 371,585 674,586 745,587 745,593 720,593 657,591 371,594 346,594 341,594" baseline="341,593 643,590 673,590 702,591 720,592 745,594" reason: differs: "Getrew" against "ten fü" | Wikisource:  | next_nc_e1: Getre war ferner eine | german_print2_15: Getre f war ferner eine -->
+			<!-- line left out: id="r14l1" points="658,606 661,606 712,609 744,609 744,615 675,615 666,616 658,616" baseline="658,615 744,615" reason: differs: "htet" against "n fü" | Wikisource:  | next_nc_e1: htet worden | german_print2_15:  -->
+			<!-- line left out: id="r14l2" points="316,632 323,632 341,632 656,630 659,619 668,619 674,633 730,628 740,628 740,638 730,638 674,636 668,647 659,647 656,638 341,637 316,637" baseline="316,637 675,637 740,638" reason: differs: "dgam" against "wohl" | Wikisource:  | next_nc_e1: dgama Klο e
+ | german_print2_15: dame . mo⸗ he
+ -->
+		</TextRegion>
+		<GraphicRegion id="r15">
+			<Coords points="395,779 753,779 753,888 395,888" />
+		</GraphicRegion>
+		<GraphicRegion id="r16">
+			<Coords points="325,897 340,897 340,923 325,923" />
+		</GraphicRegion>
+		<GraphicRegion id="r17">
+			<Coords points="318,893 753,893 753,1066 318,1066" />
+		</GraphicRegion>
+		<TextRegion id="r18" custom="readingOrder {index:18;} orientation {0;}">
+			<Coords points="312,1051 325,1051 325,1062 312,1062" />
+			<!-- line left out: id="r18l0" points="312,1051 323,1051 323,1057 325,1057 325,1059 323,1062 312,1062" baseline="312,1059 325,1059" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: Be
+ | german_print2_15: Be
+ -->
+		</TextRegion>
+		<GraphicRegion id="r19">
+			<Coords points="330,1051 352,1051 352,1062 330,1062" />
+		</GraphicRegion>
+		<TextRegion id="r20" custom="readingOrder {index:20;} orientation {0;}">
+			<Coords points="399,1394 648,1394 648,1422 399,1422" />
+			<!-- line left out: id="r20l0" points="399,1394 408,1394 426,1394 443,1394 457,1394 465,1394 474,1403 478,1403 483,1394 491,1394 508,1394 520,1394 533,1394 533,1403 534,1403 542,1394 561,1394 583,1394 583,1403 585,1403 609,1404 609,1394 625,1394 643,1394 643,1404 648,1404 648,1412 643,1412 643,1422 625,1422 609,1422 609,1413 585,1413 583,1413 583,1422 561,1422 533,1422 520,1422 508,1422 491,1422 483,1422 483,1412 469,1412 465,1422 457,1422 443,1422 426,1422 408,1422 399,1422" baseline="399,1412 648,1412" reason: differs: "hnpl" against "nde " | Wikisource:  | next_nc_e1: hnpldigital slub-dresden deſid480112029/23
+ | german_print2_15: hp liitalslub dresden de idaS011202823
+ -->
+		</TextRegion>
+		<GraphicRegion id="r21">
+			<Coords points="935,0 1000,0 1000,1439 935,1439" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Die bemerkenswertesten Objekte dieses Reliquienfundes sind zwölf kleine,
+ikonographisch wertvolle Perlmutterscheiben, die wahrscheinlich den Schmuck eines
+Reliquienkästchens gebildet hatten. (Taf. VII und VIII.) Die vortrefflich in das Rund
+eingefügten Reliefdarstellungen stellen Szenen aus der Leidensgeschichte Christi
+und der Heiligenlegende dar. Die Formengebung der Gesichtszüge, der
+Haartracht, des Körpers des an das Kreuz gehefteten Heilandes, die Behandlung der
+Gewandung und der Bäume im Hintergrunde lassen einige dieser Reliefs als
+Arbeiten aus der zweiten Hälfte des 15. Jahrhunderts erscheinen. Andere
+Darstellungen scheinen älter und von anderer Hand gefertigt zu sein.
+Der Rat hatte die ihm zugeeigneten Baulichkeiten nicht in Benutzung
+genommen und das Klostergrundstück wurde von dem Landesherrn als Zeughaus
+benutzt. Mit einem Schreiben vom 22. Februar 1544⟦⟧ fordert Herzog Moritz den
+Rat auf, die Sakristei im Kloster auszuräumen und seinem Zeugmeister Caspar
+Voigt die Schlüssel zuzustellen. Nach Vollendung eines neuen Zeughauses im
+Jahre 1563 in der Gegend des Ziegeltores wurde zwar das Kriegsmaterial aus dem
+Klostergrundstück in das neue Gebäude überführt, die Klosterbaulichkeiten
+nunmehr aber zu anderen Dingen in Benutzung genommen. Die Klosterkirche diente
+zur Lagerung von Boysalz, Getreide und anderem Proviant, in ihr war ferner eine
+Werkstatt zur Anfertigung der Weinkuffen für die Hofkellerei eingerichtet worden.
+Daraus erklärt sich die damalige Bezeichnung „Kuffenhaus“ für die Klosterkirche.
+Die übrigen Klostergebäude wurden als Pferdeställe, Wagenremisen,
+Kutscherwohnungen und dergleichen benutzt. Die neue Verwendung bedingte für das
+Kirchengebäude bauliche Veränderungen. Auf dem Fußboden der Kirche wurden
+Bretterverschläge aufgestellt, man entfernte die Glasfenster und setzte die Fenster
+teilweise mit Ziegeln zu, um die im Inneren der Kirche lagernden Waren vor
+Witterungseinflüssen und Diebstahl besser zu sichern. Unter dem Deckengewölbe
+legte man zwei Getreideschüttböden übereinander an. Die Vorrichtung zum
+Aufwinden des Getreides hat sich bis heute im Dachgeschoß der Kirche erhalten. Die
+Klosterkirche diente in dem im Inneren veränderten Zustande dieser Benutzung
+noch zur Zeit, als nach dem Tode des Kurfürsten Christian I. im Jahre 1591 die
+Administration Kursachsens durch Herzog Friedrich Wilhelm von Weimar als
+Mitvormund des minderjährigen Kurprinzen Christian II. eintrat.
+Bereits im Jahre 1555 hatte der Rat den Kurfürsten August um Rückgabe der
+Klosterkirche gebeten, um „Gottes Wort und Dienste darinnen predigen und verrichten
+zu lassen“, wie wir einem Schreiben des Kurfürsten vom 5. September dieses Jahres
+an seinen „Oberzeug- und Baumeister“ Caspar Voigt entnehmen, doch war die
+Übergabe an den Rat nicht erfolgt und dieser scheint seine Bitte nicht wiederholt zu haben.
+Unter der Administration Herzog Friedrich Wilhelms machte sich aber das
+Bedürfnis von neuen Begräbnisstätten für wohlhabende und vornehmere Mitglieder
+-->
+	</Page>
+</PcGts>

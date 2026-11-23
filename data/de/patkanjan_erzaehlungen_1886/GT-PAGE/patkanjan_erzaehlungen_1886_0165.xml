@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:45:05</Created>
+		<LastChange>2026-11-23T18:45:05</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:PatkanjanDreiErzählungen.pdf/165 revision 3378133 of 2018-08-01T06:07:56Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="patkanjan_erzaehlungen_1886_0165.png" imageWidth="1285" imageHeight="1823">
+		<ReadingOrder>
+			<OrderedGroup id="ro12691185823732506088" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="4,0 1272,0 1272,34 4,34" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="466,238 718,238 718,285 466,285" />
+			<!-- line left out: id="r1l0" points="466,260 502,260 560,243 583,242 673,238 718,238 718,285 673,285 673,270 604,271 560,271 502,263 466,263" baseline="466,272 501,271 673,270 718,270" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 155 —–—
+ | german_print2_15: — 155 —
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="137,333 1073,333 1073,1809 137,1809" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="137,348 195,349 195,340 219,340 219,350 404,348 427,341 440,341 440,348 461,348 462,342 541,341 589,336 667,339 687,344 703,345 703,339 719,339 741,333 765,333 765,345 786,345 807,335 844,335 844,345 861,345 861,335 885,335 905,343 931,345 931,334 1034,334 1034,343 1057,343 1057,363 908,365 905,344 885,365 589,366 565,372 541,372 541,366 440,372 359,369 359,380 333,380 333,369 288,369 288,381 263,381 262,370 243,370 243,380 219,380 219,369 137,369" />
+				<Baseline points="137,370 564,366 1057,364" />
+				<TextEquiv index="1">
+					<Unicode>nachgegangen wärest, hättest du dich nicht in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="139,402 154,402 154,392 165,392 165,401 263,402 263,392 288,392 288,402 305,402 305,393 401,389 435,389 447,391 447,400 493,401 493,390 519,390 519,399 539,399 569,388 582,388 582,398 605,398 605,388 636,388 639,412 646,412 679,397 696,397 696,387 709,387 709,397 786,398 786,387 814,387 836,389 868,397 883,397 883,387 896,387 896,398 913,398 913,388 939,388 967,397 1033,397 1033,387 1057,387 1057,417 679,418 646,424 639,424 636,418 582,418 582,424 569,424 519,420 354,423 231,423 139,421" />
+				<Baseline points="139,421 569,418 1057,417" />
+				<TextEquiv index="1">
+					<Unicode>sie verliebt. Glaube mir, sie wird sich auch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="139,454 156,454 156,445 181,445 181,455 222,455 244,445 278,445 278,455 294,455 294,446 319,446 336,455 398,454 416,443 452,443 452,453 508,453 526,441 550,440 575,440 575,451 586,451 586,441 617,441 617,451 675,450 675,440 697,440 732,441 732,451 751,451 751,440 777,440 818,441 818,451 914,451 914,441 928,440 950,440 992,440 992,449 1033,450 1042,444 1058,444 1058,456 1042,456 1042,469 1033,470 697,470 697,482 666,482 638,482 638,471 575,472 575,482 550,482 550,471 491,474 295,476 139,474" />
+				<Baseline points="139,474 1058,470" />
+				<TextEquiv index="1">
+					<Unicode>ohne dich aus ihrer Verlegenheit heraushelfen.“</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="221,498 241,498 241,508 257,508 257,498 283,498 295,508 330,508 330,498 403,497 403,506 448,507 448,520 455,520 475,496 501,496 501,505 572,504 586,495 612,495 612,504 633,504 651,493 668,493 668,503 686,503 686,493 766,493 766,504 784,504 792,493 853,493 897,496 897,504 954,503 954,493 977,493 1023,493 1023,502 1060,502 1060,522 977,524 633,524 475,526 455,532 448,537 423,537 423,527 379,527 379,537 356,537 356,528 221,528" />
+				<Baseline points="221,529 571,524 1060,523" />
+				<TextEquiv index="1">
+					<Unicode>Ich schwieg, denn da mir die Worte meines</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="138,551 165,551 165,561 238,560 238,551 275,551 275,560 339,560 339,550 354,550 354,559 394,559 394,549 433,549 433,558 448,558 448,549 510,548 536,548 537,557 633,556 633,547 657,547 657,556 687,556 687,547 734,547 747,556 787,556 805,546 816,546 816,557 832,557 832,546 876,546 889,557 924,557 924,547 949,546 963,546 963,556 1022,555 1022,546 1043,546 1043,555 1060,555 1060,581 1022,581 1022,575 927,577 669,576 669,587 633,587 633,576 415,580 138,580" />
+				<Baseline points="138,581 733,576 1060,576" />
+				<TextEquiv index="1">
+					<Unicode>Freundes ziemlich überzeugend zu sein schienen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="140,613 161,613 161,607 182,607 182,614 231,613 231,607 288,602 301,602 301,612 318,612 318,602 343,602 366,611 427,611 427,601 453,601 476,610 539,610 561,599 599,599 599,609 616,609 616,600 632,599 654,599 697,609 773,609 773,599 841,599 873,599 895,599 895,609 923,609 924,624 929,624 929,629 513,630 513,641 476,641 453,631 140,633" />
+				<Baseline points="140,633 476,630 929,629" />
+				<TextEquiv index="1">
+					<Unicode>wusste ich auch gar nichts zu erwidern.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="230,655 276,655 276,664 303,664 324,654 340,652 439,652 439,662 456,662 456,653 482,653 522,662 597,662 617,651 652,651 652,661 669,656 686,656 753,662 773,652 805,652 805,662 827,662 827,653 851,653 851,663 936,662 936,653 962,653 962,662 1000,661 1049,656 1064,656 1064,681 919,683 919,693 892,693 869,683 438,683 429,694 390,694 390,683 366,684 366,694 340,694 340,684 230,684" />
+				<Baseline points="230,685 497,682 1064,680" />
+				<TextEquiv index="1">
+					<Unicode>Das Talglicht war fast zu Ende gebrannt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="147,718 193,717 193,708 218,708 245,717 552,713 552,704 608,703 640,703 640,713 664,713 688,704 706,704 706,714 722,714 722,704 757,704 757,713 773,713 773,704 786,704 786,715 846,714 867,704 894,704 933,709 949,714 949,705 977,705 977,714 994,714 994,704 1022,704 1022,714 1042,712 1065,712 1065,732 894,735 810,734 810,744 785,744 785,733 706,733 706,744 688,744 664,733 512,734 378,737 147,737" />
+				<Baseline points="147,737 579,733 1065,732" />
+				<TextEquiv index="1">
+					<Unicode>und es war nur noch ein winziges Stückchen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="149,763 171,760 233,759 233,769 251,769 251,782 258,782 293,759 314,759 315,768 335,768 335,759 361,759 362,768 509,767 509,761 527,761 572,765 572,755 597,755 639,756 639,765 650,765 650,755 685,755 685,765 721,765 743,755 752,755 752,765 785,765 785,755 806,755 866,756 866,766 883,766 883,756 919,757 919,766 936,761 1012,765 1012,755 1026,755 1026,765 1042,765 1042,756 1067,756 1067,784 806,791 785,791 785,785 752,785 752,791 743,791 721,784 451,788 315,788 314,797 293,797 258,788 251,788 251,799 212,799 212,788 149,788" />
+				<Baseline points="149,788 720,784 1067,784" />
+				<TextEquiv index="1">
+					<Unicode>übrig. Johannes stand daher auf, kleidete sich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="150,822 289,821 289,812 346,811 360,811 360,820 376,820 376,811 402,811 421,814 421,820 494,819 494,809 506,809 506,819 525,819 525,810 550,810 588,818 630,818 663,807 695,807 695,817 714,812 745,812 769,817 769,807 858,807 858,818 901,818 932,808 951,808 951,819 989,818 989,808 1025,808 1025,817 1068,817 1068,837 630,838 526,840 421,840 421,851 376,851 376,841 150,842" />
+				<Baseline points="150,842 549,838 1068,837" />
+				<TextEquiv index="1">
+					<Unicode>aus und legte sich zu Bette. Von meinen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="149,865 186,865 186,875 376,873 402,863 412,863 412,874 448,873 448,867 484,867 484,873 502,873 502,863 526,863 527,872 629,871 657,861 681,861 681,870 719,870 740,859 777,859 959,861 959,871 1055,870 1055,877 1068,877 1068,883 1055,883 1055,890 1037,890 1037,902 959,902 959,891 893,891 893,902 879,902 859,890 484,894 425,898 237,895 237,906 208,906 208,895 149,895" />
+				<Baseline points="149,895 1068,890" />
+				<TextEquiv index="1">
+					<Unicode>Augen war unterdessen der Schlaf völlig ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="148,929 180,929 180,918 190,918 191,928 210,928 210,919 234,919 235,928 283,928 283,918 372,917 372,927 402,927 426,916 511,916 527,921 554,915 580,915 580,925 620,925 620,915 647,915 647,924 686,924 686,918 701,918 701,924 810,925 810,915 832,915 860,924 879,924 879,915 890,915 890,925 970,925 970,915 982,915 1011,924 1055,924 1055,912 1073,912 1073,943 971,946 668,945 487,948 285,949 255,949 210,949 180,949 148,949" />
+				<Baseline points="148,949 1073,943" />
+				<TextEquiv index="1">
+					<Unicode>wichen. Das Licht flackerte noch einmal auf</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="147,982 192,982 192,973 248,972 259,972 259,982 283,982 283,972 296,972 296,982 353,981 353,972 386,972 435,995 452,995 456,970 504,970 549,980 584,968 618,968 618,979 660,978 660,969 685,968 713,968 762,978 799,973 844,973 857,978 884,968 906,968 906,978 926,978 926,969 951,969 951,979 1009,978 1009,968 1031,968 1041,977 1065,977 1065,1003 1031,1008 1009,1008 1009,998 906,999 906,1008 884,1008 857,998 844,998 844,1009 799,1009 799,998 762,998 731,983 715,983 713,998 504,1001 504,1007 435,1007 354,1002 147,1002" />
+				<Baseline points="147,1002 584,999 1065,998" />
+				<TextEquiv index="1">
+					<Unicode>und erlosch. „Gute Nacht!“ sagte Johannes,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="148,1026 187,1026 187,1035 204,1035 204,1026 229,1026 246,1030 314,1035 314,1024 368,1024 405,1034 448,1035 448,1023 540,1024 540,1034 644,1032 644,1022 669,1022 669,1031 725,1031 762,1020 787,1020 818,1021 832,1026 887,1032 933,1032 933,1023 1042,1022 1066,1025 1066,1051 689,1052 529,1055 368,1055 148,1055" />
+				<Baseline points="148,1055 1066,1051" />
+				<TextEquiv index="1">
+					<Unicode>drehte sich auf die andere Seite und laut</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="150,1087 186,1088 186,1078 210,1078 210,1088 288,1088 288,1078 312,1078 313,1088 324,1088 324,1078 401,1076 405,1076 405,1088 437,1088 437,1078 487,1078 487,1088 507,1088 507,1076 526,1076 544,1087 583,1087 606,1076 614,1076 614,1086 625,1086 625,1076 661,1076 663,1099 669,1099 669,1106 526,1108 168,1108 150,1107" />
+				<Baseline points="150,1108 669,1106" />
+				<TextEquiv index="1">
+					<Unicode>schnarchend schlief er ein.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="236,1130 282,1130 282,1141 309,1141 329,1121 347,1121 347,1141 384,1141 384,1131 406,1131 406,1121 455,1121 473,1141 518,1141 518,1130 538,1130 538,1141 612,1139 612,1130 637,1130 662,1134 704,1138 723,1128 775,1129 775,1139 816,1134 832,1134 869,1139 869,1129 900,1129 918,1139 986,1139 986,1128 1031,1128 1031,1138 1051,1138 1052,1145 1064,1145 1064,1150 1052,1150 1051,1157 1007,1160 662,1159 662,1170 637,1171 612,1171 612,1159 561,1160 561,1171 533,1171 533,1160 430,1162 329,1162 236,1160" />
+				<Baseline points="236,1160 1064,1157" />
+				<TextEquiv index="1">
+					<Unicode>Vor meiner aufgeregten Phantasie erschie-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="153,1193 301,1193 313,1183 344,1183 344,1194 355,1194 355,1183 376,1183 376,1194 448,1194 448,1185 484,1182 498,1182 498,1194 577,1193 577,1182 598,1182 676,1182 676,1192 728,1192 728,1186 758,1182 771,1182 771,1192 814,1192 823,1182 877,1182 901,1183 901,1192 937,1193 937,1207 943,1207 958,1183 983,1183 983,1192 1064,1191 1064,1211 958,1212 943,1219 936,1219 936,1212 861,1212 861,1219 839,1219 839,1212 796,1212 796,1223 771,1223 771,1212 676,1212 676,1223 652,1223 652,1212 598,1213 598,1223 577,1223 577,1213 498,1214 498,1223 484,1223 472,1214 153,1212" />
+				<Baseline points="153,1212 1064,1212" />
+				<TextEquiv index="1">
+					<Unicode>nen nun Tausend verschiedenartige Bilder, deren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="155,1235 167,1235 169,1244 188,1244 188,1236 212,1236 212,1245 330,1245 330,1237 353,1237 353,1246 386,1246 386,1237 412,1237 413,1247 529,1246 529,1237 544,1237 544,1246 561,1246 584,1236 609,1236 609,1245 714,1244 714,1235 738,1235 738,1244 885,1245 885,1259 891,1259 926,1235 958,1235 958,1245 1065,1244 1065,1264 630,1265 469,1267 169,1264 167,1274 155,1274" />
+				<Baseline points="155,1264 1065,1265" />
+				<TextEquiv index="1">
+					<Unicode>jedes sonderbarer als das andere war. Es war</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="159,1288 183,1288 183,1297 265,1297 265,1288 321,1288 321,1297 400,1299 400,1289 487,1289 487,1299 585,1298 612,1287 626,1287 626,1298 678,1297 678,1287 760,1287 760,1297 799,1298 821,1287 852,1287 852,1298 903,1298 903,1289 928,1289 928,1298 948,1298 948,1288 960,1288 960,1298 1060,1298 1060,1312 1065,1312 1065,1323 1060,1328 1033,1328 1033,1318 381,1319 159,1316" />
+				<Baseline points="159,1316 1065,1318" />
+				<TextEquiv index="1">
+					<Unicode>das weder ein Traum noch eine Erscheinung,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="161,1350 221,1350 221,1340 245,1340 245,1350 339,1346 398,1346 442,1352 478,1352 478,1341 523,1341 523,1351 541,1351 541,1342 568,1342 568,1351 611,1351 627,1340 640,1339 686,1339 709,1340 709,1350 752,1350 752,1364 760,1364 784,1340 803,1340 803,1351 825,1351 841,1342 866,1342 866,1351 900,1352 912,1341 947,1341 947,1352 983,1351 983,1341 1021,1341 1021,1351 1041,1351 1041,1341 1066,1341 1066,1370 728,1370 523,1372 459,1372 161,1370" />
+				<Baseline points="161,1370 1066,1371" />
+				<TextEquiv index="1">
+					<Unicode>sondern etwas zwischen beiden. In der Dunkel-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="163,1392 189,1392 189,1401 207,1401 207,1391 220,1391 251,1401 296,1401 296,1393 336,1391 412,1393 412,1402 431,1402 432,1416 439,1416 455,1392 533,1393 533,1402 570,1402 586,1391 599,1391 599,1401 616,1401 616,1392 642,1392 659,1401 694,1401 694,1390 707,1390 707,1400 723,1400 723,1391 748,1391 788,1392 788,1401 806,1401 806,1391 824,1391 824,1402 862,1401 862,1393 886,1393 886,1416 892,1416 910,1403 985,1403 985,1393 1012,1393 1047,1402 1069,1403 1069,1422 946,1423 892,1428 886,1428 886,1422 642,1421 554,1422 439,1427 388,1422 336,1427 319,1421 163,1420" />
+				<Baseline points="163,1420 763,1420 1069,1423" />
+				<TextEquiv index="1">
+					<Unicode>heit und Stille, in der ich mich befand, machten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="164,1444 198,1444 198,1453 217,1453 232,1442 289,1442 312,1443 312,1453 366,1454 540,1454 540,1443 562,1443 562,1454 578,1454 578,1443 614,1443 614,1453 650,1453 664,1443 694,1443 694,1453 776,1453 776,1444 809,1443 809,1453 866,1454 866,1445 910,1445 910,1455 992,1450 1015,1450 1033,1455 1033,1446 1058,1446 1058,1463 1070,1463 1070,1467 1058,1467 1058,1475 992,1476 633,1474 464,1475 464,1486 437,1486 437,1475 391,1475 391,1485 365,1485 365,1474 289,1474 289,1486 267,1486 267,1473 164,1474" />
+				<Baseline points="164,1474 664,1473 1070,1475" />
+				<TextEquiv index="1">
+					<Unicode>die Weissagungen meines Freundes einen mäch-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="161,1498 185,1498 185,1509 200,1509 200,1498 222,1498 222,1508 255,1508 277,1497 366,1498 366,1508 425,1508 425,1498 450,1498 472,1508 517,1508 518,1497 537,1497 553,1507 590,1507 590,1497 603,1497 603,1507 621,1507 621,1497 696,1495 731,1495 731,1506 841,1507 841,1497 853,1497 853,1508 918,1509 939,1499 977,1499 977,1509 1070,1508 1070,1528 1029,1529 1029,1540 1001,1540 1000,1529 939,1530 653,1528 222,1529 222,1540 185,1540 185,1529 161,1529" />
+				<Baseline points="161,1529 767,1527 1070,1528" />
+				<TextEquiv index="1">
+					<Unicode>tigen Eindruck auf mich. Vor meinen Augen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="156,1563 174,1563 174,1553 195,1553 195,1563 229,1563 229,1552 266,1552 266,1562 351,1562 373,1551 394,1551 394,1562 409,1562 409,1556 430,1556 430,1550 453,1550 453,1563 474,1563 474,1557 520,1550 539,1550 539,1562 583,1561 583,1551 629,1549 668,1549 668,1555 695,1555 695,1561 708,1561 708,1549 731,1549 731,1561 745,1561 769,1550 801,1550 801,1562 816,1562 816,1556 837,1553 860,1553 860,1563 898,1563 898,1578 927,1553 957,1553 957,1563 1009,1563 1009,1553 1029,1553 1039,1562 1068,1562 1068,1582 1029,1584 927,1584 903,1590 895,1590 895,1583 769,1583 731,1593 693,1593 693,1581 668,1581 668,1593 645,1593 645,1582 156,1584" />
+				<Baseline points="156,1584 606,1582 1068,1582" />
+				<TextEquiv index="1">
+					<Unicode>erschienen fortwährend Särge, Gräber, Trauer-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l24" custom="readingOrder {index:24;}">
+				<Coords points="153,1607 189,1608 189,1618 208,1618 208,1606 243,1607 244,1618 283,1617 283,1632 311,1606 343,1606 343,1617 384,1617 384,1606 451,1607 451,1617 473,1617 473,1607 485,1607 485,1617 502,1617 502,1606 528,1606 529,1617 548,1615 693,1615 693,1606 735,1605 774,1605 774,1611 799,1611 799,1617 831,1617 831,1605 854,1605 854,1618 885,1617 885,1607 913,1607 913,1618 981,1617 981,1632 988,1632 1013,1607 1047,1606 1048,1616 1066,1616 1066,1637 1013,1637 988,1644 980,1644 960,1639 960,1649 934,1649 911,1648 911,1638 867,1638 867,1649 831,1649 831,1638 774,1637 774,1649 751,1649 751,1636 549,1638 407,1637 407,1649 362,1649 362,1638 311,1638 288,1644 280,1644 280,1638 153,1638" />
+				<Baseline points="153,1638 1066,1637" />
+				<TextEquiv index="1">
+					<Unicode>kleider, Begräbniskerzen und Totengerippe, die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l25" custom="readingOrder {index:25;}">
+				<Coords points="152,1672 185,1672 185,1662 196,1662 196,1669 211,1669 232,1662 313,1662 313,1672 350,1672 350,1662 386,1662 396,1671 430,1671 449,1661 487,1661 508,1665 508,1671 531,1671 531,1661 556,1661 556,1671 576,1671 576,1660 614,1660 614,1670 723,1670 723,1660 741,1660 759,1671 867,1672 867,1662 878,1662 878,1673 897,1673 897,1663 967,1663 967,1673 1014,1672 1014,1663 1039,1663 1039,1671 1063,1671 1063,1692 1039,1694 878,1694 759,1692 741,1701 723,1701 723,1691 683,1691 683,1701 634,1701 634,1691 211,1694 152,1693" />
+				<Baseline points="152,1693 1063,1692" />
+				<TextEquiv index="1">
+					<Unicode>mit höllischem Händeklappern um mich herum</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l26" custom="readingOrder {index:26;}">
+				<Coords points="152,1721 165,1721 165,1727 225,1727 226,1721 242,1721 242,1727 289,1727 289,1721 332,1716 363,1716 374,1717 374,1727 397,1727 421,1716 480,1716 496,1721 533,1726 551,1714 578,1714 579,1725 598,1725 598,1715 616,1714 638,1714 638,1725 677,1725 677,1714 688,1714 688,1725 721,1725 743,1715 771,1715 771,1726 826,1727 826,1717 837,1717 862,1722 862,1715 871,1715 893,1728 919,1728 919,1718 1026,1718 1027,1726 1064,1726 1064,1746 1026,1748 753,1748 743,1748 397,1748 226,1748 152,1746" />
+				<Baseline points="152,1746 1064,1746" />
+				<TextEquiv index="1">
+					<Unicode>tanzten. Ein kalter Schweiss rieselte mir über</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l27" custom="readingOrder {index:27;}">
+				<Coords points="150,1771 181,1771 182,1781 200,1781 231,1770 289,1770 329,1770 329,1797 336,1797 374,1782 448,1781 448,1772 472,1772 472,1782 533,1781 533,1771 558,1771 559,1781 603,1781 640,1771 664,1771 665,1780 685,1780 685,1770 709,1770 709,1780 748,1780 748,1770 773,1770 787,1775 787,1781 805,1781 840,1771 851,1771 851,1782 870,1782 870,1772 892,1772 924,1782 945,1782 945,1772 993,1772 993,1782 1061,1780 1061,1800 993,1803 374,1803 336,1809 305,1809 305,1803 289,1803 289,1809 247,1809 247,1803 150,1801" />
+				<Baseline points="150,1801 1061,1800" />
+				<TextEquiv index="1">
+					<Unicode>die Stirn, erschrocken bedeckte ich meinen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>nachgegangen wärest, hättest du dich nicht in
+sie verliebt. Glaube mir, sie wird sich auch
+ohne dich aus ihrer Verlegenheit heraushelfen.“
+Ich schwieg, denn da mir die Worte meines
+Freundes ziemlich überzeugend zu sein schienen,
+wusste ich auch gar nichts zu erwidern.
+Das Talglicht war fast zu Ende gebrannt
+und es war nur noch ein winziges Stückchen
+übrig. Johannes stand daher auf, kleidete sich
+aus und legte sich zu Bette. Von meinen
+Augen war unterdessen der Schlaf völlig ge-
+wichen. Das Licht flackerte noch einmal auf
+und erlosch. „Gute Nacht!“ sagte Johannes,
+drehte sich auf die andere Seite und laut
+schnarchend schlief er ein.
+Vor meiner aufgeregten Phantasie erschie-
+nen nun Tausend verschiedenartige Bilder, deren
+jedes sonderbarer als das andere war. Es war
+das weder ein Traum noch eine Erscheinung,
+sondern etwas zwischen beiden. In der Dunkel-
+heit und Stille, in der ich mich befand, machten
+die Weissagungen meines Freundes einen mäch-
+tigen Eindruck auf mich. Vor meinen Augen
+erschienen fortwährend Särge, Gräber, Trauer-
+kleider, Begräbniskerzen und Totengerippe, die
+mit höllischem Händeklappern um mich herum
+tanzten. Ein kalter Schweiss rieselte mir über
+die Stirn, erschrocken bedeckte ich meinen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r3">
+			<Coords points="0,1814 1285,1814 1285,1823 0,1823" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+nachgegangen wärest, hättest du dich nicht in sie verliebt. Glaube mir, sie wird sich auch ohne dich aus ihrer Verlegenheit heraushelfen.“
+Ich schwieg, denn da mir die Worte meines Freundes ziemlich überzeugend zu sein schienen, wusste ich auch gar nichts zu erwidern.
+Das Talglicht war fast zu Ende gebrannt und es war nur noch ein winziges Stückchen übrig. Johannes stand daher auf, kleidete sich aus und legte sich zu Bette. Von meinen Augen war unterdessen der Schlaf völlig gewichen. Das Licht flackerte noch einmal auf und erlosch. „Gute Nacht!“ sagte Johannes, drehte sich auf die andere Seite und laut schnarchend schlief er ein.
+Vor meiner aufgeregten Phantasie erschienen nun Tausend verschiedenartige Bilder, deren jedes sonderbarer als das andere war. Es war das weder ein Traum noch eine Erscheinung, sondern etwas zwischen beiden. In der Dunkelheit und Stille, in der ich mich befand, machten die Weissagungen meines Freundes einen mächtigen Eindruck auf mich. Vor meinen Augen erschienen fortwährend Särge, Gräber, Trauerkleider, Begräbniskerzen und Totengerippe, die mit höllischem Händeklappern um mich herum tanzten. Ein kalter Schweiss rieselte mir über die Stirn, erschrocken bedeckte ich meinen
+-->
+	</Page>
+</PcGts>

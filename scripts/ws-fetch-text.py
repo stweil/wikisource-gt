@@ -3,6 +3,7 @@
 
 usage: ws-fetch-text.py SITE "File name.djvu" FIRST LAST OUTDIR
        ws-fetch-text.py SITE @FILES.txt FIRST LAST OUTDIR
+       ws-fetch-text.py SITE "File name.djvu" 12,40,77 OUTDIR     (a selection of pages)
 OUTDIR: data/<wikisource>/<work>/provenance/wikisource
 @FILES.txt: for works with one image file per page: the file names, one per
 line; page n is line n.
@@ -13,11 +14,12 @@ request per page, with a pause (wsapi.py). Pages which are there are kept.
 """
 import json, os, sys
 from wsapi import api
-site, name, first, last, out = sys.argv[1], sys.argv[2], int(sys.argv[3]), int(sys.argv[4]), sys.argv[5]
+site, name, out = sys.argv[1], sys.argv[2], sys.argv[-1]
+numbers = [int(x) for x in sys.argv[3].split(',')] if len(sys.argv) == 5 else range(int(sys.argv[3]), int(sys.argv[4]) + 1)
 PAGE_NS = {'de': 'Seite', 'la': 'Pagina', 'en': 'Page', 'fr': 'Page', 'el': 'Σελίδα'}[site.split('.')[0]]
 os.makedirs(out, exist_ok=True)
 files = [l.rstrip('\n') for l in open(name[1:], encoding='utf-8') if l.strip()] if name.startswith('@') else None
-for n in range(first, last + 1):
+for n in numbers:
     f = f'{out}/{n}.json'
     if os.path.exists(f): continue
     if files and n > len(files): break

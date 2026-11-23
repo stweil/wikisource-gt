@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:39:17</Created>
+		<LastChange>2026-11-23T18:39:17</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Krohn_Bär_(Wolf)_und_Fuchs.djvu/109 revision 3342318 of 2018-08-01T02:05:29Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="krohn_baer_wolf_1889_0109.png" imageWidth="1190" imageHeight="1902">
+		<ReadingOrder>
+			<OrderedGroup id="ro15349384696566767952" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="13,1212 18,1212 18,1517 13,1517" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="461,164 615,164 615,201 461,201" />
+			<!-- line left out: id="r1l0" points="461,180 483,180 516,168 588,164 615,164 615,201 588,201 588,189 546,190 529,190 516,189 483,183 461,183" baseline="461,189 615,189" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 107 —
+ | german_print2_15: — 107 —
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="108,232 969,232 969,1666 108,1666" />
+			<!-- line left out: id="r2l0" points="110,236 135,236 150,241 159,235 172,235 182,234 199,234 224,234 237,236 247,234 270,234 270,240 282,240 282,234 299,234 299,240 327,240 335,234 359,234 365,233 407,233 407,239 418,239 418,233 432,233 447,234 482,239 482,233 499,233 542,232 564,232 564,238 581,238 581,232 590,232 599,239 611,239 611,232 629,232 629,238 654,238 654,232 698,232 736,232 736,238 749,238 760,239 760,233 778,233 832,233 832,239 846,239 857,233 869,233 869,250 876,250 891,233 907,233 907,250 921,233 957,233 963,234 963,258 912,260 905,260 891,255 876,261 869,261 869,255 813,258 803,258 724,255 582,255 528,255 432,256 261,257 224,257 150,257 110,257" baseline="110,257 461,255 963,255" reason: differs: "tenf" against "fran" | Wikisource:  | next_nc_e1: ten französischen Varianten noch drei skandinavische (Da 1, 4, Db) | german_print2_15: ten französischen Varianten noch drei skandinavische (Da 1, 4, Db) -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="109,274 213,274 213,280 225,280 225,274 249,275 278,280 278,291 298,280 328,280 337,274 353,274 353,280 473,279 481,273 594,274 613,278 627,272 670,272 670,279 682,279 682,272 699,272 871,273 871,279 882,279 882,273 911,273 911,279 924,279 924,273 953,273 953,279 964,279 964,295 594,295 594,301 577,301 577,295 566,295 566,301 533,301 526,295 337,296 283,302 277,302 277,296 175,302 124,302 109,302" />
+				<Baseline points="109,297 533,295 964,295" />
+				<TextEquiv index="1">
+					<Unicode>übrig bleiben, zu denen man mit gutem Grunde auch die keltische</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="109,315 151,315 199,320 199,314 244,314 244,320 255,320 255,314 332,314 332,320 346,320 346,331 375,314 454,313 610,313 711,313 735,313 778,313 778,319 845,319 845,313 862,313 887,313 887,319 896,319 910,313 938,313 938,319 964,319 964,335 910,335 896,341 870,341 870,335 440,336 109,340" />
+				<Baseline points="109,337 509,335 964,335" />
+				<TextEquiv index="1">
+					<Unicode>(Ea) rechnen kann. Denn das kann nicht bestritten werden, dass</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="109,355 163,355 173,360 186,354 258,354 258,360 269,360 269,354 286,354 352,360 352,354 369,354 369,360 397,360 411,353 445,353 509,353 509,359 537,359 551,353 593,353 593,359 604,359 604,353 649,353 666,354 677,359 690,353 705,353 705,359 754,359 754,353 769,353 769,359 785,359 785,353 808,353 808,359 858,359 858,353 874,353 874,359 902,359 902,370 921,359 964,359 964,376 921,375 907,381 901,381 901,375 831,375 831,381 808,381 794,381 794,375 769,375 769,381 754,381 754,375 286,377 109,376" />
+				<Baseline points="109,377 478,375 964,375" />
+				<TextEquiv index="1">
+					<Unicode>diese Varianten schon allein den Charakter des vorliegenden, nur</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="109,395 272,394 272,400 288,400 288,394 350,394 464,399 477,393 511,393 511,399 523,399 523,393 532,393 584,393 584,399 597,399 617,393 634,393 634,399 660,399 660,393 676,393 676,399 688,399 688,393 746,393 776,393 776,399 785,399 799,393 831,393 863,393 887,393 887,399 964,399 964,415 257,416 237,422 179,422 179,416 168,416 168,422 151,422 151,416 109,417" />
+				<Baseline points="109,417 463,415 964,415" />
+				<TextEquiv index="1">
+					<Unicode>in Europa und in unserm Weltteile benachbarten Ländern vor-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="109,435 126,435 126,441 139,440 140,435 233,435 261,440 275,434 299,434 336,440 336,434 353,434 353,440 382,440 395,434 419,434 445,440 468,439 468,433 523,433 550,433 550,439 575,439 585,433 616,433 644,433 687,433 866,434 879,439 919,435 959,435 959,446 964,446 964,450 959,450 959,456 193,458 160,458 126,458 109,458" />
+				<Baseline points="109,457 964,456" />
+				<TextEquiv index="1">
+					<Unicode>kommenden Märchen als nordisches Tiermärchen bestimmen wür-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="109,475 126,475 126,481 138,480 153,475 315,480 335,474 351,474 351,480 375,480 388,473 410,473 438,473 455,473 495,474 508,479 546,479 546,473 556,473 570,474 584,479 599,480 619,473 643,473 643,479 671,479 671,473 732,473 732,480 745,480 745,473 776,473 914,474 914,480 925,480 925,474 942,474 942,480 965,480 965,496 183,496 161,502 138,502 109,497" />
+				<Baseline points="109,497 965,496" />
+				<TextEquiv index="1">
+					<Unicode>den, wenn nur der Inhalt desselben diese Annahme natürlicher</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="109,521 121,521 121,514 219,514 219,520 243,520 264,514 274,514 274,520 287,520 287,514 333,514 333,520 373,520 373,514 425,514 425,520 439,520 439,530 472,513 494,513 585,513 637,513 637,519 649,519 649,513 703,513 703,519 715,519 715,513 732,513 771,514 771,520 796,520 809,514 858,514 858,530 864,530 878,514 960,514 960,526 965,526 965,530 960,530 960,537 878,536 864,542 843,542 843,536 826,536 820,542 809,542 796,535 637,535 637,541 585,541 574,535 109,537" />
+				<Baseline points="109,537 359,535 863,535 965,537" />
+				<TextEquiv index="1">
+					<Unicode>erscheinen lassen würde. Dies ist jedoch nicht der Fall, im Ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l8" points="108,561 123,560 132,560 132,554 146,554 218,554 218,560 229,555 255,554 285,554 285,560 377,560 391,554 427,554 427,560 440,560 440,554 484,554 484,560 495,560 495,554 555,554 567,559 579,553 610,553 630,555 641,559 641,553 658,553 681,553 681,559 711,554 746,554 760,560 773,560 773,554 805,554 805,560 829,560 829,554 845,554 845,560 874,560 887,554 914,554 914,560 925,560 925,554 941,554 941,560 966,560 966,576 874,577 805,577 746,577 711,577 681,575 681,587 665,587 665,575 630,575 630,587 594,587 594,575 567,576 537,576 526,575 513,581 456,581 427,581 408,581 391,576 369,582 305,582 292,576 195,577 185,577 185,583 169,583 169,577 146,577 146,583 125,583 108,583" baseline="108,577 566,575 579,575 966,576" reason: second model: differs: "lszZwis" against "s zwisc" | Wikisource: genteil ist die ganze Handlung des Märchens als zwischen Tieren | next_nc_e1: genteil ist die ganze Handlung des Märchens als zwischen Tieren | german_print2_15: genteil ist die ganze Handlung des Märchens als zZwischen Tieren -->
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="110,600 122,595 132,595 132,601 143,601 143,594 161,594 174,600 189,600 189,594 205,594 205,600 231,600 231,594 304,594 325,600 383,599 397,593 426,593 466,593 497,593 514,593 608,593 608,599 619,599 619,593 635,593 635,599 646,599 646,593 662,593 662,599 683,599 697,593 705,593 705,599 742,599 742,593 785,593 785,599 800,594 887,594 887,600 925,600 925,594 965,594 965,616 824,619 662,615 662,621 589,621 589,615 514,616 383,621 356,621 284,621 233,621 216,621 205,617 110,617" />
+				<Baseline points="110,617 965,615" />
+				<TextEquiv index="1">
+					<Unicode>sich abspielend ganz unnatürlich. Dagegen erscheint es als zwi-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="110,641 124,641 124,635 154,635 182,640 202,634 228,633 260,633 280,634 300,640 318,640 318,634 367,633 414,633 414,639 427,639 427,633 442,633 480,634 480,650 499,634 516,634 516,650 543,639 556,639 556,633 630,633 630,639 658,639 676,633 703,633 703,639 728,639 742,633 766,633 766,639 778,639 791,633 844,633 844,639 857,639 895,634 960,634 960,646 965,646 965,650 960,650 960,656 463,656 442,662 381,662 381,656 110,658" />
+				<Baseline points="110,657 965,655" />
+				<TextEquiv index="1">
+					<Unicode>schen Teufel und Mann, d. h. zwischen dem die frühere Stein-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="109,675 125,675 125,681 141,681 141,675 192,674 217,679 236,680 236,674 318,673 342,673 407,673 459,674 459,680 472,680 485,673 544,673 544,679 555,679 555,673 601,673 601,679 626,679 640,673 656,673 656,679 681,679 694,673 714,673 755,673 773,673 773,679 784,674 836,680 836,674 881,674 881,680 917,680 931,674 954,674 954,680 966,680 966,696 792,700 784,700 764,696 735,700 719,700 669,696 407,700 383,700 318,700 109,697" />
+				<Baseline points="109,696 966,696" />
+				<TextEquiv index="1">
+					<Unicode>und Bronzezeit (beachte die Goldwaffen des Teufels) und dem die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="110,721 148,715 180,715 192,720 204,721 224,714 289,714 289,720 318,720 318,714 338,715 369,720 369,714 492,714 505,719 520,720 533,714 581,714 603,719 615,720 629,713 651,713 651,719 662,714 722,714 748,719 748,713 758,713 758,719 770,719 770,713 780,713 780,719 807,720 807,714 897,714 912,716 922,714 940,714 940,720 967,721 967,736 808,736 750,741 320,737 165,737 165,743 140,743 123,743 123,736 110,736" />
+				<Baseline points="110,736 967,736" />
+				<TextEquiv index="1">
+					<Unicode>spätere Eisenzeit vertretenden Manne sich abspielendes Märchen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="109,760 192,754 211,754 211,760 254,760 254,754 270,754 270,760 307,760 320,754 335,754 362,754 362,760 404,760 404,754 445,754 445,760 463,760 463,754 501,754 501,760 523,755 552,754 579,754 579,760 590,760 590,754 612,754 631,760 655,760 655,754 673,754 673,760 701,760 714,754 840,754 906,754 931,754 965,754 965,782 931,782 906,782 890,782 890,776 631,776 612,782 590,782 590,776 569,776 569,782 552,782 552,776 501,776 501,782 493,782 479,776 390,777 364,782 320,782 307,776 256,777 169,782 109,782" />
+				<Baseline points="109,777 965,776" />
+				<TextEquiv index="1">
+					<Unicode>ganz besonders passend und natürlich, schon im Hinblick darauf,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="110,795 141,795 167,800 187,794 203,794 203,800 228,800 241,794 260,794 299,794 299,800 310,800 310,794 319,794 355,795 368,800 368,794 413,794 413,800 438,800 452,794 473,794 473,800 485,795 502,795 529,800 529,794 546,794 546,800 559,800 559,794 576,794 576,800 598,794 614,794 614,800 639,800 653,794 672,794 672,800 684,800 684,794 719,794 719,800 733,800 747,794 786,794 786,800 808,795 839,794 891,794 891,800 902,800 902,794 919,794 932,800 946,800 946,794 956,794 956,800 966,800 966,816 867,816 867,822 839,822 839,816 809,816 809,822 786,822 772,822 772,816 761,816 761,822 747,822 663,817 598,816 577,822 529,822 529,816 110,817" />
+				<Baseline points="110,817 966,816" />
+				<TextEquiv index="1">
+					<Unicode>dass der Teufel bei der Bebauung des Feldes hauptsächlich als</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l15" points="111,834 133,834 133,840 145,840 145,834 200,834 200,840 209,840 228,834 244,834 244,840 257,840 257,834 364,834 364,840 384,840 406,834 409,834 476,834 488,835 500,834 504,834 526,840 575,840 575,834 585,834 585,840 597,840 617,834 700,834 700,851 725,834 750,834 750,840 847,840 847,851 867,834 888,834 888,851 907,835 924,835 936,840 936,834 945,834 945,840 967,840 967,856 924,857 907,857 725,856 704,862 697,862 697,856 683,856 683,862 641,862 617,862 554,857 539,857 526,856 504,862 475,862 449,862 409,862 406,862 209,857 147,857 111,857" baseline="111,857 596,856 967,856" reason: second model: differs: "aufftri" against "auftrit" | Wikisource: Gehülfe des Mannes auftritt, sowie darauf, dass er z. B. beim | next_nc_e1: Gehülfe des Mannes auftritt, sowie darauf, dass er z. B. beim | german_print2_15: Gehülfe des Mannes aufftritt, sowie darauf, dass er z. B. beim -->
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="111,875 258,875 273,880 282,874 311,874 361,874 361,880 372,876 435,880 448,874 472,874 472,880 484,880 493,874 529,874 612,874 633,880 680,880 688,874 705,874 705,880 740,880 749,874 783,874 783,880 796,880 796,874 812,874 812,880 844,875 954,875 968,880 968,897 575,897 380,901 361,901 337,901 311,901 295,901 111,897" />
+				<Baseline points="111,897 968,897" />
+				<TextEquiv index="1">
+					<Unicode>Pressen (des Steines) um die Wette die von dem Manne benutzten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="112,915 165,915 194,920 208,914 262,914 303,914 326,914 351,914 362,916 362,937 194,937 112,937" />
+				<Baseline points="112,937 362,936" />
+				<TextEquiv index="1">
+					<Unicode>Rüben nicht kennt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="180,955 202,955 217,960 237,954 273,954 273,960 307,955 331,955 364,961 407,961 428,955 444,955 444,961 468,961 481,955 505,955 518,960 528,955 577,955 589,956 606,961 606,955 622,955 622,961 634,961 647,955 664,955 664,961 678,961 678,955 731,955 731,961 800,961 814,955 830,955 830,961 867,961 879,955 942,955 968,957 968,978 647,977 634,983 606,983 606,977 495,977 495,983 481,983 468,977 180,977" />
+				<Baseline points="180,976 968,978" />
+				<TextEquiv index="1">
+					<Unicode>Da also die aus der Verbreitung und die aus dem Inhalte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="112,995 175,994 185,994 185,1000 217,1000 217,994 235,994 235,1000 253,1000 253,994 268,994 268,1000 290,995 385,995 405,997 416,995 433,995 433,1001 460,1001 460,995 473,995 508,1000 624,1001 647,995 687,995 687,1001 728,1001 728,995 743,995 743,1001 801,1001 801,1012 828,1001 840,1001 840,995 955,995 955,1002 968,1002 968,1026 928,1026 885,1026 858,1026 840,1026 840,1017 828,1017 806,1023 800,1023 800,1017 786,1018 773,1023 756,1023 756,1017 743,1017 743,1023 728,1023 728,1017 703,1017 703,1023 686,1023 686,1017 658,1017 658,1023 647,1023 624,1017 568,1017 568,1023 496,1023 473,1017 276,1017 268,1022 233,1022 207,1017 185,1022 112,1017" />
+				<Baseline points="112,1017 968,1018" />
+				<TextEquiv index="1">
+					<Unicode>des vorliegenden Märchens gezogenen Folgerungen, wenigstens</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="113,1040 138,1041 138,1034 156,1034 193,1034 218,1034 218,1040 235,1040 235,1051 254,1040 267,1040 267,1034 276,1034 296,1034 296,1040 307,1040 307,1034 322,1034 336,1035 349,1040 360,1041 371,1035 444,1035 444,1041 495,1041 495,1035 524,1035 524,1041 550,1041 550,1035 557,1035 572,1041 590,1037 634,1037 668,1041 681,1035 692,1035 692,1041 704,1041 704,1035 835,1035 835,1041 849,1041 849,1052 869,1036 886,1036 886,1052 905,1036 922,1036 922,1052 942,1042 968,1042 968,1058 869,1057 854,1063 821,1063 821,1057 798,1057 798,1063 784,1063 784,1057 745,1057 745,1063 738,1063 725,1057 572,1057 557,1063 535,1063 535,1057 512,1057 512,1063 495,1063 495,1057 471,1057 471,1063 444,1063 428,1063 428,1057 389,1057 389,1063 372,1063 372,1057 269,1057 239,1062 201,1062 191,1057 179,1056 179,1062 162,1062 162,1056 113,1056" />
+				<Baseline points="113,1056 968,1058" />
+				<TextEquiv index="1">
+					<Unicode>scheinbar, einander widersprechen, müssen wir vorläufig, d. h. so</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="112,1074 166,1074 166,1080 180,1080 180,1090 198,1075 213,1074 235,1074 249,1080 281,1080 281,1074 425,1074 450,1080 450,1074 458,1074 496,1075 550,1081 550,1074 566,1074 566,1080 667,1081 681,1075 697,1075 697,1081 734,1081 747,1075 770,1075 770,1081 794,1081 794,1075 810,1075 810,1081 837,1081 837,1092 843,1092 857,1082 873,1081 885,1076 941,1076 941,1082 969,1082 969,1098 929,1103 901,1103 874,1103 837,1103 837,1097 760,1097 760,1103 747,1103 734,1097 458,1102 339,1102 298,1097 216,1097 185,1102 112,1102" />
+				<Baseline points="112,1096 969,1098" />
+				<TextEquiv index="1">
+					<Unicode>lange, bis mehr Varianten, besonders aus dem Norden, gefunden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="112,1121 126,1121 126,1115 178,1115 191,1120 206,1121 225,1114 233,1114 263,1114 276,1115 276,1130 282,1130 303,1120 348,1120 369,1114 403,1114 450,1115 450,1121 501,1120 501,1114 532,1114 532,1121 559,1121 580,1115 591,1115 591,1121 605,1121 605,1115 635,1115 635,1121 661,1121 661,1115 767,1115 767,1121 791,1116 908,1116 908,1122 933,1117 963,1117 963,1128 968,1128 968,1132 963,1132 963,1139 591,1138 282,1142 275,1142 275,1136 233,1142 225,1142 112,1137" />
+				<Baseline points="112,1137 580,1137 968,1139" />
+				<TextEquiv index="1">
+					<Unicode>worden sind, uns mit der einen unzweifelhaften Thatsache be-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="112,1156 175,1156 231,1154 261,1154 261,1160 286,1160 308,1154 421,1154 421,1160 432,1160 432,1154 449,1154 449,1160 477,1160 497,1154 570,1154 790,1155 790,1161 858,1156 875,1156 888,1161 940,1156 969,1156 969,1178 231,1176 209,1183 186,1183 186,1177 175,1177 175,1183 112,1183" />
+				<Baseline points="112,1176 969,1178" />
+				<TextEquiv index="1">
+					<Unicode>gnügen, dass das Märchen nämlich in Skandinavien schon sehr</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l24" custom="readingOrder {index:24;}">
+				<Coords points="112,1195 203,1195 203,1201 228,1200 230,1194 247,1194 247,1200 258,1200 258,1194 316,1194 316,1200 343,1200 356,1194 388,1194 587,1195 587,1201 598,1201 598,1195 614,1195 628,1201 642,1201 642,1195 694,1195 694,1201 706,1201 706,1195 716,1195 716,1201 742,1201 742,1195 759,1195 759,1201 771,1201 780,1195 864,1195 864,1201 875,1201 875,1195 890,1195 890,1202 968,1203 968,1218 907,1223 875,1223 875,1217 864,1217 864,1223 825,1223 794,1223 794,1217 694,1222 112,1217" />
+				<Baseline points="112,1216 968,1218" />
+				<TextEquiv index="1">
+					<Unicode>früh als zwischen Bär und Fuchs sich abspielende Erzählung vor-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l25" custom="readingOrder {index:25;}">
+				<Coords points="112,1235 174,1235 174,1241 330,1240 343,1234 353,1234 353,1240 366,1235 380,1234 455,1234 455,1240 536,1241 549,1235 578,1235 578,1241 599,1241 612,1235 634,1235 685,1241 698,1235 808,1235 808,1241 819,1241 819,1235 845,1235 867,1236 867,1242 882,1242 895,1236 959,1236 959,1243 969,1243 969,1258 308,1256 308,1262 292,1262 275,1257 263,1256 263,1262 223,1262 112,1257" />
+				<Baseline points="112,1257 969,1258" />
+				<TextEquiv index="1">
+					<Unicode>handen gewesen ist. Denn von hier ist es nicht allein in dieser</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l26" custom="readingOrder {index:26;}">
+				<Coords points="113,1275 195,1275 220,1275 234,1275 340,1275 391,1275 391,1281 406,1281 406,1275 421,1275 429,1281 444,1281 444,1275 516,1275 516,1281 559,1281 559,1292 579,1281 621,1281 621,1275 637,1275 657,1275 657,1281 712,1281 725,1275 747,1275 800,1275 800,1281 825,1281 825,1292 845,1281 868,1281 868,1275 877,1275 877,1282 924,1282 924,1276 942,1276 942,1282 969,1282 969,1298 845,1297 830,1303 824,1303 824,1297 800,1298 787,1303 775,1303 767,1297 579,1297 564,1303 558,1303 558,1297 531,1297 531,1303 483,1303 483,1297 472,1297 472,1303 429,1303 421,1297 113,1298" />
+				<Baseline points="113,1297 969,1298" />
+				<TextEquiv index="1">
+					<Unicode>Gestalt nach Schottland gedrungen, sondern es hat hier, wie schon</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l27" custom="readingOrder {index:27;}">
+				<Coords points="113,1315 143,1315 143,1321 155,1321 168,1315 192,1315 234,1315 247,1320 248,1315 267,1315 267,1321 282,1321 282,1315 300,1315 300,1321 324,1321 337,1315 366,1315 366,1321 378,1321 392,1315 413,1315 417,1321 483,1321 486,1315 504,1315 506,1321 557,1321 579,1315 603,1315 818,1316 831,1321 846,1322 858,1316 928,1316 928,1323 939,1323 939,1316 957,1316 969,1318 969,1339 858,1339 769,1337 769,1343 730,1343 730,1337 717,1337 717,1343 700,1343 700,1337 113,1337" />
+				<Baseline points="113,1337 676,1337 969,1339" />
+				<TextEquiv index="1">
+					<Unicode>das Vorkommen des Dreschens in der norwegischen Variante</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l28" points="113,1355 155,1355 155,1361 179,1361 179,1355 188,1355 188,1361 201,1356 249,1356 276,1356 290,1361 303,1362 303,1356 327,1356 332,1361 364,1357 380,1357 422,1357 433,1362 441,1356 457,1356 457,1362 485,1362 494,1356 540,1356 540,1362 555,1362 555,1356 591,1356 591,1362 605,1362 620,1363 633,1356 661,1356 661,1362 676,1362 690,1356 735,1356 756,1362 769,1362 769,1356 798,1356 798,1362 806,1362 819,1356 839,1356 839,1362 860,1362 860,1356 877,1356 887,1357 887,1363 899,1358 913,1356 928,1356 928,1363 939,1363 939,1356 956,1356 956,1363 969,1363 969,1384 928,1384 877,1384 860,1384 860,1378 742,1382 734,1382 720,1378 710,1384 690,1384 676,1378 661,1382 633,1382 605,1379 572,1379 530,1379 511,1379 276,1378 232,1378 218,1384 201,1384 201,1377 155,1377 155,1384 139,1384 139,1377 128,1377 128,1384 113,1384" baseline="113,1377 232,1377 819,1378 969,1379" reason: second model: differs: "denDa1," against "en (Da " | Wikisource: beweist, besonders unter den Schweden (Da 1, 4) eine Fortsetzung | next_nc_e1: beweist, besonders unter den Schweden (Da 1, 4) eine Fortsetzung | german_print2_15: beweist, besonders unter den Schweden Da 1, 4) eine Fortsetzung -->
+			<TextLine id="r2l29" custom="readingOrder {index:29;}">
+				<Coords points="113,1395 137,1395 168,1396 181,1401 191,1402 205,1396 301,1396 301,1402 387,1402 396,1396 411,1396 411,1402 484,1402 484,1396 509,1396 509,1402 533,1397 604,1397 604,1403 615,1403 615,1397 633,1397 633,1403 645,1403 645,1396 662,1396 662,1402 683,1403 683,1397 698,1397 710,1402 710,1396 945,1396 945,1403 969,1403 969,1419 341,1418 333,1424 317,1424 317,1418 301,1418 301,1424 275,1424 258,1424 258,1418 247,1418 247,1424 232,1424 232,1418 221,1418 221,1424 205,1424 191,1418 113,1417" />
+				<Baseline points="113,1417 969,1419" />
+				<TextEquiv index="1">
+					<Unicode>in der Erzählung von der nordischen Schwendewirtschaft mit allen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l30" custom="readingOrder {index:30;}">
+				<Coords points="114,1435 156,1435 156,1442 207,1442 207,1435 223,1435 223,1441 262,1442 262,1435 321,1435 321,1441 375,1442 396,1436 417,1436 417,1442 431,1442 431,1436 515,1436 515,1442 530,1442 530,1436 596,1436 596,1442 610,1442 610,1453 637,1437 707,1437 707,1443 718,1438 730,1438 752,1443 752,1437 769,1437 769,1443 781,1443 781,1437 850,1437 866,1442 866,1453 872,1453 893,1437 918,1437 918,1443 968,1443 968,1459 918,1459 872,1464 866,1464 866,1458 850,1458 850,1464 833,1464 769,1459 637,1458 615,1464 609,1464 609,1458 596,1458 596,1464 581,1464 581,1458 556,1458 556,1464 540,1464 540,1458 515,1458 515,1464 506,1464 484,1458 114,1458" />
+				<Baseline points="114,1457 968,1459" />
+				<TextEquiv index="1">
+					<Unicode>ihren verschiedenen Details erhalten, und ist erst dann, als es</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l31" custom="readingOrder {index:31;}">
+				<Coords points="116,1482 141,1482 141,1476 165,1477 253,1475 276,1475 276,1481 340,1476 373,1476 373,1482 384,1482 384,1476 423,1476 423,1482 439,1482 439,1476 459,1476 459,1482 499,1482 499,1476 533,1476 533,1482 587,1482 587,1476 604,1476 604,1483 715,1483 715,1494 741,1477 809,1476 809,1482 835,1477 903,1477 903,1483 916,1483 930,1477 946,1477 946,1483 969,1483 969,1499 741,1499 720,1505 714,1505 714,1499 677,1499 677,1505 664,1505 644,1498 629,1499 616,1504 587,1504 587,1498 572,1498 572,1504 555,1504 555,1498 544,1498 544,1504 527,1504 527,1498 516,1498 516,1504 499,1504 499,1498 468,1503 356,1503 316,1498 116,1497" />
+				<Baseline points="116,1498 969,1499" />
+				<TextEquiv index="1">
+					<Unicode>selbst in dieser Erzählung aufgegangen war, in die Hände der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l32" custom="readingOrder {index:32;}">
+				<Coords points="115,1516 174,1516 174,1522 248,1522 248,1516 258,1516 258,1522 273,1522 273,1516 291,1516 314,1516 383,1516 383,1522 420,1522 442,1516 465,1516 465,1522 477,1522 498,1516 503,1516 503,1522 524,1522 524,1516 562,1516 562,1522 587,1523 607,1517 680,1517 680,1523 718,1523 718,1517 802,1517 809,1522 823,1523 823,1517 838,1517 838,1523 851,1523 864,1517 899,1517 914,1519 925,1523 925,1517 942,1517 942,1523 969,1523 969,1539 809,1539 802,1544 734,1544 718,1544 640,1539 354,1538 319,1544 314,1544 291,1544 273,1544 273,1538 237,1538 237,1544 220,1544 199,1538 115,1538" />
+				<Baseline points="115,1538 969,1539" />
+				<TextEquiv index="1">
+					<Unicode>Finnen gelangt. Denn als solches ist das vorliegende Märchen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l33" custom="readingOrder {index:33;}">
+				<Coords points="117,1556 141,1556 141,1562 156,1562 156,1556 171,1556 171,1562 214,1561 255,1556 287,1556 287,1562 317,1562 317,1556 327,1556 327,1562 341,1562 341,1556 371,1556 391,1562 421,1562 435,1556 451,1556 451,1562 478,1562 491,1556 550,1556 550,1562 600,1563 600,1557 684,1557 684,1563 695,1563 695,1557 712,1557 712,1563 725,1563 739,1557 772,1557 772,1563 784,1563 798,1557 923,1557 945,1558 945,1564 969,1563 969,1580 739,1579 725,1585 684,1585 642,1585 642,1579 631,1579 631,1585 600,1585 590,1584 577,1578 117,1578" />
+				<Baseline points="117,1578 969,1580" />
+				<TextEquiv index="1">
+					<Unicode>bloss aus Russland zu den Finnen gedrungen, wie sein östliches</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l34" custom="readingOrder {index:34;}">
+				<Coords points="118,1596 147,1596 147,1602 166,1597 182,1597 193,1602 193,1596 215,1596 255,1596 255,1602 266,1602 266,1596 283,1596 283,1602 294,1602 294,1596 308,1596 337,1596 337,1602 349,1598 362,1598 362,1613 389,1597 413,1597 413,1603 425,1603 438,1597 456,1597 456,1603 470,1603 470,1597 552,1597 565,1602 580,1603 593,1597 637,1597 637,1603 753,1603 753,1597 805,1597 805,1603 818,1603 831,1597 855,1597 855,1603 888,1597 944,1597 944,1604 964,1604 964,1610 969,1610 969,1613 964,1613 964,1619 526,1619 367,1624 308,1624 225,1624 182,1619 147,1618 147,1624 130,1624 130,1618 118,1618" />
+				<Baseline points="118,1618 969,1619" />
+				<TextEquiv index="1">
+					<Unicode>Ausbreitungsgebiet, die handelnden Personen und die Verbindun-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l35" custom="readingOrder {index:35;}">
+				<Coords points="119,1642 165,1642 180,1636 204,1636 204,1642 278,1642 278,1636 307,1636 307,1643 343,1643 343,1636 360,1636 383,1636 383,1643 418,1643 426,1637 436,1637 436,1643 447,1638 480,1637 602,1637 611,1643 625,1643 625,1637 640,1637 640,1643 664,1643 677,1637 751,1638 787,1643 799,1637 858,1637 858,1643 879,1643 879,1637 944,1637 959,1638 969,1643 969,1660 626,1660 473,1663 403,1659 403,1665 383,1666 360,1666 329,1666 329,1659 318,1659 318,1665 307,1666 290,1666 280,1659 180,1659 165,1665 119,1664" />
+				<Baseline points="119,1658 969,1660" />
+				<TextEquiv index="1">
+					<Unicode>gen, die es eingegangen ist (mit XXII oder mit dem Stellvertreter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>übrig bleiben, zu denen man mit gutem Grunde auch die keltische
+(Ea) rechnen kann. Denn das kann nicht bestritten werden, dass
+diese Varianten schon allein den Charakter des vorliegenden, nur
+in Europa und in unserm Weltteile benachbarten Ländern vor-
+kommenden Märchen als nordisches Tiermärchen bestimmen wür-
+den, wenn nur der Inhalt desselben diese Annahme natürlicher
+erscheinen lassen würde. Dies ist jedoch nicht der Fall, im Ge-
+sich abspielend ganz unnatürlich. Dagegen erscheint es als zwi-
+schen Teufel und Mann, d. h. zwischen dem die frühere Stein-
+und Bronzezeit (beachte die Goldwaffen des Teufels) und dem die
+spätere Eisenzeit vertretenden Manne sich abspielendes Märchen
+ganz besonders passend und natürlich, schon im Hinblick darauf,
+dass der Teufel bei der Bebauung des Feldes hauptsächlich als
+Pressen (des Steines) um die Wette die von dem Manne benutzten
+Rüben nicht kennt.
+Da also die aus der Verbreitung und die aus dem Inhalte
+des vorliegenden Märchens gezogenen Folgerungen, wenigstens
+scheinbar, einander widersprechen, müssen wir vorläufig, d. h. so
+lange, bis mehr Varianten, besonders aus dem Norden, gefunden
+worden sind, uns mit der einen unzweifelhaften Thatsache be-
+gnügen, dass das Märchen nämlich in Skandinavien schon sehr
+früh als zwischen Bär und Fuchs sich abspielende Erzählung vor-
+handen gewesen ist. Denn von hier ist es nicht allein in dieser
+Gestalt nach Schottland gedrungen, sondern es hat hier, wie schon
+das Vorkommen des Dreschens in der norwegischen Variante
+in der Erzählung von der nordischen Schwendewirtschaft mit allen
+ihren verschiedenen Details erhalten, und ist erst dann, als es
+selbst in dieser Erzählung aufgegangen war, in die Hände der
+Finnen gelangt. Denn als solches ist das vorliegende Märchen
+bloss aus Russland zu den Finnen gedrungen, wie sein östliches
+Ausbreitungsgebiet, die handelnden Personen und die Verbindun-
+gen, die es eingegangen ist (mit XXII oder mit dem Stellvertreter</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+französischen Varianten noch drei skandinavische (Da 1, 4, Db) übrig bleiben, zu denen man mit gutem Grunde auch die keltische (Ea) rechnen kann. Denn das kann nicht bestritten werden, dass diese Varianten schon allein den Charakter des vorliegenden, nur in Europa und in unserm Weltteile benachbarten Ländern vorkommenden Märchen als nordisches Tiermärchen bestimmen würden, wenn nur der Inhalt desselben diese Annahme natürlicher erscheinen lassen würde. Dies ist jedoch nicht der Fall, im Gegenteil ist die ganze Handlung des Märchens als zwischen Tieren sich abspielend ganz unnatürlich. Dagegen erscheint es als zwischen Teufel und Mann, d. h. zwischen dem die frühere Stein- und Bronzezeit (beachte die Goldwaffen des Teufels) und dem die spätere Eisenzeit vertretenden Manne sich abspielendes Märchen ganz besonders passend und natürlich, schon im Hinblick darauf, dass der Teufel bei der Bebauung des Feldes hauptsächlich als Gehülfe des Mannes auftritt, sowie darauf, dass er z. B. beim Pressen (des Steines) um die Wette die von dem Manne benutzten Rüben nicht kennt.
+Da also die aus der Verbreitung und die aus dem Inhalte des vorliegenden Märchens gezogenen Folgerungen, wenigstens scheinbar, einander widersprechen, müssen wir vorläufig, d. h. so lange, bis mehr Varianten, besonders aus dem Norden, gefunden worden sind, uns mit der einen unzweifelhaften Thatsache begnügen, dass das Märchen nämlich in Skandinavien schon sehr früh als zwischen Bär und Fuchs sich abspielende Erzählung vorhanden gewesen ist. Denn von hier ist es nicht allein in dieser Gestalt nach Schottland gedrungen, sondern es hat hier, wie schon das Vorkommen des Dreschens in der norwegischen Variante beweist, besonders unter den Schweden (Da 1, 4) eine Fortsetzung in der Erzählung von der nordischen Schwendewirtschaft mit allen ihren verschiedenen Details erhalten, und ist erst dann, als es selbst in dieser Erzählung aufgegangen war, in die Hände der Finnen gelangt. Denn als solches ist das vorliegende Märchen bloss aus Russland zu den Finnen gedrungen, wie sein östliches Ausbreitungsgebiet, die handelnden Personen und die Verbindungen, die es eingegangen ist (mit XXII oder mit dem Stellvertreter
+-->
+	</Page>
+</PcGts>

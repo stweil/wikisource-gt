@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:28:20</Created>
+		<LastChange>2026-11-23T18:28:20</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Die_Sophienkirche_in_Dresden_(1912).pdf/83 revision 4842410 of 2026-03-03T07:15:44Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="sophienkirche_dresden_1912_0083.png" imageWidth="1000" imageHeight="1439">
+		<ReadingOrder>
+			<OrderedGroup id="ro16160637017777221124" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="16" regionRef="r16" />
+				<RegionRefIndexed index="17" regionRef="r17" />
+				<RegionRefIndexed index="20" regionRef="r20" />
+				<RegionRefIndexed index="23" regionRef="r23" />
+				<RegionRefIndexed index="25" regionRef="r25" />
+				<RegionRefIndexed index="26" regionRef="r26" />
+				<RegionRefIndexed index="29" regionRef="r29" />
+				<RegionRefIndexed index="32" regionRef="r32" />
+				<RegionRefIndexed index="35" regionRef="r35" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="168,205 261,205 261,217 168,217" />
+			<!-- line left out: id="r0l0" points="168,205 184,205 204,205 217,207 246,205 254,205 261,210 261,217 212,217 184,217 168,217" baseline="168,217 261,217" reason: differs: "nde:" against " des Jo" | Wikisource:  | next_nc_e1: Grabstein de:
+ | german_print2_15: Grabstein de:
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="127,227 266,227 266,243 127,243" />
+			<!-- line left out: id="r1l0" points="127,227 137,227 151,227 165,230 186,230 212,227 221,227 234,230 247,232 266,235 266,240 221,243 206,243 151,243 142,243 127,239" baseline="127,239 259,239 266,240" reason: second model: differs: "Sand" against ". L." | Wikisource: Sandsteinplatte, d | next_nc_e1: Sandsteinplatte, d
+ | german_print2_15: Sandsteinplatte, d.
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="156,250 280,250 280,262 156,262" />
+			<!-- line left out: id="r2l0" points="156,256 165,250 168,250 188,250 209,250 241,251 257,251 267,254 280,254 280,261 267,262 249,262 220,262 219,256 210,256 209,262 200,262 161,261 156,261" baseline="156,261 190,261 280,262" reason: differs: "elten" against "eren " | Wikisource:  | next_nc_e1: elten Engelskopf
+ | german_print2_15: velten Engelskopf
+ -->
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="122,206 749,206 749,976 122,976" />
+		</GraphicRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="170,295 295,295 295,307 170,307" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="170,296 176,295 181,295 218,297 224,295 236,295 295,296 295,307 219,307 213,304 202,307 183,307 170,305" />
+				<Baseline points="170,308 238,306 295,307" />
+				<TextEquiv index="1">
+					<Unicode>Grabstein des W</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Grabstein des W</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="297,295 327,295 327,311 297,311" />
+		</GraphicRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="128,318 329,318 329,329 128,329" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="128,320 176,322 186,318 204,318 273,318 282,322 329,322 329,329 297,329 161,329 128,329" />
+				<Baseline points="128,329 329,329" />
+				<TextEquiv index="1">
+					<Unicode>Kammerherr und Hauptma</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Kammerherr und Hauptma</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r7">
+			<Coords points="286,347 312,347 312,352 286,352" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="642,566 688,566 688,599 642,599" />
+		</GraphicRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="646,592 742,592 742,622 646,622" />
+			<TextLine id="r9l0" custom="readingOrder {index:0;}">
+				<Coords points="675,592 679,592 742,593 742,600 694,600 690,600 675,594" />
+				<Baseline points="675,600 742,600" />
+				<TextEquiv index="1">
+					<Unicode>tmuseum</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l1" custom="readingOrder {index:1;}">
+				<Coords points="646,615 679,612 683,612 702,615 720,612 735,612 742,615 742,622 686,622 660,622 646,622" />
+				<Baseline points="646,622 742,622" />
+				<TextEquiv index="1">
+					<Unicode>ein sitzender</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>tmuseum
+ein sitzender</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="606,634 742,634 742,644 606,644" />
+			<TextLine id="r10l0" custom="readingOrder {index:0;}">
+				<Coords points="606,637 650,634 653,634 667,638 675,634 685,634 697,636 733,634 737,634 742,638 742,644 732,644 662,644 606,644" />
+				<Baseline points="606,644 742,644" />
+				<TextEquiv index="1">
+					<Unicode>htes blasender, als</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>htes blasender, als</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="696,745 740,745 740,756 696,756" />
+			<TextLine id="r11l0" custom="readingOrder {index:0;}">
+				<Coords points="696,748 704,748 712,745 720,745 733,745 740,749 740,755 720,756 712,756 696,755" />
+				<Baseline points="696,755 740,755" />
+				<TextEquiv index="1">
+					<Unicode>ackeln</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ackeln</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="670,789 740,789 740,800 670,800" />
+			<!-- line left out: id="r12l0" points="670,791 673,791 696,792 715,789 724,789 740,793 740,800 724,800 699,800 687,799 681,799 670,795" baseline="670,799 740,800" reason: differs: "vond" against "mit " | Wikisource:  | next_nc_e1:  von den
+ | german_print2_15: f von den
+ -->
+		</TextRegion>
+		<GraphicRegion id="r13">
+			<Coords points="644,835 672,835 672,842 644,842" />
+		</GraphicRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="675,833 735,833 735,847 675,847" />
+			<!-- line left out: id="r14l0" points="675,833 698,833 717,837 735,838 735,844 717,847 713,847 694,844 675,844" baseline="675,844 735,844" reason: models differ | Wikisource: Engels | next_nc_e1: Engels
+ | german_print2_15: n Engels-
+ -->
+		</TextRegion>
+		<GraphicRegion id="r15">
+			<Coords points="122,849 742,849 742,893 122,893" />
+		</GraphicRegion>
+		<TextRegion id="r16" custom="readingOrder {index:16;} orientation {0;}">
+			<Coords points="167,919 293,919 293,931 167,931" />
+			<!-- line left out: id="r16l0" points="167,919 183,919 196,919 205,923 212,922 218,919 220,919 250,919 269,922 274,923 282,921 293,921 293,930 274,930 269,931 256,931 220,930 205,930 197,930 185,929 183,930 171,930 167,921" baseline="167,929 293,929" reason: second model: differs: "Einf" against "kopf" | Wikisource: Einfache Grabste | next_nc_e1: Einfache Grabste
+ | german_print2_15: Einfache Grabster
+ -->
+		</TextRegion>
+		<TextRegion id="r17" custom="readingOrder {index:17;} orientation {0;}">
+			<Coords points="167,943 208,943 208,952 167,952" />
+			<!-- line left out: id="r17l0" points="167,943 183,943 208,945 208,951 193,952 167,952" baseline="167,952 208,951" reason: differs: "Grab" against "inpl" | Wikisource:  | next_nc_e1: Grabs
+ | german_print2_15: Grabst
+ -->
+		</TextRegion>
+		<GraphicRegion id="r18">
+			<Coords points="210,941 341,941 341,975 210,975" />
+		</GraphicRegion>
+		<GraphicRegion id="r19">
+			<Coords points="672,940 735,940 735,955 672,955" />
+		</GraphicRegion>
+		<TextRegion id="r20" custom="readingOrder {index:20;} orientation {0;}">
+			<Coords points="126,964 198,964 198,975 126,975" />
+			<!-- line left out: id="r20l0" points="126,964 136,964 145,971 149,964 163,964 184,966 198,967 198,975 136,975 126,975" baseline="126,975 198,975" reason: second model: differs: "Leib" against "ein " | Wikisource: Leibarztes | next_nc_e1: Leibarztes
+ | german_print2_15: Leibarztes Hl.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r21">
+			<Coords points="309,968 312,968 312,969 309,969" />
+		</GraphicRegion>
+		<GraphicRegion id="r22">
+			<Coords points="221,971 222,971 222,974 221,974" />
+		</GraphicRegion>
+		<TextRegion id="r23" custom="readingOrder {index:23;} orientation {0;}">
+			<Coords points="314,967 368,967 368,975 314,975" />
+			<!-- line left out: id="r23l0" points="314,968 361,967 368,967 368,975 322,975 314,975" baseline="314,974 368,975" reason: second model: differs: "er.u" against "s Do" | Wikisource: er, und | next_nc_e1: er, und
+ | german_print2_15: er. und
+ -->
+		</TextRegion>
+		<GraphicRegion id="r24">
+			<Coords points="697,966 734,966 734,981 697,981" />
+		</GraphicRegion>
+		<TextRegion id="r25" custom="readingOrder {index:25;} orientation {0;}">
+			<Coords points="126,985 354,985 354,1019 126,1019" />
+			<!-- line left out: id="r25l0" points="126,986 140,986 168,985 180,985 198,985 217,987 267,985 277,985 298,986 322,989 354,990 354,997 330,997 298,997 250,997 244,996 225,997 194,1000 180,1000 168,1000 159,997 126,997" baseline="126,997 354,997" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: Marmorplatte mit Hlabasterwa | german_print2_15: Marmorplatte mit Alabasterwer -->
+			<!-- line left out: id="r25l1" points="167,1008 183,1008 203,1008 208,1011 208,1019 183,1019 167,1019" baseline="167,1019 208,1019" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: Grabst
+ | german_print2_15: Crabst
+ -->
+		</TextRegion>
+		<TextRegion id="r26" custom="readingOrder {index:26;} orientation {0;}">
+			<Coords points="367,990 391,990 391,998 367,998" />
+			<!-- line left out: id="r26l0" points="367,996 376,991 385,990 391,990 391,997 384,998 367,998" baseline="367,998 391,997" reason: differs: "pen" against "ein " | Wikisource:  | next_nc_e1: pen
+ | german_print2_15: pen.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r27">
+			<Coords points="357,995 359,995 359,998 357,998" />
+		</GraphicRegion>
+		<GraphicRegion id="r28">
+			<Coords points="210,1011 226,1011 226,1019 210,1019" />
+		</GraphicRegion>
+		<TextRegion id="r29" custom="readingOrder {index:29;} orientation {0;}">
+			<Coords points="125,1007 738,1007 738,1109 125,1109" />
+			<!-- line left out: id="r29l0" points="229,1011 245,1007 260,1007 287,1007 302,1008 368,1008 386,1008 397,1012 419,1012 447,1009 467,1008 479,1008 501,1009 502,1017 562,1013 573,1009 597,1009 642,1009 669,1010 678,1009 688,1009 725,1010 735,1014 738,1017 738,1019 735,1021 688,1025 670,1025 646,1021 642,1024 635,1025 632,1025 569,1021 447,1020 437,1014 429,1014 419,1021 386,1021 374,1021 342,1020 332,1019 311,1023 305,1023 245,1019 229,1018" baseline="229,1018 235,1018 738,1021" reason: differs: "ndes" against "abst" | Wikisource:  | next_nc_e1: n des Polycarp Leyser, † 1610, ku sächs. Hofprediger. Ein- | german_print2_15: n des Polycarp Leyser, † 1610, ku sächs. Hofprediger. Ein- -->
+			<TextLine id="r29l1" custom="readingOrder {index:1;}">
+				<Coords points="126,1030 131,1030 155,1030 185,1030 195,1033 224,1030 235,1030 244,1030 263,1032 289,1032 313,1030 343,1030 355,1030 414,1031 423,1034 435,1031 446,1031 454,1034 501,1031 512,1031 522,1034 543,1031 552,1031 558,1034 589,1031 611,1031 653,1035 653,1043 633,1046 619,1046 598,1046 579,1043 501,1043 494,1038 485,1042 126,1041" />
+				<Baseline points="126,1041 653,1043" />
+				<TextEquiv index="1">
+					<Unicode>fache Marmorplatte mit Schrift und darunter angebrachtem Wappen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r29l2" points="168,1052 190,1052 206,1055 237,1052 253,1052 255,1055 310,1052 314,1052 333,1052 339,1054 362,1056 370,1057 379,1063 383,1057 392,1056 410,1056 427,1053 440,1053 453,1057 458,1060 466,1061 466,1064 418,1064 383,1067 333,1067 300,1067 292,1067 279,1057 279,1063 270,1066 253,1066 229,1067 196,1067 183,1067 173,1067 168,1063" baseline="168,1063 292,1063 466,1064" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: Polycarp Leyser gehörte zu jenen Männe | german_print2_15: Polycarp Leyser gehörte zu jenen Maänn. -->
+			<!-- line left out: id="r29l3" points="125,1074 139,1074 155,1074 184,1074 225,1077 256,1074 265,1074 282,1074 298,1074 306,1076 352,1074 362,1074 375,1075 425,1079 425,1086 424,1090 400,1090 372,1086 298,1086 287,1086 228,1085 184,1086 139,1086 125,1086" baseline="125,1085 256,1085 425,1086" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: Orthodoxie eine bedeutsame Rolle spiel | german_print2_15: Ofthodoxie eine bedeutsame Rolle spiel -->
+			<!-- line left out: id="r29l4" points="125,1100 153,1099 162,1099 195,1096 206,1096 236,1096 244,1097 253,1096 261,1096 297,1096 331,1096 347,1096 360,1097 369,1100 375,1097 384,1097 419,1097 419,1108 396,1109 385,1109 369,1108 347,1109 336,1109 306,1108 236,1108 200,1108 134,1108 125,1108" baseline="125,1107 310,1107 419,1108" reason: differs: "ande" against "ten " | Wikisource:  | next_nc_e1: an dem Buchstaben der Konkordienfo
+ | german_print2_15: an dem Buchstaben der Konkordienfo
+ -->
+			<TextEquiv index="1">
+				<Unicode>fache Marmorplatte mit Schrift und darunter angebrachtem Wappen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r30">
+			<Coords points="511,1009 632,1009 632,1021 511,1021" />
+		</GraphicRegion>
+		<GraphicRegion id="r31">
+			<Coords points="466,1057 489,1057 489,1059 466,1059" />
+		</GraphicRegion>
+		<TextRegion id="r32" custom="readingOrder {index:32;} orientation {0;}">
+			<Coords points="442,1053 738,1053 738,1114 442,1114" />
+			<!-- line left out: id="r32l0" points="489,1061 492,1061 498,1063 507,1056 519,1056 571,1056 587,1053 597,1053 631,1054 644,1058 666,1057 680,1057 706,1054 723,1054 737,1058 737,1066 680,1066 671,1065 498,1066 495,1066 489,1064" baseline="489,1064 652,1065 737,1066" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 1. die in der Zeit der lutherischen | german_print2_15: n. die in der Zeit der lutherischen -->
+			<!-- line left out: id="r32l1" points="445,1079 467,1075 503,1075 526,1075 576,1075 594,1079 606,1079 633,1076 637,1076 679,1076 716,1076 722,1078 737,1080 737,1088 656,1088 642,1088 594,1087 467,1087 445,1086" baseline="445,1087 665,1087 737,1088" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: n und sich durch ein zähes Festhalten | german_print2_15: n und sich durch ein zöhes Festhalten -->
+			<!-- line left out: id="r32l2" points="442,1101 451,1097 453,1097 526,1097 548,1100 558,1097 593,1097 635,1098 651,1098 685,1098 702,1102 738,1102 738,1110 674,1114 660,1114 651,1114 614,1110 607,1110 526,1109 504,1109 442,1109" baseline="442,1109 624,1109 738,1110" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: el auszeichneten. Eine Hufgabe seines
+ | german_print2_15: el auszeichneten. Eine Rufgabe seines
+ -->
+		</TextRegion>
+		<GraphicRegion id="r33">
+			<Coords points="436,1079 560,1079 560,1086 436,1086" />
+		</GraphicRegion>
+		<GraphicRegion id="r34">
+			<Coords points="420,1101 563,1101 563,1108 420,1108" />
+		</GraphicRegion>
+		<TextRegion id="r35" custom="readingOrder {index:35;} orientation {0;}">
+			<Coords points="399,1394 648,1394 648,1422 399,1422" />
+			<!-- line left out: id="r35l0" points="399,1394 408,1394 426,1394 443,1394 457,1394 465,1394 474,1403 478,1403 483,1394 491,1394 508,1394 520,1394 533,1394 533,1403 534,1403 542,1394 561,1394 583,1394 583,1403 585,1403 609,1404 609,1394 625,1394 643,1394 643,1404 648,1404 648,1412 643,1412 643,1422 625,1422 609,1422 609,1413 585,1413 583,1413 583,1422 561,1422 533,1422 520,1422 508,1422 491,1422 483,1422 483,1412 469,1412 465,1422 457,1422 443,1422 426,1422 408,1422 399,1422" baseline="399,1412 648,1412" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnpldigital slub-dresden deſid480112029/83
+ | german_print2_15: hp liitalslub dresden de idaS011202 ,/83
+ -->
+		</TextRegion>
+		<GraphicRegion id="r36">
+			<Coords points="934,0 1000,0 1000,1439 934,1439" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Grabstein des Johann Leuber, † 1652, kurfürstl. sächs. Geheimrat. (Taf. L.)
+Sandsteinplatte, deren Rand seitlich von Blattgehängen, oben von einem
+geflügelten Engelskopf und seitlichem Rollwerk und unten von dem Wappen des
+Verstorbenen mit seitlichem Rollwerk gebildet wird.
+Grabstein des Wolff Hildebrand von Gustädt, † 1671, kurfürstl. sächs.
+Kammerherr und Hauptmann der Leibkompanie zu Fuß, auch Domherr des hohen
+Stiftes Meißen. Sandsteinplatte mit Umrahmung von Girlanden, seitlichen
+Blattgehängen, geflügeltem Totenkopf mit Sanduhr und sechs Wappen der Familien:
+von Gustedt, ?, von Randau (?), von Goldochs, von Krebs (?), von Dieskau.
+Grabstein des Nicol Gebhardt von Miltitz, † 1635, kurfürstl. sächs.
+Geheimer Rat. Schwarze Marmortafel mit dem Alabasterwappen der Miltitz. Auf
+diesem Grabstein ist bei der neuen Instandsetzungsarbeit der Rumpf einer
+bekleideten weiblichen Gestalt mit vergoldeten Gewandsäumen aus Alabaster,
+66 cm hoch, in Relief gearbeitet (Taf. LI), und das Familienwappen wieder
+angebracht worden, die seit der Aufdeckung im Jahre 1893 das Stadtmuseum
+aufbewahrt hatte.
+Zwei Trümmer von Grabsteinen, die im Jahre 1892 beim Graben eines
+Brunnens an der Sophienkirche gefunden worden waren, sind im Stadtmuseum
+aufgestellt. Bei dem einen Stück ist ein Teil der Umrahmung, ein sitzender
+Putto in Rundplastik und ein die Posaune des jüngsten Gerichtes blasender, als
+Herme gebildeter Engel, sowie daran anschließend ein Teil des ovalen
+Mittelstückes erhalten. Hier ist nach der Offenbarung Johannis 4 und 5 Christus im
+Strahlenglanze auf dem Throne sitzend dargestellt, das Buch mit den sieben
+Siegeln auf dem Schoße und das Lamm zu seiner Seite. In der oberen
+Strahlenumrahmung des Stuhles sind brennende Lampen sichtbar. „Und sieben Fackeln
+mit Feuer brannten vor dem Stuhl.“ Neben Christus gewahrt man zwei der
+apokalyptischen Tiere, den Löwen und den Adler und am Rande zwölf von den
+vierundzwanzig Ältesten. (Taf. LII.)
+Das andere Sandsteinstück im Museum enthält einen geflügelten
+Engelskopf und das Wappen entweder der Familie von Metzsch, von der mehrere
+Mitglieder in der Sophienkirche ihre Ruhestätte fanden, oder der Familie von Pöllnitz.
+Einfache Grabsteinplatten mit gemeißelten Wappen.
+Grabstein der Gertraud Doerer geb. Rothhaupt, Gattin des kurfürstl. sächs.
+Leibarztes Andreas Doerer, und ihrer Tochter, beide † 1608. Einfache schwarze
+Marmorplatte mit Alabasterwappen.
+Grabstein des Polycarp Leyser, † 1610, kurfürstl. sächs. Hofprediger.
+Einfache Marmorplatte mit Schrift und darunter angebrachtem Wappen.
+Polycarp Leyser gehörte zu jenen Männern, die in der Zeit der lutherischen
+Orthodoxie eine bedeutsame Rolle spielten und sich durch ein zähes Festhalten
+an dem Buchstaben der Konkordienformel auszeichneten. Eine Aufgabe seines
+-->
+	</Page>
+</PcGts>

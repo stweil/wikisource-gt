@@ -1,0 +1,474 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:41:28</Created>
+		<LastChange>2026-11-23T18:41:28</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Ludwig_Richter_Verzeichnis_Hoff_Budde_1922.djvu/508 revision 4969613 of 2026-07-31T07:50:19Z, proofread level 3, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="richter_verzeichnis_1922_0508.png" imageWidth="2089" imageHeight="3339">
+		<ReadingOrder>
+			<OrderedGroup id="ro4638137056467043658" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="275,174 571,174 571,245 275,245" />
+			<!-- line left out: id="r0l0" points="275,178 297,174 322,174 322,187 350,187 350,197 398,197 401,185 411,185 411,196 437,196 437,186 460,186 474,189 478,196 521,196 537,185 571,185 571,219 564,219 557,239 521,241 496,241 496,220 460,220 440,220 440,241 408,241 398,221 380,221 377,241 322,245 297,245 297,223 275,223" baseline="275,223 520,219 571,219" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Übersichten II
+ | german_print2_15: UÜbersichten II
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="275,298 1150,298 1150,757 275,757" />
+			<!-- line left out: id="r1l0" points="275,305 289,304 348,303 386,303 426,303 426,313 454,313 481,314 485,330 492,330 520,301 550,301 551,312 575,312 578,304 591,304 593,312 614,311 634,311 636,301 658,301 662,311 682,311 737,312 759,313 763,301 770,301 799,312 828,311 850,311 856,300 928,300 931,309 951,309 970,310 972,327 981,327 1007,301 1046,301 1055,326 1064,326 1146,298 1150,298 1150,327 1146,327 1064,334 1055,334 1007,333 981,343 972,343 970,334 850,335 759,337 739,337 737,345 687,345 682,335 658,336 575,337 551,337 520,336 492,344 481,348 455,348 454,338 426,338 426,348 401,348 401,340 389,340 275,338" baseline="275,338 491,336 875,334 1150,333" reason: second model: differs: "r,77." against ", 71. W" | Wikisource: Windberg, Potschappel und der, 71. | next_nc_e1: Windberg, Potschappel und der, 71.
+ | german_print2_15: Windberg, Potschappel und der, 77.
+ -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="275,363 333,362 376,364 379,373 416,372 442,360 555,361 556,387 565,387 591,359 615,359 650,361 795,360 795,394 775,396 501,395 399,397 338,397 275,396" />
+				<Baseline points="275,396 795,394" />
+				<TextEquiv index="1">
+					<Unicode>Winter S 110. S 112/ 113.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="275,419 349,419 377,421 380,430 419,430 420,420 445,420 448,429 514,429 515,447 525,447 550,418 574,418 578,428 712,428 716,417 755,417 755,428 775,428 805,419 848,418 850,444 858,444 883,418 956,417 978,417 980,445 988,445 1014,417 1037,417 1083,417 1107,418 1110,443 1116,443 1116,450 1083,452 931,453 805,452 775,462 755,463 731,463 731,453 670,452 668,463 642,463 616,453 550,453 525,463 514,464 488,464 488,454 301,454 301,464 275,464" />
+				<Baseline points="275,454 1116,451" />
+				<TextEquiv index="1">
+					<Unicode>Winterberg, der große, 14. 2943. 2982.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="275,480 378,479 380,489 420,490 422,479 446,479 449,489 537,488 540,506 549,506 576,478 608,478 611,488 678,487 680,477 690,477 694,487 714,487 717,477 738,477 753,479 779,488 803,486 964,486 967,476 978,475 1029,475 1029,486 1053,486 1085,475 1116,475 1116,510 1085,510 1053,518 1029,520 1006,520 1006,510 922,510 920,520 894,520 867,512 576,512 549,522 540,522 537,512 517,512 515,523 488,523 488,512 275,513" />
+				<Baseline points="275,513 1116,510" />
+				<TextEquiv index="1">
+					<Unicode>Winterberge, Aussicht vom großen, 6.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="344,539 392,538 393,565 401,565 432,538 499,537 500,564 508,564 537,538 581,536 604,536 606,564 614,564 614,572 392,573 344,573" />
+				<Baseline points="344,573 507,571 614,572" />
+				<TextEquiv index="1">
+					<Unicode>52. 159. 160.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="275,623 296,623 299,597 403,594 414,594 414,607 470,606 472,597 528,594 538,594 541,605 631,605 636,596 729,594 751,594 755,621 762,621 789,594 811,594 892,594 892,627 872,629 680,629 654,613 636,613 631,629 470,631 431,630 429,641 403,641 379,630 299,630 296,641 275,641" />
+				<Baseline points="275,630 892,627" />
+				<TextEquiv index="1">
+					<Unicode>„Wir gratulieren“ 592. 3194.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l6" points="277,682 297,682 301,655 350,655 351,665 376,665 378,655 406,654 490,654 493,665 528,665 565,680 661,654 719,653 765,653 850,652 872,652 920,652 937,654 946,679 953,679 953,687 801,688 694,688 528,689 376,690 351,690 301,689 297,699 277,699" baseline="277,689 953,686" reason: differs: "em.2987" against " . . . " | Wikisource:  | next_nc_e1: „Wohl dem .  2987. 3161.
+ | german_print2_15: „Wohl dem. “ 2987. 3161.
+ -->
+			<!-- line left out: id="r1l7" points="276,714 302,713 328,713 328,724 350,724 351,713 394,713 394,741 404,741 430,714 461,712 484,712 494,713 497,723 535,723 536,712 575,712 575,723 597,723 631,723 634,712 665,712 668,723 681,722 702,722 705,713 718,713 720,723 740,723 741,740 750,740 776,711 800,711 863,712 883,713 890,739 898,739 898,746 800,747 776,747 750,755 741,755 740,746 702,747 665,747 631,749 613,749 597,748 575,748 575,755 548,755 548,747 535,748 484,748 484,755 461,755 461,748 430,748 404,757 394,757 394,748 350,749 328,749 328,757 302,757 302,747 276,747" baseline="276,747 749,746 898,746" reason: differs: "Wolf" against "3161" | Wikisource:  | next_nc_e1: Wolff, Märchenschiatz, S 171.
+ | german_print2_15: Wolff, Märchenschatz, S 171.
+ -->
+			<TextEquiv index="1">
+				<Unicode>Winter S 110. S 112/ 113.
+Winterberg, der große, 14. 2943. 2982.
+Winterberge, Aussicht vom großen, 6.
+52. 159. 160.
+„Wir gratulieren“ 592. 3194.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="276,827 1122,827 1122,1217 276,1217" />
+			<!-- line left out: id="r2l0" points="276,832 290,831 323,831 326,841 351,841 353,831 367,830 395,830 396,858 405,858 432,830 469,830 472,858 480,858 503,830 530,830 531,857 539,857 557,829 587,829 589,857 609,857 636,829 669,829 671,839 696,839 698,829 733,829 736,839 754,839 758,829 807,829 810,839 830,839 832,829 856,829 860,839 900,839 900,855 909,855 936,828 963,827 987,827 1074,828 1080,848 1117,848 1117,853 1080,853 1074,862 1051,863 987,863 961,864 936,864 909,872 900,872 900,862 880,863 830,864 782,864 696,864 636,864 609,873 599,873 597,864 530,866 469,866 432,866 405,874 396,874 395,865 362,866 326,866 276,865" baseline="276,866 404,865 608,864 1117,862" reason: differs: "Wolf" against "183." | Wikisource:  | next_nc_e1: Wolff, O. L. B., Volksbücher, SS 182— | german_print2_15: Wolff, O. L. B., Volksbücher, SS 182 — -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="354,891 373,890 419,890 421,916 428,916 428,924 395,925 373,925 354,922" />
+				<Baseline points="354,922 428,924" />
+				<TextEquiv index="1">
+					<Unicode>183.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="278,949 327,949 328,959 353,959 355,948 391,949 394,959 462,958 465,951 504,947 513,947 518,959 539,959 566,949 636,949 638,975 645,975 645,982 636,983 501,983 293,983 278,982" />
+				<Baseline points="278,983 645,983" />
+				<TextEquiv index="1">
+					<Unicode>Wolkenstein 255.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="278,1008 324,1007 327,1018 351,1018 354,1009 384,1009 387,1017 407,1017 433,1006 457,1006 461,1017 502,1016 531,1005 549,1005 566,1006 571,1016 591,1016 594,1005 617,1005 621,1016 667,1017 671,1005 695,1005 698,1015 788,1015 813,1002 829,1002 872,1004 877,1015 893,1015 894,1003 926,1003 941,1005 943,1014 989,1014 994,1004 1027,1003 1031,1014 1053,1014 1057,1002 1080,1002 1084,1014 1122,1014 1122,1037 502,1042 407,1042 327,1042 278,1041" />
+				<Baseline points="278,1042 1122,1037" />
+				<TextEquiv index="1">
+					<Unicode>Worte des Heilands an Christenkinder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l4" points="349,1065 415,1065 464,1065 466,1092 473,1092 473,1099 373,1101 349,1101" baseline="349,1101 372,1100 473,1099" reason: differs: "S§247" against "S 247." | Wikisource:  | next_nc_e1: S§ 247.
+ | german_print2_15: 8 247.
+ -->
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="278,1151 299,1151 302,1125 317,1124 350,1124 353,1134 402,1135 405,1124 429,1124 433,1134 473,1135 474,1124 498,1124 501,1135 563,1134 580,1123 622,1123 622,1133 631,1133 635,1124 662,1124 666,1133 815,1133 818,1121 851,1121 855,1131 895,1131 909,1121 976,1119 1000,1119 1005,1130 1025,1130 1027,1119 1048,1119 1052,1130 1099,1130 1104,1120 1122,1120 1122,1138 1104,1138 1099,1153 974,1156 757,1157 744,1168 719,1168 716,1157 622,1158 622,1168 598,1168 598,1160 302,1158 299,1168 278,1168" />
+				<Baseline points="278,1158 1122,1153" />
+				<TextEquiv index="1">
+					<Unicode>„Wunderbare Rettung zweier Mädchen“</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="348,1184 441,1184 445,1210 452,1210 452,1217 348,1217" />
+				<Baseline points="348,1217 452,1217" />
+				<TextEquiv index="1">
+					<Unicode>3417.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>183.
+Wolkenstein 255.
+Worte des Heilands an Christenkinder
+„Wunderbare Rettung zweier Mädchen“
+3417.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="278,1271 1123,1271 1123,1319 278,1319" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="278,1277 311,1277 314,1287 334,1287 360,1276 406,1276 406,1286 428,1286 456,1276 492,1276 494,1286 534,1286 550,1275 574,1275 576,1286 596,1286 597,1275 633,1275 636,1285 661,1285 664,1275 717,1274 721,1286 742,1286 765,1274 788,1274 792,1285 831,1284 852,1273 954,1273 958,1283 990,1283 1005,1272 1059,1273 1082,1271 1123,1271 1123,1307 1005,1308 990,1315 958,1315 954,1307 903,1308 903,1315 879,1315 879,1308 456,1311 428,1319 379,1319 379,1311 278,1312" />
+				<Baseline points="278,1312 427,1309 1123,1307" />
+				<TextEquiv index="1">
+					<Unicode>Xa Xa, Das Schloß in der Höhle, S 156.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Xa Xa, Das Schloß in der Höhle, S 156.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="278,1356 1124,1356 1124,1808 278,1808" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="278,1359 308,1359 311,1370 321,1370 321,1359 358,1359 363,1370 396,1370 423,1358 514,1358 517,1369 558,1369 560,1358 583,1358 587,1369 607,1369 636,1357 708,1357 723,1359 725,1368 769,1368 772,1357 781,1357 784,1367 831,1368 835,1384 843,1384 870,1356 894,1356 990,1357 990,1392 870,1392 843,1399 835,1399 831,1392 654,1393 654,1399 558,1394 423,1394 396,1402 363,1402 358,1394 347,1394 347,1402 321,1402 321,1394 278,1394" />
+				<Baseline points="278,1394 990,1391" />
+				<TextEquiv index="1">
+					<Unicode>Zahn, biblische Historien, S 346.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="279,1418 308,1418 311,1428 332,1428 334,1418 357,1418 362,1429 374,1429 374,1417 413,1418 415,1429 467,1428 467,1417 502,1417 505,1428 543,1428 562,1417 572,1417 575,1428 646,1427 650,1417 698,1417 698,1427 790,1427 792,1416 837,1415 837,1426 856,1426 860,1415 870,1415 873,1425 913,1425 915,1415 951,1415 951,1425 986,1425 1006,1413 1095,1413 1123,1416 1123,1447 1083,1449 951,1451 543,1453 491,1453 374,1453 279,1452" />
+				<Baseline points="279,1453 1123,1448" />
+				<TextEquiv index="1">
+					<Unicode>Zahnbrecher in einem römischen Städt-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="347,1487 367,1487 368,1476 391,1476 395,1487 440,1487 467,1476 490,1476 527,1476 546,1477 546,1510 527,1511 440,1511 367,1511 347,1511" />
+				<Baseline points="347,1511 546,1510" />
+				<TextEquiv index="1">
+					<Unicode>chen 241.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="280,1535 308,1535 311,1546 331,1546 336,1535 345,1535 347,1547 397,1546 425,1535 459,1535 462,1546 501,1546 526,1538 530,1538 530,1546 565,1546 567,1538 600,1538 604,1545 625,1545 627,1562 635,1562 661,1535 684,1535 741,1535 741,1569 661,1568 635,1578 627,1578 625,1570 530,1571 530,1578 526,1578 501,1570 425,1570 397,1579 361,1579 358,1570 280,1569" />
+				<Baseline points="280,1570 741,1569" />
+				<TextEquiv index="1">
+					<Unicode>Zahn, Der erste, 243.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l4" custom="readingOrder {index:4;}">
+				<Coords points="280,1594 309,1594 311,1605 331,1605 334,1594 357,1594 362,1605 384,1605 411,1594 430,1593 457,1593 457,1605 469,1605 474,1593 505,1593 508,1604 528,1604 529,1594 552,1594 569,1596 571,1605 735,1604 735,1593 758,1593 761,1604 794,1603 799,1592 821,1592 825,1604 841,1604 842,1591 880,1591 882,1603 949,1603 974,1591 1010,1591 1014,1603 1109,1602 1112,1611 1124,1611 1124,1617 1112,1617 1109,1626 1063,1627 1059,1637 1037,1637 1034,1627 910,1627 908,1637 882,1637 880,1627 605,1629 280,1628" />
+				<Baseline points="280,1629 1124,1626" />
+				<TextEquiv index="1">
+					<Unicode>Zehn Ansichten merkwürdiger Gegen-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l5" custom="readingOrder {index:5;}">
+				<Coords points="351,1653 375,1653 379,1664 425,1664 451,1653 461,1653 466,1664 487,1664 515,1653 540,1653 542,1664 586,1664 588,1653 612,1653 615,1663 682,1664 709,1651 733,1651 798,1653 801,1678 809,1678 809,1686 540,1689 515,1689 351,1688" />
+				<Baseline points="351,1688 809,1686" />
+				<TextEquiv index="1">
+					<Unicode>den in Sachsen S 77.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l6" custom="readingOrder {index:6;}">
+				<Coords points="281,1712 308,1712 312,1723 332,1723 335,1712 346,1712 349,1723 369,1723 371,1712 392,1712 397,1723 615,1723 630,1713 686,1713 686,1722 814,1721 828,1711 861,1711 863,1721 888,1721 892,1711 926,1711 928,1720 971,1720 971,1709 1010,1709 1014,1721 1050,1721 1052,1710 1074,1710 1078,1721 1122,1721 1122,1745 505,1747 504,1757 477,1757 474,1746 281,1746" />
+				<Baseline points="281,1747 1122,1745" />
+				<TextEquiv index="1">
+					<Unicode>Zeichnungen zu Musaeus Volksmärchen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l7" custom="readingOrder {index:7;}">
+				<Coords points="350,1770 373,1770 529,1773 529,1807 510,1808 467,1808 428,1808 350,1805" />
+				<Baseline points="350,1805 529,1807" />
+				<TextEquiv index="1">
+					<Unicode>S 387/ 88.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Zahn, biblische Historien, S 346.
+Zahnbrecher in einem römischen Städt-
+chen 241.
+Zahn, Der erste, 243.
+Zehn Ansichten merkwürdiger Gegen-
+den in Sachsen S 77.
+Zeichnungen zu Musaeus Volksmärchen
+S 387/ 88.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="805,181 1519,181 1519,235 805,235" />
+			<!-- line left out: id="r5l0" points="805,183 850,183 854,195 878,195 882,182 920,182 920,194 929,194 931,183 955,183 958,192 979,192 982,182 1007,182 1011,193 1051,193 1053,182 1076,182 1079,192 1121,192 1149,182 1159,182 1167,193 1176,193 1177,181 1226,181 1226,192 1241,192 1244,182 1271,182 1272,191 1290,191 1357,191 1400,191 1404,181 1413,181 1416,191 1436,191 1438,181 1460,181 1464,192 1475,192 1475,181 1519,181 1519,216 1497,216 1497,235 1475,235 1475,215 1380,215 1378,235 1359,235 1357,215 1290,216 1241,216 1226,216 1226,235 1204,235 1204,215 1159,216 1100,217 1051,217 979,217 920,217 920,228 894,228 894,217 882,217 878,228 854,228 850,217 805,217" baseline="805,217 1120,216 1519,216" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Alphabetisches Inhaltsverzeichnis
+ | german_print2_15: Alphabetisches Inhaltsverzeichnis
+ -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="276,769 1002,769 1002,816 276,816" />
+			<!-- line left out: id="r6l0" points="276,773 324,773 326,783 350,783 352,772 395,772 398,799 406,799 434,772 462,772 462,783 482,783 486,772 510,772 513,782 558,782 585,771 603,771 609,782 631,781 674,781 702,769 735,769 760,770 765,781 781,781 783,770 793,770 796,780 814,780 816,769 841,769 845,799 854,799 879,769 903,769 1002,770 1002,804 903,805 879,805 854,815 845,815 841,805 781,805 718,805 718,815 702,815 674,805 649,806 631,806 609,805 603,816 585,816 558,806 510,807 462,807 434,806 406,815 398,815 395,807 291,807 276,806" baseline="276,807 673,805 1002,803" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Wolff, Leben Jesu Christi, S 183.
+ | german_print2_15: Wolff, Leben Jesu Christi, S 183.
+ -->
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="1193,178 2043,178 2043,1806 1193,1806" />
+			<!-- line left out: id="r7l0" points="1806,181 1866,181 1871,192 1893,192 1899,202 1922,202 1944,180 1973,180 1978,188 2005,188 2014,178 2036,178 2036,212 2014,212 2005,211 1973,215 1944,215 1922,206 1899,206 1893,216 1871,216 1806,215" baseline="1806,214 2036,211" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Win— ZwöÖ | german_print2_15:  -->
+			<TextLine id="r7l1" custom="readingOrder {index:1;}">
+				<Coords points="1193,299 1258,298 1274,301 1278,310 1354,310 1380,298 1418,298 1423,308 1437,308 1462,297 1500,297 1504,308 1570,308 1574,298 1583,298 1587,309 1684,309 1688,300 1701,300 1704,309 1723,309 1750,297 1800,297 1800,308 1821,308 1824,297 1892,297 1989,299 1989,333 1638,332 1635,342 1610,342 1607,333 1418,332 1380,334 1354,344 1329,344 1327,333 1237,334 1237,344 1213,344 1213,333 1193,333" />
+				<Baseline points="1193,333 1989,332" />
+				<TextEquiv index="1">
+					<Unicode>Zeitung für die elegante Welt S 148.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l2" custom="readingOrder {index:2;}">
+				<Coords points="1194,357 1274,357 1278,368 1299,368 1302,384 1310,384 1331,357 1372,356 1377,368 1505,367 1526,356 1536,356 1541,367 1559,367 1575,356 1599,356 1603,367 1682,367 1685,356 1707,356 1712,367 1753,366 1753,355 1780,355 1780,367 1796,367 1801,355 1824,355 1826,367 1873,367 1890,356 1935,356 1938,367 1953,367 1953,356 1976,356 1997,360 2000,367 2037,368 2037,391 1976,393 1890,393 1854,391 1852,402 1826,402 1824,390 1780,391 1780,402 1753,402 1753,390 1526,390 1505,402 1465,402 1464,391 1430,391 1428,402 1402,402 1398,391 1331,392 1310,400 1302,400 1299,392 1237,392 1237,400 1214,400 1214,392 1194,392" />
+				<Baseline points="1194,392 2037,391" />
+				<TextEquiv index="1">
+					<Unicode>Zelle, Eingang in das ehemalige Kloster</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l3" custom="readingOrder {index:3;}">
+				<Coords points="1262,417 1302,416 1342,416 1342,449 1322,450 1262,450" />
+				<Baseline points="1262,450 1342,449" />
+				<TextEquiv index="1">
+					<Unicode>252.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l4" custom="readingOrder {index:4;}">
+				<Coords points="1193,474 1236,474 1239,484 1436,484 1439,473 1462,473 1467,483 1486,483 1519,473 1532,472 1635,472 1636,483 1704,482 1706,473 1729,473 1735,484 1768,484 1772,473 1797,473 1799,484 1819,484 1820,501 1829,501 1863,472 1898,472 1900,483 1960,483 1962,472 1986,472 1990,483 2035,483 2035,507 1960,509 1863,507 1829,517 1820,517 1819,507 1682,509 1369,508 1365,518 1339,518 1337,508 1290,509 1288,519 1262,519 1260,509 1193,508" />
+				<Baseline points="1193,508 2035,507" />
+				<TextEquiv index="1">
+					<Unicode>Ziegengrunde bei Loschwitz, Dresden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l5" custom="readingOrder {index:5;}">
+				<Coords points="1263,544 1352,543 1356,560 1365,560 1395,534 1414,532 1470,532 1470,568 1414,568 1395,566 1365,576 1356,576 1352,567 1263,567" />
+				<Baseline points="1263,567 1470,566" />
+				<TextEquiv index="1">
+					<Unicode>vom, 106.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l6" custom="readingOrder {index:6;}">
+				<Coords points="1194,592 1237,591 1241,603 1267,601 1334,602 1337,591 1375,590 1375,601 1407,602 1409,590 1460,589 1485,589 1487,600 1506,600 1508,590 1544,590 1547,600 1572,600 1576,590 1600,590 1603,618 1611,618 1638,590 1731,590 1734,616 1741,616 1741,624 1638,625 1611,634 1603,634 1600,625 1460,625 1434,634 1409,634 1407,625 1375,626 1375,634 1349,634 1349,626 1194,627" />
+				<Baseline points="1194,627 1433,625 1741,625" />
+				<TextEquiv index="1">
+					<Unicode>Zinsendorf, Schloß, 3217.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l7" custom="readingOrder {index:7;}">
+				<Coords points="1196,651 1237,650 1267,652 1270,661 1315,660 1343,651 1360,649 1399,649 1399,686 1343,686 1196,685" />
+				<Baseline points="1196,684 1399,684" />
+				<TextEquiv index="1">
+					<Unicode>Zittau 96.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l8" custom="readingOrder {index:8;}">
+				<Coords points="1197,710 1226,710 1228,720 1269,719 1270,709 1293,709 1297,720 1343,720 1346,709 1370,709 1374,736 1383,736 1411,708 1459,708 1462,719 1482,719 1511,708 1533,707 1560,707 1675,707 1680,718 1804,718 1804,707 1841,707 1844,719 1903,719 1928,710 1984,709 1984,743 1928,743 1903,750 1867,750 1865,744 1831,743 1831,754 1804,754 1804,743 1770,743 1768,754 1742,754 1715,743 1411,743 1383,752 1374,752 1370,744 1197,744" />
+				<Baseline points="1197,744 1984,743" />
+				<TextEquiv index="1">
+					<Unicode>Zschand, Die Höhle im großen, 58.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l9" custom="readingOrder {index:9;}">
+				<Coords points="1197,769 1226,769 1229,779 1269,779 1270,768 1307,769 1310,779 1351,779 1356,771 1389,771 1392,779 1413,779 1415,768 1425,768 1428,779 1475,779 1478,796 1487,796 1499,768 1531,768 1534,778 1600,778 1603,768 1613,768 1616,778 1636,778 1637,767 1659,767 1676,769 1702,778 1723,778 1723,762 1748,762 1748,779 1853,778 1856,766 1881,766 1885,778 1894,778 1894,762 1919,762 1919,778 1929,778 1966,770 1985,768 2031,769 2034,795 2040,795 2040,802 1919,802 1919,819 1894,819 1894,802 1812,803 1809,814 1784,814 1768,803 1748,803 1748,819 1723,819 1723,803 1499,803 1487,812 1478,812 1475,803 1197,803" />
+				<Baseline points="1197,803 2040,802" />
+				<TextEquiv index="1">
+					<Unicode>Zschirnsteine, Aussicht vom großen, 168.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l10" custom="readingOrder {index:10;}">
+				<Coords points="1196,829 1225,829 1228,838 1268,838 1270,828 1292,828 1297,838 1313,838 1313,828 1337,828 1337,839 1410,839 1439,826 1455,826 1471,827 1473,838 1490,838 1491,827 1541,826 1565,826 1588,829 1591,837 1612,837 1615,826 1625,826 1629,838 1725,838 1752,827 1775,827 1780,836 1829,837 1855,828 1897,828 1905,854 1911,854 1911,860 1897,862 1855,862 1829,869 1803,869 1800,861 1764,861 1764,869 1752,869 1725,862 1439,863 1410,871 1387,871 1386,863 1350,863 1348,873 1313,873 1313,863 1196,863" />
+				<Baseline points="1196,863 1911,860" />
+				<TextEquiv index="1">
+					<Unicode>Zschopau, Kriebstein an der, 81.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l11" points="1198,887 1227,887 1230,897 1270,897 1272,887 1294,887 1299,897 1323,897 1467,896 1490,896 1492,885 1531,885 1531,896 1553,896 1568,885 1604,885 1607,897 1625,896 1666,896 1669,886 1692,886 1697,896 1718,896 1742,897 1754,885 1776,885 1804,886 1807,896 1840,896 1858,886 1877,886 1882,897 1907,896 1939,896 1967,887 2002,887 2031,888 2035,913 2041,913 2041,919 2031,922 1978,922 1967,922 1929,920 1902,921 1827,921 1742,921 1645,921 1625,921 1568,920 1553,929 1531,931 1504,931 1504,920 1437,921 1421,921 1419,931 1393,931 1387,921 1270,922 1230,922 1198,921" baseline="1198,922 1552,920 2041,919" reason: differs: "dem,115" against "demi, 1" | Wikisource:  | next_nc_e1: Zschonergrunde, Dresden über dem, 115.
+ | german_print2_15: Zschonergrunde, Dresden über dem, 115.
+ -->
+			<TextLine id="r7l12" custom="readingOrder {index:12;}">
+				<Coords points="1197,946 1227,946 1229,956 1242,956 1242,944 1265,944 1265,956 1275,956 1277,946 1299,946 1300,956 1359,956 1362,945 1372,945 1375,956 1396,956 1398,945 1422,945 1425,955 1487,955 1490,944 1575,944 1578,956 1638,955 1640,944 1664,944 1668,955 1823,955 1858,944 1882,944 1886,955 1936,956 1967,946 2033,945 2035,972 2042,972 2042,979 1967,979 1936,988 1911,988 1907,980 1865,979 1865,988 1858,988 1823,979 1540,979 1511,989 1490,989 1487,980 1265,980 1265,989 1242,989 1242,980 1197,980" />
+				<Baseline points="1197,980 2042,979" />
+				<TextEquiv index="1">
+					<Unicode>Zuckersiederei, Dresden von der, 120.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l13" custom="readingOrder {index:13;}">
+				<Coords points="1197,1005 1227,1005 1230,1016 1291,1015 1322,1003 1371,1003 1371,1014 1419,1014 1421,1003 1458,1003 1462,1014 1476,1014 1476,1003 1503,1003 1503,1013 1535,1013 1561,1003 1583,1003 1644,1003 1665,1004 1665,1038 1586,1039 1561,1037 1535,1049 1476,1049 1476,1037 1421,1038 1419,1048 1395,1048 1391,1038 1371,1038 1371,1049 1341,1049 1341,1039 1197,1039" />
+				<Baseline points="1197,1039 1665,1037" />
+				<TextEquiv index="1">
+					<Unicode>Zum Empfange 2993.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l14" custom="readingOrder {index:14;}">
+				<Coords points="1198,1064 1227,1064 1230,1074 1293,1074 1320,1061 1334,1061 1356,1062 1359,1073 1379,1073 1382,1062 1431,1062 1434,1073 1454,1073 1455,1062 1508,1061 1535,1061 1538,1072 1555,1072 1575,1062 1603,1062 1603,1073 1626,1073 1630,1062 1654,1062 1659,1073 1693,1073 1697,1061 1733,1061 1841,1062 1858,1064 1861,1073 1919,1073 1940,1063 2034,1063 2035,1089 2042,1089 2042,1097 1754,1100 1733,1108 1697,1108 1693,1096 1356,1098 1198,1097" />
+				<Baseline points="1198,1097 1754,1096 2042,1098" />
+				<TextEquiv index="1">
+					<Unicode>Zum Gedächtnis Ludwig Richters 3506.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l15" points="1270,1121 1311,1121 1352,1121 1356,1133 1378,1133 1383,1121 1393,1121 1397,1132 1418,1131 1435,1131 1458,1132 1474,1120 1493,1120 1550,1120 1613,1120 1638,1121 1644,1132 1659,1132 1660,1121 1683,1121 1684,1132 1699,1132 1699,1120 1722,1120 1722,1132 1751,1132 1752,1150 1760,1150 1775,1122 1810,1122 1813,1133 1836,1133 1838,1122 1871,1121 1895,1121 1898,1132 1908,1132 1908,1121 1931,1121 1942,1122 1947,1133 1963,1133 1966,1121 2005,1121 2008,1132 2028,1132 2032,1150 2040,1150 2040,1165 2032,1165 2028,1157 1942,1157 1931,1157 1931,1165 1908,1165 1908,1157 1810,1158 1775,1158 1550,1157 1503,1157 1458,1156 1299,1156 1270,1156" baseline="1270,1156 2040,1156" reason: differs: "fte," against "ften üb" | Wikisource:  | next_nc_e1: Bildnisse S 447 Bürkner. Und Schrifte, | german_print2_15: Bildnisse S 447 Bürkner. Und Schrifte, -->
+			<TextLine id="r7l16" custom="readingOrder {index:16;}">
+				<Coords points="1269,1180 1320,1180 1323,1191 1362,1191 1388,1180 1416,1180 1417,1207 1424,1207 1448,1180 1478,1180 1479,1207 1487,1207 1496,1192 1504,1192 1531,1180 1563,1180 1564,1191 1629,1190 1633,1207 1641,1207 1668,1179 1692,1179 1789,1181 1789,1217 1603,1215 1478,1218 1448,1218 1362,1215 1269,1215" />
+				<Baseline points="1269,1214 1789,1215" />
+				<TextEquiv index="1">
+					<Unicode>über L. R.: Treu. S 460.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l17" custom="readingOrder {index:17;}">
+				<Coords points="1198,1239 1229,1239 1231,1251 1294,1250 1321,1239 1357,1239 1361,1250 1377,1250 1379,1239 1478,1239 1538,1239 1559,1241 1559,1273 1538,1274 1504,1274 1481,1274 1357,1274 1321,1274 1198,1273" />
+				<Baseline points="1198,1273 1559,1272" />
+				<TextEquiv index="1">
+					<Unicode>Zum Gruß 2654.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l18" custom="readingOrder {index:18;}">
+				<Coords points="1198,1298 1227,1298 1231,1308 1349,1308 1353,1301 1364,1301 1368,1307 1414,1308 1441,1297 1466,1297 1482,1299 1485,1308 1536,1308 1538,1297 1578,1297 1578,1307 1598,1307 1625,1297 1649,1297 1810,1297 1886,1298 1886,1333 1625,1333 1598,1341 1551,1341 1551,1332 1326,1332 1325,1343 1298,1343 1273,1332 1198,1332" />
+				<Baseline points="1198,1332 1809,1331 1886,1333" />
+				<TextEquiv index="1">
+					<Unicode>Zur guten Stunde, S 402 W 60.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l19" custom="readingOrder {index:19;}">
+				<Coords points="1199,1357 1228,1357 1233,1368 1267,1368 1270,1356 1331,1357 1334,1367 1373,1367 1373,1355 1411,1355 1415,1367 1435,1367 1440,1358 1504,1356 1528,1356 1533,1367 1578,1367 1581,1358 1594,1358 1598,1367 1638,1367 1639,1356 1662,1356 1668,1366 1688,1366 1722,1356 1788,1356 1792,1367 1884,1367 1914,1356 2043,1359 2043,1392 1788,1393 1766,1393 1578,1391 1199,1391" />
+				<Baseline points="1199,1391 2043,1392" />
+				<TextEquiv index="1">
+					<Unicode>Zweihundert deutsche Männer S 403.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l20" custom="readingOrder {index:20;}">
+				<Coords points="1199,1415 1230,1415 1231,1426 1291,1426 1294,1414 1330,1414 1333,1426 1346,1426 1346,1414 1373,1414 1373,1426 1383,1426 1386,1415 1410,1415 1414,1425 1434,1425 1437,1417 1467,1417 1470,1426 1527,1426 1530,1414 1563,1414 1637,1414 1637,1425 1656,1425 1659,1416 1669,1416 1673,1425 1724,1425 1724,1414 1773,1414 1773,1427 1785,1427 1790,1414 1816,1414 1818,1420 1831,1420 1833,1426 1853,1426 1876,1415 1997,1417 1997,1451 1900,1451 1747,1451 1637,1451 1610,1451 1373,1451 1291,1451 1270,1451 1199,1450" />
+				<Baseline points="1199,1450 1997,1451" />
+				<TextEquiv index="1">
+					<Unicode>Zweihundertzwei Holzschnitte S 287.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l21" custom="readingOrder {index:21;}">
+				<Coords points="1199,1474 1228,1474 1232,1486 1267,1486 1270,1474 1375,1474 1378,1485 1401,1485 1405,1474 1429,1474 1433,1484 1471,1484 1497,1475 1514,1473 1539,1473 1555,1476 1557,1484 1577,1484 1580,1473 1590,1473 1594,1485 1616,1485 1619,1473 1656,1473 1656,1484 1673,1484 1676,1474 1795,1475 1795,1510 1755,1510 1716,1508 1690,1519 1676,1519 1673,1508 1656,1508 1656,1520 1632,1520 1632,1508 1514,1509 1512,1520 1497,1520 1471,1508 1375,1511 1199,1509" />
+				<Baseline points="1199,1509 1795,1508" />
+				<TextEquiv index="1">
+					<Unicode>Zwei Kinder (Steindr.) 289.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l22" custom="readingOrder {index:22;}">
+				<Coords points="1200,1534 1229,1534 1232,1545 1291,1544 1295,1533 1303,1533 1428,1533 1428,1544 1510,1544 1550,1534 1563,1534 1563,1543 1574,1543 1579,1534 1618,1534 1620,1543 1659,1544 1701,1533 1725,1533 1729,1543 1788,1544 1838,1533 1841,1533 1841,1544 1908,1544 1911,1533 1936,1533 1940,1545 1980,1545 1984,1537 1997,1537 1999,1545 2043,1545 2043,1568 1866,1569 1864,1578 1838,1578 1788,1568 1200,1568" />
+				<Baseline points="1200,1568 2043,1568" />
+				<TextEquiv index="1">
+					<Unicode>Zwei Männer unter dem gestirnten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l23" custom="readingOrder {index:23;}">
+				<Coords points="1271,1593 1312,1592 1321,1592 1325,1603 1351,1603 1351,1592 1381,1592 1381,1603 1402,1603 1406,1593 1534,1593 1537,1620 1544,1620 1544,1627 1534,1628 1381,1628 1351,1628 1271,1627" />
+				<Baseline points="1271,1627 1544,1628" />
+				<TextEquiv index="1">
+					<Unicode>Himmel 605.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l24" custom="readingOrder {index:24;}">
+				<Coords points="1198,1652 1229,1652 1234,1663 1268,1662 1271,1651 1306,1651 1310,1662 1428,1661 1430,1651 1453,1651 1457,1661 1496,1662 1522,1649 1571,1649 1571,1661 1642,1661 1642,1649 1669,1649 1669,1660 1755,1661 1759,1652 1789,1652 1792,1661 1838,1662 1869,1652 1944,1651 1944,1686 1734,1685 1732,1696 1707,1696 1703,1685 1669,1685 1669,1696 1628,1696 1626,1685 1571,1685 1571,1696 1544,1696 1544,1686 1338,1686 1337,1696 1310,1696 1306,1686 1198,1686" />
+				<Baseline points="1198,1686 1944,1685" />
+				<TextEquiv index="1">
+					<Unicode>Zwinger oder Orangengarten 119.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l25" custom="readingOrder {index:25;}">
+				<Coords points="1200,1711 1229,1711 1234,1723 1269,1722 1271,1711 1351,1709 1391,1709 1434,1710 1437,1721 1477,1722 1479,1711 1503,1711 1506,1721 1618,1721 1646,1709 1675,1709 1687,1710 1691,1721 1711,1721 1715,1710 1736,1710 1742,1721 1790,1721 1815,1710 1939,1710 1939,1746 1815,1746 1790,1753 1765,1753 1765,1744 1646,1747 1618,1753 1593,1753 1593,1743 1579,1745 1559,1745 1557,1756 1531,1756 1530,1745 1391,1745 1391,1756 1367,1756 1367,1744 1296,1746 1200,1745" />
+				<Baseline points="1200,1745 1939,1744" />
+				<TextEquiv index="1">
+					<Unicode>Zwölf Bilderbogen, Riehm, S 296.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l26" custom="readingOrder {index:26;}">
+				<Coords points="1200,1770 1229,1770 1235,1782 1269,1781 1272,1770 1397,1769 1401,1781 1423,1781 1426,1769 1450,1769 1455,1780 1534,1780 1538,1770 1547,1770 1552,1780 1611,1779 1637,1768 1661,1768 1864,1769 1896,1771 1896,1804 1547,1804 1385,1806 1353,1806 1200,1804" />
+				<Baseline points="1200,1804 1896,1804" />
+				<TextEquiv index="1">
+					<Unicode>Zwölf Kinderreime S 402 W 61.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Zeitung für die elegante Welt S 148.
+Zelle, Eingang in das ehemalige Kloster
+252.
+Ziegengrunde bei Loschwitz, Dresden
+vom, 106.
+Zinsendorf, Schloß, 3217.
+Zittau 96.
+Zschand, Die Höhle im großen, 58.
+Zschirnsteine, Aussicht vom großen, 168.
+Zschopau, Kriebstein an der, 81.
+Zuckersiederei, Dresden von der, 120.
+Zum Empfange 2993.
+Zum Gedächtnis Ludwig Richters 3506.
+über L. R.: Treu. S 460.
+Zum Gruß 2654.
+Zur guten Stunde, S 402 W 60.
+Zweihundert deutsche Männer S 403.
+Zweihundertzwei Holzschnitte S 287.
+Zwei Kinder (Steindr.) 289.
+Zwei Männer unter dem gestirnten
+Himmel 605.
+Zwinger oder Orangengarten 119.
+Zwölf Bilderbogen, Riehm, S 296.
+Zwölf Kinderreime S 402 W 61.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="1123,2882 1206,2882 1206,2922 1123,2922" />
+			<!-- line left out: id="r8l0" points="1123,2883 1153,2882 1181,2882 1206,2883 1206,2922 1153,2922 1123,2921" baseline="1123,2922 1206,2922" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 484 | german_print2_15:  -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Windberg, Potschappel und der, 71.
+Winter S 110. S 112/113.
+Winterberg, der große, 14. 2943. 2982.
+Winterberge, Aussicht vom großen, 6. 52. 159. 160.
+„Wir gratulieren“ 592. 3194.
+„Wohl dem . . . .“ 2987. 3161.
+Wolff, Märchenschatz, S 171.
+Wolff, Leben Jesu Christi, S 183.
+Wolff, O. L. B., Volksbücher, SS 182–183.
+Wolkenstein 255.
+Worte des Heilands an Christenkinder S 247.
+„Wunderbare Rettung zweier Mädchen“ 3417.
+Xa Xa, Das Schloß in der Höhle, S 156.
+Zahn, biblische Historien, S 346.
+Zahnbrecher in einem römischen Städtchen 241.
+Zahn, Der erste, 243.
+Zehn Ansichten merkwürdiger Gegenden in Sachsen S 77.
+Zeichnungen zu Musaeus Volksmärchen S 387/88.
+Zeitung für die elegante Welt S 148.
+Zelle, Eingang in das ehemalige Kloster 252.
+Ziegengrunde bei Loschwitz, Dresden vom, 106.
+Zinsendorf, Schloß, 3217.
+Zittau 96.
+Zschand, Die Höhle im großen, 58.
+Zschirnsteine, Aussicht vom großen, 168.
+Zschopau, Kriebstein an der, 81.
+Zschonergrunde, Dresden über demi, 115.
+Zuckersiederei, Dresden von der, 120.
+Zum Empfange 2993.
+Zum Gedächtnis Ludwig Richters 3506. Bildnisse S 447 Bürkner. Und Schriften über L. R.: Treu. S 460.
+Zum Gruß 2654.
+Zur guten Stunde, S 402 W 60.
+Zweihundert deutsche Männer S 403.
+Zweihundertzwei Holzschnitte S 287.
+Zwei Kinder (Steindr.) 289.
+Zwei Männer unter dem gestirnten Himmel 605.
+Zwinger oder Orangengarten 119.
+Zwölf Bilderbogen, Riehm, S 296.
+Zwölf Kinderreime S 402 W 61.
+-->
+	</Page>
+</PcGts>

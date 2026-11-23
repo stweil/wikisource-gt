@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:27:57</Created>
+		<LastChange>2026-11-23T18:27:57</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Die_zehnte_Muse_(Maximilian_Bern).djvu/148 revision 3303814 of 2018-07-31T21:09:37Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="zehnte_muse_1904_0148.png" imageWidth="1170" imageHeight="2198">
+		<ReadingOrder>
+			<OrderedGroup id="ro9967940451019064852" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="552,182 792,182 792,220 552,220" />
+			<!-- line left out: id="r0l0" points="552,182 577,182 577,194 597,193 608,193 608,182 646,182 656,183 657,194 678,194 678,182 700,182 700,193 718,193 718,182 740,182 741,192 752,192 752,182 774,182 774,191 792,191 792,217 774,220 752,220 719,219 646,220 597,220 575,220 552,219" baseline="552,220 792,218" reason: second model: differs: "Tanꝛlie" against "Tanzlie" | Wikisource: Tanzliedchen. | next_nc_e1: Tanzliedchen.
+ | german_print2_15: Tanꝛliedchen.
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="248,254 1097,254 1097,826 248,826" />
+			<!-- line left out: id="r1l0" points="331,254 385,254 385,281 429,279 445,279 454,272 535,272 535,282 551,282 551,273 581,272 593,272 593,280 608,280 608,273 669,273 669,281 687,281 709,282 709,273 733,273 757,277 777,271 810,271 810,279 829,279 847,270 865,270 916,270 916,278 925,278 954,279 954,304 916,304 896,304 896,298 865,298 865,304 847,304 829,298 757,299 733,300 687,300 552,300 525,300 513,300 429,299 385,298 385,313 331,313" baseline="331,298 954,298" reason: differs: "(Car" against "Gar " | Wikisource:  | next_nc_e1: (Car sehr lieblich kommt der Maien, | german_print2_15: (Car sehr lieblich kommt der Mailen, -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="399,312 674,311 696,311 696,321 712,321 712,311 750,311 847,311 847,345 814,345 814,338 801,338 801,345 765,345 765,339 750,339 750,345 712,345 712,339 696,339 696,345 674,345 668,339 570,338 551,346 510,346 510,339 494,339 494,346 467,346 435,346 435,339 419,339 419,346 399,346" />
+				<Baseline points="399,339 847,338" />
+				<TextEquiv index="1">
+					<Unicode>Angethan das Blumenkleid,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="329,351 349,351 402,351 402,360 440,360 459,353 485,353 525,355 541,360 561,361 579,353 624,353 624,361 637,358 732,359 732,351 751,351 787,351 790,352 790,360 805,360 805,351 816,351 816,360 867,360 867,383 857,383 790,379 787,383 751,383 732,383 485,379 329,379" />
+				<Baseline points="329,379 867,378" />
+				<TextEquiv index="1">
+					<Unicode>Weisse Blüten lässt er schneien;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l3" points="328,392 354,391 365,391 378,393 398,401 413,400 463,400 482,392 523,392 540,393 540,401 556,400 613,400 613,393 656,393 674,401 739,401 758,391 762,391 787,392 787,399 802,399 802,391 813,391 813,399 848,399 848,418 803,418 739,419 656,420 613,420 490,419 378,419 370,419 356,418 328,418" baseline="328,418 848,417" reason: differs: "Eilzum" against "Ei! zu" | Wikisource:  | next_nc_e1: Eil zum lieben und zum freien
+ | german_print2_15: Eil zum lieben und zum freien
+ -->
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="330,431 345,431 345,440 358,435 421,439 436,431 451,431 451,440 463,440 463,431 480,431 480,438 491,438 491,431 506,431 559,432 559,441 623,441 623,432 674,432 681,438 708,438 725,440 743,430 756,430 766,432 766,440 781,440 781,430 792,430 792,436 811,436 811,460 523,459 506,467 491,467 491,459 480,459 480,467 463,467 463,459 451,459 451,467 436,467 421,458 330,458" />
+				<Baseline points="330,458 811,459" />
+				<TextEquiv index="1">
+					<Unicode>Ist es jetzt die schönste Zeit.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="329,471 399,471 429,480 484,480 503,472 561,472 561,480 588,480 607,472 629,472 629,480 665,480 682,471 696,471 711,473 711,481 725,481 725,471 774,471 774,481 842,479 842,471 853,470 905,470 905,479 957,478 957,498 923,497 923,505 886,505 886,497 872,497 872,505 853,505 853,498 329,498" />
+				<Baseline points="329,498 957,497" />
+				<TextEquiv index="1">
+					<Unicode>Lasst uns drum den Reihen schlingen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="329,511 447,511 447,520 463,520 480,511 552,512 552,520 569,520 569,511 677,513 677,520 729,519 743,521 743,512 765,512 765,520 778,520 778,510 840,510 869,510 869,520 884,520 884,545 840,545 778,545 778,537 765,539 329,539" />
+				<Baseline points="329,538 884,538" />
+				<TextEquiv index="1">
+					<Unicode>Und die flinken Füsse schwingen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="329,551 400,551 400,557 412,557 429,551 472,551 553,551 553,560 569,560 569,551 591,551 591,560 607,560 607,579 591,579 591,586 551,586 551,579 537,579 537,586 515,586 515,579 329,579" />
+				<Baseline points="329,578 607,579" />
+				<TextEquiv index="1">
+					<Unicode>Lasst mit Singen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="329,592 359,592 359,600 376,600 376,592 415,591 427,591 427,600 445,600 445,591 467,591 553,592 553,600 608,601 608,619 574,619 574,626 531,626 531,619 518,619 518,626 484,626 467,619 329,619" />
+				<Baseline points="329,619 608,619" />
+				<TextEquiv index="1">
+					<Unicode>Und mit Klingen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l9" points="329,631 370,631 370,639 403,639 403,631 423,631 423,640 441,640 459,632 516,632 516,640 530,640 530,632 590,632 590,640 607,640 636,641 655,632 785,631 817,631 817,640 848,639 866,639 886,640 889,631 898,631 919,645 957,645 957,652 919,652 898,658 889,658 850,657 850,667 817,667 797,667 797,658 786,659 590,659 423,659 392,659 347,659 329,658" baseline="329,658 897,657 957,657" reason: differs: "en!—" against "n! – Re" | Wikisource:  | next_nc_e1: Unsern Gruss dem Lenze bringen! — | german_print2_15: Unsern Gruss dem Lenze bringen! — -->
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="249,672 265,670 304,670 304,678 318,678 318,671 340,671 340,680 357,680 369,670 406,670 406,680 417,680 429,671 477,671 477,679 496,679 496,672 516,672 528,681 588,680 601,671 641,671 641,680 669,680 681,672 716,672 716,681 768,679 768,672 802,672 802,680 827,680 827,691 835,691 848,680 868,680 868,670 958,669 978,669 978,678 996,678 996,669 1017,669 1017,678 1032,678 1032,671 1044,669 1064,669 1064,678 1090,678 1090,690 1097,690 1097,702 1044,702 997,697 978,702 897,698 848,698 835,705 826,705 826,698 802,698 802,705 782,705 782,698 716,699 716,705 696,705 696,699 601,700 249,698" />
+				<Baseline points="249,697 1097,697" />
+				<TextEquiv index="1">
+					<Unicode>Reiche die Hand nun dem Burschen, mein Kindchen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l11" points="249,711 278,711 287,710 335,710 388,711 388,719 402,719 402,712 441,711 473,711 473,720 487,720 487,712 510,712 520,711 529,711 548,721 574,721 574,711 634,711 722,712 735,720 745,720 745,711 766,711 810,711 810,717 822,717 856,720 856,711 867,711 867,719 884,719 884,711 902,710 958,710 958,719 973,719 973,710 994,710 1069,711 1069,737 974,738 942,738 925,738 911,724 903,724 903,737 841,737 822,745 793,745 793,739 764,739 762,745 745,745 745,738 722,739 548,739 529,746 507,746 507,738 456,738 456,746 441,746 423,738 249,738" baseline="249,738 910,737 1069,737" reason: differs: "ehrdich" against "ehr’ di" | Wikisource:  | next_nc_e1: Kehr dich nicht, wehr dich nicht, zieh' nicht das
+ | german_print2_15: Kehr' dich nicht, wehr' dich nicht, zieh' nicht das
+ -->
+			<TextLine id="r1l12" custom="readingOrder {index:12;}">
+				<Coords points="819,751 839,749 861,749 927,749 958,749 958,758 984,758 984,769 992,769 992,784 983,784 983,777 958,777 958,784 936,784 927,778 903,778 903,784 881,784 881,777 861,777 861,784 839,784 839,778 819,778" />
+				<Baseline points="819,778 992,777" />
+				<TextEquiv index="1">
+					<Unicode>Mündchen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l13" custom="readingOrder {index:13;}">
+				<Coords points="248,791 308,791 308,799 345,800 363,790 381,790 381,798 402,798 402,790 423,790 464,792 532,791 548,800 599,800 617,791 750,791 750,799 769,799 788,791 801,791 810,792 810,800 827,800 827,791 861,792 861,817 750,819 511,819 511,826 455,826 442,826 423,819 248,817" />
+				<Baseline points="248,817 861,817" />
+				<TextEquiv index="1">
+					<Unicode>Tanze und hüpfe zur mailichen Zeit!</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Angethan das Blumenkleid,
+Weisse Blüten lässt er schneien;
+Ist es jetzt die schönste Zeit.
+Lasst uns drum den Reihen schlingen
+Und die flinken Füsse schwingen,
+Lasst mit Singen
+Und mit Klingen
+Reiche die Hand nun dem Burschen, mein Kindchen,
+Mündchen,
+Tanze und hüpfe zur mailichen Zeit!</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="250,857 1099,857 1099,1371 250,1371" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="370,857 408,857 408,866 430,866 448,857 456,857 456,866 470,866 470,857 554,857 554,867 570,867 570,858 582,857 613,857 613,867 627,867 627,858 666,857 678,857 764,857 764,866 782,866 782,879 791,879 810,857 830,857 858,857 895,857 895,865 913,865 913,877 920,877 920,891 911,891 911,884 875,884 875,891 858,891 858,884 830,884 830,891 791,893 782,893 782,884 370,885" />
+				<Baseline points="370,885 920,884" />
+				<TextEquiv index="1">
+					<Unicode>Gar sehr lieblich bist du, Kleine,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="329,898 366,898 366,905 391,905 418,902 597,902 666,906 666,897 721,897 778,898 778,906 795,906 795,898 814,898 819,906 827,906 827,929 759,929 721,925 599,925 597,932 578,932 578,924 561,924 561,932 542,932 542,924 528,924 528,932 493,932 493,924 478,924 478,932 455,932 455,925 440,925 440,932 418,932 418,924 329,924" />
+				<Baseline points="329,924 827,925" />
+				<TextEquiv index="1">
+					<Unicode>Der entgegentanzt mein Herz;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l2" points="330,937 359,937 359,946 370,946 370,937 460,937 460,946 478,946 496,938 524,938 541,940 541,946 556,946 556,938 577,938 577,946 594,946 594,938 613,938 645,938 645,946 659,946 678,937 700,937 700,946 755,946 774,937 785,937 827,937 854,936 911,936 911,945 926,945 926,964 909,965 873,965 842,965 678,964 659,971 623,971 623,964 541,965 478,965 436,965 403,964 392,964 330,964" baseline="330,964 926,964" reason: differs: "Heb'’da" against "Heb’ da" | Wikisource:  | next_nc_e1: Heb'’ das Röckchen, denn auf deine
+ | german_print2_15: Heb' das Röckchen, denn auf deine
+ -->
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="330,977 399,977 399,986 431,986 431,977 448,977 448,986 460,986 460,977 480,977 480,986 497,986 497,977 692,977 692,986 728,986 746,976 819,976 819,986 834,986 834,1004 551,1005 551,1012 531,1012 531,1005 517,1005 517,1012 497,1012 497,1005 480,1005 480,1012 460,1012 460,1005 416,1004 416,1012 379,1012 379,1004 365,1004 365,1012 345,1012 345,1004 330,1004" />
+				<Baseline points="330,1004 834,1004" />
+				<TextEquiv index="1">
+					<Unicode>Zartgeformten schlanken Beine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l4" points="329,1017 419,1017 480,1018 480,1026 499,1026 517,1018 526,1018 556,1018 587,1018 606,1025 638,1025 638,1017 649,1017 649,1026 669,1026 687,1018 727,1018 776,1018 835,1018 841,1019 841,1038 849,1038 959,1041 959,1044 849,1045 835,1045 776,1045 698,1045 480,1045 458,1045 329,1044" baseline="329,1044 959,1044" reason: differs: "ts.." against "s. Lass" | Wikisource:  | next_nc_e1: Kannst du stolz sein allerwärts. .
+ | german_print2_15: Kannst du stolz sein allerwärts. .
+ -->
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="331,1057 387,1057 387,1066 401,1066 420,1056 462,1056 462,1066 476,1066 476,1057 538,1057 538,1065 551,1065 551,1057 571,1057 571,1066 593,1066 612,1056 654,1056 654,1062 682,1057 728,1057 746,1066 777,1066 777,1057 789,1057 789,1065 803,1065 803,1058 843,1055 858,1055 893,1055 895,1057 895,1065 910,1065 910,1055 949,1055 949,1065 979,1065 979,1055 999,1055 999,1065 1015,1065 1015,1091 970,1091 948,1091 948,1083 930,1083 930,1091 910,1091 910,1083 893,1084 893,1091 873,1091 873,1084 858,1084 858,1091 843,1091 824,1084 331,1085" />
+				<Baseline points="331,1084 1015,1083" />
+				<TextEquiv index="1">
+					<Unicode>Lass mich denn mit dir mich schwingen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="330,1097 452,1097 452,1106 468,1106 487,1097 519,1097 519,1106 534,1106 534,1097 570,1097 570,1106 587,1106 587,1097 663,1100 663,1106 707,1106 707,1099 729,1099 729,1106 765,1106 784,1096 797,1096 797,1106 809,1106 809,1096 844,1096 844,1106 860,1106 860,1096 880,1096 880,1105 895,1105 895,1096 912,1096 912,1105 928,1105 928,1131 912,1133 880,1133 860,1133 860,1124 829,1124 829,1133 784,1133 765,1124 330,1125" />
+				<Baseline points="330,1125 928,1124" />
+				<TextEquiv index="1">
+					<Unicode>Lass die kleinen Füsschen springen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="329,1138 387,1138 387,1146 401,1146 418,1138 461,1138 472,1142 490,1136 512,1136 522,1137 522,1146 597,1146 597,1165 562,1164 562,1172 540,1172 540,1164 329,1165" />
+				<Baseline points="329,1164 597,1164" />
+				<TextEquiv index="1">
+					<Unicode>Lass mit Singen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="330,1177 360,1177 360,1186 378,1186 378,1177 458,1177 458,1183 469,1183 486,1177 535,1177 535,1186 609,1185 609,1205 575,1204 575,1212 552,1212 552,1204 500,1204 500,1212 486,1212 469,1205 330,1204" />
+				<Baseline points="330,1204 609,1205" />
+				<TextEquiv index="1">
+					<Unicode>Und mit Klingen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="330,1217 369,1217 369,1226 423,1225 440,1218 476,1218 476,1226 528,1217 550,1217 550,1225 596,1226 615,1218 667,1218 667,1226 708,1225 727,1217 737,1217 792,1217 792,1226 820,1226 820,1217 842,1217 842,1226 856,1226 856,1245 842,1245 842,1252 812,1252 788,1252 769,1252 769,1245 746,1245 737,1252 727,1252 708,1245 330,1244" />
+				<Baseline points="330,1244 856,1245" />
+				<TextEquiv index="1">
+					<Unicode>Unsre Lust dem Lenze bringen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l10" points="251,1257 269,1256 321,1256 349,1257 368,1266 384,1266 384,1258 443,1257 465,1257 566,1257 623,1257 647,1258 647,1266 662,1265 684,1265 684,1277 692,1277 712,1258 734,1258 734,1266 752,1266 771,1256 863,1256 863,1264 874,1264 874,1257 896,1257 896,1265 928,1265 938,1256 981,1256 981,1265 997,1265 997,1256 1019,1256 1019,1265 1033,1265 1033,1256 1069,1256 1069,1265 1083,1265 1083,1256 1099,1256 1099,1290 1050,1290 1050,1283 981,1283 981,1290 962,1290 962,1283 928,1284 863,1284 734,1285 712,1285 692,1291 683,1291 683,1284 647,1285 623,1285 623,1291 601,1291 601,1284 566,1284 566,1291 546,1291 546,1283 510,1284 368,1284 349,1270 341,1270 341,1284 288,1284 251,1284" baseline="251,1284 927,1283 1099,1283" reason: differs: "ich'mir" against "ich’ mi" | Wikisource:  | next_nc_e1: Reich' mir dein Händchen, du niedliches Kindchen, | german_print2_15: Reich' mir dein Händchen, du niedliches Kindchen, -->
+			<!-- line left out: id="r2l11" points="250,1296 270,1296 294,1297 294,1305 307,1305 307,1297 326,1296 398,1296 398,1302 409,1302 427,1296 449,1296 449,1306 513,1302 523,1302 576,1302 596,1306 596,1317 606,1317 625,1297 647,1297 647,1306 693,1306 711,1297 724,1297 756,1297 757,1298 757,1306 772,1306 772,1297 826,1297 826,1305 839,1305 839,1297 861,1297 940,1297 958,1299 958,1305 977,1305 977,1296 998,1296 998,1305 1015,1305 1015,1297 1034,1297 1044,1296 1063,1296 1063,1305 1080,1305 1080,1329 1044,1329 1044,1323 958,1324 887,1325 861,1325 826,1325 791,1325 724,1325 662,1325 625,1324 606,1330 576,1330 523,1330 513,1330 495,1324 409,1324 356,1324 336,1310 329,1310 329,1323 309,1324 250,1324" baseline="250,1324 1080,1323" reason: differs: "Lach" against "chen" | Wikisource:  | next_nc_e1: Lach' mit dem roten, dem kirschroten Mündchen, | german_print2_15: Lach' mit dem roten, dem kirschroten Müändchen, -->
+			<!-- line left out: id="r2l12" points="250,1336 279,1336 279,1345 356,1345 356,1336 366,1336 386,1345 424,1345 437,1336 469,1336 469,1345 485,1345 497,1337 551,1337 651,1337 651,1357 657,1357 677,1345 699,1345 699,1338 771,1338 771,1346 788,1345 793,1336 818,1336 818,1345 847,1345 847,1336 857,1336 870,1344 909,1344 939,1345 939,1337 980,1337 980,1345 1000,1345 1012,1337 1049,1337 1049,1345 1088,1345 1091,1337 1098,1337 1098,1363 1059,1363 870,1363 857,1350 849,1350 849,1364 737,1365 699,1365 677,1364 657,1371 631,1371 631,1364 617,1364 617,1371 598,1371 598,1364 469,1364 386,1364 366,1350 358,1350 358,1363 298,1364 277,1364 250,1363" baseline="250,1363 1098,1362" reason: differs: "Komm" against "chen" | Wikisource:  | next_nc_e1: Komm' an die Brust mir, und komm' an mein Herz!
+ | german_print2_15: Komm' an die Brust mir, und komm' an mein Herz!
+ -->
+			<TextEquiv index="1">
+				<Unicode>Gar sehr lieblich bist du, Kleine,
+Der entgegentanzt mein Herz;
+Zartgeformten schlanken Beine
+Lass mich denn mit dir mich schwingen,
+Lass die kleinen Füsschen springen,
+Lass mit Singen
+Und mit Klingen
+Unsre Lust dem Lenze bringen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="250,1402 1100,1402 1100,1943 250,1943" />
+			<!-- line left out: id="r3l0" points="370,1404 406,1404 406,1411 430,1411 447,1403 454,1403 454,1411 464,1411 479,1412 479,1403 533,1402 555,1402 583,1402 629,1402 715,1403 715,1412 728,1412 728,1423 736,1423 755,1411 791,1411 809,1403 832,1403 832,1411 874,1411 874,1403 903,1403 903,1411 920,1411 920,1430 874,1430 832,1430 755,1430 736,1437 727,1437 727,1431 715,1431 715,1437 691,1437 672,1437 672,1430 406,1431 370,1431" baseline="370,1430 920,1429" reason: differs: "Gars" against "Herz" | Wikisource:  | next_nc_e1: Gar sehr lieblich ist's, zu Zweien
+ | german_print2_15: Gar sehr lieblich ist's, zu Zweien
+ -->
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="330,1443 435,1443 484,1444 484,1451 540,1451 540,1444 597,1443 619,1443 675,1443 675,1451 745,1451 745,1443 786,1443 797,1448 797,1470 764,1470 764,1478 745,1478 745,1470 719,1470 719,1478 675,1478 653,1478 653,1471 627,1471 619,1478 597,1478 597,1470 330,1470" />
+				<Baseline points="330,1470 797,1470" />
+				<TextEquiv index="1">
+					<Unicode>In der blauen Mondespracht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="331,1483 343,1482 374,1482 394,1483 412,1493 427,1491 447,1491 465,1483 483,1483 493,1491 600,1492 600,1483 665,1482 687,1482 687,1492 719,1492 738,1483 798,1483 798,1492 836,1492 836,1502 843,1502 843,1517 833,1517 833,1510 797,1511 776,1509 776,1517 754,1517 754,1509 687,1511 331,1509" />
+				<Baseline points="331,1509 738,1509 843,1511" />
+				<TextEquiv index="1">
+					<Unicode>Still zu freuen sich des Maien,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="331,1523 373,1523 373,1531 425,1531 444,1522 476,1522 476,1532 492,1532 511,1522 522,1522 561,1531 561,1524 588,1522 607,1522 608,1532 621,1532 621,1522 723,1522 723,1532 754,1532 771,1524 845,1524 845,1531 880,1531 880,1550 845,1550 533,1550 351,1550 331,1549" />
+				<Baseline points="331,1550 880,1550" />
+				<TextEquiv index="1">
+					<Unicode>Wenn die Sternlein ihren Reihen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="329,1563 427,1563 439,1567 473,1571 473,1563 511,1562 538,1562 538,1571 554,1571 554,1563 585,1562 604,1562 604,1571 621,1571 641,1563 698,1563 705,1568 751,1563 822,1563 835,1566 835,1589 822,1589 822,1597 806,1597 806,1590 792,1590 792,1597 773,1597 773,1590 698,1590 698,1597 673,1597 641,1597 585,1596 576,1590 521,1589 521,1596 511,1596 494,1590 329,1590" />
+				<Baseline points="329,1589 835,1590" />
+				<TextEquiv index="1">
+					<Unicode>Leuchtend ziehen, glutentfacht.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="331,1603 360,1603 360,1611 378,1611 396,1603 428,1603 428,1612 445,1612 464,1603 498,1603 498,1612 509,1612 509,1603 531,1603 531,1611 644,1611 663,1603 690,1603 690,1611 704,1611 704,1604 744,1602 759,1602 794,1602 804,1602 850,1602 850,1611 880,1611 880,1602 899,1602 899,1611 915,1611 915,1635 899,1637 871,1637 849,1637 849,1630 829,1630 829,1637 810,1637 810,1630 794,1630 794,1637 773,1637 773,1630 759,1630 759,1637 744,1637 725,1630 331,1629" />
+				<Baseline points="331,1629 915,1630" />
+				<TextEquiv index="1">
+					<Unicode>Da die Sterne nun sich schwingen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="331,1642 362,1642 393,1642 457,1643 457,1651 476,1651 476,1663 485,1663 504,1643 538,1643 538,1652 555,1652 555,1643 612,1643 612,1651 649,1652 649,1663 657,1663 677,1642 712,1642 744,1644 755,1647 794,1652 794,1642 813,1642 855,1642 873,1651 882,1651 882,1642 937,1642 937,1651 1010,1651 1010,1662 1019,1662 1019,1677 1009,1677 1009,1670 973,1669 973,1677 951,1677 951,1669 937,1669 937,1678 882,1678 882,1670 677,1670 657,1676 648,1676 648,1670 574,1670 574,1676 555,1676 555,1669 504,1669 485,1676 475,1676 475,1669 331,1669" />
+				<Baseline points="331,1669 1019,1670" />
+				<TextEquiv index="1">
+					<Unicode>Sollst du, Liebchen, nicht mehr springen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="331,1683 435,1682 478,1682 558,1682 558,1692 614,1691 614,1709 577,1709 577,1717 556,1717 556,1709 544,1709 544,1717 522,1717 522,1710 331,1709" />
+				<Baseline points="331,1710 614,1709" />
+				<TextEquiv index="1">
+					<Unicode>Sollst mit Singen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l8" custom="readingOrder {index:8;}">
+				<Coords points="330,1723 416,1721 458,1721 458,1728 469,1728 486,1722 537,1722 537,1731 610,1731 610,1750 575,1750 575,1757 553,1757 553,1749 537,1749 537,1757 518,1757 518,1749 502,1749 502,1757 486,1757 469,1750 330,1750" />
+				<Baseline points="330,1749 610,1750" />
+				<TextEquiv index="1">
+					<Unicode>Und mit Klingen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l9" custom="readingOrder {index:9;}">
+				<Coords points="330,1762 388,1762 435,1762 474,1762 513,1763 532,1765 532,1771 551,1771 551,1763 567,1763 567,1771 600,1771 600,1763 677,1763 677,1770 691,1770 691,1763 714,1763 714,1770 729,1770 729,1763 751,1763 751,1771 786,1771 805,1762 818,1762 851,1762 851,1772 868,1772 868,1762 888,1762 888,1771 927,1771 927,1782 935,1782 935,1790 907,1790 907,1797 868,1797 868,1790 818,1790 818,1797 805,1797 786,1789 552,1789 552,1798 531,1798 531,1790 330,1789" />
+				<Baseline points="330,1789 935,1789" />
+				<TextEquiv index="1">
+					<Unicode>Mir dein hüpfend Herzchen bringen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l10" points="250,1803 279,1803 279,1811 294,1811 294,1803 305,1803 305,1811 320,1811 320,1802 341,1802 349,1803 369,1811 386,1811 386,1801 465,1801 465,1810 481,1810 481,1802 496,1801 510,1801 578,1802 578,1811 596,1811 596,1803 608,1802 654,1802 654,1811 690,1811 690,1823 698,1823 718,1801 740,1801 740,1811 802,1811 802,1802 834,1802 834,1811 869,1811 869,1803 887,1802 907,1802 907,1810 921,1810 939,1801 979,1801 979,1810 997,1810 997,1803 1019,1803 1019,1811 1034,1811 1034,1802 1055,1802 1055,1810 1073,1810 1091,1811 1093,1821 1100,1821 1100,1833 1093,1833 1073,1830 1019,1830 960,1833 940,1833 907,1830 822,1830 793,1830 740,1830 718,1830 698,1837 689,1837 689,1829 628,1829 628,1837 608,1837 608,1830 596,1830 555,1829 555,1837 532,1837 532,1829 369,1829 349,1816 341,1816 341,1829 295,1829 250,1829" baseline="250,1829 939,1828 1100,1828" reason: differs: "ich'mir" against "ich’ mi" | Wikisource:  | next_nc_e1: Reich' mir dein Händchen, du reizendes Kindchen, | german_print2_15: Reich' mir dein Händchen, du reizendes Kindchen, -->
+			<!-- line left out: id="r3l11" points="251,1842 287,1842 364,1842 364,1850 379,1850 379,1842 428,1841 445,1841 482,1841 491,1851 531,1850 548,1850 548,1843 569,1843 569,1850 586,1850 605,1851 605,1842 627,1842 627,1852 642,1850 659,1850 659,1862 667,1862 676,1851 692,1851 692,1842 732,1842 732,1852 747,1852 747,1842 764,1842 793,1843 793,1851 827,1851 827,1843 849,1843 849,1850 865,1850 879,1851 887,1843 921,1843 940,1844 940,1851 957,1851 957,1842 979,1842 979,1851 994,1851 994,1843 1016,1843 1016,1851 1052,1851 1093,1856 1093,1862 1061,1862 1052,1869 996,1869 940,1870 849,1870 764,1870 732,1870 712,1870 676,1869 667,1876 657,1876 657,1869 643,1870 626,1870 569,1869 513,1869 513,1878 491,1878 482,1869 445,1869 381,1869 251,1869" baseline="251,1869 1093,1869" reason: differs: "Reic" against "chen" | Wikisource:  | next_nc_e1: Reich mir dein quellendes, schwelleudes Mündchen — | german_print2_15: Reich mir dein quellendes, schwelleudes Mündchen — -->
+			<!-- line left out: id="r3l12" points="251,1883 357,1882 387,1882 387,1891 403,1891 403,1883 415,1883 415,1891 429,1891 429,1882 464,1882 499,1882 499,1891 531,1891 531,1882 554,1882 554,1890 570,1890 570,1902 578,1902 599,1883 611,1883 631,1883 631,1890 644,1890 644,1883 666,1883 666,1891 697,1891 697,1883 719,1883 719,1891 735,1891 753,1883 790,1883 799,1890 814,1890 814,1883 836,1883 857,1884 857,1910 790,1910 719,1910 666,1910 631,1910 612,1910 599,1909 578,1916 568,1916 568,1910 531,1910 499,1909 499,1916 478,1916 478,1909 464,1909 464,1916 413,1916 404,1909 362,1909 362,1916 357,1916 338,1910 298,1910 251,1909" baseline="251,1909 857,1909" reason: beside a footnote mark or an unknown template | Wikisource:  | next_nc_e1: O du vielglänzende, lenzende Nacht!
+ | german_print2_15: O du vielglänzende, lenzende Nacht!
+ -->
+			<!-- line left out: id="r3l13" points="838,1920 853,1920 904,1920 978,1921 978,1928 991,1928 991,1921 1010,1921 1010,1928 1040,1928 1040,1941 1027,1942 978,1942 904,1943 853,1943 838,1943" baseline="838,1942 1040,1941" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Rich. Zoozmann
+ | german_print2_15: Rich. Zoozmann
+ -->
+			<TextEquiv index="1">
+				<Unicode>In der blauen Mondespracht
+Still zu freuen sich des Maien,
+Wenn die Sternlein ihren Reihen
+Leuchtend ziehen, glutentfacht.
+Da die Sterne nun sich schwingen,
+Sollst du, Liebchen, nicht mehr springen,
+Sollst mit Singen
+Und mit Klingen
+Mir dein hüpfend Herzchen bringen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="656,2055 696,2055 696,2073 656,2073" />
+			<!-- line left out: id="r4l0" points="656,2055 696,2055 696,2073 669,2073 656,2073" baseline="656,2073 696,2073" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 142 | german_print2_15: 142 -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Tanzliedchen.
+Gar sehr lieblich kommt der Maien,
+Angethan das Blumenkleid,
+Weisse Blüten lässt er schneien;
+Ei! zum lieben und zum freien
+Ist es jetzt die schönste Zeit.
+Lasst uns drum den Reihen schlingen
+Und die flinken Füsse schwingen,
+Lasst mit Singen
+Und mit Klingen
+Unsern Gruss dem Lenze bringen! –
+Reiche die Hand nun dem Burschen, mein Kindchen,
+Kehr’ dich nicht, wehr’ dich nicht, zieh’ nicht das Mündchen,
+Tanze und hüpfe zur mailichen Zeit!
+Gar sehr lieblich bist du, Kleine,
+Der entgegentanzt mein Herz;
+Heb’ das Röckchen, denn auf deine
+Zartgeformten schlanken Beine
+Kannst du stolz sein allerwärts.
+Lass mich denn mit dir mich schwingen,
+Lass die kleinen Füsschen springen,
+Lass mit Singen
+Und mit Klingen
+Unsre Lust dem Lenze bringen.
+Reich’ mir dein Händchen, du niedliches Kindchen,
+Lach’ mit dem roten, dem kirschroten Mündchen,
+Komm’ an die Brust mir, und komm’ an mein Herz!
+Gar sehr lieblich ist’s, zu Zweien
+In der blauen Mondespracht
+Still zu freuen sich des Maien,
+Wenn die Sternlein ihren Reihen
+Leuchtend ziehen, glutentfacht.
+Da die Sterne nun sich schwingen,
+Sollst du, Liebchen, nicht mehr springen,
+Sollst mit Singen
+Und mit Klingen
+Mir dein hüpfend Herzchen bringen.
+Reich’ mir dein Händchen, du reizendes Kindchen,
+Reich mir dein quellendes, schwellendes Mündchen –
+O du vielglänzende, lenzende Nacht!
+⟦⟧
+-->
+	</Page>
+</PcGts>

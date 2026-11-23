@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:46:14</Created>
+		<LastChange>2026-11-23T18:46:14</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Schmidt_Miscellanea_Silurica_III.djvu/3 revision 3389519 of 2018-08-01T07:32:39Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="schmidt_miscellanea_silurica_1883_0003.png" imageWidth="1360" imageHeight="1884">
+		<ReadingOrder>
+			<OrderedGroup id="ro887388975144841429" caption="Regions reading order">
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="24,0 421,0 421,59 24,59" />
+		</GraphicRegion>
+		<SeparatorRegion id="r1">
+			<Coords points="955,8 1305,8 1305,13 955,13" />
+		</SeparatorRegion>
+		<GraphicRegion id="r2">
+			<Coords points="1047,0 1097,0 1097,20 1047,20" />
+		</GraphicRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="563,764 746,764 746,793 563,793" />
+			<!-- line left out: id="r3l0" points="563,764 585,764 594,772 611,772 658,773 658,764 685,764 685,773 718,773 726,766 746,766 746,793 694,793 611,793 563,793" baseline="563,793 746,793" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Vorwort.
+ | german_print2_15: Vorwort.
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="182,856 1123,856 1123,1549 182,1549" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="238,857 262,857 278,862 286,856 310,856 388,856 402,856 402,862 422,862 433,856 458,856 458,862 512,856 526,856 526,862 607,857 799,857 809,862 844,863 844,857 857,857 857,863 879,863 892,857 1101,858 1113,863 1120,868 1120,872 1113,876 833,876 822,880 808,880 786,876 760,880 752,880 730,876 575,880 556,880 556,874 544,875 526,880 458,880 357,880 343,880 316,876 310,880 296,880 238,875" />
+				<Baseline points="238,875 1120,876" />
+				<TextEquiv index="1">
+					<Unicode>Das Nöthige über Veranlassung und Inhalt der vorliegenden Arbeit ist in der Ein-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="183,889 330,890 330,903 349,888 375,888 375,894 400,889 568,888 577,888 578,894 588,890 641,889 748,889 762,894 803,889 906,889 938,895 950,895 950,889 985,889 992,895 1002,890 1010,890 1032,895 1038,889 1079,889 1079,895 1098,890 1111,890 1120,895 1120,908 1010,908 931,913 915,913 915,907 893,908 889,913 868,913 855,913 855,907 798,912 747,912 598,907 577,912 521,911 500,907 478,907 462,911 241,912 218,908 183,907" />
+				<Baseline points="183,907 1120,908" />
+				<TextEquiv index="1">
+					<Unicode>leitung gesagt. Was mich veranlasst, jetzt nach Beendigung des Druckes, noch eine Vorrede</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="182,920 195,920 216,920 238,920 238,926 261,926 261,920 272,920 282,923 318,926 320,935 326,935 340,921 422,921 452,926 466,920 484,920 507,923 518,921 531,921 542,926 542,934 566,920 584,920 632,920 632,926 643,926 643,920 657,920 683,920 884,921 904,923 926,921 983,921 1014,926 1023,921 1036,921 1036,927 1115,927 1115,935 1120,935 1120,945 1093,945 1079,945 1058,940 1048,945 1023,945 1014,940 702,939 547,939 326,944 182,944" />
+				<Baseline points="182,939 1120,940" />
+				<TextEquiv index="1">
+					<Unicode>hinzuzufügen, hat andere Gründe. Die Publikation der Arbeit hat sich hinausgezogen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="183,953 291,953 329,958 338,952 351,952 516,953 567,957 613,957 647,952 667,952 694,952 694,958 713,958 713,952 727,952 727,958 749,958 755,952 795,952 818,952 833,954 945,953 953,959 992,959 992,967 1012,953 1037,953 1037,959 1065,953 1113,953 1120,955 1120,971 1113,972 1079,972 1056,972 183,971" />
+				<Baseline points="183,970 1120,971" />
+				<TextEquiv index="1">
+					<Unicode>ähnlich wie es bei meiner Revision unsrer ostbaltischen Trilobiten der Fall war. Die Arbeit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l4" custom="readingOrder {index:4;}">
+				<Coords points="183,990 193,985 236,985 246,990 254,984 263,984 263,990 280,990 289,984 313,984 371,984 371,990 392,985 454,984 467,984 467,990 487,990 496,984 555,984 585,984 611,984 628,989 662,989 670,986 688,984 703,984 717,984 750,985 762,990 762,984 773,984 793,984 793,990 913,984 933,984 958,984 964,985 964,991 1060,985 1113,986 1119,991 1119,1007 1113,1008 1087,1008 852,1003 806,1007 781,1007 750,1003 717,1007 604,1007 560,1003 359,1002 359,1008 313,1008 299,1008 299,1002 183,1003" />
+				<Baseline points="183,1002 1119,1003" />
+				<TextEquiv index="1">
+					<Unicode>wurde im Frühjahr 1882 der Akademie vorgestellt. Anfangs waren 6 Tafeln veranschlagt;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l5" custom="readingOrder {index:5;}">
+				<Coords points="184,1016 204,1016 204,1022 336,1021 356,1016 363,1016 386,1016 386,1022 398,1021 408,1017 417,1017 450,1022 450,1016 462,1016 471,1022 505,1022 505,1016 518,1016 527,1022 546,1022 546,1016 560,1016 631,1016 708,1016 754,1016 788,1016 788,1022 805,1021 815,1016 828,1016 844,1017 866,1022 866,1016 874,1016 908,1016 921,1016 1018,1018 1103,1017 1120,1022 1120,1035 909,1035 844,1039 827,1039 816,1035 788,1039 766,1039 654,1039 641,1039 548,1035 325,1039 311,1039 234,1035 184,1035" />
+				<Baseline points="184,1034 1120,1035" />
+				<TextEquiv index="1">
+					<Unicode>diese waren gezeichnet und auch schon 5 Bogen Text gedruckt, als ich mich entschloss im</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l6" custom="readingOrder {index:6;}">
+				<Coords points="184,1048 318,1048 331,1049 347,1054 347,1048 680,1048 717,1053 717,1047 753,1047 771,1047 771,1053 783,1048 883,1048 894,1053 906,1054 906,1062 912,1062 921,1054 971,1054 971,1048 978,1048 978,1054 1043,1054 1043,1048 1066,1048 1066,1054 1085,1049 1111,1048 1120,1054 1120,1067 1112,1072 1066,1072 1053,1072 1000,1067 972,1067 912,1071 184,1067" />
+				<Baseline points="184,1066 1120,1066" />
+				<TextEquiv index="1">
+					<Unicode>Sommer 1882 noch eine Fahrt nach Rootziküll auf Oesel zu machen, um eine nochmalige</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l7" custom="readingOrder {index:7;}">
+				<Coords points="183,1080 364,1081 376,1085 376,1094 391,1080 575,1080 607,1085 614,1079 632,1079 632,1085 664,1080 705,1079 717,1079 737,1081 900,1080 910,1085 944,1086 950,1080 984,1080 991,1082 1000,1080 1036,1080 1062,1085 1071,1081 1102,1080 1102,1086 1121,1086 1121,1099 773,1103 760,1103 737,1098 717,1103 705,1103 614,1097 588,1103 574,1103 569,1098 547,1103 381,1103 331,1103 319,1103 183,1098" />
+				<Baseline points="183,1098 1121,1099" />
+				<TextEquiv index="1">
+					<Unicode>Nachlese zu halten, die nach vollständiger Durcharbeitung des vorhandenen Materials reicher</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l8" custom="readingOrder {index:8;}">
+				<Coords points="183,1117 190,1117 190,1111 205,1111 228,1111 250,1111 250,1117 293,1113 370,1112 378,1112 386,1117 396,1111 408,1111 416,1112 425,1117 434,1111 445,1111 478,1112 511,1117 519,1111 533,1111 533,1117 547,1117 547,1111 561,1111 600,1111 600,1117 618,1117 618,1111 631,1111 631,1117 653,1117 666,1111 689,1111 689,1117 705,1117 713,1111 731,1111 731,1117 762,1117 762,1111 771,1111 874,1113 1105,1112 1112,1113 1121,1117 1121,1131 731,1130 631,1134 611,1134 600,1130 584,1134 561,1134 547,1134 533,1130 183,1130" />
+				<Baseline points="183,1130 1121,1130" />
+				<TextEquiv index="1">
+					<Unicode>ausfallen musste als die frühern Sammlungen. Das Resultat der letzten Reise enthalten die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l9" points="184,1149 221,1149 230,1143 243,1143 250,1144 307,1149 307,1143 318,1143 336,1143 358,1143 359,1145 371,1149 379,1143 416,1143 431,1143 431,1149 453,1144 464,1144 483,1149 483,1158 498,1144 507,1144 560,1143 572,1143 595,1144 596,1157 613,1143 632,1143 686,1145 702,1143 714,1143 723,1145 734,1144 743,1143 755,1143 781,1143 781,1149 836,1148 855,1143 871,1143 877,1144 934,1149 935,1158 951,1149 963,1149 963,1158 978,1144 1007,1144 1008,1158 1022,1149 1033,1144 1046,1144 1121,1144 1121,1163 1098,1163 963,1162 951,1161 940,1167 935,1167 934,1161 922,1162 902,1162 890,1167 876,1167 824,1162 789,1162 714,1166 665,1166 601,1166 487,1166 481,1166 464,1162 400,1162 359,1166 324,1166 308,1162 298,1166 284,1166 221,1162 184,1162" baseline="184,1161 855,1161 1121,1162" reason: second model: differs: "a,5und7" against ", 5a un" | Wikisource: neu hinzugefügten Tafeln 3a, 5a und 7, die grösstentheils neue Figuren, z. Th. aber auch | next_nc_e1: neu hinzugefügten Tafeln 3 a, 5 a und 7, die grösstentheils neue Figuren, z. Th. aber auch | german_print2_15: neu hinzugefügten Tafeln 3 a, 5  und 7, die grösstentheils neue Figuren, z. Th. aber auch -->
+			<TextLine id="r4l10" custom="readingOrder {index:10;}">
+				<Coords points="184,1175 237,1175 237,1181 256,1180 265,1178 277,1178 287,1180 401,1175 438,1175 456,1180 465,1174 513,1174 513,1180 543,1174 576,1174 576,1180 627,1174 646,1174 654,1176 762,1175 767,1180 767,1188 774,1188 787,1175 817,1175 817,1181 892,1181 901,1175 949,1177 993,1181 993,1175 1018,1172 1025,1172 1055,1172 1068,1175 1103,1176 1121,1181 1121,1194 1025,1194 910,1198 901,1198 822,1194 685,1193 646,1198 583,1198 554,1198 543,1198 543,1192 325,1198 311,1198 215,1194 209,1198 195,1198 184,1193" />
+				<Baseline points="184,1193 1121,1194" />
+				<TextEquiv index="1">
+					<Unicode>Verbesserungen von schon früher dargestellten enthalten. Wenn nun jetzt auch nicht alles</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l11" custom="readingOrder {index:11;}">
+				<Coords points="185,1207 331,1207 342,1209 351,1207 372,1207 413,1212 413,1206 423,1206 443,1207 465,1212 476,1206 499,1206 522,1206 683,1207 714,1212 726,1206 739,1206 739,1212 750,1207 757,1206 769,1206 784,1208 785,1220 791,1220 800,1213 829,1207 1077,1207 1092,1212 1101,1207 1116,1207 1116,1218 1121,1218 1121,1221 1116,1226 855,1226 791,1230 769,1230 729,1230 726,1230 528,1225 453,1225 372,1230 351,1230 235,1230 211,1230 197,1230 185,1225" />
+				<Baseline points="185,1225 1121,1225" />
+				<TextEquiv index="1">
+					<Unicode>Zusammengehörige auf den Tafeln sich beisammen findet, so hat doch durch die Vermeh-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l12" custom="readingOrder {index:12;}">
+				<Coords points="184,1244 233,1245 241,1239 254,1239 283,1245 326,1240 352,1239 388,1239 401,1244 460,1239 540,1239 560,1244 571,1245 584,1239 618,1241 627,1239 641,1239 641,1245 650,1245 664,1239 677,1239 731,1244 763,1245 774,1239 856,1238 868,1238 890,1238 890,1244 898,1244 908,1240 917,1239 950,1238 955,1238 966,1244 1065,1244 1065,1253 1085,1239 1102,1239 1113,1244 1113,1250 1120,1250 1120,1253 1113,1257 980,1262 720,1262 514,1262 484,1262 364,1262 233,1262 196,1262 184,1262" />
+				<Baseline points="184,1257 1120,1257" />
+				<TextEquiv index="1">
+					<Unicode>rung der zur Anschauung gebrachten Stücke die ganze Arbeit hoffentlich gewonnen. Be-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l13" custom="readingOrder {index:13;}">
+				<Coords points="185,1276 219,1271 364,1271 396,1276 396,1270 406,1270 562,1272 611,1271 623,1276 634,1277 645,1271 725,1271 725,1277 749,1271 827,1271 827,1277 839,1277 839,1285 847,1285 859,1271 877,1271 877,1277 888,1276 899,1271 1113,1271 1113,1281 1120,1281 1120,1284 1113,1289 787,1294 767,1294 750,1294 703,1294 689,1294 185,1289" />
+				<Baseline points="185,1289 1120,1289" />
+				<TextEquiv index="1">
+					<Unicode>sonders weise ich auf die neue Restauration des Eurypterus hin. Auch im Text sind Nach-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l14" points="184,1305 229,1305 280,1303 293,1303 351,1303 351,1309 371,1308 422,1308 431,1303 445,1303 467,1308 467,1317 473,1317 487,1302 512,1302 512,1308 535,1303 565,1303 591,1303 616,1303 632,1304 653,1303 666,1303 714,1303 751,1302 764,1302 840,1302 840,1308 924,1303 955,1302 968,1302 968,1308 1006,1303 1018,1303 1028,1304 1050,1308 1059,1302 1076,1302 1076,1308 1121,1308 1121,1321 1100,1326 1086,1326 1018,1321 979,1321 840,1325 764,1325 751,1325 473,1322 386,1326 339,1326 326,1326 272,1322 229,1326 192,1326 184,1321" baseline="184,1321 915,1320 1121,1320" reason: second model: differs: "demöten" against "em 5ten" | Wikisource: träge nothwendig geworden. Der Abschnitt über die Hemiaspiden war mit dem 5ten Bogen | next_nc_e1: träge nothwendig geworden. Der Abschnitt über die Hemiaspiden war mit dem 5ten Bogen | german_print2_15: träge nothwendig geworden. Der Abschnitt über die Hemiaspiden war mit dem öten Bogen -->
+			<TextLine id="r4l15" custom="readingOrder {index:15;}">
+				<Coords points="185,1340 205,1335 258,1335 276,1340 287,1334 304,1334 496,1336 590,1335 635,1340 635,1334 648,1334 648,1340 679,1335 818,1336 863,1340 863,1334 874,1334 874,1340 895,1340 895,1334 908,1334 918,1339 967,1334 997,1334 1025,1334 1025,1340 1046,1339 1055,1334 1063,1334 1063,1340 1074,1340 1074,1334 1087,1334 1095,1340 1106,1340 1106,1334 1114,1334 1114,1340 1122,1340 1122,1353 854,1357 839,1357 818,1353 809,1358 788,1358 775,1358 704,1357 681,1353 636,1353 626,1358 521,1358 475,1358 462,1358 448,1352 358,1353 345,1358 336,1358 185,1353" />
+				<Baseline points="185,1353 1122,1352" />
+				<TextEquiv index="1">
+					<Unicode>schon im Frühjahr 1882 grösstentheils gedruckt; die später gefundenen Stücke sind als</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l16" custom="readingOrder {index:16;}">
+				<Coords points="185,1366 209,1366 233,1366 255,1366 267,1366 267,1372 290,1367 338,1367 370,1372 379,1366 396,1366 396,1372 442,1372 451,1366 464,1366 475,1371 497,1371 528,1366 541,1366 541,1372 564,1372 565,1381 585,1366 605,1366 605,1372 631,1366 650,1366 694,1366 726,1366 787,1366 795,1366 795,1372 847,1371 857,1366 870,1366 897,1367 909,1372 909,1366 916,1366 988,1366 1046,1366 1103,1366 1113,1371 1122,1372 1122,1384 1035,1389 915,1389 859,1385 650,1385 625,1389 593,1389 569,1385 529,1385 497,1389 484,1389 431,1385 420,1389 406,1389 358,1385 290,1384 281,1390 255,1390 248,1385 233,1390 209,1390 195,1390 185,1385" />
+				<Baseline points="185,1385 1122,1384" />
+				<TextEquiv index="1">
+					<Unicode>Nachtrag im 6ten Bogen besprochen. Zugleich habe ich hier noch einiges Allgemeine über</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l17" custom="readingOrder {index:17;}">
+				<Coords points="185,1398 264,1401 286,1404 286,1398 319,1398 329,1403 338,1398 352,1398 362,1403 374,1397 388,1397 397,1399 635,1398 635,1404 684,1404 684,1398 771,1398 776,1403 785,1398 1008,1398 1027,1403 1036,1397 1066,1397 1066,1403 1122,1404 1122,1416 1101,1421 445,1421 299,1416 299,1422 286,1422 286,1416 264,1417 247,1422 233,1422 199,1417 185,1417" />
+				<Baseline points="185,1416 1122,1416" />
+				<TextEquiv index="1">
+					<Unicode>die systematische Stellung der Hemiaspiden und ihr Verhältniss zu den übrigen Gruppen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l18" custom="readingOrder {index:18;}">
+				<Coords points="185,1430 248,1430 255,1435 259,1430 427,1431 427,1444 439,1435 464,1430 513,1430 525,1435 541,1430 631,1430 652,1435 658,1429 678,1429 678,1435 709,1435 709,1429 721,1429 743,1429 743,1435 775,1435 775,1429 787,1429 787,1435 810,1430 829,1430 870,1435 879,1429 896,1429 1005,1430 1015,1435 1021,1429 1105,1429 1105,1435 1118,1435 1118,1444 1122,1444 1122,1453 1105,1453 1079,1453 1051,1453 1033,1453 968,1453 954,1453 954,1447 787,1453 743,1453 432,1453 381,1453 295,1453 282,1449 271,1453 259,1453 248,1449 185,1448" />
+				<Baseline points="185,1448 1122,1448" />
+				<TextEquiv index="1">
+					<Unicode>der Poecilopoden gesagt, und versucht die vier Hauptgruppen dieser Ordnung: die Trilobiten,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l19" custom="readingOrder {index:19;}">
+				<Coords points="186,1462 210,1461 224,1461 241,1461 259,1461 292,1461 318,1467 318,1476 333,1461 370,1461 446,1461 446,1467 500,1467 500,1461 546,1461 570,1461 611,1461 611,1467 625,1467 636,1461 644,1461 661,1461 721,1461 743,1461 765,1461 777,1467 809,1466 819,1461 832,1461 877,1461 905,1467 905,1461 912,1461 939,1461 956,1461 956,1467 961,1467 962,1476 981,1461 1007,1461 1044,1461 1044,1467 1060,1467 1060,1461 1073,1461 1106,1461 1106,1467 1123,1467 1123,1480 454,1480 446,1484 323,1485 317,1485 317,1479 305,1480 296,1485 224,1485 210,1485 186,1480" />
+				<Baseline points="186,1480 1123,1479" />
+				<TextEquiv index="1">
+					<Unicode>Hemiaspiden, Eurypteriden und Limuliden übersichtlich zu charakterisiren. Die Kenntniss</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l20" custom="readingOrder {index:20;}">
+				<Coords points="186,1493 199,1493 199,1499 219,1499 228,1493 245,1493 245,1499 276,1499 276,1493 328,1493 328,1499 349,1499 359,1493 471,1493 471,1499 492,1499 503,1493 517,1493 517,1499 547,1499 547,1493 596,1493 596,1499 617,1498 626,1493 673,1493 683,1498 697,1492 706,1492 714,1493 726,1498 726,1492 737,1492 776,1493 776,1499 836,1493 844,1493 844,1499 957,1493 995,1493 995,1499 1021,1493 1102,1493 1121,1495 1121,1516 1102,1517 1089,1517 1089,1511 1080,1511 1071,1517 1049,1517 1023,1517 1010,1517 972,1517 959,1517 959,1511 813,1516 727,1511 706,1516 569,1512 527,1512 440,1516 269,1516 245,1512 186,1512" />
+				<Baseline points="186,1511 1121,1511" />
+				<TextEquiv index="1">
+					<Unicode>der Gruppe der Eurypteriden konnte durch die Aufstellung einer neuen Eurypterus-Art,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l21" custom="readingOrder {index:21;}">
+				<Coords points="185,1525 296,1525 305,1531 330,1531 330,1525 342,1525 348,1531 359,1531 359,1525 368,1525 368,1531 468,1531 475,1525 538,1525 628,1531 634,1525 656,1525 656,1538 667,1524 749,1524 749,1539 761,1530 846,1526 855,1524 899,1524 926,1524 965,1530 973,1525 1027,1525 1035,1527 1055,1525 1094,1525 1116,1530 1117,1539 1121,1539 1121,1543 955,1544 926,1548 667,1548 628,1544 305,1543 296,1549 258,1549 244,1549 230,1544 185,1544" />
+				<Baseline points="185,1543 1121,1543" />
+				<TextEquiv index="1">
+					<Unicode>E. laticeps und einer neuen Varietät unsres E. Fischeri, var. rectangularis erweitert werden.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Das Nöthige über Veranlassung und Inhalt der vorliegenden Arbeit ist in der Ein-
+leitung gesagt. Was mich veranlasst, jetzt nach Beendigung des Druckes, noch eine Vorrede
+hinzuzufügen, hat andere Gründe. Die Publikation der Arbeit hat sich hinausgezogen,
+ähnlich wie es bei meiner Revision unsrer ostbaltischen Trilobiten der Fall war. Die Arbeit
+wurde im Frühjahr 1882 der Akademie vorgestellt. Anfangs waren 6 Tafeln veranschlagt;
+diese waren gezeichnet und auch schon 5 Bogen Text gedruckt, als ich mich entschloss im
+Sommer 1882 noch eine Fahrt nach Rootziküll auf Oesel zu machen, um eine nochmalige
+Nachlese zu halten, die nach vollständiger Durcharbeitung des vorhandenen Materials reicher
+ausfallen musste als die frühern Sammlungen. Das Resultat der letzten Reise enthalten die
+Verbesserungen von schon früher dargestellten enthalten. Wenn nun jetzt auch nicht alles
+Zusammengehörige auf den Tafeln sich beisammen findet, so hat doch durch die Vermeh-
+rung der zur Anschauung gebrachten Stücke die ganze Arbeit hoffentlich gewonnen. Be-
+sonders weise ich auf die neue Restauration des Eurypterus hin. Auch im Text sind Nach-
+schon im Frühjahr 1882 grösstentheils gedruckt; die später gefundenen Stücke sind als
+Nachtrag im 6ten Bogen besprochen. Zugleich habe ich hier noch einiges Allgemeine über
+die systematische Stellung der Hemiaspiden und ihr Verhältniss zu den übrigen Gruppen
+der Poecilopoden gesagt, und versucht die vier Hauptgruppen dieser Ordnung: die Trilobiten,
+Hemiaspiden, Eurypteriden und Limuliden übersichtlich zu charakterisiren. Die Kenntniss
+der Gruppe der Eurypteriden konnte durch die Aufstellung einer neuen Eurypterus-Art,
+E. laticeps und einer neuen Varietät unsres E. Fischeri, var. rectangularis erweitert werden.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Das Nöthige über Veranlassung und Inhalt der vorliegenden Arbeit ist in der Einleitung gesagt. Was mich veranlasst, jetzt nach Beendigung des Druckes, noch eine Vorrede hinzuzufügen, hat andere Gründe. Die Publikation der Arbeit hat sich hinausgezogen, ähnlich wie es bei meiner Revision unsrer ostbaltischen Trilobiten der Fall war. Die Arbeit wurde im Frühjahr 1882 der Akademie vorgestellt. Anfangs waren 6 Tafeln veranschlagt; diese waren gezeichnet und auch schon 5 Bogen Text gedruckt, als ich mich entschloss im Sommer 1882 noch eine Fahrt nach Rootziküll auf Oesel zu machen, um eine nochmalige Nachlese zu halten, die nach vollständiger Durcharbeitung des vorhandenen Materials reicher ausfallen musste als die frühern Sammlungen. Das Resultat der letzten Reise enthalten die neu hinzugefügten Tafeln 3a, 5a und 7, die grösstentheils neue Figuren, z. Th. aber auch Verbesserungen von schon früher dargestellten enthalten. Wenn nun jetzt auch nicht alles Zusammengehörige auf den Tafeln sich beisammen findet, so hat doch durch die Vermehrung der zur Anschauung gebrachten Stücke die ganze Arbeit hoffentlich gewonnen. Besonders weise ich auf die neue Restauration des Eurypterus hin. Auch im Text sind Nachträge nothwendig geworden. Der Abschnitt über die Hemiaspiden war mit dem 5ten Bogen schon im Frühjahr 1882 grösstentheils gedruckt; die später gefundenen Stücke sind als Nachtrag im 6ten Bogen besprochen. Zugleich habe ich hier noch einiges Allgemeine über die systematische Stellung der Hemiaspiden und ihr Verhältniss zu den übrigen Gruppen der Poecilopoden gesagt, und versucht die vier Hauptgruppen dieser Ordnung: die Trilobiten, Hemiaspiden, Eurypteriden und Limuliden übersichtlich zu charakterisiren. Die Kenntniss der Gruppe der Eurypteriden konnte durch die Aufstellung einer neuen Eurypterus-Art, E. laticeps und einer neuen Varietät unsres E. Fischeri, var. rectangularis erweitert werden.
+-->
+	</Page>
+</PcGts>

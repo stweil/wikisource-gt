@@ -1,0 +1,280 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:28:07</Created>
+		<LastChange>2026-11-23T18:28:07</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Die_zehnte_Muse_(Maximilian_Bern).djvu/240 revision 3303913 of 2018-07-31T21:10:20Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="zehnte_muse_1904_0240.png" imageWidth="1170" imageHeight="2198">
+		<ReadingOrder>
+			<OrderedGroup id="ro8905078988984535386" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="601,167 629,167 629,190 601,190" />
+			<TextLine id="r0l0" custom="readingOrder {index:0;}">
+				<Coords points="601,167 621,167 621,181 629,181 629,190 601,190" />
+				<Baseline points="601,190 629,190" />
+				<TextEquiv index="1">
+					<Unicode>4.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>4.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="212,214 1042,214 1042,449 212,449" />
+			<!-- line left out: id="r1l0" points="252,216 290,216 290,224 316,224 316,235 325,235 344,215 360,215 360,223 376,223 376,215 406,215 426,224 442,224 442,216 485,216 485,236 494,236 511,217 529,216 555,216 555,223 582,223 582,216 602,216 602,223 603,223 603,235 612,235 632,224 652,223 690,223 709,215 730,215 730,223 749,223 761,221 774,221 791,214 813,214 813,224 831,224 850,214 873,214 873,224 927,224 949,216 970,216 970,224 1016,224 1018,215 1042,215 1042,241 1016,242 970,242 831,242 763,242 612,245 582,245 555,243 551,245 529,245 511,243 494,249 484,249 484,242 464,242 464,249 442,249 442,242 426,242 406,251 376,251 376,242 360,242 360,251 344,251 315,249 315,243 290,243 290,249 270,249 270,242 252,242" baseline="252,242 611,241 1042,241" reason: differs: "sag'mal" against "sag’ ma" | Wikisource:  | next_nc_e1: Nee, sag' mal, Mieze, was hast du denn heu: | german_print2_15: Nee, sag' mal, Mieze., was hast du denn heut'? -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="213,256 280,255 302,255 412,255 412,263 431,263 449,255 502,255 520,264 537,264 537,255 577,255 577,264 594,264 594,255 613,255 625,256 644,265 675,264 675,255 698,255 698,264 716,264 735,256 767,256 767,264 782,264 782,256 805,256 805,263 839,265 859,255 871,255 871,264 901,263 901,255 924,255 924,282 412,282 412,290 397,290 383,282 213,283" />
+				<Baseline points="213,283 924,282" />
+				<TextEquiv index="1">
+					<Unicode>Du stinkst ja mit einmal zehn Meilen weit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l2" points="213,296 231,295 327,293 346,293 372,293 402,296 402,304 439,304 439,296 450,295 459,295 480,310 518,310 538,295 549,295 549,304 566,304 566,295 586,295 586,303 616,303 616,295 636,295 657,300 672,304 672,296 692,295 714,295 714,304 729,304 729,295 750,295 760,298 760,322 731,322 674,322 538,322 518,316 480,316 459,322 213,322" baseline="213,322 760,322" reason: differs: "uli—una" against "li – un" | Wikisource:  | next_nc_e1: Nach Patchouli — unausstehlich! | german_print2_15: Nach Patchouli — unausstehlich! -->
+			<!-- line left out: id="r1l3" points="213,335 242,335 242,344 260,344 260,336 299,335 330,335 330,344 356,344 375,335 386,335 386,343 407,343 407,335 459,335 459,343 473,343 473,335 496,335 496,345 512,345 529,336 612,336 631,344 642,344 642,334 690,334 740,335 740,343 785,343 785,334 805,334 841,334 841,343 853,343 853,335 865,335 865,344 901,344 918,336 934,335 954,335 984,335 996,336 996,344 1014,344 1018,338 1024,338 1024,361 1014,362 966,362 954,363 918,363 855,362 826,362 805,362 805,370 775,370 757,362 715,362 612,363 496,363 386,363 375,363 213,362" baseline="213,362 1024,361" reason: differs: "Undd" against "lich" | Wikisource:  | next_nc_e1: Und den seidenen Rock und die pikfeine Taille: | german_print2_15: Und den seidenen Rock und die pikfeine Taille: -->
+			<!-- line left out: id="r1l4" points="212,374 249,374 285,375 285,383 300,383 300,375 329,375 367,376 367,384 380,384 380,376 448,376 477,377 477,384 492,384 492,395 500,395 520,374 542,374 542,384 560,384 579,375 642,375 642,384 657,383 675,383 694,375 708,374 730,374 730,383 744,383 744,374 791,374 806,376 806,383 822,383 822,395 829,395 829,408 821,408 821,401 806,402 791,402 791,408 774,408 774,402 763,402 763,408 744,408 744,402 730,402 730,408 708,408 708,402 642,402 520,402 500,409 491,409 491,402 477,403 448,403 439,409 427,409 409,402 350,402 329,410 300,410 300,402 285,402 285,410 267,410 249,402 212,402" baseline="212,402 829,402" reason: differs: "Eisa" against "ille" | Wikisource:  | next_nc_e1: Ei sag' mal blos, du kleine Canaille, | german_print2_15: Ei sag' mal blos, du kleine Canaille, -->
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="213,415 231,414 263,414 263,421 409,423 409,416 451,415 451,425 472,425 472,415 483,415 483,424 503,424 503,415 525,415 525,424 587,415 772,415 791,423 825,423 844,414 852,414 852,423 875,423 875,414 898,414 898,424 918,424 923,415 936,415 936,441 923,441 918,449 897,449 897,442 852,442 852,449 844,449 825,443 213,443" />
+				<Baseline points="213,442 936,441" />
+				<TextEquiv index="1">
+					<Unicode>Seit wann schwimmst in Gold du so selig?</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Du stinkst ja mit einmal zehn Meilen weit
+Seit wann schwimmst in Gold du so selig?</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="212,480 1037,480 1037,715 212,715" />
+			<!-- line left out: id="r2l0" points="212,482 312,482 312,489 332,489 336,483 349,482 363,482 383,497 422,497 442,483 463,483 493,488 509,481 539,481 539,490 556,490 556,483 577,483 577,490 593,490 593,481 604,481 644,481 644,487 652,487 670,481 692,481 692,490 708,489 721,489 740,481 763,481 780,482 780,490 793,490 793,480 804,480 804,490 824,489 842,489 861,482 902,482 902,490 916,490 916,482 956,481 992,481 992,490 1017,490 1017,482 1037,482 1037,516 1017,516 1017,508 992,508 992,516 970,516 970,508 842,509 826,509 826,515 804,515 795,508 709,509 557,509 450,509 442,509 422,502 383,502 363,508 346,509 212,509" baseline="212,509 670,508 1037,508" reason: differs: "hsol?—h" against " so!? –" | Wikisource:  | next_nc_e1: Ach sol? — hat vielleicht der dös'ge Herr Graf, | german_print2_15: Ach sol? — hat Vielleicht der dös'ge Herr Graf, -->
+			<!-- line left out: id="r2l1" points="213,523 252,523 252,530 298,527 306,527 363,527 394,527 412,530 431,522 473,522 496,526 515,529 533,530 552,521 659,521 659,527 670,527 689,521 768,521 818,521 843,534 848,534 848,550 818,554 768,554 752,554 734,548 670,549 633,549 618,549 561,548 552,547 533,556 512,556 512,548 496,549 472,549 448,548 448,556 431,556 412,549 394,549 394,556 375,556 375,548 363,549 336,550 320,550 320,556 298,556 279,548 213,548" baseline="213,548 752,548 848,550" reason: second model: differs: "Deng" against "Graf" | Wikisource: Den gestern Mittag ich mit dir traf, | next_nc_e1: Den gestern Mittag ich mit dir traf,
+ | german_print2_15: Den gestern Mittag ich mit dir traf, :
+ -->
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="212,562 355,562 372,571 407,570 424,562 458,562 458,569 469,569 469,562 533,563 533,571 549,571 549,563 573,563 573,570 590,570 590,563 615,563 615,570 648,570 668,561 672,561 672,570 698,571 698,561 782,561 830,562 830,588 782,589 573,589 472,589 388,589 269,589 230,589 212,588" />
+				<Baseline points="212,588 830,588" />
+				<TextEquiv index="1">
+					<Unicode>Dich für so viel Mammon erhandelt?</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l3" points="213,602 263,602 282,610 303,610 319,611 319,601 340,601 393,601 458,602 476,610 497,610 497,601 545,601 614,602 614,610 630,610 630,603 643,603 645,609 742,609 762,601 773,601 808,601 808,610 824,610 824,601 843,601 910,601 910,609 929,609 948,601 994,601 1025,602 1036,604 1036,629 994,629 948,629 910,628 910,636 895,636 882,629 843,629 808,629 773,629 632,629 555,629 506,629 498,628 458,629 340,629 263,629 226,629 213,628" baseline="213,628 1036,628" reason: differs: "ehm'sdi" against "ehm’s d" | Wikisource:  | next_nc_e1: Ich nehm's dir nicht übel: man braucht ja Geld! | german_print2_15: Ich nehm's dir nicht übel: man braucht ja Geld! -->
+			<!-- line left out: id="r2l4" points="213,643 252,643 252,649 276,649 276,643 315,642 337,642 362,642 362,650 383,650 402,642 497,642 497,649 518,649 518,642 537,642 537,650 552,650 552,642 607,642 633,642 633,650 649,650 649,642 707,642 707,649 724,649 724,642 761,642 778,650 789,650 789,642 808,642 867,642 878,642 897,656 937,656 942,643 950,643 950,669 942,669 937,662 897,662 878,677 872,677 872,668 817,669 808,669 808,677 724,677 724,668 695,668 695,677 649,677 649,669 633,669 633,677 609,677 609,669 559,669 483,669 327,669 315,669 213,668" baseline="213,668 950,668" reason: differs: "Doch" against "Geld" | Wikisource:  | next_nc_e1: Doch dass dir dieser Dummkopf gefällt —1 | german_print2_15: Doch dass dir dieser Dummkopf gefällt — 1 -->
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="213,682 268,682 268,689 285,689 305,681 373,681 373,690 396,690 396,701 404,701 423,682 507,681 529,681 529,690 546,690 565,681 615,681 634,682 651,690 665,690 665,681 687,681 687,689 700,689 700,681 738,681 738,689 754,689 754,681 786,681 786,689 800,689 800,683 833,682 833,709 423,708 404,715 395,715 395,709 373,709 373,715 335,715 335,708 322,708 322,715 249,715 249,708 213,708" />
+				<Baseline points="213,708 833,708" />
+				<TextEquiv index="1">
+					<Unicode>Nee, Mieze, hast du dich verwandelt!</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Dich für so viel Mammon erhandelt?
+Nee, Mieze, hast du dich verwandelt!</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="186,774 1009,774 1009,904 186,904" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="625,774 641,774 642,793 651,793 651,802 625,802" />
+				<Baseline points="625,802 651,802" />
+				<TextEquiv index="1">
+					<Unicode>5.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l1" points="228,838 245,838 246,830 275,830 275,837 294,837 314,828 319,828 326,829 341,828 387,828 415,827 429,827 429,836 448,836 466,827 505,827 505,836 520,836 539,828 606,827 665,827 702,827 798,827 837,828 837,835 859,835 859,828 885,828 885,835 904,835 904,828 919,828 939,843 977,843 977,849 939,849 919,855 885,855 837,855 786,855 702,855 448,856 429,856 429,863 415,863 400,856 319,856 314,856 246,855 228,853" baseline="228,856 293,855 797,854 977,854" reason: differs: "rum—" against "um – So" | Wikisource:  | next_nc_e1: »Du läufst ja wie ein Schmutzfink herum — | german_print2_15: »Du läufst ja wie ein Schmutzfink herum — -->
+			<!-- line left out: id="r3l2" points="186,868 208,868 208,876 227,876 279,876 292,877 292,869 305,869 305,877 372,873 386,873 397,876 419,883 458,883 478,877 494,876 578,876 645,876 664,868 756,868 756,876 814,876 814,868 896,868 896,876 930,876 950,882 993,877 1009,877 1009,894 993,894 991,888 950,888 930,894 896,895 854,895 756,895 756,903 741,903 726,895 620,896 516,896 478,896 458,888 419,888 397,899 388,899 373,895 373,904 352,904 352,895 208,896 186,896" baseline="186,895 929,894 1009,894" reason: differs: "Soze" against "rum " | Wikisource:  | next_nc_e1: So zerlumpt; — man muss sich ja schämen —«
+ | german_print2_15: So zerlumpt; — man muss sich ja schämen — †
+ -->
+			<TextEquiv index="1">
+				<Unicode>5.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="186,907 952,907 952,982 186,982" />
+			<!-- line left out: id="r4l0" points="187,922 225,922 245,908 310,908 340,909 340,916 367,916 377,909 396,909 396,916 425,916 437,917 437,909 467,909 467,916 504,916 543,917 547,910 596,907 605,907 619,909 619,916 635,916 635,907 697,907 756,907 783,916 819,916 837,907 859,907 889,907 889,915 908,915 908,907 934,907 952,907 952,934 819,935 766,935 619,936 596,936 547,934 543,944 502,944 502,935 487,935 487,943 465,943 465,935 407,935 407,943 396,944 340,944 329,944 310,935 259,935 245,935 225,928 187,928" baseline="187,934 952,934" reason: differs: "—Ach" against "–« –" | Wikisource:  | next_nc_e1: — Ach papperlapapp! Seid nicht so dumm! | german_print2_15: — Ach papperlapapp! Seid nicht so dumm! -->
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="186,948 276,948 276,957 312,957 312,948 334,948 334,956 350,956 369,948 422,948 422,956 438,956 438,948 574,947 623,947 643,948 671,956 689,956 689,948 768,948 768,955 791,955 796,948 803,948 803,975 768,975 768,982 746,982 746,975 730,975 730,982 671,982 653,975 199,976 186,974" />
+				<Baseline points="186,974 803,975" />
+				<TextEquiv index="1">
+					<Unicode>Ich werde darob mich nicht grämen!</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Ich werde darob mich nicht grämen!</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="185,1013 1087,1013 1087,1169 185,1169" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="225,1015 265,1014 265,1023 282,1023 301,1014 338,1015 338,1023 354,1023 354,1014 424,1014 424,1023 442,1023 462,1014 474,1014 474,1022 488,1022 488,1014 535,1013 575,1013 594,1015 594,1023 609,1023 609,1013 628,1013 628,1019 752,1023 770,1015 799,1015 799,1022 831,1023 831,1015 851,1015 851,1022 930,1022 930,1013 951,1013 992,1014 992,1023 1008,1023 1008,1014 1029,1014 1030,1023 1045,1023 1045,1014 1067,1014 1067,1022 1087,1022 1087,1041 851,1041 851,1048 813,1048 813,1041 738,1041 738,1049 694,1049 694,1041 680,1041 680,1049 657,1049 639,1042 462,1041 442,1048 400,1048 400,1041 384,1041 384,1048 364,1048 356,1041 316,1040 316,1048 301,1048 282,1041 225,1040" />
+				<Baseline points="225,1040 1087,1041" />
+				<TextEquiv index="1">
+					<Unicode>Die Kleidung soll Schutz gegen Regen und Schnee</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l1" points="186,1053 215,1053 215,1063 233,1063 233,1054 254,1054 311,1055 311,1062 321,1062 339,1063 339,1055 367,1055 387,1062 408,1062 426,1063 426,1054 447,1054 522,1055 548,1055 567,1064 589,1063 630,1063 630,1054 690,1054 690,1062 711,1062 711,1054 720,1054 739,1068 776,1068 776,1074 739,1074 720,1090 711,1090 711,1081 690,1081 690,1090 667,1090 667,1081 650,1081 650,1090 630,1090 630,1081 607,1082 590,1082 590,1090 567,1090 548,1082 483,1082 464,1082 341,1081 341,1088 311,1088 288,1088 288,1081 254,1082 233,1082 186,1080" baseline="186,1080 776,1081" reason: differs: "ren—" against "en – In" | Wikisource:  | next_nc_e1: Und Hagel und Kälte gewähren — | german_print2_15: Und Hagel und Kälte gewähren — -->
+			<!-- line left out: id="r5l2" points="186,1094 200,1094 200,1103 218,1103 239,1094 248,1094 324,1094 355,1094 355,1102 366,1102 385,1094 406,1094 424,1096 424,1104 454,1104 454,1093 482,1093 550,1095 563,1104 583,1103 594,1099 628,1099 671,1099 671,1121 613,1121 613,1129 584,1129 563,1129 550,1122 513,1122 355,1121 355,1128 338,1128 338,1121 282,1121 255,1121 255,1128 239,1128 218,1120 200,1121 186,1121" baseline="186,1120 239,1120 671,1121" reason: differs: "InJu" against "ren " | Wikisource:  | next_nc_e1: In Julihitze könnt' ich getrost | german_print2_15: In Julihitze könnt' ich getrost -->
+			<TextLine id="r5l3" custom="readingOrder {index:3;}">
+				<Coords points="185,1135 226,1135 226,1142 362,1143 380,1145 401,1135 429,1135 429,1143 463,1142 463,1135 487,1135 499,1136 499,1143 538,1143 557,1135 565,1135 627,1135 678,1135 678,1143 714,1143 717,1135 725,1135 725,1161 557,1162 538,1169 487,1169 463,1169 463,1161 347,1161 347,1168 323,1168 323,1161 307,1161 307,1168 271,1168 251,1161 185,1161" />
+				<Baseline points="185,1161 725,1161" />
+				<TextEquiv index="1">
+					<Unicode>Den ganzen Humbug entbehren!</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Die Kleidung soll Schutz gegen Regen und Schnee
+Den ganzen Humbug entbehren!</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="185,1200 972,1200 972,1356 185,1356" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="226,1201 238,1200 259,1200 259,1209 273,1209 293,1200 319,1200 319,1209 335,1209 335,1200 346,1200 383,1200 401,1200 420,1210 442,1210 442,1200 464,1200 464,1209 477,1209 477,1200 505,1200 532,1202 542,1207 561,1201 640,1201 640,1209 686,1209 686,1201 746,1201 746,1209 761,1209 761,1201 773,1201 803,1209 842,1210 842,1200 863,1200 907,1201 907,1210 934,1209 934,1201 972,1202 972,1228 843,1228 746,1228 593,1228 505,1228 464,1228 401,1228 383,1228 302,1228 293,1228 226,1227" />
+				<Baseline points="226,1227 972,1228" />
+				<TextEquiv index="1">
+					<Unicode>Ihr freilich wandelt in Keuschheit und Frack</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l1" custom="readingOrder {index:1;}">
+				<Coords points="185,1241 237,1241 237,1249 261,1249 261,1241 283,1241 283,1248 300,1248 330,1246 353,1240 383,1240 522,1240 522,1246 555,1249 555,1240 573,1240 573,1249 592,1249 592,1240 656,1240 656,1250 671,1250 671,1241 682,1241 682,1250 700,1250 700,1240 721,1240 749,1241 771,1249 771,1273 762,1273 761,1267 642,1267 642,1273 631,1273 613,1267 185,1267" />
+				<Baseline points="185,1267 771,1267" />
+				<TextEquiv index="1">
+					<Unicode>Excellent in Reinheit und Feinheit;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l2" custom="readingOrder {index:2;}">
+				<Coords points="185,1282 214,1282 214,1288 233,1288 251,1279 273,1279 316,1279 424,1281 424,1289 445,1289 445,1281 465,1281 465,1289 508,1289 526,1280 566,1280 566,1286 577,1286 577,1280 590,1280 608,1288 661,1289 661,1280 750,1280 750,1289 783,1289 783,1281 802,1281 802,1308 732,1307 732,1315 711,1315 697,1315 682,1307 185,1307" />
+				<Baseline points="185,1307 802,1308" />
+				<TextEquiv index="1">
+					<Unicode>Da drin im Herzen sitzt euch jedoch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l3" custom="readingOrder {index:3;}">
+				<Coords points="185,1320 207,1320 207,1329 223,1329 223,1320 282,1320 292,1328 320,1328 320,1340 328,1340 347,1320 372,1320 372,1329 386,1329 386,1320 408,1320 408,1329 425,1329 425,1320 448,1320 448,1329 488,1328 488,1320 499,1320 517,1328 538,1328 538,1319 633,1319 673,1319 673,1328 688,1328 688,1319 700,1319 743,1319 743,1328 754,1328 754,1320 787,1321 787,1348 473,1347 473,1356 420,1356 420,1347 408,1347 408,1356 386,1356 386,1347 347,1347 328,1354 318,1354 318,1347 282,1347 282,1354 259,1354 259,1347 243,1347 243,1354 223,1354 223,1347 185,1348" />
+				<Baseline points="185,1347 787,1348" />
+				<TextEquiv index="1">
+					<Unicode>Schmutz, Lumperei und Gemeinheit!</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Ihr freilich wandelt in Keuschheit und Frack
+Excellent in Reinheit und Feinheit;
+Da drin im Herzen sitzt euch jedoch
+Schmutz, Lumperei und Gemeinheit!</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="595,1414 622,1414 622,1441 595,1441" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="595,1414 615,1414 615,1433 622,1433 622,1440 615,1441 595,1441" />
+				<Baseline points="595,1441 622,1440" />
+				<TextEquiv index="1">
+					<Unicode>6.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>6.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="160,1466 1128,1466 1128,1694 160,1694" />
+			<!-- line left out: id="r8l0" points="200,1467 267,1467 267,1474 285,1474 285,1467 324,1467 344,1481 381,1481 402,1466 492,1466 492,1475 504,1474 520,1474 520,1467 541,1466 561,1466 561,1475 589,1475 589,1466 611,1466 697,1468 698,1474 716,1474 730,1475 747,1466 775,1466 775,1474 792,1474 810,1475 810,1467 828,1466 851,1466 851,1475 868,1475 868,1466 894,1466 906,1467 927,1481 965,1481 980,1467 1015,1467 1055,1467 1055,1477 1073,1477 1108,1478 1116,1470 1128,1470 1128,1494 1108,1495 1090,1496 1072,1496 1055,1495 1055,1503 1015,1503 995,1503 995,1494 980,1494 965,1487 927,1487 906,1493 635,1494 561,1494 492,1494 485,1494 432,1493 402,1493 381,1486 344,1486 324,1493 200,1493" baseline="200,1493 927,1493 1128,1494" reason: differs: "as?—Ach" against "s? – Ac" | Wikisource:  | next_nc_e1: Waaas? — Ach verflucht! Der Gendarm! — Papiere? | german_print2_15: Waaas? — Ach verflucht! Der Gendarm!l — Papiere? -->
+			<!-- line left out: id="r8l1" points="160,1506 200,1506 200,1514 216,1514 236,1506 239,1506 239,1515 251,1515 251,1506 351,1506 351,1514 368,1514 386,1505 425,1505 425,1514 440,1514 440,1505 462,1505 462,1514 482,1507 515,1507 515,1515 547,1515 551,1507 565,1507 586,1521 623,1521 644,1507 650,1507 713,1505 744,1505 780,1505 827,1507 827,1514 844,1514 863,1506 932,1506 993,1507 993,1515 1012,1515 1028,1516 1040,1517 1040,1540 1030,1540 1028,1534 992,1534 975,1533 975,1540 960,1540 942,1534 827,1534 800,1534 780,1519 773,1519 773,1534 644,1534 623,1526 586,1526 565,1533 504,1534 462,1534 425,1534 386,1534 197,1533 160,1532" baseline="160,1533 644,1533 1040,1534" reason: differs: "Wosi" against "iere" | Wikisource:  | next_nc_e1: Wo sind die denn blos? — Ich hab' sie nicht hier; | german_print2_15: Wo sind die denn blos? — Ich hab' sie nicht hier; -->
+			<!-- line left out: id="r8l2" points="161,1547 173,1546 250,1546 250,1554 267,1554 267,1547 277,1546 286,1546 308,1554 324,1554 324,1545 335,1545 335,1554 350,1554 368,1546 446,1546 489,1546 512,1561 550,1561 550,1566 512,1566 489,1573 446,1573 325,1573 308,1573 286,1560 280,1560 280,1572 269,1573 173,1573 161,1572" baseline="161,1573 550,1573" reason: differs: "Ichh" against "hier" | Wikisource:  | next_nc_e1: Ich hol' sie schnell! — | german_print2_15: Ich hol' sie schnell!l — -->
+			<!-- line left out: id="r8l3" points="480,1595 494,1595 494,1586 549,1586 549,1594 565,1594 565,1586 586,1586 586,1594 602,1594 602,1586 620,1586 739,1585 765,1585 765,1594 777,1594 777,1585 796,1585 841,1585 841,1594 857,1594 871,1595 871,1613 678,1613 494,1613 480,1610" baseline="480,1613 871,1613" reason: second model: differs: "»Fla" against "l! –" | Wikisource: »Flausen! Ich arretiere | next_nc_e1: »Flausen! Ich arretiere | german_print2_15: »Flausenl Ich arretiere -->
+			<!-- line left out: id="r8l4" points="161,1625 183,1625 193,1626 193,1633 210,1633 213,1627 249,1626 461,1626 461,1635 476,1635 479,1627 487,1627 487,1653 383,1654 291,1654 213,1654 161,1653" baseline="161,1653 487,1653" reason: differs: "Marrsch" against "Marsch!" | Wikisource:  | next_nc_e1: Sie! Marrsch! Losl | german_print2_15: Sie! Marrsch! Losl! -->
+			<!-- line left out: id="r8l5" points="320,1681 417,1681 438,1666 532,1666 566,1666 566,1675 606,1675 625,1676 645,1666 660,1666 670,1674 688,1674 688,1666 783,1666 806,1667 817,1671 836,1665 891,1665 905,1668 905,1675 920,1675 924,1665 939,1665 939,1676 955,1676 955,1693 806,1694 751,1694 738,1694 660,1693 606,1694 566,1694 544,1694 488,1693 438,1693 417,1686 359,1687 320,1687" baseline="320,1693 955,1693" reason: differs: "——Si" against "! – " | Wikisource:  | next_nc_e1: — — Sie können wohl nicht dafür?«
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="161,1732 1064,1732 1064,1927 161,1927" />
+			<TextLine id="r9l0" custom="readingOrder {index:0;}">
+				<Coords points="200,1734 218,1732 265,1732 295,1734 295,1741 322,1741 322,1734 358,1734 358,1741 378,1741 397,1732 429,1732 429,1741 480,1741 480,1732 491,1732 567,1732 567,1740 602,1741 602,1733 622,1733 640,1741 661,1741 661,1733 672,1733 672,1741 688,1741 688,1732 700,1732 736,1732 754,1742 784,1740 874,1741 893,1733 949,1733 949,1741 983,1740 983,1734 1023,1733 1023,1742 1044,1742 1051,1734 1058,1734 1058,1760 1023,1760 1023,1767 1004,1767 1004,1760 968,1759 968,1767 927,1767 927,1759 913,1759 913,1767 893,1767 874,1761 856,1761 856,1767 798,1767 798,1759 754,1760 736,1767 724,1767 724,1759 663,1759 663,1767 640,1767 622,1759 200,1760" />
+				<Baseline points="200,1760 1058,1760" />
+				<TextEquiv index="1">
+					<Unicode>Ach lassen Sie sich doch gleich morgen begraben!</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l1" custom="readingOrder {index:1;}">
+				<Coords points="161,1772 202,1772 202,1782 255,1782 274,1772 302,1772 321,1773 339,1781 361,1781 361,1772 388,1772 408,1773 437,1781 457,1781 457,1773 516,1772 587,1772 587,1781 619,1781 637,1772 666,1772 666,1780 681,1780 681,1772 692,1772 692,1781 729,1781 747,1772 776,1772 804,1772 838,1772 838,1799 682,1800 649,1800 587,1800 408,1800 302,1800 202,1800 181,1800 161,1798" />
+				<Baseline points="161,1798 838,1799" />
+				<TextEquiv index="1">
+					<Unicode>Wenn ich nicht mal in der freien Natur</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l2" custom="readingOrder {index:2;}">
+				<Coords points="162,1813 220,1813 220,1821 255,1821 255,1814 266,1814 266,1822 333,1822 352,1813 363,1813 363,1821 377,1821 377,1813 447,1812 466,1814 466,1821 540,1821 559,1811 642,1811 642,1817 664,1817 664,1811 684,1811 684,1821 697,1821 697,1811 717,1811 717,1821 745,1822 745,1811 768,1811 768,1821 801,1820 801,1814 816,1811 835,1811 835,1820 859,1820 859,1832 867,1832 867,1846 859,1846 859,1839 835,1839 835,1846 816,1846 816,1839 786,1839 786,1846 745,1846 745,1839 717,1839 717,1846 697,1846 697,1839 684,1839 684,1846 664,1846 664,1838 630,1838 630,1846 620,1846 601,1838 256,1840 256,1848 235,1848 235,1839 220,1839 220,1848 197,1848 197,1839 183,1839 183,1848 162,1848" />
+				<Baseline points="162,1839 867,1839" />
+				<TextEquiv index="1">
+					<Unicode>Kampieren soll können im Strassengraben,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r9l3" points="163,1854 219,1854 219,1861 247,1861 266,1852 271,1852 271,1862 287,1862 287,1852 303,1852 413,1852 432,1860 469,1860 469,1851 485,1851 531,1852 531,1860 549,1860 660,1860 684,1853 750,1853 783,1853 796,1853 796,1880 783,1880 750,1880 717,1880 698,1880 645,1879 645,1887 626,1887 626,1879 610,1879 610,1887 569,1887 549,1879 287,1879 287,1887 266,1887 247,1880 163,1880" baseline="163,1880 246,1879 684,1879 796,1880" reason: differs: "eificha" against "eif’ ic" | Wikisource:  | next_nc_e1: Dann pfeif ich auf die ganze Kultur! | german_print2_15: Dann pfeif ich auf die ganze Kultur! -->
+			<!-- line left out: id="r9l4" points="824,1903 843,1903 930,1903 993,1904 1061,1904 1061,1921 1064,1921 1064,1927 993,1927 975,1927 944,1925 901,1925 843,1925 824,1925" baseline="824,1924 957,1925 1064,1927" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Leonhard Wetzlar.
+ | german_print2_15: Loonhard Werzlar.
+ -->
+			<TextEquiv index="1">
+				<Unicode>Ach lassen Sie sich doch gleich morgen begraben!
+Wenn ich nicht mal in der freien Natur
+Kampieren soll können im Strassengraben,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="559,1953 666,1953 666,2005 559,2005" />
+			<!-- line left out: id="r10l0" points="559,1953 666,1953 666,2005 559,2005" baseline="559,2003 666,2005" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: s | german_print2_15:  -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+4.
+Nee, sag’ mal, Mieze, was hast du denn heut’?
+Du stinkst ja mit einmal zehn Meilen weit
+Nach Patchouli – unausstehlich!
+Und den seidenen Rock und die pikfeine Taille!
+Ei sag’ mal blos, du kleine Canaille,
+Seit wann schwimmst in Gold du so selig?
+Ach so!? – hat vielleicht der dös’ge Herr Graf,
+Den gestern Mittag ich mit dir traf,
+Dich für so viel Mammon erhandelt?
+Ich nehm’s dir nicht übel: man braucht ja Geld!
+Doch dass dir dieser Dummkopf gefällt –!
+Nee, Mieze, hast du dich verwandelt!
+5.
+»Du läufst ja wie ein Schmutzfink herum –
+So zerlumpt; – man muss sich ja schämen –«
+– Ach papperlapapp! Seid nicht so dumm!
+Ich werde darob mich nicht grämen!
+Die Kleidung soll Schutz gegen Regen und Schnee
+Und Hagel und Kälte gewähren –
+In Julihitze könnt’ ich getrost
+Den ganzen Humbug entbehren!
+Ihr freilich wandelt in Keuschheit und Frack
+Excellent in Reinheit und Feinheit;
+Da drin im Herzen sitzt euch jedoch
+Schmutz, Lumperei und Gemeinheit!
+6.
+Waaas? – Ach verflucht! Der Gendarm! – Papiere?
+Wo sind die denn blos? – Ich hab’ sie nicht hier;
+Ich hol’ sie schnell! – »Flausen! Ich arretiere
+Sie! Marsch! Los! – – Sie können wohl nicht dafür?«
+Ach lassen Sie sich doch gleich morgen begraben!
+Wenn ich nicht mal in der freien Natur
+Kampieren soll können im Strassengraben,
+Dann pfeif’ ich auf die ganze Kultur!
+⟦⟧
+-->
+	</Page>
+</PcGts>

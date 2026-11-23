@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:38:14</Created>
+		<LastChange>2026-11-23T18:38:14</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Knortz_-_Hexen,_Teufel_und_Blocksbergspuk_in_Geschichte,_Sage_und_Literatur.pdf/78 revision 3341816 of 2018-08-01T01:58:43Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="knortz_hexen_teufel_1913_0078.png" imageWidth="1020" imageHeight="1680">
+		<ReadingOrder>
+			<OrderedGroup id="ro8196915102332462253" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="468,183 595,183 595,212 468,212" />
+			<!-- line left out: id="r0l0" points="468,198 493,198 514,188 529,187 567,183 595,183 595,212 567,212 514,208 493,202 468,202" baseline="468,202 595,202" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 76 —
+ | german_print2_15: — 76 —
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="253,251 812,251 812,1483 253,1483" />
+			<!-- line left out: id="r1l0" points="253,253 321,253 321,260 334,260 335,254 366,253 427,253 481,253 511,251 544,251 544,259 564,259 579,260 595,253 614,253 614,259 641,259 641,253 658,253 677,255 677,263 667,263 664,275 614,276 544,276 511,276 253,275" baseline="253,275 677,275" reason: differs: "Eh'ich" against "Eh’ ic" | Wikisource:  | next_nc_e1: Eh' ich dir füllte deinen Sack.“
+ | german_print2_15: Eh' ich dir füllte deinen Sack.“
+ -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="254,284 274,284 274,290 299,290 316,284 335,284 335,290 421,285 467,285 493,290 509,284 528,284 528,290 540,285 572,284 581,284 581,290 623,290 623,284 651,284 651,290 665,290 665,284 679,284 679,306 254,306" />
+				<Baseline points="254,306 679,306" />
+				<TextEquiv index="1">
+					<Unicode>Der Bauer ob der Red erschrak</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="254,315 332,315 360,316 372,321 373,315 388,315 421,316 433,321 449,315 465,315 465,321 491,321 505,315 527,315 549,315 580,315 587,316 599,321 615,315 634,315 657,315 657,321 677,321 677,332 682,332 682,337 254,337" />
+				<Baseline points="254,337 682,337" />
+				<TextEquiv index="1">
+					<Unicode>Und fürchtete des Teufels Zorn.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l3" points="254,346 282,346 282,352 325,352 325,346 349,346 349,352 361,352 377,346 394,346 395,352 472,352 578,352 578,345 594,345 620,345 622,352 636,352 636,367 602,368 578,368 489,367 428,373 410,373 387,368 325,368 265,368 254,367" baseline="254,368 427,367 636,367" reason: differs: "mor'n" against "mor’n U" | Wikisource:  | next_nc_e1: Derselbe fing an zu rumor'n
+ | german_print2_15: Derselbe fing an zu rumor'n
+ -->
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="253,376 274,376 275,383 290,383 290,377 331,377 331,383 346,383 347,377 362,377 363,383 374,383 390,377 405,377 405,383 434,383 451,377 471,377 471,383 587,383 587,377 594,377 595,383 612,383 612,376 631,376 631,383 643,383 644,376 668,376 683,382 719,382 719,401 691,401 668,404 631,404 612,404 595,399 576,398 576,404 557,404 542,398 253,399" />
+				<Baseline points="253,399 719,398" />
+				<TextEquiv index="1">
+					<Unicode>Und fuhr den Bauern grimmig an,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l5" points="253,407 271,407 271,414 291,414 291,407 305,407 313,408 313,414 324,409 348,409 370,408 417,408 418,414 441,414 457,408 472,408 472,414 498,414 514,407 542,407 571,407 571,414 584,414 585,408 600,408 609,409 653,408 668,408 699,413 713,414 713,429 653,430 584,430 514,430 393,429 370,413 370,430 348,430 305,430 285,430 253,430" baseline="253,429 713,429" reason: differs: "tzt'ihm" against "tzt’ ih" | Wikisource:  | next_nc_e1: Zerkratzt' ihm das Gesicht sodann
+ | german_print2_15: Zerkratzt' ihm das Gesicht sodann
+ -->
+			<!-- line left out: id="r1l6" points="254,438 296,438 312,445 339,445 339,438 347,438 347,445 421,444 437,444 437,438 444,438 454,439 454,445 495,445 514,438 534,438 541,439 541,445 601,445 617,438 625,438 625,445 643,445 644,439 659,439 659,445 674,444 685,444 685,438 700,438 700,462 685,462 643,461 625,462 617,462 586,461 556,461 541,461 437,460 437,466 421,466 421,460 377,461 339,461 269,461 254,461" baseline="254,460 617,460 700,461" reason: differs: "Mits" against "odan" | Wikisource:  | next_nc_e1: Mit seinen spitzen Klauen scharf. | german_print2_15: Mit seinen spitzen Klauen scharf. -->
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="253,469 273,469 273,475 287,475 287,469 294,469 295,476 317,476 335,469 356,469 356,476 396,476 411,469 418,469 434,470 435,476 514,476 530,470 545,470 545,476 571,476 586,469 605,469 605,476 618,476 618,470 627,469 643,469 643,476 689,476 705,469 713,469 713,476 741,475 741,469 763,469 763,487 767,487 767,491 648,492 618,492 545,492 482,492 396,492 346,492 287,492 273,492 253,491" />
+				<Baseline points="253,491 767,491" />
+				<TextEquiv index="1">
+					<Unicode>Beim Haar ihn von der Scheuer warf.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="254,501 274,501 274,507 299,507 314,501 335,501 335,507 364,507 364,501 375,501 375,507 388,507 388,501 402,501 418,507 502,507 508,502 630,502 641,507 641,501 695,501 695,525 508,526 490,523 465,528 443,528 443,522 402,526 388,526 365,523 314,526 288,523 254,522" />
+				<Baseline points="254,522 695,522" />
+				<TextEquiv index="1">
+					<Unicode>Der Teufel, arg erzürnt, entwich,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="254,532 272,531 279,531 280,538 294,538 294,531 308,531 364,532 364,538 393,538 410,531 429,531 438,532 438,538 467,538 468,532 509,532 516,538 531,538 531,532 577,531 580,531 600,531 601,538 616,533 626,533 652,538 667,531 687,531 687,538 701,538 701,532 717,532 718,549 722,549 722,554 701,554 580,554 378,554 308,554 254,554" />
+				<Baseline points="254,554 722,554" />
+				<TextEquiv index="1">
+					<Unicode>Ließ üblen Stank noch hinter sich.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="254,563 274,563 274,569 300,569 316,563 343,563 343,569 391,569 406,563 416,562 423,562 423,569 437,569 438,563 444,563 461,569 516,569 533,563 595,563 612,569 640,569 657,563 672,563 672,569 686,564 707,564 707,581 712,581 712,588 662,588 657,588 391,585 254,585" />
+				<Baseline points="254,585 712,585" />
+				<TextEquiv index="1">
+					<Unicode>Der Bauer fiel vom Dach so hart,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="254,593 275,593 275,600 288,600 288,593 303,593 320,600 387,600 387,593 394,593 395,600 410,600 427,593 446,593 446,600 459,600 459,594 483,595 513,600 530,594 553,594 554,600 570,600 570,594 587,594 587,600 617,600 617,594 659,594 659,600 696,600 696,594 716,594 716,616 530,616 513,622 496,622 496,616 254,615" />
+				<Baseline points="254,616 716,616" />
+				<TextEquiv index="1">
+					<Unicode>Daß er sein Lebtag hinkend ward.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l12" custom="readingOrder {index:12;}">
+				<Coords points="254,625 316,624 326,624 326,631 341,631 342,625 357,625 358,631 399,631 399,625 406,625 407,631 419,631 419,625 435,625 435,631 449,631 449,625 503,625 503,631 528,631 544,625 563,625 563,631 700,631 700,646 632,647 607,647 517,647 399,647 385,647 254,646" />
+				<Baseline points="254,646 700,647" />
+				<TextEquiv index="1">
+					<Unicode>Auf fuhr alsbald der Bauersmann</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l13" points="255,655 275,655 276,662 291,662 292,656 323,655 330,655 346,656 347,662 377,662 378,656 393,656 402,655 407,655 440,656 440,662 466,662 482,655 504,655 504,662 518,662 518,656 540,656 556,663 570,662 690,662 707,656 722,656 722,662 774,662 774,680 753,680 737,678 714,680 707,680 425,678 402,662 402,678 362,678 330,678 275,678 255,678" baseline="255,678 774,678" reason: second model: differs: "ubt'das" against "ubt’ da" | Wikisource: Und klaubt’ das Geld zusammen dann, | next_nc_e1: Und klaubt’ das Geld zusammen dann, | german_print2_15: Und klaubt' das Geld zusammen dann, -->
+			<TextLine id="r1l14" custom="readingOrder {index:14;}">
+				<Coords points="254,686 274,686 274,693 286,693 302,686 310,686 311,693 326,693 342,687 357,687 357,693 387,693 404,686 431,686 454,687 454,693 480,693 480,687 496,687 496,693 521,688 607,688 607,709 254,709" />
+				<Baseline points="254,709 607,709" />
+				<TextEquiv index="1">
+					<Unicode>Es in den Haberkasten tät</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l15" custom="readingOrder {index:15;}">
+				<Coords points="255,718 275,718 276,724 292,724 292,718 323,717 332,717 332,724 361,724 361,717 369,717 370,724 385,719 404,719 423,736 434,736 436,718 457,718 459,724 489,724 506,718 512,718 512,724 542,724 542,718 637,717 640,717 647,718 647,724 658,719 699,717 719,717 761,717 761,724 773,724 773,718 812,720 812,728 800,728 798,739 792,740 640,740 434,743 423,743 332,740 255,740" />
+				<Baseline points="255,740 812,740" />
+				<TextEquiv index="1">
+					<Unicode>Und meint: „Nun werd ich fröhlich fett.“</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l16" custom="readingOrder {index:16;}">
+				<Coords points="254,748 274,748 274,755 285,755 301,749 308,749 308,755 335,755 336,749 366,749 400,767 414,767 415,748 445,748 470,755 470,749 500,749 500,755 514,755 514,749 553,749 553,755 566,755 567,749 581,749 598,755 648,755 648,749 663,749 663,755 692,755 709,749 715,749 716,755 731,755 731,749 746,749 747,755 770,755 771,767 776,767 776,774 663,771 472,771 472,777 445,777 428,777 428,771 414,774 400,774 335,771 254,770" />
+				<Baseline points="254,771 776,770" />
+				<TextEquiv index="1">
+					<Unicode>Er lacht. „Obgleich ich worden lahm,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l17" custom="readingOrder {index:17;}">
+				<Coords points="254,780 262,780 262,786 276,786 276,780 322,780 323,786 352,786 352,780 367,780 383,786 473,786 473,779 489,779 489,786 525,786 543,779 569,779 583,780 583,786 597,786 597,780 623,781 662,786 679,780 695,780 695,786 742,781 742,801 446,802 446,808 428,808 412,802 254,801" />
+				<Baseline points="254,802 742,802" />
+				<TextEquiv index="1">
+					<Unicode>Ich doch zu großem Reichtum kam!</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l18" points="254,811 274,810 281,810 283,817 297,817 314,810 334,810 335,817 350,817 350,811 358,810 368,810 405,811 405,817 419,812 428,812 483,817 483,811 491,811 491,817 520,817 537,810 567,810 567,817 605,817 605,811 621,811 621,817 637,817 638,811 666,811 666,836 645,836 593,833 593,839 567,839 550,839 550,833 405,833 390,832 368,817 368,833 314,833 254,832" baseline="254,832 666,833" reason: differs: "End'’ha" against "End’ ha" | Wikisource:  | next_nc_e1: Ein End'’ hat meine Ungeduld,
+ | german_print2_15: Ein End' hat meine Ungeduld,
+ -->
+			<TextLine id="r1l19" custom="readingOrder {index:19;}">
+				<Coords points="254,841 275,841 276,848 307,848 324,842 340,842 340,848 385,848 402,842 438,842 455,849 468,848 482,843 498,842 506,842 506,848 564,848 564,841 598,841 599,848 628,848 643,841 662,841 685,841 691,842 692,848 708,848 709,842 731,842 732,860 737,860 737,867 685,867 668,867 254,864" />
+				<Baseline points="254,864 737,864" />
+				<TextEquiv index="1">
+					<Unicode>Nun kann ich zahlen meine Schuld,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l20" custom="readingOrder {index:20;}">
+				<Coords points="255,872 274,872 274,879 288,879 288,872 295,872 296,879 319,879 336,873 392,873 393,879 422,879 438,873 467,873 467,879 481,879 481,873 488,873 489,879 518,879 534,872 538,872 564,872 564,880 666,879 667,873 681,873 683,891 687,891 687,898 683,898 666,895 255,894" />
+				<Baseline points="255,894 687,895" />
+				<TextEquiv index="1">
+					<Unicode>Beim kühlen Weine sitzen auch,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l21" custom="readingOrder {index:21;}">
+				<Coords points="254,904 335,904 335,910 361,910 377,904 413,904 430,910 455,910 456,904 463,904 464,910 477,905 492,905 522,910 539,904 559,904 559,910 629,910 646,904 666,904 666,910 684,910 684,904 700,904 700,910 720,910 721,904 742,904 742,929 700,929 657,929 646,929 254,925" />
+				<Baseline points="254,926 742,926" />
+				<TextEquiv index="1">
+					<Unicode>Wie das bei reichen Bauern Brauch,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l22" custom="readingOrder {index:22;}">
+				<Coords points="254,934 287,934 322,935 339,941 509,941 525,935 532,935 532,941 555,941 555,935 616,935 616,941 630,941 630,935 659,935 684,941 684,960 601,960 481,957 481,963 455,963 455,957 421,957 421,963 402,963 387,957 254,956" />
+				<Baseline points="254,957 684,957" />
+				<TextEquiv index="1">
+					<Unicode>Werd nun gezogen auch herfür,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l23" custom="readingOrder {index:23;}">
+				<Coords points="255,965 274,965 275,972 308,972 308,965 325,965 367,965 367,972 378,972 378,965 386,965 386,972 400,972 400,966 425,966 440,973 469,972 485,966 516,966 516,973 590,966 597,966 598,972 613,967 624,967 648,972 664,966 679,966 680,972 705,972 720,965 748,965 756,967 787,968 787,976 777,976 775,988 748,988 694,988 637,988 286,988 255,987" />
+				<Baseline points="255,988 787,988" />
+				<TextEquiv index="1">
+					<Unicode>Brauch nicht zu sitzen hinter der Tür.“</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l24" custom="readingOrder {index:24;}">
+				<Coords points="254,996 273,996 273,1003 304,998 336,998 406,1003 406,997 421,997 422,1003 447,1003 463,997 484,997 484,1003 536,1004 536,997 575,997 592,1003 603,1003 603,997 636,997 674,1003 674,1018 660,1019 254,1019" />
+				<Baseline points="254,1019 674,1019" />
+				<TextEquiv index="1">
+					<Unicode>So tät er aller Kurzweil walten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l25" custom="readingOrder {index:25;}">
+				<Coords points="255,1028 344,1028 345,1034 374,1034 390,1028 400,1028 400,1034 427,1034 427,1028 442,1028 443,1034 456,1034 473,1028 499,1028 528,1029 571,1034 572,1028 587,1028 659,1028 659,1034 686,1034 686,1049 659,1050 636,1050 596,1050 571,1050 427,1050 400,1050 344,1050 255,1050" />
+				<Baseline points="255,1050 686,1049" />
+				<TextEquiv index="1">
+					<Unicode>Und eine frohe Fastnacht halten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l26" custom="readingOrder {index:26;}">
+				<Coords points="255,1059 297,1059 313,1065 340,1065 340,1059 374,1059 374,1065 402,1065 418,1059 437,1059 437,1065 450,1065 451,1059 466,1059 466,1065 480,1060 490,1060 490,1066 502,1066 519,1058 527,1058 527,1065 550,1065 567,1059 618,1059 618,1065 644,1065 644,1059 660,1059 660,1065 686,1065 686,1059 695,1059 695,1065 730,1065 730,1080 709,1081 632,1081 255,1081" />
+				<Baseline points="255,1081 730,1081" />
+				<TextEquiv index="1">
+					<Unicode>Mit seinem Schatz im Haberkasten.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l27" custom="readingOrder {index:27;}">
+				<Coords points="255,1090 344,1090 344,1096 578,1096 595,1089 606,1089 629,1089 648,1090 648,1096 673,1091 683,1091 713,1096 713,1107 720,1107 751,1089 753,1089 753,1091 751,1091 720,1116 712,1116 696,1112 606,1116 595,1116 255,1112" />
+				<Baseline points="255,1112 753,1112" />
+				<TextEquiv index="1">
+					<Unicode>Und als es nun war am Mitfasten,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l28" points="255,1121 275,1121 275,1127 322,1127 322,1121 329,1121 331,1127 363,1127 432,1127 449,1120 468,1120 477,1121 477,1127 623,1127 640,1120 659,1120 659,1127 673,1127 673,1120 681,1120 681,1127 694,1127 695,1121 720,1120 733,1120 733,1145 720,1145 694,1143 647,1145 640,1145 568,1143 527,1143 490,1143 455,1143 378,1143 363,1149 346,1149 346,1143 331,1143 323,1149 304,1149 289,1143 255,1143" baseline="255,1143 622,1142 733,1142" reason: differs: "cht'," against "cht’, V" | Wikisource:  | next_nc_e1: Da ging zum Pfarrer er zu Beicht', | german_print2_15: Da ging zum Pfarrer er zu Beicht', -->
+			<!-- line left out: id="r1l29" points="255,1152 276,1152 276,1158 306,1158 323,1151 351,1151 358,1153 374,1158 374,1152 396,1152 413,1158 440,1158 440,1152 447,1152 448,1158 463,1158 479,1151 501,1151 502,1158 539,1158 585,1158 601,1152 612,1152 612,1158 652,1158 653,1152 668,1152 669,1158 698,1158 715,1151 718,1151 721,1152 722,1158 737,1158 737,1151 745,1151 745,1157 759,1152 789,1152 789,1173 698,1174 652,1174 516,1174 255,1174" baseline="255,1174 697,1173 789,1173" reason: differs: "VonS" against "cht’" | Wikisource:  | next_nc_e1: Von Sünd' sein Herz zu machen leicht. | german_print2_15: Von Sünd' sein Herz zu machen leicht. -->
+			<!-- line left out: id="r1l30" points="256,1183 275,1183 276,1189 290,1189 305,1190 321,1183 340,1183 362,1184 375,1189 375,1183 382,1183 382,1189 396,1189 397,1183 410,1183 427,1190 443,1189 483,1189 498,1182 507,1182 519,1183 519,1189 548,1189 548,1182 559,1182 578,1183 595,1189 620,1189 636,1183 643,1183 650,1189 662,1189 674,1190 674,1184 688,1183 726,1183 726,1189 722,1189 721,1204 620,1205 396,1205 256,1205" baseline="256,1205 577,1204 726,1204" reason: differs: "DenS" against "icht" | Wikisource:  | next_nc_e1: Den Streich vom Teufel er erzählt' | german_print2_15: Den Streich vom Teufel er erzählt' -->
+			<TextLine id="r1l31" custom="readingOrder {index:31;}">
+				<Coords points="256,1214 276,1214 277,1221 293,1221 293,1215 307,1215 324,1221 370,1220 387,1214 402,1214 403,1220 440,1220 456,1214 461,1214 470,1220 517,1220 517,1214 532,1214 532,1220 570,1220 571,1214 596,1215 625,1220 641,1213 663,1213 663,1220 677,1220 677,1214 706,1214 706,1238 685,1238 677,1236 650,1238 532,1236 504,1241 461,1241 456,1241 256,1236" />
+				<Baseline points="256,1236 706,1236" />
+				<TextEquiv index="1">
+					<Unicode>Und von dem zugebrachten Geld,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l32" custom="readingOrder {index:32;}">
+				<Coords points="255,1245 276,1245 276,1251 315,1251 332,1245 350,1245 350,1251 377,1251 378,1245 400,1245 433,1246 458,1251 474,1245 490,1245 490,1251 504,1251 504,1245 512,1245 513,1251 558,1251 575,1245 602,1245 625,1245 626,1251 655,1251 672,1245 687,1245 725,1245 725,1267 512,1267 400,1271 338,1271 332,1271 255,1267" />
+				<Baseline points="255,1267 725,1266" />
+				<TextEquiv index="1">
+					<Unicode>Vom Sack, der keinen Boden hätt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l33" custom="readingOrder {index:33;}">
+				<Coords points="256,1276 276,1276 276,1282 302,1282 319,1275 337,1275 346,1276 346,1282 408,1282 423,1276 438,1276 438,1282 547,1282 547,1276 578,1276 578,1282 601,1282 601,1276 625,1276 625,1282 654,1282 669,1276 701,1276 701,1297 694,1298 618,1298 592,1298 469,1298 397,1298 360,1298 256,1298" />
+				<Baseline points="256,1298 701,1297" />
+				<TextEquiv index="1">
+					<Unicode>Der Pfarrer dann nachdenken tät</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l34" custom="readingOrder {index:34;}">
+				<Coords points="255,1306 286,1306 339,1307 340,1313 395,1313 395,1307 452,1307 452,1313 463,1313 463,1307 471,1307 471,1313 500,1313 516,1307 542,1307 542,1313 558,1313 559,1307 576,1307 576,1313 588,1313 604,1306 630,1306 630,1312 643,1307 657,1307 657,1328 643,1329 612,1329 558,1329 533,1329 463,1329 395,1329 255,1329" />
+				<Baseline points="255,1329 657,1328" />
+				<TextEquiv index="1">
+					<Unicode>Und brauchte eine flinke List.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l35" points="254,1337 274,1337 274,1344 329,1339 344,1339 348,1345 353,1345 373,1356 384,1356 387,1338 406,1338 406,1344 428,1344 428,1338 444,1338 444,1344 468,1344 598,1344 614,1337 620,1337 652,1337 673,1337 673,1343 689,1343 705,1337 725,1337 725,1344 736,1344 736,1337 743,1337 743,1343 756,1338 771,1338 771,1362 715,1362 705,1362 673,1360 629,1360 521,1360 468,1363 444,1363 384,1363 373,1363 301,1360 290,1359 289,1366 274,1366 274,1360 254,1360" baseline="254,1360 552,1359 771,1359" reason: second model: differs: "serPFri" against "er Fris" | Wikisource: Sprach: „Bauer, wenn zu dieser Frist, | next_nc_e1: Sprach: „Bauer, wenn zu dieser Frist, | german_print2_15: Sprach: „Bauer, wenn zu dieser PFrist, -->
+			<TextLine id="r1l36" custom="readingOrder {index:36;}">
+				<Coords points="256,1369 276,1369 277,1376 292,1376 306,1369 311,1369 311,1376 329,1376 329,1369 352,1369 353,1375 364,1370 375,1370 375,1386 381,1386 397,1369 411,1368 465,1368 466,1375 479,1375 479,1369 526,1368 534,1368 534,1375 548,1375 548,1369 563,1369 586,1374 586,1368 602,1368 608,1369 608,1375 621,1374 637,1369 645,1369 645,1375 661,1375 661,1368 669,1368 669,1375 699,1374 699,1394 637,1391 608,1391 602,1394 548,1391 479,1391 381,1395 374,1395 329,1391 311,1395 306,1395 256,1391" />
+				<Baseline points="256,1391 699,1390" />
+				<TextEquiv index="1">
+					<Unicode>Du willst, daß ich dich absolvier,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l37" custom="readingOrder {index:37;}">
+				<Coords points="255,1399 274,1399 275,1406 318,1406 318,1399 337,1399 370,1399 401,1400 402,1406 417,1406 433,1400 443,1400 443,1406 470,1406 470,1400 485,1400 486,1406 497,1406 497,1400 513,1400 513,1406 527,1406 527,1400 542,1400 558,1406 589,1406 589,1400 604,1400 604,1406 633,1406 650,1399 663,1399 663,1406 674,1406 675,1399 693,1399 693,1421 576,1421 576,1427 558,1427 542,1421 255,1422" />
+				<Baseline points="255,1422 693,1421" />
+				<TextEquiv index="1">
+					<Unicode>So mußt du wahrlich geben mir</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l38" custom="readingOrder {index:38;}">
+				<Coords points="255,1430 274,1430 274,1437 313,1437 330,1431 428,1431 428,1437 457,1437 473,1431 558,1431 616,1437 632,1430 658,1430 658,1436 671,1436 671,1430 699,1430 699,1452 364,1453 341,1453 274,1453 255,1453" />
+				<Baseline points="255,1452 699,1452" />
+				<TextEquiv index="1">
+					<Unicode>Zum Lohn den bodenlosen Sack.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l39" custom="readingOrder {index:39;}">
+				<Coords points="257,1462 277,1462 277,1468 302,1468 319,1461 337,1461 337,1468 361,1468 361,1461 377,1461 377,1468 408,1467 424,1462 470,1462 484,1467 496,1468 512,1461 531,1461 531,1467 544,1462 575,1461 584,1461 584,1467 640,1461 656,1461 656,1467 668,1467 668,1461 683,1461 683,1483 257,1483" />
+				<Baseline points="257,1483 683,1483" />
+				<TextEquiv index="1">
+					<Unicode>Der Bauer ob der Red erschrak</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Der Bauer ob der Red erschrak
+Und fürchtete des Teufels Zorn.
+Und fuhr den Bauern grimmig an,
+Beim Haar ihn von der Scheuer warf.
+Der Teufel, arg erzürnt, entwich,
+Ließ üblen Stank noch hinter sich.
+Der Bauer fiel vom Dach so hart,
+Daß er sein Lebtag hinkend ward.
+Auf fuhr alsbald der Bauersmann
+Es in den Haberkasten tät
+Und meint: „Nun werd ich fröhlich fett.“
+Er lacht. „Obgleich ich worden lahm,
+Ich doch zu großem Reichtum kam!
+Nun kann ich zahlen meine Schuld,
+Beim kühlen Weine sitzen auch,
+Wie das bei reichen Bauern Brauch,
+Werd nun gezogen auch herfür,
+Brauch nicht zu sitzen hinter der Tür.“
+So tät er aller Kurzweil walten
+Und eine frohe Fastnacht halten
+Mit seinem Schatz im Haberkasten.
+Und als es nun war am Mitfasten,
+Und von dem zugebrachten Geld,
+Vom Sack, der keinen Boden hätt.
+Der Pfarrer dann nachdenken tät
+Und brauchte eine flinke List.
+Du willst, daß ich dich absolvier,
+So mußt du wahrlich geben mir
+Zum Lohn den bodenlosen Sack.
+Der Bauer ob der Red erschrak</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Eh’ ich dir füllte deinen Sack.“
+Der Bauer ob der Red erschrak
+Und fürchtete des Teufels Zorn.
+Derselbe fing an zu rumor’n
+Und fuhr den Bauern grimmig an,
+Zerkratzt’ ihm das Gesicht sodann
+Mit seinen spitzen Klauen scharf,
+Beim Haar ihn von der Scheuer warf.
+Der Teufel, arg erzürnt, entwich,
+Ließ üblen Stank noch hinter sich.
+Der Bauer fiel vom Dach so hart,
+Daß er sein Lebtag hinkend ward.
+Auf fuhr alsbald der Bauersmann
+Und klaubt’ das Geld zusammen dann,
+Es in den Haberkasten tät
+Und meint: „Nun werd ich fröhlich fett.“
+Er lacht. „Obgleich ich worden lahm,
+Ich doch zu großem Reichtum kam!
+Ein End’ hat meine Ungeduld,
+Nun kann ich zahlen meine Schuld,
+Beim kühlen Weine sitzen auch,
+Wie das bei reichen Bauern Brauch,
+Werd nun gezogen auch herfür,
+Brauch nicht zu sitzen hinter der Tür.“
+So tät er aller Kurzweil walten
+Und eine frohe Fastnacht halten
+Mit seinem Schatz im Haberkasten.
+Und als es nun war am Mitfasten,
+Da ging zum Pfarrer er zu Beicht’,
+Von Sünd’ sein Herz zu machen leicht.
+Den Streich vom Teufel er erzählt’
+Und von dem zugebrachten Geld,
+Vom Sack, der keinen Boden hätt.
+Der Pfarrer dann nachdenken tät
+Und brauchte eine flinke List.
+Sprach: „Bauer, wenn zu dieser Frist,
+Du willst, daß ich dich absolvier,
+So mußt du wahrlich geben mir
+Zum Lohn den bodenlosen Sack.
+Der Bauer ob der Red erschrak
+-->
+	</Page>
+</PcGts>

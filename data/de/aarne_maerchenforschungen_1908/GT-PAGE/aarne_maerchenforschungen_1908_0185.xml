@@ -1,0 +1,388 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:56:05</Created>
+		<LastChange>2026-11-23T18:56:05</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Aarne_Vergleichende_Märchenforschungen.djvu/185 revision 3210970 of 2018-07-31T07:18:39Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="aarne_maerchenforschungen_1908_0185.png" imageWidth="1200" imageHeight="1656">
+		<ReadingOrder>
+			<OrderedGroup id="ro13451855980736939368" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="568,20 628,20 628,30 568,30" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="500,147 613,147 613,177 500,177" />
+			<!-- line left out: id="r1l0" points="500,161 516,161 538,152 549,151 589,147 613,147 613,177 589,177 589,167 538,167 500,163" baseline="500,167 613,167" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 165 —
+ | german_print2_15: — 165 —
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="188,203 921,203 921,635 188,635" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="188,206 200,206 211,208 229,206 242,211 242,218 266,210 293,210 312,204 325,204 325,210 336,210 337,204 349,204 349,210 371,210 389,204 415,206 444,204 447,210 471,204 527,204 534,210 569,211 585,204 593,204 594,210 609,210 609,204 617,204 617,210 747,205 780,205 789,209 798,210 813,204 824,204 853,209 866,203 872,203 872,209 895,209 895,203 916,203 916,219 907,224 888,224 836,220 707,225 594,220 593,226 585,226 569,220 428,225 389,225 266,220 242,226 229,226 211,222 188,222" />
+				<Baseline points="188,221 916,219" />
+				<TextEquiv index="1">
+					<Unicode>könig, am linken flügel: das herz: jeden morgen unter dem kopfe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="188,235 201,235 201,241 213,241 213,234 245,235 296,233 314,233 314,239 336,239 336,233 382,233 382,239 401,239 419,233 427,233 427,239 476,234 489,234 499,239 510,240 528,234 579,234 599,240 608,240 608,233 626,233 681,235 773,234 831,239 850,233 862,233 901,234 916,238 916,251 726,250 608,252 574,250 564,255 535,255 528,255 510,249 188,250" />
+				<Baseline points="188,249 916,248" />
+				<TextEquiv index="1">
+					<Unicode>dukaten. Kauft der frau den vogel ab, bittet sie ihn zu braten,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="189,263 307,265 317,263 342,263 358,268 395,264 395,274 425,263 442,263 443,269 475,268 484,263 492,263 492,269 541,268 551,263 564,263 564,269 574,269 594,263 656,263 669,266 680,264 781,262 794,262 794,268 815,268 828,262 840,262 840,268 863,268 863,262 870,262 881,268 905,267 905,261 916,261 916,277 863,277 863,283 850,283 761,279 189,279" />
+				<Baseline points="189,278 916,277" />
+				<TextEquiv index="1">
+					<Unicode>bis er zurückkommt. Der eine sohn des försters isst den kopf und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="189,292 201,292 201,298 223,298 242,292 271,292 281,297 282,305 308,292 321,292 321,298 384,298 384,292 396,292 396,298 425,298 444,292 457,292 457,298 547,298 547,292 555,292 573,298 591,298 591,292 606,292 624,298 628,292 647,292 647,298 664,298 682,292 694,292 695,298 746,298 747,305 773,298 778,292 791,292 842,297 842,291 855,291 855,297 871,296 890,292 910,292 917,297 917,307 751,311 548,313 536,313 468,309 282,310 189,308" />
+				<Baseline points="189,308 917,307" />
+				<TextEquiv index="1">
+					<Unicode>den hals, der andere den rumpf mit dem herzen, die schwester</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="189,328 194,321 209,321 209,327 218,327 230,321 239,321 250,324 281,327 281,321 333,321 333,327 346,327 362,321 370,321 376,327 390,327 390,321 430,321 430,327 448,321 461,321 477,327 482,322 497,322 506,327 517,321 533,321 533,328 618,327 618,321 632,321 632,327 647,322 653,322 653,328 701,327 701,321 745,321 791,327 804,321 810,321 810,327 840,327 840,320 852,320 852,326 917,326 917,332 909,336 729,337 703,343 701,343 693,338 678,343 664,343 664,337 572,338 562,342 517,342 442,338 370,343 362,343 283,338 189,338" />
+				<Baseline points="189,338 917,336" />
+				<TextEquiv index="1">
+					<Unicode>die füsse. Der jude will die jungen umbringen. Einem hunde wer-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="189,351 201,351 202,357 328,357 328,351 340,351 353,357 398,356 420,351 426,351 444,356 491,351 532,351 532,357 543,357 543,351 555,351 573,352 583,356 594,357 595,364 618,351 672,350 672,357 742,351 760,351 773,357 777,350 801,350 809,356 837,356 837,350 862,351 898,355 898,349 905,349 916,350 916,365 819,367 719,367 709,372 672,372 663,372 583,367 503,372 399,372 379,372 281,368 271,372 257,372 212,368 189,368" />
+				<Baseline points="189,367 916,365" />
+				<TextEquiv index="1">
+					<Unicode>den augen und zunge herausgeschnitten. Die jungen in die weite welt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="188,381 210,381 210,387 226,387 239,381 255,381 255,387 267,386 289,381 296,381 296,387 320,386 330,381 403,386 403,380 435,380 436,386 455,386 455,380 468,380 468,386 510,386 510,393 528,380 547,380 547,386 607,386 620,380 646,380 670,382 680,380 692,380 693,386 704,381 713,381 723,385 733,386 742,380 760,379 772,379 773,385 802,385 802,379 810,379 811,385 821,385 821,379 833,379 833,385 843,385 843,392 860,379 874,379 896,379 907,384 916,385 916,394 811,395 810,401 802,401 783,396 514,399 500,401 483,401 331,397 188,397" />
+				<Baseline points="188,397 916,395" />
+				<TextEquiv index="1">
+					<Unicode>Der eine in eine nachtherberge, bis zum achtzehnten lebensjahr. Jeden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="189,416 279,416 279,410 311,410 330,411 351,415 352,423 381,409 411,409 411,415 464,415 464,409 483,409 483,415 502,415 515,409 527,409 527,415 548,415 548,409 561,409 561,415 580,415 593,409 606,409 616,412 634,410 646,415 646,409 653,409 654,423 683,409 699,409 699,415 718,410 850,409 874,421 883,421 884,408 909,408 909,414 918,414 918,424 883,428 821,425 799,430 786,430 755,425 654,425 653,431 646,431 411,425 411,431 389,431 381,431 356,425 274,426 240,431 227,431 189,426" />
+				<Baseline points="189,426 918,424" />
+				<TextEquiv index="1">
+					<Unicode>morgen dukaten. (Der andere bruder könig). Fortsetzung siehe „Die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l8" points="190,439 202,439 202,445 222,440 228,440 279,444 279,438 292,438 292,444 378,440 387,440 397,441 408,444 408,438 420,438 522,438 523,451 546,448 570,448 590,437 608,437 659,438 659,444 670,444 670,438 689,438 689,444 704,444 717,438 728,438 728,452 745,444 771,444 785,438 797,437 809,437 809,451 827,443 837,443 837,451 856,437 895,433 921,433 921,464 895,464 880,459 878,453 837,454 813,456 809,456 796,454 731,457 704,457 689,457 649,454 649,460 633,460 590,456 570,450 527,454 461,454 441,447 433,447 432,454 347,459 324,459 311,459 223,455 190,455" baseline="190,454 812,453 921,453" reason: differs: "d2.—3.(" against "2. – 3." | Wikisource:  | next_nc_e1: drei zaubergegenstände“ Hd 2. — 3. (Kulda, I, nr. 29, s. 119 ¹). | german_print2_15: drei zaubergegenstände“ Hd 2. — 3. (Kulda, I, nr. 29, s. 119 ¹). -->
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="189,468 202,468 202,474 259,473 270,467 279,467 279,473 347,468 454,473 454,467 460,467 462,481 491,467 509,467 509,473 538,473 538,467 567,467 568,473 578,473 593,467 612,467 612,473 624,469 654,468 707,473 707,467 726,467 727,473 791,473 791,467 853,467 913,468 913,476 918,476 918,478 913,482 738,484 698,488 624,483 624,489 598,489 593,489 578,483 444,488 374,483 299,488 238,483 238,489 224,489 202,485 189,485" />
+				<Baseline points="189,485 258,483 918,482" />
+				<TextEquiv index="1">
+					<Unicode>Jungen fangen einen vogel. Derselbe legt ein goldenes ei. Die mut-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="189,499 260,503 260,497 267,497 267,503 294,503 295,496 303,496 408,497 419,502 435,503 448,496 460,496 460,502 472,502 482,497 495,497 518,502 541,503 541,509 567,497 585,497 586,503 605,503 619,497 632,497 632,503 653,503 653,497 662,497 662,503 710,503 724,497 736,497 747,502 765,498 802,496 809,496 809,502 820,502 820,496 856,496 889,496 906,496 919,497 919,512 198,514 189,514" />
+				<Baseline points="189,513 919,512" />
+				<TextEquiv index="1">
+					<Unicode>ter verkauft das ei dem kaufmann. Der kaufmann kommt und besieht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="189,532 198,527 251,527 262,532 330,532 330,526 342,526 356,532 371,532 371,526 385,526 397,532 402,526 420,526 420,532 431,532 443,526 458,526 491,532 491,526 498,526 498,532 550,526 624,532 624,526 675,526 675,532 757,532 769,526 782,526 804,531 816,525 823,525 823,531 851,531 851,525 887,525 917,526 917,543 883,543 852,546 838,546 828,542 823,546 782,542 605,543 595,548 581,548 570,542 482,547 443,547 420,543 356,542 321,548 308,548 294,543 189,543" />
+				<Baseline points="189,543 917,541" />
+				<TextEquiv index="1">
+					<Unicode>sich den vogel, auf den flügeln steht geschrieben: wer den vogel isst,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="189,563 201,563 201,557 253,556 283,557 314,562 314,556 366,556 366,562 378,562 397,556 414,556 414,562 435,561 452,555 460,555 461,562 484,561 525,556 593,556 594,562 618,561 627,557 647,558 657,555 669,555 681,561 715,561 728,555 739,555 740,561 768,561 781,555 793,555 793,561 806,556 821,556 842,560 884,555 901,555 916,560 916,570 593,572 497,577 460,577 452,577 316,573 189,573" />
+				<Baseline points="189,573 916,570" />
+				<TextEquiv index="1">
+					<Unicode>wird kaiser. Der eine junge isst ein stück von dem braten: unter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="190,586 202,586 203,592 229,592 246,586 253,586 253,592 281,591 281,585 289,585 307,591 317,586 384,591 384,585 395,585 414,591 436,591 436,585 524,586 547,591 547,585 593,585 604,590 648,585 661,585 672,590 685,584 698,584 698,590 717,590 730,584 742,584 742,590 765,590 765,584 831,589 844,583 856,583 883,583 900,583 919,584 919,599 425,602 282,601 282,607 264,607 264,601 190,602" />
+				<Baseline points="190,602 919,599" />
+				<TextEquiv index="1">
+					<Unicode>dem kopf ein sack voll dukaten. Der sohn des kaufmanns heiratet</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="190,620 195,614 269,614 269,620 296,619 304,616 314,616 332,620 351,614 364,614 374,619 383,620 400,613 408,613 409,620 469,620 469,613 515,614 534,619 552,613 559,613 559,619 580,619 580,613 595,613 595,619 674,616 707,619 708,613 768,613 809,619 814,612 833,612 833,618 842,618 853,612 866,612 866,618 898,618 898,612 913,612 913,621 918,621 918,623 913,628 768,629 742,631 497,629 471,635 469,635 469,629 446,629 446,635 432,635 432,629 408,634 305,630 190,629" />
+				<Baseline points="190,629 918,627" />
+				<TextEquiv index="1">
+					<Unicode>die schwester der jungen. Der kaufmann wünscht, dass der bräuti-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>könig, am linken flügel: das herz: jeden morgen unter dem kopfe
+dukaten. Kauft der frau den vogel ab, bittet sie ihn zu braten,
+bis er zurückkommt. Der eine sohn des försters isst den kopf und
+den hals, der andere den rumpf mit dem herzen, die schwester
+die füsse. Der jude will die jungen umbringen. Einem hunde wer-
+den augen und zunge herausgeschnitten. Die jungen in die weite welt.
+Der eine in eine nachtherberge, bis zum achtzehnten lebensjahr. Jeden
+morgen dukaten. (Der andere bruder könig). Fortsetzung siehe „Die
+Jungen fangen einen vogel. Derselbe legt ein goldenes ei. Die mut-
+ter verkauft das ei dem kaufmann. Der kaufmann kommt und besieht
+sich den vogel, auf den flügeln steht geschrieben: wer den vogel isst,
+wird kaiser. Der eine junge isst ein stück von dem braten: unter
+dem kopf ein sack voll dukaten. Der sohn des kaufmanns heiratet
+die schwester der jungen. Der kaufmann wünscht, dass der bräuti-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="885,584 900,584 900,603 885,603" />
+		</GraphicRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="190,641 922,641 922,1278 190,1278" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="190,647 261,648 261,642 323,642 323,648 332,648 352,642 357,642 358,648 395,644 427,648 427,642 444,642 444,648 480,647 491,642 552,642 552,648 567,648 567,642 574,642 590,649 595,642 603,642 603,648 622,648 634,642 647,642 647,648 657,648 658,642 674,642 674,648 699,648 699,642 783,647 808,641 861,641 862,647 918,647 918,656 909,657 898,662 885,662 885,656 873,657 861,662 853,662 842,656 783,658 510,657 510,663 491,663 483,658 214,658 203,663 190,663" />
+				<Baseline points="190,657 918,656" />
+				<TextEquiv index="1">
+					<Unicode>gam und die braut den vogel auf der hochzeit essen. Die jungen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="191,677 240,677 253,671 314,670 331,670 380,670 380,676 392,675 414,670 424,670 477,670 477,676 494,671 532,676 532,670 576,670 647,673 655,671 680,671 713,676 724,672 773,676 777,670 795,670 828,670 875,670 889,675 895,670 902,670 918,675 918,686 747,687 668,692 619,692 606,692 569,687 191,688" />
+				<Baseline points="191,688 253,686 918,685" />
+				<TextEquiv index="1">
+					<Unicode>essen ihn. Der eine wird kaiser. Ein gastwirt entwendet dem ande-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="190,708 221,707 234,701 246,700 265,700 265,706 281,702 332,703 341,699 354,699 354,705 366,705 366,699 436,699 438,705 529,701 549,702 559,700 572,700 584,705 584,699 586,699 628,700 628,706 671,706 671,700 678,700 678,706 716,706 730,700 768,705 768,699 786,699 786,705 796,705 796,712 819,699 865,699 875,704 883,698 890,698 913,699 913,708 918,708 918,710 913,715 716,716 586,720 584,720 549,716 529,716 498,720 476,720 415,720 401,720 341,716 190,718" />
+				<Baseline points="190,718 367,715 918,714" />
+				<TextEquiv index="1">
+					<Unicode>ren dukatensäcke. Zaubergegenstände. Zu seinem bruder. Beide kai-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l3" points="191,737 225,737 260,741 274,729 288,729 288,744 318,728 321,728 343,728 365,730 398,734 398,728 411,728 425,729 448,733 449,741 466,728 490,728 512,728 513,742 542,729 565,729 598,729 616,732 627,735 627,729 663,729 682,729 701,729 733,730 755,729 763,729 851,728 887,728 911,728 918,729 918,747 901,747 880,744 863,747 842,749 828,749 814,744 725,745 682,745 646,750 627,750 627,744 513,744 512,750 501,750 497,738 490,744 425,746 414,746 399,745 353,746 343,746 343,752 318,752 274,748 260,742 225,747 191,747" baseline="191,747 259,746 424,744 918,744" reason: differs: "er.—4.(" against "r. – 4." | Wikisource:  | next_nc_e1: ser. — 4. (Stránecká, s. 49 ²2). Der könig schiesst einen vogel, liest, | german_print2_15: ser. — 4. (Straneckâ, s. 49 ²). Der könig schiesst einen vogel, liest, -->
+			<TextLine id="r4l4" custom="readingOrder {index:4;}">
+				<Coords points="190,767 245,761 288,761 296,766 314,759 338,759 354,764 367,757 370,757 415,763 415,757 421,757 433,763 457,762 476,757 488,757 503,757 504,763 514,763 514,757 527,757 527,763 589,758 658,763 684,758 702,758 713,763 726,757 734,757 734,763 750,763 750,757 787,757 787,763 806,758 815,758 815,770 832,763 844,763 844,757 856,757 903,757 913,759 913,767 919,767 919,769 913,773 769,778 750,778 702,774 571,774 433,778 406,773 406,779 370,779 367,779 288,776 190,777" />
+				<Baseline points="190,777 420,773 919,773" />
+				<TextEquiv index="1">
+					<Unicode>was unter dem flügel geschrieben steht: wer den kopf isst, wird kö-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l5" custom="readingOrder {index:5;}">
+				<Coords points="190,796 202,791 209,791 222,796 222,803 239,789 251,789 252,795 283,789 290,789 306,794 325,794 359,793 379,788 403,787 469,792 469,786 490,786 519,786 613,788 624,792 635,793 636,800 658,787 683,787 696,792 708,786 721,786 748,787 771,792 771,786 795,786 795,792 842,787 888,786 901,786 901,792 919,792 919,802 842,802 830,808 807,808 807,802 795,802 795,808 613,803 239,805 222,811 208,811 190,806" />
+				<Baseline points="190,806 434,802 919,802" />
+				<TextEquiv index="1">
+					<Unicode>nig, das herz: nach der nacht fünf dukaten. Der küchenjunge isst das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l6" custom="readingOrder {index:6;}">
+				<Coords points="190,819 203,819 232,824 233,831 262,817 287,817 287,823 300,823 318,817 515,816 527,821 567,816 579,816 580,822 609,822 610,829 639,816 764,816 765,822 782,822 782,816 795,816 810,821 823,815 826,815 842,818 852,815 867,815 919,817 919,832 795,838 782,838 782,832 765,832 764,838 746,838 746,832 696,832 696,838 688,838 677,832 190,834" />
+				<Baseline points="190,834 362,832 919,832" />
+				<TextEquiv index="1">
+					<Unicode>herz. Der koch brät ein anderes herz. Der küchenjunge läuft fort.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l7" custom="readingOrder {index:7;}">
+				<Coords points="191,847 213,847 235,852 253,846 261,846 261,852 321,852 321,846 491,846 509,847 519,851 530,852 530,845 542,845 543,852 565,851 565,845 570,845 570,851 626,852 640,846 692,845 700,845 701,851 712,846 724,846 744,851 772,846 865,845 877,845 890,851 919,851 919,862 858,862 848,867 700,867 692,867 600,866 566,862 191,863" />
+				<Baseline points="191,862 919,862" />
+				<TextEquiv index="1">
+					<Unicode>Eine frau nimmt ihn als hirtenknabe an, liest jedesmal das geld aus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l8" custom="readingOrder {index:8;}">
+				<Coords points="191,877 204,877 204,883 232,883 249,876 276,878 287,882 287,876 297,876 317,882 339,882 340,876 347,876 347,890 376,876 392,876 392,882 412,878 448,878 520,882 520,876 548,876 549,882 559,882 575,890 584,890 584,876 620,876 633,883 638,876 671,876 683,882 715,882 715,876 728,876 728,882 793,881 813,877 833,878 844,882 844,875 857,875 857,881 869,877 891,875 920,875 920,891 891,891 877,884 869,884 867,892 833,892 783,897 747,897 651,892 596,897 575,897 537,893 520,893 492,898 480,898 448,893 402,893 383,898 376,898 339,893 191,893" />
+				<Baseline points="191,893 920,891" />
+				<TextEquiv index="1">
+					<Unicode>dem stroh auf. Fortsetzung siehe „Die drei zaubergegenstände“ Hd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l9" points="192,907 203,907 204,921 223,918 245,918 258,907 270,907 271,922 300,907 308,902 333,902 420,907 420,921 443,907 487,907 488,920 505,912 515,912 515,920 534,906 575,906 575,897 606,897 620,906 636,906 642,907 785,912 799,905 804,905 806,912 821,912 821,906 838,906 859,907 876,911 876,905 900,905 910,910 920,911 920,921 851,921 851,927 838,927 838,921 821,922 804,922 642,923 636,923 620,922 606,933 575,933 558,929 558,923 492,925 488,925 456,924 424,928 393,928 354,928 333,925 308,929 300,929 258,925 208,924 192,924" baseline="192,924 385,923 620,922 858,921 920,921" reason: differs: "3.—5.(" against "3. – 5." | Wikisource:  | next_nc_e1: 3. — 5. (eský Lid, VIII, s. 147 1). Ein armer mann bringt einen | german_print2_15: 3. — 5. (Gesky Lid, VIII, s. 147 ¹). Ein armer mann bringt einen -->
+			<TextLine id="r4l10" custom="readingOrder {index:10;}">
+				<Coords points="191,943 214,943 214,937 234,937 234,943 341,937 407,937 412,942 413,950 445,937 513,937 587,942 587,936 600,936 600,942 620,942 640,936 653,936 653,942 680,942 698,935 818,935 833,941 846,940 861,935 873,935 900,940 902,934 909,934 920,936 920,951 751,952 712,956 366,952 332,958 204,958 191,958" />
+				<Baseline points="191,953 920,950" />
+				<TextEquiv index="1">
+					<Unicode>goldenen vogel heim. Die eier werden dem goldschmied verkauft.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l11" custom="readingOrder {index:11;}">
+				<Coords points="191,966 230,967 272,972 272,966 350,966 350,972 363,971 372,966 379,966 403,971 403,965 416,965 416,971 439,966 490,965 491,971 520,972 534,965 540,965 541,971 583,972 596,965 610,965 631,971 631,965 637,965 637,971 651,971 651,978 669,971 731,970 776,966 785,966 804,970 816,964 828,964 840,969 857,970 869,963 875,963 875,969 897,969 897,963 912,963 912,969 920,969 920,979 900,984 828,980 720,981 710,986 637,986 501,982 429,982 416,987 397,987 379,981 373,982 363,987 327,987 324,987 307,981 191,982" />
+				<Baseline points="191,982 920,979" />
+				<TextEquiv index="1">
+					<Unicode>Unter dem flügel geschrieben: herz: könig, magen: unter dem kopfe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l12" custom="readingOrder {index:12;}">
+				<Coords points="192,994 205,994 205,1000 217,1000 217,994 229,994 270,999 272,994 311,994 376,1000 376,994 389,994 389,1000 424,1000 424,994 438,994 438,1000 451,1000 469,994 567,994 578,999 583,994 659,995 831,993 862,994 882,998 882,992 895,992 921,998 921,1008 779,1009 702,1012 621,1010 554,1014 540,1014 532,1010 482,1014 469,1014 377,1010 192,1010" />
+				<Baseline points="192,1010 921,1008" />
+				<TextEquiv index="1">
+					<Unicode>dukaten. Der sohn des goldschmieds liest es, heiratet die tochter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l13" custom="readingOrder {index:13;}">
+				<Coords points="192,1024 386,1028 386,1036 403,1028 472,1028 472,1022 480,1022 480,1028 499,1028 511,1022 519,1022 534,1027 546,1028 546,1022 563,1022 575,1028 606,1028 618,1022 624,1022 624,1028 636,1028 636,1022 833,1022 847,1027 847,1021 902,1021 903,1027 921,1027 921,1036 810,1037 794,1043 788,1043 788,1037 723,1037 723,1043 709,1043 698,1037 547,1037 547,1043 533,1043 523,1038 519,1043 511,1043 475,1038 443,1038 391,1041 254,1039 192,1040" />
+				<Baseline points="192,1039 921,1036" />
+				<TextEquiv index="1">
+					<Unicode>des armen mannes, wenn der vogel zur hochzeit gebraten wird. Der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l14" custom="readingOrder {index:14;}">
+				<Coords points="192,1059 202,1054 265,1058 265,1052 277,1052 277,1058 289,1058 307,1052 365,1051 365,1057 376,1056 397,1051 405,1051 427,1056 439,1057 439,1064 458,1051 471,1051 524,1057 524,1051 537,1051 566,1056 579,1050 592,1050 592,1056 687,1056 689,1064 717,1050 727,1050 762,1050 769,1056 793,1056 793,1050 836,1050 837,1056 847,1056 847,1050 852,1050 882,1050 883,1056 921,1056 921,1066 676,1067 667,1071 653,1071 481,1067 444,1069 427,1067 192,1070" />
+				<Baseline points="192,1069 353,1066 921,1066" />
+				<TextEquiv index="1">
+					<Unicode>eine sohn isst das herz, der andere den magen. Fliehen. Bei einem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l15" custom="readingOrder {index:15;}">
+				<Coords points="192,1084 205,1084 227,1089 227,1083 340,1086 344,1081 363,1081 363,1087 374,1087 393,1080 412,1080 412,1086 422,1086 440,1080 496,1081 506,1085 517,1086 535,1080 829,1080 840,1085 840,1079 854,1079 854,1085 863,1085 877,1092 886,1092 888,1079 911,1079 921,1084 921,1095 886,1099 877,1099 854,1095 802,1100 790,1100 750,1096 698,1095 363,1097 205,1100 192,1100" />
+				<Baseline points="192,1099 421,1095 921,1095" />
+				<TextEquiv index="1">
+					<Unicode>kaufmann werden die dukaten verheimlicht. Fortsetzung siehe „Die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l16" points="193,1112 205,1112 205,1118 225,1113 231,1113 281,1117 281,1111 287,1111 355,1115 379,1111 388,1111 399,1112 410,1115 410,1109 423,1109 423,1115 434,1111 456,1109 512,1109 512,1122 532,1119 555,1119 567,1108 581,1108 581,1123 611,1108 618,1108 636,1109 649,1110 715,1114 715,1122 734,1108 743,1108 766,1108 767,1122 795,1108 806,1108 806,1114 834,1114 834,1108 848,1108 889,1109 900,1114 900,1108 912,1108 921,1113 921,1124 767,1124 766,1130 758,1130 758,1119 743,1124 680,1127 665,1127 618,1125 618,1131 611,1131 581,1127 567,1126 515,1125 456,1125 442,1118 434,1118 433,1125 423,1126 354,1126 349,1132 327,1132 313,1132 282,1127 231,1128 205,1129 193,1129" baseline="193,1129 249,1127 441,1125 734,1124 921,1124" reason: differs: "d4.—6.(" against "4. – 6." | Wikisource:  | next_nc_e1: drei zaubergegenstände“ Hd 4. — 6. (Sláma, nr. 1 ²). In die stube | german_print2_15: drei zaubergegenstände“ Hd 4. — 6. (Slâma, nr. 1 ²). In die stube -->
+			<TextLine id="r4l17" custom="readingOrder {index:17;}">
+				<Coords points="193,1147 203,1142 209,1142 209,1148 253,1142 294,1146 294,1140 318,1140 318,1146 364,1145 376,1139 397,1139 407,1144 419,1140 449,1139 502,1144 502,1138 522,1138 522,1144 591,1144 591,1138 604,1138 604,1144 619,1144 619,1138 647,1138 648,1144 658,1144 658,1138 669,1138 671,1144 761,1143 797,1138 797,1144 831,1143 839,1137 852,1137 852,1143 864,1143 864,1137 870,1137 895,1137 913,1137 913,1143 920,1143 920,1153 761,1153 761,1159 723,1159 648,1154 647,1160 591,1160 582,1155 533,1155 493,1159 479,1159 450,1155 420,1160 376,1160 336,1156 295,1157 285,1162 271,1162 193,1158" />
+				<Baseline points="193,1158 479,1154 920,1153" />
+				<TextEquiv index="1">
+					<Unicode>eines tagelöhners fliegt ein goldener vogel, jeden morgen einen dukaten.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l18" custom="readingOrder {index:18;}">
+				<Coords points="192,1172 218,1171 218,1177 238,1177 238,1171 277,1170 312,1176 312,1170 319,1170 319,1176 329,1176 347,1169 442,1169 451,1174 467,1168 476,1168 476,1174 489,1174 489,1168 500,1168 512,1173 525,1174 525,1168 571,1168 582,1173 591,1174 608,1167 617,1167 617,1173 629,1173 629,1167 641,1167 642,1173 652,1173 670,1167 683,1167 683,1173 757,1167 773,1167 774,1173 803,1172 813,1167 820,1167 840,1173 861,1173 882,1166 895,1166 895,1172 922,1172 922,1183 641,1184 617,1189 527,1189 476,1189 467,1189 442,1185 192,1188" />
+				<Baseline points="192,1188 450,1184 922,1183" />
+				<TextEquiv index="1">
+					<Unicode>Wechselt sie bei einem juden. Der jude kommt einmal zu dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l19" custom="readingOrder {index:19;}">
+				<Coords points="193,1208 260,1206 277,1200 293,1201 348,1199 348,1205 364,1205 364,1199 371,1199 391,1204 391,1198 400,1198 400,1204 421,1204 433,1197 446,1197 481,1203 481,1197 489,1197 489,1203 554,1203 554,1197 605,1197 605,1203 684,1202 715,1197 790,1197 790,1210 806,1202 818,1202 818,1196 830,1196 877,1196 898,1202 898,1196 905,1196 905,1202 920,1202 920,1218 905,1218 905,1212 872,1212 872,1218 864,1218 851,1212 820,1213 793,1216 780,1213 759,1216 684,1213 555,1214 525,1219 511,1219 500,1213 472,1213 472,1219 433,1219 395,1215 303,1217 260,1221 245,1221 222,1218 193,1217" />
+				<Baseline points="193,1218 499,1213 920,1212" />
+				<TextEquiv index="1">
+					<Unicode>manne, sieht auf den flügeln geschrieben: wer mich isst, wird könig.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l20" custom="readingOrder {index:20;}">
+				<Coords points="193,1231 216,1231 231,1236 241,1230 249,1230 250,1236 262,1236 262,1230 275,1230 275,1236 308,1236 308,1230 377,1229 377,1235 412,1234 412,1228 542,1227 571,1233 642,1232 656,1234 656,1227 664,1227 685,1232 693,1226 701,1226 701,1232 738,1232 738,1226 767,1226 778,1228 811,1226 824,1226 824,1232 841,1232 850,1226 863,1226 895,1226 906,1231 917,1232 918,1239 921,1239 921,1242 804,1242 729,1247 715,1247 706,1243 701,1247 642,1243 441,1244 310,1246 249,1251 241,1251 193,1247" />
+				<Baseline points="193,1247 371,1244 921,1241" />
+				<TextEquiv index="1">
+					<Unicode>Der jude nimmt in abwesenheit des mannes den vogel, lässt ihn kochen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l21" custom="readingOrder {index:21;}">
+				<Coords points="193,1260 217,1260 231,1265 249,1259 267,1259 275,1261 307,1259 357,1259 363,1264 375,1265 393,1258 594,1256 595,1262 674,1262 674,1256 729,1256 749,1261 759,1255 767,1255 768,1261 780,1261 780,1255 793,1255 793,1261 825,1256 877,1257 894,1261 894,1255 912,1255 912,1261 922,1261 922,1271 793,1272 767,1277 711,1272 686,1278 684,1278 684,1272 665,1272 665,1278 651,1278 606,1273 193,1276" />
+				<Baseline points="193,1276 443,1273 922,1271" />
+				<TextEquiv index="1">
+					<Unicode>Der älteste sohn des mannes isst den vogel. Der jude nimmt den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>gam und die braut den vogel auf der hochzeit essen. Die jungen
+essen ihn. Der eine wird kaiser. Ein gastwirt entwendet dem ande-
+ren dukatensäcke. Zaubergegenstände. Zu seinem bruder. Beide kai-
+was unter dem flügel geschrieben steht: wer den kopf isst, wird kö-
+nig, das herz: nach der nacht fünf dukaten. Der küchenjunge isst das
+herz. Der koch brät ein anderes herz. Der küchenjunge läuft fort.
+Eine frau nimmt ihn als hirtenknabe an, liest jedesmal das geld aus
+dem stroh auf. Fortsetzung siehe „Die drei zaubergegenstände“ Hd
+goldenen vogel heim. Die eier werden dem goldschmied verkauft.
+Unter dem flügel geschrieben: herz: könig, magen: unter dem kopfe
+dukaten. Der sohn des goldschmieds liest es, heiratet die tochter
+des armen mannes, wenn der vogel zur hochzeit gebraten wird. Der
+eine sohn isst das herz, der andere den magen. Fliehen. Bei einem
+kaufmann werden die dukaten verheimlicht. Fortsetzung siehe „Die
+eines tagelöhners fliegt ein goldener vogel, jeden morgen einen dukaten.
+Wechselt sie bei einem juden. Der jude kommt einmal zu dem
+manne, sieht auf den flügeln geschrieben: wer mich isst, wird könig.
+Der jude nimmt in abwesenheit des mannes den vogel, lässt ihn kochen.
+Der älteste sohn des mannes isst den vogel. Der jude nimmt den</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="252,1344 467,1344 467,1387 252,1387" />
+			<!-- line left out: id="r5l0" points="253,1347 268,1345 296,1345 364,1345 364,1356 373,1356 385,1344 398,1344 411,1345 431,1349 431,1356 444,1345 454,1344 465,1344 465,1356 467,1356 467,1359 411,1362 393,1362 373,1363 358,1363 346,1363 330,1360 268,1360 253,1355" baseline="253,1360 340,1359 467,1359" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ¹ Národ. Sb., VI, s. 98. | german_print2_15: ¹ Nârod. Sb., VI, s. 98. -->
+			<!-- line left out: id="r5l1" points="252,1371 269,1370 278,1369 290,1369 295,1370 306,1374 317,1375 317,1369 329,1369 397,1369 397,1381 400,1381 400,1384 343,1387 328,1387 306,1385 290,1387 278,1387 269,1385 259,1379 252,1379" baseline="252,1385 342,1384 400,1384" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ² Ebenda, s. 96.
+ | german_print2_15: ² Ebenda, s. 96.
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r6">
+			<Coords points="1149,52 1154,52 1154,530 1149,530" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r7">
+			<Coords points="1130,26 1147,26 1147,1627 1130,1627" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r8">
+			<Coords points="1142,26 1165,26 1165,1631 1142,1631" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r9">
+			<Coords points="1145,26 1162,26 1162,1631 1145,1631" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r10">
+			<Coords points="1145,26 1162,26 1162,1631 1145,1631" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r11">
+			<Coords points="1145,26 1162,26 1162,1631 1145,1631" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r12">
+			<Coords points="1145,26 1162,26 1162,1631 1145,1631" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r13">
+			<Coords points="1145,26 1162,26 1162,1631 1145,1631" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r14">
+			<Coords points="1145,26 1162,26 1162,1631 1145,1631" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r15">
+			<Coords points="1130,26 1142,26 1142,1636 1130,1636" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r16">
+			<Coords points="1130,26 1142,26 1142,1636 1130,1636" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r17">
+			<Coords points="1130,26 1142,26 1142,1636 1130,1636" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r18">
+			<Coords points="1130,26 1142,26 1142,1636 1130,1636" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r19">
+			<Coords points="1130,26 1142,26 1142,1636 1130,1636" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r20">
+			<Coords points="1130,26 1142,26 1142,1636 1130,1636" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r21">
+			<Coords points="1127,26 1141,26 1141,1639 1127,1639" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r22">
+			<Coords points="1123,55 1144,55 1144,1636 1123,1636" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r23">
+			<Coords points="1123,55 1144,55 1144,1636 1123,1636" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r24">
+			<Coords points="1123,55 1144,55 1144,1636 1123,1636" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r25">
+			<Coords points="1123,55 1144,55 1144,1636 1123,1636" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r26">
+			<Coords points="1123,55 1144,55 1144,1636 1123,1636" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r27">
+			<Coords points="1124,55 1142,55 1142,1636 1124,1636" />
+		</SeparatorRegion>
+		<GraphicRegion id="r28">
+			<Coords points="1053,0 1200,0 1200,1656 1053,1656" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+könig, am linken flügel: das herz: jeden morgen unter dem kopfe dukaten. Kauft der frau den vogel ab, bittet sie ihn zu braten, bis er zurückkommt. Der eine sohn des försters isst den kopf und den hals, der andere den rumpf mit dem herzen, die schwester die füsse. Der jude will die jungen umbringen. Einem hunde werden augen und zunge herausgeschnitten. Die jungen in die weite welt. Der eine in eine nachtherberge, bis zum achtzehnten lebensjahr. Jeden morgen dukaten. (Der andere bruder könig). Fortsetzung siehe „Die drei zaubergegenstände“ Hd 2. – 3. (Kulda, I, nr. 29, s. 119⟦⟧). Jungen fangen einen vogel. Derselbe legt ein goldenes ei. Die mutter verkauft das ei dem kaufmann. Der kaufmann kommt und besieht sich den vogel, auf den flügeln steht geschrieben: wer den vogel isst, wird kaiser. Der eine junge isst ein stück von dem braten: unter dem kopf ein sack voll dukaten. Der sohn des kaufmanns heiratet die schwester der jungen. Der kaufmann wünscht, dass der bräutigam und die braut den vogel auf der hochzeit essen. Die jungen essen ihn. Der eine wird kaiser. Ein gastwirt entwendet dem anderen dukatensäcke. Zaubergegenstände. Zu seinem bruder. Beide kaiser. – 4. (Stránecká, s. 49⟦⟧). Der könig schiesst einen vogel, liest, was unter dem flügel geschrieben steht: wer den kopf isst, wird könig, das herz: nach der nacht fünf dukaten. Der küchenjunge isst das herz. Der koch brät ein anderes herz. Der küchenjunge läuft fort. Eine frau nimmt ihn als hirtenknabe an, liest jedesmal das geld aus dem stroh auf. Fortsetzung siehe „Die drei zaubergegenstände“ Hd 3. – 5. (Český Lid, VIII, s. 147⟦⟧). Ein armer mann bringt einen goldenen vogel heim. Die eier werden dem goldschmied verkauft. Unter dem flügel geschrieben: herz: könig, magen: unter dem kopfe dukaten. Der sohn des goldschmieds liest es, heiratet die tochter des armen mannes, wenn der vogel zur hochzeit gebraten wird. Der eine sohn isst das herz, der andere den magen. Fliehen. Bei einem kaufmann werden die dukaten verheimlicht. Fortsetzung siehe „Die drei zaubergegenstände“ Hd 4. – 6. (Sláma, nr. 1⟦⟧). In die stube eines tagelöhners fliegt ein goldener vogel, jeden morgen einen dukaten. Wechselt sie bei einem juden. Der jude kommt einmal zu dem manne, sieht auf den flügeln geschrieben: wer mich isst, wird könig. Der jude nimmt in abwesenheit des mannes den vogel, lässt ihn kochen. Der älteste sohn des mannes isst den vogel. Der jude nimmt den
+-->
+	</Page>
+</PcGts>

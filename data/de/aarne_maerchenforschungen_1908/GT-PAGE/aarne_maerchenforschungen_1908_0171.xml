@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:56:00</Created>
+		<LastChange>2026-11-23T18:56:00</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Aarne_Vergleichende_Märchenforschungen.djvu/171 revision 3210955 of 2018-07-31T07:18:24Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="aarne_maerchenforschungen_1908_0171.png" imageWidth="1200" imageHeight="1663">
+		<ReadingOrder>
+			<OrderedGroup id="ro12390635303215930163" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="499,141 608,141 608,170 499,170" />
+			<!-- line left out: id="r0l0" points="499,154 513,154 538,145 587,141 608,141 608,170 587,170 587,160 538,160 499,157" baseline="499,160 608,160" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 151 —
+ | german_print2_15: — 151 —
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="188,194 933,194 933,1393 188,1393" />
+			<!-- line left out: id="r1l0" points="188,200 197,200 214,200 214,206 224,206 243,199 256,199 281,199 300,205 310,204 331,204 331,198 344,198 345,204 377,203 410,203 431,199 439,199 450,200 461,204 461,198 475,198 485,203 485,211 508,203 522,203 522,210 545,203 574,202 584,197 591,197 591,203 603,202 648,197 656,197 664,198 673,197 688,197 705,202 778,201 787,196 800,196 835,200 877,200 877,194 897,194 921,194 921,210 890,212 877,212 859,211 824,212 705,213 688,213 638,218 625,218 585,214 489,216 400,219 377,219 364,219 355,215 321,215 224,216 188,216" baseline="188,216 223,215 524,213 921,210" reason: differs: "feln" against "drei" | Wikisource:  | next_nc_e1: feln drei zaubergegenstände, u. a. eine peitsche: mensch verwandelt | german_print2_15: feln drei zaubergegenstände, u. a. eine peitsche: mensch verwandelt -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="189,235 198,235 198,229 221,229 221,235 227,235 246,228 253,228 253,234 283,233 293,228 342,233 342,227 351,227 361,232 370,227 382,227 400,233 425,233 425,227 437,227 452,233 495,233 495,227 559,227 559,240 587,226 606,226 606,232 664,232 664,226 786,225 806,230 815,225 820,225 862,230 862,224 890,223 903,223 903,229 921,229 921,239 743,242 496,243 496,249 482,249 482,243 342,243 342,249 330,249 311,243 189,245" />
+				<Baseline points="189,244 921,239" />
+				<TextEquiv index="1">
+					<Unicode>sich in ein pferd und umgekehrt. Verwandelt die kaiserin mit der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="189,264 198,264 198,257 228,259 237,257 253,257 253,263 269,263 287,257 294,257 294,263 324,262 334,257 341,257 341,263 353,263 371,256 396,256 396,262 408,262 415,257 483,257 495,259 515,257 536,262 536,256 544,256 565,262 589,262 590,256 601,256 613,262 628,262 628,255 695,255 695,261 706,261 706,255 750,256 768,261 768,255 786,255 801,260 801,254 820,254 820,260 829,260 841,254 881,253 888,253 921,258 921,268 820,271 507,272 506,278 494,278 470,273 452,278 415,276 396,273 383,278 371,278 353,272 209,274 209,280 189,280" />
+				<Baseline points="189,273 921,268" />
+				<TextEquiv index="1">
+					<Unicode>peitsche in ein pferd, schlägt sie und ruft. Zuletzt wieder in einen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="189,293 199,293 199,286 215,286 215,293 249,292 249,286 261,286 262,292 284,292 285,299 314,286 331,286 332,292 352,292 370,286 382,286 383,292 393,292 393,286 405,286 435,292 453,286 460,286 460,292 492,292 492,286 500,286 500,292 548,292 548,286 577,285 595,287 659,287 659,298 677,285 757,285 775,286 784,290 795,283 816,284 864,282 872,282 890,282 906,287 920,288 920,298 775,301 689,301 663,304 646,301 646,307 635,307 635,301 613,302 603,307 589,307 577,301 453,302 425,308 412,308 412,302 393,303 373,308 370,308 352,302 189,303" />
+				<Baseline points="189,303 920,298" />
+				<TextEquiv index="1">
+					<Unicode>menschen. Der heilige bruder wird getötet, die mutter bleibt leben.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l4" points="190,326 214,326 226,315 240,315 240,330 269,315 298,315 298,321 320,316 333,316 333,322 344,322 362,316 386,316 416,321 422,329 446,321 456,321 456,329 478,315 522,315 523,328 551,315 573,315 574,321 585,321 598,314 611,314 611,321 632,321 632,314 641,314 665,314 665,320 691,320 703,314 722,314 722,320 745,315 753,315 775,314 782,314 782,320 794,319 838,314 848,314 887,311 905,311 905,317 916,317 916,311 922,311 922,326 917,327 862,329 804,330 746,330 746,336 732,336 732,330 709,330 709,336 703,336 691,330 665,331 634,331 523,331 522,337 515,337 514,331 426,335 422,335 404,333 379,338 362,338 344,332 272,332 269,317 245,334 240,334 226,333 190,328" baseline="190,333 478,331 922,327" reason: differs: "—4.E" against "– 4." | Wikisource:  | next_nc_e1: — 4. Ebenda (Ders., s. 217). Ein kaufmann fängt eine ente. Auf | german_print2_15: — 4. Hbenda (Ders., s. 217). Ein kaufmann fängt eine ente. Auf -->
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="191,346 204,346 204,352 231,352 250,345 275,346 276,352 293,352 293,345 359,345 370,347 379,345 425,345 425,351 441,350 460,345 467,345 467,351 478,351 478,345 511,345 523,350 589,350 589,344 642,344 653,349 661,350 677,344 684,344 701,349 714,343 720,343 720,349 779,349 779,356 795,349 801,348 832,348 845,342 883,341 891,341 921,341 921,357 832,359 782,362 736,360 441,362 431,367 418,367 400,361 191,363" />
+				<Baseline points="191,362 921,357" />
+				<TextEquiv index="1">
+					<Unicode>dem schnabel steht geschrieben: zwei eier im herzen, wer sie isst,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="191,382 202,382 202,376 235,376 254,382 288,381 313,375 331,375 332,381 351,381 368,375 377,375 377,381 404,381 404,375 412,375 412,381 503,380 522,374 549,374 549,380 579,380 597,374 606,374 637,379 797,378 807,372 816,372 816,378 874,377 887,369 893,369 922,369 922,385 853,387 853,393 816,393 807,393 751,389 191,392" />
+				<Baseline points="191,392 922,386" />
+				<TextEquiv index="1">
+					<Unicode>wird zar. Der kaufmann zu seiner frau: wenn unsere jungen auf-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="190,412 219,411 219,405 235,405 235,411 277,411 297,405 300,405 306,410 316,405 330,405 341,410 374,405 381,405 408,410 408,404 423,404 423,410 455,410 455,404 462,404 473,409 516,409 546,404 620,402 645,402 645,408 730,407 779,402 779,408 801,408 801,402 813,402 838,407 851,401 895,399 914,399 923,404 923,415 895,415 838,421 824,421 813,418 790,418 317,421 277,424 260,424 190,422" />
+				<Baseline points="190,421 923,416" />
+				<TextEquiv index="1">
+					<Unicode>wachsen, sollen sie die eier verzehren. Als er ausser landes, hat die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="192,435 200,435 200,441 259,440 259,434 266,434 266,440 299,440 317,433 326,433 335,439 369,439 369,433 381,433 381,446 411,433 429,433 475,439 494,433 500,433 500,439 525,439 525,433 607,432 607,438 629,437 639,432 647,432 647,438 786,437 812,431 858,430 866,430 866,436 924,435 924,445 913,446 903,451 890,451 866,446 866,452 786,448 568,448 568,454 500,454 494,454 456,450 192,451" />
+				<Baseline points="192,451 924,446" />
+				<TextEquiv index="1">
+					<Unicode>frau einen freund. Dieser verlangt die eier zum essen. Die jungen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="192,470 271,469 271,463 319,462 337,462 337,468 356,468 372,462 390,462 390,468 423,468 423,462 466,462 466,468 477,468 478,462 558,462 569,467 579,461 595,461 595,467 710,467 710,461 738,461 738,467 787,461 814,460 839,460 839,466 861,465 879,462 891,462 902,465 902,459 915,459 923,464 923,475 903,475 903,481 814,476 789,482 749,482 625,477 625,483 612,483 612,477 595,477 595,483 579,483 501,479 192,480" />
+				<Baseline points="192,480 923,476" />
+				<TextEquiv index="1">
+					<Unicode>essen sie. Der freund befiehlt die jungen umzubringen. Die mägde</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="192,493 204,493 215,498 225,493 242,493 305,498 305,492 344,492 360,493 370,497 399,498 399,491 417,491 418,497 426,497 436,491 445,491 445,497 564,497 564,491 583,491 583,497 594,497 607,491 671,496 681,490 689,490 690,496 746,496 757,490 769,490 769,496 797,496 797,490 840,490 883,494 883,488 906,488 924,488 924,504 863,506 727,506 727,512 714,512 714,506 690,506 689,512 681,512 671,506 527,508 482,513 445,513 436,513 426,507 192,510" />
+				<Baseline points="192,509 924,505" />
+				<TextEquiv index="1">
+					<Unicode>bereiten auf bitten der jungen aus den herzen junger hunde eine mahl-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="192,529 213,529 213,523 220,523 228,525 262,528 263,536 284,519 298,519 334,528 347,522 360,522 387,527 400,521 406,521 412,527 423,527 423,521 442,521 454,528 460,528 461,521 477,521 477,527 509,522 539,526 584,526 584,520 590,520 590,526 619,526 631,520 638,520 638,526 649,526 662,520 674,520 686,525 695,526 707,520 758,520 786,525 786,519 801,519 801,525 810,525 822,519 835,519 846,524 924,523 924,533 875,535 575,536 575,542 454,537 442,543 423,543 423,537 192,539" />
+				<Baseline points="192,539 924,534" />
+				<TextEquiv index="1">
+					<Unicode>zeit zu. Über dem kopf des einen gehen in der kirche die kerzen an:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l12" custom="readingOrder {index:12;}">
+				<Coords points="192,559 210,559 210,553 238,553 250,559 284,559 309,552 335,552 356,557 368,551 372,551 372,557 395,557 395,551 404,551 404,557 444,557 457,551 537,551 537,557 548,557 560,551 669,556 681,549 731,549 731,555 794,554 794,548 813,548 821,554 832,554 832,548 844,548 844,554 901,553 901,547 910,547 910,553 923,553 923,563 794,565 784,569 647,566 537,567 470,572 457,572 414,568 192,570" />
+				<Baseline points="192,569 923,563" />
+				<TextEquiv index="1">
+					<Unicode>wird zar. Dem anderen giebt ein alter mann kleider: geld ohne ende.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l13" custom="readingOrder {index:13;}">
+				<Coords points="193,583 217,583 277,588 291,582 303,582 314,587 346,582 389,587 389,581 434,581 434,587 462,587 474,581 612,580 622,585 634,579 684,579 684,585 706,585 706,579 734,578 757,578 757,584 772,584 782,578 790,578 791,584 827,583 872,578 881,578 919,583 925,586 925,588 919,592 894,594 850,593 828,599 782,599 708,596 622,596 523,597 503,600 347,598 277,601 249,601 243,601 193,598" />
+				<Baseline points="193,598 925,593" />
+				<TextEquiv index="1">
+					<Unicode>Der zar, der ein mädchen ist, stiehlt die kleider. Der junge entwen-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l14" custom="readingOrder {index:14;}">
+				<Coords points="193,611 224,613 256,613 274,617 274,611 324,611 324,617 357,616 370,613 416,613 440,616 453,610 491,610 500,616 533,616 533,609 545,609 545,615 600,614 605,608 618,608 622,614 631,610 657,608 675,608 699,614 704,608 723,608 723,614 755,609 764,609 783,613 792,607 808,607 808,613 830,612 839,606 847,606 868,606 895,606 903,606 924,611 924,622 868,623 851,628 738,624 689,627 632,625 618,630 601,630 578,630 564,630 521,626 193,627" />
+				<Baseline points="193,627 924,621" />
+				<TextEquiv index="1">
+					<Unicode>det streitenden männern drei zaubergegenstände, darunter eine peitsche:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l15" custom="readingOrder {index:15;}">
+				<Coords points="194,645 231,645 231,639 238,639 256,645 266,642 328,645 346,639 359,639 370,644 382,645 382,639 396,639 416,644 461,640 483,644 484,651 502,644 591,643 603,637 736,637 766,642 766,636 912,634 925,634 925,650 778,654 563,654 432,658 396,658 382,658 194,655" />
+				<Baseline points="194,656 925,650" />
+				<TextEquiv index="1">
+					<Unicode>zwei männer kommen, tun, was man befiehlt. Verwandelt das mäd-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l16" custom="readingOrder {index:16;}">
+				<Coords points="195,674 204,674 204,668 217,668 217,674 238,674 251,668 296,667 309,667 309,673 329,673 340,667 553,668 599,672 599,666 746,665 758,671 763,666 816,665 855,670 855,664 875,664 875,670 926,670 926,680 708,681 684,687 624,687 502,683 399,683 353,688 340,688 238,684 195,685" />
+				<Baseline points="195,684 926,680" />
+				<TextEquiv index="1">
+					<Unicode>chen mit der peitsche in eine stute und begiebt sich mit derselben zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l17" points="194,703 214,698 233,698 253,698 259,702 280,696 299,696 299,702 314,702 314,696 326,696 326,702 347,702 347,709 377,696 390,696 426,696 509,695 522,695 522,701 540,701 559,695 580,695 580,701 595,701 595,695 611,695 631,696 665,695 672,695 672,701 695,700 714,697 724,694 737,694 760,694 760,700 781,700 782,707 800,704 822,704 836,693 849,693 849,707 880,693 898,693 898,699 925,699 925,709 854,711 836,711 785,710 666,711 580,716 559,716 490,712 436,712 401,712 337,712 253,714 233,714 194,714" baseline="194,714 258,713 349,712 489,711 682,710 925,709" reason: differs: "en.—5.K" against "n. – 5." | Wikisource:  | next_nc_e1: seinem bruder. Schliesslich das pferd in ein mädchen. — 5. Kon- | german_print2_15: seinem bruder. Schliesslich das pferd in ein mädchen. — 5. Kon- -->
+			<TextLine id="r1l18" custom="readingOrder {index:18;}">
+				<Coords points="194,729 212,727 287,726 310,731 317,738 334,730 344,730 345,738 362,725 399,724 406,725 407,738 435,724 458,725 458,731 469,731 481,724 495,724 495,730 509,730 509,724 525,724 525,730 536,730 536,724 549,724 549,730 575,730 586,724 618,726 649,730 649,724 718,724 741,729 741,736 770,723 856,723 873,728 885,722 890,722 904,722 926,722 926,738 435,740 406,746 398,746 398,740 321,744 287,741 287,747 264,747 257,747 213,743 194,743" />
+				<Baseline points="194,742 926,738" />
+				<TextEquiv index="1">
+					<Unicode>tokki (Ders., s. 218). Ein kaufmann hat zwei söhne. Nach dem tode</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l19" custom="readingOrder {index:19;}">
+				<Coords points="195,763 200,757 286,756 304,760 323,754 431,755 578,753 578,759 599,759 599,766 627,753 692,753 714,758 725,752 785,752 785,758 819,758 832,751 837,751 837,757 855,752 878,751 891,751 910,757 922,758 922,764 925,764 925,767 855,768 845,773 832,773 819,767 662,769 346,770 203,773 195,773" />
+				<Baseline points="195,772 430,769 925,767" />
+				<TextEquiv index="1">
+					<Unicode>der mutter verheiratet er sich wieder. Die frau hat einen geliebten.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l20" custom="readingOrder {index:20;}">
+				<Coords points="194,786 219,786 219,792 232,792 244,785 258,785 280,790 280,784 287,784 287,790 309,790 309,784 322,784 337,789 350,783 363,783 363,789 384,789 384,783 400,783 408,789 418,789 418,783 424,783 424,789 578,788 578,782 586,782 586,796 604,788 644,787 663,782 669,782 670,788 698,787 698,781 759,782 802,780 811,780 815,786 844,781 883,780 896,780 897,786 926,787 926,797 816,802 802,802 769,798 699,798 590,801 579,799 569,804 556,804 524,799 194,802" />
+				<Baseline points="194,802 336,799 926,797" />
+				<TextEquiv index="1">
+					<Unicode>Der kaufmann kauft einen wasservogel, am schnabel steht geschrieben:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l21" custom="readingOrder {index:21;}">
+				<Coords points="195,821 232,821 250,814 263,814 285,819 302,813 306,813 306,819 338,819 338,813 383,813 402,814 402,826 433,813 508,812 528,817 540,818 540,812 585,812 605,817 617,811 622,811 622,817 640,817 640,811 654,811 676,811 706,811 719,811 759,811 812,811 922,816 923,823 926,823 926,828 800,827 743,832 640,828 630,833 435,829 405,832 339,834 306,834 302,834 223,831 195,832" />
+				<Baseline points="195,831 421,828 822,826 926,828" />
+				<TextEquiv index="1">
+					<Unicode>wer den vogel isst, wird kaiser. Der geliebte begehrt ihn zu essen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l22" custom="readingOrder {index:22;}">
+				<Coords points="196,850 207,850 207,844 219,844 238,849 250,843 270,843 270,849 279,849 290,842 298,842 298,849 421,848 433,842 445,842 445,848 517,848 517,855 546,841 598,841 598,847 613,847 613,841 651,840 657,846 667,846 667,840 684,840 684,846 739,847 752,840 764,840 765,846 775,846 775,840 880,839 883,839 922,839 922,849 927,849 927,852 922,856 805,857 718,862 657,858 651,862 615,858 517,858 517,864 503,864 494,859 445,859 322,864 298,859 298,865 290,865 279,859 196,860" />
+				<Baseline points="196,860 927,856" />
+				<TextEquiv index="1">
+					<Unicode>aber die jungen essen ihn weg. Auf sein verlangen befiehlt die stief-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l23" custom="readingOrder {index:23;}">
+				<Coords points="195,880 226,875 242,875 261,879 280,873 293,873 303,878 339,879 339,873 446,872 453,878 522,878 522,872 541,872 541,878 549,878 560,871 568,871 568,878 661,877 674,871 718,871 730,876 742,877 742,884 771,870 789,870 859,876 859,870 871,870 928,871 928,886 859,886 859,892 836,892 836,886 640,887 606,893 592,893 568,888 568,894 560,894 549,888 399,889 384,895 354,895 339,895 339,889 195,890" />
+				<Baseline points="195,890 928,886" />
+				<TextEquiv index="1">
+					<Unicode>mutter der magd die herzen der jungen zu kochen. Die magd tötet</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l24" custom="readingOrder {index:24;}">
+				<Coords points="197,910 206,905 247,910 247,904 286,905 286,917 302,903 315,903 315,909 336,909 336,903 357,904 374,909 374,903 419,903 419,909 464,908 474,903 479,903 480,909 511,908 522,902 539,902 539,908 589,908 602,902 614,902 638,907 643,901 661,901 661,907 671,907 671,914 694,901 739,900 748,900 769,900 769,906 835,906 835,900 842,900 842,906 926,905 926,916 815,916 786,922 739,922 671,918 568,918 568,924 555,924 555,918 539,918 539,924 522,924 337,920 289,923 197,921" />
+				<Baseline points="197,921 926,916" />
+				<TextEquiv index="1">
+					<Unicode>sie nicht, kocht das herz eines jungen hundes. Die jungen reissen aus.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l25" custom="readingOrder {index:25;}">
+				<Coords points="196,935 250,934 274,939 315,939 315,933 332,933 332,939 340,939 352,933 360,933 373,936 427,938 462,938 466,934 483,934 504,935 520,938 520,932 546,933 615,931 639,932 656,937 669,931 756,931 767,936 780,930 841,930 860,935 860,929 873,929 873,935 929,935 929,945 483,949 397,954 360,954 352,954 196,951" />
+				<Baseline points="196,951 929,945" />
+				<TextEquiv index="1">
+					<Unicode>Die kerze des jüngeren entzündet sich beim eintritt in die kirche von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l26" custom="readingOrder {index:26;}">
+				<Coords points="197,969 216,964 315,963 322,963 322,969 354,969 366,963 379,963 400,968 400,962 414,962 417,969 452,968 452,962 522,962 553,967 554,962 607,961 607,967 628,967 641,961 667,961 708,966 720,960 799,960 832,965 832,959 841,959 865,964 928,964 928,974 878,975 865,968 865,975 793,976 733,981 720,981 677,977 197,980" />
+				<Baseline points="197,979 928,974" />
+				<TextEquiv index="1">
+					<Unicode>selbst in seiner hand: wird kaiser. Dem älteren giebt ein alter mann</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l27" custom="readingOrder {index:27;}">
+				<Coords points="197,992 247,992 247,998 301,997 310,992 373,991 387,991 387,997 417,993 427,993 455,997 455,991 468,991 479,996 479,1004 502,991 566,991 576,993 594,991 611,996 620,990 632,990 644,995 671,990 678,990 678,996 697,995 726,989 807,989 816,990 816,1002 830,994 851,989 904,994 904,988 923,988 929,989 929,1003 820,1007 672,1006 611,1011 302,1012 288,1012 267,1008 197,1008" />
+				<Baseline points="197,1008 929,1004" />
+				<TextEquiv index="1">
+					<Unicode>kleider: geld in der tasche. Der könig, der ein mädchen ist, entwendet</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l28" custom="readingOrder {index:28;}">
+				<Coords points="198,1021 247,1021 290,1026 290,1033 313,1020 334,1020 334,1026 352,1026 358,1019 367,1019 367,1026 433,1025 444,1021 454,1021 474,1025 474,1019 486,1019 486,1025 498,1025 498,1019 523,1021 538,1025 538,1019 678,1019 754,1021 777,1023 817,1018 817,1024 890,1023 890,1017 903,1017 914,1022 924,1023 929,1026 929,1029 924,1033 486,1036 422,1035 404,1041 391,1041 391,1035 367,1035 367,1041 358,1041 268,1037 198,1037" />
+				<Baseline points="198,1037 929,1033" />
+				<TextEquiv index="1">
+					<Unicode>die hosen. Der junge entwendet zwölf streitenden männern einen zauber-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l29" custom="readingOrder {index:29;}">
+				<Coords points="199,1057 208,1052 216,1052 237,1056 237,1050 249,1050 260,1056 285,1056 285,1049 326,1049 326,1055 360,1055 373,1048 378,1048 378,1054 404,1048 517,1048 517,1054 543,1053 551,1048 607,1048 647,1053 656,1047 676,1047 717,1053 717,1047 725,1047 753,1052 753,1060 777,1047 789,1046 802,1046 802,1052 853,1052 853,1046 867,1046 911,1046 930,1051 930,1062 734,1063 718,1068 551,1064 546,1069 538,1069 425,1065 199,1068" />
+				<Baseline points="199,1067 424,1064 930,1062" />
+				<TextEquiv index="1">
+					<Unicode>stock und einen sattel mit einer peitsche an der spitze. Verwandelt das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l30" custom="readingOrder {index:30;}">
+				<Coords points="199,1088 228,1081 241,1080 258,1080 258,1086 315,1085 315,1079 331,1079 347,1084 347,1078 356,1078 375,1083 387,1077 424,1077 434,1080 443,1077 456,1077 456,1083 466,1083 481,1077 488,1077 488,1083 499,1083 512,1077 529,1077 529,1083 558,1082 564,1077 592,1076 605,1076 605,1090 622,1076 641,1076 641,1082 658,1078 667,1078 684,1082 684,1076 698,1076 698,1082 733,1081 752,1076 765,1076 765,1082 914,1080 925,1081 930,1084 930,1087 925,1091 873,1096 860,1096 849,1092 609,1096 583,1093 561,1098 445,1094 424,1099 399,1099 387,1099 331,1095 199,1098" />
+				<Baseline points="199,1097 465,1093 930,1091" />
+				<TextEquiv index="1">
+					<Unicode>mädchen mit der peitsche in ein pferd, lässt einen schweren wagen an-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l31" custom="readingOrder {index:31;}">
+				<Coords points="199,1112 241,1111 311,1115 311,1108 344,1107 348,1108 349,1114 359,1113 371,1108 394,1107 429,1113 429,1107 515,1106 528,1106 528,1112 555,1112 564,1106 613,1106 624,1112 673,1106 697,1106 720,1111 728,1105 740,1105 740,1111 762,1111 762,1105 773,1105 774,1111 799,1111 818,1104 825,1104 841,1104 861,1104 878,1105 896,1110 896,1104 903,1104 919,1104 931,1104 931,1120 576,1122 576,1128 564,1128 555,1122 394,1124 372,1129 254,1126 254,1132 240,1132 218,1128 199,1128" />
+				<Baseline points="199,1127 457,1122 931,1120" />
+				<TextEquiv index="1">
+					<Unicode>fertigen und begiebt sich mit dem pferd zu seinem bruder. Schliesslich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l32" points="199,1148 209,1148 209,1140 224,1140 256,1140 256,1146 273,1145 307,1144 316,1139 323,1139 339,1141 345,1139 358,1139 371,1143 383,1137 400,1137 400,1143 443,1142 476,1142 476,1149 489,1146 513,1146 521,1135 535,1135 535,1150 558,1135 587,1135 587,1141 603,1141 603,1135 672,1135 680,1140 702,1140 704,1148 722,1140 731,1140 732,1148 750,1134 794,1134 794,1147 817,1134 826,1129 839,1129 839,1140 845,1140 857,1133 867,1133 881,1136 898,1139 898,1129 911,1129 923,1134 931,1139 931,1150 911,1150 911,1162 898,1162 898,1155 891,1155 881,1150 867,1155 857,1155 839,1150 839,1162 826,1162 826,1150 794,1150 794,1157 786,1157 786,1151 731,1151 708,1154 704,1154 672,1151 672,1157 644,1157 540,1154 535,1154 480,1153 466,1153 409,1154 389,1154 358,1156 345,1156 339,1155 307,1156 256,1157 234,1158 199,1158" baseline="199,1158 383,1153 631,1151 931,1149" reason: differs: "or.—6.E" against "r. – 6." | Wikisource:  | next_nc_e1: mädchen schöner als zuvor. — 6. Ebenda (Ders., s. 219). Der jüngste | german_print2_15: mädchen schöner als zuvor. — 6. Ebenda (Ders., s. 219). Der jüngste -->
+			<TextLine id="r1l33" custom="readingOrder {index:33;}">
+				<Coords points="200,1171 213,1171 213,1177 256,1177 256,1170 272,1170 272,1176 284,1176 284,1170 342,1169 365,1174 383,1168 460,1172 460,1166 486,1168 497,1166 515,1172 630,1171 630,1165 678,1165 709,1170 727,1164 764,1166 775,1170 787,1164 795,1164 795,1170 825,1170 841,1163 849,1163 859,1166 891,1164 909,1169 909,1163 931,1163 931,1179 883,1179 883,1185 870,1185 870,1179 795,1181 461,1183 223,1188 200,1188" />
+				<Baseline points="200,1188 450,1182 931,1179" />
+				<TextEquiv index="1">
+					<Unicode>der drei söhne eines alten mannes und einer alten frau fängt auf</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l34" custom="readingOrder {index:34;}">
+				<Coords points="200,1201 260,1202 299,1199 326,1199 326,1205 357,1204 375,1197 395,1197 407,1200 416,1197 424,1197 448,1202 464,1196 481,1196 481,1202 521,1197 548,1197 561,1201 575,1195 595,1196 647,1194 659,1194 659,1200 692,1200 707,1194 724,1194 735,1199 743,1200 756,1194 823,1193 839,1193 839,1199 860,1198 883,1193 890,1193 932,1194 932,1208 925,1208 925,1214 912,1214 902,1209 884,1209 874,1214 860,1214 823,1209 798,1215 646,1211 630,1216 547,1215 539,1212 534,1215 395,1213 395,1219 375,1219 326,1216 200,1217" />
+				<Baseline points="200,1217 447,1212 932,1208" />
+				<TextEquiv index="1">
+					<Unicode>den rat seines glückes eine ente, die goldene eier legt. Er gelangt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l35" custom="readingOrder {index:35;}">
+				<Coords points="200,1230 224,1230 224,1236 235,1235 244,1230 295,1230 304,1235 323,1229 437,1232 437,1226 485,1227 506,1231 506,1225 572,1225 582,1230 601,1224 614,1224 614,1230 761,1229 779,1223 792,1223 792,1229 813,1229 813,1223 844,1223 926,1228 931,1232 931,1234 926,1239 916,1243 702,1240 524,1243 476,1242 304,1246 200,1246" />
+				<Baseline points="200,1247 523,1241 931,1238" />
+				<TextEquiv index="1">
+					<Unicode>durch die eier zu wohlstand. Als der mann zum handeln ausge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l36" custom="readingOrder {index:36;}">
+				<Coords points="200,1267 255,1266 256,1273 279,1259 348,1258 348,1264 358,1264 376,1258 443,1262 443,1256 450,1256 450,1262 483,1261 498,1255 569,1255 590,1260 590,1267 619,1254 645,1254 684,1259 696,1253 734,1253 777,1259 777,1252 784,1252 868,1252 875,1252 875,1258 887,1258 887,1252 932,1252 932,1268 528,1271 358,1274 260,1278 234,1281 220,1281 200,1276" />
+				<Baseline points="200,1277 482,1271 932,1268" />
+				<TextEquiv index="1">
+					<Unicode>zogen, hat die frau einen liebhaber. Dieser sieht auf dem schnabel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l37" custom="readingOrder {index:37;}">
+				<Coords points="200,1290 213,1290 213,1296 254,1295 276,1290 285,1290 295,1294 316,1287 323,1287 323,1293 358,1293 358,1287 409,1287 500,1291 519,1284 604,1284 622,1285 622,1298 649,1289 656,1289 656,1283 694,1283 716,1288 747,1288 747,1297 774,1282 787,1282 812,1282 841,1282 875,1282 882,1282 911,1288 932,1288 932,1298 673,1300 625,1304 587,1304 544,1301 360,1304 330,1309 316,1309 276,1305 200,1306" />
+				<Baseline points="200,1306 564,1300 932,1298" />
+				<TextEquiv index="1">
+					<Unicode>der ente geschrieben: wer mich isst, wird zar, befiehlt sie zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l38" custom="readingOrder {index:38;}">
+				<Coords points="200,1319 213,1319 213,1325 224,1325 224,1319 241,1319 269,1324 270,1319 306,1317 332,1317 342,1322 366,1316 403,1316 403,1322 437,1321 458,1314 466,1314 467,1320 601,1319 625,1313 638,1313 649,1318 660,1319 680,1312 693,1312 693,1318 713,1313 722,1313 746,1318 746,1312 798,1312 818,1317 842,1311 849,1311 885,1311 885,1317 900,1317 900,1311 908,1311 908,1317 932,1317 932,1328 560,1330 504,1335 490,1335 480,1331 466,1336 458,1336 426,1332 200,1335" />
+				<Baseline points="200,1335 600,1329 932,1327" />
+				<TextEquiv index="1">
+					<Unicode>kochen. Die kleinen jungen essen den braten. Der liebhaber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l39" custom="readingOrder {index:39;}">
+				<Coords points="200,1354 209,1354 209,1347 220,1347 220,1353 232,1353 232,1347 240,1347 240,1353 261,1352 274,1347 303,1346 321,1346 355,1351 355,1344 379,1345 379,1351 436,1344 449,1344 458,1349 480,1343 493,1343 493,1349 512,1349 531,1342 539,1342 539,1348 591,1348 591,1342 597,1342 619,1348 738,1347 766,1341 784,1341 867,1342 886,1347 903,1341 911,1341 927,1346 932,1351 932,1353 927,1357 619,1358 597,1364 531,1364 493,1360 430,1361 392,1366 355,1366 332,1362 275,1362 275,1368 261,1368 240,1364 220,1368 209,1368 200,1364" />
+				<Baseline points="200,1364 480,1359 932,1357" />
+				<TextEquiv index="1">
+					<Unicode>verlangt die eingeweide der jungen zum essen. Die mutter be-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l40" custom="readingOrder {index:40;}">
+				<Coords points="202,1378 284,1376 305,1381 323,1374 394,1374 394,1380 405,1375 414,1375 425,1379 463,1379 463,1373 470,1373 494,1379 518,1378 518,1372 530,1372 533,1378 546,1378 546,1372 574,1372 574,1378 620,1378 621,1385 645,1372 697,1372 771,1377 771,1371 786,1371 786,1377 796,1377 812,1371 820,1371 821,1377 902,1377 902,1371 914,1371 926,1376 933,1377 933,1387 858,1391 845,1391 834,1388 820,1393 812,1393 775,1388 625,1391 599,1393 585,1393 558,1389 530,1393 518,1393 464,1390 244,1393 202,1393" />
+				<Baseline points="202,1393 454,1389 933,1387" />
+				<TextEquiv index="1">
+					<Unicode>fiehlt den dienstboten sie umzubringen, sie lassen die jungen aber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>sich in ein pferd und umgekehrt. Verwandelt die kaiserin mit der
+peitsche in ein pferd, schlägt sie und ruft. Zuletzt wieder in einen
+menschen. Der heilige bruder wird getötet, die mutter bleibt leben.
+dem schnabel steht geschrieben: zwei eier im herzen, wer sie isst,
+wird zar. Der kaufmann zu seiner frau: wenn unsere jungen auf-
+wachsen, sollen sie die eier verzehren. Als er ausser landes, hat die
+frau einen freund. Dieser verlangt die eier zum essen. Die jungen
+essen sie. Der freund befiehlt die jungen umzubringen. Die mägde
+bereiten auf bitten der jungen aus den herzen junger hunde eine mahl-
+zeit zu. Über dem kopf des einen gehen in der kirche die kerzen an:
+wird zar. Dem anderen giebt ein alter mann kleider: geld ohne ende.
+Der zar, der ein mädchen ist, stiehlt die kleider. Der junge entwen-
+det streitenden männern drei zaubergegenstände, darunter eine peitsche:
+zwei männer kommen, tun, was man befiehlt. Verwandelt das mäd-
+chen mit der peitsche in eine stute und begiebt sich mit derselben zu
+tokki (Ders., s. 218). Ein kaufmann hat zwei söhne. Nach dem tode
+der mutter verheiratet er sich wieder. Die frau hat einen geliebten.
+Der kaufmann kauft einen wasservogel, am schnabel steht geschrieben:
+wer den vogel isst, wird kaiser. Der geliebte begehrt ihn zu essen,
+aber die jungen essen ihn weg. Auf sein verlangen befiehlt die stief-
+mutter der magd die herzen der jungen zu kochen. Die magd tötet
+sie nicht, kocht das herz eines jungen hundes. Die jungen reissen aus.
+Die kerze des jüngeren entzündet sich beim eintritt in die kirche von
+selbst in seiner hand: wird kaiser. Dem älteren giebt ein alter mann
+kleider: geld in der tasche. Der könig, der ein mädchen ist, entwendet
+die hosen. Der junge entwendet zwölf streitenden männern einen zauber-
+stock und einen sattel mit einer peitsche an der spitze. Verwandelt das
+mädchen mit der peitsche in ein pferd, lässt einen schweren wagen an-
+fertigen und begiebt sich mit dem pferd zu seinem bruder. Schliesslich
+der drei söhne eines alten mannes und einer alten frau fängt auf
+den rat seines glückes eine ente, die goldene eier legt. Er gelangt
+durch die eier zu wohlstand. Als der mann zum handeln ausge-
+zogen, hat die frau einen liebhaber. Dieser sieht auf dem schnabel
+der ente geschrieben: wer mich isst, wird zar, befiehlt sie zu
+kochen. Die kleinen jungen essen den braten. Der liebhaber
+verlangt die eingeweide der jungen zum essen. Die mutter be-
+fiehlt den dienstboten sie umzubringen, sie lassen die jungen aber</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r2">
+			<Coords points="1146,27 1158,27 1158,519 1146,519" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r3">
+			<Coords points="1148,30 1157,30 1157,519 1148,519" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r4">
+			<Coords points="1146,66 1161,66 1161,519 1146,519" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r5">
+			<Coords points="1146,66 1161,66 1161,519 1146,519" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r6">
+			<Coords points="1146,66 1164,66 1164,519 1146,519" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r7">
+			<Coords points="1149,66 1161,66 1161,519 1149,519" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r8">
+			<Coords points="1149,66 1163,66 1163,519 1149,519" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r9">
+			<Coords points="1151,66 1161,66 1161,519 1151,519" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r10">
+			<Coords points="1131,707 1139,707 1139,1075 1131,1075" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r11">
+			<Coords points="1133,707 1142,707 1142,1075 1133,1075" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r12">
+			<Coords points="1135,707 1144,707 1144,1075 1135,1075" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r13">
+			<Coords points="1135,707 1144,707 1144,1075 1135,1075" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r14">
+			<Coords points="1150,685 1161,685 1161,1160 1150,1160" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r15">
+			<Coords points="1129,28 1160,28 1160,1633 1129,1633" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r16">
+			<Coords points="1130,28 1161,28 1161,1642 1130,1642" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r17">
+			<Coords points="1150,685 1166,685 1166,1640 1150,1640" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r18">
+			<Coords points="1135,707 1149,707 1149,1633 1135,1633" />
+		</SeparatorRegion>
+		<GraphicRegion id="r19">
+			<Coords points="1051,0 1200,0 1200,1663 1051,1663" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+drei zaubergegenstände, u. a. eine peitsche: mensch verwandelt sich in ein pferd und umgekehrt. Verwandelt die kaiserin mit der peitsche in ein pferd, schlägt sie und ruft. Zuletzt wieder in einen menschen. Der heilige bruder wird getötet, die mutter bleibt leben. – 4. Ebenda (Ders., s. 217). Ein kaufmann fängt eine ente. Auf dem schnabel steht geschrieben: zwei eier im herzen, wer sie isst, wird zar. Der kaufmann zu seiner frau: wenn unsere jungen aufwachsen, sollen sie die eier verzehren. Als er ausser landes, hat die frau einen freund. Dieser verlangt die eier zum essen. Die jungen essen sie. Der freund befiehlt die jungen umzubringen. Die mägde bereiten auf bitten der jungen aus den herzen junger hunde eine mahlzeit zu. Über dem kopf des einen gehen in der kirche die kerzen an: wird zar. Dem anderen giebt ein alter mann kleider: geld ohne ende. Der zar, der ein mädchen ist, stiehlt die kleider. Der junge entwendet streitenden männern drei zaubergegenstände, darunter eine peitsche: zwei männer kommen, tun, was man befiehlt. Verwandelt das mädchen mit der peitsche in eine stute und begiebt sich mit derselben zu seinem bruder. Schliesslich das pferd in ein mädchen. – 5. Kontokki (Ders., s. 218). Ein kaufmann hat zwei söhne. Nach dem tode der mutter verheiratet er sich wieder. Die frau hat einen geliebten. Der kaufmann kauft einen wasservogel, am schnabel steht geschrieben: wer den vogel isst, wird kaiser. Der geliebte begehrt ihn zu essen, aber die jungen essen ihn weg. Auf sein verlangen befiehlt die stiefmutter der magd die herzen der jungen zu kochen. Die magd tötet sie nicht, kocht das herz eines jungen hundes. Die jungen reissen aus. Die kerze des jüngeren entzündet sich beim eintritt in die kirche von selbst in seiner hand: wird kaiser. Dem älteren giebt ein alter mann kleider: geld in der tasche. Der könig, der ein mädchen ist, entwendet die hosen. Der junge entwendet zwölf streitenden männern einen zauberstock und einen sattel mit einer peitsche an der spitze. Verwandelt das mädchen mit der peitsche in ein pferd, lässt einen schweren wagen anfertigen und begiebt sich mit dem pferd zu seinem bruder. Schliesslich mädchen schöner als zuvor. – 6. Ebenda (Ders., s. 219). Der jüngste der drei söhne eines alten mannes und einer alten frau fängt auf den rat seines glückes eine ente, die goldene eier legt. Er gelangt durch die eier zu wohlstand. Als der mann zum handeln ausgezogen, hat die frau einen liebhaber. Dieser sieht auf dem schnabel der ente geschrieben: wer mich isst, wird zar, befiehlt sie zu kochen. Die kleinen jungen essen den braten. Der liebhaber verlangt die eingeweide der jungen zum essen. Die mutter befiehlt den dienstboten sie umzubringen, sie lassen die jungen aber
+-->
+	</Page>
+</PcGts>

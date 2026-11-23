@@ -51,10 +51,17 @@ SCAN = os.path.basename((glob.glob(f'{work}/*.djvu') + glob.glob(f'{work}/*.pdf'
 # For PDF scans: resolution of the page images. Chosen per work so that the
 # embedded scan is not scaled (pdfimages -list); kept as fourth field of provenance/source.txt.
 _src = open(f'{work}/provenance/source.txt').read().split() if os.path.exists(f'{work}/provenance/source.txt') else []
-DPI = os.environ.get('DPI') or (_src[3] if len(_src) == 4 else '300')
+DPI = os.environ.get('DPI') or (_src[3] if len(_src) == 4 else '')
+if not DPI and SCAN.endswith('.pdf'):
+    # resolution of the embedded scans: the highest of the first pages (a PDF may
+    # hold a coarse background and a fine text layer), between 72 and 400
+    ppi = [float(l.split()[12]) for l in subprocess.run(['pdfimages', '-list', '-l', '30', SCAN], cwd=work, capture_output=True, text=True).stdout.split('\n')[2:]
+           if len(l.split()) > 13 and l.split()[2] in ('image', 'mask', 'smask', 'stencil')]
+    DPI = str(int(min(400, max(72, round(max(ppi))))) if ppi else 300)
+DPI = DPI or '300'
 if SCAN.endswith('.pdf') and len(_src) in (3, 4): open(f'{work}/provenance/source.txt', 'w').write(' '.join(_src[:3] + [DPI]) + '\n')
 # ESZETT=ſs: the print has no ß type and sets ſs for it everywhere (checked on the scans)
-ESZETT = os.environ.get('ESZETT', '')
+ESZETT = os.environ.get('ESZETT', '')      # ESZETT=auto: decided from the recognition of the whole work (see below)
 # LONGS=0: the print has no long s (modern Antiqua); a long s read by the models counts as s
 LONGS = os.environ.get('LONGS', '1') != '0'
 MAXSUBST = int(os.environ.get('MAXSUBST', '2'))
@@ -94,11 +101,11 @@ def ws_lines(wikitext):
     def template(m):
         parts = m.group(1).split('|'); n = parts[0].strip()
         if n in ('BRU', 'PRZU', 'Seite', 'SeitePR', 'Anker', 'NotTOC', 'LineCenterSize', 'References', 'LeereSeite', 'Linie', 'idt2', 'Idt2',
-                 'NotizLinks', 'NotizRechts'):      # images, anchors, indents, rules; marginal notes are not part of the text line
+                 'NotizLinks', 'NotizRechts', 'BlockSatzStart', 'BlockSatzEnd'):      # images, anchors, indents, rules; marginal notes are not part of the text line
             return '\n' if n in ('BRU', 'Linie') else ''
         if n == 'sup':                              # {{sup|e}}: small letter above the letter before
             return {'e': '\u0364', 'o': '\u0366'}.get(parts[-1].strip(), '⟦⟧')
-        if n in ('Unicode', 'Polytonisch', 'Dropinitial', 'Headline', 'An', 'left', 'Initiale', 'Center', 'center', 'idt', 'Idt', 'SperrSchrift', 'Sperrschrift', 'Kapitaelchen', 'Kapitälchen', 'Zeile', 'right', 'Right', 'larger', 'smaller'):
+        if n in ('Unicode', 'Polytonisch', 'Dropinitial', 'Headline', 'An', 'left', 'Initiale', 'Center', 'center', 'idt', 'Idt', 'SperrSchrift', 'Sperrschrift', 'Kapitaelchen', 'Kapitälchen', 'Zeile', 'right', 'Right', 'larger', 'smaller', 'ss', 'nowrap', 'Nowrap'):
             return parts[-1] if n not in ('idt', 'Idt', 'Zeile') else ''
         unknown_templates[n] += 1; return '⟦⟧'
     for _ in range(3): t = re.sub(r'\{\{([^{}]*)\}\}', template, t)
@@ -209,6 +216,8 @@ def assign(lines, wu, boxes):
             if best: break
         if not best: why[i] = reason or 'no stretch fits'; prev_end = None; continue
         t, s0, e = best
+        if '⟧' in wu[max(0, s0 - 2):s0] or '⟦' in wu[e:e + 2]:    # the print may have a footnote mark there which the recognition missed
+            why[i] = 'beside a footnote mark or an unknown template'; prev_end = None; continue
         inword = e < len(wu) and wu[e] != ' ' and wu[e] != '⟦'
         if hyph[i]:
             if not inword: why[i] = 'hyphen at the line end, but the word ends in Wikisource'; prev_end = e; continue
@@ -245,26 +254,46 @@ def assign(lines, wu, boxes):
     return res, why
 
 os.makedirs(f'{work}/.ocr', exist_ok=True); os.makedirs(f'{work}/GT-PAGE', exist_ok=True)
-stat = collections.Counter(); reasons = collections.Counter(); rows = []
-for f in sorted(glob.glob(f'{work}/provenance/wikisource/*.json'), key=lambda p: int(os.path.basename(p)[:-5])):
-    d = json.load(open(f, encoding='utf-8')); n = d['page']
-    if not first <= n <= last: continue
-    if d['level'] < 3: stat['pages not proofread'] += 1; continue
-    ws = ws_lines(d['wikitext'])
-    if not ws: stat['pages without text'] += 1; continue
-    base = f'{name}_{n:04d}'; png = f'{work}/GT-PAGE/{base}.png'
+pagefiles = sorted(glob.glob(f'{work}/provenance/wikisource/*.json'), key=lambda p: int(os.path.basename(p)[:-5]))
+
+def page_image(n, base):
+    png = f'{work}/GT-PAGE/{base}.png'
     if not SCAN: png = (glob.glob(f'{work}/GT-PAGE/{base}.jpg') + glob.glob(f'{work}/GT-PAGE/{base}.png') + [png])[0]
     for attempt in range(8):            # ImageMagick sometimes fails on a DjVu page ("recursive opening"); a retry helps
-        if os.path.exists(png) and os.path.getsize(png): break
+        if os.path.exists(png) and os.path.getsize(png): return png
         if not SCAN: continue
         if SCAN.endswith('.pdf'):
             r = subprocess.run(['pdftoppm', '-r', DPI, '-gray', '-png', '-f', str(n), '-l', str(n), '-singlefile', SCAN, os.path.abspath(png)[:-4]], cwd=work, capture_output=True)
         else:
             r = subprocess.run(['convert', f'{SCAN}[{n - 1}]', os.path.abspath(png)], cwd=work, capture_output=True)
         if r.returncode and os.path.exists(png): os.remove(png)
-    else: stat['pages without image'] += 1; print(n, 'no image'); continue
+    return None
+
+if ESZETT == 'auto':
+    # Does the print have a ß type? Count ß in Wikisource and what the first model reads on the same pages.
+    ws_n = oc = ls = 0
+    for f in pagefiles:
+        d = json.load(open(f, encoding='utf-8')); n = d['page']
+        if d['level'] < 3 or not first <= n <= last: continue
+        png = page_image(n, f'{name}_{n:04d}')
+        if not png: continue
+        t = ' '.join(x[1] for x in page_lines(ocr(png, M1, n))[0])
+        ws_n += d['wikitext'].count('ß'); oc += t.count('ß'); ls += t.count('ſs')
+    ESZETT = '' if ws_n < 20 or oc >= 0.3 * ws_n else 'ſs' if ls >= 0.3 * ws_n else 'ss'
+    print('ß in Wikisource', ws_n, '| read as ß', oc, '| read as ſs', ls, '| ESZETT =', repr(ESZETT), flush=True)
+stat = collections.Counter(); reasons = collections.Counter(); rows = []
+for f in pagefiles:
+    d = json.load(open(f, encoding='utf-8')); n = d['page']
+    if not first <= n <= last: continue
+    if d['level'] < 3: stat['pages not proofread'] += 1; continue
+    ws = ws_lines(d['wikitext'])
+    if not ws: stat['pages without text'] += 1; continue
+    base = f'{name}_{n:04d}'; png = page_image(n, base)
+    if not png: stat['pages without image'] += 1; print(n, 'no image'); continue
     (l1, tree), (l2, _) = page_lines(ocr(png, M1, n)), page_lines(ocr(png, M2, n))
-    wu = units(virg(' '.join(w if usable else '⟦⟧' for w, usable in ws)))
+    # A text line with a footnote mark or an unknown template keeps its text, with ⟦⟧
+    # at that place: in modern works a whole paragraph is one line of wikitext.
+    wu = units(virg(' '.join(w if usable or ('{' not in w and '}' not in w) else '⟦⟧' for w, usable in ws)))
     if ESZETT: wu = units(''.join(wu).replace('ß', ESZETT))
     def box(points):
         xy = [tuple(map(int, p.split(','))) for p in points.split()]

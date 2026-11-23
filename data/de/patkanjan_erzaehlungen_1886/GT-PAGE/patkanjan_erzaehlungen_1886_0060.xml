@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:44:14</Created>
+		<LastChange>2026-11-23T18:44:14</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:PatkanjanDreiErzählungen.pdf/60 revision 3378191 of 2018-08-01T06:08:19Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="patkanjan_erzaehlungen_1886_0060.png" imageWidth="1295" imageHeight="2124">
+		<ReadingOrder>
+			<OrderedGroup id="ro5952476902279898010" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="2,0 1178,0 1178,20 2,20" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="600,256 821,256 821,295 600,295" />
+			<!-- line left out: id="r1l0" points="600,279 639,279 689,261 710,260 776,256 821,256 821,295 776,295 710,291 689,290 639,283 600,283" baseline="600,283 776,281 821,281" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 50 —
+ | german_print2_15: — 50 —
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="247,349 1175,349 1175,1805 247,1805" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="248,358 266,358 267,368 284,368 284,358 308,358 340,367 377,367 377,357 401,357 402,367 445,362 461,362 480,366 512,355 552,355 552,366 577,366 577,357 614,356 614,366 706,366 710,380 718,380 750,366 771,366 771,356 794,356 826,364 863,364 893,352 906,352 927,353 927,363 945,363 945,352 970,352 1013,361 1030,361 1030,350 1098,349 1114,349 1114,360 1131,360 1131,349 1155,349 1155,379 750,385 718,392 710,392 706,385 248,389" />
+				<Baseline points="248,388 1155,379" />
+				<TextEquiv index="1">
+					<Unicode>Ich schaute Sarkis an, ob er nicht mit mir</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="248,421 285,421 285,411 309,411 309,420 384,420 385,434 392,434 412,419 432,419 432,410 456,410 457,419 524,419 524,409 568,409 568,419 591,419 591,433 599,433 617,409 629,409 629,419 686,419 686,409 718,409 718,419 731,419 731,409 753,409 753,418 794,418 810,406 852,406 852,417 863,417 863,406 892,406 892,416 910,416 910,407 935,407 951,410 1053,414 1064,403 1089,403 1139,403 1139,412 1154,412 1154,431 1117,433 852,438 617,439 599,445 591,445 591,439 546,439 546,445 524,445 524,439 412,439 392,445 385,445 347,440 248,441" />
+				<Baseline points="248,440 967,435 1154,432" />
+				<TextEquiv index="1">
+					<Unicode>scherze, aber nein, in seinem Gesichte war keine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="248,463 274,463 274,473 422,472 441,461 467,461 468,472 488,472 488,462 512,462 513,472 632,472 649,462 673,462 674,472 764,471 764,461 791,461 791,470 834,470 835,484 895,483 895,458 936,458 976,463 993,457 1033,457 1033,466 1049,466 1065,455 1083,455 1083,466 1095,466 1095,455 1144,455 1144,472 1154,472 1154,477 1144,477 1144,484 1097,486 936,488 936,495 912,495 912,489 896,489 896,495 878,495 841,489 749,491 299,493 299,503 274,503 274,494 248,494" />
+				<Baseline points="248,493 1154,485" />
+				<TextEquiv index="1">
+					<Unicode>Spur von Scherz zu bemerken. „Esst Ihr wirk-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l3" points="248,517 260,516 272,516 272,526 291,526 291,516 360,515 372,515 372,525 391,525 413,514 443,514 443,524 462,524 462,515 475,514 498,514 498,524 526,524 548,515 558,515 622,515 622,524 639,519 654,515 668,515 712,513 731,513 731,524 763,524 763,518 787,513 810,513 810,523 822,523 844,512 899,512 908,512 953,535 970,535 970,509 1028,509 1028,519 1072,517 1094,517 1145,517 1145,525 1155,525 1155,529 1145,529 1145,537 1123,538 1055,540 1028,540 1028,546 1002,546 1002,540 970,540 970,546 953,546 875,542 822,543 810,543 810,554 763,554 763,543 712,543 689,530 673,530 668,544 498,545 391,545 361,545 292,546 260,546 248,545" baseline="248,545 953,540 1072,538 1155,537" reason: second model: differs: "bst⸗“fr" against "bst?“ f" | Wikisource: lich die Leber selbst?“ fragte ich. „Was wun | next_nc_e1: lich die Leber selbst?“ fragte ich. „Was wun- | german_print2_15: lich die Leber selbst⸗“ fragte ich. „Was wun- -->
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="249,569 273,569 273,578 326,578 326,572 363,568 387,568 387,577 408,577 432,567 467,567 467,577 486,577 486,568 533,567 557,567 558,577 625,576 629,568 644,568 684,577 726,577 726,571 828,575 828,569 874,569 955,574 957,587 1004,587 1004,562 1075,561 1097,561 1097,570 1154,570 1154,589 1005,592 1005,598 996,599 957,598 936,594 850,595 850,607 828,607 828,595 814,595 814,606 788,606 788,596 769,596 769,607 742,607 742,596 684,597 661,583 645,583 644,597 249,598" />
+				<Baseline points="249,598 988,592 1154,589" />
+				<TextEquiv index="1">
+					<Unicode>derst du dich denn?“ entgegnete er, „ist denn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="248,621 282,621 283,631 301,631 324,620 353,620 354,630 373,630 373,621 398,621 398,630 481,629 481,619 493,619 493,629 511,629 511,620 536,620 579,630 655,629 678,618 709,618 710,628 789,628 792,619 807,619 824,622 869,642 878,642 878,617 934,617 934,627 972,626 972,617 1039,614 1069,614 1069,625 1156,623 1156,642 1137,644 1087,645 934,646 934,653 869,653 824,634 808,634 807,648 248,651" />
+				<Baseline points="248,650 1156,643" />
+				<TextEquiv index="1">
+					<Unicode>die Leber nicht zum Essen?“ „Hunde fressen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="249,673 278,673 279,683 298,683 298,674 322,674 322,683 334,683 334,673 357,673 357,683 382,683 392,677 513,677 531,682 559,672 571,672 571,682 589,682 589,673 613,673 642,683 666,681 701,681 701,672 715,672 715,681 734,676 777,672 782,672 813,681 860,680 860,670 883,670 915,680 991,679 991,669 1014,669 1047,678 1076,666 1093,666 1093,677 1108,677 1108,666 1137,666 1157,667 1157,695 1014,699 513,702 513,713 468,713 468,702 432,702 408,689 392,689 391,708 383,708 382,702 357,702 357,708 334,708 249,703" />
+				<Baseline points="249,703 1157,696" />
+				<TextEquiv index="1">
+					<Unicode>Lebern,“ sagte ich verletzt und wandte mich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="249,736 269,736 269,727 294,727 294,750 301,750 325,726 349,726 349,735 415,736 434,724 460,724 461,735 498,735 498,725 523,724 535,724 535,734 552,734 569,725 596,725 597,735 652,735 671,724 683,724 683,734 705,734 705,724 761,724 761,734 783,734 798,724 833,724 833,733 869,733 869,724 895,724 895,733 913,733 931,722 953,719 980,719 980,732 1056,731 1056,721 1078,719 1101,719 1101,729 1117,729 1117,719 1141,719 1141,728 1157,728 1157,748 1118,750 1017,751 1017,762 991,762 990,752 980,752 980,762 953,762 953,752 895,752 895,763 869,763 869,753 833,753 833,763 798,763 783,753 325,756 301,762 294,762 294,756 249,756" />
+				<Baseline points="249,756 1157,749" />
+				<TextEquiv index="1">
+					<Unicode>ab, denn Sarkis kam mir in jenem Augenblicke</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="249,789 261,789 261,779 294,779 294,789 356,789 356,779 368,779 368,789 391,789 412,778 429,777 475,777 475,788 493,788 493,778 529,777 552,777 594,777 594,788 775,786 775,806 357,809 249,809" />
+				<Baseline points="249,809 775,806" />
+				<TextEquiv index="1">
+					<Unicode>wie ein Leichenfresser vor.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="337,830 373,830 373,841 412,841 412,831 497,830 497,840 558,840 580,829 634,829 634,840 650,840 650,830 674,830 674,839 692,839 719,830 744,830 745,839 799,839 828,828 859,828 859,838 881,838 909,828 922,827 945,827 980,828 980,837 1016,837 1016,827 1040,827 1040,836 1149,833 1149,841 1159,841 1159,845 1149,845 1149,853 1107,854 1086,860 1058,860 1040,856 945,860 922,860 859,858 540,860 497,860 337,860" />
+				<Baseline points="337,860 1159,854" />
+				<TextEquiv index="1">
+					<Unicode>Nach einer Weile kam ein hübscher, an-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="250,893 268,888 283,887 304,887 304,893 326,893 327,883 350,882 362,882 362,892 424,892 455,881 495,881 495,891 539,891 539,882 563,882 564,891 583,891 614,881 626,881 626,891 649,891 680,882 703,882 704,891 746,891 778,880 796,880 796,903 807,903 808,891 828,891 828,881 853,881 853,890 905,890 951,903 968,903 969,878 1008,878 1008,889 1021,889 1021,878 1047,878 1047,888 1081,888 1106,877 1129,877 1161,881 1161,906 1047,908 1047,915 1021,915 1021,908 969,909 968,915 723,911 388,912 388,922 361,922 361,912 250,913" />
+				<Baseline points="250,912 1161,906" />
+				<TextEquiv index="1">
+					<Unicode>ständiger Knabe in den Laden. „Mama hat</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="248,945 283,945 283,934 296,934 296,944 315,944 315,935 357,933 392,933 392,943 428,943 428,934 453,934 453,943 592,944 592,934 627,934 628,944 647,944 647,934 672,934 687,938 687,957 707,943 764,943 780,933 803,933 803,942 842,943 842,957 849,957 868,943 940,942 954,932 977,932 977,942 1059,941 1059,929 1076,929 1112,930 1112,939 1160,938 1160,958 1000,962 868,962 849,968 841,968 841,962 707,962 692,969 686,969 686,963 536,963 536,974 509,974 491,963 248,964" />
+				<Baseline points="248,964 1160,958" />
+				<TextEquiv index="1">
+					<Unicode>mich hierher geschickt, um das, was du auf dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="248,986 292,986 292,996 412,995 412,984 447,985 447,995 492,995 492,984 574,986 616,991 616,1010 623,1010 646,995 665,995 665,986 690,986 690,995 731,995 731,985 746,984 791,984 791,994 833,994 843,988 859,988 878,994 911,989 958,989 1006,993 1039,993 1079,1006 1095,1006 1095,981 1131,981 1131,991 1152,991 1152,980 1167,980 1167,1010 1095,1011 1095,1018 1016,1014 958,1014 958,1025 911,1025 911,1014 878,1014 859,1000 843,1000 841,1019 746,1019 731,1015 646,1015 623,1021 616,1021 616,1015 584,1016 574,1021 553,1021 553,1015 436,1014 436,1025 403,1025 376,1025 354,1015 248,1015" />
+				<Baseline points="248,1015 858,1014 1167,1010" />
+				<TextEquiv index="1">
+					<Unicode>Basar gekauft hast, abzuholen,“ sagte er. „Auf</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="248,1039 272,1039 272,1048 325,1048 349,1037 386,1037 387,1047 424,1047 424,1038 568,1038 589,1042 589,1048 670,1043 691,1037 722,1037 722,1047 802,1047 802,1041 873,1036 911,1036 968,1036 1013,1036 1013,1047 1029,1047 1029,1036 1053,1036 1053,1045 1162,1043 1162,1068 1125,1068 1069,1065 978,1067 873,1067 827,1052 820,1052 819,1066 640,1068 640,1078 613,1078 613,1067 248,1067" />
+				<Baseline points="248,1067 1162,1063" />
+				<TextEquiv index="1">
+					<Unicode>dem Herde ist längst Feuer.“ Ich erfuhr nun,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l14" points="248,1091 272,1091 272,1100 309,1099 325,1099 357,1090 379,1089 391,1089 391,1099 411,1098 457,1098 457,1089 532,1089 532,1099 576,1099 576,1090 601,1090 601,1099 620,1099 653,1090 694,1090 694,1099 760,1099 765,1113 772,1113 805,1088 843,1088 843,1098 869,1098 869,1089 894,1088 906,1088 906,1099 924,1099 925,1089 965,1088 992,1088 992,1099 1013,1099 1013,1089 1037,1089 1037,1098 1102,1097 1143,1096 1164,1096 1164,1115 1144,1116 1106,1117 1061,1118 1014,1119 965,1119 932,1100 925,1100 924,1118 843,1119 772,1124 765,1124 760,1118 743,1119 694,1124 671,1124 380,1119 248,1119" baseline="248,1119 1164,1116" reason: differs: "kis'Soh" against "kis’ So" | Wikisource:  | next_nc_e1: dass dieser Knabe Toros, Sarkis' Sohn war. | german_print2_15: dass dieser Knabe Toros, Sarkis' Sohn war. -->
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="247,1141 274,1141 275,1152 293,1152 293,1141 318,1141 318,1151 449,1150 479,1140 512,1140 512,1151 532,1151 532,1141 561,1141 561,1152 580,1152 580,1142 604,1142 620,1147 706,1152 706,1142 732,1142 732,1151 775,1150 799,1146 814,1146 834,1151 860,1141 872,1141 872,1151 891,1151 891,1142 917,1142 921,1165 928,1165 957,1142 981,1142 981,1151 1035,1151 1062,1140 1092,1140 1092,1149 1166,1148 1166,1168 1019,1171 928,1176 921,1176 917,1170 639,1172 247,1172" />
+				<Baseline points="247,1172 1166,1168" />
+				<TextEquiv index="1">
+					<Unicode>Schon am Gesichte erkannte ich, dass Toros</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="248,1204 267,1204 267,1194 279,1194 279,1204 350,1203 372,1198 387,1198 424,1203 442,1193 463,1193 463,1203 720,1203 720,1194 765,1193 776,1193 776,1202 795,1202 795,1193 818,1193 841,1203 991,1203 1018,1193 1030,1193 1053,1194 1053,1203 1166,1201 1166,1221 1030,1223 868,1222 868,1232 841,1232 818,1222 539,1223 539,1233 512,1233 512,1222 463,1222 463,1231 442,1231 424,1222 350,1223 350,1234 324,1234 301,1223 248,1223" />
+				<Baseline points="248,1223 1166,1222" />
+				<TextEquiv index="1">
+					<Unicode>ein guter Junge war und ich gewann ihn von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="247,1246 292,1246 292,1255 382,1255 400,1245 412,1244 424,1244 424,1254 443,1254 443,1245 468,1245 469,1268 530,1269 530,1245 579,1245 580,1255 689,1256 689,1246 700,1246 700,1255 722,1255 741,1244 767,1244 767,1250 788,1245 812,1245 812,1254 856,1254 856,1245 880,1245 882,1254 926,1255 926,1269 933,1269 952,1255 977,1255 977,1246 989,1246 989,1255 1059,1256 1080,1244 1092,1244 1103,1246 1103,1254 1140,1254 1144,1244 1151,1244 1166,1247 1166,1259 1152,1259 1151,1273 1140,1274 952,1274 933,1280 926,1280 926,1273 767,1275 530,1274 530,1280 513,1280 476,1274 247,1275" />
+				<Baseline points="247,1275 1166,1273" />
+				<TextEquiv index="1">
+					<Unicode>Herzen lieb. „Hier mein Söhnchen, nimm das!“</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="247,1307 310,1308 310,1302 326,1302 344,1307 376,1296 414,1296 414,1306 440,1306 440,1297 465,1296 477,1296 477,1307 573,1307 573,1298 627,1297 675,1297 675,1307 692,1307 692,1298 717,1298 751,1307 783,1296 830,1296 830,1306 851,1306 875,1297 899,1297 899,1305 942,1305 966,1297 1014,1297 1014,1307 1028,1307 1028,1299 1070,1299 1075,1322 1082,1322 1105,1298 1128,1298 1128,1307 1168,1307 1168,1326 1105,1327 1082,1333 1075,1333 1070,1327 1014,1326 1014,1333 987,1333 987,1326 311,1326 311,1337 286,1337 286,1327 247,1326" />
+				<Baseline points="247,1326 941,1325 1168,1327" />
+				<TextEquiv index="1">
+					<Unicode>sagte Sarkis und reichte ihm den Korb, den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="247,1350 258,1350 258,1360 277,1360 277,1350 346,1350 347,1359 366,1359 367,1349 400,1348 436,1348 458,1349 474,1354 530,1359 530,1350 552,1350 594,1354 613,1359 613,1350 697,1350 699,1359 719,1354 768,1350 819,1348 864,1348 864,1357 929,1358 950,1348 961,1348 1000,1348 1000,1358 1019,1358 1019,1349 1045,1349 1061,1354 1061,1360 1081,1360 1099,1351 1135,1349 1156,1354 1158,1366 1169,1366 1169,1370 1158,1370 1156,1378 1123,1379 552,1379 552,1390 516,1390 492,1379 247,1379" />
+				<Baseline points="247,1379 950,1377 1169,1378" />
+				<TextEquiv index="1">
+					<Unicode>ich bei Seite gestellt hatte. Toros blickte hin-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="249,1413 268,1413 268,1403 280,1403 280,1414 380,1413 381,1403 470,1403 470,1412 554,1412 582,1402 616,1402 617,1412 636,1412 658,1402 699,1402 732,1403 732,1411 768,1411 797,1400 800,1400 800,1411 833,1411 833,1401 857,1400 882,1400 882,1411 900,1411 900,1401 927,1401 943,1405 943,1411 962,1411 967,1425 974,1425 999,1411 1039,1411 1065,1407 1169,1411 1169,1431 1065,1432 1065,1442 1038,1442 1038,1431 974,1436 901,1431 816,1431 800,1436 708,1432 249,1433" />
+				<Baseline points="249,1433 1169,1430" />
+				<TextEquiv index="1">
+					<Unicode>ein und als er die Leber erblickte, sagte er:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="248,1480 265,1480 266,1456 342,1456 368,1466 439,1465 439,1456 463,1456 463,1465 506,1465 537,1456 562,1456 563,1465 594,1466 594,1460 745,1465 774,1454 825,1454 854,1458 854,1464 1001,1464 1034,1454 1064,1454 1064,1465 1085,1464 1102,1459 1117,1458 1152,1458 1152,1464 1169,1464 1169,1483 902,1484 902,1494 875,1494 875,1483 786,1484 786,1494 774,1494 745,1484 314,1485 314,1475 303,1475 303,1485 266,1485 265,1491 248,1491" />
+				<Baseline points="248,1485 1169,1484" />
+				<TextEquiv index="1">
+					<Unicode>„Wir werden heute zum Mittagessen Pastete</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="248,1508 272,1508 272,1518 292,1518 292,1508 316,1508 316,1517 360,1517 365,1509 429,1508 429,1517 497,1518 516,1512 526,1512 535,1518 554,1513 603,1512 603,1518 673,1517 692,1507 715,1506 727,1506 727,1517 745,1517 765,1507 786,1506 818,1506 827,1510 944,1516 944,1505 963,1505 971,1517 1018,1516 1018,1507 1041,1507 1056,1517 1072,1517 1072,1507 1095,1507 1095,1517 1111,1517 1112,1507 1137,1507 1152,1511 1152,1517 1170,1517 1170,1535 657,1537 451,1537 405,1537 395,1523 379,1523 379,1537 316,1537 272,1537 248,1536" />
+				<Baseline points="248,1537 1170,1536" />
+				<TextEquiv index="1">
+					<Unicode>haben?“ dann setzte er die Mütze auf und wollte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="247,1569 372,1569 372,1559 396,1559 396,1569 440,1569 441,1582 512,1583 513,1559 544,1559 544,1570 623,1569 628,1560 696,1558 830,1558 830,1569 846,1569 884,1559 910,1559 910,1569 946,1569 981,1558 1017,1558 1017,1568 1038,1563 1074,1563 1164,1568 1164,1582 1170,1582 1170,1593 1164,1593 1164,1587 680,1588 652,1575 637,1575 635,1588 513,1588 512,1594 494,1594 447,1587 353,1588 353,1598 300,1598 300,1588 247,1587" />
+				<Baseline points="247,1587 1170,1587" />
+				<TextEquiv index="1">
+					<Unicode>weggehen. „Toros!“ rief ihm der Vater zu,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l24" custom="readingOrder {index:24;}">
+				<Coords points="247,1634 264,1634 265,1620 289,1620 289,1610 300,1610 300,1620 369,1620 379,1610 418,1610 419,1620 439,1620 439,1611 451,1610 478,1610 478,1620 523,1620 537,1611 548,1611 548,1620 573,1620 573,1611 585,1611 607,1616 625,1610 645,1610 684,1611 685,1620 721,1620 738,1610 750,1610 773,1611 774,1620 1019,1620 1019,1611 1053,1610 1090,1610 1090,1620 1172,1620 1172,1639 625,1639 607,1645 584,1645 584,1639 548,1639 548,1645 537,1645 478,1640 265,1639 264,1645 247,1645" />
+				<Baseline points="247,1639 1172,1640" />
+				<TextEquiv index="1">
+					<Unicode>„nimm Melkon mit, führe ihn zu uns nach Hause</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l25" custom="readingOrder {index:25;}">
+				<Coords points="248,1672 295,1672 295,1662 318,1662 349,1671 389,1672 389,1661 401,1661 401,1671 420,1671 420,1662 432,1662 433,1671 521,1672 521,1662 627,1662 627,1673 693,1673 693,1663 725,1663 726,1673 745,1673 778,1663 792,1663 792,1673 812,1673 813,1663 839,1663 871,1673 891,1673 892,1663 903,1663 903,1673 982,1673 1010,1663 1042,1663 1042,1673 1081,1673 1081,1663 1105,1663 1106,1672 1125,1672 1126,1664 1156,1664 1173,1667 1173,1678 1158,1678 1156,1692 948,1693 390,1690 390,1700 367,1700 367,1690 248,1691" />
+				<Baseline points="248,1690 1173,1692" />
+				<TextEquiv index="1">
+					<Unicode>und spiele mit ihm wie mit einem Bruder!“</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l26" custom="readingOrder {index:26;}">
+				<Coords points="337,1713 354,1713 354,1723 374,1723 374,1713 396,1713 420,1723 492,1723 514,1715 524,1715 524,1724 552,1724 552,1715 683,1714 683,1725 785,1716 808,1716 809,1725 846,1725 864,1716 887,1715 899,1715 899,1725 957,1725 976,1715 1019,1715 1019,1725 1042,1725 1042,1716 1055,1716 1055,1725 1076,1725 1076,1715 1100,1715 1100,1725 1175,1725 1175,1756 1150,1756 1148,1744 809,1745 337,1742" />
+				<Baseline points="337,1742 1175,1744" />
+				<TextEquiv index="1">
+					<Unicode>Ich war sehr erfreut über diese Einladung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l27" points="248,1775 295,1775 295,1766 336,1765 375,1765 375,1775 422,1775 439,1766 458,1766 458,1776 475,1776 475,1766 551,1766 551,1777 572,1776 628,1776 646,1767 681,1767 681,1777 766,1777 767,1791 773,1791 809,1767 853,1767 876,1768 894,1778 928,1778 928,1767 957,1767 1044,1766 1071,1766 1071,1777 1109,1777 1109,1767 1146,1767 1148,1777 1165,1777 1167,1768 1172,1768 1172,1777 1167,1777 1165,1796 1071,1797 1009,1798 974,1798 853,1797 809,1797 573,1796 519,1796 439,1795 422,1805 395,1805 395,1794 375,1794 375,1805 336,1805 318,1794 248,1794" baseline="248,1794 336,1794 1172,1796" reason: second model: differs: "kis'" against "kis’" | Wikisource: und ging mit Toros hinaus. Als wir bei Sarkis’ | next_nc_e1: und ging mit Toros hinaus. Als wir bei Sarkis’
+ | german_print2_15: und ging mit Toros hinaus. Als wir bei Sarkis'
+ -->
+			<TextEquiv index="1">
+				<Unicode>Ich schaute Sarkis an, ob er nicht mit mir
+scherze, aber nein, in seinem Gesichte war keine
+Spur von Scherz zu bemerken. „Esst Ihr wirk-
+derst du dich denn?“ entgegnete er, „ist denn
+die Leber nicht zum Essen?“ „Hunde fressen
+Lebern,“ sagte ich verletzt und wandte mich
+ab, denn Sarkis kam mir in jenem Augenblicke
+wie ein Leichenfresser vor.
+Nach einer Weile kam ein hübscher, an-
+ständiger Knabe in den Laden. „Mama hat
+mich hierher geschickt, um das, was du auf dem
+Basar gekauft hast, abzuholen,“ sagte er. „Auf
+dem Herde ist längst Feuer.“ Ich erfuhr nun,
+Schon am Gesichte erkannte ich, dass Toros
+ein guter Junge war und ich gewann ihn von
+Herzen lieb. „Hier mein Söhnchen, nimm das!“
+sagte Sarkis und reichte ihm den Korb, den
+ich bei Seite gestellt hatte. Toros blickte hin-
+ein und als er die Leber erblickte, sagte er:
+„Wir werden heute zum Mittagessen Pastete
+haben?“ dann setzte er die Mütze auf und wollte
+weggehen. „Toros!“ rief ihm der Vater zu,
+„nimm Melkon mit, führe ihn zu uns nach Hause
+und spiele mit ihm wie mit einem Bruder!“
+Ich war sehr erfreut über diese Einladung</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="0,0 1295,0 1295,9 0,9" />
+		</GraphicRegion>
+		<SeparatorRegion id="r4">
+			<Coords points="1229,42 1272,42 1272,2122 1229,2122" />
+		</SeparatorRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="0,2046 1295,2046 1295,2124 0,2124" />
+			<!-- line left out: id="r5l0" points="0,2046 1295,2046 1295,2124 0,2124" baseline="0,2124 1295,2119" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: dd | german_print2_15:  hfhfhd -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Ich schaute Sarkis an, ob er nicht mit mir scherze, aber nein, in seinem Gesichte war keine Spur von Scherz zu bemerken. „Esst Ihr wirklich die Leber selbst?“ fragte ich. „Was wunderst du dich denn?“ entgegnete er, „ist denn die Leber nicht zum Essen?“ „Hunde fressen Lebern,“ sagte ich verletzt und wandte mich ab, denn Sarkis kam mir in jenem Augenblicke wie ein Leichenfresser vor.
+Nach einer Weile kam ein hübscher, anständiger Knabe in den Laden. „Mama hat mich hierher geschickt, um das, was du auf dem Basar gekauft hast, abzuholen,“ sagte er. „Auf dem Herde ist längst Feuer.“ Ich erfuhr nun, dass dieser Knabe Toros, Sarkis’ Sohn war. Schon am Gesichte erkannte ich, dass Toros ein guter Junge war und ich gewann ihn von Herzen lieb. „Hier mein Söhnchen, nimm das!“ sagte Sarkis und reichte ihm den Korb, den ich bei Seite gestellt hatte. Toros blickte hinein und als er die Leber erblickte, sagte er: „Wir werden heute zum Mittagessen Pastete haben?“ dann setzte er die Mütze auf und wollte weggehen. „Toros!“ rief ihm der Vater zu, „nimm Melkon mit, führe ihn zu uns nach Hause und spiele mit ihm wie mit einem Bruder!“
+Ich war sehr erfreut über diese Einladung und ging mit Toros hinaus. Als wir bei Sarkis’
+-->
+	</Page>
+</PcGts>

@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:44:35</Created>
+		<LastChange>2026-11-23T18:44:35</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:PatkanjanDreiErzählungen.pdf/100 revision 3378062 of 2018-08-01T06:07:29Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="patkanjan_erzaehlungen_1886_0100.png" imageWidth="1309" imageHeight="2160">
+		<ReadingOrder>
+			<OrderedGroup id="ro11349478267500490654" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="570,0 1231,0 1231,17 570,17" />
+		</SeparatorRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,0 1309,0 1309,187 0,187" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="572,232 788,232 788,283 572,283" />
+			<!-- line left out: id="r2l0" points="572,269 605,269 657,249 678,248 743,248 743,232 788,232 788,283 743,283 657,278 605,272 572,272" baseline="572,273 657,270 786,265 788,265" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 90 —
+ | german_print2_15: — 90 –
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="225,329 1188,329 1188,1795 225,1795" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="316,378 334,378 335,353 386,353 386,362 437,361 468,350 494,350 495,359 515,359 515,352 544,352 562,356 588,346 611,346 613,355 795,348 830,348 830,332 852,332 852,347 869,347 869,336 895,336 934,344 980,343 980,333 1032,329 1042,329 1042,341 1072,341 1072,329 1091,329 1091,340 1102,340 1102,329 1125,329 1145,334 1145,359 1125,361 1091,360 852,367 852,384 830,384 830,367 795,368 795,380 769,380 737,371 419,382 386,382 386,390 360,390 360,384 335,384 334,390 316,390" />
+				<Baseline points="316,385 736,370 1145,358" />
+				<TextEquiv index="1">
+					<Unicode>„Hans hatte das nur gewollt und sofort</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="225,411 250,410 250,419 379,415 418,404 442,403 455,403 455,412 479,412 479,400 508,400 508,412 545,410 545,400 574,400 574,409 616,408 616,402 688,395 715,395 715,404 790,402 790,395 816,395 816,401 865,400 907,387 943,387 944,397 1002,395 1006,409 1013,409 1055,382 1082,382 1082,388 1098,388 1099,382 1146,382 1146,411 1055,413 1013,420 964,417 907,418 865,426 790,426 772,423 688,425 650,433 645,433 645,427 546,430 508,433 239,440 225,440" />
+				<Baseline points="225,440 1146,411" />
+				<TextEquiv index="1">
+					<Unicode>liess er Zimmerleute kommen, Haus, Stall</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="230,473 277,472 278,461 320,458 348,458 348,469 367,469 367,459 380,458 400,458 400,467 474,465 493,451 523,453 523,463 580,461 580,451 592,451 592,461 626,459 731,457 731,446 755,446 772,455 833,453 833,443 859,443 860,452 872,452 872,440 933,440 933,450 951,450 968,439 991,439 991,448 1026,447 1044,436 1073,435 1095,435 1095,445 1106,445 1106,435 1138,435 1139,458 1146,458 1146,464 905,471 894,475 872,475 859,473 817,474 437,487 400,490 368,489 277,492 230,492" />
+				<Baseline points="230,493 1146,463" />
+				<TextEquiv index="1">
+					<Unicode>und Scheuer einreissen und verkaufte das Holz.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="231,514 265,514 267,524 303,524 326,512 383,512 383,520 421,520 441,507 498,507 529,515 563,515 563,504 589,504 589,513 647,512 647,501 673,501 706,510 728,499 741,499 741,508 759,508 759,498 785,498 802,507 850,506 850,495 910,494 910,503 1040,499 1040,489 1068,488 1110,488 1111,497 1147,497 1147,517 972,521 955,533 931,533 931,523 303,544 231,545" />
+				<Baseline points="231,546 705,529 1147,516" />
+				<TextEquiv index="1">
+					<Unicode>Um diese Zeit erkrankte ich und lag zwei Mo-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="232,577 276,577 276,571 292,571 312,576 335,565 348,565 348,574 382,574 406,562 449,562 490,565 512,570 512,562 559,557 644,554 656,554 656,563 673,563 673,553 744,552 744,561 869,558 869,547 894,546 926,546 926,555 961,555 983,540 995,540 1002,553 1024,553 1024,541 1055,541 1070,546 1108,550 1108,540 1148,540 1148,575 1108,575 1070,571 1004,573 995,575 926,576 915,578 812,579 656,584 515,592 474,591 276,597 232,597" />
+				<Baseline points="232,598 1148,568" />
+				<TextEquiv index="1">
+					<Unicode>nate im Bette. Als ich dann wieder aufstand,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="232,621 256,621 256,630 296,629 296,619 321,619 357,627 385,616 398,616 398,625 416,625 416,615 492,614 493,622 511,622 511,612 522,612 547,620 581,620 581,609 593,609 593,618 621,619 652,606 670,606 670,616 688,616 688,606 713,606 740,613 835,611 864,600 889,600 889,609 928,608 928,599 1001,596 1013,596 1013,605 1080,604 1080,594 1106,594 1107,602 1150,602 1150,622 1062,623 1062,635 1036,635 1035,625 610,638 492,643 232,650" />
+				<Baseline points="232,651 652,636 1150,621" />
+				<TextEquiv index="1">
+					<Unicode>dachte ich bei mir: Ich muss doch hingehen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="233,683 255,681 279,681 279,671 330,669 368,669 368,678 531,674 552,661 578,661 579,672 596,672 596,661 634,660 634,670 673,669 673,658 701,658 701,667 736,667 762,656 788,656 789,664 869,663 869,653 926,653 926,661 946,661 988,648 1007,648 1007,658 1024,658 1024,648 1069,646 1097,646 1097,655 1153,654 1153,674 988,678 926,685 871,683 788,685 488,696 255,702 233,702" />
+				<Baseline points="233,702 552,693 1153,673" />
+				<TextEquiv index="1">
+					<Unicode>und die armen Schlucker besuchen. Ich kam</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="236,735 279,734 311,722 348,723 348,731 365,731 397,720 421,717 447,717 447,724 517,728 517,717 543,717 543,726 586,725 591,738 598,738 632,711 650,711 650,722 690,721 690,711 713,711 749,719 768,719 768,709 794,709 795,717 831,717 868,706 904,704 904,714 922,714 952,703 972,702 1005,702 1028,705 1143,707 1143,714 1155,714 1155,719 1143,719 1143,727 632,742 598,750 543,747 257,755 236,755" />
+				<Baseline points="236,755 1155,725" />
+				<TextEquiv index="1">
+					<Unicode>an ihr Häuschen, fand aber die Thür ver-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l8" custom="readingOrder {index:8;}">
+				<Coords points="239,788 273,787 273,777 298,776 313,776 313,785 497,781 497,771 579,767 592,767 592,777 610,777 650,759 665,759 678,764 680,773 723,772 724,766 757,766 792,770 792,761 806,761 806,770 827,770 827,759 852,759 852,769 959,765 994,763 994,746 1020,746 1029,762 1055,762 1055,746 1080,746 1080,761 1121,760 1121,750 1137,750 1158,754 1158,779 1080,781 1080,797 1055,797 1055,782 1020,783 1020,797 994,797 994,784 678,794 498,802 275,808 256,808 239,807" />
+				<Baseline points="239,808 1158,778" />
+				<TextEquiv index="1">
+					<Unicode>schlossen und die Fensterladen verrammelt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l9" custom="readingOrder {index:9;}">
+				<Coords points="239,830 256,830 257,840 275,840 275,829 323,827 343,827 343,837 404,837 404,831 483,834 483,824 494,824 494,833 559,831 580,819 619,819 619,828 660,827 660,817 685,817 686,826 741,825 775,837 792,837 792,812 865,811 865,821 888,821 911,809 960,808 960,818 983,818 983,807 1005,807 1009,830 1016,830 1043,803 1061,803 1061,814 1097,813 1097,803 1127,803 1127,812 1145,812 1145,806 1161,806 1161,831 1127,833 1043,834 1016,842 1009,842 1005,836 951,839 842,841 842,849 819,849 819,842 793,842 793,849 775,849 730,845 517,853 405,855 405,867 377,867 377,857 277,860 239,859" />
+				<Baseline points="239,861 1161,831" />
+				<TextEquiv index="1">
+					<Unicode>Ich fragte einen Knaben: „Mein Kind, weisst</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l10" custom="readingOrder {index:10;}">
+				<Coords points="241,883 265,883 265,892 329,891 329,880 342,880 342,890 361,890 361,880 386,880 402,883 402,902 409,902 428,888 452,886 484,886 502,876 524,874 536,874 536,883 554,883 567,872 596,872 596,881 638,881 638,874 750,876 770,866 793,865 806,865 806,875 900,873 915,861 961,861 961,871 972,871 972,864 1064,867 1064,856 1077,856 1077,866 1101,866 1101,856 1145,856 1162,858 1162,870 1146,870 1145,885 973,890 961,892 794,895 526,905 428,907 409,914 402,914 402,908 241,912" />
+				<Baseline points="241,913 749,896 1162,884" />
+				<TextEquiv index="1">
+					<Unicode>du nicht, wo die Leute aus diesem Hause sind?“</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l11" points="242,951 283,951 321,956 321,931 367,931 367,941 416,940 436,939 455,939 455,928 518,925 550,924 578,924 578,934 606,934 606,924 631,924 631,932 651,931 673,931 691,920 715,920 716,929 735,929 735,919 774,919 774,927 806,927 824,916 854,916 854,926 897,925 914,925 914,915 925,915 926,924 944,924 944,914 966,914 985,922 1005,921 1027,921 1027,909 1044,909 1063,919 1082,919 1082,908 1095,908 1095,918 1140,917 1163,917 1163,937 1118,938 1083,939 1027,941 1006,942 966,943 945,944 914,945 854,947 774,950 752,950 738,949 715,950 673,951 650,952 631,953 607,954 578,956 500,959 398,961 367,961 367,968 342,968 342,960 321,960 321,968 303,968 283,955 242,955" baseline="242,965 303,963 416,959 518,956 672,951 691,951 805,947 824,946 965,942 1063,939 1163,937" reason: differs: "—„Vo" against "– „V" | Wikisource:  | next_nc_e1: — „Vor zwei Wochen haben sie sich auf einen | german_print2_15: — „Vor zwei Wochen haben sie sich auf einen -->
+			<TextLine id="r3l12" custom="readingOrder {index:12;}">
+				<Coords points="242,986 283,986 283,995 374,993 374,986 399,986 399,993 411,991 455,991 479,981 488,981 488,991 504,989 559,988 559,982 607,981 670,984 670,973 694,973 712,982 728,982 728,971 741,971 741,981 765,981 765,971 810,969 830,969 830,979 865,974 927,977 927,966 945,966 945,977 960,977 960,966 984,966 984,975 1042,973 1052,966 1068,966 1092,972 1138,971 1138,965 1154,965 1154,977 1166,977 1166,982 1154,982 1154,990 1092,991 1068,978 1052,978 1050,998 1042,998 1019,994 984,996 908,997 908,1008 882,1008 882,998 789,1000 505,1009 505,1021 479,1021 455,1012 412,1012 412,1022 374,1022 374,1012 242,1015" />
+				<Baseline points="242,1016 810,999 1166,990" />
+				<TextEquiv index="1">
+					<Unicode>Plauwagen gesetzt und sind fortgefahren,“ ant-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l13" custom="readingOrder {index:13;}">
+				<Coords points="242,1047 263,1047 263,1040 285,1040 285,1047 296,1047 296,1040 366,1040 385,1045 410,1034 434,1034 434,1043 472,1043 485,1032 506,1032 506,1042 597,1039 599,1052 653,1051 653,1025 709,1023 709,1034 725,1034 725,1025 751,1023 836,1022 836,1032 860,1032 860,1022 902,1020 949,1020 967,1028 1009,1027 1009,1015 1028,1015 1028,1026 1042,1026 1042,1016 1067,1016 1067,1024 1131,1024 1135,1014 1150,1014 1167,1016 1167,1028 1151,1028 1150,1043 992,1047 992,1058 967,1058 949,1050 709,1054 709,1063 684,1063 684,1056 654,1056 654,1063 579,1059 579,1070 553,1070 552,1060 506,1061 506,1071 485,1071 472,1063 242,1067" />
+				<Baseline points="242,1068 637,1058 1167,1042" />
+				<TextEquiv index="1">
+					<Unicode>wortete der Junge. „Wohin sind sie gefahren?“</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l14" custom="readingOrder {index:14;}">
+				<Coords points="241,1089 259,1089 259,1099 292,1099 292,1092 320,1089 345,1089 345,1097 353,1097 385,1086 399,1086 399,1096 417,1096 417,1086 451,1086 497,1108 513,1108 513,1084 566,1084 566,1092 614,1091 668,1089 668,1078 697,1078 698,1088 714,1088 745,1076 758,1076 758,1086 777,1086 777,1077 802,1077 833,1085 857,1085 857,1074 870,1074 870,1084 888,1084 888,1074 914,1074 930,1078 933,1097 941,1097 942,1076 1022,1080 1022,1073 1067,1073 1165,1075 1165,1095 1067,1097 1067,1109 1022,1109 1022,1099 988,1100 958,1088 942,1088 941,1108 933,1108 930,1102 566,1112 566,1120 537,1120 537,1114 514,1114 514,1120 418,1116 345,1117 345,1128 292,1128 292,1118 241,1119" />
+				<Baseline points="241,1120 1165,1095" />
+				<TextEquiv index="1">
+					<Unicode>fragte ich. „Das weiss ich nicht,“ sagte er.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l15" custom="readingOrder {index:15;}">
+				<Coords points="242,1142 259,1142 259,1151 277,1151 277,1141 302,1141 325,1149 343,1149 343,1139 367,1139 367,1149 382,1149 382,1139 409,1139 425,1143 560,1145 560,1135 636,1133 636,1142 653,1142 653,1132 678,1132 701,1140 724,1140 724,1129 736,1129 736,1139 755,1139 755,1129 781,1129 824,1138 850,1138 850,1127 864,1127 864,1137 908,1136 908,1127 933,1127 934,1135 976,1134 982,1147 988,1147 1020,1132 1039,1132 1039,1122 1064,1122 1065,1130 1102,1130 1125,1119 1151,1119 1151,1127 1170,1127 1170,1147 1064,1151 1020,1151 988,1159 953,1155 851,1157 851,1167 824,1167 796,1158 506,1167 242,1171" />
+				<Baseline points="242,1172 1170,1148" />
+				<TextEquiv index="1">
+					<Unicode>Ich wollte es wirklich nicht glauben, aber da</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l16" custom="readingOrder {index:16;}">
+				<Coords points="243,1195 267,1195 267,1203 333,1202 333,1195 357,1195 357,1201 375,1201 375,1195 426,1195 444,1200 468,1189 486,1189 486,1200 503,1200 503,1189 532,1189 558,1197 600,1196 600,1185 664,1185 664,1194 701,1193 723,1181 750,1181 767,1186 909,1189 909,1178 920,1178 920,1188 963,1187 989,1175 1038,1174 1053,1178 1150,1180 1150,1170 1172,1170 1172,1200 532,1219 399,1221 399,1233 357,1233 333,1233 333,1222 315,1222 315,1233 289,1233 287,1223 243,1223" />
+				<Baseline points="243,1224 723,1213 1172,1200" />
+				<TextEquiv index="1">
+					<Unicode>begegnete mir auf der Strasse eine Alte und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l17" custom="readingOrder {index:17;}">
+				<Coords points="245,1247 280,1245 280,1255 373,1254 373,1248 419,1248 435,1253 468,1241 484,1241 484,1252 504,1252 504,1241 570,1237 585,1240 585,1249 639,1247 639,1237 704,1237 704,1245 723,1245 770,1257 788,1257 789,1232 828,1232 828,1242 847,1242 873,1232 899,1232 899,1241 919,1241 919,1231 944,1231 945,1240 986,1239 1013,1226 1041,1226 1041,1236 1058,1236 1058,1226 1109,1223 1119,1223 1156,1223 1156,1232 1173,1232 1173,1252 944,1261 828,1263 788,1269 684,1269 672,1267 504,1272 419,1273 419,1284 373,1284 373,1274 245,1276" />
+				<Baseline points="245,1277 1173,1252" />
+				<TextEquiv index="1">
+					<Unicode>die sagte mir dasselbe. „Sie haben sich alle</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l18" custom="readingOrder {index:18;}">
+				<Coords points="246,1309 290,1308 290,1296 309,1296 328,1307 349,1307 349,1296 361,1296 361,1306 430,1306 454,1295 497,1295 497,1304 662,1299 686,1290 698,1290 698,1298 750,1296 770,1291 787,1291 803,1296 803,1290 894,1294 894,1285 917,1285 949,1293 965,1293 965,1282 977,1282 977,1292 999,1292 999,1281 1052,1279 1065,1279 1065,1288 1141,1287 1141,1276 1154,1276 1154,1285 1174,1285 1174,1306 917,1314 713,1317 713,1328 686,1328 662,1319 621,1320 621,1331 594,1331 594,1321 484,1325 246,1327" />
+				<Baseline points="246,1328 661,1320 916,1312 1174,1306" />
+				<TextEquiv index="1">
+					<Unicode>auf einen Plauwagen gesetzt und sind in ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l19" custom="readingOrder {index:19;}">
+				<Coords points="246,1349 266,1349 266,1360 321,1359 321,1349 334,1349 334,1358 371,1358 371,1349 398,1349 398,1358 436,1358 459,1347 484,1344 550,1344 574,1354 698,1350 698,1343 718,1343 718,1350 740,1350 741,1343 757,1343 815,1348 815,1342 867,1342 886,1346 909,1335 914,1335 914,1345 926,1345 926,1335 939,1335 939,1345 965,1345 1007,1331 1115,1330 1155,1330 1155,1338 1177,1338 1177,1359 867,1366 867,1377 815,1377 815,1367 785,1368 757,1355 741,1355 740,1376 718,1376 718,1384 698,1384 698,1370 686,1370 686,1382 660,1382 659,1371 599,1373 599,1384 574,1384 550,1375 508,1377 246,1380" />
+				<Baseline points="246,1381 1177,1358" />
+				<TextEquiv index="1">
+					<Unicode>russisches Dorf gezogen,“ sagte sie. Wie das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l20" custom="readingOrder {index:20;}">
+				<Coords points="248,1402 292,1400 292,1412 304,1412 304,1400 417,1401 417,1410 473,1410 474,1424 482,1424 503,1399 530,1399 530,1408 573,1406 596,1401 669,1404 669,1394 681,1394 681,1403 739,1402 739,1391 784,1391 801,1401 825,1401 825,1390 838,1390 838,1400 856,1400 856,1390 882,1390 897,1393 1097,1393 1097,1383 1122,1383 1140,1391 1178,1391 1178,1410 984,1415 984,1427 959,1427 959,1417 503,1429 482,1435 474,1435 417,1431 372,1435 357,1435 305,1432 248,1432" />
+				<Baseline points="248,1434 1178,1410" />
+				<TextEquiv index="1">
+					<Unicode>Dorf heisse, konnte sie mir nicht sagen und so</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l21" custom="readingOrder {index:21;}">
+				<Coords points="250,1466 285,1464 324,1464 344,1454 358,1454 361,1464 381,1464 382,1454 407,1454 407,1463 427,1463 451,1452 479,1452 479,1463 563,1459 630,1458 652,1447 687,1447 687,1456 803,1453 877,1453 877,1442 902,1442 902,1452 925,1452 925,1439 949,1439 958,1449 981,1449 982,1439 1004,1439 1004,1448 1055,1447 1055,1467 959,1470 949,1474 925,1474 902,1472 732,1475 503,1482 503,1492 478,1492 478,1483 361,1484 358,1494 344,1494 324,1484 250,1485" />
+				<Baseline points="250,1486 1055,1467" />
+				<TextEquiv index="1">
+					<Unicode>war jede Spur von ihnen verschwunden.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l22" custom="readingOrder {index:22;}">
+				<Coords points="343,1529 361,1529 361,1505 395,1505 395,1515 430,1510 541,1513 541,1503 594,1500 630,1501 630,1509 648,1509 648,1500 661,1500 661,1509 703,1508 731,1497 753,1497 754,1507 774,1507 774,1497 800,1497 800,1506 862,1505 892,1494 920,1494 920,1503 1017,1500 1017,1489 1088,1487 1138,1487 1148,1495 1181,1495 1181,1516 975,1523 754,1526 753,1536 731,1536 703,1528 502,1534 361,1535 361,1541 343,1541" />
+				<Baseline points="343,1537 1181,1516" />
+				<TextEquiv index="1">
+					<Unicode>„Erst nach vielen Jahren kam ein Herr</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l23" custom="readingOrder {index:23;}">
+				<Coords points="251,1569 313,1568 331,1557 360,1557 376,1562 460,1566 460,1556 485,1556 485,1566 496,1566 496,1556 550,1554 562,1554 562,1563 727,1559 746,1548 774,1548 812,1558 812,1548 837,1548 875,1557 923,1556 923,1546 991,1544 991,1553 1027,1552 1048,1542 1076,1542 1076,1551 1114,1550 1114,1542 1137,1542 1164,1545 1181,1549 1181,1568 1137,1571 1011,1573 899,1577 691,1580 496,1585 496,1595 460,1595 460,1586 251,1588" />
+				<Baseline points="251,1589 1181,1568" />
+				<TextEquiv index="1">
+					<Unicode>aus Stawropol in unsere Stadt und der konnte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l24" custom="readingOrder {index:24;}">
+				<Coords points="250,1620 270,1620 270,1610 315,1610 329,1619 344,1619 344,1609 402,1609 402,1619 444,1618 454,1608 480,1605 500,1605 500,1617 530,1617 530,1607 553,1605 581,1605 581,1614 599,1614 599,1605 624,1605 639,1609 688,1612 695,1606 717,1601 743,1601 743,1610 782,1610 796,1601 820,1600 832,1600 832,1610 918,1606 986,1606 995,1594 1021,1594 1021,1605 1039,1605 1039,1594 1078,1594 1078,1604 1120,1603 1120,1593 1149,1593 1149,1601 1184,1600 1184,1620 1123,1623 1021,1625 941,1629 782,1630 425,1638 425,1648 382,1648 382,1638 364,1638 364,1648 344,1648 344,1638 250,1639" />
+				<Baseline points="250,1640 1184,1621" />
+				<TextEquiv index="1">
+					<Unicode>mir einige Nachrichten über die armen Schlucker</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l25" custom="readingOrder {index:25;}">
+				<Coords points="251,1671 297,1670 297,1661 322,1661 323,1670 368,1669 369,1683 376,1683 424,1658 531,1659 583,1661 625,1665 647,1653 676,1654 676,1663 695,1663 695,1653 720,1653 720,1677 727,1677 752,1662 819,1662 819,1656 925,1661 947,1649 960,1649 960,1659 1019,1657 1019,1647 1031,1647 1031,1656 1092,1655 1110,1644 1151,1644 1151,1653 1173,1653 1173,1660 1184,1660 1184,1666 1173,1666 1173,1674 947,1679 925,1686 879,1686 820,1681 820,1692 793,1692 793,1682 752,1682 727,1688 720,1688 720,1682 696,1683 658,1688 602,1685 451,1689 278,1690 278,1701 251,1701" />
+				<Baseline points="251,1691 1184,1674" />
+				<TextEquiv index="1">
+					<Unicode>geben. Sie hätten sich, sagte er, in einer Ko-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l26" points="250,1722 288,1722 288,1712 315,1712 315,1721 349,1721 349,1710 370,1710 370,1716 395,1716 408,1721 408,1710 452,1710 467,1715 555,1719 555,1708 567,1708 567,1718 586,1718 587,1708 611,1708 611,1717 630,1716 692,1716 692,1706 705,1706 705,1715 726,1714 799,1714 799,1706 807,1706 831,1722 876,1722 900,1713 921,1712 968,1710 1011,1709 1035,1708 1059,1703 1076,1703 1142,1707 1142,1696 1187,1696 1187,1726 1167,1727 1076,1728 1035,1729 1013,1730 991,1731 921,1733 900,1733 876,1726 831,1726 807,1747 799,1747 799,1734 727,1735 673,1735 673,1747 647,1747 647,1736 611,1737 586,1738 506,1740 429,1742 408,1742 395,1741 370,1742 315,1742 268,1742 250,1742" baseline="250,1743 505,1738 532,1738 806,1734 831,1733 875,1732 968,1730 1123,1727 1187,1726" reason: second model: differs: "sen—ern" against "en – er" | Wikisource: sakenstanitze niedergelassen – er nannte mir | next_nc_e1: sakenstanitze niedergelassen – er nannte mir | german_print2_15: sakenstanitze niedergelassen — er nannte mir -->
+			<TextLine id="r3l27" custom="readingOrder {index:27;}">
+				<Coords points="253,1774 318,1773 318,1763 407,1764 407,1773 452,1773 491,1762 523,1762 524,1772 624,1769 633,1783 641,1783 682,1759 727,1759 728,1768 766,1767 808,1757 820,1757 821,1766 839,1766 839,1757 927,1756 927,1765 947,1765 947,1756 971,1756 972,1763 990,1763 1020,1752 1056,1752 1056,1761 1178,1759 1178,1765 1188,1765 1188,1771 1178,1771 1178,1778 1160,1779 949,1785 682,1788 641,1795 633,1795 624,1789 523,1792 253,1793" />
+				<Baseline points="253,1794 765,1787 1188,1778" />
+				<TextEquiv index="1">
+					<Unicode>auch den Namen, aber ich habe ihn ver-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>„Hans hatte das nur gewollt und sofort
+liess er Zimmerleute kommen, Haus, Stall
+und Scheuer einreissen und verkaufte das Holz.
+Um diese Zeit erkrankte ich und lag zwei Mo-
+nate im Bette. Als ich dann wieder aufstand,
+dachte ich bei mir: Ich muss doch hingehen
+und die armen Schlucker besuchen. Ich kam
+an ihr Häuschen, fand aber die Thür ver-
+schlossen und die Fensterladen verrammelt.
+Ich fragte einen Knaben: „Mein Kind, weisst
+du nicht, wo die Leute aus diesem Hause sind?“
+Plauwagen gesetzt und sind fortgefahren,“ ant-
+wortete der Junge. „Wohin sind sie gefahren?“
+fragte ich. „Das weiss ich nicht,“ sagte er.
+Ich wollte es wirklich nicht glauben, aber da
+begegnete mir auf der Strasse eine Alte und
+die sagte mir dasselbe. „Sie haben sich alle
+auf einen Plauwagen gesetzt und sind in ein
+russisches Dorf gezogen,“ sagte sie. Wie das
+Dorf heisse, konnte sie mir nicht sagen und so
+war jede Spur von ihnen verschwunden.
+„Erst nach vielen Jahren kam ein Herr
+aus Stawropol in unsere Stadt und der konnte
+mir einige Nachrichten über die armen Schlucker
+geben. Sie hätten sich, sagte er, in einer Ko-
+auch den Namen, aber ich habe ihn ver-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="116,1807 1309,1807 1309,2160 116,2160" />
+		</GraphicRegion>
+		<SeparatorRegion id="r5">
+			<Coords points="120,2126 973,2126 973,2160 120,2160" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+„Hans hatte das nur gewollt und sofort liess er Zimmerleute kommen, Haus, Stall und Scheuer einreissen und verkaufte das Holz. Um diese Zeit erkrankte ich und lag zwei Monate im Bette. Als ich dann wieder aufstand, dachte ich bei mir: Ich muss doch hingehen und die armen Schlucker besuchen. Ich kam an ihr Häuschen, fand aber die Thür verschlossen und die Fensterladen verrammelt. Ich fragte einen Knaben: „Mein Kind, weisst du nicht, wo die Leute aus diesem Hause sind?“ – „Vor zwei Wochen haben sie sich auf einen Plauwagen gesetzt und sind fortgefahren,“ antwortete der Junge. „Wohin sind sie gefahren?“ fragte ich. „Das weiss ich nicht,“ sagte er. Ich wollte es wirklich nicht glauben, aber da begegnete mir auf der Strasse eine Alte und die sagte mir dasselbe. „Sie haben sich alle auf einen Plauwagen gesetzt und sind in ein russisches Dorf gezogen,“ sagte sie. Wie das Dorf heisse, konnte sie mir nicht sagen und so war jede Spur von ihnen verschwunden.
+„Erst nach vielen Jahren kam ein Herr aus Stawropol in unsere Stadt und der konnte mir einige Nachrichten über die armen Schlucker geben. Sie hätten sich, sagte er, in einer Kosakenstanitze niedergelassen – er nannte mir auch den Namen, aber ich habe ihn vergessen –,
+-->
+	</Page>
+</PcGts>

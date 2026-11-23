@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:28:08</Created>
+		<LastChange>2026-11-23T18:28:08</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Die_Sophienkirche_in_Dresden_(1912).pdf/63 revision 4834736 of 2026-02-24T07:57:10Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="sophienkirche_dresden_1912_0063.png" imageWidth="1000" imageHeight="1439">
+		<ReadingOrder>
+			<OrderedGroup id="ro17112220670461454634" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="19" regionRef="r19" />
+				<RegionRefIndexed index="22" regionRef="r22" />
+				<RegionRefIndexed index="24" regionRef="r24" />
+				<RegionRefIndexed index="26" regionRef="r26" />
+				<RegionRefIndexed index="30" regionRef="r30" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="418,161 443,161 443,181 418,181" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="608,206 740,206 740,218 608,218" />
+			<!-- line left out: id="r1l0" points="608,208 611,208 625,207 634,207 658,206 668,206 683,210 699,206 708,206 740,210 740,218 608,218" baseline="608,218 740,218" reason: differs: "Itde" against "bild" | Wikisource:  | next_nc_e1: It des Ecce homo
+ | german_print2_15: lt des Ecce homo
+ -->
+		</TextRegion>
+		<GraphicRegion id="r2">
+			<Coords points="119,207 693,207 693,447 119,447" />
+		</GraphicRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="674,229 739,229 739,241 674,241" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="674,234 710,229 716,229 739,229 739,240 701,241 693,241 674,240" />
+				<Baseline points="674,240 739,240" />
+				<TextEquiv index="1">
+					<Unicode>und wird</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>und wird</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="661,366 739,366 739,377 661,377" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="661,370 665,366 675,366 705,366 719,366 739,367 739,375 732,377 727,377 661,375" />
+				<Baseline points="661,375 739,375" />
+				<TextEquiv index="1">
+					<Unicode>Zeit tätige</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Zeit tätige</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="622,363 668,363 668,402 622,402" />
+		</GraphicRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="671,386 734,386 734,397 671,397" />
+			<!-- line left out: id="r6l0" points="671,388 679,386 701,386 718,388 734,390 734,397 680,397 671,393" baseline="671,395 734,397" reason: differs: "Seba" against "Bild" | Wikisource:  | next_nc_e1: Sebastiar
+ | german_print2_15: Sebastian
+ -->
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="693,412 739,412 739,420 693,420" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="693,413 701,412 707,412 735,412 739,413 739,420 725,420 693,417" />
+				<Baseline points="693,417 739,420" />
+				<TextEquiv index="1">
+					<Unicode>ssenis,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ssenis,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="400,433 410,433 410,444 400,444" />
+		</GraphicRegion>
+		<GraphicRegion id="r9">
+			<Coords points="231,455 641,455 641,491 231,491" />
+		</GraphicRegion>
+		<GraphicRegion id="r10">
+			<Coords points="203,500 598,500 598,513 203,513" />
+		</GraphicRegion>
+		<GraphicRegion id="r11">
+			<Coords points="304,451 719,451 719,558 304,558" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="577,567 587,567 587,577 577,577" />
+		</GraphicRegion>
+		<GraphicRegion id="r13">
+			<Coords points="673,585 686,585 686,601 673,601" />
+		</GraphicRegion>
+		<GraphicRegion id="r14">
+			<Coords points="731,608 741,608 741,618 731,618" />
+		</GraphicRegion>
+		<GraphicRegion id="r15">
+			<Coords points="246,705 718,705 718,736 246,736" />
+		</GraphicRegion>
+		<GraphicRegion id="r16">
+			<Coords points="305,763 624,763 624,776 305,776" />
+		</GraphicRegion>
+		<GraphicRegion id="r17">
+			<Coords points="285,834 307,834 307,846 285,846" />
+		</GraphicRegion>
+		<GraphicRegion id="r18">
+			<Coords points="245,852 680,852 680,865 245,865" />
+		</GraphicRegion>
+		<TextRegion id="r19" custom="readingOrder {index:19;} orientation {0;}">
+			<Coords points="121,453 738,453 738,784 121,784" />
+			<!-- line left out: id="r19l0" points="288,458 299,457 321,457 594,459 663,453 702,453 730,453 736,458 736,464 321,465 317,465 288,465" baseline="288,465 578,464 736,464" reason: differs: "rach" against "als " | Wikisource:  | next_nc_e1: racht. Oe Vorname
+ | german_print2_15: 1 racht. ( Oe  Vorname -->
+			<!-- line left out: id="r19l1" points="121,481 144,481 149,481 258,477 260,477 661,479 679,475 686,475 712,475 719,481 725,481 725,486 691,486 198,490 169,490 132,488 124,487 121,487" baseline="121,487 654,486 725,486" reason: differs: "nich" against "rnam" | Wikisource:  | next_nc_e1: nicht genannt wird an Walthe
+ | german_print2_15: nicht genannt wird f4 an Walthe -->
+			<!-- line left out: id="r19l2" points="121,504 168,503 178,503 259,505 259,491 268,491 274,503 277,503 287,505 298,507 340,499 344,499 353,499 654,501 671,501 688,500 693,500 715,500 731,497 738,497 738,508 720,508 706,508 693,509 634,509 395,510 277,510 274,510 268,519 259,519 259,507 137,510 121,510" baseline="121,510 637,508 738,508" reason: differs: "hin." against "ther" | Wikisource:  | next_nc_e1: hin. Da schied Hände an ht man deutlich | german_print2_15: hin. Da schled- Hände an ht man deutlich -->
+			<!-- line left out: id="r19l3" points="124,525 153,525 226,522 229,522 237,529 248,525 251,525 265,522 279,522 301,522 347,524 390,513 398,513 398,524 586,520 589,520 627,527 631,523 639,523 639,513 648,513 655,520 663,520 671,513 681,513 681,525 684,525 684,531 681,531 681,541 671,541 671,531 655,531 648,541 639,541 639,531 586,531 398,528 398,541 390,541 347,532 301,533 288,533 279,532 276,533 265,533 257,532 240,532 229,533 226,533 124,532" baseline="124,532 586,531 684,531" reason: differs: "auch" against "tlic" | Wikisource:  | next_nc_e1: auch ohne Berücksichtigung d ri denn der Ecce | german_print2_15: auch ohne Berücksichtigung d. rit denn der Ecce -->
+			<!-- line left out: id="r19l4" points="179,551 180,545 203,545 274,546 378,546 658,545 679,545 679,550 598,554 368,554 253,554 203,555 179,555" baseline="179,554 679,554" reason: differs: "neid" against "homo" | Wikisource:  | next_nc_e1: neidet sich st narf de S
+ | german_print2_15: 1 neidet sich sti narf de n S.
+ -->
+			<!-- line left out: id="r19l5" points="653,724 663,724 663,731 653,731" baseline="653,730 663,730" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: (
+ | german_print2_15: (1 -->
+			<!-- line left out: id="r19l6" points="186,771 199,771 226,770 237,770 333,772 339,756 361,756 372,768 649,765 670,765 677,769 694,765 728,765 732,767 732,774 728,775 682,775 642,775 401,773 372,771 361,784 339,784 333,775 199,777 196,777 186,774" baseline="186,774 407,774 732,775" reason: differs: "annm" against "n de" | Wikisource:  | next_nc_e1: ann ma s bei den S Himmelfahrt
+ | german_print2_15: ann mer 5 bei den St Himmelfahrt
+ -->
+		</TextRegion>
+		<GraphicRegion id="r20">
+			<Coords points="537,874 563,874 563,909 537,909" />
+		</GraphicRegion>
+		<GraphicRegion id="r21">
+			<Coords points="535,918 737,918 737,1045 535,1045" />
+		</GraphicRegion>
+		<TextRegion id="r22" custom="readingOrder {index:22;} orientation {0;}">
+			<Coords points="709,1053 731,1053 731,1063 709,1063" />
+			<TextLine id="r22l0" custom="readingOrder {index:0;}">
+				<Coords points="709,1056 725,1053 731,1053 731,1062 723,1063 709,1063" />
+				<Baseline points="709,1063 731,1062" />
+				<TextEquiv index="1">
+					<Unicode>seh</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>seh</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r23">
+			<Coords points="556,1057 567,1057 567,1067 556,1067" />
+		</GraphicRegion>
+		<TextRegion id="r24" custom="readingOrder {index:24;} orientation {0;}">
+			<Coords points="630,1073 737,1073 737,1085 630,1085" />
+			<TextLine id="r24l0" custom="readingOrder {index:0;}">
+				<Coords points="630,1076 686,1077 703,1073 713,1073 730,1074 737,1078 737,1085 721,1085 630,1085" />
+				<Baseline points="630,1085 737,1085" />
+				<TextEquiv index="1">
+					<Unicode>die erste Zehe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>die erste Zehe</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r25">
+			<Coords points="520,1074 619,1074 619,1089 520,1089" />
+		</GraphicRegion>
+		<TextRegion id="r26" custom="readingOrder {index:26;} orientation {0;}">
+			<Coords points="641,1096 736,1096 736,1107 641,1107" />
+			<TextLine id="r26l0" custom="readingOrder {index:0;}">
+				<Coords points="641,1099 680,1096 691,1096 728,1096 736,1100 736,1107 641,1107" />
+				<Baseline points="641,1107 736,1107" />
+				<TextEquiv index="1">
+					<Unicode>te noch mehr</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>te noch mehr</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r27">
+			<Coords points="120,921 619,921 619,1116 120,1116" />
+		</GraphicRegion>
+		<GraphicRegion id="r28">
+			<Coords points="703,1123 719,1123 719,1136 703,1136" />
+		</GraphicRegion>
+		<GraphicRegion id="r29">
+			<Coords points="28,1266 38,1266 38,1313 28,1313" />
+		</GraphicRegion>
+		<TextRegion id="r30" custom="readingOrder {index:30;} orientation {0;}">
+			<Coords points="11,1391 648,1391 648,1422 11,1422" />
+			<!-- line left out: id="r30l0" points="11,1398 36,1398 82,1398 97,1403 399,1391 409,1391 427,1391 443,1391 466,1391 474,1403 478,1403 482,1391 490,1391 508,1391 519,1391 532,1391 532,1403 534,1403 542,1391 561,1391 590,1391 590,1404 609,1404 609,1391 624,1391 643,1391 643,1404 648,1404 648,1412 643,1412 643,1420 624,1420 609,1420 609,1413 603,1413 590,1412 590,1420 561,1420 532,1420 519,1420 508,1420 490,1420 482,1420 482,1412 467,1412 466,1420 443,1420 427,1420 409,1420 82,1422 36,1422 11,1422" baseline="11,1421 96,1420 399,1414 465,1413 537,1412 648,1411" reason: no text of Wikisource found | Wikisource:  | next_nc_e1:  SLUB hupdigital slub-dresden deſid480112029/63
+ | german_print2_15: N SLUB hp Gtiialslub desden deid480112029/63
+ -->
+		</TextRegion>
+		<GraphicRegion id="r31">
+			<Coords points="959,0 1000,0 1000,1439 959,1439" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+bildet ein verkröpftes Gebälk den oberen Abschluß. Die Gestalt des Ecce homo
+steht vor einer im oberen Teile als Muschel geschlossenen Flachnische und wird
+von zwei übereck gestellten korinthischen Marmorsäulen seitlich begrenzt, die auf
+den vorragenden Konsolen des Frieses aufstehen.
+Wie Oettrich berichtet, haben die Bildhauer Walther und Hegewald das
+Epitaph ihres Meisters gefertigt. Gelingt es nun zweifellos, das aus der
+gemeinsamen Arbeit zu sondern, was Zacharias Hegewald gearbeitet hat, so muß das
+andere den Kunststil Sebastian Walthers bezeichnen. Zu gleicher Zeit tätige
+Bildhauer namens Walther treten vor der künstlerischen Bedeutung Sebastian
+Walthers als dem hervorragendsten Gehilfen und dem Amtsnachfolger Nossenis,
+als der er auch noch späterhin in der Überlieferung bekannt blieb, zurück und
+kommen nicht in Betracht. Gerade der Umstand, daß bei Oettrich ein Vorname
+nicht genannt wird, weist auf den berühmtesten des Namens, Sebastian Walther,
+hin. Daß zwei verschiedene Hände an dem Werke tätig waren, ersieht man deutlich
+auch ohne Berücksichtigung der schriftlichen Überlieferung, denn der Ecce homo
+unterscheidet sich stilistisch scharf von den Alabasterreliefs der beiden Seiten.
+Sieht man sich nach Arbeiten Hegewalds um, so findet man nur einzelne
+Reste eines Werkes von ihm erhalten, Teile eines früheren Altares der Kirche in
+Kötzschenbroda, der nach dem Umbau der Kirche in den Jahren 1884/85 entfernt
+worden war. Es sind ein Alabasterrelief, die Geburt Christi darstellend, ein zweites
+mit der Taufe Christi und ein rundes, die Himmelfahrt (Taf. XXVII), von einem
+breiten Rahmen aus derbem Rollwerk, in das geflügelte Engelsköpfe eingesetzt
+sind, umschlossen. Ferner gehörten zu diesem Altare fünf Statuen aus Sandstein:
+Christus auf der Weltkugel stehend, die Apostel Paulus und Johannes (Taf. XXVIII,
+Abb. 1) und zwei geflügelte weibliche Figuren. Trotz der Übertünchung dieser
+Arbeiten kann man, besonders bei den Statuen und dem Rundrelief der Himmelfahrt,
+den Stil und die künstlerische Eigenart ihres Verfertigers noch gut erkennen. Diese
+stimmen bis in Kleinigkeiten mit dem Ecce homo des Nossenischen Epitaphs
+überein. Die Gleichheit in der Haltung und Auffassung der Figuren ist deutlich
+ersichtlich. Die Haupthaar- und Bartbehandlung wird in bewegten gelockten Strähnen
+gegeben, bei deren Enden und an anderen Stellen regelrechte Bohrlöcher stehen
+geblieben sind. Auffallend sind die rechtwinklig zum Nasenansatz verlaufenden
+oberen Teile der Augenhöhlen und die sehr schmalen oberen Augenlider. Das in
+schönen Falten mit großen breiten Flächen behandelte Gewand ist an manchen
+Stellen wie vom Winde bewegt vom Körper abgeweht. Es finden sich tiefe
+langgezogene, an ihren Enden rundlich und ziemlich breit ausgehende Faltennester, das
+zu den Füßen der Gestalten sich stauende Gewand bildet gehäufte Partien. Die
+Körper sind muskulös, die Hände mit breiten Handwurzeln und besonders
+kräftigen Fingern mit sehr langen ersten Gliedern gebildet, die Füße mit sehr
+hohem Mittelfuß zeichnen sich durch Vorstehen der zweiten über die erste Zehe
+aus, die letztere hat eine etwas eingebogene breite Form. Man könnte noch mehr
+-->
+	</Page>
+</PcGts>

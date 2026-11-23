@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:43:38</Created>
+		<LastChange>2026-11-23T18:43:38</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:PatkanjanDreiErzählungen.pdf/28 revision 3378155 of 2018-08-01T06:08:04Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="patkanjan_erzaehlungen_1886_0028.png" imageWidth="1289" imageHeight="2150">
+		<ReadingOrder>
+			<OrderedGroup id="ro6239227629821868365" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 1289,0 1289,222 0,222" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="598,219 819,219 819,269 598,269" />
+			<!-- line left out: id="r1l0" points="598,251 630,251 688,234 710,233 778,233 778,219 819,219 819,269 778,269 778,263 710,263 688,262 630,254 598,254" baseline="598,254 778,253 819,253" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 18 —
+ | german_print2_15: — 18 —
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="247,326 1200,326 1200,1786 247,1786" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="338,352 355,352 356,328 373,328 374,338 393,338 393,328 417,328 446,338 540,337 568,328 680,328 681,337 700,337 728,326 771,326 771,337 819,337 819,327 853,327 854,337 872,337 872,327 897,327 912,331 912,337 931,337 963,327 987,327 987,336 1165,336 1165,356 771,358 356,357 355,364 338,364" />
+				<Baseline points="338,358 1165,356" />
+				<TextEquiv index="1">
+					<Unicode>„Ich muss dir die Geschichte der armen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="250,380 293,380 293,390 308,390 308,380 334,380 352,390 407,391 408,385 428,381 466,380 466,390 510,390 510,404 517,404 540,380 615,380 615,390 739,391 758,380 787,380 787,390 847,389 871,384 887,384 940,390 1005,389 1023,379 1059,379 1059,389 1078,389 1078,379 1090,379 1114,380 1114,389 1156,388 1157,402 1165,402 1165,409 758,410 739,421 676,421 676,410 250,411" />
+				<Baseline points="250,410 1165,409" />
+				<TextEquiv index="1">
+					<Unicode>Kati erzählen. Aber mag sie unter uns bleiben.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="250,433 388,432 389,443 408,443 408,433 431,433 455,443 519,443 522,457 529,457 554,434 579,434 579,443 634,443 657,434 680,434 680,443 702,443 725,432 759,432 760,442 778,442 778,433 802,433 824,442 847,442 847,431 859,431 859,442 878,442 878,432 902,432 937,442 1034,443 1034,433 1058,433 1058,443 1092,443 1092,433 1114,433 1114,442 1142,437 1166,437 1166,462 1126,462 1126,472 1078,472 1078,462 554,463 529,469 522,469 519,462 492,462 492,469 471,469 471,462 250,463" />
+				<Baseline points="250,463 1166,462" />
+				<TextEquiv index="1">
+					<Unicode>Sieh dich vor, dass du dich nicht verschappst.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="250,486 299,486 327,491 345,496 367,486 386,486 386,496 403,496 404,486 430,486 453,496 473,496 473,485 485,485 485,495 565,495 585,485 629,485 641,486 642,496 714,495 714,485 807,485 807,495 985,495 1058,490 1082,485 1106,485 1106,495 1119,495 1119,485 1142,485 1142,494 1166,494 1166,514 629,516 403,516 250,516" />
+				<Baseline points="250,516 701,514 1166,515" />
+				<TextEquiv index="1">
+					<Unicode>Höre mit einem Ohre und lass es zum andern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="250,549 262,549 262,538 294,538 294,548 313,548 314,539 338,539 338,548 374,548 395,539 420,538 432,538 432,548 588,548 588,539 613,539 614,548 658,548 663,539 703,538 724,538 724,548 814,548 814,537 826,537 847,548 861,548 861,537 883,537 883,548 909,548 909,537 938,537 938,547 952,547 952,537 970,537 1005,537 1005,547 1032,547 1032,561 1038,561 1061,537 1084,537 1084,546 1103,546 1103,537 1128,537 1128,546 1168,546 1168,566 1061,566 1038,573 1032,578 1005,578 1005,567 970,567 970,578 952,578 952,568 883,568 883,578 861,578 861,567 794,568 724,576 703,576 669,568 569,568 569,579 542,579 518,568 250,567" />
+				<Baseline points="250,568 1168,566" />
+				<TextEquiv index="1">
+					<Unicode>wieder hinaus gehen! Ja, sei vorsichtig, lieber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="250,591 283,591 283,601 322,601 322,591 371,591 372,601 410,601 410,614 417,614 459,590 486,590 486,601 497,601 497,590 523,590 523,601 597,601 597,591 609,591 609,601 708,601 709,591 732,591 751,600 770,600 770,590 782,590 782,600 804,600 822,590 881,590 881,600 894,595 943,590 967,590 967,600 1061,599 1061,590 1108,587 1141,587 1166,589 1166,619 572,621 553,631 497,631 497,621 250,621" />
+				<Baseline points="250,621 1166,619" />
+				<TextEquiv index="1">
+					<Unicode>Nachbar. Sage niemand ein Wort davon. Ob</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="251,654 371,653 371,644 443,643 473,643 519,653 541,653 542,644 566,644 566,653 647,653 647,643 687,643 688,653 707,653 739,643 768,643 791,647 791,653 803,653 803,643 824,643 824,653 847,653 876,644 909,644 909,653 936,653 962,642 971,642 1053,642 1091,652 1109,652 1109,642 1121,642 1121,652 1140,652 1140,642 1165,642 1165,671 876,673 824,684 790,684 790,673 251,673" />
+				<Baseline points="251,673 1165,671" />
+				<TextEquiv index="1">
+					<Unicode>es wahr ist oder eine Lüge, das bleibt sich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l7" points="251,706 275,706 275,696 288,696 288,705 306,705 306,695 318,695 318,706 336,706 336,696 362,696 366,719 373,719 396,695 408,695 408,705 427,705 427,696 478,695 493,695 493,706 511,706 511,695 523,695 557,696 557,706 574,706 597,697 619,695 631,695 631,706 724,706 725,700 745,696 781,696 782,706 825,706 829,719 836,719 868,705 902,705 902,695 971,695 971,705 988,705 988,695 1012,694 1021,694 1021,704 1095,704 1095,694 1131,694 1131,703 1148,698 1164,698 1164,723 1037,724 1012,724 990,725 933,725 880,725 868,724 836,731 829,731 825,725 574,726 493,726 427,726 408,726 396,725 373,731 366,731 362,725 338,726 307,726 277,726 277,736 251,736" baseline="251,726 372,725 1164,723" reason: differs: "ill'sdi" against "ill’s d" | Wikisource:  | next_nc_e1: gleich, ich will's dir erzählen, wie ich's selbst | german_print2_15: gleich, ich will's dir erzählen, wie ich’s selbst -->
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="251,759 295,758 295,749 320,749 342,753 357,749 419,749 420,758 441,758 441,749 466,749 467,758 487,758 487,772 494,772 541,748 588,749 588,759 607,759 625,748 675,748 676,759 695,759 695,749 720,749 720,758 736,758 736,749 759,749 761,759 780,759 780,748 852,748 853,757 919,758 920,752 1018,757 1040,746 1072,746 1072,757 1093,757 1093,750 1130,751 1130,776 607,779 394,778 372,789 357,789 357,778 277,778 277,789 251,789" />
+				<Baseline points="251,778 1130,776" />
+				<TextEquiv index="1">
+					<Unicode>gehört habe. Die Wahrheit kennt nur Gott.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="339,825 356,825 356,801 387,801 388,811 500,811 523,801 555,801 555,812 578,812 601,801 666,801 666,811 725,811 725,801 740,801 741,811 761,811 761,802 784,802 784,811 869,810 870,801 915,800 939,800 939,810 997,809 997,800 1020,800 1042,810 1164,809 1164,829 741,830 740,840 725,840 725,830 713,830 713,841 686,841 686,831 619,831 619,841 601,841 578,831 356,831 356,837 339,837" />
+				<Baseline points="339,831 1164,829" />
+				<TextEquiv index="1">
+					<Unicode>„Es war ein Kriegsjahr und durch unsere</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="250,853 277,853 277,859 291,859 311,864 311,854 335,854 379,864 524,862 560,863 560,853 585,853 585,863 682,863 682,853 729,853 729,862 765,862 797,852 831,852 832,862 850,862 878,850 905,850 905,861 926,861 926,851 963,851 963,861 984,861 985,855 999,855 999,861 1047,861 1047,850 1049,850 1141,851 1141,861 1161,861 1161,881 449,883 449,893 421,893 421,883 250,884" />
+				<Baseline points="250,884 1048,879 1161,881" />
+				<TextEquiv index="1">
+					<Unicode>Stadt zogen scharenweise die Soldaten. Die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="250,916 269,916 269,906 281,906 281,916 346,915 367,906 391,905 415,905 415,915 435,915 435,905 460,905 460,914 503,914 526,904 561,904 561,914 634,914 634,904 656,904 656,914 690,914 690,904 755,905 755,914 790,914 790,904 850,903 850,913 886,913 886,903 907,903 907,913 923,913 947,902 969,901 981,901 981,911 1066,911 1067,902 1103,902 1103,911 1154,912 1155,927 1162,927 1162,938 1155,938 1154,932 1111,932 1103,938 1082,938 1082,931 947,931 907,942 869,942 869,932 732,933 708,939 690,939 670,934 656,933 656,939 634,939 634,933 250,935" />
+				<Baseline points="250,935 947,931 1162,932" />
+				<TextEquiv index="1">
+					<Unicode>einen blieben hier zwei, drei Tage, die andern,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="249,967 348,967 375,956 403,956 403,966 422,966 450,956 464,956 464,966 525,965 525,956 611,955 611,965 626,965 626,955 650,955 664,960 707,965 710,979 718,979 746,965 853,965 877,955 900,955 900,964 957,963 957,953 982,953 1005,963 1026,963 1026,954 1051,954 1051,963 1163,965 1163,984 812,984 812,995 786,995 785,985 746,984 718,991 710,991 707,984 611,985 611,991 578,985 547,985 547,995 525,995 525,985 478,985 478,995 450,995 422,986 249,987" />
+				<Baseline points="249,986 981,983 1163,984" />
+				<TextEquiv index="1">
+					<Unicode>wenn sie gerade eilten, zogen durch ohne zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="248,1019 265,1018 288,1013 337,1013 360,1018 367,1013 421,1006 442,1006 460,1007 460,1017 480,1017 480,1006 507,1006 507,1016 524,1016 555,1006 590,1006 590,1017 611,1012 626,1012 664,1017 667,1031 674,1031 702,1007 725,1007 726,1016 763,1016 787,1006 818,1006 818,1016 894,1016 897,1029 905,1029 931,1016 1003,1016 1031,1006 1055,1006 1055,1016 1096,1016 1096,1006 1121,1006 1121,1017 1134,1017 1134,1008 1165,1008 1165,1038 931,1035 905,1041 897,1041 894,1035 702,1036 674,1042 667,1042 574,1035 574,1042 555,1042 524,1036 248,1038" />
+				<Baseline points="248,1038 421,1036 1031,1035 1165,1037" />
+				<TextEquiv index="1">
+					<Unicode>rasten. Katis Vater, der Lasar, war damals</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="247,1061 313,1059 364,1060 365,1069 401,1069 401,1059 426,1059 427,1068 558,1069 558,1058 576,1058 625,1059 626,1069 679,1069 708,1058 719,1058 773,1059 773,1068 807,1069 807,1058 830,1058 830,1069 862,1068 862,1058 888,1058 922,1063 928,1082 935,1082 972,1059 983,1059 983,1069 1033,1069 1033,1059 1060,1059 1109,1060 1109,1070 1130,1065 1146,1065 1165,1070 1165,1091 983,1091 928,1094 922,1088 830,1088 830,1097 807,1097 807,1088 730,1088 728,1097 708,1097 679,1089 247,1090" />
+				<Baseline points="247,1090 514,1088 972,1088 1165,1091" />
+				<TextEquiv index="1">
+					<Unicode>in Charkow auf dem Jahrmarkte, verkältete</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="248,1122 265,1122 265,1112 276,1112 276,1122 294,1122 294,1113 336,1112 360,1112 360,1121 376,1121 376,1112 396,1112 413,1116 413,1135 419,1135 443,1121 517,1121 517,1112 541,1112 541,1121 560,1121 583,1112 608,1112 608,1122 668,1122 668,1112 693,1112 715,1122 762,1121 762,1112 785,1112 822,1115 822,1121 902,1121 902,1115 961,1112 993,1112 993,1121 1016,1121 1016,1112 1028,1112 1028,1123 1073,1122 1094,1112 1119,1112 1120,1123 1140,1123 1140,1113 1166,1113 1166,1144 1094,1144 1055,1142 1055,1152 1028,1152 1028,1142 969,1141 969,1152 961,1152 937,1141 762,1142 443,1140 419,1147 412,1147 412,1141 396,1141 396,1147 376,1147 376,1141 248,1142" />
+				<Baseline points="248,1142 961,1141 1166,1144" />
+				<TextEquiv index="1">
+					<Unicode>sich dort, wurde krank und musste einige Zeit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="248,1165 271,1165 271,1174 352,1164 389,1164 390,1173 409,1173 409,1163 455,1163 455,1173 493,1173 493,1163 495,1163 541,1185 550,1185 550,1164 607,1164 635,1174 708,1174 708,1164 730,1164 730,1174 741,1174 742,1165 789,1164 789,1174 808,1174 808,1165 832,1165 854,1174 896,1175 896,1164 919,1164 937,1168 938,1174 956,1174 956,1164 1007,1164 1008,1175 1064,1175 1069,1189 1076,1189 1105,1166 1131,1166 1132,1176 1152,1176 1153,1183 1163,1183 1163,1189 1153,1189 1152,1196 1076,1200 1069,1200 1064,1194 919,1194 919,1200 896,1200 896,1194 248,1194" />
+				<Baseline points="248,1193 1163,1195" />
+				<TextEquiv index="1">
+					<Unicode>dort bleiben. Als er endlich zurückkam, be-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="249,1227 398,1226 398,1216 423,1216 423,1226 468,1226 491,1216 515,1216 515,1226 551,1226 566,1216 587,1216 587,1226 607,1226 607,1217 632,1217 632,1227 670,1227 670,1216 695,1216 695,1227 721,1227 721,1217 795,1217 795,1227 818,1227 836,1217 875,1217 875,1227 913,1222 929,1222 951,1226 985,1227 985,1241 991,1241 1016,1227 1168,1229 1168,1249 1036,1247 985,1252 985,1246 695,1247 695,1255 670,1255 670,1246 587,1246 587,1255 566,1255 551,1245 275,1246 275,1257 249,1257" />
+				<Baseline points="249,1245 1168,1248" />
+				<TextEquiv index="1">
+					<Unicode>gann schon der Jahrmarkt in Rostow, er muss</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="249,1279 268,1279 268,1269 281,1269 281,1278 360,1279 360,1268 385,1268 463,1268 463,1278 474,1278 474,1268 506,1268 506,1278 563,1278 563,1269 587,1269 588,1279 624,1279 641,1269 659,1269 676,1274 676,1280 699,1280 699,1269 769,1270 770,1281 889,1270 922,1270 922,1279 934,1274 966,1274 984,1280 1023,1280 1023,1270 1078,1270 1078,1280 1098,1280 1098,1271 1123,1271 1124,1281 1167,1282 1167,1301 1044,1300 1044,1310 1023,1310 1023,1299 1011,1299 1011,1310 984,1310 966,1299 699,1300 506,1298 249,1298" />
+				<Baseline points="249,1298 431,1297 1167,1300" />
+				<TextEquiv index="1">
+					<Unicode>also wohl vier oder fünf Monate dort geblieben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="249,1332 266,1332 266,1321 296,1321 296,1331 319,1331 325,1321 391,1320 422,1320 468,1321 468,1330 506,1331 506,1321 626,1321 627,1332 830,1333 849,1322 875,1322 875,1332 894,1332 894,1322 919,1322 937,1332 975,1332 975,1322 998,1322 1018,1332 1110,1333 1111,1323 1123,1323 1123,1333 1167,1334 1167,1354 919,1352 725,1353 725,1363 699,1363 681,1352 249,1351" />
+				<Baseline points="249,1350 1072,1351 1167,1354" />
+				<TextEquiv index="1">
+					<Unicode>sein. Während dieser ganzen Zeit sah er seine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="249,1374 278,1374 278,1384 388,1384 388,1373 400,1373 400,1384 419,1384 419,1374 464,1373 467,1373 553,1374 554,1384 573,1384 573,1375 616,1375 616,1385 635,1385 662,1375 759,1376 759,1386 855,1386 855,1379 884,1379 884,1399 891,1399 913,1376 937,1376 938,1385 978,1385 978,1375 1067,1376 1067,1387 1090,1387 1113,1377 1150,1377 1150,1388 1169,1388 1169,1408 913,1405 891,1411 884,1411 884,1405 845,1405 845,1416 819,1416 796,1406 249,1404" />
+				<Baseline points="249,1403 1169,1407" />
+				<TextEquiv index="1">
+					<Unicode>Frau nicht. Merke dir das gut, damit du die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="250,1438 355,1437 379,1426 405,1426 406,1438 445,1437 445,1428 471,1428 472,1437 491,1437 514,1429 528,1429 528,1438 593,1433 609,1433 628,1438 628,1429 652,1429 653,1439 669,1439 669,1429 807,1429 807,1439 848,1439 848,1429 913,1428 914,1438 1004,1439 1026,1430 1051,1430 1052,1439 1071,1439 1071,1429 1082,1429 1105,1440 1170,1441 1170,1461 962,1459 962,1469 936,1469 935,1458 514,1459 275,1457 275,1468 250,1468" />
+				<Baseline points="250,1457 900,1458 1170,1460" />
+				<TextEquiv index="1">
+					<Unicode>ganze Sache verstehst! Damals lagen bei uns</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="250,1490 270,1490 270,1480 295,1480 295,1490 338,1490 356,1478 383,1478 383,1490 404,1490 404,1480 434,1478 454,1478 454,1485 478,1485 521,1490 539,1481 551,1481 551,1491 575,1491 592,1482 635,1482 635,1492 693,1493 693,1482 716,1482 716,1492 743,1487 756,1482 767,1482 768,1492 813,1492 813,1482 833,1482 833,1492 879,1492 879,1506 885,1506 903,1491 1040,1492 1040,1483 1064,1483 1081,1492 1146,1493 1146,1484 1170,1484 1170,1513 903,1511 885,1517 879,1522 852,1522 850,1512 833,1512 833,1522 813,1522 813,1512 716,1512 716,1522 693,1522 693,1512 682,1512 682,1522 658,1522 658,1512 250,1509" />
+				<Baseline points="250,1509 1170,1512" />
+				<TextEquiv index="1">
+					<Unicode>allen Soldaten in Einquartierung, nun und auch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="249,1532 273,1532 273,1541 292,1541 292,1531 352,1531 352,1541 441,1542 477,1534 485,1534 485,1542 501,1542 578,1534 590,1534 590,1544 626,1539 641,1539 716,1545 732,1545 732,1535 744,1535 744,1545 820,1545 820,1535 831,1535 831,1545 897,1545 931,1534 1003,1534 1003,1545 1021,1545 1021,1534 1053,1534 1053,1545 1064,1545 1064,1534 1069,1534 1101,1545 1148,1546 1148,1537 1171,1537 1171,1566 716,1565 501,1562 501,1572 477,1572 441,1561 249,1561" />
+				<Baseline points="249,1560 682,1564 1171,1566" />
+				<TextEquiv index="1">
+					<Unicode>bei Lasar quartierten sie einen Offizier und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l24" custom="readingOrder {index:24;}">
+				<Coords points="251,1584 274,1584 274,1593 310,1593 310,1583 348,1582 375,1582 375,1593 397,1593 397,1584 435,1584 435,1593 455,1589 471,1589 542,1595 562,1595 562,1585 684,1587 685,1597 725,1597 725,1588 824,1588 824,1598 845,1598 845,1588 914,1588 915,1598 1006,1597 1036,1588 1063,1588 1063,1598 1120,1598 1158,1594 1200,1594 1200,1629 1158,1629 1156,1619 963,1618 963,1628 937,1628 936,1617 780,1618 471,1614 251,1613" />
+				<Baseline points="251,1612 1200,1619" />
+				<TextEquiv index="1">
+					<Unicode>drei Soldaten ein. Nach vier Tagen kommt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l25" custom="readingOrder {index:25;}">
+				<Coords points="250,1635 274,1635 274,1644 310,1644 331,1634 363,1634 363,1644 382,1644 382,1634 402,1634 402,1644 416,1644 416,1635 453,1635 481,1646 559,1648 581,1638 631,1638 631,1649 654,1649 654,1638 679,1638 679,1649 770,1650 770,1640 795,1640 802,1664 809,1664 836,1650 856,1650 856,1641 881,1641 882,1650 918,1650 946,1641 970,1641 970,1650 1006,1651 1034,1640 1105,1640 1105,1652 1123,1652 1123,1642 1136,1642 1136,1652 1172,1652 1172,1672 836,1670 809,1676 802,1676 795,1670 679,1669 679,1676 654,1676 654,1668 631,1668 631,1676 606,1676 606,1668 500,1667 481,1665 250,1664" />
+				<Baseline points="250,1662 808,1670 1172,1671" />
+				<TextEquiv index="1">
+					<Unicode>der Befehl zum Ausmarsch, aber der Offizier</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l26" points="250,1696 282,1696 282,1686 294,1686 294,1696 310,1696 310,1687 391,1687 429,1691 429,1697 447,1697 447,1688 459,1687 504,1687 514,1689 538,1700 556,1700 574,1701 574,1691 599,1691 600,1701 653,1701 667,1702 690,1692 716,1692 716,1702 754,1702 776,1703 776,1693 802,1693 803,1717 809,1717 855,1691 893,1691 893,1703 912,1703 935,1693 959,1693 961,1703 982,1703 983,1694 995,1694 996,1703 1039,1703 1057,1686 1116,1686 1116,1704 1129,1704 1129,1698 1145,1698 1145,1704 1172,1704 1172,1727 1116,1727 1077,1727 1057,1727 893,1723 855,1723 690,1722 600,1721 538,1720 504,1718 504,1725 481,1725 481,1718 459,1718 447,1717 391,1716 391,1725 355,1725 333,1715 311,1716 282,1716 250,1715" baseline="250,1714 513,1719 538,1719 1172,1725" reason: differs: "zte." against "zte, sc" | Wikisource:  | next_nc_e1: wird plötzlich schwer krank. Sie holen Ärzte. | german_print2_15: wird plötzlich schwer krank. Sie holen Arzte. -->
+			<TextLine id="r2l27" custom="readingOrder {index:27;}">
+				<Coords points="250,1748 286,1748 286,1739 310,1739 310,1748 347,1748 347,1739 359,1739 382,1740 383,1749 426,1750 449,1740 497,1740 497,1751 588,1748 608,1753 613,1768 620,1768 647,1745 671,1744 710,1744 710,1754 876,1755 902,1746 925,1746 926,1755 964,1756 985,1746 1023,1746 1023,1756 1068,1751 1082,1747 1108,1747 1108,1757 1127,1757 1127,1747 1154,1747 1155,1757 1173,1757 1173,1777 1047,1776 1047,1786 1022,1786 1022,1776 750,1775 750,1785 724,1785 722,1774 710,1774 710,1785 687,1785 687,1774 613,1779 608,1773 573,1773 573,1782 528,1782 527,1771 497,1771 497,1782 473,1782 473,1770 250,1768" />
+				<Baseline points="250,1767 1173,1777" />
+				<TextEquiv index="1">
+					<Unicode>schreiben Rezepte, bringen aus der Apotheke</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>„Ich muss dir die Geschichte der armen
+Kati erzählen. Aber mag sie unter uns bleiben.
+Sieh dich vor, dass du dich nicht verschappst.
+Höre mit einem Ohre und lass es zum andern
+wieder hinaus gehen! Ja, sei vorsichtig, lieber
+Nachbar. Sage niemand ein Wort davon. Ob
+es wahr ist oder eine Lüge, das bleibt sich
+gehört habe. Die Wahrheit kennt nur Gott.
+„Es war ein Kriegsjahr und durch unsere
+Stadt zogen scharenweise die Soldaten. Die
+einen blieben hier zwei, drei Tage, die andern,
+wenn sie gerade eilten, zogen durch ohne zu
+rasten. Katis Vater, der Lasar, war damals
+in Charkow auf dem Jahrmarkte, verkältete
+sich dort, wurde krank und musste einige Zeit
+dort bleiben. Als er endlich zurückkam, be-
+gann schon der Jahrmarkt in Rostow, er muss
+also wohl vier oder fünf Monate dort geblieben
+sein. Während dieser ganzen Zeit sah er seine
+Frau nicht. Merke dir das gut, damit du die
+ganze Sache verstehst! Damals lagen bei uns
+allen Soldaten in Einquartierung, nun und auch
+bei Lasar quartierten sie einen Offizier und
+drei Soldaten ein. Nach vier Tagen kommt
+der Befehl zum Ausmarsch, aber der Offizier
+schreiben Rezepte, bringen aus der Apotheke</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="76,1805 1289,1805 1289,2150 76,2150" />
+		</GraphicRegion>
+		<SeparatorRegion id="r4">
+			<Coords points="80,2139 750,2139 750,2150 80,2150" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r5">
+			<Coords points="1230,237 1252,237 1252,802 1230,802" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+„Ich muss dir die Geschichte der armen Kati erzählen. Aber mag sie unter uns bleiben. Sieh dich vor, dass du dich nicht verschappst. Höre mit einem Ohre und lass es zum andern wieder hinaus gehen! Ja, sei vorsichtig, lieber Nachbar. Sage niemand ein Wort davon. Ob es wahr ist oder eine Lüge, das bleibt sich gleich, ich will’s dir erzählen, wie ich’s selbst gehört habe. Die Wahrheit kennt nur Gott.
+„Es war ein Kriegsjahr und durch unsere Stadt zogen scharenweise die Soldaten. Die einen blieben hier zwei, drei Tage, die andern, wenn sie gerade eilten, zogen durch ohne zu rasten. Katis Vater, der Lasar, war damals in Charkow auf dem Jahrmarkte, verkältete sich dort, wurde krank und musste einige Zeit dort bleiben. Als er endlich zurückkam, begann schon der Jahrmarkt in Rostow, er muss also wohl vier oder fünf Monate dort geblieben sein. Während dieser ganzen Zeit sah er seine Frau nicht. Merke dir das gut, damit du die ganze Sache verstehst! Damals lagen bei uns allen Soldaten in Einquartierung, nun und auch bei Lasar quartierten sie einen Offizier und drei Soldaten ein. Nach vier Tagen kommt der Befehl zum Ausmarsch, aber der Offizier wird plötzlich schwer krank. Sie holen Ärzte, schreiben Rezepte, bringen aus der Apotheke
+-->
+	</Page>
+</PcGts>

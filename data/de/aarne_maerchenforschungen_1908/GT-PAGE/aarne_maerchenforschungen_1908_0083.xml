@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:55:34</Created>
+		<LastChange>2026-11-23T18:55:34</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Aarne_Vergleichende_Märchenforschungen.djvu/83 revision 3211080 of 2018-07-31T07:20:32Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="aarne_maerchenforschungen_1908_0083.png" imageWidth="1200" imageHeight="1662">
+		<ReadingOrder>
+			<OrderedGroup id="ro17098008776826027488" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="514,18 658,18 658,28 514,28" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="503,155 598,155 598,172 503,172" />
+			<!-- line left out: id="r1l0" points="503,166 526,166 539,155 551,155 563,156 577,165 598,165 598,167 563,172 539,172 503,168" baseline="503,168 562,167 598,167" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 63 =
+ | german_print2_15: — 63 —
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="188,204 927,204 927,1261 188,1261" />
+			<!-- line left out: id="r2l0" points="188,219 198,219 198,213 206,213 206,219 218,218 277,218 278,212 303,212 323,212 360,217 379,211 386,211 411,211 432,217 436,211 456,211 465,216 477,210 490,210 534,210 573,214 607,219 622,208 626,208 651,208 686,207 692,207 755,207 768,211 768,205 781,205 782,211 792,210 798,205 811,205 830,210 830,204 847,204 847,210 891,209 915,209 915,226 903,226 858,222 781,223 704,224 686,225 622,225 586,221 573,231 560,231 534,227 465,228 406,229 338,234 324,234 269,230 229,231 188,231" baseline="188,231 240,230 477,227 664,224 915,220" reason: differs: "ung—ein" against "ng – ei" | Wikisource:  | next_nc_e1: einen wichtigen teil der handlung — ein rein märchenhafter zug | german_print2_15: einen wichtigen teil der handlung — ein rein märchenhafter zug -->
+			<!-- line left out: id="r2l1" points="189,258 218,258 231,247 239,247 273,246 282,246 325,246 360,246 391,251 391,245 408,245 442,246 465,245 477,245 498,245 522,245 562,243 576,243 610,244 627,248 627,242 641,242 676,242 707,247 707,241 722,241 759,246 773,238 776,238 785,245 796,245 796,239 809,239 829,240 840,241 846,239 865,238 872,238 872,244 885,244 897,238 903,238 915,243 915,255 885,260 872,260 864,256 840,257 809,257 776,260 759,262 740,262 733,258 689,259 622,259 601,265 566,265 527,265 522,266 484,266 477,262 408,263 380,263 380,257 373,257 367,263 269,263 218,269 189,269" baseline="189,264 269,263 622,259 884,255 915,255" reason: differs: "—,in" against "ug –" | Wikisource:  | next_nc_e1: —, in der buchvariante dagegen liegt die handlung vollständig in | german_print2_15: —, in der buchvariante dagegen liegt die handlung vollständig in -->
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="189,281 287,280 409,284 425,279 443,279 476,284 476,295 425,297 409,297 348,297 263,297 189,297" />
+				<Baseline points="189,297 476,295" />
+				<TextEquiv index="1">
+					<Unicode>den händen von menschen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="247,318 258,313 296,313 304,318 359,319 372,313 420,313 425,318 460,313 469,313 489,317 502,311 515,311 568,317 568,311 679,309 700,309 700,315 773,314 773,308 820,309 874,307 882,307 916,312 916,324 399,331 278,330 265,336 258,336 247,331" />
+				<Baseline points="247,331 916,324" />
+				<TextEquiv index="1">
+					<Unicode>e) Der am schluss des literarischen märchens auftretende bru-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="192,348 203,348 204,354 225,354 244,348 296,347 328,352 346,349 366,349 382,353 382,347 397,347 409,352 455,352 455,361 479,352 485,352 485,346 496,345 510,345 510,351 527,351 527,345 559,345 560,351 596,351 596,345 656,350 656,344 670,344 722,349 736,343 742,343 742,349 753,344 761,344 784,348 784,342 797,342 872,342 916,346 916,358 905,363 839,360 802,360 753,361 708,364 692,361 510,364 459,368 420,364 340,370 326,370 255,365 192,366" />
+				<Baseline points="192,365 721,361 916,358" />
+				<TextEquiv index="1">
+					<Unicode>der des hauptzauberers, ebenfalls ein zauberer, ist eine verdopp-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="190,383 252,382 260,382 343,383 381,387 381,399 247,399 235,405 222,405 190,400" />
+				<Baseline points="190,400 381,399" />
+				<TextEquiv index="1">
+					<Unicode>lung des ersteren.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="250,415 260,415 260,421 270,421 284,415 340,415 352,420 442,415 469,416 480,420 494,414 529,414 562,419 562,413 675,414 686,418 687,412 764,411 839,415 839,409 849,409 860,415 870,415 870,409 884,409 917,414 917,426 523,432 411,437 398,437 352,433 250,433" />
+				<Baseline points="250,433 917,426" />
+				<TextEquiv index="1">
+					<Unicode>In all diesen punkten steht die volkstümliche form auf einem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="191,456 230,455 243,452 265,452 271,449 320,449 321,455 376,454 385,451 395,451 405,454 419,455 419,449 542,448 593,452 627,447 640,447 683,451 693,446 705,446 752,451 760,444 771,444 812,446 888,444 901,444 913,449 919,454 919,456 913,461 787,463 752,468 692,464 518,466 496,471 432,471 419,467 309,467 290,472 271,472 265,467 243,467 230,472 223,472 191,468" />
+				<Baseline points="191,468 919,461" />
+				<TextEquiv index="1">
+					<Unicode>ursprünglicheren standpunkt, und unsere betrachtung führt uns unbe-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="193,485 211,484 212,490 224,489 238,485 350,483 376,483 387,488 436,488 442,483 479,483 514,488 528,482 880,478 885,478 918,483 918,495 858,495 826,501 813,501 775,497 528,499 514,505 426,500 426,506 412,506 362,501 239,501 239,507 224,507 193,502" />
+				<Baseline points="193,502 918,495" />
+				<TextEquiv index="1">
+					<Unicode>dingt zu demselben gedanken, den Hahn in den anmerkungen seiner</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l9" points="192,524 211,524 212,518 227,518 257,517 274,517 291,517 298,523 349,519 377,519 391,518 403,518 415,522 485,522 485,516 499,516 499,522 511,521 589,520 596,520 645,520 650,515 662,515 692,520 704,514 717,514 741,515 741,509 761,509 782,514 826,513 837,513 909,513 919,517 919,524 909,529 851,530 804,531 782,531 770,531 761,545 741,545 741,534 710,534 704,534 652,533 617,537 590,538 566,538 543,533 530,539 511,539 403,535 227,536 206,541 192,541" baseline="192,536 704,531 872,529 919,529" reason: differs: "hat1,da" against "hat⟦⟧, " | Wikisource:  | next_nc_e1: griechischen märchensammlung ausgesprochen hat 1, dass das mär- | german_print2_15: griechischen märchensammlung ausgesprochen hat, dass das mär- -->
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="193,558 203,553 282,557 293,558 314,567 317,553 331,552 382,551 382,557 393,557 407,551 413,551 415,557 430,557 450,550 457,550 457,556 494,556 494,550 503,550 504,556 515,556 515,550 544,550 571,555 572,549 584,549 623,550 652,555 672,548 675,548 685,554 696,554 697,548 754,550 766,548 891,546 897,546 897,552 919,551 919,563 515,568 496,573 480,573 463,569 457,573 450,573 413,569 193,570" />
+				<Baseline points="193,570 919,563" />
+				<TextEquiv index="1">
+					<Unicode>chen von Aladdin im vergleich mit dem volkstümlichen als eine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="191,593 201,589 289,592 289,586 302,586 302,592 317,587 337,586 426,591 439,585 471,585 502,590 514,584 522,584 547,584 567,589 567,601 453,602 453,608 439,608 404,603 392,609 378,609 378,603 337,604 302,609 283,609 239,604 239,610 200,610 191,610" />
+				<Baseline points="191,605 567,601" />
+				<TextEquiv index="1">
+					<Unicode>jüngere gestaltung zu gelten habe.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="253,635 263,635 264,621 553,618 572,619 590,623 590,617 680,616 680,622 701,622 701,616 745,616 757,621 757,615 823,616 882,614 888,614 920,619 920,631 871,631 860,637 841,637 834,632 769,637 662,634 314,638 263,643 253,643" />
+				<Baseline points="253,638 920,631" />
+				<TextEquiv index="1">
+					<Unicode>„Tausend und eine nacht“ ist die arabische bearbeitung eines</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="194,659 206,654 301,659 301,653 342,653 408,657 414,653 518,656 552,651 673,651 869,648 882,648 897,648 921,653 921,665 912,670 898,670 883,665 869,664 869,670 795,666 717,671 602,668 443,669 270,675 258,675 194,670" />
+				<Baseline points="194,671 921,664" />
+				<TextEquiv index="1">
+					<Unicode>alten persischen werkes namens Hazâr Afzâneh, die ihre endgiltige</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l14" points="195,686 205,686 205,692 242,692 261,686 268,686 328,686 365,686 376,690 387,691 407,684 412,684 412,690 425,685 441,685 453,690 453,684 460,684 469,686 480,689 510,685 523,685 588,684 614,684 672,684 726,684 739,685 774,688 787,682 803,682 829,683 870,682 873,682 890,683 900,682 921,682 921,699 857,704 838,704 814,700 795,704 787,704 641,701 480,702 454,702 351,707 339,708 326,708 306,707 221,704 195,704" baseline="195,704 241,703 491,701 640,700 856,699 921,699" reason: differs: "at.Nach" against "at.⟦⟧ N" | Wikisource:  | next_nc_e1: form in Egypten erhalten hat. Nach dem dänen Ostrup stellt | german_print2_15: form in Egypten erhalten hat.?“ Nach dem dänen Ostrup stellt -->
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="196,736 206,736 207,721 292,720 330,725 330,719 531,718 590,723 590,717 608,717 608,723 619,723 619,717 631,717 670,722 688,716 692,716 812,716 818,716 846,716 863,721 920,717 920,733 812,734 781,739 657,740 656,734 513,735 493,726 484,726 484,735 207,738 206,744 196,744" />
+				<Baseline points="196,738 426,735 920,733" />
+				<TextEquiv index="1">
+					<Unicode>„Tausend und eine nacht“ eine mischung indisch-persischer und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l16" points="195,761 208,761 229,761 229,755 247,755 248,761 258,760 268,755 281,755 302,760 322,754 330,754 365,755 389,753 401,753 411,754 421,752 434,752 479,752 501,757 543,762 562,751 565,751 617,751 638,753 649,752 658,752 668,756 730,752 738,752 794,752 809,756 828,750 831,750 861,750 861,756 889,755 902,755 922,755 922,767 914,768 854,768 695,769 668,769 638,769 562,769 520,764 499,761 499,769 445,771 376,771 302,772 281,773 247,773 218,774 195,774" baseline="195,774 322,771 444,769 922,767" reason: differs: "dar—die" against "ar – di" | Wikisource:  | next_nc_e1: arabischer bestandteile dar — die letzteren stammen teils aus | german_print2_15: arabischer bestandteile dar — die letzteren stammen teils aus -->
+			<!-- line left out: id="r2l17" points="196,791 212,791 243,790 250,790 307,790 318,794 318,788 332,788 332,794 360,793 393,793 412,787 419,786 436,786 449,787 470,792 508,797 526,786 538,786 582,786 610,791 622,785 637,785 637,791 651,786 662,786 674,790 709,791 709,785 715,785 717,791 727,791 727,785 738,785 765,786 777,790 783,785 794,785 843,785 922,785 922,802 804,803 777,803 556,804 512,809 508,809 508,798 484,798 470,804 393,805 332,806 279,811 267,811 244,807 244,813 224,813 196,808" baseline="196,808 298,806 412,804 803,802 922,802" reason: differs: "Bagd" against "s au" | Wikisource:  | next_nc_e1: Bagdad, teils aus Kairo —, daneben finden sich darin aber auch | german_print2_15: Bagdad, teils aus Kairo —, daneben finden sich darin aber auch -->
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="195,824 216,823 216,830 230,825 310,823 320,828 321,837 338,823 351,822 393,822 471,827 471,821 618,820 618,826 636,826 636,820 649,820 649,826 660,826 660,820 712,820 724,825 730,820 793,821 810,825 810,819 823,819 825,825 835,820 847,820 879,824 917,824 922,829 922,831 917,831 917,837 907,842 893,842 856,837 779,842 764,842 724,838 636,838 636,844 618,844 605,844 574,843 549,839 529,843 381,839 363,833 363,840 325,843 271,841 216,843 195,842" />
+				<Baseline points="195,841 528,838 922,837" />
+				<TextEquiv index="1">
+					<Unicode>bestandteile, die der sammlung ursprünglich überhaupt nicht ange-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l19" points="195,859 208,859 220,860 251,859 298,856 307,856 334,856 353,862 369,857 386,857 422,862 422,856 442,856 442,862 466,861 479,861 502,862 502,856 522,856 522,862 543,861 576,861 576,855 592,855 592,861 602,861 603,855 608,855 647,860 659,854 670,854 693,855 714,854 721,854 721,860 746,855 758,854 766,854 766,860 809,860 809,854 817,854 826,855 903,858 923,859 923,870 910,871 868,872 680,873 647,878 626,878 602,873 592,878 576,878 498,873 479,879 466,879 334,875 253,876 242,876 195,876" baseline="195,876 252,875 353,874 478,873 838,871 923,871" reason: differs: "en.*Die" against "en.⟦⟧ D" | Wikisource:  | next_nc_e1: hören.* Die entwicklung der sammlung fällt in die zeit vom an- | german_print2_15: hören.“ Die entwicklung der sammlung fällt in die zeit vom an- -->
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="197,892 207,892 207,898 266,898 266,892 349,891 350,897 362,897 362,891 370,891 370,897 384,897 384,891 535,890 535,896 570,891 580,891 594,892 594,903 609,890 734,890 823,895 835,888 841,888 864,888 904,888 917,888 917,898 923,898 923,900 917,905 715,907 618,912 609,912 594,907 404,909 349,914 340,914 294,910 267,910 242,914 229,914 197,910" />
+				<Baseline points="197,910 923,905" />
+				<TextEquiv index="1">
+					<Unicode>fang des 9. Jahrhunderts bis ins 14. Jahrhundert unserer zeitrech-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l21" points="197,932 248,932 248,940 263,927 292,926 329,926 377,926 390,930 420,930 433,924 453,924 453,930 473,929 483,925 496,925 508,929 523,930 536,924 554,924 584,925 622,924 631,923 647,923 648,929 658,924 667,923 677,923 696,924 716,923 731,923 743,929 754,928 776,923 787,923 797,929 819,924 831,924 844,928 889,923 907,923 924,928 924,935 915,940 754,941 677,946 667,946 610,942 554,942 523,946 514,946 508,942 439,946 433,946 390,943 292,943 263,937 252,943 248,948 234,948 222,944 210,944 197,943" baseline="197,943 522,941 762,940 924,940" reason: differs: "ng.3Ein" against "ng.⟦⟧ B" | Wikisource:  | next_nc_e1: nung. 3 Ein anderer forscher, Gustav Weil, hält es fur das wahr- | german_print2_15: nung. ⁸ Ein anderer forscher, Gustav Weil, hält es für das wahr- -->
+			<!-- line left out: id="r2l22" points="197,965 213,960 225,960 236,959 247,959 268,959 275,960 298,960 317,961 328,964 328,973 346,959 358,959 420,959 504,960 515,963 524,964 536,958 549,958 601,959 602,971 617,957 625,957 650,958 662,963 662,957 674,957 687,962 699,958 711,958 723,962 728,958 742,958 789,957 835,957 849,958 919,962 924,966 924,969 919,973 908,974 891,979 884,979 723,975 687,975 650,975 625,979 617,979 601,975 589,975 578,974 494,980 469,981 455,981 455,975 413,976 332,980 328,980 197,976" baseline="197,976 430,975 741,974 924,974" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: scheinlichste, dass ein egypter im 15. jahrhundert nach altem per- | german_print2_15: scheinlichste, dass ein egypter im 15. jahrhundert nach altem per- -->
+			<!-- line left out: id="r2l23" points="197,996 208,991 214,991 214,997 225,992 242,992 302,992 338,992 370,992 411,996 432,993 444,992 457,991 463,991 555,991 565,992 575,996 589,1005 598,1005 599,991 628,991 685,991 733,991 754,996 754,990 766,990 766,996 827,991 844,991 882,990 887,990 893,992 902,990 916,990 916,996 924,996 924,1008 807,1008 733,1008 609,1008 599,1007 598,1013 503,1013 489,1013 208,1008 197,1008" baseline="197,1008 924,1008" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: sischem vorbilde erzählungen für „Tausend und eine nacht“ teils | german_print2_15: sischem vorbilde erzählungen für „Tausend und eine nacht“ teils -->
+			<!-- line left out: id="r2l24" points="198,1029 226,1024 238,1024 256,1024 272,1025 292,1026 302,1029 303,1038 320,1025 330,1025 340,1024 363,1024 417,1024 417,1030 439,1029 450,1026 461,1025 467,1025 494,1024 507,1024 532,1024 569,1030 579,1029 615,1029 651,1029 655,1025 671,1025 685,1030 698,1024 713,1024 741,1025 798,1024 803,1024 832,1025 842,1024 880,1024 903,1024 925,1029 925,1041 759,1041 651,1042 605,1046 591,1046 462,1041 330,1041 307,1046 303,1046 272,1041 209,1041 198,1040" baseline="198,1041 925,1041" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: erdichtete, teils nach mündlichen sagen oder früheren schriftlichen | german_print2_15: erdichtete, teils nach mündlichen sagen oder früheren schriftlichen -->
+			<!-- line left out: id="r2l25" points="199,1063 216,1063 216,1057 234,1057 243,1063 253,1063 253,1057 277,1057 378,1057 407,1061 417,1057 429,1057 439,1056 448,1056 476,1058 487,1061 487,1070 507,1057 519,1057 621,1057 687,1058 716,1062 720,1058 728,1058 772,1062 782,1057 789,1057 789,1063 850,1058 867,1058 881,1063 881,1057 894,1057 926,1058 926,1074 918,1075 832,1075 701,1075 687,1075 574,1074 491,1078 487,1078 394,1074 378,1074 335,1079 321,1079 253,1075 199,1075" baseline="199,1075 356,1073 507,1073 926,1074" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: aufzeichnungen bearbeitete, dass er aber entweder sein werk nicht | german_print2_15: aufzeichnungen bearbeitete, dass er aber entweder sein werk nicht -->
+			<!-- line left out: id="r2l26" points="200,1099 207,1098 224,1098 224,1092 237,1092 273,1092 293,1092 335,1091 347,1091 387,1090 410,1090 449,1096 452,1090 466,1090 478,1095 497,1089 500,1089 507,1091 517,1089 530,1089 554,1090 617,1090 676,1095 682,1090 693,1090 704,1095 726,1095 764,1096 764,1090 771,1090 771,1096 798,1096 798,1104 814,1096 837,1091 848,1091 905,1091 926,1096 926,1108 825,1108 798,1113 783,1113 783,1107 764,1112 751,1112 598,1107 530,1107 500,1107 466,1107 430,1107 355,1108 334,1108 273,1109 255,1110 230,1110 224,1111 200,1111" baseline="200,1111 303,1108 367,1107 814,1107 926,1108" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: vollendete oder dass ein teil desselben verloren ging, sodass das | german_print2_15: vollendete oder dass ein teil desselben verloren ging, sodass das -->
+			<!-- line left out: id="r2l27" points="201,1128 211,1128 232,1127 245,1127 256,1132 263,1127 275,1127 388,1125 407,1125 440,1129 458,1123 465,1123 513,1123 513,1129 526,1128 552,1125 563,1124 575,1124 575,1138 595,1123 604,1123 606,1129 617,1124 629,1124 640,1129 640,1123 652,1123 653,1129 671,1124 685,1123 697,1123 697,1129 708,1125 734,1124 754,1124 784,1124 821,1125 855,1124 868,1124 881,1130 926,1130 926,1142 868,1142 835,1142 697,1146 604,1146 595,1146 562,1141 428,1142 341,1143 318,1144 256,1145 232,1146 201,1146" baseline="201,1146 359,1142 439,1141 810,1141 926,1142" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: fehlende von anderen bis ins 16. jahrhundert hinein durch neue | german_print2_15: fehlende von anderen bis ins 16. jahrhundert hinein durch neue -->
+			<!-- line left out: id="r2l28" points="201,1169 233,1164 245,1163 257,1162 265,1162 265,1168 277,1167 303,1166 362,1165 379,1161 392,1161 415,1160 423,1160 482,1164 482,1158 493,1158 566,1158 609,1159 669,1163 669,1157 675,1157 698,1158 698,1172 721,1163 726,1158 746,1158 799,1158 825,1164 835,1163 853,1163 875,1159 891,1159 927,1164 927,1181 915,1181 791,1176 701,1180 697,1180 586,1175 493,1176 423,1177 392,1178 380,1183 362,1183 325,1179 314,1179 303,1178 303,1184 290,1184 244,1181 212,1182 201,1182" baseline="201,1181 422,1176 927,1175" reason: differs: "erzä" against "ng.⟦" | Wikisource:  | next_nc_e1: erzählungen ergänzt wurde  Burton meint, dass die sammlung | german_print2_15: erzählungen ergänzt wurde ¹ Burton meint, dass die sammlung -->
+			<TextLine id="r2l29" custom="readingOrder {index:29;}">
+				<Coords points="201,1199 221,1199 242,1204 256,1198 302,1196 308,1196 308,1202 332,1201 347,1195 567,1193 596,1198 615,1192 629,1192 682,1193 684,1206 705,1192 713,1192 738,1192 761,1192 762,1198 792,1193 849,1193 865,1198 927,1199 927,1211 715,1209 713,1215 705,1215 688,1209 428,1212 322,1214 322,1220 308,1220 301,1215 201,1217" />
+				<Baseline points="201,1217 615,1209 927,1211" />
+				<TextEquiv index="1">
+					<Unicode>ihre heutige form wesentlich schon im 13. jahrhundert besessen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l30" points="201,1234 215,1234 226,1233 232,1233 263,1229 273,1229 273,1261 263,1261 263,1251 227,1251 201,1251" baseline="201,1251 263,1250 273,1250" reason: differs: "be.⁴" against "be.⟦⟧" | Wikisource:  | next_nc_e1: habe. ⁴
+ | german_print2_15: habe. 4⁴
+ -->
+			<TextEquiv index="1">
+				<Unicode>den händen von menschen.
+e) Der am schluss des literarischen märchens auftretende bru-
+der des hauptzauberers, ebenfalls ein zauberer, ist eine verdopp-
+lung des ersteren.
+In all diesen punkten steht die volkstümliche form auf einem
+ursprünglicheren standpunkt, und unsere betrachtung führt uns unbe-
+dingt zu demselben gedanken, den Hahn in den anmerkungen seiner
+chen von Aladdin im vergleich mit dem volkstümlichen als eine
+jüngere gestaltung zu gelten habe.
+„Tausend und eine nacht“ ist die arabische bearbeitung eines
+alten persischen werkes namens Hazâr Afzâneh, die ihre endgiltige
+„Tausend und eine nacht“ eine mischung indisch-persischer und
+bestandteile, die der sammlung ursprünglich überhaupt nicht ange-
+fang des 9. Jahrhunderts bis ins 14. Jahrhundert unserer zeitrech-
+ihre heutige form wesentlich schon im 13. jahrhundert besessen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="252,858 272,858 272,868 252,868" />
+		</GraphicRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="260,1296 627,1296 627,1406 260,1406" />
+			<!-- line left out: id="r4l0" points="262,1301 277,1299 294,1299 321,1299 361,1299 361,1311 375,1299 390,1299 410,1299 459,1303 470,1297 480,1297 480,1309 494,1301 503,1301 504,1308 518,1296 548,1296 548,1307 551,1307 551,1310 539,1310 484,1314 480,1314 459,1312 425,1313 364,1316 360,1316 353,1314 331,1318 287,1318 277,1318 262,1308" baseline="262,1315 277,1314 551,1309" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ¹ Hahn, II, Anm. nr. 9, s. 204.
+ | german_print2_15: ¹ Hahn, II, Anm. nr. 9, s. 204.
+ -->
+			<!-- line left out: id="r4l1" points="261,1329 283,1328 304,1328 361,1332 361,1340 376,1328 396,1328 427,1328 444,1327 458,1327 509,1327 548,1325 561,1325 594,1324 627,1324 627,1338 561,1342 526,1342 509,1340 478,1345 458,1345 444,1345 427,1342 402,1345 341,1346 330,1346 321,1343 304,1343 295,1346 283,1346 277,1342 261,1337" baseline="261,1343 537,1339 583,1338 627,1338" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 2 Scherr, s. 74; Baumgartner, I, s. 397. | german_print2_15: ² Scherr, s. 74; Baumgartner, I, s. 397. -->
+			<!-- line left out: id="r4l2" points="260,1359 284,1358 292,1358 314,1358 378,1357 410,1357 410,1371 344,1376 327,1376 301,1372 287,1372 277,1372 268,1366 260,1366" baseline="260,1372 343,1371 410,1371" reason: no text of Wikisource found | Wikisource:  | next_nc_e1:  Gstrup, s. 146.
+ | german_print2_15: * Ostrup, s. 146.
+ -->
+			<!-- line left out: id="r4l3" points="261,1388 277,1387 292,1387 371,1387 392,1390 415,1386 427,1386 447,1390 447,1397 461,1385 514,1384 522,1384 537,1384 537,1398 495,1403 478,1403 447,1400 427,1403 391,1403 345,1400 345,1406 331,1406 277,1401 261,1396" baseline="261,1401 504,1398 537,1398" reason: no text of Wikisource found | Wikisource:  | next_nc_e1:  Baumgartner, I, s. 399, 400.
+ | german_print2_15: ¹ Baumgartner, I, s. 399, 400.
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="934,615 1037,615 1037,664 934,664" />
+			<!-- line left out: id="r5l0" points="934,615 951,615 1037,616 1037,626 1003,628 993,628 934,625" baseline="934,625 1037,624" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Der ursprung | german_print2_15: Der ursprung -->
+			<!-- line left out: id="r5l1" points="934,634 951,634 975,636 978,632 995,632 1012,633 1035,635 1035,643 1029,644 957,645 934,645" baseline="934,644 1035,643" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: des märchens | german_print2_15: des märchens -->
+			<!-- line left out: id="r5l2" points="936,656 945,655 954,655 970,652 981,652 987,653 995,652 1028,652 1028,659 1032,659 1032,663 962,664 936,664" baseline="936,664 1032,663" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: von Aladdin.
+ | german_print2_15: von Aladdin.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="1029,0 1200,0 1200,1662 1029,1662" />
+		</GraphicRegion>
+		<SeparatorRegion id="r7">
+			<Coords points="1157,33 1164,33 1164,333 1157,333" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r8">
+			<Coords points="1151,33 1165,33 1165,392 1151,392" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r9">
+			<Coords points="1151,33 1166,33 1166,392 1151,392" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r10">
+			<Coords points="1153,33 1164,33 1164,392 1153,392" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r11">
+			<Coords points="1127,36 1155,36 1155,1553 1127,1553" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r12">
+			<Coords points="1149,533 1173,533 1173,1628 1149,1628" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+einen wichtigen teil der handlung – ein rein märchenhafter zug –, in der buchvariante dagegen liegt die handlung vollständig in den händen von menschen.
+e) Der am schluss des literarischen märchens auftretende bruder des hauptzauberers, ebenfalls ein zauberer, ist eine verdopplung des ersteren.
+In all diesen punkten steht die volkstümliche form auf einem ursprünglicheren standpunkt, und unsere betrachtung führt uns unbedingt zu demselben gedanken, den Hahn in den anmerkungen seiner griechischen märchensammlung ausgesprochen hat⟦⟧, dass das märchen von Aladdin im vergleich mit dem volkstümlichen als eine jüngere gestaltung zu gelten habe.
+„Tausend und eine nacht“ ist die arabische bearbeitung eines alten persischen werkes namens Hazâr Afzâneh, die ihre endgiltige form in Egypten erhalten hat.⟦⟧ Nach dem dänen Østrup stellt „Tausend und eine nacht“ eine mischung indisch-persischer und arabischer bestandteile dar – die letzteren stammen teils aus Bagdad, teils aus Kairo –, daneben finden sich darin aber auch bestandteile, die der sammlung ursprünglich überhaupt nicht angehören.⟦⟧ Die entwicklung der sammlung fällt in die zeit vom anfang des 9. Jahrhunderts bis ins 14. Jahrhundert unserer zeitrechnung.⟦⟧ Burton meint, dass die sammlung ihre heutige form wesentlich schon im 13. jahrhundert besessen habe.⟦⟧
+-->
+	</Page>
+</PcGts>

@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:27:39</Created>
+		<LastChange>2026-11-23T18:27:39</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Die_Sophienkirche_in_Dresden_(1912).pdf/21 revision 4811718 of 2026-01-24T07:50:28Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="sophienkirche_dresden_1912_0021.png" imageWidth="1000" imageHeight="1439">
+		<ReadingOrder>
+			<OrderedGroup id="ro12656717671268898534" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="16" regionRef="r16" />
+				<RegionRefIndexed index="20" regionRef="r20" />
+				<RegionRefIndexed index="22" regionRef="r22" />
+				<RegionRefIndexed index="23" regionRef="r23" />
+				<RegionRefIndexed index="25" regionRef="r25" />
+				<RegionRefIndexed index="27" regionRef="r27" />
+				<RegionRefIndexed index="29" regionRef="r29" />
+				<RegionRefIndexed index="31" regionRef="r31" />
+				<RegionRefIndexed index="32" regionRef="r32" />
+				<RegionRefIndexed index="34" regionRef="r34" />
+				<RegionRefIndexed index="35" regionRef="r35" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="119,305 170,305 170,330 119,330" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="123,202 263,202 263,214 123,214" />
+			<!-- line left out: id="r1l0" points="123,206 138,205 153,202 168,202 187,206 194,202 204,202 221,203 251,207 263,208 263,210 247,214 187,214 126,214 123,214" baseline="123,214 144,213 263,214" reason: second model: differs: "inen" against "iner mi" | Wikisource: mit Blattwerk, eine | next_nc_e1: mit Blattwerk, eine
+ | german_print2_15: mit Blattwerk, einen
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="123,228 257,228 257,237 123,237" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="123,228 139,228 257,229 257,233 251,237 211,237 203,237 123,236" />
+				<Baseline points="123,235 144,234 257,236" />
+				<TextEquiv index="1">
+					<Unicode>der seine Jungen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>der seine Jungen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="233,239 236,239 236,240 233,240" />
+		</GraphicRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="175,251 248,251 248,259 175,259" />
+			<!-- line left out: id="r4l0" points="175,257 190,255 205,253 218,251 231,251 248,251 248,258 235,259 213,259 180,259 175,259" baseline="175,259 191,258 248,257" reason: second model has no such line | Wikisource: on einem | next_nc_e1: on einem
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="276,198 514,198 514,285 276,285" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="258,243 338,243 338,263 258,263" />
+		</GraphicRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="123,270 359,270 359,281 123,281" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="123,274 142,271 197,274 226,274 241,270 252,270 264,276 280,275 285,270 287,270 319,273 342,270 352,270 359,273 359,275 357,275 352,281 257,281 250,281 226,281 180,281 155,279 141,281 129,281 123,279" />
+				<Baseline points="123,280 359,281" />
+				<TextEquiv index="1">
+					<Unicode>halten, die das Museum des Kg</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>halten, die das Museum des Kg</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="124,293 245,293 245,304 124,304" />
+			<TextLine id="r8l0" custom="readingOrder {index:0;}">
+				<Coords points="124,299 130,295 141,293 160,293 170,296 191,296 217,293 221,293 243,293 245,299 245,302 209,304 202,304 160,304 130,304 124,304" />
+				<Baseline points="124,304 245,302" />
+				<TextEquiv index="1">
+					<Unicode>stück ist ein heili</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>stück ist ein heili</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r9">
+			<Coords points="151,357 185,357 185,375 151,375" />
+		</GraphicRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="198,360 238,360 238,371 198,371" />
+			<!-- line left out: id="r10l0" points="198,360 220,360 238,360 238,369 235,371 220,371 198,371" baseline="198,367 238,369" reason: models differ | Wikisource: Rech | next_nc_e1: Rech
+ | german_print2_15: n Rech
+ -->
+		</TextRegion>
+		<GraphicRegion id="r11">
+			<Coords points="251,288 392,288 392,397 251,397" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="267,403 337,403 337,419 267,419" />
+		</GraphicRegion>
+		<GraphicRegion id="r13">
+			<Coords points="327,427 350,427 350,437 327,437" />
+		</GraphicRegion>
+		<GraphicRegion id="r14">
+			<Coords points="328,486 342,486 342,509 328,509" />
+		</GraphicRegion>
+		<GraphicRegion id="r15">
+			<Coords points="329,738 368,738 368,754 329,754" />
+		</GraphicRegion>
+		<TextRegion id="r16" custom="readingOrder {index:16;} orientation {0;}">
+			<Coords points="130,654 366,654 366,779 130,779" />
+			<!-- line left out: id="r16l0" points="309,654 326,654 360,654 366,655 366,658 360,661 315,661 309,660" baseline="309,660 366,658" reason: second model has no such line | Wikisource: Schmalw | next_nc_e1: Schmalw | german_print2_15:  -->
+			<!-- line left out: id="r16l1" points="130,768 183,766 186,766 197,750 209,750 209,767 231,762 243,762 258,762 281,762 323,762 348,766 348,769 327,772 319,772 258,772 243,772 231,772 209,770 209,779 197,779 191,771 134,772 130,772" baseline="130,769 231,769 348,770" reason: differs: "3hoh" against "ände" | Wikisource:  | next_nc_e1: 3 hohen Seitenansicht a
+ | german_print2_15: 3 hohen Seitenansicht a
+ -->
+		</TextRegion>
+		<GraphicRegion id="r17">
+			<Coords points="348,830 372,830 372,841 348,841" />
+		</GraphicRegion>
+		<GraphicRegion id="r18">
+			<Coords points="285,851 314,851 314,866 285,866" />
+		</GraphicRegion>
+		<GraphicRegion id="r19">
+			<Coords points="386,197 747,197 747,908 386,908" />
+		</GraphicRegion>
+		<TextRegion id="r20" custom="readingOrder {index:20;} orientation {0;}">
+			<Coords points="127,853 743,853 743,983 127,983" />
+			<!-- line left out: id="r20l0" points="127,856 135,856 257,853 261,853 270,857 270,860 234,860 135,864 127,864" baseline="127,864 257,861 270,861" reason: differs: "denG" against "uf b" | Wikisource:  | next_nc_e1: d en Ge | german_print2_15:  -->
+			<!-- line left out: id="r20l1" points="128,922 134,919 139,919 149,922 158,919 168,919 182,925 195,923 230,921 238,921 247,918 276,918 294,918 316,921 336,918 347,918 479,921 479,923 474,924 347,929 336,929 311,928 294,929 276,929 247,929 238,928 168,930 149,930 128,930" baseline="128,930 170,928 206,927 479,927" reason: differs: "Arbe" against "s di" | Wikisource:  | next_nc_e1: Arbeit eines handwerkmäßige ke | german_print2_15: Arbeit eines handwerkmäßige ke -->
+			<!-- line left out: id="r20l2" points="150,970 156,966 168,966 199,963 207,963 232,963 249,963 282,963 304,966 304,952 317,952 320,965 351,965 507,966 533,960 545,960 623,960 639,960 644,962 657,959 668,959 688,965 700,965 700,959 710,959 714,962 728,966 728,959 737,959 743,962 743,965 737,970 710,971 681,973 666,973 657,973 639,971 627,971 537,970 351,972 343,972 320,969 317,983 304,983 304,976 282,976 232,976 221,976 207,974 168,974 159,974 150,972" baseline="150,972 617,970 743,970" reason: differs: "stli" against "ine " | Wikisource:  | next_nc_e1: stliche Verlängerung um zw die Pf achteckig gebildet
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r21">
+			<Coords points="126,894 602,894 602,1001 126,1001" />
+		</GraphicRegion>
+		<TextRegion id="r22" custom="readingOrder {index:22;} orientation {0;}">
+			<Coords points="129,981 737,981 737,1019 129,1019" />
+			<!-- line left out: id="r22l0" points="146,989 203,987 209,984 225,984 233,987 242,987 245,991 263,984 269,984 274,986 292,990 292,984 304,984 318,984 356,985 358,992 549,991 555,985 562,985 574,982 589,982 616,982 631,982 634,987 647,981 663,981 679,981 699,985 737,985 737,992 708,992 699,991 691,992 679,992 653,992 647,987 631,993 616,993 584,993 574,993 562,992 554,993 318,995 304,995 274,995 268,995 263,987 245,995 242,996 182,997 176,997 146,997" baseline="146,997 181,996 233,995 317,994 633,992 737,992" reason: differs: "urde" against "ldet" | Wikisource:  | next_nc_e1: urden. Ob die Dresdner Kirc ch erhaltene Franziskaner | german_print2_15: urden. Ob die Dresdner Kirc dh erhaltene Franziskaner -->
+			<TextLine id="r22l1" custom="readingOrder {index:1;}">
+				<Coords points="129,1010 136,1008 163,1008 210,1011 288,1006 347,1005 364,1005 364,1015 357,1017 192,1017 163,1019 150,1019 129,1019" />
+				<Baseline points="129,1019 288,1015 364,1015" />
+				<TextEquiv index="1">
+					<Unicode>kirchen einen offenen Dachstuh</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>kirchen einen offenen Dachstuh</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r23" custom="readingOrder {index:23;} orientation {0;}">
+			<Coords points="129,1028 314,1028 314,1041 129,1041" />
+			<!-- line left out: id="r23l0" points="129,1035 136,1034 147,1032 157,1032 167,1030 174,1030 216,1029 226,1029 233,1036 245,1033 251,1028 259,1028 295,1028 314,1032 314,1039 259,1039 191,1041 174,1041 157,1041 129,1041" baseline="129,1041 190,1039 314,1039" reason: differs: "zust" against "l od" | Wikisource:  | next_nc_e1: zustellen. An den West
+ | german_print2_15: zustellen. An den West.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r24">
+			<Coords points="251,986 543,986 543,1020 251,1020" />
+		</GraphicRegion>
+		<TextRegion id="r25" custom="readingOrder {index:25;} orientation {0;}">
+			<Coords points="554,1003 738,1003 738,1015 554,1015" />
+			<TextLine id="r25l0" custom="readingOrder {index:0;}">
+				<Coords points="554,1006 638,1006 667,1003 671,1003 693,1003 733,1004 738,1007 738,1013 646,1015 616,1015 609,1015 570,1015 557,1015 554,1010" />
+				<Baseline points="554,1014 738,1013" />
+				<TextEquiv index="1">
+					<Unicode>hatte, ist nicht sicher fest</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>hatte, ist nicht sicher fest</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r26">
+			<Coords points="311,1026 712,1026 712,1037 311,1037" />
+		</GraphicRegion>
+		<TextRegion id="r27" custom="readingOrder {index:27;} orientation {0;}">
+			<Coords points="524,1026 742,1026 742,1037 524,1037" />
+			<TextLine id="r27l0" custom="readingOrder {index:0;}">
+				<Coords points="524,1030 556,1028 622,1030 653,1026 696,1026 718,1026 731,1026 742,1029 742,1036 740,1037 723,1037 653,1037 615,1037 585,1037 561,1037 538,1037 524,1037" />
+				<Baseline points="524,1037 742,1036" />
+				<TextEquiv index="1">
+					<Unicode>ein sehr starker Strebepfeiler</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ein sehr starker Strebepfeiler</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r28">
+			<Coords points="362,1022 486,1022 486,1042 362,1042" />
+		</GraphicRegion>
+		<TextRegion id="r29" custom="readingOrder {index:29;} orientation {0;}">
+			<Coords points="190,1081 251,1081 251,1091 190,1091" />
+			<!-- line left out: id="r29l0" points="190,1089 202,1082 221,1081 230,1081 251,1084 251,1089 246,1090 193,1091 190,1091" baseline="190,1091 202,1090 221,1089 251,1089" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 1 l. Hans
+ | german_print2_15: 1 nl. Hans
+ -->
+		</TextRegion>
+		<GraphicRegion id="r30">
+			<Coords points="260,1079 290,1079 290,1093 260,1093" />
+		</GraphicRegion>
+		<TextRegion id="r31" custom="readingOrder {index:31;} orientation {0;}">
+			<Coords points="534,1080 733,1080 733,1105 534,1105" />
+			<!-- line left out: id="r31l0" points="574,1081 583,1080 587,1080 600,1081 600,1085 595,1088 583,1088 574,1083" baseline="574,1083 600,1084" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hten | german_print2_15: den -->
+			<!-- line left out: id="r31l1" points="534,1099 559,1098 565,1097 578,1097 599,1097 605,1098 624,1096 632,1096 649,1096 725,1096 733,1098 733,1104 725,1104 707,1104 667,1104 656,1102 649,1104 644,1104 636,1103 632,1104 614,1104 612,1104 596,1103 589,1104 578,1105 534,1105" baseline="534,1103 659,1103 733,1104" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: der sakristen weitter zu machen.
+ | german_print2_15: Gder sakristen weitter zu mechen.
+ -->
+		</TextRegion>
+		<TextRegion id="r32" custom="readingOrder {index:32;} orientation {0;}">
+			<Coords points="619,1079 744,1079 744,1087 619,1087" />
+			<!-- line left out: id="r32l0" points="619,1081 645,1079 649,1079 661,1079 675,1079 696,1079 711,1079 744,1081 744,1087 696,1087 645,1087 626,1086 619,1086" baseline="619,1087 744,1087" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: en althar wider zu
+ | german_print2_15: len slkhar wider zu
+ -->
+		</TextRegion>
+		<GraphicRegion id="r33">
+			<Coords points="313,1077 572,1077 572,1111 313,1111" />
+		</GraphicRegion>
+		<TextRegion id="r34" custom="readingOrder {index:34;} orientation {0;}">
+			<Coords points="129,1099 289,1099 289,1109 129,1109" />
+			<!-- line left out: id="r34l0" points="129,1104 143,1101 146,1101 167,1103 184,1102 195,1099 206,1099 229,1099 235,1100 251,1100 263,1101 269,1100 272,1100 289,1101 289,1103 284,1107 276,1107 267,1106 256,1107 229,1108 183,1108 153,1109 147,1109 135,1108 129,1108" baseline="129,1108 179,1107 289,1107" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: setzen unnd abzubrechen
+ | german_print2_15: setzen unnd abzubrechen
+ -->
+		</TextRegion>
+		<TextRegion id="r35" custom="readingOrder {index:35;} orientation {0;}">
+			<Coords points="399,1394 646,1394 646,1422 399,1422" />
+			<!-- line left out: id="r35l0" points="399,1394 408,1394 426,1394 443,1394 457,1394 465,1394 474,1403 478,1403 483,1394 491,1394 508,1394 520,1394 533,1394 533,1403 534,1403 542,1394 559,1394 583,1394 583,1403 585,1403 609,1404 609,1394 625,1394 643,1394 643,1404 646,1404 646,1413 643,1413 643,1422 625,1422 609,1422 609,1413 585,1413 583,1413 583,1422 559,1422 533,1422 520,1422 508,1422 491,1422 483,1422 483,1412 469,1412 465,1422 457,1422 443,1422 426,1422 408,1422 399,1422" baseline="399,1412 646,1412" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hnpldigital slub-dresden deid480112029121
+ | german_print2_15: hup litalslub dresden de ic480112028,21
+ -->
+		</TextRegion>
+		<GraphicRegion id="r36">
+			<Coords points="950,0 1000,0 1000,1439 950,1439" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+mit Blattwerk, einer mit einem Kopf und Blattwerk, ein anderer mit einem Pelikan,
+der seine Jungen füttert und einer mit Tierdarstellung geschmückt.
+Von einem alten Altare der Busmannkapelle haben sich einige Teile
+erhalten, die das Museum des Kgl. Sächs. Altertumsvereins aufbewahrt. Das
+Hauptstück ist ein heiliges Grab aus Sandstein (Inventar Nͦ 17a) mit einer dazugehörigen
+knieenden Frauengestalt. (Inventar Nͦ 38.) [Taf. III u. IV.] Wahrscheinlich wurde
+der Altar 1552 in der Busmannkapelle abgebrochen und nach dem Vermerk einer
+erhaltenen Rechnung des Bartholomäushospitals in die Bartholomäuskapelle
+versetzt.⟦⟧ Das heilige Grab stammt aus der Zeit 1410–1420, wie die Ausrüstung
+und Bewaffnung der vier Grabeswächter, die Haar- und Gewandbehandlung
+erweisen. Leider sind durch mehrfachen Anstrich und Erneuerungen manche
+Einzelheiten für die künstlerische Beurteilung der Arbeit zugrunde gerichtet worden.
+Trotzdem erkennt man eine tüchtige Leistung der Zeit, wie aus der Körperbehandlung
+des Heilandes, der Haltung der Frauenfiguren und der Behandlung der Gewandung
+mit den für die Zeit typischen Gewandsäumen ersichtlich ist. Bei der knieenden
+Magdalenengestalt, in der man wohl mit Recht die Figur einer Stifterin vermuten
+kann, ist der Kopf stark ergänzt, vor allem Nase und Kinn, ebenso die Hände.
+Ihr gegenüber auf der entsprechenden anderen Seite des Grabes kniete vielleicht
+früher die Figur eines männlichen Mitgliedes der Familie Busmann als frommer
+Stifter. Farbspurenreste beim Heiland und den Weihrauchkessel schwingenden
+Engelsfiguren an den Schmalwänden des Sarkophages weisen auf eine
+einstmalige Bemalung des ganzen Werkes hin, wie eine solche in der gotischen Zeit
+allgemein üblich und hier besonders am Platze war, weil auf dem als Altartisch
+dienenden Grabe ein gemalter Altaraufsatz stand, dessen Predella sich ebenfalls
+im Museum des Königlich Sächsischen Altertumsvereins erhalten hat und an der
+35 cm hohen Seitenansicht auf beiden Seiten, links nur zur Hälfte erhalten, das
+Wappen der Busmann zeigt. (Taf. V, Abb. 1.) Auf der in Tempera gemalten Predella
+sind die Gestalten des Heilandes und zu dessen Seiten je sechs Apostel dargestellt.
+Die Malerei ist an ihrem unteren Rande stark beschädigt. Die Formengebung
+der untersetzten Gestalten mit den unverhältnismäßig dicken Köpfen, die wenig
+gewandte Art in der Bildung der großen ovalen Heiligenscheine, der Mangel fast
+jeglicher Charakterisierung, sowie die Farbengebung lassen das Werk als die
+Arbeit eines handwerkmäßigen Künstlers erkennen.
+An den ältesten östlichen Teil der Kirche baute man im Jahre 1421 eine
+westliche Verlängerung um zwei Joche an, bei der die Pfeiler nur achteckig gebildet
+wurden. Ob die Dresdner Kirche wie andere heute noch erhaltene
+Franziskanerkirchen einen offenen Dachstuhl oder eine flache Decke hatte, ist nicht sicher
+festzustellen. An den Westecken fehlen Strebepfeiler, ein sehr starker Strebepfeiler
+-->
+	</Page>
+</PcGts>

@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:38:36</Created>
+		<LastChange>2026-11-23T18:38:36</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Knortz_-_Hexen,_Teufel_und_Blocksbergspuk_in_Geschichte,_Sage_und_Literatur.pdf/153 revision 3341729 of 2018-08-01T01:58:14Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="knortz_hexen_teufel_1913_0153.png" imageWidth="1020" imageHeight="1680">
+		<ReadingOrder>
+			<OrderedGroup id="ro78715711250759939" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="417,176 560,176 560,212 417,212" />
+			<!-- line left out: id="r0l0" points="417,192 439,192 467,181 480,180 495,180 532,176 560,176 560,212 532,212 532,201 467,201 439,194 417,194" baseline="417,201 560,201" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 151 —
+ | german_print2_15: — 151 —
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="319,248 623,248 623,336 319,336" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="320,248 341,248 341,255 369,255 369,248 388,248 453,248 454,254 469,254 486,248 513,248 528,249 528,255 544,254 570,249 586,249 587,255 623,255 623,274 501,274 486,274 320,271" />
+				<Baseline points="320,271 623,271" />
+				<TextEquiv index="1">
+					<Unicode>Kommt ein Mäuschen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="319,280 391,280 392,286 420,286 436,279 458,279 516,286 516,280 525,279 541,279 541,286 568,286 568,306 541,306 525,306 319,302" />
+				<Baseline points="319,302 568,302" />
+				<TextEquiv index="1">
+					<Unicode>will ins Häuschen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l2" points="320,311 336,311 336,318 349,318 366,312 373,312 404,317 405,311 412,311 414,318 429,318 430,329 436,329 453,311 469,311 469,317 500,312 506,312 538,317 538,311 546,311 547,317 568,313 572,313 572,334 568,334 507,333 506,319 500,319 483,333 436,336 430,336 374,333 373,319 366,319 349,333 336,334 320,334" baseline="320,333 572,333" reason: differs: "da'nei" against "da ’nei" | Wikisource:  | next_nc_e1: da 'nein, da 'nein!
+ | german_print2_15: da 'nein, da 'nein!
+ -->
+			<TextEquiv index="1">
+				<Unicode>Kommt ein Mäuschen,
+will ins Häuschen,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="94,354 884,354 884,415 94,415" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="157,355 165,355 166,361 181,361 197,354 219,354 223,362 235,362 238,355 245,355 249,362 271,362 271,354 291,354 291,362 318,362 335,356 350,356 351,362 381,362 381,356 403,356 403,362 416,362 417,356 432,356 433,362 462,362 479,355 498,355 498,362 558,361 576,355 591,355 591,361 605,361 605,355 622,355 623,362 639,362 640,355 664,355 678,356 694,362 708,362 708,355 715,355 715,362 729,362 729,355 793,355 793,362 806,362 806,373 829,357 884,356 884,383 875,383 873,377 793,378 771,383 761,383 744,377 530,378 530,384 511,384 511,377 490,378 490,384 479,384 462,377 157,377" />
+				<Baseline points="157,377 884,378" />
+				<TextEquiv index="1">
+					<Unicode>In Grimms deutschen Sagen befindet sich (Nr. 247)</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="94,387 104,387 104,393 119,393 120,387 174,393 175,387 190,387 191,393 203,393 220,386 249,386 249,393 265,388 303,387 305,393 362,394 362,409 358,409 355,415 336,415 336,409 249,409 249,415 232,415 232,409 145,408 145,415 126,415 119,409 94,408" />
+				<Baseline points="94,408 362,409" />
+				<TextEquiv index="1">
+					<Unicode>folgende Erzählung:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>In Grimms deutschen Sagen befindet sich (Nr. 247)
+folgende Erzählung:</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="94,424 884,424 884,516 94,516" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="170,442 184,442 186,424 193,424 195,431 209,431 218,424 239,424 263,424 291,424 292,431 354,431 366,425 414,424 441,424 441,431 461,431 462,424 480,424 480,431 493,431 494,425 516,425 527,431 557,431 558,424 597,424 598,431 621,431 621,424 640,424 640,431 736,431 736,424 751,424 752,430 767,430 767,424 784,424 784,430 806,430 818,424 875,424 876,436 884,436 884,440 876,440 875,446 326,447 326,453 307,453 307,447 279,447 279,453 263,453 254,447 170,450" />
+				<Baseline points="170,447 884,446" />
+				<TextEquiv index="1">
+					<Unicode>„In Thüringen bei Saalfeld auf einem vornehmen Edel-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l1" points="94,462 106,462 107,456 124,456 124,462 190,462 197,456 234,456 270,456 351,457 358,463 370,463 371,456 378,456 379,463 393,463 393,457 407,457 415,463 445,463 445,456 456,456 456,463 470,462 485,462 515,462 524,456 548,456 548,462 577,458 604,458 606,474 612,474 617,456 631,456 632,462 646,462 647,456 662,456 662,462 675,462 675,456 689,456 714,456 739,456 739,462 753,462 753,456 774,456 774,462 786,462 794,455 805,455 805,462 820,462 821,456 828,456 828,462 876,462 876,469 884,469 884,472 876,472 876,478 846,478 846,484 827,484 820,478 786,478 714,479 612,479 515,479 504,479 504,485 485,485 485,478 393,479 351,479 322,479 313,479 124,478 106,478 94,478" baseline="94,478 884,478" reason: models differ | Wikisource: sitze zu Wirbach hat sich anfangs des 17. Jahrhunderts folgen | next_nc_e1: sitze zu Wirbach hat sich anfangs des 17. Jahrhunderts folgen- | german_print2_15: Ssitze zu Wirbach hat Sich anfangs des 17. Jahrhunderts folgen- -->
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="94,487 109,487 110,493 136,494 153,488 228,488 228,494 267,495 267,510 199,510 199,516 181,516 181,509 94,509" />
+				<Baseline points="94,509 267,510" />
+				<TextEquiv index="1">
+					<Unicode>des begeben:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>„In Thüringen bei Saalfeld auf einem vornehmen Edel-
+des begeben:</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="94,525 887,525 887,1185 94,1185" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="158,525 178,525 179,532 204,532 221,525 242,525 243,532 257,532 257,525 277,525 278,532 294,532 294,526 309,526 310,532 323,532 346,526 354,526 354,532 365,532 365,526 410,526 420,527 433,532 450,525 473,525 488,527 540,526 542,532 556,532 573,526 589,526 589,532 614,532 630,525 649,525 659,526 659,532 675,532 675,526 691,526 705,531 705,543 711,543 733,532 747,532 747,525 754,525 755,531 797,532 813,525 839,525 839,531 870,531 870,525 884,525 884,548 871,548 871,554 852,554 852,548 711,551 158,548" />
+				<Baseline points="158,548 884,548" />
+				<TextEquiv index="1">
+					<Unicode>Das Gesinde schälte Obst in der Stube, einer Magd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="95,557 110,557 110,563 148,563 172,557 186,557 188,563 213,563 228,557 247,557 247,564 261,564 262,558 299,557 308,557 330,564 361,564 362,576 368,576 391,564 404,564 404,557 411,557 412,564 466,564 466,557 473,557 474,564 577,564 600,558 616,558 631,563 693,564 694,557 708,557 709,563 870,563 870,557 884,557 884,580 837,579 821,585 803,585 803,579 529,580 508,586 490,586 490,580 474,580 466,586 447,586 425,580 362,583 95,578" />
+				<Baseline points="95,579 884,579" />
+				<TextEquiv index="1">
+					<Unicode>kam der Schlaf an, sie ging von den andern weg und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="95,589 102,589 103,595 133,595 133,589 144,589 179,595 192,595 192,588 199,588 200,595 213,595 214,589 228,589 245,595 259,595 259,589 309,589 319,590 331,595 332,607 359,589 375,589 375,595 405,596 406,590 420,590 438,596 452,596 454,589 461,589 461,596 476,596 476,590 501,590 529,593 529,584 548,584 562,589 602,589 603,595 665,595 666,607 672,607 695,595 725,595 725,588 735,588 751,595 765,595 765,588 773,588 773,595 803,595 820,589 839,589 839,595 870,595 870,589 885,589 885,610 726,611 672,615 548,611 548,620 529,620 529,611 337,615 280,615 213,611 144,611 134,616 116,616 103,611 95,610" />
+				<Baseline points="95,611 885,611" />
+				<TextEquiv index="1">
+					<Unicode>legte sich abseits, doch nicht weit davon, auf eine Bank</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="95,626 110,626 111,620 118,620 120,626 134,626 134,620 149,620 150,626 179,626 179,620 181,620 205,627 347,627 349,621 364,621 365,627 395,627 396,639 435,621 577,620 578,627 607,626 624,620 654,620 654,626 668,626 669,620 714,619 717,619 753,619 760,621 809,626 809,620 816,620 817,626 878,626 879,638 884,638 884,646 849,642 849,648 830,648 830,642 796,642 796,648 776,648 760,642 181,645 95,642" />
+				<Baseline points="95,642 884,642" />
+				<TextEquiv index="1">
+					<Unicode>nieder, um zu ruhen. Wie sie eine Weile still gelegen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l4" custom="readingOrder {index:4;}">
+				<Coords points="95,652 111,652 112,658 139,657 153,652 190,651 197,651 213,652 215,659 294,658 311,652 347,652 347,658 406,658 424,652 454,652 454,659 479,659 481,653 534,653 603,658 619,651 640,651 642,658 700,658 700,652 711,652 711,658 736,658 748,651 780,651 832,658 833,652 840,651 872,651 872,658 884,658 884,674 153,674 95,674" />
+				<Baseline points="95,674 884,674" />
+				<TextEquiv index="1">
+					<Unicode>kroch ihr zum offenen Maule heraus ein rotes Mäuselein.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l5" custom="readingOrder {index:5;}">
+				<Coords points="96,683 123,683 125,689 138,689 151,683 169,683 192,683 222,684 246,689 260,690 261,684 275,684 277,690 343,690 357,683 370,683 370,690 395,690 396,683 403,683 404,690 417,690 417,684 440,684 441,690 457,685 466,685 480,690 481,684 496,684 496,690 558,690 558,684 573,684 590,690 618,690 618,683 640,683 652,684 652,690 754,689 754,683 761,683 762,689 776,684 790,684 808,690 825,689 841,684 850,684 864,689 877,690 884,695 884,699 877,699 877,706 652,706 652,712 623,712 618,706 96,705" />
+				<Baseline points="96,705 884,706" />
+				<TextEquiv index="1">
+					<Unicode>Die Leute sahen es meistenteils und zeigten es sich unter-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l6" custom="readingOrder {index:6;}">
+				<Coords points="95,721 108,721 109,714 116,714 117,721 164,721 165,714 179,714 181,721 210,721 210,714 212,714 266,715 266,721 292,721 309,715 335,715 350,717 409,715 411,722 425,722 449,715 465,715 466,721 480,721 480,715 489,715 511,722 525,722 526,715 549,715 549,721 563,721 563,715 590,721 635,716 672,715 688,715 688,721 726,721 742,715 751,715 751,721 800,721 800,715 815,715 816,721 877,720 877,728 884,728 884,731 877,731 877,743 844,743 829,737 761,737 761,743 742,743 726,737 590,737 567,744 549,744 549,737 95,737" />
+				<Baseline points="95,737 884,737" />
+				<TextEquiv index="1">
+					<Unicode>einander. Das Mäuslein lief eilig nach dem gerade ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l7" custom="readingOrder {index:7;}">
+				<Coords points="95,747 112,746 119,746 119,752 133,752 133,746 162,746 163,752 185,752 185,746 232,746 232,752 246,752 275,748 285,748 311,753 311,765 340,753 366,753 367,747 391,746 412,746 427,746 475,746 476,753 590,753 591,747 629,746 632,746 660,746 661,753 675,753 675,747 712,746 734,746 735,752 765,752 781,746 799,746 799,752 813,752 813,746 839,746 839,752 886,752 886,775 869,775 869,768 790,769 790,775 781,775 765,769 311,772 262,769 95,768" />
+				<Baseline points="95,768 886,769" />
+				<TextEquiv index="1">
+					<Unicode>klafften Fenster, schlich hinaus und blieb eine Zeitlang</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l8" custom="readingOrder {index:8;}">
+				<Coords points="95,784 145,784 179,777 199,777 200,784 214,784 214,778 228,778 230,784 271,784 272,778 331,778 331,785 358,785 359,778 385,778 386,784 400,784 432,778 453,778 454,785 484,785 516,777 521,777 521,785 566,785 566,777 585,777 601,778 601,785 614,785 615,777 622,777 622,784 653,784 680,778 698,778 698,784 714,784 714,777 725,777 725,784 737,784 764,777 770,777 770,784 828,784 828,778 850,778 851,784 862,784 862,777 870,777 870,784 887,784 887,806 869,806 869,800 829,800 829,806 810,806 795,801 770,800 770,806 764,806 737,800 641,800 641,806 622,806 622,800 585,800 585,806 566,806 521,800 521,806 516,806 331,801 95,800" />
+				<Baseline points="95,800 887,800" />
+				<TextEquiv index="1">
+					<Unicode>aus. Dadurch wurde eine vorwitzige Zofe neugierig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l9" custom="readingOrder {index:9;}">
+				<Coords points="94,816 123,816 123,810 194,810 295,816 296,810 311,810 312,816 359,816 376,810 383,810 400,811 401,817 412,817 427,810 451,810 452,816 512,816 512,810 527,810 528,816 628,816 628,810 636,805 653,805 669,810 669,816 699,816 700,827 706,827 721,816 741,816 741,809 748,809 749,816 780,816 799,810 815,809 822,809 823,816 883,816 883,832 799,832 780,838 765,838 765,832 749,832 741,838 721,838 700,835 653,832 653,843 636,843 636,832 196,834 140,831 140,838 123,838 123,832 112,832 112,838 94,838" />
+				<Baseline points="94,831 883,832" />
+				<TextEquiv index="1">
+					<Unicode>gemacht, so sehr es ihr die andern verboten, ging hin zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l10" custom="readingOrder {index:10;}">
+				<Coords points="95,841 110,841 111,847 137,848 159,841 198,842 239,847 239,841 337,841 337,848 359,848 359,842 452,843 467,848 467,842 498,842 521,848 552,848 553,842 598,841 598,848 617,848 618,841 691,841 764,848 782,840 789,840 805,841 807,848 819,848 819,859 847,841 863,841 863,847 877,847 877,854 885,854 885,857 877,857 877,864 824,867 683,864 405,864 360,870 337,870 320,870 320,863 95,863" />
+				<Baseline points="95,863 885,863" />
+				<TextEquiv index="1">
+					<Unicode>der entseelten Magd, rüttelte und schüttelte an ihr, be-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l11" custom="readingOrder {index:11;}">
+				<Coords points="95,879 107,879 107,873 187,872 207,872 208,879 251,879 259,873 295,873 307,879 336,879 349,873 370,873 372,880 426,879 435,873 458,873 459,879 497,879 507,872 527,872 536,876 550,879 551,873 566,873 567,879 602,874 661,879 669,873 695,874 707,879 707,872 722,872 723,879 797,879 797,872 812,872 827,879 846,879 846,872 853,872 855,879 887,879 887,901 870,901 870,895 855,895 846,901 827,901 812,895 452,896 151,900 107,900 95,895" />
+				<Baseline points="95,895 887,895" />
+				<TextEquiv index="1">
+					<Unicode>wegte sie auch an eine andere Stelle etwas fürder und ging</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l12" custom="readingOrder {index:12;}">
+				<Coords points="95,904 111,904 111,911 185,910 186,903 193,903 195,910 208,910 208,904 223,904 224,911 247,911 257,905 269,905 270,911 332,911 333,923 357,905 376,905 376,911 391,911 391,905 434,905 434,911 490,912 491,904 522,905 522,911 551,911 565,905 580,905 581,911 607,911 615,904 630,899 647,899 647,906 697,911 697,905 704,905 720,910 720,904 726,904 746,911 758,911 758,899 775,899 778,904 779,911 792,911 792,904 808,904 809,910 833,911 848,905 864,904 865,911 878,911 878,904 887,904 887,927 779,927 775,937 758,937 758,927 647,927 647,937 630,937 630,926 95,926" />
+				<Baseline points="95,926 887,927" />
+				<TextEquiv index="1">
+					<Unicode>dann wieder davon. Bald darauf kam das Mäuselein wieder, lief</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l13" custom="readingOrder {index:13;}">
+				<Coords points="96,942 140,942 140,936 190,936 191,942 258,942 258,936 285,936 286,942 356,937 411,937 411,943 449,943 450,937 473,937 474,943 488,943 505,936 524,936 564,936 564,942 582,942 582,936 623,936 624,943 741,942 758,936 773,936 774,942 799,942 814,936 841,936 841,942 872,942 872,936 885,936 885,958 873,958 873,964 854,964 854,958 585,962 564,962 555,959 524,959 513,962 505,962 473,959 305,958 305,964 286,964 285,958 275,958 275,964 258,964 258,958 96,958" />
+				<Baseline points="96,958 885,958" />
+				<TextEquiv index="1">
+					<Unicode>nach der vorigen bekannten Stelle, da es aus der Magd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l14" custom="readingOrder {index:14;}">
+				<Coords points="96,967 129,967 160,967 177,973 186,968 233,968 233,974 266,974 267,968 282,968 283,974 383,974 407,967 411,967 422,968 423,974 437,974 437,967 446,967 486,967 488,975 552,974 553,968 600,968 601,974 627,974 627,986 656,974 689,973 689,967 728,967 728,974 743,974 744,967 765,967 782,973 807,973 824,967 832,967 863,967 886,968 886,990 703,990 632,993 567,990 446,990 383,993 328,993 252,990 233,995 216,995 216,989 203,989 203,995 177,995 160,989 96,989" />
+				<Baseline points="96,989 886,990" />
+				<TextEquiv index="1">
+					<Unicode>Maul gekrochen war, lief hin und her, und wie es nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l15" custom="readingOrder {index:15;}">
+				<Coords points="96,1005 125,1005 127,999 143,999 144,1005 238,1005 251,999 267,999 267,1005 316,1000 423,999 444,999 444,1006 457,1006 459,1000 473,1000 485,1006 554,1006 555,1000 580,999 597,999 598,1005 613,1005 614,999 630,999 630,1005 660,1005 661,1017 667,1017 684,1005 752,1005 753,999 768,999 768,1005 798,1005 798,999 836,999 854,1005 886,1005 886,1021 667,1025 661,1025 444,1022 96,1021" />
+				<Baseline points="96,1021 886,1021" />
+				<TextEquiv index="1">
+					<Unicode>ankommen konnte noch sich zurechtfinden, verschwand es.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l16" custom="readingOrder {index:16;}">
+				<Coords points="96,1030 125,1030 127,1037 139,1037 156,1030 182,1030 182,1037 213,1037 213,1031 227,1031 251,1037 265,1037 265,1031 280,1031 280,1037 399,1032 556,1030 556,1037 570,1037 571,1031 675,1030 689,1030 690,1036 734,1036 750,1029 759,1029 766,1036 817,1036 818,1029 825,1029 856,1029 856,1036 886,1037 886,1053 875,1053 875,1059 856,1059 856,1052 766,1053 759,1059 750,1059 734,1053 214,1053 214,1059 195,1059 195,1053 96,1053" />
+				<Baseline points="96,1053 886,1053" />
+				<TextEquiv index="1">
+					<Unicode>Die Magd aber war tot und blieb tot. Jene vorwitzige</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l17" custom="readingOrder {index:17;}">
+				<Coords points="96,1063 111,1063 126,1068 168,1069 169,1063 263,1069 336,1069 337,1063 352,1063 352,1069 399,1063 436,1062 442,1062 444,1069 466,1069 492,1062 501,1062 544,1062 544,1068 718,1069 719,1062 767,1062 795,1062 795,1068 819,1068 820,1062 858,1062 858,1068 886,1068 886,1084 563,1085 563,1091 544,1091 544,1084 509,1084 501,1091 492,1091 466,1084 436,1084 401,1091 399,1091 399,1085 323,1084 323,1091 305,1091 305,1084 96,1084" />
+				<Baseline points="96,1084 886,1084" />
+				<TextEquiv index="1">
+					<Unicode>bereute es vergebens. Im übrigen war auf demselben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l18" custom="readingOrder {index:18;}">
+				<Coords points="97,1094 118,1094 119,1100 135,1100 135,1093 190,1093 191,1100 205,1100 215,1094 235,1094 236,1100 279,1100 281,1094 295,1094 360,1100 360,1094 375,1094 376,1100 400,1100 400,1094 448,1094 464,1100 512,1100 530,1094 553,1094 553,1100 571,1100 579,1093 600,1093 600,1100 627,1100 628,1094 642,1094 659,1100 691,1100 691,1094 706,1094 707,1100 719,1095 734,1095 749,1100 749,1094 774,1094 790,1100 842,1100 842,1093 857,1093 858,1099 886,1100 886,1116 678,1116 678,1122 659,1122 642,1116 97,1116" />
+				<Baseline points="97,1116 886,1116" />
+				<TextEquiv index="1">
+					<Unicode>Hof ein Knecht mehrmals von der Trud gedrückt worden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l19" custom="readingOrder {index:19;}">
+				<Coords points="97,1132 129,1131 130,1125 172,1125 172,1131 196,1131 196,1125 271,1126 286,1131 286,1125 293,1125 295,1131 340,1132 352,1125 372,1125 373,1132 384,1132 384,1125 391,1125 392,1132 406,1132 406,1125 421,1125 422,1131 465,1126 480,1126 480,1132 495,1132 495,1126 510,1126 524,1131 550,1132 568,1125 584,1124 591,1124 592,1131 634,1126 666,1126 667,1132 678,1132 678,1126 741,1131 742,1124 750,1124 786,1125 787,1131 824,1131 835,1124 857,1124 857,1131 872,1131 872,1125 886,1125 886,1147 583,1148 550,1151 531,1151 524,1148 97,1147" />
+				<Baseline points="97,1147 886,1147" />
+				<TextEquiv index="1">
+					<Unicode>und konnte keinen Frieden haben; dies hörte mit dem Tod</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l20" custom="readingOrder {index:20;}">
+				<Coords points="96,1157 112,1157 112,1163 138,1163 154,1156 179,1156 180,1163 193,1163 193,1157 242,1156 249,1156 283,1156 303,1159 303,1179 242,1179 225,1185 193,1185 193,1179 96,1179" />
+				<Baseline points="96,1179 303,1179" />
+				<TextEquiv index="1">
+					<Unicode>der Magd auf“.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Das Gesinde schälte Obst in der Stube, einer Magd
+kam der Schlaf an, sie ging von den andern weg und
+legte sich abseits, doch nicht weit davon, auf eine Bank
+nieder, um zu ruhen. Wie sie eine Weile still gelegen,
+kroch ihr zum offenen Maule heraus ein rotes Mäuselein.
+Die Leute sahen es meistenteils und zeigten es sich unter-
+einander. Das Mäuslein lief eilig nach dem gerade ge-
+klafften Fenster, schlich hinaus und blieb eine Zeitlang
+aus. Dadurch wurde eine vorwitzige Zofe neugierig
+gemacht, so sehr es ihr die andern verboten, ging hin zu
+der entseelten Magd, rüttelte und schüttelte an ihr, be-
+wegte sie auch an eine andere Stelle etwas fürder und ging
+dann wieder davon. Bald darauf kam das Mäuselein wieder, lief
+nach der vorigen bekannten Stelle, da es aus der Magd
+Maul gekrochen war, lief hin und her, und wie es nicht
+ankommen konnte noch sich zurechtfinden, verschwand es.
+Die Magd aber war tot und blieb tot. Jene vorwitzige
+bereute es vergebens. Im übrigen war auf demselben
+Hof ein Knecht mehrmals von der Trud gedrückt worden
+und konnte keinen Frieden haben; dies hörte mit dem Tod
+der Magd auf“.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="97,1194 888,1194 888,1500 97,1500" />
+			<!-- line left out: id="r5l0" points="160,1212 174,1212 176,1194 183,1194 185,1201 199,1201 214,1194 233,1194 234,1201 247,1201 248,1194 255,1194 265,1195 265,1201 288,1200 302,1200 363,1200 399,1200 416,1194 477,1194 478,1201 520,1201 535,1194 578,1194 580,1201 625,1196 635,1196 650,1201 651,1195 666,1195 667,1201 681,1196 689,1196 710,1201 711,1194 718,1194 719,1200 748,1200 764,1194 777,1194 779,1201 806,1201 806,1194 847,1194 847,1200 865,1200 880,1201 881,1212 886,1212 886,1220 881,1220 847,1216 847,1222 806,1222 806,1216 710,1217 696,1217 689,1207 681,1207 681,1217 580,1217 578,1224 547,1224 547,1217 465,1217 174,1220 160,1220" baseline="160,1216 886,1216" reason: differs: "ube‘ein" against "be eine" | Wikisource:  | next_nc_e1: „In Seitwann war in einer Spinnstube‘ eine Jungfrau, | german_print2_15: „In Seitwann war in einer Spinnstube eine Jungfrau, -->
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="97,1226 113,1225 120,1225 122,1232 134,1232 151,1225 172,1225 172,1232 202,1233 217,1226 244,1227 255,1232 271,1225 292,1225 292,1232 323,1232 323,1244 329,1244 349,1232 461,1232 563,1227 564,1233 578,1233 578,1227 602,1227 602,1233 632,1232 648,1226 685,1226 685,1232 716,1232 716,1226 792,1226 792,1232 809,1232 826,1226 841,1226 842,1232 856,1232 856,1225 864,1225 864,1232 886,1232 886,1248 809,1251 349,1248 323,1254 305,1254 305,1248 217,1248 202,1254 185,1254 185,1248 97,1248" />
+				<Baseline points="97,1248 886,1248" />
+				<TextEquiv index="1">
+					<Unicode>die Tag für Tag, wenn es zum halben Abend kam, beim</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l2" custom="readingOrder {index:2;}">
+				<Coords points="97,1257 139,1257 141,1263 166,1263 166,1257 183,1257 183,1263 203,1263 220,1257 241,1257 243,1263 285,1263 286,1257 317,1257 318,1263 331,1263 331,1257 381,1256 400,1256 407,1257 409,1263 456,1263 456,1257 463,1257 464,1263 514,1258 529,1258 529,1264 575,1264 592,1257 600,1257 601,1264 616,1264 633,1257 656,1257 657,1264 670,1264 682,1257 728,1257 767,1264 777,1264 777,1257 833,1258 834,1264 845,1264 845,1258 875,1258 887,1263 887,1280 875,1280 875,1286 845,1286 845,1280 514,1279 497,1285 480,1285 479,1279 464,1279 456,1285 437,1285 422,1279 183,1279 183,1286 166,1286 166,1279 141,1279 139,1286 109,1286 109,1280 97,1280" />
+				<Baseline points="97,1279 887,1280" />
+				<TextEquiv index="1">
+					<Unicode>Spinnen einschlief. Sie ging dann in die Hölle und legte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l3" custom="readingOrder {index:3;}">
+				<Coords points="97,1295 110,1295 110,1289 146,1289 172,1295 185,1295 186,1288 193,1288 195,1295 224,1295 247,1289 264,1288 280,1288 280,1295 291,1295 292,1288 306,1288 308,1295 375,1295 376,1288 432,1288 433,1295 446,1295 469,1289 489,1289 489,1295 519,1295 520,1289 536,1289 538,1307 576,1289 639,1289 639,1295 660,1295 660,1289 688,1289 688,1295 717,1295 742,1288 765,1288 766,1295 831,1295 831,1289 856,1289 856,1295 886,1295 886,1311 688,1311 688,1317 660,1317 660,1311 639,1311 639,1317 634,1317 611,1311 97,1310" />
+				<Baseline points="97,1310 886,1311" />
+				<TextEquiv index="1">
+					<Unicode>sich eine Weile auf die Bank. Da sagten die andern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l4" custom="readingOrder {index:4;}">
+				<Coords points="98,1320 183,1321 184,1327 223,1327 241,1339 256,1339 257,1320 284,1320 284,1327 303,1327 315,1320 332,1320 332,1326 377,1326 386,1320 393,1319 423,1319 450,1321 450,1327 500,1327 500,1321 549,1321 561,1327 569,1327 569,1320 624,1321 636,1327 659,1327 660,1320 677,1321 689,1327 728,1327 728,1320 743,1320 754,1321 768,1326 783,1327 795,1320 816,1319 824,1319 825,1327 886,1327 886,1343 859,1342 859,1349 840,1349 840,1342 284,1346 241,1346 198,1343 98,1342" />
+				<Baseline points="98,1342 886,1342" />
+				<TextEquiv index="1">
+					<Unicode>Mädchen: „Das kann bei der wohl nicht mit rechten Dingen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l5" custom="readingOrder {index:5;}">
+				<Coords points="97,1358 159,1358 160,1352 183,1352 190,1358 212,1358 229,1352 244,1352 245,1358 259,1358 259,1351 312,1351 312,1358 356,1358 356,1352 371,1352 372,1358 386,1358 397,1352 434,1352 434,1358 464,1358 465,1352 479,1352 496,1358 523,1358 523,1352 546,1352 547,1358 561,1358 561,1351 571,1351 571,1358 634,1358 634,1351 650,1351 681,1351 722,1351 723,1358 784,1358 784,1352 809,1352 824,1358 839,1358 839,1352 886,1352 886,1374 770,1374 770,1380 751,1380 736,1374 681,1377 523,1374 212,1377 183,1380 167,1380 167,1374 146,1374 146,1380 127,1380 126,1374 97,1374" />
+				<Baseline points="97,1374 886,1374" />
+				<TextEquiv index="1">
+					<Unicode>zugehen, daß sie alle Abend schlafen muß, die geht wohl</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l6" custom="readingOrder {index:6;}">
+				<Coords points="98,1383 105,1383 107,1390 121,1390 134,1383 149,1383 150,1390 175,1390 190,1383 209,1383 209,1389 222,1389 223,1383 285,1383 286,1390 299,1390 321,1384 329,1384 331,1390 410,1389 428,1383 462,1383 469,1385 528,1389 543,1383 558,1383 559,1389 571,1385 586,1385 600,1389 601,1383 617,1383 618,1389 631,1389 652,1385 706,1383 733,1383 734,1389 814,1383 829,1383 830,1389 860,1390 860,1383 875,1383 876,1389 887,1389 887,1405 706,1405 673,1393 659,1393 658,1405 382,1405 382,1411 363,1411 363,1405 331,1405 329,1411 321,1411 299,1405 98,1405" />
+				<Baseline points="98,1405 887,1405" />
+				<TextEquiv index="1">
+					<Unicode>in der Zeit die jungen Männer drücken!“ Eines Abends</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l7" custom="readingOrder {index:7;}">
+				<Coords points="98,1416 113,1416 114,1422 158,1422 158,1416 173,1416 203,1421 226,1414 246,1414 248,1421 296,1421 296,1414 304,1414 304,1421 318,1421 319,1415 357,1414 367,1414 367,1421 380,1421 382,1414 441,1414 442,1421 456,1421 456,1415 504,1414 511,1414 512,1421 527,1421 548,1415 565,1414 572,1414 573,1421 586,1421 603,1414 633,1414 657,1415 658,1421 720,1421 721,1415 735,1415 752,1421 764,1421 765,1414 772,1414 773,1421 786,1421 802,1414 813,1414 813,1421 842,1421 842,1415 858,1415 858,1421 887,1421 887,1437 145,1437 145,1443 126,1443 126,1437 98,1437" />
+				<Baseline points="98,1436 887,1437" />
+				<TextEquiv index="1">
+					<Unicode>begaben sie sich mit Licht in die Hölle und sie fanden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l8" custom="readingOrder {index:8;}">
+				<Coords points="98,1447 113,1447 113,1453 139,1453 155,1446 211,1446 212,1452 227,1447 241,1447 271,1452 288,1445 292,1445 292,1452 315,1452 315,1446 353,1445 364,1445 364,1452 393,1452 394,1446 408,1446 425,1452 438,1452 438,1445 468,1445 483,1452 499,1452 499,1445 533,1445 533,1452 557,1452 557,1445 576,1445 576,1452 587,1452 604,1445 639,1445 648,1452 664,1452 664,1446 679,1446 680,1452 700,1452 722,1446 737,1446 738,1452 833,1452 850,1445 872,1445 873,1452 887,1452 887,1468 700,1472 639,1472 620,1472 98,1469" />
+				<Baseline points="98,1468 887,1468" />
+				<TextEquiv index="1">
+					<Unicode>das Mädchen schlafend mit offenem Munde, den nun ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l9" custom="readingOrder {index:9;}">
+				<Coords points="98,1484 127,1484 129,1478 143,1478 144,1484 191,1484 191,1478 219,1477 245,1477 275,1478 275,1484 289,1484 290,1478 304,1478 306,1484 335,1484 360,1477 372,1477 372,1484 384,1484 386,1477 441,1477 443,1483 468,1484 489,1477 520,1477 584,1477 584,1484 609,1484 611,1477 656,1477 714,1477 715,1483 730,1483 753,1477 768,1477 769,1483 794,1484 794,1477 813,1477 813,1483 835,1483 835,1477 842,1477 858,1478 888,1483 888,1499 813,1500 783,1500 673,1500 584,1500 195,1500 170,1500 112,1500 98,1499" />
+				<Baseline points="98,1499 888,1499" />
+				<TextEquiv index="1">
+					<Unicode>anderes Mädchen mit der Hand zuhielt. In demselben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>die Tag für Tag, wenn es zum halben Abend kam, beim
+Spinnen einschlief. Sie ging dann in die Hölle und legte
+sich eine Weile auf die Bank. Da sagten die andern
+Mädchen: „Das kann bei der wohl nicht mit rechten Dingen
+zugehen, daß sie alle Abend schlafen muß, die geht wohl
+in der Zeit die jungen Männer drücken!“ Eines Abends
+begaben sie sich mit Licht in die Hölle und sie fanden
+das Mädchen schlafend mit offenem Munde, den nun ein
+anderes Mädchen mit der Hand zuhielt. In demselben</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Kommt ein Mäuschen,
+will ins Häuschen,
+da ’nein, da ’nein!
+In Grimms deutschen Sagen befindet sich (Nr. 247) folgende Erzählung:
+„In Thüringen bei Saalfeld auf einem vornehmen Edelsitze zu Wirbach hat sich anfangs des 17. Jahrhunderts folgendes begeben:
+Das Gesinde schälte Obst in der Stube, einer Magd kam der Schlaf an, sie ging von den andern weg und legte sich abseits, doch nicht weit davon, auf eine Bank nieder, um zu ruhen. Wie sie eine Weile still gelegen, kroch ihr zum offenen Maule heraus ein rotes Mäuselein. Die Leute sahen es meistenteils und zeigten es sich untereinander. Das Mäuslein lief eilig nach dem gerade geklafften Fenster, schlich hinaus und blieb eine Zeitlang aus. Dadurch wurde eine vorwitzige Zofe neugierig gemacht, so sehr es ihr die andern verboten, ging hin zu der entseelten Magd, rüttelte und schüttelte an ihr, bewegte sie auch an eine andere Stelle etwas fürder und ging dann wieder davon. Bald darauf kam das Mäuselein wieder, lief nach der vorigen bekannten Stelle, da es aus der Magd Maul gekrochen war, lief hin und her, und wie es nicht ankommen konnte noch sich zurechtfinden, verschwand es. Die Magd aber war tot und blieb tot. Jene vorwitzige bereute es vergebens. Im übrigen war auf demselben Hof ein Knecht mehrmals von der Trud gedrückt worden und konnte keinen Frieden haben; dies hörte mit dem Tod der Magd auf“.
+„In Seitwann war in einer Spinnstube eine Jungfrau, die Tag für Tag, wenn es zum halben Abend kam, beim Spinnen einschlief. Sie ging dann in die Hölle und legte sich eine Weile auf die Bank. Da sagten die andern Mädchen: „Das kann bei der wohl nicht mit rechten Dingen zugehen, daß sie alle Abend schlafen muß, die geht wohl in der Zeit die jungen Männer drücken!“ Eines Abends begaben sie sich mit Licht in die Hölle und sie fanden das Mädchen schlafend mit offenem Munde, den nun ein anderes Mädchen mit der Hand zuhielt. In demselben
+-->
+	</Page>
+</PcGts>

@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:35:10</Created>
+		<LastChange>2026-11-23T18:35:10</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Heft26VereinGeschichteDresden1918.pdf/108 revision 4384094 of 2024-06-19T03:21:00Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="dresden_geschichte_heft26_1918_0108.png" imageWidth="1000" imageHeight="1481">
+		<ReadingOrder>
+			<OrderedGroup id="ro16284936120357160530" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="21" regionRef="r21" />
+				<RegionRefIndexed index="24" regionRef="r24" />
+				<RegionRefIndexed index="25" regionRef="r25" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 1000,0 1000,1329 0,1329" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="94,1259 113,1259 113,1299 94,1299" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="551,103 575,103 575,120 551,120" />
+			<!-- line left out: id="r2l0" points="551,103 575,103 575,120 564,120 551,119" baseline="551,119 575,120" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 98
+ | german_print2_15: 98
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="184,151 950,151 950,940 184,940" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="184,155 224,160 270,160 284,154 300,154 302,160 326,158 350,160 354,154 447,153 495,158 497,166 513,158 599,157 613,151 629,151 631,157 655,152 706,152 817,157 819,165 835,152 889,155 917,159 920,151 931,151 944,156 944,166 795,168 579,167 500,170 458,168 441,169 431,173 419,173 307,170 184,171" />
+				<Baseline points="184,170 944,165" />
+				<TextEquiv index="1">
+					<Unicode>in einem Kantorhause geboren, in einem Kirchenchor erzogen, konnte das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="184,185 201,182 215,182 228,185 229,179 243,179 245,185 260,185 261,179 271,179 292,184 325,184 344,178 420,178 485,183 485,177 498,177 510,183 517,177 528,177 581,182 581,176 594,176 613,182 636,181 645,176 652,176 679,176 680,182 690,181 698,176 751,176 789,181 795,176 807,176 849,176 890,179 900,183 912,176 923,176 923,183 943,181 943,190 581,192 456,196 445,196 325,194 184,195" />
+				<Baseline points="184,194 943,190" />
+				<TextEquiv index="1">
+					<Unicode>natürlich seine Einwirkung auf ihn nicht verfehlen. War aber bereits den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l2" points="185,204 256,204 307,203 318,203 321,209 325,209 335,210 351,202 365,202 367,208 378,207 401,207 463,207 505,207 526,207 548,207 549,201 581,201 599,202 615,203 626,207 627,215 650,206 681,201 693,201 693,207 704,206 728,200 742,200 751,206 770,201 781,201 781,207 792,206 829,205 835,205 849,206 851,200 861,200 876,207 882,206 917,205 929,205 937,207 937,213 929,213 929,219 917,219 816,216 749,216 630,217 526,218 515,218 505,217 483,217 474,217 451,216 419,222 407,222 393,217 360,222 351,222 325,218 286,219 256,219 185,219" baseline="185,219 334,217 451,216 860,215 937,215" reason: models differ | Wikisource: Klassikern, die Reissiger vorwiegend hörte, in der Kirchenmusik ein ge | next_nc_e1: Klassikern, die Reissiger vorwiegend hörte, in der Kirchenmusik ein ge | german_print2_15: Klassikern, die Reissiger vorwiegend hörte, in der Kirchenmusik ein ge- -->
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="184,233 259,230 283,233 294,231 307,231 317,235 328,227 337,227 363,232 375,229 421,231 468,226 586,225 610,225 646,225 689,230 699,225 712,225 712,231 818,231 835,230 843,225 854,225 865,230 872,225 881,225 944,225 944,239 787,241 760,240 689,245 678,245 563,241 529,241 439,245 428,245 363,242 225,244 184,243" />
+				<Baseline points="184,243 944,239" />
+				<TextEquiv index="1">
+					<Unicode>wisser faustisch tiefsinniger Grundzug abhanden gekommen, so erhielt auch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="185,253 197,253 230,258 249,252 270,252 273,258 361,258 364,251 375,251 375,257 424,256 435,254 448,254 461,251 473,251 520,258 527,250 531,250 538,258 567,250 632,250 650,255 767,255 767,249 777,249 810,255 841,254 861,251 943,254 943,264 861,264 848,256 848,264 537,265 506,266 488,271 317,267 270,272 256,272 230,268 185,267" />
+				<Baseline points="185,267 943,264" />
+				<TextEquiv index="1">
+					<Unicode>beim Epigonen das metaphysische Bedürfnis einen mehr naiv-frommen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="185,277 233,277 255,282 266,277 362,282 378,275 414,275 423,278 447,280 467,275 620,274 644,279 649,274 683,274 734,279 736,287 752,279 851,279 868,273 879,273 879,280 890,275 902,275 940,280 942,287 944,287 944,290 908,287 872,290 695,289 663,292 644,292 626,292 620,289 609,292 603,292 514,290 276,292 233,292 185,292" />
+				<Baseline points="185,292 737,288 944,288" />
+				<TextEquiv index="1">
+					<Unicode>Ausdruck. Seine Weltanschauung war abgeschlossen, wozu sein heiteres,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l6" points="184,307 195,307 224,302 236,301 248,301 258,308 269,306 281,301 292,301 312,306 322,307 330,308 345,300 359,300 394,305 464,303 494,300 499,300 502,307 510,307 524,303 528,303 579,302 586,298 602,298 603,304 633,303 653,303 678,299 684,299 685,306 693,306 707,298 729,298 752,298 765,303 777,304 791,305 792,298 802,298 911,297 920,297 932,298 941,303 941,313 874,315 869,315 858,315 777,313 684,313 653,314 584,317 579,317 553,316 521,314 499,314 494,314 394,320 381,320 322,315 312,319 300,319 255,316 195,320 184,320" baseline="184,316 329,315 476,314 652,313 911,312 941,312" reason: second model: differs: ".Win" against " Wir ve" | Wikisource: genuẞfreudiges Temperament beitrug (Humor als Weltanschauung). Wir | next_nc_e1: genußfreudiges Temperament beitrug (Humor als Weltanschauung). Wir | german_print2_15: genußfreudiges Temperament beitrug (Humor als Weltanschauung). Win -->
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="185,331 277,331 284,325 290,325 302,330 370,325 377,335 382,330 413,324 485,324 487,330 533,324 536,330 550,329 563,323 585,323 613,328 636,323 675,323 681,325 689,323 705,323 775,328 782,322 797,322 872,323 911,327 923,324 930,324 939,329 939,336 930,337 922,340 886,337 838,337 832,341 775,338 740,341 656,338 647,343 631,343 619,343 595,339 533,338 212,341 185,340" />
+				<Baseline points="185,340 853,336 939,337" />
+				<TextEquiv index="1">
+					<Unicode>verweisen hier auch auf das früher über Reissigers Stellung zur Religion Gesagte.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l8" custom="readingOrder {index:8;}">
+				<Coords points="186,350 209,350 246,356 259,349 286,349 291,355 299,355 300,349 317,349 318,356 326,356 340,349 345,349 348,356 363,354 380,349 392,349 392,355 453,355 456,348 466,348 472,354 531,353 544,355 557,348 572,348 594,353 600,347 615,347 615,353 632,353 632,347 648,347 661,355 669,353 711,352 721,347 733,347 753,353 781,353 796,347 802,347 820,347 833,350 886,350 935,347 944,347 944,361 345,364 326,366 286,364 237,368 209,368 195,368 186,365" />
+				<Baseline points="186,365 944,361" />
+				<TextEquiv index="1">
+					<Unicode>Einige Werke, bei denen der naive Ausdruck so recht am Platze ist, sind</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l9" custom="readingOrder {index:9;}">
+				<Coords points="184,374 196,374 203,380 230,379 242,385 247,379 271,374 286,374 303,379 310,374 324,374 335,380 345,378 356,373 361,373 385,380 397,373 413,373 415,379 440,376 480,378 504,373 514,373 515,381 553,377 591,377 632,372 690,377 711,371 753,371 754,378 783,371 810,371 810,377 820,377 822,371 827,371 839,376 861,377 868,371 873,371 900,378 907,371 912,371 914,377 933,376 933,385 670,388 598,387 597,393 591,393 591,387 213,390 184,389" />
+				<Baseline points="184,389 933,384" />
+				<TextEquiv index="1">
+					<Unicode>denn auch als echte Meisterwerke anzusprechen, z. B. der Weihnachtschor</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l10" points="186,398 192,398 209,399 226,404 237,402 242,402 283,404 299,398 314,398 321,404 335,404 336,398 339,398 353,404 364,403 450,403 465,403 498,397 526,397 543,399 564,401 566,411 587,396 598,396 599,402 620,402 637,396 643,396 678,399 725,401 735,396 751,396 768,406 772,402 779,402 779,396 790,396 791,403 800,403 818,395 839,395 849,400 855,402 861,395 871,395 878,401 893,401 899,402 906,395 910,395 913,402 929,401 939,401 939,410 910,410 893,410 871,410 790,411 772,411 620,412 598,412 569,413 566,413 508,412 501,413 498,413 461,412 456,406 450,413 405,417 383,417 363,413 353,413 336,401 335,411 320,413 226,413 192,414 186,414" baseline="186,413 338,412 939,409" reason: second model: differs: "Esis" against ": Es" | Wikisource: Es ist ein Ros’ entsprungen (F-Dur), den heute noch alle Kirchenchöre | next_nc_e1: Es ist ein Ros’ entsprungen (F-Dur), den heute noch alle Kirchenchöre | german_print2_15: Es ist ein Ros' entsprungen (F-Dur), den heute noch alle Kirchenchöre -->
+			<!-- line left out: id="r3l11" points="184,431 194,429 213,428 224,428 253,423 294,422 313,422 313,428 328,425 333,425 377,427 400,427 414,429 421,422 431,422 485,422 505,421 517,421 517,428 528,427 546,421 561,421 607,427 613,421 626,421 634,426 649,420 672,420 672,426 693,425 705,425 745,426 756,420 761,420 768,426 782,426 799,427 801,420 811,420 842,420 853,422 861,420 877,420 878,426 886,426 899,433 911,425 935,420 944,420 944,434 902,436 899,436 821,435 782,435 761,435 729,436 684,436 596,439 580,439 505,436 488,430 485,436 400,437 377,437 294,437 262,436 253,431 244,438 224,441 213,441 194,438 184,435" baseline="184,438 263,437 430,436 794,434 944,434" reason: differs: "gen¹).F" against "gen⟦⟧. " | Wikisource:  | next_nc_e1: singen ¹). Fast mystisch wirkt der Gang der Harmonie bei der Stelle „und | german_print2_15: singen ¹). Fast mystisch wirkt der Gang der Harmonie bei der Stelle „und -->
+			<!-- line left out: id="r3l12" points="186,448 191,448 227,447 230,447 243,453 255,452 286,447 305,447 337,452 339,446 349,446 350,452 386,447 397,447 414,453 428,453 436,446 445,446 452,446 481,453 489,446 494,446 529,446 572,445 585,445 601,445 617,446 631,450 633,459 649,447 658,445 681,445 695,447 727,445 749,445 750,451 755,451 762,459 780,445 786,445 796,446 798,458 807,458 822,452 830,444 836,444 873,444 886,445 886,458 873,459 827,461 798,461 786,460 765,461 762,461 750,458 749,465 737,465 714,462 636,462 633,462 601,461 595,461 585,460 553,461 529,461 494,461 452,461 445,461 423,461 392,461 386,449 372,461 300,462 255,462 243,461 227,451 223,462 186,462" baseline="186,462 286,461 713,459 865,458 886,458" reason: differs: "hatt" against "„und" | Wikisource:  | next_nc_e1: hatt’ ein Blümlein 'bracht“ (D-Moll, C-Dur, G-Dur, Tp., D., (D) D)
+ | german_print2_15: hatt' ein Blümlein 'bracht“ (D-Moll. C-Dur, G-Dur, Tp., D., (D) D)
+ -->
+			<TextLine id="r3l13" custom="readingOrder {index:13;}">
+				<Coords points="241,476 290,476 344,484 347,476 357,476 374,481 395,475 402,476 423,484 430,475 434,475 445,476 449,484 457,484 465,476 470,476 472,482 497,481 514,475 527,475 556,480 599,480 640,474 649,475 650,481 720,479 728,482 744,474 756,474 763,477 822,473 835,473 836,479 885,479 895,473 906,473 924,478 930,476 942,476 942,487 885,492 835,489 720,489 701,494 690,494 676,489 241,491" />
+				<Baseline points="241,491 942,488" />
+				<TextEquiv index="1">
+					<Unicode>Auch in den kirchlichen Sätzen ist Reissigers Stimmführungskunst</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l14" custom="readingOrder {index:14;}">
+				<Coords points="185,507 220,501 232,501 232,507 282,506 283,500 295,500 296,507 323,506 323,500 365,500 380,502 393,506 408,500 427,500 447,505 459,506 472,505 483,500 494,500 524,511 528,500 547,499 547,506 558,505 579,499 601,499 601,505 613,505 613,499 623,499 625,505 636,504 645,499 658,499 660,505 676,501 711,504 713,512 730,504 743,503 768,498 788,498 788,504 862,501 893,503 945,503 945,512 716,515 623,514 206,516 185,516" />
+				<Baseline points="185,515 945,512" />
+				<TextEquiv index="1">
+					<Unicode>zu bewundern. Das Vermeiden aller Unebenheiten, im Verein mit reinen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l15" points="186,525 202,525 325,525 362,530 377,530 417,527 428,527 452,524 471,524 476,530 494,529 506,529 560,529 616,529 671,528 680,526 686,526 771,523 781,523 818,522 823,522 834,523 868,526 884,526 916,527 922,529 928,522 933,522 943,525 943,536 916,537 823,537 726,538 672,538 560,543 549,543 487,540 476,540 428,539 406,539 377,540 362,542 345,542 310,540 277,540 202,541 186,541" baseline="186,540 381,539 900,536 943,536" reason: differs: "nanestr" against "an Pale" | Wikisource:  | next_nc_e1: Harmoniewirkungen, ruft Erinnerungen an estrina wach. Das ist nicht | german_print2_15: Harmoniewirkungen, ruft Erinnerungen an estrina wach. Das ist nicht -->
+			<!-- line left out: id="r3l16" points="186,555 199,550 204,550 207,556 216,554 230,553 236,553 258,555 259,549 268,549 272,556 286,555 294,555 294,549 353,549 388,549 405,555 416,554 427,554 439,549 444,549 446,555 461,554 564,554 586,555 587,548 598,548 599,554 611,554 626,548 631,548 632,554 642,554 642,547 648,547 649,553 671,553 692,553 699,547 704,547 705,553 716,552 748,547 762,547 779,552 779,562 731,562 631,563 598,563 552,564 427,564 365,564 296,565 294,565 286,564 268,563 258,564 197,565 186,565" baseline="186,564 581,562 779,562" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: übertrieben. Wir brauchen uns nur des lehrreichen Um | german_print2_15: übertrieben. Wir brauchen uns nur des lehrreichen Um -->
+			<TextLine id="r3l17" custom="readingOrder {index:17;}">
+				<Coords points="188,574 217,574 224,580 238,578 283,580 285,574 296,574 310,579 330,579 359,574 369,574 370,581 390,579 405,573 484,579 497,573 512,573 513,579 571,578 571,572 589,572 601,579 608,572 619,572 619,578 647,578 649,572 662,572 700,577 721,577 735,571 741,571 761,571 779,571 779,578 785,578 785,591 767,591 761,586 741,586 700,591 689,591 662,587 369,588 358,593 347,593 314,590 307,588 188,589" />
+				<Baseline points="188,589 785,585" />
+				<TextEquiv index="1">
+					<Unicode>Palestrinabiographen Baini in Rom und der dortigen Pflege</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l18" custom="readingOrder {index:18;}">
+				<Coords points="186,604 226,603 235,603 269,603 299,603 299,613 269,613 186,613" />
+				<Baseline points="186,613 299,612" />
+				<TextEquiv index="1">
+					<Unicode>zu erinnern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l19" custom="readingOrder {index:19;}">
+				<Coords points="242,623 257,623 274,628 280,622 290,622 312,627 405,629 407,622 411,622 414,629 439,628 472,622 484,622 502,625 653,620 659,620 660,627 671,627 671,621 682,621 683,627 692,627 694,620 706,620 713,627 734,625 803,625 806,633 825,619 830,619 833,630 843,625 856,623 936,624 937,618 946,618 946,633 808,636 782,639 731,640 726,640 725,633 706,636 659,636 628,641 617,641 557,637 242,637" />
+				<Baseline points="242,637 946,633" />
+				<TextEquiv index="1">
+					<Unicode>Auch war ein ebener Satz mit wenig Melodiesprüngen, Läufern und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l20" points="187,647 197,647 209,652 227,652 265,652 286,652 306,646 312,646 327,647 365,652 415,652 432,653 439,647 444,647 446,653 469,653 470,647 474,647 503,653 510,651 551,646 571,646 581,648 598,651 602,645 614,645 614,652 625,650 633,650 651,651 661,653 662,659 689,650 710,645 720,645 743,645 744,651 755,651 763,652 780,644 791,644 793,650 804,650 831,651 831,644 853,644 881,647 891,644 901,644 919,650 926,643 936,643 938,649 944,649 944,658 889,659 853,659 826,659 805,653 804,659 755,659 720,660 665,662 662,662 651,660 581,661 486,662 459,662 415,661 384,661 365,662 286,662 265,662 227,666 216,666 187,662" baseline="187,662 900,658 944,658" reason: second model: differs: "ernmis," against "ernis, " | Wikisource: langsamen Harmoniewechseln ein Erfordernis, welches die Akustik der | next_nc_e1: langsamen Harmoniewechseln ein Erfordernis, welches die Akustik der | german_print2_15: langsamen Harmoniewechseln ein Erfordernmis, welches die Akustik den -->
+			<TextLine id="r3l21" custom="readingOrder {index:21;}">
+				<Coords points="188,672 208,673 222,678 231,671 242,671 244,677 270,677 292,671 307,671 309,677 319,677 321,671 334,671 336,677 352,678 353,671 390,671 392,678 417,677 436,671 490,671 509,676 510,670 521,670 522,677 532,677 533,684 555,673 612,675 621,670 630,670 631,676 637,676 642,670 653,670 653,676 684,676 685,670 697,670 698,676 724,674 748,675 769,672 797,674 817,668 832,668 840,674 857,674 859,668 870,668 870,674 893,673 929,668 939,668 940,674 948,674 948,682 838,684 579,685 536,687 533,687 188,686" />
+				<Baseline points="188,686 948,682" />
+				<TextEquiv index="1">
+					<Unicode>Dresdner Katholischen Hofkirche, für welche die meisten Kirchenwerke</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l22" custom="readingOrder {index:22;}">
+				<Coords points="189,696 217,696 229,701 320,702 332,696 337,696 369,703 370,696 374,696 381,703 412,696 456,696 466,703 490,695 557,695 571,696 582,701 591,695 603,695 626,700 651,698 680,700 691,694 728,694 772,699 812,698 890,692 905,692 930,692 940,697 940,707 905,707 812,711 762,708 761,714 750,714 742,709 691,708 650,714 582,710 456,712 307,710 301,714 290,714 281,707 255,715 244,715 229,711 217,715 205,715 194,711 189,711" />
+				<Baseline points="189,711 940,707" />
+				<TextEquiv index="1">
+					<Unicode>Reissigers geschrieben sind, stellte. Die bewegten Violinpassagen und Modu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l23" points="187,721 191,721 209,724 242,726 263,726 281,727 292,732 294,726 305,726 323,728 338,720 359,720 366,726 398,724 402,724 447,725 458,727 458,720 470,720 470,726 481,725 512,725 534,719 539,719 547,720 584,725 596,719 608,719 610,725 625,724 655,724 670,718 684,718 686,724 728,723 749,723 800,723 814,717 831,717 832,723 870,723 885,717 907,717 908,723 920,722 941,722 941,735 932,735 907,732 885,732 867,726 866,732 800,733 749,733 697,734 539,734 447,739 436,739 402,735 359,735 305,735 263,735 242,735 187,735" baseline="187,735 941,731" reason: models differ | Wikisource: lationen eines Mozart ergeben z. B. in diesen Räumen eine kleine Klang | next_nc_e1: lationen eines Mozart ergeben z. B. in diesen Räumen eine kleine Klang | german_print2_15: lationen eines Mozart ergeben z. B. in diesen Räumen eine kleine Klang- -->
+			<TextLine id="r3l24" custom="readingOrder {index:24;}">
+				<Coords points="187,750 195,750 292,750 292,763 283,763 246,760 187,759" />
+				<Baseline points="187,759 292,759" />
+				<TextEquiv index="1">
+					<Unicode>verwirrung.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l25" points="243,786 248,774 264,774 282,774 283,780 294,779 295,774 297,774 344,779 350,781 357,774 362,774 374,777 390,781 392,774 397,774 411,779 420,774 436,774 460,775 478,779 491,773 503,773 511,779 521,779 538,779 550,773 565,773 604,773 643,778 662,778 663,772 674,772 689,777 700,778 700,772 712,772 734,777 753,773 768,771 772,771 774,777 786,776 796,776 827,776 855,776 893,775 900,775 924,776 926,770 937,770 945,775 945,784 915,785 855,789 844,789 796,786 734,787 712,787 643,787 634,787 634,793 622,793 613,787 604,788 521,788 473,789 411,789 374,789 344,789 282,789 243,789" baseline="243,789 807,785 945,784" reason: second model: differs: "eden" against "eder de" | Wikisource: Andere, nicht direkt für diese Kirche geschriebene Chöre zeigen wieder | next_nc_e1: Andere, nicht direkt für diese Kirche geschriebene Chöre zeigen wieder | german_print2_15: Andere, nicht direkt für diese Kirche geschriebene Chöre zeigen wieden -->
+			<TextLine id="r3l26" custom="readingOrder {index:26;}">
+				<Coords points="187,798 199,798 199,804 299,802 328,804 343,798 358,798 366,804 377,802 418,803 450,798 489,798 489,804 500,803 519,798 531,798 531,804 549,803 563,797 578,797 578,803 598,803 600,797 611,797 612,806 618,806 624,810 631,803 641,803 642,797 779,796 781,802 791,798 802,798 819,801 820,795 831,795 834,801 851,798 871,802 873,795 890,795 903,801 910,794 921,794 938,794 939,800 948,800 948,812 921,809 682,813 611,812 531,813 418,818 413,818 358,813 305,813 298,816 287,816 276,813 245,817 187,814" />
+				<Baseline points="187,813 948,809" />
+				<TextEquiv index="1">
+					<Unicode>den gewiegten Kontrapunktiker der Bach-Schule. (Was betrübst du dich,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l27" custom="readingOrder {index:27;}">
+				<Coords points="187,828 243,829 261,822 273,822 279,829 293,829 293,823 356,823 365,825 375,823 391,823 393,829 397,829 416,826 495,828 513,822 529,822 530,828 542,825 577,825 635,821 698,821 753,826 762,823 774,823 817,826 817,820 828,820 840,825 862,819 868,819 917,824 949,824 949,837 917,834 742,835 742,841 651,837 599,839 513,839 485,837 485,843 474,843 425,838 397,837 356,837 356,843 353,843 319,831 313,831 304,837 187,837" />
+				<Baseline points="187,838 949,833" />
+				<TextEquiv index="1">
+					<Unicode>meine Seele? Sechsstimmige Motette.) Das kompositorische Rüstzeug</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l28" points="188,847 199,847 223,852 223,846 242,846 243,852 259,852 260,846 265,846 278,850 290,853 307,846 312,846 321,847 322,853 334,852 348,852 374,852 388,852 533,847 538,847 562,847 605,845 620,845 622,851 675,851 694,851 695,845 706,845 707,851 716,851 733,845 746,845 765,845 816,850 822,849 843,849 864,850 866,844 878,844 918,849 919,843 930,843 945,848 945,857 938,858 908,858 908,864 889,864 879,864 843,860 816,863 799,863 765,860 746,860 675,861 567,866 565,866 562,862 533,866 521,866 418,864 374,865 363,865 348,861 321,861 278,861 188,861" baseline="188,861 860,858 945,858" reason: second model: differs: "lten" against "lter Ko" | Wikisource: handhabte Reissiger ganz vorzüglich. Kanonische Führungen, doppelter | next_nc_e1: handhabte Reissiger ganz vorzüglich. Kanonische Führungen, doppelter | german_print2_15: handhabte Reissiger ganz vorzüglich. Kanonische Führungen, doppelten -->
+			<TextLine id="r3l29" custom="readingOrder {index:29;}">
+				<Coords points="190,871 236,873 307,871 314,874 318,884 337,871 356,871 374,876 425,874 451,877 458,871 469,871 469,877 504,877 506,871 518,871 519,877 536,877 550,871 553,871 564,876 573,871 587,871 607,876 625,873 673,875 692,869 701,869 713,870 722,875 726,869 738,869 745,875 781,874 791,869 826,881 831,869 842,868 888,868 902,873 909,868 921,868 922,874 944,873 950,876 950,878 944,882 826,883 791,889 745,889 713,885 673,885 587,886 564,891 550,891 504,887 451,886 358,889 267,885 264,891 259,891 236,886 190,886" />
+				<Baseline points="190,886 950,882" />
+				<TextEquiv index="1">
+					<Unicode>Kontrapunkt, Fugen standen ihm jederzeit zur Verfügung. Als Studien-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l30" custom="readingOrder {index:30;}">
+				<Coords points="189,901 212,898 262,901 263,895 296,900 401,901 408,895 413,895 414,901 428,901 445,895 450,895 459,896 460,902 544,902 544,895 556,895 556,901 568,901 587,895 603,895 647,900 674,898 711,899 747,894 783,894 816,900 835,899 836,893 898,892 914,892 949,897 949,906 672,910 647,915 634,915 587,910 568,905 568,911 523,910 513,916 501,916 460,911 189,910" />
+				<Baseline points="189,910 949,906" />
+				<TextEquiv index="1">
+					<Unicode>material wären manche Reissigersche Kompositionen daher sehr wohl zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l31" custom="readingOrder {index:31;}">
+				<Coords points="188,926 223,925 231,920 243,919 253,919 264,920 266,926 285,925 285,934 264,935 223,940 212,940 199,935 188,934" />
+				<Baseline points="188,934 285,934" />
+				<TextEquiv index="1">
+					<Unicode>empfehlen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>in einem Kantorhause geboren, in einem Kirchenchor erzogen, konnte das
+natürlich seine Einwirkung auf ihn nicht verfehlen. War aber bereits den
+wisser faustisch tiefsinniger Grundzug abhanden gekommen, so erhielt auch
+beim Epigonen das metaphysische Bedürfnis einen mehr naiv-frommen
+Ausdruck. Seine Weltanschauung war abgeschlossen, wozu sein heiteres,
+verweisen hier auch auf das früher über Reissigers Stellung zur Religion Gesagte.
+Einige Werke, bei denen der naive Ausdruck so recht am Platze ist, sind
+denn auch als echte Meisterwerke anzusprechen, z. B. der Weihnachtschor
+Auch in den kirchlichen Sätzen ist Reissigers Stimmführungskunst
+zu bewundern. Das Vermeiden aller Unebenheiten, im Verein mit reinen
+Palestrinabiographen Baini in Rom und der dortigen Pflege
+zu erinnern
+Auch war ein ebener Satz mit wenig Melodiesprüngen, Läufern und
+Dresdner Katholischen Hofkirche, für welche die meisten Kirchenwerke
+Reissigers geschrieben sind, stellte. Die bewegten Violinpassagen und Modu
+verwirrung.
+den gewiegten Kontrapunktiker der Bach-Schule. (Was betrübst du dich,
+meine Seele? Sechsstimmige Motette.) Das kompositorische Rüstzeug
+Kontrapunkt, Fugen standen ihm jederzeit zur Verfügung. Als Studien-
+material wären manche Reissigersche Kompositionen daher sehr wohl zu
+empfehlen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="209,208 241,208 241,219 209,219" />
+		</GraphicRegion>
+		<GraphicRegion id="r5">
+			<Coords points="647,272 659,272 659,289 647,289" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="191,344 211,344 211,369 191,369" />
+		</GraphicRegion>
+		<GraphicRegion id="r7">
+			<Coords points="377,401 379,401 379,412 377,412" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="626,519 658,519 658,542 626,542" />
+		</GraphicRegion>
+		<GraphicRegion id="r9">
+			<Coords points="782,552 799,552 799,565 782,565" />
+		</GraphicRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="794,546 948,546 948,586 794,586" />
+			<!-- line left out: id="r10l0" points="794,552 828,552 886,550 908,546 919,546 920,553 931,552 945,552 945,561 919,561 838,561 828,565 817,565 806,562 794,561" baseline="794,561 861,560 945,561" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: anges mit dem | german_print2_15: anges mit dem -->
+			<!-- line left out: id="r10l1" points="804,578 810,571 821,571 822,577 832,577 850,577 858,578 871,571 886,571 888,577 899,576 914,574 919,574 937,576 948,578 948,584 937,585 913,585 886,585 850,585 832,585 821,586 810,586 804,585" baseline="804,586 857,585 948,584" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: dieses Meisters
+ | german_print2_15: dieses Meisters
+ -->
+		</TextRegion>
+		<GraphicRegion id="r11">
+			<Coords points="785,578 791,578 791,580 785,580" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="309,784 319,784 319,794 309,794" />
+		</GraphicRegion>
+		<GraphicRegion id="r13">
+			<Coords points="363,946 364,946 364,963 363,963" />
+		</GraphicRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="188,945 991,945 991,1188 188,1188" />
+			<TextLine id="r14l0" custom="readingOrder {index:0;}">
+				<Coords points="246,949 260,949 266,955 301,954 309,948 320,948 342,955 352,948 378,948 389,953 397,948 409,948 421,953 489,949 489,955 500,955 509,949 521,949 528,955 565,954 579,956 579,949 592,949 593,955 611,950 621,949 635,949 645,954 646,948 651,948 652,954 677,951 775,953 787,947 793,947 806,952 815,946 827,946 834,952 919,951 921,945 927,945 927,951 937,951 938,945 949,945 949,960 500,964 463,967 378,967 364,967 320,964 246,964" />
+				<Baseline points="246,963 949,960" />
+				<TextEquiv index="1">
+					<Unicode>Besondere Erwähnung verdienen die Orchestermessen. In ihnen wandelt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l1" custom="readingOrder {index:1;}">
+				<Coords points="191,973 210,973 217,979 291,978 310,973 328,973 334,978 340,986 348,980 358,978 372,978 377,973 388,973 394,978 426,973 458,973 459,979 544,980 545,973 583,973 699,978 700,972 717,972 736,975 754,974 791,978 791,971 808,971 818,974 824,985 836,976 847,971 852,971 853,977 898,975 933,970 938,970 950,975 950,985 852,986 826,988 684,987 684,993 672,993 559,989 487,990 394,988 246,992 221,988 191,988" />
+				<Baseline points="191,988 950,984" />
+				<TextEquiv index="1">
+					<Unicode>Reissiger in klassischen Bahnen, in der bereits angedeuteten Art; also manch-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l2" custom="readingOrder {index:2;}">
+				<Coords points="189,1002 213,997 267,1000 306,1004 307,997 326,997 329,1003 340,1003 345,997 351,997 351,1003 391,997 436,997 437,1003 491,1003 491,997 493,997 539,998 540,1004 604,1003 605,997 610,997 612,1003 627,1003 639,997 643,997 664,1003 664,997 709,1002 721,996 736,996 742,1002 753,1002 753,996 760,996 781,1001 793,995 805,995 805,1001 823,1002 835,995 867,995 878,997 931,1000 931,994 937,994 949,996 949,1009 921,1014 909,1014 878,1010 816,1010 587,1013 493,1017 473,1017 461,1017 351,1013 189,1012" />
+				<Baseline points="189,1012 949,1009" />
+				<TextEquiv index="1">
+					<Unicode>mal mit weltlichen Anklängen. Bis an die tiefsten Tiefen des Textes geht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r14l3" points="188,1028 195,1026 235,1026 243,1028 246,1021 258,1021 289,1021 299,1027 328,1027 328,1021 367,1021 375,1022 391,1027 403,1021 409,1021 418,1022 470,1027 486,1027 496,1031 498,1022 521,1022 522,1029 535,1029 543,1028 554,1027 575,1022 588,1022 595,1023 611,1022 617,1022 624,1024 636,1026 717,1026 721,1020 726,1020 727,1026 772,1025 794,1020 806,1020 828,1025 840,1019 851,1019 885,1021 971,1021 988,1031 991,1031 991,1035 951,1035 899,1034 828,1035 750,1036 682,1037 521,1037 486,1037 470,1041 459,1041 391,1037 367,1037 308,1037 188,1036" baseline="188,1036 898,1033 991,1033" reason: models differ | Wikisource: er nicht heran. Die Reissiger-Messen dürften immerhin zu den besten zeit | next_nc_e1: er nicht heran. Die Reissiger-Messen dürften immerhin zu den besten zeit- | german_print2_15: er nicht heran. Die Reissiger-Messen dürften immerhin zu den besten zeit -->
+			<TextLine id="r14l4" custom="readingOrder {index:4;}">
+				<Coords points="188,1051 216,1046 243,1046 256,1051 268,1052 268,1046 288,1046 288,1052 322,1046 382,1046 407,1052 414,1046 419,1046 445,1051 474,1047 489,1047 530,1052 540,1047 684,1045 737,1045 813,1050 825,1044 868,1043 882,1043 901,1044 919,1049 920,1043 932,1043 950,1052 950,1053 942,1057 932,1058 844,1059 813,1063 803,1063 792,1059 785,1065 656,1061 552,1062 530,1066 518,1066 431,1061 339,1061 268,1065 243,1060 210,1061 201,1065 188,1065" />
+				<Baseline points="188,1061 950,1057" />
+				<TextEquiv index="1">
+					<Unicode>genössischen Werken dieser Art gehört haben. Weithin ging der Ruf der-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l5" custom="readingOrder {index:5;}">
+				<Coords points="189,1077 204,1076 204,1070 227,1070 253,1075 265,1069 277,1069 278,1075 290,1070 301,1070 311,1077 359,1076 375,1070 413,1070 415,1076 464,1075 483,1070 489,1070 501,1071 531,1078 544,1071 572,1074 629,1076 641,1070 675,1070 675,1076 756,1074 790,1069 801,1069 843,1073 844,1081 871,1067 891,1067 914,1072 920,1067 929,1067 942,1072 951,1073 951,1082 709,1086 675,1086 620,1086 584,1086 544,1086 348,1085 344,1078 332,1084 253,1086 243,1086 189,1085" />
+				<Baseline points="189,1085 951,1082" />
+				<TextEquiv index="1">
+					<Unicode>selben, daß sogar Berlioz in Paris Interesse bekam, sie zu hören. Einzelne</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l6" custom="readingOrder {index:6;}">
+				<Coords points="189,1095 209,1094 232,1099 257,1094 274,1094 291,1099 310,1094 321,1094 322,1100 333,1095 338,1095 341,1101 380,1095 423,1097 448,1100 458,1094 469,1094 469,1100 481,1095 487,1095 487,1101 498,1100 510,1095 522,1095 522,1101 544,1101 545,1109 563,1100 586,1100 595,1095 607,1095 640,1100 681,1094 744,1094 757,1096 788,1095 816,1092 822,1092 834,1093 852,1098 853,1092 864,1092 865,1098 875,1098 885,1092 919,1092 927,1096 945,1097 950,1100 950,1101 945,1106 822,1108 797,1113 782,1113 757,1109 640,1114 628,1114 448,1109 189,1109" />
+				<Baseline points="189,1109 950,1106" />
+				<TextEquiv index="1">
+					<Unicode>Chorstellen haben breitausladenden, wuchtigen Charakter (z. B. die Gloria-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l7" custom="readingOrder {index:7;}">
+				<Coords points="189,1123 205,1121 217,1124 217,1118 229,1118 229,1124 236,1124 253,1118 265,1118 266,1124 300,1119 314,1119 315,1126 324,1126 333,1119 339,1119 355,1121 376,1128 379,1119 483,1119 499,1126 505,1119 523,1119 523,1126 546,1122 582,1125 583,1119 594,1119 601,1122 624,1126 639,1119 651,1119 666,1124 685,1118 752,1118 859,1115 866,1115 875,1116 875,1122 886,1122 886,1116 921,1116 940,1121 941,1115 951,1115 951,1130 821,1134 752,1133 594,1135 570,1135 333,1134 324,1130 314,1133 189,1133" />
+				<Baseline points="189,1133 951,1130" />
+				<TextEquiv index="1">
+					<Unicode>stelle der As-Dur-Messe und das Sanktus der H-Moll-Messe). Melodisch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l8" custom="readingOrder {index:8;}">
+				<Coords points="189,1149 205,1147 217,1142 229,1142 239,1148 286,1147 292,1145 328,1143 362,1143 440,1148 521,1146 529,1143 540,1143 540,1149 581,1147 614,1149 615,1143 626,1143 626,1149 636,1149 648,1143 839,1141 897,1146 907,1140 922,1140 945,1145 951,1149 951,1150 945,1155 907,1155 854,1161 842,1161 839,1157 757,1157 745,1163 728,1163 626,1159 199,1158 189,1155" />
+				<Baseline points="189,1157 951,1155" />
+				<TextEquiv index="1">
+					<Unicode>sind sie natürlich bei einem um thematische Erfindung nie verlegenen Ton-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r14l9" custom="readingOrder {index:9;}">
+				<Coords points="189,1172 259,1167 282,1167 293,1172 294,1180 312,1174 325,1174 326,1167 343,1167 346,1174 380,1168 392,1168 409,1173 427,1182 432,1173 459,1174 461,1167 466,1167 466,1173 494,1167 517,1167 518,1173 540,1173 542,1181 559,1174 566,1174 566,1168 691,1168 692,1174 724,1172 736,1167 785,1172 785,1166 797,1166 827,1171 843,1165 902,1165 902,1172 924,1170 930,1164 942,1164 951,1169 951,1178 910,1180 680,1182 657,1188 645,1188 501,1183 343,1182 294,1184 282,1182 259,1184 189,1182" />
+				<Baseline points="189,1182 951,1179" />
+				<TextEquiv index="1">
+					<Unicode>setzer alle, selbst die Credostellen, die infolge des abstrakten Inhalts die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Besondere Erwähnung verdienen die Orchestermessen. In ihnen wandelt
+Reissiger in klassischen Bahnen, in der bereits angedeuteten Art; also manch-
+mal mit weltlichen Anklängen. Bis an die tiefsten Tiefen des Textes geht
+genössischen Werken dieser Art gehört haben. Weithin ging der Ruf der-
+selben, daß sogar Berlioz in Paris Interesse bekam, sie zu hören. Einzelne
+Chorstellen haben breitausladenden, wuchtigen Charakter (z. B. die Gloria-
+stelle der As-Dur-Messe und das Sanktus der H-Moll-Messe). Melodisch
+sind sie natürlich bei einem um thematische Erfindung nie verlegenen Ton-
+setzer alle, selbst die Credostellen, die infolge des abstrakten Inhalts die</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r15">
+			<Coords points="334,978 346,978 346,988 334,988" />
+		</GraphicRegion>
+		<GraphicRegion id="r16">
+			<Coords points="860,1004 870,1004 870,1010 860,1010" />
+		</GraphicRegion>
+		<GraphicRegion id="r17">
+			<Coords points="343,1044 1000,1044 1000,1061 343,1061" />
+		</GraphicRegion>
+		<GraphicRegion id="r18">
+			<Coords points="331,1067 346,1067 346,1089 331,1089" />
+		</GraphicRegion>
+		<GraphicRegion id="r19">
+			<Coords points="797,1107 815,1107 815,1136 797,1136" />
+		</GraphicRegion>
+		<GraphicRegion id="r20">
+			<Coords points="258,1202 282,1202 282,1222 258,1222" />
+		</GraphicRegion>
+		<TextRegion id="r21" custom="readingOrder {index:21;} orientation {0;}">
+			<Coords points="189,1203 951,1203 951,1320 189,1320" />
+			<!-- line left out: id="r21l0" points="290,1210 303,1209 319,1205 329,1205 393,1206 426,1207 490,1208 510,1206 519,1206 528,1210 537,1211 541,1216 557,1210 567,1210 607,1206 612,1206 677,1206 729,1206 799,1205 812,1205 848,1204 858,1204 896,1204 897,1213 909,1203 947,1203 948,1213 951,1213 951,1215 928,1215 900,1216 812,1217 739,1218 632,1218 612,1218 541,1220 477,1222 467,1222 381,1218 290,1217" baseline="290,1218 899,1215 951,1215" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: wurde im Nachlasse gefunden, war aber vorher schon einmal in der A. M. Z. | german_print2_15: wurde im Nachlasse gefunden, war aber vorher schon einmal in der A. M. Z. -->
+			<!-- line left out: id="r21l1" points="192,1229 200,1225 210,1225 246,1225 303,1225 340,1225 376,1229 391,1226 400,1226 441,1230 442,1236 467,1226 472,1226 485,1228 504,1226 516,1225 541,1225 553,1226 564,1228 596,1226 601,1226 626,1226 632,1228 646,1228 656,1226 658,1226 707,1225 712,1225 741,1225 778,1227 792,1229 792,1223 803,1223 810,1224 816,1226 848,1223 859,1223 872,1223 896,1223 913,1222 931,1222 931,1234 913,1234 859,1240 825,1240 803,1240 792,1240 778,1237 741,1238 694,1238 658,1240 645,1240 632,1238 601,1240 596,1240 553,1238 541,1238 516,1238 219,1241 210,1241 198,1238 192,1238" baseline="192,1237 913,1234 931,1234" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 1840 als Faksimile erschicnen. Die Redaktion richtete, um bekannte zeitgenössische To
+ | german_print2_15: 1840 als Faksimile erschienen. Die Redaktion richtete, um bekannte zeitgenössische To
+ -->
+			<!-- line left out: id="r21l2" points="189,1249 205,1248 211,1248 278,1244 287,1244 312,1249 352,1244 367,1244 376,1248 385,1245 395,1245 417,1245 423,1249 433,1245 442,1244 451,1244 479,1246 512,1245 518,1245 531,1249 561,1245 577,1245 606,1245 688,1245 698,1249 702,1245 716,1245 748,1245 778,1245 795,1246 803,1248 804,1254 818,1248 842,1243 852,1243 881,1242 889,1242 908,1242 951,1246 951,1257 925,1258 889,1259 881,1259 807,1258 804,1258 773,1256 748,1257 698,1261 616,1261 577,1261 567,1261 550,1260 495,1262 480,1262 385,1257 316,1258 313,1258 303,1257 189,1257" baseline="189,1257 881,1254 951,1254" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: setzer zu ehren, an Mendelssohn, Meyerbeer, Reissiger und Spohr die Bitte, in dem Jahrgang | german_print2_15: seizer zu chren, an Mendelssohn, Meyerbeer, Reissiger und Spohr die Bitte, in dem Jahrgang -->
+			<!-- line left out: id="r21l3" points="190,1269 231,1265 245,1264 257,1264 272,1264 296,1263 307,1263 335,1263 362,1264 368,1266 422,1268 450,1266 459,1265 479,1265 543,1265 628,1264 638,1264 662,1265 669,1268 680,1264 720,1264 758,1264 776,1264 795,1263 808,1263 838,1262 848,1262 891,1261 901,1261 947,1265 951,1268 951,1270 947,1273 938,1277 929,1277 901,1274 825,1275 783,1276 720,1277 606,1277 567,1281 533,1281 526,1281 341,1280 267,1280 257,1280 240,1277 213,1277 198,1277 190,1277" baseline="190,1276 917,1273 951,1273" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: eine Originalkomposition zum Abdruck bringen zu dürfen. R. machte sich durch den ge- | german_print2_15: eine Originalkomposition zum Abdruck bringen zu dürfen. KR. machte sich durch den ge- -->
+			<!-- line left out: id="r21l4" points="190,1288 228,1286 234,1286 262,1284 268,1283 283,1283 312,1283 315,1285 336,1284 345,1284 353,1283 374,1283 390,1283 422,1283 437,1288 437,1294 462,1284 500,1284 539,1284 580,1286 597,1286 644,1283 654,1283 686,1284 698,1283 713,1283 737,1283 743,1283 788,1283 810,1282 816,1281 826,1281 834,1282 842,1281 857,1281 867,1283 876,1281 886,1281 938,1281 951,1285 951,1293 867,1294 799,1295 746,1297 742,1297 719,1296 708,1297 654,1297 644,1297 629,1296 441,1297 437,1297 429,1296 410,1296 283,1296 190,1296" baseline="190,1296 262,1295 951,1292" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: nannten Chor tatsächlich Ehre. Er hat ihn sonst nie veröffentlicht. Max Friedländer nahm | german_print2_15: nannten Chor tatsächlich Ehre. Er hat ihn sonst nie veröffentlicht. Max Friedländer nahm -->
+			<!-- line left out: id="r21l5" points="190,1303 205,1303 230,1303 266,1303 299,1303 345,1303 364,1303 389,1303 398,1307 407,1303 415,1303 431,1305 510,1303 520,1303 526,1305 554,1304 575,1304 585,1307 601,1303 607,1303 668,1303 689,1303 689,1316 668,1316 652,1320 647,1320 627,1319 607,1320 601,1320 566,1316 526,1316 511,1316 489,1316 467,1319 457,1319 190,1315" baseline="190,1315 689,1315" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ihn in das Kaiserliederbuch für gemischten Chor (1915) auf.
+ | german_print2_15: ihn in das Kaiserliederbuch für gemischten Chor (1915) auf.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r22">
+			<Coords points="448,1270 450,1270 450,1273 448,1273" />
+		</GraphicRegion>
+		<GraphicRegion id="r23">
+			<Coords points="0,1076 1000,1076 1000,1481 0,1481" />
+		</GraphicRegion>
+		<TextRegion id="r24" custom="readingOrder {index:24;} orientation {3;}">
+			<Coords points="985,1044 996,1044 996,1324 985,1324" />
+			<!-- line left out: id="r24l0" points="985,1044 996,1044 996,1324 985,1324" baseline="991,1324 990,1044" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ————
+ | german_print2_15: ——
+ -->
+		</TextRegion>
+		<TextRegion id="r25" custom="readingOrder {index:25;} orientation {0;}">
+			<Coords points="365,1434 682,1434 682,1465 365,1465" />
+			<!-- line left out: id="r25l0" points="365,1434 381,1434 381,1444 388,1444 392,1434 398,1434 408,1434 424,1434 430,1434 440,1445 444,1445 448,1434 457,1434 474,1434 486,1434 499,1434 499,1445 500,1445 508,1434 532,1434 563,1434 579,1434 579,1445 586,1445 646,1445 670,1445 682,1446 682,1454 670,1455 660,1455 646,1455 622,1455 617,1455 579,1454 579,1465 563,1465 532,1465 499,1465 486,1465 474,1465 457,1465 448,1465 448,1454 434,1454 430,1465 424,1465 408,1465 398,1465 392,1465 388,1457 381,1457 381,1465 365,1465" baseline="365,1454 682,1454" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: htp ldigital slub-dresden delid402053923191 803001108 | german_print2_15: BNüpAkalslud 7esden &h⅝eXnSe 3.18180800 108 -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+in einem Kantorhause geboren, in einem Kirchenchor erzogen, konnte das natürlich seine Einwirkung auf ihn nicht verfehlen. War aber bereits den Klassikern, die Reissiger vorwiegend hörte, in der Kirchenmusik ein gewisser faustisch tiefsinniger Grundzug abhanden gekommen, so erhielt auch beim Epigonen das metaphysische Bedürfnis einen mehr naiv-frommen Ausdruck. Seine Weltanschauung war abgeschlossen, wozu sein heiteres, genuẞfreudiges Temperament beitrug (Humor als Weltanschauung). Wir verweisen hier auch auf das früher über Reissigers Stellung zur Religion Gesagte. Einige Werke, bei denen der naive Ausdruck so recht am Platze ist, sind denn auch als echte Meisterwerke anzusprechen, z. B. der Weihnachtschor: Es ist ein Ros’ entsprungen (F-Dur), den heute noch alle Kirchenchöre singen⟦⟧. Fast mystisch wirkt der Gang der Harmonie bei der Stelle, „und hatt’ ein Blümlein ’bracht“ (D-Moll, C-Dur, G-Dur, Tp., D., (D) D).
+Auch in den kirchlichen Sätzen ist Reissigers Stimmführungskunst zu bewundern. Das Vermeiden aller Unebenheiten, im Verein mit reinen Harmoniewirkungen, ruft Erinnerungen an Palestrina wach. Das ist nicht übertrieben. Wir brauchen uns nur des lehrreichen Umganges mit dem Palestrinabiographen Baini in Rom und der dortigen Pflege dieses Meisters zu erinnern.
+Auch war ein ebener Satz mit wenig Melodiesprüngen, Läufern und langsamen Harmoniewechseln ein Erfordernis, welches die Akustik der Dresdner Katholischen Hofkirche, für welche die meisten Kirchenwerke Reissigers geschrieben sind, stellte. Die bewegten Violinpassagen und Modulationen eines Mozart ergeben z. B. in diesen Räumen eine kleine Klangverwirrung.
+Andere, nicht direkt für diese Kirche geschriebene Chöre zeigen wieder den gewiegten Kontrapunktiker der Bach-Schule. (Was betrübst du dich, meine Seele? Sechsstimmige Motette.) Das kompositorische Rüstzeug handhabte Reissiger ganz vorzüglich. Kanonische Führungen, doppelter Kontrapunkt, Fugen standen ihm jederzeit zur Verfügung. Als Studienmaterial wären manche Reissigersche Kompositionen daher sehr wohl zu empfehlen.
+Besondere Erwähnung verdienen die Orchestermessen. In ihnen wandelt Reissiger in klassischen Bahnen, in der bereits angedeuteten Art; also manchmal mit weltlichen Anklängen. Bis an die tiefsten Tiefen des Textes geht er nicht heran. Die Reissiger-Messen dürften immerhin zu den besten zeitgenössischen Werken dieser Art gehört haben. Weithin ging der Ruf derselben, daß sogar Berlioz in Paris Interesse bekam, sie zu hören. Einzelne Chorstellen haben breitausladenden, wuchtigen Charakter (z. B. die Gloriastelle der As-Dur-Messe und das Sanktus der H-Moll-Messe). Melodisch sind sie natürlich bei einem um thematische Erfindung nie verlegenen Tonsetzer alle, selbst die Credostellen, die infolge des abstrakten Inhalts die
+-->
+	</Page>
+</PcGts>

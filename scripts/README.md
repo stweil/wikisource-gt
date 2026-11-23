@@ -81,3 +81,9 @@ All requests go through `wsapi.py`: one at a time, a pause of four seconds
 after each, and waiting when the server answers with HTTP 429. Please keep
 it that way and do not run several fetches in parallel; Wikimedia limits
 automated requests. The scan file of a work is downloaded once.
+
+The file server of Wikimedia Commons limits downloads of original files:
+after about ten in two minutes it answers HTTP 429 with `Retry-After: 600`.
+For works with one image file per page `ws-get-scan.py` therefore fetches
+one image every 90 seconds (`PACE`) and waits as long as the server says
+when it is refused. Several hundred pages take many hours.

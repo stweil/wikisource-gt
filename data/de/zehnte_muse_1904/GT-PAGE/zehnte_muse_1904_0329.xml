@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:28:20</Created>
+		<LastChange>2026-11-23T18:28:20</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Die_zehnte_Muse_(Maximilian_Bern).djvu/329 revision 3304008 of 2018-07-31T21:10:54Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="zehnte_muse_1904_0329.png" imageWidth="1170" imageHeight="2198">
+		<ReadingOrder>
+			<OrderedGroup id="ro2407413449993757336" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="169,201 722,201 722,517 169,517" />
+			<TextLine id="r0l0" custom="readingOrder {index:0;}">
+				<Coords points="170,202 247,202 267,210 326,210 344,201 371,201 528,201 545,202 563,210 599,210 617,201 630,201 694,201 694,210 715,210 715,224 722,224 722,238 714,238 714,229 694,229 694,238 675,238 675,229 661,229 661,238 641,238 641,229 630,229 630,238 617,238 599,230 170,229" />
+				<Baseline points="170,229 722,229" />
+				<TextEquiv index="1">
+					<Unicode>Stets war ich für dich zu finden,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l1" custom="readingOrder {index:1;}">
+				<Coords points="169,242 265,242 283,249 404,249 422,242 500,241 539,241 539,251 574,251 594,243 626,243 626,251 640,251 640,243 682,243 682,276 640,276 640,270 626,270 626,276 609,276 609,270 539,270 539,277 519,277 519,269 500,269 500,277 486,277 470,269 422,269 404,277 330,277 330,269 297,269 297,277 283,277 265,269 169,269" />
+				<Baseline points="169,269 682,270" />
+				<TextEquiv index="1">
+					<Unicode>Rasch vergass ich jeden Groll,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l2" points="170,283 269,281 278,281 290,282 290,290 307,290 307,281 339,281 339,291 355,291 373,283 386,283 386,290 399,290 399,283 419,283 441,286 450,283 469,283 469,291 477,291 497,281 518,281 539,284 539,291 556,291 556,282 579,282 579,290 601,290 601,281 614,281 633,296 673,296 673,303 633,303 614,310 577,310 558,309 477,309 170,309" baseline="170,309 497,309 673,310" reason: differs: "den—" against "en – Ne" | Wikisource:  | next_nc_e1: Aber deine letzten Sünden — | german_print2_15: Aber deine letzten Sänden — -->
+			<TextLine id="r0l3" custom="readingOrder {index:3;}">
+				<Coords points="169,322 187,321 247,321 247,342 255,342 275,321 307,321 307,331 460,329 567,330 585,322 639,322 639,343 645,343 645,349 531,349 513,357 460,357 440,349 275,349 255,356 245,356 245,349 222,349 222,356 187,356 187,349 169,349" />
+				<Baseline points="169,349 645,349" />
+				<TextEquiv index="1">
+					<Unicode>Nein, die waren gar zu toll.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l4" custom="readingOrder {index:4;}">
+				<Coords points="169,362 208,362 208,370 226,370 226,362 248,362 248,370 264,370 264,362 349,361 450,361 450,370 462,370 462,361 488,361 505,370 535,370 535,361 554,361 607,361 607,370 623,370 623,361 657,361 657,370 681,370 681,381 689,381 689,396 680,396 680,390 657,390 657,396 637,396 637,389 606,389 606,396 586,396 586,389 554,389 554,396 528,396 505,396 488,388 169,389" />
+				<Baseline points="169,389 505,388 689,390" />
+				<TextEquiv index="1">
+					<Unicode>Immerdar sind wir geschieden,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l5" points="169,402 253,402 272,410 282,410 282,401 379,401 406,402 461,401 518,401 518,410 530,410 584,407 602,407 653,407 664,411 664,435 653,438 616,438 616,430 602,430 602,438 584,438 584,429 573,429 573,437 550,437 530,430 489,430 415,430 282,430 169,429" baseline="169,429 442,428 461,428 664,430" reason: differs: "dir'sge" against "dir’s g" | Wikisource:  | next_nc_e1: Noch einmal sei dir's gesagt; | german_print2_15: Noch einmal sei dir's gesagt; -->
+			<!-- line left out: id="r0l6" points="169,442 225,442 225,451 261,450 298,450 298,442 318,441 365,441 365,450 388,450 388,441 453,441 495,441 547,442 652,442 652,450 668,450 688,451 688,462 696,462 696,477 687,477 687,469 629,469 629,477 610,477 610,469 599,469 599,477 580,477 580,469 516,469 495,455 488,455 488,469 348,469 328,456 321,456 321,469 283,469 283,476 261,476 242,469 169,469" baseline="169,469 696,469" reason: differs: "Also" against "sagt" | Wikisource:  | next_nc_e1: Also geh' und lass' in Frieden, | german_print2_15: Also geh' und lass' in Frieden, -->
+			<TextLine id="r0l7" custom="readingOrder {index:7;}">
+				<Coords points="169,482 209,482 209,490 289,491 309,482 358,482 358,490 395,491 414,482 436,482 436,490 455,490 474,483 486,483 486,490 531,490 531,483 601,483 601,517 552,517 552,510 534,510 534,517 512,517 512,509 497,509 497,516 486,517 474,517 455,509 379,509 379,516 335,516 335,510 319,510 319,516 309,516 289,509 169,509" />
+				<Baseline points="169,509 601,509" />
+				<TextEquiv index="1">
+					<Unicode>Den so lange du geplagt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Stets war ich für dich zu finden,
+Rasch vergass ich jeden Groll,
+Nein, die waren gar zu toll.
+Immerdar sind wir geschieden,
+Den so lange du geplagt.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="169,547 972,547 972,866 169,866" />
+			<!-- line left out: id="r1l0" points="169,548 271,547 298,547 298,558 314,558 327,548 364,548 485,548 502,550 513,553 560,558 560,548 632,548 632,557 643,557 643,548 688,547 743,547 768,548 768,568 776,568 789,548 809,547 877,547 944,547 944,556 955,556 955,547 972,547 972,580 877,580 829,580 809,580 789,576 776,582 767,582 767,576 743,576 743,582 721,582 721,575 705,575 705,582 688,582 673,576 525,576 450,576 415,576 280,576 224,576 169,576" baseline="169,576 253,575 327,575 972,576" reason: differs: "ickmich" against "ick’ mi" | Wikisource:  | next_nc_e1: Doch sie schmeichelt: »Schick mich, Schätzchen, | german_print2_15: Doch sie schmeichelt: »Schick' mich, Schätzchen, -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="169,588 210,588 217,596 237,596 237,588 283,588 338,588 407,588 434,597 493,598 511,588 557,588 616,589 644,597 644,622 634,622 633,616 616,616 616,622 597,622 597,616 584,616 584,622 575,622 557,616 283,616 283,623 261,623 261,616 240,616 240,623 210,623 186,623 186,616 169,616" />
+				<Baseline points="169,616 644,616" />
+				<TextEquiv index="1">
+					<Unicode>Ungehört nicht von dir fort;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l2" points="169,628 208,628 208,638 251,636 261,636 261,627 299,627 356,628 453,628 453,637 470,633 482,628 503,628 503,637 549,637 549,629 572,629 572,638 597,638 597,630 617,630 629,628 649,628 686,628 686,637 705,637 705,628 714,628 735,643 771,643 771,649 735,649 714,656 686,656 552,656 453,656 356,656 232,656 189,656 169,654" baseline="169,655 771,655" reason: differs: "hen—" against "en – Un" | Wikisource:  | next_nc_e1: Nur ein Fünfminntenschwätzchen —
+ | german_print2_15: Nur ein Fünfminntenschwätzchen —
+ -->
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="171,669 189,668 285,668 305,669 324,677 361,677 361,669 384,669 384,676 401,676 401,688 410,688 429,677 468,678 468,669 483,669 498,677 541,677 541,668 577,668 637,669 637,677 654,673 691,669 691,696 429,696 410,702 400,702 400,695 347,695 347,703 324,703 305,695 171,696" />
+				<Baseline points="171,696 691,696" />
+				<TextEquiv index="1">
+					<Unicode>Und ich gehe, auf mein Wort!</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="169,708 187,707 247,707 247,716 267,716 284,707 297,707 336,707 442,708 442,717 462,717 462,708 514,709 514,717 528,717 528,709 547,709 547,717 561,717 561,709 643,709 643,717 665,717 665,729 672,729 672,742 665,743 627,743 627,736 616,736 616,743 596,743 596,735 580,735 580,743 561,743 561,735 547,735 547,743 528,743 528,736 514,736 514,743 500,743 482,735 284,735 267,742 222,742 222,735 209,735 209,742 187,742 187,734 169,734" />
+				<Baseline points="169,734 672,736" />
+				<TextEquiv index="1">
+					<Unicode>Ruhig bin ich und vernünftig,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="170,748 200,748 200,757 218,757 218,748 259,747 273,747 273,756 307,756 307,747 337,747 386,748 386,758 404,756 436,757 436,749 474,749 502,758 534,757 585,748 664,749 683,757 696,757 696,749 751,749 751,757 805,756 805,780 751,780 717,780 696,780 664,776 170,776" />
+				<Baseline points="170,776 805,775" />
+				<TextEquiv index="1">
+					<Unicode>Und mein Unrecht reut mich schwer;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="171,787 210,787 210,796 242,796 242,787 262,787 361,787 361,808 369,808 388,788 436,788 455,797 470,797 470,789 493,789 493,796 513,796 513,789 534,789 534,798 550,798 569,789 619,788 619,797 630,797 630,788 667,788 667,797 682,797 682,824 650,824 650,816 619,815 619,824 600,824 600,815 388,815 369,822 332,822 332,815 316,815 316,822 304,822 284,815 171,815" />
+				<Baseline points="171,814 682,816" />
+				<TextEquiv index="1">
+					<Unicode>Glaube mir, ich werde künftig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l7" points="170,828 187,827 246,827 281,830 281,836 297,836 297,830 351,830 351,836 368,836 386,837 386,830 422,828 486,828 486,838 501,838 501,828 545,828 545,837 561,837 561,828 629,828 629,839 641,839 641,823 658,823 658,866 641,866 641,855 629,856 351,856 316,856 281,856 266,856 170,855" baseline="170,855 266,854 658,854" reason: second model has no such line | Wikisource: Dich erzürnen nimmermehr.« | next_nc_e1: Dich erzürnen nimmermehr. «
+ | german_print2_15:  -->
+			<TextEquiv index="1">
+				<Unicode>Ungehört nicht von dir fort;
+Und ich gehe, auf mein Wort!
+Ruhig bin ich und vernünftig,
+Und mein Unrecht reut mich schwer;
+Glaube mir, ich werde künftig</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="169,893 829,893 829,1209 169,1209" />
+			<!-- line left out: id="r2l0" points="169,894 222,894 262,893 283,893 283,903 299,903 299,893 319,893 319,903 367,903 367,894 467,894 467,903 482,903 482,895 512,894 526,894 615,894 615,904 633,904 650,894 685,894 685,904 699,904 699,895 713,894 733,894 733,903 747,903 747,929 713,929 713,923 699,923 665,922 665,929 650,929 633,922 560,923 524,923 439,922 244,921 169,921" baseline="169,921 439,921 747,922" reason: differs: "einlrie" against "ein! ri" | Wikisource:  | next_nc_e1: Tritt denn einl rief ich der Liebe,
+ | german_print2_15: Tritt denn ein! rief ich der Liebe,
+ -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="170,934 188,933 228,933 402,936 434,942 434,954 442,954 462,943 485,943 485,935 555,935 555,944 567,944 567,935 605,936 623,943 671,943 671,968 662,968 660,962 639,962 639,968 623,968 605,962 462,962 442,969 432,969 432,962 402,962 402,969 383,969 383,962 369,962 369,969 344,969 325,961 170,960" />
+				<Baseline points="170,960 671,962" />
+				<TextEquiv index="1">
+					<Unicode>Die mich störte, unwirsch zu;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="171,975 190,974 290,974 290,982 308,982 308,974 357,974 376,982 409,982 428,974 499,974 499,994 507,994 527,975 561,975 561,984 576,984 576,975 660,975 660,983 674,983 674,1008 626,1008 626,1002 595,1002 595,1008 576,1008 576,1002 561,1002 561,1008 542,1008 542,1002 527,1002 507,1008 492,1008 474,1008 474,1002 458,1002 458,1008 428,1008 409,1001 171,1001" />
+				<Baseline points="171,1001 674,1002" />
+				<TextEquiv index="1">
+					<Unicode>Aber mach es kurz, Verehrte,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="173,1014 203,1014 203,1022 222,1022 222,1013 339,1013 388,1015 388,1022 400,1022 400,1015 419,1015 419,1022 434,1022 452,1015 678,1015 678,1042 452,1042 173,1041" />
+				<Baseline points="173,1040 678,1042" />
+				<TextEquiv index="1">
+					<Unicode>Und dann lasse mich in Ruh!</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="172,1054 192,1053 330,1053 330,1062 365,1062 383,1054 386,1054 386,1063 399,1059 412,1059 427,1063 427,1054 505,1054 505,1064 578,1064 578,1055 610,1054 646,1054 646,1064 662,1064 681,1055 751,1055 751,1063 781,1064 781,1055 804,1055 804,1064 821,1064 821,1073 829,1073 829,1088 820,1088 802,1083 751,1081 751,1088 731,1088 731,1082 715,1082 715,1088 696,1088 696,1082 558,1083 172,1081" />
+				<Baseline points="172,1080 829,1083" />
+				<TextEquiv index="1">
+					<Unicode>Doch kaum steht sie auf der Schwelle,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="172,1093 252,1093 252,1102 264,1102 264,1093 284,1093 312,1093 365,1094 365,1104 377,1104 393,1094 520,1095 520,1103 536,1103 554,1095 632,1095 632,1104 683,1104 683,1095 694,1095 694,1104 709,1104 709,1095 731,1095 731,1117 740,1117 740,1132 731,1132 731,1122 399,1123 172,1121" />
+				<Baseline points="172,1120 740,1122" />
+				<TextEquiv index="1">
+					<Unicode>Schliesst die Thür sie hinter sich,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="172,1134 194,1134 194,1143 206,1143 206,1134 276,1134 276,1140 339,1143 339,1135 445,1135 457,1136 457,1144 506,1144 506,1135 575,1135 575,1144 588,1144 588,1135 608,1135 608,1144 627,1135 687,1135 691,1136 691,1144 707,1144 707,1154 715,1154 715,1169 706,1169 706,1163 689,1163 687,1169 671,1169 671,1162 641,1162 641,1169 627,1169 609,1163 300,1162 258,1162 258,1169 239,1169 238,1162 223,1161 223,1169 193,1169 193,1161 172,1161" />
+				<Baseline points="172,1161 715,1163" />
+				<TextEquiv index="1">
+					<Unicode>Spricht: »Für alle weitern Fälle,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="171,1174 212,1174 212,1183 229,1183 248,1174 282,1174 282,1182 307,1182 325,1174 395,1174 423,1174 423,1183 459,1183 459,1175 714,1176 714,1195 722,1195 722,1203 595,1202 576,1209 488,1209 471,1202 171,1201" />
+				<Baseline points="171,1201 722,1202" />
+				<TextEquiv index="1">
+					<Unicode>Die den Schlüssel führt, bin ich.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Die mich störte, unwirsch zu;
+Aber mach es kurz, Verehrte,
+Und dann lasse mich in Ruh!
+Doch kaum steht sie auf der Schwelle,
+Schliesst die Thür sie hinter sich,
+Spricht: »Für alle weitern Fälle,
+Die den Schlüssel führt, bin ich.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="171,1240 804,1240 804,1557 171,1557" />
+			<!-- line left out: id="r3l0" points="172,1241 193,1240 215,1240 215,1248 245,1248 248,1240 328,1240 349,1241 367,1249 412,1249 412,1240 440,1240 440,1250 456,1250 456,1261 464,1261 484,1241 552,1241 570,1250 610,1250 610,1242 627,1242 627,1251 641,1250 671,1250 671,1242 722,1242 722,1249 736,1249 736,1242 755,1242 755,1250 786,1250 786,1242 804,1242 804,1277 786,1277 786,1269 755,1269 755,1277 736,1277 736,1269 722,1269 722,1277 702,1277 702,1269 691,1269 691,1277 671,1277 671,1268 659,1269 643,1269 643,1277 620,1277 620,1269 484,1269 464,1275 454,1275 454,1269 439,1269 429,1275 412,1275 412,1268 291,1268 281,1268 172,1267" baseline="172,1267 281,1267 804,1269" reason: differs: "eut's,d" against "eut’s, " | Wikisource:  | next_nc_e1: Was? dich reut's, dass aufgeschlossen | german_print2_15: Was? dich reut's, dass aufgeschlossen -->
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="172,1281 242,1280 273,1280 273,1290 290,1290 308,1281 356,1281 375,1284 375,1290 407,1289 410,1281 531,1281 531,1290 548,1290 565,1282 644,1283 644,1309 463,1309 172,1308" />
+				<Baseline points="172,1308 644,1309" />
+				<TextEquiv index="1">
+					<Unicode>Du die Thüre? Ohne mich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="171,1321 230,1321 230,1328 246,1328 246,1321 266,1321 323,1321 323,1329 343,1329 361,1323 374,1323 374,1330 389,1330 389,1322 412,1322 412,1329 448,1330 453,1322 462,1322 554,1323 554,1329 607,1331 607,1323 645,1323 645,1330 662,1330 662,1323 697,1323 697,1330 718,1330 722,1323 730,1323 730,1350 697,1349 697,1357 607,1357 607,1349 554,1349 554,1357 532,1357 529,1349 516,1348 516,1357 501,1357 462,1349 171,1347" />
+				<Baseline points="171,1347 730,1350" />
+				<TextEquiv index="1">
+					<Unicode>Kannst du leben! Narrenpossen!</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="171,1361 258,1361 258,1369 272,1369 291,1360 358,1360 390,1360 393,1361 393,1380 402,1380 420,1360 434,1360 469,1360 510,1362 510,1370 524,1370 524,1362 543,1362 543,1371 583,1370 603,1362 682,1363 682,1390 420,1388 402,1394 390,1394 371,1394 371,1388 358,1388 358,1394 322,1394 322,1388 307,1388 307,1394 291,1394 272,1387 171,1387" />
+				<Baseline points="171,1387 682,1390" />
+				<TextEquiv index="1">
+					<Unicode>Bester Schatz, ich kenne dich!</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="173,1401 202,1401 202,1408 221,1405 321,1408 337,1400 350,1400 350,1408 367,1408 367,1400 407,1400 442,1400 501,1403 501,1410 551,1410 571,1404 588,1404 588,1410 601,1410 601,1404 637,1404 637,1410 649,1410 649,1404 669,1404 669,1410 687,1410 687,1429 460,1428 442,1436 422,1436 422,1428 407,1428 407,1436 367,1436 367,1427 350,1427 350,1436 337,1436 321,1427 173,1427" />
+				<Baseline points="173,1427 687,1429" />
+				<TextEquiv index="1">
+					<Unicode>Hat man jemals hören müssen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="172,1440 211,1440 211,1448 238,1448 257,1439 279,1439 279,1448 311,1448 328,1442 346,1442 346,1449 421,1450 421,1441 441,1441 461,1449 495,1450 495,1443 504,1442 542,1442 561,1450 579,1450 579,1441 674,1441 684,1447 712,1447 714,1441 727,1441 727,1469 651,1470 385,1468 385,1475 363,1475 363,1468 346,1468 346,1476 328,1476 311,1467 172,1466" />
+				<Baseline points="172,1466 727,1470" />
+				<TextEquiv index="1">
+					<Unicode>Von der Jugend solch ein Wort?</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="172,1481 253,1481 253,1501 261,1501 279,1484 343,1484 364,1489 364,1501 374,1501 392,1480 416,1480 416,1489 434,1489 453,1481 461,1481 461,1490 475,1490 475,1481 524,1481 553,1489 585,1489 604,1483 660,1484 660,1490 671,1490 671,1483 691,1483 691,1490 705,1490 705,1483 719,1483 719,1518 671,1518 671,1508 639,1508 639,1518 619,1518 619,1510 392,1508 374,1515 364,1515 364,1507 343,1507 343,1515 306,1515 306,1507 294,1507 294,1515 261,1516 251,1516 251,1507 225,1507 225,1516 188,1516 188,1506 172,1506" />
+				<Baseline points="172,1506 719,1508" />
+				<TextEquiv index="1">
+					<Unicode>Aber, traun, du sollst es büssen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="172,1519 202,1519 202,1528 220,1528 220,1519 307,1519 418,1520 418,1529 432,1529 451,1521 497,1521 515,1530 581,1530 599,1522 627,1522 627,1531 643,1526 645,1522 662,1522 677,1526 677,1549 451,1548 432,1557 400,1557 400,1547 334,1547 334,1557 326,1557 307,1547 172,1547" />
+				<Baseline points="172,1546 677,1549" />
+				<TextEquiv index="1">
+					<Unicode>Und ich bleibe, dir zum Tort.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Du die Thüre? Ohne mich
+Kannst du leben! Narrenpossen!
+Bester Schatz, ich kenne dich!
+Hat man jemals hören müssen
+Von der Jugend solch ein Wort?
+Aber, traun, du sollst es büssen,
+Und ich bleibe, dir zum Tort.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="171,1585 878,1585 878,1941 171,1941" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="172,1587 190,1587 190,1594 207,1594 225,1585 273,1585 314,1586 324,1588 324,1595 340,1595 340,1585 352,1585 371,1587 371,1596 389,1596 393,1587 491,1587 491,1596 507,1596 525,1588 608,1588 619,1593 634,1597 634,1615 561,1616 190,1612 190,1621 172,1621" />
+				<Baseline points="172,1612 634,1616" />
+				<TextEquiv index="1">
+					<Unicode>Ja ich bleibe! Ihre Rechte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l1" points="173,1626 189,1625 209,1625 209,1634 221,1634 221,1625 238,1625 238,1634 250,1630 294,1626 364,1626 425,1626 425,1635 440,1635 459,1626 491,1626 539,1626 596,1626 596,1632 611,1632 611,1626 629,1626 629,1636 639,1636 658,1628 683,1628 709,1628 709,1636 733,1636 733,1649 741,1649 741,1662 732,1662 732,1655 709,1655 709,1662 692,1662 692,1655 639,1655 585,1655 491,1655 459,1655 341,1654 309,1654 294,1654 232,1653 221,1652 221,1661 189,1661 189,1653 173,1653" baseline="173,1652 741,1655" reason: differs: "cht'ste" against "cht’ste" | Wikisource:  | next_nc_e1: Opfert nicht die schlecht'ste Frau, | german_print2_15: Opfert nicht die schlecht'ste Frau, -->
+			<!-- line left out: id="r4l2" points="173,1667 202,1667 202,1675 221,1675 221,1666 292,1666 292,1674 309,1674 327,1666 350,1666 350,1674 367,1674 367,1666 452,1666 472,1683 512,1683 531,1676 592,1676 610,1667 624,1667 758,1668 764,1672 788,1676 788,1702 758,1702 738,1702 738,1694 726,1694 726,1702 706,1702 706,1695 689,1695 689,1702 676,1702 659,1695 592,1696 542,1696 531,1696 512,1688 472,1688 452,1703 367,1703 367,1694 350,1694 350,1703 327,1703 309,1693 202,1694 173,1694" baseline="173,1693 260,1693 788,1695" reason: differs: "Undd" against "Frau" | Wikisource:  | next_nc_e1: Und die meinen, — nun ich dächte, | german_print2_15: Und die meinen, — nun ich dächte, -->
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="172,1705 208,1705 490,1707 490,1715 504,1715 504,1707 541,1707 559,1716 657,1716 657,1727 663,1727 663,1735 582,1735 582,1743 559,1743 541,1734 188,1734 172,1732" />
+				<Baseline points="172,1733 663,1735" />
+				<TextEquiv index="1">
+					<Unicode>Sind bekannt dir sehr genau.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l4" points="171,1746 234,1746 234,1754 334,1754 352,1747 394,1747 419,1751 455,1755 472,1747 524,1747 524,1757 536,1757 536,1768 544,1768 564,1756 648,1756 666,1747 679,1747 757,1747 774,1749 774,1775 757,1775 757,1783 726,1783 726,1775 712,1775 712,1783 666,1783 648,1775 588,1775 564,1774 544,1782 524,1782 510,1782 510,1775 499,1775 499,1782 479,1782 479,1774 283,1774 171,1773" baseline="171,1773 283,1773 774,1775" reason: differs: "ist's,w" against "ist’s, " | Wikisource:  | next_nc_e1: Drum am besten ist's, wenn gütlich | german_print2_15: Drum am besten ist's, wenn gütlich -->
+			<TextLine id="r4l5" custom="readingOrder {index:5;}">
+				<Coords points="172,1786 240,1785 263,1785 263,1794 294,1794 313,1786 389,1786 389,1792 431,1795 451,1787 607,1787 607,1797 622,1797 622,1788 644,1788 644,1796 657,1792 671,1792 682,1796 682,1820 672,1820 671,1814 607,1815 607,1823 567,1823 567,1815 553,1815 553,1823 537,1823 519,1814 172,1813" />
+				<Baseline points="172,1812 682,1815" />
+				<TextEquiv index="1">
+					<Unicode>Du des Streites dich begiebst;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l6" custom="readingOrder {index:6;}">
+				<Coords points="172,1826 205,1826 205,1834 220,1834 220,1826 243,1826 243,1846 251,1846 270,1825 293,1825 293,1835 311,1835 322,1821 342,1821 362,1826 362,1835 375,1831 409,1827 443,1827 443,1821 463,1821 463,1835 643,1836 643,1826 663,1826 663,1836 677,1836 677,1830 695,1826 773,1826 773,1862 724,1862 724,1854 713,1854 713,1862 696,1862 696,1854 663,1855 663,1862 643,1862 643,1855 631,1855 631,1862 516,1862 497,1855 463,1855 463,1866 443,1866 443,1855 362,1854 342,1854 342,1866 322,1866 311,1853 270,1853 251,1860 241,1860 241,1853 172,1853" />
+				<Baseline points="172,1852 773,1855" />
+				<TextEquiv index="1">
+					<Unicode>Sieh, du bist schon ganz gemütlich,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l7" points="172,1866 267,1866 391,1865 444,1865 444,1875 453,1875 473,1883 513,1883 532,1868 552,1868 582,1868 582,1876 593,1876 593,1868 661,1868 661,1876 674,1872 692,1868 700,1868 702,1877 718,1877 718,1893 700,1894 688,1895 661,1896 611,1896 552,1896 532,1896 513,1888 473,1888 453,1895 391,1895 212,1894 172,1894" baseline="172,1893 258,1893 718,1893" reason: differs: "ist's—a" against "ist’s –" | Wikisource:  | next_nc_e1: Und bei dir ist's — allerliebst!« | german_print2_15: Und bei dir ist's — allerliebst!« -->
+			<!-- line left out: id="r4l8" points="660,1919 691,1919 857,1919 857,1926 873,1926 873,1934 878,1934 878,1939 873,1940 756,1941 730,1941 676,1941 660,1941" baseline="660,1941 758,1940 878,1939" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Richard Leander. | german_print2_15: Richard Leander. -->
+			<TextEquiv index="1">
+				<Unicode>Ja ich bleibe! Ihre Rechte
+Sind bekannt dir sehr genau.
+Du des Streites dich begiebst;
+Sieh, du bist schon ganz gemütlich,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Stets war ich für dich zu finden,
+Rasch vergass ich jeden Groll,
+Aber deine letzten Sünden –
+Nein, die waren gar zu toll.
+Immerdar sind wir geschieden,
+Noch einmal sei dir’s gesagt;
+Also geh’ und lass’ in Frieden,
+Den so lange du geplagt.
+Doch sie schmeichelt: »Schick’ mich, Schätzchen,
+Ungehört nicht von dir fort;
+Nur ein Fünfminutenschwätzchen –
+Und ich gehe, auf mein Wort!
+Ruhig bin ich und vernünftig,
+Und mein Unrecht reut mich schwer;
+Glaube mir, ich werde künftig
+Dich erzürnen nimmermehr.«
+Tritt denn ein! rief ich der Liebe,
+Die mich störte, unwirsch zu;
+Aber mach es kurz, Verehrte,
+Und dann lasse mich in Ruh!
+Doch kaum steht sie auf der Schwelle,
+Schliesst die Thür sie hinter sich,
+Spricht: »Für alle weitern Fälle,
+Die den Schlüssel führt, bin ich.
+Was? dich reut’s, dass aufgeschlossen
+Du die Thüre? Ohne mich
+Kannst du leben! Narrenpossen!
+Bester Schatz, ich kenne dich!
+Hat man jemals hören müssen
+Von der Jugend solch ein Wort?
+Aber, traun, du sollst es büssen,
+Und ich bleibe, dir zum Tort.
+Ja ich bleibe! Ihre Rechte
+Opfert nicht die schlecht’ste Frau,
+Und die meinen, – nun ich dächte,
+Sind bekannt dir sehr genau.
+Drum am besten ist’s, wenn gütlich
+Du des Streites dich begiebst;
+Sieh, du bist schon ganz gemütlich,
+Und bei dir ist’s – allerliebst!«
+⟦⟧
+-->
+	</Page>
+</PcGts>

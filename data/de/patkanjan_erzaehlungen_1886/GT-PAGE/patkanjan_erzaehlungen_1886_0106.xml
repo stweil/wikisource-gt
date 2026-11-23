@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:44:39</Created>
+		<LastChange>2026-11-23T18:44:39</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:PatkanjanDreiErzählungen.pdf/106 revision 3378068 of 2018-08-01T06:07:32Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="patkanjan_erzaehlungen_1886_0106.png" imageWidth="1313" imageHeight="2051">
+		<ReadingOrder>
+			<OrderedGroup id="ro16956188426993286463" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="195,0 1020,0 1020,14 195,14" />
+		</SeparatorRegion>
+		<GraphicRegion id="r1">
+			<Coords points="77,0 1313,0 1313,118 77,118" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="624,224 845,224 845,274 624,274" />
+			<!-- line left out: id="r2l0" points="624,256 662,256 712,240 733,240 801,241 801,224 845,224 845,274 801,274 712,270 662,260 624,260" baseline="624,259 801,262 845,263" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 96 —
+ | german_print2_15: — 96 —
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="251,327 1175,327 1175,1423 251,1423" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="273,336 355,336 355,327 392,327 393,337 486,338 486,327 494,327 535,340 578,340 624,333 671,333 693,335 694,344 814,346 814,337 850,336 850,346 928,347 928,336 938,336 977,348 1021,348 1021,338 1063,338 1091,343 1158,343 1175,348 1175,368 1083,368 1063,374 1021,374 1021,368 486,365 486,358 299,355 299,365 273,365" />
+				<Baseline points="273,354 535,359 737,365 1175,371" />
+				<TextEquiv index="1">
+					<Unicode>geschlossen zu haben schienen und unter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="271,378 294,378 295,387 430,389 467,379 494,379 495,391 514,391 514,382 558,382 558,393 597,394 597,384 623,384 624,395 764,398 764,388 828,388 828,399 904,400 904,388 911,388 978,390 978,401 1018,401 1018,395 1038,391 1074,390 1074,401 1089,401 1089,390 1111,390 1111,401 1173,401 1173,431 1150,431 1150,420 1111,420 1111,431 1089,431 1089,421 948,420 911,429 904,429 904,419 824,419 824,429 802,429 802,418 786,418 786,429 745,429 745,417 467,416 430,409 271,407" />
+				<Baseline points="271,406 665,416 1173,422" />
+				<TextEquiv index="1">
+					<Unicode>der von Schrecken ergriffenen Bevölkerung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="268,430 291,429 303,429 303,440 321,440 352,430 371,430 388,435 388,441 424,442 424,432 436,430 458,430 458,437 465,437 465,443 485,443 485,434 526,434 526,444 545,444 545,435 569,435 570,446 588,441 603,441 603,447 646,448 669,439 716,439 716,450 741,450 741,441 765,441 766,451 940,453 974,443 974,454 1014,453 1014,443 1067,443 1126,448 1136,443 1155,443 1155,453 1171,453 1171,473 898,473 898,483 870,483 869,472 716,470 716,483 691,483 691,468 436,468 436,462 268,459" />
+				<Baseline points="268,458 645,469 1171,474" />
+				<TextEquiv index="1">
+					<Unicode>die fürchterlichsten Verheerungen anrichteten.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="268,482 312,482 340,487 355,488 374,493 393,485 407,485 409,494 511,497 511,488 588,489 588,499 607,499 628,490 661,490 661,502 680,502 680,493 694,490 716,490 762,494 780,505 825,504 825,495 850,495 850,505 870,505 870,496 895,496 911,501 911,520 918,520 941,506 1019,506 1037,496 1058,492 1083,492 1083,506 1170,506 1170,525 1134,526 1134,536 1110,536 1110,526 1083,526 1083,543 1058,543 1058,526 941,526 918,532 911,532 911,525 807,524 807,535 780,535 762,523 694,523 511,518 487,516 409,515 407,524 393,524 374,513 268,512" />
+				<Baseline points="268,511 761,523 1170,528" />
+				<TextEquiv index="1">
+					<Unicode>Hätte jemand die Geduld gehabt, vom Morgen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="266,535 317,535 351,546 428,547 460,538 498,538 523,540 523,550 568,550 568,542 592,542 639,543 639,553 672,553 672,543 690,543 765,546 765,556 781,556 816,548 851,547 851,557 870,557 903,547 930,547 930,553 946,553 946,559 966,559 966,549 1048,549 1048,559 1065,559 1065,549 1139,549 1139,558 1171,558 1171,578 966,579 721,576 498,569 266,564" />
+				<Baseline points="266,564 780,575 1171,581" />
+				<TextEquiv index="1">
+					<Unicode>bis zum Abend auf der die Stadt mit der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="265,587 315,587 315,598 369,598 369,588 404,589 404,607 417,607 417,590 436,590 436,601 497,601 497,592 509,592 535,603 596,604 596,595 632,595 632,605 655,605 656,597 679,597 680,607 724,607 724,599 749,599 749,608 791,609 817,600 866,600 890,605 890,611 909,611 909,601 934,601 935,612 1024,612 1054,601 1154,601 1154,610 1170,610 1170,636 1061,636 1054,636 434,620 417,619 417,612 404,612 404,618 265,621" />
+				<Baseline points="265,616 790,628 1170,633" />
+				<TextEquiv index="1">
+					<Unicode>Wassili-Insel verbindenden Brücke zu stehen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="264,639 288,639 288,649 324,649 345,640 370,640 422,646 422,652 442,652 464,643 501,643 501,654 617,656 617,647 639,647 652,648 675,659 720,659 742,651 767,651 767,661 802,662 802,651 825,651 837,653 837,663 856,659 907,654 939,654 948,650 973,650 983,658 1013,658 1013,650 1034,650 1076,654 1076,664 1108,664 1108,658 1129,658 1130,664 1170,663 1170,683 1154,683 1154,694 1130,694 1129,684 1034,684 1034,699 1013,699 1013,684 985,684 985,695 973,699 948,699 948,684 802,683 264,668" />
+				<Baseline points="264,667 537,674 651,679 1170,686" />
+				<TextEquiv index="1">
+					<Unicode>der hätte hier wohl an hundert Begräbniszüge</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="264,701 330,701 357,692 398,692 398,703 463,699 463,705 502,706 502,697 525,697 526,707 546,707 546,697 570,697 571,708 614,709 643,701 679,701 679,711 704,711 730,705 743,705 743,713 827,715 827,706 862,705 863,716 883,716 883,707 907,707 908,716 951,716 968,712 984,712 1025,716 1052,705 1077,705 1077,711 1111,710 1111,716 1132,716 1132,706 1153,706 1153,715 1171,715 1171,735 1077,737 984,737 743,737 730,737 655,732 643,730 398,723 398,729 374,729 374,722 264,720" />
+				<Baseline points="264,720 730,732 1024,736 1171,735" />
+				<TextEquiv index="1">
+					<Unicode>von Verstorbenen der verschiedensten Stände</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l8" custom="readingOrder {index:8;}">
+				<Coords points="266,754 309,754 309,743 328,743 328,754 386,755 387,749 407,747 446,747 466,752 466,743 468,743 519,749 551,749 551,760 634,762 635,753 659,753 659,763 946,769 973,760 986,760 988,769 1008,769 1008,759 1031,759 1031,769 1070,769 1070,759 1153,758 1153,768 1170,768 1170,788 988,789 986,800 973,800 946,789 786,787 786,796 743,796 711,784 466,784 466,777 349,775 349,784 322,784 322,773 266,773" />
+				<Baseline points="266,772 710,784 1121,791 1170,793" />
+				<TextEquiv index="1">
+					<Unicode>aufgezählt. Besonders gross war jedoch die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l9" custom="readingOrder {index:9;}">
+				<Coords points="266,796 291,796 291,806 311,806 311,797 347,797 388,798 388,808 426,809 442,800 516,800 516,811 584,813 609,805 662,805 695,807 695,817 717,817 736,809 771,808 771,819 818,819 818,808 841,808 841,821 863,821 883,811 945,812 945,822 968,817 983,817 1019,821 1036,811 1045,811 1066,816 1100,821 1100,811 1123,811 1123,821 1134,821 1134,811 1154,811 1154,820 1170,820 1170,841 1154,842 1134,842 1066,842 883,842 619,836 584,839 554,839 554,832 516,831 516,839 490,839 490,830 442,830 266,825" />
+				<Baseline points="266,825 862,841 1170,840" />
+				<TextEquiv index="1">
+					<Unicode>Zahl der Armen, die in diesem Winter starben.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l10" custom="readingOrder {index:10;}">
+				<Coords points="350,849 370,849 370,860 387,860 387,851 411,851 452,862 635,862 675,869 844,873 844,863 920,864 932,865 932,875 977,870 1148,874 1148,864 1170,864 1170,893 1053,895 915,895 698,890 675,888 566,887 350,879" />
+				<Baseline points="350,879 772,891 1170,899" />
+				<TextEquiv index="1">
+					<Unicode>Ich war erst vor zwei Monaten nach</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l11" custom="readingOrder {index:11;}">
+				<Coords points="260,899 290,899 290,909 308,904 323,904 323,910 359,911 359,903 387,899 412,899 412,913 544,916 544,907 570,907 571,918 785,924 785,915 857,916 857,925 873,925 873,916 905,916 932,910 969,910 969,927 1046,927 1073,916 1152,917 1152,926 1169,926 1169,946 1137,948 1031,947 1031,957 1007,957 1007,947 840,946 525,936 525,945 440,944 440,932 412,932 412,944 387,944 387,931 260,928" />
+				<Baseline points="260,927 705,942 1169,950" />
+				<TextEquiv index="1">
+					<Unicode>Petersburg gekommen und wie Äsops Grille</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l12" custom="readingOrder {index:12;}">
+				<Coords points="260,951 283,951 284,961 304,961 304,955 319,955 334,956 334,962 353,962 375,953 417,953 429,955 452,966 489,966 489,956 501,956 501,967 520,967 520,958 582,959 598,964 598,971 616,971 633,963 656,963 657,973 699,974 719,965 769,965 780,966 780,977 803,977 803,971 818,971 819,977 856,977 873,968 885,968 885,979 908,979 926,969 953,969 953,979 972,979 972,970 983,970 983,980 1043,980 1059,969 1135,969 1135,979 1170,979 1170,999 1026,1000 952,1000 719,997 576,989 260,980" />
+				<Baseline points="260,980 428,984 855,998 1170,999" />
+				<TextEquiv index="1">
+					<Unicode>hatte ich mich für den Winter in keiner Weise</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l13" custom="readingOrder {index:13;}">
+				<Coords points="257,1013 355,1014 398,1016 398,1010 413,1010 413,1030 420,1030 467,1008 499,1008 573,1012 574,1022 594,1022 594,1012 625,1012 649,1014 664,1019 664,1025 745,1027 746,1017 757,1017 757,1028 776,1028 776,1019 800,1019 843,1031 890,1031 890,1020 910,1020 910,1026 1010,1027 1045,1032 1065,1022 1094,1022 1094,1032 1134,1032 1134,1022 1157,1022 1157,1039 1169,1039 1169,1044 1157,1044 1157,1051 1135,1052 871,1051 871,1061 843,1061 815,1049 561,1045 399,1035 399,1046 371,1046 371,1034 257,1032" />
+				<Baseline points="257,1031 700,1046 1169,1054" />
+				<TextEquiv index="1">
+					<Unicode>versorgt. Ein leichter nicht gefütterter Tuch-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l14" custom="readingOrder {index:14;}">
+				<Coords points="256,1065 280,1065 280,1058 304,1058 304,1065 335,1061 351,1061 351,1067 370,1067 370,1058 383,1058 409,1068 457,1069 458,1061 548,1062 549,1073 567,1073 600,1066 634,1066 649,1071 649,1077 667,1077 694,1068 721,1068 721,1074 737,1074 737,1080 760,1080 760,1071 784,1071 784,1081 804,1081 829,1077 844,1077 844,1083 936,1084 936,1075 967,1074 967,1085 1167,1084 1167,1103 1102,1105 889,1104 600,1097 409,1088 256,1085" />
+				<Baseline points="256,1083 694,1098 1167,1110" />
+				<TextEquiv index="1">
+					<Unicode>mantel und die alte Studentenuniform waren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l15" custom="readingOrder {index:15;}">
+				<Coords points="255,1108 278,1107 290,1107 290,1117 363,1119 363,1109 375,1109 375,1120 416,1120 417,1110 428,1110 428,1122 498,1123 530,1114 557,1114 558,1126 577,1126 577,1117 591,1114 616,1114 616,1123 641,1123 641,1129 658,1129 658,1120 750,1122 750,1133 762,1133 762,1114 773,1114 808,1135 831,1135 831,1126 877,1126 877,1136 1083,1137 1116,1126 1150,1126 1150,1136 1168,1136 1168,1156 1043,1157 1043,1167 1016,1167 1016,1157 998,1157 998,1168 971,1168 940,1157 831,1157 808,1155 591,1153 591,1146 474,1143 455,1141 455,1151 428,1151 428,1140 255,1137" />
+				<Baseline points="255,1136 1168,1163" />
+				<TextEquiv index="1">
+					<Unicode>die einzigen Schutzhüllen meines gegen die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l16" custom="readingOrder {index:16;}">
+				<Coords points="254,1159 301,1159 325,1160 340,1164 340,1171 418,1172 418,1163 443,1163 443,1174 521,1176 521,1167 545,1167 545,1177 562,1177 562,1167 586,1167 586,1179 604,1179 604,1167 624,1167 634,1171 657,1172 657,1182 675,1182 675,1173 700,1173 700,1184 743,1184 762,1175 801,1175 801,1182 812,1182 812,1175 837,1175 837,1187 920,1189 920,1203 927,1203 972,1180 1015,1179 1015,1190 1027,1190 1027,1180 1051,1179 1080,1179 1100,1189 1169,1189 1169,1208 1080,1210 920,1210 863,1208 863,1217 812,1217 812,1206 604,1206 604,1199 563,1198 563,1206 521,1206 521,1196 381,1191 254,1189" />
+				<Baseline points="254,1187 742,1204 1169,1214" />
+				<TextEquiv index="1">
+					<Unicode>Kälte sehr empfindlichen Körpers. Dabei war</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l17" custom="readingOrder {index:17;}">
+				<Coords points="253,1211 284,1211 306,1211 337,1224 424,1225 456,1216 488,1216 488,1228 543,1229 544,1221 610,1222 610,1233 633,1233 664,1226 688,1226 688,1236 725,1236 755,1227 786,1227 786,1239 841,1239 842,1231 866,1231 867,1241 910,1242 938,1232 965,1232 965,1238 980,1238 1001,1243 1001,1233 1025,1233 1040,1237 1043,1256 1050,1256 1081,1232 1104,1232 1104,1242 1167,1241 1167,1261 1081,1262 1050,1268 1043,1268 1040,1262 938,1263 755,1261 707,1256 598,1252 456,1250 406,1245 364,1244 364,1254 337,1254 306,1242 253,1241" />
+				<Baseline points="253,1240 567,1250 632,1254 938,1261 1167,1268" />
+				<TextEquiv index="1">
+					<Unicode>ich ganz fremd in der fremden Stadt, denn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l18" custom="readingOrder {index:18;}">
+				<Coords points="254,1273 421,1277 421,1268 433,1268 433,1278 456,1278 456,1268 468,1268 468,1280 525,1280 525,1268 536,1268 569,1283 775,1289 775,1282 799,1282 799,1291 836,1292 836,1282 866,1282 866,1293 885,1293 885,1284 910,1284 912,1295 954,1295 982,1284 1008,1284 1008,1290 1024,1290 1045,1295 1046,1286 1068,1286 1069,1295 1088,1294 1111,1290 1126,1290 1167,1294 1167,1314 1008,1316 982,1316 775,1315 756,1310 569,1303 536,1309 525,1309 525,1300 495,1300 495,1309 468,1309 468,1298 254,1293" />
+				<Baseline points="254,1292 953,1315 1167,1314" />
+				<TextEquiv index="1">
+					<Unicode>ausser einigen armen armenischen Studenten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l19" custom="readingOrder {index:19;}">
+				<Coords points="251,1315 276,1315 277,1326 319,1326 343,1322 359,1322 359,1328 377,1328 408,1319 420,1319 420,1330 439,1330 439,1321 463,1321 495,1333 518,1333 518,1323 566,1323 566,1335 632,1337 632,1328 654,1328 686,1339 733,1340 733,1332 756,1332 787,1343 865,1345 865,1336 890,1336 907,1340 907,1346 1017,1348 1017,1338 1125,1337 1125,1347 1167,1347 1167,1367 906,1367 686,1359 542,1358 518,1353 251,1345" />
+				<Baseline points="251,1344 495,1352 653,1359 1167,1370" />
+				<TextEquiv index="1">
+					<Unicode>kannte ich niemand und machte auch keine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l20" custom="readingOrder {index:20;}">
+				<Coords points="251,1367 282,1367 282,1378 300,1378 300,1369 315,1369 315,1363 337,1363 337,1380 393,1381 394,1375 409,1375 409,1381 445,1383 445,1373 470,1373 472,1384 492,1384 492,1374 521,1374 521,1386 564,1387 565,1401 572,1401 618,1373 666,1373 666,1381 705,1381 705,1393 791,1394 842,1391 894,1391 894,1398 1018,1400 1018,1390 1060,1390 1081,1400 1143,1400 1143,1391 1166,1391 1166,1420 938,1420 842,1418 732,1413 732,1423 705,1423 705,1411 666,1411 666,1423 644,1423 644,1410 347,1400 337,1415 315,1415 315,1399 282,1399 251,1397" />
+				<Baseline points="251,1397 1166,1425" />
+				<TextEquiv index="1">
+					<Unicode>Bekanntschaften. Übrigens wäre es mir auch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>geschlossen zu haben schienen und unter
+der von Schrecken ergriffenen Bevölkerung
+die fürchterlichsten Verheerungen anrichteten.
+Hätte jemand die Geduld gehabt, vom Morgen
+bis zum Abend auf der die Stadt mit der
+Wassili-Insel verbindenden Brücke zu stehen,
+der hätte hier wohl an hundert Begräbniszüge
+von Verstorbenen der verschiedensten Stände
+aufgezählt. Besonders gross war jedoch die
+Zahl der Armen, die in diesem Winter starben.
+Ich war erst vor zwei Monaten nach
+Petersburg gekommen und wie Äsops Grille
+hatte ich mich für den Winter in keiner Weise
+versorgt. Ein leichter nicht gefütterter Tuch-
+mantel und die alte Studentenuniform waren
+die einzigen Schutzhüllen meines gegen die
+Kälte sehr empfindlichen Körpers. Dabei war
+ich ganz fremd in der fremden Stadt, denn
+ausser einigen armen armenischen Studenten
+kannte ich niemand und machte auch keine
+Bekanntschaften. Übrigens wäre es mir auch</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="224,1421 1165,1421 1165,1478 224,1478" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="224,1445 249,1430 273,1430 273,1421 303,1421 370,1423 370,1434 439,1435 439,1425 459,1425 459,1436 475,1436 475,1427 500,1427 500,1438 545,1438 553,1453 559,1453 559,1423 561,1423 597,1442 653,1443 653,1433 686,1433 760,1436 760,1446 795,1446 853,1449 1048,1452 1048,1443 1061,1443 1061,1453 1158,1453 1158,1466 1165,1466 1165,1478 1158,1478 1158,1472 988,1472 795,1468 760,1466 553,1465 545,1458 500,1458 421,1455 421,1465 393,1465 393,1453 346,1453 346,1465 339,1465 303,1451 249,1450 224,1447" />
+				<Baseline points="224,1448 685,1464 1165,1475" />
+				<TextEquiv index="1">
+					<Unicode>nie eingefallen, mein Zimmer zu verlassen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>nie eingefallen, mein Zimmer zu verlassen,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="244,1477 1164,1477 1164,1788 244,1788" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="250,1483 417,1486 448,1477 483,1477 552,1481 552,1490 613,1493 613,1485 669,1486 670,1496 712,1496 744,1489 751,1489 751,1498 768,1498 768,1489 822,1490 823,1496 870,1492 890,1492 890,1503 922,1498 968,1494 1027,1494 1061,1504 1152,1505 1153,1513 1164,1513 1164,1517 1153,1517 1152,1525 1134,1525 1134,1535 1106,1535 1077,1524 1041,1525 870,1523 529,1516 529,1509 250,1503" />
+				<Baseline points="250,1501 515,1509 711,1517 1164,1528" />
+				<TextEquiv index="1">
+					<Unicode>wenn es in demselben nicht fast kälter ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="247,1534 407,1537 425,1533 464,1533 464,1540 483,1540 516,1533 549,1533 549,1543 566,1543 598,1536 621,1536 621,1546 758,1549 764,1536 766,1536 822,1543 862,1544 862,1554 883,1554 883,1544 919,1544 919,1556 939,1556 967,1546 994,1542 1025,1542 1025,1557 1039,1557 1039,1547 1062,1547 1062,1557 1119,1557 1119,1542 1144,1542 1144,1558 1163,1558 1163,1588 1144,1592 1119,1592 1119,1577 1025,1577 1025,1592 994,1592 994,1576 883,1575 516,1562 390,1556 247,1553" />
+				<Baseline points="247,1552 565,1562 765,1570 1163,1580" />
+				<TextEquiv index="1">
+					<Unicode>wesen wäre als draussen. Meine Wohnung,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l2" custom="readingOrder {index:2;}">
+				<Coords points="246,1576 280,1576 280,1586 522,1592 522,1583 533,1583 533,1594 652,1598 652,1589 674,1589 711,1601 731,1601 731,1591 742,1591 742,1602 846,1605 846,1596 871,1596 871,1606 947,1608 977,1599 1046,1599 1046,1609 1085,1609 1085,1599 1128,1599 1128,1609 1163,1610 1163,1635 1139,1635 1139,1629 1128,1629 1128,1635 1105,1635 1105,1629 1046,1629 1046,1635 1023,1635 1013,1629 891,1627 633,1618 533,1613 246,1605" />
+				<Baseline points="246,1604 586,1615 673,1620 1163,1632" />
+				<TextEquiv index="1">
+					<Unicode>die ausser mir noch ein anderer Armenier,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l3" custom="readingOrder {index:3;}">
+				<Coords points="244,1637 333,1637 383,1639 398,1630 420,1630 420,1641 442,1641 442,1633 465,1633 466,1643 499,1643 499,1630 522,1630 522,1644 625,1649 625,1640 635,1640 636,1650 658,1650 676,1640 703,1640 704,1653 723,1653 723,1644 747,1644 782,1645 782,1655 820,1656 841,1648 865,1648 866,1658 904,1659 922,1650 970,1650 970,1661 1007,1656 1039,1656 1040,1662 1060,1662 1060,1651 1084,1651 1085,1662 1106,1662 1106,1652 1131,1652 1131,1662 1150,1662 1151,1670 1164,1670 1164,1675 1151,1675 1150,1682 947,1682 770,1674 555,1672 555,1665 522,1664 522,1672 499,1672 499,1663 420,1661 420,1668 398,1668 383,1659 310,1659 244,1656" />
+				<Baseline points="244,1655 605,1668 676,1672 1164,1684" />
+				<TextEquiv index="1">
+					<Unicode>namens Johannes, ein Schüler der Kunstakade-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l4" custom="readingOrder {index:4;}">
+				<Coords points="244,1689 264,1689 264,1679 309,1679 314,1704 321,1704 348,1681 360,1681 360,1691 426,1692 454,1684 478,1684 479,1695 501,1690 531,1691 532,1697 552,1697 557,1712 564,1712 592,1700 620,1700 627,1696 665,1696 665,1703 683,1703 711,1696 762,1696 785,1697 785,1707 803,1702 840,1699 860,1699 877,1704 877,1711 938,1712 938,1702 950,1702 950,1712 1078,1713 1078,1704 1102,1704 1139,1714 1162,1715 1162,1734 974,1733 840,1728 711,1727 620,1720 557,1724 552,1717 314,1715 309,1709 286,1709 286,1715 264,1715 264,1708 244,1708" />
+				<Baseline points="244,1706 592,1719 682,1724 1162,1736" />
+				<TextEquiv index="1">
+					<Unicode>mie, inne hatte, wäre selbst für einen echten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l5" custom="readingOrder {index:5;}">
+				<Coords points="245,1730 290,1730 290,1741 315,1741 315,1733 351,1733 372,1737 372,1743 395,1743 396,1735 420,1735 420,1745 456,1746 488,1738 518,1738 518,1749 563,1750 594,1742 620,1742 621,1753 640,1753 640,1744 651,1744 651,1754 746,1756 765,1758 861,1761 861,1752 872,1752 872,1762 896,1762 897,1754 910,1754 910,1764 931,1764 931,1755 955,1755 956,1764 999,1764 999,1755 1022,1755 1023,1765 1042,1765 1074,1756 1122,1756 1122,1766 1151,1766 1151,1775 1163,1775 1163,1780 1151,1780 1151,1786 1074,1786 931,1784 792,1779 792,1788 765,1788 765,1777 267,1765 245,1760" />
+				<Baseline points="245,1758 807,1779 1163,1789" />
+				<TextEquiv index="1">
+					<Unicode>Nordländer eine keineswegs einladende Her-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>wenn es in demselben nicht fast kälter ge-
+wesen wäre als draussen. Meine Wohnung,
+die ausser mir noch ein anderer Armenier,
+namens Johannes, ein Schüler der Kunstakade-
+mie, inne hatte, wäre selbst für einen echten
+Nordländer eine keineswegs einladende Her-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="0,1919 1313,1919 1313,2051 0,2051" />
+		</GraphicRegion>
+		<SeparatorRegion id="r7">
+			<Coords points="2,2030 840,2030 840,2051 2,2051" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r8">
+			<Coords points="1283,379 1300,379 1300,781 1283,781" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r9">
+			<Coords points="1297,1069 1313,1069 1313,1631 1297,1631" />
+		</SeparatorRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {3;}">
+			<Coords points="1306,1715 1313,1715 1313,1864 1306,1864" />
+			<!-- line left out: id="r10l0" points="1306,1715 1313,1715 1313,1864 1306,1864" baseline="1311,1864 1313,1715" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — | german_print2_15:  = -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+geschlossen zu haben schienen und unter der von Schrecken ergriffenen Bevölkerung die fürchterlichsten Verheerungen anrichteten. Hätte jemand die Geduld gehabt, vom Morgen bis zum Abend auf der die Stadt mit der Wassili-Insel verbindenden Brücke zu stehen, der hätte hier wohl an hundert Begräbniszüge von Verstorbenen der verschiedensten Stände aufgezählt. Besonders gross war jedoch die Zahl der Armen, die in diesem Winter starben.
+Ich war erst vor zwei Monaten nach Petersburg gekommen und wie Äsops Grille hatte ich mich für den Winter in keiner Weise versorgt. Ein leichter nicht gefütterter Tuchmantel und die alte Studentenuniform waren die einzigen Schutzhüllen meines gegen die Kälte sehr empfindlichen Körpers. Dabei war ich ganz fremd in der fremden Stadt, denn ausser einigen armen armenischen Studenten kannte ich niemand und machte auch keine Bekanntschaften. Übrigens wäre es mir auch nie eingefallen, mein Zimmer zu verlassen, wenn es in demselben nicht fast kälter gewesen wäre als draussen. Meine Wohnung, die ausser mir noch ein anderer Armenier, namens Johannes, ein Schüler der Kunstakademie, inne hatte, wäre selbst für einen echten Nordländer eine keineswegs einladende Herberge
+-->
+	</Page>
+</PcGts>

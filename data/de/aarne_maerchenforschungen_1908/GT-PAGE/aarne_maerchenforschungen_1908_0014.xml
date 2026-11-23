@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:55:14</Created>
+		<LastChange>2026-11-23T18:55:14</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Aarne_Vergleichende_Märchenforschungen.djvu/14 revision 3210921 of 2018-07-31T07:17:49Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="aarne_maerchenforschungen_1908_0014.png" imageWidth="1200" imageHeight="1649">
+		<ReadingOrder>
+			<OrderedGroup id="ro2383762546699410463" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,1379 365,1379 365,1410 0,1410" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,0 1200,0 1200,179 0,179" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="286,154 325,154 325,171 286,171" />
+			<!-- line left out: id="r2l0" points="286,154 317,154 325,155 325,171 286,171" baseline="286,171 325,171" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: XII
+ | german_print2_15: XII
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="283,205 1005,205 1005,645 283,645" />
+			<!-- line left out: id="r3l0" points="286,207 315,207 342,208 377,208 379,214 390,214 392,208 403,208 407,223 430,209 457,209 468,214 491,215 525,220 539,205 565,205 565,215 580,215 608,211 621,211 671,211 671,217 694,212 712,212 730,213 822,212 840,212 841,218 864,213 883,213 888,214 936,214 943,219 1004,220 1004,232 984,237 970,237 969,231 883,231 864,231 822,230 694,229 549,228 491,227 412,228 407,228 390,226 379,226 318,225 286,224" baseline="286,224 490,226 773,229 864,230 1004,232" reason: second model: differs: "anz—Übe" against "nz – Üb" | Wikisource: Miklosich, Franz – Über die Mundarten und die Wanderungen | next_nc_e1: Miklosich, Franz – Über die Mundarten und die Wanderungen | german_print2_15: Miklosich, Franz — Über die Mundarten und die Wanderungen -->
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="372,238 384,238 396,242 417,238 440,238 464,243 538,239 572,244 606,245 606,254 624,240 651,240 652,255 675,241 742,241 776,247 794,242 912,243 923,248 933,249 941,243 962,243 962,249 999,249 1005,254 1005,256 999,261 977,266 962,266 956,261 715,258 571,261 556,257 464,256 453,261 439,261 439,255 372,254" />
+				<Baseline points="372,254 1005,261" />
+				<TextEquiv index="1">
+					<Unicode>der Zigeuner Europas, IV. Märchen und Lieder der Zigeu-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="372,271 417,267 429,267 440,271 462,267 479,267 504,267 515,272 528,273 528,267 539,267 540,273 564,273 565,282 594,268 625,268 626,274 668,271 718,271 718,286 653,291 637,291 594,286 372,283" />
+				<Baseline points="372,283 718,286" />
+				<TextEquiv index="1">
+					<Unicode>ner der Bukowina. Wien, 1874.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l3" points="285,303 297,303 317,304 382,304 384,310 414,305 435,305 446,310 467,311 502,316 515,307 525,306 530,306 541,311 553,308 562,308 618,312 644,313 644,307 650,307 650,313 661,313 661,307 676,307 676,313 690,313 745,308 755,308 764,310 775,308 796,308 802,313 802,325 796,326 776,326 749,326 631,329 602,329 593,329 530,324 522,323 467,323 401,327 389,327 361,322 296,321 296,314 285,314" baseline="285,321 480,322 802,325" reason: differs: "*Mon" against "Monn" | Wikisource:  | next_nc_e1: *Monnier, Marc — Contes populaires en Italie.
+ | german_print2_15: Monnier, Marc — Contes populaires en Italie.
+ -->
+			<!-- line left out: id="r3l4" points="286,337 331,337 334,343 372,343 379,338 399,338 414,339 429,344 440,350 463,350 476,340 493,340 549,340 561,346 613,341 658,341 658,347 670,342 682,342 726,342 733,347 742,348 756,342 767,342 804,342 843,342 893,344 920,344 920,361 899,361 877,360 843,365 841,365 841,359 828,359 828,365 814,365 814,359 597,363 583,363 517,362 502,362 493,357 429,356 372,360 358,360 308,355 297,354 297,348 286,348" baseline="286,354 561,357 842,359 920,360" reason: differs: "*Mos" against "alie" | Wikisource:  | next_nc_e1: *Moszyúska — Bajki i zagadki ludu ukr. iüsklego. 1885.
+ | german_print2_15: *Moszyäska — Bajki i zagadki ludu ukr- insklego. 1885.
+ -->
+			<!-- line left out: id="r3l5" points="285,371 301,371 313,372 357,372 396,372 408,377 424,373 435,373 477,373 480,379 512,374 555,370 570,370 572,379 583,379 598,375 611,375 647,375 648,381 677,380 689,380 718,376 726,376 726,366 741,366 741,376 794,376 794,390 823,376 840,376 840,382 894,379 913,378 945,378 945,395 925,395 879,399 861,399 840,394 834,393 777,394 766,394 741,403 726,403 726,393 435,395 424,395 386,394 374,394 360,390 319,389 313,381 305,381 301,388 285,388" baseline="285,388 797,393 945,394" reason: second model: differs: "Nàro" against "1885" | Wikisource: Národopisný Sborník Českoslovanský, VI. Prag, 1900. | next_nc_e1: Národopisný Sborník Öeskoslovanský, VI. Prag, 1900.
+ | german_print2_15: Nàrodopisny Sbornik Geskoslovansky, VI. Prag, 1900.
+ -->
+			<!-- line left out: id="r3l6" points="295,405 313,405 326,410 360,411 360,405 374,405 426,406 426,420 444,417 468,417 479,407 497,407 508,412 531,413 531,407 545,407 545,413 599,413 609,408 621,408 622,414 633,414 639,409 649,409 662,415 673,415 673,409 687,409 687,415 703,410 731,410 741,415 750,409 762,409 822,410 832,415 844,415 885,412 895,412 935,412 935,428 908,428 871,433 855,433 855,427 800,427 691,427 599,430 575,430 567,430 489,425 479,425 468,419 444,419 431,428 395,428 374,428 360,428 326,423 314,423 295,422" baseline="295,422 408,423 761,427 787,427 935,428" reason: differs: "i,G,—No" against ", G. – " | Wikisource:  | next_nc_e1: Nerucci, G, — Novelle popolari montalesi. Firenze, 1880.
+ | german_print2_15: Nerucci, G, — Novelle popolari montalesi. Firenze, 1880.
+ -->
+			<!-- line left out: id="r3l7" points="284,438 295,438 321,439 336,444 356,445 369,454 373,439 393,439 419,441 430,440 438,440 438,446 462,441 474,441 497,451 521,451 532,441 565,441 578,447 623,447 633,444 643,444 659,448 659,442 678,442 691,448 703,443 715,443 716,449 780,444 787,444 787,457 818,444 847,444 876,444 885,450 889,445 897,445 908,450 929,450 938,445 955,445 963,447 982,446 994,446 1003,451 1003,463 929,463 908,463 830,462 759,461 725,461 602,460 532,459 521,453 484,458 462,458 369,457 356,462 344,462 338,457 294,456 294,449 284,449" baseline="284,456 355,456 520,458 818,461 1003,463" reason: differs: "*Nin" against "1880" | Wikisource:  | next_nc_e1: *Nino, Antonio de — Usi e costumi abruzzesi. Fiabe descritte da | german_print2_15: Nino, Antonio de — Usi e costumi abruzzesi. Fiabe descritte da -->
+			<!-- line left out: id="r3l8" points="370,468 386,468 388,474 401,470 420,469 439,469 475,470 475,476 486,476 497,470 527,470 527,476 550,476 563,470 574,470 574,485 591,471 622,471 622,485 651,472 683,472 696,477 731,478 731,487 750,475 801,475 801,464 812,464 812,475 850,475 850,491 812,491 812,499 801,499 801,491 785,491 760,490 736,495 731,495 720,490 664,489 622,489 578,493 574,493 574,487 563,487 550,493 519,493 506,493 506,487 440,487 370,486" baseline="370,486 625,488 801,490 850,491" reason: second model: differs: "Anto" against "te d" | Wikisource: Antonio de Nino, I, III. Firenze, 1879–83. | next_nc_e1: Antonio de Nino, I, III. Firenze, 1879 – 83.
+ | german_print2_15: Antonio de Nino, I, III. Firenze, 1879 — 83.
+ -->
+			<TextLine id="r3l9" custom="readingOrder {index:9;}">
+				<Coords points="283,501 301,501 325,501 339,506 357,502 369,502 370,515 399,512 403,502 430,502 430,508 441,508 442,502 455,502 456,508 492,508 520,504 580,504 581,510 622,510 622,504 684,505 697,507 745,506 745,512 783,506 848,507 849,513 897,513 898,522 918,508 984,508 984,514 998,514 1003,519 1003,521 998,521 998,531 861,530 849,525 819,524 819,530 783,530 783,524 745,523 745,534 731,534 731,523 674,527 520,526 502,520 482,520 482,526 467,526 467,520 430,520 430,526 415,526 412,506 403,506 403,519 303,523 283,518" />
+				<Baseline points="283,518 1003,526" />
+				<TextEquiv index="1">
+					<Unicode>Nyland. Samlingar utgifna af Nyländska Afdelningen, II. Ny-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l10" points="370,531 377,531 389,532 413,532 437,532 461,531 481,531 493,532 521,537 553,537 585,538 592,533 607,533 614,538 650,539 650,533 660,533 762,535 780,540 820,536 839,536 872,536 873,542 898,542 901,536 914,536 923,542 937,542 937,551 952,539 974,539 1002,539 1002,555 941,559 914,559 885,559 884,553 801,558 783,558 780,552 763,552 757,558 742,558 742,552 560,555 533,555 521,555 521,549 481,549 467,549 467,555 461,555 448,548 370,548" baseline="370,548 447,548 800,552 952,554 1002,555" reason: differs: "afGAber" against "f G. A." | Wikisource:  | next_nc_e1: ländska folksagor, ordn. af G Aberg. Helsingfors, 1887.
+ | german_print2_15: ländska folksagor, ordn. af G. Aberg. Helsingfors, 1887.
+ -->
+			<!-- line left out: id="r3l11" points="284,563 300,563 303,569 329,565 338,565 351,569 363,570 364,564 371,564 400,569 400,579 423,564 440,564 441,570 493,570 504,571 540,576 555,566 569,566 597,566 615,566 658,567 705,567 730,573 741,568 754,568 765,573 797,569 811,569 853,569 863,572 876,570 890,570 920,570 921,576 974,571 991,571 1003,576 1003,593 991,593 932,588 876,587 811,586 730,585 643,584 562,583 555,583 540,577 504,582 400,586 386,586 303,581 284,580" baseline="284,580 423,581 539,582 635,583 793,585 1003,588" reason: differs: "Oest" against "1887" | Wikisource:  | next_nc_e1: Oesterley, Herman –— Baitál Pachísi oder die fünfundzwanzig | german_print2_15: Oesterley, Herman — Baitâl Pachisi oder die fünfundzwanzig -->
+			<TextLine id="r3l12" custom="readingOrder {index:12;}">
+				<Coords points="372,592 421,592 446,593 446,599 533,594 611,595 665,600 666,610 703,596 763,597 773,601 785,598 828,597 839,602 872,598 888,598 922,604 922,598 934,598 962,600 973,604 981,594 994,594 994,605 1002,605 1002,622 994,627 981,627 981,617 753,614 463,616 463,610 421,610 421,616 382,616 382,609 372,609" />
+				<Baseline points="372,609 1002,617" />
+				<TextEquiv index="1">
+					<Unicode>Erzählungen eines Dämon. In deutscher Bearbeitung.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l13" custom="readingOrder {index:13;}">
+				<Coords points="369,622 403,622 427,627 467,624 512,624 513,637 516,637 516,640 473,640 451,645 443,645 402,644 391,639 391,645 378,645 378,639 369,639" />
+				<Baseline points="369,639 516,640" />
+				<TextEquiv index="1">
+					<Unicode>Leipzig, 1873.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>der Zigeuner Europas, IV. Märchen und Lieder der Zigeu-
+ner der Bukowina. Wien, 1874.
+Nyland. Samlingar utgifna af Nyländska Afdelningen, II. Ny-
+Erzählungen eines Dämon. In deutscher Bearbeitung.
+Leipzig, 1873.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="284,654 903,654 903,681 284,681" />
+			<!-- line left out: id="r4l0" points="284,654 300,654 303,660 328,656 337,656 350,660 365,656 371,656 400,661 400,670 417,656 437,656 437,662 498,662 511,668 533,668 547,658 554,657 563,657 565,663 586,659 594,659 618,658 634,658 635,664 699,664 722,664 769,660 786,660 828,660 828,666 852,663 863,662 895,662 903,663 903,679 838,681 818,681 775,681 769,681 699,677 688,677 563,676 554,676 547,675 533,669 498,674 404,678 387,678 350,673 339,673 303,672 284,671" baseline="284,671 605,675 903,678" reason: differs: "man—Ges" against "an – Ge" | Wikisource:  | next_nc_e1: Oesterley, Herman — Gesta Romanorum. Berlin, 1872.
+ | german_print2_15: Oesterley, Herman — Gesta Romanorum. Berlin, 1872.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="755,347 760,347 760,359 755,359" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="284,385 294,385 294,420 284,420" />
+		</GraphicRegion>
+		<GraphicRegion id="r7">
+			<Coords points="399,503 422,503 422,520 399,520" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="678,537 918,537 918,584 678,584" />
+		</GraphicRegion>
+		<GraphicRegion id="r9">
+			<Coords points="380,592 415,592 415,610 380,610" />
+		</GraphicRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="282,689 1001,689 1001,896 282,896" />
+			<!-- line left out: id="r10l0" points="283,689 299,689 324,690 384,695 422,696 441,690 457,690 459,705 481,691 497,691 497,706 517,702 539,702 556,693 580,693 620,698 620,707 655,693 673,693 673,699 726,699 751,699 758,693 772,693 777,700 803,695 818,695 849,701 895,701 908,702 908,696 915,696 915,702 979,697 1001,697 1001,714 958,718 943,718 937,714 908,719 895,719 895,713 772,717 726,717 713,717 713,711 664,711 664,717 655,717 624,710 593,710 593,716 581,716 580,710 565,710 502,709 422,713 412,713 400,708 302,707 283,706" baseline="283,706 556,709 623,710 957,714 1001,714" reason: differs: "Ostr" against "1872" | Wikisource:  | next_nc_e1: Ostroumow, N. P. — CaprpI. OrHorpaωnuecxic Marepiarm, II. | german_print2_15: Ostroumow, N. P. — Caprpl. DrHorpaonweckic MarepiaI, II. -->
+			<!-- line left out: id="r10l1" points="369,719 384,719 384,725 442,725 468,726 468,732 477,732 491,722 501,722 538,722 540,736 542,736 542,738 477,742 466,742 369,737" baseline="369,737 491,737 542,738" reason: differs: "Tauk" against "ентъ" | Wikisource:  | next_nc_e1: Taukemrττ, 1893.
+ | german_print2_15: Tankenre, 1893.
+ -->
+			<!-- line left out: id="r10l2" points="283,748 299,748 323,749 349,753 384,749 399,749 399,763 416,760 439,760 452,750 460,750 481,751 492,750 506,750 517,755 555,755 579,756 588,757 606,751 628,751 643,756 667,752 677,752 768,754 814,753 838,753 863,753 863,759 880,754 893,754 919,759 953,756 961,755 973,755 981,756 1001,757 1001,772 978,772 953,771 940,777 923,777 919,771 838,775 820,775 715,774 702,774 651,769 627,769 568,768 544,768 452,767 439,761 403,766 371,768 359,770 352,770 302,765 283,764" baseline="283,764 384,765 748,769 953,771 1001,772" reason: differs: "Ostr" against "893." | Wikisource:  | next_nc_e1: Ostrup, J. — Studier over Tusend og en nat. Kjöbenhavn, 1891.
+ | german_print2_15: Ostrup, J. — Studier over Tusend og en nat. Kjöbenhavn, 1891.
+ -->
+			<!-- line left out: id="r10l3" points="282,782 298,782 325,782 377,787 390,793 412,793 426,783 437,783 441,784 473,784 484,788 559,784 583,784 607,785 648,785 669,790 669,799 693,787 702,787 746,786 752,786 778,787 815,786 833,786 833,792 880,789 889,787 894,787 925,793 942,788 952,788 953,794 966,794 966,788 973,788 973,794 998,789 1001,789 1001,806 985,806 967,811 953,811 952,805 895,805 821,804 778,803 673,807 669,807 636,802 607,801 530,801 496,800 496,806 484,806 484,800 437,800 426,800 412,794 377,799 329,799 282,798" baseline="282,798 426,799 794,803 815,803 880,804 1001,806" reason: differs: "Pedr" against "1891" | Wikisource:  | next_nc_e1: Pedroso — Portuguese Folk-Tales, translated from the original | german_print2_15: Pedroso — Portuguese Folk-Tales, translated from the original -->
+			<TextLine id="r10l4" custom="readingOrder {index:4;}">
+				<Coords points="368,811 422,811 422,817 434,817 447,811 458,811 483,811 483,817 505,812 564,812 564,818 637,813 668,813 690,815 706,813 708,819 728,819 731,813 781,815 839,820 840,829 867,817 906,816 915,818 915,833 844,834 840,834 613,830 576,834 563,834 513,829 421,833 368,827" />
+				<Baseline points="368,827 915,833" />
+				<TextEquiv index="1">
+					<Unicode>Ms by Miss Henriqueta Monteiro. London, 1882.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r10l5" points="284,844 298,844 322,845 335,849 348,850 350,858 373,844 392,844 413,846 435,850 448,856 471,856 484,845 501,845 502,851 513,851 513,845 520,845 532,846 564,846 582,847 593,852 594,846 607,846 608,852 619,847 630,847 669,852 686,852 701,853 714,843 730,843 731,854 741,849 750,849 761,853 791,854 791,848 808,848 815,854 822,849 827,849 828,855 848,850 855,850 881,850 897,850 910,850 911,856 922,851 939,851 949,856 966,857 979,851 1000,851 1000,869 985,869 966,873 955,873 897,868 886,868 868,867 828,867 771,866 722,865 669,865 608,864 502,863 495,862 435,862 354,866 350,866 298,861 284,861" baseline="284,860 484,862 669,864 965,868 979,868 1000,869" reason: differs: "ton—Vol" against "on – Vo" | Wikisource:  | next_nc_e1: Peter, Anton — Volksthümliches aus Österreic hisch-Schlesien, II. | german_print2_15: Peter, Anton — Volksthümliches aus Osterreicl! hisch-Schlesien, II. -->
+			<TextLine id="r10l6" custom="readingOrder {index:6;}">
+				<Coords points="368,873 384,873 384,879 476,876 524,877 524,892 497,892 459,896 425,896 417,896 404,895 390,891 368,890" />
+				<Baseline points="368,890 524,892" />
+				<TextEquiv index="1">
+					<Unicode>Troppau, 1867.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Ms by Miss Henriqueta Monteiro. London, 1882.
+Troppau, 1867.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r11">
+			<Coords points="805,507 815,507 815,866 805,866" />
+		</SeparatorRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="279,906 1002,906 1002,1396 279,1396" />
+			<!-- line left out: id="r12l0" points="281,906 298,906 300,912 314,908 322,908 405,912 431,908 449,908 449,921 460,919 472,919 480,908 503,908 518,908 553,908 571,909 572,915 620,915 672,916 678,910 686,910 699,911 699,917 714,912 724,912 776,912 787,917 791,913 811,913 836,913 870,918 929,914 949,914 982,914 993,919 1002,920 1002,931 929,936 916,936 916,930 901,931 896,936 882,936 871,931 860,930 860,936 846,936 832,920 832,930 787,930 776,930 763,930 714,929 699,929 672,928 610,932 596,932 564,927 553,932 540,932 540,926 480,926 472,920 453,924 449,925 418,929 405,929 311,924 300,924 281,923" baseline="281,923 480,925 630,927 1002,932" reason: second model: differs: ",A.—Mit" against "A. – Mi" | Wikisource: Petermann, A. – Mittheilungen aus Justus Perthes’ geographischer | next_nc_e1: Petermann, A. – Mittheilungen aus Justus Perthes’ geographischer | german_print2_15: Petermann, A. — Mittheilungen aus Justus Perthes' geographischer -->
+			<TextLine id="r12l1" custom="readingOrder {index:1;}">
+				<Coords points="366,936 389,936 389,942 407,938 474,937 474,943 528,938 574,938 574,945 617,944 657,940 691,939 705,939 705,946 736,941 747,941 779,946 779,939 793,939 793,946 840,947 840,941 867,943 919,943 930,948 1001,944 1001,960 828,959 793,963 766,963 574,961 574,955 528,956 366,953" />
+				<Baseline points="366,953 1001,960" />
+				<TextEquiv index="1">
+					<Unicode>Anstalt über wichtige neue Erforschungen auf dem Gesammt-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r12l2" custom="readingOrder {index:2;}">
+				<Coords points="367,970 390,965 410,965 430,967 515,966 515,972 537,971 584,973 584,967 604,967 615,972 615,982 644,968 694,968 776,971 776,986 584,989 550,989 537,989 497,984 403,983 381,987 367,987" />
+				<Baseline points="367,982 776,986" />
+				<TextEquiv index="1">
+					<Unicode>gebiete der Geographie. Gotha, 1856.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r12l3" points="290,997 305,997 317,999 330,1004 332,998 343,998 345,1012 363,998 388,998 400,1003 427,1003 457,1004 474,1010 494,1010 515,999 535,999 536,1005 547,1000 560,1000 610,1000 618,1006 630,1001 655,1001 683,1007 711,1002 728,1002 773,1007 786,1008 787,1002 800,1002 819,1008 857,1008 869,1009 869,1003 883,1003 927,1004 940,1004 971,1005 972,1011 988,1006 1001,1006 1001,1023 965,1023 927,1023 857,1025 827,1025 819,1025 787,1020 683,1019 596,1018 515,1017 494,1011 474,1011 446,1021 427,1021 410,1021 380,1016 349,1021 345,1021 343,1015 290,1015" baseline="290,1015 363,1015 474,1016 683,1018 819,1020 1001,1023" reason: differs: "itrè" against "Pitr" | Wikisource:  | next_nc_e1: itrè, Giuseppe — Fiabe Novelle e Racconti popolari siciliani | german_print2_15: Pitrè, Giuseppe — Fiabe Novelle e Racconti popolari Siciliani -->
+			<!-- line left out: id="r12l4" points="367,1033 374,1032 396,1028 407,1028 429,1028 443,1028 523,1028 524,1034 546,1030 555,1030 576,1029 587,1028 589,1028 620,1030 673,1030 706,1035 732,1036 742,1037 757,1031 789,1031 810,1032 810,1047 827,1032 858,1032 882,1033 882,1048 910,1034 944,1034 945,1040 956,1040 1000,1040 1000,1053 985,1053 919,1052 858,1051 841,1051 810,1050 768,1049 732,1053 706,1053 655,1048 565,1047 507,1047 504,1047 462,1046 373,1045 367,1045" baseline="367,1044 462,1045 741,1048 910,1051 1000,1053" reason: second model: differs: "racc" against "lian" | Wikisource: raccolti ed illustrati da Giuseppe Pitrè, I–II. Palermo, | next_nc_e1: raccolti ed illustrati da Giuseppe Pitrè, I–II. Palermo, | german_print2_15: raccolti ed illustrati da Giuseppe Pitrè, L— II. Palermo, -->
+			<!-- line left out: id="r12l5" points="368,1059 413,1059 426,1065 450,1065 463,1058 524,1058 533,1059 596,1059 616,1059 649,1059 649,1065 677,1060 706,1060 719,1065 725,1060 737,1060 742,1066 791,1061 798,1061 802,1061 820,1067 843,1062 881,1062 881,1068 916,1068 916,1077 931,1063 955,1063 955,1074 968,1074 979,1064 999,1064 999,1081 979,1081 968,1075 955,1080 931,1080 920,1086 916,1086 905,1081 868,1080 859,1086 847,1086 842,1080 802,1084 800,1084 798,1079 774,1084 761,1084 755,1083 742,1083 683,1078 601,1077 595,1077 468,1076 463,1076 402,1075 391,1075 368,1074" baseline="368,1074 449,1074 742,1078 931,1080 999,1081" reason: second model: differs: "1875" against "ermo" | Wikisource: 1875 = Biblioteca delle Tradizioni popolari siciliane, IV–V. | next_nc_e1: 1875 = Biblioteca delle Tradizioni popolari siciliane, IV– V.
+ | german_print2_15: 1875 =– Biblioteca delle Tradizioni popolari siciliane, IV— V.
+ -->
+			<!-- line left out: id="r12l6" points="299,1096 337,1092 348,1090 355,1090 358,1096 383,1096 387,1106 404,1091 419,1091 419,1106 436,1092 451,1092 452,1106 470,1103 489,1103 507,1093 512,1093 565,1093 578,1094 589,1098 595,1093 609,1093 636,1094 698,1094 709,1096 724,1095 737,1095 759,1100 761,1109 783,1095 794,1095 801,1096 834,1096 861,1096 891,1101 904,1097 941,1097 954,1102 960,1097 971,1097 971,1103 982,1098 990,1098 1000,1103 1000,1115 954,1119 942,1119 855,1114 765,1118 761,1118 759,1112 553,1115 526,1115 507,1110 456,1109 419,1109 404,1108 391,1114 387,1114 358,1109 312,1108 299,1107" baseline="299,1107 390,1108 764,1112 860,1113 1000,1115" reason: differs: "oest" against "Poes" | Wikisource:  | next_nc_e1: oestion, J. C. — Lappländische Märchen, Räthsel und Sprich- | german_print2_15: oestion, J. C. — Lappländische Märchen, Räthsel und Sprich- -->
+			<TextLine id="r12l7" custom="readingOrder {index:7;}">
+				<Coords points="367,1126 379,1122 415,1122 425,1126 437,1122 465,1121 477,1121 497,1121 497,1127 539,1124 586,1124 586,1136 590,1136 590,1139 524,1144 512,1144 490,1139 367,1138" />
+				<Baseline points="367,1138 590,1139" />
+				<TextEquiv index="1">
+					<Unicode>wörter. Wien, 1886.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r12l8" points="279,1152 291,1152 306,1153 357,1154 370,1159 370,1168 387,1154 411,1154 424,1165 447,1165 459,1155 484,1155 485,1161 502,1156 520,1156 627,1156 647,1157 688,1158 697,1157 714,1157 721,1162 775,1158 781,1158 789,1157 806,1157 807,1163 829,1158 836,1158 851,1163 851,1172 869,1160 920,1160 920,1176 855,1180 837,1180 820,1179 807,1179 789,1175 627,1174 608,1174 528,1173 490,1173 411,1172 374,1176 369,1176 315,1171 291,1170 291,1164 279,1164" baseline="279,1170 387,1171 920,1175" reason: differs: "*Prö" against "Pröh" | Wikisource:  | next_nc_e1: *Pröhle, H. — Kinder- und Volksmärchen. Leipzig, 1853.
+ | german_print2_15: *Pröhle, H. — Kinder- und Volksmärchen. Leipzig, 1853.
+ -->
+			<!-- line left out: id="r12l9" points="280,1186 296,1186 345,1187 359,1192 362,1202 378,1188 414,1188 415,1194 428,1194 437,1189 462,1189 468,1194 480,1200 503,1200 515,1189 534,1189 548,1191 557,1189 575,1189 575,1195 603,1195 616,1189 632,1189 679,1190 715,1190 716,1196 764,1191 775,1191 777,1205 806,1191 825,1191 860,1191 884,1193 917,1193 925,1194 925,1210 903,1210 860,1209 814,1209 806,1209 775,1208 752,1208 741,1207 741,1213 727,1213 716,1208 575,1207 535,1207 468,1206 366,1210 362,1210 348,1205 304,1204 298,1203 280,1202" baseline="280,1203 365,1204 806,1208 925,1209" reason: differs: "Pröh" against "1853" | Wikisource:  | next_nc_e1: Pröhle, Heinrich — Märchen für die Jugend. Halle 1854.
+ | german_print2_15: Pröhle, Heinrich — Märchen für die Jugend. Halle 1854.
+ -->
+			<!-- line left out: id="r12l10" points="285,1219 296,1219 298,1225 325,1220 339,1220 341,1226 358,1226 361,1235 387,1221 397,1221 409,1222 427,1227 449,1227 506,1223 520,1223 556,1223 565,1229 577,1229 591,1223 628,1223 639,1228 648,1224 657,1224 669,1234 692,1234 704,1224 722,1224 774,1224 812,1229 834,1230 873,1226 919,1226 920,1232 931,1227 944,1227 944,1233 964,1233 977,1227 990,1227 990,1233 1000,1233 1000,1245 954,1245 812,1247 799,1247 786,1242 657,1241 639,1241 616,1241 591,1240 577,1246 565,1246 564,1240 548,1241 427,1244 407,1244 323,1242 310,1242 309,1236 298,1236 296,1228 285,1228" baseline="285,1238 364,1238 484,1239 833,1242 896,1243 1000,1245" reason: differs: "Pryh" against "1854" | Wikisource:  | next_nc_e1: Pryhm, Eugen u. Socin, Albert — Erzählungen und Lieder im | german_print2_15: Pryhm, Engen u. Socin, Albert — Erzählungen und Lieder im -->
+			<!-- line left out: id="r12l11" points="365,1250 389,1250 407,1251 432,1251 445,1253 469,1252 481,1252 535,1252 548,1253 557,1258 575,1252 631,1252 631,1258 642,1258 643,1267 672,1253 678,1253 699,1254 707,1253 734,1253 743,1254 754,1258 773,1253 785,1253 786,1259 833,1259 833,1269 858,1256 868,1256 904,1257 917,1263 941,1263 954,1256 973,1256 973,1262 1000,1262 1000,1269 992,1274 954,1274 904,1273 837,1277 819,1277 819,1271 715,1271 699,1270 686,1271 678,1271 678,1277 672,1277 647,1270 580,1270 575,1260 557,1270 481,1270 445,1269 431,1269 401,1268 365,1267" baseline="365,1267 449,1268 672,1270 858,1272 940,1273 1000,1274" reason: differs: "Dial" against "er i" | Wikisource:  | next_nc_e1: Dialekte des Tür 'Abdin. St.-Pétersbourg, 1887 = Kur- | german_print2_15: Dialekte des Tür Abdin. St.-Pétersbourg, 1887 = Kur- -->
+			<TextLine id="r12l12" custom="readingOrder {index:12;}">
+				<Coords points="365,1279 378,1278 385,1278 411,1279 411,1285 440,1280 453,1280 465,1285 507,1281 508,1287 601,1282 601,1299 573,1304 546,1304 532,1304 520,1299 365,1295" />
+				<Baseline points="365,1295 601,1299" />
+				<TextEquiv index="1">
+					<Unicode>dische Sammlungen, I.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r12l13" points="285,1310 296,1310 298,1316 325,1311 339,1311 346,1316 378,1312 396,1312 396,1318 443,1318 463,1319 486,1316 499,1316 527,1315 535,1315 536,1321 556,1321 569,1315 587,1315 606,1316 618,1321 627,1317 636,1317 648,1327 670,1327 683,1317 697,1317 727,1317 759,1317 795,1317 795,1323 882,1319 905,1318 927,1318 946,1320 959,1319 983,1319 983,1325 999,1325 999,1336 946,1336 869,1336 821,1340 807,1340 710,1339 696,1339 683,1334 670,1328 636,1333 556,1334 420,1335 408,1335 365,1333 323,1333 310,1333 298,1328 296,1319 285,1319" baseline="285,1327 442,1330 768,1334 893,1335 999,1336" reason: differs: "ert—Syr" against "rt – Sy" | Wikisource:  | next_nc_e1: Pryhm, Eugen u. Socin, Albert — Syrische Sagen und Märchen.
+ | german_print2_15: Pryhm, Eugen u. Socin, Albert — Syrische Sagen und Märchen.
+ -->
+			<!-- line left out: id="r12l14" points="365,1340 389,1340 424,1341 424,1347 455,1347 466,1348 467,1357 492,1345 527,1345 537,1346 550,1352 574,1352 586,1345 604,1345 638,1350 661,1350 726,1346 740,1346 763,1346 763,1352 783,1347 796,1347 805,1352 824,1346 861,1346 868,1347 892,1347 931,1348 988,1348 988,1354 999,1354 999,1366 979,1366 833,1365 824,1365 703,1364 638,1363 586,1362 537,1361 471,1365 467,1365 445,1364 430,1364 411,1359 389,1358 389,1365 374,1365 374,1358 365,1358" baseline="365,1358 573,1361 962,1365 999,1366" reason: second model: differs: "Gött" against "chen" | Wikisource: Göttingen, 1881 = Der neu-aramaeische Dialekt des Tûr | next_nc_e1: Göttingen, 1881 = Der neu-aramaeische Dialekt des Tür
+ | german_print2_15: Göttingen, 1881 =– Der neu-aramaeische Dialekt des Tür
+ -->
+			<TextLine id="r12l15" custom="readingOrder {index:15;}">
+				<Coords points="365,1369 420,1370 420,1376 432,1376 432,1385 449,1371 471,1371 471,1385 499,1368 523,1368 535,1372 535,1378 580,1375 631,1379 631,1396 615,1396 571,1391 533,1390 523,1396 509,1396 509,1389 432,1393 432,1387 408,1387 408,1393 394,1393 394,1387 365,1386" />
+				<Baseline points="365,1386 499,1388 631,1392" />
+				<TextEquiv index="1">
+					<Unicode>Abdîn, II. Übersetzung.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Anstalt über wichtige neue Erforschungen auf dem Gesammt-
+gebiete der Geographie. Gotha, 1856.
+wörter. Wien, 1886.
+dische Sammlungen, I.
+Abdîn, II. Übersetzung.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r13">
+			<Coords points="798,1065 818,1065 818,1079 798,1079" />
+		</GraphicRegion>
+		<SeparatorRegion id="r14">
+			<Coords points="282,997 287,997 287,1327 282,1327" />
+		</SeparatorRegion>
+		<GraphicRegion id="r15">
+			<Coords points="325,146 1200,146 1200,179 325,179" />
+		</GraphicRegion>
+		<GraphicRegion id="r16">
+			<Coords points="0,1379 1200,1379 1200,1649 0,1649" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Miklosich, Franz – Über die Mundarten und die Wanderungen der Zigeuner Europas, IV. Märchen und Lieder der Zigeuner der Bukowina. Wien, 1874.
+Monnier, Marc – Contes populaires en Italie.
+Moszyńska – Bajki i zagadki ludu ukraińsklego. 1885.
+Národopisný Sborník Českoslovanský, VI. Prag, 1900.
+Nerucci, G. – Novelle popolari montalesi. Firenze, 1880.
+Nino, Antonio de – Usi e costumi abruzzesi. Fiabe descritte da Antonio de Nino, I, III. Firenze, 1879–83.
+Nyland. Samlingar utgifna af Nyländska Afdelningen, II. Nyländska folksagor, ordn. af G. A. Åberg. Helsingfors, 1887.
+Oesterley, Herman – Baitál Pachísí oder die fünfundzwanzig Erzählungen eines Dämon. In deutscher Bearbeitung. Leipzig, 1873.
+Oesterley, Herman – Gesta Romanorum. Berlin, 1872.
+Ostroumow, N. P. – Сарты. Этнографическіе матеріалы, II. Ташкентъ, 1893.
+Østrup, J. – Studier over Tusend og en nat. Kjöbenhavn, 1891.
+Pedroso – Portuguese Folk-Tales, translated from the original Ms by Miss Henriqueta Monteiro. London, 1882.
+Peter, Anton – Volksthümliches aus Österreichisch-Schlesien, II. Troppau, 1867.
+Petermann, A. – Mittheilungen aus Justus Perthes’ geographischer Anstalt über wichtige neue Erforschungen auf dem Gesammtgebiete der Geographie. Gotha, 1856.
+Pitrè, Giuseppe – Fiabe Novelle e Racconti popolari siciliani raccolti ed illustrati da Giuseppe Pitrè, I–II. Palermo, 1875 = Biblioteca delle Tradizioni popolari siciliane, IV–V.
+Poestion, J. C. – Lappländische Märchen, Räthsel und Sprichwörter. Wien, 1886.
+Pröhle, H. – Kinder- und Volksmärchen. Leipzig, 1853.
+Pröhle, Heinrich – Märchen für die Jugend. Halle 1854.
+Pryhm, Eugen u. Socin, Albert – Erzählungen und Lieder im Dialekte des Tûr ’Abdîn. St.-Pétersbourg, 1887 = Kurdische Sammlungen, I.
+Pryhm, Eugen u. Socin, Albert – Syrische Sagen und Märchen. Göttingen, 1881 = Der neu-aramaeische Dialekt des Tûr ’Abdîn, II. Übersetzung.
+-->
+	</Page>
+</PcGts>

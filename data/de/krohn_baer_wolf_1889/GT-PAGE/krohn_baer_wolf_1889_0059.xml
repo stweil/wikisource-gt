@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:38:55</Created>
+		<LastChange>2026-11-23T18:38:55</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Krohn_Bär_(Wolf)_und_Fuchs.djvu/59 revision 3342396 of 2018-08-01T02:05:55Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="krohn_baer_wolf_1889_0059.png" imageWidth="1190" imageHeight="1926">
+		<ReadingOrder>
+			<OrderedGroup id="ro14108152916956704552" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="476,140 616,140 616,179 476,179" />
+			<!-- line left out: id="r0l0" points="476,164 498,164 530,152 591,152 591,140 616,140 616,179 591,179 530,174 498,167 476,167" baseline="476,167 616,167" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 57 —
+ | german_print2_15: — 57 —
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="111,213 991,213 991,1425 111,1425" />
+			<!-- line left out: id="r1l0" points="111,224 156,224 169,218 179,218 179,224 191,219 216,218 232,218 232,224 248,224 248,218 264,218 264,224 278,224 292,218 354,218 367,223 382,224 396,218 438,218 438,224 461,219 505,218 540,218 540,224 551,224 566,218 594,218 595,235 601,235 616,218 639,218 639,235 645,235 661,218 738,213 751,213 891,217 891,223 904,223 921,217 975,217 975,239 841,243 751,243 751,250 738,250 738,243 703,243 616,240 601,246 595,246 594,240 540,243 505,243 179,241 144,241 111,241" baseline="111,240 840,239 975,239" reason: differs: "ausi" against "ist " | Wikisource:  | next_nc_e1: aus ist dann in den Renart (Br. 21, V. 11959 — 12508) das Lied | german_print2_15: aus ist dann in den Renart (Br. 21, V. 11959 — 12508) das Lied -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="111,265 158,265 172,259 188,259 188,265 219,265 234,258 258,258 258,264 280,264 280,254 299,254 316,258 316,264 342,259 452,259 464,264 486,265 501,259 530,259 530,265 541,265 554,258 616,259 643,264 643,258 695,258 695,264 722,264 731,258 815,258 815,264 828,264 842,258 938,258 953,259 966,264 976,265 976,281 916,286 900,286 887,280 680,280 645,286 628,286 628,280 501,281 486,287 463,287 463,281 452,281 452,287 433,287 433,281 419,281 419,287 403,287 403,281 359,287 342,287 328,281 299,281 299,291 280,291 280,281 111,281" />
+				<Baseline points="111,281 976,280" />
+				<TextEquiv index="1">
+					<Unicode>von dem Fuchse gekommen, der im Topfe des Färbers mit gelber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="112,299 141,299 168,299 210,299 235,299 235,305 256,305 256,299 278,299 302,299 313,300 327,305 327,299 344,299 344,305 357,305 357,299 439,299 439,305 450,305 450,299 505,299 505,305 520,305 529,299 559,299 573,300 587,305 587,299 640,299 640,305 651,305 651,299 679,299 833,299 846,305 866,305 866,299 895,299 895,305 907,305 907,299 971,299 971,311 976,311 976,315 971,315 971,321 797,321 782,328 733,328 718,328 707,321 679,321 679,327 615,327 602,321 326,321 302,327 286,327 286,321 258,321 258,327 199,327 185,321 112,321" />
+				<Baseline points="112,321 976,321" />
+				<TextEquiv index="1">
+					<Unicode>Farbe bespritzt und dadurch in Stand gesetzt wird, als unbekann-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="113,340 141,340 141,346 151,346 164,339 182,339 182,346 196,346 196,339 297,339 378,340 392,345 442,346 442,340 500,341 515,346 523,340 699,340 699,346 721,346 729,340 813,340 813,346 868,346 882,340 891,340 891,346 927,346 927,340 951,340 951,346 962,346 962,340 977,340 977,362 292,362 292,368 261,368 261,362 250,362 250,368 197,368 181,368 181,362 113,362" />
+				<Baseline points="113,362 977,362" />
+				<TextEquiv index="1">
+					<Unicode>ter Spielmann bei der zweiten Hochzeit seines Weibes zu erschei-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="115,386 180,386 180,380 194,380 194,386 211,386 211,380 226,380 232,386 245,381 338,380 348,380 348,386 414,387 420,380 453,380 518,380 534,380 534,386 545,386 545,380 559,380 559,386 570,380 599,380 603,386 624,386 624,380 640,380 640,386 651,386 651,380 667,380 667,386 685,386 692,380 701,380 701,386 733,381 761,381 761,397 767,397 777,380 792,380 822,380 860,380 860,386 871,386 871,380 896,380 896,386 907,382 932,382 977,386 977,403 692,402 667,408 640,408 599,408 559,408 534,408 518,408 512,403 497,408 453,408 437,408 317,403 179,402 167,408 140,408 140,402 115,402" />
+				<Baseline points="115,403 977,403" />
+				<TextEquiv index="1">
+					<Unicode>nen, und ebenso die von Nikephoros Gregoras im 14. Jahrhundert er-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="116,426 130,421 211,421 291,427 292,421 302,421 304,427 336,427 337,421 355,421 356,427 370,427 384,421 403,421 405,427 422,422 431,421 467,421 602,421 602,427 616,427 616,438 622,438 636,422 674,422 741,427 755,421 771,421 771,427 795,427 809,421 885,421 885,427 900,427 900,421 926,421 943,422 956,427 956,421 970,421 970,427 978,427 978,443 958,443 958,449 941,449 941,443 926,443 926,449 909,449 909,443 885,443 885,449 865,449 865,443 674,447 602,444 565,449 487,449 480,447 292,443 291,449 274,449 274,443 116,442" />
+				<Baseline points="116,443 978,443" />
+				<TextEquiv index="1">
+					<Unicode>wähnte äsopische Fabel (Halm, No. 87) von der im Pechtopfe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="116,460 132,460 132,466 157,467 171,461 281,461 281,468 321,467 334,462 380,462 380,468 392,468 392,462 517,462 532,467 540,461 573,461 591,462 601,468 616,468 616,479 622,479 636,467 674,462 683,462 683,468 694,468 694,462 712,462 712,468 724,468 738,462 836,462 836,468 855,467 878,462 978,463 978,490 955,490 917,490 900,490 900,484 889,484 889,490 878,490 869,484 636,484 622,490 615,490 615,484 573,484 573,490 556,490 556,483 517,484 504,489 363,489 363,483 171,484 116,482" />
+				<Baseline points="116,482 978,484" />
+				<TextEquiv index="1">
+					<Unicode>des Schusters schwarzgefärbten Katze, welche die Mäuse täuscht,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l7" points="114,501 155,501 174,501 174,507 212,502 235,502 235,508 248,508 269,502 291,502 291,508 302,508 302,502 428,502 428,508 478,508 500,502 503,502 555,502 567,503 567,519 587,503 630,502 662,502 673,504 694,508 694,502 726,502 726,508 779,508 779,502 809,502 809,508 836,508 836,502 853,502 853,508 863,508 876,502 896,502 896,508 923,508 923,502 940,502 965,502 965,508 979,508 979,525 909,525 853,525 796,525 739,525 711,525 595,528 587,528 555,525 503,525 376,525 340,525 146,524 129,524 114,523" baseline="114,523 876,524 979,525" reason: differs: "lt.)Mit" against "lt.⟦⟧ M" | Wikisource:  | next_nc_e1: indem sie sich als Nonne stellt. ) Mit einer anderen Tendenz | german_print2_15: indem sie sich als Nonne stellt. ¹) Mit einer anderen Tendenz -->
+			<!-- line left out: id="r1l8" points="115,542 140,542 174,542 174,548 191,548 191,542 199,542 309,543 309,549 336,549 336,543 410,543 410,549 422,549 444,543 455,543 455,549 469,549 469,543 486,543 486,549 515,549 528,543 591,543 600,555 623,555 625,544 641,544 641,560 661,543 691,543 745,543 745,549 757,549 757,543 780,543 780,549 792,544 828,543 875,543 875,549 918,549 929,550 942,543 974,543 974,556 979,556 979,559 974,559 974,566 942,566 875,565 875,571 864,571 853,565 771,566 745,566 719,566 673,566 625,565 623,559 600,559 597,565 219,565 115,564" baseline="115,564 219,564 979,565" reason: differs: "tref" against "nden" | Wikisource:  | next_nc_e1: treffen wir diese Idee schon im 4.—5. Jahrhundert in jener Er- | german_print2_15: treffen wir diese Idee schon im 4.— 5. Jahrhundert in jener Er- -->
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="116,589 128,589 128,582 188,582 188,588 202,588 202,582 215,582 235,589 300,584 316,584 354,589 374,583 459,583 459,589 479,584 563,584 563,590 574,590 574,584 586,584 586,590 598,590 598,584 658,584 658,590 665,590 682,584 703,584 706,590 742,585 767,584 770,590 802,591 805,584 814,584 818,590 865,589 868,601 874,601 889,589 928,590 942,584 971,584 971,590 981,590 981,606 889,606 874,612 868,612 865,604 658,611 527,611 467,606 235,605 215,611 157,611 157,604 145,604 145,611 128,611 128,604 116,604" />
+				<Baseline points="116,604 981,606" />
+				<TextEquiv index="1">
+					<Unicode>zählung aus dem lateinisch abgefassten Bestiarium, wo der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="116,622 159,622 193,623 193,640 199,640 213,623 323,625 334,630 347,624 394,624 394,630 429,624 444,624 444,630 469,630 469,624 514,624 526,625 526,641 546,624 577,624 577,630 596,624 747,624 747,630 793,630 793,624 810,624 810,630 859,630 859,624 902,624 902,630 916,630 930,624 959,624 959,630 976,630 976,636 981,636 981,640 976,640 976,646 546,646 530,652 524,652 524,646 484,646 484,652 469,652 469,646 444,646 444,652 429,652 429,646 213,646 199,652 192,652 192,645 159,645 159,652 132,652 116,652" />
+				<Baseline points="116,645 981,646" />
+				<TextEquiv index="1">
+					<Unicode>Fuchs, mit roter Erde besudelt, die ihm das Aussehen eines Blu-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l11" points="117,663 130,663 143,664 157,669 157,663 174,663 174,669 187,669 202,670 216,664 223,664 223,670 257,670 257,664 267,664 267,670 279,670 279,664 310,664 320,665 358,665 358,671 369,671 369,665 408,665 459,665 506,665 522,665 537,671 578,671 591,665 615,665 615,671 628,671 641,665 676,665 694,667 705,671 705,665 715,665 729,672 741,671 758,671 772,665 786,665 813,665 813,671 824,671 824,665 856,665 856,671 884,671 888,665 899,665 907,666 907,682 931,665 955,665 955,671 981,671 981,687 907,691 898,691 898,679 888,679 884,687 694,687 694,693 659,693 641,688 537,687 522,693 498,693 481,693 481,687 459,687 459,693 450,693 437,687 336,687 320,693 295,693 295,687 259,687 245,687 223,686 223,693 216,693 202,686 130,686 117,686" baseline="117,685 981,687" reason: differs: "hen²).A" against "hen⟦⟧. " | Wikisource:  | next_nc_e1: tenden verleiht, sich tot stellt, um die Vögel zu täuschen ²). Aus | german_print2_15: tenden verleiht, sich tot stellt, um die Vögel zu täuschen²). Aus -->
+			<TextLine id="r1l12" custom="readingOrder {index:12;}">
+				<Coords points="117,704 134,704 134,710 193,705 338,705 338,711 369,705 377,705 377,711 392,711 392,705 421,705 421,711 440,711 440,705 458,705 458,711 503,705 596,705 596,712 631,712 639,706 650,706 650,712 661,712 661,706 744,706 747,712 762,712 766,706 776,706 779,712 825,707 838,707 871,712 873,706 891,706 894,712 927,712 927,706 982,706 982,728 909,728 631,733 596,733 546,733 517,733 517,727 493,732 404,732 250,727 117,726" />
+				<Baseline points="117,726 982,728" />
+				<TextEquiv index="1">
+					<Unicode>der ersterwähnten (indischen) Erzählung leitet Kolmatschewski</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l13" custom="readingOrder {index:13;}">
+				<Coords points="118,745 144,745 144,751 194,745 248,745 271,745 271,751 312,746 329,746 329,752 344,752 344,746 429,746 429,752 440,752 440,746 457,746 457,752 486,752 499,746 570,746 570,752 581,752 581,746 597,746 612,747 626,752 636,746 652,746 652,752 733,753 733,746 759,746 759,752 770,752 770,746 785,746 785,752 806,747 823,747 836,752 851,753 864,747 915,747 915,753 926,753 926,747 943,747 943,753 983,753 983,769 792,769 785,774 743,774 735,769 184,768 118,766" />
+				<Baseline points="118,767 983,769" />
+				<TextEquiv index="1">
+					<Unicode>die nördlichen und östlichen Varianten des vorliegenden Märchens</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l14" custom="readingOrder {index:14;}">
+				<Coords points="118,792 133,792 133,786 150,786 150,802 170,786 224,786 224,792 323,787 510,787 531,793 545,793 545,787 561,787 561,793 586,793 599,787 698,787 698,793 711,793 732,787 749,787 749,793 761,788 774,788 797,793 797,787 819,787 819,793 843,793 843,787 860,787 860,793 872,793 890,787 921,787 936,789 948,793 948,787 957,787 957,793 984,793 984,809 972,809 972,815 955,815 955,809 921,809 921,815 907,815 907,809 896,809 896,815 890,815 872,809 654,814 295,814 282,808 170,808 155,814 149,814 149,808 118,808" />
+				<Baseline points="118,808 984,809" />
+				<TextEquiv index="1">
+					<Unicode>ab, in denen gebutterte Milch oder Teig die betreffende flüssige</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l15" custom="readingOrder {index:15;}">
+				<Coords points="119,826 137,826 137,832 152,827 174,826 203,826 229,826 288,827 302,833 467,828 490,828 525,833 525,827 595,827 620,828 633,833 644,834 644,827 677,827 677,834 693,834 706,828 723,828 736,833 780,834 788,828 961,828 961,834 984,834 984,850 669,849 654,856 631,856 631,850 595,850 595,856 569,856 543,856 525,856 525,849 393,849 393,855 340,855 340,849 302,849 288,855 270,855 270,849 255,849 255,855 248,855 235,849 119,848" />
+				<Baseline points="119,848 984,850" />
+				<TextEquiv index="1">
+					<Unicode>Substanz ist, wogegen er die westlichen, in denen Fruchtsaft oder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l16" custom="readingOrder {index:16;}">
+				<Coords points="120,873 144,873 144,867 171,867 171,873 196,873 209,867 237,867 354,868 354,874 367,874 380,868 398,868 398,874 474,874 474,868 489,868 489,874 508,874 508,868 526,868 526,874 554,874 554,868 569,868 569,874 583,874 596,868 624,868 664,874 664,868 673,868 673,874 687,874 687,868 705,868 705,874 716,874 716,868 871,868 871,874 885,874 885,868 955,869 980,870 980,886 983,886 983,897 978,897 978,891 951,891 950,897 941,897 897,896 897,890 871,890 871,896 862,896 849,890 833,890 833,896 819,896 819,890 807,890 807,896 790,896 790,890 777,891 764,896 747,896 737,890 689,890 689,896 672,896 672,890 489,890 489,896 463,896 463,890 396,891 120,889" />
+				<Baseline points="120,889 983,890" />
+				<TextEquiv index="1">
+					<Unicode>reines Blut als die hervorquellende Flüssigkeit genannt wird, für,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l17" custom="readingOrder {index:17;}">
+				<Coords points="120,914 202,909 234,909 267,909 280,915 324,915 338,909 354,909 354,915 423,915 437,909 482,909 509,909 521,915 534,909 560,909 594,909 606,909 620,915 638,910 736,910 751,915 763,909 861,909 886,909 934,909 934,915 948,915 948,909 963,909 985,909 985,931 963,934 926,934 892,937 816,937 816,931 805,931 805,937 763,937 751,931 736,932 724,937 680,937 680,931 669,931 669,937 637,937 620,937 606,931 120,930" />
+				<Baseline points="120,931 985,931" />
+				<TextEquiv index="1">
+					<Unicode>wenn nicht aus der an letzter Stelle genannten Erzählung (Besti-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l18" custom="readingOrder {index:18;}">
+				<Coords points="121,948 176,948 176,954 195,950 255,949 255,955 266,955 266,949 284,949 350,950 350,956 375,956 375,950 393,950 393,956 404,956 404,950 421,950 421,956 432,956 432,950 450,950 450,956 508,956 508,967 514,967 529,956 570,950 654,950 654,956 665,956 665,950 699,950 699,956 710,956 723,949 765,949 765,955 798,956 811,949 870,950 870,956 881,956 881,949 896,949 896,955 980,951 980,962 986,962 986,966 980,966 980,972 529,971 514,978 507,978 507,971 480,972 480,978 463,978 463,972 450,972 450,978 375,978 375,972 350,972 350,978 335,978 335,972 204,975 121,975" />
+				<Baseline points="121,971 986,972" />
+				<TextEquiv index="1">
+					<Unicode>arium) direkt hervorgegangen, so doch unter ihrem Einflusse ent-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l19" custom="readingOrder {index:19;}">
+				<Coords points="122,995 134,990 193,990 206,995 222,996 235,990 280,990 345,990 345,996 373,997 391,991 415,991 428,996 441,997 441,991 460,991 460,997 470,997 483,990 507,990 507,996 570,991 584,991 598,996 657,996 677,990 718,990 770,990 770,996 783,996 783,990 842,990 895,990 923,990 923,996 938,996 951,990 975,990 975,997 987,997 987,1013 629,1012 629,1018 612,1018 612,1012 235,1013 122,1011" />
+				<Baseline points="122,1011 987,1012" />
+				<TextEquiv index="1">
+					<Unicode>standen hält. Von diesen Vermutungen hält doch höchstens die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l20" custom="readingOrder {index:20;}">
+				<Coords points="122,1030 133,1030 173,1030 226,1030 253,1030 270,1030 279,1030 338,1031 338,1037 351,1037 372,1031 408,1031 423,1033 434,1037 434,1031 451,1031 451,1037 480,1037 501,1031 516,1031 516,1037 541,1037 561,1031 598,1031 598,1037 609,1037 609,1031 674,1031 674,1037 692,1037 692,1031 790,1031 790,1037 849,1037 849,1048 855,1048 877,1031 894,1031 894,1037 950,1037 964,1031 987,1031 987,1053 877,1053 855,1059 849,1059 849,1053 747,1053 747,1059 730,1059 730,1053 337,1054 122,1052" />
+				<Baseline points="122,1052 987,1053" />
+				<TextEquiv index="1">
+					<Unicode>letzte Stich. Die Märchen der West- und Südslaven, denen in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l21" custom="readingOrder {index:21;}">
+				<Coords points="123,1071 148,1071 148,1077 198,1077 211,1071 243,1071 266,1071 281,1072 281,1078 292,1078 292,1072 320,1073 346,1078 346,1072 356,1072 356,1078 371,1078 383,1072 469,1072 469,1078 520,1078 520,1072 530,1072 530,1078 541,1078 541,1072 558,1072 558,1078 598,1072 758,1072 758,1078 769,1078 769,1072 778,1072 778,1078 790,1078 790,1072 824,1072 824,1078 848,1078 861,1072 934,1072 934,1078 945,1078 945,1072 962,1072 974,1073 988,1078 988,1094 824,1094 824,1100 807,1100 807,1094 744,1094 744,1100 727,1100 727,1094 715,1094 715,1100 700,1100 695,1094 680,1094 680,1100 624,1100 624,1094 613,1094 613,1100 598,1100 598,1094 468,1095 123,1093" />
+				<Baseline points="123,1093 988,1094" />
+				<TextEquiv index="1">
+					<Unicode>dieser Hinsicht ein Teil der siebenbürgisch-sächsischen Varianten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l22" custom="readingOrder {index:22;}">
+				<Coords points="123,1117 136,1117 136,1111 146,1111 146,1118 157,1118 157,1111 174,1111 200,1112 200,1118 211,1118 211,1112 276,1112 276,1118 316,1113 328,1113 328,1129 346,1112 364,1112 364,1118 377,1112 479,1113 488,1119 500,1119 500,1113 531,1113 531,1119 559,1119 568,1113 593,1113 601,1119 618,1119 618,1113 648,1113 648,1119 660,1119 660,1113 674,1113 674,1119 687,1119 695,1113 717,1113 717,1119 729,1119 729,1113 799,1113 799,1119 810,1119 810,1113 827,1113 840,1118 896,1118 909,1112 988,1112 988,1134 977,1134 977,1140 909,1140 840,1135 827,1140 757,1140 741,1140 346,1134 332,1140 326,1140 326,1134 276,1134 276,1140 262,1140 262,1134 239,1134 239,1140 211,1140 211,1134 200,1134 200,1140 187,1140 174,1133 123,1133" />
+				<Baseline points="123,1133 988,1135" />
+				<TextEquiv index="1">
+					<Unicode>sich anschliesst, haben wir schon in andern Beziehungen so gründ-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l23" custom="readingOrder {index:23;}">
+				<Coords points="124,1152 150,1152 170,1152 184,1158 226,1158 226,1152 242,1152 242,1158 255,1158 265,1153 281,1153 330,1159 330,1153 360,1153 360,1159 375,1159 375,1153 391,1153 391,1159 420,1159 420,1170 440,1154 465,1154 504,1160 567,1153 596,1153 596,1159 620,1159 629,1153 664,1153 664,1159 686,1159 686,1153 767,1153 767,1159 778,1159 778,1153 811,1153 811,1159 823,1159 823,1153 918,1154 932,1159 945,1153 961,1153 961,1159 988,1159 988,1175 795,1175 795,1181 781,1181 781,1175 756,1175 756,1181 675,1181 675,1175 664,1175 664,1181 647,1181 647,1175 440,1175 425,1181 419,1181 419,1175 347,1175 347,1181 322,1181 306,1181 293,1175 124,1174" />
+				<Baseline points="124,1175 988,1175" />
+				<TextEquiv index="1">
+					<Unicode>lich verderbt gefunden, dass von ihrer Ursprünglichkeit neben den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l24" custom="readingOrder {index:24;}">
+				<Coords points="125,1199 156,1198 164,1193 234,1193 234,1199 260,1199 274,1193 320,1193 320,1199 359,1194 397,1193 418,1193 418,1200 461,1200 461,1194 476,1194 489,1200 502,1200 502,1194 565,1194 578,1199 589,1200 602,1193 672,1193 672,1199 683,1199 683,1193 701,1193 753,1193 753,1199 766,1199 779,1193 802,1193 802,1199 814,1199 814,1193 830,1193 830,1199 879,1199 879,1193 949,1193 949,1199 960,1199 960,1193 977,1193 977,1199 984,1199 984,1210 988,1210 988,1214 766,1216 446,1216 433,1221 406,1221 397,1221 384,1215 125,1215" />
+				<Baseline points="125,1215 988,1215" />
+				<TextEquiv index="1">
+					<Unicode>nordischen kaum in irgend welcher Hinsicht die Rede sein kann.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l25" points="125,1233 159,1233 159,1239 180,1239 200,1233 263,1233 287,1234 383,1234 404,1240 447,1240 447,1234 546,1234 546,1240 610,1240 623,1234 643,1234 643,1240 656,1240 656,1234 674,1234 674,1240 687,1240 700,1234 776,1234 776,1240 787,1240 787,1234 817,1234 827,1235 843,1240 843,1234 857,1234 857,1240 872,1240 872,1234 888,1234 926,1234 984,1239 984,1245 989,1245 989,1249 984,1249 984,1255 926,1256 901,1256 873,1256 789,1256 125,1256" baseline="125,1256 989,1256" reason: differs: "resan" against "res⟦⟧ a" | Wikisource:  | next_nc_e1: Man kann sie also auch in diesem Falle für nichts anderes an- | german_print2_15: Man kann sie also auch in diesem Falle für nichts anderes an- -->
+			<!-- line left out: id="r1l26" points="126,1274 142,1274 142,1280 207,1280 207,1274 222,1274 222,1280 233,1280 233,1274 250,1274 250,1280 263,1280 263,1274 280,1274 280,1280 309,1280 309,1291 337,1280 345,1275 393,1274 431,1274 468,1275 481,1280 490,1275 519,1275 519,1281 531,1281 531,1275 548,1275 548,1281 563,1281 563,1275 580,1275 607,1280 621,1281 643,1274 659,1274 659,1281 684,1281 704,1274 713,1274 720,1280 734,1280 734,1274 770,1274 770,1280 794,1280 794,1274 811,1274 811,1280 840,1280 857,1274 925,1274 977,1274 977,1280 989,1280 989,1295 977,1296 925,1296 736,1297 713,1297 673,1297 607,1297 594,1302 507,1302 490,1302 345,1297 337,1296 314,1303 308,1303 308,1296 294,1297 279,1297 250,1296 250,1303 233,1303 233,1296 222,1296 222,1303 207,1303 207,1296 126,1296" baseline="126,1296 989,1295" reason: differs: "dere" against "s⟦⟧ " | Wikisource:  | next_nc_e1: deres ansehen, als für Verdrehungen der nordischen Varianten. | german_print2_15: deres ansehen, als für Verdrehungen der nordischen Varianten. -->
+			<TextLine id="r1l27" custom="readingOrder {index:27;}">
+				<Coords points="125,1314 154,1314 196,1316 223,1321 223,1315 390,1315 390,1321 429,1321 442,1315 466,1315 466,1321 479,1321 489,1316 522,1315 547,1316 547,1322 562,1322 562,1315 579,1315 579,1321 612,1316 629,1316 682,1321 682,1315 700,1315 783,1321 796,1315 820,1315 820,1321 833,1321 846,1314 879,1314 879,1320 920,1320 920,1314 938,1314 938,1320 990,1320 990,1336 656,1338 612,1337 592,1343 522,1343 505,1343 403,1338 125,1337" />
+				<Baseline points="125,1337 990,1336" />
+				<TextEquiv index="1">
+					<Unicode>Nicht einmal für diese Verdrehung braucht man die Ursache so</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l28" custom="readingOrder {index:28;}">
+				<Coords points="126,1361 138,1361 138,1355 155,1355 184,1355 196,1361 207,1356 284,1356 297,1362 382,1362 382,1356 400,1356 400,1362 428,1362 436,1356 469,1356 469,1362 481,1362 490,1356 500,1356 500,1363 515,1363 524,1356 540,1356 540,1362 577,1362 589,1356 610,1356 610,1362 636,1362 636,1356 710,1356 710,1362 730,1362 730,1373 736,1373 750,1362 781,1362 794,1356 832,1356 856,1361 864,1355 950,1355 978,1355 978,1361 991,1361 991,1382 880,1382 750,1377 736,1384 729,1384 729,1378 710,1378 710,1384 670,1384 653,1384 636,1379 601,1378 601,1384 589,1384 577,1378 382,1379 126,1377" />
+				<Baseline points="126,1377 991,1377" />
+				<TextEquiv index="1">
+					<Unicode>weit zurück zu suchen wie in dem Bestiarium, zu ihrer Erklärung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l29" custom="readingOrder {index:29;}">
+				<Coords points="126,1403 142,1402 167,1397 214,1397 228,1403 276,1397 350,1397 350,1403 361,1403 361,1397 379,1397 379,1403 426,1403 426,1397 466,1397 466,1403 496,1403 510,1397 526,1397 526,1403 551,1403 566,1397 624,1397 624,1403 639,1403 639,1397 656,1397 656,1403 664,1403 684,1396 702,1396 702,1403 716,1403 716,1396 778,1396 778,1402 789,1402 789,1396 853,1396 853,1402 869,1402 882,1396 912,1396 912,1402 924,1402 938,1395 955,1395 986,1401 986,1407 991,1407 991,1410 986,1410 986,1417 510,1419 496,1425 480,1425 480,1419 466,1419 466,1425 449,1425 449,1419 379,1419 379,1425 361,1425 361,1419 276,1419 260,1425 236,1425 236,1419 228,1419 214,1425 167,1425 167,1418 143,1418 143,1424 126,1424" />
+				<Baseline points="126,1419 991,1417" />
+				<TextEquiv index="1">
+					<Unicode>genügt es, die Verwandlung des Gehirns und Marks in das häu-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>von dem Fuchse gekommen, der im Topfe des Färbers mit gelber
+Farbe bespritzt und dadurch in Stand gesetzt wird, als unbekann-
+ter Spielmann bei der zweiten Hochzeit seines Weibes zu erschei-
+nen, und ebenso die von Nikephoros Gregoras im 14. Jahrhundert er-
+wähnte äsopische Fabel (Halm, No. 87) von der im Pechtopfe
+des Schusters schwarzgefärbten Katze, welche die Mäuse täuscht,
+zählung aus dem lateinisch abgefassten Bestiarium, wo der
+Fuchs, mit roter Erde besudelt, die ihm das Aussehen eines Blu-
+der ersterwähnten (indischen) Erzählung leitet Kolmatschewski
+die nördlichen und östlichen Varianten des vorliegenden Märchens
+ab, in denen gebutterte Milch oder Teig die betreffende flüssige
+Substanz ist, wogegen er die westlichen, in denen Fruchtsaft oder
+reines Blut als die hervorquellende Flüssigkeit genannt wird, für,
+wenn nicht aus der an letzter Stelle genannten Erzählung (Besti-
+arium) direkt hervorgegangen, so doch unter ihrem Einflusse ent-
+standen hält. Von diesen Vermutungen hält doch höchstens die
+letzte Stich. Die Märchen der West- und Südslaven, denen in
+dieser Hinsicht ein Teil der siebenbürgisch-sächsischen Varianten
+sich anschliesst, haben wir schon in andern Beziehungen so gründ-
+lich verderbt gefunden, dass von ihrer Ursprünglichkeit neben den
+nordischen kaum in irgend welcher Hinsicht die Rede sein kann.
+Nicht einmal für diese Verdrehung braucht man die Ursache so
+weit zurück zu suchen wie in dem Bestiarium, zu ihrer Erklärung
+genügt es, die Verwandlung des Gehirns und Marks in das häu-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="128,1495 993,1495 993,1669 128,1669" />
+			<!-- line left out: id="r2l0" points="198,1501 206,1501 240,1501 240,1515 254,1501 310,1501 334,1506 334,1515 355,1501 381,1501 445,1501 445,1515 467,1501 479,1501 479,1515 501,1500 516,1500 516,1515 538,1500 575,1500 578,1495 589,1495 636,1500 689,1500 689,1514 710,1500 750,1495 761,1495 853,1499 873,1499 939,1499 950,1504 950,1513 973,1499 988,1499 988,1513 992,1513 992,1517 988,1518 955,1522 853,1522 812,1522 761,1522 761,1529 750,1529 750,1522 723,1522 682,1523 636,1523 589,1523 589,1529 578,1529 578,1523 551,1523 538,1523 516,1520 338,1525 294,1525 271,1525 255,1525 212,1522 205,1522 205,1511 198,1511" baseline="198,1521 243,1520 750,1518 992,1518" reason: differs: "¹)S." against "fige" | Wikisource:  | next_nc_e1: ¹) S. Benfey, Pantsch. I. S. 223 — 225, vgl. 352 — 353; Gubernatis, S. | german_print2_15: ¹) S. Benfey, Pantsch. I. S. 223 — 225, vgl. 352 — 353; Gubernatis, S. -->
+			<!-- line left out: id="r2l1" points="128,1531 166,1531 174,1536 186,1530 204,1530 227,1531 237,1530 287,1530 311,1530 333,1530 354,1530 377,1530 398,1530 398,1545 413,1530 433,1530 445,1535 445,1544 462,1530 474,1530 486,1531 486,1544 503,1530 518,1530 518,1544 534,1530 562,1530 600,1530 611,1535 611,1529 619,1529 647,1529 701,1529 724,1529 765,1529 765,1543 784,1528 799,1528 799,1542 814,1529 827,1524 839,1524 844,1539 855,1539 855,1524 870,1524 886,1529 886,1542 902,1533 910,1528 923,1528 964,1528 989,1528 989,1542 992,1542 992,1547 931,1551 890,1551 885,1551 870,1547 870,1558 855,1558 855,1541 844,1541 839,1558 827,1558 827,1547 770,1552 749,1552 724,1552 708,1552 686,1548 685,1552 647,1552 568,1552 546,1552 518,1549 490,1553 485,1553 450,1549 433,1549 403,1554 377,1554 354,1554 333,1554 317,1554 294,1549 294,1544 286,1554 262,1554 197,1554 165,1554 141,1554 128,1554" baseline="128,1549 769,1547 992,1547" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 436; Orbeliani-Tsagareli, No. 17, S. 22; Kolmatschewski, S. 85 –86, vgl. 252. | german_print2_15: 436; Orbeliani-Tsagareli, No. 17, S. 22; Kolmatschewski, S. 85 — 86, vgl. 252. -->
+			<!-- line left out: id="r2l2" points="128,1560 156,1560 167,1565 178,1559 205,1559 231,1559 269,1559 278,1561 298,1559 314,1559 366,1559 393,1559 414,1560 432,1559 440,1559 466,1559 508,1564 508,1558 524,1558 580,1558 606,1558 643,1558 677,1558 746,1557 768,1557 822,1557 885,1557 905,1557 944,1557 968,1557 989,1562 993,1563 993,1576 890,1576 885,1580 869,1580 846,1576 805,1580 790,1580 688,1577 651,1577 591,1577 388,1578 278,1578 210,1578 128,1578" baseline="128,1578 338,1577 993,1575" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Als Volksmärchen findet sich sowohl die indische wie die griechische Form: | german_print2_15: Als Volksmärchen findet sich sowohl die indische wie die griechische Form: -->
+			<!-- line left out: id="r2l3" points="129,1589 169,1588 204,1588 234,1588 295,1588 341,1588 341,1602 356,1588 376,1588 388,1593 388,1602 404,1587 423,1587 527,1587 527,1601 544,1588 579,1588 605,1593 605,1601 618,1587 638,1587 694,1587 694,1601 710,1587 726,1586 905,1586 905,1601 922,1586 989,1586 989,1600 993,1600 993,1609 963,1609 910,1609 895,1609 852,1609 789,1609 699,1610 674,1610 658,1610 649,1606 504,1610 423,1610 345,1611 340,1611 307,1607 289,1611 239,1612 181,1612 169,1612 129,1608" baseline="129,1607 356,1606 941,1604 993,1604" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: La (Prym & Socin, No. LXXVII, S. 329 u. No LX, LXVII, LXXXIV, S. 241, | german_print2_15: La (Prym & Socin, No. LXXVII, S. 329 u. No LX, LXVII, LXXXIV, S. 241, -->
+			<!-- line left out: id="r2l4" points="129,1618 224,1618 224,1631 240,1622 244,1617 257,1617 282,1617 365,1617 395,1617 449,1617 482,1622 493,1616 515,1616 515,1622 527,1622 537,1616 582,1616 631,1616 661,1621 661,1630 677,1615 701,1615 733,1615 809,1615 809,1629 825,1616 832,1615 867,1615 867,1629 870,1629 870,1634 867,1637 832,1637 733,1634 701,1634 665,1639 631,1639 608,1639 582,1639 548,1639 537,1639 449,1636 419,1636 270,1636 228,1640 215,1640 195,1640 171,1641 140,1641 129,1641" baseline="129,1636 332,1635 664,1634 870,1634" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 278, 360), und nur die letztere: Ha (Afanasiew, Cxasxn I. S. 106).
+ | german_print2_15: 278, 360), und nur die letztere: Ha (Afanasiew, Cxasxn L’¹. S. 106).
+ -->
+			<!-- line left out: id="r2l5" points="199,1647 224,1646 236,1645 251,1645 290,1645 329,1645 346,1646 353,1645 369,1645 410,1645 410,1660 427,1646 442,1646 442,1660 457,1646 548,1646 548,1659 551,1659 551,1664 442,1665 415,1669 393,1669 369,1669 353,1669 331,1665 329,1669 290,1669 251,1669 236,1669 214,1668 199,1668" baseline="199,1665 414,1664 551,1664" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ) Kolmatschewski, S. 39 Anm. | german_print2_15: ²) Kolmatschewski, S. 39 Anm. -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+ist dann in den Renart (Br. 21, V. 11959–12508) das Lied von dem Fuchse gekommen, der im Topfe des Färbers mit gelber Farbe bespritzt und dadurch in Stand gesetzt wird, als unbekannter Spielmann bei der zweiten Hochzeit seines Weibes zu erscheinen, und ebenso die von Nikephoros Gregoras im 14. Jahrhundert erwähnte äsopische Fabel (Halm, No. 87) von der im Pechtopfe des Schusters schwarzgefärbten Katze, welche die Mäuse täuscht, indem sie sich als Nonne stellt.⟦⟧ Mit einer anderen Tendenz treffen wir diese Idee schon im 4.–5. Jahrhundert in jener Erzählung aus dem lateinisch abgefassten Bestiarium, wo der Fuchs, mit roter Erde besudelt, die ihm das Aussehen eines Blutenden verleiht, sich tot stellt, um die Vögel zu täuschen⟦⟧. Aus der ersterwähnten (indischen) Erzählung leitet Kolmatschewski die nördlichen und östlichen Varianten des vorliegenden Märchens ab, in denen gebutterte Milch oder Teig die betreffende flüssige Substanz ist, wogegen er die westlichen, in denen Fruchtsaft oder reines Blut als die hervorquellende Flüssigkeit genannt wird, für, wenn nicht aus der an letzter Stelle genannten Erzählung (Bestiarium) direkt hervorgegangen, so doch unter ihrem Einflusse entstanden hält. Von diesen Vermutungen hält doch höchstens die letzte Stich. Die Märchen der West- und Südslaven, denen in dieser Hinsicht ein Teil der siebenbürgisch-sächsischen Varianten sich anschliesst, haben wir schon in andern Beziehungen so gründlich verderbt gefunden, dass von ihrer Ursprünglichkeit neben den nordischen kaum in irgend welcher Hinsicht die Rede sein kann. Man kann sie also auch in diesem Falle für nichts anderes⟦⟧ ansehen, als für Verdrehungen der nordischen Varianten. Nicht einmal für diese Verdrehung braucht man die Ursache so weit zurück zu suchen wie in dem Bestiarium, zu ihrer Erklärung genügt es, die Verwandlung des Gehirns und Marks in das häufiger
+-->
+	</Page>
+</PcGts>

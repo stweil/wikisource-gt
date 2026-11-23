@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:46:16</Created>
+		<LastChange>2026-11-23T18:46:16</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Schmidt_Miscellanea_Silurica_III.djvu/5 revision 3389541 of 2018-08-01T07:32:47Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="schmidt_miscellanea_silurica_1883_0005.png" imageWidth="1360" imageHeight="1892">
+		<ReadingOrder>
+			<OrderedGroup id="ro4367202618865041169" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="30,14 356,14 356,57 30,57" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="59,1849 130,1849 130,1858 59,1858" />
+			<!-- line left out: id="r1l0" points="59,1849 130,1849 130,1858 59,1858" baseline="59,1858 130,1857" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 4
+ | german_print2_15: —.—
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="541,579 785,579 785,609 541,609" />
+			<!-- line left out: id="r2l0" points="541,580 611,579 632,579 677,579 769,579 785,580 785,609 745,609 657,608 566,608 541,607" baseline="541,608 785,608" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: EINLEITUNG.
+ | german_print2_15: EINLEITUNG.
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="192,731 1130,731 1130,1394 192,1394" />
+			<!-- line left out: id="r3l0" points="251,732 286,732 294,738 300,738 300,732 313,732 342,732 375,737 387,738 387,732 400,732 433,732 450,732 466,732 475,732 509,737 571,737 613,732 632,732 652,737 661,731 688,731 707,731 735,732 754,737 754,731 765,731 765,737 793,737 793,731 812,731 833,731 852,731 881,731 892,737 911,737 911,731 924,731 945,732 955,731 962,731 962,737 973,732 1014,732 1047,732 1061,737 1061,731 1068,731 1068,737 1087,737 1087,731 1100,731 1100,737 1122,737 1130,742 1130,744 1122,749 933,750 881,755 852,755 833,755 804,755 793,755 642,750 571,750 433,750 387,750 364,749 364,755 313,755 300,755 251,750" baseline="251,750 880,749 1130,749" reason: differs: "ica‘)er" against "ica⟦⟧ e" | Wikisource:  | next_nc_e1: Die vorliegende dritte Nummer meiner Miscellanea silurica‘) erscheint als Zwischen- | german_print2_15: Die vorliegende dritte Nummer meiner Miscellanea silurica¹) erscheint als Zwischen- -->
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="193,770 216,770 216,764 246,764 254,766 291,764 369,764 390,769 399,763 417,763 417,769 450,764 495,764 495,770 542,770 553,764 751,764 763,770 786,769 797,764 899,764 954,769 954,763 968,763 968,769 990,769 999,763 1027,763 1027,769 1068,768 1101,763 1120,763 1121,769 1130,769 1130,781 1102,786 1055,786 1032,782 1027,786 1013,786 978,782 563,782 542,787 529,787 451,782 193,782" />
+				<Baseline points="193,782 1130,781" />
+				<TextEquiv index="1">
+					<Unicode>arbeit während der Durchführung meiner vermuthlich noch Jahre dauernden Monographie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l2" points="195,801 271,801 280,795 286,795 286,801 300,797 308,795 322,795 355,795 365,800 374,795 387,795 387,801 409,801 421,795 427,795 444,795 444,801 467,801 467,795 474,795 506,796 528,801 537,795 553,795 576,795 606,795 614,797 624,800 636,801 639,810 655,801 697,796 710,796 787,796 808,801 818,795 831,795 846,796 895,797 913,796 930,795 944,795 988,795 988,801 1000,800 1012,800 1024,801 1028,794 1042,794 1051,800 1088,795 1111,795 1122,800 1129,804 1129,808 1122,812 1111,813 1042,816 1024,818 971,818 958,818 846,814 825,814 797,814 710,814 644,818 639,818 517,814 427,814 310,814 286,814 241,814 208,814 195,813" baseline="195,813 1129,813" reason: differs: "ung)ers" against "ung⟦⟧ e" | Wikisource:  | next_nc_e1: unserer ostbaltischen silurischen Trilobiten, von der soeben die erste Abtheilung ) erschie- | german_print2_15: unserer ostbaltischen silurischen Trilobiten, von der soeben die erste Abtheilung ²) erschie- -->
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="195,833 239,828 265,829 265,842 289,828 299,827 311,827 312,833 332,833 344,827 363,827 363,833 395,832 438,827 451,827 451,833 509,833 509,827 557,827 566,832 608,833 608,827 647,827 647,833 666,827 678,827 678,833 710,833 710,827 722,827 735,833 747,828 847,827 865,827 865,833 954,832 979,827 991,827 991,833 1002,832 1022,827 1045,827 1077,827 1109,827 1120,832 1130,833 1130,845 1064,850 1045,850 908,850 894,850 865,846 711,846 428,850 415,850 195,845" />
+				<Baseline points="195,845 1130,845" />
+				<TextEquiv index="1">
+					<Unicode>nen ist. Ihre Herausgabe wurde wesentlich durch meine Beziehungen zu den Englischen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="194,860 211,860 253,860 349,860 405,860 429,860 447,861 447,878 268,878 258,883 238,883 194,878" />
+				<Baseline points="194,878 447,877" />
+				<TextEquiv index="1">
+					<Unicode>Fachgenossen veranlasst.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="249,891 273,891 343,893 375,891 395,891 440,891 440,897 476,897 485,891 498,891 498,897 593,897 593,891 607,891 639,891 639,897 673,897 681,891 703,891 722,891 786,891 799,891 818,891 826,893 871,892 882,896 896,891 914,891 948,891 965,891 977,891 1065,891 1120,891 1129,896 1129,908 997,908 989,914 826,910 767,910 652,914 526,914 485,909 476,915 463,915 463,909 387,909 387,915 375,915 375,909 249,909" />
+				<Baseline points="249,909 1129,909" />
+				<TextEquiv index="1">
+					<Unicode>Die erste Abtheilung der gegenwärtigen Arbeit enthält einen Nachtrag zu meiner im</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="194,923 207,923 207,929 218,929 218,923 231,923 231,929 269,924 336,923 341,923 341,929 376,929 376,923 396,923 396,929 464,929 477,923 555,923 564,925 613,923 667,923 685,928 693,923 742,923 753,928 764,929 777,923 801,923 801,929 823,929 823,923 924,922 939,922 939,928 968,928 970,922 983,922 1012,922 1034,922 1034,928 1043,928 1043,940 1034,940 1034,946 1021,946 1012,941 983,941 944,946 600,946 500,946 487,946 378,942 194,942" />
+				<Baseline points="194,941 1043,940" />
+				<TextEquiv index="1">
+					<Unicode>Jahre 1873 erschienenen Bearbeitung der russischen silurischen Leperditien.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="250,955 260,955 260,961 277,961 290,955 337,955 356,960 375,960 419,955 757,955 771,961 806,961 816,955 832,955 833,970 847,955 936,954 950,954 952,960 1031,960 1031,954 1045,954 1070,959 1079,954 1092,954 1108,954 1121,954 1128,956 1128,972 1080,973 1051,977 964,973 902,978 880,978 513,974 250,973" />
+				<Baseline points="250,973 1128,972" />
+				<TextEquiv index="1">
+					<Unicode>Im verflossenen Herbst erhielt ich einen Artikel von T. Rupert Jones zugeschickt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l8" points="192,988 200,987 218,987 238,989 284,992 309,989 317,987 331,987 385,987 419,992 440,987 448,987 491,987 521,987 580,987 600,988 621,987 636,987 659,988 701,992 709,986 729,986 765,987 767,1001 786,987 800,987 800,993 838,993 848,987 873,987 922,987 944,992 958,986 966,986 966,992 981,992 981,986 1018,986 1032,987 1053,992 1053,986 1073,986 1073,992 1083,992 1092,986 1109,986 1109,992 1120,992 1127,997 1127,1000 1120,1004 982,1005 898,1006 873,1006 811,1006 729,1006 230,1006 201,1010 192,1010" baseline="192,1005 992,1004 1127,1004" reason: differs: "acaN12." against "ca № 12" | Wikisource:  | next_nc_e1: (Notes on the Palaeozoic bivalved Entomostraca N 12. Some Cambrian and Silurian Le- | german_print2_15: (Notes on the Palaeozoic bivalved Entomostraca  12. Some Cambrian and Silurian Le- -->
+			<!-- line left out: id="r3l9" points="194,1024 207,1024 228,1019 248,1019 263,1019 283,1019 380,1019 420,1019 443,1024 445,1033 467,1019 518,1019 530,1024 552,1019 560,1019 619,1019 656,1019 701,1019 794,1019 808,1021 831,1024 840,1019 895,1019 904,1020 938,1024 939,1033 945,1033 958,1018 977,1018 977,1024 999,1023 1010,1023 1027,1024 1027,1018 1040,1018 1040,1024 1076,1019 1115,1019 1123,1020 1123,1036 1101,1037 988,1037 976,1037 958,1036 945,1042 884,1042 674,1042 656,1042 642,1042 642,1036 619,1037 450,1042 402,1042 390,1042 380,1037 370,1042 283,1042 278,1042 218,1037 207,1042 194,1042" baseline="194,1037 1123,1036" reason: second model: differs: "perd" against "ian " | Wikisource: perditiae and Primitiae, in Annals and magazine of Natural History, November 1881 | next_nc_e1: perditiae and Primitiae, in Annals and magazine of Natural History, November 1881 | german_print2_15: perditiae and Primitiae, in Annals and magazine of Natural History, November 1881. -->
+			<!-- line left out: id="r3l10" points="193,1056 207,1056 207,1065 220,1052 235,1051 269,1046 280,1046 359,1051 414,1051 437,1051 487,1051 561,1051 587,1051 595,1050 619,1050 644,1050 657,1050 657,1056 706,1051 713,1051 735,1051 766,1051 788,1051 827,1051 848,1051 867,1056 877,1050 887,1050 892,1056 921,1051 928,1051 999,1050 1017,1050 1017,1056 1028,1052 1055,1050 1066,1050 1098,1050 1098,1056 1127,1056 1127,1068 1011,1069 968,1069 878,1069 657,1069 619,1069 605,1069 595,1068 587,1074 555,1074 528,1074 513,1074 447,1069 345,1073 280,1078 269,1078 207,1074 193,1074" baseline="193,1069 949,1068 1127,1068" reason: differs: "332—350" against "332–350" | Wikisource:  | next_nc_e1: p. 332 — 350), in welchem der geehrte Verfasser sich wiederholt auf meine erwähnte frühere | german_print2_15: p. 332 — 350), in welchem der geehrte Verfasser sich wiederholt auf meine erwähnte frühere -->
+			<TextLine id="r3l11" custom="readingOrder {index:11;}">
+				<Coords points="193,1083 273,1082 286,1082 286,1088 306,1083 324,1082 337,1082 346,1084 348,1096 354,1096 368,1088 393,1083 419,1082 427,1082 444,1082 465,1082 465,1088 483,1088 483,1082 496,1082 528,1082 556,1082 579,1082 635,1082 648,1082 648,1088 683,1083 800,1083 815,1084 837,1088 850,1082 856,1082 856,1088 873,1088 873,1082 884,1082 899,1084 908,1082 916,1082 932,1084 933,1097 952,1082 972,1082 1008,1082 1019,1087 1110,1088 1110,1082 1117,1082 1119,1088 1128,1088 1128,1100 952,1100 938,1106 933,1106 932,1100 874,1101 856,1106 850,1106 837,1100 438,1101 354,1105 325,1101 193,1101" />
+				<Baseline points="193,1101 1128,1100" />
+				<TextEquiv index="1">
+					<Unicode>Arbeit bezieht, und vielfach Ansichten über einzelne Arten aufstellt, die den von mir</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l12" custom="readingOrder {index:12;}">
+				<Coords points="194,1120 227,1116 278,1116 340,1120 340,1114 354,1114 384,1114 384,1120 398,1115 406,1115 428,1120 428,1114 439,1114 439,1120 458,1120 459,1129 479,1114 488,1114 511,1114 525,1120 544,1120 544,1114 558,1114 575,1114 629,1114 629,1120 660,1115 678,1115 732,1120 732,1114 744,1114 744,1120 759,1120 759,1114 786,1114 808,1114 838,1115 861,1120 871,1114 894,1114 915,1114 927,1114 927,1129 946,1115 991,1115 1019,1120 1027,1114 1051,1114 1051,1120 1082,1120 1082,1114 1106,1114 1106,1120 1127,1120 1127,1132 1002,1133 931,1137 926,1137 917,1133 894,1137 882,1137 849,1133 194,1132" />
+				<Baseline points="194,1132 1127,1132" />
+				<TextEquiv index="1">
+					<Unicode>vertretenen zuwiderlaufen. Ich schrieb ihm einen ausführlichen Brief, in dem ich meine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l13" custom="readingOrder {index:13;}">
+				<Coords points="193,1147 204,1147 238,1147 238,1153 339,1152 373,1148 391,1148 430,1153 447,1147 486,1147 486,1153 535,1153 553,1147 560,1147 560,1153 572,1153 588,1147 605,1147 605,1153 649,1153 664,1147 671,1147 698,1147 731,1148 740,1153 756,1147 769,1147 821,1147 846,1147 867,1147 867,1153 876,1153 889,1147 906,1147 906,1153 945,1153 945,1147 983,1147 993,1152 1001,1147 1004,1147 1022,1153 1047,1153 1047,1147 1086,1147 1086,1153 1126,1153 1126,1164 1036,1166 1004,1171 1001,1171 993,1166 968,1166 957,1171 945,1171 945,1165 929,1165 929,1171 915,1171 915,1165 649,1170 461,1170 391,1166 351,1170 304,1170 193,1165" />
+				<Baseline points="193,1165 1126,1165" />
+				<TextEquiv index="1">
+					<Unicode>früher ausgesprochene Meinung in Bezug auf die behandelten Leperditien und deren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l14" custom="readingOrder {index:14;}">
+				<Coords points="193,1185 207,1184 213,1179 237,1179 237,1185 261,1185 261,1179 268,1179 300,1179 311,1184 320,1185 333,1179 358,1179 377,1181 470,1181 508,1185 508,1179 521,1179 562,1184 572,1179 585,1179 621,1179 644,1179 644,1185 665,1184 675,1179 688,1179 702,1185 719,1185 719,1179 744,1179 761,1179 855,1179 883,1179 883,1185 958,1180 981,1180 990,1185 1002,1179 1009,1179 1009,1185 1025,1185 1025,1179 1049,1179 1075,1179 1075,1185 1094,1185 1094,1179 1106,1179 1106,1185 1127,1185 1127,1197 1075,1202 1048,1202 1026,1198 1009,1202 944,1202 931,1202 921,1198 867,1202 744,1202 719,1202 676,1198 291,1202 262,1202 225,1202 207,1202 193,1202" />
+				<Baseline points="193,1197 1127,1197" />
+				<TextEquiv index="1">
+					<Unicode>geologisches Alter vertrat und wurde dadurch zugleich zur Abfassung des vorliegenden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l15" custom="readingOrder {index:15;}">
+				<Coords points="193,1210 218,1210 218,1216 234,1211 261,1210 274,1210 274,1216 366,1216 387,1212 397,1212 399,1225 418,1217 450,1211 463,1211 473,1216 490,1217 504,1211 636,1211 647,1216 691,1211 705,1211 716,1216 726,1217 741,1211 749,1211 761,1216 766,1211 816,1211 827,1216 846,1217 846,1211 903,1212 911,1216 923,1217 924,1226 942,1211 967,1211 967,1217 982,1217 982,1211 1119,1211 1120,1221 1127,1221 1127,1224 1119,1229 911,1230 903,1234 876,1234 816,1230 794,1234 330,1234 290,1229 290,1235 261,1235 261,1229 218,1229 218,1235 203,1235 203,1229 193,1229" />
+				<Baseline points="193,1229 1127,1229" />
+				<TextEquiv index="1">
+					<Unicode>Nachtrags angeregt, zu dem die Materialien schon lange bereit lagen. Durch die freund-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l16" custom="readingOrder {index:16;}">
+				<Coords points="194,1243 415,1243 425,1248 428,1257 458,1243 657,1243 678,1248 678,1242 689,1242 689,1257 701,1243 720,1243 720,1249 760,1248 791,1243 805,1243 857,1249 869,1243 1052,1242 1069,1242 1069,1248 1090,1248 1090,1242 1104,1242 1104,1248 1125,1249 1125,1256 1116,1261 857,1262 748,1266 735,1266 428,1265 384,1261 355,1261 287,1266 273,1266 273,1260 194,1260" />
+				<Baseline points="194,1261 1125,1260" />
+				<TextEquiv index="1">
+					<Unicode>lich eingehende Weise, mit welcher Herr Prof. Rupert Jones meine kritischen Bemer-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l17" custom="readingOrder {index:17;}">
+				<Coords points="194,1274 207,1274 207,1280 303,1280 303,1274 314,1274 324,1279 376,1279 386,1274 400,1274 400,1280 417,1280 430,1274 436,1274 533,1274 533,1280 563,1280 572,1274 589,1274 589,1280 629,1280 629,1274 636,1274 657,1274 657,1280 763,1280 763,1274 777,1274 777,1280 794,1280 794,1274 806,1274 959,1275 1005,1280 1016,1274 1038,1274 1038,1280 1053,1280 1062,1274 1072,1274 1088,1274 1109,1276 1120,1280 1126,1285 1126,1287 1120,1292 1109,1297 1062,1297 994,1293 959,1293 884,1298 875,1298 838,1293 744,1293 707,1297 230,1297 194,1292" />
+				<Baseline points="194,1292 1126,1292" />
+				<TextEquiv index="1">
+					<Unicode>kungen aufgenommen und in ihrer Berechtigung anerkannt hat (sie sind von ihm mitge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l18" points="193,1307 201,1306 239,1306 319,1306 335,1308 344,1306 358,1306 383,1306 469,1306 480,1311 490,1312 498,1306 521,1306 567,1306 587,1311 587,1305 597,1305 627,1306 690,1306 698,1307 709,1311 752,1312 752,1321 769,1307 808,1307 815,1316 838,1316 847,1307 872,1307 894,1307 896,1321 915,1306 923,1306 966,1306 966,1312 1031,1312 1031,1306 1038,1306 1083,1306 1106,1306 1106,1312 1127,1312 1127,1325 1072,1329 1021,1329 901,1329 886,1329 847,1325 838,1319 815,1319 808,1325 752,1329 730,1330 717,1330 717,1324 678,1324 678,1330 665,1330 665,1324 193,1324" baseline="193,1324 1127,1324" reason: differs: "168—172" against "168–172" | Wikisource:  | next_nc_e1: theilt im Märzheft 1882 der Annals of Nat. History p. 168 — 172), ist dem polemischen | german_print2_15: theilt im Märzheft 1882 der Annals of Nat. History p. 168 — 172), ist dem polemischen -->
+			<TextLine id="r3l19" custom="readingOrder {index:19;}">
+				<Coords points="192,1338 457,1338 469,1343 469,1337 476,1337 485,1340 524,1338 615,1338 626,1343 671,1344 671,1338 760,1338 770,1343 781,1340 825,1338 1047,1338 1047,1344 1127,1344 1127,1356 1083,1361 966,1361 861,1357 836,1357 807,1361 793,1361 770,1356 770,1362 746,1362 746,1356 549,1361 456,1361 313,1357 192,1356" />
+				<Baseline points="192,1356 1127,1356" />
+				<TextEquiv index="1">
+					<Unicode>Theil meiner Arbeit die Spitze abgebrochen und ich begnüge mich mit der Mittheilung neu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l20" custom="readingOrder {index:20;}">
+				<Coords points="192,1375 247,1370 331,1371 341,1376 350,1370 603,1370 671,1376 671,1384 696,1370 712,1370 722,1375 731,1370 824,1370 824,1376 834,1376 843,1370 873,1370 882,1376 902,1376 902,1370 935,1370 935,1376 959,1376 961,1385 967,1385 977,1376 986,1376 986,1369 1011,1369 1022,1370 1032,1376 1042,1376 1042,1370 1050,1370 1050,1376 1074,1375 1083,1370 1097,1370 1097,1376 1119,1376 1127,1381 1127,1384 1119,1388 1084,1389 1074,1393 1061,1393 1043,1389 977,1388 967,1394 961,1394 959,1388 935,1388 935,1394 922,1394 903,1389 702,1389 635,1393 635,1387 331,1389 283,1393 214,1393 203,1388 192,1387" />
+				<Baseline points="192,1388 1127,1389" />
+				<TextEquiv index="1">
+					<Unicode>angesammelter Thatsachen und Beobachtungen. Freilich habe ich seitdem, nach eingehen-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>arbeit während der Durchführung meiner vermuthlich noch Jahre dauernden Monographie
+nen ist. Ihre Herausgabe wurde wesentlich durch meine Beziehungen zu den Englischen
+Fachgenossen veranlasst.
+Die erste Abtheilung der gegenwärtigen Arbeit enthält einen Nachtrag zu meiner im
+Jahre 1873 erschienenen Bearbeitung der russischen silurischen Leperditien.
+Im verflossenen Herbst erhielt ich einen Artikel von T. Rupert Jones zugeschickt
+Arbeit bezieht, und vielfach Ansichten über einzelne Arten aufstellt, die den von mir
+vertretenen zuwiderlaufen. Ich schrieb ihm einen ausführlichen Brief, in dem ich meine
+früher ausgesprochene Meinung in Bezug auf die behandelten Leperditien und deren
+geologisches Alter vertrat und wurde dadurch zugleich zur Abfassung des vorliegenden
+Nachtrags angeregt, zu dem die Materialien schon lange bereit lagen. Durch die freund-
+lich eingehende Weise, mit welcher Herr Prof. Rupert Jones meine kritischen Bemer-
+kungen aufgenommen und in ihrer Berechtigung anerkannt hat (sie sind von ihm mitge-
+Theil meiner Arbeit die Spitze abgebrochen und ich begnüge mich mit der Mittheilung neu
+angesammelter Thatsachen und Beobachtungen. Freilich habe ich seitdem, nach eingehen-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="191,1458 1126,1458 1126,1566 191,1566" />
+			<!-- line left out: id="r4l0" points="220,1460 240,1459 263,1459 283,1459 300,1459 323,1459 362,1459 385,1459 416,1459 416,1470 434,1459 453,1459 467,1459 504,1459 539,1459 563,1459 589,1459 635,1459 645,1463 651,1466 658,1459 722,1459 722,1470 733,1460 751,1460 761,1458 778,1458 803,1460 803,1469 816,1460 853,1460 853,1470 855,1470 855,1473 808,1477 756,1477 703,1477 676,1477 658,1477 651,1470 645,1473 620,1477 234,1477 228,1477 220,1473" baseline="220,1473 855,1473" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 1) Miscellanea silurica I. Ueber die Russischen Silu-VII, T. 21, N 11, 1874. | german_print2_15: 1) Miscellanea silurica I. Ueber die Russischen Silu-VII, T. 21, N 11, 1874. -->
+			<!-- line left out: id="r4l1" points="191,1486 199,1482 205,1482 232,1482 274,1482 337,1482 405,1482 479,1482 506,1482 532,1482 565,1486 565,1493 574,1493 579,1482 603,1482 743,1482 767,1482 803,1482 830,1482 872,1482 884,1482 911,1482 947,1482 966,1483 990,1483 996,1484 1015,1487 1023,1483 1047,1483 1064,1483 1083,1483 1102,1487 1116,1484 1124,1484 1124,1494 1126,1494 1126,1497 1111,1501 1059,1501 1050,1501 942,1497 933,1497 743,1496 711,1499 650,1503 628,1503 617,1503 610,1496 574,1500 554,1500 548,1500 461,1496 359,1500 293,1500 269,1500 260,1500 200,1496 191,1496" baseline="191,1496 933,1496 1126,1497" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: rischen Leperditien. Mém. de l'’Acad. des sc., Sér. VII, 2) Revision der ostbaltischen Trilobiten. Abtheilung I. | german_print2_15: rischen Leperditien. Mém. de l'Acad. des sc., Sér. VII, 2) Revision der ostbaltischen Trilobiten. Abtheilung I. -->
+			<!-- line left out: id="r4l2" points="191,1504 208,1504 233,1506 234,1515 244,1504 262,1504 278,1506 280,1516 292,1506 300,1505 310,1505 329,1505 329,1516 341,1505 377,1505 401,1505 465,1505 488,1505 525,1505 551,1505 615,1505 643,1508 699,1508 758,1508 768,1505 789,1505 803,1505 808,1500 819,1500 851,1500 851,1509 874,1505 912,1505 930,1509 932,1505 959,1505 993,1505 1003,1510 1011,1506 1050,1506 1069,1506 1103,1506 1121,1510 1125,1513 1125,1516 1121,1520 1085,1520 1074,1521 1023,1521 944,1520 930,1520 920,1520 851,1519 851,1528 841,1528 841,1519 819,1519 819,1528 808,1528 808,1519 726,1519 671,1519 643,1519 474,1519 394,1519 284,1522 238,1522 234,1522 208,1519 191,1519" baseline="191,1519 898,1519 1078,1520 1125,1521" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: T. 21, N 2, 1873. Miscellanea silurica II. Neue und we-Phacopidae, Cheiruridae und Encrinuridae. Mém. de l’Aca- | german_print2_15: T. 21, N 2, 1873. Miscellanea silurica II. Neue und we- Phacopidae, Cheiruridae und Encrinuridae. Mém. de l'Aca- -->
+			<!-- line left out: id="r4l3" points="191,1527 207,1527 235,1527 259,1527 277,1527 312,1527 336,1527 344,1528 359,1527 375,1527 396,1528 420,1528 428,1527 438,1527 446,1528 477,1527 487,1527 496,1529 502,1527 519,1527 546,1527 552,1532 552,1539 567,1528 593,1528 636,1528 644,1532 646,1528 666,1527 677,1527 692,1527 704,1528 746,1528 759,1527 777,1527 813,1528 833,1529 842,1530 852,1527 868,1527 883,1530 883,1540 896,1530 902,1529 932,1529 932,1539 934,1539 934,1543 914,1543 887,1545 846,1546 841,1546 816,1543 792,1546 777,1546 716,1546 692,1546 680,1546 487,1542 453,1542 406,1542 375,1542 336,1542 312,1542 217,1545 200,1545 191,1545" baseline="191,1541 460,1541 934,1542" reason: differs: "nigbe" against "ngehe" | Wikisource:  | next_nc_e1: nig bekannte baltisch-silurische Petrefacten. Mém. Sér.] démie, Sér. VII, T. 30, N 1, 1882.
+ | german_print2_15: nig bekannte baltisch-silurische Petrefacten. Mém. Sér.] démie, Sér. VII, T. 30, N 1, 1882.
+ -->
+			<!-- line left out: id="r4l4" points="217,1550 257,1550 275,1550 338,1551 353,1551 369,1551 379,1550 394,1550 431,1551 444,1551 455,1551 460,1558 465,1552 495,1552 507,1551 540,1551 540,1558 1007,1553 1014,1553 1014,1566 1007,1566 538,1563 527,1563 495,1563 475,1563 460,1564 444,1564 431,1564 375,1564 359,1564 342,1563 328,1563 314,1563 304,1562 257,1562 217,1562" baseline="217,1562 542,1562 1014,1563" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Mémoires de l'Aead. Imp. des soienoes, VIIme Sério. 1 | german_print2_15: Mmoires do l'Aead. Imp. des solenoos, VIIme Serio. . 1 -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Die vorliegende dritte Nummer meiner Miscellanea silurica⟦⟧ erscheint als Zwischenarbeit während der Durchführung meiner vermuthlich noch Jahre dauernden Monographie unserer ostbaltischen silurischen Trilobiten, von der soeben die erste Abtheilung⟦⟧ erschienen ist. Ihre Herausgabe wurde wesentlich durch meine Beziehungen zu den Englischen Fachgenossen veranlasst.
+Die erste Abtheilung der gegenwärtigen Arbeit enthält einen Nachtrag zu meiner im Jahre 1873 erschienenen Bearbeitung der russischen silurischen Leperditien.
+Im verflossenen Herbst erhielt ich einen Artikel von T. Rupert Jones zugeschickt (Notes on the Palaeozoic bivalved Entomostraca № 12. Some Cambrian and Silurian Leperditiae and Primitiae, in Annals and magazine of Natural History, November 1881 p. 332–350), in welchem der geehrte Verfasser sich wiederholt auf meine erwähnte frühere Arbeit bezieht, und vielfach Ansichten über einzelne Arten aufstellt, die den von mir vertretenen zuwiderlaufen. Ich schrieb ihm einen ausführlichen Brief, in dem ich meine früher ausgesprochene Meinung in Bezug auf die behandelten Leperditien und deren geologisches Alter vertrat und wurde dadurch zugleich zur Abfassung des vorliegenden Nachtrags angeregt, zu dem die Materialien schon lange bereit lagen. Durch die freundlich eingehende Weise, mit welcher Herr Prof. Rupert Jones meine kritischen Bemerkungen aufgenommen und in ihrer Berechtigung anerkannt hat (sie sind von ihm mitgetheilt im Märzheft 1882 der Annals of Nat. History p. 168–172), ist dem polemischen Theil meiner Arbeit die Spitze abgebrochen und ich begnüge mich mit der Mittheilung neu angesammelter Thatsachen und Beobachtungen. Freilich habe ich seitdem, nach eingehendem
+-->
+	</Page>
+</PcGts>

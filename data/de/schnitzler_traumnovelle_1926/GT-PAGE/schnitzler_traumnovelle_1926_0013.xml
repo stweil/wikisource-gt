@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:47:09</Created>
+		<LastChange>2026-11-23T18:47:09</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Schnitzler_Traumnovelle.djvu/13 revision 3389804 of 2018-08-01T07:34:19Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="schnitzler_traumnovelle_1926_0013.png" imageWidth="800" imageHeight="1375">
+		<ReadingOrder>
+			<OrderedGroup id="ro1086416818660883360" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="295,98 429,98 429,127 295,127" />
+			<!-- line left out: id="r0l0" points="295,115 345,111 399,111 399,98 429,98 429,127 399,127 345,123 314,117 295,117" baseline="295,117 429,117" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 11 —
+ | german_print2_15: — 11 —
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="75,155 637,155 637,1174 75,1174" />
+			<!-- line left out: id="r1l0" points="75,155 106,155 114,161 130,161 148,162 148,156 157,156 163,155 183,155 183,162 194,162 194,156 202,156 212,155 229,155 243,162 264,162 264,155 313,155 313,162 325,162 325,155 350,155 380,155 380,161 404,161 410,155 428,155 451,155 451,162 461,162 466,156 495,156 508,155 556,155 586,155 586,161 596,161 622,161 634,162 634,173 579,174 546,174 524,174 508,174 466,173 461,180 428,180 415,180 415,173 236,174 183,174 130,178 106,178 86,178 75,178" baseline="75,173 634,173" reason: differs: "über" against "viel" | Wikisource:  | next_nc_e1: über, vielleicht zehn Sekunden lang, mit halboffenen | german_print2_15: über, vielleicht zehn Sekunden lang, mit halboffenen -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="76,193 101,193 101,200 153,200 157,193 170,193 170,200 185,200 185,193 289,193 289,200 303,200 303,193 317,193 317,200 342,200 346,193 372,193 372,200 395,200 395,193 408,193 408,200 420,200 426,192 446,192 468,192 468,200 479,200 479,194 509,192 523,192 544,192 598,193 598,200 619,200 619,194 627,194 627,203 634,203 634,206 627,211 408,211 408,218 372,218 358,218 358,211 138,212 128,218 100,218 100,211 76,211" />
+				<Baseline points="76,211 634,211" />
+				<TextEquiv index="1">
+					<Unicode>Lippen und flimmernden Augen. Unwillkürlich brei-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="76,235 146,231 161,231 169,238 203,238 203,232 210,232 210,238 236,238 244,231 274,231 274,238 305,237 316,231 323,231 331,237 342,237 342,231 411,231 419,237 453,237 454,245 468,231 489,231 496,232 496,238 533,237 533,231 546,231 546,238 560,238 560,231 576,231 576,237 609,238 609,231 634,231 634,249 594,249 587,256 560,256 560,249 523,250 523,256 509,256 509,249 459,254 76,249" />
+				<Baseline points="76,249 634,249" />
+				<TextEquiv index="1">
+					<Unicode>tete ich meine Arme nach ihr aus, Hingebung und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="77,269 105,269 105,275 128,276 128,269 142,269 142,276 213,276 229,270 270,269 299,269 299,276 329,276 341,269 398,269 398,283 411,269 445,269 469,275 481,270 490,270 504,275 532,276 532,269 547,269 614,269 614,275 635,276 635,288 453,288 384,288 347,288 299,288 90,288 77,287" />
+				<Baseline points="77,288 635,288" />
+				<TextEquiv index="1">
+					<Unicode>Freude war in ihrem Blick. Mit einemmal aber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="76,314 83,314 83,307 169,307 169,314 197,309 205,309 216,314 225,308 281,308 281,314 289,314 297,308 311,308 321,303 336,303 371,307 371,314 390,314 390,307 418,307 431,309 459,307 471,314 482,314 482,308 523,308 523,314 529,314 538,308 571,308 571,314 634,314 634,326 404,331 390,333 371,333 357,333 357,326 297,326 289,333 260,333 247,333 247,326 76,325" />
+				<Baseline points="76,326 634,326" />
+				<TextEquiv index="1">
+					<Unicode>schüttelte sie heftig den Kopf, löste einen Arm von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="76,346 91,346 91,352 112,352 119,346 163,346 163,353 174,353 174,346 217,346 217,353 241,350 281,350 296,353 296,346 310,346 328,346 360,346 374,346 385,347 399,352 399,346 424,346 450,346 465,346 474,353 495,353 495,346 516,346 516,352 530,347 546,346 561,346 584,346 593,352 628,350 628,357 633,357 633,358 628,358 628,365 496,365 424,369 413,371 399,371 399,364 374,364 374,371 360,371 360,364 310,364 310,371 289,371 281,365 228,365 193,370 135,370 135,364 76,364" />
+				<Baseline points="76,364 633,364" />
+				<TextEquiv index="1">
+					<Unicode>der Wand, deutete gebieterisch, ich solle mich ent-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="76,383 88,383 108,383 108,390 156,391 161,384 174,384 174,391 190,391 190,384 277,384 284,391 324,391 324,385 331,384 358,384 366,388 382,391 382,384 391,384 391,391 402,391 402,385 420,384 480,384 480,391 490,391 495,385 569,384 569,391 600,391 600,384 616,384 634,391 634,403 384,402 384,409 370,409 366,402 277,403 156,407 95,407 76,402" />
+				<Baseline points="76,402 634,402" />
+				<TextEquiv index="1">
+					<Unicode>fernen; und als ich es nicht gleich über mich brachte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="76,428 135,428 135,422 151,422 151,428 184,428 184,422 209,422 209,428 225,428 225,437 242,422 268,422 268,428 301,423 345,421 351,421 376,421 400,422 400,428 420,428 432,422 449,422 499,428 499,436 527,423 536,423 536,429 582,428 582,422 625,422 625,429 634,429 634,440 504,445 432,445 289,441 209,446 193,446 193,440 125,440 125,446 111,446 100,440 76,440" />
+				<Baseline points="76,440 634,440" />
+				<TextEquiv index="1">
+					<Unicode>zu gehorchen, kam ein solches Bitten, ein solches</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="77,459 100,459 125,460 125,466 151,466 159,460 224,460 224,466 234,466 242,460 262,460 269,461 269,467 283,467 283,460 297,460 297,466 337,467 337,460 351,460 351,466 387,467 394,460 408,460 408,467 420,467 420,459 433,459 439,466 451,466 451,460 506,460 506,466 517,466 517,460 539,460 549,464 569,467 569,460 594,460 594,466 634,467 634,479 408,479 387,484 357,485 337,485 337,478 136,479 77,477" />
+				<Baseline points="77,478 634,479" />
+				<TextEquiv index="1">
+					<Unicode>Flehen in ihre Kinderaugen, daß mir nichts anderes</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="76,498 111,498 121,499 121,505 133,505 133,498 163,498 187,498 187,513 202,498 222,498 230,498 276,498 336,498 336,505 369,505 369,498 385,498 417,498 417,505 442,505 442,513 453,498 468,498 468,505 527,505 527,498 542,498 548,505 559,505 559,498 568,498 568,505 602,500 616,500 634,509 634,511 628,511 628,524 615,524 615,517 192,522 153,517 153,524 135,524 111,524 87,524 76,524" />
+				<Baseline points="76,517 634,517" />
+				<TextEquiv index="1">
+					<Unicode>übrigblieb, als mich abzuwenden. So rasch als mög-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="76,535 85,535 92,537 117,536 122,543 139,540 163,540 181,543 187,537 220,537 225,543 267,538 267,544 306,544 312,537 342,537 342,543 363,543 366,537 395,538 406,543 406,537 421,537 421,543 443,543 448,537 477,537 497,544 503,537 537,537 542,544 562,544 562,537 635,537 635,555 537,556 497,560 448,560 388,556 366,556 363,562 328,562 328,554 306,556 187,556 76,554" />
+				<Baseline points="76,554 635,556" />
+				<TextEquiv index="1">
+					<Unicode>lich setzte ich meinen Weg wieder fort; ich sah mich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="76,574 91,574 110,574 123,575 131,581 140,581 140,575 183,575 183,581 215,581 224,574 267,574 275,581 312,581 312,575 358,575 358,581 412,581 412,589 423,574 433,574 451,574 479,574 487,581 499,581 499,575 507,575 507,581 531,581 538,574 561,574 568,576 593,575 602,582 634,582 634,593 551,593 551,599 538,599 538,593 520,593 520,599 506,599 506,593 417,598 376,598 327,593 196,593 196,599 176,599 153,599 140,599 140,593 76,592" />
+				<Baseline points="76,593 634,593" />
+				<TextEquiv index="1">
+					<Unicode>kein einziges Mal nach ihr um, nicht eigentlich aus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l12" custom="readingOrder {index:12;}">
+				<Coords points="76,612 102,612 136,612 158,612 178,612 188,616 228,619 234,612 254,612 280,612 280,619 308,619 308,612 322,612 322,619 344,619 344,627 356,619 390,619 393,612 426,612 446,612 454,619 454,612 473,612 498,612 518,612 532,613 541,617 568,619 568,613 600,613 600,619 624,619 624,613 635,613 635,631 546,636 518,636 498,636 466,636 446,636 426,636 404,636 393,636 86,635 76,631" />
+				<Baseline points="76,631 635,631" />
+				<TextEquiv index="1">
+					<Unicode>Rücksicht, aus Gehorsam, aus Ritterlichkeit, sondern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l13" custom="readingOrder {index:13;}">
+				<Coords points="76,650 112,650 136,650 136,657 147,657 155,650 166,650 166,657 187,657 187,650 202,650 226,650 241,650 260,654 284,654 306,657 310,651 317,650 345,650 345,657 376,657 381,650 390,650 408,650 454,657 456,651 473,650 481,650 500,650 513,651 515,657 527,657 527,651 535,651 535,657 584,657 584,651 619,651 619,657 631,657 631,665 634,665 634,674 630,674 586,669 408,669 86,673 76,668" />
+				<Baseline points="76,668 634,669" />
+				<TextEquiv index="1">
+					<Unicode>darum, weil ich unter ihrem letzten Blick eine solche,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l14" custom="readingOrder {index:14;}">
+				<Coords points="76,689 108,689 108,695 126,695 136,688 163,688 163,695 183,695 191,689 198,689 198,695 210,695 219,688 237,688 255,688 255,696 266,696 266,689 280,689 299,695 307,689 333,688 349,688 349,695 401,695 401,688 417,688 417,695 442,695 442,689 457,689 457,695 467,695 475,689 493,689 493,695 516,696 516,689 531,689 531,695 552,695 552,689 567,689 567,696 629,696 634,699 634,702 629,702 629,708 593,707 587,714 531,714 516,714 516,707 392,708 392,714 377,714 377,707 349,707 349,714 333,714 323,708 198,707 198,713 191,713 183,707 76,707" />
+				<Baseline points="76,707 634,708" />
+				<TextEquiv index="1">
+					<Unicode>über alles je Erlebte hinausgehende Bewegung ver-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l15" custom="readingOrder {index:15;}">
+				<Coords points="76,728 166,727 200,734 200,742 221,728 233,726 261,726 286,728 383,728 399,734 410,734 410,728 419,728 419,734 454,734 471,727 545,727 545,734 562,734 562,728 585,728 595,734 607,734 607,728 635,728 635,746 369,746 152,750 145,745 131,752 109,752 76,752" />
+				<Baseline points="76,746 635,746" />
+				<TextEquiv index="1">
+					<Unicode>spürt hatte, daß ich mich einer Ohnmacht nah</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l16" custom="readingOrder {index:16;}">
+				<Coords points="77,764 121,764 130,769 141,771 148,765 188,765 188,772 202,772 202,766 215,766 224,772 274,772 274,765 336,765 336,772 345,772 345,790 314,790 298,790 298,784 169,784 158,774 148,774 147,784 77,784" />
+				<Baseline points="77,784 345,784" />
+				<TextEquiv index="1">
+					<Unicode>fühlte.“ Und er schwieg.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l17" custom="readingOrder {index:17;}">
+				<Coords points="104,818 115,818 116,803 136,803 136,810 149,810 149,804 204,804 204,810 215,810 230,803 236,803 279,803 347,804 347,810 355,810 366,803 413,803 447,803 447,811 470,811 470,819 488,811 546,811 546,805 554,804 629,805 629,814 635,814 635,817 629,817 629,823 475,827 367,827 347,822 347,829 302,829 292,829 236,827 104,826" />
+				<Baseline points="104,822 635,823" />
+				<TextEquiv index="1">
+					<Unicode>„Und wie oft“, fragte Albertine, vor sich hin-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l18" custom="readingOrder {index:18;}">
+				<Coords points="76,848 96,848 96,841 113,841 113,848 137,848 137,841 151,841 175,842 175,849 190,849 190,842 203,842 214,848 227,848 227,842 249,842 249,848 268,848 278,842 286,842 286,848 299,848 299,842 313,842 313,848 324,848 332,842 372,842 393,849 393,842 431,842 431,849 441,849 452,856 463,856 463,843 528,842 528,849 584,849 584,842 616,842 616,849 636,849 636,861 528,861 463,864 441,867 407,867 393,867 393,860 372,860 372,867 356,867 356,860 286,860 286,867 278,867 268,860 76,859" />
+				<Baseline points="76,860 636,861" />
+				<TextEquiv index="1">
+					<Unicode>sehend und ohne jede Betonung, „bist du nachher</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l19" custom="readingOrder {index:19;}">
+				<Coords points="76,886 86,886 86,880 152,880 174,880 174,886 196,886 196,880 221,880 221,886 243,887 251,880 285,880 285,886 336,886 346,880 359,880 359,887 411,887 413,880 432,880 432,888 424,888 423,899 386,898 386,905 372,905 372,898 359,898 359,905 324,905 269,905 269,897 230,899 76,897" />
+				<Baseline points="76,897 432,899" />
+				<TextEquiv index="1">
+					<Unicode>noch denselben Weg gegangen?“</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l20" custom="readingOrder {index:20;}">
+				<Coords points="104,933 114,933 114,918 144,918 144,925 163,925 174,918 179,918 241,918 241,925 271,925 271,918 330,918 395,918 395,925 405,925 407,918 417,918 427,925 438,925 438,919 509,919 533,925 541,919 617,919 617,926 631,926 631,934 635,934 635,943 595,943 564,943 549,943 427,937 417,927 407,927 405,942 359,942 179,937 131,941 104,941" />
+				<Baseline points="104,936 635,938" />
+				<TextEquiv index="1">
+					<Unicode>„Was ich dir erzählt habe,“ erwiderte Fridolin,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l21" custom="readingOrder {index:21;}">
+				<Coords points="77,970 89,970 89,962 96,957 131,957 131,963 147,963 147,957 188,960 200,963 200,957 219,956 234,956 237,963 255,963 255,956 269,956 316,956 319,963 352,963 354,957 426,963 429,957 458,957 458,963 552,964 555,957 605,957 605,964 630,962 630,968 635,968 635,971 630,976 471,981 444,981 444,975 319,975 316,981 269,981 255,981 255,975 160,975 160,981 129,981 107,981 96,981 89,978 77,978" />
+				<Baseline points="77,975 635,976" />
+				<TextEquiv index="1">
+					<Unicode>„ereignete sich zufällig am letzten Tag unseres Aufent-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l22" custom="readingOrder {index:22;}">
+				<Coords points="76,994 120,994 198,994 232,1001 232,994 248,994 272,994 318,994 350,994 376,994 391,994 399,1002 410,1002 410,994 425,994 454,994 485,996 516,995 524,999 616,999 637,1002 637,1014 524,1018 473,1018 462,1018 76,1013" />
+				<Baseline points="76,1013 637,1013" />
+				<TextEquiv index="1">
+					<Unicode>halts in Dänemark. Auch ich weiß nicht, was unter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l23" points="76,1032 89,1032 89,1038 102,1038 102,1032 116,1032 116,1039 163,1039 171,1033 202,1033 240,1033 268,1033 268,1039 325,1039 337,1040 337,1033 353,1033 353,1039 368,1039 368,1033 383,1033 383,1039 394,1039 426,1035 471,1035 471,1048 485,1033 512,1033 536,1033 541,1034 550,1040 563,1040 575,1041 575,1034 625,1034 625,1041 636,1041 636,1052 550,1052 537,1041 537,1058 497,1058 497,1051 476,1052 453,1052 426,1052 353,1051 353,1058 337,1058 337,1051 315,1051 315,1058 300,1058 292,1051 89,1051 76,1051" baseline="76,1050 485,1051 636,1052" reason: second model: differs: "rag'auc" against "rag’ au" | Wikisource: anderen Umständen geworden wäre. Frag’ auch du | next_nc_e1: anderen Umständen geworden wäre. Frag’ auch du | german_print2_15: anderen Umständen geworden wäre. Frag' auch du -->
+			<TextLine id="r1l24" custom="readingOrder {index:24;}">
+				<Coords points="76,1070 125,1070 139,1077 150,1077 150,1071 206,1071 206,1078 215,1078 224,1071 314,1071 316,1072 316,1078 327,1078 334,1071 344,1071 344,1079 334,1079 333,1090 215,1095 193,1095 179,1090 163,1089 163,1095 150,1095 150,1089 76,1089" />
+				<Baseline points="76,1087 344,1090" />
+				<TextEquiv index="1">
+					<Unicode>nicht weiter, Albertine.“</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l25" custom="readingOrder {index:25;}">
+				<Coords points="102,1108 198,1109 218,1111 240,1111 293,1117 331,1117 331,1110 346,1110 356,1117 389,1117 398,1111 415,1111 420,1086 446,1086 466,1086 466,1115 469,1115 470,1090 475,1090 475,1117 504,1117 504,1111 635,1111 635,1130 626,1130 626,1136 611,1136 611,1130 597,1130 592,1136 504,1136 504,1129 466,1139 446,1139 420,1139 420,1129 217,1129 102,1127" />
+				<Baseline points="102,1128 635,1130" />
+				<TextEquiv index="1">
+					<Unicode>Er stand immer noch am Fenster, unbeweglich.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l26" custom="readingOrder {index:26;}">
+				<Coords points="76,1145 144,1145 165,1145 168,1148 168,1154 209,1154 209,1148 251,1148 295,1149 295,1156 315,1153 356,1153 389,1156 389,1149 442,1149 450,1156 476,1156 476,1164 490,1149 587,1150 594,1156 637,1156 637,1168 594,1168 587,1174 548,1174 548,1168 481,1172 356,1168 337,1168 307,1172 259,1172 199,1167 76,1166" />
+				<Baseline points="76,1165 637,1168" />
+				<TextEquiv index="1">
+					<Unicode>Albertine erhob sich, trat auf ihn zu, ihr Auge war</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Lippen und flimmernden Augen. Unwillkürlich brei-
+tete ich meine Arme nach ihr aus, Hingebung und
+Freude war in ihrem Blick. Mit einemmal aber
+schüttelte sie heftig den Kopf, löste einen Arm von
+der Wand, deutete gebieterisch, ich solle mich ent-
+fernen; und als ich es nicht gleich über mich brachte
+zu gehorchen, kam ein solches Bitten, ein solches
+Flehen in ihre Kinderaugen, daß mir nichts anderes
+übrigblieb, als mich abzuwenden. So rasch als mög-
+lich setzte ich meinen Weg wieder fort; ich sah mich
+kein einziges Mal nach ihr um, nicht eigentlich aus
+Rücksicht, aus Gehorsam, aus Ritterlichkeit, sondern
+darum, weil ich unter ihrem letzten Blick eine solche,
+über alles je Erlebte hinausgehende Bewegung ver-
+spürt hatte, daß ich mich einer Ohnmacht nah
+fühlte.“ Und er schwieg.
+„Und wie oft“, fragte Albertine, vor sich hin-
+sehend und ohne jede Betonung, „bist du nachher
+noch denselben Weg gegangen?“
+„Was ich dir erzählt habe,“ erwiderte Fridolin,
+„ereignete sich zufällig am letzten Tag unseres Aufent-
+halts in Dänemark. Auch ich weiß nicht, was unter
+nicht weiter, Albertine.“
+Er stand immer noch am Fenster, unbeweglich.
+Albertine erhob sich, trat auf ihn zu, ihr Auge war</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+vielleicht zehn Sekunden lang, mit halboffenen Lippen und flimmernden Augen. Unwillkürlich breitete ich meine Arme nach ihr aus, Hingebung und Freude war in ihrem Blick. Mit einemmal aber schüttelte sie heftig den Kopf, löste einen Arm von der Wand, deutete gebieterisch, ich solle mich entfernen; und als ich es nicht gleich über mich brachte zu gehorchen, kam ein solches Bitten, ein solches Flehen in ihre Kinderaugen, daß mir nichts anderes übrigblieb, als mich abzuwenden. So rasch als möglich setzte ich meinen Weg wieder fort; ich sah mich kein einziges Mal nach ihr um, nicht eigentlich aus Rücksicht, aus Gehorsam, aus Ritterlichkeit, sondern darum, weil ich unter ihrem letzten Blick eine solche, über alles je Erlebte hinausgehende Bewegung verspürt hatte, daß ich mich einer Ohnmacht nah fühlte.“ Und er schwieg.
+„Und wie oft“, fragte Albertine, vor sich hinsehend und ohne jede Betonung, „bist du nachher noch denselben Weg gegangen?“
+„Was ich dir erzählt habe,“ erwiderte Fridolin, „ereignete sich zufällig am letzten Tag unseres Aufenthalts in Dänemark. Auch ich weiß nicht, was unter anderen Umständen geworden wäre. Frag’ auch du nicht weiter, Albertine.“
+Er stand immer noch am Fenster, unbeweglich. Albertine erhob sich, trat auf ihn zu, ihr Auge war
+-->
+	</Page>
+</PcGts>

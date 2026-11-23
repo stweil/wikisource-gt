@@ -1,0 +1,420 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:48:39</Created>
+		<LastChange>2026-11-23T18:48:39</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Touren-Buch_von_Estland_mit_Fortführung_der_Touren_bis_in_die_Städte_Nord-Livlands.pdf/101 revision 3448402 of 2018-11-08T13:55:49Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="touren_buch_estland_1897_0101.png" imageWidth="1044" imageHeight="1728">
+		<ReadingOrder>
+			<OrderedGroup id="ro10502712358297356370" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="93,71 144,71 144,98 93,98" />
+			<!-- line left out: id="r0l0" points="93,73 111,71 128,71 144,72 144,97 110,98 93,98" baseline="93,98 144,97" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 166
+ | german_print2_15: 166
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="53,141 1020,141 1020,1219 53,1219" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="164,142 191,142 192,149 260,150 261,142 278,142 278,149 323,148 324,141 350,141 350,149 377,149 377,142 407,142 407,149 423,149 423,141 446,141 446,149 481,144 495,144 495,152 508,152 508,144 585,143 585,152 627,150 667,151 669,162 694,142 723,142 724,151 737,151 737,141 756,141 756,151 786,151 786,143 802,143 802,151 839,152 839,141 866,141 888,141 888,150 942,151 943,162 948,162 948,167 888,167 888,176 872,176 866,167 839,167 825,162 825,168 786,168 786,176 767,176 767,167 756,167 756,176 737,176 737,168 653,168 634,174 627,174 622,168 605,168 605,176 585,176 585,168 251,168 251,175 239,175 239,167 164,167" />
+				<Baseline points="164,167 948,167" />
+				<TextEquiv index="1">
+					<Unicode>Dampfer-Verkehr mit Riga; s. Dampfer-Linien.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="164,178 188,177 200,177 201,185 255,186 255,178 275,178 276,185 294,185 294,177 316,177 316,185 338,185 339,192 350,192 351,177 377,177 377,184 411,185 411,177 485,177 485,185 547,185 599,188 602,179 681,178 681,186 697,186 697,178 727,178 744,187 765,187 765,198 771,198 792,181 827,180 828,187 857,186 875,177 908,177 908,186 924,186 924,177 947,177 948,186 963,186 963,178 993,180 1002,178 1020,178 1020,203 591,204 547,209 527,209 527,202 449,202 449,209 429,209 429,203 164,203" />
+				<Baseline points="164,203 1020,203" />
+				<TextEquiv index="1">
+					<Unicode>Eisenbahn-Verbindung mit Walk u. über Moiseküll</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="56,226 108,224 108,216 143,215 167,215 167,224 182,224 182,215 202,215 203,224 231,224 250,214 282,215 283,224 298,224 298,215 316,215 316,223 335,223 343,215 369,215 369,223 433,223 433,215 451,215 452,223 468,223 468,214 486,214 486,223 504,223 504,213 523,213 523,245 504,245 468,240 401,240 401,248 382,248 382,240 262,240 262,247 250,247 231,240 56,242" />
+				<Baseline points="56,242 230,240 523,240" />
+				<TextEquiv index="1">
+					<Unicode>nach Fellin (Schmalspurbahn).</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="164,251 200,251 200,259 219,259 239,248 262,248 263,256 280,256 280,248 296,248 296,255 326,255 326,248 342,248 342,257 358,257 358,249 375,249 375,256 395,256 395,249 428,248 446,248 462,249 463,255 481,255 498,249 526,249 526,256 552,255 552,248 578,248 608,249 608,256 672,255 694,249 694,258 725,259 725,249 735,249 735,257 748,257 748,251 772,249 772,258 802,258 802,251 821,251 821,275 707,276 691,276 578,274 219,276 164,276" />
+				<Baseline points="164,276 408,274 821,275" />
+				<TextEquiv index="1">
+					<Unicode>Ein Ortsstatut für Radfahrer existiert.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="164,285 186,285 186,291 208,291 208,285 226,285 226,291 239,287 254,287 267,292 267,285 287,285 287,291 318,290 334,284 350,284 391,285 391,291 453,291 453,285 483,284 494,284 510,285 510,291 549,291 558,285 583,285 583,291 596,291 596,285 606,285 606,291 645,286 780,290 787,284 800,284 800,290 813,290 813,284 830,284 830,290 918,284 957,284 990,284 991,290 1019,290 1019,304 737,304 523,306 350,305 305,310 287,310 268,306 226,310 208,310 164,306" />
+				<Baseline points="164,306 1019,303" />
+				<TextEquiv index="1">
+					<Unicode>Auswärtige dürfen mit ihrer Heimatsnummer fahren und haben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="60,316 73,316 86,321 86,314 96,314 96,320 113,318 144,318 145,312 161,312 161,318 245,313 262,313 307,317 307,311 325,311 360,317 376,318 376,333 113,333 113,339 96,339 86,336 60,336" />
+				<Baseline points="60,334 231,332 376,333" />
+				<TextEquiv index="1">
+					<Unicode>folgendes zu beachten:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="163,339 243,339 243,345 259,345 259,339 287,339 287,345 300,345 300,339 318,339 357,345 369,339 388,339 388,345 402,340 418,340 433,344 451,345 467,339 484,339 485,345 499,345 499,339 542,339 543,345 730,343 748,338 786,337 798,337 815,338 832,343 840,337 864,337 865,343 935,344 949,338 977,338 977,344 1011,344 1012,350 1019,350 1019,353 1011,358 935,363 918,363 911,358 897,363 786,363 768,357 688,358 673,363 656,363 623,359 606,364 575,364 558,364 418,360 163,360" />
+				<Baseline points="163,359 1019,358" />
+				<TextEquiv index="1">
+					<Unicode>Die Radfahrer haben bei Begegnungen mit Equipagen, Fuss-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="57,375 74,371 194,372 194,365 233,365 233,372 245,372 263,366 327,365 350,365 350,371 391,371 391,365 409,365 416,366 416,372 462,367 486,369 512,367 524,372 544,365 559,365 569,366 569,372 642,371 642,365 658,365 669,368 713,364 745,364 756,367 819,371 838,363 846,363 855,369 871,364 906,366 921,371 923,381 943,371 970,370 985,365 1013,366 1013,377 1020,377 1020,380 1013,385 956,385 928,389 819,385 125,387 124,393 107,393 105,387 90,389 74,394 57,394" />
+				<Baseline points="57,388 705,384 1020,384" />
+				<TextEquiv index="1">
+					<Unicode>gängern oder mit einander stets die rechte Seite zu halten, recht-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="56,402 86,401 88,395 103,394 173,393 173,399 185,399 201,392 245,393 273,398 273,392 286,392 286,398 303,398 303,392 312,392 313,398 329,397 343,392 359,392 360,398 415,394 489,398 533,398 547,392 557,392 557,398 572,398 676,397 678,391 692,391 702,398 741,391 765,391 765,397 792,392 828,391 853,391 893,391 923,391 923,397 942,392 950,392 964,397 1019,398 1019,412 458,413 303,417 286,417 275,413 245,417 227,417 218,413 147,413 133,419 116,419 96,415 56,416" />
+				<Baseline points="56,416 184,413 372,412 1019,411" />
+				<TextEquiv index="1">
+					<Unicode>zeitig die Signalglocke ertönen zu lassen und während des Passierens</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="56,423 128,425 239,420 252,425 252,419 269,419 269,425 317,425 317,419 385,419 438,420 438,426 609,425 612,419 667,418 677,419 693,424 695,418 710,418 711,424 807,419 821,424 833,425 846,417 868,417 868,424 907,423 1018,425 1018,439 645,438 568,444 542,444 518,440 502,444 470,445 304,440 196,440 143,441 115,446 98,446 82,443 56,443" />
+				<Baseline points="56,441 318,439 1018,438" />
+				<TextEquiv index="1">
+					<Unicode>langsam zu fahren. Bei Begegnung mit Kindern oder Damen muss</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="57,449 74,449 74,455 99,454 113,447 125,446 199,446 207,451 267,448 275,446 312,446 363,452 377,446 403,447 415,452 430,446 451,446 451,452 468,447 491,447 503,452 583,452 597,445 607,445 613,446 613,452 635,450 648,445 677,445 747,451 747,445 766,445 797,445 834,451 834,445 851,445 880,445 939,447 939,459 946,459 962,451 1017,452 1017,465 979,466 946,470 864,470 693,466 677,471 648,471 648,464 637,467 607,471 556,471 549,466 312,466 277,467 253,471 234,471 199,467 185,471 143,471 125,471 57,469" />
+				<Baseline points="57,469 252,466 1017,465" />
+				<TextEquiv index="1">
+					<Unicode>der Radfahrer, falls er die Entfernung derselben nicht abwartet, vom</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="58,476 87,474 124,474 163,475 177,479 177,473 187,473 187,479 273,479 273,473 313,472 338,472 338,478 384,479 384,472 394,472 467,479 484,473 500,473 500,479 526,479 540,473 562,473 563,479 585,479 585,473 702,473 717,478 718,472 743,472 783,472 783,478 822,478 822,493 205,493 205,499 187,499 152,495 58,497" />
+				<Baseline points="58,497 232,493 822,492" />
+				<TextEquiv index="1">
+					<Unicode>Rade steigen und dasselbe an der Hand vorüberführen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l12" custom="readingOrder {index:12;}">
+				<Coords points="164,500 181,500 182,506 196,506 196,500 205,499 221,499 230,505 243,505 243,499 263,499 263,506 289,505 290,515 296,515 310,499 339,499 340,505 463,506 477,500 497,500 497,506 523,506 524,500 549,500 550,506 588,506 588,500 707,499 707,505 720,500 762,498 762,504 814,505 814,499 829,499 846,504 846,498 894,497 909,497 909,504 935,505 950,498 975,498 991,500 1001,498 1020,498 1020,519 448,521 441,520 426,514 417,514 416,520 381,521 357,519 357,525 340,525 331,520 296,524 276,521 221,524 205,524 196,521 164,522" />
+				<Baseline points="164,522 295,519 1020,519" />
+				<TextEquiv index="1">
+					<Unicode>Schnelles, Figuren- u. Freihandfahren ist innerhalb der Stadt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l13" custom="readingOrder {index:13;}">
+				<Coords points="57,536 90,536 92,528 130,527 159,527 159,533 171,533 189,527 209,527 210,533 279,526 386,532 429,527 485,527 486,533 618,532 618,526 676,527 690,531 703,529 813,526 826,532 859,531 859,525 868,525 877,531 891,530 907,525 924,525 924,531 940,531 972,526 982,526 1019,531 1019,548 1003,548 997,546 907,545 907,551 891,551 868,546 634,547 618,552 602,552 602,546 589,546 589,552 571,552 562,547 277,547 57,550" />
+				<Baseline points="57,550 339,545 1019,545" />
+				<TextEquiv index="1">
+					<Unicode>und der Vorstädte nur auf den ungepflasterten und unbepflanzten,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l14" custom="readingOrder {index:14;}">
+				<Coords points="59,563 119,560 162,560 175,554 220,554 290,554 300,554 347,554 393,554 417,555 417,576 393,579 379,579 336,574 308,573 308,579 290,579 276,573 162,575 89,577 76,582 59,582" />
+				<Baseline points="59,577 275,573 417,576" />
+				<TextEquiv index="1">
+					<Unicode>grossen Plätzen gestattet.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l15" custom="readingOrder {index:15;}">
+				<Coords points="163,581 217,580 225,585 269,586 271,579 337,579 337,585 463,586 485,594 489,580 500,580 524,581 533,585 573,585 573,596 579,596 600,586 624,586 625,580 701,579 701,585 715,585 715,579 724,579 724,585 741,585 741,579 776,579 776,585 789,585 789,579 836,579 852,584 881,584 882,578 905,578 914,585 952,585 979,579 995,579 995,585 1020,585 1020,600 852,599 794,604 579,605 403,601 388,606 370,606 349,600 193,602 163,601" />
+				<Baseline points="163,600 1020,600" />
+				<TextEquiv index="1">
+					<Unicode>Während des ganzen Jahres, mit alleiniger Ausnahme der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l16" custom="readingOrder {index:16;}">
+				<Coords points="57,610 74,610 75,616 123,613 207,612 240,608 287,606 340,606 353,608 365,612 380,606 458,608 545,607 569,613 588,621 592,607 604,607 604,613 620,613 621,606 639,605 648,605 650,621 656,621 677,612 690,612 690,606 700,606 700,612 716,612 717,606 778,606 779,612 792,612 812,606 824,605 843,605 878,605 878,611 891,606 899,606 920,611 1018,612 1018,621 1008,621 1008,627 732,627 648,631 310,627 310,633 287,633 265,627 57,630" />
+				<Baseline points="57,630 264,627 1018,626" />
+				<TextEquiv index="1">
+					<Unicode>Sommermonate (Mitte Mai bis Mitte Juli), sind die Radfahrer ver-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l17" custom="readingOrder {index:17;}">
+				<Coords points="56,642 66,642 66,635 142,636 155,641 156,635 229,640 243,634 260,634 262,640 376,635 432,639 480,639 547,634 565,634 565,640 577,640 592,633 609,633 610,639 714,639 714,633 750,634 766,638 838,639 838,633 873,632 896,632 896,638 940,639 950,633 966,633 967,639 1019,639 1019,653 838,654 799,658 714,658 673,654 480,659 464,659 447,655 432,659 197,655 99,657 81,662 56,662" />
+				<Baseline points="56,656 243,654 1019,653" />
+				<TextEquiv index="1">
+					<Unicode>pflichtet von Sonnenuntergang an bis Sonnenaufgang mit einer bren-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l18" custom="readingOrder {index:18;}">
+				<Coords points="57,669 106,668 106,662 122,662 136,667 151,668 165,661 177,661 177,668 200,668 201,662 225,662 254,666 314,666 327,660 340,660 340,666 353,666 353,660 362,660 362,666 413,667 415,678 420,678 420,682 151,682 106,684 57,684" />
+				<Baseline points="57,684 267,681 420,681" />
+				<TextEquiv index="1">
+					<Unicode>nenden Laterne zu fahren.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l19" custom="readingOrder {index:19;}">
+				<Coords points="164,688 185,688 185,694 199,694 200,687 219,687 219,693 231,689 259,690 271,693 271,687 301,687 301,693 375,688 419,689 450,693 463,687 473,687 474,693 487,689 512,687 590,687 590,693 605,693 606,687 634,687 634,693 647,693 647,686 663,686 663,692 718,692 718,707 344,708 317,713 287,713 271,713 164,709" />
+				<Baseline points="164,708 718,707" />
+				<TextEquiv index="1">
+					<Unicode>Vollständig verboten ist das Radfahren:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l20" custom="readingOrder {index:20;}">
+				<Coords points="162,721 177,721 177,714 186,714 206,720 228,715 290,716 302,720 302,714 318,714 345,714 376,714 391,719 406,720 421,714 449,714 449,720 470,715 493,715 508,720 508,714 518,714 525,720 553,720 553,738 528,735 449,738 376,735 275,735 186,739 177,739 162,736" />
+				<Baseline points="162,736 553,735" />
+				<TextEquiv index="1">
+					<Unicode>a) auf sämtlichen Trottoirs;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l21" custom="readingOrder {index:21;}">
+				<Coords points="162,742 178,740 187,740 272,741 272,747 289,747 305,741 409,742 487,747 487,766 325,762 314,766 305,766 207,761 187,767 178,767 162,762" />
+				<Baseline points="162,762 487,762" />
+				<TextEquiv index="1">
+					<Unicode>b) in der Ritterstrasse;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l22" custom="readingOrder {index:22;}">
+				<Coords points="162,774 176,774 176,768 215,768 252,774 304,773 319,767 342,767 385,768 385,774 454,774 454,768 473,768 476,774 481,774 481,793 426,794 411,794 176,793 162,789" />
+				<Baseline points="162,788 481,789" />
+				<TextEquiv index="1">
+					<Unicode>c) im sog. Kinderpark;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l23" custom="readingOrder {index:23;}">
+				<Coords points="164,795 178,794 216,794 216,800 253,795 395,795 395,801 421,801 442,795 498,794 510,794 570,794 570,800 585,795 595,795 599,807 608,807 613,795 645,795 646,801 670,801 671,795 689,795 689,801 702,801 726,795 736,795 757,801 757,795 773,795 774,801 791,801 792,795 848,795 857,800 888,800 888,810 894,810 921,795 947,795 948,801 962,801 962,795 971,795 971,801 1017,801 1017,816 962,816 894,820 888,820 879,816 726,820 613,816 608,810 595,815 586,816 206,815 187,821 178,821 164,816" />
+				<Baseline points="164,815 1017,816" />
+				<TextEquiv index="1">
+					<Unicode>d) in der bei der St. Nikolai-Kirche befindlichen, kleinen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l24" custom="readingOrder {index:24;}">
+				<Coords points="203,821 233,821 319,827 319,821 336,821 336,827 392,828 392,847 369,847 351,847 351,841 278,842 233,847 216,847 203,842" />
+				<Baseline points="203,842 392,841" />
+				<TextEquiv index="1">
+					<Unicode>Gartenanlage;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l25" custom="readingOrder {index:25;}">
+				<Coords points="163,855 176,855 176,847 185,847 205,854 237,849 262,848 278,848 292,853 379,854 395,848 410,848 411,855 437,855 450,848 471,848 471,854 485,849 502,849 502,855 515,855 531,848 547,848 547,854 573,855 591,849 611,849 611,855 639,855 639,849 654,849 657,855 718,855 735,848 751,848 751,855 777,855 791,849 823,849 823,855 885,855 886,849 902,849 902,855 942,850 953,850 1019,856 1019,870 205,869 185,875 176,875 176,869 163,869" />
+				<Baseline points="163,868 1019,870" />
+				<TextEquiv index="1">
+					<Unicode>e) auf dem von der Ecke des Parks an der Alexanderstrasse</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l26" custom="readingOrder {index:26;}">
+				<Coords points="204,876 222,875 230,875 230,881 300,882 309,875 338,875 339,881 354,876 372,876 404,881 414,876 602,876 602,882 657,882 657,876 679,876 679,882 709,882 718,876 737,876 738,882 765,882 765,876 835,876 835,882 880,876 896,876 909,881 926,882 933,876 963,876 963,882 1019,882 1019,901 995,901 963,901 957,897 204,895" />
+				<Baseline points="204,895 1019,897" />
+				<TextEquiv index="1">
+					<Unicode>bis zur Finken-Gasse durch den alten Park führenden Wege;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l27" custom="readingOrder {index:27;}">
+				<Coords points="168,903 179,901 216,901 277,908 294,902 309,902 323,907 349,904 389,904 407,907 458,908 516,908 531,902 547,902 547,908 574,909 587,903 598,902 614,902 614,909 638,909 638,902 658,902 660,909 672,909 673,903 683,903 683,909 697,909 697,919 720,904 737,904 751,908 751,902 761,902 762,909 853,908 868,902 887,902 888,909 910,909 910,903 963,902 982,902 982,909 1020,909 1020,929 1015,929 963,924 838,924 793,928 776,928 737,924 638,924 457,927 448,923 421,923 389,927 373,927 294,922 266,928 249,928 247,922 187,927 179,927 168,923" />
+				<Baseline points="168,922 1020,924" />
+				<TextEquiv index="1">
+					<Unicode>f) längs der äusseren, an der Karristr. belegenen Park-Allee;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l28" custom="readingOrder {index:28;}">
+				<Coords points="162,935 178,935 178,928 187,928 217,930 280,929 294,934 466,935 480,929 506,929 506,935 520,935 520,929 529,929 529,935 590,930 620,930 620,936 648,935 660,930 677,930 678,936 692,931 720,930 799,930 800,936 826,936 841,929 857,929 857,935 886,935 903,929 922,929 923,936 1019,936 1019,951 466,950 338,954 187,954 162,954" />
+				<Baseline points="162,949 767,949 1019,951" />
+				<TextEquiv index="1">
+					<Unicode>g) auf der grossen u. kleinen Flossbrücke über den Pernowa</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l29" points="203,955 232,955 232,961 273,961 315,960 344,960 345,972 365,955 380,955 381,962 410,962 426,956 443,956 443,962 460,961 476,956 491,956 492,962 519,962 519,956 534,956 536,962 580,957 600,957 600,963 630,963 630,957 651,957 651,978 617,978 580,977 380,976 344,981 327,981 327,975 315,976 203,976" baseline="203,976 564,976 651,978" reason: differs: "ach." against "ach, In" | Wikisource:  | next_nc_e1: Fluss resp. den Saukschen Bach.
+ | german_print2_15: Fluss resp. den Saunkschen Bach.
+ -->
+			<TextLine id="r1l30" custom="readingOrder {index:30;}">
+				<Coords points="163,983 219,988 219,982 238,982 238,988 267,988 269,998 288,988 303,987 321,982 332,982 392,982 409,983 409,989 439,989 455,983 665,983 665,989 761,988 802,990 802,983 820,983 820,990 903,983 921,983 945,984 945,990 1017,989 1017,1003 834,1005 321,1003 274,1008 269,1008 238,1003 163,1003" />
+				<Baseline points="163,1003 1017,1003" />
+				<TextEquiv index="1">
+					<Unicode>In allen, auf beiden Seiten mit Alleen versehenen Strassen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l31" custom="readingOrder {index:31;}">
+				<Coords points="57,1010 73,1010 73,1017 100,1016 100,1010 112,1010 151,1015 151,1008 161,1008 214,1015 237,1008 253,1008 253,1015 280,1015 299,1009 393,1009 395,1016 499,1016 519,1009 542,1009 544,1015 578,1010 587,1010 630,1011 643,1016 665,1010 706,1010 719,1011 719,1017 732,1017 733,1026 739,1026 760,1016 833,1011 892,1012 959,1016 977,1010 991,1010 992,1016 1018,1017 1018,1030 848,1031 777,1035 733,1035 682,1031 674,1035 665,1035 613,1031 57,1031" />
+				<Baseline points="57,1031 1018,1030" />
+				<TextEquiv index="1">
+					<Unicode>darf seitens der Radfahrer nur die linke Seite, gerechnet von der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l32" custom="readingOrder {index:32;}">
+				<Coords points="57,1038 86,1038 102,1043 102,1036 118,1036 158,1041 187,1041 188,1052 207,1042 263,1042 276,1036 296,1036 311,1041 311,1035 328,1035 335,1041 384,1036 401,1036 403,1043 441,1039 455,1036 487,1037 501,1043 552,1042 553,1036 568,1036 568,1042 605,1043 643,1043 644,1037 665,1037 690,1042 690,1036 711,1036 713,1043 727,1043 727,1037 735,1037 752,1042 753,1036 761,1036 762,1042 807,1043 820,1037 841,1037 886,1042 888,1036 911,1036 911,1042 958,1043 978,1037 994,1037 994,1043 1020,1043 1020,1057 857,1057 780,1062 762,1062 752,1057 635,1058 605,1062 591,1062 521,1057 207,1056 193,1062 188,1062 187,1056 57,1059" />
+				<Baseline points="57,1058 192,1056 1020,1057" />
+				<TextEquiv index="1">
+					<Unicode>Stadt aus, zum Fahren benutzt werden, mit alleiniger Ausnahme der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l33" custom="readingOrder {index:33;}">
+				<Coords points="56,1070 98,1069 98,1063 115,1063 184,1069 199,1062 215,1062 215,1068 241,1069 254,1062 277,1062 277,1068 305,1069 305,1062 327,1062 327,1068 340,1064 392,1068 443,1064 465,1069 465,1063 475,1063 489,1068 521,1069 583,1064 645,1064 656,1068 656,1084 590,1085 507,1089 489,1089 489,1083 56,1085" />
+				<Baseline points="56,1085 153,1083 656,1084" />
+				<TextEquiv index="1">
+					<Unicode>rechts an der Karristrasse belegenen Allee.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l34" custom="readingOrder {index:34;}">
+				<Coords points="162,1090 224,1089 243,1089 243,1095 326,1095 327,1089 337,1089 337,1095 400,1095 401,1106 428,1090 449,1090 449,1096 491,1096 492,1090 517,1090 517,1096 550,1095 614,1097 615,1107 621,1107 642,1090 666,1090 666,1096 683,1091 732,1090 732,1098 753,1097 754,1090 805,1091 807,1097 853,1095 970,1096 971,1107 990,1097 1019,1097 1019,1112 884,1111 869,1115 746,1112 732,1115 621,1116 584,1116 567,1116 566,1110 533,1110 533,1116 516,1116 516,1110 463,1111 406,1115 314,1110 162,1110" />
+				<Baseline points="162,1110 921,1110 1019,1112" />
+				<TextEquiv index="1">
+					<Unicode>Bei Prozessionen, Beerdigungen, Musikaufführungen u. s. w.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l35" custom="readingOrder {index:35;}">
+				<Coords points="56,1118 64,1118 65,1124 79,1119 104,1116 119,1116 135,1121 146,1122 161,1116 181,1116 181,1122 195,1122 195,1116 221,1116 221,1122 233,1122 233,1116 249,1116 249,1122 308,1122 308,1116 366,1116 366,1122 378,1122 378,1116 389,1116 389,1122 469,1123 483,1116 507,1116 507,1123 525,1123 538,1116 566,1116 601,1116 617,1116 631,1118 631,1134 637,1134 651,1122 663,1122 680,1118 693,1118 693,1124 721,1119 834,1119 861,1123 861,1117 870,1117 870,1123 941,1123 943,1134 947,1134 947,1138 651,1137 637,1143 617,1143 566,1143 550,1143 550,1137 452,1138 438,1142 205,1141 56,1138" />
+				<Baseline points="56,1138 947,1138" />
+				<TextEquiv index="1">
+					<Unicode>ist das Fahren, auf Verlangen der Polizei, sofort zu unterlassen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l36" custom="readingOrder {index:36;}">
+				<Coords points="163,1143 233,1143 245,1144 259,1149 259,1143 278,1143 278,1149 309,1149 310,1159 336,1149 374,1149 390,1143 407,1143 407,1149 433,1149 447,1143 467,1143 468,1149 484,1149 485,1143 500,1143 513,1144 513,1150 525,1150 525,1143 542,1143 542,1150 614,1145 615,1151 640,1151 654,1143 675,1143 694,1144 694,1150 711,1150 751,1145 773,1145 790,1150 820,1151 842,1145 931,1145 961,1150 979,1144 990,1144 990,1150 1002,1145 1018,1145 1018,1168 896,1165 743,1165 711,1170 694,1170 640,1165 467,1165 310,1168 293,1164 216,1168 163,1164" />
+				<Baseline points="163,1164 1018,1165" />
+				<TextEquiv index="1">
+					<Unicode>An Stellen, wo das Radfahren im Allgemeinen verboten ist,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l37" custom="readingOrder {index:37;}">
+				<Coords points="53,1170 63,1170 65,1177 79,1177 80,1170 96,1170 96,1176 125,1176 125,1168 141,1168 155,1176 179,1176 179,1170 240,1170 240,1176 300,1176 300,1170 331,1170 331,1176 356,1176 371,1170 400,1173 436,1170 455,1170 455,1176 468,1176 468,1170 485,1170 486,1176 511,1177 528,1170 549,1170 549,1176 599,1172 600,1178 615,1178 615,1172 638,1172 650,1176 650,1186 656,1186 677,1171 687,1171 687,1177 700,1173 791,1177 791,1171 861,1171 887,1172 887,1187 912,1171 927,1171 927,1177 954,1177 968,1170 987,1170 987,1177 1004,1177 1005,1171 1018,1171 1018,1192 954,1192 892,1196 849,1192 805,1197 784,1197 766,1197 752,1191 656,1195 638,1192 528,1195 125,1191 96,1192 63,1197 53,1197" />
+				<Baseline points="53,1192 140,1190 1018,1192" />
+				<TextEquiv index="1">
+					<Unicode>jedoch mit Ausnahme sämtlicher Trottoirs, ist es gestattet, das Rad</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l38" points="55,1203 71,1203 87,1204 100,1197 117,1197 130,1202 142,1203 156,1197 181,1197 181,1203 202,1203 202,1196 228,1196 245,1203 276,1203 289,1197 302,1197 334,1197 334,1203 383,1203 383,1218 276,1218 195,1218 130,1218 87,1219 55,1219" baseline="55,1219 86,1218 227,1217 383,1217" reason: beside a footnote mark or an unknown template | Wikisource:  | next_nc_e1: an der Hand zu führen.
+ | german_print2_15: an der Hand zu führen.
+ -->
+			<TextEquiv index="1">
+				<Unicode>Dampfer-Verkehr mit Riga; s. Dampfer-Linien.
+Eisenbahn-Verbindung mit Walk u. über Moiseküll
+nach Fellin (Schmalspurbahn).
+Ein Ortsstatut für Radfahrer existiert.
+Auswärtige dürfen mit ihrer Heimatsnummer fahren und haben
+folgendes zu beachten:
+Die Radfahrer haben bei Begegnungen mit Equipagen, Fuss-
+gängern oder mit einander stets die rechte Seite zu halten, recht-
+zeitig die Signalglocke ertönen zu lassen und während des Passierens
+langsam zu fahren. Bei Begegnung mit Kindern oder Damen muss
+der Radfahrer, falls er die Entfernung derselben nicht abwartet, vom
+Rade steigen und dasselbe an der Hand vorüberführen.
+Schnelles, Figuren- u. Freihandfahren ist innerhalb der Stadt
+und der Vorstädte nur auf den ungepflasterten und unbepflanzten,
+grossen Plätzen gestattet.
+Während des ganzen Jahres, mit alleiniger Ausnahme der
+Sommermonate (Mitte Mai bis Mitte Juli), sind die Radfahrer ver-
+pflichtet von Sonnenuntergang an bis Sonnenaufgang mit einer bren-
+nenden Laterne zu fahren.
+Vollständig verboten ist das Radfahren:
+a) auf sämtlichen Trottoirs;
+b) in der Ritterstrasse;
+c) im sog. Kinderpark;
+d) in der bei der St. Nikolai-Kirche befindlichen, kleinen
+Gartenanlage;
+e) auf dem von der Ecke des Parks an der Alexanderstrasse
+bis zur Finken-Gasse durch den alten Park führenden Wege;
+f) längs der äusseren, an der Karristr. belegenen Park-Allee;
+g) auf der grossen u. kleinen Flossbrücke über den Pernowa
+In allen, auf beiden Seiten mit Alleen versehenen Strassen
+darf seitens der Radfahrer nur die linke Seite, gerechnet von der
+Stadt aus, zum Fahren benutzt werden, mit alleiniger Ausnahme der
+rechts an der Karristrasse belegenen Allee.
+Bei Prozessionen, Beerdigungen, Musikaufführungen u. s. w.
+ist das Fahren, auf Verlangen der Polizei, sofort zu unterlassen.
+An Stellen, wo das Radfahren im Allgemeinen verboten ist,
+jedoch mit Ausnahme sämtlicher Trottoirs, ist es gestattet, das Rad</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="54,1294 1019,1294 1019,1639 54,1639" />
+			<!-- line left out: id="r2l0" points="164,1295 198,1295 199,1305 289,1305 291,1294 313,1294 313,1317 319,1317 356,1305 393,1305 393,1314 400,1314 453,1314 517,1314 517,1305 533,1305 533,1314 563,1314 563,1308 578,1308 578,1314 604,1309 635,1306 653,1306 715,1306 746,1307 746,1314 762,1314 782,1315 782,1307 799,1307 799,1315 812,1315 814,1327 820,1327 839,1305 902,1305 902,1314 935,1314 935,1322 944,1322 962,1314 983,1314 1002,1315 1003,1307 1017,1307 1017,1332 962,1332 944,1326 935,1326 935,1332 839,1332 820,1339 814,1339 812,1333 737,1333 715,1333 715,1339 695,1339 695,1332 635,1333 591,1333 546,1332 533,1333 393,1333 370,1333 356,1332 289,1329 228,1329 164,1329" baseline="164,1332 1017,1332" reason: differs: "Rewa" against "n. ⟦" | Wikisource:  | next_nc_e1: Rewal,. Gouvernementsstadt Estlands, Hafen- und | german_print2_15: Reual. Gouvernementsstadt Estlands, Hafen- und -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="55,1344 86,1344 86,1351 122,1350 122,1341 140,1341 140,1350 155,1350 155,1341 165,1341 166,1350 179,1350 179,1344 206,1344 206,1350 223,1350 223,1341 240,1341 254,1343 254,1362 260,1362 281,1350 324,1350 324,1341 350,1341 350,1350 403,1350 403,1342 421,1342 439,1350 474,1350 493,1341 518,1341 518,1350 609,1342 609,1351 625,1351 625,1343 640,1343 640,1350 672,1350 684,1342 710,1342 710,1351 745,1350 745,1341 764,1341 813,1343 813,1351 841,1351 855,1341 888,1341 889,1350 927,1350 927,1342 937,1342 937,1350 966,1351 966,1341 984,1341 985,1350 1017,1351 1017,1368 609,1369 281,1366 260,1374 254,1374 254,1367 55,1368" />
+				<Baseline points="55,1368 1017,1368" />
+				<TextEquiv index="1">
+					<Unicode>Handelsstadt, malerisch an einer tiefen Bucht des Finnischen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="54,1379 88,1379 88,1386 128,1386 128,1377 150,1377 150,1386 288,1385 288,1377 340,1377 342,1386 371,1386 388,1377 421,1377 456,1377 456,1397 481,1377 517,1377 517,1386 565,1386 565,1378 584,1378 584,1386 599,1386 600,1378 619,1378 619,1387 690,1386 690,1378 701,1378 701,1386 771,1386 771,1398 778,1398 806,1378 835,1378 854,1380 872,1386 941,1384 942,1398 948,1398 966,1386 1015,1386 1015,1403 966,1403 948,1410 942,1410 941,1404 926,1404 926,1411 906,1411 906,1403 806,1403 778,1410 771,1410 771,1403 736,1404 736,1411 716,1411 716,1404 675,1404 675,1411 655,1411 637,1404 54,1404" />
+				<Baseline points="54,1404 230,1402 1015,1403" />
+				<TextEquiv index="1">
+					<Unicode>Meerbusens und der Balt. Eisenbahn gelegen, hat enge, un-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="56,1423 120,1422 120,1413 131,1413 131,1422 158,1422 158,1416 175,1416 202,1421 202,1413 212,1413 212,1421 247,1421 276,1412 296,1412 320,1414 320,1421 401,1421 403,1434 409,1434 440,1413 467,1413 480,1415 480,1422 494,1422 513,1413 584,1414 585,1422 599,1422 599,1414 629,1413 646,1417 708,1422 709,1434 715,1434 744,1413 764,1413 779,1416 779,1422 795,1422 795,1414 812,1414 826,1416 826,1423 852,1421 1001,1422 1002,1414 1017,1414 1017,1439 744,1439 715,1446 709,1446 708,1439 547,1439 547,1446 527,1446 527,1439 440,1439 409,1445 403,1445 401,1438 285,1438 285,1445 276,1445 247,1439 231,1439 231,1446 212,1446 202,1439 105,1439 105,1447 86,1447 86,1441 56,1440" />
+				<Baseline points="56,1440 246,1438 1017,1438" />
+				<TextEquiv index="1">
+					<Unicode>regelmässige Strassen, alte Giebelhäuser, Stadtmauern und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="56,1450 89,1450 89,1458 124,1455 148,1450 186,1451 186,1457 270,1457 279,1449 334,1448 341,1448 407,1448 426,1457 457,1457 458,1469 464,1469 484,1449 626,1450 626,1459 661,1458 661,1474 647,1476 528,1474 528,1481 520,1481 519,1474 56,1475" />
+				<Baseline points="56,1475 661,1474" />
+				<TextEquiv index="1">
+					<Unicode>Mauertürme und zählt ca. 65,000 Ew.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="162,1482 184,1482 194,1483 194,1489 208,1489 222,1482 239,1482 251,1483 267,1488 267,1482 284,1482 365,1483 366,1489 379,1489 379,1483 397,1483 465,1489 480,1482 497,1482 497,1489 523,1489 536,1483 595,1483 619,1484 619,1490 667,1489 680,1483 782,1484 797,1489 798,1483 813,1483 878,1488 879,1482 924,1482 924,1489 975,1488 998,1484 1019,1484 1019,1504 651,1504 636,1509 595,1509 559,1509 559,1503 162,1503" />
+				<Baseline points="162,1503 1019,1503" />
+				<TextEquiv index="1">
+					<Unicode>Die Stadt besteht aus der hügeligen Unterstadt und dem auf</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="56,1516 71,1511 124,1515 137,1509 151,1509 151,1515 162,1515 162,1509 173,1509 173,1515 184,1510 241,1515 251,1509 272,1509 272,1515 288,1515 288,1509 306,1509 352,1509 385,1510 399,1515 448,1516 448,1510 560,1510 571,1515 591,1516 619,1510 636,1511 650,1516 650,1510 757,1510 757,1516 848,1516 858,1509 888,1509 927,1510 927,1516 955,1515 956,1525 975,1509 991,1509 992,1515 1007,1511 1017,1511 1017,1530 961,1534 872,1534 848,1531 431,1531 416,1535 399,1535 289,1530 212,1529 212,1535 194,1535 97,1531 56,1531" />
+				<Baseline points="56,1531 240,1529 1017,1530" />
+				<TextEquiv index="1">
+					<Unicode>einer felsigen Anhöhe liegenden Dome. Seit 1710 in russ. Besitze, hat</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l7" points="56,1537 77,1537 78,1544 92,1542 100,1542 100,1535 133,1535 181,1536 208,1536 211,1547 228,1542 260,1537 273,1537 302,1542 302,1536 320,1536 335,1538 348,1537 379,1536 399,1536 399,1542 414,1542 426,1538 439,1538 455,1542 488,1542 573,1542 587,1543 587,1537 596,1537 596,1543 613,1543 614,1554 654,1536 676,1536 676,1543 689,1543 689,1537 750,1537 750,1543 776,1543 795,1537 813,1537 829,1539 843,1543 843,1537 851,1536 868,1536 884,1537 915,1542 915,1536 926,1536 926,1542 1016,1542 1016,1557 957,1561 902,1561 868,1561 851,1561 843,1558 619,1558 596,1558 488,1561 472,1561 427,1558 288,1561 271,1561 208,1557 118,1558 56,1558" baseline="56,1559 154,1556 358,1556 1016,1557" reason: differs: "857.auf" against "57 aufg" | Wikisource:  | next_nc_e1: Reval 1857. aufgehört Festung zu sein. Drei der höchstgelegenen | german_print2_15: Reval 1857 aufgehört Festung zu sein. Drei der höchstgelegenen -->
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="56,1564 69,1563 86,1563 126,1563 158,1568 222,1569 222,1563 243,1563 255,1569 279,1568 293,1563 303,1563 347,1563 368,1563 368,1569 424,1569 424,1563 475,1563 486,1569 498,1564 508,1564 524,1569 525,1563 559,1563 559,1569 611,1570 611,1564 621,1564 621,1570 667,1569 667,1563 683,1563 683,1569 696,1569 704,1563 726,1563 726,1570 742,1570 742,1564 798,1569 916,1569 916,1563 965,1563 977,1564 977,1579 990,1574 1017,1574 1017,1577 990,1577 981,1584 856,1584 784,1589 767,1589 540,1584 141,1583 56,1585" />
+				<Baseline points="56,1585 187,1583 1017,1584" />
+				<TextEquiv index="1">
+					<Unicode>Bastionen mit weiter Fernsicht sind in reizende Anlagen verwandelt. —</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l9" points="56,1591 77,1591 77,1597 92,1596 108,1596 131,1589 146,1589 146,1595 176,1595 182,1585 200,1585 233,1589 233,1595 249,1590 276,1590 278,1605 303,1589 333,1589 350,1590 380,1590 394,1595 476,1596 476,1590 501,1590 501,1596 531,1591 564,1590 589,1590 589,1597 602,1597 622,1591 642,1591 690,1590 705,1590 705,1607 732,1591 747,1591 762,1596 762,1590 780,1590 780,1596 791,1596 791,1590 809,1590 809,1597 837,1597 837,1590 872,1590 896,1591 939,1596 939,1590 959,1590 1004,1591 1016,1596 1016,1610 975,1610 959,1611 853,1612 747,1612 732,1612 515,1611 476,1611 443,1611 431,1611 380,1610 333,1610 262,1610 233,1610 222,1610 200,1621 182,1621 176,1609 108,1611 92,1612 56,1612" baseline="56,1611 175,1609 282,1609 1016,1610" reason: second model has no such line | Wikisource: Von den 7 luth. Kirchen verdient die im 13. Jahrhundert erbaute | next_nc_e1: Von den 7 luth. Kirchen verdient die im 13. Jahrhundert erbaute | german_print2_15:  -->
+			<!-- line left out: id="r2l10" points="57,1617 83,1617 126,1615 137,1615 137,1621 151,1616 161,1616 194,1616 202,1617 202,1623 215,1621 228,1616 245,1616 246,1622 286,1622 286,1616 319,1616 333,1622 347,1622 347,1616 377,1616 387,1622 425,1617 505,1617 505,1623 519,1623 519,1617 536,1617 537,1623 568,1623 582,1617 602,1617 603,1623 619,1623 728,1620 748,1617 766,1617 766,1623 783,1618 795,1618 813,1624 828,1623 896,1622 909,1622 910,1616 926,1616 926,1623 956,1623 957,1633 989,1617 1001,1617 1001,1623 1016,1623 1016,1637 962,1638 939,1638 896,1638 845,1638 828,1639 813,1639 750,1638 656,1638 551,1638 519,1638 473,1638 437,1638 425,1638 229,1637 194,1637 170,1637 161,1636 152,1637 127,1637 92,1639 57,1639" baseline="57,1639 107,1637 1016,1637" reason: differs: "446hohe" against "446' ho" | Wikisource:  | next_nc_e1: St. Olai-Kirche mit einem 446 hohen Turme erwähnt zu werden. In | german_print2_15: St. Olai-Kirche mit einem 446’ hohen Turme erwähnt zu werden. In -->
+			<TextEquiv index="1">
+				<Unicode>Handelsstadt, malerisch an einer tiefen Bucht des Finnischen
+Meerbusens und der Balt. Eisenbahn gelegen, hat enge, un-
+regelmässige Strassen, alte Giebelhäuser, Stadtmauern und
+Mauertürme und zählt ca. 65,000 Ew.
+Die Stadt besteht aus der hügeligen Unterstadt und dem auf
+einer felsigen Anhöhe liegenden Dome. Seit 1710 in russ. Besitze, hat
+Bastionen mit weiter Fernsicht sind in reizende Anlagen verwandelt. —</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Dampfer-Verkehr mit Riga; s. Dampfer-Linien.
+Eisenbahn-Verbindung mit Walk u. über Moiseküll nach Fellin (Schmalspurbahn).
+Ein Ortsstatut für Radfahrer existiert.
+Auswärtige dürfen mit ihrer Heimatsnummer fahren und haben folgendes zu beachten:
+Die Radfahrer haben bei Begegnungen mit Equipagen, Fussgängern oder mit einander stets die rechte Seite zu halten, rechtzeitig die Signalglocke ertönen zu lassen und während des Passierens langsam zu fahren. Bei Begegnung mit Kindern oder Damen muss der Radfahrer, falls er die Entfernung derselben nicht abwartet, vom
+Rade steigen und dasselbe an der Hand vorüberführen.
+Schnelles, Figuren- u. Freihandfahren ist innerhalb der Stadt und der Vorstädte nur auf den ungepflasterten und unbepflanzten, grossen Plätzen gestattet.
+Während des ganzen Jahres, mit alleiniger Ausnahme der Sommermonate (Mitte Mai bis Mitte Juli), sind die Radfahrer verpflichtet von Sonnenuntergang an bis Sonnenaufgang mit einer brennenden Laterne zu fahren.
+Vollständig verboten ist das Radfahren:
+a) auf sämtlichen Trottoirs;
+b) in der Ritterstrasse;
+c) im sog. Kinderpark;
+d) in der bei der St. Nikolai-Kirche befindlichen, kleinen Gartenanlage;
+e) auf dem von der Ecke des Parks an der Alexanderstrasse bis zur Finken-Gasse durch den alten Park führenden Wege;
+f) längs der äusseren, an der Karristr. belegenen Park-Allee;
+g) auf der grossen u. kleinen Flossbrücke über den Pernowa Fluss resp. den Saukschen Bach,
+In allen, auf beiden Seiten mit Alleen versehenen Strassen darf seitens der Radfahrer nur die linke Seite, gerechnet von der Stadt aus, zum Fahren benutzt werden, mit alleiniger Ausnahme der rechts an der Karristrasse belegenen Allee.
+Bei Prozessionen, Beerdigungen, Musikaufführungen u. s. w. ist das Fahren, auf Verlangen der Polizei, sofort zu unterlassen.
+An Stellen, wo das Radfahren im Allgemeinen verboten ist, jedoch mit Ausnahme sämtlicher Trottoirs, ist es gestattet, das Rad an der Hand zu führen.
+⟦⟧
+Reval. Gouvernementsstadt Estlands, Hafen- und Handelsstadt, malerisch an einer tiefen Bucht des Finnischen Meerbusens und der Balt. Eisenbahn gelegen, hat enge, un­d regelmässige Strassen, alte Giebelhäuser, Stadtmauern und Mauertürme und zählt ca. 65,000 Ew.
+Die Stadt besteht aus der hügeligen Unterstadt und dem auf einer felsigen Anhöhe liegenden Dome. Seit 1710 in russ. Besitze, hat Reval 1857 aufgehört Festung zu sein. Drei der höchstgelegenen Bastionen mit weiter Fernsicht sind in reizende Anlagen verwandelt. — Von den 7 luth. Kirchen verdient die im 13. Jahrhundert erbaute St. Olai-Kirche mit einem 446' hohen Turme erwähnt zu werden. In
+-->
+	</Page>
+</PcGts>

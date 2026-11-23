@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:46:45</Created>
+		<LastChange>2026-11-23T18:46:45</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Schmidt_Miscellanea_Silurica_III.djvu/50 revision 3389542 of 2018-08-01T07:32:47Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="schmidt_miscellanea_silurica_1883_0050.png" imageWidth="1360" imageHeight="1902">
+		<ReadingOrder>
+			<OrderedGroup id="ro1674378811525066949" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="241,267 802,267 802,291 241,291" />
+			<!-- line left out: id="r0l0" points="241,268 255,268 649,268 659,271 659,282 678,267 693,267 760,271 777,272 794,273 798,282 802,282 802,291 798,291 794,285 777,286 649,287 255,288 241,288" baseline="241,288 267,287 624,286 802,286" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 46 FRB. SOHMIDT,
+ | german_print2_15: 46 FER. SonkIor,
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="239,322 1185,322 1185,509 239,509" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="239,324 262,324 268,328 290,324 372,324 391,329 402,322 413,322 430,324 472,324 488,322 502,322 502,329 542,329 542,323 550,323 550,329 561,326 616,323 691,323 702,328 715,322 733,322 733,328 745,328 745,322 757,322 757,328 768,323 847,322 881,322 919,322 947,322 1026,322 1046,322 1079,322 1100,322 1143,322 1166,322 1176,323 1185,327 1185,340 1166,340 1166,346 1152,346 1152,340 1100,340 1100,346 1066,346 1057,345 1046,340 1046,346 1033,346 1033,340 947,341 881,346 715,346 664,341 643,347 641,347 617,342 575,347 561,347 561,341 239,343" />
+				<Baseline points="239,343 1185,340" />
+				<TextEquiv index="1">
+					<Unicode>Bauchseite des Mittelleibes eingesenkt. Das Endglied (Telson) immer als langgestreckter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="240,356 343,356 348,359 370,360 378,356 1046,354 1073,354 1142,354 1142,360 1152,360 1152,369 1156,369 1156,373 434,379 422,379 380,375 370,379 343,379 330,379 240,375" />
+				<Baseline points="240,375 1156,373" />
+				<TextEquiv index="1">
+					<Unicode>Stachel ausgebildet. Limulidae.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="296,389 505,388 542,392 562,388 574,388 585,393 615,388 629,388 648,392 658,388 733,387 746,387 815,393 815,387 823,387 835,389 846,387 866,387 866,393 896,393 896,387 911,387 934,387 958,387 988,393 998,387 1015,387 1075,387 1087,392 1088,401 1103,392 1168,388 1178,388 1178,397 1185,397 1185,400 1178,405 1093,410 1027,410 945,406 934,411 853,411 846,406 524,406 505,412 474,412 400,412 386,412 362,407 296,407" />
+				<Baseline points="296,407 1185,405" />
+				<TextEquiv index="1">
+					<Unicode>Bei den Eurypteriden werden manche der hier vorläufig gemachten Angaben, nament-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="239,421 388,420 388,426 418,426 418,420 500,420 500,426 511,426 511,420 528,420 537,425 568,426 568,420 600,420 620,426 621,420 638,420 638,426 656,426 665,420 678,420 699,425 718,420 829,420 851,425 861,419 889,419 955,419 955,425 988,425 988,419 1001,419 1001,425 1021,425 1031,419 1081,419 1100,419 1133,419 1133,425 1145,425 1154,419 1167,419 1167,425 1178,425 1185,429 1185,433 1178,437 1133,442 1119,442 1113,438 1100,442 1070,442 1043,442 1012,438 239,439" />
+				<Baseline points="239,439 1185,437" />
+				<TextEquiv index="1">
+					<Unicode>lich was die Verwandtschaftsverhältnisse derselben mit den Limuliden oder Xiphosuren be-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="240,452 282,452 288,455 288,467 301,458 328,453 595,453 619,458 619,467 638,452 718,452 727,458 736,458 736,452 793,452 793,458 850,453 941,452 941,458 953,458 953,452 1066,452 1085,457 1098,451 1116,451 1116,457 1184,457 1184,470 1164,475 1138,475 1066,470 996,475 827,475 718,471 573,471 469,476 436,476 292,476 274,476 249,476 240,476" />
+				<Baseline points="240,471 1184,470" />
+				<TextEquiv index="1">
+					<Unicode>trifft, noch näher besprochen werden. Es wird sich eine grössere Analogie beider Gruppen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="240,491 250,491 250,485 262,485 297,485 297,491 339,486 383,490 454,487 460,485 505,485 527,485 619,485 642,485 676,485 744,485 792,490 792,499 795,499 795,503 736,508 669,508 472,503 472,509 460,509 455,504 428,509 415,509 405,503 356,504 285,509 250,509 240,504" />
+				<Baseline points="240,504 795,503" />
+				<TextEquiv index="1">
+					<Unicode>ergeben als man gewöhnlich anzunehmen geneigt war.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Bauchseite des Mittelleibes eingesenkt. Das Endglied (Telson) immer als langgestreckter
+Stachel ausgebildet. Limulidae.
+Bei den Eurypteriden werden manche der hier vorläufig gemachten Angaben, nament-
+lich was die Verwandtschaftsverhältnisse derselben mit den Limuliden oder Xiphosuren be-
+trifft, noch näher besprochen werden. Es wird sich eine grössere Analogie beider Gruppen
+ergeben als man gewöhnlich anzunehmen geneigt war.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="501,626 929,626 929,651 501,651" />
+			<!-- line left out: id="r2l0" points="501,627 560,626 617,626 617,632 648,632 648,641 655,641 674,627 695,626 718,626 718,632 738,632 738,626 761,626 761,632 779,632 779,626 801,626 924,626 924,640 929,640 929,646 912,651 877,651 840,651 801,651 718,651 695,651 617,646 501,646" baseline="501,646 929,646" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: II. Fam. Eurypteridae.
+ | german_print2_15: IH. Fam. Eurypteridae.
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="238,681 1192,681 1192,1453 238,1453" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="297,683 515,683 525,688 535,682 555,682 581,683 618,688 629,682 643,682 643,688 663,688 677,682 706,682 706,688 726,688 726,682 799,682 799,688 811,688 825,682 889,682 896,684 898,697 915,687 954,688 954,682 1096,681 1117,681 1137,681 1137,687 1186,687 1186,700 926,701 903,706 898,706 896,700 879,700 879,706 861,706 830,706 799,706 768,706 706,706 691,706 654,701 618,706 555,706 542,706 477,702 460,706 430,706 407,706 397,706 364,702 297,701" />
+				<Baseline points="297,701 1186,700" />
+				<TextEquiv index="1">
+					<Unicode>Was die systematische Stellung der Eurypteriden betrifft, so stimme ich vollkommen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l1" points="242,715 254,715 284,714 303,714 312,715 364,715 377,720 407,721 407,715 448,715 458,721 471,720 484,715 532,715 546,720 560,721 560,715 574,715 585,720 585,714 601,714 601,720 618,720 619,714 650,714 688,715 706,715 726,715 739,720 742,729 761,720 771,719 785,719 827,715 843,715 853,720 865,713 873,713 885,714 885,720 914,720 914,713 923,713 935,714 935,720 966,719 977,714 985,714 985,720 993,720 1002,714 1015,714 1015,720 1034,719 1046,719 1057,720 1057,714 1071,714 1091,719 1101,720 1111,714 1127,714 1146,714 1177,714 1177,720 1186,720 1186,732 1177,733 1146,733 761,733 747,739 742,739 739,733 706,733 706,739 693,739 693,733 650,738 601,738 585,738 574,734 546,734 534,734 507,733 448,739 441,739 441,726 434,726 429,733 422,734 336,734 276,734 254,734 242,734" baseline="242,734 428,733 1186,733" reason: differs: "ski¹)un" against "ski⟦⟧ u" | Wikisource:  | next_nc_e1: mit Nieszkowski ¹) und Woodward überein, wenn sie dieselben als besondere Familie | german_print2_15: mit Nieszkowski') und Woodward²) überein, wenn sie dieselben als besondere Familie -->
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="242,753 265,753 265,747 335,748 344,753 358,746 384,746 430,746 462,746 475,753 487,748 500,748 520,753 534,747 716,747 725,752 742,746 759,746 782,747 794,752 848,747 917,747 917,753 933,753 933,747 1049,746 1076,746 1076,752 1112,748 1122,748 1143,752 1143,746 1156,746 1187,747 1187,770 1156,765 1156,771 1143,771 1143,765 1076,765 1076,771 1050,771 1042,771 1026,765 1006,770 898,770 873,766 818,770 806,766 639,765 639,771 623,771 616,766 606,771 583,771 545,771 242,766" />
+				<Baseline points="242,766 1187,765" />
+				<TextEquiv index="1">
+					<Unicode>neben die Limuliden oder Xiphosuren in die Ordnung der Poecilopoden (Merostomata)</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="242,785 248,780 285,780 308,784 308,794 329,780 408,780 423,784 432,780 528,779 541,779 596,779 614,779 636,779 689,779 698,784 712,785 714,793 751,780 791,785 791,779 845,779 846,785 872,785 874,779 898,779 906,785 919,785 920,779 959,779 976,779 999,784 999,794 1014,785 1027,785 1028,794 1043,780 1056,779 1063,779 1093,779 1116,779 1125,781 1125,794 1140,779 1153,779 1153,785 1186,785 1186,797 1130,802 1087,803 1027,803 964,803 956,803 688,803 667,803 601,803 518,799 242,798" />
+				<Baseline points="242,798 1186,797" />
+				<TextEquiv index="1">
+					<Unicode>stellen. Die Charakteristik der Eurypteriden, wie sie Woodward (l. c. p. 9) giebt, kann</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="242,812 271,812 281,818 293,818 293,812 440,812 466,818 501,816 510,812 607,811 636,811 636,817 647,817 647,811 687,811 734,811 734,817 747,817 747,811 782,811 782,817 812,817 812,811 827,811 827,817 872,817 872,811 885,811 885,817 907,817 921,811 944,811 964,811 973,813 990,811 1008,811 1020,817 1029,813 1048,811 1062,811 1062,817 1084,817 1092,811 1136,811 1136,817 1186,815 1186,825 1180,830 1169,835 1154,835 1072,830 861,830 850,835 782,835 779,835 764,829 479,831 452,835 439,835 434,831 414,835 400,835 367,831 242,830" />
+				<Baseline points="242,830 1186,830" />
+				<TextEquiv index="1">
+					<Unicode>ich nicht vollständig anerkennen. Nach dem mir vorliegenden Material stehen beide ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="242,849 267,849 290,845 339,844 409,850 411,859 417,859 428,848 495,849 495,843 508,843 531,845 587,844 597,848 609,849 609,843 648,843 648,849 704,849 704,843 718,843 718,849 790,849 803,843 823,843 869,849 871,843 885,843 886,849 909,849 909,843 925,843 951,843 965,849 1076,849 1076,843 1089,843 1089,849 1135,849 1149,843 1167,843 1167,849 1180,849 1187,854 1187,857 1180,862 1124,862 1046,867 574,863 543,867 495,867 454,863 442,868 411,868 409,862 397,863 386,868 360,868 360,862 242,863" />
+				<Baseline points="242,862 1187,862" />
+				<TextEquiv index="1">
+					<Unicode>nannte Gruppen, ganz entsprechend den schon von Nieszkowski ausgesprochenen An-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="242,883 251,883 251,877 290,877 313,883 313,892 319,892 328,882 339,878 395,877 395,883 424,882 437,878 460,877 469,883 493,877 507,877 507,883 536,882 547,877 698,877 719,882 754,877 853,877 862,878 873,882 873,891 892,876 911,876 911,882 944,883 944,877 1054,877 1075,882 1083,876 1102,876 1102,882 1114,879 1163,876 1179,876 1188,878 1188,895 755,896 744,900 667,896 625,896 319,901 290,901 279,901 258,896 242,895" />
+				<Baseline points="242,896 1188,895" />
+				<TextEquiv index="1">
+					<Unicode>sichten, einander viel näher als Woodward zugeben mochte. Er nimmt an der Unterseite</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l7" points="242,910 256,910 274,915 283,908 296,908 312,908 353,910 363,908 389,908 389,915 459,911 467,911 476,917 488,917 499,911 520,909 545,909 582,909 592,911 653,914 654,924 660,924 669,915 684,915 684,909 709,909 720,913 741,915 741,909 784,909 784,915 795,915 795,909 809,909 816,915 836,915 836,909 849,909 849,915 872,915 881,909 909,909 910,915 946,915 946,909 961,909 962,915 1000,915 1000,909 1050,909 1097,909 1116,909 1116,915 1141,911 1149,911 1156,909 1169,909 1169,915 1180,914 1189,914 1189,927 1169,927 1169,933 1142,933 1102,933 1061,928 933,928 837,929 730,929 697,929 660,933 654,933 499,928 488,921 476,921 467,928 389,929 305,929 283,929 242,928" baseline="242,928 1189,928" reason: differs: "ur1—2Bl" against "r 1–2 B" | Wikisource:  | next_nc_e1: des Mittelleibes nur 1 — 2 Blattfüsse an, während doch schon Nieszkowski bei Eurypterus | german_print2_15: des Mittelleibes nur 1 — 2 Blattfüsse an, während doch schon Nieszkowski bei Eurypterus -->
+			<TextLine id="r3l8" custom="readingOrder {index:8;}">
+				<Coords points="244,943 359,942 369,947 381,948 389,942 420,942 420,948 431,948 431,942 579,941 588,941 605,941 655,947 655,941 665,941 899,941 934,941 962,941 991,941 991,947 1027,947 1029,941 1038,941 1059,941 1145,947 1154,941 1167,941 1167,947 1188,947 1188,960 1059,965 939,965 934,961 837,961 792,965 627,961 605,965 494,965 451,961 318,966 296,966 283,966 278,961 244,960" />
+				<Baseline points="244,961 1188,960" />
+				<TextEquiv index="1">
+					<Unicode>6 dergleichen beschrieb (die wir jetzt auf 5 reduciren) und ich bei Eurypterus jetzt ausser den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l9" custom="readingOrder {index:9;}">
+				<Coords points="238,974 309,974 333,976 422,975 435,979 511,973 525,973 529,979 542,979 542,973 552,973 603,979 646,974 814,974 814,980 862,980 871,973 897,973 925,974 935,979 979,974 992,974 992,980 1002,980 1012,974 1071,973 1085,973 1085,979 1103,974 1127,973 1144,973 1144,980 1189,979 1189,997 1128,993 1092,993 1085,997 1071,997 1035,993 814,998 776,998 736,993 309,993 309,1000 287,1000 273,1000 273,993 256,993 256,1000 238,1000" />
+				<Baseline points="238,993 1189,993" />
+				<TextEquiv index="1">
+					<Unicode>bekannten 5 Paaren von Kaufüssen noch ein Fühlerpaar am Vorderrande der Mundöffnung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l10" custom="readingOrder {index:10;}">
+				<Coords points="242,1007 326,1007 349,1012 357,1006 376,1006 461,1006 474,1006 502,1006 514,1012 556,1012 556,1006 572,1006 600,1006 636,1007 675,1011 684,1006 708,1006 777,1006 800,1006 800,1021 817,1006 837,1006 846,1007 846,1022 852,1022 861,1006 878,1006 878,1021 893,1008 921,1006 935,1006 935,1012 971,1012 974,1021 980,1021 989,1012 1016,1012 1016,1006 1037,1006 1037,1012 1062,1007 1084,1006 1097,1006 1103,1007 1114,1012 1124,1006 1138,1006 1148,1011 1158,1006 1172,1006 1189,1016 1189,1020 1182,1024 980,1030 921,1025 911,1031 905,1031 903,1025 861,1025 852,1031 846,1031 846,1025 784,1030 650,1025 636,1031 630,1031 630,1025 572,1025 572,1031 556,1031 556,1025 313,1026 242,1030" />
+				<Baseline points="242,1025 1189,1025" />
+				<TextEquiv index="1">
+					<Unicode>(wie schon Nieszkowski vermuthete) nachweisen (T. III, F. 1) kann, wodurch die Sechs-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l11" custom="readingOrder {index:11;}">
+				<Coords points="243,1039 335,1038 354,1038 391,1039 391,1045 407,1045 407,1038 422,1038 451,1044 451,1038 459,1038 482,1042 523,1038 537,1038 537,1044 554,1044 554,1038 572,1038 593,1038 622,1038 622,1044 669,1043 703,1039 791,1038 803,1038 815,1039 826,1044 826,1038 873,1038 1019,1039 1020,1053 1039,1038 1050,1038 1189,1040 1189,1057 1123,1062 1092,1062 1024,1058 789,1058 784,1067 771,1067 771,1057 669,1058 659,1062 523,1062 482,1058 243,1058" />
+				<Baseline points="243,1058 1189,1057" />
+				<TextEquiv index="1">
+					<Unicode>zahl der Gliederfüsse am Kopfschilde ganz wie bei Limulus erreicht wird. Ich wage nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l12" custom="readingOrder {index:12;}">
+				<Coords points="244,1077 275,1071 289,1071 312,1071 330,1071 367,1073 379,1077 387,1071 406,1071 406,1077 429,1077 438,1071 450,1071 468,1071 468,1077 487,1077 497,1071 566,1071 582,1071 591,1077 601,1077 601,1071 616,1071 616,1077 639,1077 648,1071 666,1071 667,1077 758,1071 781,1071 794,1076 864,1072 878,1076 904,1077 904,1071 911,1071 911,1077 997,1077 997,1071 1010,1071 1010,1077 1050,1073 1122,1071 1142,1071 1160,1077 1171,1077 1171,1071 1178,1071 1178,1077 1189,1077 1189,1089 1156,1090 1106,1095 1064,1095 1050,1095 1050,1089 878,1095 864,1095 723,1089 722,1095 694,1095 666,1090 576,1090 349,1095 330,1095 318,1095 244,1089" />
+				<Baseline points="244,1090 1189,1089" />
+				<TextEquiv index="1">
+					<Unicode>zu behaupten dass diese Zahl bei allen Eurypteriden nachgewiesen werden müsse, aber ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l13" points="243,1103 261,1103 275,1104 285,1103 298,1103 339,1103 410,1103 411,1110 424,1109 438,1104 451,1104 463,1109 463,1103 479,1103 479,1109 490,1109 490,1103 505,1103 529,1103 552,1103 552,1109 575,1109 584,1103 601,1103 629,1103 637,1104 669,1108 678,1104 685,1104 707,1105 753,1109 754,1119 760,1119 774,1104 799,1104 840,1104 879,1104 937,1104 954,1104 989,1109 999,1103 1017,1103 1045,1105 1057,1109 1190,1109 1190,1121 1181,1122 1140,1122 1082,1127 1068,1127 1037,1123 967,1127 953,1127 879,1123 851,1123 799,1123 760,1128 754,1128 753,1122 699,1127 684,1127 539,1123 505,1123 479,1123 451,1123 346,1123 243,1122" baseline="243,1122 1190,1122" reason: second model: differs: "ard'sch" against "ard’sch" | Wikisource: Blick auf die Woodward’schen Tafeln zeigt uns, dass bei den übrigen Gattungen unserer | next_nc_e1: Blick auf die Woodward’schen Tafeln zeigt uns, dass bei den übrigen Gattungen unserer | german_print2_15: Blick auf die Woodward'schen Tafeln zeigt uns, dass bei den übrigen Gattungen unserer -->
+			<TextLine id="r3l14" custom="readingOrder {index:14;}">
+				<Coords points="244,1136 310,1136 342,1139 362,1136 392,1136 392,1142 459,1142 459,1136 621,1136 629,1141 643,1135 657,1135 657,1141 677,1141 690,1135 714,1135 746,1135 746,1141 760,1141 770,1137 788,1135 795,1135 915,1136 936,1142 954,1142 954,1136 1029,1136 1059,1142 1059,1136 1065,1136 1065,1142 1078,1142 1078,1136 1091,1136 1091,1150 1111,1135 1137,1135 1137,1141 1151,1141 1160,1135 1174,1135 1190,1135 1190,1153 1096,1155 1029,1159 954,1159 915,1155 897,1160 880,1160 866,1160 760,1155 478,1155 428,1160 414,1160 364,1155 244,1154" />
+				<Baseline points="244,1154 1190,1154" />
+				<TextEquiv index="1">
+					<Unicode>Familie noch lange nicht alle Details der Unterseite des Kopfes aufgeklärt sind. Nur bei</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l15" custom="readingOrder {index:15;}">
+				<Coords points="244,1168 322,1168 322,1174 341,1173 351,1168 430,1168 445,1174 453,1168 538,1168 560,1173 560,1183 574,1168 590,1168 590,1182 607,1169 633,1169 634,1182 650,1168 666,1168 667,1182 686,1170 698,1169 739,1174 739,1168 771,1168 780,1170 843,1169 849,1174 863,1168 876,1168 876,1174 898,1174 913,1167 935,1167 963,1168 963,1174 994,1174 994,1168 1009,1168 1011,1183 1031,1169 1050,1169 1084,1174 1084,1168 1189,1168 1189,1186 1016,1192 935,1192 922,1192 887,1188 741,1192 705,1192 639,1192 634,1192 595,1187 531,1192 517,1192 473,1188 244,1188" />
+				<Baseline points="244,1187 1189,1187" />
+				<TextEquiv index="1">
+					<Unicode>Slimonia acuminata Salt. (l. c. T. 17, F. 1) erhalten wir den Eindruck, als ob wirklich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l16" custom="readingOrder {index:16;}">
+				<Coords points="244,1201 267,1200 275,1200 275,1206 296,1201 309,1201 329,1205 347,1201 364,1201 376,1206 405,1201 418,1201 460,1206 460,1200 473,1200 500,1200 508,1206 541,1206 541,1200 555,1200 555,1206 572,1206 572,1200 585,1200 670,1200 684,1200 702,1200 702,1206 746,1201 754,1201 764,1206 773,1201 813,1201 813,1207 823,1207 830,1201 865,1203 874,1200 889,1200 889,1206 939,1207 939,1201 1160,1201 1160,1207 1171,1207 1171,1201 1184,1201 1185,1215 1189,1215 1189,1219 1090,1220 1043,1224 1007,1224 1000,1220 991,1224 939,1224 925,1220 736,1225 719,1225 719,1219 702,1219 702,1225 689,1225 585,1220 430,1220 418,1225 394,1225 244,1220" />
+				<Baseline points="244,1220 1189,1219" />
+				<TextEquiv index="1">
+					<Unicode>kein 6tes Fusspaar mehr vorhanden sein könne, weil die Stücke so vollständig erhalten sind.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l17" custom="readingOrder {index:17;}">
+				<Coords points="244,1233 285,1233 285,1239 303,1236 310,1233 391,1233 391,1239 418,1234 459,1233 512,1234 557,1239 557,1233 571,1233 571,1239 594,1239 594,1233 607,1233 607,1239 652,1239 665,1233 700,1233 700,1239 720,1239 720,1233 735,1233 735,1239 803,1236 813,1229 828,1229 828,1239 839,1235 908,1229 923,1229 923,1239 939,1239 939,1233 960,1233 960,1239 989,1239 991,1249 1008,1238 1036,1233 1049,1233 1049,1239 1082,1239 1082,1233 1125,1233 1125,1239 1172,1238 1183,1239 1189,1243 1189,1247 1183,1251 1172,1252 1008,1252 996,1258 991,1258 989,1252 923,1252 923,1262 908,1262 908,1252 828,1252 828,1262 813,1262 813,1252 735,1257 687,1257 640,1252 244,1252" />
+				<Baseline points="244,1252 1189,1251" />
+				<TextEquiv index="1">
+					<Unicode>Aber auch hier sind die 5 vorhandenen Fusspaare sämmtlich Kaufüsse, während das vor-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l18" custom="readingOrder {index:18;}">
+				<Coords points="246,1266 260,1266 280,1270 288,1267 332,1266 332,1272 439,1265 575,1265 575,1271 612,1266 769,1266 809,1272 809,1266 886,1267 944,1264 965,1264 975,1271 987,1271 1009,1267 1018,1267 1024,1264 1037,1264 1058,1264 1067,1270 1077,1265 1091,1265 1102,1270 1156,1271 1164,1265 1183,1265 1183,1271 1190,1271 1190,1283 1067,1284 1058,1290 1037,1290 1024,1290 1018,1285 1010,1290 994,1290 965,1285 886,1290 878,1290 836,1285 822,1290 809,1290 782,1285 716,1285 563,1289 548,1289 504,1285 398,1285 376,1289 363,1289 332,1285 246,1284" />
+				<Baseline points="246,1284 1190,1283" />
+				<TextEquiv index="1">
+					<Unicode>derste Fusspaar bei Limulus (hier sind die Ansichten getheilt) und Eurypterus aber nur als</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l19" custom="readingOrder {index:19;}">
+				<Coords points="245,1297 262,1297 288,1297 305,1298 305,1304 336,1303 348,1298 361,1298 382,1303 422,1298 470,1303 480,1297 498,1297 498,1303 533,1298 619,1298 631,1304 687,1298 706,1298 717,1303 785,1304 794,1298 813,1298 813,1304 888,1304 888,1298 895,1298 895,1304 907,1304 907,1298 931,1298 940,1299 940,1313 960,1298 987,1298 1081,1303 1090,1297 1104,1297 1122,1297 1122,1303 1182,1303 1189,1307 1189,1311 1182,1315 1171,1316 1019,1321 1005,1321 888,1317 245,1316" />
+				<Baseline points="245,1316 1189,1316" />
+				<TextEquiv index="1">
+					<Unicode>Fühler und an seinem Grunde nicht zum Kauen zu dienen scheint. Die grossen Scheeren-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l20" custom="readingOrder {index:20;}">
+				<Coords points="244,1330 255,1330 275,1334 315,1335 347,1331 381,1331 392,1335 422,1331 440,1331 451,1336 460,1330 484,1330 491,1335 526,1334 553,1330 628,1330 637,1335 651,1329 676,1329 676,1336 704,1336 704,1330 727,1330 741,1336 775,1331 893,1331 934,1336 937,1345 953,1336 978,1335 988,1330 1001,1330 1010,1336 1022,1336 1022,1330 1156,1330 1185,1335 1185,1344 1189,1344 1189,1348 989,1349 942,1354 937,1354 676,1349 491,1349 440,1354 414,1354 381,1354 360,1354 347,1354 294,1349 244,1348" />
+				<Baseline points="244,1349 1189,1348" />
+				<TextEquiv index="1">
+					<Unicode>füsse von Pterygotus dienen mit ihrem Grunde so viel wir wissen, auch nicht zum Kauen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l21" custom="readingOrder {index:21;}">
+				<Coords points="245,1362 291,1362 298,1367 342,1363 517,1362 553,1362 565,1366 571,1362 584,1362 599,1367 628,1363 734,1363 742,1365 787,1368 787,1362 883,1362 883,1368 924,1368 924,1362 953,1363 971,1368 983,1362 1023,1362 1023,1368 1045,1368 1045,1362 1060,1362 1060,1368 1089,1368 1089,1362 1103,1362 1103,1368 1126,1368 1126,1362 1154,1358 1192,1358 1192,1391 1154,1391 1126,1386 1126,1380 1078,1381 1060,1386 1008,1386 899,1381 890,1387 837,1387 818,1382 800,1387 787,1387 787,1381 682,1386 255,1386 245,1381" />
+				<Baseline points="245,1381 1192,1380" />
+				<TextEquiv index="1">
+					<Unicode>Dagegen sind die übrigen Fusspaare lange nicht so vollständig und im Zusammenhange ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l22" points="245,1394 266,1394 266,1400 277,1395 290,1395 301,1398 321,1395 345,1395 378,1395 388,1394 394,1394 454,1395 485,1395 505,1395 519,1400 519,1409 533,1401 554,1401 564,1395 578,1395 598,1400 636,1401 636,1395 643,1395 643,1401 653,1401 666,1395 680,1395 736,1395 736,1401 761,1400 775,1400 798,1400 808,1401 821,1395 831,1395 831,1401 848,1401 848,1395 889,1395 889,1401 904,1401 904,1395 945,1395 969,1395 1012,1396 1062,1395 1076,1395 1116,1395 1125,1396 1134,1400 1143,1394 1160,1394 1160,1400 1191,1400 1191,1413 950,1414 889,1414 787,1414 775,1418 761,1418 696,1414 598,1414 524,1418 505,1419 485,1419 421,1419 408,1419 389,1414 345,1414 321,1414 245,1413" baseline="245,1414 312,1413 1191,1413" reason: second model: differs: "einötes" against "in 5tes" | Wikisource: funden wie bei Eurypterus, so dass wir bei ihm ganz wohl noch ein 5tes vorderstes Paar | next_nc_e1: funden wie bei Eurypterus, so dass wir bei ihm ganz wohl noch ein 5tes vorderstes Paar | german_print2_15: funden wie bei Eurypterus, so dass wir bei ihm ganz wohl noch ein ötes vorderstes Paar -->
+			<!-- line left out: id="r3l23" points="244,1424 265,1424 265,1431 276,1431 287,1432 287,1426 300,1424 312,1424 316,1432 342,1431 353,1429 365,1429 421,1429 438,1427 463,1427 487,1431 498,1432 510,1433 510,1442 516,1442 524,1427 549,1427 549,1433 559,1433 568,1427 594,1427 635,1427 656,1433 665,1433 665,1427 677,1427 716,1427 738,1427 746,1433 770,1432 780,1432 780,1426 793,1426 812,1427 852,1426 865,1426 865,1432 876,1432 876,1426 897,1426 918,1426 934,1426 983,1427 1040,1427 1070,1427 1100,1427 1134,1426 1163,1426 1163,1432 1184,1432 1184,1426 1191,1426 1191,1445 1163,1446 1139,1446 1117,1445 1100,1451 635,1451 625,1451 549,1446 549,1453 524,1453 510,1451 510,1445 498,1446 474,1446 462,1451 450,1451 256,1446 244,1446" baseline="244,1446 1191,1446" reason: second model: differs: "Kaufüs" against "Paar K" | Wikisource: Kaufüsse erwarten können, wie Hall ja wirklich auch den Sachverhalt bei Pterygotus Osborni | next_nc_e1: Kaufüsse erwarten können, wie Hall ja wirklich auch den Sachverhalt bei Pterygotus Osborni
+ | german_print2_15: Kaufüsse erwarten können, wie Hall ja wirklich auch den Sachverhalt bei Pter’gotus Osborni
+ -->
+			<TextEquiv index="1">
+				<Unicode>Was die systematische Stellung der Eurypteriden betrifft, so stimme ich vollkommen
+neben die Limuliden oder Xiphosuren in die Ordnung der Poecilopoden (Merostomata)
+stellen. Die Charakteristik der Eurypteriden, wie sie Woodward (l. c. p. 9) giebt, kann
+ich nicht vollständig anerkennen. Nach dem mir vorliegenden Material stehen beide ge-
+nannte Gruppen, ganz entsprechend den schon von Nieszkowski ausgesprochenen An-
+sichten, einander viel näher als Woodward zugeben mochte. Er nimmt an der Unterseite
+6 dergleichen beschrieb (die wir jetzt auf 5 reduciren) und ich bei Eurypterus jetzt ausser den
+bekannten 5 Paaren von Kaufüssen noch ein Fühlerpaar am Vorderrande der Mundöffnung
+(wie schon Nieszkowski vermuthete) nachweisen (T. III, F. 1) kann, wodurch die Sechs-
+zahl der Gliederfüsse am Kopfschilde ganz wie bei Limulus erreicht wird. Ich wage nicht
+zu behaupten dass diese Zahl bei allen Eurypteriden nachgewiesen werden müsse, aber ein
+Familie noch lange nicht alle Details der Unterseite des Kopfes aufgeklärt sind. Nur bei
+Slimonia acuminata Salt. (l. c. T. 17, F. 1) erhalten wir den Eindruck, als ob wirklich
+kein 6tes Fusspaar mehr vorhanden sein könne, weil die Stücke so vollständig erhalten sind.
+Aber auch hier sind die 5 vorhandenen Fusspaare sämmtlich Kaufüsse, während das vor-
+derste Fusspaar bei Limulus (hier sind die Ansichten getheilt) und Eurypterus aber nur als
+Fühler und an seinem Grunde nicht zum Kauen zu dienen scheint. Die grossen Scheeren-
+füsse von Pterygotus dienen mit ihrem Grunde so viel wir wissen, auch nicht zum Kauen.
+Dagegen sind die übrigen Fusspaare lange nicht so vollständig und im Zusammenhange ge-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="246,1508 1193,1508 1193,1573 246,1573" />
+			<!-- line left out: id="r4l0" points="274,1509 282,1508 311,1508 394,1508 411,1508 428,1508 556,1509 594,1509 639,1509 655,1512 663,1509 669,1509 669,1519 680,1509 694,1509 798,1509 850,1509 916,1509 956,1509 981,1509 1008,1508 1021,1508 1077,1508 1104,1510 1145,1508 1162,1508 1184,1508 1191,1512 1191,1523 1162,1523 1038,1523 863,1527 790,1527 673,1527 497,1527 456,1527 428,1527 411,1527 394,1527 335,1527 319,1523 288,1526 282,1526 274,1522" baseline="274,1523 1191,1523" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 1) Der Eurypterus rempes von der Insel Oesel, Ar- -2) Monograph of the british fossil Crustacea of the | german_print2_15: 1) Der Eurypterus remipes von der Insel Oesel, Ar- 2) Monograph of the british fossil Crustacea of the -->
+			<!-- line left out: id="r4l1" points="246,1536 254,1531 265,1531 271,1532 291,1531 300,1531 308,1533 326,1531 348,1531 358,1533 374,1532 385,1532 415,1532 452,1532 467,1537 467,1543 481,1532 495,1532 509,1533 509,1540 524,1536 545,1532 582,1532 602,1533 624,1532 639,1532 639,1543 654,1532 665,1532 682,1536 682,1543 697,1532 705,1532 705,1543 727,1536 732,1532 755,1532 803,1532 839,1532 847,1534 854,1532 867,1532 877,1534 885,1537 885,1544 901,1532 929,1532 946,1532 971,1534 978,1532 990,1532 1027,1532 1027,1543 1043,1536 1068,1536 1068,1543 1081,1532 1088,1532 1109,1532 1148,1532 1190,1532 1190,1542 1193,1542 1193,1550 1189,1550 1183,1549 1175,1546 1148,1550 1141,1550 1091,1546 1017,1550 998,1550 978,1550 955,1547 946,1550 920,1550 908,1550 889,1547 877,1547 847,1547 803,1547 612,1547 582,1547 564,1547 509,1546 471,1550 440,1550 433,1550 348,1547 334,1547 308,1546 265,1546 254,1546 246,1545" baseline="246,1545 278,1545 1193,1546" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: chiv für Naturkunde Liv-, Est- und Kurlands. Ser. I. order Merostomata. Palaeontograph. soc. vol. 19 (1866), | german_print2_15: chiv für Naturkunde Liv-, Est- und Kurlands. Ser. I. order Merostomata. Palaeontograph. soc. vol. 19 (1866), -->
+			<!-- line left out: id="r4l2" points="246,1555 297,1555 297,1566 309,1559 321,1559 331,1556 360,1556 360,1566 727,1559 748,1556 759,1556 759,1563 777,1563 777,1556 798,1556 798,1570 781,1570 759,1569 742,1573 321,1573 309,1573 287,1570 281,1570 246,1569" baseline="246,1569 798,1569" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Bd. II. p. 836. p. 8—10. | german_print2_15: Bd. II. p. 836. p. 8— 10. -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Bauchseite des Mittelleibes eingesenkt. Das Endglied (Telson) immer als langgestreckter Stachel ausgebildet.
+Limulidae.
+Bei den Eurypteriden werden manche der hier vorläufig gemachten Angaben, namentlich was die Verwandtschaftsverhältnisse derselben mit den Limuliden oder Xiphosuren betrifft, noch näher besprochen werden. Es wird sich eine grössere Analogie beider Gruppen ergeben als man gewöhnlich anzunehmen geneigt war.
+Was die systematische Stellung der Eurypteriden betrifft, so stimme ich vollkommen mit Nieszkowski⟦⟧ und Woodward⟦⟧ überein, wenn sie dieselben als besondere Familie neben die Limuliden oder Xiphosuren in die Ordnung der Poecilopoden (Merostomata) stellen. Die Charakteristik der Eurypteriden, wie sie Woodward (l. c. p. 9) giebt, kann ich nicht vollständig anerkennen. Nach dem mir vorliegenden Material stehen beide genannte Gruppen, ganz entsprechend den schon von Nieszkowski ausgesprochenen Ansichten, einander viel näher als Woodward zugeben mochte. Er nimmt an der Unterseite des Mittelleibes nur 1–2 Blattfüsse an, während doch schon Nieszkowski bei Eurypterus 6 dergleichen beschrieb (die wir jetzt auf 5 reduciren) und ich bei Eurypterus jetzt ausser den bekannten 5 Paaren von Kaufüssen noch ein Fühlerpaar am Vorderrande der Mundöffnung (wie schon Nieszkowski vermuthete) nachweisen (T. III, F. 1) kann, wodurch die Sechszahl der Gliederfüsse am Kopfschilde ganz wie bei Limulus erreicht wird. Ich wage nicht zu behaupten dass diese Zahl bei allen Eurypteriden nachgewiesen werden müsse, aber ein Blick auf die Woodward’schen Tafeln zeigt uns, dass bei den übrigen Gattungen unserer Familie noch lange nicht alle Details der Unterseite des Kopfes aufgeklärt sind. Nur bei Slimonia acuminata Salt. (l. c. T. 17, F. 1) erhalten wir den Eindruck, als ob wirklich kein 6tes Fusspaar mehr vorhanden sein könne, weil die Stücke so vollständig erhalten sind. Aber auch hier sind die 5 vorhandenen Fusspaare sämmtlich Kaufüsse, während das vorderste Fusspaar bei Limulus (hier sind die Ansichten getheilt) und Eurypterus aber nur als Fühler und an seinem Grunde nicht zum Kauen zu dienen scheint. Die grossen Scheerenfüsse von Pterygotus dienen mit ihrem Grunde so viel wir wissen, auch nicht zum Kauen. Dagegen sind die übrigen Fusspaare lange nicht so vollständig und im Zusammenhange gefunden wie bei Eurypterus, so dass wir bei ihm ganz wohl noch ein 5tes vorderstes Paar Kaufüsse erwarten können, wie Hall ja wirklich auch den Sachverhalt bei Pterygotus Osborni
+-->
+	</Page>
+</PcGts>

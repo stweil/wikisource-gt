@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:47:18</Created>
+		<LastChange>2026-11-23T18:47:18</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Schnitzler_Traumnovelle.djvu/59 revision 3389863 of 2018-08-01T07:34:39Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="schnitzler_traumnovelle_1926_0059.png" imageWidth="800" imageHeight="1375">
+		<ReadingOrder>
+			<OrderedGroup id="ro13696264173253111653" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="81,98 647,98 647,1166 81,1166" />
+			<!-- line left out: id="r0l0" points="310,102 357,98 370,98 382,99 429,103 429,106 412,106 382,116 357,116 329,105 310,105" baseline="310,105 429,106" reason: no text of Wikisource found | Wikisource:  | next_nc_e1:  57 — | german_print2_15: — 57 — -->
+			<!-- line left out: id="r0l1" points="91,148 111,143 119,143 155,148 163,142 182,142 182,149 206,149 206,142 246,142 246,149 257,149 268,143 283,143 283,149 307,149 307,143 325,143 325,150 339,149 353,149 363,143 378,143 378,149 390,149 425,150 425,143 440,143 449,144 459,143 489,138 503,138 525,144 529,144 569,143 585,143 610,144 630,144 630,150 642,150 647,154 647,157 642,162 585,162 569,162 503,161 503,171 489,171 489,161 353,161 353,167 339,167 339,161 325,161 325,167 307,167 307,161 221,161 193,161 181,161 91,160" baseline="91,160 163,160 557,161 647,162" reason: differs: "de–—ein" against " – ein " | Wikisource:  | next_nc_e1: seiner Kranken herumgehen würde –— ein hilfsbe- | german_print2_15: seiner Kranken herumgehen würde — ein hilfsbe- -->
+			<TextLine id="r0l2" custom="readingOrder {index:2;}">
+				<Coords points="89,181 99,181 99,187 111,187 111,181 120,181 129,184 151,187 158,181 182,181 202,181 209,184 209,199 182,199 170,199 89,198" />
+				<Baseline points="89,198 209,199" />
+				<TextEquiv index="1">
+					<Unicode>reiter Arzt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l3" points="115,218 141,218 141,224 158,224 163,211 203,211 203,225 239,225 245,219 248,219 309,219 346,219 391,219 391,226 421,226 421,219 433,219 466,219 466,234 478,220 492,220 492,227 503,226 513,226 513,219 533,219 576,220 621,220 629,221 629,227 642,227 642,235 647,235 647,243 642,243 621,239 608,243 576,243 471,243 456,243 433,243 421,243 408,238 215,237 215,243 178,243 163,243 158,236 115,236" baseline="115,236 238,236 400,237 553,238 647,239" reason: differs: "wär's,d" against "wär’s, " | Wikisource:  | next_nc_e1: Der Wagen stand still. Wie wär's, dachte Fridolin, | german_print2_15: Der Wagen stand still. Wie wär's, dachte Fridolin, -->
+			<!-- line left out: id="r0l4" points="89,263 100,262 122,262 149,263 158,256 162,256 192,256 203,263 210,263 238,263 246,257 254,257 268,257 302,257 310,264 341,261 350,261 408,258 417,258 417,264 452,264 515,264 522,259 543,259 543,265 578,265 586,258 594,258 601,259 602,265 613,265 613,259 627,259 627,265 647,265 647,277 639,278 626,278 522,277 452,276 442,276 442,283 428,283 428,276 410,276 400,276 217,275 217,282 203,282 192,275 89,275" baseline="89,275 358,275 647,277" reason: differs: "wenn" against "olin" | Wikisource:  | next_nc_e1: wenn ich gar nicht erst ausstiege — sondern lieber | german_print2_15: wenn ich gar nicht erst ausstiege — sondern lieber -->
+			<TextLine id="r0l5" custom="readingOrder {index:5;}">
+				<Coords points="89,301 101,301 101,294 109,294 109,301 120,301 120,295 153,295 164,301 187,302 187,295 297,295 297,302 308,302 310,296 359,296 359,302 422,302 422,296 438,296 445,297 445,303 460,303 461,297 495,296 495,304 508,304 520,297 535,297 535,303 556,304 566,297 588,297 588,304 600,304 600,298 607,298 607,304 647,304 647,315 187,314 102,312 102,319 89,319" />
+				<Baseline points="89,312 647,315" />
+				<TextEquiv index="1">
+					<Unicode>gleich zurückkehrte? Aber wohin? Zu der kleinen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l6" custom="readingOrder {index:6;}">
+				<Coords points="88,333 111,333 134,333 134,339 155,337 173,337 184,339 186,333 238,333 238,340 294,340 303,333 318,333 318,340 350,341 358,333 378,333 386,334 386,341 420,340 420,334 428,333 443,333 443,341 460,341 469,335 478,335 478,341 492,341 500,335 514,335 514,341 536,341 543,335 569,335 569,341 583,341 583,335 640,335 640,346 646,346 646,348 640,348 640,354 585,354 556,354 88,350" />
+				<Baseline points="88,351 469,352 646,354" />
+				<TextEquiv index="1">
+					<Unicode>Pierrette? Oder zu dem Dirnchen in der Buchfeld-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l7" custom="readingOrder {index:7;}">
+				<Coords points="88,377 119,378 119,371 132,371 132,378 142,378 144,371 202,371 202,378 249,378 258,371 286,371 334,371 358,371 358,378 369,378 378,372 393,372 393,379 414,379 422,373 485,373 500,376 510,380 518,373 532,373 532,380 551,380 559,373 629,373 629,381 641,381 647,384 647,387 641,392 405,391 369,395 334,395 286,395 272,395 258,390 132,389 132,395 119,395 119,389 102,389 102,395 88,395" />
+				<Baseline points="88,388 647,392" />
+				<TextEquiv index="1">
+					<Unicode>gasse? Oder zu Marianne, der Tochter des Verstor-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l8" custom="readingOrder {index:8;}">
+				<Coords points="87,408 102,408 102,415 174,408 204,408 219,409 219,415 276,410 320,410 320,416 365,416 368,410 405,410 405,417 418,417 418,410 432,410 451,411 451,417 463,417 463,411 479,411 487,417 499,412 507,412 507,418 553,418 561,411 588,412 588,418 599,418 599,411 646,411 646,430 612,430 87,426" />
+				<Baseline points="87,426 646,430" />
+				<TextEquiv index="1">
+					<Unicode>benen? Oder nach Hause? Und mit einem leichten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l9" custom="readingOrder {index:9;}">
+				<Coords points="87,446 102,446 127,447 127,453 140,453 146,446 160,446 160,453 206,454 206,447 240,447 240,454 262,454 262,447 276,447 285,454 312,454 319,448 359,447 368,455 391,455 398,449 409,448 423,448 423,455 468,455 468,448 513,449 513,455 543,450 551,450 562,455 562,449 577,449 585,456 598,456 598,450 612,450 612,456 631,456 631,450 645,450 645,468 488,467 488,474 476,474 476,467 444,467 444,474 423,474 409,474 409,466 312,471 285,471 229,466 229,472 206,472 206,466 87,465" />
+				<Baseline points="87,465 645,468" />
+				<TextEquiv index="1">
+					<Unicode>Schauer empfand er, daß er nirgendshin sich weni-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l10" custom="readingOrder {index:10;}">
+				<Coords points="87,492 155,492 155,485 178,485 204,492 217,486 236,486 236,492 304,493 304,487 319,487 319,493 329,493 342,487 410,487 410,494 424,494 424,502 442,487 476,487 476,494 611,495 611,488 646,488 646,507 588,512 567,512 562,512 550,506 282,505 272,511 258,511 245,504 111,504 102,510 87,510" />
+				<Baseline points="87,503 646,507" />
+				<TextEquiv index="1">
+					<Unicode>ger sehnte als gerade dorthin. Oder war es, weil</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l11" custom="readingOrder {index:11;}">
+				<Coords points="88,524 109,524 109,530 151,530 156,524 188,524 188,530 222,524 237,524 237,531 250,531 259,525 280,525 280,531 303,526 314,526 314,532 335,532 335,526 371,526 391,532 397,526 453,526 462,529 490,526 645,527 645,546 549,550 516,550 502,550 502,544 214,542 207,548 175,548 175,541 88,542" />
+				<Baseline points="88,542 397,543 645,546" />
+				<TextEquiv index="1">
+					<Unicode>dieser Weg ihn der weiteste dünkte? Nein, ich kann</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l12" custom="readingOrder {index:12;}">
+				<Coords points="86,569 100,569 100,562 115,561 143,561 148,569 158,569 158,562 221,562 221,577 232,562 283,562 302,566 330,569 333,563 479,564 479,570 538,571 538,565 546,565 546,572 559,571 560,565 573,565 573,571 585,571 589,565 603,561 620,561 620,572 641,572 641,580 645,580 645,588 641,590 620,594 603,594 603,583 418,582 158,584 86,580" />
+				<Baseline points="86,580 308,580 645,584" />
+				<TextEquiv index="1">
+					<Unicode>nicht zurück, dachte er bei sich. Weiter meinen Weg,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l13" points="86,600 100,600 100,606 114,606 114,600 127,600 132,606 145,606 145,600 159,600 166,601 176,600 191,600 198,606 213,601 227,601 259,600 284,600 334,600 334,607 344,607 352,601 360,601 360,607 382,607 382,601 404,601 417,605 444,607 444,601 466,601 483,606 512,609 517,602 532,602 532,609 582,609 582,602 596,602 634,602 634,609 645,609 645,622 634,627 617,627 617,621 596,621 596,627 569,627 563,620 465,620 344,619 333,619 176,618 86,618" baseline="86,617 316,618 424,619 517,620 645,622" reason: differs: "wär'sme" against "wär’s m" | Wikisource:  | next_nc_e1: und wär's mein Tod. Er lachte selbst zu dem großen | german_print2_15: und wär's mein Tod. Er lachte selbst zu dem großen -->
+			<TextLine id="r0l14" custom="readingOrder {index:14;}">
+				<Coords points="86,638 114,638 145,641 145,652 159,644 171,644 171,638 190,638 190,644 235,644 235,638 250,638 250,645 260,645 269,638 284,638 284,645 295,645 295,639 302,639 312,642 334,645 385,645 392,639 495,639 502,640 510,646 524,641 559,640 567,644 583,647 610,645 640,645 640,656 643,656 643,660 452,658 150,661 144,661 100,655 100,661 86,661" />
+				<Baseline points="86,655 445,657 643,660" />
+				<TextEquiv index="1">
+					<Unicode>Wort, aber sehr heiter war ihm dabei nicht zumut.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l15" custom="readingOrder {index:15;}">
+				<Coords points="111,676 130,676 180,676 211,676 233,676 262,683 272,677 339,678 339,684 358,684 358,678 375,678 380,684 387,684 387,678 411,678 411,684 435,685 445,678 473,678 473,685 484,685 487,678 507,678 507,685 563,686 563,679 598,678 609,683 618,680 635,680 635,687 644,687 644,699 598,699 585,699 111,695" />
+				<Baseline points="111,694 487,696 644,699" />
+				<TextEquiv index="1">
+					<Unicode>Ein Gartentor stand weit offen. Die Trauerkutsche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l16" custom="readingOrder {index:16;}">
+				<Coords points="85,721 122,721 129,715 153,715 153,721 173,721 182,715 219,715 219,722 229,722 237,715 244,715 262,715 262,722 287,722 296,716 345,716 345,723 355,723 363,717 371,717 371,723 385,723 392,716 413,717 413,723 424,723 430,717 444,716 578,717 591,718 596,724 610,724 610,718 625,718 625,725 645,726 645,737 556,737 543,737 85,733" />
+				<Baseline points="85,733 392,734 645,737" />
+				<TextEquiv index="1">
+					<Unicode>vor ihm fuhr eben tiefer in die Schlucht hinab oder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l17" custom="readingOrder {index:17;}">
+				<Coords points="84,753 132,753 132,760 152,760 160,753 189,753 212,753 268,754 268,761 287,761 297,755 321,755 321,761 422,761 422,755 466,755 466,762 476,762 482,755 510,755 510,762 524,762 524,755 556,757 563,755 577,755 594,756 602,764 645,763 645,776 577,775 577,782 555,782 555,774 510,774 510,782 496,782 496,774 174,777 174,771 84,771" />
+				<Baseline points="84,771 645,775" />
+				<TextEquiv index="1">
+					<Unicode>in das Dunkel, das ihm so erschien. Nachtigall war</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l18" custom="readingOrder {index:18;}">
+				<Coords points="84,791 113,791 113,798 125,798 137,792 145,792 145,799 157,799 157,792 231,792 231,799 272,799 272,793 288,793 288,800 328,795 411,795 423,800 460,801 460,808 474,795 486,794 550,794 550,802 644,802 644,821 607,821 583,820 583,813 435,812 435,819 421,819 421,812 379,812 379,819 367,819 352,818 352,811 334,811 334,819 328,819 314,811 201,816 165,816 157,811 145,810 145,816 137,816 125,810 84,810" />
+				<Baseline points="84,810 644,814" />
+				<TextEquiv index="1">
+					<Unicode>also jedenfalls schon ausgestiegen. Fridolin sprang</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l19" custom="readingOrder {index:19;}">
+				<Coords points="84,835 96,835 105,830 119,830 140,830 151,837 186,837 198,830 211,830 211,837 244,837 249,831 280,831 280,837 352,838 352,832 381,832 381,838 390,838 401,832 416,832 416,838 441,839 449,832 533,832 533,839 581,840 581,848 593,840 605,840 605,833 633,833 633,840 643,840 643,852 586,856 567,856 554,856 473,851 365,851 301,856 280,856 264,856 264,848 198,849 84,847" />
+				<Baseline points="84,848 643,852" />
+				<TextEquiv index="1">
+					<Unicode>rasch aus dem Wagen, wies den Kutscher an, oben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l20" custom="readingOrder {index:20;}">
+				<Coords points="83,874 109,874 123,868 131,868 131,875 179,876 191,869 265,869 265,876 279,876 312,871 340,871 345,876 358,870 456,870 456,877 467,877 479,871 504,871 504,878 538,878 538,871 600,871 605,875 605,887 622,879 643,879 643,891 610,895 600,895 576,895 538,895 538,889 491,889 491,895 479,895 467,889 292,888 279,895 241,895 225,895 225,888 131,887 131,893 123,893 109,887 83,887" />
+				<Baseline points="83,887 643,891" />
+				<TextEquiv index="1">
+					<Unicode>an jener Biegung seine Rückkehr abzuwarten, so</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l21" custom="readingOrder {index:21;}">
+				<Coords points="83,906 119,906 119,914 203,914 212,907 240,907 276,908 276,914 330,914 344,908 348,908 348,915 366,915 366,908 405,908 405,923 419,909 439,909 439,916 452,916 452,909 466,909 480,916 515,916 526,909 568,909 589,911 622,911 622,917 643,917 643,930 129,926 129,933 95,933 83,933" />
+				<Baseline points="83,925 643,929" />
+				<TextEquiv index="1">
+					<Unicode>lange es auch dauern sollte. Und um sich seiner</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l22" custom="readingOrder {index:22;}">
+				<Coords points="82,952 107,952 118,946 126,946 126,952 142,952 142,946 202,946 202,953 231,953 231,961 242,953 243,946 256,946 256,953 268,953 268,946 289,946 312,946 332,946 346,950 379,954 386,948 394,947 409,947 409,954 423,954 432,948 440,948 440,954 501,954 501,948 545,948 571,949 579,955 597,955 597,949 636,949 636,960 642,960 642,963 636,968 461,966 236,970 202,970 182,970 156,970 142,965 126,964 126,970 118,970 107,964 82,964" />
+				<Baseline points="82,964 422,965 642,968" />
+				<TextEquiv index="1">
+					<Unicode>zu versichern, entlohnte er ihn im vorhinein reich-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l23" custom="readingOrder {index:23;}">
+				<Coords points="82,983 99,984 108,974 128,974 135,985 149,985 149,991 162,991 162,985 175,985 187,991 207,991 207,985 220,985 220,991 276,991 276,985 326,985 326,992 346,992 357,986 392,986 392,992 417,992 428,986 448,986 448,992 459,992 459,986 493,986 493,993 518,993 528,987 586,987 586,994 599,994 610,988 642,989 642,1006 610,1006 599,1012 564,1012 550,1012 550,1005 448,1004 448,1010 428,1010 417,1004 244,1003 244,1010 207,1010 207,1003 82,1002" />
+				<Baseline points="82,1002 642,1006" />
+				<TextEquiv index="1">
+					<Unicode>lich und versprach ihm einen gleichen Betrag für</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l24" custom="readingOrder {index:24;}">
+				<Coords points="83,1021 105,1021 105,1028 115,1028 123,1022 233,1022 235,1023 235,1037 248,1023 277,1023 277,1030 288,1030 296,1023 328,1023 328,1030 340,1030 340,1023 355,1023 355,1030 380,1030 389,1024 414,1024 414,1031 422,1031 434,1024 461,1024 461,1031 480,1031 491,1025 497,1025 497,1031 512,1031 512,1025 545,1025 545,1031 570,1026 578,1026 578,1032 594,1032 594,1026 643,1026 643,1051 615,1051 615,1044 584,1044 584,1050 578,1051 570,1051 558,1043 314,1048 314,1041 162,1042 83,1040" />
+				<Baseline points="83,1040 643,1044" />
+				<TextEquiv index="1">
+					<Unicode>die Rückfahrt. Die Wagen, die dem seinen gefolgt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l25" custom="readingOrder {index:25;}">
+				<Coords points="81,1066 155,1067 159,1061 175,1061 175,1068 197,1068 197,1061 211,1061 211,1068 232,1068 236,1062 340,1062 340,1069 357,1069 357,1077 368,1063 394,1063 394,1070 408,1070 413,1063 427,1063 427,1069 463,1067 515,1067 542,1071 542,1063 622,1064 622,1071 635,1071 642,1074 642,1078 635,1083 515,1082 515,1088 493,1088 476,1088 463,1088 459,1082 340,1081 340,1087 236,1087 232,1080 159,1079 155,1085 129,1085 129,1079 108,1079 108,1085 92,1085 92,1078 81,1078" />
+				<Baseline points="81,1078 642,1083" />
+				<TextEquiv index="1">
+					<Unicode>waren, kamen angefahren. Aus dem ersten sah Frido-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l26" custom="readingOrder {index:26;}">
+				<Coords points="81,1097 98,1097 111,1099 116,1105 126,1100 150,1100 166,1107 200,1106 200,1100 255,1100 286,1101 286,1108 328,1108 328,1101 408,1101 440,1105 447,1103 471,1103 482,1108 506,1109 511,1103 537,1103 537,1109 572,1107 612,1107 642,1110 642,1122 537,1122 499,1126 471,1121 471,1128 447,1128 447,1120 430,1120 430,1128 421,1128 416,1120 407,1120 407,1127 328,1127 328,1120 179,1119 81,1116" />
+				<Baseline points="81,1117 642,1122" />
+				<TextEquiv index="1">
+					<Unicode>lin eine verhüllte Frauengestalt steigen; dann trat er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r0l27" custom="readingOrder {index:27;}">
+				<Coords points="81,1137 151,1137 234,1138 236,1142 236,1154 249,1146 263,1146 263,1139 345,1140 345,1147 356,1147 368,1140 417,1140 417,1147 504,1148 504,1142 632,1141 632,1148 641,1148 641,1166 577,1166 539,1166 529,1160 486,1165 443,1165 332,1160 241,1163 171,1163 159,1158 81,1156" />
+				<Baseline points="81,1156 641,1161" />
+				<TextEquiv index="1">
+					<Unicode>in den Garten, nahm die Larve vor, ein schmaler,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>reiter Arzt.
+gleich zurückkehrte? Aber wohin? Zu der kleinen
+Pierrette? Oder zu dem Dirnchen in der Buchfeld-
+gasse? Oder zu Marianne, der Tochter des Verstor-
+benen? Oder nach Hause? Und mit einem leichten
+Schauer empfand er, daß er nirgendshin sich weni-
+ger sehnte als gerade dorthin. Oder war es, weil
+dieser Weg ihn der weiteste dünkte? Nein, ich kann
+nicht zurück, dachte er bei sich. Weiter meinen Weg,
+Wort, aber sehr heiter war ihm dabei nicht zumut.
+Ein Gartentor stand weit offen. Die Trauerkutsche
+vor ihm fuhr eben tiefer in die Schlucht hinab oder
+in das Dunkel, das ihm so erschien. Nachtigall war
+also jedenfalls schon ausgestiegen. Fridolin sprang
+rasch aus dem Wagen, wies den Kutscher an, oben
+an jener Biegung seine Rückkehr abzuwarten, so
+lange es auch dauern sollte. Und um sich seiner
+zu versichern, entlohnte er ihn im vorhinein reich-
+lich und versprach ihm einen gleichen Betrag für
+die Rückfahrt. Die Wagen, die dem seinen gefolgt
+waren, kamen angefahren. Aus dem ersten sah Frido-
+lin eine verhüllte Frauengestalt steigen; dann trat er
+in den Garten, nahm die Larve vor, ein schmaler,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+seiner Kranken herumgehen würde – ein hilfsbereiter Arzt.
+Der Wagen stand still. Wie wär’s, dachte Fridolin, wenn ich gar nicht erst ausstiege – sondern lieber gleich zurückkehrte? Aber wohin? Zu der kleinen Pierrette? Oder zu dem Dirnchen in der Buchfeldgasse? Oder zu Marianne, der Tochter des Verstorbenen? Oder nach Hause? Und mit einem leichten Schauer empfand er, daß er nirgendshin sich weniger sehnte als gerade dorthin. Oder war es, weil dieser Weg ihn der weiteste dünkte? Nein, ich kann nicht zurück, dachte er bei sich. Weiter meinen Weg, und wär’s mein Tod. Er lachte selbst zu dem großen Wort, aber sehr heiter war ihm dabei nicht zumut.
+Ein Gartentor stand weit offen. Die Trauerkutsche vor ihm fuhr eben tiefer in die Schlucht hinab oder in das Dunkel, das ihm so erschien. Nachtigall war also jedenfalls schon ausgestiegen. Fridolin sprang rasch aus dem Wagen, wies den Kutscher an, oben an jener Biegung seine Rückkehr abzuwarten, solange es auch dauern sollte. Und um sich seiner zu versichern, entlohnte er ihn im vorhinein reichlich und versprach ihm einen gleichen Betrag für die Rückfahrt. Die Wagen, die dem seinen gefolgt waren, kamen angefahren. Aus dem ersten sah Fridolin eine verhüllte Frauengestalt steigen; dann trat er in den Garten, nahm die Larve vor, ein schmaler,
+-->
+	</Page>
+</PcGts>

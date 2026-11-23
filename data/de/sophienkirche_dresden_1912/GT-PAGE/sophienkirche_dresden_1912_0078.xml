@@ -1,0 +1,422 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:28:17</Created>
+		<LastChange>2026-11-23T18:28:17</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Die_Sophienkirche_in_Dresden_(1912).pdf/78 revision 4841554 of 2026-03-02T07:53:45Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="sophienkirche_dresden_1912_0078.png" imageWidth="1000" imageHeight="1438">
+		<ReadingOrder>
+			<OrderedGroup id="ro15066631287321627146" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="15" regionRef="r15" />
+				<RegionRefIndexed index="16" regionRef="r16" />
+				<RegionRefIndexed index="20" regionRef="r20" />
+				<RegionRefIndexed index="21" regionRef="r21" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 1000,0 1000,1123 0,1123" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="539,150 609,150 609,178 539,178" />
+			<!-- line left out: id="r1l0" points="539,168 550,168 564,161 592,161 592,150 609,150 609,178 592,178 564,173 539,169" baseline="539,169 609,169" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 66 —
+ | german_print2_15: — 66 —
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="263,201 886,201 886,578 263,578" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="263,209 303,204 308,204 317,208 334,204 354,205 536,202 611,202 629,204 665,202 707,202 712,204 777,201 786,201 815,201 824,201 856,201 883,205 883,213 707,214 657,218 601,218 590,218 484,215 461,218 453,218 428,215 263,217" />
+				<Baseline points="263,217 470,214 883,213" />
+				<TextEquiv index="1">
+					<Unicode>eine reizvolle Behandlung aus. In der Bearbeitung des Steines und in der Form</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="264,232 301,227 418,226 426,229 517,225 605,225 617,228 666,225 857,223 863,223 884,223 884,237 556,237 446,241 427,241 415,237 380,238 361,241 353,241 311,239 307,241 301,241 264,239" />
+				<Baseline points="264,239 402,237 849,235 884,237" />
+				<TextEquiv index="1">
+					<Unicode>und Stellung der Wappen weist dieser Grabstein noch besondere Merkmale auf,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="263,250 305,249 346,251 412,248 497,248 519,251 551,251 552,257 565,247 717,249 742,246 757,246 788,246 802,246 837,246 863,246 884,246 884,258 726,259 707,262 664,262 655,262 473,260 263,261" />
+				<Baseline points="263,261 451,259 884,258" />
+				<TextEquiv index="1">
+					<Unicode>die ihn mit zwei anderen Grabsteinen, dem schon genannten der Clara Elisabeth</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="263,276 299,272 560,270 570,274 573,280 586,274 609,270 756,270 818,268 829,268 856,268 868,268 884,272 884,280 797,284 771,284 760,281 746,284 731,285 619,282 551,282 340,287 318,287 305,287 263,283" />
+				<Baseline points="263,283 884,280" />
+				<TextEquiv index="1">
+					<Unicode>von Haugwitz und dem des Paul John, in Zusammenhang bringen. Bei allen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l4" points="263,295 272,295 302,294 311,294 333,294 349,296 371,297 388,297 410,295 424,293 433,293 486,293 541,293 598,294 632,292 640,292 665,292 682,291 688,291 711,291 724,292 729,293 754,291 762,291 817,291 868,291 882,291 885,292 885,302 882,303 868,303 711,304 607,308 599,308 494,305 465,305 442,305 354,305 333,306 311,306 289,306 263,306" baseline="263,306 300,305 506,304 885,302" reason: second model: differs: "eiGCrab" against "i Grabs" | Wikisource: drei Grabsteinen ist der äußere rahmenartig erhöhte Schriftrand nur der Schrift | next_nc_e1: drei Grabsteinen ist der äußere rahmenartig erhöhte Schriftrand nur der Schrift | german_print2_15: drei GCrabsteinen ist der äußere rahmenartig erhöhte Schriftrand nur der Schrift -->
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="263,321 295,320 314,317 326,317 331,319 379,316 428,316 446,319 464,316 529,315 534,317 543,315 608,315 626,318 651,318 668,314 787,313 798,313 823,313 845,313 882,317 884,323 884,327 767,326 758,329 749,329 608,327 263,328" />
+				<Baseline points="263,328 884,325" />
+				<TextEquiv index="1">
+					<Unicode>vorbehalten und wird an keiner Stelle durch einen Teil der Figur überschnitten,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l6" points="263,343 293,343 338,339 348,339 377,339 401,338 410,338 505,337 515,337 548,337 565,337 590,337 623,337 652,337 752,337 770,337 785,338 816,336 830,336 872,336 885,340 885,348 743,349 734,352 725,352 707,349 548,350 515,350 480,350 465,350 436,350 410,350 377,350 316,354 293,354 279,354 263,350" baseline="263,350 487,349 806,348 885,348" reason: second model: differs: "enHiohl" against "n Hohlk" | Wikisource: wogegen das bei der inneren Hohlkehle des Randes in ausgedehntem Maße der | next_nc_e1: wogegen das bei der inneren Hohlkehle des Randes in ausgedehntem Maße der | german_print2_15: wogegen das bei der inneren Hiohlkehle des Randes in ausgedehntem Maße der -->
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="263,361 288,362 628,360 635,362 657,364 682,360 776,358 787,358 800,358 837,362 842,358 851,358 885,358 885,370 598,372 394,376 385,376 348,373 263,373" />
+				<Baseline points="263,373 885,370" />
+				<TextEquiv index="1">
+					<Unicode>Fall ist. Die Köpfe reichen auf allen drei Grabsteinen bis an den Schriftrand und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="263,384 364,383 370,387 385,383 584,383 607,386 622,383 644,382 661,382 678,382 700,382 748,382 774,385 803,382 814,382 860,382 885,385 885,394 864,396 803,396 748,393 504,395 370,399 335,399 321,399 316,399 263,395" />
+				<Baseline points="263,395 729,393 885,394" />
+				<TextEquiv index="1">
+					<Unicode>die Wappen greifen über die Hohlkehle hinaus. Besondere Übereinstimmungen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="264,411 275,407 327,407 335,412 348,406 384,407 461,405 466,408 488,410 522,409 535,405 629,405 703,408 727,405 842,403 864,403 869,405 885,407 885,415 826,417 414,418 369,418 327,418 264,418" />
+				<Baseline points="264,418 885,415" />
+				<TextEquiv index="1">
+					<Unicode>welche die Herkunft der Steine aus derselben Werkstatt annehmen lassen, dürften</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="263,433 288,429 297,429 335,436 335,429 344,429 344,436 351,436 361,429 497,429 759,426 770,426 779,430 782,426 790,426 864,426 885,430 885,438 864,442 839,442 790,442 782,442 738,439 519,441 263,440" />
+				<Baseline points="263,440 885,438" />
+				<TextEquiv index="1">
+					<Unicode>auch in der Art der Helmdecken, der Form der Schilde, in der Verzierungsweise</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="263,457 268,452 309,451 330,456 340,452 345,452 354,456 361,462 374,452 629,451 644,454 671,450 720,449 729,449 771,449 781,449 816,449 845,449 885,450 885,460 794,461 762,464 754,464 683,462 364,464 361,464 263,463" />
+				<Baseline points="263,463 885,460" />
+				<TextEquiv index="1">
+					<Unicode>des Grundes, dem Faltenwurf und der besonderen Behandlung der Hände mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="263,479 381,474 409,476 499,473 560,474 770,472 826,475 827,481 848,471 868,471 885,475 885,483 730,484 683,488 660,488 625,485 553,489 532,489 523,489 409,485 367,486 360,489 349,489 331,489 321,489 303,486 291,489 281,489 275,486 263,486" />
+				<Baseline points="263,486 885,482" />
+				<TextEquiv index="1">
+					<Unicode>eigenartig gebildeten äußeren Fingergliedern und Nägeln zu finden sein. Aller-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l13" points="263,497 272,497 316,500 325,497 335,497 373,497 426,498 448,496 457,496 526,500 540,496 551,496 572,496 614,495 623,495 636,497 653,495 665,495 688,496 694,497 710,495 720,495 743,494 752,494 766,498 819,494 831,494 881,496 886,498 886,505 860,509 851,509 831,506 699,507 688,507 587,511 572,511 542,508 526,511 509,511 499,511 316,508 297,504 296,512 287,512 263,508" baseline="263,508 819,505 886,505" reason: second model: differs: "onHiaug" against "n Haugw" | Wikisource: dings befremdet zuerst das wenig durchgebildete Antlitz der Frau von Haugwitz | next_nc_e1: dings befremdet zuerst das wenig durchgebildete Antlitz der Frau von Haugwitz | german_print2_15: dings befremdet zuerst das wenig durchgebildete Antlitz der Frau von Hiaugwyitz -->
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="264,523 291,519 300,519 317,523 327,520 338,519 355,519 359,523 383,523 402,519 448,523 465,523 470,519 481,519 490,523 497,519 567,518 577,518 584,522 590,518 669,518 675,522 682,518 736,521 740,517 786,516 793,516 807,520 843,519 852,516 860,516 865,518 883,520 884,526 886,526 886,528 822,532 786,532 760,529 633,530 591,533 528,531 417,531 326,534 297,534 291,534 264,531" />
+				<Baseline points="264,531 886,528" />
+				<TextEquiv index="1">
+					<Unicode>im Vergleiche zu den ausdrucksvollen Köpfen der beiden anderen Dargestellten.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l15" points="264,542 275,542 310,542 649,554 654,541 663,541 686,541 749,543 769,539 781,539 800,539 817,541 886,543 886,550 849,551 800,551 719,555 663,556 649,556 264,553" baseline="264,553 856,550 886,550" reason: differs: "enFglei" against "n Forme" | Wikisource:  | next_nc_e1: Den F gleichung von Grabsteinen im | german_print2_15: Den f gleichung von Grabsteinen im -->
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="266,565 335,565 365,568 394,565 577,564 646,567 706,563 724,566 725,572 743,562 816,562 821,563 824,572 837,561 847,561 886,566 886,573 826,575 607,575 599,578 590,578 511,576 266,576" />
+				<Baseline points="266,576 886,573" />
+				<TextEquiv index="1">
+					<Unicode>17. Jahrhundert kein besonderer Wert beigemessen werden. Die Schrift, die zu-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>eine reizvolle Behandlung aus. In der Bearbeitung des Steines und in der Form
+und Stellung der Wappen weist dieser Grabstein noch besondere Merkmale auf,
+die ihn mit zwei anderen Grabsteinen, dem schon genannten der Clara Elisabeth
+von Haugwitz und dem des Paul John, in Zusammenhang bringen. Bei allen
+vorbehalten und wird an keiner Stelle durch einen Teil der Figur überschnitten,
+Fall ist. Die Köpfe reichen auf allen drei Grabsteinen bis an den Schriftrand und
+die Wappen greifen über die Hohlkehle hinaus. Besondere Übereinstimmungen,
+welche die Herkunft der Steine aus derselben Werkstatt annehmen lassen, dürften
+auch in der Art der Helmdecken, der Form der Schilde, in der Verzierungsweise
+des Grundes, dem Faltenwurf und der besonderen Behandlung der Hände mit
+eigenartig gebildeten äußeren Fingergliedern und Nägeln zu finden sein. Aller-
+im Vergleiche zu den ausdrucksvollen Köpfen der beiden anderen Dargestellten.
+17. Jahrhundert kein besonderer Wert beigemessen werden. Die Schrift, die zu-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="403,500 425,500 425,508 403,508" />
+		</GraphicRegion>
+		<GraphicRegion id="r4">
+			<Coords points="658,541 659,541 659,544 658,544" />
+		</GraphicRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="339,541 640,541 640,553 339,553" />
+			<!-- line left out: id="r5l0" points="339,546 379,542 389,542 426,542 441,542 458,544 468,542 477,542 516,542 560,542 593,541 603,541 640,541 640,552 560,553 524,553 339,553" baseline="339,553 507,552 640,552" reason: differs: "nender" against "meist " | Wikisource:  | next_nc_e1: nen der Buchstaben kann bei der Ve
+ | german_print2_15: nen der Buchstaben kann bei der Ver
+ -->
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="314,545 660,545 660,555 314,555" />
+		</GraphicRegion>
+		<GraphicRegion id="r7">
+			<Coords points="504,569 507,569 507,575 504,575" />
+		</GraphicRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="497,584 887,584 887,620 497,620" />
+			<!-- line left out: id="r8l0" points="497,590 516,586 532,586 555,587 568,588 587,588 597,590 606,586 610,586 629,586 664,589 691,589 723,589 728,585 737,585 753,585 788,584 797,584 850,584 875,584 886,588 886,599 879,599 869,596 833,596 809,598 797,598 745,597 723,597 704,597 691,601 597,601 588,601 577,598 540,598 501,598 497,594" baseline="497,598 752,596 886,595" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: en Werkstattgehilfen ausgemeißelt wurde, ist häufig | german_print2_15: en Werkstattgehilfen ausgemeißelt wurde, ist häufig -->
+			<TextLine id="r8l1" custom="readingOrder {index:1;}">
+				<Coords points="563,614 568,609 594,613 604,609 682,608 744,610 805,606 829,606 869,606 882,610 887,614 887,615 882,618 682,620 563,620" />
+				<Baseline points="563,620 887,618" />
+				<TextEquiv index="1">
+					<Unicode>derselben Werkstatt stammen und in der-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>derselben Werkstatt stammen und in der-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="264,587 482,587 482,602 264,602" />
+			<!-- line left out: id="r9l0" points="264,591 278,591 294,590 303,590 320,591 332,587 344,587 379,591 406,590 416,590 424,591 440,590 454,587 468,587 482,592 482,598 440,598 435,602 426,602 344,599 291,599 288,599 264,598" baseline="264,598 482,598" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: meist wohl von untergeordne
+ | german_print2_15: meist wohl von untergeordne
+ -->
+		</TextRegion>
+		<GraphicRegion id="r10">
+			<Coords points="488,591 497,591 497,598 488,598" />
+		</GraphicRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="264,609 546,609 546,622 264,622" />
+			<!-- line left out: id="r11l0" points="264,613 267,613 293,610 302,610 330,610 342,611 398,610 407,610 443,609 458,609 475,613 496,610 504,609 519,609 538,613 546,618 546,620 519,621 483,621 389,622 327,622 316,622 267,621 264,621" baseline="264,621 518,620 546,620" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: bei Grabsteinen, die nachweislich au
+ | german_print2_15: bei Grabsteinen, die nachweislich au-
+ -->
+		</TextRegion>
+		<GraphicRegion id="r12">
+			<Coords points="548,613 554,613 554,620 548,620" />
+		</GraphicRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="266,631 886,631 886,669 266,669" />
+			<TextLine id="r13l0" custom="readingOrder {index:0;}">
+				<Coords points="266,637 280,632 293,635 321,632 348,634 394,634 413,632 480,632 512,635 540,631 550,631 567,635 574,631 583,631 588,637 595,637 596,631 605,631 622,635 622,642 554,643 504,647 495,647 422,644 266,644" />
+				<Baseline points="266,644 622,642" />
+				<TextEquiv index="1">
+					<Unicode>selben Zeit entstanden sind, ganz verschieden.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r13l1" custom="readingOrder {index:1;}">
+				<Coords points="464,654 530,654 552,657 560,654 708,653 764,656 804,652 813,652 836,654 856,652 865,652 886,655 886,663 692,665 599,669 568,669 530,669 520,669 493,666 464,666" />
+				<Baseline points="464,666 886,663" />
+				<TextEquiv index="1">
+					<Unicode>Bildnisdarstellungen und Beweise von bedeutendem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>selben Zeit entstanden sind, ganz verschieden.
+Bildnisdarstellungen und Beweise von bedeutendem</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r14">
+			<Coords points="430,657 451,657 451,666 430,666" />
+		</GraphicRegion>
+		<TextRegion id="r15" custom="readingOrder {index:15;} orientation {0;}">
+			<Coords points="264,655 887,655 887,760 264,760" />
+			<!-- line left out: id="r15l0" points="306,655 317,655 407,655 427,659 427,670 420,670 380,669 371,669 327,667 306,667" baseline="306,667 406,666 427,666" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Hervorragend g | german_print2_15: Hervorragend g -->
+			<TextLine id="r15l1" custom="readingOrder {index:1;}">
+				<Coords points="264,677 405,678 542,676 559,680 623,676 865,674 874,674 887,678 887,686 730,691 716,691 659,688 612,688 595,691 587,691 559,688 528,691 517,691 440,689 264,689" />
+				<Baseline points="264,689 887,686" />
+				<TextEquiv index="1">
+					<Unicode>Können sind die beiden in der Auffassung und Behandlung völlig von einander</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r15l2" points="304,704 309,704 322,700 332,700 386,700 410,700 423,702 445,704 460,699 469,699 505,699 520,699 573,699 592,699 663,699 679,698 690,698 699,699 722,700 783,697 790,697 817,698 834,701 835,707 848,697 866,697 883,697 886,698 886,708 866,709 744,710 722,710 704,710 573,711 505,711 401,712 386,712 358,712 304,712" baseline="304,712 366,711 545,710 886,708" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: hiedenen Grabsteine des Michael Schulze und des Christian von Treben. Wirkt | german_print2_15: hiedenen Grabsteine des Michael Schulze und des Christian von Treben. Wirkt -->
+			<!-- line left out: id="r15l3" points="324,730 328,726 338,723 341,723 366,723 391,722 420,722 434,726 444,723 457,722 478,722 497,722 504,726 539,722 552,722 573,721 582,721 635,721 671,721 699,721 758,720 768,720 791,720 813,720 836,720 864,719 874,719 887,723 887,731 827,735 814,735 794,732 791,735 781,735 671,733 635,733 504,734 478,734 324,734" baseline="324,734 657,732 852,731 887,731" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: talt des Michael Schulze mehr durch die Frische und Lebendigkeit der | german_print2_15: talt des Michael Schulze mehr durch die Frische und Lebendigkeit der -->
+			<TextLine id="r15l4" custom="readingOrder {index:4;}">
+				<Coords points="521,748 542,744 664,744 677,747 687,743 860,742 864,742 886,746 886,754 817,758 749,755 585,756 552,760 542,760 536,756 530,760 521,760" />
+				<Baseline points="521,756 886,754" />
+				<TextEquiv index="1">
+					<Unicode>großen Flächen behandelte Gewandung, so über-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Können sind die beiden in der Auffassung und Behandlung völlig von einander
+großen Flächen behandelte Gewandung, so über-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r16" custom="readingOrder {index:16;} orientation {0;}">
+			<Coords points="264,704 887,704 887,780 264,780" />
+			<!-- line left out: id="r16l0" points="264,704 270,704 282,707 282,711 277,712 264,712" baseline="264,712 282,711" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ver | german_print2_15: ver -->
+			<!-- line left out: id="r16l1" points="264,723 273,723 310,723 310,734 264,734" baseline="264,734 310,734" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: die Ge | german_print2_15: die Ce -->
+			<!-- line left out: id="r16l2" points="264,745 276,745 303,747 313,745 320,745 401,745 420,752 423,745 433,745 461,745 475,745 491,745 494,748 494,756 471,756 401,757 349,760 341,760 330,757 316,757 271,760 264,760" baseline="264,757 348,756 494,756" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Darstellung und die absichtlich | german_print2_15: Darstellung und die absichtlich -->
+			<TextLine id="r16l3" custom="readingOrder {index:3;}">
+				<Coords points="264,770 280,768 362,768 388,770 439,767 482,769 652,766 732,766 752,769 760,766 769,766 782,769 796,765 840,764 856,764 887,768 887,776 348,780 336,780 264,779" />
+				<Baseline points="264,779 887,776" />
+				<TextEquiv index="1">
+					<Unicode>trifft der Grabstein des Christian von Treben alle anderen an künstlerischem Werte.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>trifft der Grabstein des Christian von Treben alle anderen an künstlerischem Werte.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r17">
+			<Coords points="286,700 302,700 302,715 286,715" />
+		</GraphicRegion>
+		<GraphicRegion id="r18">
+			<Coords points="323,726 324,726 324,729 323,729" />
+		</GraphicRegion>
+		<GraphicRegion id="r19">
+			<Coords points="498,744 517,744 517,760 498,760" />
+		</GraphicRegion>
+		<TextRegion id="r20" custom="readingOrder {index:20;} orientation {0;}">
+			<Coords points="264,787 888,787 888,1117 264,1117" />
+			<TextLine id="r20l0" custom="readingOrder {index:0;}">
+				<Coords points="265,790 324,790 373,794 395,792 498,790 517,790 522,793 540,789 684,788 797,788 823,789 828,791 836,789 879,787 887,787 887,799 742,800 641,804 627,804 608,801 551,801 497,805 483,805 440,802 418,802 395,805 382,805 265,802" />
+				<Baseline points="265,802 887,799" />
+				<TextEquiv index="1">
+					<Unicode>Diese Arbeit zeigt eine vorzügliche Beherrschung des Reliefstils. Kühn setzt sich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r20l1" custom="readingOrder {index:1;}">
+				<Coords points="264,819 269,813 311,813 336,815 370,813 499,812 548,816 563,812 610,815 640,811 711,811 716,813 762,810 864,809 873,809 887,813 887,821 841,825 810,822 690,823 534,825 487,828 464,828 454,828 393,825 264,824" />
+				<Baseline points="264,825 887,821" />
+				<TextEquiv index="1">
+					<Unicode>der Meister über den Zwang hinaus, den sonst der Schriftrand auf die Figur des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r20l2" custom="readingOrder {index:2;}">
+				<Coords points="265,836 339,836 344,838 398,839 408,835 521,835 526,837 526,845 539,835 635,833 791,833 807,836 811,832 824,832 837,832 884,836 886,839 886,841 875,847 866,847 855,844 837,847 811,847 791,845 729,848 650,846 453,847 301,851 292,851 265,847" />
+				<Baseline points="265,847 886,843" />
+				<TextEquiv index="1">
+					<Unicode>Dargestellten ausübt. Die Gestalt, der Helm und die Wappen sind völlig unge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r20l3" custom="readingOrder {index:3;}">
+				<Coords points="265,867 272,862 338,858 482,859 522,857 636,856 765,857 794,855 803,855 886,858 886,866 844,870 835,870 822,867 803,867 719,868 702,871 546,869 393,870 312,873 304,873 298,870 265,870" />
+				<Baseline points="265,870 886,866" />
+				<TextEquiv index="1">
+					<Unicode>zwungen auf der Fläche verteilt. Die vornehme Männergestalt ist in ihrer ganzen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r20l4" points="265,881 277,881 296,881 349,880 353,880 377,880 395,880 427,880 437,884 437,890 449,880 459,880 483,880 528,879 540,879 568,879 599,879 607,881 644,879 648,879 681,878 706,878 726,878 758,878 778,878 792,877 802,877 835,877 882,877 882,888 848,893 846,893 835,889 829,893 802,893 787,893 758,890 726,890 616,891 473,895 469,895 459,892 437,895 428,895 404,892 325,896 310,896 265,892" baseline="265,892 439,891 847,888 882,888" reason: models differ | Wikisource: Haltung sehr lebendig, Kopf und Hände naturwahr und individuell gestaltet. Be | next_nc_e1: Haltung sehr lebendig, Kopf und Hände naturwahr und individuell gestaltet. Be | german_print2_15: Haltung sehr lebendig, Kopf und Hände naturwahr und individuell gestaltet. Be- -->
+			<!-- line left out: id="r20l5" points="265,908 272,907 279,904 289,904 301,904 333,903 343,903 367,903 386,903 391,904 420,903 429,903 446,902 460,902 466,903 474,902 484,902 526,902 549,902 603,902 630,901 642,901 665,901 679,901 695,901 729,900 741,900 770,900 783,900 799,901 819,900 830,900 834,901 887,901 887,911 788,912 686,913 665,913 557,914 508,917 499,917 429,914 386,915 367,915 356,918 343,918 329,918 272,915 265,914" baseline="265,915 390,914 833,911 887,911" reason: second model: differs: "lüctist" against "lückt i" | Wikisource: sonders geglückt ist die Wiedergabe der weichen Haarwellen. Die Haartracht nimmt | next_nc_e1: sonders geglückt ist die Wiedergabe der weichen Haarwellen. Die Haartracht nimmt | german_print2_15: sonders geglüct ist die Wiedergabe der weichen Haarwellen. Die Haartracht nimmt -->
+			<TextLine id="r20l6" custom="readingOrder {index:6;}">
+				<Coords points="266,930 284,929 291,926 445,925 462,927 493,924 660,923 728,923 738,926 742,922 832,921 838,921 880,921 887,921 887,934 742,938 728,935 701,935 692,938 582,936 556,940 532,940 523,940 454,937 266,937" />
+				<Baseline points="266,937 887,933" />
+				<TextEquiv index="1">
+					<Unicode>noch die Aufmerksamkeit in Anspruch durch den langen Zopf mit dem Kleinod</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r20l7" custom="readingOrder {index:7;}">
+				<Coords points="265,952 282,952 298,948 335,948 370,952 372,958 386,948 559,946 577,947 583,949 625,946 685,945 688,949 719,945 784,945 789,946 790,955 807,945 813,944 823,944 828,948 849,944 869,944 884,944 887,948 887,956 410,960 345,963 331,963 325,963 265,959" />
+				<Baseline points="265,960 887,956" />
+				<TextEquiv index="1">
+					<Unicode>an der Spitze, der über die linke Schulter auf die Brust herabfällt. Vortrefflich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r20l8" points="266,974 277,972 291,970 300,970 333,971 339,972 348,971 363,971 379,971 399,970 409,970 445,970 468,970 523,969 532,969 556,969 596,969 606,972 614,969 637,968 654,968 705,968 729,968 766,968 781,971 792,967 804,967 834,967 858,967 874,966 888,966 888,979 804,980 757,980 729,980 679,984 619,985 617,985 596,981 588,985 556,985 514,985 488,985 468,982 454,982 266,982" baseline="266,982 618,980 815,979 888,979" reason: second model: differs: "rucdk" against "ruck le" | Wikisource: ist das Stoffliche der Kleidung gekennzeichnet. Der große künstlerische Eindruck | next_nc_e1: ist das Stoffliche der Kleidung gekennzeichnet. Der große künstlerische Eindrudk | german_print2_15: ist das Stoffliche der Kleidung gekennzeichnet. Der große Künstlerische Eindrucdk -->
+			<TextLine id="r20l9" custom="readingOrder {index:9;}">
+				<Coords points="266,993 292,993 305,995 324,993 356,993 454,996 481,992 576,993 611,991 688,990 700,990 714,990 731,990 741,990 759,990 805,990 838,990 888,993 888,1005 814,1002 788,1006 704,1006 674,1003 586,1003 471,1008 454,1008 444,1008 405,1005 380,1008 371,1008 356,1005 266,1005" />
+				<Baseline points="266,1005 888,1001" />
+				<TextEquiv index="1">
+					<Unicode>leidet allerdings ein wenig durch die etwas kleinliche Durchbildung der Rüstung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r20l10" custom="readingOrder {index:10;}">
+				<Coords points="266,1019 286,1015 341,1016 371,1019 398,1015 417,1015 426,1019 427,1025 442,1015 587,1014 601,1016 640,1013 706,1012 716,1012 729,1015 764,1012 774,1012 797,1012 884,1016 888,1019 888,1021 884,1023 871,1024 862,1027 797,1025 792,1028 764,1028 745,1025 724,1028 660,1029 597,1026 536,1030 511,1027 460,1027 408,1031 371,1031 310,1031 304,1031 266,1027" />
+				<Baseline points="266,1027 888,1023" />
+				<TextEquiv index="1">
+					<Unicode>und Kleidungsstücke, bei denen jede Niete und jede Spitzenmasche mit pein-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r20l11" custom="readingOrder {index:11;}">
+				<Coords points="266,1038 325,1038 362,1042 377,1038 403,1040 437,1037 447,1037 471,1041 497,1037 719,1037 795,1035 842,1036 866,1034 881,1034 888,1038 888,1046 541,1049 488,1053 471,1053 377,1053 362,1053 334,1050 266,1049" />
+				<Baseline points="266,1050 888,1046" />
+				<TextEquiv index="1">
+					<Unicode>licher Genauigkeit wiedergegeben sind. Ohne Zweifel hat man es hier mit der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r20l12" custom="readingOrder {index:12;}">
+				<Coords points="266,1060 296,1060 343,1064 396,1064 413,1060 439,1060 463,1062 517,1059 626,1060 646,1063 648,1069 663,1058 776,1057 779,1057 805,1057 836,1057 858,1057 888,1057 888,1069 472,1072 378,1076 369,1076 266,1071" />
+				<Baseline points="266,1072 888,1069" />
+				<TextEquiv index="1">
+					<Unicode>Arbeit eines ganz bedeutenden Künstlers zu tun, dessen Name vielleicht durch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r20l13" custom="readingOrder {index:13;}">
+				<Coords points="265,1083 271,1083 273,1086 283,1083 413,1082 458,1084 487,1082 584,1081 611,1085 614,1081 646,1081 654,1083 674,1081 720,1082 755,1080 846,1079 856,1079 884,1079 885,1086 887,1086 887,1088 884,1091 381,1095 319,1098 271,1098 265,1098" />
+				<Baseline points="265,1094 887,1091" />
+				<TextEquiv index="1">
+					<Unicode>zufällige Funde übereinstimmender und bezeichneter Arbeiten oder durch urkund-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r20l14" custom="readingOrder {index:14;}">
+				<Coords points="266,1105 352,1105 393,1109 418,1105 505,1106 541,1104 550,1104 582,1104 607,1104 607,1116 535,1117 490,1117 320,1117 294,1117 275,1117 266,1116" />
+				<Baseline points="266,1117 607,1116" />
+				<TextEquiv index="1">
+					<Unicode>liche Hinweise einmal bekannt werden wird.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Diese Arbeit zeigt eine vorzügliche Beherrschung des Reliefstils. Kühn setzt sich
+der Meister über den Zwang hinaus, den sonst der Schriftrand auf die Figur des
+Dargestellten ausübt. Die Gestalt, der Helm und die Wappen sind völlig unge-
+zwungen auf der Fläche verteilt. Die vornehme Männergestalt ist in ihrer ganzen
+noch die Aufmerksamkeit in Anspruch durch den langen Zopf mit dem Kleinod
+an der Spitze, der über die linke Schulter auf die Brust herabfällt. Vortrefflich
+leidet allerdings ein wenig durch die etwas kleinliche Durchbildung der Rüstung
+und Kleidungsstücke, bei denen jede Niete und jede Spitzenmasche mit pein-
+licher Genauigkeit wiedergegeben sind. Ohne Zweifel hat man es hier mit der
+Arbeit eines ganz bedeutenden Künstlers zu tun, dessen Name vielleicht durch
+zufällige Funde übereinstimmender und bezeichneter Arbeiten oder durch urkund-
+liche Hinweise einmal bekannt werden wird.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r21" custom="readingOrder {index:21;} orientation {0;}">
+			<Coords points="399,1392 651,1392 651,1420 399,1420" />
+			<!-- line left out: id="r21l0" points="399,1392 408,1392 428,1392 443,1392 457,1392 465,1392 474,1402 478,1402 508,1402 542,1402 542,1392 602,1392 651,1392 651,1420 602,1420 542,1420 533,1414 520,1414 508,1414 491,1414 483,1414 465,1411 465,1420 457,1420 443,1420 428,1420 408,1420 399,1420" baseline="399,1411 651,1411" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: htpdigital slub-dresden deſid48011 2029/78 | german_print2_15: htp ſi ital slub dresden de daS0112028,/78 -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+eine reizvolle Behandlung aus. In der Bearbeitung des Steines und in der Form
+und Stellung der Wappen weist dieser Grabstein noch besondere Merkmale auf,
+die ihn mit zwei anderen Grabsteinen, dem schon genannten der Clara Elisabeth
+von Haugwitz und dem des Paul John, in Zusammenhang bringen. Bei allen
+drei Grabsteinen ist der äußere rahmenartig erhöhte Schriftrand nur der Schrift
+vorbehalten und wird an keiner Stelle durch einen Teil der Figur überschnitten,
+wogegen das bei der inneren Hohlkehle des Randes in ausgedehntem Maße der
+Fall ist. Die Köpfe reichen auf allen drei Grabsteinen bis an den Schriftrand und
+die Wappen greifen über die Hohlkehle hinaus. Besondere Übereinstimmungen,
+welche die Herkunft der Steine aus derselben Werkstatt annehmen lassen, dürften
+auch in der Art der Helmdecken, der Form der Schilde, in der Verzierungsweise
+des Grundes, dem Faltenwurf und der besonderen Behandlung der Hände mit
+eigenartig gebildeten äußeren Fingergliedern und Nägeln zu finden sein.
+Allerdings befremdet zuerst das wenig durchgebildete Antlitz der Frau von Haugwitz
+im Vergleiche zu den ausdrucksvollen Köpfen der beiden anderen Dargestellten.
+Den Formen der Buchstaben kann bei der Vergleichung von Grabsteinen im
+17. Jahrhundert kein besonderer Wert beigemessen werden. Die Schrift, die
+zumeist wohl von untergeordneten Werkstattgehilfen ausgemeißelt wurde, ist häufig
+bei Grabsteinen, die nachweislich aus derselben Werkstatt stammen und in
+derselben Zeit entstanden sind, ganz verschieden.
+Hervorragend gute Bildnisdarstellungen und Beweise von bedeutendem
+Können sind die beiden in der Auffassung und Behandlung völlig von einander
+verschiedenen Grabsteine des Michael Schulze und des Christian von Treben. Wirkt
+die Gestalt des Michael Schulze mehr durch die Frische und Lebendigkeit der
+Darstellung und die absichtlich in großen Flächen behandelte Gewandung, so
+übertrifft der Grabstein des Christian von Treben alle anderen an künstlerischem Werte.
+Diese Arbeit zeigt eine vorzügliche Beherrschung des Reliefstils. Kühn setzt sich
+der Meister über den Zwang hinaus, den sonst der Schriftrand auf die Figur des
+Dargestellten ausübt. Die Gestalt, der Helm und die Wappen sind völlig
+ungezwungen auf der Fläche verteilt. Die vornehme Männergestalt ist in ihrer ganzen
+Haltung sehr lebendig, Kopf und Hände naturwahr und individuell gestaltet.
+Besonders geglückt ist die Wiedergabe der weichen Haarwellen. Die Haartracht nimmt
+noch die Aufmerksamkeit in Anspruch durch den langen Zopf mit dem Kleinod
+an der Spitze, der über die linke Schulter auf die Brust herabfällt. Vortrefflich
+ist das Stoffliche der Kleidung gekennzeichnet. Der große künstlerische Eindruck
+leidet allerdings ein wenig durch die etwas kleinliche Durchbildung der Rüstung
+und Kleidungsstücke, bei denen jede Niete und jede Spitzenmasche mit
+peinlicher Genauigkeit wiedergegeben sind. Ohne Zweifel hat man es hier mit der
+Arbeit eines ganz bedeutenden Künstlers zu tun, dessen Name vielleicht durch
+zufällige Funde übereinstimmender und bezeichneter Arbeiten oder durch
+urkundliche Hinweise einmal bekannt werden wird.
+-->
+	</Page>
+</PcGts>

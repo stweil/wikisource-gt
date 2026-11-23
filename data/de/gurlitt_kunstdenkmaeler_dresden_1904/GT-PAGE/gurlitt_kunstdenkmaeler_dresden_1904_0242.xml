@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:26:25</Created>
+		<LastChange>2026-11-23T18:26:25</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Cornelius_Gurlitt_Kunstdenkmäler_Dresden_Neustadt_1904.pdf/242 revision 4668102 of 2025-12-04T11:18:07Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="gurlitt_kunstdenkmaeler_dresden_1904_0242.png" imageWidth="1000" imageHeight="1604">
+		<ReadingOrder>
+			<OrderedGroup id="ro4022187990478017077" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="15" regionRef="r15" />
+				<RegionRefIndexed index="18" regionRef="r18" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="388,109 840,109 840,132 388,132" />
+			<!-- line left out: id="r0l0" points="388,109 404,109 417,110 426,111 433,109 453,109 463,110 463,121 475,110 500,110 519,110 527,115 840,115 840,132 821,132 809,131 531,124 466,127 462,127 453,124 404,127 394,127 388,123" baseline="388,123 530,124 809,131 840,132" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Schönfeld, Kirche. 217
+ | german_print2_15: Schönfeld, Kirche. 217
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r1">
+			<Coords points="96,135 838,135 838,146 96,146" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r2">
+			<Coords points="96,135 840,135 840,145 96,145" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r3">
+			<Coords points="80,138 840,138 840,147 80,147" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r4">
+			<Coords points="96,137 840,137 840,147 96,147" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r5">
+			<Coords points="96,137 840,137 840,147 96,147" />
+		</SeparatorRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="77,167 840,167 840,400 77,400" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="124,168 201,168 225,173 236,167 240,167 240,173 252,168 260,167 278,167 375,167 411,167 624,169 624,175 680,170 680,176 733,172 761,177 761,171 825,172 825,178 835,178 840,182 840,185 835,189 654,191 641,191 620,186 124,184" />
+				<Baseline points="124,183 587,184 840,189" />
+				<TextEquiv index="1">
+					<Unicode>Ueber dem mittleren Theile ein Aufbau, seitlich Anfang einer durchbroche-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l1" custom="readingOrder {index:1;}">
+				<Coords points="79,200 112,200 112,207 127,199 165,194 223,194 242,199 248,193 264,193 264,199 280,194 311,193 323,193 341,193 384,193 455,194 462,196 492,194 547,194 557,197 563,194 575,194 592,197 628,196 641,201 700,197 722,197 744,198 754,203 764,204 772,198 794,198 794,204 816,202 835,204 840,208 840,211 835,215 641,216 575,216 521,216 514,216 503,210 380,210 361,214 328,214 292,210 242,210 186,215 127,215 112,214 101,211 79,210" />
+				<Baseline points="79,210 372,209 607,211 840,215" />
+				<TextEquiv index="1">
+					<Unicode>nen, geschweiften Verdachung, darauf sitzend beflügelte Figuren mit den Marter-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l2" custom="readingOrder {index:2;}">
+				<Coords points="80,226 88,226 88,220 102,220 102,226 114,226 114,220 125,220 126,226 154,225 160,220 214,220 225,225 225,219 237,219 237,225 244,225 255,219 272,219 294,224 303,219 308,219 343,219 377,219 377,225 394,225 394,219 408,219 408,225 454,220 494,220 501,223 529,221 579,221 586,224 628,227 656,223 696,223 696,229 712,229 712,223 726,223 726,229 742,224 775,224 775,230 814,231 814,224 828,224 828,231 839,231 839,242 619,243 606,243 546,238 460,237 442,239 394,239 386,236 294,240 281,240 272,236 190,239 172,241 154,241 144,237 88,241 80,237" />
+				<Baseline points="80,236 360,235 639,238 839,242" />
+				<TextEquiv index="1">
+					<Unicode>werkzeugen, links Nägel mit Hammer, rechts eine Stange mit einem Schwamm.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l3" custom="readingOrder {index:3;}">
+				<Coords points="80,247 121,247 139,252 149,246 187,248 271,245 277,245 277,251 295,246 412,246 439,247 449,251 484,251 501,247 526,247 540,253 551,247 565,247 602,248 605,254 618,250 674,254 703,250 719,250 730,255 736,250 750,250 756,256 797,252 833,252 833,258 839,258 839,268 785,271 750,271 736,271 470,267 439,263 376,267 80,263" />
+				<Baseline points="80,262 551,263 839,268" />
+				<TextEquiv index="1">
+					<Unicode>In der Mitte auf Holz in Temperafarben gemalt: Christus am Kreuze, links</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l4" custom="readingOrder {index:4;}">
+				<Coords points="80,273 140,273 162,277 163,285 184,272 191,272 224,272 231,274 249,272 274,272 293,272 303,277 305,285 324,277 361,272 383,272 396,277 423,272 449,272 449,278 463,273 491,273 500,278 522,279 523,287 542,274 619,274 632,275 641,281 673,276 684,276 696,281 714,277 737,277 760,282 785,278 834,278 838,280 838,298 834,299 797,299 779,299 737,294 606,295 523,293 500,290 464,294 434,294 383,289 309,292 123,291 80,289" />
+				<Baseline points="80,288 527,289 838,295" />
+				<TextEquiv index="1">
+					<Unicode>Johannes, rechts Maria, am Fusse Magdalena, den Kopf an das Kreuz gelegt,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l5" custom="readingOrder {index:5;}">
+				<Coords points="79,299 116,301 202,298 209,298 220,299 240,304 250,298 300,298 310,303 335,299 467,299 478,304 480,312 496,300 512,300 540,305 570,301 625,302 643,307 643,315 658,306 669,306 712,311 713,317 726,307 745,307 800,312 839,313 839,322 823,322 658,319 480,318 467,316 457,320 439,320 343,315 79,315" />
+				<Baseline points="79,314 559,316 839,322" />
+				<TextEquiv index="1">
+					<Unicode>hinter demselben Wolken mit Kindengeln, Kreuz oben bez. Jesvs. Nazarenus rex</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l6" custom="readingOrder {index:6;}">
+				<Coords points="78,329 117,329 163,333 165,339 183,325 345,325 372,330 372,324 385,324 402,324 402,330 470,331 470,325 522,325 530,326 530,332 549,327 593,327 593,333 613,333 613,327 624,327 625,334 636,333 641,327 654,327 654,333 677,329 770,330 784,332 819,331 819,337 838,337 838,348 755,347 665,349 641,349 431,347 402,344 165,344 150,342 94,344 78,342" />
+				<Baseline points="78,341 549,342 838,348" />
+				<TextEquiv index="1">
+					<Unicode>Judaeorum, oben eine durchbrochene, geschweifte Verdachung, in der Mitte eine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l7" custom="readingOrder {index:7;}">
+				<Coords points="77,351 109,351 174,351 174,357 183,357 184,364 204,351 222,351 262,351 314,351 322,357 334,357 334,351 340,351 369,351 393,351 397,356 412,357 424,351 445,351 445,357 457,353 482,357 482,351 496,351 496,357 536,353 562,353 592,356 674,355 684,360 704,356 722,356 753,361 761,357 790,357 802,362 827,358 838,363 838,374 779,374 744,377 731,377 674,372 632,371 544,371 397,368 393,372 369,372 350,368 222,368 188,370 163,368 85,370 77,367" />
+				<Baseline points="77,367 536,368 838,374" />
+				<TextEquiv index="1">
+					<Unicode>Thiermaske, darüber auf niedrigem Postament: Christus mit der Siegesfahne in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l8" custom="readingOrder {index:8;}">
+				<Coords points="77,377 89,377 98,382 106,383 117,377 129,377 129,383 141,383 141,377 152,377 152,383 172,383 183,377 200,377 217,377 275,378 304,382 313,377 325,377 332,379 370,383 370,377 382,377 404,378 435,384 470,384 482,378 495,378 495,384 539,385 539,396 516,400 490,400 482,400 77,394" />
+				<Baseline points="77,393 539,395" />
+				<TextEquiv index="1">
+					<Unicode>der linken Hand, die rechte erhoben zum Segen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Ueber dem mittleren Theile ein Aufbau, seitlich Anfang einer durchbroche-
+nen, geschweiften Verdachung, darauf sitzend beflügelte Figuren mit den Marter-
+werkzeugen, links Nägel mit Hammer, rechts eine Stange mit einem Schwamm.
+In der Mitte auf Holz in Temperafarben gemalt: Christus am Kreuze, links
+Johannes, rechts Maria, am Fusse Magdalena, den Kopf an das Kreuz gelegt,
+hinter demselben Wolken mit Kindengeln, Kreuz oben bez. Jesvs. Nazarenus rex
+Judaeorum, oben eine durchbrochene, geschweifte Verdachung, in der Mitte eine
+Thiermaske, darüber auf niedrigem Postament: Christus mit der Siegesfahne in
+der linken Hand, die rechte erhoben zum Segen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="120,408 512,408 512,426 120,426" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="120,408 136,408 184,408 236,408 251,410 271,408 277,408 320,408 362,408 379,413 386,408 410,408 431,408 431,414 451,410 512,411 512,426 451,426 120,424" />
+				<Baseline points="120,424 512,426" />
+				<TextEquiv index="1">
+					<Unicode>Das Ganze ist eine handwerkliche Arbeit.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Das Ganze ist eine handwerkliche Arbeit.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="76,438 838,438 838,516 76,516" />
+			<TextLine id="r8l0" custom="readingOrder {index:0;}">
+				<Coords points="120,438 129,438 129,444 152,439 388,439 388,445 413,443 424,440 435,440 445,445 452,440 463,440 463,446 480,441 497,443 547,441 624,442 641,444 651,448 659,444 670,442 682,442 682,449 703,449 713,444 719,444 719,450 744,445 773,445 786,448 838,452 838,463 818,463 452,460 445,457 368,456 120,455" />
+				<Baseline points="120,454 504,457 838,463" />
+				<TextEquiv index="1">
+					<Unicode>Im Jahre 1898 wurde der Altar übermalt, wobei der Historienmaler Thörmer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l1" custom="readingOrder {index:1;}">
+				<Coords points="77,466 82,466 94,471 110,465 131,465 173,465 193,465 193,471 218,466 235,466 244,471 259,465 287,465 468,467 479,472 502,468 604,468 666,472 741,471 741,477 787,478 803,472 838,473 838,489 779,489 769,489 426,483 77,481" />
+				<Baseline points="77,481 502,483 838,489" />
+				<TextEquiv index="1">
+					<Unicode>in Loschwitz die Bilder auffrischte. Das mittlere Bild ist seit kurzer Zeit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l2" custom="readingOrder {index:2;}">
+				<Coords points="76,496 84,492 119,492 160,496 176,492 182,492 220,492 263,492 340,492 365,492 386,492 386,498 427,493 452,496 459,493 471,493 556,494 582,497 582,512 573,516 556,516 538,516 526,516 502,511 332,509 214,513 209,509 147,513 76,508" />
+				<Baseline points="76,508 427,509 582,512" />
+				<TextEquiv index="1">
+					<Unicode>wieder gerissen und vom Holzwurm stark beschädigt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Im Jahre 1898 wurde der Altar übermalt, wobei der Historienmaler Thörmer
+in Loschwitz die Bilder auffrischte. Das mittlere Bild ist seit kurzer Zeit
+wieder gerissen und vom Holzwurm stark beschädigt.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="75,522 837,522 837,676 75,676" />
+			<TextLine id="r9l0" custom="readingOrder {index:0;}">
+				<Coords points="119,522 134,522 156,522 163,528 172,528 174,522 191,522 230,523 243,527 243,534 255,522 295,522 297,536 314,523 373,525 388,523 388,529 400,529 403,536 423,529 444,529 465,525 477,525 487,529 494,525 527,525 527,538 547,531 600,531 622,527 737,529 761,534 764,542 780,530 820,530 821,536 837,536 837,547 768,549 726,549 714,549 403,543 383,540 288,543 243,538 243,544 202,544 119,539" />
+				<Baseline points="119,538 547,541 837,547" />
+				<TextEquiv index="1">
+					<Unicode>Kanzel (Fig. 230), Sandstein, neu bemalt, von runder Grundform, in der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l1" custom="readingOrder {index:1;}">
+				<Coords points="75,549 96,549 109,551 168,549 187,549 243,549 260,549 291,549 300,554 342,550 389,550 444,556 444,550 521,552 532,557 543,551 561,551 582,554 654,554 680,560 683,567 703,555 795,556 795,562 819,557 828,557 836,562 836,574 828,578 795,578 778,573 737,572 737,578 727,578 727,572 683,574 661,571 605,574 552,569 389,571 207,566 157,570 146,570 124,566 96,570 83,570 75,565" />
+				<Baseline points="75,565 543,567 836,574" />
+				<TextEquiv index="1">
+					<Unicode>Brüstung Muschelnischen mit Figuren. In der Mitte Christus, beiderseitig je</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l2" custom="readingOrder {index:2;}">
+				<Coords points="76,581 110,576 130,575 151,575 155,581 188,580 197,575 209,575 245,581 247,588 269,581 296,581 296,575 308,575 323,581 338,575 350,575 357,578 357,589 371,576 425,576 436,579 607,578 607,585 619,585 622,593 643,580 655,580 655,586 667,586 667,580 679,580 679,586 701,581 714,581 721,584 721,595 735,582 772,582 772,588 789,588 836,584 836,600 780,600 648,598 562,599 524,595 357,593 138,596 76,591" />
+				<Baseline points="76,591 469,593 836,600" />
+				<TextEquiv index="1">
+					<Unicode>zwei Evangelisten, rechts St. Matthäus und St. Markus, links St. Lukas und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l3" custom="readingOrder {index:3;}">
+				<Coords points="76,601 88,601 95,604 95,614 107,601 118,601 141,601 141,607 191,607 191,614 208,602 382,602 382,608 403,603 460,604 472,606 480,604 498,604 514,606 525,610 525,618 543,604 574,604 574,610 599,606 642,606 642,612 668,611 686,608 734,608 753,611 770,611 780,614 825,610 836,615 836,627 803,631 791,631 753,626 599,624 557,622 460,621 312,623 76,618" />
+				<Baseline points="76,617 543,621 836,627" />
+				<TextEquiv index="1">
+					<Unicode>St. Johannes, dazu die entsprechenden Attribute. Oben schliesst die Brüstung ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l4" custom="readingOrder {index:4;}">
+				<Coords points="76,627 91,627 138,627 152,633 162,628 173,628 176,641 196,628 301,628 301,634 322,634 322,628 332,628 332,634 399,629 399,642 426,629 442,629 442,635 453,632 495,630 574,631 612,633 672,633 672,639 693,634 737,633 760,637 816,636 826,641 836,642 836,653 667,652 625,654 569,654 563,654 549,648 399,646 176,648 76,644" />
+				<Baseline points="76,643 426,646 836,653" />
+				<TextEquiv index="1">
+					<Unicode>Gebälk ab, im Fries Rankenwerk. Unten bilden kräftige Akanthusblätter den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l5" custom="readingOrder {index:5;}">
+				<Coords points="76,654 84,653 96,653 121,659 121,653 133,653 154,653 154,659 177,654 268,654 277,659 286,654 338,655 342,658 370,655 385,655 385,661 420,661 420,668 424,668 424,672 316,676 268,676 212,676 205,676 194,670 76,670" />
+				<Baseline points="76,670 424,672" />
+				<TextEquiv index="1">
+					<Unicode>Abschluss in flachgeschweifter Form.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Kanzel (Fig. 230), Sandstein, neu bemalt, von runder Grundform, in der
+Brüstung Muschelnischen mit Figuren. In der Mitte Christus, beiderseitig je
+zwei Evangelisten, rechts St. Matthäus und St. Markus, links St. Lukas und
+St. Johannes, dazu die entsprechenden Attribute. Oben schliesst die Brüstung ein
+Gebälk ab, im Fries Rankenwerk. Unten bilden kräftige Akanthusblätter den
+Abschluss in flachgeschweifter Form.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="74,684 835,684 835,787 74,787" />
+			<!-- line left out: id="r10l0" points="118,685 126,684 148,684 174,685 226,685 240,685 245,687 252,685 263,685 302,686 329,688 350,687 355,687 442,687 463,687 498,687 503,688 510,687 523,687 523,694 553,689 571,689 591,695 600,690 605,690 626,690 661,691 661,697 698,692 704,692 704,698 716,697 726,697 745,693 766,693 787,695 814,699 814,693 827,693 827,699 835,699 835,710 726,710 688,709 638,708 600,707 539,708 523,709 503,709 407,704 394,704 312,703 292,703 263,706 240,706 231,706 195,702 168,706 159,706 126,702 118,701" baseline="118,701 159,701 284,702 386,703 483,704 638,707 745,709 835,711" reason: differs: "träüger" against "träger " | Wikisource:  | next_nc_e1: Als Kanzelträüger dient eine weibliche Figur, die sich über einer Kartusche | german_print2_15: Als Kanzelträger dient eine weibliche Figur, die sich über einer Kartusche -->
+			<!-- line left out: id="r10l1" points="75,716 114,712 126,712 154,711 180,711 224,711 229,716 239,713 247,713 261,712 272,711 288,711 309,712 309,725 325,712 331,712 373,712 390,712 422,713 431,718 440,719 440,726 455,718 500,718 549,719 549,729 561,720 575,720 575,730 582,730 594,716 601,716 601,722 624,717 638,717 638,723 678,723 711,719 751,719 771,720 781,725 792,719 812,719 812,725 835,725 835,737 804,737 678,740 666,740 666,734 582,735 578,735 561,733 517,732 455,731 440,730 390,730 373,730 313,731 284,731 224,731 219,731 143,728 85,728 75,728" baseline="75,727 114,727 482,730 677,734 835,737" reason: second model: differs: "imOrval" against "m Oval " | Wikisource: aus der Wand entwickelt, im Oval bez. M. M. F. V. L., in Bezug auf Maria Mar | next_nc_e1: aus der Wand entwickeit, im Oval bez. M. M. F. v. L., in Bezug auf Maria Mar- | german_print2_15: aus der Wand entwickelt, im Orval bez. M. M. F. v. L., in Bezug auf Maria Mar- -->
+			<TextLine id="r10l2" custom="readingOrder {index:2;}">
+				<Coords points="74,742 97,742 114,740 120,737 132,737 132,743 197,738 310,739 310,751 329,744 374,739 394,739 415,741 442,740 442,746 486,741 495,741 507,745 511,741 587,742 595,743 596,756 613,744 631,744 651,750 661,745 688,744 810,747 834,752 834,763 595,764 586,764 522,762 277,760 263,754 74,758" />
+				<Baseline points="74,753 486,757 834,764" />
+				<TextEquiv index="1">
+					<Unicode>garetha von Friesen geb. von Lützelburg (geb. 1610), die sich 1647 mit dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l3" custom="readingOrder {index:3;}">
+				<Coords points="75,763 89,763 110,763 111,776 127,763 142,763 212,765 259,764 270,770 313,765 342,765 352,770 437,766 465,766 473,769 503,772 514,768 580,768 608,772 621,770 640,770 640,787 595,787 591,787 411,783 75,780" />
+				<Baseline points="75,780 391,782 640,787" />
+				<TextEquiv index="1">
+					<Unicode>Geh. Rath Heinrich von Friesen vermählte und 1680 starb.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>garetha von Friesen geb. von Lützelburg (geb. 1610), die sich 1647 mit dem
+Geh. Rath Heinrich von Friesen vermählte und 1680 starb.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="73,794 835,794 835,1005 73,1005" />
+			<TextLine id="r11l0" custom="readingOrder {index:0;}">
+				<Coords points="118,794 130,794 133,800 142,800 144,794 165,794 199,795 218,800 218,794 231,794 312,797 338,801 345,795 378,795 392,796 404,802 434,797 445,797 445,810 462,798 520,798 520,804 545,799 555,799 568,804 573,799 588,799 588,805 600,800 613,800 629,803 629,814 644,806 666,806 683,802 694,802 704,807 711,802 723,802 765,804 809,804 835,809 835,821 747,823 723,823 711,823 632,821 545,821 445,816 434,814 150,814 118,811" />
+				<Baseline points="118,811 527,814 835,822" />
+				<TextEquiv index="1">
+					<Unicode>Schalldeckel, unterer Theil rund, in Holz geschnitzt, neu bemalt, im Fries</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l1" custom="readingOrder {index:1;}">
+				<Coords points="75,820 94,820 114,823 154,821 227,821 237,824 258,821 272,823 318,822 328,824 339,822 368,822 378,827 388,828 388,835 408,823 423,823 424,829 435,829 435,823 443,823 516,824 516,830 535,825 560,825 580,826 589,828 609,827 640,832 648,827 660,827 667,830 738,829 756,835 835,832 835,848 756,851 738,851 707,851 694,851 694,845 356,839 340,843 328,843 259,838 250,843 237,843 215,838 201,843 195,843 162,838 75,837" />
+				<Baseline points="75,837 501,840 835,848" />
+				<TextEquiv index="1">
+					<Unicode>Festons mit beflügelten Köpfchen. Auf dem Deckel fünf nackte Kindfiguren mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l2" custom="readingOrder {index:2;}">
+				<Coords points="75,847 87,847 139,847 174,849 215,847 227,847 227,853 290,853 290,847 292,847 501,850 502,856 543,852 577,852 593,854 629,853 629,859 646,859 675,855 697,860 743,861 743,852 753,852 758,856 774,859 784,857 802,857 815,862 833,863 833,874 815,879 802,879 759,874 753,884 743,884 743,873 446,868 397,866 255,869 131,863 131,869 121,869 106,863 75,863" />
+				<Baseline points="75,863 439,866 833,875" />
+				<TextEquiv index="1">
+					<Unicode>den Marterwerkzeugen. Den oberen Abschluss bildet über einem achtseitigen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l3" custom="readingOrder {index:3;}">
+				<Coords points="75,873 90,873 122,873 133,875 152,873 176,873 206,875 318,874 342,876 352,879 362,875 471,877 503,876 531,882 548,878 576,878 576,884 615,880 712,882 712,888 743,883 766,883 770,888 781,884 796,884 825,885 834,889 834,901 796,903 766,903 752,903 743,900 548,895 531,899 517,899 508,894 75,890" />
+				<Baseline points="75,889 454,892 834,902" />
+				<TextEquiv index="1">
+					<Unicode>Aufsatz Christus der Auferstandene mit der Siegesfahne in der linken Hand, die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l4" custom="readingOrder {index:4;}">
+				<Coords points="74,904 101,899 113,899 120,901 170,904 201,900 275,900 296,905 296,913 315,900 336,900 336,906 365,901 376,901 377,907 404,907 404,901 416,901 428,902 447,907 456,902 468,902 468,908 504,904 554,904 575,905 575,911 599,908 645,908 659,910 673,908 707,909 717,914 735,910 750,910 834,917 834,933 802,933 789,933 782,928 599,925 554,922 296,917 157,921 74,915" />
+				<Baseline points="74,915 504,919 834,929" />
+				<TextEquiv index="1">
+					<Unicode>rechte segnend erhoben. Vier durchbrochene Anläufer vermitteln den Uebergang</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l5" custom="readingOrder {index:5;}">
+				<Coords points="73,931 104,931 104,925 115,925 189,926 190,932 200,932 200,926 209,926 209,932 224,928 240,928 240,939 243,939 243,943 138,943 73,942" />
+				<Baseline points="73,942 243,943" />
+				<TextEquiv index="1">
+					<Unicode>nach dem Aufsatz.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l6" custom="readingOrder {index:6;}">
+				<Coords points="117,956 132,956 243,957 252,962 296,958 341,957 341,964 361,964 361,958 368,957 382,957 382,964 406,959 450,959 450,973 465,960 519,961 532,966 569,967 569,979 532,983 519,983 454,980 368,980 311,975 285,979 167,979 167,973 117,973" />
+				<Baseline points="117,973 316,974 569,979" />
+				<TextEquiv index="1">
+					<Unicode>Die Durchführung ist handwerklich, die Figuren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r11l7" custom="readingOrder {index:7;}">
+				<Coords points="73,987 82,983 88,983 110,983 236,983 242,983 242,989 257,983 273,983 307,983 330,983 345,983 345,990 359,985 374,985 409,990 430,991 430,998 433,998 433,1002 242,1001 221,1005 190,1005 175,1005 143,1000 73,999" />
+				<Baseline points="73,999 433,1002" />
+				<TextEquiv index="1">
+					<Unicode>sind von wenig entwickelten Formen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Schalldeckel, unterer Theil rund, in Holz geschnitzt, neu bemalt, im Fries
+Festons mit beflügelten Köpfchen. Auf dem Deckel fünf nackte Kindfiguren mit
+den Marterwerkzeugen. Den oberen Abschluss bildet über einem achtseitigen
+Aufsatz Christus der Auferstandene mit der Siegesfahne in der linken Hand, die
+rechte segnend erhoben. Vier durchbrochene Anläufer vermitteln den Uebergang
+nach dem Aufsatz.
+Die Durchführung ist handwerklich, die Figuren
+sind von wenig entwickelten Formen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="71,1014 569,1014 569,1302 71,1302" />
+			<TextLine id="r12l0" custom="readingOrder {index:0;}">
+				<Coords points="116,1014 138,1014 178,1014 201,1014 201,1020 233,1019 279,1015 386,1015 418,1017 458,1017 465,1023 475,1018 521,1023 560,1020 569,1025 569,1036 521,1040 508,1040 475,1035 165,1036 116,1030" />
+				<Baseline points="116,1030 279,1031 569,1036" />
+				<TextEquiv index="1">
+					<Unicode>Der Aufgang zur Kanzel führt durch eine gerade</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r12l1" custom="readingOrder {index:1;}">
+				<Coords points="72,1040 98,1039 108,1042 147,1040 147,1046 160,1041 172,1040 290,1041 300,1046 310,1042 352,1042 369,1047 369,1037 381,1037 381,1047 400,1048 410,1043 421,1043 421,1049 449,1049 478,1044 487,1040 500,1040 500,1050 518,1050 518,1040 531,1040 535,1045 564,1051 568,1055 568,1058 564,1062 554,1067 531,1071 518,1071 513,1062 500,1061 500,1071 487,1071 487,1061 471,1065 459,1065 421,1060 381,1059 381,1069 369,1069 369,1059 80,1059 72,1056" />
+				<Baseline points="72,1056 241,1057 568,1062" />
+				<TextEquiv index="1">
+					<Unicode>Thüre, seitlich in der Sandsteinumrahmung Fruchtge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r12l2" custom="readingOrder {index:2;}">
+				<Coords points="73,1066 84,1066 95,1068 111,1066 123,1066 143,1072 153,1067 252,1067 252,1073 270,1068 323,1068 340,1070 349,1073 364,1069 427,1069 427,1083 443,1070 449,1070 450,1076 473,1071 502,1071 513,1076 520,1077 527,1071 542,1071 542,1077 563,1078 569,1081 569,1084 563,1089 431,1089 282,1089 270,1089 246,1084 105,1087 73,1082" />
+				<Baseline points="73,1082 443,1086 569,1089" />
+				<TextEquiv index="1">
+					<Unicode>hänge, oben ein fein profilirtes Gebälk, im Fries Ran-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r12l3" custom="readingOrder {index:3;}">
+				<Coords points="73,1091 84,1091 84,1097 113,1097 113,1091 125,1091 125,1098 138,1098 138,1092 153,1092 166,1098 177,1093 224,1093 224,1099 246,1098 256,1094 318,1094 343,1097 371,1095 415,1096 451,1092 465,1092 465,1102 533,1098 568,1104 568,1115 492,1118 465,1123 451,1123 451,1112 138,1112 130,1109 125,1112 113,1112 105,1109 73,1108" />
+				<Baseline points="73,1108 391,1111 568,1115" />
+				<TextEquiv index="1">
+					<Unicode>kenwerk, oben in einer Kartusche das Wappen derer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r12l4" points="74,1123 111,1118 130,1118 151,1121 160,1119 177,1119 177,1125 192,1125 192,1118 202,1118 202,1124 219,1120 236,1120 248,1125 258,1124 274,1124 297,1125 316,1125 336,1125 356,1125 404,1125 412,1126 435,1123 441,1123 448,1122 454,1122 460,1123 481,1123 505,1124 518,1124 529,1127 539,1124 549,1124 549,1130 567,1130 567,1144 505,1144 494,1144 486,1140 441,1139 426,1139 412,1142 368,1142 364,1142 356,1138 258,1137 248,1136 212,1140 192,1140 177,1136 130,1140 118,1140 118,1134 74,1134" baseline="74,1134 111,1134 364,1137 480,1139 567,1141" reason: differs: ".L.[167" against "L. | 16" | Wikisource:  | next_nc_e1: von Lützelburg, bez. M. M. F. V. L. [1676, seitlich Anläufer, | german_print2_15: von Lützelburg, bez. M. M. F. V. L. ]1676, seitlich Anläufer, -->
+			<TextLine id="r12l5" custom="readingOrder {index:5;}">
+				<Coords points="74,1149 81,1145 91,1145 112,1145 138,1145 196,1145 207,1151 239,1146 289,1146 307,1151 349,1147 364,1147 364,1153 386,1148 423,1148 423,1154 439,1149 451,1149 462,1154 496,1150 530,1150 552,1151 568,1160 568,1163 562,1167 518,1167 329,1167 306,1167 217,1162 74,1160" />
+				<Baseline points="74,1160 374,1163 568,1167" />
+				<TextEquiv index="1">
+					<Unicode>unten seitlich an der Treppe ein einfaches schmiede-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r12l6" custom="readingOrder {index:6;}">
+				<Coords points="72,1175 82,1171 88,1171 182,1171 198,1176 217,1172 244,1172 257,1177 257,1185 271,1172 312,1172 312,1185 336,1173 363,1173 373,1178 391,1174 450,1174 479,1180 494,1181 494,1174 504,1174 515,1176 515,1182 562,1182 567,1187 567,1189 562,1194 504,1195 450,1195 432,1195 420,1191 344,1190 304,1193 294,1189 257,1193 244,1193 72,1186" />
+				<Baseline points="72,1186 420,1190 567,1194" />
+				<TextEquiv index="1">
+					<Unicode>eisernes Gitter (Fig. 231). Alles in Spätrenaissance-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r12l7" custom="readingOrder {index:7;}">
+				<Coords points="71,1197 82,1197 122,1197 139,1202 139,1213 79,1213 71,1212" />
+				<Baseline points="71,1213 139,1213" />
+				<TextEquiv index="1">
+					<Unicode>formen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r12l8" custom="readingOrder {index:8;}">
+				<Coords points="114,1224 130,1224 179,1224 218,1224 261,1224 352,1225 370,1231 380,1227 407,1226 407,1232 423,1232 423,1226 436,1226 436,1232 460,1227 475,1227 475,1233 496,1229 519,1229 561,1235 567,1239 567,1241 561,1246 541,1250 528,1250 507,1245 475,1244 114,1239" />
+				<Baseline points="114,1239 351,1241 567,1246" />
+				<TextEquiv index="1">
+					<Unicode>Am Austritt der Kanzel einfache Rundbogen-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r12l9" custom="readingOrder {index:9;}">
+				<Coords points="71,1250 77,1248 90,1248 101,1251 269,1251 281,1256 284,1263 311,1251 322,1251 332,1256 376,1252 402,1253 407,1257 416,1253 460,1253 471,1259 514,1255 542,1255 550,1260 566,1261 566,1272 529,1272 402,1269 284,1269 264,1267 172,1269 137,1266 71,1265" />
+				<Baseline points="71,1265 354,1267 566,1272" />
+				<TextEquiv index="1">
+					<Unicode>thüre mit Schlussstein, oben und seitlich von dieser</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r12l10" custom="readingOrder {index:10;}">
+				<Coords points="71,1274 85,1274 91,1270 103,1270 103,1277 116,1277 124,1280 133,1274 159,1276 203,1276 203,1282 211,1282 223,1276 271,1276 271,1282 297,1282 297,1290 314,1278 381,1279 387,1283 407,1284 407,1294 235,1298 235,1292 159,1296 143,1292 103,1291 103,1302 91,1302 91,1290 71,1290" />
+				<Baseline points="71,1290 407,1294" />
+				<TextEquiv index="1">
+					<Unicode>Thüre folgende Wappen, dazu bez.:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Der Aufgang zur Kanzel führt durch eine gerade
+Thüre, seitlich in der Sandsteinumrahmung Fruchtge-
+hänge, oben ein fein profilirtes Gebälk, im Fries Ran-
+kenwerk, oben in einer Kartusche das Wappen derer
+unten seitlich an der Treppe ein einfaches schmiede-
+eisernes Gitter (Fig. 231). Alles in Spätrenaissance-
+formen.
+Am Austritt der Kanzel einfache Rundbogen-
+thüre mit Schlussstein, oben und seitlich von dieser
+Thüre folgende Wappen, dazu bez.:</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r13">
+			<Coords points="571,946 784,946 784,1298 571,1298" />
+		</GraphicRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="87,1305 826,1305 826,1383 87,1383" />
+			<!-- line left out: id="r14l0" points="93,1305 100,1305 133,1306 179,1306 186,1307 199,1308 209,1312 226,1311 249,1311 272,1312 316,1312 326,1316 340,1313 355,1313 363,1317 377,1317 422,1314 435,1314 455,1314 462,1318 466,1314 477,1314 480,1319 802,1318 815,1318 826,1319 826,1330 488,1330 477,1330 430,1330 422,1330 363,1326 335,1329 316,1329 305,1329 233,1324 172,1323 161,1323 93,1321" baseline="93,1321 122,1321 297,1324 487,1327 802,1332 826,1332" reason: differs: "n.,9vn" against "., link" | Wikisource:  | next_nc_e1: in der Mitte: Henrich Frey Herr von Friesen., 9 vn | german_print2_15: in der Mitte: Henrich Frey Herr von Friesen., 9 R -->
+			<!-- line left out: id="r14l1" points="99,1332 609,1329 809,1329 809,1342 609,1342 99,1334" baseline="99,1334 102,1334 609,1340 809,1342" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: . —— | german_print2_15:  -->
+			<!-- line left out: id="r14l2" points="93,1331 99,1331 127,1331 161,1332 190,1337 239,1337 244,1338 266,1338 284,1338 298,1338 303,1339 313,1343 319,1348 335,1339 345,1339 363,1339 378,1339 391,1340 421,1341 431,1345 437,1350 451,1341 457,1341 457,1334 468,1334 472,1341 485,1341 490,1334 502,1334 506,1342 525,1342 534,1346 537,1352 635,1351 645,1351 653,1355 662,1352 683,1352 683,1360 700,1352 721,1352 732,1352 742,1352 764,1353 764,1361 766,1361 766,1366 742,1366 732,1366 721,1366 707,1366 700,1366 683,1363 653,1365 644,1365 630,1361 537,1358 511,1354 502,1363 490,1363 490,1354 484,1354 468,1353 468,1363 457,1363 457,1353 437,1355 421,1357 378,1357 367,1357 345,1352 319,1354 315,1354 292,1351 232,1354 226,1354 208,1348 149,1348 93,1347" baseline="93,1347 134,1347 318,1351 335,1351 630,1355 685,1356 766,1358" reason: differs: "link" against "sen." | Wikisource:  | next_nc_e1: links davon: Einsiedelin, Schönbergin, Carlowizin, Fig. 231. Schönfeld,
+ | german_print2_15: links davon: Einsiedelin, Schönbergin, Carlowizin, Tig. 231. Schonfela,
+ -->
+			<!-- line left out: id="r14l3" points="87,1358 100,1358 128,1358 136,1361 145,1358 155,1358 168,1358 265,1359 281,1359 309,1360 318,1364 348,1361 355,1361 378,1362 378,1371 390,1362 401,1362 419,1362 428,1362 444,1362 455,1363 476,1363 487,1367 487,1373 498,1363 512,1363 527,1363 545,1364 545,1373 652,1369 676,1369 689,1369 722,1369 736,1371 742,1373 743,1378 743,1380 722,1383 706,1383 692,1382 689,1383 676,1383 660,1383 652,1383 527,1380 516,1380 490,1378 472,1379 444,1379 433,1379 381,1377 337,1377 326,1377 288,1375 281,1376 246,1376 235,1376 201,1371 87,1370" baseline="87,1369 228,1371 287,1372 498,1376 743,1380" reason: differs: "Taub" against "izin" | Wikisource:  | next_nc_e1: Taubenheim und Pfugin, Haugwizin, Schönbergin, Endin, Treppengitter.
+ | german_print2_15: Taubenheim und Pfugin, Hangwizin, Schönbergin, Endin, Treppengitter.
+ -->
+		</TextRegion>
+		<TextRegion id="r15" custom="readingOrder {index:15;} orientation {0;}">
+			<Coords points="57,1558 662,1558 662,1586 57,1586" />
+			<!-- line left out: id="r15l0" points="57,1568 137,1567 169,1567 239,1567 253,1567 255,1573 265,1573 390,1558 406,1558 434,1558 456,1558 517,1558 578,1558 601,1558 615,1558 639,1558 662,1558 662,1586 639,1586 615,1586 601,1586 578,1586 517,1586 456,1586 434,1586 406,1586 390,1586 265,1576 253,1579 57,1579" baseline="57,1573 662,1577" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: sächsische Landesbibliothek - htpldigital slub-dresden delppn3235841151242
+ | german_print2_15: Sächsische Landesbibliothek- hup igital slub-dresden de ppnes23584118,242
+ -->
+		</TextRegion>
+		<GraphicRegion id="r16">
+			<Coords points="985,1397 1000,1397 1000,1452 985,1452" />
+		</GraphicRegion>
+		<GraphicRegion id="r17">
+			<Coords points="0,1542 1000,1542 1000,1604 0,1604" />
+		</GraphicRegion>
+		<TextRegion id="r18" custom="readingOrder {index:18;} orientation {0;}">
+			<Coords points="57,1576 354,1576 354,1603 57,1603" />
+			<!-- line left out: id="r18l0" points="57,1580 112,1576 121,1576 134,1576 140,1582 157,1582 270,1582 283,1582 294,1583 294,1576 354,1576 354,1603 294,1603 294,1594 157,1594 140,1594 134,1603 121,1603 112,1603 108,1595 57,1595" baseline="57,1593 140,1593 354,1594" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Staats- und Universitätsbibliothek Dresden | german_print2_15: Staats- und Universitats bibliothek Dresden -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Ueber dem mittleren Theile ein Aufbau, seitlich Anfang einer durchbrochenen, geschweiften Verdachung, darauf sitzend beflügelte Figuren mit den Marterwerkzeugen, links Nägel mit Hammer, rechts eine Stange mit einem Schwamm.
+In der Mitte auf Holz in Temperafarben gemalt: Christus am Kreuze, links
+Johannes, rechts Maria, am Fusse Magdalena, den Kopf an das Kreuz gelegt,
+hinter demselben Wolken mit Kindengeln, Kreuz oben bez. Jesvs. Nazarenus rex
+Judaeorum, oben eine durchbrochene, geschweifte Verdachung, in der Mitte eine
+Thiermaske, darüber auf niedrigem Postament: Christus mit der Siegesfahne in
+der linken Hand, die rechte erhoben zum Segen.
+Das Ganze ist eine handwerkliche Arbeit.
+Im Jahre 1898 wurde der Altar übermalt, wobei der Historienmaler Thörmer
+in Loschwitz die Bilder auffrischte. Das mittlere Bild ist seit kurzer Zeit
+wieder gerissen und vom Holzwurm stark beschädigt.
+Kanzel (Fig. 230), Sandstein, neu bemalt, von runder Grundform, in der
+Brüstung Muschelnischen mit Figuren. In der Mitte Christus, beiderseitig je
+zwei Evangelisten, rechts St. Matthäus und St. Markus, links St. Lukas und
+St. Johannes, dazu die entsprechenden Attribute. Oben schliesst die Brüstung ein
+Gebälk ab, im Fries Rankenwerk. Unten bilden kräftige Akanthusblätter den
+Abschluss in flachgeschweifter Form.
+Als Kanzelträger dient eine weibliche Figur, die sich über einer Kartusche
+aus der Wand entwickelt, im Oval bez. M. M. F. V. L., in Bezug auf Maria Margaretha von Friesen geb. von Lützelburg (geb. 1610), die sich 1647 mit dem
+Geh. Rath Heinrich von Friesen vermählte und 1680 starb.
+Schalldeckel, unterer Theil rund, in Holz geschnitzt, neu bemalt, im Fries
+Festons mit beflügelten Köpfchen. Auf dem Deckel fünf nackte Kindfiguren mit
+den Marterwerkzeugen. Den oberen Abschluss bildet über einem achtseitigen
+Aufsatz Christus der Auferstandene mit der Siegesfahne in der linken Hand, die
+rechte segnend erhoben. Vier durchbrochene Anläufer vermitteln den Uebergang
+nach dem Aufsatz.
+Die Durchführung ist handwerklich, die Figuren
+sind von wenig entwickelten Formen.
+Der Aufgang zur Kanzel führt durch eine gerade
+Thüre, seitlich in der Sandsteinumrahmung Fruchtgehänge, oben ein fein profilirtes Gebälk, im Fries Rankenwerk, oben in einer Kartusche das Wappen derer
+von Lützelburg, bez. M. M. F. V. L. | 1676, seitlich Anläufer,
+unten seitlich an der Treppe ein einfaches schmiedeeisernes Gitter (Fig. 231). Alles in Spätrenaissanceformen.
+Am Austritt der Kanzel einfache Rundbogenthüre mit Schlussstein, oben und seitlich von dieser
+Thüre folgende Wappen, dazu bez.:
+in der Mitte: Henrich Frey Herr von Friesen.,
+links davon: Einsiedelin, Schönbergin, Carlowizin,
+Taubenheim und Pflugin, Haugwizin, Schönbergin, Endin,
+-->
+	</Page>
+</PcGts>

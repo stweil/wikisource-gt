@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:44:31</Created>
+		<LastChange>2026-11-23T18:44:31</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:PatkanjanDreiErzählungen.pdf/99 revision 3378233 of 2018-08-01T06:08:33Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="patkanjan_erzaehlungen_1886_0099.png" imageWidth="1255" imageHeight="2148">
+		<ReadingOrder>
+			<OrderedGroup id="ro2607606537599068961" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 1240,0 1240,34 0,34" />
+		</GraphicRegion>
+		<SeparatorRegion id="r1">
+			<Coords points="160,0 1126,0 1126,30 160,30" />
+		</SeparatorRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="413,245 551,245 551,292 413,292" />
+			<!-- line left out: id="r2l0" points="413,268 452,268 482,245 517,245 551,249 551,279 517,279 517,292 482,292 452,271 413,271" baseline="413,279 451,278 482,278 551,279" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 89
+ | german_print2_15: — 89
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="78,341 1046,341 1046,1794 78,1794" />
+			<!-- line left out: id="r3l0" points="78,354 138,354 158,345 191,345 192,356 235,355 252,355 347,355 348,345 399,344 405,344 405,355 463,355 463,344 494,344 494,354 544,353 564,353 564,344 579,344 595,348 681,353 681,342 716,342 716,353 736,352 749,352 749,342 816,342 816,352 837,352 837,342 861,342 861,352 881,351 982,351 984,341 1006,341 1006,371 958,371 881,372 759,373 736,373 682,373 595,374 578,374 544,373 544,384 518,384 516,374 445,375 405,375 405,384 399,384 372,375 252,376 158,376 78,374" baseline="78,374 903,371 1006,371" reason: differs: "nenH" against "Haus" | Wikisource:  | next_nc_e1: nen Hause und versiegelte seinen Laden und | german_print2_15: nen Hause und versiegelte seinen Laden und -->
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="81,406 114,407 114,397 145,397 231,398 231,409 301,409 301,399 315,399 315,409 408,409 408,398 505,398 506,407 576,407 615,394 623,394 623,406 660,406 660,396 703,396 703,406 745,406 745,394 785,394 785,405 907,404 939,394 964,394 964,403 1007,403 1007,423 467,428 410,440 408,440 408,429 365,428 365,440 338,440 337,429 231,429 231,440 205,440 205,429 114,428 81,426" />
+				<Baseline points="81,426 1007,423" />
+				<TextEquiv index="1">
+					<Unicode>sein Warenlager. Dann verkaufte man den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="82,449 111,449 111,460 127,460 127,451 149,451 149,461 167,461 167,452 189,452 210,462 257,462 257,453 303,452 328,452 328,462 373,462 391,451 449,451 450,461 493,461 494,475 501,475 526,461 586,461 586,449 624,449 624,460 687,459 687,449 700,449 700,459 801,458 801,448 825,448 842,458 862,458 862,447 887,447 887,457 898,457 898,447 960,446 995,446 995,456 1010,456 1010,476 526,480 501,487 494,487 493,481 167,482 82,480" />
+				<Baseline points="82,480 1010,476" />
+				<TextEquiv index="1">
+					<Unicode>Tabak und den Thee, wofür niemand mehr als</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="82,502 118,502 118,513 133,513 133,503 196,502 256,505 256,515 278,515 278,506 303,506 303,515 323,515 323,505 335,505 365,515 411,515 411,505 437,505 437,514 571,513 571,504 615,503 615,513 635,513 640,527 648,527 681,503 705,503 705,512 771,512 797,501 822,501 823,510 842,510 842,499 854,499 879,500 879,509 1012,508 1012,527 748,532 681,532 648,539 640,539 635,533 391,535 391,545 365,545 335,535 217,535 196,545 161,545 161,534 118,533 118,545 98,545 98,533 82,533" />
+				<Baseline points="82,533 1012,527" />
+				<TextEquiv index="1">
+					<Unicode>fünfzig Rubel geben wollte, denn beides war</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="83,556 104,556 104,566 121,566 121,557 154,557 184,568 219,568 219,557 261,557 261,569 300,568 300,558 330,557 419,557 421,568 544,567 544,556 575,556 575,566 604,566 604,556 629,556 629,566 744,565 744,555 801,554 825,554 825,563 861,563 892,552 922,552 923,562 945,562 945,552 970,552 970,561 1013,561 1013,581 443,588 337,588 184,588 83,586" />
+				<Baseline points="83,586 1013,581" />
+				<TextEquiv index="1">
+					<Unicode>halb verfault. Dann wurde auch der Laden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="84,619 114,619 114,610 125,610 159,621 178,621 178,611 203,611 203,621 219,621 219,611 242,611 242,622 353,621 377,610 401,611 402,621 423,621 423,610 452,610 452,621 500,619 584,619 607,608 627,608 646,612 646,618 705,617 705,607 717,607 717,617 844,616 864,606 890,606 890,616 928,615 928,605 962,605 962,615 983,610 1013,610 1013,634 950,636 785,637 785,646 761,646 740,637 607,638 584,645 558,645 558,639 518,639 518,645 424,641 203,642 84,640" />
+				<Baseline points="84,640 1013,634" />
+				<TextEquiv index="1">
+					<Unicode>mit allem was darin war, für ein paar hundert</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="85,662 127,662 127,674 138,674 138,664 193,665 210,675 222,675 222,665 245,665 253,674 287,669 304,669 322,674 322,665 335,665 336,674 400,674 400,668 416,668 433,674 484,673 484,663 510,663 529,673 571,672 571,662 586,662 586,672 606,672 606,666 624,666 676,661 700,661 700,670 737,670 755,660 802,660 802,670 853,669 874,658 893,658 933,659 952,669 999,667 1000,675 1012,675 1012,680 1000,680 999,687 979,687 979,698 952,698 933,688 363,694 363,704 336,704 335,694 245,695 245,704 222,704 222,694 85,694" />
+				<Baseline points="85,695 1012,687" />
+				<TextEquiv index="1">
+					<Unicode>Rubel versteigert und zuletzt das Haus feil ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="86,716 107,716 108,727 126,727 126,721 141,721 141,727 182,727 187,741 195,741 226,727 260,727 260,717 294,717 294,726 312,726 312,717 339,717 339,726 378,726 402,716 415,716 418,726 439,726 439,716 464,716 465,726 508,725 508,715 535,715 557,724 582,724 582,714 596,714 596,723 698,723 698,713 741,711 757,711 769,712 769,722 810,722 810,711 829,711 829,722 945,721 945,711 988,711 988,720 1008,720 1009,734 1015,734 1015,745 961,741 924,741 418,746 415,756 402,756 378,746 226,747 195,753 187,753 182,747 126,747 86,745" />
+				<Baseline points="86,745 1015,740" />
+				<TextEquiv index="1">
+					<Unicode>boten, welches jedoch niemand kaufen wollte,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l8" custom="readingOrder {index:8;}">
+				<Coords points="87,769 109,769 109,779 239,780 239,774 472,778 492,766 535,766 535,777 553,777 553,766 643,765 659,766 660,774 747,774 747,765 805,764 840,764 840,773 858,773 879,764 894,764 894,774 913,774 913,764 939,764 940,773 1002,773 1002,780 1015,780 1015,785 1002,785 1002,792 985,793 659,795 256,800 192,800 87,799" />
+				<Baseline points="87,800 1015,792" />
+				<TextEquiv index="1">
+					<Unicode>denn unter unserem Volke herrscht die lobens-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l9" custom="readingOrder {index:9;}">
+				<Coords points="88,832 137,828 169,828 187,833 201,822 255,822 291,832 291,846 298,846 317,822 343,822 343,831 503,829 522,818 532,818 532,829 547,829 547,818 634,818 634,828 736,827 749,816 773,815 795,815 795,826 838,821 853,821 872,826 872,815 884,815 884,826 1021,825 1021,855 996,855 995,845 910,846 910,856 884,856 884,850 795,846 795,856 773,856 773,846 317,851 298,858 291,858 291,852 233,852 233,858 214,858 88,851" />
+				<Baseline points="88,851 1021,845" />
+				<TextEquiv index="1">
+					<Unicode>werte Sitte, dass man nie ein zur Versteigerung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l10" custom="readingOrder {index:10;}">
+				<Coords points="89,875 112,875 112,885 147,885 147,875 173,875 173,885 191,885 191,875 216,875 216,885 243,880 259,880 296,885 318,874 356,874 358,884 420,883 447,871 462,871 475,873 476,883 523,882 523,871 554,871 558,895 566,895 600,871 625,871 626,880 812,879 835,868 838,868 838,879 851,879 851,868 928,867 941,867 941,878 952,878 952,867 984,867 1008,868 1021,872 1021,897 600,901 566,908 558,908 554,902 475,903 462,908 447,908 403,904 89,904" />
+				<Baseline points="89,906 1021,897" />
+				<TextEquiv index="1">
+					<Unicode>bestimmtes Haus kauft, bevor man sich nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l11" custom="readingOrder {index:11;}">
+				<Coords points="91,931 112,928 136,928 136,938 231,938 231,928 320,928 320,937 341,932 358,932 362,951 370,951 398,927 440,927 440,936 478,936 503,925 529,925 529,935 568,934 590,923 636,923 636,933 662,932 707,927 743,927 816,932 837,922 861,922 861,932 898,931 921,921 959,921 960,931 1021,930 1021,950 743,953 663,952 663,964 635,964 635,953 478,956 398,956 370,963 362,963 358,957 294,957 274,968 231,968 231,958 112,958 91,956" />
+				<Baseline points="91,956 1021,950" />
+				<TextEquiv index="1">
+					<Unicode>überzeugt hat, dass der Eigentümer das Haus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l12" custom="readingOrder {index:12;}">
+				<Coords points="97,989 156,990 172,980 189,980 189,990 220,990 220,980 234,980 234,990 276,990 295,979 340,979 359,984 359,990 377,990 377,979 405,979 405,989 514,987 533,982 677,981 677,1000 714,975 751,975 751,986 791,985 791,975 857,974 869,974 869,984 887,984 905,974 944,974 944,984 1008,983 1009,991 1021,991 1021,995 1009,995 1008,1003 990,1004 751,1006 677,1008 598,1007 340,1011 295,1011 97,1009" />
+				<Baseline points="97,1009 1021,1003" />
+				<TextEquiv index="1">
+					<Unicode>aus freien Stücken veräussert. Auch die Haus-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l13" custom="readingOrder {index:13;}">
+				<Coords points="99,1042 115,1042 115,1032 153,1032 153,1042 168,1042 168,1032 180,1032 180,1042 196,1042 196,1033 221,1033 236,1038 403,1041 403,1032 428,1032 428,1041 538,1040 538,1030 566,1030 566,1039 611,1039 611,1028 631,1028 631,1034 716,1038 716,1029 739,1029 765,1038 896,1037 896,1028 942,1025 970,1025 970,1036 982,1036 982,1021 1002,1021 1002,1036 1021,1036 1021,1056 1002,1056 1002,1068 982,1068 982,1057 612,1059 522,1061 328,1062 307,1074 283,1074 282,1062 135,1062 135,1074 115,1074 115,1061 99,1061" />
+				<Baseline points="99,1061 1021,1057" />
+				<TextEquiv index="1">
+					<Unicode>einrichtung wurde verkauft und so ward Sar-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l14" custom="readingOrder {index:14;}">
+				<Coords points="100,1084 137,1084 137,1094 153,1094 172,1084 191,1084 191,1094 224,1090 239,1090 332,1095 349,1084 389,1084 389,1094 402,1094 402,1088 432,1084 447,1084 447,1094 552,1093 552,1082 576,1082 593,1091 613,1091 613,1085 637,1085 637,1091 674,1091 674,1085 707,1085 725,1090 742,1080 767,1080 767,1090 786,1090 786,1080 821,1081 838,1090 901,1090 901,1081 928,1081 943,1085 981,1090 981,1079 1023,1079 1023,1109 903,1111 707,1111 297,1115 208,1115 187,1115 100,1114" />
+				<Baseline points="100,1114 1023,1109" />
+				<TextEquiv index="1">
+					<Unicode>kis fast zum Bettler und musste halb nackt mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l15" custom="readingOrder {index:15;}">
+				<Coords points="103,1136 206,1138 228,1147 274,1148 274,1138 318,1136 370,1136 370,1147 392,1147 392,1137 416,1137 439,1146 475,1146 475,1136 490,1136 490,1145 514,1145 536,1134 575,1134 576,1145 621,1143 720,1143 720,1134 735,1134 735,1143 835,1143 835,1130 894,1130 894,1133 890,1133 863,1163 370,1167 206,1167 130,1167 103,1167" />
+				<Baseline points="103,1167 894,1162" />
+				<TextEquiv index="1">
+					<Unicode>Weib und Kind sein Haus verlassen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l16" custom="readingOrder {index:16;}">
+				<Coords points="196,1212 211,1212 211,1188 231,1188 231,1198 247,1198 247,1189 273,1189 298,1198 332,1199 332,1189 372,1189 372,1198 419,1199 450,1188 493,1188 493,1197 622,1196 625,1209 633,1209 665,1195 686,1195 686,1185 733,1185 733,1195 755,1195 780,1185 817,1185 818,1195 944,1194 966,1185 992,1185 993,1193 1012,1193 1013,1201 1025,1201 1025,1205 1013,1205 1012,1213 992,1214 665,1215 633,1221 625,1221 622,1215 568,1215 568,1221 493,1218 450,1218 419,1229 394,1229 394,1218 213,1217 213,1224 196,1224" />
+				<Baseline points="196,1218 1025,1213" />
+				<TextEquiv index="1">
+					<Unicode>„Ich schlug ihm vor, mein Haus zu be-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l17" custom="readingOrder {index:17;}">
+				<Coords points="114,1249 131,1249 131,1239 144,1239 144,1249 161,1249 161,1239 187,1239 187,1248 231,1249 235,1262 242,1262 268,1249 286,1249 286,1241 311,1241 312,1250 411,1250 436,1239 455,1239 455,1250 492,1249 492,1239 522,1239 538,1243 608,1247 608,1237 622,1237 622,1246 638,1246 638,1237 689,1237 734,1260 748,1260 748,1236 784,1236 785,1246 830,1246 853,1236 879,1236 879,1246 922,1241 1004,1246 1004,1236 1028,1236 1028,1266 750,1266 750,1272 641,1267 394,1270 268,1268 242,1274 235,1274 231,1268 114,1268" />
+				<Baseline points="114,1268 1028,1266" />
+				<TextEquiv index="1">
+					<Unicode>ziehen, aber er wollte nicht. „Von heute ab</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l18" custom="readingOrder {index:18;}">
+				<Coords points="116,1290 130,1290 130,1300 146,1300 146,1294 179,1290 214,1290 214,1299 267,1299 267,1291 309,1291 309,1301 415,1301 432,1291 465,1291 465,1301 482,1301 482,1291 507,1291 507,1300 568,1299 568,1288 617,1288 617,1298 659,1298 668,1287 724,1287 724,1297 739,1297 739,1288 764,1288 764,1297 802,1292 840,1291 868,1292 868,1298 896,1298 896,1292 913,1292 931,1298 968,1298 968,1292 1012,1292 1012,1298 1028,1298 1028,1318 1012,1318 1012,1329 968,1329 968,1318 931,1318 913,1304 896,1304 896,1324 868,1324 868,1317 724,1317 724,1324 699,1324 699,1317 483,1321 116,1320" />
+				<Baseline points="116,1320 1028,1317" />
+				<TextEquiv index="1">
+					<Unicode>ist die schwarze Erde meine Wohnstätte,“ sagte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l19" custom="readingOrder {index:19;}">
+				<Coords points="121,1352 227,1352 227,1342 287,1342 287,1352 309,1352 309,1342 323,1342 357,1347 357,1353 376,1353 376,1347 393,1347 393,1353 411,1353 443,1342 473,1342 473,1352 489,1352 489,1342 516,1342 545,1350 564,1350 564,1340 578,1340 578,1350 600,1350 621,1339 642,1339 661,1340 661,1349 680,1349 680,1339 725,1339 725,1349 750,1349 771,1339 809,1339 830,1344 830,1350 886,1350 886,1341 911,1341 911,1350 1032,1350 1032,1370 578,1370 492,1372 311,1372 203,1372 141,1372 121,1372" />
+				<Baseline points="121,1371 1032,1369" />
+				<TextEquiv index="1">
+					<Unicode>er und mietete sich ein kleines Häuschen am</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l20" custom="readingOrder {index:20;}">
+				<Coords points="122,1393 169,1393 169,1402 180,1402 180,1393 271,1393 271,1402 305,1402 326,1392 362,1392 362,1398 381,1398 381,1392 428,1393 432,1416 440,1416 462,1394 488,1394 488,1402 507,1401 525,1396 619,1400 642,1390 678,1390 678,1399 696,1399 716,1390 780,1390 803,1391 803,1400 900,1401 900,1391 918,1391 918,1401 996,1401 996,1391 1018,1391 1018,1401 1036,1401 1036,1420 1018,1420 1018,1431 986,1431 959,1431 959,1420 678,1419 462,1421 440,1427 381,1427 381,1421 362,1421 362,1427 223,1422 122,1423" />
+				<Baseline points="122,1422 858,1418 1036,1420" />
+				<TextEquiv index="1">
+					<Unicode>Ende der Stadt, dort wo die Felder anfangen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l21" custom="readingOrder {index:21;}">
+				<Coords points="219,1467 236,1467 236,1443 285,1443 285,1453 301,1453 323,1443 358,1442 358,1453 377,1453 398,1443 432,1443 434,1453 473,1453 473,1443 536,1443 544,1450 586,1450 609,1439 645,1439 645,1449 663,1449 681,1439 727,1439 727,1449 742,1449 742,1440 768,1440 798,1449 820,1450 820,1439 842,1439 842,1445 867,1442 902,1441 902,1452 924,1452 924,1442 938,1439 960,1439 998,1442 998,1452 1039,1452 1039,1471 960,1472 960,1482 938,1482 938,1471 927,1471 927,1482 902,1482 902,1470 842,1470 842,1482 820,1482 820,1470 586,1470 536,1472 236,1473 236,1479 219,1479" />
+				<Baseline points="219,1473 585,1470 1039,1472" />
+				<TextEquiv index="1">
+					<Unicode>„Als die Nachbarn die Nichtswürdigkeiten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l22" custom="readingOrder {index:22;}">
+				<Coords points="129,1497 153,1497 153,1507 190,1506 222,1495 258,1495 272,1500 272,1494 298,1494 298,1505 372,1505 372,1496 397,1496 398,1505 420,1505 420,1494 455,1495 455,1504 498,1504 498,1494 524,1494 524,1503 587,1502 620,1491 631,1491 676,1491 676,1501 693,1501 693,1492 718,1492 718,1501 776,1501 781,1515 787,1515 822,1494 847,1494 847,1502 892,1503 892,1494 916,1494 916,1504 958,1504 994,1493 1022,1493 1022,1504 1040,1504 1040,1524 847,1524 787,1527 781,1527 776,1521 641,1522 631,1527 620,1527 547,1523 476,1525 190,1527 129,1527" />
+				<Baseline points="129,1527 786,1520 1040,1524" />
+				<TextEquiv index="1">
+					<Unicode>des Hämorrhoidenhans erfuhren, wurden sie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l23" custom="readingOrder {index:23;}">
+				<Coords points="126,1561 163,1561 163,1550 187,1550 187,1560 244,1560 244,1550 281,1548 293,1548 293,1559 312,1559 312,1549 354,1548 378,1548 400,1552 505,1556 505,1546 529,1546 549,1555 569,1555 569,1544 582,1544 582,1554 680,1554 680,1543 703,1543 703,1553 714,1553 714,1543 747,1543 764,1554 805,1554 805,1543 823,1543 839,1554 875,1555 875,1545 887,1545 887,1555 951,1556 970,1546 1007,1546 1008,1557 1028,1557 1028,1546 1046,1546 1046,1576 909,1577 839,1575 626,1574 224,1581 187,1581 126,1581" />
+				<Baseline points="126,1581 457,1576 822,1573 1046,1577" />
+				<TextEquiv index="1">
+					<Unicode>schrecklich böse und einer warf auf seinen Hof</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l24" custom="readingOrder {index:24;}">
+				<Coords points="125,1614 145,1614 145,1603 157,1603 157,1614 223,1614 251,1602 288,1602 328,1607 349,1612 349,1602 362,1602 366,1626 374,1626 406,1611 452,1611 452,1599 470,1599 493,1609 549,1608 549,1598 562,1598 562,1608 581,1608 581,1598 606,1598 607,1607 662,1606 691,1597 699,1597 699,1606 752,1606 752,1597 819,1597 819,1607 837,1607 837,1598 861,1598 862,1608 903,1609 933,1600 942,1600 966,1604 966,1610 1000,1610 1000,1600 1040,1600 1040,1635 933,1635 903,1629 804,1627 804,1637 781,1637 781,1627 717,1626 717,1637 691,1637 662,1626 406,1631 374,1637 366,1637 313,1633 288,1637 268,1637 223,1634 125,1634" />
+				<Baseline points="125,1634 691,1627 1040,1630" />
+				<TextEquiv index="1">
+					<Unicode>einen Zettel, auf welchem geschrieben stand,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l25" custom="readingOrder {index:25;}">
+				<Coords points="124,1657 168,1657 168,1666 204,1667 204,1681 211,1681 232,1667 398,1664 419,1654 449,1654 449,1664 468,1664 468,1654 492,1654 511,1662 549,1662 549,1649 571,1649 571,1656 598,1656 633,1660 633,1654 649,1653 670,1653 670,1659 693,1659 693,1649 724,1649 724,1659 780,1659 780,1649 792,1649 792,1660 809,1660 809,1650 833,1650 874,1651 874,1662 1041,1663 1041,1682 925,1683 765,1679 743,1685 705,1685 705,1679 598,1681 571,1685 549,1685 536,1682 232,1687 211,1693 204,1693 204,1687 168,1687 168,1693 146,1693 146,1687 124,1687" />
+				<Baseline points="124,1687 742,1679 1041,1683" />
+				<TextEquiv index="1">
+					<Unicode>dass, wenn er sich unterstände, sich des armen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l26" custom="readingOrder {index:26;}">
+				<Coords points="125,1708 152,1708 153,1720 185,1719 185,1708 227,1710 227,1720 242,1720 251,1709 289,1709 290,1719 470,1718 470,1707 508,1707 508,1716 546,1715 546,1707 569,1707 569,1714 623,1712 681,1712 691,1702 715,1702 744,1702 744,1712 787,1712 787,1703 821,1703 822,1713 869,1714 869,1705 916,1705 916,1716 1040,1715 1040,1735 931,1736 599,1733 588,1744 569,1748 546,1748 546,1735 535,1735 534,1748 482,1748 482,1737 406,1739 125,1741" />
+				<Baseline points="125,1741 840,1732 1040,1736" />
+				<TextEquiv index="1">
+					<Unicode>Sarkis Haus anzueignen, man dasselbe abbrennen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l27" custom="readingOrder {index:27;}">
+				<Coords points="127,1773 150,1773 150,1764 173,1764 173,1773 249,1774 249,1763 261,1763 261,1773 281,1773 282,1763 305,1763 305,1773 379,1772 379,1761 391,1761 391,1771 530,1770 530,1763 554,1763 571,1768 571,1758 595,1758 595,1767 623,1767 623,1787 380,1793 261,1794 192,1794 150,1794 127,1793" />
+				<Baseline points="127,1794 494,1790 623,1786" />
+				<TextEquiv index="1">
+					<Unicode>oder niederreissen würde.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>sein Warenlager. Dann verkaufte man den
+Tabak und den Thee, wofür niemand mehr als
+fünfzig Rubel geben wollte, denn beides war
+halb verfault. Dann wurde auch der Laden
+mit allem was darin war, für ein paar hundert
+Rubel versteigert und zuletzt das Haus feil ge-
+boten, welches jedoch niemand kaufen wollte,
+denn unter unserem Volke herrscht die lobens-
+werte Sitte, dass man nie ein zur Versteigerung
+bestimmtes Haus kauft, bevor man sich nicht
+überzeugt hat, dass der Eigentümer das Haus
+aus freien Stücken veräussert. Auch die Haus-
+einrichtung wurde verkauft und so ward Sar-
+kis fast zum Bettler und musste halb nackt mit
+Weib und Kind sein Haus verlassen.
+„Ich schlug ihm vor, mein Haus zu be-
+ziehen, aber er wollte nicht. „Von heute ab
+ist die schwarze Erde meine Wohnstätte,“ sagte
+er und mietete sich ein kleines Häuschen am
+Ende der Stadt, dort wo die Felder anfangen.
+„Als die Nachbarn die Nichtswürdigkeiten
+des Hämorrhoidenhans erfuhren, wurden sie
+schrecklich böse und einer warf auf seinen Hof
+einen Zettel, auf welchem geschrieben stand,
+dass, wenn er sich unterstände, sich des armen
+Sarkis Haus anzueignen, man dasselbe abbrennen
+oder niederreissen würde.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Hause und versiegelte seinen Laden und sein Warenlager. Dann verkaufte man den Tabak und den Thee, wofür niemand mehr als fünfzig Rubel geben wollte, denn beides war halb verfault. Dann wurde auch der Laden mit allem was darin war, für ein paar hundert Rubel versteigert und zuletzt das Haus feil geboten, welches jedoch niemand kaufen wollte, denn unter unserem Volke herrscht die lobenswerte Sitte, dass man nie ein zur Versteigerung bestimmtes Haus kauft, bevor man sich nicht überzeugt hat, dass der Eigentümer das Haus aus freien Stücken veräussert. Auch die Hauseinrichtung wurde verkauft und so ward Sarkis fast zum Bettler und musste halb nackt mit Weib und Kind sein Haus verlassen.
+„Ich schlug ihm vor, mein Haus zu beziehen, aber er wollte nicht. „Von heute ab ist die schwarze Erde meine Wohnstätte,“ sagte er und mietete sich ein kleines Häuschen am Ende der Stadt, dort wo die Felder anfangen.
+„Als die Nachbarn die Nichtswürdigkeiten des Hämorrhoidenhans erfuhren, wurden sie schrecklich böse und einer warf auf seinen Hof einen Zettel, auf welchem geschrieben stand, dass, wenn er sich unterstände, sich des armen Sarkis Haus anzueignen, man dasselbe abbrennen oder niederreissen würde.
+-->
+	</Page>
+</PcGts>

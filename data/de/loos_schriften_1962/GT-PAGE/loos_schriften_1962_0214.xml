@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:40:28</Created>
+		<LastChange>2026-11-23T18:40:28</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Loos_Sämtliche_Schriften.pdf/214 revision 3345781 of 2018-08-01T02:35:33Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="loos_schriften_1962_0214.png" imageWidth="1415" imageHeight="2376">
+		<ReadingOrder>
+			<OrderedGroup id="ro7106996848274476627" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="346,248 1030,248 1030,280 346,280" />
+			<!-- line left out: id="r0l0" points="346,249 472,249 500,248 570,248 640,248 743,248 869,248 1030,249 1030,279 1001,280 973,280 838,279 773,279 499,279 346,279" baseline="346,279 697,278 713,278 944,279 1030,280" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: AUS DEN BEIDEN NUMMERN VON
+ | german_print2_15: AUS DEN BEIDEN NUMMERN VON
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="191,320 1139,320 1139,474 191,474" />
+			<!-- line left out: id="r1l0" points="191,320 259,320 259,346 335,346 516,346 957,346 1139,347 1139,445 1056,445 1056,453 960,453 957,445 436,445 259,444 259,474 191,474" baseline="191,444 561,445 1139,451" reason: differs: "[DAS" against "⟦⟧ D" | Wikisource:  | next_nc_e1: [DAS ANDERE
+ | german_print2_15: [DXAS XNDERE
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="185,481 1046,481 1046,570 185,570" />
+			<!-- line left out: id="r2l0" points="185,481 224,481 295,481 362,482 533,482 906,482 1046,482 1046,523 906,524 864,524 819,523 680,524 493,524 452,524 245,523 185,523" baseline="185,522 1046,523" reason: second model: differs: "EINB" against "NDER" | Wikisource: EIN BLATT ZUR EINFUEHR | next_nc_e1: EIN BLATT ZUR EINFUEHR | german_print2_15: EIN BLATT ZUR EINFUEHEK -->
+			<!-- line left out: id="r2l1" points="275,528 854,527 893,527 893,570 275,570" baseline="275,570 893,570" reason: differs: "ENR" against "UNG AB" | Wikisource:  | next_nc_e1: EN R
+ | german_print2_15: EN R
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r3">
+			<Coords points="198,308 1191,308 1191,323 198,323" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r4">
+			<Coords points="209,457 1192,457 1192,474 209,474" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r5">
+			<Coords points="182,670 1190,670 1190,688 182,688" />
+		</SeparatorRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="398,857 996,857 996,890 398,890" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="398,857 461,857 473,869 523,870 535,857 578,857 609,859 619,869 642,869 653,858 676,858 698,860 709,870 754,870 765,857 786,857 798,870 815,870 836,858 858,858 870,871 890,871 902,859 913,859 924,866 996,871 996,889 970,890 948,890 398,888" />
+				<Baseline points="398,888 996,889" />
+				<TextEquiv index="1">
+					<Unicode>Abendländische kultur</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Abendländische kultur</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="178,945 1194,945 1194,1959 178,1959" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="225,945 267,945 289,947 289,957 346,957 346,945 367,945 367,957 379,957 379,945 400,945 466,948 466,958 483,953 495,953 541,958 541,946 562,946 563,958 648,958 648,946 670,946 671,959 705,959 730,949 742,949 742,959 764,959 788,946 859,947 860,959 879,959 880,947 901,947 902,959 919,959 919,947 930,947 930,959 951,959 951,947 974,947 986,949 987,960 1006,960 1007,972 1015,972 1043,958 1060,958 1060,947 1082,947 1083,959 1114,959 1114,947 1158,947 1158,960 1171,955 1192,955 1192,979 1043,978 1015,984 1007,984 1006,978 952,977 952,987 930,987 930,977 802,977 802,987 788,987 764,978 225,976" />
+				<Baseline points="225,976 1192,978" />
+				<TextEquiv index="1">
+					<Unicode>Mein onkel ist uhrmacher in Philadelphia, chestnut-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l1" custom="readingOrder {index:1;}">
+				<Coords points="180,1011 196,1006 208,1006 208,1012 225,1011 226,1006 273,1006 274,1024 282,1024 300,1011 344,1011 345,1001 356,1001 357,1011 390,1011 390,1000 412,1000 413,1012 451,1012 470,1000 490,1000 492,1012 578,1011 579,1000 600,1000 601,1007 613,1007 632,1012 632,1000 651,1000 669,1012 712,1013 713,1001 734,1001 750,1013 773,1012 782,1007 847,1007 885,1012 903,1002 910,1002 910,1008 932,1008 968,1013 968,1002 1000,1002 1000,1013 1017,1013 1035,1000 1064,1000 1077,1003 1078,1013 1192,1013 1192,1032 1178,1032 1178,1042 1146,1042 1128,1032 492,1031 300,1029 282,1035 274,1035 273,1029 261,1030 244,1035 226,1035 225,1030 180,1029" />
+				<Baseline points="180,1029 1192,1032" />
+				<TextEquiv index="1">
+					<Unicode>street, zwischen der achten und neunten straße. Diese ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l2" custom="readingOrder {index:2;}">
+				<Coords points="179,1065 240,1066 241,1054 283,1053 293,1053 293,1064 302,1064 323,1060 351,1060 389,1065 389,1055 401,1055 402,1064 419,1064 419,1053 441,1053 441,1060 453,1060 477,1054 497,1054 498,1066 681,1066 702,1054 756,1054 756,1067 771,1067 771,1054 793,1054 793,1061 816,1061 834,1065 864,1061 879,1061 879,1067 914,1067 914,1055 935,1055 937,1066 956,1066 956,1079 964,1079 987,1055 1028,1055 1028,1066 1044,1066 1065,1056 1078,1056 1078,1066 1095,1066 1095,1055 1194,1055 1194,1086 441,1085 373,1083 372,1093 350,1093 350,1084 293,1084 293,1093 283,1093 261,1084 201,1083 201,1093 179,1093" />
+				<Baseline points="179,1083 1194,1086" />
+				<TextEquiv index="1">
+					<Unicode>gend entspricht der unserer kärntnerstraße. Als ich ihn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l3" custom="readingOrder {index:3;}">
+				<Coords points="180,1109 191,1109 191,1120 213,1120 231,1108 261,1108 261,1119 277,1119 277,1108 298,1108 298,1119 311,1119 311,1109 339,1108 360,1108 361,1120 379,1120 399,1109 420,1109 421,1120 493,1121 494,1109 515,1109 517,1115 528,1115 546,1120 547,1133 554,1133 575,1109 596,1109 597,1121 653,1121 653,1109 685,1109 685,1121 707,1116 737,1116 827,1121 827,1111 838,1111 838,1121 859,1121 878,1109 900,1109 901,1121 958,1122 977,1111 989,1111 989,1122 1011,1122 1031,1109 1053,1109 1053,1121 1163,1121 1163,1109 1184,1109 1184,1128 1192,1128 1192,1133 1184,1133 1184,1139 1127,1140 1126,1149 1105,1149 1086,1139 575,1139 554,1145 547,1145 546,1139 277,1139 180,1137" />
+				<Baseline points="180,1138 1192,1140" />
+				<TextEquiv index="1">
+					<Unicode>in Amerika besuchte, bewohnte er ein haus in der park-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l4" custom="readingOrder {index:4;}">
+				<Coords points="180,1173 199,1173 306,1173 306,1193 258,1193 200,1193 180,1192" />
+				<Baseline points="180,1192 306,1193" />
+				<TextEquiv index="1">
+					<Unicode>avenue.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l5" custom="readingOrder {index:5;}">
+				<Coords points="224,1216 246,1216 247,1228 264,1228 264,1218 276,1218 276,1228 316,1228 336,1216 352,1216 352,1229 409,1229 410,1241 418,1241 440,1229 457,1229 457,1219 479,1219 479,1229 491,1229 491,1219 525,1219 525,1228 563,1224 646,1224 647,1241 655,1241 677,1219 690,1219 690,1229 705,1224 739,1220 801,1220 801,1229 868,1229 868,1217 889,1217 890,1229 1041,1229 1041,1218 1063,1218 1063,1229 1075,1229 1075,1220 1104,1218 1138,1218 1138,1230 1185,1229 1185,1236 1193,1236 1193,1242 1185,1242 1185,1248 1166,1249 851,1248 851,1258 829,1258 808,1248 647,1253 617,1248 569,1247 569,1253 410,1253 409,1247 224,1247" />
+				<Baseline points="224,1247 1193,1249" />
+				<TextEquiv index="1">
+					<Unicode>Seine frau, meine tante, ist eine geborene amerikane-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l6" custom="readingOrder {index:6;}">
+				<Coords points="181,1282 198,1282 198,1271 209,1271 209,1282 231,1282 233,1294 240,1294 271,1270 293,1270 305,1271 306,1282 323,1282 351,1270 385,1270 385,1277 418,1277 419,1283 481,1283 481,1272 493,1272 493,1283 554,1283 582,1271 603,1271 604,1283 642,1283 643,1271 665,1271 665,1283 700,1283 700,1296 708,1296 737,1283 778,1284 778,1271 883,1272 884,1283 923,1284 923,1273 935,1273 938,1284 990,1284 991,1274 1002,1274 1002,1284 1025,1284 1025,1295 1034,1295 1065,1272 1104,1272 1104,1284 1120,1284 1149,1272 1156,1272 1156,1284 1168,1284 1168,1272 1192,1272 1192,1302 1065,1302 1034,1308 1025,1308 1001,1303 938,1302 935,1311 923,1311 923,1302 779,1302 699,1307 515,1302 233,1301 181,1299" />
+				<Baseline points="181,1300 1192,1302" />
+				<TextEquiv index="1">
+					<Unicode>rin. Sie hatte einen bruder, onkel Benjamin, der als</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l7" custom="readingOrder {index:7;}">
+				<Coords points="180,1325 196,1325 196,1337 297,1338 324,1327 336,1327 336,1338 358,1338 387,1326 408,1326 408,1338 513,1339 513,1326 535,1326 535,1338 562,1338 562,1326 583,1326 583,1339 648,1339 676,1327 698,1327 698,1339 732,1339 759,1326 765,1326 765,1339 775,1339 776,1333 806,1333 806,1326 830,1326 830,1333 841,1333 868,1327 880,1327 881,1338 898,1338 898,1326 919,1326 920,1333 933,1333 952,1338 952,1351 960,1351 990,1327 1006,1327 1006,1338 1024,1338 1024,1325 1045,1325 1073,1338 1090,1338 1090,1326 1154,1326 1154,1338 1165,1333 1194,1333 1194,1357 676,1358 648,1367 627,1367 627,1357 562,1357 562,1366 535,1367 513,1367 513,1357 469,1358 180,1355" />
+				<Baseline points="180,1355 1194,1357" />
+				<TextEquiv index="1">
+					<Unicode>farmer in der umgebung der stadt lebte. Ich wohnte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l8" custom="readingOrder {index:8;}">
+				<Coords points="180,1378 201,1378 202,1391 219,1391 219,1381 230,1381 253,1390 303,1391 303,1381 315,1381 315,1391 440,1392 440,1380 502,1381 504,1405 511,1405 536,1380 566,1380 566,1392 587,1392 588,1380 659,1382 659,1392 673,1392 673,1382 695,1382 695,1392 735,1388 901,1387 1027,1392 1049,1381 1058,1381 1058,1391 1081,1391 1082,1381 1093,1381 1094,1392 1120,1392 1142,1381 1154,1381 1154,1391 1171,1391 1171,1379 1192,1379 1192,1410 1120,1416 1094,1416 1093,1410 1058,1410 1058,1416 901,1411 901,1420 880,1420 880,1411 789,1411 789,1420 768,1420 767,1411 440,1412 180,1409" />
+				<Baseline points="180,1409 1192,1410" />
+				<TextEquiv index="1">
+					<Unicode>bei meinem onkel. Und eines tages sagte man mir, ich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l9" custom="readingOrder {index:9;}">
+				<Coords points="179,1444 215,1444 216,1433 252,1433 252,1444 263,1444 263,1433 269,1433 294,1444 335,1445 335,1433 356,1433 357,1445 374,1445 374,1434 409,1433 435,1433 436,1445 474,1446 474,1435 488,1435 490,1446 541,1445 542,1435 553,1435 553,1446 643,1446 645,1434 665,1434 689,1441 756,1441 756,1447 773,1447 797,1433 839,1433 839,1446 899,1446 926,1436 972,1436 972,1446 1011,1446 1035,1433 1051,1433 1051,1446 1108,1445 1108,1457 1117,1457 1144,1433 1176,1433 1176,1445 1192,1445 1192,1464 1144,1464 1117,1470 1108,1470 1108,1464 972,1465 899,1470 871,1470 870,1464 839,1464 839,1470 818,1470 818,1464 490,1465 488,1474 474,1474 474,1464 436,1465 179,1463" />
+				<Baseline points="179,1463 1192,1464" />
+				<TextEquiv index="1">
+					<Unicode>sollte onkel Benjamin und tante Anna, seine frau, be-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l10" custom="readingOrder {index:10;}">
+				<Coords points="179,1500 233,1500 234,1489 255,1489 256,1500 295,1501 296,1513 304,1513 328,1489 353,1489 365,1491 365,1501 459,1502 459,1492 481,1492 481,1502 494,1502 494,1492 539,1492 539,1501 562,1501 584,1489 594,1489 601,1502 619,1502 619,1489 652,1489 653,1502 687,1501 687,1491 699,1491 699,1501 716,1501 716,1490 739,1490 739,1502 759,1502 759,1489 778,1489 800,1500 876,1501 877,1491 887,1491 887,1501 925,1501 947,1489 963,1489 963,1501 982,1501 982,1489 1005,1489 1006,1501 1021,1501 1043,1489 1059,1489 1059,1500 1075,1500 1076,1489 1133,1489 1133,1499 1154,1499 1154,1489 1166,1489 1167,1500 1190,1500 1190,1518 984,1520 539,1521 495,1521 459,1521 179,1519" />
+				<Baseline points="179,1519 1190,1518" />
+				<TextEquiv index="1">
+					<Unicode>suchen. Einer meiner zahlreichen cousins fuhr mit mir.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l11" custom="readingOrder {index:11;}">
+				<Coords points="179,1542 282,1542 282,1554 302,1554 302,1542 325,1542 325,1555 337,1555 337,1542 359,1542 359,1554 417,1555 417,1545 480,1544 501,1544 501,1555 535,1555 555,1543 577,1543 578,1555 597,1555 597,1543 618,1543 618,1555 640,1555 641,1567 649,1567 673,1543 694,1543 694,1555 799,1555 799,1544 810,1544 810,1554 893,1555 915,1544 930,1544 930,1555 943,1555 943,1544 972,1544 993,1554 1011,1554 1011,1544 1023,1544 1023,1553 1099,1548 1113,1548 1155,1553 1156,1541 1177,1541 1177,1552 1194,1552 1194,1572 854,1573 854,1583 832,1583 832,1573 801,1573 801,1583 777,1583 757,1574 673,1574 649,1580 641,1580 640,1574 179,1574" />
+				<Baseline points="179,1573 1194,1572" />
+				<TextEquiv index="1">
+					<Unicode>Wir fuhren mit der bahn, dann gingen wir eine stunde</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l12" custom="readingOrder {index:12;}">
+				<Coords points="178,1608 216,1608 236,1596 252,1596 252,1608 264,1608 264,1596 303,1596 303,1626 284,1627 252,1627 196,1627 178,1626" />
+				<Baseline points="178,1627 303,1626" />
+				<TextEquiv index="1">
+					<Unicode>zu fuß.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l13" custom="readingOrder {index:13;}">
+				<Coords points="223,1649 293,1650 294,1661 348,1662 348,1652 361,1650 413,1650 413,1662 423,1662 442,1651 483,1651 483,1663 768,1662 768,1651 780,1651 780,1662 795,1662 795,1650 814,1650 814,1661 836,1661 837,1650 858,1650 858,1662 912,1662 912,1652 923,1652 924,1662 961,1657 975,1653 994,1653 996,1661 1012,1661 1012,1649 1046,1650 1046,1661 1084,1661 1102,1648 1125,1648 1145,1651 1145,1661 1182,1660 1183,1667 1191,1667 1191,1672 1183,1672 1182,1680 1067,1680 1067,1689 1046,1689 1046,1679 1013,1681 733,1681 713,1687 688,1691 666,1691 666,1681 636,1681 636,1691 620,1691 602,1681 495,1682 495,1691 464,1691 464,1681 223,1681" />
+				<Baseline points="223,1680 1191,1680" />
+				<TextEquiv index="1">
+					<Unicode>Viele villen lagen am wege, reizende einstöckige häus-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l14" custom="readingOrder {index:14;}">
+				<Coords points="179,1715 197,1715 197,1703 218,1703 218,1716 302,1715 302,1705 344,1705 371,1711 453,1716 455,1728 463,1728 493,1704 526,1705 526,1716 544,1716 544,1704 565,1704 566,1716 583,1716 583,1704 594,1704 623,1716 667,1716 668,1704 688,1704 717,1716 812,1716 814,1704 833,1704 833,1715 874,1715 875,1728 883,1728 914,1703 943,1703 945,1716 1022,1714 1111,1714 1142,1703 1175,1703 1175,1714 1191,1714 1191,1734 526,1734 526,1745 493,1745 455,1741 453,1734 179,1734" />
+				<Baseline points="179,1734 1191,1733" />
+				<TextEquiv index="1">
+					<Unicode>chen mit turm, giebel und veranden. Das waren die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l15" custom="readingOrder {index:15;}">
+				<Coords points="178,1756 192,1756 192,1769 253,1770 253,1756 281,1756 302,1759 302,1769 381,1769 381,1789 272,1789 211,1789 192,1789 178,1788" />
+				<Baseline points="178,1788 381,1789" />
+				<TextEquiv index="1">
+					<Unicode>farmhäuser.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l16" custom="readingOrder {index:16;}">
+				<Coords points="222,1811 248,1811 260,1813 261,1822 278,1822 278,1811 300,1811 300,1822 316,1822 333,1811 354,1811 354,1823 490,1823 490,1811 523,1811 595,1823 636,1823 636,1811 723,1811 723,1823 763,1823 764,1836 772,1836 785,1810 829,1810 852,1813 867,1822 888,1822 888,1812 900,1812 900,1823 983,1823 998,1811 1032,1811 1032,1822 1046,1822 1046,1811 1084,1812 1084,1822 1106,1822 1107,1835 1116,1835 1128,1822 1171,1822 1171,1810 1192,1810 1192,1842 1128,1842 1116,1848 1107,1848 1106,1842 1065,1842 1065,1848 1046,1848 1046,1842 1032,1843 1011,1848 944,1843 944,1853 922,1853 922,1842 890,1842 890,1852 867,1852 852,1842 523,1843 523,1853 501,1853 501,1843 473,1843 473,1853 451,1853 435,1843 222,1842" />
+				<Baseline points="222,1843 1192,1842" />
+				<TextEquiv index="1">
+					<Unicode>Eines davon gehörte onkel Ben. Wir gingen hinein, und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l17" custom="readingOrder {index:17;}">
+				<Coords points="178,1872 244,1872 261,1877 271,1865 302,1865 302,1877 364,1878 388,1866 404,1866 404,1878 460,1873 489,1873 516,1878 516,1867 527,1867 528,1877 545,1877 545,1865 566,1865 600,1866 600,1877 650,1878 650,1866 663,1866 674,1868 674,1877 691,1877 691,1866 714,1866 714,1890 723,1890 736,1866 758,1866 758,1878 796,1877 809,1889 829,1889 830,1877 906,1878 907,1867 918,1867 918,1878 940,1878 952,1866 1013,1866 1013,1878 1035,1878 1047,1865 1073,1865 1074,1877 1173,1877 1173,1865 1190,1865 1190,1878 1173,1878 1173,1896 1154,1896 1153,1905 1132,1905 1131,1896 830,1896 829,1902 809,1902 796,1896 736,1897 723,1903 714,1903 714,1896 178,1896" />
+				<Baseline points="178,1896 1190,1895" />
+				<TextEquiv index="1">
+					<Unicode>tante Anna freute sich herzlich, den „cousin from Europe“</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l18" custom="readingOrder {index:18;}">
+				<Coords points="178,1918 199,1918 200,1931 338,1930 338,1919 349,1919 350,1930 393,1931 393,1918 416,1918 416,1931 452,1931 452,1918 454,1918 516,1919 516,1931 536,1931 536,1920 558,1920 587,1931 729,1932 758,1914 787,1914 787,1931 803,1926 833,1926 884,1931 884,1921 896,1919 934,1919 941,1914 943,1914 1004,1919 1006,1932 1118,1931 1147,1921 1175,1921 1175,1930 1191,1930 1191,1950 608,1950 608,1959 587,1959 558,1950 238,1950 178,1948" />
+				<Baseline points="178,1949 1191,1949" />
+				<TextEquiv index="1">
+					<Unicode>kennenzulernen. Und gar aus Österreich. Da war sie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Mein onkel ist uhrmacher in Philadelphia, chestnut-
+street, zwischen der achten und neunten straße. Diese ge-
+gend entspricht der unserer kärntnerstraße. Als ich ihn
+in Amerika besuchte, bewohnte er ein haus in der park-
+avenue.
+Seine frau, meine tante, ist eine geborene amerikane-
+rin. Sie hatte einen bruder, onkel Benjamin, der als
+farmer in der umgebung der stadt lebte. Ich wohnte
+bei meinem onkel. Und eines tages sagte man mir, ich
+sollte onkel Benjamin und tante Anna, seine frau, be-
+suchen. Einer meiner zahlreichen cousins fuhr mit mir.
+Wir fuhren mit der bahn, dann gingen wir eine stunde
+zu fuß.
+Viele villen lagen am wege, reizende einstöckige häus-
+chen mit turm, giebel und veranden. Das waren die
+farmhäuser.
+Eines davon gehörte onkel Ben. Wir gingen hinein, und
+tante Anna freute sich herzlich, den „cousin from Europe“
+kennenzulernen. Und gar aus Österreich. Da war sie</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="1126,2028 1190,2028 1190,2058 1126,2058" />
+			<!-- line left out: id="r8l0" points="1126,2029 1171,2028 1190,2028 1190,2058 1126,2058" baseline="1126,2058 1190,2058" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 215 | german_print2_15: 215 -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+{{center|AUS DEN BEIDEN NUMMERN VON
+DAS ANDERE
+EIN BLATT ZUR EINFUEHRUNG
+ABENDLAENDISCHER KULTURIN OESTERREICH: GESCHRIEBEN
+VON ADOLF LOOS I. JAHR⟦⟧}}
+page=7]]
+(1903)
+Abendländische kultur
+Mein onkel ist uhrmacher in Philadelphia, chestnutstreet, zwischen der achten und neunten straße. Diese gegend entspricht der unserer kärntnerstraße. Als ich ihn in Amerika besuchte, bewohnte er ein haus in der parkavenue.
+Seine frau, meine tante, ist eine geborene amerikanerin. Sie hatte einen bruder, onkel Benjamin, der als farmer in der umgebung der stadt lebte. Ich wohnte bei meinem onkel. Und eines tages sagte man mir, ich sollte onkel Benjamin und tante Anna, seine frau, besuchen. Einer meiner zahlreichen cousins fuhr mit mir. Wir fuhren mit der bahn, dann gingen wir eine stunde zu fuß.
+Viele villen lagen am wege, reizende einstöckige häuschen mit turm, giebel und veranden. Das waren die farmhäuser.
+Eines davon gehörte onkel Ben. Wir gingen hinein, und tante Anna freute sich herzlich, den „cousin from Europe“ kennenzulernen. Und gar aus Österreich. Da war sie
+-->
+	</Page>
+</PcGts>

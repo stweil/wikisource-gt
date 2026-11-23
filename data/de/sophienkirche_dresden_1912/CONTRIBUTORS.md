@@ -1,0 +1,12 @@
+# Contributors of the Wikisource text
+
+Work: Robert Bruck: Die Sophienkirche in Dresden (de.wikisource.org)
+
+Users who edited the pages used here (number of pages), from the page
+histories as fetched:
+
+- THEprotectIT (30)
+- InNic (30)
+- Cossefritz (21)
+- NicoF (9)
+- Jenne1504 (1)

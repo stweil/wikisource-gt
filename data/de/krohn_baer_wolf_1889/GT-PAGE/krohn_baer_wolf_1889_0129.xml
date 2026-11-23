@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:39:25</Created>
+		<LastChange>2026-11-23T18:39:25</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Krohn_Bär_(Wolf)_und_Fuchs.djvu/129 revision 3342340 of 2018-08-01T02:05:36Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="krohn_baer_wolf_1889_0129.png" imageWidth="1190" imageHeight="1902">
+		<ReadingOrder>
+			<OrderedGroup id="ro1895989823347251387" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="458,156 614,156 614,194 458,194" />
+			<!-- line left out: id="r0l0" points="458,171 480,171 515,160 587,156 614,156 614,194 587,194 587,182 515,182 480,176 458,176" baseline="458,182 614,182" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 127 —
+ | german_print2_15: — 127 —
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="103,223 962,223 962,1625 103,1625" />
+			<!-- line left out: id="r1l0" points="104,226 133,226 164,226 164,240 178,225 212,225 216,226 229,235 247,235 261,224 329,224 380,223 395,223 453,223 484,223 532,224 652,224 696,224 732,224 766,230 788,225 816,225 855,225 855,235 869,235 869,225 884,225 896,226 896,239 911,226 940,226 955,230 955,236 959,236 959,239 955,244 884,247 869,247 869,238 855,238 855,247 837,247 788,244 593,243 445,243 415,243 395,243 261,243 229,238 216,247 168,248 161,248 141,245 133,248 118,248 104,245" baseline="104,244 229,243 766,243 959,244" reason: differs: "M.)—Gri" against ".) – Gr" | Wikisource:  | next_nc_e1: Hunt, (M.) — Grimm's Household Tales with the authors notes (I–II. Lon- | german_print2_15: Hunt, (M.) — Grimm's Household Tales with the authors notes (I(—II. Lon- -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="174,260 239,259 281,259 287,260 287,280 252,280 219,282 195,282 174,278" />
+				<Baseline points="174,278 287,277" />
+				<TextEquiv index="1">
+					<Unicode>don, 1884).</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l2" points="104,294 119,294 130,295 141,294 154,294 177,294 178,295 184,294 272,294 283,299 283,308 304,295 311,293 330,293 330,308 346,294 363,294 388,293 417,293 417,307 431,299 444,299 444,307 463,293 491,293 491,307 508,303 526,303 540,293 571,293 590,295 615,294 646,293 655,293 723,293 762,293 787,293 789,298 816,294 834,294 834,304 846,304 846,294 864,294 875,295 875,309 891,295 954,295 954,305 960,305 960,309 954,313 864,316 846,316 846,307 834,307 834,316 816,316 540,312 526,306 508,306 494,312 491,313 463,313 419,312 374,315 312,315 272,318 232,318 199,318 184,318 184,307 177,318 154,318 140,318 119,318 104,318" baseline="104,313 286,312 799,312 960,313" reason: second model: differs: ".W.—Wär" against "W. – Wä" | Wikisource: Hyltén-Cavallius, (G. O.) W. o. W. – Wärend och Wirdarne (I–II. Stock | next_nc_e1: Hyltén-Cavallius, (G. O.) W. o. W. – Wärend och Wirdarne (I–II. Stock- | german_print2_15: Hylten-Cavallius, (G. O.) W. o. W. — Wärend och Wirdarne (I— II. Stock- -->
+			<!-- line left out: id="r1l3" points="174,329 190,328 230,328 230,342 247,328 255,327 268,327 297,323 307,323 371,327 371,349 307,349 307,357 297,357 297,349 268,349 235,351 211,351 195,351 174,347" baseline="174,347 297,346 371,346" reason: differs: "864—186" against "864–186" | Wikisource:  | next_nc_e1: holm, 1864 — 1868).
+ | german_print2_15: holm, 1864 — 1868).
+ -->
+			<!-- line left out: id="r1l4" points="104,363 132,363 132,355 190,355 222,355 252,355 270,355 280,363 287,361 364,361 385,362 385,375 403,371 421,371 434,361 460,361 497,361 525,361 533,363 553,361 569,361 615,361 680,361 715,361 715,367 737,362 745,362 765,362 812,362 835,362 872,362 940,363 956,368 956,377 959,377 959,381 782,381 762,380 726,385 680,385 657,385 645,385 434,380 403,375 385,383 357,383 320,384 289,384 222,384 190,384 152,384 104,382" baseline="104,382 269,380 782,380 959,381" reason: differs: "Krad" against "868)" | Wikisource:  | next_nc_e1: Kradschitsch, (Wuk St.). — Volksmärchen der Serben, in’'s Deutsche übers. | german_print2_15: Karadschitsch, (Wuk St.). — Volksmärchen der Serben, in's Deutsche übers. -->
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="174,402 226,397 310,396 373,396 387,397 397,401 407,395 447,395 480,396 491,401 491,395 507,395 619,396 619,410 635,396 691,396 691,418 624,419 606,419 575,419 554,419 545,419 507,415 174,416" />
+				<Baseline points="174,416 691,414" />
+				<TextEquiv index="1">
+					<Unicode>von dessen Tochter Wilhelmine (Berlin, 1854).</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l6" points="103,432 188,431 223,431 239,441 258,441 271,430 284,430 310,430 314,431 339,431 345,430 361,430 408,430 437,431 437,441 451,441 451,431 488,431 488,445 503,430 516,430 537,430 572,430 572,445 589,431 639,431 644,432 644,452 611,452 577,453 558,453 537,453 516,453 503,453 486,452 467,452 451,452 451,444 437,444 437,452 419,452 386,450 361,450 314,450 271,450 258,444 239,444 226,453 223,454 103,454" baseline="103,451 225,450 419,449 644,449" reason: differs: "al(–III" against "l (I–II" | Wikisource:  | next_nc_e1: Kletke, (H.) – Märchensaal (–III. Berlin, 1845).
+ | german_print2_15: Kietke, (H.) — Märchensaal ((—III. Berlin, 1845).
+ -->
+			<!-- line left out: id="r1l7" points="104,466 118,465 132,465 168,465 192,465 195,465 268,465 268,480 282,467 289,465 314,465 317,466 330,475 348,475 361,465 464,465 586,465 644,465 856,465 856,471 869,471 869,479 886,467 894,466 920,466 945,466 945,488 906,488 874,489 856,489 812,489 690,489 678,489 668,483 644,486 586,486 576,486 464,484 361,484 330,479 317,487 291,487 272,488 256,488 224,488 192,488 168,488 132,488 118,488 104,485" baseline="104,486 316,483 361,483 945,484" reason: differs: "Kolm" against "845)" | Wikisource:  | next_nc_e1: Kolmatschevski, (L.) — Κπνοτκ noc a sanax I y cxanguz (Kasams, 1882).
+ | german_print2_15: Kolmatschevsci, (L.) — Kasornnä enock na sanazà  V Cczanszä (Kasane, 1882).
+ -->
+			<!-- line left out: id="r1l8" points="103,501 131,501 167,501 185,506 185,514 200,500 223,500 234,505 234,514 250,500 266,500 277,501 290,510 308,510 322,500 376,500 485,500 521,500 571,500 620,500 664,500 740,501 741,510 755,510 755,501 832,501 863,501 877,505 877,515 893,501 945,501 945,511 957,511 957,513 945,513 945,519 882,524 853,524 809,524 797,524 785,522 769,522 755,522 755,513 741,513 740,522 722,522 546,519 376,523 322,523 308,513 290,513 277,521 223,522 189,523 167,523 131,523 117,523 103,519" baseline="103,519 957,519" reason: differs: "Krau" against "882)" | Wikisource:  | next_nc_e1: Krauss, (Fr. S.) — Sagen und Märchen der Südslaven (–II. Leipzig, 1883— | german_print2_15: Krauss, (Fr. S.) — Sagen und Märchen der Südslaven ((—II. Leipzig, 1883 — -->
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="174,535 182,534 224,534 230,535 230,556 194,556 182,556 174,553" />
+				<Baseline points="174,553 230,553" />
+				<TextEquiv index="1">
+					<Unicode>1884).</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l10" points="103,570 179,570 211,570 226,574 226,582 241,568 269,568 297,569 309,570 322,578 340,578 353,568 367,568 407,568 407,574 417,574 429,568 471,568 529,568 538,569 597,569 655,569 749,569 829,569 886,569 915,569 915,579 929,579 929,569 943,569 956,570 956,583 959,583 959,588 943,591 929,591 929,582 915,587 906,591 897,591 817,588 566,591 529,591 505,591 457,591 435,591 387,592 366,592 353,587 322,582 309,590 269,590 230,591 211,591 179,591 147,591 123,591 103,589" baseline="103,588 229,587 668,587 959,588" reason: second model: differs: "*Kri" against "Kris" | Wikisource: Kristensen, (E. T.) – Jyske folkeminder, især fra Hammerum herred (I–II. | next_nc_e1: Kristensen, (E. T.) – Jyske folkeminder, især fra Hammerum herred (I–II. | german_print2_15: *Kristensen, (E. T.) — Jyske folkeminder, iseerr fra Hammerum herred (I— II. -->
+			<!-- line left out: id="r1l11" points="173,603 200,603 266,603 287,603 306,607 306,617 323,603 373,598 382,598 441,603 447,604 447,624 403,624 392,624 382,630 373,630 373,621 358,622 311,626 287,626 263,626 237,626 200,626 173,626" baseline="173,622 310,621 392,621 447,623" reason: differs: "71–—187" against "71–1876" | Wikisource:  | next_nc_e1: Kjöbenhavn, 1871 –— 1876).
+ | german_print2_15: Kjöbenhavn, 1871 — 1876).
+ -->
+			<!-- line left out: id="r1l12" points="103,638 128,638 190,637 224,637 228,638 238,647 262,647 273,637 297,637 322,637 491,637 526,637 530,638 545,643 545,637 563,637 590,638 590,651 605,637 634,637 658,637 677,637 710,637 738,637 799,638 805,639 805,659 772,659 738,660 634,660 620,660 590,659 550,660 526,660 491,660 442,660 416,660 273,656 262,650 238,650 228,659 224,660 130,660 103,656" baseline="103,656 805,656" reason: differs: "Kroh" against "876)" | Wikisource:  | next_nc_e1: Krohn, (K.) — Suomalaisia kansansatuja (I. Helsingissä, 1886).
+ | german_print2_15: Krohm, (K.) — Suomalaisia kansansatuja (I. Helsingissä, 1886).
+ -->
+			<!-- line left out: id="r1l13" points="103,672 166,672 166,686 181,673 188,672 207,672 260,672 291,672 291,685 309,682 328,682 341,672 361,672 373,674 382,672 405,672 441,672 508,672 557,672 638,672 671,672 727,672 759,672 778,672 842,672 848,677 848,690 842,694 778,694 727,694 699,694 519,691 508,694 465,694 295,690 277,691 218,694 190,694 170,695 146,695 118,695 103,691" baseline="103,691 181,690 848,690" reason: second model: differs: "Kuhn" against "886)" | Wikisource: Kuhn, (A.) Märk. – Märkische Sagen und Märchen (Berlin, 1843). | next_nc_e1: Kuhn, (A.) Märk. – Märkische Sagen und Märchen (Berlin, 1843).
+ | german_print2_15: Kuhn, (A.) Mark. — Märkische Sagen und Märchen (Berlin, 1843).
+ -->
+			<!-- line left out: id="r1l14" points="104,707 160,707 209,707 300,707 319,717 338,717 357,707 384,707 450,707 487,707 558,707 624,707 660,707 672,709 695,707 711,707 821,707 858,707 898,706 915,706 916,717 928,717 928,706 944,706 960,706 960,728 944,728 928,728 928,719 916,719 915,728 898,728 869,726 821,726 697,726 660,726 588,730 558,730 515,730 357,726 338,720 319,720 300,730 250,730 221,729 209,729 134,729 118,729 104,726" baseline="104,726 721,725 960,725" reason: differs: "tf.—Wes" against "f. – We" | Wikisource:  | next_nc_e1: Kuhn, (A.) Westf. — Westfälische Sagen, Gebräuche und Märchen (I–II. | german_print2_15: Kuhn, (A.) Westf. — Westfälische Sagen, Gebräuche und Märchen ((—II. -->
+			<!-- line left out: id="r1l15" points="173,742 209,742 254,742 254,756 270,742 323,742 323,756 325,756 325,760 323,764 259,765 222,765 207,765 202,761 185,765 173,765" baseline="173,760 325,760" reason: second model: differs: "Leip" against "I–II" | Wikisource: Leipzig, 1859). | next_nc_e1: Leipzig, 1859).
+ | german_print2_15: Leipzig, 1850).
+ -->
+			<!-- line left out: id="r1l16" points="104,776 168,776 181,781 181,790 197,776 221,776 221,790 237,776 257,776 269,777 281,786 300,786 313,776 333,776 510,776 598,776 612,781 612,790 627,776 640,776 654,780 662,776 706,776 706,790 721,781 733,776 748,776 760,781 760,775 773,775 792,776 852,776 865,780 874,776 889,776 944,776 944,786 958,786 958,788 944,788 944,797 912,799 884,799 865,799 792,799 761,799 710,799 684,799 654,799 580,799 556,799 517,799 313,795 300,789 281,789 269,798 221,798 185,799 178,799 168,795 164,799 140,799 124,799 104,795" baseline="104,795 958,795" reason: differs: "odnipoh" against "odní po" | Wikisource:  | next_nc_e1: Kulda, (B. M.) – Moravské národni pohádky, povḗsti, obyḗeje a povëry (I— | german_print2_15: Kulda, (B. M.) — Moravské närodni pohädky, povösti, obyëeje a povéry (([(— -->
+			<!-- line left out: id="r1l17" points="173,810 194,810 194,824 209,815 224,815 224,824 239,810 257,810 279,810 299,810 371,806 381,806 445,811 445,833 381,833 381,839 371,839 371,833 343,833 308,833 279,833 263,833 198,829 184,829 173,829" baseline="173,828 197,828 387,829 445,830" reason: differs: "II.v" against "ry (" | Wikisource:  | next_nc_e1: II. v. Praze, 1874 — 1875).
+ | german_print2_15: II. v. Praze, 1874 — 1875).
+ -->
+			<!-- line left out: id="r1l18" points="104,844 132,844 188,844 188,858 203,846 209,844 222,844 233,845 246,854 265,854 277,844 312,844 364,845 430,845 453,845 479,845 496,844 542,844 564,844 670,845 676,846 676,858 680,858 680,863 676,866 666,866 644,866 612,867 564,867 538,867 514,867 498,867 430,868 382,868 370,868 277,863 265,857 246,857 233,866 211,866 192,867 180,867 156,867 132,867 116,867 104,863" baseline="104,863 680,863" reason: differs: "Kund" against "875)" | Wikisource:  | next_nc_e1: Kunder, (J.) — Eesti Muinasjutud (Rakweres, 1885).
+ | german_print2_15: Kunder, (J.) — Eesti Muinasjutud (Rakweres, 1885).
+ -->
+			<!-- line left out: id="r1l19" points="104,879 152,879 171,879 176,880 176,893 190,878 213,878 224,883 227,879 235,879 248,888 267,888 285,879 319,879 381,879 408,879 466,879 486,879 525,879 548,879 575,879 680,879 707,879 749,879 814,879 869,883 878,879 917,879 960,883 960,897 907,901 869,901 814,901 707,902 430,903 408,903 381,903 344,903 319,903 294,903 285,903 267,892 248,892 235,900 213,900 179,902 171,902 152,902 118,902 104,897" baseline="104,897 960,897" reason: second model: differs: "Köst" against "885)" | Wikisource: Köster, (Fr.) – Alterthümer, Geschichten und Sagen der Herzogsthümer | next_nc_e1: Köster, (Fr.) – Alterthümer, Geschichten und Sagen der Herzogsthümer | german_print2_15: Köster, (Fr.) — Alterthümer, Geschichten und Sagen der Herzogsthümer -->
+			<TextLine id="r1l20" custom="readingOrder {index:20;}">
+				<Coords points="173,913 191,913 241,913 323,913 343,913 421,913 443,913 467,913 484,918 484,928 500,914 553,914 553,928 556,928 556,933 553,935 488,937 467,937 443,937 429,937 173,932" />
+				<Baseline points="173,932 556,933" />
+				<TextEquiv index="1">
+					<Unicode>Bremen und Verden (Stade, 1856).</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l21" points="104,948 112,947 183,947 226,947 332,948 336,948 350,958 368,958 382,948 398,948 443,948 480,948 568,949 684,948 700,948 746,948 782,948 852,948 874,948 937,948 943,958 957,958 957,960 943,960 937,970 922,970 824,967 746,967 618,971 582,971 554,971 480,972 443,972 420,972 336,967 278,967 112,966 112,956 104,956" baseline="104,966 957,966" reason: differs: "le.—Cro" against "e. – Cr" | Wikisource:  | next_nc_e1: Laisnel de La Salle. — Croyances et Légends du Centre de la France ( — | german_print2_15: Laisnel de La Salle. — Croyances et Légends du Centre de la France ([(— -->
+			<TextLine id="r1l22" custom="readingOrder {index:22;}">
+				<Coords points="173,982 233,982 256,983 268,988 268,997 283,983 339,984 339,1005 324,1005 306,1005 272,1005 233,1005 220,1005 173,1001" />
+				<Baseline points="173,1001 339,1002" />
+				<TextEquiv index="1">
+					<Unicode>II. Paris, 1875).</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l23" points="104,1016 204,1016 204,1030 218,1016 242,1016 315,1017 315,1031 331,1026 350,1026 362,1017 381,1017 431,1017 468,1017 508,1017 605,1018 628,1022 636,1023 653,1017 690,1017 727,1017 733,1019 755,1017 778,1017 838,1017 912,1017 936,1017 960,1022 960,1035 948,1036 912,1036 846,1036 636,1037 587,1037 578,1037 317,1036 253,1038 242,1039 181,1039 128,1039 104,1039" baseline="104,1035 960,1035" reason: differs: "nt.—Der" against "t. – De" | Wikisource:  | next_nc_e1: Liebrecht, (F.) Pent. — Der Pentamerone oder: das Märchen aller Märchen | german_print2_15: Liebrecht, (F.) Pent. — Der Pentamerone oder: das Märchen aller Märchen -->
+			<!-- line left out: id="r1l24" points="174,1055 225,1051 251,1051 286,1051 298,1052 336,1052 344,1051 358,1051 435,1052 466,1047 478,1047 478,1062 487,1062 494,1047 504,1047 516,1052 516,1066 531,1052 549,1052 590,1052 616,1057 616,1066 633,1052 686,1052 686,1066 688,1066 688,1070 686,1073 621,1075 615,1075 603,1071 572,1071 549,1071 504,1071 504,1079 494,1079 487,1065 478,1065 478,1079 466,1079 457,1074 248,1070 225,1070 188,1069 174,1068" baseline="174,1069 225,1069 688,1070" reason: second model: differs: "vonG" against "rche" | Wikisource: von Giambattista Basile (I–II. Breslau, 1846). | next_nc_e1: von Giambattista Basile (I– II. Breslau, 1846).
+ | german_print2_15: von Giambattista Basile ((ͤ—II. Breslau, 1846).
+ -->
+			<!-- line left out: id="r1l25" points="104,1084 204,1084 204,1099 218,1085 242,1085 372,1086 372,1100 390,1096 408,1096 421,1086 446,1086 496,1086 550,1086 590,1086 645,1086 665,1086 678,1087 697,1086 713,1086 729,1091 729,1100 745,1086 796,1086 801,1087 801,1108 767,1108 733,1109 713,1109 697,1109 678,1105 645,1109 621,1109 612,1109 421,1105 408,1099 390,1099 376,1105 253,1107 242,1107 181,1107 137,1107 116,1107 104,1107" baseline="104,1103 801,1105" reason: second model: differs: "Lieb" against "846)" | Wikisource: Liebrecht, (F.) Z. Volksk. – Zur Volkskunde (Heilbronn, 1879). | next_nc_e1: Liebrecht, (F.) Z. Volksk. – Zur Volkskunde (Heilbronn, 1879).
+ | german_print2_15: Liebrecht, (F.) Z. Volksk-. — Zur Volkskunde (Heilbronn, 1879).
+ -->
+			<!-- line left out: id="r1l26" points="104,1120 201,1120 201,1126 213,1126 224,1120 247,1120 247,1134 263,1121 294,1121 307,1131 325,1131 338,1121 366,1121 418,1121 462,1121 482,1121 501,1121 567,1121 578,1122 588,1121 626,1121 660,1121 660,1135 676,1121 725,1121 732,1122 732,1142 696,1142 665,1144 659,1144 631,1140 626,1144 602,1144 567,1144 551,1144 542,1143 482,1144 449,1144 403,1144 382,1140 349,1140 338,1139 307,1134 294,1142 247,1142 213,1143 156,1143 119,1143 104,1143" baseline="104,1139 522,1139 732,1140" reason: second model: differs: "Lind" against "879)" | Wikisource: Lindholm, (P. A.) – Hos Lappbönder (Stockholm, 1884). | next_nc_e1: Lindholm, (P. A.) – Hos Lappbönder (Stockholm, 1884).
+ | german_print2_15: Lindholm, (P. A.) — Hos Lappbönder (Stockholm, 1884).
+ -->
+			<!-- line left out: id="r1l27" points="105,1155 200,1155 211,1156 223,1164 242,1164 255,1155 286,1155 328,1155 365,1155 415,1155 430,1157 440,1155 456,1155 504,1155 543,1155 565,1155 587,1161 600,1160 637,1155 660,1155 672,1156 682,1155 720,1155 771,1155 794,1159 806,1155 814,1154 829,1154 868,1154 943,1154 955,1159 955,1168 958,1168 958,1177 931,1177 898,1177 889,1177 726,1174 565,1178 527,1178 513,1175 504,1178 498,1178 468,1175 430,1175 400,1175 279,1174 255,1174 242,1168 223,1168 211,1176 200,1177 105,1177" baseline="105,1173 958,1173" reason: second model: differs: "Lowe" against "884)" | Wikisource: Löwe, (F.) – Ehstnische Märchen aufgez. von Friedrich Kreutzwald (Halle, | next_nc_e1: Lōwe, (F.) – Ehstnische Märchen aufgez. von Friedrich Kreutzwald (Halle, | german_print2_15: Lowe, (F.) — Ehstnische Märchen aufgez. von Friedrich Kreutzwald (Halle, -->
+			<TextLine id="r1l28" custom="readingOrder {index:28;}">
+				<Coords points="176,1189 224,1189 231,1190 231,1211 198,1211 184,1211 176,1207" />
+				<Baseline points="176,1207 231,1208" />
+				<TextEquiv index="1">
+					<Unicode>1869).</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l29" points="106,1223 136,1223 136,1229 159,1229 159,1223 172,1223 172,1229 195,1224 219,1224 230,1225 243,1233 262,1233 274,1223 308,1223 312,1224 367,1224 393,1225 438,1225 464,1225 495,1225 532,1225 582,1224 595,1224 595,1230 612,1229 638,1225 650,1224 665,1224 697,1224 732,1224 779,1224 840,1224 937,1224 937,1245 903,1245 870,1246 835,1246 800,1246 765,1242 765,1248 752,1248 744,1243 719,1248 697,1248 665,1248 613,1248 595,1248 479,1248 425,1248 308,1243 274,1243 262,1236 243,1236 230,1245 219,1246 136,1246 119,1246 106,1242" baseline="106,1242 937,1242" reason: second model: differs: "E.)—Rei" against ".) – Re" | Wikisource: Marno, (E.) – Reise in der egyptischen Aequatorial-Provinz (Wien, 1879). | next_nc_e1: Marno, (E.) – Reise in der egyptischen Aequatorial-Provinz (Wien, 1879).
+ | german_print2_15: Marno, (E.) — Reise in der egyptischen Aequatorial-Provinz (Wien, 1879).
+ -->
+			<!-- line left out: id="r1l30" points="106,1259 120,1258 134,1258 267,1258 278,1259 291,1268 309,1268 323,1258 348,1258 395,1258 455,1259 481,1259 532,1259 625,1259 672,1259 725,1259 759,1263 770,1259 846,1259 883,1258 931,1258 954,1262 960,1266 960,1270 954,1275 943,1276 918,1277 872,1281 846,1281 820,1281 796,1281 770,1281 725,1278 684,1278 455,1278 395,1282 375,1282 365,1281 348,1282 332,1282 323,1277 309,1271 291,1271 278,1280 267,1280 223,1281 134,1281 120,1281 106,1277" baseline="106,1277 871,1276 960,1276" reason: second model: differs: "Müll" against "879)" | Wikisource: Müllenhoff, (K.) – Sagen, Märchen und Lieder der Herzogthümer, Schles | next_nc_e1: Müllenhoff, (K.) – Sagen, Märchen und Lieder der Herzogthümer, Schles- | german_print2_15: Müllenhoff, (K.) — Sagen, Märchen und Lieder der Herzogthümer, Schles- -->
+			<TextLine id="r1l31" custom="readingOrder {index:31;}">
+				<Coords points="175,1292 203,1292 217,1297 217,1307 232,1292 257,1292 272,1292 303,1292 324,1292 335,1298 349,1293 642,1294 642,1315 574,1316 555,1316 475,1316 461,1316 175,1315" />
+				<Baseline points="175,1311 642,1312" />
+				<TextEquiv index="1">
+					<Unicode>wig, Holstein und Lauenburg (Kiel, 1845).</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l32" points="106,1328 125,1327 151,1327 201,1327 218,1326 238,1326 251,1327 263,1328 275,1337 294,1337 307,1327 323,1327 344,1327 362,1327 381,1327 417,1328 572,1328 629,1328 691,1328 696,1329 696,1349 677,1349 661,1349 629,1351 591,1351 578,1351 565,1350 551,1351 541,1351 439,1347 307,1346 275,1341 263,1348 220,1348 201,1349 151,1349 125,1349 106,1346" baseline="106,1345 200,1345 696,1347" reason: second model: differs: "h.)—Cin" against ".) – Ci" | Wikisource: Nerucci, (Gh.) – Cincelle da Bambini (Pistoia, 1881). | next_nc_e1: Nerucci, (Gh.) – Cincelle da Bambini (Pistoia, 1881).
+ | german_print2_15: Nerucci, (Gh.) — Cincelle da Bambini (Pistoia, 1881).
+ -->
+			<!-- line left out: id="r1l33" points="106,1362 119,1361 134,1361 189,1361 221,1361 268,1361 289,1361 336,1362 395,1362 440,1362 484,1362 497,1364 507,1362 548,1362 595,1362 605,1363 615,1362 624,1362 645,1363 671,1362 687,1362 743,1362 756,1371 774,1371 787,1362 799,1361 812,1361 838,1361 912,1360 918,1360 954,1360 954,1371 959,1371 959,1374 954,1379 884,1379 884,1385 861,1385 838,1385 821,1385 799,1385 787,1380 756,1375 743,1381 704,1384 687,1385 583,1385 521,1385 478,1385 462,1385 440,1381 383,1384 336,1384 296,1384 266,1384 243,1384 227,1384 207,1383 170,1385 142,1385 119,1385 106,1381" baseline="106,1380 902,1379 959,1379" reason: differs: "II.—Nyl" against "I. – Ny" | Wikisource:  | next_nc_e1: Nyland (Samlingar utgifna af nyländska afdelningen) II. — Nyländska folk- | german_print2_15: Nyland (Samlingar utgifna af nyländska afdelningen) II. — Nyländska folk- -->
+			<TextLine id="r1l34" custom="readingOrder {index:34;}">
+				<Coords points="177,1400 248,1396 299,1396 299,1410 314,1396 365,1396 365,1410 380,1397 400,1397 400,1410 416,1391 446,1391 446,1397 595,1397 627,1402 627,1411 644,1397 696,1397 696,1411 699,1411 699,1415 696,1418 632,1420 626,1420 592,1420 559,1420 527,1420 504,1420 494,1420 256,1415 222,1418 177,1418" />
+				<Baseline points="177,1414 699,1415" />
+				<TextEquiv index="1">
+					<Unicode>sagor ordn. af G. A. Åberg (Helsingfors, 1887).</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l35" points="109,1430 176,1430 209,1430 247,1430 253,1440 260,1440 260,1430 276,1430 282,1431 288,1430 355,1430 376,1430 390,1430 432,1431 444,1431 462,1441 481,1441 499,1431 536,1431 763,1430 779,1430 811,1430 834,1435 842,1430 922,1430 949,1430 961,1435 961,1451 949,1453 851,1453 834,1448 811,1453 795,1453 791,1449 763,1453 667,1454 662,1455 633,1455 576,1455 561,1449 499,1449 462,1445 444,1453 414,1453 376,1453 355,1453 288,1453 282,1452 274,1452 252,1449 232,1452 224,1452 202,1449 109,1449" baseline="109,1449 961,1448" reason: differs: ".-S)-Ts" against ".-S.)-T" | Wikisource:  | next_nc_e1: Orbeliani (S.-S)-Tsagareli (A.) — Kunnra yxpocr I axn (Cancxr-Ierepypr, | german_print2_15: Orbeliani (S. S)-Tsagareli (A.) — Kaxra MyXpocrI I zKxE (Cancxr-Ierepéypre, -->
+			<!-- line left out: id="r1l36" points="178,1465 186,1465 186,1459 200,1459 219,1459 230,1464 230,1478 233,1478 233,1483 230,1486 219,1486 219,1493 200,1493 186,1493 186,1482 178,1482" baseline="178,1482 233,1483" reason: second model has no such line | Wikisource: 1878). | next_nc_e1: 1878).
+ | german_print2_15:  -->
+			<!-- line left out: id="r1l37" points="107,1506 113,1506 113,1499 149,1499 175,1499 192,1498 212,1498 222,1500 234,1508 253,1508 266,1499 328,1499 328,1513 343,1504 364,1499 378,1499 385,1504 395,1499 411,1499 433,1505 523,1500 572,1500 596,1500 685,1500 726,1500 771,1499 788,1499 789,1510 804,1510 804,1499 838,1499 838,1513 864,1499 900,1499 924,1499 951,1499 961,1504 961,1522 924,1522 887,1522 821,1522 804,1522 804,1512 789,1512 788,1522 649,1523 617,1523 561,1523 492,1519 332,1522 310,1522 287,1522 274,1522 266,1518 253,1512 234,1512 222,1520 194,1520 175,1521 149,1521 128,1521 113,1521 113,1514 107,1514" baseline="107,1517 961,1517" reason: differs: "„Pit" against "Pitr" | Wikisource:  | next_nc_e1: „Pitrè, (G.) – Fiabe, novelle e racconti popolari siciliane (–IV. Palermo, | german_print2_15: -Pitrè, (G.) — Fiabe, novelle e racconti popolari siciliane ([(—IV. Palermo, -->
+			<TextLine id="r1l38" custom="readingOrder {index:38;}">
+				<Coords points="179,1533 227,1533 234,1534 234,1555 213,1555 199,1555 187,1555 179,1551" />
+				<Baseline points="179,1551 234,1552" />
+				<TextEquiv index="1">
+					<Unicode>1875).</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l39" points="107,1568 183,1567 210,1567 316,1568 353,1568 364,1569 378,1578 396,1578 409,1568 433,1568 458,1568 458,1574 477,1569 492,1569 545,1569 662,1569 688,1569 717,1569 758,1568 790,1568 835,1568 875,1573 875,1582 890,1568 926,1568 934,1569 945,1576 962,1576 962,1583 934,1586 926,1587 879,1590 874,1590 861,1587 849,1590 824,1590 790,1590 758,1590 688,1588 558,1592 458,1592 417,1592 409,1587 396,1581 378,1581 364,1590 335,1590 316,1591 254,1591 217,1589 173,1590 107,1590" baseline="107,1588 172,1586 183,1586 962,1586" reason: hyphen at the line end, but the word ends in Wikisource | Wikisource:  | next_nc_e1: Prym (E.) & Socin, (A.) – Syrische Sagen und Märchen (Göttingen, 1881 = | german_print2_15: Prym (E.) & Socin, (A.) — Syrische Sagen und Märchen (Göttingen, 1881 = -->
+			<!-- line left out: id="r1l40" points="178,1602 196,1602 208,1606 263,1603 279,1603 293,1607 315,1603 355,1603 382,1603 429,1603 449,1604 475,1604 508,1604 572,1604 582,1609 588,1614 600,1604 702,1604 702,1618 717,1603 737,1603 761,1604 817,1604 825,1603 839,1603 872,1603 878,1604 878,1624 872,1625 825,1625 706,1622 600,1622 582,1617 582,1623 571,1623 461,1622 442,1622 415,1622 404,1622 228,1621 178,1620" baseline="178,1620 878,1621" reason: differs: "Dern" against "= De" | Wikisource:  | next_nc_e1: Der neuaramäische Dialekt der Tür- Abdin II. Uebersetzung). | german_print2_15: Der neuaramäische Dialekt der Tür- Abdin II. Uebersetzung). -->
+			<TextEquiv index="1">
+				<Unicode>don, 1884).
+von dessen Tochter Wilhelmine (Berlin, 1854).
+1884).
+Bremen und Verden (Stade, 1856).
+II. Paris, 1875).
+1869).
+wig, Holstein und Lauenburg (Kiel, 1845).
+sagor ordn. af G. A. Åberg (Helsingfors, 1887).
+1875).</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Hunt, (M.) – Grimm’s Household Tales with the authors notes (I–II. London, 1884).
+Hyltén-Cavallius, (G. O.) W. o. W. – Wärend och Wirdarne (I–II. Stockholm, 1864–1868).
+Karadschitsch, (Wuk St.) – Volksmärchen der Serben, in’s Deutsche übers. von dessen Tochter Wilhelmine (Berlin, 1854).
+Kletke, (H.) – Märchensaal (I–III. Berlin, 1845).
+Kolmatschevski, (L.) – Животный эпосъ на западѣ и у славянъ (Казань, 1882).
+Krauss, (Fr. S.) – Sagen und Märchen der Südslaven (I–II. Leipzig, 1883–1884).
+Kristensen, (E. T.) – Jyske folkeminder, især fra Hammerum herred (I–II. Kjöbenhavn, 1871–1876).
+Krohn, (K.) – Suomalaisia kansansatuja (I. Helsingissä, 1886).
+Kuhn, (A.) Märk. – Märkische Sagen und Märchen (Berlin, 1843).
+Kuhn, (A.) Westf. – Westfälische Sagen, Gebräuche und Märchen (I–II. Leipzig, 1859).
+Kulda, (B. M.) – Moravské národní pohádky, pověsti, obyčeje a pověry (I–II. v. Praze, 1874–1875).
+Kunder, (J.) – Eesti Muinasjutud (Rakweres, 1885).
+Köster, (Fr.) – Alterthümer, Geschichten und Sagen der Herzogsthümer Bremen und Verden (Stade, 1856).
+Laisnel de La Salle. – Croyances et Légends du Centre de la France (I–II. Paris, 1875).
+Liebrecht, (F.) Pent. – Der Pentamerone oder: das Märchen aller Märchen von Giambattista Basile (I–II. Breslau, 1846).
+Liebrecht, (F.) Z. Volksk. – Zur Volkskunde (Heilbronn, 1879).
+Lindholm, (P. A.) – Hos Lappbönder (Stockholm, 1884).
+Löwe, (F.) – Ehstnische Märchen aufgez. von Friedrich Kreutzwald (Halle, 1869).
+Marno, (E.) – Reise in der egyptischen Aequatorial-Provinz (Wien, 1879).
+Müllenhoff, (K.) – Sagen, Märchen und Lieder der Herzogthümer, Schleswig, Holstein und Lauenburg (Kiel, 1845).
+Nerucci, (Gh.) – Cincelle da Bambini (Pistoia, 1881).
+Nyland (Samlingar utgifna af nyländska afdelningen) II. – Nyländska folksagor ordn. af G. A. Åberg (Helsingfors, 1887).
+Orbeliani (S.-S.)-Tsagareli (A.) – Книга мудрости и лжи (Санскт-Петербургъ, 1878).
+Pitré, (G.) – Fiabe, novelle e racconti popolari siciliane (I–IV. Palermo, 1875).
+Prym (E.) & Socin, (A.) – Syrische Sagen und Märchen (Göttingen, 1881 = Der neuaramäische Dialekt der Tûr- ’Abdîn II. Uebersetzung).
+-->
+	</Page>
+</PcGts>

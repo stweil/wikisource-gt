@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:47:10</Created>
+		<LastChange>2026-11-23T18:47:10</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Schmidt_Miscellanea_Silurica_III.djvu/80 revision 3389575 of 2018-08-01T07:32:59Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="schmidt_miscellanea_silurica_1883_0080.png" imageWidth="1360" imageHeight="1870">
+		<ReadingOrder>
+			<OrderedGroup id="ro16099935454414886387" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="248,253 804,253 804,277 248,277" />
+			<!-- line left out: id="r0l0" points="248,257 627,254 656,254 666,259 681,253 696,253 699,259 775,259 775,253 790,253 790,259 804,259 804,277 775,277 274,275 248,275" baseline="248,275 627,272 804,271" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 76 FR. SOHMIDT,
+ | german_print2_15: 76 FnR. SoHMIDT,
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="246,307 1187,307 1187,1519 246,1519" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="247,311 320,312 429,309 439,310 439,323 445,323 459,309 475,309 476,324 492,310 519,310 519,323 535,310 559,310 563,323 582,308 597,308 597,323 614,314 648,309 688,309 709,314 723,308 803,308 803,314 814,314 814,308 887,313 902,307 920,307 969,307 989,307 989,313 1002,313 1002,307 1010,307 1062,307 1087,307 1088,313 1117,308 1130,308 1131,314 1174,314 1175,308 1187,308 1187,327 535,327 524,334 516,334 516,327 459,327 445,333 410,333 373,328 360,334 340,334 326,334 307,334 261,334 247,334" />
+				<Baseline points="247,328 723,326 1187,327" />
+				<TextEquiv index="1">
+					<Unicode>Eurypterus T. III, F. 20, 21. S. auch den Holzschnitt von Pt. bilobus bei Woodward</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l1" points="247,343 255,343 255,357 268,348 279,348 280,357 293,342 307,342 307,357 321,343 348,343 349,357 364,342 381,342 382,357 396,343 422,342 430,342 430,356 444,341 470,341 470,347 489,346 535,341 543,341 579,341 588,346 597,340 621,340 650,341 685,341 714,340 727,340 727,346 773,346 773,340 781,340 839,340 846,342 874,340 889,340 949,340 1003,340 1015,345 1041,340 1054,340 1054,346 1079,345 1102,340 1122,340 1167,341 1177,342 1186,346 1186,358 1122,359 1092,363 1054,363 996,363 986,363 977,357 960,358 927,363 889,363 839,363 799,364 791,364 763,363 751,364 697,364 684,364 678,359 650,359 567,364 552,364 524,360 502,364 430,364 354,365 349,365 284,361 247,361" baseline="247,361 311,360 489,359 798,358 1186,358" reason: second model: differs: "1.c." against "l. c" | Wikisource: l. c. S. 58, F. 10). Das proximale Ende zeigt doppelte Krümmung, dem Vorsprung des 6ten | next_nc_e1: I. c. S. 58, F. 10). Das proximale Ende zeigt doppelte Krümmung, dem Vorsprung des 6ten | german_print2_15: 1. c. S. 58, F. 10). Das proximale Ende zeigt doppelte Krümmung, dem Vorsprung des 6ten -->
+			<!-- line left out: id="r1l2" points="247,374 265,374 279,375 289,374 309,374 360,375 412,374 425,374 461,374 463,388 469,388 476,368 499,368 508,373 518,387 521,373 543,373 561,373 579,373 609,373 638,372 648,372 654,373 664,372 674,372 682,378 717,373 730,373 752,373 794,373 826,372 837,372 847,374 869,372 889,372 923,372 923,378 935,378 935,372 946,372 988,372 988,378 1007,378 1014,372 1028,372 1028,378 1056,373 1069,373 1089,374 1100,378 1108,372 1139,372 1161,372 1161,378 1182,378 1182,387 1186,387 1186,391 1125,391 1089,391 807,391 794,396 771,396 730,396 706,396 561,392 532,392 508,392 499,392 499,401 476,401 382,397 368,397 309,393 279,393 247,393" baseline="247,393 320,392 507,391 1006,390 1186,390" reason: differs: "das‚dis" against "as dist" | Wikisource:  | next_nc_e1: Gliedes entsprechend, das ‚distale ist tief ausgebuchtet für die Aufnahme des 8ten Gliedes. | german_print2_15: Gliedes entsprechend, das, distale ist tief ausgebuchtet für die Aufnahme des Sten Gliedes. -->
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="246,406 270,406 270,412 288,412 296,406 355,406 355,412 368,411 378,406 407,405 421,405 421,411 441,406 461,405 487,405 496,411 507,406 543,410 552,405 566,405 566,411 586,411 586,405 596,405 596,411 614,411 624,405 665,406 695,410 705,405 863,404 863,410 886,410 893,404 965,404 1013,410 1020,404 1033,404 1033,410 1054,410 1063,404 1115,405 1125,402 1137,402 1146,410 1180,410 1186,415 1186,418 1180,422 1076,423 1013,427 850,422 850,428 837,428 837,422 788,428 775,428 508,424 246,424" />
+				<Baseline points="246,424 1186,422" />
+				<TextEquiv index="1">
+					<Unicode>Von der Bucht verläuft ein scharfer Kiel nach dem proximalen Fortsatz zu, der bei den ver-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="248,444 256,444 256,438 272,438 277,443 288,444 288,438 301,438 309,440 346,438 501,439 533,443 533,437 565,437 572,439 732,436 745,436 839,438 933,436 946,436 963,436 975,436 975,442 1020,442 1032,436 1086,436 1086,442 1113,436 1126,436 1126,442 1180,442 1187,446 1187,450 1180,450 1180,459 1155,459 1144,454 1126,460 1113,460 1113,454 1098,454 1098,460 1032,460 986,455 795,455 795,462 783,462 783,455 722,460 671,460 648,456 476,456 376,461 346,461 331,457 248,456" />
+				<Baseline points="248,456 1187,454" />
+				<TextEquiv index="1">
+					<Unicode>wandten englischen Arten nicht erwähnt wird, bei dem sonst verschiedenen Pterygotus ang-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l5" points="247,470 293,470 331,470 396,470 439,470 466,470 521,470 522,484 542,475 554,475 554,484 576,469 592,469 592,483 598,483 607,469 627,469 633,470 660,475 660,469 667,469 667,475 703,474 714,469 728,469 771,469 816,468 832,468 832,474 845,474 845,468 859,468 885,468 885,474 921,474 937,468 945,468 965,468 965,474 988,470 999,468 1061,468 1061,474 1088,469 1108,469 1134,467 1152,467 1166,468 1187,468 1187,486 1074,487 1046,487 1036,486 1015,492 988,492 988,486 977,487 964,487 945,486 945,492 937,492 908,491 885,487 832,491 816,491 807,486 784,492 751,492 728,492 714,492 689,488 678,488 649,487 633,493 626,493 626,487 598,488 558,488 542,488 514,487 466,493 373,493 365,493 293,489 253,489 247,488" baseline="247,488 542,487 920,486 1187,486" reason: second model: differs: "ardI1.c" against "rd l. c" | Wikisource: licus aber (Woodward l. c. T. V) eine mächtige Ausbildung erlangt. Das 8te Glied | next_nc_e1: licus aber (Woodward I. c. T. V) eine mächtige Ausbildung erlangt. Das 8te Glied | german_print2_15: licus aber (Woodward I1. c. T. V) eine mächtige Ausbildung erlangt. Das S8te Glied -->
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="249,503 303,502 304,504 322,502 322,508 349,503 413,502 414,508 440,508 441,502 464,502 464,508 478,508 488,502 638,502 665,504 675,502 753,501 753,507 767,502 781,502 784,514 794,514 804,507 839,506 850,500 855,500 929,500 949,500 949,506 962,506 971,500 987,500 987,506 1026,506 1030,515 1044,506 1073,506 1083,500 1108,500 1118,505 1124,500 1146,500 1155,506 1180,505 1187,510 1187,513 1180,518 1168,523 1030,523 949,518 949,524 935,524 935,518 895,518 895,524 882,524 875,519 855,524 804,519 794,525 604,524 478,521 349,520 315,526 281,526 256,526 249,526" />
+				<Baseline points="249,521 1187,517" />
+				<TextEquiv index="1">
+					<Unicode>(Dactylos bei Woodw. oder ovale Palette) ist flach, von elliptischer Form, am Rande ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l7" points="247,540 258,537 269,535 287,535 308,536 327,535 340,535 356,540 356,534 381,534 396,534 396,540 484,540 484,534 491,534 491,540 501,540 514,534 526,534 578,534 606,534 627,534 648,534 719,539 719,533 732,533 776,533 795,535 795,547 814,533 850,532 856,532 856,538 871,533 886,532 899,532 899,538 911,533 924,533 946,532 954,532 963,538 989,538 989,532 1002,532 1009,533 1039,538 1039,532 1048,532 1095,532 1106,537 1134,532 1157,532 1168,537 1179,538 1186,542 1186,545 1179,550 1147,551 1048,551 1030,551 990,551 954,551 887,551 732,556 704,556 693,552 648,556 627,556 426,557 412,557 351,553 308,556 287,556 276,556 258,553 247,552" baseline="247,553 403,552 669,551 953,550 1186,550" reason: differs: "lauechh" against " auch h" | Wikisource:  | next_nc_e1: zähnt, ebenfalls ganz wie bei Eurypterus ausgebildet. Es artikulirte wohl auech hier schee- | german_print2_15: zühnt, ebenfalls ganz wie bei Eurypterus ausgebildet. Es artikulirte wohl auch hier schee- -->
+			<!-- line left out: id="r1l8" points="247,572 280,572 280,566 291,566 300,569 327,567 334,567 398,566 411,566 411,572 438,572 450,566 464,566 490,566 490,572 501,571 511,566 531,566 531,572 544,571 555,571 566,572 580,565 611,565 616,566 626,565 635,565 672,567 682,565 722,565 722,571 755,566 768,566 778,567 800,570 811,564 834,564 843,565 867,565 886,570 887,579 906,565 923,565 991,565 1008,565 1054,564 1083,564 1083,570 1093,570 1102,564 1123,564 1123,570 1143,565 1166,565 1176,566 1186,570 1186,582 1068,583 1019,583 923,583 867,583 722,584 683,584 661,584 627,584 611,584 544,589 456,589 450,589 364,585 355,584 346,590 333,590 333,584 310,585 247,585" baseline="247,585 388,584 694,583 1029,582 1186,582" reason: second model: differs: "desSten" against "es 8ten" | Wikisource: renförmig mit dem dreieckigen Schaltstück des 7ten Gliedes. Am distalen Ende des 8ten | next_nc_e1: renförmig mit dem dreieckigen Schaltstück des 7ten Gliedes. Am distalen Ende des 8ten | german_print2_15: renförmig mit dem dreieckigen Schaltstück des 7ten Gliedes. Am distalen Ende des Sten -->
+			<!-- line left out: id="r1l9" points="247,598 265,598 278,599 301,599 363,599 406,600 456,604 466,598 480,598 493,603 537,604 546,598 564,598 623,598 656,603 656,597 667,597 676,599 686,597 699,597 708,600 720,603 732,597 745,597 752,598 769,598 816,597 834,597 857,597 885,597 928,596 952,596 954,602 981,597 989,596 1007,596 1007,602 1041,602 1041,611 1057,598 1071,597 1084,597 1085,610 1100,596 1121,596 1156,598 1169,597 1186,597 1186,620 1169,620 1169,614 1090,619 1085,619 1070,615 1041,619 1007,620 989,620 954,615 928,614 928,620 920,620 879,615 857,615 708,616 699,621 676,621 676,615 647,615 647,621 633,621 633,615 596,616 493,621 474,621 466,621 363,617 320,617 247,617" baseline="247,617 405,616 604,615 1017,614 1186,614" reason: second model: differs: "Glie" against "8ten" | Wikisource: Gliedes erkennt man Spuren eines eingefügten kleinen Endzahns (Woodw. p. 58, F. 10 u), | next_nc_e1: Gliedes erkennt man Spuren eines eingefügten kleinen Endzahns (Woodw. p. 58, F. 10 u), | german_print2_15: Gliedes erkennt man Spuren eines eingefügten kleinen Endzahns (Woodw. p. 58, F. 10 u*), -->
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="247,631 353,631 373,632 385,636 394,630 412,630 448,631 458,636 467,630 557,630 557,636 571,630 721,630 730,631 730,644 749,629 790,629 799,635 822,634 838,629 851,629 879,634 886,628 910,628 910,634 947,630 966,630 977,634 987,628 1007,628 1029,628 1029,634 1077,634 1077,628 1114,628 1176,634 1176,628 1186,628 1186,646 1067,651 1053,651 1033,647 1029,651 993,651 966,647 948,652 935,652 923,647 910,646 910,652 894,652 862,647 681,647 681,653 660,653 647,653 639,648 617,653 598,653 572,653 534,653 521,653 481,649 247,649" />
+				<Baseline points="247,649 1186,646" />
+				<TextEquiv index="1">
+					<Unicode>der dem 9ten Gliede bei Eurypterus entspricht. Wie aus dem Gesagten hervorgeht ist auch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="247,663 389,663 421,668 421,662 429,662 429,668 463,668 476,662 492,662 492,668 523,668 532,662 708,662 727,663 736,667 750,661 768,661 791,661 791,667 821,667 821,661 829,661 829,667 849,667 849,661 865,661 889,661 901,666 938,667 951,661 995,661 995,667 1006,667 1006,661 1046,661 1046,667 1068,667 1082,661 1089,661 1132,661 1165,661 1165,667 1186,667 1186,679 1125,684 1089,684 938,684 889,684 875,684 802,680 247,681" />
+				<Baseline points="247,681 1186,679" />
+				<TextEquiv index="1">
+					<Unicode>im Bau der einzelnen Fuss-Glieder die nächste Uebereinstimmung da mit den englischen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l12" custom="readingOrder {index:12;}">
+				<Coords points="248,696 294,696 306,701 316,695 335,695 335,710 347,695 497,695 516,700 525,694 539,694 540,700 553,695 575,696 575,712 497,718 466,718 248,714" />
+				<Baseline points="248,713 575,712" />
+				<TextEquiv index="1">
+					<Unicode>Arten P. bilobus und gigas Salt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l13" custom="readingOrder {index:13;}">
+				<Coords points="301,727 453,727 475,732 483,726 498,726 498,732 520,728 574,732 587,726 671,726 671,732 682,732 682,726 695,726 705,731 716,732 716,726 723,726 745,731 824,726 886,726 897,731 901,723 929,723 929,731 971,725 1141,725 1141,731 1152,726 1164,726 1186,731 1186,744 1119,744 1059,749 929,744 837,744 815,749 657,749 633,745 521,744 521,750 488,750 483,750 301,745" />
+				<Baseline points="301,745 1186,744" />
+				<TextEquiv index="1">
+					<Unicode>Das Metastoma liegt uns in 3 Exemplaren vor, die wir sämmtlich abgebildet haben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l14" custom="readingOrder {index:14;}">
+				<Coords points="247,761 253,759 270,759 271,773 286,759 315,759 315,774 330,759 346,759 346,773 362,760 375,760 376,773 392,760 405,760 414,765 423,759 440,759 440,773 456,759 514,759 515,773 531,760 543,759 552,759 554,765 634,764 634,758 647,758 647,764 675,764 687,758 699,758 752,764 752,758 766,758 766,764 789,764 803,758 829,758 867,764 869,758 882,758 908,763 908,757 921,757 948,757 1004,758 1092,763 1102,757 1129,757 1129,763 1186,763 1186,776 1172,781 1158,781 1135,776 1129,781 961,781 921,777 855,776 584,777 552,782 466,782 466,776 414,781 381,782 315,782 255,777 255,783 247,783" />
+				<Baseline points="247,777 1186,776" />
+				<TextEquiv index="1">
+					<Unicode>(T. IV, F. 2, 8; T. VI, F. 5); ausserdem hat schon Nieszkowski (Zusätze zur Monogr.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l15" custom="readingOrder {index:15;}">
+				<Coords points="246,791 260,791 260,805 275,791 314,791 314,797 325,797 325,791 338,791 338,806 355,791 368,791 388,796 402,790 447,790 447,796 514,796 514,805 533,791 630,791 642,796 655,790 665,790 685,796 698,790 723,790 758,796 758,790 772,790 772,804 792,789 809,789 816,790 828,795 842,804 857,790 893,792 893,800 938,790 983,790 995,795 1005,790 1053,790 1053,796 1074,796 1087,790 1096,790 1099,805 1118,790 1181,790 1181,805 1185,805 1185,813 1118,808 1104,814 1099,814 1096,808 893,808 842,813 837,813 828,808 533,808 480,814 447,814 426,814 411,814 246,809" />
+				<Baseline points="246,809 1185,808" />
+				<TextEquiv index="1">
+					<Unicode>d. Trilob. der Ostseeprov. im Archiv für Naturk. Liv-, Est- und Kurl. Ser. I, Bd. II,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l16" custom="readingOrder {index:16;}">
+				<Coords points="248,828 262,828 262,837 278,824 318,824 319,837 334,823 350,823 351,837 365,823 376,823 376,837 390,823 407,823 407,837 425,824 583,823 609,828 643,823 770,823 780,824 790,828 803,822 830,822 830,828 887,828 901,822 904,822 925,822 925,828 936,827 946,822 985,822 1004,824 1006,837 1012,837 1023,822 1037,822 1037,828 1056,828 1065,822 1089,822 1091,828 1116,828 1117,822 1131,822 1132,828 1175,828 1175,822 1187,822 1187,840 1012,845 901,845 830,841 770,846 750,846 722,846 457,846 381,846 324,846 262,846 248,846" />
+				<Baseline points="248,841 1187,840" />
+				<TextEquiv index="1">
+					<Unicode>p. 382, T. I, F. 19) ein solches aus dem Dorpater Museum abgebildet, das Woodward</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l17" custom="readingOrder {index:17;}">
+				<Coords points="248,855 263,855 263,870 279,860 291,860 291,870 306,861 319,861 319,869 336,857 376,856 377,870 392,855 408,855 409,869 427,856 572,856 572,869 587,860 612,861 612,855 651,855 749,860 762,854 779,854 820,860 833,854 849,854 850,869 867,854 885,854 886,868 902,854 923,854 946,855 976,860 976,854 989,854 1008,860 1020,859 1031,854 1044,854 1044,860 1054,860 1063,854 1076,854 1116,854 1171,854 1177,855 1186,860 1186,872 891,877 854,873 811,873 798,878 784,878 651,874 577,878 512,878 461,878 382,878 377,878 362,874 319,878 256,878 248,878" />
+				<Baseline points="248,873 1186,872" />
+				<TextEquiv index="1">
+					<Unicode>(l. c. p. 180, F. 71) copirt hat, und das unsrer Figur T. V, F. 8 sehr nahe kommt. Die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l18" custom="readingOrder {index:18;}">
+				<Coords points="247,887 387,887 397,889 397,901 416,893 439,892 450,887 480,887 491,892 507,893 507,887 564,887 564,893 578,893 578,902 596,893 608,893 608,887 698,889 800,887 800,893 812,893 812,887 865,889 916,887 956,892 966,886 984,886 984,892 995,887 1133,889 1133,901 1153,887 1176,887 1186,892 1186,905 1063,910 1026,910 892,905 596,905 582,911 577,911 520,905 520,911 507,911 507,905 457,905 401,910 347,910 247,905" />
+				<Baseline points="247,905 1186,905" />
+				<TextEquiv index="1">
+					<Unicode>Form ist breit, oval-herzförmig, nach hinten verschmälert und am Ende abgestutzt. Die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l19" custom="readingOrder {index:19;}">
+				<Coords points="247,925 269,921 308,921 318,925 326,919 349,919 354,924 364,919 380,919 380,925 389,925 398,918 436,919 465,925 481,925 481,919 489,919 489,925 535,925 543,912 554,912 554,919 561,919 561,925 573,925 573,912 596,912 602,919 616,919 616,925 641,920 681,920 703,925 708,919 1165,919 1178,924 1185,929 1185,932 1178,937 912,942 856,942 842,942 753,938 554,938 297,942 260,942 247,942" />
+				<Baseline points="247,937 1185,937" />
+				<TextEquiv index="1">
+					<Unicode>grösste Breite finden wir am Ende des ersten Drittels der Länge (von der Einbucht zum Hin-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l20" custom="readingOrder {index:20;}">
+				<Coords points="247,953 257,953 277,957 277,951 289,951 289,957 310,957 310,951 323,951 323,957 365,956 396,951 410,951 427,951 449,952 457,957 466,951 486,951 486,957 495,957 505,951 522,951 534,953 651,952 675,957 675,951 701,951 715,957 757,956 815,951 834,951 876,951 919,951 941,951 962,956 962,965 981,951 1005,951 1038,951 1067,951 1185,956 1185,968 1125,974 763,974 638,974 558,974 457,974 427,974 355,974 341,974 323,970 247,970" />
+				<Baseline points="247,969 1185,969" />
+				<TextEquiv index="1">
+					<Unicode>terrande gerechnet); die Länge ist 1,4 mal so gross als die Breite. Die beiden grössern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l21" points="247,983 265,983 265,989 283,989 283,983 297,983 297,989 318,984 331,983 343,983 343,989 358,989 360,997 378,983 391,983 452,983 453,989 490,989 491,983 505,983 519,988 531,989 531,983 545,983 580,983 581,989 601,989 601,983 615,983 615,989 638,988 651,988 664,989 664,983 702,983 702,989 722,989 735,983 751,983 752,997 771,983 799,983 799,997 805,997 819,983 835,983 836,998 856,984 883,983 889,983 907,983 919,988 929,983 968,983 989,983 1043,984 1079,988 1095,989 1106,983 1113,983 1135,988 1148,989 1157,983 1170,983 1185,983 1185,1001 1170,1002 1148,1006 1016,1006 989,1006 919,1006 889,1006 805,1006 799,1006 714,1002 625,1002 602,1002 545,1002 365,1005 343,1006 319,1006 297,1006 283,1006 247,1002" baseline="247,1001 1185,1001" reason: differs: "ski'sch" against "ski’sch" | Wikisource:  | next_nc_e1: Exemplare, das Nieszkowski'sche und das T. IV, F. 8 abgebildete (92 mm. lang bei | german_print2_15: Exemplare, das Nieszkowski'sche und das T. IV, F. 8 abgebildete (92 mm. lang bei -->
+			<TextLine id="r1l22" custom="readingOrder {index:22;}">
+				<Coords points="248,1017 569,1016 591,1021 605,1015 620,1015 656,1017 700,1015 712,1015 732,1015 732,1021 791,1021 791,1015 803,1015 817,1021 861,1015 869,1015 869,1021 880,1021 880,1015 892,1015 908,1017 915,1015 923,1015 945,1020 1000,1015 1045,1015 1047,1030 1063,1021 1090,1015 1097,1015 1097,1021 1136,1021 1136,1015 1170,1015 1185,1020 1185,1033 1052,1038 1012,1038 980,1038 935,1038 892,1038 852,1038 838,1038 712,1034 466,1034 392,1038 386,1038 350,1034 342,1038 337,1038 248,1034" />
+				<Baseline points="248,1034 1185,1033" />
+				<TextEquiv index="1">
+					<Unicode>65 mm. breit) erscheinen an den Seiten stärker und regelmässiger gewölbt, während die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l23" custom="readingOrder {index:23;}">
+				<Coords points="247,1048 358,1048 403,1053 413,1047 427,1047 447,1049 457,1047 471,1047 471,1053 524,1048 565,1048 587,1050 669,1048 771,1052 880,1053 890,1047 906,1047 906,1053 918,1053 918,1047 959,1047 1001,1047 1039,1048 1074,1053 1084,1047 1097,1047 1104,1048 1114,1053 1124,1047 1138,1047 1138,1053 1149,1053 1149,1047 1155,1047 1185,1053 1185,1065 976,1066 859,1070 815,1070 771,1070 759,1070 743,1066 247,1067" />
+				<Baseline points="247,1066 1185,1065" />
+				<TextEquiv index="1">
+					<Unicode>beiden kleinern Stücke nach hinten stärker zusammengezogen sind und bei ihnen die Seiten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l24" custom="readingOrder {index:24;}">
+				<Coords points="247,1085 255,1080 303,1079 316,1079 341,1079 398,1085 407,1079 427,1079 443,1081 602,1080 625,1085 625,1079 636,1079 636,1085 655,1085 657,1094 676,1080 695,1080 715,1085 726,1079 740,1079 762,1082 772,1080 814,1080 814,1094 834,1079 862,1079 865,1093 885,1079 906,1079 1006,1080 1059,1085 1069,1079 1076,1079 1076,1085 1112,1085 1120,1079 1134,1079 1150,1079 1185,1080 1185,1097 1112,1102 1099,1102 1088,1098 934,1098 870,1101 819,1098 553,1103 540,1103 515,1098 503,1103 491,1103 355,1098 247,1098" />
+				<Baseline points="247,1098 1185,1097" />
+				<TextEquiv index="1">
+					<Unicode>nach hinten zu fast geradlinig verlaufen. Das Stück T. VI, F. 5 ist 68 mm. lang bei 50</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l25" custom="readingOrder {index:25;}">
+				<Coords points="248,1117 291,1117 300,1111 313,1111 350,1111 350,1126 367,1111 380,1111 392,1116 437,1117 437,1111 450,1111 450,1117 470,1117 482,1111 513,1111 613,1113 713,1112 713,1126 719,1126 726,1112 754,1112 756,1126 768,1112 785,1112 786,1127 799,1113 820,1112 820,1125 826,1125 835,1112 883,1112 895,1117 904,1111 917,1111 928,1116 938,1117 946,1111 963,1111 963,1117 1009,1113 1062,1112 1186,1113 1186,1130 876,1129 826,1135 756,1135 697,1130 697,1136 690,1136 681,1130 490,1130 355,1134 300,1134 248,1130" />
+				<Baseline points="248,1129 1186,1130" />
+				<TextEquiv index="1">
+					<Unicode>mm. breit, das andre kleinere Metastoma (T. IV, F. 2), das in der Form etwa in der Mitte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l26" custom="readingOrder {index:26;}">
+				<Coords points="247,1149 273,1149 273,1143 280,1143 280,1149 298,1149 298,1143 312,1143 323,1148 335,1149 344,1143 357,1143 367,1148 402,1143 415,1143 425,1148 469,1149 469,1143 505,1143 530,1145 605,1144 672,1146 723,1150 731,1144 1186,1145 1186,1162 921,1161 914,1167 893,1167 881,1167 881,1161 868,1162 863,1167 802,1167 779,1167 747,1167 650,1167 637,1167 605,1162 247,1161" />
+				<Baseline points="247,1161 1186,1162" />
+				<TextEquiv index="1">
+					<Unicode>zwischen dem ebenerwähnten und den grössern Exemplaren steht, ist am hintern Ende nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l27" custom="readingOrder {index:27;}">
+				<Coords points="248,1181 254,1181 254,1175 286,1175 315,1177 327,1175 346,1175 346,1181 359,1181 359,1189 379,1174 395,1174 395,1181 417,1181 426,1175 438,1175 450,1180 487,1181 487,1175 512,1175 538,1181 538,1175 552,1175 552,1181 583,1176 620,1177 685,1175 697,1175 697,1181 732,1176 800,1177 840,1181 851,1175 909,1175 909,1190 921,1175 967,1175 967,1181 1009,1176 1111,1176 1141,1181 1150,1175 1186,1177 1186,1194 1150,1194 1141,1199 1098,1199 1085,1199 988,1194 552,1194 512,1199 487,1199 487,1193 359,1198 295,1194 267,1198 254,1198 248,1194" />
+				<Baseline points="248,1193 1186,1194" />
+				<TextEquiv index="1">
+					<Unicode>vollständig. Von den englischen Arten ist das Metastoma bei P. bilobus viel schmäler, fast</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l28" points="249,1208 261,1208 283,1213 283,1207 309,1207 323,1213 344,1213 358,1207 365,1207 377,1212 414,1207 419,1207 473,1207 473,1213 487,1213 487,1207 494,1207 547,1207 549,1213 569,1213 569,1207 583,1207 589,1208 639,1208 663,1213 663,1222 678,1208 694,1208 694,1222 709,1208 756,1208 756,1222 762,1222 772,1208 788,1208 788,1222 805,1209 813,1209 832,1213 839,1214 849,1207 865,1207 865,1222 881,1207 899,1207 926,1207 927,1222 942,1207 958,1207 959,1222 975,1209 988,1209 996,1213 1006,1207 1022,1207 1023,1222 1038,1208 1103,1208 1103,1223 1119,1208 1132,1208 1139,1210 1140,1223 1154,1208 1167,1208 1185,1213 1185,1226 1144,1231 1078,1231 1053,1231 996,1230 991,1230 958,1226 932,1231 927,1231 926,1225 908,1226 839,1228 762,1231 733,1231 721,1231 583,1229 523,1229 401,1230 388,1230 249,1225" baseline="249,1225 515,1225 1185,1226" reason: second model: differs: "dw.1.c." against "w. l. c" | Wikisource: 2 mal so lang als breit (Woodw. l. c. T. XIII, F. 1 e; T. XIV, F. 2; T. XV, F. 3), das | next_nc_e1: 2 mal so lang als breit (Woodw. I. c. T. XIII, F. 1 e; T. XIV, F. 2; T. XV, F. 3), das | german_print2_15: 2 mal so lang als breit (Woodw. 1. c. T. XIII, F. 1 e; T. XIV, F. 2; T. XV, F. 3), das -->
+			<TextLine id="r1l29" custom="readingOrder {index:29;}">
+				<Coords points="248,1245 283,1245 289,1239 342,1239 342,1245 410,1239 424,1239 432,1241 751,1239 764,1239 764,1245 788,1239 807,1239 941,1240 952,1242 969,1240 992,1245 1003,1239 1018,1239 1038,1242 1049,1240 1176,1240 1178,1250 1185,1250 1185,1254 1176,1258 1003,1257 982,1263 969,1264 962,1264 952,1258 918,1263 904,1263 896,1257 550,1263 497,1263 432,1258 353,1262 323,1262 272,1258 248,1258" />
+				<Baseline points="248,1258 1185,1258" />
+				<TextEquiv index="1">
+					<Unicode>von P. gigas nicht vollständig bekannt; das mit Zweifel hierher gehörige Stück bei Wood-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l30" points="248,1277 258,1272 271,1272 326,1272 348,1277 348,1286 363,1277 377,1277 377,1286 393,1272 406,1272 420,1273 421,1286 436,1271 452,1271 453,1285 468,1273 475,1272 516,1272 534,1273 626,1272 647,1272 668,1272 677,1273 706,1272 719,1272 719,1278 758,1278 758,1272 789,1272 813,1272 858,1272 891,1272 913,1272 947,1272 982,1272 982,1286 988,1286 1004,1272 1028,1272 1052,1272 1052,1278 1063,1278 1063,1272 1070,1272 1092,1272 1101,1273 1130,1278 1130,1272 1143,1272 1154,1274 1165,1277 1186,1278 1186,1290 1120,1295 1107,1295 988,1291 913,1291 499,1295 426,1295 377,1295 363,1295 326,1291 313,1291 248,1290" baseline="248,1290 1186,1290" reason: second model: differs: "ard1.c." against "rd l. c" | Wikisource: ward l. c. p. 84, F. 18, ist vorn am breitesten und dadurch abweichend. Vielleicht gehören | next_nc_e1: ward I. c. p. 84, F. 18, ist vorn am breitesten und dadurch abweichend. Vielleicht gehören | german_print2_15: ward 1. c. p. 84, F. 18, ist vorn am breitesten und dadurch abweichend. Vielleicht gehören -->
+			<!-- line left out: id="r1l31" points="248,1304 267,1304 416,1304 438,1309 451,1303 465,1303 482,1304 492,1305 502,1309 580,1309 623,1304 648,1304 675,1304 694,1304 703,1306 732,1309 754,1305 762,1304 778,1304 778,1318 798,1304 807,1303 826,1303 826,1318 832,1318 844,1303 860,1303 861,1318 879,1305 891,1305 926,1304 966,1304 966,1310 976,1310 988,1303 1006,1303 1016,1304 1069,1304 1094,1309 1094,1303 1108,1303 1127,1303 1154,1303 1178,1304 1186,1309 1186,1322 1112,1322 832,1327 763,1327 492,1327 458,1327 300,1327 286,1327 248,1322" baseline="248,1322 1186,1322" reason: second model: differs: "dieg" against "höre" | Wikisource: die grossen an den Seiten convexen Metastomen (T. IV, F. 8 und die Nieszkowski’sche | next_nc_e1: die grossen an den Seiten convexen Metastomen (T. IV, F. 8 und die Nieszkowski’sche | german_print2_15: die grossen an den Seiten convexen Metastomen (T. IV, F. 8 und die Nieszkowski'sche -->
+			<TextLine id="r1l32" custom="readingOrder {index:32;}">
+				<Coords points="248,1336 313,1337 331,1342 331,1336 340,1336 371,1342 379,1336 393,1336 403,1341 435,1342 435,1336 448,1336 459,1341 491,1342 500,1336 636,1336 636,1342 685,1342 694,1336 752,1336 752,1342 785,1342 785,1336 792,1336 792,1342 802,1342 811,1336 997,1336 1015,1341 1024,1335 1038,1335 1069,1335 1082,1335 1104,1335 1104,1341 1128,1336 1168,1336 1186,1341 1186,1354 896,1359 745,1355 685,1359 655,1359 622,1355 479,1355 290,1360 270,1360 264,1355 248,1355" />
+				<Baseline points="248,1354 1186,1354" />
+				<TextEquiv index="1">
+					<Unicode>Figur) einer besonderen Var. laticauda an, auf die wir bei Besprechung des Schwanzschildes</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l33" custom="readingOrder {index:33;}">
+				<Coords points="248,1374 282,1370 295,1370 304,1368 331,1368 342,1373 368,1368 382,1368 401,1373 401,1382 406,1382 406,1386 382,1387 305,1387 294,1387 248,1386" />
+				<Baseline points="248,1386 406,1386" />
+				<TextEquiv index="1">
+					<Unicode>zurückkommen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l34" custom="readingOrder {index:34;}">
+				<Coords points="303,1400 353,1399 370,1399 382,1400 402,1405 402,1399 415,1399 427,1402 436,1399 449,1399 449,1405 460,1405 494,1400 554,1400 554,1406 565,1406 578,1400 627,1400 657,1402 667,1405 683,1399 697,1399 697,1405 708,1400 721,1400 721,1406 781,1405 802,1400 832,1400 857,1405 882,1405 887,1414 907,1400 931,1400 951,1405 962,1406 962,1400 976,1400 1042,1406 1042,1399 1052,1399 1076,1400 1122,1405 1142,1400 1178,1400 1186,1405 1186,1418 891,1423 868,1423 809,1419 759,1423 733,1423 708,1419 627,1419 514,1423 500,1423 303,1418" />
+				<Baseline points="303,1418 1186,1418" />
+				<TextEquiv index="1">
+					<Unicode>Die Oberfläche zeigt die bekannte Schuppenzeichnung, besonders auf der vordern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l35" custom="readingOrder {index:35;}">
+				<Coords points="249,1432 271,1432 315,1432 315,1446 332,1432 358,1432 392,1432 415,1432 415,1438 427,1437 433,1432 447,1432 447,1438 493,1438 493,1432 499,1432 499,1438 511,1438 511,1432 523,1432 543,1437 567,1438 567,1432 580,1432 580,1447 595,1437 614,1432 621,1432 650,1432 650,1438 671,1438 681,1432 697,1432 697,1438 713,1438 713,1432 725,1432 742,1437 753,1438 753,1432 760,1432 830,1438 830,1432 871,1432 871,1438 882,1433 892,1433 914,1438 917,1446 932,1438 977,1438 988,1432 1001,1432 1001,1438 1022,1438 1022,1432 1036,1432 1036,1438 1103,1434 1114,1432 1134,1432 1175,1438 1175,1432 1186,1432 1186,1450 1089,1451 1078,1455 1064,1455 1047,1451 995,1451 917,1455 820,1451 595,1450 585,1456 580,1456 580,1450 463,1455 249,1450" />
+				<Baseline points="249,1450 1186,1450" />
+				<TextEquiv index="1">
+					<Unicode>Hälfte. Die Schuppen sind rund, mit der Convexität nach hinten, vorn flacher gewölbt und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l36" custom="readingOrder {index:36;}">
+				<Coords points="249,1464 270,1464 287,1464 347,1464 384,1464 428,1470 429,1479 444,1470 490,1470 490,1464 497,1464 497,1470 530,1469 555,1464 562,1464 602,1464 616,1470 626,1469 636,1464 649,1464 649,1470 661,1470 661,1464 675,1464 699,1464 699,1470 741,1470 741,1464 755,1464 755,1470 770,1470 770,1464 789,1464 789,1470 823,1470 823,1464 841,1464 870,1470 925,1464 935,1464 962,1464 962,1470 986,1470 986,1479 1005,1464 1023,1464 1030,1465 1040,1470 1049,1464 1071,1464 1071,1470 1093,1470 1093,1464 1107,1464 1146,1470 1154,1464 1168,1464 1178,1469 1187,1470 1187,1482 1023,1483 901,1487 884,1487 870,1487 805,1483 637,1483 597,1487 555,1487 434,1487 429,1487 249,1482" />
+				<Baseline points="249,1482 1187,1483" />
+				<TextEquiv index="1">
+					<Unicode>kleiner als hinten, wo sie zugleich schwächer werden oder ganz fehlen. Die Membran der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l37" custom="readingOrder {index:37;}">
+				<Coords points="249,1496 299,1496 314,1501 323,1496 336,1496 356,1501 361,1495 379,1495 379,1501 402,1501 402,1495 413,1495 431,1495 466,1496 470,1502 515,1502 515,1496 628,1496 638,1498 664,1496 664,1502 684,1502 688,1496 716,1496 740,1498 746,1496 778,1496 778,1502 822,1502 822,1496 856,1498 877,1502 877,1496 884,1496 884,1502 971,1502 976,1496 989,1496 989,1502 1016,1502 1022,1496 1055,1496 1055,1502 1068,1497 1075,1497 1086,1502 1086,1496 1122,1496 1122,1502 1142,1502 1147,1496 1163,1496 1164,1510 1175,1497 1185,1497 1185,1514 1122,1515 1068,1519 1031,1519 1022,1519 989,1515 894,1515 856,1519 826,1519 822,1515 575,1519 534,1519 506,1519 431,1519 403,1519 319,1519 299,1519 286,1519 249,1514" />
+				<Baseline points="249,1514 1185,1515" />
+				<TextEquiv index="1">
+					<Unicode>innern, der Kopfhöhle zugekehrten Seite des Metastoma zeigt, wie man an dem Original der F. 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Eurypterus T. III, F. 20, 21. S. auch den Holzschnitt von Pt. bilobus bei Woodward
+Von der Bucht verläuft ein scharfer Kiel nach dem proximalen Fortsatz zu, der bei den ver-
+wandten englischen Arten nicht erwähnt wird, bei dem sonst verschiedenen Pterygotus ang-
+(Dactylos bei Woodw. oder ovale Palette) ist flach, von elliptischer Form, am Rande ge-
+der dem 9ten Gliede bei Eurypterus entspricht. Wie aus dem Gesagten hervorgeht ist auch
+im Bau der einzelnen Fuss-Glieder die nächste Uebereinstimmung da mit den englischen
+Arten P. bilobus und gigas Salt.
+Das Metastoma liegt uns in 3 Exemplaren vor, die wir sämmtlich abgebildet haben
+(T. IV, F. 2, 8; T. VI, F. 5); ausserdem hat schon Nieszkowski (Zusätze zur Monogr.
+d. Trilob. der Ostseeprov. im Archiv für Naturk. Liv-, Est- und Kurl. Ser. I, Bd. II,
+p. 382, T. I, F. 19) ein solches aus dem Dorpater Museum abgebildet, das Woodward
+(l. c. p. 180, F. 71) copirt hat, und das unsrer Figur T. V, F. 8 sehr nahe kommt. Die
+Form ist breit, oval-herzförmig, nach hinten verschmälert und am Ende abgestutzt. Die
+grösste Breite finden wir am Ende des ersten Drittels der Länge (von der Einbucht zum Hin-
+terrande gerechnet); die Länge ist 1,4 mal so gross als die Breite. Die beiden grössern
+65 mm. breit) erscheinen an den Seiten stärker und regelmässiger gewölbt, während die
+beiden kleinern Stücke nach hinten stärker zusammengezogen sind und bei ihnen die Seiten
+nach hinten zu fast geradlinig verlaufen. Das Stück T. VI, F. 5 ist 68 mm. lang bei 50
+mm. breit, das andre kleinere Metastoma (T. IV, F. 2), das in der Form etwa in der Mitte
+zwischen dem ebenerwähnten und den grössern Exemplaren steht, ist am hintern Ende nicht
+vollständig. Von den englischen Arten ist das Metastoma bei P. bilobus viel schmäler, fast
+von P. gigas nicht vollständig bekannt; das mit Zweifel hierher gehörige Stück bei Wood-
+Figur) einer besonderen Var. laticauda an, auf die wir bei Besprechung des Schwanzschildes
+zurückkommen.
+Die Oberfläche zeigt die bekannte Schuppenzeichnung, besonders auf der vordern
+Hälfte. Die Schuppen sind rund, mit der Convexität nach hinten, vorn flacher gewölbt und
+kleiner als hinten, wo sie zugleich schwächer werden oder ganz fehlen. Die Membran der
+innern, der Kopfhöhle zugekehrten Seite des Metastoma zeigt, wie man an dem Original der F. 2</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="249,1527 1198,1527 1198,1552 249,1552" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="249,1533 273,1534 273,1527 282,1527 303,1528 303,1543 316,1528 326,1527 344,1527 345,1542 358,1528 438,1528 444,1534 464,1534 464,1528 477,1528 477,1534 488,1534 492,1528 506,1528 506,1534 547,1530 554,1528 571,1528 571,1543 582,1528 608,1528 608,1534 618,1534 623,1528 640,1528 640,1543 653,1530 858,1529 871,1534 878,1528 1016,1529 1027,1534 1071,1534 1071,1528 1145,1528 1155,1534 1198,1529 1198,1532 1195,1532 1188,1546 1168,1546 1168,1552 1155,1552 1071,1547 1032,1552 976,1552 964,1552 871,1547 705,1552 692,1552 547,1551 477,1547 370,1547 345,1551 308,1547 249,1546" />
+				<Baseline points="249,1546 1198,1547" />
+				<TextEquiv index="1">
+					<Unicode>auf T. IV, deutlich sehn kann (T. Va, F. 16 a), auch am hintern Theil deutliche, nach hinten ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>auf T. IV, deutlich sehn kann (T. Va, F. 16 a), auch am hintern Theil deutliche, nach hinten ge-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Eurypterus T. III, F. 20, 21. S. auch den Holzschnitt von Pt. bilobus bei Woodward l. c. S. 58, F. 10). Das proximale Ende zeigt doppelte Krümmung, dem Vorsprung des 6ten Gliedes entsprechend, das distale ist tief ausgebuchtet für die Aufnahme des 8ten Gliedes. Von der Bucht verläuft ein scharfer Kiel nach dem proximalen Fortsatz zu, der bei den verwandten englischen Arten nicht erwähnt wird, bei dem sonst verschiedenen Pterygotus anglicus aber (Woodward l. c. T. V) eine mächtige Ausbildung erlangt. Das 8te Glied (Dactylos bei Woodw. oder ovale Palette) ist flach, von elliptischer Form, am Rande gezähnt, ebenfalls ganz wie bei Eurypterus ausgebildet. Es artikulirte wohl auch hier scheerenförmig mit dem dreieckigen Schaltstück des 7ten Gliedes. Am distalen Ende des 8ten Gliedes erkennt man Spuren eines eingefügten kleinen Endzahns (Woodw. p. 58, F. 10 u), der dem 9ten Gliede bei Eurypterus entspricht. Wie aus dem Gesagten hervorgeht ist auch im Bau der einzelnen Fuss-Glieder die nächste Uebereinstimmung da mit den englischen Arten P. bilobus und gigas Salt.
+Das Metastoma liegt uns in 3 Exemplaren vor, die wir sämmtlich abgebildet haben (T. IV, F. 2, 8; T. VI, F. 5); ausserdem hat schon Nieszkowski (Zusätze zur Monogr. d. Trilob. der Ostseeprov. im Archiv für Naturk. Liv-, Est- und Kurl. Ser. I, Bd. II, p. 382, T. I, F. 19) ein solches aus dem Dorpater Museum abgebildet, das Woodward (l. c. p. 180, F. 71) copirt hat, und das unsrer Figur T. V, F. 8 sehr nahe kommt. Die Form ist breit, oval-herzförmig, nach hinten verschmälert und am Ende abgestutzt. Die grösste Breite finden wir am Ende des ersten Drittels der Länge (von der Einbucht zum Hinterrande gerechnet); die Länge ist 1,4 mal so gross als die Breite. Die beiden grössern Exemplare, das Nieszkowski’sche und das T. IV, F. 8 abgebildete (92 mm. lang bei 65 mm. breit) erscheinen an den Seiten stärker und regelmässiger gewölbt, während die beiden kleinern Stücke nach hinten stärker zusammengezogen sind und bei ihnen die Seiten nach hinten zu fast geradlinig verlaufen. Das Stück T. VI, F. 5 ist 68 mm. lang bei 50 mm. breit, das andre kleinere Metastoma (T. IV, F. 2), das in der Form etwa in der Mitte zwischen dem ebenerwähnten und den grössern Exemplaren steht, ist am hintern Ende nicht vollständig. Von den englischen Arten ist das Metastoma bei P. bilobus viel schmäler, fast 2 mal so lang als breit (Woodw. l. c. T. XIII, F. 1 e; T. XIV, F. 2; T. XV, F. 3), das von P. gigas nicht vollständig bekannt; das mit Zweifel hierher gehörige Stück bei Woodward l. c. p. 84, F. 18, ist vorn am breitesten und dadurch abweichend. Vielleicht gehören die grossen an den Seiten convexen Metastomen (T. IV, F. 8 und die Nieszkowski’sche Figur) einer besonderen Var. laticauda an, auf die wir bei Besprechung des Schwanzschildes zurückkommen.
+Die Oberfläche zeigt die bekannte Schuppenzeichnung, besonders auf der vordern Hälfte. Die Schuppen sind rund, mit der Convexität nach hinten, vorn flacher gewölbt und kleiner als hinten, wo sie zugleich schwächer werden oder ganz fehlen. Die Membran der innern, der Kopfhöhle zugekehrten Seite des Metastoma zeigt, wie man an dem Original der F. 2 auf T. IV, deutlich sehn kann (T. Va, F. 16 a), auch am hintern Theil deutliche, nach hinten gewandte
+-->
+	</Page>
+</PcGts>

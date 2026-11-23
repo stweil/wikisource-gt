@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:47:34</Created>
+		<LastChange>2026-11-23T18:47:34</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Schnitzler_Traumnovelle.djvu/125 revision 3389799 of 2018-08-01T07:34:17Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="schnitzler_traumnovelle_1926_0125.png" imageWidth="800" imageHeight="1375">
+		<ReadingOrder>
+			<OrderedGroup id="ro557370505874886870" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="294,95 429,95 429,132 294,132" />
+			<!-- line left out: id="r0l0" points="294,113 343,110 354,109 367,109 403,110 403,95 429,95 429,132 403,132 368,128 367,121 343,121 294,116" baseline="294,116 429,116" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 123 —
+ | german_print2_15: — 123 —
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="78,152 640,152 640,1174 78,1174" />
+			<!-- line left out: id="r1l0" points="80,159 104,159 104,152 115,152 115,160 139,160 139,153 153,153 153,159 165,159 178,160 179,168 198,153 213,153 213,160 238,157 247,157 259,160 259,168 277,160 359,160 396,163 404,154 412,154 412,160 426,160 437,154 449,154 486,154 486,160 510,160 511,169 528,161 588,161 588,169 606,161 638,161 638,173 593,177 561,177 516,177 486,177 471,177 426,172 404,172 396,166 373,166 359,172 345,172 335,178 321,178 312,172 263,176 258,176 225,172 184,173 179,173 94,171 94,177 80,177" baseline="80,171 277,171 528,172 638,173" reason: differs: "gefund" against "heute," | Wikisource:  | next_nc_e1: gefunden, heute, morgen — in Jahren, wann, wo | german_print2_15: gefunden. heute, morgen — in Jahren, wann, wo -->
+			<!-- line left out: id="r1l1" points="80,197 107,197 107,190 120,190 134,191 134,197 185,197 185,190 193,190 218,191 218,197 240,197 245,191 265,191 265,197 309,192 318,191 332,191 332,198 362,198 368,192 375,192 398,192 424,192 424,198 440,198 498,199 504,192 527,192 527,198 549,198 569,199 576,192 596,192 617,192 617,199 634,199 634,207 637,207 637,215 634,217 603,217 596,211 576,211 440,210 398,210 382,210 368,209 362,216 349,216 349,209 332,209 332,216 318,216 318,209 299,209 299,216 285,216 285,209 94,209 80,209" baseline="80,209 368,209 637,210" reason: second model: differs: "undi" against "n, w" | Wikisource: und in welcher Umgebung immer – an ihrem Gang, | next_nc_e1: und in welcher Umgebung immer – an ihrem Gang, | german_print2_15: und in welcher Umgebung immer — an ihrem Gang, -->
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="79,229 87,228 102,228 102,235 134,235 142,229 191,229 203,232 209,229 224,229 224,235 251,229 278,229 278,235 298,235 306,229 335,230 335,236 434,235 443,229 470,229 470,237 502,237 511,229 526,229 539,232 597,237 605,231 621,231 621,237 634,237 634,245 637,245 637,253 610,253 605,253 574,249 243,247 234,253 209,253 209,246 191,246 191,253 168,253 155,253 155,246 79,246" />
+				<Baseline points="79,246 637,248" />
+				<TextEquiv index="1">
+					<Unicode>ihrer Haltung, ihrer Stimme vor allem hätte er sie,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="79,272 195,273 208,267 216,267 236,267 236,273 280,273 287,267 302,267 315,271 315,281 335,267 350,267 374,267 404,267 404,274 442,274 442,267 457,267 503,267 525,267 535,268 549,274 562,274 571,268 586,268 586,274 598,274 605,268 618,268 637,272 637,286 525,286 525,292 510,292 510,286 490,286 490,292 457,292 426,292 426,286 374,285 374,292 350,292 335,292 287,291 287,285 216,285 216,291 208,291 195,285 79,284" />
+				<Baseline points="79,284 637,286" />
+				<TextEquiv index="1">
+					<Unicode>so war er überzeugt, unwidersprechlich erkannt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="79,304 106,304 106,312 127,312 141,304 144,304 166,304 166,311 188,311 201,304 204,304 204,312 222,312 222,304 238,304 247,309 344,312 356,306 370,306 370,312 394,312 408,306 471,306 471,312 485,312 497,306 557,306 557,313 592,313 592,306 627,306 627,313 637,313 637,329 497,329 471,324 471,331 433,331 433,324 79,322" />
+				<Baseline points="79,323 637,325" />
+				<TextEquiv index="1">
+					<Unicode>Nun aber sollte er nur den Körper wiedersehen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="80,349 92,349 92,343 100,343 100,349 147,347 178,347 202,349 211,343 228,343 228,350 288,350 288,343 310,343 331,350 331,343 346,343 346,350 377,351 377,344 438,344 438,351 451,351 459,344 478,344 478,351 490,351 490,344 512,344 523,345 523,351 534,351 534,359 546,351 585,351 594,344 629,344 629,351 639,351 639,363 580,363 538,367 533,367 523,363 512,367 459,367 346,362 346,368 310,368 297,368 297,361 80,360" />
+				<Baseline points="80,360 639,363" />
+				<TextEquiv index="1">
+					<Unicode>einen toten Frauenkörper und ein Antlitz, von dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l6" points="80,386 93,386 128,387 128,381 136,381 136,387 147,387 147,380 162,380 171,384 178,387 190,381 205,381 205,387 216,387 224,381 238,381 253,384 286,388 286,381 294,381 294,388 303,388 315,382 335,382 336,388 347,388 358,382 377,382 377,389 402,388 427,388 460,391 467,382 494,382 494,389 517,389 517,382 531,382 531,389 542,389 555,382 582,382 582,388 587,388 639,389 639,400 542,405 531,407 494,407 478,407 478,400 427,400 403,400 403,406 389,406 389,400 336,400 136,399 80,398" baseline="80,398 114,398 639,400" reason: differs: "gen—Aug" against "en – Au" | Wikisource:  | next_nc_e1: er nichts kannte als die Augen — Augen, die nun | german_print2_15: er nichts kannte als die Augen — Augen, die nun -->
+			<!-- line left out: id="r1l7" points="80,425 92,424 103,424 103,418 118,418 118,425 151,425 151,418 166,418 166,425 178,425 274,426 283,419 295,419 295,426 307,426 335,429 341,420 363,420 363,426 394,426 402,420 421,420 421,426 458,426 471,427 482,420 497,420 497,426 509,426 530,427 530,420 544,420 569,426 613,426 613,420 638,420 638,438 447,438 447,444 434,444 434,437 307,437 152,437 127,437 93,436 93,442 80,442" baseline="80,436 402,437 638,438" reason: second model: differs: "gebr" against "e nu" | Wikisource: gebrochen waren. Ja – diese Augen kannte er und | next_nc_e1: gebrochen waren. Ja – diese Augen kannte er und | german_print2_15: gebrochen waren. Ja — diese Augen kannte er und -->
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="81,456 102,456 102,462 113,462 119,456 145,456 145,463 190,463 197,456 211,456 219,457 219,463 229,463 238,457 296,458 309,463 317,457 325,457 325,463 383,464 391,457 441,457 450,461 463,464 468,458 487,458 487,465 506,464 506,457 585,457 595,458 602,464 613,464 613,458 629,458 629,464 639,464 639,476 585,482 572,482 572,476 553,476 553,482 530,482 499,482 499,476 325,475 325,481 317,481 309,475 247,475 190,479 132,479 81,474" />
+				<Baseline points="81,474 639,476" />
+				<TextEquiv index="1">
+					<Unicode>die Haare, die sich in jenem letzten Augenblick, ehe</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="80,500 139,494 175,494 187,501 221,501 232,495 247,495 247,501 278,502 287,495 301,495 301,501 312,501 312,495 391,495 407,500 407,511 422,503 435,503 435,495 558,496 616,503 616,496 639,496 639,514 551,514 551,521 526,521 515,514 466,514 466,521 452,521 452,514 437,514 437,521 407,521 350,521 342,521 331,514 80,512" />
+				<Baseline points="80,513 639,514" />
+				<TextEquiv index="1">
+					<Unicode>man ihn aus dem Saal gejagt, plötzlich gelöst und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="81,532 95,532 102,533 102,539 158,539 158,533 173,533 192,540 199,532 219,532 219,540 238,537 252,532 263,532 274,533 282,540 316,540 316,533 412,534 420,537 445,540 445,548 456,534 521,534 521,540 532,540 538,534 561,534 561,541 639,541 639,559 627,559 627,552 590,552 590,559 576,559 571,552 81,551" />
+				<Baseline points="81,551 639,552" />
+				<TextEquiv index="1">
+					<Unicode>die nackte Gestalt verhüllt hatten. Würde das genug</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="79,577 99,577 99,570 108,570 108,577 122,577 122,585 134,577 169,577 177,571 333,571 339,578 351,578 351,572 394,572 394,578 441,578 445,571 454,571 454,578 489,578 489,571 502,571 502,578 533,578 533,572 546,572 552,578 561,578 561,572 569,572 569,578 632,578 632,572 639,572 639,590 489,594 296,589 296,596 267,596 233,596 222,596 214,589 122,593 79,588" />
+				<Baseline points="79,588 639,590" />
+				<TextEquiv index="1">
+					<Unicode>sein, um ihn untrüglich wissen zu lassen, ob sie es sei</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l12" custom="readingOrder {index:12;}">
+				<Coords points="79,614 92,614 92,608 107,608 107,614 149,615 149,609 201,609 201,627 117,627 79,626" />
+				<Baseline points="79,626 201,627" />
+				<TextEquiv index="1">
+					<Unicode>oder nicht?</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l13" custom="readingOrder {index:13;}">
+				<Coords points="106,646 133,646 171,646 171,653 215,654 215,646 229,646 253,646 253,654 275,654 275,661 289,647 301,647 333,654 333,647 347,647 347,654 360,654 360,647 374,647 374,654 399,654 408,647 489,647 497,654 523,654 523,648 539,648 539,654 593,654 601,648 615,648 615,654 639,655 639,666 347,665 347,672 326,672 312,672 312,665 301,665 301,672 289,672 253,665 253,671 195,671 195,665 106,665" />
+				<Baseline points="106,665 639,666" />
+				<TextEquiv index="1">
+					<Unicode>Und langsamen, zögernden Schritts nahm er den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l14" custom="readingOrder {index:14;}">
+				<Coords points="80,684 109,684 109,691 132,691 141,685 155,685 155,692 189,691 189,685 234,685 234,691 282,691 282,685 322,685 322,691 333,686 359,685 359,692 386,689 420,692 429,686 473,686 473,692 526,692 526,686 564,686 564,692 595,693 604,686 621,686 621,693 633,693 638,696 638,699 633,699 633,705 141,703 132,710 107,710 107,702 95,702 95,710 80,710" />
+				<Baseline points="80,702 638,705" />
+				<TextEquiv index="1">
+					<Unicode>Weg durch die wohlbekannten Höfe nach dem Pa-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l15" custom="readingOrder {index:15;}">
+				<Coords points="79,723 102,723 102,730 115,730 115,723 123,723 145,723 156,724 156,730 175,730 175,723 191,723 211,723 211,730 232,730 232,723 246,723 270,723 292,723 292,730 304,730 304,723 327,723 327,730 345,730 356,723 367,723 367,731 388,731 388,725 405,725 414,728 436,728 436,739 452,724 471,724 471,731 481,731 493,724 578,724 578,731 587,731 598,725 618,725 618,731 640,731 640,743 327,742 327,748 313,748 313,742 292,742 292,748 270,748 246,748 232,748 232,742 211,742 211,748 197,748 191,742 156,742 156,748 131,748 131,742 91,741 91,748 79,748" />
+				<Baseline points="79,742 640,743" />
+				<TextEquiv index="1">
+					<Unicode>thologisch-anatomischen Institut. Er fand das Tor</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l16" custom="readingOrder {index:16;}">
+				<Coords points="79,761 113,761 119,767 144,768 144,761 192,761 192,768 210,768 210,761 224,761 224,768 241,768 241,776 252,768 274,768 286,761 295,760 326,760 335,768 379,763 387,763 398,768 398,762 413,762 429,768 443,763 472,763 485,768 492,762 545,762 555,769 580,769 588,763 620,763 620,769 632,769 637,773 637,776 632,781 492,781 485,787 462,787 450,787 450,780 210,785 210,779 192,779 192,785 144,785 144,779 113,779 113,785 79,785" />
+				<Baseline points="79,779 637,781" />
+				<TextEquiv index="1">
+					<Unicode>unverschlossen, so daß er nicht nötig hatte zu klin-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l17" custom="readingOrder {index:17;}">
+				<Coords points="79,805 102,805 102,798 111,798 111,805 125,805 125,813 142,799 169,799 169,805 197,800 252,800 252,806 274,806 274,800 287,800 287,806 295,806 307,800 324,800 324,807 337,807 337,799 365,800 365,806 378,806 378,800 385,799 399,799 399,806 417,806 430,800 445,800 445,807 456,807 456,800 472,800 481,804 552,804 592,807 592,801 618,801 618,807 638,808 638,819 93,817 93,823 79,823" />
+				<Baseline points="79,817 638,819" />
+				<TextEquiv index="1">
+					<Unicode>geln. Der steinerne Fußboden hallte unter seinen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l18" custom="readingOrder {index:18;}">
+				<Coords points="78,837 131,837 151,837 151,844 163,844 168,837 188,837 188,844 224,844 229,837 244,837 260,837 292,837 324,838 324,844 362,844 362,837 378,837 378,845 389,845 389,837 405,837 474,838 474,845 496,845 496,838 569,838 569,845 577,845 583,839 617,839 617,845 639,845 639,864 617,864 601,864 601,857 78,860" />
+				<Baseline points="78,855 639,857" />
+				<TextEquiv index="1">
+					<Unicode>Tritten, als er durch den schwach beleuchteten Gang</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l19" custom="readingOrder {index:19;}">
+				<Coords points="78,881 95,881 95,875 114,875 136,875 149,879 159,875 178,875 185,876 185,882 227,879 307,880 317,882 317,890 328,882 346,882 346,875 359,875 359,883 372,883 372,877 381,877 411,882 411,875 427,875 476,875 476,882 502,877 548,877 548,883 568,880 576,877 618,877 618,884 639,884 639,896 502,896 476,894 476,900 450,900 427,900 411,900 411,894 359,894 359,900 328,900 227,899 185,894 95,894 78,892" />
+				<Baseline points="78,893 639,895" />
+				<TextEquiv index="1">
+					<Unicode>schritt. Ein vertrauter, gewissermaßen heimatlicher</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l20" custom="readingOrder {index:20;}">
+				<Coords points="80,912 106,912 106,919 144,920 144,914 159,914 173,921 213,920 228,914 285,914 285,920 296,920 296,914 361,914 361,920 372,920 372,914 435,914 435,921 457,921 457,929 478,914 492,914 492,921 514,921 528,914 555,914 555,921 637,922 637,934 629,934 629,941 581,941 567,933 462,938 346,938 318,933 80,932" />
+				<Baseline points="80,932 637,934" />
+				<TextEquiv index="1">
+					<Unicode>Geruch von allerlei Chemikalien, der den ange-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l21" custom="readingOrder {index:21;}">
+				<Coords points="79,954 278,952 278,958 318,959 330,951 362,951 388,954 394,951 408,951 413,952 413,959 433,959 444,953 516,954 550,959 550,967 564,960 567,954 639,954 639,978 583,978 567,978 567,972 555,976 444,976 433,970 266,971 167,975 79,975" />
+				<Baseline points="79,970 444,970 639,972" />
+				<TextEquiv index="1">
+					<Unicode>stammten Duft dieses Gebäudes übertönte, umfing</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l22" custom="readingOrder {index:22;}">
+				<Coords points="79,989 102,989 134,989 154,989 154,997 168,997 168,1005 182,990 201,990 201,996 211,996 221,990 244,990 244,997 265,997 265,990 297,990 309,996 346,991 368,991 379,996 387,990 456,991 456,997 475,997 486,991 547,991 547,997 559,997 559,991 585,991 585,998 599,998 599,991 614,991 614,998 626,998 626,991 638,991 638,1016 626,1016 626,1010 585,1010 585,1016 559,1016 559,1010 539,1010 539,1016 525,1016 525,1010 495,1010 495,1016 486,1016 475,1009 309,1008 297,1016 279,1016 255,1016 255,1009 243,1009 233,1016 221,1016 211,1008 79,1007" />
+				<Baseline points="79,1008 638,1010" />
+				<TextEquiv index="1">
+					<Unicode>Fridolin. Er klopfte an die Tür des histologischen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l23" custom="readingOrder {index:23;}">
+				<Coords points="79,1027 126,1027 160,1027 182,1027 182,1042 196,1035 302,1035 302,1028 330,1028 341,1035 379,1035 379,1028 394,1028 405,1035 412,1035 412,1029 440,1029 440,1035 464,1035 476,1029 562,1029 571,1034 595,1036 606,1030 639,1031 639,1048 330,1047 187,1051 160,1051 126,1051 103,1051 89,1051 89,1045 79,1045" />
+				<Baseline points="79,1045 639,1048" />
+				<TextEquiv index="1">
+					<Unicode>Kabinetts, wo er wohl noch einen Assistenten bei</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l24" custom="readingOrder {index:24;}">
+				<Coords points="79,1063 94,1063 94,1071 115,1071 125,1065 163,1065 186,1066 202,1073 229,1071 267,1071 317,1066 332,1066 332,1073 345,1073 345,1066 371,1066 384,1067 384,1082 397,1067 412,1066 439,1066 449,1073 461,1073 461,1067 469,1067 469,1073 494,1071 542,1071 555,1074 565,1068 628,1068 628,1074 637,1074 637,1087 579,1087 565,1087 125,1085 79,1082" />
+				<Baseline points="79,1083 637,1087" />
+				<TextEquiv index="1">
+					<Unicode>der Arbeit vermuten durfte. Auf ein etwas unwir-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l25" custom="readingOrder {index:25;}">
+				<Coords points="79,1109 98,1109 98,1103 114,1103 114,1109 134,1110 141,1119 152,1119 152,1104 216,1104 239,1105 267,1109 292,1105 367,1105 367,1112 382,1112 390,1106 398,1106 398,1113 412,1113 421,1105 449,1105 449,1112 460,1112 465,1106 481,1106 481,1113 493,1113 493,1106 517,1106 517,1112 534,1112 534,1121 545,1113 591,1113 591,1106 602,1102 618,1102 618,1113 639,1113 639,1125 618,1125 618,1136 602,1136 602,1125 559,1125 559,1132 545,1132 517,1129 434,1125 246,1124 239,1114 229,1114 229,1123 216,1127 141,1127 79,1121" />
+				<Baseline points="79,1121 639,1125" />
+				<TextEquiv index="1">
+					<Unicode>sches „Herein“ trat Fridolin in den hohen, geradezu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l26" custom="readingOrder {index:26;}">
+				<Coords points="79,1140 97,1140 128,1140 156,1140 180,1143 318,1144 318,1150 341,1150 341,1159 355,1144 445,1144 445,1151 457,1151 467,1144 513,1144 528,1148 528,1159 542,1145 567,1145 567,1151 576,1151 584,1145 603,1145 610,1141 626,1141 626,1151 639,1151 639,1170 626,1174 610,1174 610,1164 533,1167 304,1167 265,1163 167,1163 128,1161 85,1161 79,1159" />
+				<Baseline points="79,1159 264,1163 639,1164" />
+				<TextEquiv index="1">
+					<Unicode>festlich erhellten Raum, in dessen Mitte, das Auge</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ihrer Haltung, ihrer Stimme vor allem hätte er sie,
+so war er überzeugt, unwidersprechlich erkannt.
+Nun aber sollte er nur den Körper wiedersehen,
+einen toten Frauenkörper und ein Antlitz, von dem
+die Haare, die sich in jenem letzten Augenblick, ehe
+man ihn aus dem Saal gejagt, plötzlich gelöst und
+die nackte Gestalt verhüllt hatten. Würde das genug
+sein, um ihn untrüglich wissen zu lassen, ob sie es sei
+oder nicht?
+Und langsamen, zögernden Schritts nahm er den
+Weg durch die wohlbekannten Höfe nach dem Pa-
+thologisch-anatomischen Institut. Er fand das Tor
+unverschlossen, so daß er nicht nötig hatte zu klin-
+geln. Der steinerne Fußboden hallte unter seinen
+Tritten, als er durch den schwach beleuchteten Gang
+schritt. Ein vertrauter, gewissermaßen heimatlicher
+Geruch von allerlei Chemikalien, der den ange-
+stammten Duft dieses Gebäudes übertönte, umfing
+Fridolin. Er klopfte an die Tür des histologischen
+Kabinetts, wo er wohl noch einen Assistenten bei
+der Arbeit vermuten durfte. Auf ein etwas unwir-
+sches „Herein“ trat Fridolin in den hohen, geradezu
+festlich erhellten Raum, in dessen Mitte, das Auge</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+heute, morgen – in Jahren, wann, wo und in welcher Umgebung immer – an ihrem Gang, ihrer Haltung, ihrer Stimme vor allem hätte er sie, so war er überzeugt, unwidersprechlich erkannt. Nun aber sollte er nur den Körper wiedersehen, einen toten Frauenkörper und ein Antlitz, von dem er nichts kannte als die Augen – Augen, die nun gebrochen waren. Ja – diese Augen kannte er und die Haare, die sich in jenem letzten Augenblick, ehe man ihn aus dem Saal gejagt, plötzlich gelöst und die nackte Gestalt verhüllt hatten. Würde das genug sein, um ihn untrüglich wissen zu lassen, ob sie es sei oder nicht?
+Und langsamen, zögernden Schritts nahm er den Weg durch die wohlbekannten Höfe nach dem Pathologisch-anatomischen Institut. Er fand das Tor unverschlossen, so daß er nicht nötig hatte zu klingeln. Der steinerne Fußboden hallte unter seinen Tritten, als er durch den schwach beleuchteten Gang schritt. Ein vertrauter, gewissermaßen heimatlicher Geruch von allerlei Chemikalien, der den angestammten Duft dieses Gebäudes übertönte, umfing Fridolin. Er klopfte an die Tür des histologischen Kabinetts, wo er wohl noch einen Assistenten bei der Arbeit vermuten durfte. Auf ein etwas unwirsches „Herein“ trat Fridolin in den hohen, geradezu festlich erhellten Raum, in dessen Mitte, das Auge
+-->
+	</Page>
+</PcGts>

@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:28:25</Created>
+		<LastChange>2026-11-23T18:28:25</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Die_zehnte_Muse_(Maximilian_Bern).djvu/356 revision 3304037 of 2018-07-31T21:11:04Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="zehnte_muse_1904_0356.png" imageWidth="1170" imageHeight="2198">
+		<ReadingOrder>
+			<OrderedGroup id="ro13372090245891229498" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="380,181 814,181 814,229 380,229" />
+			<TextLine id="r0l0" custom="readingOrder {index:0;}">
+				<Coords points="380,183 418,182 418,193 439,193 439,182 531,182 531,192 546,192 570,182 589,181 614,181 637,183 647,181 708,181 741,182 741,193 806,191 806,208 814,208 814,217 806,217 806,229 783,229 783,218 708,218 708,229 687,229 687,218 668,218 668,229 647,229 637,219 614,219 614,229 589,229 589,219 380,220" />
+				<Baseline points="380,220 814,217" />
+				<TextEquiv index="1">
+					<Unicode>Kindliche Unterhaltung.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Kindliche Unterhaltung.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="451,239 762,239 762,275 451,275" />
+			<!-- line left out: id="r1l0" points="451,239 469,239 469,246 505,243 638,243 762,243 762,266 638,267 577,267 479,267 469,267 469,275 451,275" baseline="451,267 494,266 650,265 762,265" reason: second model: differs: "IsFra" against "In Fr" | Wikisource: In Frankfurter Mundart. | next_nc_e1: In Frankfurter Mundart.
+ | german_print2_15: Is Frankfurter Mundart.
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="256,287 864,287 864,466 256,466" />
+			<!-- line left out: id="r2l0" points="257,287 276,287 306,287 306,310 319,310 319,287 347,287 347,309 370,309 370,287 406,287 406,317 425,317 442,308 500,308 515,315 582,315 599,307 669,307 745,307 745,315 779,315 779,307 800,307 800,314 817,314 817,334 744,334 744,321 734,321 717,335 582,336 425,337 406,337 406,354 370,354 370,336 347,336 347,354 319,354 319,337 306,337 306,354 276,354 257,354" baseline="257,337 716,334 817,334" reason: differs: "FKrit" against "Fritz" | Wikisource:  | next_nc_e1: FKritchen rief zum Fenster 'naus
+ | german_print2_15: FHrinchen rief zum Fenster 'naus
+ -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="320,350 344,350 344,357 364,357 381,348 416,348 416,357 435,357 452,349 565,348 565,356 581,356 581,348 618,347 726,347 726,355 754,355 754,374 435,377 364,377 320,377" />
+				<Baseline points="320,377 754,374" />
+				<TextEquiv index="1">
+					<Unicode>Zu des Nachbars Klärche:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="259,400 276,400 276,389 384,389 395,390 415,398 478,397 495,388 663,388 677,394 764,394 783,387 845,387 845,394 864,394 864,414 395,417 276,417 259,415" />
+				<Baseline points="259,415 864,414" />
+				<TextEquiv index="1">
+					<Unicode>»Eetsch! mer kriehn uff unser Haus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l3" points="256,429 349,424 369,424 599,428 599,437 615,437 619,428 629,428 630,438 645,438 645,454 629,455 599,456 577,457 396,457 369,466 349,466 342,458 256,458" baseline="256,458 341,457 645,454" reason: second model: differs: "chele" against "che!« U" | Wikisource: Doch e Bellvedeerche!« | next_nc_e1: Doch e Bellvedeerche!«
+ | german_print2_15: Doch e Bellvedeerchele
+ -->
+			<TextEquiv index="1">
+				<Unicode>Zu des Nachbars Klärche:
+»Eetsch! mer kriehn uff unser Haus</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="257,494 949,494 949,643 257,643" />
+			<!-- line left out: id="r3l0" points="257,496 287,496 287,504 306,504 324,494 347,494 347,503 378,503 395,495 427,495 502,495 502,503 518,503 535,494 594,494 609,502 610,494 629,494 629,502 642,502 642,494 692,494 692,522 578,523 336,523 287,523 257,523" baseline="257,523 593,522 692,522" reason: differs: "ndesKlä" against " den Kl" | Wikisource:  | next_nc_e1: Un des Klärche rief enuff
+ | german_print2_15: Un des Klärche rief enuff
+ -->
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="258,536 293,535 293,544 304,544 304,535 396,535 413,544 449,544 467,535 508,535 508,543 537,543 553,534 566,534 621,534 674,534 674,542 691,542 691,562 674,563 621,563 580,563 449,563 293,563 275,563 258,562" />
+				<Baseline points="258,562 691,562" />
+				<TextEquiv index="1">
+					<Unicode>Neidisch zu dem Biebche:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="260,586 275,586 275,575 383,575 395,576 409,584 472,583 482,574 709,574 709,582 723,582 723,574 765,574 783,581 843,581 860,572 949,572 949,600 583,603 550,603 395,603 275,603 260,601" />
+				<Baseline points="260,602 949,600" />
+				<TextEquiv index="1">
+					<Unicode>»Eetsch! mer kriehn doch aach was druff!</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="257,616 394,614 416,614 416,624 435,624 435,614 457,614 545,615 545,623 587,623 605,614 644,614 716,614 716,622 733,622 736,614 744,614 744,640 716,642 587,643 569,643 544,643 507,643 274,643 257,642" />
+				<Baseline points="257,643 744,641" />
+				<TextEquiv index="1">
+					<Unicode>Eetsch! und schawe Riebche!</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Neidisch zu dem Biebche:
+»Eetsch! mer kriehn doch aach was druff!
+Eetsch! und schawe Riebche!</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="258,680 899,680 899,869 258,869" />
+			<!-- line left out: id="r4l0" points="258,682 299,682 439,686 478,690 478,680 520,680 576,681 576,689 591,685 597,681 616,681 663,680 739,680 739,708 546,708 527,695 520,695 520,709 460,709 439,716 335,716 318,708 258,708" baseline="258,708 739,708" reason: differs: "mei'Vat" against "mei’ Va" | Wikisource:  | next_nc_e1: Hat gesagt mei' Vatter doch | german_print2_15: Hat gesagt mei' Vatter doch -->
+			<!-- line left out: id="r4l1" points="258,722 370,722 397,729 487,729 577,729 595,722 664,722 664,742 670,742 670,756 654,756 619,756 577,757 557,757 557,749 541,749 541,757 505,757 487,749 258,749" baseline="258,748 670,749" reason: differs: "Ehrs" against "doch" | Wikisource:  | next_nc_e1: Ehrscht vor e paar Däg, | german_print2_15: Ehrscht vor e paar Däg, -->
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="259,763 299,763 299,769 315,769 315,763 334,763 334,769 372,769 390,762 409,761 431,761 431,770 447,770 447,761 466,761 544,761 561,769 631,769 631,761 688,761 688,788 521,789 521,796 502,796 502,788 466,788 466,796 409,796 409,788 259,789" />
+				<Baseline points="259,789 688,788" />
+				<TextEquiv index="1">
+					<Unicode>Dass e Hypothek er noch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l3" points="258,801 350,801 350,809 364,809 364,801 380,801 438,802 444,809 480,809 495,801 509,801 509,810 526,810 526,801 655,801 669,802 670,811 685,811 685,827 669,829 659,829 655,836 580,836 561,829 542,829 542,837 526,837 526,829 509,829 509,837 495,837 480,829 258,829" baseline="258,829 685,828" reason: differs: "etzkräg" against "etz’ kr" | Wikisource:  | next_nc_e1: Uff des Haus jetz kräg!« | german_print2_15: Uff des Haus jetz' kräg !e -->
+			<!-- line left out: id="r4l4" points="696,847 706,845 723,845 793,845 877,845 899,845 899,869 832,869 748,869 723,869 706,869 696,868" baseline="696,868 807,868 899,869" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Friedrich Stolss.
+ | german_print2_15: Triedrich Stelse.
+ -->
+			<TextEquiv index="1">
+				<Unicode>Dass e Hypothek er noch</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="590,904 624,904 624,932 590,932" />
+			<!-- line left out: id="r5l0" points="590,904 624,904 624,932 590,932" baseline="590,932 624,932" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ₰
+ | german_print2_15: ₰
+ -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="385,997 821,997 821,1047 385,1047" />
+			<!-- line left out: id="r6l0" points="385,998 412,998 412,1009 424,1009 424,998 445,998 468,999 469,1010 491,1009 513,1009 529,1010 552,998 580,998 580,1009 598,1009 598,998 613,997 634,997 688,997 723,997 724,1010 746,1009 768,1009 779,1010 779,997 800,997 800,1008 821,1008 821,1036 800,1036 800,1047 767,1047 767,1034 745,1035 724,1035 723,1047 688,1047 667,1047 667,1036 643,1036 634,1047 613,1047 613,1036 459,1036 412,1036 385,1035" baseline="385,1036 821,1036" reason: beside a footnote mark or an unknown template | Wikisource:  | next_nc_e1: Berliner Schusterjunge.
+ | german_print2_15: Berliner Schusterjunge.
+ -->
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="180,1064 947,1064 947,1324 180,1324" />
+			<!-- line left out: id="r7l0" points="183,1064 232,1064 232,1096 265,1096 282,1088 312,1088 392,1088 437,1088 437,1097 448,1097 466,1087 558,1087 558,1095 573,1095 592,1088 698,1088 698,1096 731,1095 826,1095 840,1096 858,1087 901,1087 901,1097 913,1097 913,1089 926,1089 947,1093 947,1122 924,1122 924,1115 899,1115 899,1122 880,1122 880,1115 826,1115 826,1124 731,1124 714,1116 698,1117 592,1117 558,1116 558,1124 466,1124 448,1116 437,1117 344,1117 296,1117 282,1117 232,1116 232,1129 183,1129" baseline="183,1116 839,1115 947,1115" reason: differs: "Defr" against "unge" | Wikisource:  | next_nc_e1: De fröhlichste Knirps auf der ganzen Welt, | german_print2_15: De⸗ fröhlichste Knirps auf der ganzen Welt, -->
+			<TextLine id="r7l1" custom="readingOrder {index:1;}">
+				<Coords points="251,1130 289,1130 289,1137 313,1137 331,1129 342,1129 342,1137 356,1137 356,1129 394,1129 394,1138 411,1138 429,1129 541,1128 596,1128 736,1129 736,1136 747,1136 747,1129 832,1129 842,1132 842,1162 832,1163 817,1163 817,1155 806,1155 806,1163 778,1163 778,1156 767,1156 767,1163 721,1163 703,1156 251,1156" />
+				<Baseline points="251,1156 842,1155" />
+				<TextEquiv index="1">
+					<Unicode>Der seine Sache auf nichts gestellt,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l2" points="180,1168 229,1168 302,1170 302,1177 353,1177 353,1168 364,1168 460,1168 491,1168 522,1169 522,1178 551,1178 570,1169 593,1169 593,1177 608,1177 608,1169 630,1169 630,1178 692,1177 713,1176 732,1176 749,1183 788,1183 788,1189 749,1189 732,1196 715,1196 715,1204 692,1204 692,1195 674,1196 630,1196 491,1197 418,1197 247,1196 180,1195" baseline="180,1195 247,1195 788,1196" reason: differs: "nge—" against "ge – De" | Wikisource:  | next_nc_e1: Ob alles sich dreh im Schwunge —
+ | german_print2_15: Ob alles sich dreh im Schwunge —
+ -->
+			<!-- line left out: id="r7l3" points="180,1208 209,1208 209,1217 242,1217 258,1209 336,1209 336,1217 363,1217 380,1209 449,1209 491,1209 538,1208 569,1208 569,1218 582,1213 600,1208 616,1208 633,1217 634,1208 654,1208 654,1217 673,1217 673,1208 712,1207 721,1207 721,1217 733,1217 733,1207 750,1207 750,1216 761,1216 761,1207 795,1207 795,1244 780,1244 780,1235 734,1235 734,1244 712,1244 696,1236 633,1236 616,1244 582,1244 582,1235 569,1235 569,1244 552,1244 552,1236 538,1236 519,1243 457,1243 457,1236 443,1236 443,1243 423,1243 423,1236 409,1236 409,1243 380,1243 363,1236 258,1236 180,1235" baseline="180,1236 712,1235 795,1235" reason: second model: differs: "Deri" against "nge " | Wikisource: Der immer kalauert, singt und pfeift | next_nc_e1: Der imner kalauert, singt und pfeift
+ | german_print2_15: Der inmner kalauert, singt und pfeift
+ -->
+			<TextLine id="r7l4" custom="readingOrder {index:4;}">
+				<Coords points="181,1248 210,1248 210,1257 228,1257 228,1247 249,1247 308,1249 308,1257 338,1258 355,1249 369,1249 369,1257 383,1257 383,1249 402,1249 402,1257 430,1257 430,1249 469,1249 481,1253 481,1268 490,1268 508,1258 526,1258 526,1248 574,1248 593,1256 626,1256 644,1249 685,1249 685,1256 699,1256 699,1249 732,1247 749,1247 857,1247 857,1255 867,1255 867,1280 857,1283 760,1283 760,1276 749,1276 749,1283 732,1283 715,1276 508,1275 490,1282 480,1282 480,1276 449,1276 449,1282 430,1282 430,1276 402,1276 402,1282 383,1282 383,1276 369,1276 369,1282 355,1282 338,1276 181,1275" />
+				<Baseline points="181,1276 867,1276" />
+				<TextEquiv index="1">
+					<Unicode>Und alles verzeiht, weil er alles begreift;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l5" custom="readingOrder {index:5;}">
+				<Coords points="180,1289 220,1289 237,1296 325,1296 343,1288 360,1288 429,1288 462,1288 495,1288 495,1295 508,1295 508,1288 528,1288 528,1296 566,1296 569,1289 577,1289 577,1316 549,1316 549,1323 528,1324 508,1324 508,1316 495,1316 495,1324 462,1324 442,1324 442,1316 429,1316 429,1324 393,1324 393,1316 360,1316 360,1324 343,1324 325,1316 193,1316 180,1314" />
+				<Baseline points="180,1314 577,1316" />
+				<TextEquiv index="1">
+					<Unicode>Ist unser Schusterjunge!</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Der seine Sache auf nichts gestellt,
+Und alles verzeiht, weil er alles begreift;
+Ist unser Schusterjunge!</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="180,1354 1039,1354 1039,1583 180,1583" />
+			<TextLine id="r8l0" custom="readingOrder {index:0;}">
+				<Coords points="180,1355 452,1354 474,1354 474,1363 504,1364 520,1354 588,1354 588,1364 617,1363 635,1355 657,1354 679,1354 723,1354 732,1359 732,1382 310,1382 310,1389 291,1389 291,1382 277,1382 277,1389 198,1389 198,1381 180,1381" />
+				<Baseline points="180,1381 732,1382" />
+				<TextEquiv index="1">
+					<Unicode>Tagüber kauert der kleine Wicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r8l1" points="181,1396 194,1396 194,1403 225,1403 243,1394 272,1394 272,1403 288,1403 288,1395 303,1394 323,1394 323,1402 340,1402 358,1394 408,1394 515,1394 545,1394 545,1403 559,1403 559,1394 601,1393 618,1393 652,1393 652,1403 666,1403 666,1393 686,1393 686,1403 697,1402 716,1402 716,1393 764,1393 794,1393 794,1429 731,1429 731,1422 686,1422 686,1429 666,1429 666,1422 652,1422 652,1429 632,1429 632,1422 618,1422 618,1429 582,1430 559,1430 559,1422 545,1422 545,1430 511,1430 491,1430 491,1422 478,1422 478,1430 441,1430 441,1423 427,1423 323,1422 289,1422 243,1422 181,1421" baseline="181,1421 243,1421 794,1422" reason: second model: differs: "ürfägem" against "ürftige" | Wikisource: Im Keller bei dürftigem Sonnenlicht, | next_nc_e1: Im Keller bei dürftigem Sonnenlicht,
+ | german_print2_15: Im Keller bei dürfägem Sonnenlicht,
+ -->
+			<TextLine id="r8l2" custom="readingOrder {index:2;}">
+				<Coords points="180,1435 380,1434 397,1443 420,1443 420,1435 458,1435 477,1442 487,1442 487,1434 558,1434 569,1439 587,1433 703,1433 721,1433 731,1435 731,1461 458,1463 420,1463 180,1461" />
+				<Baseline points="180,1461 731,1461" />
+				<TextEquiv index="1">
+					<Unicode>Putzt Stiefel und schält Kartoffel.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l3" custom="readingOrder {index:3;}">
+				<Coords points="181,1475 220,1475 220,1482 243,1482 260,1474 294,1475 294,1483 310,1483 310,1474 361,1474 361,1483 446,1484 446,1475 577,1473 588,1473 622,1473 669,1473 669,1483 689,1483 706,1474 777,1473 838,1473 838,1493 846,1493 846,1507 777,1507 760,1501 706,1501 689,1509 637,1509 637,1502 622,1502 622,1509 602,1509 602,1503 588,1503 588,1509 577,1509 559,1502 419,1502 419,1510 395,1510 379,1502 181,1501" />
+				<Baseline points="181,1501 846,1501" />
+				<TextEquiv index="1">
+					<Unicode>Der Meister gerbt ihm tüchtig das Fell,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r8l4" points="183,1514 211,1513 223,1513 223,1522 239,1522 257,1514 271,1514 291,1515 291,1522 307,1522 307,1514 334,1514 346,1519 356,1514 406,1514 424,1523 437,1523 437,1515 488,1515 498,1516 527,1515 577,1515 598,1529 636,1529 656,1513 674,1513 674,1522 696,1522 696,1513 717,1513 772,1514 772,1521 786,1521 786,1514 863,1512 885,1512 885,1521 903,1521 903,1512 1039,1512 1039,1546 941,1546 923,1540 905,1541 656,1541 636,1535 598,1535 577,1542 510,1543 488,1543 457,1543 437,1543 334,1542 271,1542 257,1542 221,1541 183,1540" baseline="183,1540 1039,1540" reason: differs: "ihn—und" against "hn – un" | Wikisource:  | next_nc_e1: Die Meisterin schilt ihn — und Bursch und Gesel, | german_print2_15: Die Meisterin schilt ihn — und Bursch und Gesel, -->
+			<TextLine id="r8l5" custom="readingOrder {index:5;}">
+				<Coords points="181,1554 199,1553 238,1553 256,1562 372,1563 389,1554 504,1555 504,1563 515,1563 515,1555 534,1555 534,1563 550,1563 550,1556 562,1556 579,1563 584,1554 603,1554 603,1563 621,1563 621,1554 659,1553 672,1553 682,1554 699,1559 699,1553 738,1553 760,1555 760,1575 767,1575 767,1582 623,1583 534,1583 504,1583 471,1583 459,1583 181,1581" />
+				<Baseline points="181,1581 767,1581" />
+				<TextEquiv index="1">
+					<Unicode>Die nennen ihn Stiesel und Stoffel.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Tagüber kauert der kleine Wicht
+Putzt Stiefel und schält Kartoffel.
+Der Meister gerbt ihm tüchtig das Fell,
+Die nennen ihn Stiesel und Stoffel.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="181,1617 992,1617 992,1849 181,1849" />
+			<!-- line left out: id="r9l0" points="181,1619 238,1619 271,1620 285,1625 300,1629 300,1620 370,1620 370,1629 385,1629 385,1620 397,1620 477,1622 513,1622 533,1637 572,1637 592,1625 600,1625 699,1625 731,1625 750,1617 785,1617 823,1617 830,1618 837,1617 876,1617 877,1627 887,1627 887,1652 877,1652 858,1647 858,1655 830,1655 699,1655 664,1655 664,1648 649,1648 649,1655 592,1655 572,1642 533,1642 513,1649 415,1649 397,1655 385,1655 385,1648 370,1648 370,1655 300,1655 300,1648 283,1648 271,1647 271,1655 256,1655 238,1647 181,1647" baseline="181,1647 887,1647" reason: differs: "ben—get" against "en – ge" | Wikisource:  | next_nc_e1: Ein trauriges Leben — getreeten, geduckt;
+ | german_print2_15: Ein trauriges Leben — getreten, geduckt;
+ -->
+			<TextLine id="r9l1" custom="readingOrder {index:1;}">
+				<Coords points="182,1660 287,1661 287,1669 304,1669 304,1661 383,1661 383,1668 407,1668 424,1660 543,1660 560,1661 560,1669 576,1669 594,1659 701,1659 703,1661 703,1669 715,1669 715,1659 749,1659 768,1668 779,1668 779,1658 833,1658 833,1667 847,1667 847,1658 867,1658 897,1658 897,1688 560,1689 436,1689 424,1689 182,1688" />
+				<Baseline points="182,1688 897,1687" />
+				<TextEquiv index="1">
+					<Unicode>Und manches heimliche Thränlein schluckt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l2" custom="readingOrder {index:2;}">
+				<Coords points="183,1700 213,1700 213,1707 343,1708 361,1701 470,1701 470,1709 488,1709 505,1701 560,1701 560,1710 579,1710 579,1701 601,1701 610,1706 641,1709 641,1722 650,1722 691,1711 697,1711 697,1715 691,1715 650,1729 601,1729 523,1729 375,1729 361,1729 183,1727" />
+				<Baseline points="183,1726 697,1729" />
+				<TextEquiv index="1">
+					<Unicode>Der arme Bursche hinunter.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l3" custom="readingOrder {index:3;}">
+				<Coords points="184,1739 306,1740 306,1748 327,1748 345,1739 383,1739 402,1749 468,1750 468,1741 508,1741 508,1751 521,1751 521,1741 543,1741 543,1750 556,1750 556,1741 636,1741 636,1749 652,1749 671,1739 719,1739 719,1749 734,1749 751,1738 771,1738 911,1738 911,1747 925,1747 925,1738 941,1738 941,1768 578,1769 508,1769 468,1769 184,1767" />
+				<Baseline points="184,1767 941,1766" />
+				<TextEquiv index="1">
+					<Unicode>Sein Los ist so schwarz wie sein Lederschurz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l4" custom="readingOrder {index:4;}">
+				<Coords points="182,1779 238,1779 296,1781 307,1779 487,1779 487,1790 518,1789 535,1781 552,1781 552,1790 609,1789 609,1780 684,1779 704,1779 838,1779 856,1787 892,1787 911,1779 980,1779 982,1786 992,1786 992,1806 838,1808 629,1808 629,1816 609,1816 609,1808 592,1808 592,1816 569,1816 569,1808 552,1808 552,1816 535,1816 518,1808 359,1813 307,1813 307,1807 182,1807" />
+				<Baseline points="182,1807 992,1806" />
+				<TextEquiv index="1">
+					<Unicode>Ein Glück, dass der Jugend Gedächtnis so kurz:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l5" custom="readingOrder {index:5;}">
+				<Coords points="183,1819 228,1819 395,1819 395,1828 411,1828 431,1820 552,1820 570,1829 592,1829 592,1820 632,1820 649,1829 665,1825 733,1825 764,1828 764,1841 770,1841 770,1848 552,1849 491,1849 442,1849 431,1849 183,1847" />
+				<Baseline points="183,1847 770,1847" />
+				<TextEquiv index="1">
+					<Unicode>Im Nu ist sie fröhlich und munter.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Und manches heimliche Thränlein schluckt
+Der arme Bursche hinunter.
+Sein Los ist so schwarz wie sein Lederschurz
+Ein Glück, dass der Jugend Gedächtnis so kurz:
+Im Nu ist sie fröhlich und munter.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="184,1884 888,1884 888,2000 184,2000" />
+			<TextLine id="r10l0" custom="readingOrder {index:0;}">
+				<Coords points="184,1886 260,1884 315,1884 365,1884 365,1893 381,1893 400,1887 452,1887 452,1894 466,1894 466,1887 519,1887 537,1894 571,1894 589,1886 652,1886 652,1895 717,1894 717,1886 793,1885 793,1894 809,1894 809,1885 888,1886 888,1914 755,1914 683,1914 652,1914 621,1914 571,1914 419,1914 400,1914 184,1911" />
+				<Baseline points="184,1910 888,1913" />
+				<TextEquiv index="1">
+					<Unicode>Am liebsten besucht er Strass auf und ab</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l1" custom="readingOrder {index:1;}">
+				<Coords points="184,1925 212,1923 225,1923 225,1932 241,1932 258,1924 308,1925 308,1933 373,1933 389,1925 411,1925 411,1934 426,1934 426,1925 506,1925 506,1934 525,1934 525,1925 564,1925 564,1934 583,1934 602,1925 614,1925 614,1934 642,1934 662,1928 676,1926 697,1926 697,1934 744,1934 744,1926 822,1926 822,1947 830,1947 830,1962 814,1962 793,1962 793,1954 782,1954 782,1962 746,1962 744,1954 697,1953 697,1962 676,1962 676,1954 409,1953 184,1950" />
+				<Baseline points="184,1949 830,1954" />
+				<TextEquiv index="1">
+					<Unicode>Die Häuser der Kunden im Dauertrab,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l2" custom="readingOrder {index:2;}">
+				<Coords points="184,1964 213,1964 213,1970 232,1970 250,1962 314,1962 341,1971 373,1971 392,1965 452,1965 471,1974 525,1974 525,1966 545,1966 545,1973 563,1973 563,1966 599,1966 599,1974 614,1974 614,1966 631,1966 631,1974 645,1974 645,1966 662,1966 662,2000 645,2000 645,1993 631,1993 631,2000 614,2000 614,1993 599,1993 599,2000 579,2000 579,1993 566,1993 566,2000 525,2000 525,1992 492,1993 341,1992 309,1990 184,1990" />
+				<Baseline points="184,1989 662,1993" />
+				<TextEquiv index="1">
+					<Unicode>Da fühlt er sich neugeboren.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Am liebsten besucht er Strass auf und ab
+Die Häuser der Kunden im Dauertrab,
+Da fühlt er sich neugeboren.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Kindliche Unterhaltung.
+In Frankfurter Mundart.
+Fritzchen rief zum Fenster ’naus
+Zu des Nachbars Klärche:
+»Eetsch! mer kriehn uff unser Haus
+Doch e Bellvedeerche!«
+Un den Klärche rief enuff
+Neidisch zu dem Biebche:
+»Eetsch! mer kriehn doch aach was druff!
+Eetsch! und schawe Riebche!
+Hat gesagt mei’ Vatter doch
+Ehrscht vor e par Däg,
+Dass e Hypothek er noch
+Uff des Haus jetz’ kräg!«
+⟦⟧
+Berliner Schusterjunge.
+Der fröhlichste Knirps auf der ganzen Welt,
+Der seine Sache auf nichts gestellt,
+Ob alles sich dreh im Schwunge –
+Der immer kalauert, singt und pfeift
+Und alles verzeiht, weil er alles begreift;
+Ist unser Schusterjunge!
+Tagüber kauert der kleine Wicht
+Im Keller bei dürftigem Sonnenlicht,
+Putzt Stiefel und schält Kartoffel.
+Der Meister gerbt ihm tüchtig das Fell,
+Die Meisterin schilt ihn – und Bursch und Gesell,
+Die nennen ihn Stiesel und Stoffel.
+Ein trauriges Leben – getreten, geduckt;
+Und manches heimliche Thränlein schluckt
+Der arme Bursche hinunter.
+Sein Los ist so schwarz wie sein Lederschurz
+Ein Glück, dass der Jugend Gedächtnis so kurz:
+Im Nu ist sie fröhlich und munter.
+Am liebsten besucht er Strass auf und ab
+Die Häuser der Kunden im Dauertrab,
+Da fühlt er sich neugeboren.
+-->
+	</Page>
+</PcGts>

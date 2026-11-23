@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:47:08</Created>
+		<LastChange>2026-11-23T18:47:08</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Schnitzler_Traumnovelle.djvu/10 revision 3389771 of 2018-08-01T07:34:08Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="schnitzler_traumnovelle_1926_0010.png" imageWidth="800" imageHeight="1375">
+		<ReadingOrder>
+			<OrderedGroup id="ro9752672814187608524" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="402,85 509,85 509,120 402,120" />
+			<!-- line left out: id="r0l0" points="402,106 421,106 450,97 462,97 485,85 499,85 499,107 509,107 509,110 499,110 499,120 485,120 450,115 402,110" baseline="402,110 509,110" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 8 =—
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="169,146 733,146 733,1164 169,1164" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="174,146 189,146 206,146 221,146 222,161 236,146 250,146 250,153 269,153 278,146 298,146 304,147 304,153 319,153 319,146 333,146 333,161 347,153 381,153 381,147 387,147 387,153 413,153 423,147 439,147 439,154 451,154 451,147 474,147 474,154 493,154 493,147 542,147 542,154 602,154 602,147 623,147 623,154 668,155 668,148 676,148 676,155 700,155 700,148 714,148 723,153 733,155 733,166 669,166 669,172 623,172 609,172 609,166 602,166 592,172 578,172 578,165 542,165 542,172 529,172 529,165 439,165 338,169 222,169 174,164" />
+				<Baseline points="174,164 733,166" />
+				<TextEquiv index="1">
+					<Unicode>dich, das Kind, meine Zukunft hinzugeben, glaubte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l1" points="174,184 182,184 207,184 218,190 231,190 231,184 245,184 272,184 284,191 316,188 328,188 362,185 374,185 402,185 413,191 419,191 419,184 433,184 457,188 465,184 490,184 512,184 519,191 532,191 545,192 545,200 560,192 588,192 588,185 602,185 610,192 620,192 620,185 636,185 655,185 693,185 698,186 706,196 731,196 731,199 698,204 693,204 693,211 679,211 679,204 654,204 648,211 620,211 620,203 550,208 512,208 479,208 433,208 419,208 362,203 344,202 344,209 316,209 305,202 174,202" baseline="174,202 351,202 610,203 731,204" reason: differs: "ich—" against "ch – wi" | Wikisource:  | next_nc_e1: ich mich so gut wie entschlossen, und zugleich — | german_print2_15: ich mich so gut wie entschlossen, und zugleich — -->
+			<!-- line left out: id="r1l2" points="174,229 184,229 184,222 213,222 255,222 255,229 355,227 370,222 391,222 391,229 417,229 418,223 428,223 438,232 475,227 486,227 511,227 547,224 612,224 612,230 630,227 659,227 697,230 705,224 732,224 732,243 705,243 547,242 475,241 465,235 438,235 428,241 292,241 197,241 174,241" baseline="174,240 280,240 732,242" reason: differs: "wirs" against "ich " | Wikisource:  | next_nc_e1: wirst du es verstehen? — warst du mir teurer als | german_print2_15: wirst du es verstehen? — warst du mir teurer als -->
+			<!-- line left out: id="r1l3" points="174,260 181,260 182,266 194,266 194,275 211,259 231,259 231,267 264,267 264,261 278,261 278,267 330,267 345,261 360,261 366,262 419,267 430,261 456,261 456,267 472,267 472,261 494,261 519,261 544,261 544,268 557,268 557,276 574,261 588,261 588,269 629,269 629,261 645,261 674,261 708,262 732,262 732,280 574,280 557,286 519,286 505,286 505,279 494,279 494,286 480,286 480,280 472,280 456,279 456,286 442,286 442,279 378,279 231,279 211,279 182,278 181,284 174,284" baseline="174,278 345,278 732,280" reason: second model: differs: "je.G" against "r al" | Wikisource: je. Gerade an diesem Nachmittag, du mußt dich | next_nc_e1: je. Gerade an diesem Nachmittag, du mußt dich | german_print2_15: je. Gerade an diesem Nachmittag, du mußit dich -->
+			<!-- line left out: id="r1l4" points="174,304 211,304 211,298 226,298 245,299 269,299 275,305 289,305 289,299 302,299 302,305 333,305 333,314 350,299 361,299 381,299 393,303 437,305 459,306 459,300 466,300 466,306 477,306 477,299 492,299 493,314 507,299 521,299 521,306 532,306 532,298 547,298 588,300 588,306 646,304 655,304 690,304 701,306 724,304 732,304 732,318 678,319 498,322 493,322 437,318 393,318 393,324 367,324 367,317 338,321 302,321 245,321 239,321 187,317 174,316" baseline="174,317 403,317 732,318" reason: second model: differs: "noch" against "dich" | Wikisource: noch erinnern, fügte es sich, daß wir so vertraut | next_nc_e1: noch erinnern, fügte es sich, daß wir so vertraut | german_print2_15: noch erinnern, fügte es sich, daſßß wir so vertraut -->
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="173,338 187,337 201,337 201,343 244,341 302,344 302,337 350,337 373,337 373,344 440,344 440,338 494,338 504,344 659,345 659,339 667,339 667,346 680,345 681,339 720,339 720,345 732,346 732,357 720,357 720,363 694,363 681,363 681,357 616,357 616,363 602,363 594,357 506,357 379,362 334,362 334,356 173,355" />
+				<Baseline points="173,355 732,357" />
+				<TextEquiv index="1">
+					<Unicode>über tausend Dinge, auch über unsere gemeinsame</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="174,375 190,375 218,375 218,382 231,382 231,375 255,375 275,382 310,382 310,375 325,375 362,376 362,382 383,382 392,376 406,376 406,382 425,383 434,376 460,376 460,383 475,383 475,376 488,376 496,383 509,383 509,376 517,376 517,383 537,383 537,376 557,376 557,383 568,381 572,376 585,376 599,381 612,383 612,391 623,383 644,383 644,377 652,377 652,383 691,383 691,376 706,376 706,383 732,383 732,395 692,395 612,399 585,394 585,400 572,400 568,395 552,400 537,400 537,394 510,394 510,400 496,400 488,394 373,394 266,398 196,398 174,393" />
+				<Baseline points="174,393 732,395" />
+				<TextEquiv index="1">
+					<Unicode>Zukunft, auch über das Kind plauderten, wie schon</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="173,419 194,414 221,412 229,412 229,420 303,420 303,414 321,413 337,413 356,420 383,420 383,413 404,413 404,420 420,420 429,414 487,414 487,420 573,420 573,414 587,414 601,418 692,421 692,413 708,413 708,421 732,421 732,432 671,432 661,439 647,439 647,432 624,432 624,439 610,439 610,432 587,432 587,439 573,439 573,432 383,432 268,430 268,437 254,437 254,431 173,431" />
+				<Baseline points="173,431 732,432" />
+				<TextEquiv index="1">
+					<Unicode>seit lange nicht mehr. Bei Sonnenuntergang saßen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="172,451 201,451 201,457 245,457 245,450 255,450 275,451 275,457 308,458 316,451 372,451 372,458 398,458 405,451 419,451 419,458 448,458 448,451 549,452 549,458 560,458 568,452 591,452 591,458 643,458 673,453 711,452 711,458 732,458 732,470 620,470 615,476 602,476 602,470 591,470 591,476 568,476 560,469 528,474 316,474 172,469" />
+				<Baseline points="172,469 732,470" />
+				<TextEquiv index="1">
+					<Unicode>wir auf dem Balkon, du und ich, da ging er vorüber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="173,492 222,492 278,495 290,489 304,489 335,495 341,489 367,489 376,495 389,495 389,489 404,489 404,496 447,496 447,489 477,489 477,496 498,497 498,489 518,489 552,490 552,496 577,496 577,505 591,497 619,497 619,490 679,490 689,497 732,497 732,509 582,513 461,513 447,513 341,512 324,508 297,512 222,508 173,508" />
+				<Baseline points="173,507 732,509" />
+				<TextEquiv index="1">
+					<Unicode>unten am Strand, ohne aufzublicken, und ich war</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="173,528 187,528 187,534 209,534 209,528 227,528 257,528 315,528 324,535 377,535 377,528 400,528 400,534 418,534 418,543 432,528 456,528 510,528 510,535 538,535 538,529 679,529 679,535 694,535 700,529 713,529 721,530 731,535 731,547 270,550 250,552 227,552 211,552 198,552 198,546 173,546" />
+				<Baseline points="173,546 731,547" />
+				<TextEquiv index="1">
+					<Unicode>beglückt, ihn zu sehen. Dir aber strich ich über die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="173,566 233,566 233,572 280,572 280,565 315,564 349,564 358,569 369,572 382,566 428,566 442,572 468,573 468,566 479,566 479,573 497,566 524,566 524,573 552,573 552,581 570,566 586,566 586,573 598,573 598,566 612,566 631,567 631,573 668,568 697,568 697,574 732,574 732,585 599,585 557,589 524,589 511,589 293,584 173,583" />
+				<Baseline points="173,583 732,585" />
+				<TextEquiv index="1">
+					<Unicode>Stirne und küßte dich aufs Haar, und in meiner</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l12" custom="readingOrder {index:12;}">
+				<Coords points="173,603 192,603 224,604 224,610 272,611 284,603 305,603 305,610 370,610 381,604 388,604 388,610 418,610 418,604 444,605 455,610 455,604 470,604 478,611 492,611 492,605 500,605 500,611 511,611 511,604 518,604 527,611 536,611 536,604 656,604 656,611 675,612 684,604 716,604 726,609 726,615 731,615 731,617 726,617 726,623 419,622 419,629 405,629 405,622 388,622 388,629 381,629 370,622 173,622" />
+				<Baseline points="173,622 731,623" />
+				<TextEquiv index="1">
+					<Unicode>Liebe zu dir war zugleich viel schmerzliches Mit-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l13" custom="readingOrder {index:13;}">
+				<Coords points="171,641 179,641 203,641 213,642 213,657 227,642 345,642 353,649 396,649 404,642 437,642 445,649 465,649 465,642 492,642 500,649 519,649 519,642 555,642 555,649 567,649 576,643 590,643 590,649 603,649 612,643 633,643 633,649 647,646 722,644 722,650 732,650 732,662 648,662 567,665 543,665 521,661 171,660" />
+				<Baseline points="171,660 491,660 732,662" />
+				<TextEquiv index="1">
+					<Unicode>leid. Am Abend war ich sehr schön, du hast es mir</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l14" custom="readingOrder {index:14;}">
+				<Coords points="172,679 181,679 226,679 226,687 280,684 307,684 331,687 331,681 359,681 427,687 427,681 436,681 436,687 498,687 498,681 505,679 521,679 521,687 532,687 536,681 561,681 561,687 587,687 591,681 599,681 599,687 620,687 624,681 724,681 724,688 732,688 732,700 416,699 410,705 374,705 374,699 317,698 311,704 307,705 280,705 280,698 255,699 255,705 240,705 236,699 172,699" />
+				<Baseline points="172,699 732,700" />
+				<TextEquiv index="1">
+					<Unicode>selber gesagt, und trug eine weiße Rose im Gürtel. Es</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l15" custom="readingOrder {index:15;}">
+				<Coords points="171,725 215,725 220,718 267,718 267,725 278,725 278,719 285,718 491,718 510,719 510,725 532,725 535,719 553,719 553,726 587,726 587,719 621,714 635,714 645,720 675,723 684,720 693,720 693,726 731,726 731,738 635,737 635,746 621,746 620,737 446,741 171,737" />
+				<Baseline points="171,737 731,737" />
+				<TextEquiv index="1">
+					<Unicode>war vielleicht kein Zufall, daß der Fremde mit seinen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l16" custom="readingOrder {index:16;}">
+				<Coords points="171,756 196,756 196,763 216,763 216,756 250,756 250,763 276,763 280,757 301,757 305,763 386,763 388,756 436,756 436,763 447,763 450,755 487,755 516,756 516,763 526,763 529,757 583,757 602,763 606,757 654,757 662,761 689,764 692,758 722,758 722,764 731,764 731,776 692,776 171,774" />
+				<Baseline points="171,774 529,774 731,776" />
+				<TextEquiv index="1">
+					<Unicode>Freunden in unserer Nähe saß. Er blickte nicht zu mir</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l17" custom="readingOrder {index:17;}">
+				<Coords points="171,795 238,794 253,794 259,800 268,800 268,794 296,794 296,800 334,801 334,795 353,794 362,794 380,794 429,794 443,794 443,801 475,801 479,794 511,794 535,794 557,794 564,795 564,801 610,801 610,795 701,795 701,802 726,803 726,810 730,810 730,819 677,819 656,819 623,819 610,819 610,813 595,818 484,818 429,813 385,812 380,819 371,819 371,813 334,812 334,819 320,819 320,813 240,813 214,817 179,817 171,813" />
+				<Baseline points="171,813 730,814" />
+				<TextEquiv index="1">
+					<Unicode>her, ich aber spielte mit dem Gedanken, aufzustehen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l18" custom="readingOrder {index:18;}">
+				<Coords points="171,840 222,839 222,833 259,833 259,839 273,839 278,833 304,833 304,839 324,839 324,832 339,832 347,839 359,839 379,836 444,836 456,840 456,833 469,833 469,840 480,840 480,833 525,833 525,840 653,841 659,833 680,833 680,840 691,840 696,834 730,835 730,853 646,853 620,858 594,858 594,851 171,851" />
+				<Baseline points="171,851 586,851 730,853" />
+				<TextEquiv index="1">
+					<Unicode>an seinen Tisch zu treten und ihm zu sagen: Da bin</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l19" points="170,872 179,872 188,871 204,871 204,885 215,877 248,877 248,871 256,871 256,877 270,877 276,871 304,871 349,871 382,871 382,877 423,872 450,872 450,878 463,878 467,871 506,871 513,872 513,878 524,878 524,872 534,871 546,871 559,875 570,878 602,881 607,872 653,872 653,878 676,872 692,872 706,873 716,872 730,872 730,891 676,891 607,890 578,885 574,894 546,894 534,894 526,890 492,894 402,894 382,894 349,894 304,894 288,894 256,889 209,893 203,893 170,889" baseline="170,889 467,889 607,890 730,891" reason: differs: "er,—nim" against "r, – ni" | Wikisource:  | next_nc_e1: ich, mein Erwarteter, mein Geliebter, — nimm mich | german_print2_15: ich, mein Erwarteter, mein Geliebter, — nimm mich -->
+			<TextLine id="r1l20" custom="readingOrder {index:20;}">
+				<Coords points="169,909 208,909 270,909 270,916 323,916 325,909 344,909 363,909 363,916 385,916 385,909 416,909 467,909 467,916 486,916 486,909 515,909 524,914 585,916 588,909 632,909 712,910 712,917 724,917 729,920 729,923 724,923 724,929 398,928 398,934 385,934 385,928 370,928 370,934 350,934 350,928 169,928" />
+				<Baseline points="169,928 729,929" />
+				<TextEquiv index="1">
+					<Unicode>hin. In diesem Augenblick brachte man ihm das Tele-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l21" custom="readingOrder {index:21;}">
+				<Coords points="169,954 248,954 248,962 262,954 284,954 292,948 301,948 301,955 349,954 358,949 377,947 410,947 416,952 432,955 441,948 553,949 553,955 584,955 591,949 675,949 675,955 688,955 695,949 710,949 710,955 731,955 731,968 675,968 675,974 613,974 613,968 599,973 591,973 584,967 432,972 312,972 312,966 301,967 297,972 247,971 218,966 218,973 169,973" />
+				<Baseline points="169,966 731,968" />
+				<TextEquiv index="1">
+					<Unicode>gramm, er las, erblaßte, flüsterte dem jüngeren der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l22" custom="readingOrder {index:22;}">
+				<Coords points="169,986 184,986 217,986 217,992 241,993 256,986 322,986 322,993 375,993 375,987 413,987 413,993 429,993 440,987 475,987 500,991 548,994 548,1001 564,994 579,994 579,987 647,987 665,993 676,988 730,988 730,1005 552,1010 418,1005 418,1011 390,1011 375,1011 375,1005 169,1004" />
+				<Baseline points="169,1004 730,1005" />
+				<TextEquiv index="1">
+					<Unicode>beiden Offiziere einige Worte zu, und mit einem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l23" custom="readingOrder {index:23;}">
+				<Coords points="169,1030 180,1025 187,1025 187,1019 229,1019 271,1019 290,1019 321,1019 341,1019 359,1024 443,1024 446,1028 456,1025 476,1024 476,1031 491,1031 491,1024 517,1024 521,1031 551,1031 551,1023 570,1024 570,1031 581,1031 581,1023 597,1023 600,1031 622,1031 629,1024 639,1019 651,1019 651,1031 660,1031 669,1024 679,1019 699,1019 713,1024 728,1025 728,1032 719,1032 718,1043 699,1043 699,1051 679,1051 679,1042 651,1043 651,1051 639,1051 639,1043 563,1043 517,1047 491,1047 465,1043 443,1047 417,1047 393,1043 341,1043 341,1051 321,1051 309,1051 309,1042 299,1042 290,1051 271,1051 229,1051 187,1051 187,1042 169,1042" />
+				<Baseline points="169,1042 728,1043" />
+				<TextEquiv index="1">
+					<Unicode>rätselhaften Blick mich streifend, verließ er den Saal.“</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l24" custom="readingOrder {index:24;}">
+				<Coords points="196,1076 208,1076 208,1061 228,1061 228,1068 242,1068 242,1062 269,1061 279,1061 452,1062 494,1063 495,1066 505,1063 527,1063 531,1068 550,1069 559,1062 616,1063 647,1068 647,1062 719,1062 719,1069 729,1069 729,1087 706,1087 700,1082 687,1081 687,1087 660,1087 660,1081 550,1085 513,1085 506,1081 494,1085 462,1085 418,1081 363,1080 351,1087 297,1087 289,1087 279,1070 269,1070 268,1080 196,1085" />
+				<Baseline points="196,1080 729,1081" />
+				<TextEquiv index="1">
+					<Unicode>„Und?“ fragte Fridolin trocken, als sie schwieg.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l25" custom="readingOrder {index:25;}">
+				<Coords points="196,1115 206,1115 206,1100 301,1101 309,1107 321,1107 321,1101 330,1101 338,1105 365,1107 374,1100 410,1100 421,1108 434,1108 434,1100 476,1100 484,1108 525,1108 525,1116 538,1099 579,1099 622,1100 630,1108 685,1103 693,1101 723,1101 723,1111 729,1111 729,1115 723,1115 723,1121 529,1124 507,1124 493,1124 311,1120 220,1124 196,1124" />
+				<Baseline points="196,1119 621,1119 729,1121" />
+				<TextEquiv index="1">
+					<Unicode>„Nichts weiter. Ich weiß nur, daß ich am näch-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l26" custom="readingOrder {index:26;}">
+				<Coords points="169,1143 201,1143 212,1146 218,1139 248,1139 248,1146 269,1146 269,1139 284,1139 284,1146 303,1146 308,1140 339,1140 358,1146 358,1140 384,1140 384,1146 420,1146 420,1140 490,1140 490,1146 503,1146 506,1140 614,1140 623,1144 636,1146 636,1140 709,1140 713,1144 729,1147 729,1159 709,1164 675,1164 652,1164 636,1164 607,1159 590,1164 519,1164 519,1158 490,1158 490,1164 469,1164 435,1164 407,1164 405,1158 318,1159 303,1164 265,1164 265,1158 248,1158 248,1164 233,1164 233,1158 169,1158" />
+				<Baseline points="169,1158 729,1159" />
+				<TextEquiv index="1">
+					<Unicode>sten Morgen mit einer gewissen Bangigkeit erwachte.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>dich, das Kind, meine Zukunft hinzugeben, glaubte
+über tausend Dinge, auch über unsere gemeinsame
+Zukunft, auch über das Kind plauderten, wie schon
+seit lange nicht mehr. Bei Sonnenuntergang saßen
+wir auf dem Balkon, du und ich, da ging er vorüber
+unten am Strand, ohne aufzublicken, und ich war
+beglückt, ihn zu sehen. Dir aber strich ich über die
+Stirne und küßte dich aufs Haar, und in meiner
+Liebe zu dir war zugleich viel schmerzliches Mit-
+leid. Am Abend war ich sehr schön, du hast es mir
+selber gesagt, und trug eine weiße Rose im Gürtel. Es
+war vielleicht kein Zufall, daß der Fremde mit seinen
+Freunden in unserer Nähe saß. Er blickte nicht zu mir
+her, ich aber spielte mit dem Gedanken, aufzustehen,
+an seinen Tisch zu treten und ihm zu sagen: Da bin
+hin. In diesem Augenblick brachte man ihm das Tele-
+gramm, er las, erblaßte, flüsterte dem jüngeren der
+beiden Offiziere einige Worte zu, und mit einem
+rätselhaften Blick mich streifend, verließ er den Saal.“
+„Und?“ fragte Fridolin trocken, als sie schwieg.
+„Nichts weiter. Ich weiß nur, daß ich am näch-
+sten Morgen mit einer gewissen Bangigkeit erwachte.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+dich, das Kind, meine Zukunft hinzugeben, glaubte ich mich so gut wie entschlossen, und zugleich – wirst du es verstehen? – warst du mir teurer als je. Gerade an diesem Nachmittag, du mußt dich noch erinnern, fügte es sich, daß wir so vertraut über tausend Dinge, auch über unsere gemeinsame Zukunft, auch über das Kind plauderten, wie schon seit lange nicht mehr. Bei Sonnenuntergang saßen wir auf dem Balkon, du und ich, da ging er vorüber unten am Strand, ohne aufzublicken, und ich war beglückt, ihn zu sehen. Dir aber strich ich über die Stirne und küßte dich aufs Haar, und in meiner Liebe zu dir war zugleich viel schmerzliches Mitleid. Am Abend war ich sehr schön, du hast es mir selber gesagt, und trug eine weiße Rose im Gürtel. Es war vielleicht kein Zufall, daß der Fremde mit seinen Freunden in unserer Nähe saß. Er blickte nicht zu mir her, ich aber spielte mit dem Gedanken, aufzustehen, an seinen Tisch zu treten und ihm zu sagen: Da bin ich, mein Erwarteter, mein Geliebter, – nimm mich hin. In diesem Augenblick brachte man ihm das Telegramm, er las, erblaßte, flüsterte dem jüngeren der beiden Offiziere einige Worte zu, und mit einem rätselhaften Blick mich streifend, verließ er den Saal.“
+„Und?“ fragte Fridolin trocken, als sie schwieg.
+„Nichts weiter. Ich weiß nur, daß ich am nächsten Morgen mit einer gewissen Bangigkeit erwachte.
+-->
+	</Page>
+</PcGts>

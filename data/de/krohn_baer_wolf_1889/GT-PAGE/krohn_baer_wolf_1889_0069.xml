@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:38:59</Created>
+		<LastChange>2026-11-23T18:38:59</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Krohn_Bär_(Wolf)_und_Fuchs.djvu/69 revision 3342407 of 2018-08-01T02:05:59Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="krohn_baer_wolf_1889_0069.png" imageWidth="1190" imageHeight="1926">
+		<ReadingOrder>
+			<OrderedGroup id="ro2451643131205407776" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="458,178 599,178 599,218 458,218" />
+			<!-- line left out: id="r0l0" points="458,202 480,202 512,190 574,190 574,178 599,178 599,218 574,218 574,212 528,213 512,213 480,206 458,206" baseline="458,206 599,206" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 67 —
+ | german_print2_15: — 67 —
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="96,256 967,256 967,1250 96,1250" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="97,258 141,258 141,264 239,263 260,256 293,256 311,258 322,262 322,256 339,256 339,262 426,262 426,256 435,256 435,263 460,262 460,256 477,256 477,262 526,257 798,257 812,264 827,264 827,258 851,258 851,264 870,264 870,258 879,258 879,264 891,264 891,258 901,258 901,264 929,264 929,258 945,258 945,264 957,264 957,280 871,280 871,286 836,286 836,280 97,280" />
+				<Baseline points="97,280 238,278 659,278 957,280" />
+				<TextEquiv index="1">
+					<Unicode>dass unser Märchen zwischen Bär und Fuchs sich abspielende</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="96,298 123,297 139,297 139,304 154,304 154,298 170,298 170,304 181,304 181,297 215,297 215,303 227,303 227,297 237,297 293,303 293,297 311,297 311,303 340,303 360,297 449,297 449,303 462,303 462,297 492,297 492,303 517,303 517,297 547,297 547,303 575,303 597,297 606,297 606,303 638,303 638,297 654,297 654,303 678,303 678,297 688,297 717,297 723,298 737,304 854,299 868,305 915,305 928,299 958,299 958,321 535,319 535,331 517,331 517,319 478,319 478,331 420,331 406,331 385,319 197,319 197,326 181,326 181,320 156,320 156,326 123,326 123,320 96,320" />
+				<Baseline points="96,320 722,319 958,321" />
+				<TextEquiv index="1">
+					<Unicode>Begebenheit schon in Skandinavien verbreitet war und von da</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l2" custom="readingOrder {index:2;}">
+				<Coords points="97,345 193,344 193,338 285,338 285,344 314,344 314,338 342,337 352,337 352,344 370,344 370,337 417,337 471,337 483,339 483,355 503,343 520,343 520,337 550,337 630,338 632,344 671,339 685,339 715,344 715,338 756,338 764,360 770,345 811,340 885,340 942,345 942,339 958,339 958,361 861,366 787,366 770,366 764,363 503,359 488,366 482,366 482,359 456,359 456,366 449,366 342,365 329,359 195,361 97,360" />
+				<Baseline points="97,361 328,359 958,361" />
+				<TextEquiv index="1">
+					<Unicode>aus nach Finnland gelangt ist, und die deutsche gestattet auch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l3" custom="readingOrder {index:3;}">
+				<Coords points="97,379 126,379 126,385 143,378 183,378 183,384 194,384 194,378 241,378 241,384 271,384 287,378 313,378 313,384 382,384 397,378 405,378 405,384 531,384 545,377 567,377 567,383 579,378 613,377 630,377 672,378 672,384 768,379 815,379 815,385 837,385 837,379 854,379 854,385 882,385 896,379 933,379 933,386 958,385 958,402 815,406 785,406 768,406 768,400 726,400 726,406 709,406 696,400 516,400 500,405 443,405 429,399 287,400 271,406 252,406 252,400 241,400 241,406 224,406 224,400 213,400 213,406 194,406 194,400 183,400 183,406 167,406 167,400 97,401" />
+				<Baseline points="97,401 381,399 958,402" />
+				<TextEquiv index="1">
+					<Unicode>die Annahme, dass es im ganzen Gebiete der germanischen Race</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l4" custom="readingOrder {index:4;}">
+				<Coords points="97,419 126,419 126,425 143,418 179,418 179,425 190,425 190,418 223,418 223,425 234,425 234,418 253,418 271,420 282,424 282,418 299,418 299,424 328,424 341,418 358,418 358,424 379,424 379,418 398,418 441,418 441,424 469,424 483,418 500,418 500,424 513,419 526,419 526,435 564,418 588,418 736,419 736,425 747,420 760,420 784,425 784,419 801,419 801,425 815,425 815,419 871,420 871,426 882,426 882,420 899,420 958,426 958,442 946,447 923,447 856,442 97,441" />
+				<Baseline points="97,440 641,440 958,442" />
+				<TextEquiv index="1">
+					<Unicode>als Fuchsmärchen bestanden hat. Aber damit ist noch nicht ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="97,465 107,460 149,460 149,476 169,459 214,459 214,465 327,465 335,458 387,458 387,464 494,464 494,458 568,458 595,459 595,465 625,465 625,458 642,458 659,461 670,465 670,459 687,459 687,465 787,465 851,460 885,461 885,477 907,460 959,460 959,482 855,483 787,487 769,487 769,481 745,481 745,487 729,487 715,481 441,480 428,486 412,486 412,480 383,480 383,486 366,486 366,480 354,480 354,486 337,486 337,480 169,481 154,487 138,487 107,487 107,481 97,481" />
+				<Baseline points="97,481 959,482" />
+				<TextEquiv index="1">
+					<Unicode>sagt, dass es von Anfang an ein Fuchsmärchen gewesen ist. Viel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l6" custom="readingOrder {index:6;}">
+				<Coords points="97,506 134,499 149,499 182,499 182,505 194,505 194,499 212,499 225,504 266,505 266,499 283,499 283,505 308,505 308,499 326,499 363,499 414,505 428,499 452,499 452,505 464,505 477,499 512,499 539,499 567,499 584,500 596,505 596,499 606,499 675,500 675,506 701,506 701,500 718,500 718,506 746,506 759,500 960,501 960,522 942,523 907,523 868,523 851,523 798,523 97,521" />
+				<Baseline points="97,522 630,521 960,523" />
+				<TextEquiv index="1">
+					<Unicode>natürlicher erscheint es als Wortstreit zwischen in Wirklichkeit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l7" custom="readingOrder {index:7;}">
+				<Coords points="97,541 204,540 204,546 217,546 238,540 255,540 268,545 296,546 296,540 338,541 353,545 367,539 391,539 391,545 411,545 411,539 428,539 428,545 444,540 462,540 490,545 490,556 496,556 518,539 530,539 530,545 555,545 555,539 585,539 593,540 593,546 631,541 765,542 777,547 777,558 797,546 838,541 874,541 874,547 954,547 954,553 959,553 959,556 954,556 954,563 797,563 781,569 775,569 765,563 749,563 749,569 722,569 705,569 705,562 530,562 496,567 490,567 490,561 428,561 428,567 411,567 404,562 338,562 326,567 306,567 298,562 283,567 189,563 97,562" />
+				<Baseline points="97,562 367,561 959,563" />
+				<TextEquiv index="1">
+					<Unicode>mit Rede begabten Menschen, welcher erst später, so wie man-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l8" custom="readingOrder {index:8;}">
+				<Coords points="98,587 109,587 109,581 125,581 125,587 196,587 196,580 211,580 211,586 250,586 250,597 256,597 278,580 291,580 291,586 315,586 315,580 325,580 360,580 400,580 421,586 451,586 465,580 481,580 481,586 559,586 559,580 577,580 577,586 604,586 604,580 620,580 620,587 633,587 633,597 639,597 653,581 663,581 663,587 687,587 700,581 736,581 736,587 748,587 748,581 757,581 757,587 811,587 811,581 828,581 828,587 876,588 876,581 909,581 909,587 920,582 937,582 951,587 961,588 961,603 811,604 653,602 639,609 632,609 632,602 523,602 523,608 506,608 506,602 278,602 256,609 250,609 250,602 139,603 139,610 124,610 124,603 98,603" />
+				<Baseline points="98,603 961,603" />
+				<TextEquiv index="1">
+					<Unicode>ches andere, weiterhin zu besprechende, im Kreise menschlicher</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l9" custom="readingOrder {index:9;}">
+				<Coords points="97,621 129,621 129,627 184,628 205,622 277,621 285,621 307,622 334,627 334,621 344,621 344,627 355,627 355,621 366,621 366,627 393,627 393,621 409,621 409,627 422,627 445,621 469,621 507,621 507,627 537,627 537,621 553,621 571,623 599,622 612,627 650,623 708,623 719,628 742,622 766,622 766,628 778,628 802,622 830,622 830,628 872,628 872,622 889,622 905,624 917,628 917,622 934,622 934,628 961,628 961,644 335,643 335,649 306,649 306,643 285,643 285,649 277,649 256,643 97,644" />
+				<Baseline points="97,643 961,644" />
+				<TextEquiv index="1">
+					<Unicode>Wesen sich abspielende Volksmärchen unter die Tiermärchen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l10" custom="readingOrder {index:10;}">
+				<Coords points="98,668 111,668 111,662 142,662 142,668 172,668 172,662 188,662 188,668 201,668 201,662 221,662 221,668 272,668 293,662 300,662 387,662 452,662 465,667 480,668 494,662 503,662 503,668 518,668 531,662 562,662 562,668 578,668 578,662 648,662 676,662 676,668 720,663 960,663 960,684 776,685 759,689 709,689 629,689 617,684 606,683 606,689 562,689 546,689 465,684 361,684 221,689 188,689 151,689 126,689 98,684" />
+				<Baseline points="98,684 960,684" />
+				<TextEquiv index="1">
+					<Unicode>aufgenommen und mit ihnen in Verbindung gebracht worden ist.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l11" custom="readingOrder {index:11;}">
+				<Coords points="98,702 119,702 119,708 143,703 324,708 345,702 348,702 441,702 441,708 464,708 464,702 481,702 481,708 493,708 493,702 502,702 523,708 567,708 581,702 614,702 614,708 650,708 650,702 672,702 686,708 717,708 730,702 751,702 776,702 776,708 801,703 823,703 823,709 851,709 865,703 878,703 878,709 889,709 889,703 939,703 962,708 962,724 652,724 652,730 635,730 635,724 614,724 614,730 598,730 598,724 98,724" />
+				<Baseline points="98,724 962,724" />
+				<TextEquiv index="1">
+					<Unicode>Doch muss man sich hierbei aus Mangel an Beweisen mit der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l12" custom="readingOrder {index:12;}">
+				<Coords points="98,743 122,743 122,749 161,748 168,743 184,743 184,749 192,749 212,742 235,742 263,742 263,748 276,748 276,742 293,742 357,749 378,743 544,743 558,748 575,749 575,743 611,742 636,742 636,748 697,743 715,743 715,749 727,749 727,743 775,743 787,748 799,744 816,744 829,749 852,743 922,743 922,749 933,749 933,743 963,744 963,765 528,764 503,771 481,771 481,764 470,764 470,770 453,770 453,764 439,764 439,770 436,771 406,771 378,771 342,770 342,764 293,770 244,770 98,765" />
+				<Baseline points="98,765 963,765" />
+				<TextEquiv index="1">
+					<Unicode>blossen Vermutung begnügen, denn die schwedische Variante</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l13" points="98,783 129,783 129,789 145,789 145,783 160,783 182,789 238,789 258,783 261,783 261,789 296,789 296,783 324,783 348,784 398,783 435,783 450,789 460,784 479,784 522,784 595,784 690,789 690,783 711,783 721,789 754,789 757,783 787,783 791,789 808,784 877,784 877,790 895,790 895,784 934,784 937,790 952,790 962,795 962,799 956,799 952,805 910,806 863,806 757,805 754,811 737,811 734,805 721,805 711,811 690,811 690,805 650,810 633,810 559,805 522,810 494,810 374,810 341,810 98,805" baseline="98,805 962,805" reason: differs: "ndl10" against "d lokal" | Wikisource:  | next_nc_e1: kann man recht gut für später antropomorphisirt und l10- | german_print2_15: kann man recht gut für später antropomorphisirt und lo- -->
+			<TextLine id="r1l14" custom="readingOrder {index:14;}">
+				<Coords points="98,824 116,824 118,830 134,830 137,824 160,824 163,830 178,830 181,824 192,824 195,830 211,825 224,825 252,829 260,824 318,824 328,829 346,830 346,824 387,829 387,823 418,823 431,829 443,824 508,823 517,823 517,829 536,829 536,823 588,823 588,829 635,829 635,823 719,823 719,829 741,824 772,824 784,829 797,830 797,824 908,824 908,830 919,830 919,824 938,824 938,830 949,830 949,824 964,824 964,852 919,852 919,846 588,845 588,851 536,851 536,845 525,845 525,851 508,851 490,845 370,845 349,852 318,852 302,852 302,846 277,846 277,852 260,852 260,846 98,846" />
+				<Baseline points="98,846 964,845" />
+				<TextEquiv index="1">
+					<Unicode>kalisirt erklären, und noch geringer sind die Zweifel in Bezug</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l15" points="99,870 111,870 111,864 185,864 185,870 204,864 220,864 240,866 342,870 342,864 363,864 363,870 410,870 413,864 443,864 447,870 460,870 463,864 490,864 506,865 523,870 537,864 606,864 606,870 617,870 617,864 634,864 670,863 693,863 725,864 725,870 738,870 738,881 758,864 774,864 774,870 804,870 804,864 822,864 822,870 834,865 866,864 875,864 875,870 890,870 899,864 957,864 957,877 963,877 963,880 957,880 957,886 852,890 834,890 738,886 723,885 723,879 715,879 699,891 690,891 690,885 671,889 662,889 460,886 447,886 413,885 410,892 392,892 390,886 363,886 363,892 342,892 342,886 99,886" baseline="99,886 963,886" reason: differs: "(AjTe.J" against "Aj ‘e. " | Wikisource:  | next_nc_e1: auf die dämonomorphisirte Variante (Aj Te. Juuka) in Finn- | german_print2_15: auf die dämonomorphisirte Variante (Aj e. Juuka) in Finn- -->
+			<!-- line left out: id="r1l16" points="98,905 107,901 121,901 121,911 132,911 132,901 146,901 158,905 593,921 596,921 596,924 158,927 146,927 146,937 132,937 132,927 121,927 121,937 107,937 98,926" baseline="98,927 593,924 596,924" reason: differs: "land" against "n Fi" | Wikisource:  | next_nc_e1: land. .
+ | german_print2_15: land. .
+ -->
+			<!-- line left out: id="r1l17" points="168,945 189,945 189,951 205,951 226,945 242,945 242,951 267,951 280,945 288,945 311,950 321,945 339,945 353,950 381,950 395,951 395,945 411,945 479,950 479,944 522,944 522,950 533,950 533,944 560,944 560,950 588,950 601,944 632,944 652,946 663,950 663,944 681,944 731,944 775,945 775,962 796,945 812,945 865,950 879,944 911,944 911,950 948,945 957,945 963,946 963,971 956,971 956,959 948,959 942,967 850,967 825,967 810,967 796,966 780,972 774,972 748,967 731,966 731,972 715,972 715,966 704,966 704,972 686,972 679,967 632,966 632,972 616,972 616,966 425,967 368,972 288,972 280,972 168,967" baseline="168,967 587,966 963,966" reason: differs: "Zude" against "land" | Wikisource:  | next_nc_e1: Zu der vorliegenden nordischen Märchenkette, deren Kern ¹) | german_print2_15: Zu der vorliegenden nordischen Märchenkette, deren Kern¹) -->
+			<!-- line left out: id="r1l18" points="99,986 114,986 114,992 127,992 127,986 162,985 191,985 191,992 215,992 215,986 233,986 315,986 363,986 400,991 420,985 479,985 479,991 492,991 492,985 511,985 511,991 546,991 560,985 688,985 688,991 700,986 713,986 713,1002 737,991 765,991 765,985 783,985 796,987 837,991 850,985 875,985 875,991 900,991 914,985 967,985 967,1007 754,1007 754,1013 712,1013 712,1007 646,1007 646,1013 641,1013 560,1011 326,1008 99,1008" baseline="99,1008 399,1007 967,1007" reason: beside a footnote mark or an unknown template | Wikisource:  | next_nc_e1: das Fischen mit dem Schwanze (VIΠ) bildet, gehören also fünf | german_print2_15: das Fischen mit dem Schwanze (VID bildet, gehören also fünf -->
+			<TextLine id="r1l19" custom="readingOrder {index:19;}">
+				<Coords points="99,1032 113,1032 113,1026 142,1026 142,1032 171,1032 193,1026 202,1026 202,1032 215,1032 215,1026 232,1026 232,1032 243,1032 243,1026 324,1026 324,1032 335,1032 335,1026 419,1026 419,1032 442,1032 442,1026 459,1026 487,1031 508,1025 541,1025 592,1025 592,1031 608,1031 608,1025 682,1025 721,1025 768,1026 768,1032 779,1032 779,1026 819,1025 826,1025 886,1026 898,1031 898,1025 908,1025 908,1031 936,1031 936,1025 952,1025 952,1031 963,1031 963,1047 886,1047 886,1053 861,1053 861,1047 826,1053 819,1053 795,1047 317,1048 317,1054 232,1054 202,1054 193,1054 130,1049 99,1049" />
+				<Baseline points="99,1049 486,1047 963,1047" />
+				<TextEquiv index="1">
+					<Unicode>schon ursprünglich zwischen Bär und Fuchs sich abspielende</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l20" custom="readingOrder {index:20;}">
+				<Coords points="98,1067 131,1067 150,1069 161,1073 161,1067 180,1067 194,1072 210,1073 210,1083 235,1073 265,1073 283,1067 300,1067 357,1072 370,1066 480,1066 519,1066 532,1072 544,1072 544,1066 561,1066 630,1066 656,1072 681,1072 681,1066 715,1066 728,1072 736,1072 736,1066 768,1066 768,1072 779,1067 790,1066 806,1066 861,1072 861,1066 936,1066 950,1067 964,1072 964,1088 806,1091 577,1088 235,1089 215,1095 209,1095 209,1089 131,1089 131,1095 112,1095 112,1088 98,1088" />
+				<Baseline points="98,1089 964,1088" />
+				<TextEquiv index="1">
+					<Unicode>Märchen, zu denen in Finnland noch die zwei zuletzt erwähnten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l21" custom="readingOrder {index:21;}">
+				<Coords points="99,1106 199,1106 199,1113 259,1113 272,1107 432,1107 469,1112 469,1106 513,1106 513,1123 540,1106 569,1106 569,1112 587,1112 587,1106 640,1106 688,1106 688,1113 714,1112 724,1107 753,1107 779,1113 792,1112 805,1107 822,1107 833,1112 847,1106 894,1106 894,1112 927,1107 959,1107 959,1118 964,1118 964,1122 959,1122 959,1128 779,1128 772,1135 751,1135 751,1128 738,1128 738,1135 724,1135 724,1128 432,1129 419,1134 99,1134" />
+				<Baseline points="99,1129 964,1128" />
+				<TextEquiv index="1">
+					<Unicode>Erzählungen hinzugetreten sind. Doch ist als eine sehr nahe ste-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l22" custom="readingOrder {index:22;}">
+				<Coords points="99,1147 117,1147 117,1153 144,1153 144,1147 161,1147 161,1153 174,1153 189,1146 209,1146 225,1146 264,1146 266,1147 266,1153 278,1153 278,1147 288,1147 288,1153 325,1153 325,1146 343,1146 387,1146 410,1146 430,1153 441,1153 441,1146 458,1146 458,1152 473,1152 473,1146 557,1146 557,1152 585,1152 585,1146 601,1146 601,1152 615,1152 615,1146 675,1146 675,1152 686,1152 686,1146 716,1146 733,1146 763,1146 778,1153 778,1147 795,1147 795,1153 922,1152 922,1146 960,1146 960,1158 966,1158 966,1162 960,1162 960,1168 640,1169 626,1174 615,1174 615,1168 557,1168 557,1174 527,1174 527,1168 516,1168 516,1174 509,1174 489,1168 430,1168 410,1174 343,1174 264,1174 225,1174 199,1174 189,1174 99,1168" />
+				<Baseline points="99,1169 966,1168" />
+				<TextEquiv index="1">
+					<Unicode>hende Parallelerzählung noch folgendes Fuchsmärchen zu erwäh-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l23" custom="readingOrder {index:23;}">
+				<Coords points="99,1193 152,1193 175,1187 204,1187 204,1193 232,1193 253,1187 316,1187 316,1194 331,1194 351,1187 363,1187 363,1193 389,1193 389,1187 421,1187 421,1193 434,1193 448,1187 457,1187 457,1193 473,1193 486,1186 510,1186 510,1193 533,1193 533,1187 546,1186 561,1186 603,1186 603,1192 615,1192 615,1186 632,1186 632,1192 647,1187 758,1187 769,1192 780,1193 793,1187 827,1187 844,1189 855,1193 855,1187 873,1187 873,1193 895,1193 895,1187 917,1187 917,1193 930,1188 965,1188 965,1209 647,1208 634,1214 546,1214 523,1209 404,1209 404,1215 315,1215 315,1209 300,1210 292,1215 253,1215 232,1209 175,1209 152,1216 129,1216 129,1210 99,1209" />
+				<Baseline points="99,1209 965,1209" />
+				<TextEquiv index="1">
+					<Unicode>nen, dass häufig gerade in Verbindung mit dieser Märchenkette</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l24" custom="readingOrder {index:24;}">
+				<Coords points="100,1234 109,1234 109,1228 173,1228 197,1229 205,1233 205,1249 197,1250 100,1250" />
+				<Baseline points="100,1250 205,1250" />
+				<TextEquiv index="1">
+					<Unicode>auftritt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>dass unser Märchen zwischen Bär und Fuchs sich abspielende
+Begebenheit schon in Skandinavien verbreitet war und von da
+aus nach Finnland gelangt ist, und die deutsche gestattet auch
+die Annahme, dass es im ganzen Gebiete der germanischen Race
+als Fuchsmärchen bestanden hat. Aber damit ist noch nicht ge-
+sagt, dass es von Anfang an ein Fuchsmärchen gewesen ist. Viel
+natürlicher erscheint es als Wortstreit zwischen in Wirklichkeit
+mit Rede begabten Menschen, welcher erst später, so wie man-
+ches andere, weiterhin zu besprechende, im Kreise menschlicher
+Wesen sich abspielende Volksmärchen unter die Tiermärchen
+aufgenommen und mit ihnen in Verbindung gebracht worden ist.
+Doch muss man sich hierbei aus Mangel an Beweisen mit der
+blossen Vermutung begnügen, denn die schwedische Variante
+kalisirt erklären, und noch geringer sind die Zweifel in Bezug
+schon ursprünglich zwischen Bär und Fuchs sich abspielende
+Märchen, zu denen in Finnland noch die zwei zuletzt erwähnten
+Erzählungen hinzugetreten sind. Doch ist als eine sehr nahe ste-
+hende Parallelerzählung noch folgendes Fuchsmärchen zu erwäh-
+nen, dass häufig gerade in Verbindung mit dieser Märchenkette
+auftritt.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="100,1286 969,1286 969,1515 100,1515" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="175,1287 261,1287 264,1292 264,1303 298,1287 498,1286 513,1286 513,1292 550,1286 580,1286 622,1286 655,1286 705,1286 733,1286 801,1286 801,1292 826,1292 826,1286 842,1286 879,1292 879,1286 906,1286 932,1287 967,1292 967,1307 827,1307 815,1312 785,1312 785,1306 261,1307 261,1313 233,1313 188,1313 188,1307 175,1307" />
+				<Baseline points="175,1307 967,1306" />
+				<TextEquiv index="1">
+					<Unicode>Urform. Der Fuchs und der Bär sehen einen Specht auf dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="100,1328 151,1328 187,1333 187,1343 193,1343 229,1327 249,1327 313,1327 328,1332 339,1333 339,1327 390,1327 434,1327 469,1327 469,1343 496,1332 521,1327 531,1327 558,1327 632,1327 797,1327 865,1327 947,1327 961,1332 961,1338 966,1338 966,1341 961,1341 961,1348 496,1347 473,1353 468,1353 468,1347 390,1347 390,1353 387,1353 300,1348 100,1348" />
+				<Baseline points="100,1348 966,1347" />
+				<TextEquiv index="1">
+					<Unicode>Baume. Der Fuchs erklärt, solche schon einmal bemalt zu ha-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="100,1368 115,1368 115,1374 144,1374 144,1384 179,1368 298,1367 330,1367 357,1367 357,1383 393,1368 585,1368 610,1373 610,1367 643,1367 680,1373 680,1367 696,1367 726,1367 726,1373 753,1373 766,1367 783,1367 807,1367 833,1367 848,1368 848,1383 868,1373 930,1368 945,1368 945,1374 967,1374 967,1388 853,1393 791,1393 791,1387 381,1388 362,1394 330,1394 314,1394 314,1388 302,1388 302,1394 298,1394 281,1388 100,1389" />
+				<Baseline points="100,1389 967,1388" />
+				<TextEquiv index="1">
+					<Unicode>ben. Der Bär fragt, ob auch er so bemalt werden könnte, was der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="100,1409 134,1409 134,1415 145,1415 145,1409 162,1409 174,1414 195,1408 204,1408 231,1409 244,1414 244,1408 260,1408 332,1408 434,1408 457,1408 490,1408 528,1408 528,1414 554,1414 568,1408 602,1408 629,1408 686,1408 732,1408 738,1423 767,1408 787,1408 860,1408 948,1408 968,1409 968,1428 420,1429 275,1433 273,1433 245,1429 231,1433 204,1433 195,1433 100,1429" />
+				<Baseline points="100,1429 968,1428" />
+				<TextEquiv index="1">
+					<Unicode>Fuchs bejaht. Der Bär bittet den Fuchs darum. Der Fuchs führt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="101,1450 116,1450 144,1455 165,1449 186,1449 200,1451 331,1449 374,1454 397,1448 420,1448 441,1448 441,1454 470,1449 632,1448 635,1448 648,1449 659,1454 659,1448 676,1448 676,1454 687,1449 741,1448 861,1448 898,1448 898,1454 943,1448 959,1448 967,1449 967,1469 200,1470 101,1470" />
+				<Baseline points="101,1470 967,1469" />
+				<TextEquiv index="1">
+					<Unicode>den Bären an einen Heuschober und befiehlt ihm hinaufzustei-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="101,1495 151,1495 193,1489 367,1488 385,1488 385,1494 464,1489 942,1489 942,1495 969,1495 969,1509 901,1514 654,1514 335,1510 320,1514 219,1513 151,1515 149,1515 130,1511 117,1515 101,1515" />
+				<Baseline points="101,1510 969,1509" />
+				<TextEquiv index="1">
+					<Unicode>gen. [Er beginnt Feuer anzuzünden. Beruhigt den fragenden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Urform. Der Fuchs und der Bär sehen einen Specht auf dem
+Baume. Der Fuchs erklärt, solche schon einmal bemalt zu ha-
+ben. Der Bär fragt, ob auch er so bemalt werden könnte, was der
+Fuchs bejaht. Der Bär bittet den Fuchs darum. Der Fuchs führt
+den Bären an einen Heuschober und befiehlt ihm hinaufzustei-
+gen. [Er beginnt Feuer anzuzünden. Beruhigt den fragenden</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="102,1590 968,1590 968,1701 102,1701" />
+			<!-- line left out: id="r3l0" points="173,1591 183,1591 199,1590 218,1590 218,1596 252,1591 335,1591 383,1591 405,1596 421,1590 427,1590 440,1591 465,1591 477,1595 489,1591 518,1591 525,1590 539,1590 549,1591 570,1590 587,1590 656,1590 692,1590 743,1590 743,1604 757,1590 829,1590 897,1590 906,1591 932,1595 945,1595 968,1595 968,1613 945,1613 932,1613 916,1613 829,1609 783,1609 549,1613 525,1613 504,1610 477,1610 427,1613 421,1613 189,1612 181,1612 181,1602 173,1602" baseline="173,1611 188,1610 611,1609 968,1609" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ¹) Der Sammler der siebenbürgischen Märchen J. Haltrich hält ganz | german_print2_15: ¹²) Der Sammler der siebenbürgischen Märchen J. Haltrich hält ganz -->
+			<!-- line left out: id="r3l1" points="102,1625 114,1620 145,1620 198,1620 224,1620 265,1620 279,1624 300,1620 338,1620 451,1620 484,1625 494,1619 520,1619 554,1619 627,1619 654,1619 666,1620 686,1619 701,1619 764,1619 812,1619 834,1619 910,1620 944,1620 955,1624 968,1625 968,1638 812,1638 770,1638 666,1638 632,1641 590,1641 463,1639 366,1639 354,1643 314,1643 300,1643 102,1639" baseline="102,1639 378,1638 968,1638" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ohne Grund das Tragen auf dem Rücken (X) für den Kern aller zwischen | german_print2_15: ohne Grund das Tragen auf dem Rücken (IX) für den Kern aller zwischen -->
+			<!-- line left out: id="r3l2" points="102,1649 120,1649 133,1651 160,1650 169,1650 179,1648 210,1648 245,1648 282,1649 337,1649 377,1649 424,1649 449,1649 493,1649 524,1649 534,1648 543,1648 582,1648 645,1648 658,1650 678,1648 694,1648 756,1648 773,1648 816,1653 816,1662 838,1648 964,1648 964,1662 967,1662 967,1667 882,1667 821,1671 816,1671 756,1667 706,1667 679,1667 594,1667 569,1667 517,1671 502,1671 337,1668 320,1668 267,1667 245,1673 232,1673 232,1667 219,1668 210,1673 194,1673 194,1667 179,1667 179,1673 169,1673 160,1671 102,1668" baseline="102,1668 250,1667 607,1666 719,1666 967,1667" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Bär („Wolf“) und Fuchs sich abspielenden Märchen Grimm, KM. III. S. | german_print2_15: Bär („Wolf“) und Fuchs sich abspielenden Märchen Grimm, KM. III'. S. -->
+			<!-- line left out: id="r3l3" points="103,1679 111,1678 139,1678 145,1679 145,1692 149,1692 149,1697 145,1701 125,1701 111,1701 103,1696" baseline="103,1696 149,1697" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 125). | german_print2_15: 125). -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+dass unser Märchen zwischen Bär und Fuchs sich abspielende Begebenheit schon in Skandinavien verbreitet war und von da aus nach Finnland gelangt ist, und die deutsche gestattet auch die Annahme, dass es im ganzen Gebiete der germanischen Race als Fuchsmärchen bestanden hat. Aber damit ist noch nicht gesagt, dass es von Anfang an ein Fuchsmärchen gewesen ist. Viel natürlicher erscheint es als Wortstreit zwischen in Wirklichkeit mit Rede begabten Menschen, welcher erst später, so wie manches andere, weiterhin zu besprechende, im Kreise menschlicher Wesen sich abspielende Volksmärchen unter die Tiermärchen aufgenommen und mit ihnen in Verbindung gebracht worden ist. Doch muss man sich hierbei aus Mangel an Beweisen mit der blossen Vermutung begnügen, denn die schwedische Variante kann man recht gut für später antropomorphisirt und lokalisirt erklären, und noch geringer sind die Zweifel in Bezug auf die dämonomorphisirte Variante (Aj ‘e. Juuka’) in Finnland.
+Zu der vorliegenden nordischen Märchenkette, deren Kern⟦⟧ das Fischen mit dem Schwanze (VII) bildet, gehören also fünf schon ursprünglich zwischen Bär und Fuchs sich abspielende Märchen, zu denen in Finnland noch die zwei zuletzt erwähnten Erzählungen hinzugetreten sind. Doch ist als eine sehr nahe stehende Parallelerzählung noch folgendes Fuchsmärchen zu erwähnen, dass häufig gerade in Verbindung mit dieser Märchenkette auftritt.
+Urform. Der Fuchs und der Bär sehen einen Specht auf dem Baume. Der Fuchs erklärt, solche schon einmal bemalt zu haben. Der Bär fragt, ob auch er so bemalt werden könnte, was der Fuchs bejaht. Der Bär bittet den Fuchs darum. Der Fuchs führt den Bären an einen Heuschober und befiehlt ihm hinaufzusteigen. [Er beginnt Feuer anzuzünden. Beruhigt den fragenden
+-->
+	</Page>
+</PcGts>

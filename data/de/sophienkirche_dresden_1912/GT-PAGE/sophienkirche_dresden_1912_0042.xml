@@ -1,0 +1,460 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:27:54</Created>
+		<LastChange>2026-11-23T18:27:54</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Die_Sophienkirche_in_Dresden_(1912).pdf/42 revision 4830090 of 2026-02-20T07:54:38Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="sophienkirche_dresden_1912_0042.png" imageWidth="1000" imageHeight="1438">
+		<ReadingOrder>
+			<OrderedGroup id="ro281886309523544368" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="15" regionRef="r15" />
+				<RegionRefIndexed index="17" regionRef="r17" />
+				<RegionRefIndexed index="19" regionRef="r19" />
+				<RegionRefIndexed index="29" regionRef="r29" />
+				<RegionRefIndexed index="31" regionRef="r31" />
+				<RegionRefIndexed index="34" regionRef="r34" />
+				<RegionRefIndexed index="35" regionRef="r35" />
+				<RegionRefIndexed index="37" regionRef="r37" />
+				<RegionRefIndexed index="40" regionRef="r40" />
+				<RegionRefIndexed index="41" regionRef="r41" />
+				<RegionRefIndexed index="42" regionRef="r42" />
+				<RegionRefIndexed index="44" regionRef="r44" />
+				<RegionRefIndexed index="46" regionRef="r46" />
+				<RegionRefIndexed index="47" regionRef="r47" />
+				<RegionRefIndexed index="49" regionRef="r49" />
+				<RegionRefIndexed index="50" regionRef="r50" />
+				<RegionRefIndexed index="52" regionRef="r52" />
+				<RegionRefIndexed index="53" regionRef="r53" />
+				<RegionRefIndexed index="55" regionRef="r55" />
+				<RegionRefIndexed index="57" regionRef="r57" />
+				<RegionRefIndexed index="59" regionRef="r59" />
+				<RegionRefIndexed index="60" regionRef="r60" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,160 1000,160 1000,1125 0,1125" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="526,162 591,162 591,186 526,186" />
+			<!-- line left out: id="r1l0" points="526,173 535,173 551,166 577,162 591,162 591,186 577,186 577,178 551,178 526,174" baseline="526,178 577,177 591,177" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 30 —
+ | german_print2_15: — 30 —
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="290,207 869,207 869,223 290,223" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="290,209 336,208 375,212 404,208 442,208 460,211 470,208 478,208 512,211 550,212 568,208 607,210 616,208 661,208 670,211 685,208 707,207 723,207 738,208 745,212 759,208 792,210 835,208 869,212 869,220 688,223 680,223 628,223 616,223 512,219 290,220" />
+				<Baseline points="290,219 869,219" />
+				<TextEquiv index="1">
+					<Unicode>Das Sommersche Projekt war eine Zweiturmanlage. Es zeichnete sich aus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Das Sommersche Projekt war eine Zweiturmanlage. Es zeichnete sich aus</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="248,230 869,230 869,242 248,242" />
+			<!-- line left out: id="r3l0" points="248,239 254,232 263,232 278,237 280,231 288,231 297,236 316,235 331,231 346,231 363,236 380,234 595,234 639,230 647,230 666,231 700,230 703,230 707,236 716,234 726,230 737,230 762,230 807,230 816,233 833,234 861,233 869,233 869,242 833,242 769,242 737,242 703,242 700,242 595,241 589,237 583,235 388,241 363,242 339,242 267,242 254,242 248,241" baseline="248,241 869,241" reason: differs: "uchrnis" against "uch, di" | Wikisource:  | next_nc_e1: durch den Versuch rnis und dem veränderten Ritus ent-
+ | german_print2_15: durch den Versuch. rnis und dem veränderten Ritus ent-
+ -->
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="401,230 590,230 590,314 401,314" />
+		</GraphicRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="248,252 864,252 864,268 248,268" />
+			<!-- line left out: id="r5l0" points="248,258 255,257 261,254 272,254 288,254 347,254 359,261 360,254 370,254 383,260 394,252 402,252 595,259 602,256 633,252 649,252 659,254 679,256 686,252 699,252 715,256 754,257 763,255 781,255 818,253 842,253 864,257 864,264 781,268 754,268 745,268 712,264 679,264 659,264 615,264 385,264 370,264 310,264 293,264 255,264 248,264" baseline="248,261 401,261 864,264" reason: differs: "stan" against "us e" | Wikisource:  | next_nc_e1: standenen kleinen R dem Gebäude beizugeben und dem
+ | german_print2_15: standenen kleinen A dem Gebaäude beizugeben und dem.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="768,268 780,268 780,286 768,286" />
+		</GraphicRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="542,267 865,267 865,295 542,295" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="542,277 568,278 578,280 585,277 596,277 602,279 644,275 740,275 750,277 755,281 765,267 783,267 792,275 852,275 856,279 865,279 865,286 792,286 783,295 765,295 755,286 644,286 622,284 596,287 560,287 547,286 542,281" />
+				<Baseline points="542,286 865,286" />
+				<TextEquiv index="1">
+					<Unicode>bequemeren Verkehr suchte er durch Ver-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>bequemeren Verkehr suchte er durch Ver-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="625,301 648,301 648,303 625,303" />
+		</GraphicRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="648,297 865,297 865,309 648,309" />
+			<TextLine id="r9l0" custom="readingOrder {index:0;}">
+				<Coords points="648,307 653,303 672,297 680,297 684,297 715,297 740,300 757,300 773,303 803,298 849,298 865,303 865,309 747,309 715,309 684,309 680,309 652,309 648,309" />
+				<Baseline points="648,308 865,309" />
+				<TextEquiv index="1">
+					<Unicode>genden Korridore zu erreichen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>genden Korridore zu erreichen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r10">
+			<Coords points="244,271 646,271 646,335 244,335" />
+		</GraphicRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="614,320 868,320 868,334 614,334" />
+			<TextLine id="r11l0" custom="readingOrder {index:0;}">
+				<Coords points="614,324 619,320 628,320 665,320 705,320 747,320 785,320 795,322 809,320 812,320 821,324 825,320 835,320 855,321 868,324 868,331 751,331 733,334 705,334 686,334 614,331" />
+				<Baseline points="614,331 868,331" />
+				<TextEquiv index="1">
+					<Unicode>nden Kreuzgang als Votivhalle für</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>nden Kreuzgang als Votivhalle für</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="618,343 869,343 869,354 618,354" />
+			<TextLine id="r12l0" custom="readingOrder {index:0;}">
+				<Coords points="618,343 638,343 654,345 746,347 773,343 785,343 804,346 862,344 869,347 869,354 754,354 677,354 654,354 638,354 622,354 618,348" />
+				<Baseline points="618,353 869,354" />
+				<TextEquiv index="1">
+					<Unicode>richtung von zwei Monumenten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>richtung von zwei Monumenten</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r13">
+			<Coords points="496,297 719,297 719,380 496,380" />
+		</GraphicRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="611,365 869,365 869,376 611,376" />
+			<!-- line left out: id="r14l0" points="611,371 619,369 628,369 685,372 692,369 701,368 718,368 738,365 742,365 768,373 772,365 776,365 781,371 797,365 813,365 828,365 835,368 843,369 852,367 857,367 869,369 869,376 776,376 628,376 619,376 611,373" baseline="611,376 664,375 722,375 869,376" reason: models differ | Wikisource: en, das andere für die Kurfürstin | next_nc_e1: en, das andere für die Kurfürstin
+ | german_print2_15: ven, das andere für die Kurfürstin
+ -->
+		</TextRegion>
+		<TextRegion id="r15" custom="readingOrder {index:15;} orientation {0;}">
+			<Coords points="555,387 869,387 869,399 555,399" />
+			<!-- line left out: id="r15l0" points="555,389 564,389 607,388 614,387 618,387 641,388 663,387 697,387 731,388 740,392 749,388 753,388 789,388 797,388 853,388 861,391 869,392 869,399 829,399 789,399 753,399 749,399 740,398 727,399 722,399 634,398 614,393 607,390 580,398 568,398 555,398" baseline="555,398 796,398 869,399" reason: differs: "Bere" against "Soph" | Wikisource:  | next_nc_e1: Beren Merkmale der Kirche, die auf den
+ | german_print2_15: Beren Merkmale der Kirche, die auf den
+ -->
+		</TextRegion>
+		<GraphicRegion id="r16">
+			<Coords points="653,410 688,410 688,421 653,421" />
+		</GraphicRegion>
+		<TextRegion id="r17" custom="readingOrder {index:17;} orientation {0;}">
+			<Coords points="692,410 864,410 864,421 692,421" />
+			<!-- line left out: id="r17l0" points="692,414 710,414 720,413 733,413 747,410 758,410 766,413 794,410 801,410 850,414 858,410 864,410 864,421 850,421 801,421 692,421" baseline="692,421 864,421" reason: differs: "undd" against "f de" | Wikisource:  | next_nc_e1: und dafür kennzeich
+ | german_print2_15: n und dafür kennzeich
+ -->
+		</TextRegion>
+		<GraphicRegion id="r18">
+			<Coords points="244,338 547,338 547,428 244,428" />
+		</GraphicRegion>
+		<TextRegion id="r19" custom="readingOrder {index:19;} orientation {0;}">
+			<Coords points="624,432 869,432 869,444 624,444" />
+			<!-- line left out: id="r19l0" points="624,439 633,438 647,436 651,436 668,432 677,432 701,436 739,436 771,435 779,435 796,436 812,435 829,435 862,432 869,432 869,443 829,444 812,444 804,444 748,443 725,443 711,443 677,443 628,443 624,443" baseline="624,443 869,443" reason: differs: "gene" against "rgeg" | Wikisource:  | next_nc_e1: gene Formen‘zu entwickeln und
+ | german_print2_15: gene Formen'zu entwickeln und
+ -->
+		</TextRegion>
+		<GraphicRegion id="r20">
+			<Coords points="607,438 621,438 621,443 607,443" />
+		</GraphicRegion>
+		<GraphicRegion id="r21">
+			<Coords points="271,435 828,435 828,464 271,464" />
+		</GraphicRegion>
+		<GraphicRegion id="r22">
+			<Coords points="401,451 828,451 828,492 401,492" />
+		</GraphicRegion>
+		<GraphicRegion id="r23">
+			<Coords points="293,496 651,496 651,540 293,540" />
+		</GraphicRegion>
+		<GraphicRegion id="r24">
+			<Coords points="367,541 519,541 519,583 367,583" />
+		</GraphicRegion>
+		<GraphicRegion id="r25">
+			<Coords points="453,589 485,589 485,603 453,603" />
+		</GraphicRegion>
+		<GraphicRegion id="r26">
+			<Coords points="603,614 613,614 613,625 603,625" />
+		</GraphicRegion>
+		<GraphicRegion id="r27">
+			<Coords points="466,631 508,631 508,650 466,650" />
+		</GraphicRegion>
+		<GraphicRegion id="r28">
+			<Coords points="309,608 629,608 629,691 309,691" />
+		</GraphicRegion>
+		<TextRegion id="r29" custom="readingOrder {index:29;} orientation {0;}">
+			<Coords points="247,455 869,455 869,736 247,736" />
+			<!-- line left out: id="r29l0" points="309,455 312,455 321,458 360,459 518,458 545,458 598,458 652,459 667,461 667,455 676,455 707,455 729,455 743,459 750,460 758,459 776,459 784,460 793,459 807,459 863,457 868,457 868,466 826,466 792,469 789,469 743,466 729,469 704,469 697,469 683,462 676,466 644,466 595,460 579,466 564,466 543,463 369,468 366,468 312,465 309,465" baseline="309,465 515,465 868,466" reason: differs: "hein" against "r Er" | Wikisource:  | next_nc_e1: heinung zu wollte die F  des Renaissanceportals mit | german_print2_15: u heinung zu wollte die f n des Renaissanceportals mit -->
+			<!-- line left out: id="r29l1" points="247,478 274,478 278,478 323,483 340,477 343,477 369,477 382,477 387,483 497,481 524,481 565,481 606,478 609,478 624,478 656,478 656,468 675,468 682,485 692,481 708,478 717,478 756,478 796,478 802,482 805,478 807,478 864,479 864,488 796,488 781,488 682,488 675,498 656,498 656,486 630,486 609,486 569,488 369,491 340,491 247,488" baseline="247,488 864,488" reason: differs: "dene" against "s mi" | Wikisource:  | next_nc_e1: denen der gotische erschmelzen, obwohl er an dem Grundsatze fest | german_print2_15: denen der gotische erschmelzen, obwohl er an dem Grundsatze fest. -->
+			<!-- line left out: id="r29l2" points="248,503 251,503 547,501 551,501 591,501 597,503 604,501 606,501 625,509 657,505 667,503 682,503 717,500 721,500 725,506 737,504 751,500 762,500 765,500 804,504 827,500 837,500 858,500 866,504 866,511 845,511 765,514 762,514 749,514 721,511 695,511 682,511 628,511 625,511 591,509 551,509 505,511 497,511 470,511 256,510 248,510" baseline="248,510 547,510 866,511" reason: differs: "hiee" against "e fe" | Wikisource:  | next_nc_e1: hie en mächtigen Gewölbe, das seltene Beispiel einer Kirche | german_print2_15: hie h en mächtigen Gewölbe, das seltene Beispiel einer Kirche -->
+			<!-- line left out: id="r29l3" points="253,526 283,523 285,523 370,524 378,525 387,522 412,522 417,523 428,530 442,522 446,522 459,531 518,528 522,528 553,528 607,524 610,524 630,524 661,524 671,524 691,523 694,523 724,522 727,522 733,528 741,528 751,525 761,525 766,526 776,522 799,522 814,523 833,526 840,523 849,523 869,526 869,533 829,534 814,534 811,534 766,533 741,534 727,534 724,534 704,533 661,533 630,533 610,533 553,533 521,533 432,533 370,533 283,533 253,532" baseline="253,533 869,533" reason: differs: "nitd" against "rche" | Wikisource:  | next_nc_e1: nit d Chorschluß und anliegender Seitenkapelle bei jeglichem Eingriff in | german_print2_15: mit 4 Chorschluß und anliegender Seitenkapelle bei jeglichem Eingriff in -->
+			<!-- line left out: id="r29l4" points="247,551 252,545 297,545 304,553 308,545 333,545 336,545 371,547 388,547 617,549 671,549 686,548 691,548 701,549 710,545 713,545 723,545 752,546 758,545 765,545 815,545 821,549 836,551 836,545 844,545 865,549 865,556 831,558 815,558 805,558 797,556 765,556 752,556 701,556 676,556 630,556 574,553 388,556 363,556 333,556 297,556 294,556 247,555" baseline="247,555 348,555 865,556" reason: differs: "denb" against "ff i" | Wikisource:  | next_nc_e1: den baulichen Zust nur von dem gotischen Stile auszugehen | german_print2_15: den baulichen Zust. nur von dem gotischen Stile auszugehen. -->
+			<!-- line left out: id="r29l5" points="248,568 258,568 279,574 287,573 292,567 310,567 320,567 359,567 361,576 534,568 537,568 550,572 550,558 567,558 575,571 583,568 599,568 661,570 663,558 673,558 688,558 696,568 699,568 709,572 731,568 740,568 753,571 800,571 817,573 818,558 831,558 837,573 846,570 850,570 866,572 866,578 852,578 846,577 837,577 831,588 818,588 817,576 805,578 795,579 787,579 762,578 696,578 688,588 673,588 663,588 661,578 583,578 575,577 567,588 550,588 550,578 364,578 310,578 284,578 251,578 248,578" baseline="248,578 866,578" reason: differs: "DieV" against "ehen" | Wikisource:  | next_nc_e1: Die Verschmelzι h ein Überleiten einzelner Renaissancemotive | german_print2_15: Die Verschmelzu h ein Oberleiten einzelner Renaissancemotive -->
+			<!-- line left out: id="r29l6" points="252,594 284,590 307,590 379,590 430,596 442,596 503,590 507,590 515,590 560,591 575,593 581,591 603,591 627,598 634,596 643,594 654,592 665,592 722,590 725,590 732,590 755,594 763,590 773,590 815,594 830,592 839,592 845,594 854,590 857,590 865,594 865,600 857,601 839,601 815,601 795,601 755,601 742,601 725,601 631,601 560,601 507,601 315,601 287,601 284,601 255,600 252,600" baseline="252,600 284,600 865,601" reason: differs: "amPo" against "otiv" | Wikisource:  | next_nc_e1: am Porta h de hen Gliederung verwandt erschienen, in gotische | german_print2_15: am Porta hr de hen Chederung verwandt erschienen, in gotische -->
+			<!-- line left out: id="r29l7" points="263,617 291,615 302,615 442,617 469,617 530,613 541,613 619,617 640,616 643,616 668,613 677,613 715,613 737,613 766,613 824,613 853,613 865,617 865,623 839,623 762,624 737,624 727,624 699,623 677,623 649,623 588,623 485,624 469,624 450,624 263,623" baseline="263,623 865,623" reason: differs: "ddan" against "che " | Wikisource:  | next_nc_e1: d da nigung des H talen mit dem Vertikalen zu finden | german_print2_15: nd de- nigung des HI- atalen mit dem Vertikalen zu finden. -->
+			<!-- line left out: id="r29l8" points="521,638 524,638 566,638 599,639 599,626 627,626 640,639 657,639 694,635 707,635 723,641 728,635 776,635 813,639 819,635 827,635 864,638 864,646 796,646 707,646 657,646 640,646 627,656 599,656 595,646 530,643 521,643" baseline="521,646 864,646" reason: second model has no such line | Wikisource: bindung wäre eine überreiche Fassade ent | next_nc_e1: bindung wäre eine überreiche Fassade ent | german_print2_15:  -->
+			<!-- line left out: id="r29l9" points="255,660 258,660 278,660 302,660 451,662 521,658 536,658 604,662 635,662 661,662 691,658 695,658 738,662 751,659 763,659 808,658 811,658 816,664 823,657 831,657 849,661 863,662 863,668 807,671 798,671 792,668 763,668 748,668 704,669 697,669 661,668 621,668 596,667 531,668 460,670 458,670 441,669 433,669 278,668 265,668 255,665" baseline="255,669 459,668 863,668" reason: differs: "tand" against "stan" | Wikisource:  | next_nc_e1: tanden, ung oße en wegen schon nicht möglich war | german_print2_15: tanden. ung roße en wegen schon nicht möglich war -->
+			<!-- line left out: id="r29l10" points="247,680 250,680 296,680 313,680 313,686 315,686 371,685 379,683 382,683 654,680 657,680 673,680 678,684 696,686 696,680 711,680 716,686 725,685 739,684 742,684 767,684 794,684 821,681 830,681 853,681 869,684 869,691 853,691 839,691 812,691 794,691 763,691 725,693 705,693 696,693 678,691 657,693 654,693 635,687 451,690 382,690 374,690 313,690 296,690 247,690" baseline="247,690 450,690 869,691" reason: differs: "ImIn" against "war." | Wikisource:  | next_nc_e1: Im Inneren ete er neue mit sechszölligen eisernen Säulen | german_print2_15: Im Inneren ete er neue E mit sechszölligen eisernen Seulen -->
+			<!-- line left out: id="r29l11" points="252,707 315,703 318,703 350,703 362,703 391,707 414,707 442,707 462,707 593,703 597,703 646,703 693,703 710,707 742,703 752,703 820,703 842,703 862,703 865,707 865,713 842,713 820,713 782,717 779,717 770,712 762,711 752,717 742,717 728,713 719,713 701,713 673,713 651,713 646,714 597,714 462,714 447,714 433,714 414,713 393,713 378,713 362,714 350,714 318,714 315,714 283,713 252,710" baseline="252,713 865,713" reason: differs: "an,u" against "äule" | Wikisource:  | next_nc_e1: an, um möglichst viele Plätze en. Das schöne Renaissanceportal wollte | german_print2_15: an, um möglichst wiele Plätze en. Das schöne Renaissanceportal wollte -->
+			<!-- line left out: id="r29l12" points="247,730 256,729 286,729 310,729 359,729 371,725 380,725 459,725 487,725 600,728 614,728 648,730 685,729 703,725 712,725 740,725 795,732 801,725 808,725 831,725 837,727 858,728 865,729 865,736 487,736 468,736 402,736 355,736 328,735 300,736 297,736 286,735 247,735" baseline="247,736 865,736" reason: differs: "er,w" against "ollt" | Wikisource:  | next_nc_e1: er, wenn es nicht an Fassade wenden war, in das 1 der Kirche
+ | german_print2_15: er., wenn es nicht an Fassade rwenden wer, in das l der Kirche
+ -->
+		</TextRegion>
+		<GraphicRegion id="r30">
+			<Coords points="414,707 778,707 778,740 414,740" />
+		</GraphicRegion>
+		<TextRegion id="r31" custom="readingOrder {index:31;} orientation {0;}">
+			<Coords points="323,747 866,747 866,761 323,761" />
+			<!-- line left out: id="r31l0" points="323,752 343,748 351,748 361,752 374,752 393,748 397,748 407,750 418,748 420,748 457,752 504,748 652,748 716,749 724,755 728,749 736,749 767,750 789,748 799,748 814,748 832,747 836,747 845,752 855,748 858,748 866,752 866,758 858,759 855,759 845,758 799,761 782,761 736,759 713,759 680,758 521,759 492,759 420,759 393,759 323,758" baseline="323,758 866,758" reason: differs: "undd" against "etze" | Wikisource:  | next_nc_e1: und die Kanzel in das Po Sommer trat mit großer Liebe
+ | german_print2_15: und die Kanzel in das Por Sommer trat mit gꝗroßer Liebe
+ -->
+		</TextRegion>
+		<GraphicRegion id="r32">
+			<Coords points="247,746 612,746 612,808 247,808" />
+		</GraphicRegion>
+		<GraphicRegion id="r33">
+			<Coords points="340,816 360,816 360,826 340,826" />
+		</GraphicRegion>
+		<TextRegion id="r34" custom="readingOrder {index:34;} orientation {0;}">
+			<Coords points="247,770 869,770 869,836 247,836" />
+			<!-- line left out: id="r34l0" points="306,770 309,770 434,774 445,771 460,771 481,774 497,775 636,770 648,770 667,774 686,774 720,770 732,770 755,770 762,770 786,770 802,774 807,779 815,770 827,770 853,770 866,772 866,781 827,783 807,783 786,783 755,783 732,783 721,783 686,781 667,781 524,781 424,781 309,781 306,781" baseline="306,781 866,781" reason: differs: "Esüb" against "tung" | Wikisource:  | next_nc_e1: E s überkommene . in seinem Erläuterungsberichte | german_print2_15: E s überkommene n. In seinem Erläuterungsberichte -->
+			<!-- line left out: id="r34l1" points="274,796 293,796 317,796 414,797 423,793 433,793 447,799 454,793 458,793 468,796 474,793 492,793 540,793 601,797 626,800 627,793 634,793 657,797 670,795 680,795 704,793 716,793 735,793 822,794 857,792 869,792 869,803 794,803 735,804 716,804 680,804 634,804 610,805 607,805 601,799 551,804 540,804 492,804 468,804 435,804 414,804 410,804 293,803 274,803" baseline="274,803 869,803" reason: differs: "ache" against "te s" | Wikisource:  | next_nc_e1: ach er rücksichtslosen Entfe ng der alten Grabmonumente und | german_print2_15: ach er rücksichtslosen Entfe ng der alten Grabmonumente und -->
+			<TextLine id="r34l2" custom="readingOrder {index:2;}">
+				<Coords points="247,819 270,815 286,815 295,817 301,805 324,805 335,815 480,815 524,820 531,818 548,818 570,822 571,816 604,816 614,824 624,817 664,816 674,819 682,815 731,819 740,815 749,815 772,819 869,819 869,825 641,826 617,829 575,826 514,826 480,829 423,829 417,826 335,826 324,836 301,836 295,826 266,826 247,822" />
+				<Baseline points="247,825 869,826" />
+				<TextEquiv index="1">
+					<Unicode>machte als Bitte den Vorschlag, entweder die Sophienkirche durchaus zu erneuern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>machte als Bitte den Vorschlag, entweder die Sophienkirche durchaus zu erneuern</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r35" custom="readingOrder {index:35;} orientation {0;}">
+			<Coords points="253,837 869,837 869,851 253,851" />
+			<!-- line left out: id="r35l0" points="253,843 254,838 265,838 275,844 289,840 302,840 328,838 341,838 381,840 390,846 395,838 399,838 599,847 605,841 609,841 630,837 646,837 654,842 676,837 688,837 704,837 710,843 723,842 731,842 755,842 760,838 771,838 788,841 807,837 816,837 861,841 869,843 869,848 816,849 719,851 704,851 688,851 646,851 636,851 599,849 403,848 381,849 341,849 328,849 318,847 306,848 253,848" baseline="253,847 869,848" reason: differs: "remcheE" against "em ergr" | Wikisource:  | next_nc_e1: bder dieselbe mit ihrem che Erinnerungen auslösenden und
+ | german_print2_15: der dieselbe mit ihrem che Erinnerungen auslösenden und
+ -->
+		</TextRegion>
+		<GraphicRegion id="r36">
+			<Coords points="436,839 446,839 446,850 436,850" />
+		</GraphicRegion>
+		<TextRegion id="r37" custom="readingOrder {index:37;} orientation {0;}">
+			<Coords points="460,841 557,841 557,851 460,851" />
+			<!-- line left out: id="r37l0" points="460,847 463,841 474,841 493,841 511,841 557,842 557,849 511,851 509,851 493,849 474,851 460,851" baseline="460,851 510,849 557,849" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: grauten, man
+ | german_print2_15: grauten, man
+ -->
+		</TextRegion>
+		<GraphicRegion id="r38">
+			<Coords points="561,840 596,840 596,849 561,849" />
+		</GraphicRegion>
+		<GraphicRegion id="r39">
+			<Coords points="442,851 456,851 456,875 442,875" />
+		</GraphicRegion>
+		<TextRegion id="r40" custom="readingOrder {index:40;} orientation {0;}">
+			<Coords points="247,860 868,860 868,875 247,875" />
+			<!-- line left out: id="r40l0" points="247,866 252,860 260,860 276,860 303,863 316,860 345,860 377,860 422,860 427,866 435,866 443,867 446,860 466,860 481,860 522,860 531,863 549,860 560,860 566,864 580,863 584,863 606,863 635,863 659,860 670,860 695,864 704,860 707,860 771,864 829,862 838,862 852,863 868,863 868,871 852,873 844,873 827,871 802,871 789,872 771,875 762,875 687,871 652,871 598,871 575,872 481,873 466,873 435,873 422,873 411,873 377,871 290,871 278,871 260,870 247,870" baseline="247,870 868,870" reason: differs: "desh" against "n un" | Wikisource:  | next_nc_e1: deshalb jedem Vorübergehenden achtunggebietenden AHussehen im gegenwärtigen
+ | german_print2_15: deshalb jedem Vorübergehenden achtunggebietenden QAussehen im gegenwärtigen
+ -->
+		</TextRegion>
+		<TextRegion id="r41" custom="readingOrder {index:41;} orientation {0;}">
+			<Coords points="247,882 868,882 868,919 247,919" />
+			<TextLine id="r41l0" custom="readingOrder {index:0;}">
+				<Coords points="247,888 251,882 262,882 298,886 340,887 366,883 393,883 409,887 409,894 340,894 333,894 247,893" />
+				<Baseline points="247,893 409,894" />
+				<TextEquiv index="1">
+					<Unicode>Zustande zu erhalten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r41l1" custom="readingOrder {index:1;}">
+				<Coords points="289,905 301,905 331,905 342,905 364,905 383,909 422,906 438,906 460,909 486,905 496,905 534,909 562,909 574,912 575,905 584,905 612,905 651,909 719,908 729,905 736,905 746,909 756,906 768,906 777,912 787,905 794,905 814,905 836,905 868,909 868,915 782,916 698,919 695,919 644,916 289,916" />
+				<Baseline points="289,916 868,915" />
+				<TextEquiv index="1">
+					<Unicode>Das lobenswerte Streben Sommers, das Renaissanceportal auf alle Fälle an</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Zustande zu erhalten
+Das lobenswerte Streben Sommers, das Renaissanceportal auf alle Fälle an</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r42" custom="readingOrder {index:42;} orientation {0;}">
+			<Coords points="247,927 867,927 867,939 247,939" />
+			<!-- line left out: id="r42l0" points="247,932 250,932 261,934 261,927 269,927 301,931 318,928 326,928 349,927 356,927 367,933 373,928 382,928 400,936 408,932 426,930 430,930 535,931 558,930 579,930 625,927 635,927 662,928 681,927 690,927 724,927 785,930 807,931 825,927 829,927 847,935 853,927 861,927 867,931 867,938 798,939 794,939 785,938 732,938 690,939 681,939 651,938 635,939 625,939 598,938 569,939 550,939 439,939 415,939 382,939 373,939 356,938 256,938 247,936" baseline="247,937 762,937 867,938" reason: differs: "emauchd" against "elassen" | Wikisource:  | next_nc_e1: oder in der Kirche zu be m auch die Absicht des Rates entsprach, der
+ | german_print2_15: oder in der Kirche zu be m auch die Absicht des Nates entsprach, der
+ -->
+		</TextRegion>
+		<GraphicRegion id="r43">
+			<Coords points="444,930 470,930 470,939 444,939" />
+		</GraphicRegion>
+		<TextRegion id="r44" custom="readingOrder {index:44;} orientation {0;}">
+			<Coords points="472,932 488,932 488,939 472,939" />
+			<!-- line left out: id="r44l0" points="472,932 488,932 488,935 478,939 472,939" baseline="472,935 488,934" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: en
+ | german_print2_15: en.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r45">
+			<Coords points="496,927 524,927 524,943 496,943" />
+		</GraphicRegion>
+		<TextRegion id="r46" custom="readingOrder {index:46;} orientation {0;}">
+			<Coords points="247,950 868,950 868,962 247,962" />
+			<TextLine id="r46l0" custom="readingOrder {index:0;}">
+				<Coords points="247,952 279,952 308,950 318,950 335,950 342,952 411,951 456,954 509,950 524,950 555,950 566,956 572,950 581,950 589,953 605,954 640,954 645,950 649,950 681,950 718,953 733,950 748,950 762,950 792,950 831,950 857,950 868,950 868,961 733,961 719,960 714,955 705,961 537,960 490,962 463,962 456,962 411,962 378,962 375,962 247,960" />
+				<Baseline points="247,960 868,961" />
+				<TextEquiv index="1">
+					<Unicode>diesem Portale zuliebe in seinem Ausschreiben ausdrücklich forderte, daß der Stil</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>diesem Portale zuliebe in seinem Ausschreiben ausdrücklich forderte, daß der Stil</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r47" custom="readingOrder {index:47;} orientation {0;}">
+			<Coords points="247,972 297,972 297,983 247,983" />
+			<!-- line left out: id="r47l0" points="247,975 260,975 280,972 293,972 297,976 297,983 280,983 247,982" baseline="247,982 280,982 297,983" reason: differs: "rErr" against " Erneue" | Wikisource:  | next_nc_e1: der Err
+ | german_print2_15: der Err
+ -->
+		</TextRegion>
+		<GraphicRegion id="r48">
+			<Coords points="301,976 334,976 334,983 301,983" />
+		</GraphicRegion>
+		<TextRegion id="r49" custom="readingOrder {index:49;} orientation {0;}">
+			<Coords points="339,972 863,972 863,986 339,986" />
+			<!-- line left out: id="r49l0" points="339,977 375,977 391,976 395,976 403,975 417,975 478,973 488,973 534,973 558,980 577,973 587,973 601,973 624,979 629,973 637,973 656,972 666,972 692,972 712,973 720,972 731,972 755,972 775,972 816,972 842,976 863,976 863,983 855,984 848,984 637,983 611,984 593,984 560,984 488,984 464,984 414,986 403,986 388,984 375,986 364,986 347,984 339,984" baseline="339,983 644,982 656,982 863,983" reason: second model: differs: "ungsar" against "rneuer" | Wikisource: ungsarbeiten mit dem der in Nähe der Kirche befindlichen Zwinger | next_nc_e1: ungsarbeiten mit dem der in Nähe der Kirche befindlichen Zwinger
+ | german_print2_15: ungsarbeiten mit dem der in Nähe der Kirche befindlichen Zwinger.
+ -->
+		</TextRegion>
+		<TextRegion id="r50" custom="readingOrder {index:50;} orientation {0;}">
+			<Coords points="247,994 868,994 868,1007 247,1007" />
+			<TextLine id="r50l0" custom="readingOrder {index:0;}">
+				<Coords points="247,995 297,998 315,995 448,995 456,999 518,1001 519,995 574,995 596,999 611,999 633,1002 639,995 768,995 774,999 782,996 809,994 813,994 835,994 841,996 868,998 868,1005 848,1007 835,1007 825,1007 448,1007 423,1007 417,1007 247,1005" />
+				<Baseline points="247,1005 868,1005" />
+				<TextEquiv index="1">
+					<Unicode>bauten, die man mit der Bauweise des Portals als übereinstimmend betrachtete, in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>bauten, die man mit der Bauweise des Portals als übereinstimmend betrachtete, in</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r51">
+			<Coords points="611,1015 621,1015 621,1030 611,1030" />
+		</GraphicRegion>
+		<TextRegion id="r52" custom="readingOrder {index:52;} orientation {0;}">
+			<Coords points="247,1016 869,1016 869,1031 247,1031" />
+			<TextLine id="r52l0" custom="readingOrder {index:0;}">
+				<Coords points="247,1016 263,1016 288,1017 304,1023 351,1019 390,1021 498,1018 511,1024 516,1018 526,1018 534,1022 543,1018 599,1017 620,1017 628,1021 636,1017 645,1017 650,1019 684,1017 732,1017 742,1021 748,1017 841,1017 869,1021 869,1027 390,1031 381,1031 355,1028 312,1030 253,1030 247,1027" />
+				<Baseline points="247,1027 869,1028" />
+				<TextEquiv index="1">
+					<Unicode>Einklang zu bringen sei, wurde durch ein Gutachten des akademischen Rates</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Einklang zu bringen sei, wurde durch ein Gutachten des akademischen Rates</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r53" custom="readingOrder {index:53;} orientation {0;}">
+			<Coords points="247,1039 868,1039 868,1055 247,1055" />
+			<!-- line left out: id="r53l0" points="247,1042 264,1042 317,1039 343,1039 393,1040 444,1040 477,1040 483,1044 490,1040 518,1040 555,1040 574,1040 579,1042 598,1042 657,1039 670,1039 689,1040 709,1042 742,1043 751,1043 762,1041 770,1041 780,1040 783,1040 794,1039 848,1039 868,1039 868,1050 827,1051 815,1051 794,1044 788,1051 753,1051 742,1050 736,1050 720,1052 685,1052 618,1055 609,1055 555,1052 525,1052 491,1052 477,1052 441,1052 435,1052 365,1051 325,1051 265,1050 247,1049" baseline="247,1049 277,1049 868,1050" reason: differs: "lt.Erhi" against "lt.⟦⟧ E" | Wikisource:  | next_nc_e1: vom 31. März 1862, an den sich der Stadtrat gewandt hatte, vereitelt. Er hielt
+ | german_print2_15: vom 31. März 1862, an den sich der Stadtrat gewendt hatte, vereitelt.“ Er hielt
+ -->
+		</TextRegion>
+		<GraphicRegion id="r54">
+			<Coords points="296,1042 305,1042 305,1053 296,1053" />
+		</GraphicRegion>
+		<TextRegion id="r55" custom="readingOrder {index:55;} orientation {0;}">
+			<Coords points="246,1062 867,1062 867,1077 246,1077" />
+			<TextLine id="r55l0" custom="readingOrder {index:0;}">
+				<Coords points="246,1065 273,1062 284,1062 325,1066 374,1062 384,1062 403,1062 405,1072 419,1062 428,1062 501,1066 508,1063 574,1062 589,1062 607,1064 699,1062 702,1062 721,1062 788,1062 813,1062 828,1062 832,1065 867,1065 867,1072 828,1073 813,1077 799,1077 678,1074 671,1077 662,1077 651,1074 641,1077 632,1077 622,1074 607,1074 589,1077 579,1077 555,1074 393,1074 246,1072" />
+				<Baseline points="246,1072 867,1072" />
+				<TextEquiv index="1">
+					<Unicode>es für eine würdige, die zu machenden Anstrengungen lohnende Aufgabe, in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>es für eine würdige, die zu machenden Anstrengungen lohnende Aufgabe, in</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r56">
+			<Coords points="390,1069 392,1069 392,1077 390,1077" />
+		</GraphicRegion>
+		<TextRegion id="r57" custom="readingOrder {index:57;} orientation {0;}">
+			<Coords points="301,1109 397,1109 397,1119 301,1119" />
+			<!-- line left out: id="r57l0" points="301,1109 313,1109 321,1110 328,1112 336,1110 347,1110 397,1110 397,1119 335,1119 306,1119 301,1119" baseline="301,1118 397,1119" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Ratsakten B. II
+ | german_print2_15: Ratsakten B. Il
+ -->
+		</TextRegion>
+		<GraphicRegion id="r58">
+			<Coords points="0,1105 1000,1105 1000,1438 0,1438" />
+		</GraphicRegion>
+		<TextRegion id="r59" custom="readingOrder {index:59;} orientation {0;}">
+			<Coords points="412,1110 429,1110 429,1120 412,1120" />
+			<!-- line left out: id="r59l0" points="412,1110 429,1110 429,1120 412,1120" baseline="412,1119 429,1119" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 103.
+ | german_print2_15: 103.
+ -->
+		</TextRegion>
+		<TextRegion id="r60" custom="readingOrder {index:60;} orientation {0;}">
+			<Coords points="398,1393 652,1393 652,1421 398,1421" />
+			<!-- line left out: id="r60l0" points="398,1393 413,1393 428,1393 442,1393 456,1393 466,1393 474,1402 478,1402 482,1393 490,1393 509,1393 525,1393 525,1402 534,1402 541,1393 560,1393 584,1393 584,1402 585,1402 609,1403 609,1393 631,1393 652,1393 652,1421 631,1421 609,1421 609,1411 585,1412 584,1412 584,1421 560,1421 541,1421 538,1411 525,1411 525,1421 509,1421 490,1421 482,1421 482,1411 468,1411 466,1421 456,1421 442,1421 428,1421 413,1421 398,1421" baseline="398,1411 652,1411" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: httpudigital slub-dresden delid480112028/42 | german_print2_15: nhup Gitalslub-dresden de daS0112028 42 -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Das Sommersche Projekt war eine Zweiturmanlage. Es zeichnete sich aus
+durch den Versuch, die aus der Zeiterfordernis und dem veränderten Ritus
+entstandenen kleinen Anbauten seitenschiffartig dem Gebäude beizugeben und
+dementsprechend unterzuordnen. Einen bequemeren Verkehr suchte er durch
+Vermehrung der Vorplätze, Treppen und zusammenhängenden Korridore zu erreichen.
+Zu ebener Erde hatte Sommer einen umlaufenden Kreuzgang als Votivhalle für
+verdiente Verstorbene angeordnet und die Errichtung von zwei Monumenten
+geplant, eins für Herzog Heinrich den Frommen, das andere für die Kurfürstin
+Sophie. Sommer war bestrebt, die äußeren Merkmale der Kirche, die auf den
+ursprünglich katholischen Ritus hinwiesen, zu verdecken und dafür
+kennzeichnende aus der protestantischen Zeit hervorgegangene Formen zu entwickeln und
+zur Erscheinung zu bringen. Er wollte die Formen des Renaissanceportals mit
+denen der gotischen Fassade verschmelzen, obwohl er an dem Grundsatze
+festhielt, daß die vorhandenen mächtigen Gewölbe, das seltene Beispiel einer Kirche
+mit doppeltem Chorschluß und anliegender Seitenkapelle bei jeglichem Eingriff in
+den baulichen Zustand dazu aufforderten, nur von dem gotischen Stile auszugehen.
+Die Verschmelzung dachte er sich durch ein Überleiten einzelner Renaissancemotive
+am Portal, die ihm mit der gotischen Gliederung verwandt erschienen, in gotische
+und dadurch eine Vereinigung des Horizontalen mit dem Vertikalen zu finden.
+Aus solcher Entwicklung und Verbindung wäre eine überreiche Fassade
+entstanden, deren Ausführung der großen Kosten wegen schon nicht möglich war.
+Im Inneren ordnete er neue Emporen aus Eisen mit sechszölligen eisernen Säulen
+an, um möglichst viele Plätze zu gewinnen. Das schöne Renaissanceportal wollte
+er, wenn es nicht an der Fassade zu verwenden war, in das Innere der Kirche
+versetzen und die Kanzel in das Portal einbauen. Sommer trat mit großer Liebe
+für die Erhaltung des überkommenen Alten ein. In seinem Erläuterungsberichte
+sprach er von der rücksichtslosen Entfernung der alten Grabmonumente und
+machte als Bitte den Vorschlag, entweder die Sophienkirche durchaus zu erneuern
+oder dieselbe mit ihrem ergrauten, mannigfache Erinnerungen auslösenden und
+deshalb jedem Vorübergehenden achtunggebietenden Aussehen im gegenwärtigen
+Zustande zu erhalten.
+Das lobenswerte Streben Sommers, das Renaissanceportal auf alle Fälle an
+oder in der Kirche zu belassen, dem auch die Absicht des Rates entsprach, der
+diesem Portale zuliebe in seinem Ausschreiben ausdrücklich forderte, daß der Stil
+der Erneuerungsarbeiten mit dem der in Nähe der Kirche befindlichen
+Zwingerbauten, die man mit der Bauweise des Portals als übereinstimmend betrachtete, in
+Einklang zu bringen sei, wurde durch ein Gutachten des akademischen Rates
+vom 31. März 1862, an den sich der Stadtrat gewandt hatte, vereitelt.⟦⟧ Er hielt
+es für eine würdige, die zu machenden Anstrengungen lohnende Aufgabe, in
+-->
+	</Page>
+</PcGts>

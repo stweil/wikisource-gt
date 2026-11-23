@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:44:42</Created>
+		<LastChange>2026-11-23T18:44:42</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:PatkanjanDreiErzählungen.pdf/129 revision 3378093 of 2018-08-01T06:07:42Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="patkanjan_erzaehlungen_1886_0129.png" imageWidth="1293" imageHeight="2009">
+		<ReadingOrder>
+			<OrderedGroup id="ro10111152585881552279" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="304,2 645,2 645,3 304,3" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="468,228 720,228 720,275 468,275" />
+			<!-- line left out: id="r1l0" points="468,250 498,250 534,232 675,228 720,228 720,275 675,275 675,262 572,262 534,262 498,252 468,252" baseline="468,260 497,260 675,262 720,263" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 119 —
+ | german_print2_15: — 119 —
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="137,323 1065,323 1065,1789 137,1789" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="138,323 160,323 160,333 213,333 213,325 278,325 278,335 296,335 296,326 321,326 321,336 359,336 359,323 364,323 399,336 421,336 421,326 445,326 445,336 553,336 553,326 579,326 602,331 727,337 757,347 766,347 766,326 794,326 794,337 863,337 863,327 891,327 891,338 909,338 909,328 934,328 987,338 1024,338 1024,328 1036,328 1036,338 1059,338 1059,358 843,357 843,368 817,368 816,357 296,356 138,352" />
+				<Baseline points="138,353 1059,358" />
+				<TextEquiv index="1">
+					<Unicode>durchtrieben oder schön von Angesicht sein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="139,385 209,386 230,385 277,378 301,378 301,389 358,389 382,378 419,378 420,389 470,389 470,379 507,379 507,389 526,389 526,378 583,377 619,377 620,388 638,388 664,378 699,378 699,388 723,388 749,379 772,379 773,389 929,391 955,381 1015,380 1015,391 1059,391 1059,411 471,409 471,419 444,419 442,408 402,409 402,419 382,419 358,409 139,405" />
+				<Baseline points="139,406 1059,411" />
+				<TextEquiv index="1">
+					<Unicode>muss. Zum Unglück für ihn besass er keine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="140,438 203,439 231,431 255,431 255,441 274,441 274,431 286,431 309,432 309,441 351,442 376,431 422,431 422,442 448,438 469,438 531,442 531,432 557,432 558,441 579,441 579,430 598,430 598,436 629,436 653,441 655,455 662,455 665,426 690,426 738,431 738,441 856,442 887,434 902,434 902,443 973,444 973,434 998,434 998,443 1060,444 1060,463 914,463 914,473 887,473 856,462 707,461 690,478 665,478 662,461 449,461 449,472 422,472 422,461 255,461 140,457" />
+				<Baseline points="140,459 1060,463" />
+				<TextEquiv index="1">
+					<Unicode>von beiden Eigenschaften. Er war geradezu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="140,490 158,490 158,481 168,481 168,491 189,491 198,482 233,482 233,493 271,493 271,484 295,484 295,494 341,494 341,485 364,485 378,495 447,494 463,484 503,484 524,489 559,494 559,484 584,484 584,494 603,494 603,484 654,484 654,494 674,494 674,484 701,484 701,508 708,508 726,484 764,485 764,494 783,494 783,484 817,484 831,495 901,495 915,485 978,485 978,496 1010,496 1010,486 1034,486 1035,496 1059,496 1059,522 1035,522 1034,515 978,515 978,522 950,522 950,515 726,514 708,520 700,520 700,514 641,514 641,520 619,520 619,514 503,514 503,520 482,520 482,514 271,514 168,512 140,510" />
+				<Baseline points="140,511 1059,515" />
+				<TextEquiv index="1">
+					<Unicode>ein Ausbund von Hässlichkeit, klein von Wuchs,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="140,543 184,543 266,546 288,536 312,536 312,546 330,546 330,537 344,536 388,536 433,537 433,546 519,546 542,536 558,536 558,547 576,547 576,536 608,536 664,537 664,547 687,547 712,537 747,537 747,547 831,547 831,537 852,537 852,548 879,548 882,562 889,562 918,548 957,548 981,539 1005,539 1005,548 1060,548 1060,568 918,568 889,574 882,574 879,567 852,567 852,577 831,577 831,567 773,567 773,577 747,577 747,566 471,567 288,565 266,571 237,571 237,565 218,565 218,575 160,575 160,563 140,563" />
+				<Baseline points="140,564 1060,568" />
+				<TextEquiv index="1">
+					<Unicode>mager, dabei braun wie ein Zigeuner, so dass</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="141,595 228,597 228,588 253,588 254,597 343,598 343,588 356,588 356,598 434,598 470,589 478,589 478,599 508,599 508,589 523,589 523,599 542,599 542,589 569,589 569,598 669,599 669,589 683,589 684,599 755,599 755,589 790,589 790,599 827,600 827,589 946,590 946,601 1012,601 1012,590 1044,590 1044,601 1061,601 1061,620 1044,621 989,621 901,621 877,621 470,619 141,615" />
+				<Baseline points="141,615 1061,621" />
+				<TextEquiv index="1">
+					<Unicode>er eher einem solchen als einem Armenier</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="143,642 161,639 186,639 186,649 206,649 206,640 219,639 231,639 231,649 248,649 248,640 273,640 295,649 332,650 332,641 412,639 438,639 439,650 458,650 458,640 471,640 471,650 513,650 536,640 572,640 574,650 785,652 807,643 820,643 820,653 944,654 944,644 957,644 957,654 976,654 1001,644 1024,644 1024,653 1062,653 1062,673 911,674 890,683 865,683 863,672 206,669 143,667" />
+				<Baseline points="143,668 654,670 1062,674" />
+				<TextEquiv index="1">
+					<Unicode>ähnlich sah. Seine Nase war so lang wie der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="142,690 165,690 166,700 184,700 184,691 220,691 221,701 240,701 263,691 309,691 309,701 345,701 345,691 367,691 391,701 428,702 428,692 472,692 472,701 483,701 505,692 538,692 539,702 559,702 559,692 572,692 572,702 615,703 636,692 664,692 664,702 788,704 788,695 858,695 858,705 1039,706 1039,697 1063,697 1063,725 991,726 687,722 391,721 367,727 347,730 323,730 323,721 309,721 309,730 288,730 288,721 142,719" />
+				<Baseline points="142,720 742,722 1063,726" />
+				<TextEquiv index="1">
+					<Unicode>halbe Kopf, seine Beine kurz und krumm und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="146,752 167,752 167,743 192,743 240,743 240,753 294,753 318,745 341,745 341,753 377,753 402,744 472,744 472,754 516,754 543,745 569,745 570,754 590,749 621,749 709,754 734,744 746,744 746,754 768,754 795,745 824,745 824,755 846,755 884,751 899,748 926,748 970,757 970,745 996,745 1025,747 1025,757 1063,757 1063,777 1025,777 1025,786 970,786 970,777 146,771" />
+				<Baseline points="146,771 708,773 1063,778" />
+				<TextEquiv index="1">
+					<Unicode>mehrere der Zähne hatte er in Faustkämpfen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="148,803 206,804 206,795 220,795 220,805 299,805 305,795 386,795 387,806 406,806 406,796 431,796 432,806 725,806 725,797 814,797 814,807 831,807 857,799 870,799 873,808 892,808 892,800 915,800 916,809 959,809 965,823 972,823 1005,799 1029,799 1029,809 1065,809 1065,829 1005,829 972,835 965,835 959,829 873,828 870,838 857,838 831,827 240,825 148,822" />
+				<Baseline points="148,823 633,825 1065,830" />
+				<TextEquiv index="1">
+					<Unicode>verloren. Daher war es auch für jeden, der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="148,856 170,856 170,846 181,846 181,856 200,856 200,847 223,847 237,852 270,857 342,858 342,848 354,848 354,858 397,858 410,848 446,848 447,859 588,859 588,849 613,849 614,859 732,855 752,850 776,850 814,855 827,861 960,862 960,852 985,852 985,862 1063,861 1063,888 1039,888 1039,882 923,881 904,887 879,887 879,880 776,881 680,879 680,890 652,890 634,879 530,879 530,889 505,889 505,879 306,878 148,875" />
+				<Baseline points="148,876 1063,882" />
+				<TextEquiv index="1">
+					<Unicode>nicht an seine Aussprache gewöhnt war, schwer,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="146,898 190,898 190,910 267,911 372,906 408,902 443,902 443,912 483,912 483,902 569,902 569,912 587,912 618,903 629,903 629,912 717,913 717,903 739,903 771,914 791,914 791,908 806,908 806,915 824,915 824,908 850,908 850,915 875,915 906,905 911,905 911,915 963,916 964,905 993,905 993,915 1030,915 1030,906 1055,906 1055,929 1062,929 1062,942 1055,942 1055,936 911,935 911,942 906,942 875,935 660,933 660,942 618,942 587,932 295,932 146,929" />
+				<Baseline points="146,930 618,932 1062,936" />
+				<TextEquiv index="1">
+					<Unicode>ihn zu verstehen. Er sprach etwas russisch,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="145,962 205,963 205,954 227,954 246,965 264,965 264,955 287,955 287,965 327,965 327,955 372,955 372,965 409,965 409,956 432,956 433,980 440,980 465,956 489,956 489,966 532,966 532,956 576,955 617,955 617,966 632,966 632,960 680,956 698,956 698,966 714,966 715,956 744,956 744,967 778,967 778,981 785,981 808,968 861,968 861,959 873,959 874,968 893,968 893,959 916,959 917,969 960,970 980,959 1026,959 1026,969 1048,969 1049,977 1060,977 1060,982 1049,982 1048,989 808,988 785,994 778,994 778,987 698,986 698,994 680,994 662,986 465,986 440,992 433,992 432,986 347,985 347,992 327,992 327,985 287,985 287,992 264,992 264,985 145,982" />
+				<Baseline points="145,983 1060,990" />
+				<TextEquiv index="1">
+					<Unicode>auch armenisch, doch Gott weiss, welchen Dia-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="143,1005 154,1005 155,1015 172,1015 172,1006 198,1006 216,1011 216,1005 218,1005 301,1008 302,1019 343,1019 343,1010 404,1009 499,1009 543,1013 543,1019 564,1019 564,1009 592,1009 592,1019 630,1019 630,1010 654,1010 655,1019 665,1019 665,1009 733,1009 733,1020 811,1021 811,1012 835,1012 836,1022 958,1023 989,1013 1024,1013 1025,1023 1059,1023 1059,1043 886,1043 757,1041 757,1050 732,1050 732,1041 302,1039 172,1037 143,1034" />
+				<Baseline points="143,1036 1059,1044" />
+				<TextEquiv index="1">
+					<Unicode>lekt. Auch die tatarische Sprache war ihm</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="141,1068 163,1068 163,1058 174,1058 174,1069 193,1069 193,1060 289,1060 289,1072 325,1072 325,1060 353,1060 397,1072 443,1072 444,1063 524,1063 524,1072 616,1072 646,1062 658,1062 658,1072 681,1072 714,1063 736,1063 736,1073 772,1073 804,1064 845,1064 845,1075 862,1070 897,1070 897,1076 913,1076 913,1067 937,1067 937,1077 958,1077 958,1067 970,1067 986,1071 986,1077 1060,1077 1060,1107 1034,1107 1031,1096 845,1096 845,1107 821,1107 821,1095 325,1093 174,1090 141,1088" />
+				<Baseline points="141,1090 714,1093 1060,1098" />
+				<TextEquiv index="1">
+					<Unicode>nicht fremd und da er in der Unterhaltung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="141,1120 159,1120 159,1111 184,1111 184,1122 202,1122 228,1114 261,1114 261,1124 308,1124 308,1114 365,1114 365,1125 445,1126 445,1116 470,1116 471,1126 515,1126 544,1115 560,1115 560,1125 579,1125 580,1115 607,1115 634,1125 653,1125 653,1115 665,1115 665,1126 733,1126 734,1117 757,1117 757,1127 866,1125 898,1129 924,1125 959,1125 964,1144 972,1144 1006,1129 1057,1129 1057,1149 1006,1150 972,1156 964,1156 959,1150 925,1150 925,1160 898,1160 898,1149 866,1149 866,1160 838,1160 838,1148 389,1145 389,1155 363,1155 363,1145 280,1145 141,1140" />
+				<Baseline points="141,1141 1057,1150" />
+				<TextEquiv index="1">
+					<Unicode>alle diese Sprachen mit einander mengte, er-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="142,1162 153,1162 153,1173 231,1176 231,1170 246,1170 246,1176 322,1178 322,1168 334,1168 334,1178 376,1178 395,1168 445,1168 535,1169 536,1179 555,1179 555,1169 654,1168 672,1179 716,1179 738,1170 772,1170 772,1180 790,1180 812,1171 836,1171 837,1182 857,1182 857,1172 881,1172 881,1182 906,1182 906,1173 919,1173 919,1182 964,1183 964,1172 977,1172 977,1182 1013,1182 1013,1173 1038,1173 1038,1182 1057,1182 1057,1202 906,1202 906,1212 880,1212 880,1202 615,1199 303,1198 215,1196 142,1192" />
+				<Baseline points="142,1194 1057,1203" />
+				<TextEquiv index="1">
+					<Unicode>innerte seine Rede lebhaft an die babylonische</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="144,1214 169,1214 169,1226 244,1228 244,1220 268,1220 268,1229 356,1231 356,1221 368,1221 368,1231 437,1232 437,1214 461,1214 461,1232 479,1232 479,1214 481,1214 528,1221 581,1221 581,1231 618,1231 641,1222 690,1222 690,1232 712,1232 734,1223 772,1223 783,1224 798,1229 835,1234 856,1225 880,1226 881,1235 916,1225 986,1225 986,1249 993,1249 1016,1235 1055,1235 1055,1255 1016,1255 993,1262 966,1262 966,1256 951,1256 951,1262 917,1262 917,1256 863,1255 863,1262 856,1262 835,1254 552,1252 528,1252 481,1262 437,1262 437,1252 325,1251 207,1248 192,1246 192,1255 168,1255 168,1245 144,1245" />
+				<Baseline points="144,1246 480,1251 1055,1256" />
+				<TextEquiv index="1">
+					<Unicode>Sprachverwirrung. Was sein Alter betrifft, so</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="143,1277 163,1277 163,1271 188,1271 188,1278 198,1278 199,1271 240,1271 255,1275 255,1281 370,1284 370,1275 394,1275 394,1285 407,1285 407,1275 466,1274 489,1275 489,1284 507,1284 507,1274 540,1274 540,1284 574,1284 574,1274 586,1274 586,1285 612,1285 638,1275 674,1275 674,1285 690,1285 717,1275 735,1275 752,1280 752,1286 775,1286 775,1276 794,1276 815,1287 861,1288 862,1279 922,1278 935,1280 935,1289 973,1289 973,1278 1002,1278 1002,1289 1018,1289 1018,1278 1031,1278 1031,1289 1056,1289 1056,1320 1030,1320 1030,1309 922,1309 922,1320 912,1320 884,1308 638,1305 612,1315 585,1315 585,1304 476,1305 476,1315 466,1315 444,1305 163,1302 143,1298" />
+				<Baseline points="143,1299 443,1305 638,1305 1056,1310" />
+				<TextEquiv index="1">
+					<Unicode>mochte er wohl dreissig bis fünf und dreissig</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="137,1320 158,1320 158,1331 178,1331 178,1322 200,1322 201,1333 275,1335 275,1329 296,1326 332,1326 332,1336 375,1337 376,1351 383,1351 406,1328 431,1328 431,1337 472,1338 472,1328 496,1328 520,1337 637,1338 659,1329 672,1329 672,1338 713,1339 713,1329 725,1329 725,1339 756,1339 778,1330 790,1330 790,1341 807,1341 807,1332 831,1332 854,1342 890,1342 912,1333 923,1333 923,1343 935,1343 935,1333 993,1333 1013,1337 1013,1363 659,1360 548,1357 548,1367 520,1367 496,1357 406,1357 383,1363 376,1363 375,1356 332,1357 158,1352 158,1359 137,1359" />
+				<Baseline points="137,1353 659,1358 1013,1364" />
+				<TextEquiv index="1">
+					<Unicode>Jahre zählen, doch genau weiss ich es nicht.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="229,1376 255,1376 255,1386 273,1386 273,1377 296,1376 308,1376 376,1379 376,1388 413,1388 413,1379 469,1380 469,1389 484,1389 484,1379 492,1379 534,1389 583,1389 583,1380 683,1380 685,1391 728,1390 728,1381 752,1381 784,1382 784,1392 805,1392 843,1384 868,1384 869,1394 889,1389 920,1389 920,1395 939,1395 982,1385 1014,1385 1014,1395 1056,1394 1056,1414 939,1415 856,1415 843,1415 665,1411 229,1406" />
+				<Baseline points="229,1406 646,1409 1056,1415" />
+				<TextEquiv index="1">
+					<Unicode>Sein Treiben und Handeln hatte eine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="145,1424 175,1424 186,1425 186,1435 202,1435 202,1426 227,1426 242,1431 242,1444 253,1444 279,1438 326,1438 326,1430 349,1430 380,1439 399,1439 399,1429 412,1429 412,1440 454,1440 481,1429 508,1429 509,1440 519,1440 519,1429 542,1429 606,1434 606,1440 686,1441 686,1431 699,1431 714,1436 714,1442 737,1442 737,1429 739,1429 832,1434 832,1444 850,1444 876,1436 917,1436 917,1447 935,1447 935,1437 961,1437 992,1446 993,1436 1024,1436 1039,1441 1039,1447 1057,1447 1057,1467 876,1467 787,1463 519,1462 481,1460 302,1458 279,1457 253,1449 242,1449 242,1456 145,1453" />
+				<Baseline points="145,1455 738,1462 1057,1468" />
+				<TextEquiv index="1">
+					<Unicode>Licht- und eine Schattenseite. Die Lichtseite</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="147,1476 170,1476 171,1486 191,1486 207,1482 222,1482 222,1488 264,1489 265,1480 327,1479 327,1485 343,1485 343,1491 446,1492 469,1483 493,1483 493,1493 506,1493 506,1482 544,1482 544,1492 567,1492 572,1506 580,1506 613,1483 636,1483 636,1492 691,1493 718,1485 735,1485 735,1494 749,1494 749,1485 778,1485 836,1486 836,1497 859,1497 885,1489 918,1489 918,1498 978,1499 978,1489 990,1489 990,1499 1057,1499 1057,1519 885,1519 613,1512 580,1518 572,1518 567,1512 528,1512 528,1518 506,1518 493,1513 321,1511 147,1506" />
+				<Baseline points="147,1507 613,1512 1057,1520" />
+				<TextEquiv index="1">
+					<Unicode>bestand für uns darin, dass wir ihn als einen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="150,1538 328,1544 328,1535 377,1535 400,1539 400,1545 419,1545 419,1535 511,1535 512,1545 545,1545 545,1535 639,1535 639,1546 659,1546 659,1535 685,1535 685,1546 719,1547 720,1537 750,1537 750,1548 767,1548 795,1539 820,1539 821,1550 842,1550 902,1546 902,1552 945,1552 949,1567 956,1567 990,1543 1014,1543 1014,1552 1057,1552 1057,1573 990,1573 956,1579 949,1579 945,1573 685,1568 614,1568 588,1566 556,1575 545,1575 545,1565 377,1565 377,1575 328,1575 328,1564 184,1561 150,1558" />
+				<Baseline points="150,1560 555,1566 588,1565 1057,1574" />
+				<TextEquiv index="1">
+					<Unicode>armen unglücklichen Armenier kannten, den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l24" custom="readingOrder {index:24;}">
+				<Coords points="147,1591 168,1591 168,1583 188,1583 188,1593 249,1596 249,1585 268,1585 268,1591 277,1591 308,1598 369,1598 397,1588 448,1588 474,1589 474,1599 494,1599 494,1589 572,1588 572,1599 711,1600 746,1599 768,1592 817,1592 817,1604 838,1604 838,1594 861,1594 861,1605 957,1607 984,1595 990,1595 990,1606 1028,1606 1028,1595 1055,1595 1055,1626 984,1626 957,1637 931,1637 931,1626 650,1620 329,1618 229,1616 147,1612" />
+				<Baseline points="147,1613 1055,1627" />
+				<TextEquiv index="1">
+					<Unicode>wir oft aus Mitleid in unsere Wohnung auf-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l25" custom="readingOrder {index:25;}">
+				<Coords points="146,1644 168,1644 187,1646 187,1637 210,1637 210,1648 364,1652 364,1642 433,1642 433,1653 450,1653 451,1642 536,1642 536,1651 575,1651 576,1642 599,1642 625,1653 672,1653 672,1644 767,1644 767,1650 796,1650 796,1657 815,1657 845,1648 869,1648 870,1658 922,1659 922,1649 934,1649 966,1654 966,1660 986,1660 986,1654 1002,1654 1002,1660 1016,1660 1016,1648 1036,1648 1036,1660 1054,1660 1054,1679 1036,1680 857,1680 845,1680 625,1673 340,1672 210,1669 146,1664" />
+				<Baseline points="146,1666 284,1670 504,1671 1054,1680" />
+				<TextEquiv index="1">
+					<Unicode>nahmen und mit Brod und Käse bewirteten.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l26" custom="readingOrder {index:26;}">
+				<Coords points="146,1686 170,1686 170,1698 188,1698 188,1689 199,1689 199,1701 240,1701 262,1692 287,1692 288,1704 298,1704 298,1692 351,1694 351,1700 382,1699 383,1705 464,1705 464,1695 476,1695 510,1705 540,1695 552,1695 553,1705 600,1706 625,1695 637,1695 637,1706 780,1710 780,1700 815,1700 815,1710 834,1710 834,1702 857,1702 858,1711 944,1713 967,1702 1014,1702 1014,1713 1054,1713 1054,1733 901,1733 803,1730 803,1739 780,1739 780,1730 625,1726 600,1737 574,1737 574,1725 298,1725 146,1718" />
+				<Baseline points="146,1720 509,1726 686,1727 1054,1735" />
+				<TextEquiv index="1">
+					<Unicode>Seine Schattenseite lag in verschiedenen Ver-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l27" custom="readingOrder {index:27;}">
+				<Coords points="145,1740 167,1740 167,1746 186,1746 186,1753 204,1753 204,1744 226,1744 227,1750 241,1745 252,1745 252,1756 298,1757 463,1759 463,1749 546,1747 546,1758 565,1753 605,1753 605,1759 624,1759 624,1749 648,1749 663,1754 663,1760 706,1760 711,1775 718,1775 749,1752 783,1752 783,1763 850,1755 874,1755 874,1765 910,1765 937,1757 974,1757 974,1766 996,1766 1018,1756 1030,1756 1030,1766 1053,1766 1053,1785 937,1786 761,1783 711,1787 706,1780 527,1779 527,1787 511,1787 486,1779 349,1778 349,1789 322,1789 321,1777 278,1776 278,1787 252,1787 252,1775 186,1773 145,1769" />
+				<Baseline points="145,1773 1053,1787" />
+				<TextEquiv index="1">
+					<Unicode>dächtigungen und Gerüchten, die über ihn in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>durchtrieben oder schön von Angesicht sein
+muss. Zum Unglück für ihn besass er keine
+von beiden Eigenschaften. Er war geradezu
+ein Ausbund von Hässlichkeit, klein von Wuchs,
+mager, dabei braun wie ein Zigeuner, so dass
+er eher einem solchen als einem Armenier
+ähnlich sah. Seine Nase war so lang wie der
+halbe Kopf, seine Beine kurz und krumm und
+mehrere der Zähne hatte er in Faustkämpfen
+verloren. Daher war es auch für jeden, der
+nicht an seine Aussprache gewöhnt war, schwer,
+ihn zu verstehen. Er sprach etwas russisch,
+auch armenisch, doch Gott weiss, welchen Dia-
+lekt. Auch die tatarische Sprache war ihm
+nicht fremd und da er in der Unterhaltung
+alle diese Sprachen mit einander mengte, er-
+innerte seine Rede lebhaft an die babylonische
+Sprachverwirrung. Was sein Alter betrifft, so
+mochte er wohl dreissig bis fünf und dreissig
+Jahre zählen, doch genau weiss ich es nicht.
+Sein Treiben und Handeln hatte eine
+Licht- und eine Schattenseite. Die Lichtseite
+bestand für uns darin, dass wir ihn als einen
+armen unglücklichen Armenier kannten, den
+wir oft aus Mitleid in unsere Wohnung auf-
+nahmen und mit Brod und Käse bewirteten.
+Seine Schattenseite lag in verschiedenen Ver-
+dächtigungen und Gerüchten, die über ihn in</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r3">
+			<Coords points="2,1997 1208,1997 1208,2009 2,2009" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+durchtrieben oder schön von Angesicht sein muss. Zum Unglück für ihn besass er keine von beiden Eigenschaften. Er war geradezu ein Ausbund von Hässlichkeit, klein von Wuchs, mager, dabei braun wie ein Zigeuner, so dass er eher einem solchen als einem Armenier ähnlich sah. Seine Nase war so lang wie der halbe Kopf, seine Beine kurz und krumm und mehrere der Zähne hatte er in Faustkämpfen verloren. Daher war es auch für jeden, der nicht an seine Aussprache gewöhnt war, schwer, ihn zu verstehen. Er sprach etwas russisch, auch armenisch, doch Gott weiss, welchen Dialekt. Auch die tatarische Sprache war ihm nicht fremd und da er in der Unterhaltung alle diese Sprachen mit einander mengte, erinnerte seine Rede lebhaft an die babylonische Sprachverwirrung. Was sein Alter betrifft, so mochte er wohl dreissig bis fünf und dreissig Jahre zählen, doch genau weiss ich es nicht.
+Sein Treiben und Handeln hatte eine Licht- und eine Schattenseite. Die Lichtseite bestand für uns darin, dass wir ihn als einen armen unglücklichen Armenier kannten, den wir oft aus Mitleid in unsere Wohnung aufnahmen und mit Brod und Käse bewirteten. Seine Schattenseite lag in verschiedenen Verdächtigungen und Gerüchten, die über ihn in
+-->
+	</Page>
+</PcGts>

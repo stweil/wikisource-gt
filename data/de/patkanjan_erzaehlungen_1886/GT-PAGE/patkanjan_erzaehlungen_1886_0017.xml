@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:43:27</Created>
+		<LastChange>2026-11-23T18:43:27</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:PatkanjanDreiErzählungen.pdf/17 revision 3378138 of 2018-08-01T06:07:58Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="patkanjan_erzaehlungen_1886_0017.png" imageWidth="1285" imageHeight="2150">
+		<ReadingOrder>
+			<OrderedGroup id="ro5925944049716966718" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="524,0 1283,0 1283,6 524,6" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="512,256 713,256 713,284 512,284" />
+			<!-- line left out: id="r1l0" points="512,272 551,272 604,256 623,256 673,274 713,274 713,277 673,277 623,284 604,284 551,275 512,275" baseline="512,275 550,275 713,277" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 7 —
+ | german_print2_15: — 7 —
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="142,346 1077,346 1077,1806 142,1806" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="146,356 201,356 226,346 256,346 256,356 276,356 276,346 289,346 289,356 314,356 314,346 336,346 336,357 424,357 424,346 450,346 476,351 476,358 544,358 568,349 604,349 604,359 623,359 643,349 697,349 697,360 715,360 715,350 749,350 749,360 850,362 850,352 875,352 875,362 920,363 940,353 985,353 1077,364 1077,384 940,384 525,378 525,389 498,389 498,378 450,378 450,389 424,389 424,377 336,377 336,389 314,389 314,376 146,375" />
+				<Baseline points="146,375 643,379 1077,385" />
+				<TextEquiv index="1">
+					<Unicode>am Palmensonntage die Weiden schon Blätter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="144,398 169,398 169,408 190,403 241,402 241,409 265,409 271,398 273,398 370,399 370,410 400,410 400,400 425,400 426,410 445,410 475,401 499,401 499,411 538,411 563,402 577,402 616,406 616,412 633,412 634,406 661,402 721,403 722,413 741,413 741,407 756,407 756,413 773,413 774,407 788,407 819,414 855,414 855,405 892,405 893,416 986,416 1018,407 1055,407 1055,417 1074,417 1074,437 942,436 942,446 915,446 914,435 722,433 721,442 700,442 661,432 579,432 577,442 563,442 538,431 144,428" />
+				<Baseline points="144,428 700,432 1074,437" />
+				<TextEquiv index="1">
+					<Unicode>hatten. Suche das jetzt! Jetzt schlagen die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="144,450 177,450 198,455 198,461 279,462 300,452 327,452 327,462 408,463 430,453 465,453 520,454 520,464 548,464 566,454 634,454 650,459 650,465 669,465 689,456 714,456 714,466 750,466 768,456 807,456 808,467 828,467 828,456 840,456 840,467 911,468 911,456 934,456 946,458 946,469 1073,469 1073,489 911,489 839,487 144,480" />
+				<Baseline points="144,480 1073,490" />
+				<TextEquiv index="1">
+					<Unicode>Bäume kaum in der Mitte des Maimondes aus.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="236,528 253,528 254,506 284,506 284,515 326,515 326,506 383,505 419,505 419,516 438,516 466,506 497,506 497,517 515,517 515,511 528,506 600,507 600,517 620,517 649,507 678,507 678,518 702,518 702,508 761,508 763,519 783,519 783,513 798,513 798,519 815,514 829,514 855,520 878,520 878,510 890,510 891,520 909,520 909,511 934,511 976,521 1033,522 1033,512 1058,512 1058,522 1075,522 1075,542 763,539 761,548 748,548 725,538 254,534 253,540 236,540" />
+				<Baseline points="236,534 1075,542" />
+				<TextEquiv index="1">
+					<Unicode>„Auch die Früchte sind jetzt nicht mehr</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l4" points="145,557 182,557 182,567 241,567 241,558 278,558 279,568 322,568 368,569 368,558 461,558 461,569 473,569 473,563 495,559 520,559 522,569 561,569 588,584 641,584 670,560 706,560 706,571 724,571 724,561 748,561 763,566 789,572 826,572 853,563 877,563 877,573 974,568 996,564 1034,564 1034,574 1062,574 1062,582 1073,582 1073,587 1062,587 1062,595 996,595 974,594 809,593 789,593 724,592 706,591 706,601 670,601 641,590 611,590 456,589 221,588 145,587" baseline="145,587 414,588 588,589 1073,595" reason: differs: "her...g" against "er … gi" | Wikisource:  | next_nc_e1: dieselben wie früher ... giebt es denn über- | german_print2_15: dieselben wie früher .. . giebt es denn über- -->
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="145,610 171,610 172,620 257,615 302,620 343,621 343,611 421,611 474,616 474,622 519,622 542,612 554,612 554,622 577,622 600,613 625,613 625,623 662,623 680,613 707,613 722,618 722,624 743,624 743,615 886,616 886,626 928,626 928,617 953,617 955,627 1006,627 1006,617 1073,618 1073,647 909,647 243,640 243,649 217,649 217,640 145,639" />
+				<Baseline points="145,639 576,642 1073,648" />
+				<TextEquiv index="1">
+					<Unicode>haupt noch Gärten in der Stadt? Manche sind</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="145,662 171,661 183,661 183,672 199,672 222,662 235,662 235,672 258,672 284,663 320,663 320,673 338,673 361,663 418,663 418,674 470,674 470,665 503,665 529,675 574,674 592,669 608,669 608,675 665,676 665,666 691,666 691,677 734,676 734,670 749,670 770,678 816,677 816,668 839,668 865,679 906,679 930,668 964,668 964,679 1028,679 1028,670 1052,670 1054,680 1071,680 1071,699 1052,700 964,700 930,700 770,697 145,691" />
+				<Baseline points="145,691 1071,700" />
+				<TextEquiv index="1">
+					<Unicode>bis in die Wurzel vertrocknet und zu Grunde</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="151,725 350,725 373,716 410,716 410,726 428,726 450,716 476,716 477,727 496,727 496,717 522,717 523,727 568,727 590,717 627,717 627,728 646,728 664,718 721,718 737,723 737,729 849,725 849,731 914,726 951,726 969,731 969,725 984,725 1001,732 1050,732 1050,722 1073,722 1073,752 697,750 664,748 373,745 350,751 317,751 317,745 298,745 298,755 259,755 259,745 227,745 227,755 200,755 198,744 178,744 178,755 151,755" />
+				<Baseline points="151,744 1073,752" />
+				<TextEquiv index="1">
+					<Unicode>gegangen, die haben die Würmer zerstört und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l8" points="150,767 163,767 166,777 232,777 262,768 289,768 289,777 309,772 355,768 380,768 380,777 416,777 443,768 483,768 483,778 530,773 579,769 592,769 592,779 624,779 624,769 657,769 657,779 676,779 732,780 755,781 786,795 793,795 837,796 837,763 858,763 877,773 914,773 914,783 956,783 956,774 1037,774 1037,784 1074,784 1074,804 1012,804 877,803 858,814 837,814 837,802 786,802 656,800 605,799 605,809 579,809 546,798 458,798 289,797 166,796 163,806 150,806" baseline="150,795 415,797 545,798 980,803 1074,804" reason: differs: "sen...A" against "en … Au" | Wikisource:  | next_nc_e1: jene hat der Frost gefressen . . . Auch das | german_print2_15: jene hat der Frost gefressen . . . Auch das -->
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="153,818 195,818 195,829 243,829 266,818 295,818 331,829 354,829 354,819 366,819 366,830 385,830 385,820 410,820 446,831 503,831 503,821 528,821 528,831 546,831 568,822 592,822 592,831 669,832 669,822 683,822 706,823 707,832 759,834 759,823 792,823 792,834 811,834 834,824 930,825 930,835 949,835 953,824 1053,825 1053,837 1073,837 1073,856 874,856 706,853 153,849" />
+				<Baseline points="153,848 568,851 1073,857" />
+				<TextEquiv index="1">
+					<Unicode>Gras ist nicht mehr dasselbe wie früher. Wo</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="150,881 169,881 169,872 180,872 182,882 205,882 206,872 229,872 273,873 275,882 294,882 294,876 310,876 310,882 327,882 328,876 373,873 409,873 409,883 428,883 460,874 485,874 485,884 496,884 496,873 585,873 585,884 620,884 649,875 688,875 688,885 705,885 705,879 726,879 726,885 748,885 748,879 763,879 763,886 875,887 875,879 970,878 970,889 1073,889 1073,909 875,909 585,904 585,915 538,915 538,905 521,905 521,915 496,915 496,904 275,902 273,912 257,912 229,902 150,902" />
+				<Baseline points="150,901 619,904 1073,910" />
+				<TextEquiv index="1">
+					<Unicode>sind jetzt die duftigen Kräuter und Blumen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="148,936 263,936 263,926 287,926 287,936 303,936 303,926 325,926 325,936 364,937 364,927 458,927 458,937 647,937 668,928 703,928 718,932 718,938 781,935 845,935 845,941 886,941 905,931 932,931 932,941 952,941 952,931 964,931 1001,942 1073,942 1073,962 830,961 830,971 781,971 759,959 303,957 148,954" />
+				<Baseline points="148,955 439,956 1073,963" />
+				<TextEquiv index="1">
+					<Unicode>von ehemals! In unserer alten guten Zeit war</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="147,988 185,989 224,978 278,978 292,983 292,989 312,989 316,1004 324,1004 360,980 385,980 385,990 433,989 433,980 441,980 478,990 615,990 615,980 627,980 627,990 646,990 646,980 669,980 718,981 718,991 751,991 787,982 827,982 858,983 858,993 939,994 939,984 963,984 963,994 983,994 1019,984 1055,984 1055,994 1071,994 1071,1014 1055,1015 1019,1015 787,1014 647,1011 324,1015 316,1015 312,1009 234,1009 234,1015 224,1015 185,1009 147,1008" />
+				<Baseline points="147,1009 596,1010 1071,1015" />
+				<TextEquiv index="1">
+					<Unicode>es Sitte, dass man sich im Maimonde ins</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="146,1030 166,1030 188,1031 188,1042 224,1042 224,1032 236,1030 258,1030 258,1042 269,1042 293,1031 326,1031 326,1042 381,1043 409,1033 421,1033 422,1043 469,1044 469,1037 484,1037 484,1043 580,1043 582,1034 656,1034 656,1044 693,1044 716,1034 723,1034 739,1035 739,1045 759,1045 759,1034 790,1034 790,1045 808,1045 808,1035 820,1035 834,1040 834,1046 896,1047 896,1036 908,1036 908,1046 1070,1047 1070,1067 716,1066 642,1064 470,1063 470,1073 443,1073 441,1063 293,1063 146,1061" />
+				<Baseline points="146,1062 632,1063 1070,1068" />
+				<TextEquiv index="1">
+					<Unicode>frische Gras legte und das befreite einen von</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="146,1094 167,1094 167,1085 192,1085 193,1095 237,1095 251,1085 290,1085 290,1095 351,1095 351,1085 390,1085 433,1085 468,1095 559,1096 559,1086 597,1085 632,1085 632,1096 687,1096 687,1087 708,1085 731,1085 731,1091 751,1091 751,1085 774,1085 774,1097 826,1098 826,1112 833,1112 866,1088 887,1088 888,1099 908,1099 908,1093 974,1090 1011,1090 1011,1100 1031,1100 1031,1091 1057,1091 1070,1095 1070,1120 1011,1121 1011,1130 974,1130 956,1120 888,1119 887,1127 866,1127 833,1118 146,1114" />
+				<Baseline points="146,1114 597,1116 1070,1121" />
+				<TextEquiv index="1">
+					<Unicode>allen Krankheiten und Geschwüren. Jetzt giebt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="146,1147 183,1148 204,1138 218,1138 221,1148 302,1148 326,1137 357,1137 358,1148 461,1148 461,1138 473,1138 473,1149 492,1149 492,1138 517,1138 555,1148 612,1149 612,1139 638,1139 638,1149 723,1149 724,1140 746,1140 768,1150 790,1150 800,1141 887,1141 887,1151 899,1151 899,1141 931,1141 1003,1143 1005,1153 1069,1153 1069,1173 1005,1173 1003,1183 989,1183 971,1172 221,1168 218,1178 204,1178 183,1167 146,1167" />
+				<Baseline points="146,1167 677,1169 1069,1173" />
+				<TextEquiv index="1">
+					<Unicode>es jenes Gras nicht mehr und auch nicht jene</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="145,1190 195,1190 195,1201 267,1201 267,1191 292,1191 293,1201 337,1201 340,1215 347,1215 386,1190 422,1190 422,1201 495,1201 495,1191 508,1191 508,1201 527,1201 527,1191 601,1191 601,1201 642,1201 674,1191 707,1191 707,1202 760,1203 794,1193 808,1193 808,1203 828,1198 868,1198 868,1204 912,1204 918,1193 1069,1196 1069,1231 1002,1231 1002,1225 980,1225 920,1234 918,1234 918,1224 868,1224 868,1234 828,1234 827,1223 386,1221 340,1227 337,1220 195,1220 195,1227 170,1227 170,1220 145,1220" />
+				<Baseline points="145,1220 551,1221 1069,1226" />
+				<TextEquiv index="1">
+					<Unicode>Menschen, die sich ins Gras legten. Ach,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="146,1252 167,1252 167,1242 214,1242 214,1252 291,1243 316,1243 316,1253 338,1253 343,1267 350,1267 380,1244 401,1244 402,1254 496,1254 501,1269 508,1269 542,1244 657,1245 657,1254 700,1254 726,1244 772,1244 772,1255 792,1255 792,1244 817,1244 817,1255 857,1256 857,1246 878,1244 903,1244 903,1257 928,1257 961,1247 990,1247 1004,1252 1032,1258 1069,1258 1069,1278 747,1277 726,1275 542,1274 508,1280 501,1280 476,1275 476,1285 449,1285 449,1274 402,1273 401,1282 380,1282 343,1279 338,1273 146,1272" />
+				<Baseline points="146,1272 699,1274 1069,1278" />
+				<TextEquiv index="1">
+					<Unicode>weisst du, Junge, mit den Armeniern ist es</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="146,1305 210,1305 215,1296 267,1295 302,1295 302,1305 343,1306 343,1296 369,1296 373,1320 381,1320 414,1306 486,1306 514,1296 526,1296 526,1306 569,1306 569,1296 583,1296 610,1297 610,1307 629,1307 657,1296 669,1296 669,1307 687,1307 687,1297 711,1297 762,1298 762,1307 963,1310 968,1301 1052,1300 1052,1311 1068,1311 1068,1337 1052,1340 1018,1340 975,1330 919,1330 919,1341 891,1341 891,1329 414,1326 381,1332 373,1332 369,1326 146,1325" />
+				<Baseline points="146,1325 628,1326 1068,1331" />
+				<TextEquiv index="1">
+					<Unicode>aus! Doch, was wollte ich denn sagen! Ja,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="146,1347 160,1347 160,1358 177,1358 177,1348 202,1348 237,1358 261,1358 261,1348 275,1348 275,1358 317,1358 317,1349 342,1349 343,1358 362,1358 367,1372 375,1372 407,1348 420,1348 420,1358 436,1358 436,1349 514,1349 516,1359 536,1359 536,1350 562,1350 562,1359 623,1359 623,1350 681,1350 735,1354 738,1373 745,1373 776,1351 800,1351 800,1361 855,1361 885,1352 919,1352 938,1353 970,1363 990,1363 990,1352 1002,1352 1002,1363 1068,1363 1068,1383 738,1385 735,1379 648,1379 648,1389 610,1389 582,1379 407,1377 375,1384 367,1384 362,1378 263,1377 263,1388 237,1388 202,1377 146,1377" />
+				<Baseline points="146,1377 488,1378 1068,1383" />
+				<TextEquiv index="1">
+					<Unicode>ich glaube, ich habe gehört, dass ihr einen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="149,1399 196,1399 244,1404 244,1410 258,1410 258,1399 282,1399 288,1405 321,1405 430,1410 430,1401 445,1401 445,1410 537,1410 560,1401 577,1401 577,1411 614,1410 614,1401 642,1401 642,1411 662,1406 678,1406 678,1425 685,1425 729,1402 763,1402 764,1412 800,1412 821,1403 850,1403 887,1414 907,1414 907,1404 920,1404 920,1414 943,1414 987,1410 1010,1410 1010,1416 1035,1416 1035,1410 1052,1410 1052,1416 1069,1416 1069,1435 1036,1436 1036,1446 987,1446 964,1435 493,1430 493,1440 466,1440 465,1430 288,1430 282,1439 244,1439 244,1429 196,1429 196,1439 172,1439 172,1430 149,1430" />
+				<Baseline points="149,1429 684,1430 1069,1436" />
+				<TextEquiv index="1">
+					<Unicode>Obstgarten anlegen wollet. Das ist eine gute</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="150,1451 198,1451 244,1451 244,1462 262,1462 262,1452 287,1452 304,1456 311,1475 318,1475 355,1451 390,1451 390,1462 410,1462 410,1456 523,1462 523,1453 549,1453 549,1462 568,1462 605,1453 630,1453 630,1463 667,1463 699,1452 731,1452 731,1463 750,1463 750,1454 774,1454 774,1464 792,1464 792,1454 804,1454 828,1455 828,1465 877,1465 877,1452 879,1452 980,1456 980,1467 1068,1468 1068,1488 952,1488 828,1485 504,1482 504,1493 477,1493 441,1482 311,1487 304,1481 198,1481 198,1487 174,1487 174,1481 150,1481" />
+				<Baseline points="150,1481 699,1483 1068,1488" />
+				<TextEquiv index="1">
+					<Unicode>Absicht, Gott gebe das Gedeihen. Unsere</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="150,1504 186,1504 186,1514 226,1514 226,1503 261,1503 284,1504 284,1514 386,1514 399,1510 449,1510 492,1515 493,1529 500,1529 524,1505 549,1505 549,1515 586,1515 608,1505 652,1505 652,1516 714,1517 714,1505 737,1505 746,1511 821,1508 822,1519 842,1519 842,1509 865,1509 866,1519 885,1519 909,1510 944,1509 944,1519 964,1519 984,1509 1029,1509 1029,1515 1039,1515 1039,1521 1067,1521 1067,1541 797,1539 737,1537 737,1547 699,1547 699,1536 652,1537 652,1547 630,1547 630,1536 524,1535 500,1541 493,1541 492,1535 449,1535 449,1545 399,1545 399,1535 150,1534" />
+				<Baseline points="150,1534 499,1535 1067,1541" />
+				<TextEquiv index="1">
+					<Unicode>Vorfahren sagten, der Herrgott habe die Gär-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="146,1563 163,1563 163,1569 277,1568 277,1558 301,1558 301,1568 444,1568 492,1558 514,1558 514,1568 536,1568 538,1583 546,1583 580,1569 652,1568 684,1558 717,1558 738,1563 768,1564 768,1570 888,1573 888,1564 966,1562 967,1574 988,1574 988,1568 1025,1568 1025,1574 1067,1574 1067,1594 939,1595 580,1589 546,1595 538,1595 536,1589 514,1589 514,1597 444,1600 441,1600 441,1588 377,1588 377,1600 349,1600 318,1588 146,1589" />
+				<Baseline points="146,1589 684,1589 1067,1595" />
+				<TextEquiv index="1">
+					<Unicode>ten sehr gern. Ja, was Gärten und Saaten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l24" custom="readingOrder {index:24;}">
+				<Coords points="144,1622 182,1622 182,1610 201,1610 215,1613 216,1622 237,1622 237,1616 252,1611 270,1610 312,1610 312,1617 322,1617 322,1636 328,1636 352,1612 376,1612 376,1622 397,1622 419,1612 431,1612 431,1622 448,1622 449,1616 464,1616 486,1622 591,1622 608,1612 659,1612 659,1623 715,1624 715,1612 737,1612 747,1618 777,1618 800,1625 837,1625 837,1616 861,1616 861,1626 940,1627 940,1616 959,1616 959,1627 1027,1627 1027,1617 1054,1617 1055,1635 1066,1635 1066,1640 1055,1640 1054,1647 895,1647 737,1644 737,1654 701,1654 701,1644 667,1644 659,1654 634,1654 634,1642 352,1642 328,1648 321,1648 306,1643 292,1642 292,1648 270,1648 270,1642 215,1643 201,1648 182,1648 182,1642 144,1642" />
+				<Baseline points="144,1642 608,1642 1066,1648" />
+				<TextEquiv index="1">
+					<Unicode>anbetrifft, da ist unser Herrgott sehr aufmerk-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l25" custom="readingOrder {index:25;}">
+				<Coords points="144,1675 219,1675 225,1689 232,1689 265,1675 303,1675 330,1665 368,1665 368,1675 388,1675 388,1665 413,1665 467,1665 490,1666 490,1676 558,1675 586,1666 598,1666 598,1676 627,1676 627,1666 652,1666 652,1676 707,1676 739,1667 739,1677 754,1677 754,1667 786,1667 786,1678 804,1678 804,1668 893,1667 983,1669 983,1680 1077,1680 1077,1699 736,1700 535,1696 368,1695 368,1706 330,1706 303,1695 265,1695 232,1701 225,1701 219,1695 144,1695" />
+				<Baseline points="144,1695 586,1696 1077,1701" />
+				<TextEquiv index="1">
+					<Unicode>sam, er giebt ihnen immer reichlich Wasser</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l26" custom="readingOrder {index:26;}">
+				<Coords points="143,1728 191,1728 191,1719 238,1717 301,1717 327,1722 327,1729 383,1729 383,1743 390,1743 441,1718 476,1718 476,1729 496,1729 496,1719 541,1719 570,1729 608,1729 611,1743 619,1743 652,1719 676,1719 676,1729 819,1731 819,1722 881,1722 881,1732 902,1732 931,1723 956,1723 956,1732 976,1732 976,1722 987,1722 987,1732 1066,1732 1066,1752 931,1753 652,1749 619,1755 611,1755 608,1749 575,1749 575,1755 570,1755 541,1749 441,1750 143,1748" />
+				<Baseline points="143,1749 652,1749 1066,1753" />
+				<TextEquiv index="1">
+					<Unicode>und Wärme. Gebe er, dass auch in deinem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l27" custom="readingOrder {index:27;}">
+				<Coords points="142,1770 188,1770 231,1775 231,1781 273,1781 301,1772 337,1772 337,1782 354,1782 379,1772 409,1772 409,1782 469,1782 469,1772 536,1771 563,1771 563,1782 583,1782 583,1772 595,1772 595,1782 618,1782 641,1771 672,1771 672,1782 697,1782 697,1773 720,1773 720,1783 808,1784 808,1774 832,1774 832,1784 889,1785 894,1775 948,1774 1054,1775 1069,1780 1069,1805 997,1806 948,1806 672,1803 142,1802" />
+				<Baseline points="142,1802 641,1802 1069,1805" />
+				<TextEquiv index="1">
+					<Unicode>Garten die Frucht kein Ende nehme! Es ist</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>am Palmensonntage die Weiden schon Blätter
+hatten. Suche das jetzt! Jetzt schlagen die
+Bäume kaum in der Mitte des Maimondes aus.
+„Auch die Früchte sind jetzt nicht mehr
+haupt noch Gärten in der Stadt? Manche sind
+bis in die Wurzel vertrocknet und zu Grunde
+gegangen, die haben die Würmer zerstört und
+Gras ist nicht mehr dasselbe wie früher. Wo
+sind jetzt die duftigen Kräuter und Blumen
+von ehemals! In unserer alten guten Zeit war
+es Sitte, dass man sich im Maimonde ins
+frische Gras legte und das befreite einen von
+allen Krankheiten und Geschwüren. Jetzt giebt
+es jenes Gras nicht mehr und auch nicht jene
+Menschen, die sich ins Gras legten. Ach,
+weisst du, Junge, mit den Armeniern ist es
+aus! Doch, was wollte ich denn sagen! Ja,
+ich glaube, ich habe gehört, dass ihr einen
+Obstgarten anlegen wollet. Das ist eine gute
+Absicht, Gott gebe das Gedeihen. Unsere
+Vorfahren sagten, der Herrgott habe die Gär-
+ten sehr gern. Ja, was Gärten und Saaten
+anbetrifft, da ist unser Herrgott sehr aufmerk-
+sam, er giebt ihnen immer reichlich Wasser
+und Wärme. Gebe er, dass auch in deinem
+Garten die Frucht kein Ende nehme! Es ist</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+am Palmensonntage die Weiden schon Blätter hatten. Suche das jetzt! Jetzt schlagen die Bäume kaum in der Mitte des Maimondes aus.
+„Auch die Früchte sind jetzt nicht mehr dieselben wie früher … giebt es denn überhaupt noch Gärten in der Stadt? Manche sind bis in die Wurzel vertrocknet und zu Grunde gegangen, die haben die Würmer zerstört und jene hat der Frost gefressen … Auch das Gras ist nicht mehr dasselbe wie früher. Wo sind jetzt die duftigen Kräuter und Blumen von ehemals! In unserer alten guten Zeit war es Sitte, dass man sich im Maimonde ins frische Gras legte und das befreite einen von allen Krankheiten und Geschwüren. Jetzt giebt es jenes Gras nicht mehr und auch nicht jene Menschen, die sich ins Gras legten. Ach, weisst du, Junge, mit den Armeniern ist es aus! Doch, was wollte ich denn sagen! Ja, ich glaube, ich habe gehört, dass ihr einen Obstgarten anlegen wollet. Das ist eine gute Absicht, Gott gebe das Gedeihen. Unsere Vorfahren sagten, der Herrgott habe die Gärten sehr gern. Ja, was Gärten und Saaten anbetrifft, da ist unser Herrgott sehr aufmerksam, er giebt ihnen immer reichlich Wasser und Wärme. Gebe er, dass auch in deinem Garten die Frucht kein Ende nehme! Es ist
+-->
+	</Page>
+</PcGts>

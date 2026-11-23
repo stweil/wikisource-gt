@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:27:51</Created>
+		<LastChange>2026-11-23T18:27:51</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Die_Sophienkirche_in_Dresden_(1912).pdf/39 revision 4830113 of 2026-02-20T07:55:24Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="sophienkirche_dresden_1912_0039.png" imageWidth="1000" imageHeight="1439">
+		<ReadingOrder>
+			<OrderedGroup id="ro12534133503698422733" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="130,189 554,189 554,260 130,260" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="135,903 146,903 146,927 135,927" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="636,202 751,202 751,214 636,214" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="636,205 658,205 682,202 696,202 710,202 717,208 718,203 728,202 748,202 751,203 751,213 748,214 710,214 696,214 686,214 636,213" />
+				<Baseline points="636,213 751,213" />
+				<TextEquiv index="1">
+					<Unicode>deter Zierschrift</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>deter Zierschrift</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="153,206 748,206 748,303 153,303" />
+		</GraphicRegion>
+		<GraphicRegion id="r4">
+			<Coords points="558,385 754,385 754,637 558,637" />
+		</GraphicRegion>
+		<GraphicRegion id="r5">
+			<Coords points="694,781 719,781 719,791 694,791" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="590,815 628,815 628,857 590,857" />
+		</GraphicRegion>
+		<GraphicRegion id="r7">
+			<Coords points="308,913 747,913 747,994 308,994" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="503,997 536,997 536,1011 503,1011" />
+		</GraphicRegion>
+		<GraphicRegion id="r9">
+			<Coords points="215,1023 225,1023 225,1034 215,1034" />
+		</GraphicRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="614,1075 745,1075 745,1088 614,1088" />
+			<!-- line left out: id="r10l0" points="614,1075 620,1075 624,1076 640,1075 647,1075 674,1075 689,1075 704,1075 719,1075 743,1076 745,1079 745,1082 743,1085 719,1088 704,1088 689,1088 674,1088 664,1088 655,1087 649,1083 647,1077 634,1082 624,1084 614,1084" baseline="614,1084 640,1084 745,1085" reason: differs: "DieE" against "vers" | Wikisource:  | next_nc_e1: Die Emporengemälde
+ | german_print2_15: Die Emporengemalde
+ -->
+		</TextRegion>
+		<GraphicRegion id="r11">
+			<Coords points="205,1090 290,1090 290,1107 205,1107" />
+		</GraphicRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="691,1094 715,1094 715,1103 691,1103" />
+			<!-- line left out: id="r12l0" points="691,1094 710,1094 715,1097 715,1103 691,1103" baseline="691,1103 715,1103" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 36
+ | german_print2_15:  36.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r13">
+			<Coords points="285,1071 698,1071 698,1110 285,1110" />
+		</GraphicRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="399,1394 653,1394 653,1422 399,1422" />
+			<!-- line left out: id="r14l0" points="399,1394 408,1394 428,1394 443,1394 457,1394 465,1394 474,1403 478,1403 483,1394 491,1394 508,1394 520,1394 533,1394 533,1403 534,1403 542,1394 564,1394 583,1394 583,1403 585,1403 609,1404 609,1394 631,1394 653,1394 653,1422 631,1422 609,1422 609,1413 585,1413 583,1413 583,1422 564,1422 533,1422 520,1422 508,1422 491,1422 483,1422 483,1412 469,1412 465,1422 457,1422 443,1422 428,1422 408,1422 399,1422" baseline="399,1412 542,1412 653,1413" reason: differs: "hnpuld" against "und Sc" | Wikisource:  | next_nc_e1: hnpuldigital slub-dresden deid480112029/39
+ | german_print2_15: hup litalslubdesden de ic480112028/38
+ -->
+		</TextRegion>
+		<GraphicRegion id="r15">
+			<Coords points="951,0 1000,0 1000,1439 951,1439" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+übermalt und die dazugehörigen mit Versen in vergoldeter Zierschrift
+versehenen Schrifttafeln ausgebessert.⟦⟧ Die Bilder waren von geringem
+künstlerischen Werte, hatten aber ihren dekorativen Zweck, wie aus den Tafeln bei
+Kirsten ersichtlich, erfüllt. Bei der späteren Umgestaltung der Emporen im Jahre
+1875 sind die Bilder und Schrifttafeln dem Verein für Geschichte Dresdens
+übergeben worden und werden heute im Stadtmuseum aufbewahrt.
+Um zur Verkehrserleichterung einen neuen Eingang von der Zwingerseite
+zu gewinnen, mußte das angebaute Betstübchen der Familie Freiberg fallen. Die
+beengenden Gitter an den Ständen wurden entfernt und die Bänke bequemer
+aufgestellt. Auch der Raum um den Hauptaltar wurde erweitert, mit Stufen
+versehen und von einem eisernen Geländer eingeschlossen, der Altar selbst gereinigt
+und kleinere Teile desselben ergänzt.
+Durch diese größeren Veränderungen, die einen Kostenaufwand von
+5000 Thlrn. beanspruchten, wurde die Sophienkirche manches alten
+Kunstwerkes beraubt, andere Kunstdenkmäler wurden in ihrem alten Bestande
+verändert, was die Gemeinde anfänglich mit Unwillen, später aber, als das Innere
+der Kirche sich freundlich darstellte, mit Zufriedenheit erfüllte. Viele Epitaphien
+wurden aus der Kirche herausgenommen; zwei Alabasterreliefs verwendete man
+zum Schmucke eines Altares in der aus einer früheren Kalk- und Gerätekammer
+an der Nordseite neben dem Chor hergestellten Sakristei. Das Grabdenkmal
+des Bildhauers Nosseni, bisher am ersten Pfeiler im Westen des Schiffes, fand
+unter der Westempore Aufstellung. Eine Anzahl Bildnisse von Geistlichen der
+Sophienkirche wurde aufgefrischt, mit Firnis überzogen, modern gerahmt und mit
+neuen Inschriften versehen. Manche dieser lebensgroßen Bilder waren von altem
+hölzernen Rahmenwerk, einem Epitaphium ähnlich, umschlossen. Man hat die
+alten Rahmen beseitigt und die Bilder der Symmetrie wegen verkleinert. Die
+Figur einer Mater dolorosa auf dem Schalldeckel der Kanzel empfand man als
+plump und ersetzte sie durch ein einfaches vergoldetes Kreuz.
+Am 24. November 1834 wurde die Kirche wieder geweiht. Der damals an der
+Sophienkirche tätige Prediger Ziller hat in seiner am ersten Adventsonntage 1834
+gehaltenen Geschichtspredigt (gedruckt 1835) über die Sophienkirche zu Dresden
+bei ihrer Wiedereröffnung der Anschauung seiner Zeit u. a. mit folgenden Worten
+Ausdruck verliehen: „Den sorgenden Vorständen, der verdienstvollen
+Kirchenbehörde zollen wir heute das erkenntliche Geständnis: veraltete, hinderliche,
+bedeutungslose und gar gefährlich werdende Denkmäler sind entfernt oder an andere
+Plätze gestellt; billige Wünsche, längst angeregte Bedürfnisse, erneuerte
+Verbesserungen sind nach Möglichkeit befriediget; Erhellungen, Erweiterungen,
+Erneuerungen, Verschönerungen sind für uns angebracht und ausgeführt, denen
+-->
+	</Page>
+</PcGts>

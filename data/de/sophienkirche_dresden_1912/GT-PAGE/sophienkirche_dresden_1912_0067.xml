@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:28:09</Created>
+		<LastChange>2026-11-23T18:28:09</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Die_Sophienkirche_in_Dresden_(1912).pdf/67 revision 4838073 of 2026-02-26T08:26:51Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="sophienkirche_dresden_1912_0067.png" imageWidth="1000" imageHeight="1439">
+		<ReadingOrder>
+			<OrderedGroup id="ro3451834275083158779" caption="Regions reading order">
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="112,159 742,159 742,462 112,462" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="359,489 388,489 388,502 359,502" />
+		</GraphicRegion>
+		<GraphicRegion id="r2">
+			<Coords points="332,511 343,511 343,527 332,527" />
+		</GraphicRegion>
+		<GraphicRegion id="r3">
+			<Coords points="281,536 290,536 290,547 281,547" />
+		</GraphicRegion>
+		<GraphicRegion id="r4">
+			<Coords points="273,585 729,585 729,636 273,636" />
+		</GraphicRegion>
+		<GraphicRegion id="r5">
+			<Coords points="508,669 531,669 531,680 508,680" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="657,695 680,695 680,726 657,726" />
+		</GraphicRegion>
+		<GraphicRegion id="r7">
+			<Coords points="203,823 212,823 212,834 203,834" />
+		</GraphicRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="348,560 726,560 726,747 348,747" />
+			<!-- line left out: id="r8l0" points="690,560 696,560 721,560 726,561 726,564 721,569 696,569 690,569" baseline="690,568 726,568" reason: second model has no such line | Wikisource: Creut | next_nc_e1: Creut | german_print2_15:  -->
+			<!-- line left out: id="r8l1" points="348,741 638,740 640,740 682,744 723,737 724,737 724,747 679,747 355,746 348,746" baseline="348,745 638,744 724,744" reason: differs: "5hsi" against "z tr" | Wikisource:  | next_nc_e1: 5 h sind noc
+ | german_print2_15: S 1 h sind nocd
+ -->
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="120,984 259,984 259,1083 120,1083" />
+			<TextLine id="r9l0" custom="readingOrder {index:0;}">
+				<Coords points="120,984 133,984 162,984 162,990 173,987 215,986 215,993 162,995 143,995 136,995 120,994" />
+				<Baseline points="120,994 215,993" />
+				<TextEquiv index="1">
+					<Unicode>Walther noch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l1" custom="readingOrder {index:1;}">
+				<Coords points="124,1010 176,1009 194,1005 213,1005 228,1009 228,1012 220,1015 184,1013 162,1016 131,1017 124,1017" />
+				<Baseline points="124,1016 228,1015" />
+				<TextEquiv index="1">
+					<Unicode>aus dem Haus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l2" custom="readingOrder {index:2;}">
+				<Coords points="120,1054 151,1049 167,1049 198,1049 203,1059 210,1049 213,1049 232,1049 259,1057 259,1059 132,1061 120,1061" />
+				<Baseline points="120,1060 259,1059" />
+				<TextEquiv index="1">
+					<Unicode>die Engelvoluten u</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r9l3" points="120,1072 142,1072 147,1073 181,1074 204,1071 208,1071 243,1074 243,1082 220,1082 152,1082 147,1083 120,1083" baseline="120,1083 163,1082 243,1081" reason: models differ | Wikisource: Falten der Tüche | next_nc_e1: Falten der Tüche
+ | german_print2_15: Falten der Tücher
+ -->
+			<TextEquiv index="1">
+				<Unicode>Walther noch
+aus dem Haus
+die Engelvoluten u</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="130,1093 238,1093 238,1105 130,1105" />
+			<!-- line left out: id="r10l0" points="130,1098 140,1097 162,1097 198,1097 203,1093 217,1093 217,1099 225,1099 238,1103 238,1104 170,1105 130,1105" baseline="130,1105 178,1104 238,1104" reason: second model: differs: "ufde" against ", au" | Wikisource: uf den andere | next_nc_e1: uf den andere
+ | german_print2_15: uf den anderer
+ -->
+		</TextRegion>
+		<GraphicRegion id="r11">
+			<Coords points="121,825 736,825 736,1108 121,1108" />
+		</GraphicRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="11,1391 649,1391 649,1439 11,1439" />
+			<!-- line left out: id="r12l0" points="11,1398 36,1398 82,1398 97,1403 399,1391 409,1391 420,1391 426,1402 435,1402 435,1391 443,1391 464,1391 474,1403 478,1403 482,1391 496,1391 508,1391 519,1391 532,1391 532,1403 534,1403 542,1391 557,1391 590,1391 590,1404 603,1403 609,1403 609,1391 626,1391 644,1391 644,1403 649,1403 649,1413 644,1413 644,1420 626,1420 609,1420 609,1413 603,1413 590,1412 590,1420 557,1420 532,1420 519,1420 508,1420 496,1420 482,1420 482,1412 467,1412 464,1420 443,1420 435,1420 435,1412 426,1412 420,1420 409,1420 82,1422 36,1422 11,1422" baseline="11,1421 96,1420 399,1414 419,1413 537,1412 649,1412" reason: differs: "SLUB" against "n Se" | Wikisource:  | next_nc_e1:  SLUB hup digital slub-dresden deid480112029/67 | german_print2_15: N SLUB hp Gialslub desden de 480112028/67 -->
+			<!-- line left out: id="r12l1" points="38,1412 47,1412 79,1412 116,1412 140,1412 140,1439 116,1439 79,1439 47,1439 38,1439" baseline="38,1434 94,1434 140,1435" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: wir tühren Wissen.
+ | german_print2_15: wir Gnren Wiasen.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r13">
+			<Coords points="932,0 1000,0 1000,1439 932,1439" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Den oberen Teil des Altares in der Nordsakristei nimmt ein Alabasterrelief, die
+Kreuztragung, ein. (Taf. XXXI, Abb. 2.) Die gehäufte Komposition der sehr lebhaft
+bewegten Gestalten erinnert an Kupferstiche gleichen Inhalts von Martin
+Schongauer und Albrecht Dürer. Bemerkenswert ist die Gewandbehandlung, an der
+neben breiten Flächen Faltennester mit kleinen tiefgebohrten Löchern auftreten.
+Außer in der Komposition und der Gewandbehandlung erweist sich die deutsche
+Art dieses Meisters in der Darstellung einer größeren Anzahl hervorstechender
+charakteristischer Köpfe mit phantastischen Kopftrachten. Der unter der Last des
+Kreuzes in die Kniee gesunkene Christus wendet sein Antlitz einer rückwärts
+stehenden Frauengestalt zu, welche, die Hände betend gefaltet, mit schmerzlich
+verzogenem Antlitz ihren Blick in die Augen des Heilandes versenkt. Diese Frau,
+ebenso wie der durch Haar- und Barttracht sowie persönliche Auffassung
+bemerkenswerte Kopf des Simon von Kyrene, sind trefflich ausgeführte Bildnisse,
+in denen man wohl mit Recht Mitglieder der Familie, der einst dieses Relief als
+Epitaph zugehörte, erblicken kann. Oettrich beschreibt auf S. 115 das neunzehnte
+Epitaph aus Marmor, Alabaster und Metall mit folgenden Worten: „Am 4ten Pfeiler
+siehet man ein Epitaphium, welches vorstellet die Ausführung Christi sein Creutz
+tragend. Zu beyden Seiten stehen Moses und Johannes der Täuffer, oben drüber
+ist die Auferstehung Christi, der den Teuffel unter seine Füße tritt, neben welcher
+der Glaube und die Hoffnung und zu alleroberst ein Engel, unten aber die Gedult,
+zwischen welcher zwey Mettaline Täfelgen mit folgenden Schriften zu sehen sind.“ –
+Es war das Epitaph der 1629 verstorbenen Gertrud Helffrich geb. Dörer, Gattin
+des kurfürstl. Rates Nicolaus Helffrich. Gertrud Helffrich dürfte demnach in der
+den Heiland anbetenden Frauengestalt auf dem Relief im Bildnis dargestellt sein,
+ihr Gatte in der Gestalt des Simon von Kyrene. Von dem Epitaph sind noch,
+allerdings in sehr verstümmeltem Zustande, drei Statuen, Hoffnung, Glaube und
+Johannes der Täufer früher in das Stadtmuseum gerettet worden. (Taf. XXVIII,
+Abb. 2.) Durch die Eigenart der Gewandbehandlung und durch andere Merkmale
+ist die Zugehörigkeit dieser drei Figuren zu dem Relief unschwer zu erkennen. Da
+mir keine anderen im Stile damit übereinstimmende Arbeiten bekannt geworden
+sind, vermag ich einen Künstlernamen für das schöne Relief und die zugehörigen
+drei Figuren nicht zu nennen. Sebastian Walther, wie Gurlitt in Heft 21 der Bau-
+u. Kunstdenkm. d. Kgr. Sachsen S. 106 vermutet, kann nach allem vorher Gesagten
+nicht dafür herangezogen werden.
+Zwei Grabsteine aus der Sophienkirche dürften dagegen dem Sebastian
+Walther noch zuzuweisen sein, der des 1639 verstorbenen Rudolph von Vitzthum
+aus dem Hause Apolda (Taf. XXXII, Abb. 1) und der einer Gattin Nossenis, der
+1606 verstorbenen Christina geb. Hanitsch. (Taf. XXI, Abb. 4.) Bei dieser sind
+die Engelvoluten und die Engel mit dem schopfartig gelockten Haar, sowie die
+Falten der Tücher, auf denen die Engel gelagert sind, mit ähnlichen Darstellungen
+auf den anderen Sebastian Waltherschen Werken völlig übereinstimmend.
+-->
+	</Page>
+</PcGts>

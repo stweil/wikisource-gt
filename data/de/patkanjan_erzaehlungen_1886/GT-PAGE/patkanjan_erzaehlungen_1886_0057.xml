@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:44:03</Created>
+		<LastChange>2026-11-23T18:44:03</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:PatkanjanDreiErzählungen.pdf/57 revision 3378187 of 2018-08-01T06:08:17Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="patkanjan_erzaehlungen_1886_0057.png" imageWidth="1229" imageHeight="2158">
+		<ReadingOrder>
+			<OrderedGroup id="ro14320867793778753950" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="1,0 1061,0 1061,25 1,25" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="411,235 634,235 634,282 411,282" />
+			<!-- line left out: id="r1l0" points="411,266 444,266 497,249 539,249 586,235 634,235 634,282 586,282 539,276 519,277 497,277 444,269 411,269" baseline="411,269 497,268 586,267 634,267" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 471 –—
+ | german_print2_15: — 47 —
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="67,340 1007,340 1007,1798 67,1798" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="67,342 99,342 99,353 139,353 161,343 185,343 186,353 207,353 207,347 237,347 237,353 256,353 279,343 290,343 290,353 309,353 309,342 332,342 356,353 651,351 654,366 660,366 701,341 745,341 745,351 755,351 891,350 913,340 933,340 933,350 949,350 951,340 978,340 978,369 873,371 873,381 847,381 847,371 809,371 786,377 756,377 755,371 745,371 745,377 719,377 719,371 553,372 553,383 527,383 527,372 381,372 381,384 356,384 332,373 67,372" />
+				<Baseline points="67,373 978,370" />
+				<TextEquiv index="1">
+					<Unicode>Den hatte ich ganz vergessen. Nun, sage mir</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l1" points="69,396 91,396 91,405 111,405 129,406 129,396 152,396 157,420 163,420 195,406 269,406 291,396 303,396 303,405 319,400 360,396 384,396 384,405 404,405 538,405 565,395 613,395 613,405 685,404 705,404 776,404 776,394 799,394 800,404 842,404 847,395 858,394 904,393 955,393 956,404 976,404 976,422 956,422 955,412 943,412 943,423 904,423 860,435 858,435 858,424 686,424 686,435 660,435 635,425 538,426 384,426 303,426 231,426 223,425 195,425 163,431 157,431 152,425 129,426 111,426 69,425" baseline="69,426 162,425 859,423 976,423" reason: differs: "?Woο" against "Wo ist " | Wikisource:  | next_nc_e1: doch, was ist denn aus ihm geworden? Woο | german_print2_15: doch, was ist denn aus ihm geworden? Wo -->
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="70,448 80,448 80,458 95,453 109,453 130,459 166,459 188,450 211,450 212,459 280,459 299,449 312,449 314,458 324,458 324,449 343,449 381,453 385,473 391,473 419,449 432,449 432,458 450,458 450,449 474,449 516,458 645,458 645,448 692,447 703,447 703,458 714,458 714,447 737,447 738,457 774,457 795,447 824,447 860,457 964,456 965,464 977,464 977,468 965,468 964,476 944,476 944,487 919,487 897,476 714,478 419,478 391,484 385,484 381,478 343,478 343,489 324,489 324,478 314,478 312,489 299,489 280,479 70,478" />
+				<Baseline points="70,478 977,476" />
+				<TextEquiv index="1">
+					<Unicode>ist er denn jetzt, lebt er noch oder ist er ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="71,511 86,506 119,506 135,511 135,503 158,503 159,512 193,512 193,503 258,500 363,501 393,506 450,511 450,501 462,501 462,511 505,512 529,501 559,501 559,511 573,511 573,500 598,500 598,511 616,511 616,500 653,500 653,511 672,511 676,501 735,499 772,499 772,509 790,509 790,500 853,499 883,499 906,500 929,509 967,509 967,517 979,517 979,522 967,522 967,529 853,529 826,535 753,535 735,535 598,531 71,531" />
+				<Baseline points="71,531 979,529" />
+				<TextEquiv index="1">
+					<Unicode>storben? Wo ist seine Familie? Ach, ich er-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l4" custom="readingOrder {index:4;}">
+				<Coords points="71,554 82,554 82,564 219,565 219,554 298,554 320,564 357,564 372,555 410,555 504,564 504,554 516,554 516,564 559,564 577,554 650,554 650,563 686,563 686,554 711,554 712,563 730,563 748,552 778,552 778,562 818,562 818,553 842,553 858,556 858,562 956,562 957,553 980,553 980,582 298,586 240,586 219,586 71,584" />
+				<Baseline points="71,584 980,582" />
+				<TextEquiv index="1">
+					<Unicode>innere mich, er hatte eine hübsche Tochter und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="74,617 132,617 132,608 157,608 180,617 199,617 199,607 245,607 255,616 279,616 301,605 327,605 327,617 347,617 347,607 372,607 372,616 401,616 401,605 403,605 496,606 497,617 517,617 541,606 544,606 544,617 557,617 557,606 726,606 728,616 747,616 747,610 762,610 762,616 779,616 779,610 813,605 828,605 828,621 813,621 812,635 728,636 726,646 714,646 693,636 74,636" />
+				<Baseline points="74,636 828,635" />
+				<TextEquiv index="1">
+					<Unicode>auch einen Sohn. Wo sind die jetzt?“</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l6" custom="readingOrder {index:6;}">
+				<Coords points="159,659 262,659 262,669 304,669 314,659 378,659 378,669 416,669 416,659 428,659 428,669 548,663 568,663 568,669 623,664 639,664 659,669 659,663 694,663 707,669 729,669 729,658 742,658 742,668 758,668 758,659 783,659 798,663 808,669 850,668 850,658 867,658 871,669 926,668 926,658 938,658 938,668 980,668 980,688 400,688 400,698 376,698 376,688 331,688 331,698 314,698 304,689 159,689" />
+				<Baseline points="159,689 980,688" />
+				<TextEquiv index="1">
+					<Unicode>Muhme Hripsime antwortete nicht auf meine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l7" custom="readingOrder {index:7;}">
+				<Coords points="76,711 104,711 104,722 258,721 258,700 282,700 300,711 314,711 314,721 334,721 334,711 413,712 413,721 483,721 497,710 524,710 540,715 540,721 571,721 571,710 656,711 656,721 678,721 696,711 731,711 731,721 754,721 765,711 797,711 797,721 813,721 813,711 837,711 837,721 906,721 906,711 932,711 932,721 971,721 971,729 982,729 982,733 971,733 971,741 169,741 169,752 144,752 143,741 76,741" />
+				<Baseline points="76,740 982,740" />
+				<TextEquiv index="1">
+					<Unicode>Frage und mit ihrem Stocke in der Erde schar-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="80,773 140,773 141,764 166,764 166,786 173,786 196,773 213,773 213,767 230,767 230,773 273,772 273,763 314,762 319,762 360,762 378,773 394,773 394,767 409,763 461,763 461,773 477,773 477,763 491,762 513,762 513,773 556,772 556,762 569,762 569,772 637,772 637,763 661,763 683,772 726,772 743,763 767,763 767,772 909,773 909,764 936,764 974,768 974,781 986,781 986,786 974,786 974,793 594,792 594,803 569,803 569,792 513,792 513,803 491,803 491,792 196,792 173,798 166,798 166,792 80,792" />
+				<Baseline points="80,792 986,792" />
+				<TextEquiv index="1">
+					<Unicode>rend, stand sie stillschweigend an der verschüt-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="86,820 101,820 120,825 120,819 136,819 136,825 178,824 200,814 245,814 245,824 261,824 261,814 284,814 284,824 320,824 378,819 395,819 395,825 413,825 413,815 457,815 458,838 463,838 463,844 178,844 86,844" />
+				<Baseline points="86,844 463,844" />
+				<TextEquiv index="1">
+					<Unicode>teten Brunnenstelle.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="172,867 217,867 217,876 246,876 269,866 283,866 322,866 387,867 388,877 424,877 446,866 472,866 472,877 483,877 483,866 505,866 505,877 573,877 573,867 604,867 604,885 617,885 618,866 658,866 658,877 682,877 682,867 718,867 718,877 735,877 739,892 746,892 768,878 800,878 800,867 811,867 811,878 884,879 884,868 910,868 966,869 966,879 987,879 987,899 768,898 746,904 739,904 735,897 658,898 658,907 636,907 636,898 618,898 617,890 604,890 604,897 505,898 505,907 471,907 471,898 172,897" />
+				<Baseline points="172,897 768,897 987,899" />
+				<TextEquiv index="1">
+					<Unicode>Das Bild des Spezerei-Sarkis, wie wir ihn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="84,931 127,930 173,925 188,925 232,930 237,944 244,944 277,920 332,920 347,924 347,930 365,930 392,920 401,920 401,930 415,930 415,920 448,920 463,925 463,931 480,931 480,920 584,920 584,930 686,931 686,920 698,920 698,931 757,931 778,921 835,921 835,932 989,932 989,963 963,963 962,952 822,951 822,963 800,963 800,951 573,950 546,960 535,960 535,950 416,950 416,960 392,960 365,950 332,950 244,955 84,950" />
+				<Baseline points="84,950 630,950 989,952" />
+				<TextEquiv index="1">
+					<Unicode>nannten, lebte plötzlich in meiner Erinnerung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="85,983 126,984 127,973 145,973 171,983 219,983 220,973 270,972 286,972 286,983 304,983 305,972 371,972 394,973 394,983 565,984 565,974 589,974 604,978 604,984 671,984 671,975 697,975 697,984 718,984 718,975 772,975 772,985 808,985 834,974 864,974 865,985 881,985 881,976 950,974 971,975 972,985 988,985 988,1005 950,1006 847,1006 834,1006 85,1003" />
+				<Baseline points="85,1002 988,1005" />
+				<TextEquiv index="1">
+					<Unicode>auf und mit ihm erwachte manches Erlebnis</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="85,1037 195,1037 195,1026 242,1026 242,1036 307,1036 339,1025 421,1025 433,1026 433,1036 469,1031 484,1031 484,1037 575,1037 576,1051 582,1051 628,1027 646,1027 646,1037 665,1037 665,1027 724,1027 724,1037 736,1037 736,1027 762,1027 762,1038 862,1038 889,1028 906,1028 906,1039 923,1039 924,1028 936,1028 936,1039 955,1039 955,1029 987,1029 987,1064 955,1064 936,1059 906,1058 906,1064 889,1064 862,1058 531,1057 531,1068 505,1068 505,1057 421,1056 421,1068 399,1068 399,1055 354,1055 354,1068 339,1068 307,1055 142,1057 85,1056" />
+				<Baseline points="85,1057 628,1056 987,1059" />
+				<TextEquiv index="1">
+					<Unicode>aus meinen Kindertagen. Ich erinnere mich,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="85,1080 108,1080 108,1090 161,1089 161,1103 168,1103 192,1090 212,1090 212,1080 226,1080 226,1089 243,1089 265,1079 277,1079 277,1088 295,1088 295,1079 318,1079 340,1088 403,1089 403,1079 426,1079 449,1089 469,1089 469,1079 502,1079 565,1080 565,1089 609,1090 609,1080 634,1080 635,1089 757,1089 841,1091 864,1080 874,1080 874,1091 885,1091 885,1080 913,1080 935,1091 955,1091 955,1081 967,1081 967,1091 990,1091 990,1111 874,1111 730,1115 730,1109 693,1109 693,1115 676,1115 654,1109 192,1109 168,1119 161,1119 161,1109 85,1109" />
+				<Baseline points="85,1109 676,1109 990,1111" />
+				<TextEquiv index="1">
+					<Unicode>dass, als ich noch ein Knabe war, uns oft ein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="85,1142 104,1142 104,1133 131,1133 131,1142 159,1142 159,1133 194,1131 244,1131 287,1135 287,1141 341,1141 341,1131 365,1131 365,1141 407,1141 437,1132 461,1132 461,1142 540,1142 540,1132 566,1132 581,1136 581,1142 601,1142 606,1156 613,1156 646,1132 681,1132 681,1142 793,1143 823,1133 858,1133 858,1144 877,1144 877,1134 889,1134 910,1145 990,1144 990,1164 646,1162 613,1168 606,1168 601,1162 85,1162" />
+				<Baseline points="85,1162 437,1161 990,1164" />
+				<TextEquiv index="1">
+					<Unicode>altes Mütterchen besuchte, die uns viel vom</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l16" custom="readingOrder {index:16;}">
+				<Coords points="86,1183 111,1183 111,1194 123,1194 123,1182 145,1182 145,1194 230,1194 230,1183 243,1183 247,1201 261,1201 266,1182 304,1182 304,1193 327,1193 327,1184 352,1183 364,1183 364,1193 461,1189 481,1185 518,1185 552,1195 558,1209 565,1209 597,1195 635,1194 635,1185 647,1185 647,1195 689,1195 713,1185 741,1185 741,1195 872,1196 872,1187 932,1186 932,1196 959,1196 959,1186 971,1186 971,1196 993,1196 993,1215 635,1215 558,1220 504,1215 304,1213 304,1224 282,1224 282,1214 266,1214 261,1206 247,1206 243,1213 230,1214 145,1214 145,1224 109,1224 109,1215 86,1215" />
+				<Baseline points="86,1215 597,1214 993,1216" />
+				<TextEquiv index="1">
+					<Unicode>Spezerei-Sarkis erzählte, seine Frau und sein</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="89,1237 123,1237 126,1247 301,1246 323,1237 341,1237 385,1237 385,1247 419,1247 420,1241 436,1241 436,1247 523,1247 524,1238 547,1238 570,1247 634,1247 656,1237 668,1237 668,1247 695,1247 695,1237 720,1237 720,1247 775,1247 797,1238 807,1238 807,1248 832,1248 832,1238 844,1238 844,1248 886,1249 909,1239 959,1239 959,1249 982,1249 984,1256 995,1256 995,1261 984,1261 982,1268 797,1268 89,1266" />
+				<Baseline points="89,1266 570,1266 995,1268" />
+				<TextEquiv index="1">
+					<Unicode>Hauswesen rühmte und uns immer seine Kin-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="89,1290 111,1290 112,1299 200,1299 200,1289 213,1289 213,1299 230,1299 260,1289 306,1289 306,1299 340,1299 340,1293 374,1293 374,1299 432,1300 432,1290 455,1290 455,1300 481,1300 481,1290 518,1290 518,1300 537,1300 537,1290 637,1289 637,1299 671,1299 700,1288 726,1288 726,1299 775,1300 775,1288 800,1288 800,1300 854,1300 858,1315 864,1315 896,1301 996,1301 996,1320 896,1320 864,1326 858,1326 854,1320 800,1319 800,1326 775,1326 775,1319 89,1319" />
+				<Baseline points="89,1320 229,1318 996,1320" />
+				<TextEquiv index="1">
+					<Unicode>der als Muster vorhielt. Im Sommer, wenn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="90,1342 113,1342 113,1352 150,1352 167,1342 271,1342 271,1352 282,1352 282,1342 354,1341 364,1341 364,1351 391,1351 391,1341 430,1341 430,1352 449,1352 449,1365 456,1365 477,1342 502,1342 503,1352 582,1352 582,1342 608,1342 642,1351 665,1341 694,1341 694,1352 756,1352 756,1341 773,1341 773,1347 840,1353 840,1343 852,1343 852,1353 874,1353 892,1343 928,1343 929,1353 940,1353 940,1343 963,1343 963,1354 997,1354 997,1378 963,1378 940,1378 841,1373 584,1372 456,1376 354,1376 90,1371" />
+				<Baseline points="90,1371 736,1371 997,1373" />
+				<TextEquiv index="1">
+					<Unicode>das Frühobst reifte, besuchte sie oft sein Haus,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="92,1404 109,1404 109,1393 141,1393 180,1403 180,1393 209,1393 244,1402 274,1393 287,1393 287,1402 374,1402 374,1392 421,1392 421,1402 463,1402 490,1392 535,1392 578,1397 578,1403 620,1403 650,1393 680,1393 681,1403 698,1403 698,1397 721,1397 721,1403 738,1403 738,1394 764,1394 777,1398 827,1404 872,1404 872,1395 946,1395 946,1405 1001,1405 1001,1424 130,1422 130,1432 92,1432" />
+				<Baseline points="92,1421 1001,1424" />
+				<TextEquiv index="1">
+					<Unicode>pflückte in seinem Garten Früchte und kam</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="97,1446 119,1446 120,1455 187,1454 210,1444 222,1444 222,1454 249,1454 249,1444 274,1444 274,1453 330,1453 351,1443 361,1443 361,1453 385,1453 385,1443 442,1443 442,1454 477,1453 477,1443 514,1443 538,1444 554,1448 554,1454 596,1454 609,1444 640,1444 642,1454 698,1454 698,1445 724,1445 724,1454 908,1456 909,1470 915,1470 946,1445 985,1446 985,1456 1003,1456 1003,1476 459,1473 459,1484 434,1484 412,1472 97,1475" />
+				<Baseline points="97,1475 329,1472 1003,1476" />
+				<TextEquiv index="1">
+					<Unicode>dann immer mit gefüllten Taschen zu uns. Sie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="95,1498 118,1498 118,1508 175,1508 175,1498 200,1498 216,1502 324,1505 347,1494 377,1494 424,1494 424,1505 446,1505 446,1495 462,1494 482,1494 482,1506 560,1506 560,1494 583,1494 583,1505 602,1505 626,1495 705,1495 705,1506 739,1506 739,1495 758,1495 758,1501 768,1501 768,1507 789,1507 789,1496 821,1496 833,1498 833,1522 840,1522 863,1498 892,1498 892,1508 911,1508 911,1499 923,1499 923,1510 992,1509 993,1517 1005,1517 1005,1521 993,1521 992,1529 949,1529 949,1540 922,1540 922,1528 833,1533 833,1527 790,1527 790,1537 739,1537 739,1526 664,1526 664,1537 641,1537 641,1526 626,1526 583,1535 560,1535 560,1526 482,1525 482,1535 462,1535 462,1525 447,1525 447,1535 401,1535 401,1525 363,1525 363,1535 347,1535 324,1525 176,1528 95,1528" />
+				<Baseline points="95,1528 347,1525 1005,1529" />
+				<TextEquiv index="1">
+					<Unicode>brachte uns Eierpflaumen, Safranäpfel, Feigen-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="93,1552 127,1551 127,1561 204,1560 204,1551 211,1551 246,1559 294,1559 295,1549 316,1549 349,1558 414,1558 414,1549 469,1548 503,1548 504,1558 523,1558 523,1549 536,1549 536,1558 632,1558 633,1549 657,1549 657,1558 712,1559 739,1549 779,1549 805,1554 805,1560 823,1560 823,1550 847,1550 848,1556 862,1556 882,1561 882,1576 889,1576 933,1551 959,1551 961,1562 980,1562 980,1552 1005,1552 1005,1582 959,1583 933,1583 657,1579 294,1579 211,1581 93,1581" />
+				<Baseline points="93,1581 315,1578 469,1578 739,1579 1005,1582" />
+				<TextEquiv index="1">
+					<Unicode>birnen und noch viele andere Früchte. Seit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l24" custom="readingOrder {index:24;}">
+				<Coords points="93,1605 126,1604 126,1615 202,1614 217,1603 243,1603 244,1613 264,1613 264,1602 334,1602 334,1612 401,1612 402,1606 417,1606 417,1612 510,1612 510,1601 551,1600 578,1600 579,1612 614,1612 614,1601 652,1601 652,1611 669,1611 669,1626 676,1626 694,1612 741,1612 741,1603 762,1603 779,1613 832,1613 928,1616 930,1605 961,1605 961,1615 1004,1615 1004,1635 676,1637 669,1637 669,1631 377,1632 164,1635 93,1634" />
+				<Baseline points="93,1635 290,1632 537,1631 779,1631 1004,1635" />
+				<TextEquiv index="1">
+					<Unicode>dieser Zeit kannten wir Sarkis, und wenn meine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l25" custom="readingOrder {index:25;}">
+				<Coords points="93,1658 131,1658 131,1668 153,1663 168,1662 262,1667 262,1656 273,1656 274,1666 317,1665 336,1655 387,1654 418,1654 419,1665 440,1665 442,1654 453,1654 453,1665 477,1665 477,1654 536,1654 587,1654 604,1659 637,1664 657,1654 692,1654 693,1665 704,1665 704,1654 725,1654 725,1665 753,1665 769,1656 793,1656 793,1666 870,1667 870,1658 882,1656 903,1656 903,1663 929,1663 930,1683 937,1683 961,1659 985,1659 985,1669 1005,1669 1005,1688 937,1693 882,1693 853,1688 830,1687 514,1685 514,1695 490,1695 490,1684 479,1684 479,1695 453,1695 453,1685 222,1688 93,1687" />
+				<Baseline points="93,1688 316,1685 657,1684 1005,1689" />
+				<TextEquiv index="1">
+					<Unicode>Mutter eine Kleinigkeit fürs Haus brauchte, da</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l26" custom="readingOrder {index:26;}">
+				<Coords points="94,1711 116,1711 117,1721 137,1721 137,1712 149,1712 183,1722 206,1711 218,1711 219,1720 238,1720 239,1711 262,1711 287,1719 304,1719 304,1709 315,1709 316,1719 334,1719 357,1709 368,1709 369,1719 427,1719 427,1709 451,1709 451,1718 478,1718 500,1708 512,1708 512,1718 597,1717 597,1707 608,1707 608,1717 687,1717 710,1708 750,1708 782,1709 782,1719 830,1720 830,1740 478,1738 238,1741 183,1741 117,1741 94,1740" />
+				<Baseline points="94,1741 559,1737 710,1737 830,1740" />
+				<TextEquiv index="1">
+					<Unicode>holte ich sie immer in seinem Laden.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l27" custom="readingOrder {index:27;}">
+				<Coords points="179,1764 197,1764 197,1774 217,1774 217,1764 289,1763 290,1773 309,1773 309,1763 333,1763 367,1772 391,1762 424,1762 426,1772 509,1771 509,1762 533,1762 533,1771 551,1771 551,1785 557,1785 582,1761 616,1760 616,1770 696,1770 721,1759 746,1759 747,1771 781,1772 781,1762 817,1762 818,1773 1007,1774 1007,1794 963,1794 846,1798 840,1798 834,1792 806,1793 605,1791 557,1796 509,1792 179,1794" />
+				<Baseline points="179,1794 447,1791 721,1790 1007,1795" />
+				<TextEquiv index="1">
+					<Unicode>Ich liebte ihn sehr, diesen Sarkis; er war</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Den hatte ich ganz vergessen. Nun, sage mir
+ist er denn jetzt, lebt er noch oder ist er ge-
+storben? Wo ist seine Familie? Ach, ich er-
+innere mich, er hatte eine hübsche Tochter und
+auch einen Sohn. Wo sind die jetzt?“
+Muhme Hripsime antwortete nicht auf meine
+Frage und mit ihrem Stocke in der Erde schar-
+rend, stand sie stillschweigend an der verschüt-
+teten Brunnenstelle.
+Das Bild des Spezerei-Sarkis, wie wir ihn
+nannten, lebte plötzlich in meiner Erinnerung
+auf und mit ihm erwachte manches Erlebnis
+aus meinen Kindertagen. Ich erinnere mich,
+dass, als ich noch ein Knabe war, uns oft ein
+altes Mütterchen besuchte, die uns viel vom
+Spezerei-Sarkis erzählte, seine Frau und sein
+Hauswesen rühmte und uns immer seine Kin-
+der als Muster vorhielt. Im Sommer, wenn
+das Frühobst reifte, besuchte sie oft sein Haus,
+pflückte in seinem Garten Früchte und kam
+dann immer mit gefüllten Taschen zu uns. Sie
+brachte uns Eierpflaumen, Safranäpfel, Feigen-
+birnen und noch viele andere Früchte. Seit
+dieser Zeit kannten wir Sarkis, und wenn meine
+Mutter eine Kleinigkeit fürs Haus brauchte, da
+holte ich sie immer in seinem Laden.
+Ich liebte ihn sehr, diesen Sarkis; er war</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Den hatte ich ganz vergessen. Nun, sage mir doch, was ist denn aus ihm geworden? Wo ist er denn jetzt, lebt er noch oder ist er gestorben? Wo ist seine Familie? Ach, ich erinnere mich, er hatte eine hübsche Tochter und auch einen Sohn. Wo sind die jetzt?“
+Muhme Hripsime antwortete nicht auf meine Frage und mit ihrem Stocke in der Erde scharrend, stand sie stillschweigend an der verschütteten Brunnenstelle.
+Das Bild des Spezerei-Sarkis, wie wir ihn nannten, lebte plötzlich in meiner Erinnerung auf und mit ihm erwachte manches Erlebnis aus meinen Kindertagen. Ich erinnere mich, dass, als ich noch ein Knabe war, uns oft ein altes Mütterchen besuchte, die uns viel vom Spezerei-Sarkis erzählte, seine Frau und sein Hauswesen rühmte und uns immer seine Kinder als Muster vorhielt. Im Sommer, wenn das Frühobst reifte, besuchte sie oft sein Haus, pflückte in seinem Garten Früchte und kam dann immer mit gefüllten Taschen zu uns. Sie brachte uns Eierpflaumen, Safranäpfel, Feigenbirnen und noch viele andere Früchte. Seit dieser Zeit kannten wir Sarkis, und wenn meine Mutter eine Kleinigkeit fürs Haus brauchte, da holte ich sie immer in seinem Laden.
+Ich liebte ihn sehr, diesen Sarkis; er war
+-->
+	</Page>
+</PcGts>

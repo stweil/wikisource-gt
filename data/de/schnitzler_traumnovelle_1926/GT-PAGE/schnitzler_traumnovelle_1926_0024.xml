@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:47:11</Created>
+		<LastChange>2026-11-23T18:47:11</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Schnitzler_Traumnovelle.djvu/24 revision 3389825 of 2018-08-01T07:34:27Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="schnitzler_traumnovelle_1926_0024.png" imageWidth="800" imageHeight="1375">
+		<ReadingOrder>
+			<OrderedGroup id="ro12668892068936953740" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,1077 7,1077 7,1115 0,1115" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,1226 8,1226 8,1327 0,1327" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="426,81 550,81 550,109 426,109" />
+			<!-- line left out: id="r2l0" points="426,97 473,92 525,92 525,81 550,81 550,109 525,109 473,105 426,100" baseline="426,100 550,100" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 22 —
+ | german_print2_15: — 22 —
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="200,136 765,136 765,1158 200,1158" />
+			<!-- line left out: id="r3l0" points="206,143 218,143 218,137 233,137 273,137 273,143 284,143 293,144 307,151 319,151 319,136 339,136 381,136 396,138 416,143 416,137 431,137 431,144 441,144 450,137 469,137 499,137 509,144 530,144 530,138 538,138 548,137 597,137 619,137 619,144 636,144 648,138 664,138 664,144 676,144 676,138 712,138 734,138 741,139 751,138 765,138 765,157 712,157 656,157 648,157 499,156 469,156 431,156 396,156 376,156 319,160 313,160 307,159 206,155" baseline="206,155 370,155 648,156 765,157" reason: differs: "merk" against "„Die" | Wikisource:  | next_nc_e1: merkte: „Die frische Luft wird Ihnen hoffentlich | german_print2_15: merkte: „Die frische Luft wird Ihnen hoffentlich -->
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="206,181 217,181 217,174 233,174 261,174 309,181 309,190 331,175 382,176 398,179 456,182 456,176 470,176 470,182 663,182 663,176 677,176 677,182 703,182 703,190 724,176 740,176 740,183 753,183 753,176 765,176 765,195 703,199 609,194 609,201 595,201 579,194 423,193 423,200 409,200 398,193 206,193" />
+				<Baseline points="206,193 578,193 765,195" />
+				<TextEquiv index="1">
+					<Unicode>wohl tun. Es ist geradezu warm geworden, und</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l2" points="206,219 239,217 249,217 283,217 321,219 331,213 346,213 367,213 379,223 414,220 437,220 445,213 454,213 454,220 477,220 477,213 501,213 522,220 543,220 567,220 589,221 603,214 615,214 625,213 664,213 664,221 707,221 707,215 715,215 715,221 726,221 736,215 745,215 745,221 764,221 764,233 707,233 556,232 556,238 542,238 542,232 445,232 414,231 379,226 355,221 355,231 294,231 283,237 272,237 272,231 220,231 220,237 206,237" baseline="206,231 414,231 675,232 764,233" reason: differs: "ht“—erw" against "t“ – er" | Wikisource:  | next_nc_e1: gestern nacht“ — er wollte sagen: fuhren wir im | german_print2_15: gestern nacht“ — er wollte sagen: fuhren wir im -->
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="205,251 220,251 245,251 267,251 267,257 306,257 336,251 349,251 349,258 419,258 431,251 445,251 445,258 467,258 475,251 494,251 494,258 506,258 506,251 519,251 519,258 538,258 538,251 552,251 565,255 601,258 610,251 625,251 660,252 660,259 730,259 730,253 744,253 744,259 764,259 764,271 706,275 645,275 306,269 306,276 281,276 281,269 267,269 267,276 252,276 252,269 205,269" />
+				<Baseline points="205,269 764,271" />
+				<TextEquiv index="1">
+					<Unicode>Schneegestöber von der Redoute nach Hause, aber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="206,296 228,296 234,289 245,289 268,289 289,289 306,293 353,296 353,290 391,290 391,296 415,296 421,289 436,289 456,294 506,297 511,290 525,290 525,297 540,297 540,290 552,290 559,296 572,296 590,292 620,292 658,298 668,305 681,305 681,290 755,290 755,297 764,297 764,310 755,314 668,314 604,309 604,315 581,315 581,309 206,308" />
+				<Baseline points="206,308 559,308 764,310" />
+				<TextEquiv index="1">
+					<Unicode>er formte rasch den Satz um und ergänzte: „Gestern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l5" custom="readingOrder {index:5;}">
+				<Coords points="205,328 231,328 231,334 256,335 256,328 298,328 298,335 311,335 315,328 330,328 330,335 351,335 357,329 381,328 418,328 418,335 476,335 476,328 491,328 497,335 509,335 509,329 517,329 517,335 529,335 529,329 543,329 543,335 556,335 562,329 575,328 597,328 610,329 610,335 635,336 640,329 672,329 707,336 712,329 728,329 728,336 751,336 751,330 764,330 764,348 315,347 311,353 297,353 297,347 284,347 284,353 278,353 270,346 205,346" />
+				<Baseline points="205,346 764,348" />
+				<TextEquiv index="1">
+					<Unicode>abend lag der Schnee noch einen halben Meter hoch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="205,367 213,367 213,373 226,373 235,366 250,366 250,373 275,373 283,367 291,365 307,365 317,370 327,365 343,365 343,373 374,373 375,366 386,366 386,375 375,375 374,384 205,384" />
+				<Baseline points="205,384 386,384" />
+				<TextEquiv index="1">
+					<Unicode>in den Straßen.“</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="231,404 246,404 253,405 264,410 272,404 288,404 310,404 320,409 330,411 339,405 354,405 354,411 375,411 375,405 391,405 391,411 496,408 533,408 545,411 555,404 584,404 584,412 602,412 607,405 625,405 625,412 726,412 726,406 740,406 740,412 764,412 764,424 652,424 652,430 638,430 638,424 533,423 533,429 496,429 496,423 425,423 405,428 375,428 288,423 231,422" />
+				<Baseline points="231,422 764,424" />
+				<TextEquiv index="1">
+					<Unicode>Sie hörte kaum, was er sagte. Ihre Augen wurden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l8" custom="readingOrder {index:8;}">
+				<Coords points="205,442 216,442 216,448 249,448 249,442 264,442 273,446 273,456 290,449 302,449 302,441 316,441 341,441 341,449 353,449 363,442 394,442 405,444 412,442 426,442 426,449 444,449 458,442 473,442 473,449 485,449 485,442 496,442 496,449 518,449 530,443 553,443 553,449 563,449 573,443 602,443 612,449 624,449 635,443 667,443 704,444 704,450 752,450 752,444 764,444 764,469 752,469 752,462 741,462 741,469 727,469 727,462 316,460 316,467 290,467 205,460" />
+				<Baseline points="205,460 764,462" />
+				<TextEquiv index="1">
+					<Unicode>feucht, große Tränen liefen ihr über die Wangen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l9" custom="readingOrder {index:9;}">
+				<Coords points="204,480 220,480 220,487 253,487 253,480 294,480 294,487 307,487 307,480 343,480 361,481 361,487 373,487 373,480 387,480 387,487 409,487 420,481 428,481 428,487 455,487 455,481 469,481 469,487 503,487 515,481 532,481 532,487 544,487 555,481 578,481 578,487 588,487 600,481 620,481 630,487 638,482 673,481 740,482 740,488 764,489 764,501 515,500 503,506 481,506 481,499 433,499 428,506 420,506 409,498 204,498" />
+				<Baseline points="204,498 600,499 764,501" />
+				<TextEquiv index="1">
+					<Unicode>herab und wieder verbarg sie ihr Gesicht in den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l10" custom="readingOrder {index:10;}">
+				<Coords points="204,519 231,519 265,519 265,526 295,526 301,519 321,519 392,519 414,519 430,519 469,519 491,519 501,523 553,527 553,521 580,521 598,526 603,520 636,520 636,527 650,527 650,520 663,520 668,527 694,527 694,521 743,521 743,527 762,528 762,540 501,538 501,544 478,544 478,538 204,537" />
+				<Baseline points="204,537 662,538 762,540" />
+				<TextEquiv index="1">
+					<Unicode>Händen. Unwillkürlich legte er seine Hand auf ihren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l11" custom="readingOrder {index:11;}">
+				<Coords points="204,557 219,557 249,557 263,558 272,561 282,557 290,557 302,564 331,564 331,557 362,557 396,557 417,557 453,557 453,564 484,558 516,558 516,564 526,564 538,558 560,558 560,564 571,564 581,558 623,558 623,565 636,565 636,573 654,559 744,559 759,564 759,574 763,574 763,583 744,583 723,583 702,583 694,583 682,577 204,575" />
+				<Baseline points="204,575 475,575 763,578" />
+				<TextEquiv index="1">
+					<Unicode>Scheitel und strich ihr über die Stirn. Er fühlte,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l12" custom="readingOrder {index:12;}">
+				<Coords points="203,602 214,602 214,596 267,595 282,595 282,602 293,602 304,595 323,595 344,595 344,602 422,602 435,596 455,596 483,602 483,596 497,596 497,602 507,602 518,596 532,596 532,603 567,602 575,596 589,596 589,603 621,603 621,597 629,597 629,603 663,603 673,597 735,597 763,604 763,616 698,616 600,619 589,621 575,621 575,615 566,615 557,621 542,621 542,615 360,614 360,620 330,620 330,613 203,614" />
+				<Baseline points="203,613 763,616" />
+				<TextEquiv index="1">
+					<Unicode>wie ihr Körper zu zittern begann, sie schluchzte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l13" custom="readingOrder {index:13;}">
+				<Coords points="203,634 212,634 212,640 245,640 245,634 263,633 303,633 310,634 310,640 334,640 334,634 343,634 343,640 357,640 357,648 363,648 371,634 386,634 386,640 432,640 440,634 492,634 492,641 527,638 587,638 587,649 600,641 612,641 612,634 635,634 635,641 655,634 701,634 731,635 731,642 757,643 762,646 762,648 757,648 757,654 635,654 591,657 541,657 527,657 357,656 278,652 203,652" />
+				<Baseline points="203,652 600,652 762,654" />
+				<TextEquiv index="1">
+					<Unicode>in sich hinein, kaum hörbar zuerst, allmählich lau-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l14" custom="readingOrder {index:14;}">
+				<Coords points="203,675 236,678 236,686 254,678 277,678 277,672 301,672 318,672 333,672 345,678 409,679 409,672 427,672 452,672 474,672 474,679 488,679 488,672 503,672 529,672 590,673 603,679 615,679 615,673 623,673 623,679 653,680 653,673 709,673 721,680 764,680 764,692 529,691 529,697 503,697 488,697 488,691 452,691 452,697 406,697 394,690 360,691 360,697 345,697 333,690 240,695 203,690" />
+				<Baseline points="203,690 764,692" />
+				<TextEquiv index="1">
+					<Unicode>ter, endlich ganz ungehemmt. Mit einemmal war</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l15" custom="readingOrder {index:15;}">
+				<Coords points="203,718 212,718 212,711 220,711 220,717 287,717 292,710 300,710 306,711 306,717 330,718 330,710 375,710 375,718 391,718 391,710 405,710 427,710 427,717 456,718 456,710 465,710 515,718 525,710 534,710 547,710 547,718 558,718 563,711 652,711 657,718 681,718 687,712 732,711 732,719 758,719 758,728 762,728 762,736 718,736 704,736 702,731 563,729 558,736 533,736 533,729 519,734 458,729 458,736 435,736 405,736 391,736 391,729 203,729" />
+				<Baseline points="203,729 563,729 762,731" />
+				<TextEquiv index="1">
+					<Unicode>sie vom Sessel herabgeglitten, lag Fridolin zu Füßen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l16" custom="readingOrder {index:16;}">
+				<Coords points="202,748 216,748 241,748 288,748 288,755 299,755 299,748 313,748 313,755 328,749 357,749 357,755 381,755 393,748 426,748 434,749 434,755 445,755 455,749 519,749 519,755 543,755 554,749 612,749 612,755 640,750 650,750 650,756 668,756 668,750 682,750 692,757 699,757 699,749 713,749 713,756 727,756 727,749 752,749 752,755 762,755 762,769 752,769 752,775 735,775 735,769 713,769 713,775 692,775 682,768 328,767 317,773 274,773 274,767 263,767 263,773 202,773" />
+				<Baseline points="202,767 554,767 762,769" />
+				<TextEquiv index="1">
+					<Unicode>umschlang seine Knie mit den Armen und preßte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l17" custom="readingOrder {index:17;}">
+				<Coords points="203,787 300,787 319,793 326,786 341,786 341,793 388,793 388,801 399,786 429,786 429,793 459,793 467,787 503,787 508,793 516,793 516,787 525,787 525,793 569,794 576,787 621,787 629,794 636,794 636,787 701,789 709,792 726,795 726,789 764,789 764,808 741,808 726,808 621,806 203,805" />
+				<Baseline points="203,805 620,805 764,807" />
+				<TextEquiv index="1">
+					<Unicode>ihr Antlitz daran. Dann sah sie zu ihm auf mit weit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l18" custom="readingOrder {index:18;}">
+				<Coords points="203,832 211,832 211,825 235,825 235,832 284,832 284,840 306,832 325,831 325,825 341,825 366,825 412,825 435,825 442,832 456,832 456,825 492,825 492,832 508,832 508,825 517,825 562,826 562,832 645,832 645,826 762,826 762,846 577,844 577,850 547,850 547,843 366,844 289,848 283,848 270,844 245,844 226,848 211,848 203,844" />
+				<Baseline points="203,843 658,844 762,846" />
+				<TextEquiv index="1">
+					<Unicode>offenen, schmerzlich-wilden Augen und flüsterte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l19" custom="readingOrder {index:19;}">
+				<Coords points="202,863 236,861 252,861 255,870 260,870 275,877 287,877 287,863 380,863 393,869 408,864 426,863 504,864 518,870 558,870 571,864 595,864 595,870 618,870 618,878 635,864 654,864 654,871 667,871 667,864 692,864 703,871 762,871 762,883 288,881 288,887 275,887 230,882 202,882" />
+				<Baseline points="202,881 762,883" />
+				<TextEquiv index="1">
+					<Unicode>heiß: „Ich will nicht fort von hier. Auch wenn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l20" custom="readingOrder {index:20;}">
+				<Coords points="202,902 217,902 247,909 262,909 262,902 270,901 287,901 322,901 322,909 362,909 362,902 370,902 370,908 382,908 382,901 397,901 397,908 416,908 416,902 432,902 432,908 445,908 447,901 462,901 462,909 474,909 474,901 489,901 489,909 585,909 597,902 663,902 663,909 695,909 695,903 704,903 704,909 730,909 730,903 756,903 756,910 763,910 763,923 518,926 489,926 462,926 447,926 408,921 202,921" />
+				<Baseline points="202,920 629,921 763,923" />
+				<TextEquiv index="1">
+					<Unicode>Sie niemals wiederkommen, wenn ich Sie niemals</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l21" custom="readingOrder {index:21;}">
+				<Coords points="201,941 213,941 223,947 235,947 235,941 273,941 304,941 304,947 329,947 338,941 341,941 341,947 359,947 359,941 375,941 378,948 385,948 393,942 401,941 478,941 553,941 628,941 628,948 640,948 647,941 667,941 681,942 681,949 707,949 713,942 724,942 724,951 713,951 712,960 693,961 385,964 378,964 360,960 341,964 338,964 295,960 201,960" />
+				<Baseline points="201,960 724,960" />
+				<TextEquiv index="1">
+					<Unicode>mehr sehen soll; ich will in Ihrer Nähe leben.“</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l22" custom="readingOrder {index:22;}">
+				<Coords points="227,979 246,979 246,986 307,986 314,979 327,979 336,985 347,985 347,979 386,979 386,985 394,985 403,979 419,979 461,979 461,986 476,986 484,979 504,979 504,986 530,983 574,983 618,980 669,980 669,986 703,986 708,980 724,980 762,988 762,1000 615,1003 530,1003 461,998 461,1004 440,1004 403,1004 403,998 393,998 386,1004 381,1004 374,997 227,997" />
+				<Baseline points="227,997 618,998 762,1000" />
+				<TextEquiv index="1">
+					<Unicode>Er war mehr ergriffen als erstaunt; denn er hatte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l23" custom="readingOrder {index:23;}">
+				<Coords points="201,1023 233,1018 289,1018 329,1023 337,1016 352,1016 389,1016 452,1016 478,1018 478,1024 489,1024 496,1018 622,1017 622,1024 634,1024 634,1018 648,1018 663,1024 714,1019 742,1019 742,1025 763,1026 763,1038 584,1037 378,1042 352,1042 329,1042 314,1042 306,1035 201,1036" />
+				<Baseline points="201,1036 572,1036 763,1038" />
+				<TextEquiv index="1">
+					<Unicode>es immer gewußt, daß sie in ihn verliebt war oder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l24" custom="readingOrder {index:24;}">
+				<Coords points="200,1055 244,1055 251,1061 258,1061 258,1055 334,1055 352,1055 352,1062 448,1062 448,1056 475,1056 475,1070 478,1070 478,1074 364,1079 334,1079 302,1079 282,1079 258,1079 200,1074" />
+				<Baseline points="200,1074 478,1074" />
+				<TextEquiv index="1">
+					<Unicode>sich einbildete, es zu sein.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l25" custom="readingOrder {index:25;}">
+				<Coords points="227,1108 240,1108 240,1094 290,1094 290,1100 314,1100 325,1094 347,1095 359,1100 370,1094 422,1094 433,1101 441,1101 441,1094 517,1094 517,1101 531,1101 531,1095 537,1094 609,1094 671,1098 673,1090 687,1090 687,1101 696,1101 708,1095 746,1095 746,1102 757,1102 757,1111 761,1111 761,1119 733,1119 687,1114 687,1124 673,1124 576,1118 227,1118" />
+				<Baseline points="227,1113 617,1113 761,1115" />
+				<TextEquiv index="1">
+					<Unicode>„Stehen Sie doch auf, Marianne“, sagte er leise,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l26" custom="readingOrder {index:26;}">
+				<Coords points="200,1132 215,1132 247,1132 294,1132 313,1132 329,1132 342,1140 366,1140 382,1132 416,1132 447,1133 447,1139 468,1139 468,1133 494,1133 494,1148 512,1132 519,1132 566,1132 587,1132 609,1140 618,1140 618,1134 627,1134 627,1140 638,1140 653,1133 715,1133 729,1140 740,1140 740,1134 765,1134 765,1153 670,1153 493,1156 447,1152 439,1156 430,1156 387,1152 287,1151 271,1158 221,1158 221,1151 200,1151" />
+				<Baseline points="200,1151 765,1153" />
+				<TextEquiv index="1">
+					<Unicode>beugte sich zu ihr herab, richtete sie milde auf</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>wohl tun. Es ist geradezu warm geworden, und
+Schneegestöber von der Redoute nach Hause, aber
+er formte rasch den Satz um und ergänzte: „Gestern
+abend lag der Schnee noch einen halben Meter hoch
+in den Straßen.“
+Sie hörte kaum, was er sagte. Ihre Augen wurden
+feucht, große Tränen liefen ihr über die Wangen
+herab und wieder verbarg sie ihr Gesicht in den
+Händen. Unwillkürlich legte er seine Hand auf ihren
+Scheitel und strich ihr über die Stirn. Er fühlte,
+wie ihr Körper zu zittern begann, sie schluchzte
+in sich hinein, kaum hörbar zuerst, allmählich lau-
+ter, endlich ganz ungehemmt. Mit einemmal war
+sie vom Sessel herabgeglitten, lag Fridolin zu Füßen,
+umschlang seine Knie mit den Armen und preßte
+ihr Antlitz daran. Dann sah sie zu ihm auf mit weit
+offenen, schmerzlich-wilden Augen und flüsterte
+heiß: „Ich will nicht fort von hier. Auch wenn
+Sie niemals wiederkommen, wenn ich Sie niemals
+mehr sehen soll; ich will in Ihrer Nähe leben.“
+Er war mehr ergriffen als erstaunt; denn er hatte
+es immer gewußt, daß sie in ihn verliebt war oder
+sich einbildete, es zu sein.
+„Stehen Sie doch auf, Marianne“, sagte er leise,
+beugte sich zu ihr herab, richtete sie milde auf</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+„Die frische Luft wird Ihnen hoffentlich wohl tun. Es ist geradezu warm geworden, und gestern nacht“ – er wollte sagen: fuhren wir im Schneegestöber von der Redoute nach Hause, aber er formte rasch den Satz um und ergänzte: „Gestern abend lag der Schnee noch einen halben Meter hoch in den Straßen.“
+Sie hörte kaum, was er sagte. Ihre Augen wurden feucht, große Tränen liefen ihr über die Wangen herab und wieder verbarg sie ihr Gesicht in den Händen. Unwillkürlich legte er seine Hand auf ihren Scheitel und strich ihr über die Stirn. Er fühlte, wie ihr Körper zu zittern begann, sie schluchzte in sich hinein, kaum hörbar zuerst, allmählich lauter, endlich ganz ungehemmt. Mit einemmal war sie vom Sessel herabgeglitten, lag Fridolin zu Füßen, umschlang seine Knie mit den Armen und preßte ihr Antlitz daran. Dann sah sie zu ihm auf mit weit offenen, schmerzlich-wilden Augen und flüsterte heiß: „Ich will nicht fort von hier. Auch wenn Sie niemals wiederkommen, wenn ich Sie niemals mehr sehen soll; ich will in Ihrer Nähe leben.“
+Er war mehr ergriffen als erstaunt; denn er hatte es immer gewußt, daß sie in ihn verliebt war oder sich einbildete, es zu sein.
+„Stehen Sie doch auf, Marianne“, sagte er leise, beugte sich zu ihr herab, richtete sie milde auf
+-->
+	</Page>
+</PcGts>

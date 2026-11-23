@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:47:17</Created>
+		<LastChange>2026-11-23T18:47:17</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Schmidt_Miscellanea_Silurica_III.djvu/88 revision 3389582 of 2018-08-01T07:33:01Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="schmidt_miscellanea_silurica_1883_0088.png" imageWidth="1360" imageHeight="1871">
+		<ReadingOrder>
+			<OrderedGroup id="ro12841726447814091072" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="244,257 802,257 802,283 244,283" />
+			<!-- line left out: id="r0l0" points="244,259 640,259 643,265 658,265 658,274 678,259 692,259 696,265 709,265 711,257 727,257 730,265 793,265 798,274 802,274 802,283 798,283 658,278 244,277" baseline="244,277 270,277 802,278" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 84 FR. SOHMIDT,
+ | german_print2_15: 84 FR. SoRMIDT,
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="440,353 985,353 985,374 440,374" />
+			<!-- line left out: id="r1l0" points="440,353 464,353 482,356 493,353 522,353 648,353 687,353 722,355 768,355 768,367 781,356 795,356 795,367 808,356 820,356 820,367 834,357 845,357 860,356 875,356 875,367 888,356 918,356 918,368 931,356 945,356 945,368 960,357 981,357 981,367 985,367 985,371 949,372 922,374 906,374 852,374 824,374 771,374 756,374 746,374 727,371 687,374 648,374 616,374 602,374 464,371 450,371 440,370" baseline="440,370 985,371" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Ceratiocaris Nötlingi. Taf. VI, F. 8, 9; T. VII, F. 12.
+ | german_print2_15: Ceratiocaris Nötlingi. Taf. VI, F. 8, 9; T. VII, F. 12.
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="243,406 1186,406 1186,1554 243,1554" />
+			<!-- line left out: id="r2l0" points="445,413 464,413 497,414 497,424 788,406 807,406 807,412 835,412 845,406 863,406 886,406 905,406 907,412 956,412 957,406 1036,406 1036,412 1058,412 1058,406 1078,406 1089,407 1121,407 1130,406 1142,406 1142,412 1154,412 1166,413 1166,407 1177,407 1182,409 1182,427 1142,430 1130,430 1109,426 1078,430 1059,430 1020,430 1011,430 918,425 863,425 818,425 497,427 478,430 453,430 445,430" baseline="445,426 1002,424 1011,424 1182,426" reason: differs: "Fig." against "Vom " | Wikisource:  | next_nc_e1: Fig. 5. Vom Rückenschild (Cephalothorax?)
+ | german_print2_15: Fig. 5. Vom Rückenschild (Cephalothorax?)
+ -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="739,439 778,438 791,438 798,439 807,444 821,438 860,438 860,444 883,439 1048,439 1072,444 1074,453 1080,453 1093,439 1118,439 1118,453 1124,453 1138,439 1182,439 1182,463 1160,463 1147,463 1147,457 1080,463 1074,463 1072,457 1022,457 1022,463 1009,463 1009,457 944,462 919,462 853,457 739,456" />
+				<Baseline points="739,457 1182,457" />
+				<TextEquiv index="1">
+					<Unicode>ist die linke Klappe vorhanden, (T. VII,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="740,470 757,470 757,485 779,472 804,471 813,471 814,485 820,485 834,471 1045,471 1045,477 1055,477 1067,471 1081,471 1181,477 1181,490 820,494 804,494 740,489" />
+				<Baseline points="740,489 1181,489" />
+				<TextEquiv index="1">
+					<Unicode>F. 12), deren vorderes Ende bei unsrem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l3" custom="readingOrder {index:3;}">
+				<Coords points="740,503 758,503 790,503 817,503 876,503 912,503 923,508 943,503 956,503 967,508 978,509 992,503 1000,503 1018,505 1018,517 1040,503 1065,503 1065,509 1075,509 1087,503 1104,503 1104,509 1142,509 1151,503 1164,503 1175,508 1183,509 1183,521 944,522 889,526 811,526 790,526 776,526 740,521" />
+				<Baseline points="740,521 1183,522" />
+				<TextEquiv index="1">
+					<Unicode>Exemplar abgebrochen ist. Die Form des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l4" points="592,503 707,503 740,534 761,534 805,535 839,535 877,535 893,536 998,536 1012,537 1037,541 1037,535 1048,535 1081,535 1087,541 1105,536 1127,536 1127,550 1133,550 1142,536 1163,536 1174,541 1182,546 1182,549 1174,554 1155,554 1142,553 1133,559 1116,559 1105,559 887,554 855,554 848,554 740,553 707,571 592,571" baseline="592,553 903,553 1182,554" reason: differs: "NSch" against "Schi" | Wikisource:  | next_nc_e1: N Schildes ist bei unsrer Art schief oval, hin-
+ | german_print2_15: R Schildes ist bei unsrer Art schief oval, hin-
+ -->
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="740,568 791,567 804,567 804,573 826,572 834,569 884,569 884,582 903,567 926,567 963,567 980,567 998,567 998,573 1020,568 1040,567 1050,567 1064,568 1064,582 1079,573 1116,568 1174,568 1183,573 1183,586 1069,591 1050,591 980,591 968,591 865,586 844,586 817,590 803,590 791,586 740,585" />
+				<Baseline points="740,585 1183,586" />
+				<TextEquiv index="1">
+					<Unicode>ten abgestutzt. Die Rückenlinie, so weit sie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l6" points="380,602 399,602 412,602 445,602 461,602 469,603 482,602 502,602 508,602 532,602 547,602 549,603 780,605 780,599 792,599 792,605 806,605 806,599 825,599 832,600 866,605 870,613 889,600 897,600 914,601 972,600 985,600 985,606 998,606 998,600 1038,600 1038,606 1049,605 1070,600 1109,600 1118,601 1126,600 1138,600 1162,600 1182,600 1182,618 1162,619 1092,619 1000,623 941,623 927,623 875,620 845,623 831,623 797,618 792,623 780,623 780,617 763,618 597,620 549,620 502,620 492,620 461,617 444,617 412,617 399,617 380,617" baseline="380,616 555,616 1182,618" reason: differs: "Cera" against "zu v" | Wikisource:  | next_nc_e1: Ceratiocaris Nötlingi n. sp. zu verfolgen, ist gerade. Der Hinterrand
+ | german_print2_15: Ceratiocaris Notlingi n. sp. zu verfolgen, ist gerade. Der Hinterrand
+ -->
+			<!-- line left out: id="r2l7" points="314,625 329,625 352,627 370,626 383,626 398,627 412,625 426,625 440,625 458,626 498,630 498,637 513,625 527,625 539,625 573,625 613,625 637,625 642,629 649,627 660,627 740,637 751,633 761,633 814,632 826,632 883,632 905,632 915,633 968,638 968,632 981,632 1012,632 1042,632 1080,632 1109,632 1144,632 1165,637 1177,638 1178,646 1182,646 1182,655 1178,655 1165,651 1153,651 1103,650 1092,656 1068,656 1068,650 1042,650 1042,656 1002,656 981,656 968,656 968,650 951,650 951,656 937,656 926,650 740,650 660,639 642,640 618,640 573,640 498,644 488,644 448,640 434,640 406,640 323,640 314,640" baseline="314,639 1182,639" reason: differs: "Rest" against "rran" | Wikisource:  | next_nc_e1: Restaurirte Zeichnung. Etwas verkleinert. etwas nach hinten gewandt, steigt steil an,
+ | german_print2_15: Restaurirte Zeichnung. Etwas verkleinert. etwas nach hinten gewandt, steigt steil an,
+ -->
+			<TextLine id="r2l8" custom="readingOrder {index:8;}">
+				<Coords points="244,664 344,664 344,670 359,670 359,664 400,664 558,670 558,664 582,664 582,670 598,670 598,664 615,664 635,670 660,670 660,664 672,664 685,670 692,670 692,660 723,660 752,664 752,670 763,670 776,663 787,663 787,669 809,669 809,663 832,663 832,669 867,664 904,664 991,665 1012,670 1024,664 1032,664 1059,669 1068,665 1142,664 1150,670 1175,670 1182,675 1182,678 1164,688 1120,688 1100,688 1059,688 1032,688 1024,688 977,683 944,682 909,688 890,688 832,683 723,683 706,688 685,688 599,683 582,688 529,688 515,688 373,683 244,682" />
+				<Baseline points="244,682 1182,683" />
+				<TextEquiv index="1">
+					<Unicode>ist am Grunde etwas ausgeschweift und geht in sanftem Bogen in den regelmässig ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l9" custom="readingOrder {index:9;}">
+				<Coords points="244,696 257,696 279,698 291,696 308,696 335,698 346,702 360,696 377,696 377,702 405,702 405,696 418,696 624,696 637,696 650,702 684,697 757,702 771,696 778,696 778,702 804,701 814,696 823,696 823,702 902,702 902,696 917,696 917,702 951,702 951,696 963,696 963,702 973,702 987,696 1001,696 1001,702 1013,697 1039,698 1049,702 1062,696 1073,696 1073,702 1087,702 1087,696 1100,696 1110,698 1118,696 1131,696 1154,696 1183,702 1183,715 1082,716 1014,720 902,720 816,715 551,715 537,721 519,721 519,715 496,715 490,721 482,721 469,715 244,714" />
+				<Baseline points="244,715 1183,715" />
+				<TextEquiv index="1">
+					<Unicode>krümmten Bauchrand über, der sich nach vorn in eine vorragende Spitze fortzusetzen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="243,734 253,733 259,728 277,728 295,728 319,730 319,747 288,747 272,747 253,747 243,746" />
+				<Baseline points="243,746 319,747" />
+				<TextEquiv index="1">
+					<Unicode>scheint.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l11" custom="readingOrder {index:11;}">
+				<Coords points="299,761 344,760 361,760 373,760 392,760 392,766 416,761 436,761 450,766 458,760 479,760 495,761 507,766 507,760 520,760 550,761 561,766 561,775 577,762 680,761 697,762 719,766 719,760 727,760 750,760 789,766 789,760 803,760 812,766 846,766 846,760 859,760 868,766 879,761 1182,762 1182,780 1176,784 1111,784 1085,780 1003,784 972,784 880,779 790,779 663,784 625,784 550,779 550,785 542,785 533,779 407,784 377,784 299,779" />
+				<Baseline points="299,779 1182,780" />
+				<TextEquiv index="1">
+					<Unicode>Die Länge der Schaale (c. 72 mm.) ist nicht voll noch einmal so gross wie die grösste</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l12" custom="readingOrder {index:12;}">
+				<Coords points="244,792 265,792 298,794 307,799 321,793 328,793 328,799 340,799 351,793 365,793 365,799 384,799 393,793 439,794 449,799 457,793 491,794 514,799 514,793 553,793 553,808 572,793 616,793 627,798 639,792 647,792 693,794 702,792 727,792 869,794 977,793 977,799 987,799 1001,793 1014,793 1014,799 1034,799 1048,793 1068,793 1068,799 1079,794 1089,794 1110,799 1110,793 1160,793 1160,799 1175,799 1181,803 1181,807 1175,812 1034,812 849,816 813,816 776,812 583,812 553,816 514,816 501,811 466,817 457,817 449,811 244,811" />
+				<Baseline points="244,811 1181,812" />
+				<TextEquiv index="1">
+					<Unicode>Breite in der Mitte (38 mm.). Diese übertrifft das Doppelte der Höhe des hintern Vor-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l13" custom="readingOrder {index:13;}">
+				<Coords points="244,830 277,830 335,826 433,826 433,840 455,825 473,825 480,826 490,831 504,825 518,825 542,825 542,831 562,831 562,825 571,825 571,831 593,826 618,827 651,831 651,825 665,825 665,831 701,831 701,825 715,825 742,830 760,831 760,825 800,825 846,831 846,825 876,825 900,825 945,825 952,825 952,831 974,831 987,825 998,825 1125,827 1173,826 1182,831 1182,844 974,844 913,848 871,848 846,844 774,843 774,849 742,849 728,849 665,844 473,844 433,849 419,849 419,843 408,843 408,849 394,849 394,843 345,843 344,849 335,849 253,848 244,843" />
+				<Baseline points="244,843 1182,844" />
+				<TextEquiv index="1">
+					<Unicode>sprungs (18 mm.). Die Schaale ist schwach gewölbt und zeigt eine feine concentrische</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l14" custom="readingOrder {index:14;}">
+				<Coords points="244,857 258,857 267,859 293,857 304,857 304,863 339,863 341,872 356,858 376,858 429,863 437,860 450,860 461,858 516,858 528,860 588,858 616,863 630,857 652,857 652,863 680,858 739,858 749,863 763,857 776,857 776,863 807,857 822,857 863,857 919,857 919,863 971,863 971,857 984,857 984,863 1011,863 1021,857 1028,857 1028,863 1053,858 1060,858 1073,860 1084,864 1084,857 1095,857 1109,864 1149,858 1162,858 1183,863 1183,876 832,876 552,881 463,881 346,881 325,881 287,876 244,876" />
+				<Baseline points="244,876 1183,876" />
+				<TextEquiv index="1">
+					<Unicode>Streifung, die vorzüglich längs dem Bauchrande deutlich ist. Ausserdem verläuft um den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l15" custom="readingOrder {index:15;}">
+				<Coords points="245,895 312,896 321,889 348,889 422,890 422,896 484,896 493,890 569,890 574,892 583,890 597,890 597,896 620,891 632,891 653,896 653,890 660,890 660,896 671,896 681,890 706,890 729,895 769,896 769,890 913,890 913,908 653,909 632,914 620,914 620,908 585,909 569,914 553,914 517,909 422,908 422,914 415,914 406,908 301,909 245,913" />
+				<Baseline points="245,908 913,908" />
+				<TextEquiv index="1">
+					<Unicode>ganzen Umkreis (ausser dem Rücken), ein feiner erhabener Rand.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l16" points="300,922 324,922 324,928 341,928 350,922 370,922 387,922 387,928 421,924 441,924 462,923 480,923 504,923 521,928 530,922 537,922 545,923 557,928 557,922 591,922 598,923 640,928 640,922 653,922 653,928 667,923 673,922 687,922 687,928 709,928 709,922 717,922 717,928 736,928 736,922 749,922 749,928 790,928 790,922 817,922 855,922 881,922 890,924 908,928 908,922 912,922 942,923 942,937 954,922 981,922 1010,922 1010,928 1031,927 1044,927 1087,922 1129,922 1137,923 1171,928 1171,922 1183,922 1183,941 1032,945 1010,945 997,945 942,941 900,941 845,941 802,941 759,941 736,941 710,941 398,941 374,941 300,941" baseline="300,941 1183,941" reason: second model: differs: "tenOC.M" against "en C. M" | Wikisource: Von bekannten Arten sind die amerikanischen oben citirten C. Maccoyanus Hall und | next_nc_e1: Von bekannten Arten sind die amerikanischen oben citirten C. Maccoyanus Hall und | german_print2_15: Von bekannten Arten sind die amerikanischen oben citirten OC. Maccoyanus Hall und -->
+			<TextLine id="r2l17" custom="readingOrder {index:17;}">
+				<Coords points="244,960 277,955 337,956 551,954 570,954 587,954 650,955 691,961 702,961 702,955 732,955 745,960 745,969 765,955 783,955 783,969 795,954 828,954 828,960 867,960 867,954 882,954 902,954 902,960 929,955 946,955 978,959 996,956 1006,956 1037,960 1037,954 1051,954 1080,960 1081,970 1096,960 1110,955 1184,955 1184,973 1096,973 1086,979 1081,979 1080,973 978,978 574,978 244,972" />
+				<Baseline points="244,973 1184,973" />
+				<TextEquiv index="1">
+					<Unicode>acuminatus Hall zunächst in Vergleich zu ziehn. C. Maccoyanus ist gestreckter, mehr als</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l18" custom="readingOrder {index:18;}">
+				<Coords points="245,986 258,986 276,986 276,992 294,992 294,986 307,986 492,987 500,988 500,1001 514,987 609,987 609,993 632,992 653,987 714,987 726,992 731,986 745,986 767,986 767,992 787,992 787,986 807,986 807,992 839,987 878,987 911,989 931,987 968,987 1079,993 1079,987 1120,987 1120,993 1134,993 1143,987 1163,987 1163,993 1176,993 1183,997 1183,1001 1176,1005 1024,1006 981,1010 945,1010 903,1010 868,1010 645,1010 505,1010 470,1010 399,1010 307,1010 263,1010 245,1005" />
+				<Baseline points="245,1005 1183,1005" />
+				<TextEquiv index="1">
+					<Unicode>doppelt so lang wie breit, die Wölbung des Bauchrandes springt weniger vor und der hin-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l19" custom="readingOrder {index:19;}">
+				<Coords points="244,1020 265,1020 285,1024 294,1018 313,1018 331,1018 331,1024 372,1024 372,1018 385,1018 385,1024 412,1019 457,1019 470,1024 490,1019 619,1021 628,1018 639,1018 639,1024 658,1024 658,1018 668,1018 768,1019 806,1025 806,1019 880,1019 880,1025 903,1024 920,1019 976,1019 984,1025 994,1025 994,1019 1008,1019 1015,1024 1024,1019 1067,1021 1067,1038 984,1037 976,1043 961,1043 951,1038 933,1043 920,1043 920,1037 893,1042 812,1042 794,1038 768,1042 668,1038 554,1038 403,1042 318,1042 275,1037 244,1037" />
+				<Baseline points="244,1037 1067,1037" />
+				<TextEquiv index="1">
+					<Unicode>tere Vorsprung ist durch einen schärfern Winkel (weniger abgerundet) markirt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l20" custom="readingOrder {index:20;}">
+				<Coords points="300,1051 344,1051 366,1051 366,1057 382,1057 382,1051 398,1051 430,1051 430,1057 443,1057 452,1051 466,1051 506,1051 576,1057 576,1051 612,1051 612,1057 643,1057 643,1051 650,1051 650,1057 661,1057 661,1051 668,1051 690,1051 690,1057 719,1052 744,1052 768,1057 768,1051 780,1051 802,1051 802,1057 871,1052 952,1057 964,1051 986,1051 1001,1053 1001,1066 1027,1052 1184,1052 1184,1070 1006,1075 986,1075 974,1075 932,1070 737,1070 644,1075 631,1075 621,1069 600,1070 588,1075 571,1075 557,1075 460,1070 300,1069" />
+				<Baseline points="300,1069 1184,1070" />
+				<TextEquiv index="1">
+					<Unicode>C. acuminatus hat bei ungefähr gleichen Dimensionen wie unsre Art, einen rhombisch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l21" custom="readingOrder {index:21;}">
+				<Coords points="246,1089 279,1084 287,1084 309,1089 319,1083 342,1083 342,1089 363,1084 643,1084 652,1085 661,1090 675,1084 893,1084 908,1089 908,1083 920,1083 948,1089 948,1083 959,1083 1029,1086 1038,1084 1051,1084 1110,1089 1119,1084 1176,1084 1184,1089 1184,1102 542,1107 501,1107 488,1107 330,1105 297,1102 246,1102" />
+				<Baseline points="246,1102 1184,1102" />
+				<TextEquiv index="1">
+					<Unicode>ovalen Umriss, mit vorspringender Mitte des Bauchrandes und ebenfalls stärker markirtem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l22" custom="readingOrder {index:22;}">
+				<Coords points="246,1116 266,1116 334,1116 353,1116 418,1121 443,1121 443,1130 462,1116 475,1116 486,1121 527,1122 541,1116 560,1116 583,1116 583,1122 620,1116 633,1116 633,1122 654,1122 667,1116 680,1116 680,1122 707,1122 721,1116 740,1116 764,1116 764,1122 780,1122 780,1116 788,1116 821,1122 821,1116 833,1116 833,1122 843,1122 855,1116 868,1116 912,1116 941,1116 941,1122 962,1122 977,1116 994,1116 1060,1122 1060,1116 1074,1116 1120,1116 1175,1116 1175,1122 1184,1122 1184,1134 496,1135 448,1139 395,1139 382,1139 246,1134" />
+				<Baseline points="246,1134 1184,1134" />
+				<TextEquiv index="1">
+					<Unicode>hintern Vorsprung, dessen Höhe über dem Dorsalrande bei beiden Arten mehr als die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l23" custom="readingOrder {index:23;}">
+				<Coords points="246,1147 257,1147 281,1147 297,1147 297,1153 316,1148 392,1150 450,1148 536,1148 546,1153 556,1154 566,1148 664,1148 704,1150 728,1149 728,1166 716,1171 703,1171 664,1167 659,1171 651,1171 630,1167 371,1171 357,1171 246,1166" />
+				<Baseline points="246,1166 728,1166" />
+				<TextEquiv index="1">
+					<Unicode>Hälfte der grössten Breite der Schaale beträgt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l24" custom="readingOrder {index:24;}">
+				<Coords points="303,1179 325,1179 325,1185 351,1180 433,1180 444,1185 455,1186 464,1180 483,1180 501,1182 579,1180 579,1186 593,1182 602,1182 624,1186 624,1180 679,1180 679,1186 782,1185 822,1180 867,1180 897,1186 908,1180 996,1180 996,1186 1005,1186 1015,1180 1029,1180 1031,1186 1043,1186 1044,1180 1052,1180 1063,1182 1063,1195 1081,1180 1107,1180 1107,1186 1132,1186 1132,1194 1149,1186 1173,1186 1173,1180 1184,1180 1184,1199 1107,1199 1090,1203 1081,1203 1029,1199 982,1203 934,1203 876,1199 561,1199 387,1203 357,1203 351,1203 303,1198" />
+				<Baseline points="303,1198 1184,1198" />
+				<TextEquiv index="1">
+					<Unicode>Von englischen Arten nähert sich der unsern am meisten C. papilio Salt. (Ann. and</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l25" points="247,1211 269,1211 269,1217 282,1217 282,1211 295,1211 295,1217 313,1217 314,1226 328,1212 357,1212 367,1218 375,1218 375,1212 397,1212 398,1226 414,1213 426,1213 427,1227 445,1214 457,1213 504,1213 527,1217 527,1227 544,1213 584,1213 585,1226 600,1212 617,1212 617,1227 637,1214 647,1214 648,1223 667,1223 667,1212 697,1212 698,1227 717,1212 729,1212 730,1218 751,1218 751,1212 764,1212 778,1218 802,1217 813,1212 913,1212 913,1218 942,1218 956,1212 961,1212 982,1212 1025,1212 1025,1218 1045,1218 1056,1212 1076,1212 1076,1218 1088,1214 1097,1214 1127,1218 1136,1212 1156,1212 1156,1218 1178,1218 1184,1222 1184,1226 1178,1230 1156,1231 1097,1231 990,1231 961,1231 814,1231 753,1231 703,1236 667,1236 667,1226 647,1231 590,1235 527,1235 480,1235 470,1231 432,1235 427,1235 357,1231 295,1235 260,1235 247,1235" baseline="247,1230 1184,1230" reason: differs: "F.1—3)," against ". 1–3)," | Wikisource:  | next_nc_e1: Magaz. III vol. 5, 1860, p. 154, F. 1—3), doch auch bei dieser tritt der hintere Vor- | german_print2_15: Magaz. III vol. 5, 1860, p. 154, F. 1—3), doch auch bei dieser tritt der hintere Vor- -->
+			<TextLine id="r2l26" custom="readingOrder {index:26;}">
+				<Coords points="247,1250 316,1250 325,1244 331,1244 331,1250 343,1245 356,1244 373,1244 396,1244 396,1250 406,1250 415,1244 422,1244 422,1250 495,1250 495,1244 525,1244 565,1244 578,1244 585,1245 595,1250 602,1244 618,1244 618,1250 641,1246 690,1245 791,1245 819,1250 819,1244 847,1244 847,1250 901,1250 901,1244 907,1244 907,1250 959,1245 1184,1246 1184,1264 1161,1268 1147,1268 1147,1262 1100,1263 1089,1268 1076,1268 1054,1267 1040,1263 1025,1268 1013,1268 1013,1262 1001,1263 983,1268 959,1268 959,1262 921,1267 855,1263 344,1263 316,1267 256,1267 247,1262" />
+				<Baseline points="247,1263 1184,1263" />
+				<TextEquiv index="1">
+					<Unicode>sprung schärfer hervor und ist die Contour des Bauchrandes weniger regelmässig gekrümmt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l27" custom="readingOrder {index:27;}">
+				<Coords points="246,1276 269,1276 328,1278 570,1277 581,1282 592,1283 602,1277 714,1277 736,1282 746,1277 770,1277 859,1282 869,1276 887,1276 887,1282 948,1276 966,1276 966,1282 1009,1276 1024,1276 1024,1282 1061,1282 1061,1276 1074,1276 1103,1277 1128,1282 1128,1295 1029,1295 972,1300 953,1300 907,1295 736,1295 667,1300 530,1300 510,1300 246,1294" />
+				<Baseline points="246,1295 1128,1295" />
+				<TextEquiv index="1">
+					<Unicode>Die Art stammt aus dem gleichen Eurypteriden-Niveau von Lesmahago, Lanarkshire.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l28" custom="readingOrder {index:28;}">
+				<Coords points="303,1309 367,1309 367,1315 395,1315 395,1304 410,1304 427,1310 492,1309 492,1315 527,1315 536,1309 572,1309 572,1315 629,1315 629,1309 657,1309 703,1315 714,1309 842,1309 842,1324 857,1308 917,1309 917,1323 933,1310 957,1309 1116,1309 1124,1311 1136,1309 1155,1309 1185,1314 1185,1327 1168,1332 1154,1332 1149,1328 1116,1332 868,1332 693,1327 693,1333 679,1333 669,1328 644,1327 644,1333 629,1333 629,1327 549,1328 505,1332 451,1332 427,1327 410,1337 395,1337 395,1327 303,1327" />
+				<Baseline points="303,1327 1185,1327" />
+				<TextEquiv index="1">
+					<Unicode>Von dem 3 strahligen Schwanzanhange haben wir T. VI, F. 8 ein recht vollständiges</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l29" custom="readingOrder {index:29;}">
+				<Coords points="246,1340 271,1340 271,1346 325,1341 352,1347 359,1347 359,1341 415,1341 415,1347 436,1347 443,1341 457,1341 515,1347 516,1356 535,1341 553,1341 553,1347 583,1342 669,1341 781,1341 781,1347 794,1347 794,1341 829,1341 829,1347 903,1347 903,1340 913,1340 932,1342 960,1342 979,1347 979,1341 1001,1341 1001,1347 1034,1347 1040,1341 1083,1341 1083,1347 1093,1347 1093,1356 1109,1342 1135,1342 1179,1347 1180,1355 1184,1355 1184,1360 1135,1360 1098,1365 1093,1365 1093,1359 1077,1360 1067,1365 1054,1365 1054,1359 1040,1359 1014,1365 1000,1365 995,1360 396,1360 319,1364 256,1364 246,1359" />
+				<Baseline points="246,1360 1184,1360" />
+				<TextEquiv index="1">
+					<Unicode>Exemplar abbilden können. Der centrale Theil ist breit linear auf dreiseitiger Basis, 38 mm.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l30" custom="readingOrder {index:30;}">
+				<Coords points="247,1373 254,1373 254,1379 290,1379 299,1373 312,1373 312,1379 323,1374 473,1374 482,1376 530,1379 540,1373 558,1373 558,1380 580,1379 592,1374 605,1374 605,1380 616,1380 616,1388 636,1374 645,1373 675,1373 682,1380 702,1380 702,1374 710,1374 710,1380 732,1379 756,1374 787,1373 820,1373 820,1379 859,1379 859,1373 873,1373 891,1373 891,1379 937,1374 976,1373 989,1373 1036,1373 1073,1373 1079,1374 1090,1379 1090,1373 1132,1373 1132,1379 1179,1379 1180,1387 1185,1387 1185,1396 1180,1396 1167,1392 1157,1397 1131,1397 1126,1392 1101,1397 1073,1397 1054,1397 1041,1397 1016,1392 324,1392 290,1397 277,1397 277,1391 247,1391" />
+				<Baseline points="247,1392 1185,1391" />
+				<TextEquiv index="1">
+					<Unicode>lang bei 11 mm. Breite am Grunde. Auf seinem Rücken erkennen wir drei kräftige Rippen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l31" custom="readingOrder {index:31;}">
+				<Coords points="247,1405 260,1405 362,1407 373,1411 393,1406 406,1406 430,1412 465,1412 474,1406 515,1406 515,1412 534,1412 534,1406 614,1407 649,1412 649,1420 669,1406 687,1406 698,1411 707,1406 754,1406 754,1412 763,1412 774,1406 815,1406 849,1412 872,1412 886,1406 939,1405 949,1405 1008,1411 1019,1405 1037,1405 1053,1405 1066,1405 1066,1411 1119,1405 1132,1405 1132,1411 1151,1411 1151,1405 1164,1405 1164,1411 1185,1411 1185,1423 1151,1424 1132,1427 1078,1429 800,1424 800,1430 781,1430 781,1424 636,1425 626,1430 612,1430 608,1425 497,1425 385,1429 247,1424" />
+				<Baseline points="247,1424 1185,1423" />
+				<TextEquiv index="1">
+					<Unicode>die Andeutungen von Tuberkeln zeigen. Nach der Spitze zu sind feinere Rippen zwischen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l32" custom="readingOrder {index:32;}">
+				<Coords points="247,1437 260,1437 349,1438 361,1443 366,1438 409,1438 409,1444 476,1444 476,1438 484,1438 484,1444 538,1439 575,1438 575,1444 597,1444 598,1453 618,1438 736,1438 764,1444 771,1438 794,1438 794,1444 808,1444 808,1438 824,1438 830,1444 851,1444 851,1438 858,1438 858,1444 871,1439 886,1438 919,1438 949,1443 958,1438 1094,1438 1106,1443 1106,1437 1114,1437 1114,1443 1136,1443 1136,1437 1150,1437 1150,1443 1186,1443 1186,1461 1173,1461 1163,1456 895,1461 858,1461 800,1457 754,1456 754,1462 742,1462 742,1456 723,1457 700,1462 681,1462 668,1462 539,1457 508,1462 495,1462 495,1456 445,1457 434,1462 409,1462 409,1456 379,1462 366,1462 366,1456 247,1456" />
+				<Baseline points="247,1456 1186,1456" />
+				<TextEquiv index="1">
+					<Unicode>die drei Hauptrippen eingeschoben. Die dreieckige Basis zeigt jederseits vor der Einlenkung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l33" custom="readingOrder {index:33;}">
+				<Coords points="247,1469 260,1469 260,1475 291,1470 322,1470 354,1475 360,1470 423,1470 423,1476 459,1471 852,1471 870,1476 870,1470 877,1470 877,1476 888,1476 888,1470 917,1470 968,1476 976,1470 983,1470 995,1475 1002,1470 1013,1470 1018,1475 1036,1470 1081,1470 1082,1485 1097,1470 1186,1471 1186,1488 1087,1493 1082,1493 1018,1489 1013,1493 1002,1493 968,1488 247,1488" />
+				<Baseline points="247,1489 1186,1488" />
+				<TextEquiv index="1">
+					<Unicode>der Seitenstacheln einen kurzen Dorn. Die Seitenstacheln sind linear-lancettlich, flach mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l34" custom="readingOrder {index:34;}">
+				<Coords points="247,1507 268,1502 281,1502 281,1508 297,1507 318,1502 332,1502 332,1508 361,1503 498,1503 498,1509 538,1503 562,1503 567,1505 600,1503 662,1503 662,1509 673,1509 682,1498 695,1498 695,1508 724,1503 780,1504 781,1518 801,1503 868,1503 880,1505 923,1503 1028,1503 1072,1507 1074,1516 1086,1516 1093,1507 1104,1502 1111,1502 1121,1507 1153,1502 1167,1502 1186,1507 1186,1520 1086,1525 1050,1525 1003,1520 995,1526 962,1526 923,1520 904,1526 890,1526 706,1522 592,1526 562,1526 471,1526 442,1526 387,1526 372,1526 342,1521 247,1520" />
+				<Baseline points="247,1520 1186,1520" />
+				<TextEquiv index="1">
+					<Unicode>schwacher Andeutung eines Längskiels in der Mitte. Ihre Länge beträgt 22 mm., also über</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r2l35" custom="readingOrder {index:35;}">
+				<Coords points="247,1534 267,1534 267,1540 276,1540 285,1534 309,1534 332,1534 339,1536 531,1535 531,1541 545,1541 545,1554 524,1554 421,1554 408,1554 247,1553" />
+				<Baseline points="247,1553 545,1554" />
+				<TextEquiv index="1">
+					<Unicode>die Hälfte des Mittelstachels.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ist die linke Klappe vorhanden, (T. VII,
+F. 12), deren vorderes Ende bei unsrem
+Exemplar abgebrochen ist. Die Form des
+ten abgestutzt. Die Rückenlinie, so weit sie
+ist am Grunde etwas ausgeschweift und geht in sanftem Bogen in den regelmässig ge-
+krümmten Bauchrand über, der sich nach vorn in eine vorragende Spitze fortzusetzen
+scheint.
+Die Länge der Schaale (c. 72 mm.) ist nicht voll noch einmal so gross wie die grösste
+Breite in der Mitte (38 mm.). Diese übertrifft das Doppelte der Höhe des hintern Vor-
+sprungs (18 mm.). Die Schaale ist schwach gewölbt und zeigt eine feine concentrische
+Streifung, die vorzüglich längs dem Bauchrande deutlich ist. Ausserdem verläuft um den
+ganzen Umkreis (ausser dem Rücken), ein feiner erhabener Rand.
+acuminatus Hall zunächst in Vergleich zu ziehn. C. Maccoyanus ist gestreckter, mehr als
+doppelt so lang wie breit, die Wölbung des Bauchrandes springt weniger vor und der hin-
+tere Vorsprung ist durch einen schärfern Winkel (weniger abgerundet) markirt.
+C. acuminatus hat bei ungefähr gleichen Dimensionen wie unsre Art, einen rhombisch
+ovalen Umriss, mit vorspringender Mitte des Bauchrandes und ebenfalls stärker markirtem
+hintern Vorsprung, dessen Höhe über dem Dorsalrande bei beiden Arten mehr als die
+Hälfte der grössten Breite der Schaale beträgt.
+Von englischen Arten nähert sich der unsern am meisten C. papilio Salt. (Ann. and
+sprung schärfer hervor und ist die Contour des Bauchrandes weniger regelmässig gekrümmt.
+Die Art stammt aus dem gleichen Eurypteriden-Niveau von Lesmahago, Lanarkshire.
+Von dem 3 strahligen Schwanzanhange haben wir T. VI, F. 8 ein recht vollständiges
+Exemplar abbilden können. Der centrale Theil ist breit linear auf dreiseitiger Basis, 38 mm.
+lang bei 11 mm. Breite am Grunde. Auf seinem Rücken erkennen wir drei kräftige Rippen,
+die Andeutungen von Tuberkeln zeigen. Nach der Spitze zu sind feinere Rippen zwischen
+die drei Hauptrippen eingeschoben. Die dreieckige Basis zeigt jederseits vor der Einlenkung
+der Seitenstacheln einen kurzen Dorn. Die Seitenstacheln sind linear-lancettlich, flach mit
+schwacher Andeutung eines Längskiels in der Mitte. Ihre Länge beträgt 22 mm., also über
+die Hälfte des Mittelstachels.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="286,446 592,446 592,556 286,556" />
+		</GraphicRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="413,552 486,552 486,571 413,571" />
+			<!-- line left out: id="r4l0" points="413,552 486,552 486,571 413,571" baseline="413,566 486,565" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: a | german_print2_15:  -->
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Vom Rückenschild (Cephalothorax?) ist die linke Klappe vorhanden, (T. VII, F. 12), deren vorderes Ende bei unsrem Exemplar abgebrochen ist. Die Form des Schildes ist bei unsrer Art schief oval, hinten abgestutzt. Die Rückenlinie, so weit sie zu verfolgen, ist gerade. Der Hinterrand etwas nach hinten gewandt, steigt steil an, ist am Grunde etwas ausgeschweift und geht in sanftem Bogen in den regelmässig gekrümmten Bauchrand über, der sich nach vorn in eine vorragende Spitze fortzusetzen scheint.
+Die Länge der Schaale (c. 72 mm.) ist nicht voll noch einmal so gross wie die grösste Breite in der Mitte (38 mm.). Diese übertrifft das Doppelte der Höhe des hintern Vorsprungs (18 mm.). Die Schaale ist schwach gewölbt und zeigt eine feine concentrische Streifung, die vorzüglich längs dem Bauchrande deutlich ist. Ausserdem verläuft um den ganzen Umkreis (ausser dem Rücken), ein feiner erhabener Rand.
+Von bekannten Arten sind die amerikanischen oben citirten C. Maccoyanus Hall und acuminatus Hall zunächst in Vergleich zu ziehn. C. Maccoyanus ist gestreckter, mehr als doppelt so lang wie breit, die Wölbung des Bauchrandes springt weniger vor und der hintere Vorsprung ist durch einen schärfern Winkel (weniger abgerundet) markirt.
+C. acuminatus hat bei ungefähr gleichen Dimensionen wie unsre Art, einen rhombisch ovalen Umriss, mit vorspringender Mitte des Bauchrandes und ebenfalls stärker markirtem hintern Vorsprung, dessen Höhe über dem Dorsalrande bei beiden Arten mehr als die Hälfte der grössten Breite der Schaale beträgt.
+Von englischen Arten nähert sich der unsern am meisten C. papilio Salt. (Ann. and Magaz. III vol. 5, 1860, p. 154, F. 1–3), doch auch bei dieser tritt der hintere Vorsprung schärfer hervor und ist die Contour des Bauchrandes weniger regelmässig gekrümmt. Die Art stammt aus dem gleichen Eurypteriden-Niveau von Lesmahago, Lanarkshire.
+Von dem 3 strahligen Schwanzanhange haben wir T. VI, F. 8 ein recht vollständiges Exemplar abbilden können. Der centrale Theil ist breit linear auf dreiseitiger Basis, 38 mm. lang bei 11 mm. Breite am Grunde. Auf seinem Rücken erkennen wir drei kräftige Rippen, die Andeutungen von Tuberkeln zeigen. Nach der Spitze zu sind feinere Rippen zwischen die drei Hauptrippen eingeschoben. Die dreieckige Basis zeigt jederseits vor der Einlenkung der Seitenstacheln einen kurzen Dorn. Die Seitenstacheln sind linear-lancettlich, flach mit schwacher Andeutung eines Längskiels in der Mitte. Ihre Länge beträgt 22 mm., also über die Hälfte des Mittelstachels.
+-->
+	</Page>
+</PcGts>

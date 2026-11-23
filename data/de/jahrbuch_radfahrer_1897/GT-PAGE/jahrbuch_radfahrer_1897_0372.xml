@@ -1,0 +1,609 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T18:37:36</Created>
+		<LastChange>2026-11-23T18:37:36</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Jahrbuch_der_deutschen_Radfahrer-Vereine_1897.pdf/372 revision 3491844 of 2019-02-27T23:41:42Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="jahrbuch_radfahrer_1897_0372.png" imageWidth="1000" imageHeight="1458">
+		<ReadingOrder>
+			<OrderedGroup id="ro17980545858641865489" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="16" regionRef="r16" />
+				<RegionRefIndexed index="17" regionRef="r17" />
+				<RegionRefIndexed index="20" regionRef="r20" />
+				<RegionRefIndexed index="22" regionRef="r22" />
+				<RegionRefIndexed index="23" regionRef="r23" />
+				<RegionRefIndexed index="25" regionRef="r25" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 1000,0 1000,59 0,59" />
+		</GraphicRegion>
+		<SeparatorRegion id="r1">
+			<Coords points="147,43 455,43 455,51 147,51" />
+		</SeparatorRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="491,82 609,82 609,115 491,115" />
+			<!-- line left out: id="r2l0" points="491,98 507,98 530,87 556,86 586,82 609,82 609,115 586,115 586,104 555,105 530,105 491,101" baseline="491,106 605,103 609,103" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — 336 —
+ | german_print2_15: — 336 —
+ -->
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="279,337 330,337 330,354 279,354" />
+		</GraphicRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="162,139 529,139 529,356 162,356" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="174,144 189,144 210,150 212,143 218,143 221,149 232,149 233,143 291,142 292,149 311,141 328,141 329,156 345,140 362,140 365,155 381,141 459,139 484,139 524,139 524,157 459,157 433,163 421,163 409,159 333,159 251,162 174,161" />
+				<Baseline points="174,162 524,156" />
+				<TextEquiv index="1">
+					<Unicode>Steinle. F: C. H. Drey. M: 27.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="174,170 191,170 195,187 215,170 253,168 264,168 266,183 285,170 326,167 332,167 333,173 349,173 350,182 371,168 420,167 432,172 442,160 455,160 455,166 467,164 504,165 525,170 525,183 485,182 483,188 467,188 455,183 455,194 442,194 432,183 270,187 239,186 198,189 174,187" />
+				<Baseline points="174,187 525,182" />
+				<TextEquiv index="1">
+					<Unicode>G: 1887. Octbr. 1897: 10jähr.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="174,196 200,195 205,195 249,200 270,200 277,196 287,196 287,212 263,211 263,217 251,217 213,214 174,213" />
+				<Baseline points="174,214 287,212" />
+				<TextEquiv index="1">
+					<Unicode>Stiftungsf.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l3" points="162,228 186,227 199,227 238,227 276,231 280,242 307,226 324,226 328,232 338,232 339,226 386,225 403,225 428,227 455,225 462,223 494,223 502,229 526,229 526,240 514,241 466,242 428,247 406,247 397,242 350,244 328,244 307,243 285,250 276,251 263,251 252,248 185,249 162,249" baseline="162,249 307,245 433,241 526,240" reason: differs: "Olde" against "====" | Wikisource:  | next_nc_e1: Oldenburg, Grh. Vtg: Olden- | german_print2_15: Oldenburg, Grh. Vtg: Olden- -->
+			<!-- line left out: id="r4l4" points="175,254 187,254 195,260 231,260 261,253 280,253 286,255 326,254 337,252 348,252 365,257 365,251 405,251 415,259 416,241 435,241 443,250 482,249 489,249 504,250 527,255 527,266 504,267 465,270 454,270 435,268 412,268 405,269 365,270 286,271 280,271 280,284 275,289 261,289 231,272 224,276 207,276 188,271 175,270" baseline="175,273 304,270 464,267 527,266" reason: second model: differs: "burg" against "Olde" | Wikisource: burg. Vtr: Carl Moroff, Bru | next_nc_e1: burg. Vtr: Carl Moroff, Bru- | german_print2_15: burg. Fir: Oarl Moroff, Bru- -->
+			<!-- line left out: id="r4l5" points="176,280 187,280 196,286 212,286 212,270 228,270 233,286 248,286 262,280 279,280 279,297 187,298 176,298" baseline="176,296 279,296" reason: second model: differs: "ders" against "f, B" | Wikisource: derstr. 2 | next_nc_e1: derstr. 2
+ | german_print2_15: derstr. 2²
+ -->
+			<TextLine id="r4l6" custom="readingOrder {index:6;}">
+				<Coords points="191,328 219,312 260,312 282,327 289,327 289,293 304,293 305,311 374,316 375,309 388,309 390,316 402,316 403,310 453,309 462,312 464,324 495,321 501,313 513,313 513,307 529,307 529,325 499,325 428,329 412,316 403,316 402,327 304,329 292,331 282,331 196,331 191,331" />
+				<Baseline points="191,330 495,324 529,325" />
+				<TextEquiv index="1">
+					<Unicode>. R-V „Germania“ (B). adr</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l7" points="181,341 185,341 191,354 212,339 227,339 231,346 256,345 262,344 273,344 292,337 295,337 363,336 378,336 383,342 396,342 449,334 455,334 457,349 477,334 494,334 503,340 528,340 528,351 494,352 461,354 378,354 326,354 292,341 273,355 227,356 181,356" baseline="181,356 212,355 528,351" reason: differs: ".F:.A.P" against "F: A. P" | Wikisource:  | next_nc_e1: 1. Vs u. F:. A. Par 1, Man-
+ | german_print2_15: 1. Vs u. F: A. Par I, Man-
+ -->
+			<TextEquiv index="1">
+				<Unicode>Steinle. F: C. H. Drey. M: 27.
+G: 1887. Octbr. 1897: 10jähr.
+Stiftungsf.
+. R-V „Germania“ (B). adr</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="402,341 449,341 449,383 402,383" />
+		</GraphicRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="170,359 542,359 542,1303 170,1303" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="178,365 189,365 192,372 204,368 236,370 237,380 257,363 273,363 282,369 307,369 322,368 344,364 455,361 458,367 500,366 511,359 529,359 529,377 307,380 240,383 237,383 178,382" />
+				<Baseline points="178,382 529,376" />
+				<TextEquiv index="1">
+					<Unicode>datar, Hamerstr. 5. 2. Vs u. F:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l1" custom="readingOrder {index:1;}">
+				<Coords points="185,391 195,391 199,397 225,396 227,406 256,390 273,389 276,398 287,398 289,389 301,389 303,396 339,395 359,386 368,386 391,388 393,394 418,394 420,386 444,386 452,392 482,392 500,388 515,388 520,391 527,400 530,400 530,404 527,404 515,394 515,404 444,404 339,408 273,407 225,412 212,412 185,408" />
+				<Baseline points="185,408 530,403" />
+				<TextEquiv index="1">
+					<Unicode>Aug. Meinen, Schneidermstr.,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l2" points="181,417 196,417 220,422 223,416 235,416 237,422 260,422 278,418 283,418 326,418 336,420 343,416 381,413 396,413 397,420 407,420 408,413 421,413 423,419 465,412 481,412 484,418 497,417 513,417 530,418 530,429 481,430 421,431 396,432 345,434 343,434 309,433 283,433 250,433 235,434 196,434 181,434" baseline="181,434 344,432 530,428" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: Nordwesterstr. Sch: Herm. | german_print2_15: Nordwesterstr. Sch: Herm. -->
+			<TextLine id="r6l3" custom="readingOrder {index:3;}">
+				<Coords points="179,446 189,444 237,443 263,449 268,458 297,441 334,441 368,446 369,455 404,438 429,438 429,444 440,444 440,438 456,438 460,445 482,445 489,440 506,440 531,443 531,455 441,456 374,459 343,458 272,461 268,461 179,459" />
+				<Baseline points="179,460 531,453" />
+				<TextEquiv index="1">
+					<Unicode>Stulken, Factor, Nordwester</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l4" custom="readingOrder {index:4;}">
+				<Coords points="180,471 190,469 203,469 281,474 297,468 358,466 362,481 383,465 409,464 415,464 424,467 470,464 501,464 519,469 531,470 531,483 460,482 205,486 203,499 190,499 187,485 180,485" />
+				<Baseline points="180,486 531,481" />
+				<TextEquiv index="1">
+					<Unicode>Chaussee 12. K: Fritz Oelken,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l5" points="235,494 253,494 261,504 267,504 271,494 286,494 287,501 299,499 324,494 339,494 364,498 365,507 398,491 415,491 438,496 449,497 452,490 463,490 465,496 476,496 477,490 490,489 496,489 498,496 508,493 524,493 531,495 531,509 523,509 496,507 449,508 369,511 324,511 286,511 271,511 261,506 260,512 235,512" baseline="235,511 398,508 531,506" reason: models differ | Wikisource: b.-beamter, Humboldstr. | next_nc_e1: b.-Beamter, Humboldstr. | german_print2_15: ab.-Beamter, Humboldstr. -->
+			<!-- line left out: id="r6l6" points="255,520 290,519 329,519 349,524 382,524 392,532 401,532 405,516 428,516 436,522 448,522 448,516 464,516 474,515 487,515 489,523 506,523 508,514 521,514 532,518 532,533 500,533 487,534 401,536 363,536 338,536 329,561 291,563 255,563" baseline="255,537 290,536 532,532" reason: differs: "1Ozu" against "29. " | Wikisource:  | next_nc_e1: 1 O zum „Lindenhof“. | german_print2_15: 504 zum „Lindenhof“. -->
+			<TextLine id="r6l7" custom="readingOrder {index:7;}">
+				<Coords points="298,561 316,546 344,545 359,550 373,543 469,543 471,558 490,541 507,541 532,541 532,558 301,563 298,563" />
+				<Baseline points="298,562 532,558" />
+				<TextEquiv index="1">
+					<Unicode>. Gw. G: 1895. VO:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l8" points="184,573 200,573 204,554 216,554 216,572 229,572 320,570 346,570 346,576 357,576 359,585 385,569 402,569 410,575 421,575 437,568 479,567 483,567 487,568 509,567 528,567 530,573 532,573 532,584 508,585 456,588 437,588 402,587 363,588 244,590 184,590" baseline="184,590 243,589 532,584" reason: differs: "RB.Tfa." against "B. bZ: " | Wikisource:  | next_nc_e1: DRB. Tfa. Ko. * 1897: | german_print2_15: PRB. 2 Tfa. Ko. π 1897: -->
+			<TextLine id="r6l9" custom="readingOrder {index:9;}">
+				<Coords points="184,598 251,599 253,606 266,604 328,602 329,596 340,596 340,614 221,616 184,616" />
+				<Baseline points="184,616 340,614" />
+				<TextEquiv index="1">
+					<Unicode>Mai Sommerf.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l10" custom="readingOrder {index:10;}">
+				<Coords points="170,636 200,636 217,624 277,622 284,622 294,623 296,629 319,629 319,622 331,622 332,628 342,624 359,624 392,628 392,639 200,643 188,643 187,637 170,637" />
+				<Baseline points="170,643 392,639" />
+				<TextEquiv index="1">
+					<Unicode>—. R-V Nordstern.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l11" custom="readingOrder {index:11;}">
+				<Coords points="172,668 180,668 201,672 218,656 233,656 236,667 242,667 247,656 326,654 326,660 338,660 345,654 362,654 427,659 439,653 513,651 534,651 534,668 519,669 509,673 447,670 427,673 415,673 409,670 394,677 371,677 326,673 233,674 197,676 180,670 172,670" />
+				<Baseline points="172,675 534,668" />
+				<TextEquiv index="1">
+					<Unicode>—. R-V Oldenburg v. 1884 (B)</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l12" custom="readingOrder {index:12;}">
+				<Coords points="183,689 195,689 196,683 207,683 210,689 245,684 249,697 270,681 383,679 385,685 399,685 406,679 427,679 451,684 454,693 477,677 503,677 505,683 523,683 525,691 534,691 534,695 218,701 195,701 183,701" />
+				<Baseline points="183,701 534,694" />
+				<TextEquiv index="1">
+					<Unicode>adr 1. Vs: E. Winkler, Kfm.,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l13" custom="readingOrder {index:13;}">
+				<Coords points="186,709 192,709 196,715 253,714 254,710 274,710 285,714 286,723 307,709 334,708 335,721 367,707 380,707 380,720 403,704 450,703 503,703 505,709 535,709 535,721 453,722 450,710 435,722 274,726 253,731 228,731 214,727 186,726" />
+				<Baseline points="186,726 535,720" />
+				<TextEquiv index="1">
+					<Unicode>Langestr. 53. 2. W. Tebben-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l14" custom="readingOrder {index:14;}">
+				<Coords points="185,742 204,741 205,735 217,735 218,742 258,739 280,739 283,748 307,733 322,733 323,739 335,739 336,732 365,731 378,732 379,738 392,737 397,733 413,733 418,745 438,732 455,732 481,735 483,729 505,729 531,730 532,743 535,743 535,746 422,750 307,751 288,757 283,757 256,752 217,753 197,757 185,757" />
+				<Baseline points="185,751 535,746" />
+				<TextEquiv index="1">
+					<Unicode>johannes, Fabrikant, Markt 3.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l15" points="189,762 194,762 200,776 219,761 233,761 234,767 244,767 245,760 256,760 259,766 284,760 293,759 325,758 342,757 354,757 362,763 380,763 392,764 409,757 438,757 438,732 455,732 455,762 467,761 506,761 506,754 535,754 535,773 500,773 500,779 485,779 485,773 455,774 392,777 380,777 340,776 296,777 263,778 189,778" baseline="189,779 202,778 409,774 535,772" reason: differs: "1.Sch" against "1 Sch:" | Wikisource:  | next_nc_e1: 1. Sch: G. Eiben, eſnreen | german_print2_15: 1. Sch: G. Eiben, argol -->
+			<TextLine id="r6l16" custom="readingOrder {index:16;}">
+				<Coords points="187,787 202,787 204,793 222,793 222,786 302,786 314,791 315,800 336,785 372,785 374,799 403,784 416,784 417,797 430,789 451,782 489,781 515,781 535,786 535,798 278,804 258,804 236,804 187,804" />
+				<Baseline points="187,804 535,797" />
+				<TextEquiv index="1">
+					<Unicode>Nadorferstr. 104. 2.: D. Ger-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l17" custom="readingOrder {index:17;}">
+				<Coords points="186,813 197,813 199,819 221,819 235,823 245,811 287,811 288,817 312,817 317,826 348,810 356,810 365,816 376,816 377,809 403,808 416,811 453,813 476,806 491,806 498,812 531,812 537,817 537,820 532,820 531,829 510,829 491,825 443,826 431,831 418,831 356,828 322,830 186,830" />
+				<Baseline points="186,830 537,824" />
+				<TextEquiv index="1">
+					<Unicode>des-Röben, Leibjäger Zeug-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l18" custom="readingOrder {index:18;}">
+				<Coords points="186,839 198,839 200,845 235,843 246,840 299,836 316,836 319,842 342,836 454,834 466,839 466,849 485,833 503,833 536,838 536,845 526,849 470,853 407,852 271,856 234,856 186,856" />
+				<Baseline points="186,856 536,849" />
+				<TextEquiv index="1">
+					<Unicode>hausstr. K: W. Köhler, Auc-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l19" custom="readingOrder {index:19;}">
+				<Coords points="186,868 197,864 207,864 216,870 249,866 273,869 277,878 309,862 360,864 485,860 490,876 518,858 537,858 537,875 493,879 477,877 435,884 433,884 433,878 399,878 397,884 385,884 360,879 282,882 186,882" />
+				<Baseline points="186,883 434,877 537,876" />
+				<TextEquiv index="1">
+					<Unicode>tionator, Gottorpstr. 1. F:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l20" custom="readingOrder {index:20;}">
+				<Coords points="188,891 204,891 235,896 235,905 258,889 345,894 351,903 376,887 404,886 404,892 417,892 417,886 429,886 433,900 459,887 483,885 497,885 538,889 538,897 529,902 437,907 392,905 322,907 235,912 213,912 188,908" />
+				<Baseline points="188,908 538,901" />
+				<TextEquiv index="1">
+					<Unicode>Aug. Dittmer, Kfm., Ofener-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l21" custom="readingOrder {index:21;}">
+				<Coords points="188,926 197,926 199,920 218,922 219,932 237,917 263,917 264,931 295,916 308,916 310,930 327,920 341,920 343,929 361,913 376,913 378,919 414,919 432,912 466,911 485,911 538,915 538,928 508,933 493,933 485,929 455,931 392,930 391,936 378,936 346,932 268,934 188,934" />
+				<Baseline points="188,934 538,927" />
+				<TextEquiv index="1">
+					<Unicode>str. 26. 2. u. Zgw: H. Meyer,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l22" points="188,942 205,942 214,945 252,948 275,941 281,941 285,947 318,946 332,946 357,943 364,943 377,945 378,954 403,940 416,939 428,939 430,953 461,937 487,937 514,936 533,936 533,953 487,955 433,956 364,958 332,961 252,963 217,963 214,986 188,986" baseline="188,960 403,956 486,954 533,953" reason: differs: "KsmLang" against "Kfm., L" | Wikisource:  | next_nc_e1: Kſm Langestr. 22. M: 65 | german_print2_15: Pein Langestr. 22. M: 65 -->
+			<TextLine id="r6l23" custom="readingOrder {index:23;}">
+				<Coords points="234,968 240,968 240,957 258,957 265,969 313,966 341,966 343,972 375,971 376,965 411,963 411,979 431,963 454,963 455,969 473,969 489,962 507,962 508,969 519,969 529,963 539,963 539,979 341,984 320,986 286,986 265,986 240,986 234,986" />
+				<Baseline points="234,986 539,978" />
+				<TextEquiv index="1">
+					<Unicode>Hotel Kaiserhof. Cla: Do 9</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l24" points="252,994 288,993 296,993 338,994 339,1007 365,991 420,990 427,990 431,996 442,996 450,990 461,990 474,995 475,988 488,988 494,994 505,994 506,988 531,988 539,993 539,1011 518,1011 488,1007 442,1008 408,1009 395,1009 375,1008 343,1010 312,1011 262,1011 252,1010" baseline="252,1011 365,1008 407,1007 539,1006" reason: second model has no such line | Wikisource: G: 1884. VO: Lokalzeitg. | next_nc_e1: G: 1884. VO: Lokalzeitg. | german_print2_15:  -->
+			<!-- line left out: id="r6l25" points="189,1026 201,1026 203,1036 224,1020 241,1019 252,1019 254,1026 266,1022 274,1022 289,1025 290,1036 310,1023 348,1023 348,1037 289,1042 275,1042 239,1038 189,1038" baseline="189,1038 224,1037 348,1037" reason: hyphen at the line end, but the word ends in Wikisource | Wikisource:  | next_nc_e1: u. Bdztg. = | german_print2_15:  -->
+			<TextLine id="r6l26" custom="readingOrder {index:26;}">
+				<Coords points="177,1064 202,1064 207,1069 223,1055 250,1052 275,1052 276,1058 290,1058 291,1067 319,1051 336,1051 338,1061 346,1061 349,1050 366,1050 391,1056 408,1056 433,1049 502,1048 513,1046 519,1046 536,1047 539,1062 541,1062 541,1064 536,1069 502,1069 470,1066 291,1069 290,1075 276,1075 275,1069 248,1071 204,1071 177,1066" />
+				<Baseline points="177,1071 541,1063" />
+				<TextEquiv index="1">
+					<Unicode>—. Oldbg. R-V v. 1886 (B).</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l27" custom="readingOrder {index:27;}">
+				<Coords points="189,1086 201,1086 202,1079 214,1079 217,1085 225,1085 252,1079 259,1079 263,1094 292,1078 322,1077 324,1083 351,1076 366,1076 368,1082 380,1082 381,1076 425,1075 427,1086 436,1081 466,1080 467,1073 479,1073 481,1079 513,1079 514,1073 526,1073 541,1074 541,1094 527,1094 513,1091 201,1097 189,1097" />
+				<Baseline points="189,1096 541,1090" />
+				<TextEquiv index="1">
+					<Unicode>adr 1. Vs: Jul Lambrecht,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l28" points="192,1105 198,1105 202,1111 216,1107 226,1104 238,1104 240,1119 244,1119 254,1120 276,1104 286,1102 300,1102 303,1109 314,1109 315,1102 327,1102 328,1109 354,1108 364,1104 374,1104 385,1107 385,1117 410,1102 423,1101 476,1100 517,1098 541,1098 541,1116 441,1119 423,1119 389,1120 374,1120 353,1121 254,1123 213,1123 202,1123 192,1122" baseline="192,1123 276,1121 476,1117 517,1116 541,1116" reason: differs: "6.2.D." against " 2 D. O" | Wikisource:  | next_nc_e1: Lith., Lindenstr. 66. 2. D. | german_print2_15: Lith., Lindenstr. 66. 2. D. -->
+			<TextLine id="r6l29" custom="readingOrder {index:29;}">
+				<Coords points="190,1133 227,1132 251,1136 252,1130 278,1130 278,1136 284,1136 289,1145 322,1128 340,1128 347,1134 362,1129 378,1129 396,1133 398,1142 412,1143 440,1125 447,1125 459,1126 459,1132 499,1131 506,1130 516,1125 525,1125 541,1130 541,1142 440,1144 412,1151 407,1151 402,1145 294,1149 190,1147" />
+				<Baseline points="190,1147 541,1142" />
+				<TextEquiv index="1">
+					<Unicode>Osterloh, Kaufm., Rosenstr.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l30" custom="readingOrder {index:30;}">
+				<Coords points="193,1158 201,1158 206,1171 225,1156 240,1156 242,1165 248,1165 252,1156 258,1156 259,1162 270,1162 286,1155 324,1154 355,1154 390,1159 391,1168 411,1153 438,1152 457,1153 466,1167 484,1151 499,1151 519,1151 540,1156 540,1167 499,1169 470,1173 429,1171 309,1173 270,1175 259,1175 193,1174" />
+				<Baseline points="193,1174 540,1167" />
+				<TextEquiv index="1">
+					<Unicode>1. Sch: R. Kruse, Kfm , Stau-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l31" custom="readingOrder {index:31;}">
+				<Coords points="191,1188 202,1185 223,1188 223,1197 245,1183 258,1183 260,1196 279,1181 296,1181 299,1195 315,1180 332,1180 333,1186 384,1185 384,1194 403,1179 466,1177 485,1178 498,1183 499,1176 519,1176 520,1182 530,1182 531,1191 542,1191 542,1200 531,1200 530,1194 412,1197 388,1201 384,1201 365,1198 191,1200" />
+				<Baseline points="191,1200 403,1197 542,1193" />
+				<TextEquiv index="1">
+					<Unicode>str. 2. H. Nonne, Buchhändlr.,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l32" custom="readingOrder {index:32;}">
+				<Coords points="193,1207 209,1207 209,1213 221,1209 271,1210 284,1212 286,1207 346,1205 349,1211 393,1217 393,1205 450,1203 453,1219 480,1202 489,1202 499,1205 542,1208 542,1220 526,1225 512,1225 456,1222 288,1225 242,1225 209,1225 193,1224" />
+				<Baseline points="193,1225 542,1220" />
+				<TextEquiv index="1">
+					<Unicode>Peterstr. K: J. H. Oege,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l33" custom="readingOrder {index:33;}">
+				<Coords points="193,1233 220,1233 239,1238 246,1232 262,1232 263,1238 275,1234 296,1233 307,1237 308,1247 328,1232 354,1231 367,1236 377,1230 391,1230 391,1236 402,1236 409,1230 465,1232 481,1235 497,1229 506,1229 509,1243 522,1228 542,1228 542,1245 402,1249 274,1250 239,1255 232,1255 193,1250" />
+				<Baseline points="193,1250 542,1245" />
+				<TextEquiv index="1">
+					<Unicode>Proprietär, Alexanderstr. 1. F:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l34" custom="readingOrder {index:34;}">
+				<Coords points="192,1257 216,1258 216,1264 228,1264 242,1258 275,1258 312,1263 315,1272 339,1256 369,1256 369,1262 386,1262 388,1270 402,1270 420,1254 428,1254 484,1254 500,1254 536,1260 542,1264 542,1266 538,1266 536,1277 522,1277 521,1271 460,1273 428,1277 380,1274 288,1280 274,1280 192,1274" />
+				<Baseline points="192,1275 542,1271" />
+				<TextEquiv index="1">
+					<Unicode>Th. Meyer, Kfm., Schüttling-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l35" points="192,1289 204,1285 221,1285 237,1283 250,1283 261,1288 274,1281 291,1281 294,1296 308,1282 325,1282 328,1288 338,1287 349,1287 385,1287 396,1281 426,1281 426,1287 443,1287 444,1295 456,1295 467,1280 484,1280 485,1286 497,1285 503,1284 525,1284 536,1285 542,1289 542,1292 536,1297 525,1297 525,1303 503,1303 496,1298 456,1303 444,1303 423,1299 385,1303 368,1303 364,1299 349,1300 256,1300 229,1301 203,1301 192,1301" baseline="192,1301 228,1300 542,1297" reason: differs: ".2.;H.G" against " 2.: H." | Wikisource:  | next_nc_e1: str. 2.; H. Grewe, Kfm., Lange-
+ | german_print2_15: str. 2.: H. Grewe, Kfm., Lange-
+ -->
+			<TextEquiv index="1">
+				<Unicode>datar, Hamerstr. 5. 2. Vs u. F:
+Aug. Meinen, Schneidermstr.,
+Stulken, Factor, Nordwester
+Chaussee 12. K: Fritz Oelken,
+. Gw. G: 1895. VO:
+Mai Sommerf.
+—. R-V Nordstern.
+—. R-V Oldenburg v. 1884 (B)
+adr 1. Vs: E. Winkler, Kfm.,
+Langestr. 53. 2. W. Tebben-
+johannes, Fabrikant, Markt 3.
+Nadorferstr. 104. 2.: D. Ger-
+des-Röben, Leibjäger Zeug-
+hausstr. K: W. Köhler, Auc-
+tionator, Gottorpstr. 1. F:
+Aug. Dittmer, Kfm., Ofener-
+str. 26. 2. u. Zgw: H. Meyer,
+Hotel Kaiserhof. Cla: Do 9
+—. Oldbg. R-V v. 1886 (B).
+adr 1. Vs: Jul Lambrecht,
+Osterloh, Kaufm., Rosenstr.
+1. Sch: R. Kruse, Kfm , Stau-
+str. 2. H. Nonne, Buchhändlr.,
+Peterstr. K: J. H. Oege,
+Proprietär, Alexanderstr. 1. F:
+Th. Meyer, Kfm., Schüttling-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r7">
+			<Coords points="301,441 333,441 333,458 301,458" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="181,495 276,495 276,567 181,567" />
+		</GraphicRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="580,111 931,111 931,206 580,206" />
+			<!-- line left out: id="r9l0" points="641,111 653,111 653,122 641,122" baseline="641,122 653,122" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: .
+ | german_print2_15: .
+ -->
+			<!-- line left out: id="r9l1" points="580,143 591,139 598,139 610,143 612,152 630,136 651,136 657,150 679,134 731,134 745,135 745,147 769,132 815,131 845,131 847,137 864,137 864,131 874,131 885,136 896,129 912,129 915,135 923,135 923,143 912,147 885,148 866,149 798,150 749,151 704,153 615,154 598,155 580,155" baseline="580,155 614,154 769,150 896,147 923,147" reason: differs: "str." against "Laug" | Wikisource:  | next_nc_e1: str. 41. M: 40. Ol: Eiler's Re
+ | german_print2_15: str. 441. M: 40. Cl: Eiler's Re
+ -->
+			<!-- line left out: id="r9l2" points="580,169 591,164 600,164 637,168 638,177 657,162 668,160 680,160 683,175 701,160 717,159 755,159 757,174 776,158 793,158 798,164 819,164 842,158 851,157 878,156 884,156 931,156 931,173 923,174 901,174 819,176 761,177 727,177 680,178 642,180 625,180 600,181 580,181" baseline="580,181 701,177 865,173 931,173" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: staur. Cl: Sd 9. Gw. G: 1886. | german_print2_15: staur. Cl: Sd 9. Gw. G: 1886. -->
+			<TextLine id="r9l3" custom="readingOrder {index:3;}">
+				<Coords points="621,188 628,187 639,187 639,193 655,193 655,205 639,206 621,206" />
+				<Baseline points="621,206 655,204" />
+				<TextEquiv index="1">
+					<Unicode>Ee.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Ee.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="570,210 937,210 937,362 570,362" />
+			<TextLine id="r10l0" custom="readingOrder {index:0;}">
+				<Coords points="570,226 595,226 600,230 617,214 660,213 713,218 730,212 770,210 801,210 814,211 816,224 819,224 819,228 787,230 685,230 600,233 570,229" />
+				<Baseline points="570,234 676,230 819,228" />
+				<TextEquiv index="1">
+					<Unicode>—. R-V von 1894/ 95.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l1" custom="readingOrder {index:1;}">
+				<Coords points="572,251 595,251 601,256 617,240 699,238 701,244 725,244 727,237 738,237 740,243 761,243 762,237 777,237 807,238 807,254 597,259 595,253 572,253" />
+				<Baseline points="572,260 656,256 807,254" />
+				<TextEquiv index="1">
+					<Unicode>—. RC. Wanderlust.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r10l2" points="571,266 585,266 612,266 623,265 639,265 663,265 688,268 690,280 717,264 735,263 776,263 782,262 794,262 794,268 834,264 851,264 889,261 896,261 928,260 936,260 936,274 925,276 896,277 876,279 851,279 816,280 784,281 751,281 734,282 695,285 676,285 655,286 639,287 598,287 571,287" baseline="571,288 694,283 717,282 750,281 761,281 875,277 936,275" reason: differs: "Schw" against "====" | Wikisource:  | next_nc_e1: Schwartau. RC Schwartau 1895 | german_print2_15: Schwartau. RC Schwartau 1895. -->
+			<TextLine id="r10l3" custom="readingOrder {index:3;}">
+				<Coords points="584,297 595,292 677,290 681,290 685,296 700,296 724,290 735,289 747,289 748,296 759,296 775,288 795,288 803,294 823,294 847,287 862,287 879,289 903,288 935,291 935,305 903,304 795,306 700,310 685,310 676,307 666,307 624,313 590,313 584,313" />
+				<Baseline points="584,309 935,302" />
+				<TextEquiv index="1">
+					<Unicode>(B). Vs: Ch. Mor. Straten,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l4" custom="readingOrder {index:4;}">
+				<Coords points="587,318 602,318 607,325 626,323 643,319 698,319 713,322 716,331 743,315 775,315 788,320 800,313 856,313 867,318 869,312 874,312 876,318 914,317 914,310 929,310 934,327 937,327 937,331 888,330 698,334 680,335 666,339 653,339 625,336 587,336" />
+				<Baseline points="587,336 937,328" />
+				<TextEquiv index="1">
+					<Unicode>Kunstgärtn. Sch: W. Schmidt,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r10l5" custom="readingOrder {index:5;}">
+				<Coords points="586,344 615,344 615,350 632,350 634,359 666,342 747,339 757,341 757,348 769,343 797,346 803,339 808,339 809,347 819,347 820,339 832,339 834,355 853,338 878,338 878,344 902,344 902,338 912,338 913,344 929,344 936,347 936,349 929,354 902,356 860,356 838,359 819,358 632,362 586,362" />
+				<Baseline points="586,362 936,354" />
+				<TextEquiv index="1">
+					<Unicode>Kfm. K: E Peterich, Drechs-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>—. R-V von 1894/ 95.
+—. RC. Wanderlust.
+(B). Vs: Ch. Mor. Straten,
+Kunstgärtn. Sch: W. Schmidt,
+Kfm. K: E Peterich, Drechs-</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="586,364 938,364 938,440 586,440" />
+			<!-- line left out: id="r11l0" points="586,371 591,371 593,378 605,376 634,376 645,378 646,371 653,371 671,375 768,366 784,366 788,381 820,365 845,364 857,364 871,365 937,369 937,381 911,381 857,382 844,383 784,384 653,387 628,388 586,388" baseline="586,388 790,383 937,380" reason: differs: "tr.K.He" against "r. F: K" | Wikisource:  | next_nc_e1: lermstr. K. Heidmann, | german_print2_15: lermstr. K. Heidmann, -->
+			<!-- line left out: id="r11l1" points="586,397 605,396 618,396 619,402 630,402 666,394 771,392 788,392 791,399 818,391 828,390 841,390 855,392 869,396 871,390 891,389 908,389 918,395 938,395 938,400 929,400 929,406 869,408 794,412 780,412 691,412 603,415 586,415" baseline="586,414 793,408 874,406 938,405" reason: differs: "KfmM" against "mann" | Wikisource:  | next_nc_e1: Kfm M: COl: Hotel Ger- | german_print2_15: Kfm M: Cl. Hotel Ger- -->
+			<!-- line left out: id="r11l2" points="586,429 611,428 623,428 625,421 637,421 683,420 742,419 764,419 786,424 798,425 815,418 821,418 826,432 846,422 859,422 862,431 884,417 904,417 904,433 889,433 864,434 798,436 648,440 646,440 637,439 623,440 586,440" baseline="586,440 647,438 683,437 863,433 904,432" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: mania. Cla: Di n. 1. u. 15.
+ | german_print2_15: mania. Cla: Di n. 1. u. 15. ]
+ -->
+		</TextRegion>
+		<GraphicRegion id="r12">
+			<Coords points="691,363 736,363 736,440 691,440" />
+		</GraphicRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="748,441 939,441 939,490 748,490" />
+			<TextLine id="r13l0" custom="readingOrder {index:0;}">
+				<Coords points="748,446 797,445 798,459 825,443 881,441 925,441 939,442 939,459 784,462 754,462 748,462" />
+				<Baseline points="748,462 939,459" />
+				<TextEquiv index="1">
+					<Unicode>1895. VO: DRB.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r13l1" points="782,470 796,468 824,468 866,468 905,467 915,466 920,466 923,474 938,474 938,486 923,486 915,483 905,483 873,490 848,490 841,490 810,487 782,487" baseline="782,487 823,485 938,483" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: R-V (B). Vs:
+ | german_print2_15: R-V (B). Vs:
+ -->
+			<TextEquiv index="1">
+				<Unicode>1895. VO: DRB.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="573,445 752,445 752,497 573,497" />
+			<!-- line left out: id="r14l0" points="588,449 598,448 613,448 617,454 627,454 630,462 648,447 665,447 669,453 682,453 687,461 706,445 715,445 729,446 729,462 691,464 665,464 633,465 613,466 588,466" baseline="588,466 632,464 706,462 729,462" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Mts. Gw. G: | german_print2_15: Mts. Gw. G: -->
+			<!-- line left out: id="r14l1" points="573,474 584,473 598,473 634,473 635,488 655,474 666,472 682,471 694,471 695,479 708,478 714,471 727,471 734,477 752,477 752,492 734,492 727,489 694,489 681,490 655,490 640,497 622,497 598,497 584,497 573,494" baseline="573,490 639,488 752,487" reason: differs: "Vare" against "====" | Wikisource:  | next_nc_e1: Varel, Oldenbg.
+ | german_print2_15: Varel, Oldenbg.
+ -->
+		</TextRegion>
+		<GraphicRegion id="r15">
+			<Coords points="761,535 785,535 785,541 761,541" />
+		</GraphicRegion>
+		<TextRegion id="r16" custom="readingOrder {index:16;} orientation {0;}">
+			<Coords points="579,493 942,493 942,647 579,647" />
+			<!-- line left out: id="r16l0" points="587,502 598,500 644,500 652,505 660,498 675,498 677,504 691,503 727,503 732,511 759,496 779,495 793,495 793,501 809,501 810,510 824,510 848,493 870,493 870,499 902,495 920,495 932,498 932,510 895,510 882,511 815,513 766,514 736,518 732,518 718,515 705,514 704,520 691,520 660,516 652,522 646,522 598,517 587,516" baseline="587,518 611,517 848,511 932,509" reason: models differ | Wikisource: G. Springer, Fabr., Neuestr | next_nc_e1: G. Springer, Fabr., Neuestr | german_print2_15: G. Springer, Fabr., Neuestr. -->
+			<TextLine id="r16l1" custom="readingOrder {index:1;}">
+				<Coords points="587,526 620,526 621,532 631,532 649,525 715,525 728,522 740,522 742,528 760,528 760,522 825,521 837,526 844,535 864,519 880,519 881,525 937,525 937,531 921,534 920,541 785,539 762,545 760,545 760,537 742,536 740,545 728,545 707,541 620,544 587,543" />
+				<Baseline points="587,544 671,541 937,536" />
+				<TextEquiv index="1">
+					<Unicode>Sch: H. Plönjes, Fabr., Lange-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r16l2" points="588,558 599,554 606,554 653,551 662,550 739,548 747,547 763,547 763,554 780,554 781,548 789,547 802,547 810,553 826,553 826,547 857,546 868,545 888,545 918,546 940,546 940,562 888,565 868,565 857,563 828,571 826,571 810,569 802,565 789,565 780,571 747,571 711,567 667,568 664,568 624,570 606,570 588,570" baseline="588,570 653,568 857,563 911,562 940,562" reason: differs: ".F:.A.E" against "F: A. E" | Wikisource:  | next_nc_e1: str. F:. A. Egeling. M: 22. | german_print2_15: str. F. A. Egeling. M: 22. -->
+			<TextLine id="r16l3" custom="readingOrder {index:3;}">
+				<Coords points="589,580 600,578 668,577 680,577 681,590 684,590 684,593 639,595 631,595 589,594" />
+				<Baseline points="589,594 684,593" />
+				<TextEquiv index="1">
+					<Unicode>G. 1882.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r16l4" custom="readingOrder {index:4;}">
+				<Coords points="579,614 602,614 609,619 639,603 667,601 683,601 702,613 709,600 715,600 718,607 735,607 736,600 774,601 811,605 812,598 852,597 867,597 876,601 878,612 909,602 926,602 926,595 942,595 942,613 909,614 876,620 868,620 852,615 849,621 842,621 811,617 735,619 707,618 609,621 605,621 579,616" />
+				<Baseline points="579,621 942,613" />
+				<TextEquiv index="1">
+					<Unicode>—. R-V Jadestrand (B). adr</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r16l5" custom="readingOrder {index:5;}">
+				<Coords points="592,630 607,630 612,636 626,636 643,628 668,628 708,633 725,626 756,625 757,632 792,631 792,625 817,623 850,623 850,630 863,630 865,637 897,623 920,622 931,622 932,628 941,628 941,639 794,644 767,643 626,647 612,647 592,646" />
+				<Baseline points="592,647 941,639" />
+				<TextEquiv index="1">
+					<Unicode>Vs: Herm. Eilers, Kfm. Sch:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Sch: H. Plönjes, Fabr., Lange-
+G. 1882.
+—. R-V Jadestrand (B). adr
+Vs: Herm. Eilers, Kfm. Sch:</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r17" custom="readingOrder {index:17;} orientation {0;}">
+			<Coords points="591,636 942,636 942,725 591,725" />
+			<TextLine id="r17l0" custom="readingOrder {index:0;}">
+				<Coords points="592,656 611,656 623,636 631,636 631,654 647,654 648,661 709,658 734,659 748,651 777,651 777,657 799,657 815,650 827,650 829,666 850,648 873,648 876,665 899,648 920,648 920,654 941,654 941,662 920,665 880,667 631,673 592,673" />
+				<Baseline points="592,673 941,664" />
+				<TextEquiv index="1">
+					<Unicode>F. Biermann, Kfm. b. W. Pre-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r17l1" custom="readingOrder {index:1;}">
+				<Coords points="591,688 613,687 615,681 627,681 628,687 641,687 643,695 675,679 681,678 799,677 835,681 837,689 858,674 873,674 910,680 926,673 931,673 933,680 942,680 942,691 627,699 591,699" />
+				<Baseline points="591,699 942,690" />
+				<TextEquiv index="1">
+					<Unicode>suhn. K: P. Folkens, Kfm. b.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r17l2" custom="readingOrder {index:2;}">
+				<Coords points="591,707 646,706 649,712 657,711 668,706 681,706 694,711 695,719 729,705 736,705 740,718 764,703 780,703 780,709 806,703 817,702 871,701 873,707 884,707 885,700 897,700 905,707 918,705 941,705 941,718 646,725 591,725" />
+				<Baseline points="591,726 764,720 941,717" />
+				<TextEquiv index="1">
+					<Unicode>F. Miehe. 1. F: G. Meiners,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>F. Biermann, Kfm. b. W. Pre-
+suhn. K: P. Folkens, Kfm. b.
+F. Miehe. 1. F: G. Meiners,</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r18">
+			<Coords points="696,762 733,762 733,800 696,800" />
+		</GraphicRegion>
+		<GraphicRegion id="r19">
+			<Coords points="712,801 736,801 736,805 712,805" />
+		</GraphicRegion>
+		<TextRegion id="r20" custom="readingOrder {index:20;} orientation {0;}">
+			<Coords points="581,727 946,727 946,983 581,983" />
+			<!-- line left out: id="r20l0" points="592,733 609,733 617,734 637,739 667,731 673,731 691,736 693,730 741,730 771,734 772,744 800,728 807,727 817,727 817,733 831,733 832,727 865,727 886,732 887,741 925,727 941,727 941,743 925,743 886,749 872,749 832,745 831,751 817,751 807,746 771,751 750,751 691,749 637,751 609,751 592,751" baseline="592,751 724,747 774,746 925,743 941,743" reason: differs: "KsmbeiA" against "Kfm. be" | Wikisource:  | next_nc_e1: Kſm bei Aug. Egeling. 2. | german_print2_15: Kifm, bei Aug. Egeling. 2. -->
+			<!-- line left out: id="r20l1" points="593,759 609,759 618,758 646,757 653,757 662,758 676,756 688,756 730,755 745,755 776,755 789,756 801,760 802,754 813,754 824,756 847,759 847,767 873,752 898,752 925,753 944,753 944,770 934,770 925,769 898,770 847,772 801,772 753,773 696,775 675,775 653,775 630,776 609,776 593,776" baseline="593,776 730,772 912,768 944,767" reason: second model: differs: "Ad.B" against "g. 2" | Wikisource: Ad. Bäker, Schlächter. M: 26. | next_nc_e1: Ad. Bäker, Schlächter. M: 26. | german_print2_15: Ad. Bäker, Schläüchter. M: 26. -->
+			<!-- line left out: id="r20l2" points="592,785 614,785 617,791 637,784 654,784 656,791 668,789 688,788 704,784 731,784 742,787 755,780 779,780 797,779 814,779 816,796 834,778 858,778 859,784 871,784 893,778 900,778 904,793 920,777 934,777 935,784 944,784 944,794 934,795 907,796 875,796 851,797 820,800 816,800 779,798 731,801 680,801 654,801 608,803 592,803" baseline="592,803 619,802 637,802 741,798 893,795 944,794" reason: second model: differs: "CI:D" against ": 26" | Wikisource: Cl: Domsky’s Hotel. Cla: 1. So | next_nc_e1: Ol: Domsky’s Hotel. Ola: 1. So | german_print2_15: CI: Domsky's Hotel. Cla: 1. So -->
+			<!-- line left out: id="r20l3" points="591,811 597,811 599,828 619,810 637,810 648,812 650,825 669,809 686,809 713,814 740,808 750,807 804,806 830,806 832,821 834,821 834,823 788,824 751,825 686,827 637,828 602,830 599,830 591,829" baseline="591,830 601,829 619,828 669,826 740,824 834,823" reason: differs: "w.G.189" against " G 1891" | Wikisource:  | next_nc_e1: i. Mt. Gw. G. 1894.
+ | german_print2_15: i. Mt. Gw. G. 1894.
+ -->
+			<!-- line left out: id="r20l4" points="581,846 609,846 625,836 653,834 698,833 705,833 707,840 719,839 741,839 741,833 746,833 779,832 793,832 801,835 803,846 838,831 871,830 888,830 905,835 922,829 943,829 943,847 905,849 890,849 883,847 801,852 774,853 768,853 741,852 707,852 698,851 669,852 650,853 632,854 609,855 594,855 594,849 581,849" baseline="581,854 668,852 838,848 943,846" reason: differs: "—.R-" against "1. —" | Wikisource:  | next_nc_e1: —. R-V Varel (B). 1. Vs. R. | german_print2_15: —. R-V Varel (B). 1. Vs. R. -->
+			<!-- line left out: id="r20l5" points="593,862 633,862 672,866 673,875 694,860 705,859 718,859 718,865 735,864 746,864 748,858 759,858 810,859 817,863 832,857 872,855 878,855 880,861 942,861 942,873 842,875 810,875 759,877 746,877 678,881 673,881 659,879 633,880 621,881 603,881 593,880" baseline="593,880 694,877 872,873 942,872" reason: differs: "Mein" against "s: R" | Wikisource:  | next_nc_e1: Meinen, Varel. 2.: C. Luers | german_print2_15: Meinen, Varel. 2.: C. Luers- -->
+			<!-- line left out: id="r20l6" points="593,894 616,893 628,893 630,902 656,886 676,885 686,885 686,891 703,891 706,898 736,884 744,884 768,884 770,890 780,890 809,892 809,883 820,883 855,888 871,881 878,881 887,882 914,880 935,880 935,886 944,886 944,903 925,903 914,903 898,899 855,904 836,904 780,903 770,903 760,902 744,903 703,903 673,904 634,906 593,906" baseline="593,906 708,902 803,900 944,897" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: sen, Kfm. Sch: Aug. Brötje, | german_print2_15: sen, Kfm. Sch: Aug. Brötje, -->
+			<!-- line left out: id="r20l7" points="594,913 623,913 623,919 639,919 685,911 702,911 705,918 737,911 790,909 838,909 865,914 894,907 919,907 921,913 933,912 946,912 946,924 901,925 865,927 795,927 760,928 708,929 639,931 612,932 594,932" baseline="594,932 638,930 737,927 790,926 864,925 946,924" reason: differs: "KfmK:G." against "Kfm. K:" | Wikisource:  | next_nc_e1: Kfm K: G. Bluhm, Kfm. | german_print2_15: Kfm K: G. Bluhm, Kfm. -->
+			<!-- line left out: id="r20l8" points="597,941 603,941 607,955 628,939 643,939 644,945 669,938 708,937 747,936 767,935 783,935 785,941 806,941 812,950 837,934 865,934 865,940 876,939 916,934 935,934 946,939 946,950 889,952 816,954 812,954 795,953 783,954 767,954 758,953 729,955 677,956 643,957 611,958 597,958" baseline="597,958 690,955 728,954 815,952 946,950" reason: second model: differs: "1.F." against "Kfm." | Wikisource: 1. F: C. D. Vries, Kfm. 2.: | next_nc_e1: 1. F: C. D. Vries, Kfm. 2.: | german_print2_15: 1. F. C. D. Vries, Kfm. 2.: -->
+			<TextLine id="r20l9" custom="readingOrder {index:9;}">
+				<Coords points="596,966 613,966 616,981 638,965 687,963 687,969 718,969 720,978 740,962 885,961 887,975 919,960 937,960 946,965 946,976 756,980 725,982 674,981 619,983 596,983" />
+				<Baseline points="596,983 820,977 946,976" />
+				<TextEquiv index="1">
+					<Unicode>A. Habben, Kfm. M: 24. Cl:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>A. Habben, Kfm. M: 24. Cl:</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r21">
+			<Coords points="926,955 958,955 958,980 926,980" />
+		</GraphicRegion>
+		<TextRegion id="r22" custom="readingOrder {index:22;} orientation {0;}">
+			<Coords points="582,986 992,986 992,1200 582,1200" />
+			<!-- line left out: id="r22l0" points="596,992 607,991 632,991 640,994 665,996 666,990 672,990 673,996 685,996 695,989 712,989 715,995 727,991 736,991 748,994 749,988 798,987 810,987 819,993 840,993 865,986 872,986 882,992 895,990 915,987 925,987 947,991 947,1002 925,1003 893,1004 807,1005 761,1009 759,1009 727,1007 685,1007 672,1008 640,1009 616,1009 607,1008 596,1008" baseline="596,1009 793,1005 839,1004 947,1002" reason: differs: "el.OCla" against "l. Cla:" | Wikisource:  | next_nc_e1: Victoria-Hotel. OCla: Letzten | german_print2_15: Victoria-Hotel. Cla: Letzten -->
+			<TextLine id="r22l1" custom="readingOrder {index:1;}">
+				<Coords points="596,1018 611,1018 612,1024 622,1024 637,1016 642,1016 644,1032 663,1016 681,1016 691,1018 694,1031 712,1015 730,1015 754,1020 782,1014 870,1013 874,1028 904,1011 924,1010 943,1010 944,1016 947,1016 947,1029 647,1035 611,1035 596,1035" />
+				<Baseline points="596,1034 782,1030 947,1029" />
+				<TextEquiv index="1">
+					<Unicode>So i. Mt. Gw. G. 1881. VO:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r22l2" custom="readingOrder {index:2;}">
+				<Coords points="597,1043 636,1042 657,1042 657,1060 624,1061 597,1061" />
+				<Baseline points="597,1061 657,1060" />
+				<TextEquiv index="1">
+					<Unicode>DRB.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r22l3" points="582,1069 598,1069 623,1074 623,1068 645,1068 658,1072 659,1084 679,1067 719,1066 730,1066 731,1072 745,1072 746,1081 779,1065 842,1065 904,1064 917,1063 947,1063 947,1084 936,1084 923,1080 917,1080 914,1086 904,1086 811,1083 746,1083 745,1089 731,1089 717,1085 679,1085 664,1091 659,1091 645,1089 598,1090 582,1090" baseline="582,1091 663,1087 679,1086 810,1082 947,1079" reason: differs: "Vech" against "====" | Wikisource:  | next_nc_e1: Vechta, Oldbg. RC 1885 (B). | german_print2_15: Vechta, Oldbg. RO 1885 (B). -->
+			<!-- line left out: id="r22l4" points="597,1096 608,1095 626,1095 627,1101 659,1093 672,1093 682,1101 688,1099 703,1099 730,1082 744,1082 744,1092 759,1091 784,1091 786,1097 811,1097 812,1090 824,1090 825,1097 837,1097 838,1090 858,1090 859,1082 861,1082 904,1089 920,1088 937,1088 937,1094 950,1094 987,1086 992,1086 992,1102 987,1102 950,1108 861,1110 859,1110 837,1109 771,1110 703,1112 672,1112 626,1113 597,1113" baseline="597,1113 659,1112 860,1108 992,1105" reason: second model: differs: "Vs:J" against "(B)." | Wikisource: Vs: Jos. Middendorf. Sch: | next_nc_e1: Vs: Jos. Middendorf. Sch: | german_print2_15: Vs: Jos. Middendorf. Sch: * -->
+			<!-- line left out: id="r22l5" points="596,1121 614,1121 617,1127 630,1126 658,1126 680,1119 699,1119 701,1125 712,1124 719,1124 719,1118 739,1118 785,1117 850,1117 850,1131 854,1131 854,1135 750,1137 712,1137 658,1138 628,1139 596,1139" baseline="596,1139 680,1137 785,1135 854,1134" reason: differs: "ermMenk" against "erm. Me" | Wikisource:  | next_nc_e1: Herm Menke. M: 26. | german_print2_15: Herm. Menke. M: 26. -->
+			<!-- line left out: id="r22l6" points="584,1147 596,1146 610,1146 636,1146 676,1147 741,1148 742,1160 762,1144 789,1143 814,1143 830,1148 831,1158 863,1142 901,1141 914,1141 914,1159 879,1161 830,1166 815,1166 788,1162 762,1162 747,1169 742,1169 714,1165 689,1166 622,1167 610,1169 596,1169 584,1168" baseline="584,1168 746,1163 892,1159 914,1159" reason: differs: "Wild" against "====" | Wikisource:  | next_nc_e1: Wildeshausen, Oldbg. R V. | german_print2_15: Wildeshausen, Oldbg. R V. -->
+			<!-- line left out: id="r22l7" points="584,1172 598,1172 625,1172 651,1171 666,1171 699,1175 699,1166 714,1166 719,1170 780,1169 792,1169 805,1172 815,1158 827,1158 850,1169 866,1169 869,1179 875,1179 877,1168 919,1166 948,1166 948,1189 942,1190 917,1190 909,1190 866,1186 820,1191 806,1191 792,1188 753,1188 738,1195 714,1200 699,1200 699,1191 678,1192 666,1193 625,1193 584,1193" baseline="584,1194 737,1190 753,1188 850,1186 909,1185 948,1185" reason: differs: "Zwis" against "====" | Wikisource:  | next_nc_e1: Zwischenahn, Oldbg. R-V (B).
+ | german_print2_15: Zwischenahn, Oldog. R-V (B).
+ -->
+			<TextEquiv index="1">
+				<Unicode>So i. Mt. Gw. G. 1881. VO:
+DRB.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r23" custom="readingOrder {index:23;} orientation {0;}">
+			<Coords points="597,1186 947,1186 947,1297 597,1297" />
+			<!-- line left out: id="r23l0" points="598,1199 616,1199 629,1205 648,1198 672,1198 685,1199 697,1203 710,1196 729,1196 731,1186 742,1186 742,1203 757,1202 779,1202 779,1211 794,1195 804,1194 818,1194 834,1197 847,1201 848,1194 862,1194 863,1200 884,1200 885,1208 903,1193 918,1193 930,1198 931,1192 937,1192 937,1198 947,1198 947,1210 930,1211 918,1212 874,1213 818,1213 784,1216 752,1220 742,1220 685,1216 648,1216 633,1207 616,1209 610,1209 610,1217 598,1217" baseline="598,1217 632,1216 696,1215 903,1211 947,1210" reason: second model: differs: "Vs:Ot" against "V (B) " | Wikisource: Vs: Otto Meyer, Hotelier. Sch: | next_nc_e1: Vs: Otto Méyer, Hotelier. Sch: | german_print2_15: Vs: Otto Méèyer, Hotelier. Sch: -->
+			<!-- line left out: id="r23l1" points="597,1225 640,1224 645,1224 647,1230 659,1230 675,1221 690,1216 708,1216 720,1221 727,1216 750,1216 750,1238 769,1221 796,1221 816,1226 818,1236 851,1220 868,1220 870,1226 901,1219 917,1219 918,1225 936,1225 936,1217 947,1217 947,1237 908,1237 868,1239 755,1241 708,1241 675,1241 659,1247 647,1247 638,1243 625,1243 597,1242" baseline="597,1242 821,1238 947,1236" reason: second model: differs: "Will" against "Sch:" | Wikisource: Willy Weber, Kfm. K: Paul | next_nc_e1: Willy Weber, Kfm. K: Paul | german_print2_15: Willy Weber. Kim. K: Paul -->
+			<TextLine id="r23l2" custom="readingOrder {index:2;}">
+				<Coords points="599,1251 636,1250 637,1256 648,1253 667,1255 667,1249 687,1248 688,1254 711,1254 711,1262 734,1249 772,1249 784,1253 785,1246 791,1246 792,1253 803,1253 804,1247 816,1247 817,1254 827,1254 827,1246 839,1246 840,1253 856,1252 884,1247 928,1245 946,1245 946,1260 933,1263 898,1266 772,1266 610,1269 599,1269" />
+				<Baseline points="599,1269 946,1263" />
+				<TextEquiv index="1">
+					<Unicode>Missfelder, Betriebsbeamt. F:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r23l3" points="600,1276 666,1274 693,1274 694,1280 733,1280 734,1289 753,1274 770,1274 795,1278 807,1279 807,1291 770,1292 739,1297 734,1297 708,1293 693,1293 680,1297 666,1297 610,1295 600,1295" baseline="600,1295 618,1294 753,1291 807,1291" reason: differs: "s,Km," against ", Kfm," | Wikisource:  | next_nc_e1: H. Dehlwes, Km,
+ | german_print2_15: H. Dehlwes, Km.
+ -->
+			<TextEquiv index="1">
+				<Unicode>Missfelder, Betriebsbeamt. F:</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r24">
+			<Coords points="618,1208 647,1208 647,1217 618,1217" />
+		</GraphicRegion>
+		<TextRegion id="r25" custom="readingOrder {index:25;} orientation {0;}">
+			<Coords points="369,1412 682,1412 682,1440 369,1440" />
+			<!-- line left out: id="r25l0" points="369,1422 377,1422 434,1422 444,1422 474,1422 500,1422 508,1412 516,1412 537,1412 545,1423 550,1412 558,1412 558,1423 575,1423 575,1412 584,1412 598,1412 598,1423 600,1423 617,1422 625,1422 637,1422 677,1422 682,1423 682,1431 600,1431 598,1431 598,1440 584,1440 575,1440 575,1431 558,1431 558,1440 550,1440 545,1431 537,1440 516,1440 508,1440 499,1434 486,1434 474,1434 457,1434 434,1434 423,1434 401,1434 390,1433 375,1433 369,1431" baseline="369,1431 682,1431" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hpdigitalslub-dresden deid4 79080704-1 8980000/372
+ | german_print2_15: htp igital slub-d'sden de ida 9080704.18880000,/372
+ -->
+		</TextRegion>
+		<GraphicRegion id="r26">
+			<Coords points="0,1358 1000,1358 1000,1458 0,1458" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Steinle. F: C. H. Drey. M: 27. G: 1887. Octbr. 1897: 10jähr. Stiftungsf.
+==== Oldenburg, ====
+Grh. Vtg: Oldenburg. Vtr: Carl Moroff, Bruderstr. 23.
+—. R-V „Germania“ (B). adr 1. Vs u. F: A. Parussel, Mandatar, Hamerstr. 5. 2. Vs u. F: Aug. Meinen, Schneidermstr., Nordwesterstr. Sch: Herm., Stulken, Factor, Nordwester Chaussee 12. K: Fritz Oelken, Eisenb.-beamter, Humboldstr. 29. M: 21. Cl: zum „Lindenhof“. Cla: Fr. 9. Gw. G: 1895. VO: DRB. bZ: Tfa. Ko. ⚐ 1897: Mai Sommerf.
+—. R-V Nordstern.
+—. R-V Oldenburg v. 1884 (B) adr 1. Vs: E. Winkler, Kfm., Langestr. 53. 2. W. Tebbenjohannes, Fabrikant, Markt 3. 1 Sch: G. Eiben, Actuargeh., Nadorferstr. 104. 2.: D. Gerdes-Röben, Leibjäger Zeughausstr. K: W. Köhler, Auctionator, Gottorpstr. 1. F: Aug. Dittmer, Kfm., Ofenerstr. 26. 2. u. Zgw: H. Meyer, Kfm., Langestr. 22. M: 65. Cl: Hotel Kaiserhof. Cla: Do 9 Gw. G: 1884. VO: Lokalzeitg. u. Bdztg. ♒
+—. Oldbg. R-V v. 1886 (B). adr 1. Vs: Jul Lambrecht, Lith., Lindenstr. 66. 2 D. Osterloh, Kaufm., Rosenstr. 1. Sch: R. Kruse, Kfm , Staustr. 2. H. Nonne, Buchhändlr., Peterstr. K: J. H. Oege, Proprietär, Alexanderstr. 1. F: Th. Meyer, Kfm., Schüttlingstr. 2.: H. Grewe, Kfm., Laugestr 41. M: 40. Cl: Eiler’s Restaur. Cl: Sd 9. Gw. G: 1886. ⚐ Ee.
+—. R-V von 1894/95.
+—. RC. Wanderlust.
+==== Schwartau. ====
+RC Schwartau 1895 (B). Vs: Ch. Mor. Straten, Kunstgärtn. Sch: W. Schmidt, Kfm. K: E Peterich, Drechslermstr. F: K. Heidmann, Kfm M: 21. Cl: Hotel Germania. Cla: Di n. 1. u. 15. j. Mts. Gw. G: 1895. VO: DRB.
+==== Varel, ====
+Oldenbg. R-V (B). Vs; G. Springer, Fabr., Neuestr. Sch: H. Plönjes, Fabr., Langestr. F: A. Egeling. M: 22. G. 1882.
+—. R-V Jadestrand (B). adr Vs: Herm. Eilers, Kfm. Sch: F. Biermann, Kfm. b. W. Presuhn. K: P. Folkens, Kfm. b. F. Miehe. 1. F: G. Meiners, Kfm. bei Aug. Egeling. 2. Ad. Bäker, Schlächter. M: 26. Cl: Domsky’s Hotel. Cla: 1. So i. Mt. Gw. G 1891.
+—. R-V Varel (B). 1. Vs: R. Meinen, Varel. 2: C. Luerssen, Kfm. Sch: Aug. Brötje, Kfm. K: G. Bluhm, Kfm. 1. F: C. D. Vries, Kfm. 2.: A. Habben, Kfm. M: 24. Cl: Victoria-Hotel. Cla: Letzten So i. Mt. Gw. G. 1881. VO: DRB.
+==== Vechta, ====
+Oldbg. RC 1885 (B). Vs: Jos. Middendorf. Sch: Herm. Menke M: 26.
+==== Wildeshausen, ====
+Oldbg. RVV
+==== Zwischenahn, ====
+Oldbg. R-V (B) Vs: Otto Meyer, Hotelier. Sch: Willy Weber, Kfm. K: Paul Missfelder, Betriebsbeamt. F: H. Dehlwes, Kfm,
+-->
+	</Page>
+</PcGts>
