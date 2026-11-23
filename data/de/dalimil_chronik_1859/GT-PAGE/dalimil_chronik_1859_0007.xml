@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T19:51:23</Created>
+		<LastChange>2026-11-23T19:51:23</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:1859_Dalimils_Chronik_von_Böhmen.djvu/007 revision 3447691 of 2018-11-06T21:30:01Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="dalimil_chronik_1859_0007.png" imageWidth="2688" imageHeight="4783">
+		<ReadingOrder>
+			<OrderedGroup id="ro17494930943572080773" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="45,2349 101,2349 101,2387 45,2387" />
+			<!-- line left out: id="r0l0" points="45,2349 101,2349 101,2386 73,2387 45,2387" baseline="45,2387 101,2386" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 10
+ | german_print2_15: 10
+ -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="39,2869 96,2869 96,2910 39,2910" />
+			<!-- line left out: id="r1l0" points="39,2871 67,2869 96,2869 96,2910 67,2910 39,2909" baseline="39,2909 96,2910" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 15
+ | german_print2_15: 15
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="479,1260 1933,1260 1933,1699 479,1699" />
+			<!-- line left out: id="r2l0" points="479,1285 538,1285 623,1283 666,1283 683,1302 719,1302 765,1304 868,1305 930,1306 940,1285 965,1285 981,1305 1020,1305 1079,1273 1123,1273 1182,1275 1182,1288 1227,1288 1227,1260 1275,1260 1319,1279 1378,1279 1391,1306 1432,1306 1449,1286 1533,1286 1568,1289 1588,1307 1630,1307 1630,1352 1588,1352 1490,1351 1449,1350 1432,1373 1391,1373 1378,1367 1319,1367 1275,1356 1227,1356 1182,1354 1123,1352 1079,1352 981,1350 940,1349 930,1368 885,1368 868,1350 830,1350 780,1349 538,1348 479,1348" baseline="479,1347 577,1347 1019,1350 1274,1354 1630,1352" reason: differs: "Dihe" against "﻿Di " | Wikisource:  | next_nc_e1: Di herzogin wärπ heidin
+ | german_print2_15: Di herzogin wär -heidin
+ -->
+			<TextLine id="r2l1" custom="readingOrder {index:1;}">
+				<Coords points="483,1389 581,1389 600,1407 689,1408 735,1389 759,1389 772,1408 1169,1410 1211,1378 1273,1378 1330,1381 1345,1412 1363,1412 1408,1392 1448,1392 1468,1411 1511,1411 1513,1393 1639,1393 1658,1412 1698,1412 1713,1396 1739,1396 1739,1475 1713,1475 1698,1457 1513,1456 1511,1477 1468,1477 1448,1455 1097,1455 1097,1473 1040,1473 1040,1454 920,1454 901,1473 859,1473 814,1452 524,1452 512,1470 483,1470" />
+				<Baseline points="483,1450 1739,1457" />
+				<TextEquiv index="1">
+					<Unicode>(Daz in ymmer muz leidin)</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l2" points="484,1492 541,1492 559,1511 602,1511 619,1491 661,1491 703,1512 942,1512 1040,1512 1059,1500 1129,1495 1153,1495 1175,1514 1214,1514 1263,1496 1314,1496 1333,1513 1370,1513 1388,1495 1429,1495 1453,1488 1495,1488 1495,1516 1570,1516 1575,1559 1592,1559 1592,1483 1644,1483 1644,1503 1691,1503 1698,1518 1746,1518 1766,1504 1791,1504 1791,1584 1766,1584 1746,1561 1698,1561 1691,1587 1634,1587 1634,1560 1597,1560 1597,1572 1488,1572 1488,1560 1370,1560 1333,1560 1089,1559 942,1559 905,1559 795,1557 703,1557 619,1556 559,1555 484,1554" baseline="484,1554 703,1556 1791,1561" reason: differs: "Behémii" against "Behehm " | Wikisource:  | next_nc_e1: Vnd von erst in Behémiiant | german_print2_15: Vnd von erst in Behéem. Tant -->
+			<!-- line left out: id="r2l3" points="482,1596 550,1596 589,1597 638,1602 683,1596 726,1596 768,1597 784,1616 816,1616 1047,1617 1213,1617 1375,1619 1375,1600 1490,1600 1535,1585 1564,1581 1599,1581 1640,1584 1640,1592 1704,1592 1706,1581 1755,1581 1755,1601 1784,1601 1784,1591 1850,1591 1853,1655 1933,1655 1933,1699 1853,1699 1850,1667 1784,1667 1784,1691 1755,1693 1706,1693 1704,1666 1638,1666 1599,1665 1599,1699 1564,1699 1564,1666 1535,1666 1343,1665 1100,1664 1062,1664 816,1662 784,1662 550,1661 482,1661" baseline="482,1661 637,1660 683,1660 1007,1662 1535,1665 1933,1668" reason: differs: "Mitd" against "lant" | Wikisource:  | next_nc_e1: Mit diszm nomen wol beékgyt.
+ | german_print2_15: Mit diszm nomen wol bekagnt.
+ -->
+			<TextEquiv index="1">
+				<Unicode>(Daz in ymmer muz leidin)</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="485,1801 1865,1801 1865,3226 485,3226" />
+			<TextLine id="r3l0" custom="readingOrder {index:0;}">
+				<Coords points="486,1801 568,1801 568,1824 626,1824 671,1810 686,1810 686,1822 777,1823 778,1810 809,1810 809,1822 844,1822 890,1804 933,1804 935,1823 1125,1825 1170,1806 1236,1806 1238,1825 1274,1825 1309,1827 1355,1808 1423,1808 1423,1828 1461,1828 1461,1808 1500,1808 1500,1826 1580,1828 1580,1808 1601,1808 1606,1827 1639,1827 1639,1809 1680,1809 1680,1888 1639,1888 1639,1873 1580,1872 1500,1873 1500,1888 1461,1888 1461,1872 1423,1872 1423,1888 1384,1888 1384,1871 1309,1874 1170,1874 1125,1886 1083,1886 1080,1871 777,1869 486,1872" />
+				<Baseline points="486,1871 625,1869 890,1869 1680,1873" />
+				<TextEquiv index="1">
+					<Unicode>Der erste herzog hiez Przemisl,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="486,1910 545,1910 545,1929 619,1929 619,1909 708,1908 751,1908 754,1928 854,1929 901,1909 905,1909 905,1928 973,1927 973,1910 1074,1909 1230,1910 1230,1929 1266,1929 1266,1910 1309,1910 1309,1929 1390,1931 1390,1912 1415,1912 1415,1929 1450,1929 1450,1911 1490,1911 1490,1977 1450,1977 1390,1975 1309,1977 1230,1977 1187,1977 1034,1974 486,1974" />
+				<Baseline points="486,1974 1147,1973 1490,1976" />
+				<TextEquiv index="1">
+					<Unicode>Noch dem reicht Nazamisl.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="487,2014 541,2014 543,2032 629,2033 629,2019 657,2014 702,2014 703,2033 873,2033 877,2013 919,2013 1055,2015 1055,2033 1172,2033 1226,2015 1269,2015 1271,2035 1346,2035 1393,2017 1405,2017 1405,2035 1478,2036 1481,2017 1647,2019 1650,2039 1719,2039 1721,2026 1766,2026 1766,2084 1604,2084 1226,2080 1172,2097 1085,2097 1085,2078 1055,2078 1055,2097 1006,2097 1006,2079 487,2077" />
+				<Baseline points="487,2077 1171,2079 1766,2084" />
+				<TextEquiv index="1">
+					<Unicode>Bnatha vnd Woyn dar noch drot.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="487,2118 534,2118 536,2137 571,2137 571,2119 594,2119 594,2139 633,2139 678,2118 721,2118 723,2138 971,2137 1012,2119 1071,2119 1116,2125 1131,2125 1131,2137 1197,2139 1199,2125 1243,2125 1243,2185 1159,2184 1159,2198 1116,2198 1071,2183 678,2183 633,2201 593,2201 593,2182 487,2182" />
+				<Baseline points="487,2182 1116,2183 1243,2185" />
+				<TextEquiv index="1">
+					<Unicode>Zely das was ir got.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l4" custom="readingOrder {index:4;}">
+				<Coords points="491,2221 548,2221 549,2241 572,2241 572,2221 615,2221 615,2240 663,2240 663,2223 689,2223 689,2242 806,2240 851,2221 922,2221 922,2241 1038,2242 1038,2221 1081,2221 1081,2243 1115,2243 1116,2223 1197,2224 1197,2288 1141,2288 1081,2288 1012,2288 879,2288 491,2287" />
+				<Baseline points="491,2287 805,2286 1197,2288" />
+				<TextEquiv index="1">
+					<Unicode>Vneslaus Cresomisl</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l5" points="491,2329 548,2329 548,2348 588,2348 632,2328 645,2328 645,2347 672,2347 673,2329 729,2328 755,2328 758,2346 800,2346 918,2347 966,2328 1090,2327 1149,2327 1202,2328 1202,2347 1263,2347 1263,2328 1307,2328 1307,2410 1263,2410 1263,2394 1202,2394 1202,2410 1192,2410 1149,2392 1046,2393 966,2393 800,2392 732,2392 632,2392 588,2410 548,2410 548,2392 491,2392" baseline="491,2391 587,2391 1307,2392" reason: second model: differs: "oirSsel" against "ir sel," | Wikisource: Dy virluren do ir sel, | next_nc_e1: Dy virluren do ir sel,
+ | german_print2_15: Dy virluren do ir Ssel,
+ -->
+			<TextLine id="r3l6" custom="readingOrder {index:6;}">
+				<Coords points="485,2431 542,2431 544,2449 584,2449 610,2451 610,2431 652,2431 652,2450 732,2450 774,2431 837,2431 837,2450 873,2450 873,2431 917,2431 921,2451 1139,2450 1142,2433 1228,2432 1292,2432 1293,2452 1366,2451 1367,2437 1395,2433 1485,2432 1526,2434 1526,2513 1442,2513 1442,2497 1248,2496 1248,2513 1228,2513 1183,2495 1051,2498 610,2496 485,2494" />
+				<Baseline points="485,2495 1228,2495 1526,2497" />
+				<TextEquiv index="1">
+					<Unicode>Darczu Nekan vnd Hostink,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l7" custom="readingOrder {index:7;}">
+				<Coords points="487,2534 543,2534 545,2554 743,2555 789,2536 807,2536 807,2556 829,2556 829,2537 917,2536 962,2556 989,2556 989,2536 1026,2536 1026,2555 1047,2555 1049,2536 1230,2537 1230,2555 1270,2555 1270,2537 1293,2537 1295,2555 1339,2555 1340,2536 1385,2536 1388,2588 1404,2588 1404,2618 1388,2618 1385,2601 1270,2600 1270,2617 1227,2617 1227,2600 1175,2600 1175,2618 1169,2618 1126,2602 672,2601 487,2598" />
+				<Baseline points="487,2598 1404,2601" />
+				<TextEquiv index="1">
+					<Unicode>Den ez vbil ouch irgink,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l8" custom="readingOrder {index:8;}">
+				<Coords points="487,2639 577,2639 577,2659 770,2657 813,2639 917,2639 963,2640 964,2657 1262,2658 1329,2660 1329,2706 1090,2706 858,2703 813,2704 770,2723 697,2723 651,2704 487,2704" />
+				<Baseline points="487,2704 1329,2704" />
+				<TextEquiv index="1">
+					<Unicode>Wan sy heiden waren.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l9" custom="readingOrder {index:9;}">
+				<Coords points="485,2745 519,2745 519,2763 561,2763 605,2744 672,2744 673,2762 710,2762 755,2742 821,2742 888,2742 892,2760 1004,2760 1004,2743 1029,2743 1030,2760 1255,2761 1255,2747 1285,2747 1285,2759 1496,2763 1631,2763 1631,2808 1531,2808 1453,2810 1412,2810 1255,2807 863,2806 647,2809 485,2809" />
+				<Baseline points="485,2809 755,2806 1631,2808" />
+				<TextEquiv index="1">
+					<Unicode>In die helle sie musten varen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l10" custom="readingOrder {index:10;}">
+				<Coords points="487,2847 541,2847 543,2867 577,2867 651,2865 837,2865 883,2846 898,2846 898,2866 958,2867 958,2846 1003,2846 1005,2866 1071,2866 1073,2847 1096,2847 1097,2866 1139,2866 1183,2849 1249,2848 1250,2869 1331,2866 1415,2867 1464,2848 1507,2848 1507,2869 1547,2869 1593,2847 1643,2847 1647,2868 1681,2868 1681,2850 1698,2850 1702,2867 1735,2867 1739,2854 1785,2854 1785,2847 1822,2847 1822,2869 1865,2869 1865,2930 1785,2930 1785,2914 1607,2913 1607,2930 1547,2931 1507,2931 1507,2913 1183,2913 1139,2928 1097,2928 1096,2910 1071,2912 898,2910 898,2928 883,2928 837,2911 620,2913 487,2910" />
+				<Baseline points="487,2910 1331,2911 1865,2914" />
+				<TextEquiv index="1">
+					<Unicode>Er waren achczig biz an dy Cristen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l11" custom="readingOrder {index:11;}">
+				<Coords points="487,2953 569,2953 569,2969 736,2969 736,2952 758,2952 803,2971 844,2971 844,2958 910,2958 912,2969 985,2969 1029,2959 1042,2959 1042,2970 1072,2970 1073,2959 1141,2959 1185,2951 1197,2951 1197,2971 1223,2971 1223,2951 1272,2951 1278,2969 1315,2969 1350,2971 1394,2952 1414,2952 1414,2972 1434,2972 1437,2952 1492,2952 1492,2970 1525,2970 1527,2959 1556,2959 1557,2972 1637,2972 1637,3017 1073,3016 1072,3031 1029,3031 985,3016 487,3016" />
+				<Baseline points="487,3016 1394,3015 1637,3017" />
+				<TextEquiv index="1">
+					<Unicode>Der sel müze got aller vristen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l12" custom="readingOrder {index:12;}">
+				<Coords points="491,3055 550,3055 551,3074 591,3074 625,3078 625,3057 782,3056 783,3074 917,3074 961,3056 984,3056 988,3076 1024,3076 1024,3056 1090,3056 1096,3076 1138,3076 1184,3056 1199,3056 1199,3075 1316,3073 1352,3077 1352,3056 1400,3056 1403,3076 1422,3076 1422,3056 1499,3056 1499,3135 1422,3135 1422,3121 1199,3120 1199,3135 1184,3135 1138,3119 917,3121 491,3119" />
+				<Baseline points="491,3119 1499,3118" />
+				<TextEquiv index="1">
+					<Unicode>Nach disme lebin eweclich,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l13" custom="readingOrder {index:13;}">
+				<Coords points="489,3158 521,3158 521,3179 643,3179 645,3161 666,3161 669,3180 816,3180 862,3160 903,3160 906,3180 1029,3179 1073,3146 1092,3146 1092,3161 1118,3161 1119,3178 1261,3179 1261,3160 1343,3161 1345,3182 1380,3182 1380,3159 1421,3159 1425,3146 1459,3146 1459,3225 1381,3226 1345,3226 1092,3226 1073,3226 611,3225 489,3223" />
+				<Baseline points="489,3224 1459,3225" />
+				<TextEquiv index="1">
+					<Unicode>In sinem hoen hemelrich.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Der erste herzog hiez Przemisl,
+Noch dem reicht Nazamisl.
+Bnatha vnd Woyn dar noch drot.
+Zely das was ir got.
+Vneslaus Cresomisl
+Darczu Nekan vnd Hostink,
+Den ez vbil ouch irgink,
+Wan sy heiden waren.
+In die helle sie musten varen.
+Er waren achczig biz an dy Cristen,
+Der sel müze got aller vristen
+Nach disme lebin eweclich,
+In sinem hoen hemelrich.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="489,3368 1844,3368 1844,3750 489,3750" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="489,3369 631,3368 672,3368 691,3388 941,3389 952,3371 978,3371 989,3389 1303,3389 1350,3371 1365,3371 1365,3391 1438,3392 1449,3372 1472,3372 1492,3389 1525,3389 1543,3375 1586,3371 1609,3371 1628,3390 1685,3390 1685,3434 1385,3437 952,3435 941,3452 895,3452 880,3434 691,3435 489,3433" />
+				<Baseline points="489,3433 631,3432 1685,3434" />
+				<TextEquiv index="1">
+					<Unicode>Di herzogin warn cristin.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="494,3471 551,3471 565,3493 604,3493 625,3478 654,3478 697,3494 729,3494 729,3473 776,3473 776,3494 808,3494 822,3473 896,3473 960,3475 975,3494 1140,3492 1158,3475 1180,3475 1228,3495 1322,3494 1333,3476 1358,3476 1375,3494 1407,3494 1426,3479 1491,3474 1590,3474 1590,3540 1407,3540 1375,3540 697,3539 494,3536" />
+				<Baseline points="494,3536 1590,3537" />
+				<TextEquiv index="1">
+					<Unicode>Got wolt ir sel vristin!</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l2" custom="readingOrder {index:2;}">
+				<Coords points="491,3577 548,3577 570,3594 745,3596 959,3596 973,3579 997,3579 1012,3598 1055,3598 1071,3585 1101,3585 1142,3598 1240,3597 1293,3599 1307,3578 1560,3579 1578,3597 1615,3597 1629,3579 1672,3579 1691,3598 1797,3599 1819,3584 1844,3584 1844,3642 1615,3644 1578,3644 1437,3642 1293,3644 1258,3644 491,3640" />
+				<Baseline points="491,3640 1844,3642" />
+				<TextEquiv index="1">
+					<Unicode>Der nam sint ouch hi bekant</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r4l3" custom="readingOrder {index:3;}">
+				<Coords points="491,3679 548,3679 564,3700 607,3700 624,3681 666,3681 711,3703 749,3703 765,3684 824,3683 847,3683 862,3701 905,3701 951,3686 993,3686 1005,3702 1027,3702 1027,3686 1201,3686 1217,3703 1347,3703 1359,3684 1384,3684 1399,3702 1497,3701 1567,3703 1611,3682 1637,3682 1654,3703 1677,3703 1677,3682 1720,3682 1720,3703 1754,3703 1769,3688 1814,3688 1814,3748 1567,3748 1347,3750 1137,3750 1027,3750 491,3745" />
+				<Baseline points="491,3745 1814,3748" />
+				<TextEquiv index="1">
+					<Unicode>Vnd obin dort in einem lant.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Di herzogin warn cristin.
+Got wolt ir sel vristin!
+Der nam sint ouch hi bekant
+Vnd obin dort in einem lant.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="492,3886 2370,3886 2370,4472 492,4472" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="492,3886 577,3886 577,3911 665,3911 665,3892 690,3892 690,3912 786,3912 826,3914 874,3891 917,3891 920,3910 992,3910 1035,3898 1041,3898 1041,3913 1137,3912 1139,3898 1205,3898 1250,3891 1300,3891 1306,3913 1337,3913 1337,3894 1361,3894 1361,3912 1392,3912 1395,3893 1445,3893 1448,3911 1488,3911 1493,3942 1509,3942 1509,3972 1493,3972 1488,3956 1264,3957 1264,3972 1250,3972 1205,3957 874,3957 826,3976 786,3976 786,3956 577,3956 577,3976 537,3976 537,3957 492,3957" />
+				<Baseline points="492,3957 1509,3956" />
+				<TextEquiv index="1">
+					<Unicode>Borziwoy der erste Cristin,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="492,3996 549,3996 551,4015 588,4015 633,3994 667,3994 667,4014 737,4014 740,3994 820,3994 878,3997 878,4016 960,4015 961,3997 1075,3996 1078,3996 1078,4015 1146,4017 1147,3996 1267,3996 1267,4014 1334,4016 1334,3996 1448,3996 1448,4016 1501,4015 1501,3996 1559,3996 1609,3998 1613,4017 1651,4017 1651,4062 1590,4062 1559,4062 1467,4060 1448,4062 1427,4062 922,4062 865,4062 492,4059" />
+				<Baseline points="492,4059 1427,4059 1651,4062" />
+				<TextEquiv index="1">
+					<Unicode>Do mede wold sein seil vristin</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l2" points="495,4100 577,4100 577,4117 630,4117 817,4117 960,4117 1004,4098 1015,4098 1015,4118 1047,4118 1048,4100 1079,4100 1079,4119 1115,4119 1117,4107 1146,4107 1146,4120 1187,4119 1230,4119 1231,4098 1265,4098 1311,4100 1311,4183 1259,4183 1259,4164 1115,4166 1079,4166 1079,4185 1048,4185 1047,4179 1015,4179 1015,4185 1004,4185 960,4164 848,4166 791,4166 675,4165 539,4164 495,4163" baseline="495,4163 1311,4164" reason: differs: "regseta" against "e g[eta" | Wikisource:  | next_nc_e1: Daz er ware gſetauft] | german_print2_15: Daz er ware gſetauft] -->
+			<!-- line left out: id="r5l3" points="492,4202 554,4202 554,4222 592,4222 626,4223 626,4203 768,4203 769,4224 804,4224 804,4206 861,4206 891,4208 933,4224 978,4223 1014,4223 1014,4206 1056,4206 1059,4225 1132,4225 1132,4210 1206,4205 1234,4205 1234,4225 1306,4225 1306,4204 1351,4204 1468,4205 1468,4224 1538,4224 1538,4205 1583,4205 1604,4206 1606,4223 1643,4223 1645,4211 1703,4206 1731,4206 2264,4221 2336,4221 2370,4223 2370,4274 2300,4274 2264,4273 1731,4288 1703,4288 1703,4270 1604,4271 1583,4271 1583,4288 1538,4288 1538,4270 1308,4271 1275,4272 1234,4272 1234,4289 1206,4289 1161,4270 1097,4270 978,4270 977,4287 933,4287 891,4269 768,4270 715,4270 630,4269 593,4269 553,4268 492,4267" baseline="492,4267 1423,4269 1730,4270 2264,4273 2370,4274" reason: differs: "Nach" against "auft" | Wikisource:  | next_nc_e1: Nach Crist gebort [acht hundert] 874 | german_print2_15: Nach Crist gebort [acht hundert] 874 -->
+			<TextLine id="r5l4" custom="readingOrder {index:4;}">
+				<Coords points="495,4307 577,4307 577,4326 633,4326 668,4329 750,4328 794,4310 858,4310 861,4328 935,4329 981,4309 1009,4309 1009,4330 1094,4329 1096,4310 1184,4309 1239,4309 1280,4311 1284,4328 1304,4328 1304,4309 1343,4309 1343,4328 1364,4328 1402,4332 1402,4309 1495,4309 1495,4393 1427,4393 1425,4373 1402,4375 1343,4374 1343,4393 1304,4393 1304,4375 1194,4375 1194,4393 1184,4393 1138,4375 1009,4375 1009,4393 981,4393 935,4375 538,4375 495,4372" />
+				<Baseline points="495,4373 1495,4374" />
+				<TextEquiv index="1">
+					<Unicode>Darczu vier [vnd sibenzig]</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l5" points="1859,4415 1888,4415 1888,4472 1859,4472" baseline="1859,4445 1888,4445" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 1 | german_print2_15:  -->
+			<TextEquiv index="1">
+				<Unicode>Borziwoy der erste Cristin,
+Do mede wold sein seil vristin
+Darczu vier [vnd sibenzig]</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+﻿Di herzogin warn heidin
+(Daz in ymmer muz leidin)
+Vnd von erst in Behehm lant
+Mit diszm nomen wol bekant.
+Der erste herzog hiez Przemisl,
+Noch dem reicht Nazamisl.
+Bnatha vnd Woyn dar noch drot.
+Zely das was ir got.
+Vneslaus Cresomisl
+Dy virluren do ir sel,
+Darczu Nekan vnd Hostink,
+Den ez vbil ouch irgink,
+Wan sy heiden waren.
+In die helle sie musten varen.
+Er waren achczig biz an dy Cristen,
+Der sel müze got aller vristen
+Nach disme lebin eweclich,
+In sinem hoen hemelrich.
+Di herzogin warn cristin.
+Got wolt ir sel vristin!
+Der nam sint ouch hi bekant
+Vnd obin dort in einem lant.
+Borziwoy der erste Cristin,
+Do mede wold sein seil vristin
+Daz er wäre g[etauft]
+Nach Crist gebort [acht hundert]
+Darczu vier [vnd sibenzig]
+-->
+	</Page>
+</PcGts>

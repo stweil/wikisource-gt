@@ -23,10 +23,12 @@ for n in numbers:
     f = f'{out}/{n}.json'
     if os.path.exists(f): continue
     if files and n > len(files): break
-    title = f'{PAGE_NS}:{files[n - 1]}' if files else f'{PAGE_NS}:{name}/{n}'
-    d = api(site, action='query', titles=title, prop='proofread|revisions|contributors', rvprop='ids|timestamp|content',
-            rvslots='main', pclimit='500')
-    p = d['query']['pages'][0]
+    # some works number their pages with leading zeros (.../007)
+    for title in ([f'{PAGE_NS}:{files[n - 1]}'] if files else [f'{PAGE_NS}:{name}/{n}', f'{PAGE_NS}:{name}/{n:03d}', f'{PAGE_NS}:{name}/{n:04d}']):
+        d = api(site, action='query', titles=title, prop='proofread|revisions|contributors', rvprop='ids|timestamp|content',
+                rvslots='main', pclimit='500')
+        p = d['query']['pages'][0]
+        if not p.get('missing'): break
     q = p.get('proofread', {}).get('quality')
     if p.get('missing') or q is None:
         print(n, 'missing'); continue

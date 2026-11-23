@@ -25,6 +25,7 @@ de.wikisource.org, `la` for la.wikisource.org, ...):
 | `de/wundergesicht_1678` | Weißenfelsisches Wunder-Gesicht, 1678 | 35 | 754 | 524 |
 | `de/feurordnung_1681` | Revidirte Feur-Ordnung, Hannover 1681 | 25 | 435 | 246 |
 | `de/friedensinstrument_1697` | Friedens-Instrument zu Ryswick, 1697 | 34 | 436 | 916 |
+| `de/dalimil_chronik_1859` | Dalimils Chronik von Böhmen | 30 | 1,010 | 173 |
 | `de/schiller_galerie_1859` | Friedrich Pecht: Schiller-Galerie | 30 | 756 | 201 |
 | `de/album_schloesser_rittergueter_1860` | Gustav Adolf Pönicke (Hrsg.): Album der Rittergüter und Schlösser im Königreiche Sachsen I. Section | 22 | 983 | 491 |
 | `de/spiess_lahnthal_1866` | August Spieß: Das Lahntal von seinem Ursprung bis zur Ausmündung nebst seiner nächsten Umgebung | 30 | 890 | 194 |
@@ -72,7 +73,7 @@ de.wikisource.org, `la` for la.wikisource.org, ...):
 | `de/freud_vorlesungen_1933` | Neue Folge der Vorlesungen zur Einführung in die Psychoanalyse | 30 | 828 | 109 |
 | `de/philo_traeume_1938` | Über die Träume (De somnis) übersetzt von Maximilian Adler | 30 | 709 | 520 |
 | `de/loos_schriften_1962` | Adolf Loos: Adolf Loos – Sämtliche Schriften | 30 | 829 | 120 |
-| | **Total** | **2,775** | **65,946** | **45,775** |
+| | **Total** | **2,805** | **66,956** | **45,948** |
 
 **Evaluation data:** the two volumes of the *Mitteilungen des Vereins für
 Chemnitzer Geschichte* (`de/chemnitz_1878`, `de/chemnitz_1883`, modern
