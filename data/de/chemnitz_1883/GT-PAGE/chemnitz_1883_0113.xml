@@ -27,19 +27,20 @@
 		</ReadingOrder>
 		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
 			<Coords points="624,213 792,213 792,228 624,228" />
-			<!-- line left out: id="r0l0" points="624,214 645,214 655,217 696,213 707,213 708,220 720,219 730,219 743,213 748,213 751,226 768,219 785,219 792,223 792,224 785,228 707,228 645,228 624,228" baseline="624,228 792,228" reason: differs: "Albe" against "t un" | Wikisource:  | next_nc_e1: Albert den Lein-
- | german_print2_15: Albert den Lein-
- -->
+			<TextLine id="r0l0" custom="readingOrder {index:0;}">
+				<Coords points="624,214 645,214 655,217 696,213 707,213 708,220 730,219 743,213 748,213 751,226 768,219 785,219 792,223 792,224 785,228 707,228 645,228 624,228" />
+				<Baseline points="624,228 792,228" />
+				<TextEquiv index="1">
+					<Unicode>Albert den Lein-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Albert den Lein-</Unicode>
+			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
 			<Coords points="656,318 791,318 791,359 656,359" />
-			<TextLine id="r1l0" custom="readingOrder {index:0;}">
-				<Coords points="692,324 746,318 749,318 764,327 776,318 778,318 778,325 768,330 756,332 723,333 702,333 692,332" />
-				<Baseline points="692,332 778,332" />
-				<TextEquiv index="1">
-					<Unicode>war nich</Unicode>
-				</TextEquiv>
-			</TextLine>
+			<!-- line left out: id="r1l0" points="692,324 702,323 746,318 749,318 764,327 776,318 778,318 778,325 768,330 756,332 723,333 702,333 692,332" baseline="692,332 778,332" reason: differs: "warni" against "weber" | Wikisource:  | next_nc_e1: war nich | german_print2_15: war nich -->
 			<TextLine id="r1l1" custom="readingOrder {index:1;}">
 				<Coords points="656,349 663,347 684,347 751,350 761,343 784,343 791,348 791,356 784,359 751,359 731,359 684,359 656,359" />
 				<Baseline points="656,359 791,359" />
@@ -48,8 +49,7 @@
 				</TextEquiv>
 			</TextLine>
 			<TextEquiv index="1">
-				<Unicode>war nich
-ffen erfordert</Unicode>
+				<Unicode>ffen erfordert</Unicode>
 			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
@@ -131,7 +131,13 @@ Richter unter Zu-</Unicode>
 			<!-- line left out: id="r7l0" points="590,684 600,680 615,680 615,691 630,689 637,684 645,684 721,690 728,688 732,688 768,692 771,684 780,684 789,690 791,690 791,695 780,699 732,700 728,700 615,699 615,708 600,708 600,698 590,698" baseline="590,698 791,699" reason: differs: "Nach" against "Wett" | Wikisource:  | next_nc_e1: Nachl it oder
  | german_print2_15: Nachl it oder
  -->
-			<!-- line left out: id="r7l1" points="589,717 598,717 618,719 633,710 655,710 657,717 667,717 686,719 694,710 698,710 711,714 714,724 738,716 771,716 773,723 784,711 793,711 793,725 771,726 718,726 694,726 676,725 667,726 643,726 598,727 589,727" baseline="589,727 633,726 717,725 793,725" reason: differs: "gesU" against "ch w" | Wikisource:  | next_nc_e1: ges Unrecht, zumal | german_print2_15: ges Unrecht, zumal -->
+			<TextLine id="r7l1" custom="readingOrder {index:1;}">
+				<Coords points="589,717 618,719 633,710 655,710 657,717 686,719 694,710 698,710 711,714 714,724 738,716 771,716 773,723 784,711 793,711 793,725 676,725 598,727 589,727" />
+				<Baseline points="589,727 793,725" />
+				<TextEquiv index="1">
+					<Unicode>ges Unrecht, zumal</Unicode>
+				</TextEquiv>
+			</TextLine>
 			<TextLine id="r7l2" custom="readingOrder {index:2;}">
 				<Coords points="524,738 574,741 584,743 638,741 641,750 669,748 690,743 730,737 740,737 747,741 791,742 791,751 644,753 584,753 575,753 556,751 524,752" />
 				<Baseline points="524,753 791,751" />
@@ -154,7 +160,8 @@ Richter unter Zu-</Unicode>
 				</TextEquiv>
 			</TextLine>
 			<TextEquiv index="1">
-				<Unicode>Amtsgewalt, verwirkte er
+				<Unicode>ges Unrecht, zumal
+Amtsgewalt, verwirkte er
 Das Lehnrecht kennt
 r Frohnbote dieselbe</Unicode>
 			</TextEquiv>
@@ -219,7 +226,7 @@ nzeigen, Citieren,</Unicode>
 					<Unicode>Büttel, der Stadt-</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r11l1" points="633,1082 646,1080 656,1080 691,1080 699,1082 702,1074 711,1074 714,1082 725,1074 729,1074 732,1081 748,1080 774,1080 777,1074 787,1074 797,1079 797,1089 711,1089 702,1089 691,1088 656,1090 633,1090" baseline="633,1090 664,1088 679,1088 797,1089" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: aus welcher ihn
+			<!-- line left out: id="r11l1" points="633,1082 646,1080 656,1080 691,1080 699,1082 702,1074 711,1074 714,1082 725,1074 729,1074 732,1081 748,1080 774,1080 777,1074 787,1074 797,1079 797,1089 711,1089 702,1089 691,1088 656,1090 633,1090" baseline="633,1090 664,1088 679,1088 797,1089" reason: beside a footnote mark or an unknown template | Wikisource:  | next_nc_e1: aus welcher ihn
  | german_print2_15: aus welcher ihn
  -->
 			<TextEquiv index="1">

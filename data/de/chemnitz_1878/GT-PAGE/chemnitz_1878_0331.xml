@@ -69,13 +69,7 @@
 		</TextRegion>
 		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
 			<Coords points="68,547 221,547 221,624 68,624" />
-			<TextLine id="r4l0" custom="readingOrder {index:0;}">
-				<Coords points="69,547 92,547 121,547 130,555 136,555 145,548 149,548 152,559 178,549 183,549 192,559 197,554 221,554 221,562 208,562 69,561" />
-				<Baseline points="69,561 221,562" />
-				<TextEquiv index="1">
-					<Unicode>Henkelgefäss,</Unicode>
-				</TextEquiv>
-			</TextLine>
+			<!-- line left out: id="r4l0" points="69,547 92,547 121,547 130,555 136,555 145,548 149,548 152,559 165,554 178,549 183,549 192,559 197,554 221,554 221,562 208,562 196,561 69,561" baseline="69,561 221,562" reason: both models read another letter than Wikisource | Wikisource: Henkelgefäss, | next_nc_e1: Henkelgefüss, | german_print2_15: Henkelgefüss, -->
 			<TextLine id="r4l1" custom="readingOrder {index:1;}">
 				<Coords points="68,580 81,580 99,582 117,588 123,586 142,586 151,583 160,583 160,593 121,593 117,593 68,592" />
 				<Baseline points="68,592 160,593" />
@@ -91,8 +85,7 @@
 				</TextEquiv>
 			</TextLine>
 			<TextEquiv index="1">
-				<Unicode>Henkelgefäss,
-Schüssel
+				<Unicode>Schüssel
 Nadel</Unicode>
 			</TextEquiv>
 		</TextRegion>

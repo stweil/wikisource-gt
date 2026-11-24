@@ -18,10 +18,14 @@
 		</ReadingOrder>
 		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
 			<Coords points="487,202 780,202 780,690 487,690" />
-			<!-- line left out: id="r0l0" points="537,208 559,208 565,210 584,202 598,202 600,211 610,211 612,203 623,203 624,209 635,209 694,209 713,203 730,203 736,209 754,209 775,209 775,219 754,224 736,224 683,219 671,218 661,218 637,213 635,219 612,219 598,218 584,218 562,212 559,218 537,218" baseline="537,218 661,218 775,219" reason: differs: "ineR" against "⟧ Au" | Wikisource:  | next_nc_e1: ine Reihe von Tagen
- | german_print2_15: ine Reihe von Tagen
- -->
-			<!-- line left out: id="r0l1" points="504,234 508,234 561,234 578,234 610,235 611,229 622,229 623,236 632,236 641,229 656,229 656,235 699,230 710,230 747,235 747,229 761,225 780,225 780,254 761,254 761,245 622,245 611,245 604,244 561,244 541,244 518,238 504,236" baseline="504,244 541,244 780,245" reason: differs: "teer" against "ld a" | Wikisource:  | next_nc_e1: te erhebliche Einnahmen. ²) | german_print2_15: te erhebliche Einnahmen. ²) -->
+			<TextLine id="r0l0" custom="readingOrder {index:0;}">
+				<Coords points="537,208 559,208 565,210 584,202 598,202 600,211 610,211 612,203 623,203 624,209 694,209 713,203 730,203 736,209 775,209 775,219 754,224 736,224 661,218 637,213 635,219 584,218 562,212 559,218 537,218" />
+				<Baseline points="537,218 775,219" />
+				<TextEquiv index="1">
+					<Unicode>ine Reihe von Tagen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l1" points="504,234 508,234 561,234 578,234 610,235 611,229 622,229 623,236 632,236 641,229 656,229 656,235 699,230 710,230 747,235 747,229 761,225 780,225 780,254 761,254 761,245 622,245 611,245 604,244 561,244 541,244 518,238 504,236" baseline="504,244 541,244 780,245" reason: differs: "teer" against "daue" | Wikisource:  | next_nc_e1: te erhebliche Einnahmen. ²) | german_print2_15: te erhebliche Einnahmen. ²) -->
 			<TextLine id="r0l2" custom="readingOrder {index:2;}">
 				<Coords points="508,260 554,260 557,268 576,261 585,261 594,264 602,255 606,255 608,262 630,261 670,263 670,255 682,255 684,262 693,262 703,256 731,256 733,262 745,262 745,255 756,255 765,261 775,261 775,271 682,271 630,271 620,271 608,270 602,258 594,269 560,271 557,271 515,270 508,262" />
 				<Baseline points="508,270 576,269 775,271" />
@@ -37,7 +41,7 @@
 					<Unicode>hatte, das Papiergeld</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r0l5" points="530,333 605,333 607,339 617,339 643,341 666,334 674,333 685,333 686,339 697,339 723,334 734,334 735,340 775,340 775,349 666,349 640,343 639,349 617,349 607,349 530,348" baseline="530,348 543,348 775,349" reason: differs: "Ddie" against "⟦⟧ s" | Wikisource:  | next_nc_e1: D diese Einnahmen | german_print2_15: D. diese Einnahmen -->
+			<!-- line left out: id="r0l5" points="530,333 605,333 607,339 617,339 643,341 666,334 674,333 685,333 686,339 697,339 723,334 734,334 735,340 775,340 775,349 666,349 640,343 639,349 617,349 607,349 530,348" baseline="530,348 543,348 775,349" reason: differs: "Ddie" against "aus " | Wikisource:  | next_nc_e1: D diese Einnahmen | german_print2_15: D. diese Einnahmen -->
 			<TextLine id="r0l6" custom="readingOrder {index:6;}">
 				<Coords points="487,369 501,364 580,366 582,359 593,359 595,365 631,365 644,359 648,359 651,367 673,365 677,373 694,366 705,366 707,360 711,360 714,367 721,367 735,360 747,360 748,366 776,368 776,374 759,376 711,375 680,377 677,377 631,375 493,374 487,372" />
 				<Baseline points="487,374 776,375" />
@@ -101,7 +105,7 @@
 					<Unicode>der ersten Klasse</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r0l15" points="560,597 574,594 592,594 623,594 634,600 650,600 665,602 668,595 678,595 711,600 724,601 746,598 752,598 774,601 774,610 724,610 650,610 592,611 560,611" baseline="560,608 774,610" reason: differs: ")und" against "⟦⟧ d" | Wikisource:  | next_nc_e1: )und in der zweiten
+			<!-- line left out: id="r0l15" points="560,597 574,594 592,594 623,594 634,600 650,600 665,602 668,595 678,595 711,600 724,601 746,598 752,598 774,601 774,610 724,610 650,610 592,611 560,611" baseline="560,608 774,610" reason: differs: ")und" against "von " | Wikisource:  | next_nc_e1: )und in der zweiten
  | german_print2_15: ⁴) und in der zweiten
  -->
 			<TextLine id="r0l16" custom="readingOrder {index:16;}">
@@ -122,7 +126,8 @@
  | german_print2_15: nur nach dem Gewinn,
  -->
 			<TextEquiv index="1">
-				<Unicode>führt, welches die Schüler
+				<Unicode>ine Reihe von Tagen
+führt, welches die Schüler
 hatte, das Papiergeld
 nicht minder sicher, als dass
 1829. Immerhin aber
@@ -160,7 +165,7 @@ ein Theophilus Lessing</Unicode>
 					<Unicode>man sieht, sie müsse</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r1l3" points="508,807 533,802 576,802 589,808 693,807 730,803 735,803 738,809 747,809 749,803 754,803 756,809 767,809 776,813 776,814 767,818 735,821 730,821 696,820 693,820 663,818 652,818 589,817 576,816 568,817 564,817 531,816 508,816" baseline="508,815 776,818" reason: differs: "undb" against "⟦⟧ J" | Wikisource:  | next_nc_e1: und bere im 15. Jahr- | german_print2_15: und bere im 15. Jahr- -->
+			<!-- line left out: id="r1l3" points="508,807 533,802 576,802 589,808 693,807 730,803 735,803 738,809 747,809 749,803 754,803 756,809 767,809 776,813 776,814 767,818 735,821 730,821 696,820 693,820 663,818 652,818 589,817 576,816 568,817 564,817 531,816 508,816" baseline="508,815 776,818" reason: differs: "undb" against "scho" | Wikisource:  | next_nc_e1: und bere im 15. Jahr- | german_print2_15: und bere im 15. Jahr- -->
 			<TextLine id="r1l4" custom="readingOrder {index:4;}">
 				<Coords points="530,835 543,833 589,833 591,842 599,842 604,833 634,836 648,830 659,828 682,828 685,835 720,829 764,832 774,835 774,844 695,844 682,842 591,843 549,836 546,842 530,840" />
 				<Baseline points="530,842 774,844" />
@@ -168,7 +173,7 @@ ein Theophilus Lessing</Unicode>
 					<Unicode>ein eignes Gebäude für</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r1l5" points="562,857 573,857 584,860 607,853 631,853 641,859 653,859 733,860 736,854 746,854 755,868 762,856 776,856 776,874 762,874 709,870 653,869 607,869 562,868" baseline="562,868 607,868 692,869 776,870" reason: differs: "ihrR" against "⟦⟧ N" | Wikisource:  | next_nc_e1: ihr Rektor wurde.) | german_print2_15: ihr Rektor wurde.⁴) -->
+			<!-- line left out: id="r1l5" points="562,857 573,857 584,860 607,853 631,853 641,859 653,859 733,860 736,854 746,854 755,868 762,856 776,856 776,874 762,874 709,870 653,869 607,869 562,868" baseline="562,868 607,868 692,869 776,870" reason: differs: "ihrR" against "sie " | Wikisource:  | next_nc_e1: ihr Rektor wurde.) | german_print2_15: ihr Rektor wurde.⁴) -->
 			<TextLine id="r1l6" custom="readingOrder {index:6;}">
 				<Coords points="516,885 548,885 578,881 581,887 641,880 653,880 654,887 665,880 670,880 672,886 688,886 691,880 694,880 697,887 710,886 718,880 729,880 731,887 776,888 776,899 768,899 731,896 653,894 593,894 548,892 523,894 516,889" />
 				<Baseline points="516,892 776,896" />

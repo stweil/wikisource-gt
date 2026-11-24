@@ -32,7 +32,7 @@
 		</TextRegion>
 		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
 			<Coords points="221,258 784,258 784,281 221,281" />
-			<!-- line left out: id="r1l0" points="221,263 227,263 256,258 268,258 414,259 416,265 436,265 449,261 458,261 478,267 490,267 516,270 524,262 528,262 530,269 538,269 606,268 634,264 642,264 649,273 661,271 664,264 678,264 687,272 708,272 744,272 759,273 784,275 784,279 759,281 747,281 708,280 678,281 661,281 580,278 524,277 499,276 458,276 449,276 436,275 416,275 403,274 282,273 227,272 221,272" baseline="221,271 403,274 457,275 784,281" reason: differs: "cemb" against "uss " | Wikisource:  | next_nc_e1: cember durch welche auf Veranlassung
+			<!-- line left out: id="r1l0" points="221,263 227,263 256,258 268,258 414,259 416,265 436,265 449,261 458,261 478,267 490,267 516,270 524,262 528,262 530,269 538,269 606,268 634,264 642,264 649,273 661,271 664,264 678,264 687,272 708,272 744,272 759,273 784,275 784,279 759,281 747,281 708,280 678,281 661,281 580,278 524,277 499,276 458,276 449,276 436,275 416,275 403,274 282,273 227,272 221,272" baseline="221,271 403,274 457,275 784,281" reason: differs: "cemb" against "20. " | Wikisource:  | next_nc_e1: cember durch welche auf Veranlassung
  | german_print2_15: cember durch welche auf Veranlassung
  -->
 		</TextRegion>
@@ -103,9 +103,13 @@
 			<!-- line left out: id="r3l10" points="218,574 229,573 242,573 247,574 258,572 273,572 323,575 335,576 348,575 358,575 380,578 388,571 397,571 399,579 411,572 422,572 423,580 434,578 443,578 460,572 465,572 475,578 491,578 500,572 510,572 515,579 521,578 542,578 601,584 672,575 688,575 696,588 711,588 711,591 696,591 683,590 554,589 542,589 510,588 491,588 481,588 422,587 411,587 399,586 384,584 358,585 335,585 289,586 281,586 247,584 242,584 218,583" baseline="218,583 306,584 553,588 672,589 711,590" reason: differs: "muss" against "verd" | Wikisource:  | next_nc_e1: musste, einen solchen Eindruck, 5 Män | german_print2_15: musste, einen solchen Eindruck, 8 Män -->
 			<!-- line left out: id="r3l11" points="218,594 237,594 258,598 286,600 298,601 300,594 310,594 313,602 331,601 341,601 354,602 355,596 366,596 395,597 402,603 424,602 434,597 446,597 449,611 468,598 479,598 489,598 526,606 529,606 529,612 540,606 670,606 682,607 705,608 705,616 655,616 596,615 596,609 560,614 530,614 452,614 434,614 415,613 388,612 380,612 331,611 313,604 310,610 274,615 269,615 267,608 258,610 247,610 218,609" baseline="218,609 331,610 559,614 705,616" reason: second model: differs: "Bret" against "rten" | Wikisource: Bretspiele und Würfel, die Frauen ihre Schnür | next_nc_e1: Bretspiele und Würfel, die Frauen ihre Schnür | german_print2_15: Bretspiele und Würfel, die FPrauen ihre Schnür -->
 			<!-- line left out: id="r3l12" points="218,620 232,620 234,626 264,626 319,625 343,621 354,621 356,631 367,629 376,629 392,623 416,623 425,630 434,628 471,624 475,624 478,630 488,630 515,629 532,629 550,631 561,632 630,626 631,626 631,629 630,629 561,641 552,641 532,640 515,640 451,639 404,639 376,638 367,638 354,637 343,637 264,636 259,636 218,635" baseline="218,635 375,637 630,641 631,641" reason: differs: "Haar" against "leib" | Wikisource:  | next_nc_e1: Haare auf den Markt brachten, 1 | german_print2_15: Haare auf den Markt brachten, 1 3 -->
-			<!-- line left out: id="r3l13" points="217,652 253,652 260,646 272,646 273,652 283,652 293,653 293,662 253,662 233,662 217,661" baseline="217,660 293,662" reason: differs: "wurd" against "hten" | Wikisource:  | next_nc_e1: wurden.
- | german_print2_15: wurden.
- -->
+			<TextLine id="r3l13" custom="readingOrder {index:13;}">
+				<Coords points="217,652 253,652 260,646 272,646 273,652 293,653 293,662 253,662 233,662 217,661" />
+				<Baseline points="217,660 293,662" />
+				<TextEquiv index="1">
+					<Unicode>wurden.</Unicode>
+				</TextEquiv>
+			</TextLine>
 			<TextEquiv index="1">
 				<Unicode>Willküren in Dresden und Leipzig, durch
 Verhältnisse des gesellschaftlichen L
@@ -113,31 +117,32 @@ Folge des Auftretens des genann
 trage des Papstes Pius II ganz Deutsch
 zu mahnen. Im J. 1452 kam er nach
 predigte er in Chemnitz aus dem Erk
-italienisch sprach und ein Dolmetsch seine Worte</Unicode>
+italienisch sprach und ein Dolmetsch seine Worte
+wurden.</Unicode>
 			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
 			<Coords points="267,669 713,669 713,701 267,701" />
-			<!-- line left out: id="r4l0" points="267,673 282,673 334,677 335,686 355,674 378,674 379,680 409,680 409,669 424,669 438,681 473,681 490,682 521,682 555,683 571,677 605,677 605,684 615,684 646,685 662,679 672,679 674,687 685,679 713,679 713,694 685,694 672,693 638,693 615,692 605,693 591,693 555,692 512,692 438,691 424,701 409,701 409,690 355,690 321,689 316,689 267,688" baseline="267,688 299,688 520,691 662,693 713,694" reason: differs: "Am18" against "egen" | Wikisource:  | next_nc_e1: Am 18. März ³) nahm er in Meissen den
+			<!-- line left out: id="r4l0" points="267,673 282,673 334,677 335,686 355,674 378,674 379,680 409,680 409,669 424,669 438,681 473,681 490,682 521,682 555,683 571,677 605,677 605,684 615,684 646,685 662,679 672,679 674,687 685,679 713,679 713,694 685,694 672,693 638,693 615,692 605,693 591,693 555,692 512,692 438,691 424,701 409,701 409,690 355,690 321,689 316,689 267,688" baseline="267,688 299,688 520,691 662,693 713,694" reason: differs: "ärz³)na" against "ärz⟦⟧ n" | Wikisource:  | next_nc_e1: Am 18. März ³) nahm er in Meissen den
  | german_print2_15: Am 18. März ³) nahm er in Meissen den h
  -->
 		</TextRegion>
 		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
 			<Coords points="788,217 926,217 926,362 788,362" />
-			<!-- line left out: id="r5l0" points="794,221 809,221 829,226 832,217 842,217 876,217 898,219 906,225 908,225 908,233 906,233 849,232 832,231 809,230 794,230" baseline="794,230 808,230 908,233" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: uf den Erla | german_print2_15: uf den Erla -->
+			<!-- line left out: id="r5l0" points="794,221 809,221 829,226 832,217 842,217 876,217 898,219 906,225 908,225 908,233 906,233 849,232 832,231 809,230 794,230" baseline="794,230 808,230 908,233" reason: differs: "ufde" against "n de" | Wikisource:  | next_nc_e1: uf den Erla | german_print2_15: uf den Erla -->
 			<!-- line left out: id="r5l1" points="895,243 898,243 913,247 921,254 926,254 926,255 913,257 898,258 895,258" baseline="895,255 926,255" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: De-
  | german_print2_15: De-
  -->
 			<!-- line left out: id="r5l2" points="790,271 793,271 809,274 809,282 808,282 793,281 790,281" baseline="790,280 809,282" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ler
  | german_print2_15: ler
  -->
-			<!-- line left out: id="r5l3" points="796,293 806,293 814,303 822,298 831,298 831,305 818,308 796,308" baseline="796,308 831,308" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: hust
+			<!-- line left out: id="r5l3" points="796,293 806,293 814,303 822,298 831,298 831,305 818,308 796,308" baseline="796,308 831,308" reason: differs: "hust" against "den " | Wikisource:  | next_nc_e1: hust
  | german_print2_15: hust
  -->
-			<!-- line left out: id="r5l4" points="788,325 800,324 812,319 821,319 839,333 846,333 862,326 878,326 895,326 911,329 911,336 905,336 878,335 849,337 845,337 839,335 812,334 788,333" baseline="788,332 911,336" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: und gemeine
+			<!-- line left out: id="r5l4" points="788,325 800,324 812,319 821,319 839,333 846,333 862,326 878,326 895,326 911,329 911,336 905,336 878,335 849,337 845,337 839,335 812,334 788,333" baseline="788,332 911,336" reason: differs: "undg" against "n Ra" | Wikisource:  | next_nc_e1: und gemeine
  | german_print2_15: und gemeine
  -->
-			<!-- line left out: id="r5l5" points="796,356 801,351 814,350 821,349 833,349 853,351 866,352 887,355 895,347 898,347 901,353 919,353 919,362 917,362 881,361 872,361 818,360 814,360 796,359" baseline="796,359 919,362" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ausführlicher
+			<!-- line left out: id="r5l5" points="796,356 801,351 814,350 821,349 833,349 853,351 866,352 887,355 895,347 898,347 901,353 919,353 919,362 917,362 881,361 872,361 818,360 814,360 796,359" baseline="796,359 919,362" reason: differs: "ausf" against "Bürg" | Wikisource:  | next_nc_e1: ausführlicher
  | german_print2_15: ausführlichen
  -->
 		</TextRegion>
@@ -157,20 +162,13 @@ italienisch sprach und ein Dolmetsch seine Worte</Unicode>
 		</TextRegion>
 		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
 			<Coords points="833,636 922,636 922,645 833,645" />
-			<TextLine id="r7l0" custom="readingOrder {index:0;}">
-				<Coords points="833,639 854,636 858,636 879,636 906,636 922,636 922,645 876,645 833,643" />
-				<Baseline points="833,643 922,645" />
-				<TextEquiv index="1">
-					<Unicode>verbrannt</Unicode>
-				</TextEquiv>
-			</TextLine>
-			<TextEquiv index="1">
-				<Unicode>verbrannt</Unicode>
-			</TextEquiv>
+			<!-- line left out: id="r7l0" points="833,639 854,636 858,636 879,636 906,636 922,636 922,645 876,645 854,644 837,643 833,643" baseline="833,643 922,645" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: verbrannt
+ | german_print2_15: verbrannt
+ -->
 		</TextRegion>
 		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
 			<Coords points="215,699 788,699 788,721 215,721" />
-			<!-- line left out: id="r8l0" points="215,705 223,704 235,699 240,699 242,705 253,701 264,701 319,703 338,706 341,700 351,700 354,706 366,706 383,706 395,700 408,700 417,708 440,708 453,707 462,707 485,708 485,702 512,702 530,703 530,709 546,709 558,713 567,703 576,703 585,710 593,709 602,709 654,705 665,705 667,713 688,705 692,705 705,706 711,712 725,712 729,706 738,706 747,715 755,714 776,712 779,712 787,718 788,718 788,721 776,721 750,720 665,720 654,720 593,719 525,718 440,717 429,717 373,716 366,715 300,715 235,714 223,713 215,712" baseline="215,713 511,717 688,719 788,721" reason: differs: "scha" against "wurd" | Wikisource:  | next_nc_e1: schaft mit ihren Frauen und Kindern in die Brüdersch:
+			<!-- line left out: id="r8l0" points="215,705 223,704 235,699 240,699 242,705 253,701 264,701 319,703 338,706 341,700 351,700 354,706 366,706 383,706 395,700 408,700 417,708 440,708 453,707 462,707 485,708 485,702 512,702 530,703 530,709 546,709 558,713 567,703 576,703 585,710 593,709 602,709 654,705 665,705 667,713 688,705 692,705 705,706 711,712 725,712 729,706 738,706 747,715 755,714 776,712 779,712 787,718 788,718 788,721 776,721 750,720 665,720 654,720 593,719 525,718 440,717 429,717 373,716 366,715 300,715 235,714 223,713 215,712" baseline="215,713 511,717 688,719 788,721" reason: differs: "scha" against "Bürg" | Wikisource:  | next_nc_e1: schaft mit ihren Frauen und Kindern in die Brüdersch:
  | german_print2_15: schaft mit ihren Frauen und Kindern in die Brüdersch-
  -->
 		</TextRegion>
@@ -179,7 +177,7 @@ italienisch sprach und ein Dolmetsch seine Worte</Unicode>
 			<!-- line left out: id="r9l0" points="215,730 230,728 243,728 259,730 283,729 289,729 304,731 322,731 333,732 366,730 378,727 389,727 392,734 405,734 418,733 422,733 469,733 500,734 503,728 518,728 534,741 541,735 550,735 569,738 572,730 582,730 584,738 603,730 618,730 662,743 675,739 701,736 704,736 718,735 728,735 736,736 755,741 759,732 766,732 766,747 736,747 732,747 701,746 678,745 662,745 582,744 500,744 490,744 422,743 418,743 406,742 389,741 353,741 347,741 335,740 333,746 322,746 304,741 292,741 259,740 243,740 215,740" baseline="215,740 274,740 603,744 735,746 766,747" reason: differs: "riten" against "r Mino" | Wikisource:  | next_nc_e1: riten strenger Observanz und in die G inschaft de
  | german_print2_15: riten strenger Observanz und in die G. inschaft de
  -->
-			<!-- line left out: id="r9l1" points="214,750 225,750 233,757 260,753 271,751 277,751 278,757 292,757 293,751 304,751 306,757 330,757 343,763 349,758 369,755 380,755 399,764 421,754 435,754 438,760 469,759 511,757 533,757 544,760 554,756 563,756 567,763 583,761 586,761 633,763 663,763 698,763 711,756 715,756 719,766 726,766 726,756 739,756 739,764 746,764 756,766 756,773 746,778 726,778 711,773 682,772 661,771 586,770 563,770 544,770 540,770 477,769 421,769 380,768 349,768 278,767 266,765 231,765 225,766 214,766" baseline="214,765 343,767 511,769 662,771 711,772 756,773" reason: differs: "desO" against "aft " | Wikisource:  | next_nc_e1: des Ordens auſ. ) Am 20. October zog er in Leipz
+			<!-- line left out: id="r9l1" points="214,750 225,750 233,757 260,753 271,751 277,751 278,757 292,757 293,751 304,751 306,757 330,757 343,763 349,758 369,755 380,755 399,764 421,754 435,754 438,760 469,759 511,757 533,757 544,760 554,756 563,756 567,763 583,761 586,761 633,763 663,763 698,763 711,756 715,756 719,766 726,766 726,756 739,756 739,764 746,764 756,766 756,773 746,778 726,778 711,773 682,772 661,771 586,770 563,770 544,770 540,770 477,769 421,769 380,768 349,768 278,767 266,765 231,765 225,766 214,766" baseline="214,765 343,767 511,769 662,771 711,772 756,773" reason: differs: "desOrd" against "Werke " | Wikisource:  | next_nc_e1: des Ordens auſ. ) Am 20. October zog er in Leipz
  | german_print2_15: des Ordens auſ.¹) Am 20. October zog er in Leipe
  -->
 			<TextLine id="r9l2" custom="readingOrder {index:2;}">

@@ -16,66 +16,66 @@ de.wikisource.org, `la` for la.wikisource.org, ...):
 | Directory | Work | Pages | Lines used | Lines left out |
 |---|---|---|---|---|
 | `de/narrenschiff_1499` | Sebastian Brant: Das Narrenschiff, Basel 1499 | 307 | 2,860 | 5,188 |
-| `de/rosengarten_1515` | Eucharius Rößlin: Der Swangern frawen vnd hebammen roszgarten, 1515 | 100 | 1,432 | 1,940 |
-| `de/vlenspiegel_1515` | Ein kurtzweilig lesen von Dyl Vlenspiegel, Straßburg 1515 | 252 | 2,376 | 3,019 |
-| `de/schachzabel_1520` | Jakob Köbel: Schachzabel Spiel, Oppenheim 1520 | 43 | 716 | 512 |
-| `de/bergbuechlin_1527` | Ein nützlich Bergbüchlin, 1527 | 46 | 675 | 489 |
+| `de/rosengarten_1515` | Eucharius Rößlin: Der Swangern frawen vnd hebammen roszgarten, 1515 | 100 | 1,388 | 1,984 |
+| `de/vlenspiegel_1515` | Ein kurtzweilig lesen von Dyl Vlenspiegel, Straßburg 1515 | 250 | 2,223 | 3,172 |
+| `de/schachzabel_1520` | Jakob Köbel: Schachzabel Spiel, Oppenheim 1520 | 43 | 678 | 550 |
+| `de/bergbuechlin_1527` | Ein nützlich Bergbüchlin, 1527 | 46 | 656 | 508 |
 | `de/carolina_1533` | Keyser Karls des fünfften vnnd des heyligen Römischen Reichs peinlich gerichts ordnung (Constitutio criminalis Carolina), Mainz 1533 | 108 | 1,614 | 2,123 |
-| `de/teuffel_1589` | Hansen Schmidt Teuffel, 1589 | 23 | 429 | 314 |
-| `de/restitutionsedikt_1629` | Restitutionsedikt, 1629 | 28 | 330 | 726 |
-| `de/pralerey_1673` | Deß Weltberuffenen Simplicissimi Pralerey und Gepräng mit seinem Teutschen Michel, 1673 | 121 | 1,869 | 1,395 |
-| `de/wundergesicht_1678` | Weißenfelsisches Wunder-Gesicht, 1678 | 35 | 754 | 524 |
-| `de/feurordnung_1681` | Revidirte Feur-Ordnung, Hannover 1681 | 25 | 435 | 246 |
-| `de/friedensinstrument_1697` | Friedens-Instrument zu Ryswick, 1697 | 34 | 436 | 916 |
-| `de/dalimil_chronik_1859` | Dalimils Chronik von Böhmen | 30 | 1,010 | 173 |
-| `de/schiller_galerie_1859` | Friedrich Pecht: Schiller-Galerie | 30 | 756 | 201 |
-| `de/album_schloesser_rittergueter_1860` | Gustav Adolf Pönicke (Hrsg.): Album der Rittergüter und Schlösser im Königreiche Sachsen I. Section | 22 | 983 | 491 |
-| `de/spiess_lahnthal_1866` | August Spieß: Das Lahntal von seinem Ursprung bis zur Ausmündung nebst seiner nächsten Umgebung | 30 | 890 | 194 |
-| `de/newton_principien_1872` | Isaac Newton: Mathematische Principien der Naturlehre | 30 | 1,041 | 301 |
-| `de/darwin_entstehung_1876` | Charles Darwin: Über die Entstehung der Arten | 30 | 844 | 316 |
-| `de/chemnitz_1878` | Mitteilungen des Vereins für Chemnitzer Geschichte, Erster Band, Chemnitz 1878 | 353 | 8,742 | 7,230 |
-| `de/chemnitz_1883` | Mitteilungen des Vereins für Chemnitzer Geschichte, Dritter und Vierter Band, Chemnitz 1883 | 426 | 9,506 | 9,448 |
-| `de/schmidt_miscellanea_silurica_1883` | Friedrich Schmidt: Miscellanea silurica III | 30 | 894 | 254 |
-| `de/georgien_natur_sitten_1885` | Arthur Leist: Georgien. Natur, Sitten und Bewohner | 30 | 864 | 212 |
-| `de/hans_schiltbergers_reisebuch_1885` | Valentin Langmantel (Hrsg.): Hans Schiltbergers Reisebuch nach der Nürnberger Handschrift | 16 | 577 | 193 |
-| `de/kunstdenkmaeler_floeha_1886` | Richard Steche: Kunstdenkmäler Amtshauptmannschaft Flöha | 30 | 870 | 550 |
-| `de/patkanjan_erzaehlungen_1886` | Rafael Patkanjan: Drei Erzählungen | 30 | 785 | 89 |
-| `de/woermann_gemaeldegalerie_1887` | Katalog der Königlichen Gemäldegalerie zu Dresden (1887) | 30 | 506 | 840 |
-| `de/krohn_baer_wolf_1889` | Kaarle Krohn: Bär (Wolf) und Fuchs | 30 | 714 | 363 |
-| `de/galeriewerk_luecke_1894` | Hermann Lücke: Die Königliche Gemäldegalerie zu Dresden | 30 | 847 | 263 |
-| `de/klarissen_neuss_1896` | Urkunden und Akten aus dem Archiv der Klarissen zu Neuss | 30 | 1,069 | 300 |
-| `de/jahrbuch_radfahrer_1897` | Jahrbuch der deutschen Radfahrer-Vereine mit Beiträgen hervorragender Fachschriftsteller und unter Mitwirkung der Vereine selbst | 29 | 962 | 1,160 |
-| `de/touren_buch_estland_1897` | C.I. Dethloff, Alph. Krause: Touren-Buch von Estland mit Fortführung der Touren bis in die Städte Nord-Livlands | 17 | 535 | 206 |
-| `de/cistercienser_heiligenkreuz_1898` | Florian Watzl: Die Cistercienser von Heiligenkreuz | 30 | 1,014 | 352 |
-| `de/malerwerke_band2_1898` | Malerwerke des neunzehnten Jahrhunderts – Zweiter Band | 30 | 2,058 | 1,822 |
-| `de/zauberwesen_hexenwahn_niederrhein_1898` | Emil Pauls: Zauberwesen und Hexenwahn am Niederrhein. In: Beiträge zur Geschichte des Niederrheins, Jahrbuch des Düsseldorfer Geschichtsvereins. 13. Band, 1898. S. 134-242 | 30 | 791 | 658 |
-| `de/josephus_altertuemer_1899` | Jüdische Altertümer | 30 | 910 | 226 |
-| `de/moebius_schwachsinn_1903` | Über den physiologischen Schwachsinn des Weibes. 5. veränderte Auflage | 30 | 1,025 | 173 |
-| `de/gurlitt_kunstdenkmaeler_dresden_1904` | Cornelius Gurlitt: Die Kunstdenkmäler von Dresdens Umgebung. Theil II Amtshauptmannschaft Dresden-Neustadt | 30 | 1,054 | 527 |
-| `de/zehnte_muse_1904` | Die zehnte Muse | 30 | 691 | 525 |
-| `de/hegel_phaenomenologie_1907` | Phänomenologie des Geistes | 30 | 1,152 | 164 |
-| `de/aarne_maerchenforschungen_1908` | Antti Aarne: Vergleichende Märchenforschungen | 30 | 742 | 540 |
-| `de/schumann_dresden_1909` | Paul Schumann: Dresden. Berühmte Kunststätten, Band 46, 1. Auflage | 30 | 1,001 | 215 |
-| `de/friedlaender_kriminalprozesse_1910` | Hugo Friedländer: Interessante Kriminal-Prozesse von kulturhistorischer Bedeutung, Band 1 | 30 | 875 | 207 |
-| `de/adler_nervoes_1912` | Alfred Adler: Über den nervösen Charakter | 30 | 1,349 | 196 |
-| `de/sophienkirche_dresden_1912` | Robert Bruck: Die Sophienkirche in Dresden | 30 | 428 | 731 |
-| `de/knortz_hexen_teufel_1913` | Karl Knortz: Hexen, Teufel und Blocksbergspuk in Geschichte, Sage und Literatur | 30 | 973 | 237 |
-| `de/otto_herodes_1913` | Walter Otto: Herodes. Beiträge zur Geschichte des letzten jüdischen Königshauses | 7 | 324 | 448 |
-| `de/handbuch_politik_band1_1914` | Handbuch der Politik – Band 1 | 30 | 970 | 563 |
-| `de/jensen_schewtschenko_1916` | Alfred Anton Jensen: Taras Schewtschenko. Ein ukrainisches Dichterleben | 30 | 686 | 463 |
-| `de/dresden_geschichte_heft26_1918` | Kurt Kreiser: Carl Gottlieb Reissiger. Sein Leben nebst einigen Beiträgen zur Geschichte des Konzertwesens in Dresden | 29 | 553 | 998 |
-| `de/eroberung_brotes_1919` | Pjotr Alexejewitsch Kropotkin, Bernhard Kampffmeyer (Übersetzer): Die Eroberung des Brotes | 30 | 1,017 | 340 |
-| `de/richter_verzeichnis_1922` | Johann Friedrich Hoff; Karl Budde: Adrian Ludwig Richter, Maler und Radierer. Verzeichnis seines gesamten graphischen Werkes | 29 | 626 | 773 |
-| `de/cassirer_symbolische_formen_1923` | Ernst Cassirer: Philosophie der symbolischen Formen, erster Teil | 30 | 854 | 330 |
-| `de/haenel_kostbare_waffen_1923` | Erich Haenel: Kostbare Waffen aus der Dresdner Rüstkammer | 30 | 464 | 651 |
-| `de/hexenhammer_1923` | Jakob Sprenger, Heinrich Institoris; J. W. R. Schmidt (Übersetzung): Der Hexenhammer | 30 | 1,068 | 136 |
-| `de/ossendowski_schatten_dunklen_1924` | Antoni Ferdinand Ossendowski: Schatten des dunklen Ostens | 30 | 635 | 400 |
-| `de/schnitzler_traumnovelle_1926` | Traumnovelle | 30 | 702 | 141 |
-| `de/sponsel_gruenes_gewoelbe_1928` | Jean Louis Sponsel: Das Grüne Gewölbe: eine Auswahl von Meisterwerken in vier Bänden. Band 2 | 30 | 781 | 518 |
-| `de/freud_vorlesungen_1933` | Neue Folge der Vorlesungen zur Einführung in die Psychoanalyse | 30 | 828 | 109 |
+| `de/teuffel_1589` | Hansen Schmidt Teuffel, 1589 | 23 | 490 | 253 |
+| `de/restitutionsedikt_1629` | Restitutionsedikt, 1629 | 28 | 307 | 749 |
+| `de/pralerey_1673` | Deß Weltberuffenen Simplicissimi Pralerey und Gepräng mit seinem Teutschen Michel, 1673 | 122 | 1,868 | 1,396 |
+| `de/wundergesicht_1678` | Weißenfelsisches Wunder-Gesicht, 1678 | 35 | 717 | 561 |
+| `de/feurordnung_1681` | Revidirte Feur-Ordnung, Hannover 1681 | 25 | 426 | 255 |
+| `de/friedensinstrument_1697` | Friedens-Instrument zu Ryswick, 1697 | 34 | 403 | 949 |
+| `de/dalimil_chronik_1859` | Dalimils Chronik von Böhmen | 30 | 1,001 | 182 |
+| `de/schiller_galerie_1859` | Friedrich Pecht: Schiller-Galerie | 30 | 750 | 207 |
+| `de/album_schloesser_rittergueter_1860` | Gustav Adolf Pönicke (Hrsg.): Album der Rittergüter und Schlösser im Königreiche Sachsen I. Section | 22 | 909 | 565 |
+| `de/spiess_lahnthal_1866` | August Spieß: Das Lahntal von seinem Ursprung bis zur Ausmündung nebst seiner nächsten Umgebung | 30 | 877 | 207 |
+| `de/newton_principien_1872` | Isaac Newton: Mathematische Principien der Naturlehre | 30 | 1,009 | 333 |
+| `de/darwin_entstehung_1876` | Charles Darwin: Über die Entstehung der Arten | 30 | 744 | 416 |
+| `de/chemnitz_1878` | Mitteilungen des Vereins für Chemnitzer Geschichte, Erster Band, Chemnitz 1878 | 355 | 8,790 | 7,182 |
+| `de/chemnitz_1883` | Mitteilungen des Vereins für Chemnitzer Geschichte, Dritter und Vierter Band, Chemnitz 1883 | 426 | 9,490 | 9,464 |
+| `de/schmidt_miscellanea_silurica_1883` | Friedrich Schmidt: Miscellanea silurica III | 30 | 884 | 264 |
+| `de/georgien_natur_sitten_1885` | Arthur Leist: Georgien. Natur, Sitten und Bewohner | 30 | 855 | 221 |
+| `de/hans_schiltbergers_reisebuch_1885` | Valentin Langmantel (Hrsg.): Hans Schiltbergers Reisebuch nach der Nürnberger Handschrift | 16 | 566 | 204 |
+| `de/kunstdenkmaeler_floeha_1886` | Richard Steche: Kunstdenkmäler Amtshauptmannschaft Flöha | 30 | 841 | 579 |
+| `de/patkanjan_erzaehlungen_1886` | Rafael Patkanjan: Drei Erzählungen | 30 | 783 | 91 |
+| `de/woermann_gemaeldegalerie_1887` | Katalog der Königlichen Gemäldegalerie zu Dresden (1887) | 30 | 499 | 847 |
+| `de/krohn_baer_wolf_1889` | Kaarle Krohn: Bär (Wolf) und Fuchs | 30 | 711 | 366 |
+| `de/galeriewerk_luecke_1894` | Hermann Lücke: Die Königliche Gemäldegalerie zu Dresden | 30 | 842 | 268 |
+| `de/klarissen_neuss_1896` | Urkunden und Akten aus dem Archiv der Klarissen zu Neuss | 30 | 1,050 | 319 |
+| `de/jahrbuch_radfahrer_1897` | Jahrbuch der deutschen Radfahrer-Vereine mit Beiträgen hervorragender Fachschriftsteller und unter Mitwirkung der Vereine selbst | 29 | 922 | 1,200 |
+| `de/touren_buch_estland_1897` | C.I. Dethloff, Alph. Krause: Touren-Buch von Estland mit Fortführung der Touren bis in die Städte Nord-Livlands | 17 | 518 | 223 |
+| `de/cistercienser_heiligenkreuz_1898` | Florian Watzl: Die Cistercienser von Heiligenkreuz | 30 | 1,009 | 357 |
+| `de/malerwerke_band2_1898` | Malerwerke des neunzehnten Jahrhunderts – Zweiter Band | 30 | 2,008 | 1,872 |
+| `de/zauberwesen_hexenwahn_niederrhein_1898` | Emil Pauls: Zauberwesen und Hexenwahn am Niederrhein. In: Beiträge zur Geschichte des Niederrheins, Jahrbuch des Düsseldorfer Geschichtsvereins. 13. Band, 1898. S. 134-242 | 30 | 779 | 670 |
+| `de/josephus_altertuemer_1899` | Jüdische Altertümer | 30 | 907 | 229 |
+| `de/moebius_schwachsinn_1903` | Über den physiologischen Schwachsinn des Weibes. 5. veränderte Auflage | 30 | 1,013 | 185 |
+| `de/gurlitt_kunstdenkmaeler_dresden_1904` | Cornelius Gurlitt: Die Kunstdenkmäler von Dresdens Umgebung. Theil II Amtshauptmannschaft Dresden-Neustadt | 30 | 1,029 | 552 |
+| `de/zehnte_muse_1904` | Die zehnte Muse | 30 | 679 | 537 |
+| `de/hegel_phaenomenologie_1907` | Phänomenologie des Geistes | 30 | 1,141 | 175 |
+| `de/aarne_maerchenforschungen_1908` | Antti Aarne: Vergleichende Märchenforschungen | 30 | 735 | 547 |
+| `de/schumann_dresden_1909` | Paul Schumann: Dresden. Berühmte Kunststätten, Band 46, 1. Auflage | 30 | 994 | 222 |
+| `de/friedlaender_kriminalprozesse_1910` | Hugo Friedländer: Interessante Kriminal-Prozesse von kulturhistorischer Bedeutung, Band 1 | 30 | 869 | 213 |
+| `de/adler_nervoes_1912` | Alfred Adler: Über den nervösen Charakter | 30 | 1,338 | 207 |
+| `de/sophienkirche_dresden_1912` | Robert Bruck: Die Sophienkirche in Dresden | 29 | 425 | 734 |
+| `de/knortz_hexen_teufel_1913` | Karl Knortz: Hexen, Teufel und Blocksbergspuk in Geschichte, Sage und Literatur | 30 | 971 | 239 |
+| `de/otto_herodes_1913` | Walter Otto: Herodes. Beiträge zur Geschichte des letzten jüdischen Königshauses | 7 | 323 | 449 |
+| `de/handbuch_politik_band1_1914` | Handbuch der Politik – Band 1 | 30 | 850 | 683 |
+| `de/jensen_schewtschenko_1916` | Alfred Anton Jensen: Taras Schewtschenko. Ein ukrainisches Dichterleben | 30 | 681 | 468 |
+| `de/dresden_geschichte_heft26_1918` | Kurt Kreiser: Carl Gottlieb Reissiger. Sein Leben nebst einigen Beiträgen zur Geschichte des Konzertwesens in Dresden | 28 | 548 | 1,003 |
+| `de/eroberung_brotes_1919` | Pjotr Alexejewitsch Kropotkin, Bernhard Kampffmeyer (Übersetzer): Die Eroberung des Brotes | 30 | 1,011 | 346 |
+| `de/richter_verzeichnis_1922` | Johann Friedrich Hoff; Karl Budde: Adrian Ludwig Richter, Maler und Radierer. Verzeichnis seines gesamten graphischen Werkes | 29 | 602 | 797 |
+| `de/cassirer_symbolische_formen_1923` | Ernst Cassirer: Philosophie der symbolischen Formen, erster Teil | 30 | 849 | 335 |
+| `de/haenel_kostbare_waffen_1923` | Erich Haenel: Kostbare Waffen aus der Dresdner Rüstkammer | 30 | 453 | 662 |
+| `de/hexenhammer_1923` | Jakob Sprenger, Heinrich Institoris; J. W. R. Schmidt (Übersetzung): Der Hexenhammer | 30 | 1,066 | 138 |
+| `de/ossendowski_schatten_dunklen_1924` | Antoni Ferdinand Ossendowski: Schatten des dunklen Ostens | 30 | 584 | 451 |
+| `de/schnitzler_traumnovelle_1926` | Traumnovelle | 30 | 701 | 142 |
+| `de/sponsel_gruenes_gewoelbe_1928` | Jean Louis Sponsel: Das Grüne Gewölbe: eine Auswahl von Meisterwerken in vier Bänden. Band 2 | 30 | 755 | 544 |
+| `de/freud_vorlesungen_1933` | Neue Folge der Vorlesungen zur Einführung in die Psychoanalyse | 30 | 826 | 111 |
 | `de/philo_traeume_1938` | Über die Träume (De somnis) übersetzt von Maximilian Adler | 30 | 709 | 520 |
-| `de/loos_schriften_1962` | Adolf Loos: Adolf Loos – Sämtliche Schriften | 30 | 829 | 120 |
-| | **Total** | **3,220** | **71,430** | **53,259** |
+| `de/loos_schriften_1962` | Adolf Loos: Adolf Loos – Sämtliche Schriften | 30 | 825 | 124 |
+| | **Total** | **3,219** | **70,351** | **54,338** |
 
 **Evaluation data:** the two volumes of the *Mitteilungen des Vereins für
 Chemnitzer Geschichte* (`de/chemnitz_1878`, `de/chemnitz_1883`, modern
@@ -127,10 +127,10 @@ print, so the text is processed (`scripts/ws-build.py`):
    r rotunda / r, vowel with bar / vowel + n or m, `ñ` / nn or nd, `ð` /
    der, ...). The text gets the letters of Wikisource and the print forms
    of the recognition. Where a model reads one plain letter as another, the
-   letter of Wikisource is taken (at most twice per line). With `STRICT=1`
-   (used for Narrenschiff 1499 and Carolina 1533) the line is left out
-   instead when both models read the same other letter there: in a sample
-   that was nearly always a place where Wikisource differs from the print.
+   letter of Wikisource is taken (at most twice per line). But when both
+   models read the same other letter there, the line is left out: in samples
+   that was often a place where Wikisource differs from the print (kein for
+   keyn, Ricaud for Rigaud, grosse for grosze). `STRICT=0` turns this off.
 4. A line is used only if both models lead to exactly the same text. All
    other lines are left out.
 5. The layout analysis sometimes cuts a printed line into pieces. A piece

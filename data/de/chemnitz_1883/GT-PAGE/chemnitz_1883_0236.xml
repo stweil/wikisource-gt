@@ -64,15 +64,36 @@
 		</TextRegion>
 		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
 			<Coords points="229,349 417,349 417,418 229,418" />
-			<!-- line left out: id="r6l0" points="231,349 246,349 253,355 267,355 299,356 301,350 306,350 309,357 317,357 334,355 339,355 366,351 375,351 375,366 334,366 306,364 299,365 289,365 267,364 251,365 231,365" baseline="231,365 375,366" reason: differs: "Kass" against "⟦⟧ ⟦" | Wikisource:  | next_nc_e1: Kassenbestand | german_print2_15: Kassenbestand -->
-			<!-- line left out: id="r6l1" points="229,379 241,379 247,380 272,381 303,382 323,385 325,376 335,376 343,382 365,377 382,377 398,382 406,384 406,388 398,392 346,392 343,392 272,391 247,391 242,391 229,390" baseline="229,390 345,391 406,392" reason: differs: "Steu" against "| st" | Wikisource:  | next_nc_e1: Steuern der Mitg | german_print2_15: Steuern der Mitg -->
-			<!-- line left out: id="r6l2" points="229,404 240,402 251,402 260,410 270,410 278,402 289,402 290,410 302,408 308,402 324,402 340,411 344,411 359,409 369,409 388,412 403,406 417,406 417,418 369,418 324,418 308,418 302,411 289,417 278,417 251,416 240,416 229,414" baseline="229,416 387,416 403,417 417,418" reason: differs: "Gesc" against "p:hi" | Wikisource:  | next_nc_e1: Geschenk eines G
- | german_print2_15: Geschenk eines G
- -->
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="231,349 246,349 253,355 299,356 301,350 306,350 309,357 375,351 375,366 334,366 306,364 231,365" />
+				<Baseline points="231,365 375,366" />
+				<TextEquiv index="1">
+					<Unicode>Kassenbestand</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l1" custom="readingOrder {index:1;}">
+				<Coords points="229,379 303,382 323,385 325,376 335,376 343,382 365,377 382,377 406,384 406,388 398,392 346,392 343,392 229,390" />
+				<Baseline points="229,390 406,392" />
+				<TextEquiv index="1">
+					<Unicode>Steuern der Mitg</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r6l2" custom="readingOrder {index:2;}">
+				<Coords points="229,404 240,402 251,402 260,410 270,410 278,402 289,402 290,410 302,408 308,402 324,402 340,411 369,409 388,412 403,406 417,406 417,418 369,418 324,418 308,418 302,411 289,417 240,416 229,414" />
+				<Baseline points="229,416 387,416 417,418" />
+				<TextEquiv index="1">
+					<Unicode>Geschenk eines G</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Kassenbestand
+Steuern der Mitg
+Geschenk eines G</Unicode>
+			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
 			<Coords points="228,428 413,428 413,445 228,445" />
-			<!-- line left out: id="r7l0" points="228,431 240,431 253,428 258,428 261,434 273,434 295,432 306,432 314,428 328,428 328,434 337,434 356,437 359,428 368,428 377,435 397,429 413,429 413,445 397,445 337,444 314,444 289,443 273,442 252,443 242,443 228,442" baseline="228,442 352,443 413,444" reason: differs: "Subv" against "lign" | Wikisource:  | next_nc_e1: Subvention der St
+			<!-- line left out: id="r7l0" points="228,431 240,431 253,428 258,428 261,434 273,434 295,432 306,432 314,428 328,428 328,434 337,434 356,437 359,428 368,428 377,435 397,429 413,429 413,445 397,445 337,444 314,444 289,443 273,442 252,443 242,443 228,442" baseline="228,442 352,443 413,444" reason: differs: "Subv" against "önne" | Wikisource:  | next_nc_e1: Subvention der St
  | german_print2_15: Subvention der St
  -->
 		</TextRegion>
@@ -84,15 +105,29 @@
 		</GraphicRegion>
 		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
 			<Coords points="231,454 525,454 525,471 231,471" />
-			<!-- line left out: id="r10l0" points="231,454 235,454 246,460 254,454 258,454 261,462 272,462 295,461 307,460 318,460 348,461 369,461 373,455 384,455 391,461 403,458 415,458 423,459 446,461 462,455 467,455 479,456 481,463 493,462 504,462 525,462 525,471 504,471 423,471 418,471 365,470 348,469 318,470 307,470 295,469 272,467 258,468 249,469 231,469" baseline="231,469 295,469 525,471" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Erlös aus verkauften Plänen
- | german_print2_15: Erlös aus verkauften Plänen
- -->
+			<TextLine id="r10l0" custom="readingOrder {index:0;}">
+				<Coords points="231,454 235,454 246,460 254,454 258,454 261,462 307,460 369,461 373,455 384,455 391,461 403,458 446,461 462,455 467,455 479,456 481,463 525,462 525,471 504,471 423,471 418,471 348,469 307,470 272,467 231,469" />
+				<Baseline points="231,469 525,471" />
+				<TextEquiv index="1">
+					<Unicode>Erlös aus verkauften Plänen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Erlös aus verkauften Plänen</Unicode>
+			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
 			<Coords points="228,480 290,480 290,495 228,495" />
-			<!-- line left out: id="r11l0" points="228,480 241,480 260,485 269,487 282,485 290,485 290,495 260,495 228,495" baseline="228,495 290,495" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Zinsen
- | german_print2_15: Zinsen
- -->
+			<TextLine id="r11l0" custom="readingOrder {index:0;}">
+				<Coords points="228,480 241,480 269,487 290,485 290,495 260,495 228,495" />
+				<Baseline points="228,495 290,495" />
+				<TextEquiv index="1">
+					<Unicode>Zinsen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Zinsen</Unicode>
+			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
 			<Coords points="229,550 661,550 661,654 229,654" />
@@ -103,13 +138,25 @@
 					<Unicode>Ausgabe.</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r12l1" points="229,583 246,583 250,589 267,588 272,588 301,589 310,592 396,598 430,598 430,600 396,600 301,599 272,599 239,599 229,599" baseline="229,599 309,598 398,599 430,600" reason: differs: "Miet" against "⟦⟧ ⟦" | Wikisource:  | next_nc_e1: Mietzins . . | german_print2_15: Mietzins . . . -->
-			<!-- line left out: id="r12l2" points="230,609 234,609 254,611 265,615 273,609 288,609 302,617 309,609 319,609 321,617 333,617 347,610 359,610 373,617 378,617 385,610 397,610 400,617 411,617 413,611 422,611 424,617 435,617 441,618 476,617 490,617 515,618 533,612 538,612 556,613 559,619 569,619 598,618 630,618 630,628 613,633 605,633 598,628 569,627 538,629 533,629 499,627 490,625 441,626 413,626 411,632 400,632 397,626 385,626 378,625 365,626 360,626 319,625 288,625 273,625 265,624 230,624" baseline="230,624 287,624 476,625 630,628" reason: differs: "Druc" against "yle=" | Wikisource:  | next_nc_e1: Druck des Stadtplanes vom Jahre 1761 | german_print2_15: Druck des Stadtplanes vom Jahre 1761 -->
-			<!-- line left out: id="r12l3" points="229,635 234,635 251,638 259,641 280,641 302,643 319,635 332,635 334,647 345,644 356,637 367,637 392,642 417,643 437,643 437,653 417,654 400,654 356,652 332,651 319,651 302,645 297,650 280,651 251,651 229,651" baseline="229,650 437,652" reason: differs: "Dive" against "n:ce" | Wikisource:  | next_nc_e1: Diverse Rechnungen
- | german_print2_15: Diverse Rechnungen
- -->
+			<!-- line left out: id="r12l1" points="229,583 246,583 250,589 267,588 272,588 301,589 310,592 396,598 430,598 430,600 396,600 301,599 272,599 239,599 229,599" baseline="229,599 309,598 398,599 430,600" reason: differs: "Miet" against "| st" | Wikisource:  | next_nc_e1: Mietzins . . | german_print2_15: Mietzins . . . -->
+			<TextLine id="r12l2" custom="readingOrder {index:2;}">
+				<Coords points="230,609 234,609 254,611 265,615 273,609 288,609 302,617 309,609 319,609 321,617 333,617 347,610 359,610 373,617 378,617 385,610 397,610 400,617 411,617 413,611 422,611 424,617 441,618 515,618 533,612 556,613 559,619 630,618 630,628 613,633 605,633 598,628 569,627 533,629 499,627 490,625 413,626 411,632 400,632 397,626 378,625 360,626 230,624" />
+				<Baseline points="230,624 476,625 630,628" />
+				<TextEquiv index="1">
+					<Unicode>Druck des Stadtplanes vom Jahre 1761</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r12l3" custom="readingOrder {index:3;}">
+				<Coords points="229,635 234,635 251,638 259,641 302,643 319,635 332,635 334,647 345,644 356,637 367,637 392,642 437,643 437,653 417,654 400,654 319,651 302,645 297,650 229,651" />
+				<Baseline points="229,650 437,652" />
+				<TextEquiv index="1">
+					<Unicode>Diverse Rechnungen</Unicode>
+				</TextEquiv>
+			</TextLine>
 			<TextEquiv index="1">
-				<Unicode>Ausgabe.</Unicode>
+				<Unicode>Ausgabe.
+Druck des Stadtplanes vom Jahre 1761
+Diverse Rechnungen</Unicode>
 			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
@@ -153,7 +200,7 @@
 		</TextRegion>
 		<TextRegion id="r18" custom="readingOrder {index:18;} orientation {0;}">
 			<Coords points="422,1528 658,1528 658,1540 422,1540" />
-			<!-- line left out: id="r18l0" points="422,1533 430,1531 443,1528 456,1528 469,1528 479,1528 494,1528 525,1528 542,1528 646,1528 657,1528 658,1529 658,1537 657,1539 566,1539 551,1539 479,1537 441,1540 430,1540 422,1536" baseline="422,1537 658,1537" reason: differs: "eita" against ". ||" | Wikisource:  | next_nc_e1: eital slub dresden de ppn015088422365
+			<!-- line left out: id="r18l0" points="422,1533 430,1531 443,1528 456,1528 469,1528 479,1528 494,1528 525,1528 542,1528 646,1528 657,1528 658,1529 658,1537 657,1539 566,1539 551,1539 479,1537 441,1540 430,1540 422,1536" baseline="422,1537 658,1537" reason: differs: "eita" against "4. |" | Wikisource:  | next_nc_e1: eital slub dresden de ppn015088422365
  | german_print2_15: enhfelubdueden de poneoisoee2236
  -->
 		</TextRegion>

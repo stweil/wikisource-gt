@@ -89,12 +89,12 @@ rbunden</Unicode>
 		</TextRegion>
 		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
 			<Coords points="533,476 626,476 626,504 533,504" />
-			<!-- line left out: id="r1l0" points="533,489 580,487 590,487 590,476 603,476 603,482 615,482 625,491 626,491 626,494 615,498 603,498 603,504 590,504 590,493 569,495 559,495 540,493 533,493" baseline="533,493 626,494" reason: differs: "zuSc" against "mit " | Wikisource:  | next_nc_e1:  zu Schö
+			<!-- line left out: id="r1l0" points="533,489 580,487 590,487 590,476 603,476 603,482 615,482 625,491 626,491 626,494 615,498 603,498 603,504 590,504 590,493 569,495 559,495 540,493 533,493" baseline="533,493 626,494" reason: second model has no such line | Wikisource: zu Schö | next_nc_e1:  zu Schö
  | german_print2_15:  -->
 		</TextRegion>
 		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
 			<Coords points="559,533 790,533 790,896 559,896" />
-			<!-- line left out: id="r2l0" points="688,542 694,540 704,540 723,533 739,533 739,539 751,539 751,533 765,533 765,539 775,539 775,555 730,555 723,555 694,550 688,544" baseline="688,550 775,549" reason: differs: "enEr" against "rzli" | Wikisource:  | next_nc_e1: en Ereig
+			<!-- line left out: id="r2l0" points="688,542 694,540 704,540 723,533 739,533 739,539 751,539 751,533 765,533 765,539 775,539 775,555 730,555 723,555 694,550 688,544" baseline="688,550 775,549" reason: differs: "enEr" against "nhei" | Wikisource:  | next_nc_e1: en Ereig
  | german_print2_15: en Ereig
  -->
 			<!-- line left out: id="r2l1" points="606,570 619,566 624,566 637,567 648,566 726,566 733,560 752,560 752,576 733,576 726,575 691,577 624,577 619,577 606,575" baseline="606,575 705,575 752,576" reason: models differ | Wikisource: efochten werd | next_nc_e1: efochten werd | german_print2_15: efochten werd- -->
@@ -119,8 +119,14 @@ rbunden</Unicode>
 					<Unicode>ruhender</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r2l5" points="688,675 696,675 706,672 716,672 717,666 729,666 730,672 738,672 756,672 757,666 769,666 770,672 787,672 787,682 756,682 706,682 688,679" baseline="688,682 787,682" reason: differs: "ssch" against "⟦⟧ d" | Wikisource:  | next_nc_e1: sschreiber | german_print2_15: sschreiber -->
-			<!-- line left out: id="r2l6" points="690,699 702,699 707,700 735,699 748,698 780,698 787,702 787,704 780,708 766,709 707,709 690,709" baseline="690,709 787,708" reason: differs: "ineu" against "der " | Wikisource:  | next_nc_e1: ine uner- | german_print2_15: ine uner- -->
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="688,675 696,675 706,672 716,672 717,666 729,666 730,672 756,672 757,666 769,666 770,672 787,672 787,682 756,682 706,682 688,679" />
+				<Baseline points="688,682 787,682" />
+				<TextEquiv index="1">
+					<Unicode>sschreiber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l6" points="690,699 702,699 707,700 735,699 748,698 780,698 787,702 787,704 780,708 766,709 707,709 690,709" baseline="690,709 787,708" reason: differs: "ineu" against "des " | Wikisource:  | next_nc_e1: ine uner- | german_print2_15: ine uner- -->
 			<TextLine id="r2l7" custom="readingOrder {index:7;}">
 				<Coords points="656,724 696,726 699,720 704,720 706,726 728,725 734,727 751,719 767,719 769,725 788,725 788,735 696,736 664,736 656,732" />
 				<Baseline points="656,736 788,735" />
@@ -142,14 +148,14 @@ rbunden</Unicode>
 					<Unicode>dividualität das</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r2l10" points="629,805 646,805 695,805 708,804 737,799 749,799 756,802 782,804 788,808 788,810 782,814 769,815 749,815 695,815 646,815 636,815 629,814" baseline="629,815 714,814 788,814" reason: differs: "inse" against "⟦⟧ a" | Wikisource:  | next_nc_e1: in seiner akten- | german_print2_15: in seiner akten- -->
-			<TextLine id="r2l11" custom="readingOrder {index:11;}">
-				<Coords points="584,826 610,826 622,831 635,832 635,826 735,831 748,825 760,825 761,831 789,830 789,841 648,842 622,842 584,842" />
-				<Baseline points="584,842 789,841" />
+			<TextLine id="r2l10" custom="readingOrder {index:10;}">
+				<Coords points="629,805 695,805 737,799 749,799 756,802 782,804 788,808 788,810 782,814 769,815 749,815 695,815 646,815 636,815 629,814" />
+				<Baseline points="629,815 788,814" />
 				<TextEquiv index="1">
-					<Unicode>Mannheims zu dem</Unicode>
+					<Unicode>in seiner akten-</Unicode>
 				</TextEquiv>
 			</TextLine>
+			<!-- line left out: id="r2l11" points="584,826 610,826 622,831 635,832 635,826 648,826 735,831 748,825 760,825 761,831 772,830 789,830 789,841 648,842 622,842 584,842" baseline="584,842 699,841 789,841" reason: differs: "Mann" against "mäss" | Wikisource:  | next_nc_e1: Mannheims zu dem | german_print2_15: Mannheims zu dem -->
 			<TextLine id="r2l12" custom="readingOrder {index:12;}">
 				<Coords points="628,852 633,852 653,858 676,858 694,852 701,852 704,858 716,856 788,855 788,867 748,868 729,868 628,868" />
 				<Baseline points="628,868 788,867" />
@@ -168,10 +174,11 @@ rbunden</Unicode>
 				<Unicode>wägender und vorur-
 cher Ur-
 ruhender
+sschreiber
 frischen Un-
 fast allein ver-
 dividualität das
-Mannheims zu dem
+in seiner akten-
 d an Intensität
 dste Mitglied der</Unicode>
 			</TextEquiv>

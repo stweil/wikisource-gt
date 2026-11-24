@@ -89,13 +89,9 @@
 		</TextRegion>
 		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
 			<Coords points="639,722 795,722 795,922 639,922" />
-			<TextLine id="r8l0" custom="readingOrder {index:0;}">
-				<Coords points="693,731 704,728 715,730 722,722 733,722 735,728 754,728 763,722 775,722 784,728 792,728 792,738 784,738 722,737 704,736 693,733" />
-				<Baseline points="693,736 792,738" />
-				<TextEquiv index="1">
-					<Unicode>Sachwalter</Unicode>
-				</TextEquiv>
-			</TextLine>
+			<!-- line left out: id="r8l0" points="693,731 704,728 709,728 715,730 722,722 733,722 735,728 754,728 763,722 775,722 784,728 792,728 792,738 784,738 775,737 733,737 722,737 704,736 693,733" baseline="693,736 792,738" reason: both models read another letter than Wikisource | Wikisource: Sachwalter | next_nc_e1: sachwalter
+ | german_print2_15: sachwalter
+ -->
 			<TextLine id="r8l1" custom="readingOrder {index:1;}">
 				<Coords points="688,755 704,754 726,756 729,750 732,750 735,756 747,754 792,754 792,764 790,764 688,763" />
 				<Baseline points="688,763 792,764" />
@@ -117,9 +113,13 @@
 					<Unicode>Rat am</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r8l4" points="696,833 705,833 713,826 717,826 720,833 737,832 741,832 762,827 775,827 784,833 795,833 795,842 762,842 696,841" baseline="696,841 745,841 795,842" reason: differs: "iche" against "⟦⟧ A" | Wikisource:  | next_nc_e1: ichen An-
- | german_print2_15: ichen An-
- -->
+			<TextLine id="r8l4" custom="readingOrder {index:4;}">
+				<Coords points="696,833 705,833 713,826 717,826 720,833 741,832 762,827 775,827 784,833 795,833 795,842 762,842 696,841" />
+				<Baseline points="696,841 795,842" />
+				<TextEquiv index="1">
+					<Unicode>ichen An-</Unicode>
+				</TextEquiv>
+			</TextLine>
 			<TextLine id="r8l5" custom="readingOrder {index:5;}">
 				<Coords points="686,858 693,858 708,852 712,852 733,852 752,856 760,852 771,852 779,856 795,859 795,869 788,869 752,867 733,869 722,869 712,866 686,867" />
 				<Baseline points="686,867 708,866 795,869" />
@@ -142,10 +142,10 @@
 				</TextEquiv>
 			</TextLine>
 			<TextEquiv index="1">
-				<Unicode>Sachwalter
-insofern er
+				<Unicode>insofern er
 zu fordern
 Rat am
+ichen An-
 z bestellte,
 wider mi
 thun gebühret,</Unicode>
@@ -173,7 +173,7 @@ thun gebühret,</Unicode>
 					<Unicode>Kämmerei,</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r10l1" points="658,1013 668,1013 677,1010 686,1010 698,1013 742,1014 751,1012 762,1012 783,1013 797,1016 797,1021 783,1023 732,1023 698,1022 668,1022 658,1022" baseline="658,1022 708,1022 797,1023" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: nders (mit 10
+			<!-- line left out: id="r10l1" points="658,1013 668,1013 677,1010 686,1010 698,1013 742,1014 751,1012 762,1012 783,1013 797,1016 797,1021 783,1023 732,1023 698,1022 668,1022 658,1022" baseline="658,1022 708,1022 797,1023" reason: beside a footnote mark or an unknown template | Wikisource:  | next_nc_e1: nders (mit 10
  | german_print2_15: nders (mit 10
  -->
 			<TextEquiv index="1">

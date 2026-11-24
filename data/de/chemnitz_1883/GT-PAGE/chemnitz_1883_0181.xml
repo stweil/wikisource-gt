@@ -17,21 +17,21 @@
 		</ReadingOrder>
 		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
 			<Coords points="487,204 768,204 768,221 487,221" />
-			<!-- line left out: id="r0l0" points="487,218 505,212 525,210 534,210 673,209 677,209 683,213 689,204 703,204 711,211 722,210 733,210 734,204 746,204 747,213 759,210 768,210 768,219 746,220 708,221 689,221 677,220 534,221 489,221 487,221" baseline="487,223 533,222 639,220 768,219" reason: differs: "1mit" against "rse." | Wikisource:  | next_nc_e1: 1 mit im folgenden
+			<!-- line left out: id="r0l0" points="487,218 505,212 525,210 534,210 673,209 677,209 683,213 689,204 703,204 711,211 722,210 733,210 734,204 746,204 747,213 759,210 768,210 768,219 746,220 708,221 689,221 677,220 534,221 489,221 487,221" baseline="487,223 533,222 639,220 768,219" reason: differs: "1mit" against "uten" | Wikisource:  | next_nc_e1: 1 mit im folgenden
  | german_print2_15: d mit im folgenden
  -->
 		</TextRegion>
 		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
 			<Coords points="584,256 769,256 769,613 584,613" />
-			<TextLine id="r1l0" custom="readingOrder {index:0;}">
-				<Coords points="604,257 615,257 623,263 634,263 643,266 650,257 659,257 675,270 680,256 694,256 700,264 710,264 716,257 727,257 728,264 740,256 745,256 769,260 769,272 694,273 634,273 623,273 604,272" />
-				<Baseline points="604,272 769,272" />
+			<!-- line left out: id="r1l0" points="604,257 615,257 623,263 634,263 643,266 650,257 659,257 675,270 680,256 694,256 700,264 710,264 716,257 727,257 728,264 740,256 745,256 769,260 769,272 727,272 694,273 634,273 623,273 604,272" baseline="604,272 769,272" reason: differs: "durc" against "an e" | Wikisource:  | next_nc_e1: durch „Sicheln“ | german_print2_15: durch „Sicheln“ -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="602,290 667,289 670,283 685,283 699,291 732,290 746,288 752,292 759,283 768,283 768,298 703,297 685,299 647,299 628,299 623,299 602,297" />
+				<Baseline points="602,299 768,298" />
 				<TextEquiv index="1">
-					<Unicode>durch „Sicheln“</Unicode>
+					<Unicode>während es sich</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r1l1" points="602,290 613,290 637,289 647,289 667,289 670,283 685,283 699,291 703,291 732,290 742,288 746,288 752,292 759,283 768,283 768,298 746,298 742,298 703,297 685,299 647,299 628,299 623,299 602,297" baseline="602,299 684,298 768,298" reason: differs: "währ" against "⟦⟧ ⟦" | Wikisource:  | next_nc_e1: während es sich | german_print2_15: während es sich -->
-			<!-- line left out: id="r1l2" points="613,315 639,314 662,314 697,315 699,309 704,309 706,315 718,313 735,313 766,315 766,324 735,324 704,325 699,325 678,324 662,317 655,317 654,325 637,326 613,326" baseline="613,326 661,324 766,324" reason: differs: "277r" against "es s" | Wikisource:  | next_nc_e1: 277 rühmt er | german_print2_15: —a rühmt er -->
+			<!-- line left out: id="r1l2" points="613,315 639,314 662,314 697,315 699,309 704,309 706,315 718,313 735,313 766,315 766,324 735,324 704,325 699,325 678,324 662,317 655,317 654,325 637,326 613,326" baseline="613,326 661,324 766,324" reason: differs: "277r" against "viel" | Wikisource:  | next_nc_e1: 277 rühmt er | german_print2_15: —a rühmt er -->
 			<TextLine id="r1l3" custom="readingOrder {index:3;}">
 				<Coords points="584,345 593,342 649,342 666,335 671,335 696,335 698,341 722,341 724,335 728,335 730,342 768,341 768,351 730,350 722,357 698,357 696,350 593,351 584,348" />
 				<Baseline points="584,351 768,350" />
@@ -89,7 +89,13 @@
 					<Unicode>so würde</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r1l12" points="660,577 665,577 676,576 680,576 701,577 725,577 743,579 746,571 756,571 759,577 767,577 767,586 725,586 665,586 660,586" baseline="660,586 767,586" reason: differs: "istb" against "⟦⟧ A" | Wikisource:  | next_nc_e1: ist bei der | german_print2_15: ist bei der -->
+			<TextLine id="r1l12" custom="readingOrder {index:12;}">
+				<Coords points="660,577 725,577 743,579 746,571 756,571 759,577 767,577 767,586 725,586 665,586 660,586" />
+				<Baseline points="660,586 767,586" />
+				<TextEquiv index="1">
+					<Unicode>ist bei der</Unicode>
+				</TextEquiv>
+			</TextLine>
 			<TextLine id="r1l13" custom="readingOrder {index:13;}">
 				<Coords points="651,599 661,599 682,606 695,598 712,598 714,604 769,603 769,612 734,613 726,613 673,613 651,613" />
 				<Baseline points="651,613 769,612" />
@@ -98,7 +104,7 @@
 				</TextEquiv>
 			</TextLine>
 			<TextEquiv index="1">
-				<Unicode>durch „Sicheln“
+				<Unicode>während es sich
 seinem Polyphem,
 nzen, wiewohl
 Bedeutung
@@ -107,6 +113,7 @@ müsse, was für
 unsern Sitten
 es natürlicher
 so würde
+ist bei der
 Anschlag zu</Unicode>
 			</TextEquiv>
 		</TextRegion>

@@ -40,10 +40,19 @@
 		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
 			<Coords points="200,215 711,215 711,288 200,288" />
 			<!-- line left out: id="r0l0" points="255,219 259,219 274,222 309,222 309,215 323,215 323,224 332,224 355,226 365,227 388,225 398,225 413,230 425,221 447,221 453,228 471,226 475,226 495,228 499,221 512,221 551,228 582,228 592,215 604,215 604,223 613,223 622,229 632,223 645,223 664,223 664,229 674,229 694,229 711,230 711,233 694,238 674,238 645,238 632,238 613,236 604,236 604,246 592,246 582,230 574,230 562,238 551,238 491,237 484,236 475,229 469,233 447,237 433,237 398,235 365,237 357,237 332,236 323,236 323,246 309,246 304,236 282,235 259,234 255,234" baseline="255,234 304,234 425,235 592,237 711,239" reason: differs: "uter" against "uten da" | Wikisource:  | next_nc_e1: Der Antrag des Vorstandes, § 7 der Statuter | german_print2_15: Der Antrag des Vorstandes, & 7 der Statuter -->
-			<!-- line left out: id="r0l1" points="200,245 211,245 235,245 235,254 240,254 262,255 265,246 275,246 283,252 306,246 320,246 329,254 335,252 343,250 357,250 378,258 384,246 394,246 414,252 429,252 458,252 458,262 448,263 429,263 415,263 384,262 335,261 329,258 316,248 315,260 275,261 235,261 213,261 200,260" baseline="200,259 306,260 458,262" reason: differs: "dass" against "tute" | Wikisource:  | next_nc_e1: dass der Vorstand nicht | german_print2_15: dass der Vorstand nicht -->
-			<!-- line left out: id="r0l2" points="348,272 352,272 361,280 371,280 389,272 400,272 408,280 415,274 423,274 423,288 408,288 389,287 365,286 361,286 348,284" baseline="348,286 370,286 423,288" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: die Zah
+			<TextLine id="r0l1" custom="readingOrder {index:1;}">
+				<Coords points="200,245 211,245 235,245 235,254 262,255 265,246 275,246 283,252 306,246 320,246 329,254 343,250 357,250 378,258 384,246 394,246 414,252 458,252 458,262 448,263 429,263 415,263 335,261 316,248 315,260 200,260" />
+				<Baseline points="200,259 458,262" />
+				<TextEquiv index="1">
+					<Unicode>dass der Vorstand nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l2" points="348,272 352,272 361,280 371,280 389,272 400,272 408,280 415,274 423,274 423,288 408,288 389,287 365,286 361,286 348,284" baseline="348,286 370,286 423,288" reason: differs: "dieZ" against "aus " | Wikisource:  | next_nc_e1: die Zah
  | german_print2_15: die Zah
  -->
+			<TextEquiv index="1">
+				<Unicode>dass der Vorstand nicht</Unicode>
+			</TextEquiv>
 		</TextRegion>
 		<GraphicRegion id="r1">
 			<Coords points="626,250 636,250 636,262 626,262" />
@@ -189,25 +198,16 @@ Die Verwalt</Unicode>
 		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
 			<Coords points="201,667 602,667 602,708 201,708" />
 			<!-- line left out: id="r13l0" points="253,667 274,667 277,675 288,673 322,671 325,671 347,677 355,673 373,673 386,674 400,673 409,673 426,667 430,667 446,667 470,673 488,673 531,674 542,673 558,673 593,672 602,672 602,683 593,683 587,678 558,684 542,684 534,683 521,678 516,684 500,684 409,683 400,683 386,682 376,682 366,688 355,688 353,679 325,682 302,682 292,675 280,680 274,682 253,682" baseline="253,682 408,682 587,683 602,684" reason: differs: "erül" against "r über " | Wikisource:  | next_nc_e1: Hierauf sprach Dr. Sammler ül | german_print2_15: Hierauf sprach Dr. Sammler üb -->
-			<!-- line left out: id="r13l1" points="201,703 211,697 215,697 231,699 236,693 246,693 270,698 270,701 261,701 258,708 231,708 211,708 201,705" baseline="201,708 270,708" reason: differs: "stadt“" against "itz al" | Wikisource:  | next_nc_e1: stadt“
+			<!-- line left out: id="r13l1" points="201,703 211,697 215,697 231,699 236,693 246,693 270,698 270,701 261,701 258,708 231,708 211,708 201,705" baseline="201,708 270,708" reason: beside a footnote mark or an unknown template | Wikisource:  | next_nc_e1: stadt“
  | german_print2_15: stadt“.
  -->
 		</TextRegion>
 		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
 			<Coords points="200,721 375,721 375,767 200,767" />
-			<TextLine id="r14l0" custom="readingOrder {index:0;}">
-				<Coords points="258,721 267,721 295,728 300,734 315,729 342,730 357,734 368,725 370,725 370,731 357,736 333,735 310,737 300,737 295,731 283,735 258,735" />
-				<Baseline points="258,735 370,736" />
-				<TextEquiv index="1">
-					<Unicode>Ausgelegt</Unicode>
-				</TextEquiv>
-			</TextLine>
-			<!-- line left out: id="r14l1" points="200,746 229,746 229,752 251,752 274,752 282,759 301,751 318,751 323,755 331,761 337,761 337,751 375,751 375,761 370,763 331,763 318,761 307,763 301,763 282,762 270,761 255,759 251,767 212,767 212,760 200,760" baseline="200,760 284,760 375,761" reason: differs: "Wapp" against "wurd" | Wikisource:  | next_nc_e1: Wappen, Siegelal
+			<!-- line left out: id="r14l0" points="258,721 267,721 283,725 295,728 300,734 315,729 318,729 342,730 357,734 368,725 370,725 370,731 357,736 353,736 333,735 310,737 300,737 295,731 283,735 258,735" baseline="258,735 370,736" reason: beside a footnote mark or an unknown template | Wikisource:  | next_nc_e1: Ausgelegt | german_print2_15: Ausgelegt -->
+			<!-- line left out: id="r14l1" points="200,746 229,746 229,752 251,752 274,752 282,759 301,751 318,751 323,755 331,761 337,761 337,751 375,751 375,761 370,763 331,763 318,761 307,763 301,763 282,762 270,761 255,759 251,767 212,767 212,760 200,760" baseline="200,760 284,760 375,761" reason: differs: "Wapp" against "eleg" | Wikisource:  | next_nc_e1: Wappen, Siegelal
  | german_print2_15: Wappen, Siegelal
  -->
-			<TextEquiv index="1">
-				<Unicode>Ausgelegt</Unicode>
-			</TextEquiv>
 		</TextRegion>
 		<GraphicRegion id="r15">
 			<Coords points="389,723 522,723 522,766 389,766" />
@@ -430,7 +430,6 @@ einberufen worden; die Aufsicht über das Archiv hat Dr. Scholtze
 übernommen.
 Hierauf sprach Archivar Dr. Ermisch aus Dresden „über die
 älteste Geschichte des Benedictinerklosters zu Chemnitz.“
-⟦⟧
 Ueber die Geschichte des Benedictinerklosters zu Chemnitz
 hat ein eigener Unstern gewaltet. Eine grosse Anzahl
 Klosterurkunden ist seit dem Jahre 1597, in welchem sie sich noch auf

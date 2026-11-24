@@ -72,7 +72,13 @@
 					<Unicode>und unnötige</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r0l10" points="552,471 562,471 571,465 585,465 585,471 593,471 596,465 605,465 627,465 627,471 637,471 645,475 667,465 675,465 675,471 688,471 700,472 702,466 706,466 709,472 720,472 721,466 731,466 732,473 755,472 774,472 774,482 755,482 637,481 627,486 593,486 571,486 562,480 552,480" baseline="552,480 735,481 774,482" reason: differs: "heop" against "⟦⟧ s" | Wikisource:  | next_nc_e1: heophilus freilich zu | german_print2_15: heophilus freilich zu -->
+			<TextLine id="r0l10" custom="readingOrder {index:10;}">
+				<Coords points="552,471 562,471 571,465 585,465 585,471 593,471 596,465 605,465 627,465 627,471 637,471 645,475 667,465 675,465 675,471 700,472 702,466 706,466 709,472 720,472 721,466 731,466 732,473 774,472 774,482 637,481 627,486 593,486 571,486 562,480 552,480" />
+				<Baseline points="552,480 774,482" />
+				<TextEquiv index="1">
+					<Unicode>heophilus freilich zu</Unicode>
+				</TextEquiv>
+			</TextLine>
 			<TextLine id="r0l11" custom="readingOrder {index:11;}">
 				<Coords points="648,497 658,497 681,497 733,498 744,504 749,498 762,497 772,497 772,508 716,508 648,507" />
 				<Baseline points="648,507 772,508" />
@@ -112,6 +118,7 @@ das Theophilus in
 Wer darauf ausgehe,
 sich wünschen
 und unnötige
+heophilus freilich zu
 nen man auf
 vorzugsweise auf die
 und die klassischen
@@ -160,7 +167,7 @@ rer Wissenschaft, das Latein,</Unicode>
 		</TextRegion>
 		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
 			<Coords points="532,751 777,751 777,872 532,872" />
-			<!-- line left out: id="r2l0" points="532,760 544,758 553,758 568,751 572,751 576,759 587,757 598,757 624,756 630,756 655,758 656,752 667,752 669,759 681,758 691,758 694,765 706,759 716,758 744,753 750,753 767,755 777,760 777,767 767,769 720,770 716,770 706,761 698,768 681,768 553,767 532,767" baseline="532,766 777,767" reason: differs: "anLe" against "⟦⟧ z" | Wikisource:  | next_nc_e1: an Lehrstunden.²) Die | german_print2_15:  -->
+			<!-- line left out: id="r2l0" points="532,760 544,758 553,758 568,751 572,751 576,759 587,757 598,757 624,756 630,756 655,758 656,752 667,752 669,759 681,758 691,758 694,765 706,759 716,758 744,753 750,753 767,755 777,760 777,767 767,769 720,770 716,770 706,761 698,768 681,768 553,767 532,767" baseline="532,766 777,767" reason: differs: "anLe" against "verf" | Wikisource:  | next_nc_e1: an Lehrstunden.²) Die | german_print2_15:  -->
 			<!-- line left out: id="r2l1" points="598,784 605,782 608,782 631,786 632,778 645,778 646,786 649,786 674,791 677,784 689,782 695,782 702,784 735,785 755,785 756,779 767,779 768,787 777,787 777,793 767,794 735,794 677,794 645,793 627,793 605,785 602,793 598,793" baseline="598,793 670,793 777,794" reason: models differ | Wikisource: uf die lutherische | next_nc_e1: uf die lutherische | german_print2_15: auf die lutherische -->
 			<TextLine id="r2l2" custom="readingOrder {index:2;}">
 				<Coords points="623,810 686,811 687,805 699,805 702,812 777,812 777,819 699,819 657,821 646,821 623,820" />
@@ -169,8 +176,8 @@ rer Wissenschaft, das Latein,</Unicode>
 					<Unicode>gegenüber eine</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r2l3" points="578,833 585,830 593,830 598,838 612,836 620,834 636,834 662,834 681,835 706,836 719,837 720,831 755,831 755,846 695,846 612,845 584,844 578,844" baseline="578,844 695,845 755,846" reason: differs: "Wort" against "unbe" | Wikisource:  | next_nc_e1: Wortkritik und E | german_print2_15: Wortkritik und E. -->
-			<!-- line left out: id="r2l4" points="575,855 588,855 589,864 601,861 605,861 618,862 678,862 679,856 690,856 716,857 716,865 728,857 732,857 734,863 746,863 746,857 757,857 766,863 777,863 777,872 757,872 728,872 716,871 678,872 667,872 618,871 601,871 588,870 575,870" baseline="575,870 704,871 777,872" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Lehrer und Schüler
+			<!-- line left out: id="r2l3" points="578,833 585,830 593,830 598,838 612,836 620,834 636,834 662,834 681,835 706,836 719,837 720,831 755,831 755,846 695,846 612,845 584,844 578,844" baseline="578,844 695,845 755,846" reason: second model: differs: "Wort" against "unbe" | Wikisource: Wortkritik und E | next_nc_e1: Wortkritik und E | german_print2_15: Wortkritik und E. -->
+			<!-- line left out: id="r2l4" points="575,855 588,855 589,864 601,861 605,861 618,862 678,862 679,856 690,856 716,857 716,865 728,857 732,857 734,863 746,863 746,857 757,857 766,863 777,863 777,872 757,872 728,872 716,871 678,872 667,872 618,871 601,871 588,870 575,870" baseline="575,870 704,871 777,872" reason: beside a footnote mark or an unknown template | Wikisource:  | next_nc_e1: Lehrer und Schüler
  | german_print2_15: Lehrer und Schüler
  -->
 			<TextEquiv index="1">

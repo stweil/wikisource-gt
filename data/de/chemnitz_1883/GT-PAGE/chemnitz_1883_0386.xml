@@ -86,27 +86,29 @@
 		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
 			<Coords points="603,211 918,211 918,307 603,307" />
 			<!-- line left out: id="r6l0" points="645,218 651,211 679,211 680,218 691,218 716,218 758,211 763,211 771,218 782,218 829,214 841,214 865,212 870,212 880,213 880,227 870,228 837,228 763,228 758,228 691,225 679,226 659,226 651,224 645,220" baseline="645,226 713,226 815,227 880,228" reason: differs: "elch" against "ar. " | Wikisource:  | next_nc_e1: elches der Jünger St. Be | german_print2_15: elches der Jünger St. Be -->
-			<!-- line left out: id="r6l1" points="638,242 659,241 679,237 702,237 723,237 755,237 777,237 786,243 797,243 809,244 826,246 828,238 839,238 847,244 868,241 873,241 911,243 913,249 918,249 918,251 911,254 809,255 777,255 755,255 723,255 702,255 688,255 662,252 645,252 638,251" baseline="638,252 679,252 918,254" reason: differs: "aufV" against "olgt" | Wikisource:  | next_nc_e1: auf Veranlassung der fürst- | german_print2_15: auf Veranlassung der fürst- -->
-			<!-- line left out: id="r6l2" points="603,268 641,267 678,262 682,262 697,265 711,269 711,262 725,262 725,269 748,269 790,268 794,268 812,268 816,274 839,268 842,268 869,271 871,264 888,264 890,270 895,270 903,273 909,265 918,265 918,280 895,280 871,280 865,278 819,277 816,277 806,283 800,283 790,279 748,278 682,278 662,279 641,279 603,277" baseline="603,277 619,277 849,277 918,281" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: m 13. Dezember 1464 ¹) durch | german_print2_15: im 13. Dezember 1464 ¹) durch -->
-			<!-- line left out: id="r6l3" points="816,297 831,290 841,290 848,296 852,296 885,296 896,298 899,290 908,290 916,303 918,303 918,307 916,307 831,305 816,299" baseline="816,305 831,305 918,307" reason: differs: "eUrku" against "er ⟦⟧" | Wikisource:  | next_nc_e1: e Urkunde,
+			<TextLine id="r6l1" custom="readingOrder {index:1;}">
+				<Coords points="638,242 659,241 679,237 702,237 723,237 755,237 777,237 786,243 826,246 828,238 839,238 847,244 868,241 911,243 913,249 918,249 918,251 911,254 809,255 777,255 755,255 723,255 702,255 688,255 638,251" />
+				<Baseline points="638,252 918,254" />
+				<TextEquiv index="1">
+					<Unicode>auf Veranlassung der fürst-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l2" points="603,268 641,267 678,262 682,262 697,265 711,269 711,262 725,262 725,269 748,269 790,268 794,268 812,268 816,274 839,268 842,268 869,271 871,264 888,264 890,270 895,270 903,273 909,265 918,265 918,280 895,280 871,280 865,278 819,277 816,277 806,283 800,283 790,279 748,278 682,278 662,279 641,279 603,277" baseline="603,277 619,277 849,277 918,281" reason: differs: "m13." against "lich" | Wikisource:  | next_nc_e1: m 13. Dezember 1464 ¹) durch | german_print2_15: im 13. Dezember 1464 ¹) durch -->
+			<!-- line left out: id="r6l3" points="816,297 831,290 841,290 848,296 852,296 885,296 896,298 899,290 908,290 916,303 918,303 918,307 916,307 831,305 816,299" baseline="816,305 831,305 918,307" reason: differs: "eUrk" against "durc" | Wikisource:  | next_nc_e1: e Urkunde,
  | german_print2_15: e Urkunde,
  -->
+			<TextEquiv index="1">
+				<Unicode>auf Veranlassung der fürst-</Unicode>
+			</TextEquiv>
 		</TextRegion>
 		<GraphicRegion id="r7">
 			<Coords points="635,215 646,215 646,230 635,230" />
 		</GraphicRegion>
 		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
 			<Coords points="896,221 918,221 918,228 896,228" />
-			<TextLine id="r8l0" custom="readingOrder {index:0;}">
-				<Coords points="896,221 906,221 918,223 918,225 906,228 896,228" />
-				<Baseline points="896,228 918,228" />
-				<TextEquiv index="1">
-					<Unicode>de-</Unicode>
-				</TextEquiv>
-			</TextLine>
-			<TextEquiv index="1">
-				<Unicode>de-</Unicode>
-			</TextEquiv>
+			<!-- line left out: id="r8l0" points="896,221 906,221 918,223 918,225 906,228 896,228" baseline="896,228 918,228" reason: both models read another letter than Wikisource | Wikisource: de | next_nc_e1: ne-
+ | german_print2_15: ne-
+ -->
 		</TextRegion>
 		<GraphicRegion id="r9">
 			<Coords points="459,230 619,230 619,258 459,258" />
@@ -257,7 +259,7 @@ Benedikts XII.</Unicode>
 			<Coords points="212,519 920,519 920,592 212,592" />
 			<!-- line left out: id="r32l0" points="213,528 221,528 233,526 238,526 249,528 265,519 280,519 287,527 297,527 305,520 309,520 341,520 344,527 354,527 368,526 455,521 795,521 796,530 808,527 817,527 833,521 856,521 861,527 870,527 881,529 888,521 892,521 895,528 920,528 920,537 817,537 808,537 795,536 354,537 344,537 233,535 221,533 213,533" baseline="213,535 370,535 833,536 920,537" reason: differs: "sein" against "hren" | Wikisource:  | next_nc_e1: sein Nachfolger rich den Mönchen | german_print2_15: sein Nachfolger rich den Mönchen -->
 			<!-- line left out: id="r32l1" points="212,552 224,552 237,548 241,548 262,552 289,550 294,550 308,549 313,549 367,552 371,546 382,546 384,555 387,555 398,559 428,547 450,547 473,547 483,551 490,553 506,551 511,551 537,552 548,554 561,552 749,551 754,551 764,553 800,553 821,547 826,547 856,547 862,553 866,553 877,554 910,551 919,551 919,563 877,565 868,565 862,557 856,565 843,565 826,562 764,562 754,563 548,564 539,564 506,562 494,558 486,555 483,562 473,564 450,564 434,564 395,562 382,561 294,561 262,561 224,563 212,563" baseline="212,560 892,561 919,563" reason: differs: "gefü" against "nche" | Wikisource:  | next_nc_e1: gefürchtet wurde. Übertretungen tze in Bezug auf | german_print2_15: gefürchtet wurde. Übertretungen tze in Bezug auf -->
-			<!-- line left out: id="r32l2" points="212,574 224,574 254,578 343,578 345,572 402,572 411,579 420,579 472,572 496,572 496,581 508,579 520,572 524,572 527,578 537,578 541,572 556,572 556,579 582,578 592,578 604,580 606,572 616,572 705,578 710,578 742,578 824,579 848,579 884,579 895,581 903,573 907,573 909,579 918,579 918,589 909,589 742,588 496,588 420,588 394,588 343,588 333,588 254,587 249,587 241,586 233,586 230,592 225,592 224,586 212,586" baseline="212,586 266,586 918,588" reason: differs: "Spei" against "f ⟦⟧" | Wikisource:  | next_nc_e1: Speise und Trar Kleidung und tätte scheinen mehr
+			<!-- line left out: id="r32l2" points="212,574 224,574 254,578 343,578 345,572 402,572 411,579 420,579 472,572 496,572 496,581 508,579 520,572 524,572 527,578 537,578 541,572 556,572 556,579 582,578 592,578 604,580 606,572 616,572 705,578 710,578 742,578 824,579 848,579 884,579 895,581 903,573 907,573 909,579 918,579 918,589 909,589 742,588 496,588 420,588 394,588 343,588 333,588 254,587 249,587 241,586 233,586 230,592 225,592 224,586 212,586" baseline="212,586 266,586 918,588" reason: differs: "Spei" against "g au" | Wikisource:  | next_nc_e1: Speise und Trar Kleidung und tätte scheinen mehr
  | german_print2_15: Speise und Trar Kleidung und tätte scheinen mehr
  -->
 		</TextRegion>

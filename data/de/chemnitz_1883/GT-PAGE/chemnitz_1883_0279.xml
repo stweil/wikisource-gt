@@ -20,7 +20,13 @@
 		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
 			<Coords points="509,235 776,235 776,329 509,329" />
 			<!-- line left out: id="r0l0" points="509,243 517,241 531,241 551,241 599,241 601,235 641,235 642,244 653,241 682,239 684,239 684,250 641,250 531,250 509,250" baseline="509,250 684,250" reason: differs: "iese" against "z in" | Wikisource:  | next_nc_e1: iesen und denſ | german_print2_15: iesen und den f -->
-			<!-- line left out: id="r0l1" points="512,261 515,261 522,267 545,267 558,270 558,261 572,261 577,267 582,267 599,267 619,265 644,264 648,264 669,264 690,265 702,267 735,269 742,261 753,261 754,269 767,267 776,267 776,276 753,276 707,277 648,277 644,277 582,276 572,277 535,277 512,276" baseline="512,276 776,276" reason: differs: "Hung" against "viel" | Wikisource:  | next_nc_e1: Hungersnot rafften schon | german_print2_15: Hungersnot rafften schon -->
+			<TextLine id="r0l1" custom="readingOrder {index:1;}">
+				<Coords points="512,261 515,261 522,267 545,267 558,270 558,261 572,261 577,267 669,264 735,269 742,261 753,261 754,269 776,267 776,276 707,277 648,277 644,277 572,277 535,277 512,276" />
+				<Baseline points="512,276 776,276" />
+				<TextEquiv index="1">
+					<Unicode>Hungersnot rafften schon</Unicode>
+				</TextEquiv>
+			</TextLine>
 			<TextLine id="r0l2" custom="readingOrder {index:2;}">
 				<Coords points="590,293 607,287 617,287 622,287 688,287 695,291 714,293 719,287 730,287 731,295 743,293 775,293 775,302 754,302 730,302 695,302 592,302 590,302" />
 				<Baseline points="590,302 775,302" />
@@ -36,7 +42,8 @@
 				</TextEquiv>
 			</TextLine>
 			<TextEquiv index="1">
-				<Unicode>r den Gestorbenen
+				<Unicode>Hungersnot rafften schon
+r den Gestorbenen
 Dez.) und der Archi-</Unicode>
 			</TextEquiv>
 		</TextRegion>
@@ -76,10 +83,20 @@ Dez.) und der Archi-</Unicode>
 					<Unicode>M. David Drabitius,</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r3l2" points="543,448 553,448 565,450 569,457 576,452 592,450 595,443 609,443 624,448 649,451 651,443 661,443 663,452 675,450 687,448 692,448 732,444 736,444 741,456 752,450 775,450 775,459 745,459 692,459 675,459 661,458 649,459 624,459 609,460 572,460 569,460 561,458 543,453" baseline="543,459 775,459" reason: differs: "Supe" against "der " | Wikisource:  | next_nc_e1: Superintendenten Lau- | german_print2_15: Superintendenten Lau- -->
-			<!-- line left out: id="r3l3" points="639,471 649,471 660,478 671,476 675,476 688,477 690,469 701,469 709,477 722,474 732,474 776,476 776,485 732,485 688,485 656,485 639,485" baseline="639,485 776,485" reason: differs: "Archid" against "nrekto" | Wikisource:  | next_nc_e1: Archidiakonus
- | german_print2_15: Archidiakonus
- -->
+			<TextLine id="r3l2" custom="readingOrder {index:2;}">
+				<Coords points="543,448 565,450 569,457 576,452 592,450 595,443 609,443 624,448 649,451 651,443 661,443 663,452 687,448 732,444 736,444 741,456 752,450 775,450 775,459 661,458 609,460 572,460 569,460 543,453" />
+				<Baseline points="543,459 775,459" />
+				<TextEquiv index="1">
+					<Unicode>Superintendenten Lau-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r3l3" custom="readingOrder {index:3;}">
+				<Coords points="639,471 649,471 660,478 671,476 688,477 690,469 701,469 709,477 722,474 776,476 776,485 732,485 688,485 656,485 639,485" />
+				<Baseline points="639,485 776,485" />
+				<TextEquiv index="1">
+					<Unicode>Archidiakonus</Unicode>
+				</TextEquiv>
+			</TextLine>
 			<TextLine id="r3l4" custom="readingOrder {index:4;}">
 				<Coords points="626,506 639,502 698,502 711,496 716,496 732,500 753,502 753,496 768,496 771,506 776,506 776,507 768,511 626,511" />
 				<Baseline points="626,511 776,511" />
@@ -101,7 +118,7 @@ Dez.) und der Archi-</Unicode>
 					<Unicode>Loſsnitzer am</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r3l7" points="646,575 660,575 669,582 681,578 692,578 700,575 714,575 714,582 722,582 733,574 741,574 749,581 768,580 776,580 776,590 756,590 749,589 741,596 733,596 722,590 700,590 692,589 660,590 646,590" baseline="646,589 776,589" reason: differs: "Andr" against "⟦⟧ u" | Wikisource:  | next_nc_e1: Andreä, Jahn
+			<!-- line left out: id="r3l7" points="646,575 660,575 669,582 681,578 692,578 700,575 714,575 714,582 722,582 733,574 741,574 749,581 768,580 776,580 776,590 756,590 749,589 741,596 733,596 722,590 700,590 692,589 660,590 646,590" baseline="646,589 776,589" reason: beside a footnote mark or an unknown template | Wikisource:  | next_nc_e1: Andreä, Jahn
  | german_print2_15: Andrea, Jahn
  -->
 			<!-- line left out: id="r3l8" points="647,610 660,601 663,601 666,608 686,608 701,606 710,606 723,612 729,607 737,601 759,601 762,607 766,607 776,608 776,615 686,616 677,616 663,615 660,615 647,613" baseline="647,613 776,615" reason: models differ | Wikisource: llegen allein | next_nc_e1: llegen allein
@@ -129,7 +146,7 @@ Dez.) und der Archi-</Unicode>
 			<!-- line left out: id="r3l14" points="525,764 533,761 540,760 544,760 548,767 552,767 562,771 566,762 576,762 599,763 617,757 621,757 621,765 627,765 635,757 640,757 660,761 674,770 687,753 709,753 709,761 727,761 733,765 742,757 746,757 771,761 771,772 753,772 742,772 727,771 709,771 709,782 687,782 674,773 660,772 621,773 617,773 562,772 554,772 525,771" baseline="525,771 771,771" reason: differs: "ifti" against "Schu" | Wikisource:  | next_nc_e1: iftigung ſehlte, so ſehlte | german_print2_15: iftigung ſehlte, so ſehlte -->
 			<!-- line left out: id="r3l15" points="552,788 562,788 564,796 571,796 588,790 591,790 622,789 656,789 670,787 675,787 678,793 688,787 693,787 711,789 731,789 747,783 769,783 772,793 777,793 777,794 769,798 711,798 693,798 678,798 656,797 637,798 571,798 564,798 552,797" baseline="552,797 622,797 777,798" reason: models differ | Wikisource: ng es in letzterer Be | next_nc_e1: ng es in letzterer Be- | german_print2_15: ing es in letzterer Be- -->
 			<!-- line left out: id="r3l16" points="529,817 546,813 549,813 555,815 567,809 582,809 584,817 597,815 620,815 638,817 655,822 673,809 708,809 743,815 752,815 752,809 777,809 777,824 708,826 680,826 655,825 652,825 632,824 580,825 572,825 529,823" baseline="529,823 654,823 777,824" reason: differs: "ichI" against "zieh" | Wikisource:  | next_nc_e1: ich IHIommel, Engel und | german_print2_15: ich lommel, Engel und -->
-			<!-- line left out: id="r3l17" points="575,840 597,835 601,835 609,836 635,839 661,839 679,840 766,841 777,843 777,850 679,850 635,851 624,851 601,850 597,850 575,849" baseline="575,849 634,849 777,850" reason: differs: "nRat" against "e Or" | Wikisource:  | next_nc_e1: n Rat, daſs sie nun | german_print2_15: Iin Rat, daſs sie nun -->
+			<!-- line left out: id="r3l17" points="575,840 597,835 601,835 609,836 635,839 661,839 679,840 766,841 777,843 777,850 679,850 635,851 624,851 601,850 597,850 575,849" baseline="575,849 634,849 777,850" reason: differs: "nRat" against "an d" | Wikisource:  | next_nc_e1: n Rat, daſs sie nun | german_print2_15: Iin Rat, daſs sie nun -->
 			<!-- line left out: id="r3l18" points="601,869 646,869 661,868 668,867 681,867 714,867 719,861 723,861 726,868 750,865 755,865 777,868 777,876 755,876 681,877 668,877 655,875 638,874 604,876 601,876" baseline="601,876 777,876" reason: second model: differs: "180W" against "eben" | Wikisource: sowenig erhalten | next_nc_e1: sowenig erhalten | german_print2_15: 180Wenig crhalten -->
 			<!-- line left out: id="r3l19" points="621,894 633,893 642,893 658,887 669,887 671,895 682,893 698,893 714,901 720,893 733,893 746,895 760,893 764,893 778,894 778,902 746,903 714,903 682,902 669,901 642,902 621,902" baseline="621,902 658,901 778,902" reason: differs: "ande" against "hätt" | Wikisource:  | next_nc_e1: an dem gegen- | german_print2_15: an dem gegen- -->
 			<!-- line left out: id="r3l20" points="598,920 601,920 616,919 626,919 663,919 697,918 707,918 729,917 749,917 778,921 778,928 749,928 720,928 697,928 663,927 650,928 640,928 626,927 616,927 605,925 598,923" baseline="598,927 685,927 778,928" reason: second model: differs: "gede" against "sche" | Wikisource: gedenken müſsten. | next_nc_e1: gedenken müſsten. | german_print2_15: gedenken mülsten. -->
@@ -156,6 +173,8 @@ Dez.) und der Archi-</Unicode>
 			</TextLine>
 			<TextEquiv index="1">
 				<Unicode>M. David Drabitius,
+Superintendenten Lau-
+Archidiakonus
 ihm im Diako-
 erwaiste noch
 Loſsnitzer am

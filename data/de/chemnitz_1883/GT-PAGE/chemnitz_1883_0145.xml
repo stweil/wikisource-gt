@@ -32,9 +32,16 @@
 		</TextRegion>
 		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
 			<Coords points="512,238 775,238 775,256 512,256" />
-			<!-- line left out: id="r1l0" points="512,247 520,239 536,239 558,239 567,245 577,245 584,239 589,239 591,246 609,238 620,238 622,245 632,245 640,247 660,238 673,238 681,244 694,242 704,242 775,243 775,253 760,254 632,254 558,256 520,256 512,251" baseline="512,256 593,254 775,254" reason: differs: "obgl" against "⟦⟧ a" | Wikisource:  | next_nc_e1: obgleich das Einkommen
- | german_print2_15: obgleich das Einkommen
- -->
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="512,247 520,239 558,239 567,245 577,245 584,239 589,239 591,246 609,238 620,238 622,245 632,245 640,247 660,238 673,238 681,244 694,242 775,243 775,253 558,256 520,256 512,251" />
+				<Baseline points="512,256 593,254 775,254" />
+				<TextEquiv index="1">
+					<Unicode>obgleich das Einkommen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>obgleich das Einkommen</Unicode>
+			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
 			<Coords points="548,264 777,264 777,593 548,593" />
@@ -108,7 +115,7 @@
 					<Unicode>mit nicht selten</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r2l12" points="640,577 644,577 661,580 673,582 724,582 755,582 776,582 776,592 755,593 724,593 718,593 673,592 640,592" baseline="640,592 718,590 776,592" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Durch seinen
+			<!-- line left out: id="r2l12" points="640,577 644,577 661,580 673,582 724,582 755,582 776,582 776,592 755,593 724,593 718,593 673,592 640,592" baseline="640,592 718,590 776,592" reason: beside a footnote mark or an unknown template | Wikisource:  | next_nc_e1: Durch seinen
  | german_print2_15: Durch seinen
  -->
 			<TextEquiv index="1">

@@ -79,10 +79,19 @@
 		</ReadingOrder>
 		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
 			<Coords points="58,216 370,216 370,268 58,268" />
-			<!-- line left out: id="r0l0" points="106,223 118,223 125,222 135,222 137,229 150,228 180,226 185,226 198,229 212,219 219,219 221,225 232,225 233,219 245,219 254,224 301,224 307,226 313,217 324,217 342,224 348,224 349,216 359,216 361,222 370,222 370,232 324,233 301,233 283,234 254,235 221,235 219,242 212,242 198,234 185,237 164,238 125,238 119,237 106,234" baseline="106,239 163,237 256,234 370,231" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Schon 10 Jahre nach der | german_print2_15: Schon 10 Jahre nach der -->
-			<!-- line left out: id="r0l1" points="58,263 67,258 73,258 74,250 85,250 87,256 95,256 96,250 101,250 104,257 113,257 113,249 126,249 161,248 166,248 176,251 190,253 199,256 201,250 211,250 229,252 240,253 242,245 367,242 369,242 369,249 367,249 252,261 211,262 190,263 166,263 136,268 134,268 126,265 85,266 65,268 58,268" baseline="58,267 161,262 251,260 367,255 369,255" reason: differs: "jähr" against "⟦⟧ j" | Wikisource:  | next_nc_e1: jährliche Dividende 1
+			<TextLine id="r0l0" custom="readingOrder {index:0;}">
+				<Coords points="106,223 135,222 137,229 180,226 198,229 212,219 219,219 221,225 232,225 233,219 245,219 254,224 301,224 307,226 313,217 324,217 342,224 348,224 349,216 359,216 361,222 370,222 370,232 221,235 219,242 212,242 198,234 185,237 164,238 125,238 106,234" />
+				<Baseline points="106,239 370,231" />
+				<TextEquiv index="1">
+					<Unicode>Schon 10 Jahre nach der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l1" points="58,263 67,258 73,258 74,250 85,250 87,256 95,256 96,250 101,250 104,257 113,257 113,249 126,249 161,248 166,248 176,251 190,253 199,256 201,250 211,250 229,252 240,253 242,245 367,242 369,242 369,249 367,249 252,261 211,262 190,263 166,263 136,268 134,268 126,265 85,266 65,268 58,268" baseline="58,267 161,262 251,260 367,255 369,255" reason: differs: "jähr" against "Grün" | Wikisource:  | next_nc_e1: jährliche Dividende 1
  | german_print2_15: jährliche Dividende 1
  -->
+			<TextEquiv index="1">
+				<Unicode>Schon 10 Jahre nach der</Unicode>
+			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
 			<Coords points="56,274 304,274 304,292 56,292" />
@@ -131,7 +140,13 @@
 					<Unicode>der Gewerkschaft betrug</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r6l1" points="561,325 570,321 576,321 581,325 589,316 594,316 608,316 638,324 648,321 660,320 665,314 693,313 698,313 718,317 736,317 757,317 775,317 775,327 768,328 736,328 728,329 676,330 658,330 608,332 576,332 570,332 561,329" baseline="561,331 775,327" reason: differs: "stel" against "⟦⟧ d" | Wikisource:  | next_nc_e1: stellte sich letzterer | german_print2_15: stellte sich letzterer -->
+			<TextLine id="r6l1" custom="readingOrder {index:1;}">
+				<Coords points="561,325 570,321 576,321 581,325 589,316 608,316 638,324 648,321 660,320 665,314 693,313 698,313 718,317 775,317 775,327 608,332 576,332 570,332 561,329" />
+				<Baseline points="561,331 775,327" />
+				<TextEquiv index="1">
+					<Unicode>stellte sich letzterer</Unicode>
+				</TextEquiv>
+			</TextLine>
 			<TextLine id="r6l2" custom="readingOrder {index:2;}">
 				<Coords points="663,347 675,347 676,340 687,340 689,349 701,345 761,345 761,338 776,338 776,354 687,356 676,356 663,354" />
 				<Baseline points="663,356 776,354" />
@@ -141,6 +156,7 @@
 			</TextLine>
 			<TextEquiv index="1">
 				<Unicode>der Gewerkschaft betrug
+stellte sich letzterer
 oder nach</Unicode>
 			</TextEquiv>
 		</TextRegion>
@@ -219,7 +235,7 @@ oder nach</Unicode>
 					<Unicode>Stadt Geithain</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r11l13" points="545,694 553,694 569,693 585,692 596,692 621,693 628,686 639,686 680,691 702,691 712,685 717,685 718,691 735,691 761,688 770,687 774,687 783,688 783,702 780,702 770,692 761,691 746,700 735,701 702,701 691,701 680,700 652,702 621,702 609,703 585,703 583,709 578,709 576,703 553,703 545,703" baseline="545,704 651,701 761,699 783,699" reason: differs: "verp" against "⟦⟧ D" | Wikisource:  | next_nc_e1: verpfändet worden. ³*)
+			<!-- line left out: id="r11l13" points="545,694 553,694 569,693 585,692 596,692 621,693 628,686 639,686 680,691 702,691 712,685 717,685 718,691 735,691 761,688 770,687 774,687 783,688 783,702 780,702 770,692 761,691 746,700 735,701 702,701 691,701 680,700 652,702 621,702 609,703 585,703 583,709 578,709 576,703 553,703 545,703" baseline="545,704 651,701 761,699 783,699" reason: differs: "verpf" against "und 2" | Wikisource:  | next_nc_e1: verpfändet worden. ³*)
  | german_print2_15: verpfändet worden. ³⁴)
  -->
 			<TextEquiv index="1">
@@ -377,22 +393,20 @@ Stadt Geithain</Unicode>
 					<Unicode>Bleiche</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r33l3" points="67,788 73,777 84,777 91,775 103,775 117,776 118,782 129,782 134,776 137,776 151,781 157,775 162,775 164,788 179,779 188,779 212,782 212,789 189,789 188,795 179,795 151,791 141,791 134,779 129,791 110,792 84,792 67,792" baseline="67,792 212,789" reason: differs: "allj" against "gesc" | Wikisource:  | next_nc_e1: alljährlich 50
- | german_print2_15: alljährlich 50
- -->
-			<!-- line left out: id="r33l4" points="67,803 74,803 76,809 241,809 241,822 212,822 67,818" baseline="67,818 241,815" reason: differs: "InJ" against "eich" | Wikisource:  | next_nc_e1: In J | german_print2_15: In J -->
-			<TextLine id="r33l5" custom="readingOrder {index:5;}">
-				<Coords points="68,829 89,831 93,837 113,838 113,828 125,828 127,834 156,833 176,827 195,828 210,832 221,833 254,832 269,825 297,825 297,846 285,846 285,840 221,843 68,845" />
-				<Baseline points="68,845 297,840" />
+			<TextLine id="r33l3" custom="readingOrder {index:3;}">
+				<Coords points="67,788 73,777 84,777 91,775 103,775 117,776 118,782 129,782 134,776 151,781 157,775 162,775 164,788 179,779 212,782 212,789 189,789 188,795 179,795 151,791 141,791 134,779 129,791 67,792" />
+				<Baseline points="67,792 212,789" />
 				<TextEquiv index="1">
-					<Unicode>Dresdner Bürgern Wy</Unicode>
+					<Unicode>alljährlich 50</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r33l6" points="69,856 78,856 85,864 89,849 101,849 101,855 110,855 114,863 125,860 130,860 143,861 143,854 162,854 163,861 174,853 196,853 196,869 162,869 143,870 101,870 101,879 89,879 89,869 78,870 69,870" baseline="69,870 196,868" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: Verbindlichk
+			<!-- line left out: id="r33l4" points="67,803 74,803 76,809 241,809 241,822 212,822 67,818" baseline="67,818 241,815" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: In J | german_print2_15: In J -->
+			<!-- line left out: id="r33l5" points="68,829 73,829 89,831 93,837 97,837 113,838 113,828 125,828 127,834 137,834 150,833 156,833 176,827 181,827 195,828 210,832 221,833 236,832 254,832 269,825 297,825 297,846 285,846 285,840 254,841 221,843 181,843 137,844 89,844 73,845 68,845" baseline="68,845 269,840 297,840" reason: differs: "Dres" against "ch 5" | Wikisource:  | next_nc_e1: Dresdner Bürgern Wy | german_print2_15: Dresdner Bürgern Wy -->
+			<!-- line left out: id="r33l6" points="69,856 78,856 85,864 89,849 101,849 101,855 110,855 114,863 125,860 130,860 143,861 143,854 162,854 163,861 174,853 196,853 196,869 162,869 143,870 101,870 101,879 89,879 89,869 78,870 69,870" baseline="69,870 196,868" reason: differs: "Verb" against "hock" | Wikisource:  | next_nc_e1: Verbindlichk
  | german_print2_15:  -->
 			<TextEquiv index="1">
 				<Unicode>Bleiche
-Dresdner Bürgern Wy</Unicode>
+alljährlich 50</Unicode>
 			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r34" custom="readingOrder {index:34;} orientation {0;}">
@@ -404,16 +418,22 @@ Dresdner Bürgern Wy</Unicode>
 		<TextRegion id="r35" custom="readingOrder {index:35;} orientation {0;}">
 			<Coords points="119,728 789,728 789,1047 119,1047" />
 			<!-- line left out: id="r35l0" points="119,728 133,728 133,736 124,736 119,731" baseline="119,736 133,735" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 26 | german_print2_15: 26 -->
-			<!-- line left out: id="r35l1" points="696,738 707,738 709,745 720,743 732,743 756,743 768,744 770,737 785,737 785,753 732,754 707,754 696,754" baseline="696,753 785,752" reason: differs: "demna" against "dlich" | Wikisource:  | next_nc_e1: demnach | german_print2_15:  -->
-			<!-- line left out: id="r35l2" points="369,771 381,770 393,770 395,776 406,776 415,780 423,776 441,776 450,774 461,774 486,775 495,768 516,768 518,774 529,774 532,767 543,767 544,775 556,767 560,767 562,773 593,772 633,772 639,765 663,765 665,773 677,771 687,771 700,765 705,765 707,771 718,770 725,768 739,768 756,772 767,762 779,762 786,766 786,782 777,782 771,765 767,765 756,779 739,780 687,781 663,781 652,782 633,782 579,783 543,783 486,785 461,785 441,786 415,786 379,787 369,787" baseline="369,787 485,784 578,782 755,779 786,779" reason: differs: "Mark" against "lich" | Wikisource:  | next_nc_e1: Markgrafen Wilhelm zu zahlen hatte. 3⁵) | german_print2_15: Markgrafen Wilhelm zu zahlen hatte. 3⁵)
+			<!-- line left out: id="r35l1" points="696,738 707,738 709,745 720,743 732,743 756,743 768,744 770,737 785,737 785,753 732,754 707,754 696,754" baseline="696,753 785,752" reason: differs: "demn" against "k an" | Wikisource:  | next_nc_e1: demnach | german_print2_15:  -->
+			<!-- line left out: id="r35l2" points="369,771 381,770 393,770 395,776 406,776 415,780 423,776 441,776 450,774 461,774 486,775 495,768 516,768 518,774 529,774 532,767 543,767 544,775 556,767 560,767 562,773 593,772 633,772 639,765 663,765 665,773 677,771 687,771 700,765 705,765 707,771 718,770 725,768 739,768 756,772 767,762 779,762 786,766 786,782 777,782 771,765 767,765 756,779 739,780 687,781 663,781 652,782 633,782 579,783 543,783 486,785 461,785 441,786 415,786 379,787 369,787" baseline="369,787 485,784 578,782 755,779 786,779" reason: differs: "Mark" against "n de" | Wikisource:  | next_nc_e1: Markgrafen Wilhelm zu zahlen hatte. 3⁵) | german_print2_15: Markgrafen Wilhelm zu zahlen hatte. 3⁵)
  -->
-			<!-- line left out: id="r35l3" points="322,806 350,803 356,803 388,804 433,805 441,796 445,796 450,805 475,795 487,795 488,803 500,801 529,794 547,794 550,801 561,801 562,793 583,793 584,800 597,799 604,799 606,805 616,805 618,797 643,792 652,791 692,791 693,799 705,791 717,791 718,797 728,797 757,798 758,790 769,790 776,796 785,796 785,806 728,807 692,807 652,807 594,810 540,810 487,811 475,811 450,808 441,798 433,812 388,813 373,813 356,812 325,814 322,814" baseline="322,814 451,811 503,810 727,806 785,805" reason: differs: "vers" against "e, 2" | Wikisource:  | next_nc_e1: verschrieb der Markgraf Wilhelm den | german_print2_15: ) verschrieb der Markgraf Wilhelm den
+			<!-- line left out: id="r35l3" points="322,806 350,803 356,803 388,804 433,805 441,796 445,796 450,805 475,795 487,795 488,803 500,801 529,794 547,794 550,801 561,801 562,793 583,793 584,800 597,799 604,799 606,805 616,805 618,797 643,792 652,791 692,791 693,799 705,791 717,791 718,797 728,797 757,798 758,790 769,790 776,796 785,796 785,806 728,807 692,807 652,807 594,810 540,810 487,811 475,811 450,808 441,798 433,812 388,813 373,813 356,812 325,814 322,814" baseline="322,814 451,811 503,810 727,806 785,805" reason: beside a footnote mark or an unknown template | Wikisource:  | next_nc_e1: verschrieb der Markgraf Wilhelm den | german_print2_15: ) verschrieb der Markgraf Wilhelm den
  -->
-			<!-- line left out: id="r35l4" points="434,830 445,830 446,822 457,822 458,829 471,828 493,828 507,820 535,820 535,827 549,827 553,830 553,835 549,838 516,838 457,838 434,838" baseline="434,838 507,836 553,835" reason: differs: "ohan" against "Blei" | Wikisource:  | next_nc_e1: ohann Zcige
+			<!-- line left out: id="r35l4" points="434,830 445,830 446,822 457,822 458,829 471,828 493,828 507,820 535,820 535,827 549,827 553,830 553,835 549,838 516,838 457,838 434,838" baseline="434,838 507,836 553,835" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: ohann Zcige
  | german_print2_15: ohann Zcige
  -->
-			<!-- line left out: id="r35l5" points="519,852 547,851 553,851 553,862 547,862 546,868 537,868 529,865 519,863" baseline="519,863 553,862" reason: differs: "1372" against "iche" | Wikisource:  | next_nc_e1: 1372 | german_print2_15: 1372 -->
-			<!-- line left out: id="r35l6" points="388,884 413,879 425,879 429,884 436,875 448,875 457,882 465,882 483,885 498,874 510,874 511,882 522,880 539,880 555,872 568,872 570,878 577,878 601,880 602,872 617,872 625,879 636,871 668,871 680,872 696,876 703,870 713,870 713,881 724,881 724,886 696,886 668,887 623,887 589,888 561,889 510,889 483,890 448,891 436,891 400,889 388,889" baseline="388,892 399,891 555,888 724,886" reason: differs: "oSch" against "er 4" | Wikisource:  | next_nc_e1: o Schock dem Friedrich Porck. | german_print2_15: 0 Schock dem Friedrich Porck. -->
+			<TextLine id="r35l5" custom="readingOrder {index:5;}">
+				<Coords points="519,852 547,851 553,851 553,862 547,862 546,868 537,868 519,863" />
+				<Baseline points="519,863 553,862" />
+				<TextEquiv index="1">
+					<Unicode>1372</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r35l6" points="388,884 413,879 425,879 429,884 436,875 448,875 457,882 465,882 483,885 498,874 510,874 511,882 522,880 539,880 555,872 568,872 570,878 577,878 601,880 602,872 617,872 625,879 636,871 668,871 680,872 696,876 703,870 713,870 713,881 724,881 724,886 696,886 668,887 623,887 589,888 561,889 510,889 483,890 448,891 436,891 400,889 388,889" baseline="388,892 399,891 555,888 724,886" reason: differs: "oSch" against "aber" | Wikisource:  | next_nc_e1: o Schock dem Friedrich Porck. | german_print2_15: 0 Schock dem Friedrich Porck. -->
 			<TextLine id="r35l7" custom="readingOrder {index:7;}">
 				<Coords points="435,907 457,907 460,901 488,900 536,900 537,907 547,907 549,899 561,899 562,905 600,906 613,904 646,905 677,903 694,909 705,909 706,897 711,897 714,903 787,902 787,912 646,912 600,916 536,915 457,917 435,917" />
 				<Baseline points="435,917 488,915 787,912" />
@@ -435,7 +455,8 @@ Dresdner Bürgern Wy</Unicode>
  | german_print2_15: 1 Dividende
  -->
 			<TextEquiv index="1">
-				<Unicode>und Wilhelm genossen aber nun
+				<Unicode>1372
+und Wilhelm genossen aber nun
 um 1370 auf mindestens 425 Schock, d.</Unicode>
 			</TextEquiv>
 		</TextRegion>
@@ -618,19 +639,10 @@ auf 3000 Thlr. zu veranschlagenden</Unicode>
 		<TextRegion id="r59" custom="readingOrder {index:59;} orientation {0;}">
 			<Coords points="111,1133 793,1133 793,1207 111,1207" />
 			<!-- line left out: id="r59l0" points="532,1136 550,1136 571,1141 597,1141 641,1140 663,1140 672,1133 684,1133 691,1137 715,1139 717,1133 748,1133 750,1141 763,1139 785,1139 793,1142 793,1144 785,1149 691,1149 663,1150 636,1150 597,1151 587,1151 571,1150 550,1151 545,1151 532,1150" baseline="532,1151 564,1150 662,1149 793,1148" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: Id von 9000 Stück Lein- | german_print2_15: ld von 9000 Stück Lein- -->
-			<TextLine id="r59l1" custom="readingOrder {index:1;}">
-				<Coords points="111,1174 116,1174 124,1168 149,1167 165,1170 193,1169 201,1172 213,1165 216,1165 216,1181 116,1184 111,1184" />
-				<Baseline points="111,1184 216,1180" />
-				<TextEquiv index="1">
-					<Unicode>nd, Drillich</Unicode>
-				</TextEquiv>
-			</TextLine>
+			<!-- line left out: id="r59l1" points="111,1174 116,1174 124,1168 149,1167 154,1167 165,1170 183,1169 193,1169 201,1172 213,1165 216,1165 216,1181 201,1181 171,1182 154,1182 134,1183 116,1184 111,1184" baseline="111,1184 149,1182 216,1180" reason: both models read another letter than Wikisource | Wikisource: nd, Drillich | next_nc_e1: ad, Drillich | german_print2_15: ad, Drillich -->
 			<!-- line left out: id="r59l2" points="217,1192 221,1192 233,1195 233,1207 217,1207" baseline="217,1207 233,1206" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ht
  | german_print2_15: ht
  -->
-			<TextEquiv index="1">
-				<Unicode>nd, Drillich</Unicode>
-			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r60" custom="readingOrder {index:60;} orientation {0;}">
 			<Coords points="299,1166 471,1166 471,1180 299,1180" />

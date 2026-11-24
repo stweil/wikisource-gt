@@ -70,13 +70,7 @@ den Ferdinand,</Unicode>
 		</TextRegion>
 		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
 			<Coords points="610,804 786,804 786,1079 610,1079" />
-			<TextLine id="r3l0" custom="readingOrder {index:0;}">
-				<Coords points="743,805 761,804 776,804 783,805 783,810 776,813 743,813" />
-				<Baseline points="743,811 783,810" />
-				<TextEquiv index="1">
-					<Unicode>dess</Unicode>
-				</TextEquiv>
-			</TextLine>
+			<!-- line left out: id="r3l0" points="743,805 754,805 761,804 776,804 783,805 783,810 776,813 743,813" baseline="743,811 783,810" reason: both models read another letter than Wikisource | Wikisource: dess | next_nc_e1: dass | german_print2_15: dass -->
 			<!-- line left out: id="r3l1" points="663,827 674,824 701,824 701,833 721,830 732,830 734,837 744,837 745,830 773,830 773,834 765,834 757,840 701,840 674,840 663,837" baseline="663,840 773,840" reason: differs: "Gros" against "en d" | Wikisource:  | next_nc_e1: Grossmann
  | german_print2_15: Grossmann
  -->
@@ -96,13 +90,9 @@ den Ferdinand,</Unicode>
 					<Unicode>le Stille,</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<TextLine id="r3l6" custom="readingOrder {index:6;}">
-				<Coords points="752,983 757,983 773,984 786,989 786,998 757,998 752,998" />
-				<Baseline points="752,998 786,998" />
-				<TextEquiv index="1">
-					<Unicode>der</Unicode>
-				</TextEquiv>
-			</TextLine>
+			<!-- line left out: id="r3l6" points="752,983 757,983 773,984 786,989 786,998 757,998 752,998" baseline="752,998 786,998" reason: both models read another letter than Wikisource | Wikisource: der | next_nc_e1: Der
+ | german_print2_15: Der
+ -->
 			<TextLine id="r3l7" custom="readingOrder {index:7;}">
 				<Coords points="610,1015 621,1015 630,1021 635,1015 691,1015 703,1023 713,1023 717,1009 751,1009 752,1015 763,1015 771,1009 786,1009 786,1023 713,1026 703,1026 610,1024" />
 				<Baseline points="610,1026 786,1024" />
@@ -118,16 +108,14 @@ den Ferdinand,</Unicode>
 				</TextEquiv>
 			</TextLine>
 			<TextEquiv index="1">
-				<Unicode>dess
-le Stille,
-der
+				<Unicode>le Stille,
 ung von „Kabale
 genblic</Unicode>
 			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
 			<Coords points="631,1114 755,1114 755,1130 631,1130" />
-			<!-- line left out: id="r4l0" points="631,1120 643,1120 669,1121 676,1114 687,1114 695,1122 721,1121 733,1120 739,1114 755,1114 755,1130 721,1130 693,1129 687,1130 643,1130 631,1130" baseline="631,1129 660,1129 755,1130" reason: second model: differs: "urje" against "k ⟦⟧" | Wikisource: r jedes and | next_nc_e1: r jedes and
+			<!-- line left out: id="r4l0" points="631,1120 643,1120 669,1121 676,1114 687,1114 695,1122 721,1121 733,1120 739,1114 755,1114 755,1130 721,1130 693,1129 687,1130 643,1130 631,1130" baseline="631,1129 660,1129 755,1130" reason: second model: differs: "urje" against "k zu" | Wikisource: r jedes and | next_nc_e1: r jedes and
  | german_print2_15: ur jedes and-
  -->
 		</TextRegion>

@@ -23,9 +23,9 @@
 		</ReadingOrder>
 		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
 			<Coords points="602,220 776,220 776,527 602,527" />
-			<!-- line left out: id="r0l0" points="683,228 706,227 716,227 724,226 747,226 757,228 761,220 769,220 769,235 757,236 722,236 706,236 694,234 693,241 683,241" baseline="683,236 769,234" reason: differs: "geme" against "Rate" | Wikisource:  | next_nc_e1: gemeinde | german_print2_15: gemeinde
+			<!-- line left out: id="r0l0" points="683,228 706,227 716,227 724,226 747,226 757,228 761,220 769,220 769,235 757,236 722,236 706,236 694,234 693,241 683,241" baseline="683,236 769,234" reason: differs: "gemein" against "Gesamt" | Wikisource:  | next_nc_e1: gemeinde | german_print2_15: gemeinde
  -->
-			<!-- line left out: id="r0l1" points="650,255 656,251 669,251 677,253 711,251 721,251 759,247 774,247 774,262 701,262 677,262 656,262 650,261" baseline="650,262 774,262" reason: differs: "bene" against "zu s" | Wikisource:  | next_nc_e1: benen) und
+			<!-- line left out: id="r0l1" points="650,255 656,251 669,251 677,253 711,251 721,251 759,247 774,247 774,262 701,262 677,262 656,262 650,261" baseline="650,262 774,262" reason: differs: "bene" against "m ge" | Wikisource:  | next_nc_e1: benen) und
  | german_print2_15: venen ³) und
  -->
 			<!-- line left out: id="r0l2" points="606,280 613,280 626,279 635,279 666,279 667,273 684,273 694,287 698,274 707,274 721,279 723,273 733,273 740,279 752,276 764,276 775,279 775,288 698,289 635,289 613,290 606,290" baseline="606,290 634,289 683,288 775,288" reason: differs: "genu" against "amml" | Wikisource:  | next_nc_e1: gen und Aufläuſe | german_print2_15: gen und Aufläuſe -->
@@ -43,7 +43,7 @@
 					<Unicode>s bald nachher,</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r0l5" points="677,357 691,356 695,356 707,357 719,356 725,356 742,357 753,358 762,350 768,350 774,357 776,357 776,368 774,368 768,359 762,359 753,368 744,368 725,367 707,367 691,367 677,362" baseline="677,367 762,367 776,368" reason: differs: "stre" against "⟦⟧ w" | Wikisource:  | next_nc_e1: ſtreten, ⁴)
+			<!-- line left out: id="r0l5" points="677,357 691,356 695,356 707,357 719,356 725,356 742,357 753,358 762,350 768,350 774,357 776,357 776,368 774,368 768,359 762,359 753,368 744,368 725,367 707,367 691,367 677,362" baseline="677,367 762,367 776,368" reason: differs: "stre" against "im J" | Wikisource:  | next_nc_e1: ſtreten, ⁴)
  | german_print2_15: iftreten, ²)
  -->
 			<TextLine id="r0l6" custom="readingOrder {index:6;}">
@@ -94,9 +94,16 @@ zwungen, den</Unicode>
 		</TextRegion>
 		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
 			<Coords points="630,540 688,540 688,551 630,551" />
-			<!-- line left out: id="r1l0" points="630,543 637,542 648,542 654,543 673,541 686,540 688,540 688,550 666,551 648,551 637,551 630,546" baseline="630,546 688,548" reason: differs: "gime" against "⟦⟧ g" | Wikisource:  | next_nc_e1: giment
- | german_print2_15: giment
- -->
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="630,543 654,543 686,540 688,540 688,550 666,551 648,551 637,551 630,546" />
+				<Baseline points="630,546 688,548" />
+				<TextEquiv index="1">
+					<Unicode>giment</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>giment</Unicode>
+			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
 			<Coords points="667,614 776,614 776,629 667,629" />
@@ -113,7 +120,7 @@ zwungen, den</Unicode>
 		</TextRegion>
 		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
 			<Coords points="558,666 777,666 777,740 558,740" />
-			<!-- line left out: id="r3l0" points="685,673 696,673 698,667 703,667 706,673 717,672 726,672 744,666 756,666 757,674 768,673 777,673 777,682 726,682 717,682 703,681 696,682 685,682" baseline="685,681 777,681" reason: second model: differs: "äber" against "⟦⟧ N" | Wikisource: über den | next_nc_e1: über den | german_print2_15: äber den -->
+			<!-- line left out: id="r3l0" points="685,673 696,673 698,667 703,667 706,673 717,672 726,672 744,666 756,666 757,674 768,673 777,673 777,682 726,682 717,682 703,681 696,682 685,682" baseline="685,681 777,681" reason: second model: differs: "äber" against "der " | Wikisource: über den | next_nc_e1: über den | german_print2_15: äber den -->
 			<TextLine id="r3l1" custom="readingOrder {index:1;}">
 				<Coords points="697,699 715,698 748,700 750,692 755,692 763,699 777,699 777,708 715,708 697,708" />
 				<Baseline points="697,708 777,708" />
@@ -121,7 +128,7 @@ zwungen, den</Unicode>
 					<Unicode>aus den</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r3l2" points="558,723 576,723 599,719 608,719 615,727 622,725 634,725 663,725 689,724 700,724 745,725 777,725 777,734 761,734 745,733 723,734 700,734 663,734 653,734 650,740 646,740 644,731 634,734 622,734 608,733 580,734 564,734 558,728" baseline="558,734 738,733 777,735" reason: differs: "lerV" against "⟦⟧ ⟦" | Wikisource:  | next_nc_e1: ler Vorsprechen vom
+			<!-- line left out: id="r3l2" points="558,723 576,723 599,719 608,719 615,727 622,725 634,725 663,725 689,724 700,724 745,725 777,725 777,734 761,734 745,733 723,734 700,734 663,734 653,734 650,740 646,740 644,731 634,734 622,734 608,733 580,734 564,734 558,728" baseline="558,734 738,733 777,735" reason: both models read another letter than Wikisource | Wikisource: der Vorsprechen vom | next_nc_e1: ler Vorsprechen vom
  | german_print2_15: ler Vorsprechen vom
  -->
 			<TextEquiv index="1">
@@ -130,14 +137,8 @@ zwungen, den</Unicode>
 		</TextRegion>
 		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
 			<Coords points="577,744 777,744 777,813 577,813" />
-			<!-- line left out: id="r4l0" points="577,754 586,753 599,751 633,750 662,745 666,745 675,751 709,750 743,750 754,744 758,744 770,746 777,747 777,762 774,762 770,751 758,753 754,753 743,760 725,765 720,765 666,763 644,765 633,765 599,760 582,759 577,759" baseline="577,760 709,760 754,761 777,762" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: vom 4. Juli 1412 ¹⁰) | german_print2_15: vom 4. Juli 1412 ¹⁰) -->
-			<TextLine id="r4l1" custom="readingOrder {index:1;}">
-				<Coords points="600,774 617,777 638,777 643,771 648,771 656,780 665,777 682,778 695,777 701,775 715,775 771,777 777,781 777,783 771,786 715,786 682,786 648,786 635,786 604,786 600,786" />
-				<Baseline points="600,785 777,786" />
-				<TextEquiv index="1">
-					<Unicode>dwerksmeister er-</Unicode>
-				</TextEquiv>
-			</TextLine>
+			<!-- line left out: id="r4l0" points="577,754 586,753 599,751 633,750 662,745 666,745 675,751 709,750 743,750 754,744 758,744 770,746 777,747 777,762 774,762 770,751 758,753 754,753 743,760 725,765 720,765 666,763 644,765 633,765 599,760 582,759 577,759" baseline="577,760 709,760 754,761 777,762" reason: differs: "vom4" against "13. " | Wikisource:  | next_nc_e1: vom 4. Juli 1412 ¹⁰) | german_print2_15: vom 4. Juli 1412 ¹⁰) -->
+			<!-- line left out: id="r4l1" points="600,774 604,774 617,777 638,777 643,771 648,771 656,780 665,777 669,777 682,778 695,777 701,775 715,775 771,777 777,781 777,783 771,786 715,786 682,786 648,786 635,786 617,785 604,786 600,786" baseline="600,785 777,786" reason: both models read another letter than Wikisource | Wikisource: dwerksmeister er | next_nc_e1: lwerksmeister er- | german_print2_15: lwerksmeister er- -->
 			<TextLine id="r4l2" custom="readingOrder {index:2;}">
 				<Coords points="621,805 633,803 643,803 646,810 656,810 658,803 675,803 705,803 715,803 764,803 776,804 776,808 764,812 715,813 691,813 664,813 621,812" />
 				<Baseline points="621,812 776,812" />
@@ -146,8 +147,7 @@ zwungen, den</Unicode>
 				</TextEquiv>
 			</TextLine>
 			<TextEquiv index="1">
-				<Unicode>dwerksmeister er-
-ankungen eines</Unicode>
+				<Unicode>ankungen eines</Unicode>
 			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">

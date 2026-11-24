@@ -30,13 +30,7 @@
 		</TextRegion>
 		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
 			<Coords points="577,1293 814,1293 814,1335 577,1335" />
-			<TextLine id="r1l0" custom="readingOrder {index:0;}">
-				<Coords points="770,1299 792,1299 798,1302 805,1293 814,1293 814,1308 792,1308 770,1308" />
-				<Baseline points="770,1308 814,1308" />
-				<TextEquiv index="1">
-					<Unicode>Nach</Unicode>
-				</TextEquiv>
-			</TextLine>
+			<!-- line left out: id="r1l0" points="770,1299 792,1299 798,1302 805,1293 814,1293 814,1308 792,1308 770,1308" baseline="770,1308 814,1308" reason: both models read another letter than Wikisource | Wikisource: Nach | next_nc_e1: nach | german_print2_15: nach -->
 			<TextLine id="r1l1" custom="readingOrder {index:1;}">
 				<Coords points="577,1325 637,1324 663,1325 669,1328 684,1319 696,1319 704,1327 713,1327 727,1319 752,1319 752,1325 780,1325 791,1327 801,1325 814,1325 814,1335 791,1335 752,1335 702,1335 653,1335 586,1334 577,1328" />
 				<Baseline points="577,1335 814,1335" />
@@ -45,8 +39,7 @@
 				</TextEquiv>
 			</TextLine>
 			<TextEquiv index="1">
-				<Unicode>Nach
-nächst in die Marmor-</Unicode>
+				<Unicode>nächst in die Marmor-</Unicode>
 			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">

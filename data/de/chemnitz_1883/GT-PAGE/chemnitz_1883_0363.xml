@@ -25,15 +25,15 @@
 					<Unicode>ogen</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r0l1" points="704,317 708,317 714,319 722,311 733,311 735,317 745,317 772,315 776,315 788,319 788,321 776,325 759,326 708,326 704,326" baseline="704,326 788,325" reason: differs: "nehm" against "⟦⟧ b" | Wikisource:  | next_nc_e1: nehmigte | german_print2_15: nehmigte -->
-			<TextLine id="r0l2" custom="readingOrder {index:2;}">
-				<Coords points="670,337 683,337 685,345 698,343 788,343 788,353 773,353 670,352" />
-				<Baseline points="670,352 788,353" />
+			<TextLine id="r0l1" custom="readingOrder {index:1;}">
+				<Coords points="704,317 714,319 722,311 733,311 735,317 776,315 788,319 788,321 776,325 759,326 708,326 704,326" />
+				<Baseline points="704,326 788,325" />
 				<TextEquiv index="1">
-					<Unicode>Böhmen in</Unicode>
+					<Unicode>nehmigte</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r0l3" points="758,363 780,363 783,372 789,372 789,376 780,378 758,378" baseline="758,378 789,376" reason: differs: "des" against "seiner" | Wikisource:  | next_nc_e1: des | german_print2_15: des -->
+			<!-- line left out: id="r0l2" points="670,337 683,337 685,345 698,343 721,343 788,343 788,353 773,353 683,352 670,352" baseline="670,352 743,352 788,353" reason: differs: "Böhm" against "bei " | Wikisource:  | next_nc_e1: Böhmen in | german_print2_15: Böhmen in -->
+			<!-- line left out: id="r0l3" points="758,363 780,363 783,372 789,372 789,376 780,378 758,378" baseline="758,378 789,376" reason: differs: "des" against "ters, " | Wikisource:  | next_nc_e1: des | german_print2_15: des -->
 			<TextLine id="r0l4" custom="readingOrder {index:4;}">
 				<Coords points="684,389 707,389 713,394 777,395 785,389 788,389 788,404 765,405 754,405 684,404" />
 				<Baseline points="684,404 788,404" />
@@ -58,7 +58,13 @@
 					<Unicode>gaben</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r0l10" points="675,555 687,552 747,552 782,552 790,556 790,558 782,562 747,562 696,562 687,562 675,558" baseline="675,562 717,561 790,561" reason: differs: "enzu" against "zu ⟦" | Wikisource:  | next_nc_e1: en zurück- | german_print2_15: en zurück- -->
+			<TextLine id="r0l10" custom="readingOrder {index:10;}">
+				<Coords points="675,555 687,552 747,552 782,552 790,556 790,558 782,562 747,562 696,562 687,562 675,558" />
+				<Baseline points="675,562 790,561" />
+				<TextEquiv index="1">
+					<Unicode>en zurück-</Unicode>
+				</TextEquiv>
+			</TextLine>
 			<TextLine id="r0l11" custom="readingOrder {index:11;}">
 				<Coords points="661,585 673,578 684,578 713,578 748,578 766,578 788,578 788,588 713,588 661,588" />
 				<Baseline points="661,588 788,588" />
@@ -139,10 +145,11 @@
 			</TextLine>
 			<TextEquiv index="1">
 				<Unicode>ogen
-Böhmen in
+nehmigte
 Peter und
 kau und
 gaben
+en zurück-
 hmen vorher
 hnet
 ufrieden, sondern

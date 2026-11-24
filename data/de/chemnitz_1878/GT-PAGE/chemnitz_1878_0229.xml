@@ -45,7 +45,13 @@
 		</TextRegion>
 		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
 			<Coords points="659,512 785,512 785,554 659,554" />
-			<!-- line left out: id="r2l0" points="659,512 672,512 673,520 685,517 695,512 706,512 763,517 785,517 785,527 706,528 659,528" baseline="659,528 705,527 785,526" reason: differs: "Beck" against "en ⟦" | Wikisource:  | next_nc_e1: Beck waren | german_print2_15: Beck waren -->
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="659,512 672,512 673,520 685,517 695,512 706,512 763,517 785,517 785,527 706,528 659,528" />
+				<Baseline points="659,528 785,526" />
+				<TextEquiv index="1">
+					<Unicode>Beck waren</Unicode>
+				</TextEquiv>
+			</TextLine>
 			<TextLine id="r2l1" custom="readingOrder {index:1;}">
 				<Coords points="704,546 756,543 763,537 780,537 785,541 785,553 743,554 737,554 704,553" />
 				<Baseline points="704,553 785,553" />
@@ -54,7 +60,8 @@
 				</TextEquiv>
 			</TextLine>
 			<TextEquiv index="1">
-				<Unicode>es nicht</Unicode>
+				<Unicode>Beck waren
+es nicht</Unicode>
 			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">

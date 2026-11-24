@@ -65,9 +65,9 @@ ESZETT = os.environ.get('ESZETT', '')      # ESZETT=auto: decided from the recog
 # LONGS=0: the print has no long s (modern Antiqua); a long s read by the models counts as s
 LONGS = os.environ.get('LONGS', '1') != '0'
 MAXSUBST = int(os.environ.get('MAXSUBST', '2'))
-# STRICT=1: a line is left out when both models read the same other letter where
+# STRICT (default 1; STRICT=0 turns it off): a line is left out when both models read the same other letter where
 # Wikisource was taken (the transcription then often differs from the print)
-STRICT = os.environ.get('STRICT', '0') == '1'
+STRICT = os.environ.get("STRICT", "1") == "1"
 SUBS = []                 # places of the last successful hybrid(): (position in wu, letter read)
 # forms where the recognition is not trusted and Wikisource is taken: (recognised, Wikisource)
 TAKE_WS = {('ʒ', 'z'), ('ũ', 'ü'), ('·', '/'), ('u\u0366', 'ü'), ('ü', 'u\u0366'), ('ı', 'i'), ('J', 'I'), ('I', 'J'), ('v', 'u'), ('u', 'v')} - {('v', 'u'), ('u', 'v')}
@@ -174,7 +174,9 @@ def hybrid(ou, wu):
         # and only when the letters after it agree again.
         if (subst < MAXSUBST and x not in NOSUBST and x[0].isalpha() and wu[j][0].isalpha() and i + 1 < len(ou) and j + 1 < len(wu)
                 and wu[j + 1] != ' ' and (ou[i + 1] == wu[j + 1] or wu[j + 1] in PAIRS.get(ou[i + 1], [''])[0][:1] or (ou[i + 1], wu[j + 1]) == ('ſ', 's'))):
-            subs.append((j, x)); out.append(wu[j]); i += 1; j += 1; subst += 1; continue
+            # (without long s in the print the models read s for the long s of an ſs which stands for ß, and for f)
+            if LONGS or (x, wu[j]) not in (("s", "ſ"), ("s", "f")): subs.append((j, x))
+            out.append(wu[j]); i += 1; j += 1; subst += 1; continue
         return None, f'differs: "{"".join(ou[max(0, i - 3):i + 4])}" against "{"".join(wu[max(0, j - 3):j + 4])}"'
     if i < len(ou): return None, 'recognition has more'
     SUBS[:] = subs

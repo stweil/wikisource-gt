@@ -17,11 +17,17 @@
 		</ReadingOrder>
 		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
 			<Coords points="558,201 782,201 782,819 558,819" />
-			<!-- line left out: id="r0l0" points="652,202 663,202 665,210 676,207 685,207 701,201 716,201 718,210 747,206 767,206 774,211 774,212 767,216 752,217 747,217 716,216 707,217 663,217 652,217" baseline="652,217 774,217" reason: differs: "denR" against "talt" | Wikisource:  | next_nc_e1: den Reichs-
+			<!-- line left out: id="r0l0" points="652,202 663,202 665,210 676,207 685,207 701,201 716,201 718,210 747,206 767,206 774,211 774,212 767,216 752,217 747,217 716,216 707,217 663,217 652,217" baseline="652,217 774,217" reason: differs: "denR" against "en a" | Wikisource:  | next_nc_e1: den Reichs-
  | german_print2_15: den Reichs-
  -->
-			<!-- line left out: id="r0l1" points="643,235 653,235 655,228 659,228 663,235 679,234 683,234 707,239 709,228 720,228 723,236 744,235 749,227 762,227 763,233 774,233 774,242 762,243 720,243 683,243 679,243 659,242 653,243 643,243" baseline="643,243 728,242 774,242" reason: differs: "aber" against "sich" | Wikisource:  | next_nc_e1: aber als der | german_print2_15: aber als der -->
-			<!-- line left out: id="r0l2" points="655,265 662,262 674,259 697,259 774,259 774,269 708,271 698,271 655,269" baseline="655,269 774,269" reason: differs: "ikun" against "rst " | Wikisource:  | next_nc_e1: ikungen im | german_print2_15: nakungen im -->
+			<TextLine id="r0l1" custom="readingOrder {index:1;}">
+				<Coords points="643,235 653,235 655,228 659,228 663,235 683,234 707,239 709,228 720,228 723,236 744,235 749,227 762,227 763,233 774,233 774,242 762,243 720,243 683,243 679,243 653,243 643,243" />
+				<Baseline points="643,243 774,242" />
+				<TextEquiv index="1">
+					<Unicode>aber als der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l2" points="655,265 662,262 674,259 697,259 774,259 774,269 708,271 698,271 655,269" baseline="655,269 774,269" reason: differs: "ikun" against "Kurf" | Wikisource:  | next_nc_e1: ikungen im | german_print2_15: nakungen im -->
 			<TextLine id="r0l3" custom="readingOrder {index:3;}">
 				<Coords points="689,279 696,279 711,280 713,287 735,285 744,288 775,285 775,295 735,295 711,295 689,295" />
 				<Baseline points="689,295 775,295" />
@@ -29,9 +35,13 @@
 					<Unicode>Preussen</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r0l4" points="694,310 700,310 710,312 721,315 724,309 727,309 752,314 752,305 759,305 761,311 769,311 769,321 694,321" baseline="694,321 769,321" reason: differs: "traf" against "⟦⟧ ü" | Wikisource:  | next_nc_e1: traf die
- | german_print2_15: traf die
- -->
+			<TextLine id="r0l4" custom="readingOrder {index:4;}">
+				<Coords points="694,310 700,310 721,315 724,309 727,309 752,314 752,305 759,305 761,311 769,311 769,321 694,321" />
+				<Baseline points="694,321 769,321" />
+				<TextEquiv index="1">
+					<Unicode>traf die</Unicode>
+				</TextEquiv>
+			</TextLine>
 			<TextLine id="r0l5" custom="readingOrder {index:5;}">
 				<Coords points="647,341 669,341 683,331 698,331 705,338 728,339 732,332 741,332 743,340 775,338 775,347 732,347 720,345 717,353 705,353 700,348 647,343" />
 				<Baseline points="647,347 775,347" />
@@ -64,7 +74,13 @@
 					<Unicode>Nov. 1806 ins Leben</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r0l11" points="565,490 569,490 572,496 582,496 582,490 607,490 641,491 650,502 666,499 680,495 692,490 703,490 715,495 733,498 753,489 764,489 772,495 777,495 777,504 715,505 690,505 654,505 572,505 565,497" baseline="565,505 732,502 777,504" reason: differs: "durc" against "⟦⟧ e" | Wikisource:  | next_nc_e1: durch Ausschluss der | german_print2_15: durch Ausschluss der -->
+			<TextLine id="r0l11" custom="readingOrder {index:11;}">
+				<Coords points="565,490 569,490 572,496 582,496 582,490 641,491 650,502 680,495 692,490 703,490 715,495 733,498 753,489 764,489 772,495 777,495 777,504 715,505 690,505 654,505 572,505 565,497" />
+				<Baseline points="565,505 732,502 777,504" />
+				<TextEquiv index="1">
+					<Unicode>durch Ausschluss der</Unicode>
+				</TextEquiv>
+			</TextLine>
 			<TextLine id="r0l12" custom="readingOrder {index:12;}">
 				<Coords points="573,524 579,522 667,522 669,516 679,516 701,525 708,515 717,515 719,521 741,519 775,521 775,530 731,531 679,531 602,531 573,531" />
 				<Baseline points="573,531 775,530" />
@@ -131,11 +147,14 @@
 				</TextEquiv>
 			</TextLine>
 			<TextEquiv index="1">
-				<Unicode>Preussen
+				<Unicode>aber als der
+Preussen
+traf die
 ass Napoleon
 Dem Lande wurde
 3 mal die Summe
 Nov. 1806 ins Leben
+durch Ausschluss der
 andes und darüber
 waltsame Um-
 ichts fabri-
@@ -183,7 +202,13 @@ e und die Chronik</Unicode>
 					<Unicode>Kontingent ihren</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r2l5" points="585,991 596,991 608,992 630,986 641,986 643,994 654,992 664,992 688,991 693,991 729,991 752,990 761,990 783,991 783,1000 761,1000 729,1000 717,1001 705,1001 696,1000 693,1006 688,1006 686,998 664,1001 641,1001 602,1001 585,1001" baseline="585,1001 679,999 783,1000" reason: differs: "fürd" against "⟦⟧ K" | Wikisource:  | next_nc_e1: für den spanischen | german_print2_15: für den spanischen -->
+			<TextLine id="r2l5" custom="readingOrder {index:5;}">
+				<Coords points="585,991 608,992 630,986 641,986 643,994 654,992 688,991 783,991 783,1000 696,1000 693,1006 688,1006 686,998 664,1001 585,1001" />
+				<Baseline points="585,1001 679,999 783,1000" />
+				<TextEquiv index="1">
+					<Unicode>für den spanischen</Unicode>
+				</TextEquiv>
+			</TextLine>
 			<TextLine id="r2l6" custom="readingOrder {index:6;}">
 				<Coords points="644,1012 653,1012 660,1020 664,1010 678,1010 689,1012 692,1020 718,1015 748,1015 772,1017 774,1010 783,1010 783,1025 689,1027 664,1027 644,1026" />
 				<Baseline points="644,1026 783,1025" />
@@ -196,6 +221,7 @@ e und die Chronik</Unicode>
 tierungen
 Oudinot und
 Kontingent ihren
+für den spanischen
 Volksaufstand</Unicode>
 			</TextEquiv>
 		</TextRegion>

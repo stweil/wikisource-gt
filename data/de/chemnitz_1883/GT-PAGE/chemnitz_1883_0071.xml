@@ -39,7 +39,7 @@
 		</ReadingOrder>
 		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
 			<Coords points="205,729 257,729 257,744 205,744" />
-			<!-- line left out: id="r0l0" points="205,729 218,729 228,735 237,735 255,733 257,733 257,743 237,744 228,744 218,743 205,743" baseline="205,743 257,743" reason: differs: "Kuns" against "| Dr" | Wikisource:  | next_nc_e1: Kunst
+			<!-- line left out: id="r0l0" points="205,729 218,729 228,735 237,735 255,733 257,733 257,743 237,744 228,744 218,743 205,743" baseline="205,743 257,743" reason: differs: "Kuns" against "| st" | Wikisource:  | next_nc_e1: Kunst
  | german_print2_15: Kunst
  -->
 		</TextRegion>
@@ -51,13 +51,13 @@
 		</TextRegion>
 		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
 			<Coords points="275,735 289,735 289,743 275,743" />
-			<!-- line left out: id="r2l0" points="275,735 289,735 289,743 275,743" baseline="275,743 289,743" reason: second model: no text of Wikisource found | Wikisource: Nr | next_nc_e1: ur
+			<!-- line left out: id="r2l0" points="275,735 289,735 289,743 275,743" baseline="275,743 289,743" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: ur
  | german_print2_15: ur
  -->
 		</TextRegion>
 		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
 			<Coords points="256,759 325,759 325,769 256,769" />
-			<!-- line left out: id="r3l0" points="256,763 278,759 282,759 295,760 308,761 325,763 325,769 278,769 264,767 256,766" baseline="256,769 325,769" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ostümfe
+			<!-- line left out: id="r3l0" points="256,763 278,759 282,759 295,760 308,761 325,763 325,769 278,769 264,767 256,766" baseline="256,769 325,769" reason: differs: "ostü" against "Theo" | Wikisource:  | next_nc_e1: ostümfe
  | german_print2_15: ostümfe
  -->
 		</TextRegion>
@@ -270,16 +270,9 @@ Dresden 1859.</Unicode>
 		</TextRegion>
 		<TextRegion id="r24" custom="readingOrder {index:24;} orientation {0;}">
 			<Coords points="558,1225 602,1225 602,1236 558,1236" />
-			<TextLine id="r24l0" custom="readingOrder {index:0;}">
-				<Coords points="558,1225 577,1225 602,1225 602,1231 596,1236 577,1236 572,1236 558,1234" />
-				<Baseline points="558,1234 602,1236" />
-				<TextEquiv index="1">
-					<Unicode>Stutt</Unicode>
-				</TextEquiv>
-			</TextLine>
-			<TextEquiv index="1">
-				<Unicode>Stutt</Unicode>
-			</TextEquiv>
+			<!-- line left out: id="r24l0" points="558,1225 577,1225 602,1225 602,1231 596,1236 577,1236 572,1236 558,1234" baseline="558,1234 602,1236" reason: differs: "Stut" against "| st" | Wikisource:  | next_nc_e1: Stutt
+ | german_print2_15: Stutt
+ -->
 		</TextRegion>
 		<TextRegion id="r25" custom="readingOrder {index:25;} orientation {0;}">
 			<Coords points="532,1323 665,1323 665,1344 532,1344" />

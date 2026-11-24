@@ -142,37 +142,90 @@ Andres</Unicode>
 		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
 			<Coords points="492,884 838,884 838,958 492,958" />
 			<!-- line left out: id="r7l0" points="533,894 567,890 573,890 604,890 610,891 634,893 650,886 660,886 664,892 669,892 697,890 701,890 728,892 740,893 755,891 759,891 763,898 790,892 801,884 805,884 807,890 818,890 828,893 828,898 805,899 766,901 740,903 730,903 701,901 697,901 691,908 684,908 677,901 669,902 610,902 573,902 536,903 533,903" baseline="533,903 567,902 828,898" reason: differs: "r,St" against "| st" | Wikisource:  | next_nc_e1: r, Steffen Freyberger, Ilan | german_print2_15: r., Steffen Freyberger, Hlan -->
-			<!-- line left out: id="r7l1" points="492,919 509,918 521,918 574,914 599,914 599,922 610,917 614,917 620,926 651,914 660,914 670,921 679,921 681,913 710,913 714,919 719,919 728,920 749,913 759,913 785,917 819,913 831,913 838,916 838,925 831,927 819,927 785,926 773,927 719,927 710,928 623,929 599,929 540,929 504,929 492,925" baseline="492,929 727,926 838,925" reason: differs: "Stef" against "alig" | Wikisource:  | next_nc_e1: Steffen Voit, Andreas Auwener, | german_print2_15: Steffen Voit, Andreas Auwener, -->
-			<!-- line left out: id="r7l2" points="499,941 523,941 555,941 555,948 567,946 571,946 578,953 606,940 626,940 652,944 661,949 685,939 700,939 725,942 742,951 770,941 776,941 786,949 792,943 813,943 826,942 835,942 835,951 816,951 813,958 798,958 796,952 746,954 725,954 652,955 581,956 578,956 567,950 555,956 523,956 499,956" baseline="499,956 770,952 835,951" reason: differs: "Rose" against "ign:" | Wikisource:  | next_nc_e1: Roseler, Hanſs Neffe, Caspar
+			<TextLine id="r7l1" custom="readingOrder {index:1;}">
+				<Coords points="492,919 574,914 599,914 599,922 610,917 614,917 620,926 651,914 660,914 670,921 679,921 681,913 710,913 714,919 728,920 749,913 759,913 785,917 819,913 831,913 838,916 838,925 831,927 785,926 623,929 599,929 540,929 504,929 492,925" />
+				<Baseline points="492,929 838,925" />
+				<TextEquiv index="1">
+					<Unicode>Steffen Voit, Andreas Auwener,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l2" points="499,941 523,941 555,941 555,948 567,946 571,946 578,953 606,940 626,940 652,944 661,949 685,939 700,939 725,942 742,951 770,941 776,941 786,949 792,943 813,943 826,942 835,942 835,951 816,951 813,958 798,958 796,952 746,954 725,954 652,955 581,956 578,956 567,950 555,956 523,956 499,956" baseline="499,956 770,952 835,951" reason: differs: "Rosele" against "Johann" | Wikisource:  | next_nc_e1: Roseler, Hanſs Neffe, Caspar
  | german_print2_15: Roseler, Hanſs Neffe, Caspar
  -->
+			<TextEquiv index="1">
+				<Unicode>Steffen Voit, Andreas Auwener,</Unicode>
+			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
 			<Coords points="555,963 839,963 839,982 555,982" />
-			<!-- line left out: id="r8l0" points="555,966 567,966 568,975 591,972 594,966 616,966 618,973 636,969 638,969 662,973 663,965 676,965 685,973 697,965 708,965 709,971 721,971 747,970 758,970 785,963 798,963 826,967 839,969 839,977 826,978 818,979 798,979 758,980 734,980 721,979 708,980 676,982 653,982 636,972 629,981 609,982 567,982 555,982" baseline="555,979 839,978" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Peczold] geschworne Rath-
- | german_print2_15: Peczold] geschworne Rath-
- -->
+			<TextLine id="r8l0" custom="readingOrder {index:0;}">
+				<Coords points="555,966 567,966 568,975 591,972 594,966 616,966 618,973 636,969 662,973 663,965 676,965 685,973 697,965 708,965 709,971 721,971 758,970 785,963 798,963 839,969 839,977 818,979 721,979 676,982 653,982 636,972 629,981 609,982 567,982 555,982" />
+				<Baseline points="555,979 839,978" />
+				<TextEquiv index="1">
+					<Unicode>Peczold] geschworne Rath-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Peczold] geschworne Rath-</Unicode>
+			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
 			<Coords points="604,1025 837,1025 837,1144 604,1144" />
-			<!-- line left out: id="r9l0" points="604,1033 617,1030 638,1029 649,1029 677,1028 705,1028 728,1028 742,1028 747,1035 772,1025 777,1025 788,1034 794,1029 810,1028 815,1028 829,1027 837,1027 837,1036 818,1036 815,1042 810,1042 808,1036 750,1038 728,1039 715,1039 705,1038 688,1039 662,1039 650,1038 619,1036 617,1036 604,1035" baseline="604,1039 772,1036 837,1036" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: er Scheitteler, Caspar | german_print2_15: er Scheittéler, Caspar -->
-			<!-- line left out: id="r9l1" points="645,1050 650,1050 660,1056 664,1056 680,1055 692,1053 696,1053 723,1054 736,1055 749,1054 753,1054 760,1062 762,1062 762,1065 736,1067 724,1067 686,1064 664,1064 650,1065 645,1065" baseline="645,1065 762,1065" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Freyberger, | german_print2_15: Freyberger, -->
-			<!-- line left out: id="r9l2" points="648,1084 665,1076 711,1075 716,1075 734,1076 745,1081 745,1090 674,1091 648,1091" baseline="648,1091 711,1090 745,1090" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ich, Pau | german_print2_15: ich, Pau -->
-			<!-- line left out: id="r9l3" points="644,1103 653,1103 660,1111 671,1106 684,1106 712,1108 737,1108 745,1107 756,1107 769,1108 769,1117 737,1117 684,1117 644,1117" baseline="644,1117 769,1116" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Vettermann, | german_print2_15: Vettermann, -->
-			<!-- line left out: id="r9l4" points="665,1135 669,1135 676,1142 709,1129 719,1128 729,1128 731,1134 742,1134 756,1135 756,1143 679,1144 665,1144" baseline="665,1144 709,1143 756,1143" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: r, Hans
+			<TextLine id="r9l0" custom="readingOrder {index:0;}">
+				<Coords points="604,1033 617,1030 638,1029 742,1028 747,1035 772,1025 777,1025 788,1034 794,1029 837,1027 837,1036 818,1036 815,1042 810,1042 808,1036 728,1039 662,1039 604,1035" />
+				<Baseline points="604,1039 837,1036" />
+				<TextEquiv index="1">
+					<Unicode>er Scheitteler, Caspar</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l1" custom="readingOrder {index:1;}">
+				<Coords points="645,1050 650,1050 660,1056 692,1053 736,1055 753,1054 760,1062 762,1062 762,1065 736,1067 724,1067 686,1064 645,1065" />
+				<Baseline points="645,1065 762,1065" />
+				<TextEquiv index="1">
+					<Unicode>Freyberger,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l2" custom="readingOrder {index:2;}">
+				<Coords points="648,1084 665,1076 711,1075 716,1075 734,1076 745,1081 745,1090 674,1091 648,1091" />
+				<Baseline points="648,1091 745,1090" />
+				<TextEquiv index="1">
+					<Unicode>ich, Pau</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l3" custom="readingOrder {index:3;}">
+				<Coords points="644,1103 653,1103 660,1111 671,1106 712,1108 769,1108 769,1117 737,1117 684,1117 644,1117" />
+				<Baseline points="644,1117 769,1116" />
+				<TextEquiv index="1">
+					<Unicode>Vettermann,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r9l4" points="665,1135 669,1135 676,1142 709,1129 719,1128 729,1128 731,1134 742,1134 756,1135 756,1143 679,1144 665,1144" baseline="665,1144 709,1143 756,1143" reason: differs: "r,Ha" against "Hans" | Wikisource:  | next_nc_e1: r, Hans
  | german_print2_15: r, Hlans
  -->
+			<TextEquiv index="1">
+				<Unicode>er Scheitteler, Caspar
+Freyberger,
+ich, Pau
+Vettermann,</Unicode>
+			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
 			<Coords points="693,1154 780,1154 780,1173 693,1173" />
-			<!-- line left out: id="r10l0" points="693,1158 705,1158 724,1160 745,1160 747,1154 758,1154 758,1160 778,1159 780,1159 780,1167 770,1168 758,1169 711,1173 707,1173 693,1169" baseline="693,1169 780,1167" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Sprenker
- | german_print2_15: Sprenker
- -->
+			<TextLine id="r10l0" custom="readingOrder {index:0;}">
+				<Coords points="693,1158 745,1160 747,1154 758,1154 758,1160 780,1159 780,1167 711,1173 707,1173 693,1169" />
+				<Baseline points="693,1169 780,1167" />
+				<TextEquiv index="1">
+					<Unicode>Sprenker</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Sprenker</Unicode>
+			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
 			<Coords points="575,1275 846,1275 846,1315 575,1315" />
-			<!-- line left out: id="r11l0" points="575,1281 593,1281 593,1288 609,1286 614,1282 643,1277 654,1277 664,1282 673,1277 684,1277 720,1277 723,1277 762,1279 780,1281 784,1275 819,1275 820,1281 842,1278 845,1278 845,1288 825,1288 723,1290 720,1290 701,1290 622,1291 600,1292 593,1293 575,1293" baseline="575,1292 621,1290 722,1288 845,1288" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Jacob Scheiteler; doch lässt | german_print2_15: Jacob Scheiteler; doch lässt -->
-			<!-- line left out: id="r11l1" points="593,1300 602,1300 604,1306 615,1303 624,1303 651,1305 653,1299 658,1299 660,1305 674,1303 682,1298 692,1298 707,1302 709,1308 719,1308 721,1301 730,1301 750,1302 768,1302 772,1296 778,1296 836,1296 846,1301 846,1309 753,1309 747,1306 719,1315 709,1315 658,1311 624,1312 602,1312 593,1312" baseline="593,1313 623,1311 747,1309 846,1309" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Zeit überhaupt nicht nach-
+			<!-- line left out: id="r11l0" points="575,1281 593,1281 593,1288 609,1286 614,1282 643,1277 654,1277 664,1282 673,1277 684,1277 720,1277 723,1277 762,1279 780,1281 784,1275 819,1275 820,1281 842,1278 845,1278 845,1288 825,1288 723,1290 720,1290 701,1290 622,1291 600,1292 593,1293 575,1293" baseline="575,1292 621,1290 722,1288 845,1288" reason: differs: "Jaco" against "gesc" | Wikisource:  | next_nc_e1: Jacob Scheiteler; doch lässt | german_print2_15: Jacob Scheiteler; doch lässt -->
+			<!-- line left out: id="r11l1" points="593,1300 602,1300 604,1306 615,1303 624,1303 651,1305 653,1299 658,1299 660,1305 674,1303 682,1298 692,1298 707,1302 709,1308 719,1308 721,1301 730,1301 750,1302 768,1302 772,1296 778,1296 836,1296 846,1301 846,1309 753,1309 747,1306 719,1315 709,1315 658,1311 624,1312 602,1312 593,1312" baseline="593,1313 623,1311 747,1309 846,1309" reason: differs: "Zeit" against "rath" | Wikisource:  | next_nc_e1: Zeit überhaupt nicht nach-
  | german_print2_15: Zeit überhaupt nicht nach-
  -->
 		</TextRegion>
@@ -187,7 +240,7 @@ Andres</Unicode>
 		</GraphicRegion>
 		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
 			<Coords points="424,1540 658,1540 658,1568 424,1568" />
-			<!-- line left out: id="r14l0" points="424,1553 430,1552 437,1550 452,1550 468,1549 499,1549 533,1549 533,1540 547,1540 551,1552 563,1549 571,1549 646,1549 658,1550 658,1558 571,1560 551,1560 547,1568 533,1568 533,1558 452,1561 443,1561 430,1561 424,1557" baseline="424,1558 658,1558" reason: differs: "dgsi" against "p;" " | Wikisource:  | next_nc_e1: dgſial slub dresden de ppn301259842383 | german_print2_15: BSnf:uhdresden de ppne1239642393 -->
+			<!-- line left out: id="r14l0" points="424,1553 430,1552 437,1550 452,1550 468,1549 499,1549 533,1549 533,1540 547,1540 551,1552 563,1549 571,1549 646,1549 658,1550 658,1558 571,1560 551,1560 547,1568 533,1568 533,1558 452,1561 443,1561 430,1561 424,1557" baseline="424,1558 658,1558" reason: differs: "dgsi" against "thma" | Wikisource:  | next_nc_e1: dgſial slub dresden de ppn301259842383 | german_print2_15: BSnf:uhdresden de ppne1239642393 -->
 		</TextRegion>
 		<!-- Wikisource text of the page (normalised spelling, see the README):
 | style="vertical-align:top;" | 1473.

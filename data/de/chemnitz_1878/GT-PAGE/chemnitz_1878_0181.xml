@@ -107,9 +107,16 @@ er in den</Unicode>
 		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
 			<Coords points="627,986 793,986 793,1030 627,1030" />
 			<!-- line left out: id="r6l0" points="687,993 711,993 755,993 755,986 766,986 769,993 786,992 789,992 789,1001 766,1002 711,1005 700,1005 687,1003" baseline="687,1003 733,1002 789,1001" reason: models differ | Wikisource: ngen über | next_nc_e1: ngen über | german_print2_15: ungen über -->
-			<!-- line left out: id="r6l1" points="627,1021 639,1021 647,1028 658,1014 663,1014 685,1019 727,1016 738,1013 755,1013 755,1021 767,1018 793,1018 793,1028 755,1028 712,1029 663,1030 627,1030" baseline="627,1030 711,1028 793,1028" reason: differs: "undv" against "die " | Wikisource:  | next_nc_e1: und von Chem-
- | german_print2_15: und von Chem-
- -->
+			<TextLine id="r6l1" custom="readingOrder {index:1;}">
+				<Coords points="627,1021 639,1021 647,1028 658,1014 685,1019 727,1016 738,1013 755,1013 755,1021 767,1018 793,1018 793,1028 663,1030 627,1030" />
+				<Baseline points="627,1030 793,1028" />
+				<TextEquiv index="1">
+					<Unicode>und von Chem-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>und von Chem-</Unicode>
+			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
 			<Coords points="691,1065 792,1065 792,1081 691,1081" />

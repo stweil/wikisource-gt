@@ -54,7 +54,13 @@ auch nicht</Unicode>
 					<Unicode>dessen Wort</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r1l1" points="694,340 706,339 712,338 722,338 776,339 784,343 784,345 776,349 766,349 722,348 706,348 694,346" baseline="694,347 748,348 784,349" reason: differs: "eine" against "⟦⟧ e" | Wikisource:  | next_nc_e1: eine ein- | german_print2_15: eine ein- -->
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="694,340 712,338 722,338 776,339 784,343 784,345 776,349 766,349 706,348 694,346" />
+				<Baseline points="694,347 784,349" />
+				<TextEquiv index="1">
+					<Unicode>eine ein-</Unicode>
+				</TextEquiv>
+			</TextLine>
 			<TextLine id="r1l2" custom="readingOrder {index:2;}">
 				<Coords points="707,359 719,359 721,365 749,368 752,359 762,359 783,362 783,375 771,375 707,374" />
 				<Baseline points="707,374 783,375" />
@@ -64,6 +70,7 @@ auch nicht</Unicode>
 			</TextLine>
 			<TextEquiv index="1">
 				<Unicode>dessen Wort
+eine ein-
 Er darf</Unicode>
 			</TextEquiv>
 		</TextRegion>

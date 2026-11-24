@@ -40,22 +40,22 @@
 		</GraphicRegion>
 		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
 			<Coords points="231,206 486,206 486,223 231,223" />
-			<TextLine id="r6l0" custom="readingOrder {index:0;}">
-				<Coords points="231,216 251,211 269,210 276,212 322,206 333,206 343,206 371,213 414,213 423,207 434,207 436,213 446,213 446,207 459,207 459,213 477,213 486,216 486,223 459,223 446,223 414,221 381,223 371,223 231,219" />
-				<Baseline points="231,219 486,220" />
-				<TextEquiv index="1">
-					<Unicode>verlässt die gewöhnliche</Unicode>
-				</TextEquiv>
-			</TextLine>
-			<TextEquiv index="1">
-				<Unicode>verlässt die gewöhnliche</Unicode>
-			</TextEquiv>
+			<!-- line left out: id="r6l0" points="231,216 239,213 251,211 261,210 269,210 276,212 296,210 322,206 333,206 343,206 371,213 381,213 414,213 423,207 434,207 436,213 446,213 446,207 459,207 459,213 477,213 486,216 486,223 459,223 446,223 423,222 414,221 381,223 371,223 322,221 276,220 251,220 235,219 231,219" baseline="231,219 486,220" reason: differs: "verl" against "erlä" | Wikisource:  | next_nc_e1: verlässt die gewöhnliche
+ | german_print2_15: verlässt die gewöhnliche
+ -->
 		</TextRegion>
 		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
 			<Coords points="228,231 475,231 475,249 228,249" />
-			<!-- line left out: id="r7l0" points="228,234 240,233 254,231 265,231 267,237 302,237 313,238 336,240 338,232 349,232 357,238 377,236 381,236 409,241 412,232 417,232 423,239 434,239 437,233 453,233 455,242 466,239 475,239 475,248 453,248 412,248 398,247 361,247 313,249 304,249 240,246 228,242" baseline="228,245 332,246 475,248" reason: differs: "Ordn" against "Ausd" | Wikisource:  | next_nc_e1: Ordnung der Gedanken
- | german_print2_15: Ordnung der Gedanken
- -->
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="228,234 254,231 265,231 267,237 302,237 336,240 338,232 349,232 357,238 381,236 409,241 412,232 417,232 423,239 434,239 437,233 453,233 455,242 466,239 475,239 475,248 361,247 313,249 304,249 240,246 228,242" />
+				<Baseline points="228,245 475,248" />
+				<TextEquiv index="1">
+					<Unicode>Ordnung der Gedanken</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Ordnung der Gedanken</Unicode>
+			</TextEquiv>
 		</TextRegion>
 		<GraphicRegion id="r8">
 			<Coords points="879,240 934,240 934,257 879,257" />
@@ -65,7 +65,7 @@
 		</GraphicRegion>
 		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
 			<Coords points="233,257 482,257 482,274 233,274" />
-			<!-- line left out: id="r10l0" points="233,258 242,258 250,263 290,263 294,257 305,257 307,266 319,264 335,264 350,258 353,258 360,262 373,264 375,258 386,258 388,267 399,263 419,259 430,259 438,265 450,265 466,259 471,259 482,260 482,274 430,274 399,274 386,273 353,274 350,274 319,273 305,272 264,272 233,272" baseline="233,272 334,272 403,273 449,274 482,275" reason: models differ | Wikisource: Ausserdem findet der Bi | next_nc_e1: Ausserdem findet der Bi
+			<!-- line left out: id="r10l0" points="233,258 242,258 250,263 290,263 294,257 305,257 307,266 319,264 335,264 350,258 353,258 360,262 373,264 375,258 386,258 388,267 399,263 419,259 430,259 438,265 450,265 466,259 471,259 482,260 482,274 430,274 399,274 386,273 353,274 350,274 319,273 305,272 264,272 233,272" baseline="233,272 334,272 403,273 449,274 482,275" reason: beside a footnote mark or an unknown template | Wikisource:  | next_nc_e1: Ausserdem findet der Bi
  | german_print2_15: Ausserdem findet der Bi-
  -->
 		</TextRegion>

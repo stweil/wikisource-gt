@@ -20,7 +20,13 @@
 		</ReadingOrder>
 		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
 			<Coords points="56,232 774,232 774,468 56,468" />
-			<!-- line left out: id="r0l0" points="685,235 692,235 704,234 730,233 749,232 758,232 771,234 771,242 758,243 748,248 742,248 718,244 696,244 685,243" baseline="685,244 771,242" reason: differs: "von1420" against "on Chem" | Wikisource:  | next_nc_e1: von 1420 | german_print2_15: von 1420 -->
+			<TextLine id="r0l0" custom="readingOrder {index:0;}">
+				<Coords points="685,235 749,232 758,232 771,234 771,242 758,243 748,248 742,248 718,244 685,243" />
+				<Baseline points="685,244 771,242" />
+				<TextEquiv index="1">
+					<Unicode>von 1420</Unicode>
+				</TextEquiv>
+			</TextLine>
 			<TextLine id="r0l1" custom="readingOrder {index:1;}">
 				<Coords points="678,255 683,255 683,264 695,264 697,253 709,253 709,260 720,260 726,254 736,254 744,259 755,257 759,253 770,253 770,270 709,271 678,271" />
 				<Baseline points="678,271 770,269" />
@@ -35,7 +41,7 @@
 					<Unicode>Weighard</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r0l3" points="683,317 694,308 705,308 706,314 725,312 735,312 743,306 760,306 772,310 772,322 763,322 760,311 750,315 743,315 735,323 712,324 694,324 683,321" baseline="683,324 772,322" reason: differs: "chne" against "⟦⟧ F" | Wikisource:  | next_nc_e1: chnet ²). | german_print2_15: chnet ²²). -->
+			<!-- line left out: id="r0l3" points="683,317 694,308 705,308 706,314 725,312 735,312 743,306 760,306 772,310 772,322 763,322 760,311 750,315 743,315 735,323 712,324 694,324 683,321" baseline="683,324 772,322" reason: differs: "chne" against "als " | Wikisource:  | next_nc_e1: chnet ²). | german_print2_15: chnet ²²). -->
 			<TextLine id="r0l4" custom="readingOrder {index:4;}">
 				<Coords points="703,334 717,335 725,342 731,339 748,340 754,333 765,333 767,342 772,342 772,344 765,349 754,349 709,349 703,349" />
 				<Baseline points="703,349 772,348" />
@@ -54,7 +60,8 @@
 				</TextEquiv>
 			</TextLine>
 			<TextEquiv index="1">
-				<Unicode>kersdorff,
+				<Unicode>von 1420
+kersdorff,
 Weighard
 Bleich-
 Ble</Unicode>
@@ -116,20 +123,13 @@ wurde:</Unicode>
 					<Unicode>nun mit</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<TextLine id="r4l2" custom="readingOrder {index:2;}">
-				<Coords points="587,1213 611,1212 613,1206 623,1206 680,1214 688,1206 696,1206 699,1212 721,1213 731,1205 743,1205 744,1214 762,1214 785,1210 794,1210 794,1220 743,1221 710,1224 699,1224 611,1222 587,1223" />
-				<Baseline points="587,1223 622,1221 794,1220" />
-				<TextEquiv index="1">
-					<Unicode>in Folge dessen</Unicode>
-				</TextEquiv>
-			</TextLine>
+			<!-- line left out: id="r4l2" points="587,1213 600,1212 611,1212 613,1206 623,1206 680,1214 688,1206 696,1206 699,1212 710,1212 721,1213 731,1205 743,1205 744,1214 762,1214 774,1212 785,1210 794,1210 794,1220 743,1221 710,1224 699,1224 611,1222 599,1223 587,1223" baseline="587,1223 622,1221 731,1220 794,1220" reason: both models read another letter than Wikisource | Wikisource: in Folge dessen | next_nc_e1: und olge dessen | german_print2_15: und olge dessen -->
 			<!-- line left out: id="r4l3" points="575,1242 587,1239 603,1239 648,1232 660,1232 661,1240 672,1238 677,1238 679,1244 689,1244 692,1232 705,1232 740,1240 757,1240 761,1231 774,1231 795,1234 795,1245 774,1246 757,1247 749,1247 740,1242 726,1248 660,1248 587,1248 575,1244" baseline="575,1248 795,1245" reason: differs: "en.h" against "geri" | Wikisource:  | next_nc_e1: en. hemnitz selbst
  | german_print2_15: en. hemnitz selbst
  -->
 			<TextEquiv index="1">
 				<Unicode>hemnitzer
-nun mit
-in Folge dessen</Unicode>
+nun mit</Unicode>
 			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">

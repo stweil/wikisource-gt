@@ -94,16 +94,9 @@
 		</TextRegion>
 		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
 			<Coords points="140,321 179,321 179,333 140,333" />
-			<TextLine id="r5l0" custom="readingOrder {index:0;}">
-				<Coords points="140,326 146,321 158,321 175,321 179,326 179,331 175,333 146,333 140,330" />
-				<Baseline points="140,334 179,331" />
-				<TextEquiv index="1">
-					<Unicode>beite</Unicode>
-				</TextEquiv>
-			</TextLine>
-			<TextEquiv index="1">
-				<Unicode>beite</Unicode>
-			</TextEquiv>
+			<!-- line left out: id="r5l0" points="140,326 146,321 158,321 175,321 179,326 179,331 175,333 146,333 140,330" baseline="140,334 179,331" reason: both models read another letter than Wikisource | Wikisource: beite | next_nc_e1: serte
+ | german_print2_15: serte
+ -->
 		</TextRegion>
 		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
 			<Coords points="117,898 261,898 261,1022 117,1022" />

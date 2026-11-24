@@ -163,16 +163,9 @@
 		</TextRegion>
 		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
 			<Coords points="229,671 267,671 267,682 229,682" />
-			<TextLine id="r9l0" custom="readingOrder {index:0;}">
-				<Coords points="229,675 241,671 246,671 267,676 267,678 263,682 248,682 229,680" />
-				<Baseline points="229,680 267,678" />
-				<TextEquiv index="1">
-					<Unicode>en Ge</Unicode>
-				</TextEquiv>
-			</TextLine>
-			<TextEquiv index="1">
-				<Unicode>en Ge</Unicode>
-			</TextEquiv>
+			<!-- line left out: id="r9l0" points="229,675 241,671 246,671 267,676 267,678 263,682 248,682 229,680" baseline="229,680 267,678" reason: both models read another letter than Wikisource | Wikisource: en Ge | next_nc_e1: ange
+ | german_print2_15: ange
+ -->
 		</TextRegion>
 		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
 			<Coords points="128,696 260,696 260,708 128,708" />
@@ -523,7 +516,7 @@ zu Stellvertretern des Vorsitzenden</Unicode>
 				</TextEquiv>
 			</TextLine>
 			<!-- line left out: id="r48l1" points="534,966 559,964 565,964 583,965 583,975 554,976 540,976 534,968" baseline="534,976 583,975" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: nitz. | german_print2_15: nitz. -->
-			<!-- line left out: id="r48l2" points="521,993 525,993 536,991 542,991 568,992 569,986 574,986 577,993 594,992 600,992 600,1002 594,1002 574,1001 568,1002 525,1002 521,1002" baseline="521,1002 600,1002" reason: second model: differs: "astü" against "⟦⟧ D" | Wikisource: hst über | next_nc_e1: ist über
+			<!-- line left out: id="r48l2" points="521,993 525,993 536,991 542,991 568,992 569,986 574,986 577,993 594,992 600,992 600,1002 594,1002 574,1001 568,1002 525,1002 521,1002" baseline="521,1002 600,1002" reason: second model: differs: "astü" against "Der " | Wikisource: hst über | next_nc_e1: ist über
  | german_print2_15: ast über
  -->
 			<TextEquiv index="1">
@@ -693,7 +686,6 @@ Frohberger und Dr. Zöllner zu Stellvertretern des Vorsitzenden
 und des Schriftführers ernannt werden.
 Hierauf sprach Dr. Zöllner über
 Stadtgeschichte mit besonderer Beziehung auf Chemnitz.
-⟦⟧
 Der Vortragende sprach zunächst über den Werth der
 Stadtgeschichte im Allgemeinen und über die Bedeutung der Städte
 im Culturleben des deutschen Volkes. Nicht blos die älteren

@@ -34,10 +34,19 @@
 		</TextRegion>
 		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
 			<Coords points="481,245 778,245 778,288 481,288" />
-			<!-- line left out: id="r1l0" points="510,251 542,251 546,245 557,245 559,252 562,252 590,253 593,245 597,245 604,253 618,253 634,245 643,245 666,245 675,246 678,252 691,250 719,246 724,246 732,252 778,252 778,261 719,261 675,260 643,260 557,260 525,260 510,259" baseline="510,259 586,259 778,261" reason: differs: "wurd" against "Zeit" | Wikisource:  | next_nc_e1: wurde das Verbot hinzu- | german_print2_15: wurde das Verbot hinzu- -->
-			<!-- line left out: id="r1l1" points="481,271 500,271 500,277 508,277 520,271 526,271 529,279 547,276 563,276 625,277 644,279 645,271 655,271 673,285 676,277 693,277 714,278 762,278 767,271 771,271 777,285 778,285 778,288 777,288 767,280 762,287 746,287 733,286 708,286 693,287 625,287 598,287 563,286 539,286 500,286 481,286" baseline="481,286 654,285 704,286 778,288" reason: differs: "denL" against "⟧ Au" | Wikisource:  | next_nc_e1: den Leuten zurede zu essen.¹)
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="510,251 542,251 546,245 557,245 559,252 590,253 593,245 597,245 604,253 618,253 634,245 643,245 666,245 675,246 678,252 719,246 724,246 732,252 778,252 778,261 719,261 510,259" />
+				<Baseline points="510,259 778,261" />
+				<TextEquiv index="1">
+					<Unicode>wurde das Verbot hinzu-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l1" points="481,271 500,271 500,277 508,277 520,271 526,271 529,279 547,276 563,276 625,277 644,279 645,271 655,271 673,285 676,277 693,277 714,278 762,278 767,271 771,271 777,285 778,285 778,288 777,288 767,280 762,287 746,287 733,286 708,286 693,287 625,287 598,287 563,286 539,286 500,286 481,286" baseline="481,286 654,285 704,286 778,288" reason: differs: "denLeu" against "gefügt" | Wikisource:  | next_nc_e1: den Leuten zurede zu essen.¹)
  | german_print2_15: den Leuten zurede zu essen.¹)
  -->
+			<TextEquiv index="1">
+				<Unicode>wurde das Verbot hinzu-</Unicode>
+			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
 			<Coords points="596,297 779,297 779,495 596,495" />
@@ -63,13 +72,9 @@
 				</TextEquiv>
 			</TextLine>
 			<!-- line left out: id="r2l3" points="596,376 607,376 622,382 643,382 680,382 721,377 732,377 739,380 750,382 755,378 768,378 779,383 779,389 768,391 706,391 680,392 643,393 628,393 596,391" baseline="596,391 779,391" reason: second model: differs: "hung" against "nahm" | Wikisource: hung einer Strafe | next_nc_e1: hung einer Strafe | german_print2_15: hung einer Straſe -->
-			<TextLine id="r2l4" custom="readingOrder {index:4;}">
-				<Coords points="755,401 768,401 769,408 778,408 778,417 755,417" />
-				<Baseline points="755,417 778,417" />
-				<TextEquiv index="1">
-					<Unicode>zu</Unicode>
-				</TextEquiv>
-			</TextLine>
+			<!-- line left out: id="r2l4" points="755,401 768,401 769,408 778,408 778,417 755,417" baseline="755,417 778,417" reason: both models read another letter than Wikisource | Wikisource: zu | next_nc_e1: Zu
+ | german_print2_15: Zu
+ -->
 			<!-- line left out: id="r2l5" points="714,437 722,436 734,428 738,428 740,436 750,435 757,434 767,432 777,432 777,443 756,444 750,444 734,443 722,441 714,440" baseline="714,443 777,443" reason: differs: "schä" against "verb" | Wikisource:  | next_nc_e1: schärſt
  | german_print2_15: schärft
  -->
@@ -82,8 +87,7 @@
 			<TextEquiv index="1">
 				<Unicode>rfahren wir, dass
 öfters in die
-Der Magistrat
-zu</Unicode>
+Der Magistrat</Unicode>
 			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
@@ -138,7 +142,7 @@ Beziehung</Unicode>
 		</TextRegion>
 		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
 			<Coords points="717,667 779,667 779,681 717,681" />
-			<!-- line left out: id="r5l0" points="717,667 740,667 779,667 779,677 774,681 763,681 751,680 736,675 733,681 727,681 717,678" baseline="717,678 779,677" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 1463,³)
+			<!-- line left out: id="r5l0" points="717,667 740,667 779,667 779,677 774,681 763,681 751,680 736,675 733,681 727,681 717,678" baseline="717,678 779,677" reason: differs: "1463" against "ausf" | Wikisource:  | next_nc_e1: 1463,³)
  | german_print2_15: 1463, *)
  -->
 		</TextRegion>
@@ -159,8 +163,14 @@ Beziehung</Unicode>
 					<Unicode>gfrauen aus</Unicode>
 				</TextEquiv>
 			</TextLine>
-			<!-- line left out: id="r6l3" points="625,792 630,792 637,793 650,799 654,799 689,799 692,806 711,799 727,799 745,801 753,793 757,793 770,797 781,801 781,808 770,809 753,809 741,807 723,801 722,808 695,809 692,809 689,803 678,805 654,808 650,808 633,798 630,808 625,808" baseline="625,808 781,808" reason: differs: "Pers" against "⟦⟧ s" | Wikisource:  | next_nc_e1: Person, mochte | german_print2_15: Person, mochte -->
-			<!-- line left out: id="r6l4" points="647,825 656,825 680,819 693,819 694,825 756,825 781,826 781,835 772,835 756,833 704,834 647,834" baseline="647,834 680,833 749,834 781,835" reason: differs: "neBuvo" against "werden" | Wikisource:  | next_nc_e1: ne Bu von | german_print2_15: ne Bu von -->
+			<TextLine id="r6l3" custom="readingOrder {index:3;}">
+				<Coords points="625,792 630,792 637,793 650,799 689,799 692,806 711,799 745,801 753,793 757,793 781,801 781,808 770,809 753,809 741,807 723,801 722,808 695,809 692,809 689,803 650,808 633,798 630,808 625,808" />
+				<Baseline points="625,808 781,808" />
+				<TextEquiv index="1">
+					<Unicode>Person, mochte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r6l4" points="647,825 656,825 680,819 693,819 694,825 756,825 781,826 781,835 772,835 756,833 704,834 647,834" baseline="647,834 680,833 749,834 781,835" reason: differs: "neBu" against "sie " | Wikisource:  | next_nc_e1: ne Bu von | german_print2_15: ne Bu von -->
 			<TextLine id="r6l5" custom="readingOrder {index:5;}">
 				<Coords points="659,845 663,845 670,852 734,851 758,854 760,845 771,845 773,852 781,852 781,859 771,861 686,862 677,862 659,860" />
 				<Baseline points="659,860 781,861" />
@@ -186,6 +196,7 @@ Beziehung</Unicode>
 			<TextEquiv index="1">
 				<Unicode>berichtet wird.
 gfrauen aus
+Person, mochte
 dagegen die
 auf dem Rat-
 zu beschwören,</Unicode>

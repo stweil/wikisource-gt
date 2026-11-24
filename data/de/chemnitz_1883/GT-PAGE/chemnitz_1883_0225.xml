@@ -94,17 +94,22 @@
 				</TextEquiv>
 			</TextLine>
 			<!-- line left out: id="r1l4" points="145,317 152,309 162,309 182,309 182,318 190,318 204,316 213,316 227,318 248,308 250,308 250,310 248,310 227,320 208,323 182,324 145,324" baseline="145,324 250,322" reason: differs: "ihrl" against "aris" | Wikisource:  | next_nc_e1: ihrliches I | german_print2_15: ährliches -->
-			<!-- line left out: id="r1l5" points="85,349 90,336 99,336 123,336 137,343 152,339 155,339 180,340 199,344 201,334 211,334 220,340 221,340 221,349 180,349 170,349 159,347 149,346 140,350 123,351 111,351 111,345 99,350 90,351 85,351" baseline="85,351 179,349 221,349" reason: differs: "Alta" against "Zwei" | Wikisource:  | next_nc_e1: Altaristen der
- | german_print2_15: Altaristen der
- -->
+			<TextLine id="r1l5" custom="readingOrder {index:5;}">
+				<Coords points="85,349 90,336 123,336 137,343 155,339 180,340 199,344 201,334 211,334 221,340 221,349 170,349 149,346 140,350 123,351 111,351 111,345 99,350 90,351 85,351" />
+				<Baseline points="85,351 221,349" />
+				<TextEquiv index="1">
+					<Unicode>Altaristen der</Unicode>
+				</TextEquiv>
+			</TextLine>
 			<TextEquiv index="1">
 				<Unicode>wissen wir
-zu sein, da der Alt</Unicode>
+zu sein, da der Alt
+Altaristen der</Unicode>
 			</TextEquiv>
 		</TextRegion>
 		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
 			<Coords points="197,362 251,362 251,376 197,376" />
-			<!-- line left out: id="r2l0" points="197,374 201,362 210,362 231,365 251,366 251,375 201,376 197,376" baseline="197,376 251,375" reason: second model: differs: "Alta" against "sich" | Wikisource: Altari | next_nc_e1: Altari
+			<!-- line left out: id="r2l0" points="197,374 201,362 210,362 231,365 251,366 251,375 201,376 197,376" baseline="197,376 251,375" reason: second model: differs: "Alta" against "beid" | Wikisource: Altari | next_nc_e1: Altari
  | german_print2_15: Altarie
  -->
 		</TextRegion>
@@ -289,13 +294,9 @@ ist unricht</Unicode>
 			<!-- line left out: id="r15l0" points="294,1113 319,1113 319,1119 327,1119 336,1121 336,1126 330,1126 327,1134 303,1134 303,1128 294,1128" baseline="294,1128 336,1126" reason: differs: "Kape" against "ihr " | Wikisource:  | next_nc_e1: Kape
  | german_print2_15: Kape
  -->
-			<TextLine id="r15l1" custom="readingOrder {index:1;}">
-				<Coords points="302,1139 307,1139 332,1145 332,1154 307,1154 302,1154" />
-				<Baseline points="302,1154 332,1154" />
-				<TextEquiv index="1">
-					<Unicode>der</Unicode>
-				</TextEquiv>
-			</TextLine>
+			<!-- line left out: id="r15l1" points="302,1139 307,1139 330,1145 332,1145 332,1154 307,1154 302,1154" baseline="302,1154 332,1154" reason: both models read another letter than Wikisource | Wikisource: der | next_nc_e1: Der
+ | german_print2_15: Der
+ -->
 			<!-- line left out: id="r15l2" points="193,1164 203,1164 206,1173 218,1170 223,1170 223,1180 218,1180 203,1179 193,1179" baseline="193,1178 223,1180" reason: differs: "der" against "die F" | Wikisource:  | next_nc_e1: der | german_print2_15: der -->
 			<TextLine id="r15l3" custom="readingOrder {index:3;}">
 				<Coords points="168,1191 188,1191 206,1191 222,1196 272,1194 272,1197 261,1203 243,1206 209,1207 188,1207 174,1207 168,1205" />
@@ -314,8 +315,7 @@ ist unricht</Unicode>
 				</TextEquiv>
 			</TextLine>
 			<TextEquiv index="1">
-				<Unicode>der
-Virginis et
+				<Unicode>Virginis et
 der Stadtgemeinde</Unicode>
 			</TextEquiv>
 		</TextRegion>
