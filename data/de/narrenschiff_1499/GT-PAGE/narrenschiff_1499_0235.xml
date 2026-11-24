@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:29:09</Created>
+		<LastChange>2026-11-24T05:29:09</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0235.jpg revision 2884000 of 2016-08-18T14:02:37Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0235.jpg" imageWidth="1832" imageHeight="2531">
+		<ReadingOrder>
+			<OrderedGroup id="ro6065759630126324857" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="135,0 466,0 466,11 135,11" />
+		</SeparatorRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,0 1832,0 1832,184 0,184" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="392,234 1268,234 1268,431 392,431" />
+			<!-- line left out: id="r2l0" points="392,239 465,239 466,251 517,249 536,249 563,250 583,251 608,249 656,249 676,239 714,239 714,249 766,247 800,247 812,252 812,239 859,239 861,245 896,245 920,246 958,249 966,236 979,236 1000,240 1000,251 1021,251 1021,244 1035,244 1035,236 1085,236 1099,251 1109,251 1110,235 1197,234 1223,234 1223,241 1268,241 1268,251 1223,251 1223,283 1110,283 1109,294 1057,299 1035,299 1035,283 1000,283 1000,299 966,299 958,284 920,284 896,282 896,292 861,292 859,298 812,298 812,282 800,283 656,284 608,284 607,294 584,294 583,281 563,282 536,282 536,294 466,294 465,284 427,284 427,294 392,294" baseline="392,284 506,281 517,281 1268,283" reason: second model: differs: "uͦvit" against " vil Da" | Wikisource: Wer meynt das vnß gott stroff zuͦ vil | next_nc_e1: Wer meynt das vnß gott ſtroff zů vil | german_print2_15: Wer meynt das vnß gott ſtroff ʒů vit -->
+			<!-- line left out: id="r2l1" points="397,343 400,301 464,301 466,313 518,313 607,314 636,316 636,305 663,305 673,316 700,316 702,302 729,302 729,316 743,311 777,311 814,313 855,316 885,317 885,308 914,308 916,315 936,315 956,317 966,305 1025,301 1052,301 1150,340 1152,340 1152,342 1052,345 956,346 914,348 885,348 855,347 796,347 777,346 777,355 743,355 743,347 722,347 702,345 700,358 663,359 636,359 636,345 464,349 400,349 397,345" baseline="397,345 673,345 966,346 1152,342" reason: second model: differs: "Dase" against "uͦ vi" | Wikisource: Das er vnß plaget vnder wil | next_nc_e1: Das er vnß plaget vnder wil | german_print2_15: Das er vnß plaget vnder wiH -->
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="397,364 464,364 466,377 510,377 519,367 530,367 530,378 547,378 548,367 562,367 562,378 583,378 583,368 633,368 633,357 686,357 694,380 721,380 723,366 739,366 739,377 885,378 885,367 902,367 902,379 915,379 915,364 941,364 941,376 960,376 978,379 979,364 1022,364 1022,357 1106,357 1106,431 1022,431 1022,420 979,420 978,409 941,408 941,423 915,423 915,408 885,407 885,423 846,423 838,409 814,409 813,420 789,420 789,408 694,408 686,431 633,431 583,427 583,408 548,409 547,420 530,420 530,427 519,427 510,409 464,412 397,412" />
+				<Baseline points="397,412 509,409 684,408 1106,408" />
+				<TextEquiv index="1">
+					<Unicode>Des plag/ iſt nit eyn viertel myl</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Des plag/ iſt nit eyn viertel myl</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="387,260 1598,260 1598,529 387,529" />
+		</GraphicRegion>
+		<GraphicRegion id="r4">
+			<Coords points="239,260 304,260 304,580 239,580" />
+		</GraphicRegion>
+		<GraphicRegion id="r5">
+			<Coords points="239,388 1610,388 1610,1726 239,1726" />
+		</GraphicRegion>
+		<SeparatorRegion id="r6">
+			<Coords points="30,160 72,160 72,716 30,716" />
+		</SeparatorRegion>
+		<GraphicRegion id="r7">
+			<Coords points="238,1775 1068,1775 1068,2180 238,2180" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="1462,1750 1536,1750 1536,1775 1462,1775" />
+		</GraphicRegion>
+		<SeparatorRegion id="r9">
+			<Coords points="364,446 445,446 445,1824 364,1824" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r10">
+			<Coords points="1369,547 1437,547 1437,1807 1369,1807" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r11">
+			<Coords points="384,1793 1156,1793 1156,1831 384,1831" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r12">
+			<Coords points="1113,1800 1399,1800 1399,1820 1113,1820" />
+		</SeparatorRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="255,1738 1530,1738 1530,2154 255,2154" />
+			<!-- line left out: id="r13l0" points="1403,1738 1409,1738 1520,1759 1530,1759 1530,1770 1520,1770 1409,1752 1403,1752" baseline="1403,1752 1530,1752" reason: differs: "5X" against "cent" | Wikisource:  | next_nc_e1: 5 X | german_print2_15: 5 X -->
+			<!-- line left out: id="r13l1" points="1071,1857 1124,1857 1130,1832 1176,1832 1185,1860 1310,1856 1345,1856 1408,1858 1408,1943 1343,1943 1343,1935 1303,1939 1251,1939 1251,1958 1185,1958 1176,1933 1124,1934 1071,1934" baseline="1071,1933 1185,1935 1408,1943" reason: second model has no such line | Wikisource: of gots | next_nc_e1: of gots | german_print2_15:  -->
+			<!-- line left out: id="r13l2" points="382,1960 438,1960 438,1972 490,1972 500,1961 506,1961 506,1973 530,1972 556,1972 556,1961 632,1961 653,1962 656,1969 668,1969 674,1976 714,1975 732,1974 752,1974 763,1959 818,1959 818,1974 831,1974 938,1974 938,1966 968,1966 970,1973 990,1973 1009,1974 1017,1960 1085,1960 1085,1971 1120,1971 1123,1951 1142,1951 1212,1983 1216,1983 1216,1985 1212,1985 1142,2019 1123,2019 1120,2004 1085,2004 1085,2011 1065,2015 1017,2015 1009,2002 990,2003 968,2005 938,2005 909,2004 840,2004 818,2003 818,2017 763,2017 752,2003 712,2003 668,2006 656,2006 632,2004 632,2018 606,2018 597,2003 506,2003 500,2003 490,2015 411,2015 411,2003 382,2003" baseline="382,2003 489,2001 500,2001 1017,2002 1216,2004" reason: differs: "rhekltt" against " heltt " | Wikisource:  | next_nc_e1: Eyn narr iſt/ wer für wunder hekltt | german_print2_15:  -->
+			<!-- line left out: id="r13l3" points="255,2047 362,2047 382,2020 452,2020 454,2034 513,2031 546,2031 607,2033 615,2022 652,2022 652,2037 688,2037 692,2015 714,2015 714,2023 725,2023 727,2037 747,2037 811,2034 832,2034 844,2037 844,2015 861,2015 861,2034 895,2033 904,2033 904,2025 929,2025 929,2037 948,2035 968,2035 968,2023 1079,2023 1079,2037 1095,2037 1095,2023 1170,2023 1192,2024 1192,2035 1231,2035 1264,2058 1320,2058 1320,2071 1264,2071 1186,2069 1170,2067 1170,2083 1109,2083 1097,2067 1079,2067 1033,2067 1024,2086 1011,2086 1011,2080 990,2080 990,2086 968,2086 968,2067 948,2067 929,2066 929,2086 904,2086 895,2084 879,2076 861,2076 861,2091 844,2091 844,2067 833,2067 832,2081 811,2081 787,2067 748,2067 727,2066 725,2079 714,2079 714,2091 692,2091 688,2068 615,2068 573,2067 546,2065 546,2074 513,2074 507,2064 452,2068 382,2068 362,2087 255,2087" baseline="255,2068 506,2064 513,2064 1109,2067 1320,2069" reason: second model: differs: "NDas" against "helt" | Wikisource: Das gott der herr/ yetz strafft die welt | next_nc_e1: Das gott der herr/ yetz ſtrafft die welt | german_print2_15: N Das gott der herr / yetz ſtrafft die welt Sſyj, -->
+			<!-- line left out: id="r13l4" points="280,2090 382,2085 435,2085 498,2090 505,2099 524,2099 577,2101 586,2088 597,2088 597,2100 614,2100 615,2088 630,2088 630,2095 679,2095 679,2079 700,2079 708,2086 740,2086 740,2079 761,2079 761,2088 769,2088 769,2104 787,2104 787,2086 828,2086 828,2099 840,2099 857,2086 875,2086 879,2100 928,2098 955,2098 983,2100 984,2093 1013,2093 1014,2099 1053,2099 1081,2100 1121,2099 1143,2099 1143,2084 1193,2084 1193,2150 1143,2150 1143,2131 1013,2131 875,2132 857,2132 840,2138 827,2138 827,2131 787,2131 769,2130 761,2154 740,2154 740,2140 716,2144 700,2144 700,2154 679,2154 679,2140 629,2140 629,2131 615,2131 614,2141 577,2143 523,2143 523,2128 508,2128 508,2143 505,2143 498,2132 437,2132 382,2129 367,2135 280,2135" baseline="280,2129 1080,2129 1193,2131" reason: second model has no such line | Wikisource: Vnd eyn plag schickt/ der andern noch | next_nc_e1: Vnd eyn plag ſchickt/ der andern noch
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="240,2123 1259,2123 1259,2230 240,2230" />
+			<!-- line left out: id="r14l0" points="240,2138 361,2138 379,2146 451,2146 536,2149 597,2149 597,2123 659,2123 659,2149 858,2149 858,2163 875,2163 875,2157 905,2157 924,2162 952,2163 978,2149 1005,2149 1005,2128 1041,2128 1041,2146 1081,2146 1168,2128 1259,2128 1259,2213 952,2215 905,2215 905,2203 877,2207 858,2209 837,2209 821,2217 659,2217 659,2230 597,2230 597,2217 513,2217 497,2217 453,2215 379,2211 361,2196 240,2196" baseline="240,2211 485,2215 837,2210 951,2214 1259,2213" reason: second model: differs: "ESie" against "noch" | Wikisource: Die wile vil krysten sygen doch | next_nc_e1: Die wile vil bryſten ſygen doch
+ | german_print2_15: ESie wile vil bryſten ſygen dch 5
+ -->
+		</TextRegion>
+		<GraphicRegion id="r15">
+			<Coords points="0,2252 1229,2252 1229,2531 0,2531" />
+		</GraphicRegion>
+		<SeparatorRegion id="r16">
+			<Coords points="501,2510 1140,2510 1140,2531 501,2531" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Wer meynt das vnß gott stroff zuͦ vil
+Das er vnß plaget vnder wil
+Des plag / ist nit eyn viertel myl
+center|250px
+von plag vnd strof gots
+Eyn narr ist / wer für wunder heltt
+Das gott der herr / yetz strafft die weltt
+Vnd eyn plag schickt / der andern noch
+Die wile vil krysten sygen doch
+-->
+	</Page>
+</PcGts>

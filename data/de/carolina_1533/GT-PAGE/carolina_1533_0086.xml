@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:54:49</Created>
+		<LastChange>2026-11-24T05:54:49</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:De_Constitutio_criminalis_Carolina_(1533)_086.jpg revision 3239584 of 2018-07-31T12:22:46Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="carolina_1533_0086.jpg" imageWidth="1241" imageHeight="1866">
+		<ReadingOrder>
+			<OrderedGroup id="ro15849636646804801756" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 1241,0 1241,440 0,440" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="160,310 235,310 235,345 160,345" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="160,320 170,320 170,310 180,310 180,320 192,320 192,310 209,310 235,312 235,343 209,345 179,345 179,338 160,337" />
+				<Baseline points="160,337 235,338" />
+				<TextEquiv index="1">
+					<Unicode>clxvj.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>clxvj.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="156,746 242,746 242,788 156,788" />
+			<!-- line left out: id="r2l0" points="156,746 169,746 179,750 179,759 189,759 195,750 208,750 242,754 242,784 225,784 225,778 217,778 208,784 169,788 156,788" baseline="156,777 195,777 242,778" reason: differs: "clxv" against "ITem" | Wikisource:  | next_nc_e1: clx vij.
+ | german_print2_15: clxvij.
+ -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="157,1335 250,1335 250,1369 157,1369" />
+			<!-- line left out: id="r3l0" points="157,1344 168,1344 168,1335 177,1335 177,1345 189,1345 195,1335 205,1335 205,1343 215,1343 216,1336 234,1336 250,1337 250,1368 233,1368 224,1360 215,1361 205,1361 205,1369 177,1369 177,1361 157,1361" baseline="157,1361 250,1359" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: clx viij.
+ | german_print2_15: clxviij.
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="254,136 1119,136 1119,372 254,372" />
+			<!-- line left out: id="r4l0" points="346,137 382,137 382,169 393,169 400,137 439,137 439,150 470,150 470,137 502,137 577,136 615,136 615,149 630,149 630,136 651,136 672,137 672,149 679,149 693,147 717,147 751,146 775,146 775,140 797,140 829,141 829,151 861,151 871,138 894,138 894,152 908,150 930,150 930,138 943,138 951,144 975,144 975,138 996,138 996,148 1016,148 1016,184 996,184 996,197 975,197 951,196 943,185 930,185 930,197 908,197 908,183 894,183 894,195 871,195 861,183 829,185 807,185 679,183 672,183 672,192 630,192 630,182 594,182 594,188 586,192 577,192 566,182 470,183 439,186 400,186 382,181 382,187 346,187" baseline="346,181 727,182 871,183 1016,185" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: K. Karls des fuͤnfften vnd des heyligen | german_print2_15: K. Karls des fuͤnfften vnd des heyligen -->
+			<!-- line left out: id="r4l1" points="254,235 378,235 386,258 433,258 433,267 481,267 494,257 527,257 549,258 573,258 573,266 587,266 587,258 612,258 622,266 647,266 647,258 712,258 712,269 734,268 752,268 752,252 788,252 809,257 866,257 866,269 879,269 888,259 911,259 911,269 933,268 950,268 950,259 971,259 971,268 983,268 1038,267 1064,267 1119,267 1119,304 1084,304 1064,303 1014,303 983,302 983,313 950,313 950,302 911,302 911,312 888,312 879,301 866,301 866,308 809,308 797,308 752,307 752,301 680,301 647,301 622,300 612,309 587,309 587,300 573,300 573,309 549,309 494,309 481,299 433,299 433,305 386,305 378,372 254,372" baseline="254,300 377,299 537,299 888,301 1119,304" reason: second model: differs: "STem" against "xvj." | Wikisource: ITem so jemandt durch recht hungers not/ | next_nc_e1: J Tem ſo jemandt durch recht hungers not/
+ | german_print2_15: S Tem ſo ſemandt durch recht hungers not /
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="255,306 1121,306 1121,505 255,505" />
+			<TextLine id="r5l0" custom="readingOrder {index:0;}">
+				<Coords points="387,313 422,314 426,320 460,317 466,310 478,310 487,306 504,306 504,320 536,320 536,311 576,311 582,321 598,321 598,312 622,312 622,320 640,320 644,310 659,310 667,314 667,321 678,321 678,310 692,310 701,313 701,321 725,321 730,312 791,312 791,321 806,318 816,318 962,322 967,313 1012,313 1012,322 1024,322 1024,315 1036,313 1052,313 1052,322 1070,322 1074,314 1102,315 1120,320 1120,340 1052,344 1036,344 1025,340 1012,344 967,344 903,340 536,338 504,336 504,349 487,349 478,340 438,338 387,338" />
+				<Baseline points="387,338 459,336 1120,340" />
+				<TextEquiv index="1">
+					<Unicode>die er/ ſein weib oder kinder leiden/ etwas von eſſenden din</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="385,352 452,352 452,343 498,343 535,343 535,353 543,353 570,344 573,344 581,352 614,352 614,344 628,344 628,353 651,353 651,344 667,344 668,352 708,353 708,347 727,347 727,353 739,353 739,345 757,345 757,353 775,350 785,350 831,354 836,346 876,346 876,354 905,354 912,347 929,347 929,354 954,354 959,345 1004,346 1021,344 1118,344 1118,372 1107,376 959,376 917,372 741,371 667,373 440,374 406,370 406,377 385,377" />
+				<Baseline points="385,370 570,369 1118,372" />
+				<TextEquiv index="1">
+					<Unicode>gen zuͦ ſtelen geurſacht würde/ wo dann der ſelb diebſtall</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l2" custom="readingOrder {index:2;}">
+				<Coords points="255,386 280,387 280,378 328,378 336,387 352,385 399,386 400,377 414,377 420,385 455,385 456,378 478,374 493,374 521,374 544,377 545,384 566,379 575,379 575,385 587,385 587,376 603,376 609,384 668,383 670,376 732,376 732,386 763,385 763,376 873,376 903,379 903,387 916,387 916,378 931,378 932,385 946,385 956,378 968,378 972,386 1011,387 1011,378 1027,378 1033,386 1053,386 1061,378 1092,378 1102,386 1120,386 1120,407 1102,407 1092,405 1079,407 1061,407 1053,404 968,407 879,407 812,404 670,406 638,402 603,404 558,402 521,404 420,402 414,408 328,408 304,413 280,413 280,404 255,405" />
+				<Baseline points="255,403 478,401 1120,404" />
+				<TextEquiv index="1">
+					<Unicode>tapffer groß vnd kündtlich wer/ ſollen abermals richter vnd vꝛthey</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l3" points="255,411 264,411 274,420 287,420 293,414 301,414 301,420 319,420 319,410 329,410 329,418 339,418 364,419 365,409 374,409 374,403 390,403 390,410 402,410 412,409 428,409 428,416 440,416 440,410 449,410 458,417 482,417 482,408 499,408 499,415 512,415 527,416 545,417 545,402 560,402 569,407 578,416 598,416 625,417 626,426 632,426 636,409 692,409 692,418 703,418 704,409 720,409 720,418 745,418 749,410 766,410 766,417 789,417 789,404 802,404 824,408 840,409 850,411 857,404 870,404 905,404 905,412 918,410 927,410 976,412 999,412 1007,419 1020,419 1020,408 1036,408 1070,408 1119,408 1119,440 1070,440 1036,440 1020,440 1002,437 940,437 918,436 905,435 905,446 891,446 891,435 881,435 870,446 857,446 847,441 847,435 817,439 802,439 802,446 789,446 789,435 703,435 678,436 636,436 625,434 598,434 598,440 569,441 560,441 560,470 545,470 532,466 527,434 483,434 441,435 428,438 402,439 390,439 390,445 374,445 374,435 339,436 301,438 293,438 255,437" baseline="255,438 286,437 350,435 448,434 631,433 636,433 1119,436" reason: second model: differs: "dtsfeen" against "ts pfle" | Wikisource: ler (als obsteht) radts pflegen. Ob aber der selbigen dieb einer vnsträff | next_nc_e1: ler (als obſteht) radts pflegen. Ob aber der ſelbigẽ dieb einer vnſtraͤff | german_print2_15: ler (als obſteht) radts feen. Ob aber der ſelbigẽ dieb einer vnſtraͤff -->
+			<!-- line left out: id="r5l4" points="256,443 265,443 274,446 274,452 285,452 285,443 301,443 306,451 319,451 319,440 333,440 340,442 340,451 356,451 356,440 381,440 381,451 406,450 431,450 431,443 448,443 448,449 461,449 461,442 501,439 527,439 534,439 561,443 562,449 588,449 592,442 609,442 617,441 652,441 680,442 680,450 703,450 707,439 723,439 749,439 749,448 763,448 763,439 780,439 780,449 816,449 816,441 857,441 890,443 890,450 901,450 905,440 932,440 946,441 946,450 963,450 968,443 983,442 1012,442 1039,442 1071,442 1075,449 1121,449 1121,475 1075,475 1071,469 1048,470 1039,475 1012,475 963,476 944,476 944,470 932,470 932,476 918,476 918,469 863,469 780,468 780,474 741,474 727,474 727,468 652,472 617,472 561,471 551,471 527,469 501,469 448,467 431,467 406,466 381,472 333,472 301,472 285,472 265,469 256,469" baseline="256,468 406,466 533,466 796,468 1121,469" reason: differs: "lagdeßh" against "lag/ de" | Wikisource:  | next_nc_e1: lich erlaſſen würd/ ſoll jm doch der klaͤger vmb die klag deßhalb ge⸗ | german_print2_15: lich erlaſſen würd / ſoll jm doch der klaͤger vmb die klag deßhalb ge⸗ -->
+			<TextLine id="r5l5" custom="readingOrder {index:5;}">
+				<Coords points="256,484 269,484 269,476 285,476 285,484 321,484 328,474 388,474 388,481 408,481 414,473 446,472 462,472 498,472 546,472 555,475 555,481 578,482 578,499 555,499 546,504 521,505 482,505 482,499 469,500 462,505 446,505 354,504 346,501 336,504 303,502 285,505 269,505 256,503" />
+				<Baseline points="256,503 578,497" />
+				<TextEquiv index="1">
+					<Unicode>than nichts ſchuldig ſein.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>die er/ ſein weib oder kinder leiden/ etwas von eſſenden din
+gen zuͦ ſtelen geurſacht würde/ wo dann der ſelb diebſtall
+tapffer groß vnd kündtlich wer/ ſollen abermals richter vnd vꝛthey
+than nichts ſchuldig ſein.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="257,578 1121,578 1121,643 257,643" />
+			<TextLine id="r6l0" custom="readingOrder {index:0;}">
+				<Coords points="257,587 304,587 304,597 348,597 360,583 449,583 449,597 478,595 560,596 560,587 582,587 592,597 706,597 728,600 728,582 751,582 751,599 761,599 762,582 792,582 797,589 817,589 817,601 833,598 867,598 872,588 890,588 890,602 901,602 901,584 914,584 914,590 963,592 963,578 1022,578 1025,600 1074,597 1099,597 1099,590 1121,590 1121,632 1025,632 1022,643 963,643 963,633 901,632 890,630 890,637 872,637 867,631 797,630 792,639 762,639 761,630 751,630 751,639 728,639 728,630 682,630 669,628 669,638 639,638 639,629 625,629 625,638 606,638 606,629 449,628 449,635 430,637 411,637 411,630 391,630 391,637 360,637 304,634 257,634" />
+				<Baseline points="257,630 500,628 1121,632" />
+				<TextEquiv index="1">
+					<Unicode>Von fruͤchten vnd nutzen auff dem feld/ wie vnnd</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Von fruͤchten vnd nutzen auff dem feld/ wie vnnd</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="437,640 937,640 937,676 437,676" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="437,648 452,648 452,640 498,640 529,641 536,649 576,650 576,643 709,642 717,652 747,652 747,643 764,643 774,651 804,651 804,643 850,643 855,652 870,652 870,644 925,644 925,653 937,653 937,671 850,673 818,676 804,676 804,669 737,669 737,676 717,676 709,669 686,673 602,673 551,668 437,667" />
+				<Baseline points="437,667 937,671" />
+				<TextEquiv index="1">
+					<Unicode>wañ darmit diebſtall gebꝛaucht werde.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>wañ darmit diebſtall gebꝛaucht werde.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="436,735 1122,735 1122,792 436,792" />
+			<!-- line left out: id="r8l0" points="436,738 487,738 487,747 544,746 577,746 612,748 621,735 641,735 641,741 669,741 685,749 697,749 709,751 709,738 724,737 776,737 793,738 795,745 805,745 805,737 857,737 857,751 884,748 907,748 907,739 926,739 957,739 1019,741 1019,750 1039,750 1077,750 1077,741 1122,741 1122,783 1097,783 1097,792 1077,792 1077,784 1038,784 1019,783 1019,792 973,792 957,783 884,783 857,782 857,788 805,788 805,782 776,782 776,788 724,788 724,781 621,781 577,780 487,784 436,784" baseline="436,779 544,779 668,780 1122,784" reason: second model: differs: "TCem" against "clxv" | Wikisource: Tem wer bei nächtlicher weil jemandt | next_nc_e1: Tem wer bei naͤchtlicher weil jemandt
+ | german_print2_15: TCem wer bei naͤchtlicher weil jemandt
+ -->
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="256,786 1124,786 1124,1173 256,1173" />
+			<TextLine id="r9l0" custom="readingOrder {index:0;}">
+				<Coords points="435,790 467,790 467,796 485,791 501,791 501,801 512,801 512,794 529,794 529,802 540,802 540,792 556,792 556,800 588,801 589,792 613,792 613,801 650,802 650,792 694,792 717,795 717,803 754,802 759,794 832,793 841,796 841,803 897,802 897,796 912,796 912,802 975,802 976,796 990,796 990,786 1032,786 1036,796 1054,796 1054,804 1110,803 1110,793 1120,793 1120,821 1036,822 1032,831 990,831 990,821 976,821 975,827 955,827 955,820 912,827 897,827 897,821 775,824 650,824 556,820 501,822 435,820" />
+				<Baseline points="435,817 1120,821" />
+				<TextEquiv index="1">
+					<Unicode>ſein frücht oder auff dem feld ſein nutzung/ wie das al</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l1" custom="readingOrder {index:1;}">
+				<Coords points="436,823 445,823 445,833 470,832 566,834 571,824 613,824 613,832 639,825 655,825 655,834 679,834 679,825 696,825 696,834 709,834 709,825 753,826 753,836 802,835 803,827 819,827 824,834 896,835 896,826 914,826 914,836 925,836 925,827 941,827 941,836 1007,836 1007,830 1016,827 1030,827 1035,837 1053,837 1053,830 1120,834 1120,853 1107,858 1089,858 1053,854 1030,859 1016,859 1016,853 925,855 914,853 843,852 843,858 824,858 819,852 639,855 613,853 436,850" />
+				<Baseline points="436,849 1120,854" />
+				<TextEquiv index="1">
+					<Unicode>les namen hat/ heymlicher vñ geuerlicher weiß nimpt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r9l2" points="436,864 448,864 448,856 460,856 489,856 512,857 521,859 521,866 531,866 536,857 552,857 560,859 562,866 580,865 614,864 632,864 701,866 720,868 721,860 745,860 745,867 761,867 767,858 781,858 797,861 797,867 830,867 830,858 832,858 871,860 872,868 890,867 905,867 912,859 918,859 940,859 945,868 982,868 994,869 994,860 1009,860 1014,869 1027,868 1062,868 1067,858 1077,858 1094,861 1103,858 1120,858 1120,882 1094,883 1043,887 1027,887 1009,885 994,885 982,883 940,887 918,887 912,887 832,886 830,886 807,882 781,886 767,886 690,882 690,888 670,888 664,882 649,882 637,881 632,913 614,913 614,880 552,882 536,882 473,880 436,880" baseline="436,879 496,879 1120,881" reason: differs: "viid" against "/ vn" | Wikisource:  | next_nc_e1: viid die binwes tregt oder füret/ das iſt auch eyn dieb | german_print2_15: vnd die hinmi tregt oder füret / das iſt auch eyn dieb -->
+			<!-- line left out: id="r9l3" points="256,882 269,882 269,890 282,890 291,882 305,882 305,889 315,889 317,896 325,896 348,897 364,898 365,889 376,889 387,896 399,896 399,889 430,889 435,895 462,895 462,887 486,887 487,894 510,894 515,887 530,887 540,889 550,887 561,886 588,886 588,896 604,896 605,886 613,886 627,896 646,896 670,891 690,891 690,897 701,896 717,896 736,896 736,888 757,888 766,897 803,897 803,888 844,888 848,896 860,896 860,888 869,887 883,887 900,889 900,898 913,898 921,887 953,887 961,898 973,898 973,887 977,887 1009,890 1009,899 1020,899 1020,890 1036,890 1036,898 1052,898 1052,889 1061,889 1086,889 1108,889 1109,897 1122,897 1122,913 1108,917 1086,922 1072,922 1072,915 1053,915 1053,922 1033,922 1020,921 1020,915 1009,916 977,920 953,920 921,920 921,914 900,918 883,920 869,920 860,918 844,919 803,919 803,913 780,914 700,914 690,914 690,920 670,920 661,913 613,916 588,916 561,916 430,912 415,913 348,914 325,915 317,915 305,914 305,926 291,926 282,920 269,920 269,926 256,926" baseline="256,914 509,910 848,913 993,915 1122,917" reason: differs: "ſtal" against "n di" | Wikisource:  | next_nc_e1: ſtall/ vnd wie ander diebſtall voꝛgemelter maß zůſtraffen/ deßgleich/ | german_print2_15: ſtall / vnd wie ander diebſtall voꝛgemelter maß zůſtraffen / deßgleich/ -->
+			<!-- line left out: id="r9l4" points="260,931 296,929 320,929 346,928 361,928 408,928 414,919 429,919 449,921 466,926 524,926 567,927 585,928 586,920 601,920 602,926 629,926 670,929 676,921 686,921 692,929 715,929 715,922 724,921 739,921 739,929 759,929 786,930 792,920 812,920 820,923 820,930 865,930 870,921 884,921 884,930 895,930 895,923 913,923 913,930 925,930 925,921 965,921 966,928 981,923 1004,923 1018,924 1022,931 1047,931 1052,922 1068,922 1068,930 1084,930 1084,922 1102,922 1123,922 1123,950 1102,950 1052,950 975,948 948,950 884,950 812,950 792,950 759,946 739,946 692,946 686,945 602,945 567,944 524,948 499,950 481,950 481,943 466,944 408,945 367,949 346,949 260,946" baseline="260,946 414,944 498,943 504,943 1123,946" reason: differs: "enwo" against "glei" | Wikisource:  | next_nc_e1: en wo eyner bei tag jemandts an berürten ſeinen früchtẽ/ die er heyns | german_print2_15: en wo eyner bei tag jemandts an berürten ſeinen früchtẽ / die er heynm -->
+			<TextLine id="r9l5" custom="readingOrder {index:5;}">
+				<Coords points="260,954 281,956 281,963 292,963 292,954 306,954 312,963 372,960 409,961 409,952 431,951 447,951 456,953 456,959 503,959 503,946 515,946 532,958 557,959 557,953 592,953 624,957 632,951 683,951 683,961 715,961 715,951 731,951 731,961 762,962 762,951 785,951 794,955 794,962 805,962 805,953 821,953 821,962 873,961 882,954 908,954 912,961 986,962 986,953 1003,953 1003,964 1016,964 1016,954 1032,954 1032,963 1061,963 1066,953 1105,953 1105,962 1122,962 1122,979 1105,982 1079,983 933,979 933,985 912,985 908,978 821,981 715,981 683,978 683,984 595,984 573,982 573,976 558,977 532,982 515,989 503,989 503,975 447,978 392,977 306,980 260,979" />
+				<Baseline points="260,978 366,976 532,976 1122,981" />
+				<TextEquiv index="1">
+					<Unicode>lich nem vnd hinweg trüg/ groſſen mercklichen vnd geuerlichen ſcha</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l6" custom="readingOrder {index:6;}">
+				<Coords points="260,987 285,987 285,995 324,993 324,985 332,985 332,995 362,993 362,984 387,984 387,978 420,978 420,992 467,991 467,982 483,982 489,991 502,986 532,986 536,992 552,992 552,983 646,984 661,987 662,993 727,993 732,984 750,986 765,984 812,984 812,994 823,994 823,984 840,984 844,992 857,992 857,984 907,984 907,994 931,995 931,984 959,984 959,995 985,995 985,984 988,984 1043,987 1064,994 1081,994 1081,985 1109,985 1109,994 1123,994 1123,1011 988,1016 891,1016 560,1012 552,1009 420,1009 420,1020 387,1020 387,1013 260,1011" />
+				<Baseline points="260,1010 531,1008 1123,1011" />
+				<TextEquiv index="1">
+					<Unicode>den thett/ iſt auch wie obſteht für eyn diebſtall zuͦ ſtraffen. Wo aber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l7" custom="readingOrder {index:7;}">
+				<Coords points="261,1020 270,1018 288,1018 288,1027 299,1027 299,1018 316,1018 326,1026 343,1026 343,1018 375,1017 391,1017 473,1024 473,1013 513,1013 513,1023 524,1023 524,1016 540,1016 541,1023 552,1023 557,1015 572,1015 600,1017 600,1025 612,1025 612,1015 628,1015 628,1024 714,1023 775,1025 775,1018 813,1019 813,1025 827,1025 827,1019 844,1019 844,1025 856,1025 856,1019 898,1019 899,1025 943,1026 943,1018 958,1018 968,1024 1122,1023 1122,1043 1083,1041 1083,1048 1063,1048 1063,1041 1036,1041 1036,1048 988,1048 988,1041 943,1042 932,1040 792,1040 473,1044 466,1039 461,1046 443,1046 443,1040 316,1042 316,1050 299,1050 299,1043 288,1043 288,1050 270,1050 261,1050" />
+				<Baseline points="261,1040 1122,1040" />
+				<TextEquiv index="1">
+					<Unicode>jemandt bei tag eſſendt frücht nem/ vnnd damit durch wegtragen/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l8" custom="readingOrder {index:8;}">
+				<Coords points="261,1053 270,1049 286,1049 286,1059 304,1059 305,1050 324,1049 349,1049 349,1057 390,1057 391,1051 410,1051 469,1056 469,1046 509,1046 509,1054 603,1054 603,1045 620,1045 620,1055 632,1055 632,1046 647,1046 647,1055 675,1054 682,1045 696,1045 718,1046 718,1054 735,1054 735,1047 743,1045 759,1045 759,1055 797,1053 797,1046 891,1046 891,1054 916,1049 924,1046 944,1046 949,1055 996,1055 996,1047 1012,1047 1016,1055 1035,1055 1045,1047 1053,1047 1053,1056 1123,1057 1123,1072 1082,1073 1082,1080 1062,1080 1062,1072 1035,1072 1035,1078 847,1074 743,1075 718,1073 682,1075 550,1070 550,1077 531,1077 522,1070 509,1070 509,1079 469,1079 463,1072 448,1072 448,1079 430,1079 422,1073 333,1074 324,1078 270,1078 261,1076" />
+				<Baseline points="261,1076 521,1071 1123,1072" />
+				<TextEquiv index="1">
+					<Unicode>derſelben nit groſſen geuerlichen ſchaden thett/ der iſt nach gelegen⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l9" custom="readingOrder {index:9;}">
+				<Coords points="261,1083 299,1083 299,1090 321,1090 325,1084 349,1084 413,1088 413,1079 427,1079 437,1088 501,1087 501,1079 562,1079 562,1086 586,1086 592,1077 607,1077 607,1086 630,1087 631,1078 652,1077 675,1078 676,1086 694,1086 701,1072 715,1072 715,1086 748,1086 748,1077 758,1077 771,1081 771,1072 784,1072 797,1078 844,1076 852,1078 852,1087 878,1087 878,1076 907,1076 907,1087 926,1088 926,1076 931,1076 935,1084 962,1081 991,1081 995,1088 1028,1088 1035,1081 1052,1081 1052,1088 1088,1089 1093,1079 1123,1079 1123,1106 1113,1109 797,1107 784,1117 771,1117 771,1103 726,1103 726,1110 715,1110 715,1117 701,1117 694,1104 652,1107 592,1107 562,1103 466,1104 437,1105 427,1109 413,1109 388,1105 388,1113 370,1113 365,1106 321,1111 261,1110" />
+				<Baseline points="261,1106 482,1103 832,1103 1123,1105" />
+				<TextEquiv index="1">
+					<Unicode>heyt der perſonen vnd der ſach/ burgerlich zuͦ ſtraffen/ wie an dem ſel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l10" custom="readingOrder {index:10;}">
+				<Coords points="261,1115 286,1115 286,1123 308,1123 313,1115 390,1115 390,1121 407,1121 412,1112 428,1112 428,1120 452,1120 457,1111 477,1110 493,1110 494,1119 511,1119 511,1111 526,1111 531,1117 550,1117 560,1109 606,1109 634,1111 634,1119 664,1111 682,1111 682,1118 726,1119 726,1110 741,1110 746,1118 801,1118 810,1110 866,1110 866,1118 890,1118 902,1120 902,1105 918,1105 918,1111 927,1111 927,1120 952,1118 974,1118 985,1120 985,1110 997,1105 1013,1105 1013,1120 1022,1120 1027,1111 1043,1111 1043,1120 1068,1120 1068,1110 1082,1110 1082,1121 1124,1120 1124,1139 1043,1142 1013,1147 997,1147 997,1141 985,1141 974,1137 974,1143 954,1143 954,1136 918,1137 918,1147 902,1147 902,1138 890,1142 866,1143 810,1143 810,1137 776,1137 766,1143 746,1143 726,1140 657,1138 606,1142 573,1140 531,1142 511,1138 493,1141 470,1142 428,1139 261,1140" />
+				<Baseline points="261,1139 525,1137 1124,1137" />
+				<TextEquiv index="1">
+					<Unicode>ben ende da der ſchad geſchicht/ durch gewonheyt oder geſetz herkom</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l11" custom="readingOrder {index:11;}">
+				<Coords points="261,1155 325,1155 325,1173 261,1173" />
+				<Baseline points="261,1173 325,1173" />
+				<TextEquiv index="1">
+					<Unicode>men.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ſein frücht oder auff dem feld ſein nutzung/ wie das al
+les namen hat/ heymlicher vñ geuerlicher weiß nimpt
+lich nem vnd hinweg trüg/ groſſen mercklichen vnd geuerlichen ſcha
+den thett/ iſt auch wie obſteht für eyn diebſtall zuͦ ſtraffen. Wo aber
+jemandt bei tag eſſendt frücht nem/ vnnd damit durch wegtragen/
+derſelben nit groſſen geuerlichen ſchaden thett/ der iſt nach gelegen⸗
+heyt der perſonen vnd der ſach/ burgerlich zuͦ ſtraffen/ wie an dem ſel
+ben ende da der ſchad geſchicht/ durch gewonheyt oder geſetz herkom
+men.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="298,824 307,824 307,835 298,835" />
+			<!-- line left out: id="r10l0" points="298,824 307,824 307,835 298,835" baseline="298,828 307,828" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 6
+ | german_print2_15: 5
+ -->
+		</TextRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="374,1222 1013,1222 1013,1280 374,1280" />
+			<!-- line left out: id="r11l0" points="374,1222 420,1222 420,1234 464,1234 474,1223 477,1223 497,1224 498,1236 516,1236 516,1223 530,1223 530,1236 549,1236 549,1223 613,1223 614,1237 630,1234 654,1234 685,1236 685,1225 738,1225 749,1235 768,1235 768,1223 788,1223 788,1235 804,1235 804,1223 841,1223 841,1233 877,1233 877,1223 897,1223 897,1234 926,1232 947,1232 947,1224 967,1224 1013,1224 1013,1278 987,1278 987,1268 967,1268 967,1278 947,1278 947,1268 897,1269 841,1269 805,1269 768,1269 654,1267 631,1268 600,1268 600,1280 565,1280 549,1280 530,1276 530,1269 516,1269 498,1267 497,1280 474,1280 464,1269 420,1271 374,1271" baseline="374,1271 463,1268 653,1267 926,1267 1013,1268" reason: second model: differs: "Vonh" against "mmen" | Wikisource: Von holtzstelen oder verbotner weiß | next_nc_e1: Von holtzſtelen oder verbotner weiß
+ | german_print2_15: Von holtʒſtelen oder verbotner weiſz
+ -->
+		</TextRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="623,1278 752,1278 752,1309 623,1309" />
+			<TextLine id="r12l0" custom="readingOrder {index:0;}">
+				<Coords points="623,1288 640,1288 640,1278 675,1278 675,1288 687,1288 687,1278 705,1278 705,1288 752,1288 752,1305 717,1306 705,1309 675,1309 658,1309 641,1307 623,1307" />
+				<Baseline points="623,1306 752,1304" />
+				<TextEquiv index="1">
+					<Unicode>abhawen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>abhawen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="260,1339 1129,1339 1129,1654 260,1654" />
+			<!-- line left out: id="r13l0" points="403,1345 450,1345 450,1354 497,1354 508,1344 540,1344 552,1353 565,1353 606,1353 606,1344 629,1344 638,1353 662,1353 662,1344 712,1343 741,1343 741,1354 752,1352 816,1352 830,1355 830,1343 852,1343 852,1355 873,1351 890,1351 890,1343 913,1343 913,1352 947,1352 958,1339 970,1339 979,1340 980,1355 1000,1355 1000,1339 1012,1339 1014,1352 1043,1352 1054,1344 1075,1344 1075,1357 1091,1354 1125,1354 1125,1386 1054,1386 1043,1393 1014,1393 1012,1386 1000,1386 980,1384 979,1396 958,1396 947,1385 913,1385 913,1396 890,1396 890,1386 873,1386 852,1384 852,1394 830,1394 830,1384 816,1384 816,1396 793,1396 777,1385 752,1385 741,1384 741,1393 712,1393 697,1385 638,1385 629,1394 606,1394 606,1386 581,1386 565,1384 565,1394 552,1394 508,1393 497,1385 450,1385 450,1391 403,1391" baseline="403,1385 539,1383 552,1383 793,1384 1125,1386" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: Tem ſo jemandt ſein gehawen holtz dem
+ | german_print2_15: Tem ſo jemandt ſein gehawen holtz dem
+ -->
+			<TextLine id="r13l1" custom="readingOrder {index:1;}">
+				<Coords points="400,1407 426,1407 436,1400 473,1400 473,1407 493,1407 505,1398 513,1397 532,1397 560,1397 560,1406 574,1406 574,1397 583,1397 645,1397 654,1400 654,1407 685,1406 685,1397 703,1397 703,1404 725,1404 734,1397 773,1397 777,1405 806,1403 825,1398 842,1398 842,1406 877,1405 888,1397 893,1397 917,1397 927,1406 1009,1405 1018,1397 1026,1397 1045,1400 1045,1407 1056,1407 1056,1397 1072,1397 1103,1397 1127,1397 1127,1424 1103,1428 1073,1428 1036,1424 1026,1428 955,1424 917,1426 801,1424 773,1428 725,1429 685,1429 685,1423 645,1426 560,1428 513,1428 505,1426 400,1424" />
+				<Baseline points="400,1424 724,1422 927,1422 1127,1424" />
+				<TextEquiv index="1">
+					<Unicode>andern heymlich hinweg füret/ das iſt eynem diebſtall</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r13l2" custom="readingOrder {index:2;}">
+				<Coords points="399,1431 436,1431 445,1433 455,1431 470,1431 477,1440 505,1440 505,1430 541,1430 545,1438 554,1438 554,1429 634,1429 655,1432 655,1439 680,1438 685,1429 698,1429 698,1439 725,1439 725,1430 741,1430 741,1439 786,1437 786,1429 818,1424 832,1424 841,1437 857,1437 857,1424 870,1424 882,1428 882,1438 919,1435 934,1429 962,1429 962,1439 973,1439 973,1429 981,1429 981,1439 993,1439 993,1430 1009,1430 1009,1439 1049,1438 1049,1430 1072,1430 1072,1439 1097,1439 1102,1432 1128,1431 1128,1455 898,1455 882,1460 870,1460 870,1468 857,1468 857,1455 832,1455 832,1468 818,1468 818,1460 773,1460 741,1458 685,1459 612,1456 604,1461 545,1461 419,1456 419,1464 399,1464" />
+				<Baseline points="399,1456 1128,1456" />
+				<TextEquiv index="1">
+					<Unicode>gleich nach geſtalt der ſachen zuͦ ſtraffen/ Welcher aber iñ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r13l3" custom="readingOrder {index:3;}">
+				<Coords points="261,1473 308,1471 341,1473 341,1465 383,1465 384,1473 424,1472 429,1462 446,1463 446,1472 460,1472 461,1462 471,1462 471,1472 490,1472 495,1463 511,1463 511,1472 522,1472 522,1462 567,1463 577,1470 621,1470 621,1463 638,1463 643,1470 687,1470 687,1461 713,1461 719,1470 773,1470 777,1461 790,1461 790,1470 801,1470 801,1464 821,1461 837,1461 878,1461 878,1470 892,1470 892,1461 908,1461 924,1461 943,1467 970,1461 984,1461 984,1471 993,1471 995,1461 1011,1461 1015,1470 1035,1470 1041,1461 1054,1461 1066,1463 1066,1471 1087,1471 1087,1461 1121,1461 1121,1470 1128,1470 1128,1488 1121,1492 1103,1494 1087,1494 1087,1488 1054,1494 1035,1494 1015,1494 1011,1488 984,1492 821,1493 821,1487 803,1488 790,1493 713,1488 621,1488 559,1492 511,1492 490,1494 471,1494 436,1494 429,1494 395,1490 324,1490 274,1493 261,1489" />
+				<Baseline points="261,1489 1128,1488" />
+				<TextEquiv index="1">
+					<Unicode>eyns andern holtz helicher vñ verbotner weiß haͤwet/ ð ſoll geſtrafft</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r13l4" custom="readingOrder {index:4;}">
+				<Coords points="264,1504 278,1504 278,1498 295,1498 295,1504 314,1505 314,1498 330,1498 331,1505 410,1505 411,1496 425,1496 433,1503 450,1503 450,1495 467,1495 467,1504 480,1504 480,1495 496,1495 496,1504 521,1504 521,1495 538,1495 538,1504 579,1503 588,1495 631,1495 631,1502 651,1502 657,1494 666,1494 666,1504 695,1503 695,1494 711,1494 718,1496 718,1502 759,1503 759,1495 783,1495 783,1502 866,1501 867,1511 874,1511 899,1493 934,1493 934,1503 956,1503 956,1494 971,1494 978,1502 1111,1502 1111,1494 1128,1494 1128,1520 1111,1524 918,1523 866,1520 631,1520 631,1526 588,1526 496,1521 496,1528 480,1528 480,1521 467,1521 467,1528 433,1528 411,1523 264,1521" />
+				<Baseline points="264,1522 873,1519 1128,1520" />
+				<TextEquiv index="1">
+					<Unicode>werden nach gewonheyt jedes landts oder oꝛts. Doch wo eyner zuͦ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r13l5" custom="readingOrder {index:5;}">
+				<Coords points="263,1536 278,1536 278,1527 295,1527 301,1536 390,1537 390,1527 398,1527 407,1530 407,1537 419,1537 419,1528 435,1528 435,1534 458,1534 479,1537 479,1528 503,1528 503,1536 568,1536 568,1526 593,1526 601,1535 616,1535 616,1526 630,1526 630,1535 655,1535 658,1529 702,1529 742,1532 742,1525 796,1526 810,1529 814,1523 844,1523 844,1534 888,1534 888,1526 936,1526 940,1536 950,1536 950,1526 971,1526 971,1535 1035,1535 1041,1526 1080,1526 1080,1534 1097,1534 1097,1526 1116,1526 1116,1536 1128,1536 1128,1550 1080,1556 888,1554 877,1552 743,1553 702,1557 658,1557 631,1553 479,1553 435,1556 419,1556 398,1553 320,1554 320,1560 295,1560 278,1560 278,1553 263,1553" />
+				<Baseline points="263,1553 1128,1550" />
+				<TextEquiv index="1">
+					<Unicode>vngewonlicher oder verbotner zeit/ als bei der nacht oder an feirtaͤ⸗</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r13l6" points="260,1568 282,1568 409,1569 409,1561 427,1561 452,1561 452,1569 494,1569 500,1559 514,1559 574,1559 592,1559 592,1568 612,1565 622,1565 642,1567 663,1568 663,1559 678,1559 678,1568 694,1568 694,1559 702,1559 711,1561 711,1568 722,1568 722,1559 739,1559 739,1568 750,1567 788,1567 805,1568 805,1559 821,1559 837,1557 851,1557 891,1557 900,1560 900,1567 911,1567 911,1558 927,1558 927,1567 938,1566 951,1566 981,1567 992,1568 992,1561 1002,1559 1017,1559 1021,1568 1039,1568 1040,1558 1056,1558 1072,1559 1073,1567 1091,1566 1110,1566 1110,1558 1121,1558 1121,1567 1129,1567 1129,1583 1121,1588 1072,1588 1057,1588 1039,1585 1021,1585 1017,1591 1002,1591 993,1585 981,1586 927,1590 911,1590 891,1586 864,1586 851,1590 837,1590 806,1587 739,1588 722,1588 695,1585 678,1585 678,1600 663,1600 663,1585 642,1585 642,1600 622,1600 622,1585 611,1589 574,1589 514,1590 500,1590 427,1586 396,1586 356,1589 325,1589 292,1585 282,1592 260,1592" baseline="260,1585 1129,1584" reason: differs: "haw/" against "hawet/ " | Wikisource:  | next_nc_e1: gen eynem andern ſein holtz/ geuerlicher vnd dieblicher weiß abhaw/⸗ | german_print2_15: gen eynem andern ſein holtz / geuerlicher vnd dieblicher weiß abhaw⸗ -->
+			<TextLine id="r13l7" custom="readingOrder {index:7;}">
+				<Coords points="260,1601 286,1600 309,1593 330,1593 330,1601 349,1601 354,1594 360,1592 383,1592 387,1601 435,1602 435,1592 450,1592 456,1601 481,1601 481,1594 523,1592 544,1592 544,1600 555,1600 555,1592 569,1592 569,1599 587,1599 600,1601 607,1590 616,1590 616,1598 630,1598 639,1590 657,1590 682,1590 720,1590 720,1600 739,1600 739,1609 746,1609 746,1617 720,1623 569,1624 544,1624 523,1624 498,1621 450,1624 383,1624 360,1624 360,1618 349,1620 260,1618" />
+				<Baseline points="260,1618 746,1618" />
+				<TextEquiv index="1">
+					<Unicode>et/ der iſt nach radt herter zuͦſtraffen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r13l8" points="986,1621 1004,1621 1020,1623 1021,1631 1033,1631 1062,1632 1062,1621 1086,1621 1104,1623 1104,1631 1128,1631 1128,1649 1104,1650 1086,1654 1062,1654 1033,1651 1020,1652 1004,1654 986,1654" baseline="986,1652 1128,1649" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Straff der
+ | german_print2_15: Straff der
+ -->
+			<TextEquiv index="1">
+				<Unicode>andern heymlich hinweg füret/ das iſt eynem diebſtall
+gleich nach geſtalt der ſachen zuͦ ſtraffen/ Welcher aber iñ
+eyns andern holtz helicher vñ verbotner weiß haͤwet/ ð ſoll geſtrafft
+werden nach gewonheyt jedes landts oder oꝛts. Doch wo eyner zuͦ
+vngewonlicher oder verbotner zeit/ als bei der nacht oder an feirtaͤ⸗
+et/ der iſt nach radt herter zuͦſtraffen.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r14">
+			<Coords points="0,440 1241,440 1241,1866 0,1866" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+clxvj. ITem so jemandt durch recht hungers not / die er / sein weib oder kinder leiden / etwas von essenden dingen zuͦ stelen geursacht würde / wo dann der selb diebstall tapffer groß vnd kündtlich wer / sollen abermals richter vnd vrtheyler (als obsteht) radts pflegen. Ob aber der selbigen dieb einer vnsträfflich erlassen würd / soll jm doch der kläger vmb die klag / deßhalb gethan nichts schuldig sein.
+Von früchten vnd nutzen auff dem feld / wie vnnd wann darmit diebstall gebraucht werde.
+clxvij. ITem wer bei nächtlicher weil jemandt sein frücht oder auff dem feld sein nutzung / wie das alles namen hat / heymlicher vnd geuerlicher weiß nimpt / vnd die hinweg tregt oder füret / das ist auch eyn diebstall / vnd wie ander diebstall vorgemelter maß zuͦstraffen / deßgleichen wo eyner bei tag jemandts an berürten seinen früchten / die er heymlich nem vnd hinweg trüg / grossen mercklichen vnd geuerlichen schaden thett / ist auch wie obsteht für eyn diebstall zuͦ straffen. Wo aber jemandt bei tag essendt frücht nem / vnnd damit durch wegtragen / derselben nit grossen geuerlichen schaden thett / der ist nach gelegenheyt der personen vnd der sach / burgerlich zuͦ straffen / wie an dem selben ende da der schad geschicht / durch gewonheyt oder gesetz herkommen.
+Von holtzstelen oder verbotner weiß abhawen.
+clxviij. ITem so jemandt sein gehawen holtz dem andern heymlich hinweg füret / das ist eynem diebstall gleich nach gestalt der sachen zuͦ straffen / Welcher aber inn eyns andern holtz helicher und verbotner weiß häwet / der soll gestrafft werden nach gewonheyt jedes landts oder orts. Doch wo eyner zuͦ vngewonlicher oder verbotner zeit / als bei der nacht oder an feirtägen eynem andern sein holtz / geuerlicher vnd dieblicher weiß abhawet / der ist nach radt herter zuͦstraffen.
+-->
+	</Page>
+</PcGts>

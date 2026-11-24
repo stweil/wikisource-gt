@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:29:28</Created>
+		<LastChange>2026-11-24T05:29:28</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0248.jpg revision 2884008 of 2016-08-18T14:02:50Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0248.jpg" imageWidth="1867" imageHeight="2572">
+		<ReadingOrder>
+			<OrderedGroup id="ro2969899079074293487" caption="Regions reading order">
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="15" regionRef="r15" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="1,57 7,57 7,404 1,404" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r1">
+			<Coords points="18,1076 26,1076 26,1450 18,1450" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r2">
+			<Coords points="18,1076 27,1076 27,1450 18,1450" />
+		</SeparatorRegion>
+		<GraphicRegion id="r3">
+			<Coords points="305,312 1709,312 1709,2041 305,2041" />
+		</GraphicRegion>
+		<GraphicRegion id="r4">
+			<Coords points="315,1689 477,1689 477,2011 315,2011" />
+		</GraphicRegion>
+		<GraphicRegion id="r5">
+			<Coords points="0,0 1867,0 1867,186 0,186" />
+		</GraphicRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="408,230 1203,230 1203,379 408,379" />
+			<!-- line left out: id="r6l0" points="408,282 422,282 446,254 517,254 553,255 563,267 583,267 583,249 612,249 681,249 681,264 718,261 756,261 768,250 780,250 780,243 818,243 820,260 841,258 861,258 939,258 941,244 950,244 950,230 1006,230 1016,249 1048,249 1048,255 1067,255 1106,256 1108,242 1135,242 1137,257 1156,257 1157,242 1203,242 1203,293 1157,293 1156,285 1048,285 1048,296 1016,296 1006,288 950,288 939,287 888,288 841,289 800,289 800,305 768,305 756,291 718,293 681,293 681,301 656,303 631,303 631,296 612,296 612,303 563,303 553,297 519,297 517,303 446,303 422,288 408,288" baseline="408,300 563,296 755,290 899,287 1203,284" reason: second model: differs: "ODie" against "Die " | Wikisource: Die wuͦcherer fuͤren wild gewaͤrb | next_nc_e1: Die wůcherer fuͤren wild gewãrb | german_print2_15: ODie wůcherer fuͤren wild gewaͤrb -->
+			<!-- line left out: id="r6l1" points="408,352 434,352 454,318 519,318 522,331 577,326 589,326 716,326 724,312 727,312 763,312 763,321 809,321 819,309 850,309 850,322 901,321 927,321 927,300 955,300 978,305 978,317 993,317 1028,320 1058,321 1058,312 1087,312 1089,305 1143,305 1146,319 1165,319 1165,304 1190,304 1190,348 1143,349 1118,349 1114,362 1089,362 1087,352 1058,352 1028,351 1016,351 978,359 955,359 955,379 927,379 927,352 850,352 850,368 819,368 809,354 763,354 747,353 745,369 724,369 716,355 669,356 623,357 604,357 604,364 577,364 522,360 519,367 454,367 434,375 408,375" baseline="408,361 715,355 808,353 868,352 1016,351 1190,347" reason: differs: "harh" against "haͤrb Ni" | Wikisource:  | next_nc_e1: Den armen ſint ſie ruch/ vndharh
+ | german_print2_15: Den armen ſint ſie ruch / vndhaͤrß
+ -->
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="422,362 1195,362 1195,433 422,433" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="422,377 531,382 540,392 560,392 560,362 585,362 585,376 613,376 613,389 676,391 678,385 712,385 728,375 751,375 754,387 781,384 835,386 835,362 860,362 860,371 881,371 897,389 929,385 949,385 950,372 973,372 973,384 987,382 1005,382 1069,383 1089,385 1089,376 1117,376 1118,369 1145,369 1147,383 1166,383 1168,367 1195,367 1195,413 1117,416 949,416 860,420 860,433 835,433 835,418 781,418 712,422 678,422 648,420 613,421 613,429 585,433 560,433 560,422 500,427 422,429" />
+				<Baseline points="422,428 530,423 796,417 1004,415 1016,416 1195,412" />
+				<TextEquiv index="1">
+					<Unicode>Nit achtens/ das all weltt verdaͤrb</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Nit achtens/ das all weltt verdaͤrb</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r8">
+			<Coords points="690,687 701,687 701,1091 690,1091" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r9">
+			<Coords points="582,795 592,795 592,1100 582,1100" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r10">
+			<Coords points="1181,840 1191,840 1191,1162 1181,1162" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r11">
+			<Coords points="1834,967 1850,967 1850,1432 1834,1432" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r12">
+			<Coords points="485,1307 507,1307 507,1726 485,1726" />
+		</SeparatorRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="358,1810 1539,1810 1539,1974 358,1974" />
+			<!-- line left out: id="r13l0" points="358,1834 474,1834 477,1816 628,1816 686,1816 856,1816 856,1810 1001,1810 1001,1816 1037,1816 1062,1850 1108,1850 1108,1858 1152,1858 1154,1873 1198,1873 1199,1819 1254,1819 1255,1871 1308,1871 1375,1872 1375,1817 1421,1817 1421,1830 1539,1830 1539,1947 1421,1948 1375,1949 1254,1951 1199,1951 1152,1950 1037,1952 1001,1952 1001,1974 856,1974 856,1952 751,1952 748,1970 685,1970 685,1947 646,1948 628,1949 579,1953 477,1953 358,1952" baseline="358,1954 856,1950 1000,1949 1062,1950 1539,1945" reason: differs: "wuͤch" against "cent" | Wikisource:  | next_nc_e1: wuͤcher und furkouff
+ | german_print2_15: wücher uvnd furkonkt⸗
+ -->
+		</TextRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="338,1972 1251,1972 1251,2170 338,2170" />
+			<!-- line left out: id="r14l0" points="476,1974 546,1974 549,1987 613,1987 622,1972 625,1972 647,1974 647,1990 664,1990 667,1972 702,1972 713,1987 738,1985 813,1985 819,1973 829,1973 829,1980 851,1980 851,1988 871,1988 872,1976 886,1973 926,1973 926,1987 938,1987 968,1986 991,1986 992,1973 1060,1973 1063,1989 1099,1989 1108,1973 1134,1973 1137,1990 1165,1990 1167,1974 1193,1974 1193,1988 1240,1988 1240,2018 1165,2019 1137,2019 1134,2031 1108,2031 1099,2019 1060,2021 1027,2021 992,2020 991,2026 968,2026 965,2017 926,2017 926,2031 886,2031 886,2016 871,2017 851,2017 851,2026 829,2031 819,2031 813,2017 702,2018 647,2018 647,2034 622,2034 613,2020 546,2022 476,2022" baseline="476,2017 968,2017 1240,2018" reason: second model has no such line | Wikisource: Dem solt man griffen zuͦ der huben | next_nc_e1: Dem ſolt man griffen zů der huben | german_print2_15:  -->
+			<!-- line left out: id="r14l1" points="338,2038 466,2038 534,2040 536,2047 579,2047 579,2031 608,2031 608,2041 633,2041 644,2054 672,2054 673,2039 701,2039 738,2041 745,2050 766,2050 767,2037 789,2035 842,2035 842,2051 860,2051 888,2053 967,2054 968,2038 1003,2038 1003,2031 1049,2031 1057,2038 1108,2038 1177,2038 1177,2054 1206,2054 1209,2078 1251,2078 1251,2083 1206,2085 1146,2085 1117,2085 1108,2084 1057,2084 1049,2101 1003,2101 1003,2089 968,2089 967,2083 940,2083 938,2091 898,2091 888,2082 860,2082 842,2081 842,2088 818,2091 789,2091 789,2082 767,2082 766,2091 745,2091 738,2083 701,2084 644,2084 633,2097 608,2101 579,2101 579,2087 536,2087 479,2086 338,2083" baseline="338,2075 591,2078 632,2079 1003,2083 1251,2083" reason: second model: differs: "¶VVn" against "hube" | Wikisource: Vnd jm die zaͤchen wol ab kluben | next_nc_e1: Vnd jm die zachen wol ab kluben | german_print2_15: ¶VVnd jm die zaͤchen wol ab kluben -->
+			<TextLine id="r14l2" custom="readingOrder {index:2;}">
+				<Coords points="478,2103 538,2103 538,2114 588,2114 588,2094 614,2094 614,2118 713,2117 714,2107 738,2107 738,2118 784,2117 789,2103 899,2104 900,2118 944,2117 944,2099 997,2099 1018,2103 1020,2111 1048,2111 1053,2118 1134,2118 1138,2104 1167,2104 1167,2163 1138,2163 1134,2149 1020,2150 997,2147 997,2166 944,2166 944,2147 900,2146 899,2158 867,2158 834,2144 816,2147 738,2146 738,2166 714,2166 713,2160 657,2159 656,2149 614,2148 614,2170 588,2170 588,2159 507,2159 507,2151 478,2151" />
+				<Baseline points="478,2143 833,2145 1103,2148 1167,2150" />
+				<TextEquiv index="1">
+					<Unicode>Vnd ruppfen die fluckfaͤder vß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Vnd ruppfen die fluckfaͤder vß</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r15" custom="readingOrder {index:15;} orientation {0;}">
+			<Coords points="480,2165 1249,2165 1249,2244 480,2244" />
+			<!-- line left out: id="r15l0" points="480,2167 550,2167 552,2183 592,2183 602,2169 643,2169 643,2184 681,2184 683,2175 712,2175 714,2182 753,2182 763,2170 783,2170 797,2167 856,2165 881,2165 881,2183 896,2183 896,2165 919,2165 919,2181 935,2181 938,2167 973,2167 973,2180 986,2180 996,2170 1011,2170 1013,2184 1041,2183 1067,2183 1078,2168 1104,2168 1104,2184 1121,2183 1146,2183 1160,2167 1187,2167 1187,2181 1215,2181 1216,2167 1249,2167 1249,2229 1216,2229 1215,2212 1187,2212 1187,2226 1160,2226 1146,2214 1121,2214 1119,2228 1104,2231 1078,2231 1067,2215 1041,2215 1040,2236 1013,2236 1011,2228 996,2228 986,2214 973,2214 973,2228 938,2228 935,2213 919,2213 919,2235 896,2235 896,2214 881,2214 881,2235 856,2235 797,2231 795,2211 783,2211 783,2228 763,2228 753,2236 714,2236 712,2244 683,2244 681,2214 667,2214 666,2228 643,2228 643,2244 617,2244 617,2228 602,2228 592,2215 550,2220 480,2220" baseline="480,2198 591,2203 602,2203 752,2210 763,2210 1160,2213 1249,2215" reason: second model has no such line | Wikisource: Der hynder sich koufft jnn syn huß | next_nc_e1: Der hynder ſich koufft jnn ſyn huß
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r16">
+			<Coords points="1821,1363 1855,1363 1855,1854 1821,1854" />
+		</GraphicRegion>
+		<GraphicRegion id="r17">
+			<Coords points="332,1775 475,1775 475,2224 332,2224" />
+		</GraphicRegion>
+		<GraphicRegion id="r18">
+			<Coords points="1499,2041 1709,2041 1709,2128 1499,2128" />
+		</GraphicRegion>
+		<GraphicRegion id="r19">
+			<Coords points="1499,2128 1709,2128 1709,2224 1499,2224" />
+		</GraphicRegion>
+		<SeparatorRegion id="r20">
+			<Coords points="1830,1823 1855,1823 1855,2408 1830,2408" />
+		</SeparatorRegion>
+		<GraphicRegion id="r21">
+			<Coords points="0,2556 1867,2556 1867,2572 0,2572" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Die wuͦcherer fuͤren wild gewaͤrb
+Den armen sint sie ruch / vnd haͤrb
+Nit achtens / das all weltt verdaͤrb
+center|250px
+wuͦcher vnd furkouff
+Dem solt man griffen zuͦ der huben
+Vnd jm die zaͤchen wol ab kluben
+Vnd ruppfen die fluckfaͤder vß
+Der hynder sich koufft jnn syn huß
+-->
+	</Page>
+</PcGts>

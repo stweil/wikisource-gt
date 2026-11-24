@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:24:34</Created>
+		<LastChange>2026-11-24T05:24:34</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0038.jpg revision 2883820 of 2016-08-18T13:57:52Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0038.jpg" imageWidth="1903" imageHeight="2665">
+		<ReadingOrder>
+			<OrderedGroup id="ro14887669575666773128" caption="Regions reading order">
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="15" regionRef="r15" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="49,607 147,607 147,1731 49,1731" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,76 404,76 404,433 0,433" />
+		</GraphicRegion>
+		<GraphicRegion id="r2">
+			<Coords points="124,2198 218,2198 218,2665 124,2665" />
+		</GraphicRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="448,277 1344,277 1344,345 448,345" />
+			<!-- line left out: id="r3l0" points="448,299 473,299 511,288 587,288 589,302 630,302 653,282 658,282 658,288 680,288 680,304 701,304 703,298 721,298 722,285 736,282 784,282 784,297 800,297 812,281 845,281 847,295 876,294 917,290 964,290 1015,290 1023,279 1052,279 1052,292 1097,291 1125,291 1143,292 1143,277 1171,277 1171,292 1190,291 1209,287 1211,277 1223,277 1223,287 1242,287 1242,280 1258,280 1258,286 1284,286 1305,278 1344,278 1344,337 1305,337 1252,332 1242,330 1223,330 1223,339 1211,339 1209,330 1209,320 1171,320 1171,331 1143,331 1143,321 1079,321 1077,339 1050,339 1050,322 964,322 964,333 917,333 901,323 874,324 845,326 800,327 784,327 784,335 736,335 736,328 703,328 701,345 653,345 630,332 587,337 511,337 473,324 448,324" baseline="448,324 629,328 653,327 900,323 1014,322 1283,320 1344,321" reason: differs: "rtzʒigſ" against "rtzig s" | Wikisource:  | next_nc_e1:  Wer ſpꝛicht das gatt barmhertzʒig ſy
+ | german_print2_15: Wer ſpꝛicht das gatt barmhertzig ſy
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="423,336 1311,336 1311,466 423,466" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="517,358 547,358 559,361 562,352 588,348 614,348 615,366 653,366 655,348 695,348 695,336 763,336 763,348 780,348 780,336 847,336 857,353 890,353 947,356 948,340 1047,342 1049,355 1096,355 1114,341 1166,341 1251,388 1274,388 1274,395 1114,398 1096,384 994,384 994,396 972,396 948,392 947,384 890,385 890,396 857,396 847,411 780,411 780,402 763,402 763,411 695,411 695,402 655,402 653,391 643,391 641,407 588,407 588,397 517,397" />
+				<Baseline points="517,389 1274,382" />
+				<TextEquiv index="1">
+					<Unicode>Alleyn/ vnd nit gerecht dar by</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l1" points="423,429 518,417 586,417 588,429 625,429 635,411 675,411 675,424 726,423 759,422 799,422 842,421 884,421 887,405 925,405 925,418 936,418 991,421 992,408 1008,408 1008,419 1030,415 1063,415 1081,419 1109,420 1112,407 1139,407 1153,418 1185,418 1213,419 1214,411 1243,411 1264,404 1311,404 1311,457 1264,457 1243,450 1214,450 1153,448 1139,461 1112,461 1109,447 1081,449 1063,449 1063,458 1030,458 1027,448 925,448 925,462 887,462 884,448 869,449 799,450 779,451 709,453 675,453 675,466 635,466 625,456 588,456 586,463 518,463 423,432" baseline="423,457 708,452 935,449 1026,448 1138,447 1153,447 1311,448" reason: differs: "VDer" against "Der " | Wikisource:  | next_nc_e1: V Der hat vernunfft wie genß vnd ſü
+ | german_print2_15: Æ. Der hat vernunfft wie genß vnd ſü
+ -->
+			<TextEquiv index="1">
+				<Unicode>Alleyn/ vnd nit gerecht dar by</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r5">
+			<Coords points="546,464 1222,464 1222,525 546,525" />
+		</SeparatorRegion>
+		<GraphicRegion id="r6">
+			<Coords points="1418,1726 1530,1726 1530,1833 1418,1833" />
+		</GraphicRegion>
+		<GraphicRegion id="r7">
+			<Coords points="1543,4 1903,4 1903,2580 1543,2580" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="372,1726 1353,1726 1353,1833 372,1833" />
+		</GraphicRegion>
+		<GraphicRegion id="r9">
+			<Coords points="723,1738 1353,1738 1353,1833 723,1833" />
+		</GraphicRegion>
+		<GraphicRegion id="r10">
+			<Coords points="1150,1784 1353,1784 1353,1833 1150,1833" />
+		</GraphicRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="847,1765 1183,1765 1183,1817 847,1817" />
+			<!-- line left out: id="r11l0" points="847,1765 854,1765 1024,1767 1120,1799 1183,1799 1183,1817 1120,1817 908,1814 854,1773 847,1773" baseline="847,1773 908,1772 1183,1769" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: S ſ —
+ | german_print2_15: S cc, —
+ -->
+		</TextRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="388,1878 1578,1878 1578,2198 388,2198" />
+			<!-- line left out: id="r12l0" points="388,1917 523,1917 544,1886 714,1886 749,1878 759,1878 759,1912 897,1912 923,1878 985,1878 991,1908 1033,1908 1034,1878 1110,1878 1110,1916 1129,1916 1144,1880 1178,1878 1221,1878 1221,1907 1250,1906 1353,1904 1420,1901 1453,1899 1578,1899 1578,2000 1495,2003 1453,2003 1453,1976 1420,1976 1420,2003 1353,2003 1250,2001 1247,1980 1221,1980 1221,2001 1178,2001 1144,2000 1129,1983 1099,1983 991,1981 985,2001 923,2001 897,1984 806,1987 759,1987 759,2001 749,2001 714,1992 544,1992 523,2027 388,2027" baseline="388,1982 713,1988 749,1988 1297,1979 1353,1978 1578,1976" reason: differs: "Hõve" against "50px" | Wikisource:  | next_nc_e1: Hõ vermeſſeheyt gotz | german_print2_15: Boõ vermeſſeheyt gotz. -->
+			<!-- line left out: id="r12l1" points="410,2031 466,2031 532,2009 602,2009 605,2024 644,2024 655,2010 679,2010 719,2011 719,2023 744,2023 806,2021 843,2021 855,2006 868,2006 932,2006 942,2024 982,2022 1008,2022 1009,2006 1036,2006 1041,2020 1069,2020 1102,2017 1138,2017 1138,2003 1159,2003 1209,2003 1209,2018 1226,2018 1239,2006 1255,2001 1312,2001 1312,2016 1344,2016 1369,2016 1370,2006 1397,2006 1397,2014 1422,2014 1422,2055 1390,2055 1390,2046 1369,2047 1344,2047 1312,2047 1312,2060 1260,2060 1239,2060 1226,2046 1184,2046 1184,2062 1138,2062 1138,2048 1088,2049 1008,2049 942,2049 932,2057 910,2057 910,2065 887,2065 855,2065 843,2052 806,2052 786,2051 784,2064 763,2064 762,2052 719,2052 719,2063 679,2067 655,2067 644,2053 602,2057 532,2057 466,2069 410,2069" baseline="410,2054 532,2053 655,2052 1035,2048 1097,2047 1225,2046 1422,2046" reason: differs: "7Der" against "gotz" | Wikisource:  | next_nc_e1: 7 Der ſchmyert ſich wol mit eſels ſchmaltz
+ | german_print2_15: y . Der ſchmyert ſich wol mit eſels ſchmaltz
+ -->
+			<!-- line left out: id="r12l2" points="536,2075 593,2075 649,2080 662,2073 688,2073 690,2085 735,2085 751,2073 779,2073 827,2071 853,2071 873,2076 873,2068 941,2068 964,2069 964,2085 1000,2082 1028,2082 1056,2084 1067,2069 1095,2069 1098,2083 1162,2083 1170,2068 1199,2068 1199,2081 1214,2081 1214,2068 1269,2068 1269,2124 1214,2124 1214,2111 1199,2111 1199,2121 1170,2121 1162,2111 1056,2112 991,2113 964,2113 964,2128 917,2128 917,2121 898,2121 898,2128 873,2128 873,2114 853,2115 779,2116 735,2117 690,2117 688,2129 662,2129 649,2118 593,2119 536,2119" baseline="536,2119 751,2115 816,2114 1161,2110 1269,2109" reason: second model has no such line | Wikisource: Vnd hat die büchsen an dem halß | next_nc_e1: Vnd hat die büchſen an dem halß
+ | german_print2_15:  -->
+			<!-- line left out: id="r12l3" points="536,2136 606,2136 609,2153 648,2153 669,2134 674,2134 694,2136 694,2152 714,2151 750,2151 750,2134 806,2134 806,2150 848,2145 880,2145 880,2151 897,2147 923,2147 934,2149 934,2128 953,2128 973,2134 992,2134 995,2147 1055,2144 1099,2144 1149,2144 1160,2132 1187,2132 1189,2147 1210,2146 1229,2146 1249,2132 1276,2132 1276,2146 1295,2146 1335,2146 1335,2176 1316,2177 1295,2177 1276,2175 1276,2186 1229,2189 1210,2189 1210,2174 1187,2177 1160,2177 1113,2176 1099,2175 1099,2185 1055,2185 1037,2176 992,2180 973,2180 953,2198 934,2198 934,2177 923,2178 899,2179 880,2179 880,2188 848,2188 839,2179 806,2179 806,2194 781,2194 781,2188 750,2188 750,2180 728,2180 714,2179 712,2192 694,2194 669,2194 648,2182 606,2186 536,2186" baseline="536,2182 1036,2176 1228,2174 1249,2174 1335,2177" reason: second model has no such line | Wikisource: Der sprechen gtar/ das gott der herr | next_nc_e1: Der ſpꝛechen gtar/ das gott der herr
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r13">
+			<Coords points="723,1744 730,1744 730,1833 723,1833" />
+		</GraphicRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="1452,1812 1568,1812 1568,1840 1452,1840" />
+			<!-- line left out: id="r14l0" points="1452,1812 1568,1812 1568,1840 1452,1840" baseline="1452,1840 1568,1838" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: —
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r15" custom="readingOrder {index:15;} orientation {0;}">
+			<Coords points="490,2191 1262,2191 1262,2268 490,2268" />
+			<!-- line left out: id="r15l0" points="490,2191 518,2191 538,2201 598,2201 600,2217 625,2217 637,2202 689,2202 691,2217 739,2215 769,2214 799,2210 841,2210 841,2194 867,2194 877,2198 877,2209 907,2209 977,2212 978,2204 1006,2204 1025,2212 1046,2212 1046,2202 1062,2201 1097,2201 1097,2213 1134,2211 1160,2211 1163,2199 1206,2198 1229,2198 1229,2209 1242,2209 1262,2210 1262,2240 1229,2240 1229,2256 1206,2256 1195,2243 1163,2243 1145,2242 1062,2242 1047,2241 1047,2255 1025,2255 1006,2245 978,2245 946,2244 916,2244 907,2258 877,2259 867,2259 867,2268 841,2268 841,2254 799,2254 798,2246 774,2246 774,2264 739,2264 738,2247 665,2247 598,2252 538,2252 518,2231 490,2231" baseline="490,2253 624,2247 841,2244 1134,2241 1262,2240" reason: second model: differs: "Sebaͤrm" against "herr S" | Wikisource: So baͤrmung sy/ vnd zürn nit ser | next_nc_e1:  So barmung ſy/ vnd zürn nit ſer
+ | german_print2_15: Se baͤrmung ſ / vnd zürn nit ſer
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r16">
+			<Coords points="294,2592 944,2592 944,2665 294,2665" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r17">
+			<Coords points="294,2629 600,2629 600,2655 294,2655" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Wer spricht das gatt barmhertzig sy
+Alleyn / vnd nit gerecht dar by
+Der hat vernunfft wie genß vnd sü
+center|250px
+Von vermessenheyt gotz
+Der schmyert sich wol mit esels schmaltz
+Vnd hat die büchsen an dem halß
+Der sprechen gtar / das gott der herr
+So baͤrmung sy / vnd zürn nit ser
+-->
+	</Page>
+</PcGts>

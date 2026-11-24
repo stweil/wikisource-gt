@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:28:43</Created>
+		<LastChange>2026-11-24T05:28:43</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0217.jpg revision 2892622 of 2016-08-18T18:43:32Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0217.jpg" imageWidth="1882" imageHeight="2558">
+		<ReadingOrder>
+			<OrderedGroup id="ro8598860260892164823" caption="Regions reading order">
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="213,170 1882,170 1882,527 213,527" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,170 372,170 372,258 0,258" />
+		</GraphicRegion>
+		<GraphicRegion id="r2">
+			<Coords points="0,2250 359,2250 359,2314 0,2314" />
+		</GraphicRegion>
+		<SeparatorRegion id="r3">
+			<Coords points="489,0 1850,0 1850,11 489,11" />
+		</SeparatorRegion>
+		<GraphicRegion id="r4">
+			<Coords points="234,244 359,244 359,346 234,346" />
+		</GraphicRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="245,238 1178,238 1178,433 245,433" />
+			<!-- line left out: id="r5l0" points="258,251 356,251 372,239 444,238 488,238 495,251 505,251 550,251 573,251 637,253 648,243 686,243 686,255 706,255 706,244 734,244 736,252 754,252 785,255 785,244 847,241 864,241 864,254 891,253 919,253 927,238 961,238 961,253 982,253 1051,256 1063,257 1063,242 1110,242 1110,305 1063,305 1063,288 961,288 927,288 890,286 864,286 864,299 847,299 840,286 754,287 736,287 706,286 686,286 686,302 648,302 637,284 495,284 488,297 444,297 441,287 372,287 356,307 258,307" baseline="258,279 487,283 495,283 918,286 1012,287 1110,290" reason: second model: differs: "αDiß" against "Diß " | Wikisource: Diß narren freüt nüt jnn der welt | next_nc_e1: Diß narren freüt nüt jnn der welt | german_print2_15: α Diß narren freüt nüt jnn der welt -->
+			<!-- line left out: id="r5l1" points="319,307 457,302 498,302 538,304 540,317 566,317 584,319 584,298 609,298 609,320 623,320 648,305 674,305 676,318 693,318 693,298 713,298 740,319 761,317 786,317 802,305 825,305 844,302 870,302 870,319 889,319 889,302 915,302 915,318 928,318 928,302 977,302 982,321 999,321 999,306 1025,306 1025,321 1039,321 1039,306 1086,306 1089,315 1108,315 1108,306 1168,306 1168,322 1178,322 1178,356 1159,356 1134,353 1134,363 1089,363 1039,360 1039,352 1025,352 1025,360 999,360 999,350 928,350 915,349 915,365 889,365 889,349 870,349 870,365 825,365 802,365 786,349 740,349 713,371 693,371 693,349 674,353 648,353 609,348 609,371 584,371 584,348 511,348 498,361 384,364 319,364" baseline="319,343 383,344 622,349 785,349 982,350 1178,355" reason: second model: differs: ")Esſ" against "welt" | Wikisource: Es sy dann/ das es schmeck noch gelt | next_nc_e1: Es ſy dann/ das es ſchmeck noch gelt | german_print2_15: )Es ſy dann / das es ſchmeck noch gelt -->
+			<!-- line left out: id="r5l2" points="245,376 319,376 371,365 431,365 467,368 473,378 490,378 490,366 532,366 560,370 562,383 583,382 602,382 685,383 685,367 744,367 767,370 769,383 797,382 825,380 850,380 916,381 977,382 1003,384 1013,373 1039,373 1064,374 1064,380 1092,380 1112,384 1112,419 1063,419 1049,417 1039,433 1013,433 1003,413 916,413 890,413 769,412 767,424 753,424 685,421 685,413 669,413 562,412 534,411 532,425 490,425 473,421 467,409 432,409 431,415 371,415 319,432 245,432" baseline="245,392 318,396 371,400 466,406 473,406 629,411 642,411 849,413 1112,416" reason: differs: "RSie" against "Sie " | Wikisource:  | next_nc_e1: R Sie ghoͤren ouch jnns narren feldt
+ | german_print2_15: D Sie ghoͤren ouch jnns narren feldt
+ -->
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="209,1677 1010,1677 1010,2063 209,2063" />
+		</GraphicRegion>
+		<SeparatorRegion id="r7">
+			<Coords points="1031,1811 1367,1811 1367,1826 1031,1826" />
+		</SeparatorRegion>
+		<GraphicRegion id="r8">
+			<Coords points="214,1806 365,1806 365,2104 214,2104" />
+		</GraphicRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="234,1976 1136,1976 1136,2237 234,2237" />
+			<TextLine id="r9l0" custom="readingOrder {index:0;}">
+				<Coords points="325,2019 362,1976 413,1976 413,1991 431,1991 431,1977 469,1977 478,1992 507,1990 625,1991 633,1977 656,1977 665,1980 665,1992 710,1990 771,1994 771,1977 823,1977 830,1985 858,1985 860,1978 884,1978 885,1994 961,1992 962,1979 999,1979 999,2025 830,2023 823,2030 771,2030 771,2023 663,2020 656,2035 633,2035 625,2021 325,2021" />
+				<Baseline points="325,2021 633,2020 999,2025" />
+				<TextEquiv index="1">
+					<Unicode>Gelt narren ſint ouch über al</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r9l1" custom="readingOrder {index:1;}">
+				<Coords points="368,2039 420,2039 425,2054 442,2054 442,2032 468,2032 468,2054 492,2054 493,2043 535,2040 565,2040 567,2054 581,2054 581,2032 606,2032 627,2054 732,2054 740,2048 746,2048 746,2056 766,2056 769,2048 812,2046 866,2046 866,2058 879,2058 881,2051 930,2051 940,2045 976,2045 984,2055 1031,2056 1033,2042 1054,2042 1054,2087 1005,2088 1004,2095 976,2099 940,2099 930,2087 866,2087 866,2102 812,2102 802,2086 627,2084 606,2106 581,2106 581,2085 468,2085 468,2106 442,2106 442,2093 425,2093 368,2088" />
+				<Baseline points="368,2088 507,2083 984,2086 1054,2088" />
+				<TextEquiv index="1">
+					<Unicode>So vil das man nit fyndt jr ʒal</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r9l2" points="366,2103 430,2103 484,2104 506,2106 506,2119 525,2119 525,2104 553,2104 553,2120 571,2119 590,2119 600,2105 626,2105 628,2118 646,2118 646,2104 700,2104 701,2119 728,2119 737,2113 752,2113 752,2105 777,2105 777,2120 788,2120 788,2105 824,2105 860,2108 862,2120 889,2120 993,2120 993,2149 889,2150 860,2151 788,2151 777,2150 777,2159 737,2159 728,2148 700,2149 671,2149 671,2162 646,2162 646,2148 628,2148 626,2162 600,2162 590,2148 571,2149 506,2150 476,2150 468,2161 433,2161 430,2151 396,2151 396,2161 366,2161" baseline="366,2151 467,2148 737,2148 993,2149" reason: second model has no such line | Wikisource: Die lieber haben gelt dann er | next_nc_e1: Die lieber haben gelt dann er
+ | german_print2_15:  -->
+			<!-- line left out: id="r9l3" points="234,2147 353,2147 362,2170 392,2166 425,2166 425,2182 445,2182 446,2166 491,2166 500,2182 524,2182 576,2183 593,2184 593,2168 642,2168 711,2169 721,2178 768,2178 777,2184 792,2180 852,2180 1006,2181 1088,2179 1108,2179 1136,2182 1136,2234 1108,2234 1108,2212 1089,2212 1089,2236 979,2237 935,2237 934,2214 916,2214 915,2229 891,2229 891,2216 862,2216 852,2228 815,2228 711,2230 658,2230 642,2217 593,2217 576,2216 524,2216 500,2216 491,2226 446,2226 445,2217 425,2217 425,2226 392,2226 362,2223 353,2201 234,2201" baseline="234,2216 1136,2212" reason: differs: "SNac" against "Nach" | Wikisource:  | next_nc_e1: S Nach armůt frogt yetz nyeman mer
+ | german_print2_15:  -->
+			<TextEquiv index="1">
+				<Unicode>Gelt narren ſint ouch über al
+So vil das man nit fyndt jr ʒal</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="354,1850 1519,1850 1519,1977 354,1977" />
+			<!-- line left out: id="r10l0" points="354,1878 425,1876 478,1876 612,1879 702,1876 761,1876 798,1881 798,1853 858,1853 862,1877 896,1877 1012,1878 1201,1878 1201,1859 1257,1859 1257,1850 1301,1850 1519,1850 1519,1881 1102,1881 1053,1977 1010,1977 1010,1955 895,1955 862,1954 858,1975 798,1975 798,1952 703,1953 657,1954 556,1954 425,1952 419,1958 354,1958" baseline="354,1952 515,1952 1052,1956 1102,1956 1519,1952" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: uon verachtung armuͤt
+ | german_print2_15: von verachtung armuͤt
+ -->
+		</TextRegion>
+		<GraphicRegion id="r11">
+			<Coords points="214,2157 259,2157 259,2243 214,2243" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="352,2157 359,2157 359,2191 352,2191" />
+		</GraphicRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="229,2193 351,2193 351,2218 229,2218" />
+			<!-- line left out: id="r13l0" points="229,2193 351,2193 351,2218 229,2218" baseline="229,2218 351,2218" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: S
+ | german_print2_15: S
+ -->
+		</TextRegion>
+		<GraphicRegion id="r14">
+			<Coords points="0,2191 1882,2191 1882,2558 0,2558" />
+		</GraphicRegion>
+		<SeparatorRegion id="r15">
+			<Coords points="1858,67 1882,67 1882,2511 1858,2511" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Diß narren freüt nüt jnn der welt
+Es sy dann / das es schmeck noch gelt
+Sie ghoͤren ouch jnns narren feldt
+center|250px
+von verachtung armuͦt
+Gelt narren sint ouch über al
+So vil das man nit fyndt jr zal
+Die lieber haben gelt dann er
+Nach armuͦt frogt yetz nyeman mer
+-->
+	</Page>
+</PcGts>

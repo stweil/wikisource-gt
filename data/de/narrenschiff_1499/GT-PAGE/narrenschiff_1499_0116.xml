@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:26:19</Created>
+		<LastChange>2026-11-24T05:26:19</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0116.jpg revision 2883891 of 2016-08-18T13:59:45Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0116.jpg" imageWidth="1897" imageHeight="2567">
+		<ReadingOrder>
+			<OrderedGroup id="ro14337841516204546123" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="85,1 388,1 388,14 85,14" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="454,200 1206,200 1206,277 454,277" />
+			<!-- line left out: id="r1l0" points="454,266 461,266 463,209 560,209 631,209 631,224 676,224 685,213 702,213 702,228 729,227 767,224 811,224 831,227 831,214 849,214 849,200 871,200 871,226 906,226 931,214 978,214 978,228 995,228 1001,215 1031,214 1054,214 1081,216 1081,204 1108,204 1108,231 1130,231 1149,233 1149,218 1206,218 1206,265 1170,265 1170,272 1149,272 1149,263 1126,263 1081,262 1081,273 1053,273 1053,260 1001,260 978,258 978,269 931,269 871,277 849,277 849,271 831,271 831,257 787,258 767,258 702,257 702,269 685,269 676,257 631,257 631,268 584,268 584,258 518,258 463,258 461,270 454,270" baseline="454,258 559,256 570,256 767,257 931,258 1001,259 1206,265" reason: second model: differs: "Vikduͦn" against "Vil duͦ" | Wikisource: Vil duͦnt jnn torheyt hie beharren | next_nc_e1: Vil důnt jnn toꝛheyt hie beharren
+ | german_print2_15: Vik důnt jnn toꝛheyt hie beharren
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="460,266 1287,266 1287,347 460,347" />
+			<!-- line left out: id="r2l0" points="460,274 518,274 518,282 573,282 585,270 590,270 656,270 656,276 668,276 670,289 726,288 744,288 744,279 767,279 767,290 784,290 784,279 819,279 829,290 849,290 903,291 918,277 936,276 962,276 962,266 985,266 985,295 1007,295 1007,266 1031,266 1031,294 1082,294 1100,296 1119,279 1147,279 1147,296 1171,296 1191,298 1191,282 1215,282 1215,266 1238,266 1238,299 1260,299 1287,300 1287,330 1260,330 1238,329 1238,347 1215,347 1191,343 1191,328 1143,328 1119,326 1063,325 1031,324 1031,347 1007,347 1007,322 985,322 985,347 962,347 962,332 944,336 918,336 903,320 876,320 875,333 850,333 849,319 829,319 819,335 784,335 784,320 767,320 767,335 744,335 744,320 726,320 670,319 668,330 633,330 633,318 607,318 606,329 590,330 585,330 573,322 518,323 460,323" baseline="460,296 572,307 585,308 713,319 726,319 918,322 1099,326 1119,326 1287,330" reason: second model has no such line | Wikisource: Vnd ziehen vast eyn schweren karrhen | next_nc_e1: Vnd ziehen vaſt eyn ſchweren karrhen
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="462,333 1283,333 1283,416 462,416" />
+			<!-- line left out: id="r3l0" points="462,338 531,338 534,344 558,344 594,349 624,353 624,342 675,342 675,350 714,350 722,333 746,333 746,339 763,339 765,353 852,353 852,339 875,339 901,340 901,353 919,353 998,355 1026,356 1054,358 1054,333 1078,333 1078,358 1089,358 1089,347 1122,347 1122,333 1144,333 1163,350 1194,350 1194,362 1210,362 1256,363 1256,333 1283,333 1283,416 1256,416 1256,395 1230,395 1210,394 1194,394 1194,408 1163,408 1144,416 1122,416 1122,403 1089,403 1089,391 1078,391 1078,416 1054,416 1054,401 995,401 995,388 970,388 901,386 901,396 852,396 852,383 835,384 763,384 746,384 746,416 722,416 714,382 675,382 652,381 652,412 603,412 594,381 558,382 531,386 462,386" baseline="462,381 603,381 713,382 785,383 929,386 1143,392 1163,392 1283,395" reason: second model has no such line | Wikisource: Dort würt der recht wag naher faren | next_nc_e1: Doꝛt würt der recht wag naher faren
+ | german_print2_15:  -->
+		</TextRegion>
+		<SeparatorRegion id="r4">
+			<Coords points="482,1063 832,1063 832,1074 482,1074" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r5">
+			<Coords points="529,1158 987,1158 987,1163 529,1163" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r6">
+			<Coords points="511,1156 987,1156 987,1178 511,1178" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r7">
+			<Coords points="842,1163 846,1163 846,1290 842,1290" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r8">
+			<Coords points="474,1782 890,1782 890,1796 474,1796" />
+		</SeparatorRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="287,1821 1479,1821 1479,1946 287,1946" />
+			<!-- line left out: id="r9l0" points="287,1824 569,1821 650,1821 659,1827 822,1827 824,1847 932,1847 954,1830 1008,1830 1011,1847 1103,1847 1127,1822 1135,1822 1171,1824 1171,1848 1201,1848 1201,1824 1231,1824 1291,1828 1291,1822 1347,1822 1347,1848 1391,1846 1479,1846 1479,1925 1440,1925 1440,1944 1391,1944 1391,1925 1347,1928 1291,1928 1171,1925 1135,1925 1135,1944 1127,1944 1103,1923 954,1923 932,1946 774,1946 774,1927 659,1927 650,1923 428,1928 287,1928" baseline="287,1896 427,1899 569,1907 657,1912 659,1912 931,1921 954,1921 1479,1926" reason: second model has no such line | Wikisource: von dem weg der sellikeyt | next_nc_e1: võ dẽ weg der ſellikeyt
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="401,1944 1148,1944 1148,2007 401,2007" />
+			<TextLine id="r10l0" custom="readingOrder {index:0;}">
+				<Coords points="401,1971 412,1971 448,1945 501,1945 501,1959 526,1956 562,1956 571,1944 598,1944 629,1944 666,1948 673,1958 718,1958 745,1960 826,1959 903,1961 914,1948 929,1948 929,1961 943,1961 943,1948 977,1948 986,1959 1057,1960 1057,1948 1094,1948 1094,1960 1148,1962 1148,1992 1094,1991 1094,2007 1057,2007 1057,1990 1019,1992 718,1991 718,2004 607,2004 607,1990 562,1992 448,1992 412,1982 401,1982" />
+				<Baseline points="401,1993 571,1990 1148,1992" />
+				<TextEquiv index="1">
+					<Unicode>Gott laßt eyn narren nit verſton</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Gott laßt eyn narren nit verſton</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="309,2005 1226,2005 1226,2231 309,2231" />
+			<!-- line left out: id="r11l0" points="384,2028 397,2028 451,2009 512,2009 515,2024 565,2024 579,2010 597,2010 597,2026 620,2024 677,2024 677,2016 706,2016 709,2025 728,2025 728,2010 765,2005 828,2005 837,2010 844,2023 865,2023 884,2025 895,2010 924,2010 924,2023 950,2021 970,2019 1001,2019 1038,2022 1038,2011 1065,2011 1067,2025 1092,2025 1096,2009 1123,2009 1123,2056 1096,2056 1067,2055 1065,2068 1038,2068 1038,2056 1020,2056 1001,2054 1001,2064 970,2064 968,2055 950,2056 924,2056 924,2067 895,2067 884,2055 837,2058 828,2058 828,2075 765,2075 765,2058 728,2058 706,2057 677,2057 648,2055 597,2058 579,2058 565,2066 515,2066 512,2057 451,2057 397,2047 384,2047" baseline="384,2057 564,2055 970,2055 1123,2056" reason: second model: differs: "ESyn" against "Syn " | Wikisource: Syn wunder/ die er hat gethon | next_nc_e1: Syn wunder/ die er hat gethon | german_print2_15: ESyn wunder / die er hat gethon -->
+			<TextLine id="r11l1" custom="readingOrder {index:1;}">
+				<Coords points="347,2074 508,2072 508,2080 565,2080 573,2072 576,2072 576,2086 591,2086 591,2075 631,2072 776,2073 776,2066 798,2066 798,2085 820,2085 838,2074 855,2074 858,2088 978,2089 978,2074 1021,2074 1032,2089 1104,2090 1104,2082 1133,2082 1134,2090 1179,2090 1180,2075 1208,2075 1208,2089 1226,2089 1226,2120 1160,2120 1158,2132 1134,2132 1133,2121 858,2119 855,2131 838,2131 820,2123 798,2123 798,2143 776,2143 776,2120 732,2120 721,2139 631,2139 591,2135 576,2132 576,2139 573,2139 565,2133 507,2133 507,2122 448,2122 379,2137 347,2137" />
+				<Baseline points="347,2122 905,2119 1226,2119" />
+				<TextEquiv index="1">
+					<Unicode>Vnd taͤglich duͦt/ dar vmb verdyrbt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r11l2" points="309,2104 374,2104 384,2152 437,2152 451,2137 529,2137 529,2153 551,2153 557,2146 583,2146 583,2137 610,2137 610,2149 630,2149 658,2153 659,2137 705,2137 705,2153 743,2153 782,2152 808,2152 850,2154 850,2138 878,2138 878,2100 937,2100 937,2138 943,2138 949,2152 970,2152 984,2153 984,2137 1003,2137 1087,2137 1118,2139 1135,2142 1135,2154 1180,2154 1180,2139 1207,2139 1207,2152 1224,2152 1224,2206 1205,2206 1205,2185 1159,2185 1156,2198 1135,2203 1118,2206 1102,2206 1087,2196 1061,2196 1061,2207 1027,2207 1026,2187 1003,2187 1003,2207 984,2207 984,2199 970,2199 949,2195 943,2208 937,2208 937,2231 878,2231 878,2208 808,2209 782,2209 779,2186 753,2186 743,2208 610,2208 583,2208 557,2207 551,2184 529,2184 529,2206 437,2209 384,2209 374,2198 309,2198" baseline="309,2209 550,2207 1086,2205 1102,2205 1224,2206" reason: differs: "SGar" against "Gar " | Wikisource:  | next_nc_e1: SGar mancher narr/ der zytlich ſtyrbt
+ | german_print2_15: KGarmancher narr/ her zytlih ſihrdt
+ -->
+			<TextEquiv index="1">
+				<Unicode>Vnd taͤglich duͦt/ dar vmb verdyrbt</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r12">
+			<Coords points="2,1407 14,1407 14,2124 2,2124" />
+		</SeparatorRegion>
+		<GraphicRegion id="r13">
+			<Coords points="0,0 1897,0 1897,2567 0,2567" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Vil duͦnt jnn torheyt hie beharren
+Vnd ziehen vast eyn schweren karrhen
+Dort würt der recht wag naher faren
+center|250px
+von dem weg der sellikeyt
+Gott laßt eyn narren nit verston
+Syn wunder / die er hat gethon
+Vnd taͤglich duͦt / dar vmb verdyrbt
+Gar mancher narr / der zytlich styrbt
+-->
+	</Page>
+</PcGts>

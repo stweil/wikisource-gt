@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:26:00</Created>
+		<LastChange>2026-11-24T05:26:00</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0102.jpg revision 2883877 of 2016-08-18T13:59:22Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0102.jpg" imageWidth="1864" imageHeight="2553">
+		<ReadingOrder>
+			<OrderedGroup id="ro8015491593755882290" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="53,0 717,0 717,25 53,25" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {3;}">
+			<Coords points="0,2275 7,2275 7,2316 0,2316" />
+			<!-- line left out: id="r1l0" points="0,2275 7,2275 7,2316 0,2316" baseline="5,2316 6,2275" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: —
+ | german_print2_15: —
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r2">
+			<Coords points="0,1290 50,1290 50,2532 0,2532" />
+		</SeparatorRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="314,203 1376,203 1376,410 314,410" />
+			<!-- line left out: id="r3l0" points="335,218 413,218 455,211 513,211 513,228 565,223 584,223 584,211 607,211 688,211 695,223 721,223 721,229 751,229 757,203 784,203 784,215 798,215 827,219 839,220 841,230 867,230 870,218 906,218 910,203 932,203 932,218 951,218 969,226 988,226 988,220 1003,219 1029,219 1029,233 1054,232 1084,232 1084,221 1100,221 1100,234 1116,234 1127,212 1173,212 1173,241 1228,241 1291,235 1345,235 1345,275 1291,275 1173,270 1173,278 1127,278 1116,265 1099,265 1084,264 1028,264 1003,263 988,261 988,271 969,271 951,264 932,264 932,282 910,282 906,273 870,273 841,270 839,258 827,260 797,260 784,258 784,282 757,282 751,268 719,268 719,257 688,258 651,258 651,266 628,266 628,259 607,259 607,266 565,266 485,265 455,262 413,308 335,308" baseline="335,221 412,231 455,236 558,248 565,249 687,257 695,257 757,258 950,262 969,262 1115,265 1127,266 1345,274" reason: differs: ",Eyn" against "Eyn " | Wikisource:  | next_nc_e1: , Eyn glock on klüpffel/ gibt nit thon | german_print2_15: S Eyn glock on klüpffel / gibt nit thon -->
+			<!-- line left out: id="r3l1" points="314,283 318,283 436,289 451,285 492,285 514,276 561,276 562,290 633,290 663,291 701,276 730,276 730,290 754,290 782,292 782,286 831,286 852,293 921,293 933,283 955,283 955,295 976,295 979,281 1025,281 1052,284 1065,281 1092,281 1118,283 1118,303 1155,302 1179,302 1245,304 1258,291 1275,290 1329,290 1329,307 1376,307 1376,338 1350,338 1329,337 1329,350 1300,350 1300,344 1284,344 1284,350 1258,350 1245,344 1214,344 1212,333 1179,333 1155,333 1118,329 1118,337 1092,337 1092,344 1065,344 1054,342 1025,339 975,334 975,324 955,324 955,340 933,340 921,321 887,321 887,332 852,332 782,329 782,318 754,319 730,319 730,329 701,329 663,318 648,318 636,317 633,331 612,331 588,320 562,320 561,331 529,331 523,319 492,322 451,322 439,338 436,338 314,288" baseline="314,304 317,304 436,309 491,311 587,315 830,320 933,322 1244,334 1258,335 1376,339" reason: differs: "ſObd" against "thon" | Wikisource:  | next_nc_e1: ſ Ob dar jnn hangt eyn fuchßſchwantz ſchon | german_print2_15: ſ/WVOb dar jnn hangt eyn fuchßſchwantz ſchon -->
+			<!-- line left out: id="r3l2" points="420,345 449,345 451,339 520,339 523,352 611,351 637,351 637,338 684,338 729,339 778,340 790,347 798,347 798,355 831,355 831,347 870,344 893,344 915,347 917,358 935,358 1019,359 1053,358 1088,358 1088,365 1114,364 1142,364 1142,393 1114,393 1088,392 1088,410 1053,410 1036,390 1019,390 945,388 935,406 917,406 915,385 893,385 893,401 870,401 857,385 798,385 790,385 778,397 724,397 724,381 708,381 708,397 705,397 684,381 569,381 520,385 451,385 449,393 420,393" baseline="420,375 568,380 577,380 683,381 856,384 1035,390 1053,390 1142,393" reason: second model: differs: "BDar" against "scho" | Wikisource: Dar vmb loß red für oren gon | next_nc_e1: Dar vmb loß red für oꝛen gon
+ | german_print2_15: BDar vmb loß red für oꝛen gon
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r4">
+			<Coords points="529,715 562,715 562,1151 529,1151" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r5">
+			<Coords points="518,752 552,752 552,1154 518,1154" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r6">
+			<Coords points="476,714 516,714 516,1173 476,1173" />
+		</SeparatorRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="396,2007 1163,2007 1163,2210 396,2210" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="396,2026 404,2026 422,2014 494,2014 497,2023 588,2024 590,2008 647,2008 655,2024 732,2024 753,2010 779,2010 779,2026 796,2026 798,2016 826,2016 828,2024 874,2024 885,2007 915,2007 915,2026 965,2025 965,2007 994,2007 1015,2011 1015,2026 1078,2025 1120,2028 1122,2016 1163,2015 1163,2059 1089,2061 994,2058 798,2057 796,2068 772,2068 772,2053 753,2053 732,2063 692,2066 590,2066 588,2054 497,2053 494,2062 422,2062 404,2032 396,2032" />
+				<Baseline points="396,2053 885,2054 1077,2059 1163,2059" />
+				<TextEquiv index="1">
+					<Unicode>Der muͦß yetʒ lyden kumbers vil</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r7l1" points="418,2080 531,2080 544,2074 568,2074 568,2087 580,2087 580,2074 608,2074 608,2087 654,2087 664,2074 676,2074 676,2088 697,2088 698,2076 714,2074 749,2074 753,2088 830,2088 839,2074 864,2074 864,2089 892,2089 892,2083 907,2083 970,2088 970,2082 1006,2082 1007,2091 1029,2091 1029,2120 1006,2121 970,2121 958,2120 893,2119 881,2119 880,2131 864,2132 839,2132 830,2116 810,2117 784,2118 749,2121 714,2121 697,2118 676,2121 664,2121 608,2117 608,2128 580,2128 580,2117 568,2117 568,2131 544,2131 531,2123 418,2123" baseline="418,2119 653,2117 664,2117 748,2125 753,2127 829,2118 839,2118 958,2119 1029,2121" reason: differs: "rtüür" against " tür Vn" | Wikisource:  | next_nc_e1: Vnd ſehen vil/ voꝛ ſyner tüür | german_print2_15: Vnd ſehen vil / voꝛ ſyner tür -->
+			<!-- line left out: id="r7l2" points="416,2143 470,2143 471,2157 484,2157 484,2144 529,2144 541,2138 594,2138 596,2151 634,2151 644,2139 689,2134 747,2134 763,2139 773,2152 792,2152 812,2153 818,2147 851,2147 870,2152 889,2153 959,2154 975,2152 992,2152 993,2141 1022,2141 1048,2146 1049,2155 1070,2155 1070,2186 1048,2187 992,2188 975,2188 958,2186 928,2185 916,2206 889,2206 889,2183 851,2183 851,2194 818,2194 812,2183 792,2184 773,2184 763,2204 747,2204 747,2210 689,2210 689,2204 644,2204 644,2183 594,2183 577,2183 577,2204 556,2204 556,2195 541,2195 529,2210 484,2210 416,2209" baseline="416,2186 746,2184 915,2183 1070,2186" reason: second model has no such line | Wikisource: Vnd hoͤren/ das er gern entbür | next_nc_e1: Vnd hoͤꝛen/ das er gern entbür
+ | german_print2_15:  -->
+			<TextEquiv index="1">
+				<Unicode>Der muͦß yetʒ lyden kumbers vil</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r8">
+			<Coords points="66,2524 443,2524 443,2553 66,2553" />
+		</SeparatorRegion>
+		<GraphicRegion id="r9">
+			<Coords points="205,0 1864,0 1864,2553 205,2553" />
+		</GraphicRegion>
+		<SeparatorRegion id="r10">
+			<Coords points="1845,252 1864,252 1864,600 1845,600" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Eyn glock on klüpffel / gibt nit thon
+Ob dar jnn hangt eyn fuchßschwantz schon
+Dar vmb loß red für oren gon
+center|250px
+Nit achten vff all red
+Wer by der welt vß kumen wil
+Der muͦß yetz lyden kumbers vil
+Vnd sehen vil / vor syner tür
+Vnd hoͤren / das er gern entbür
+-->
+	</Page>
+</PcGts>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:24:28</Created>
+		<LastChange>2026-11-24T05:24:28</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0034.jpg revision 5103139 of 2026-11-18T10:09:02Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0034.jpg" imageWidth="1803" imageHeight="2561">
+		<ReadingOrder>
+			<OrderedGroup id="ro13894546616243922488" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="37,0 1412,0 1412,13 37,13" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="378,171 1166,171 1166,263 378,263" />
+			<!-- line left out: id="r1l0" points="378,199 500,199 501,210 564,210 636,209 700,209 710,197 733,197 793,175 811,171 836,171 836,195 898,195 901,211 914,211 914,195 934,195 934,211 949,211 949,195 974,195 999,198 999,211 1017,211 1037,212 1064,213 1064,200 1089,200 1166,200 1166,254 1141,256 1104,256 1104,243 1089,243 1089,256 1044,256 1037,242 999,242 999,255 949,255 949,241 934,241 934,255 914,255 914,240 898,242 866,242 853,248 836,248 836,263 811,263 811,253 733,254 710,254 700,240 607,240 606,254 581,254 581,240 500,242 458,242 438,255 378,255" baseline="378,229 528,240 537,240 699,241 732,242 793,244 852,247 866,248 1036,252 1044,252 1166,255" reason: differs: "yeüich" against "yeüch V" | Wikisource:  | next_nc_e1:  An mynem ſeyl ich draffter yeüich
+ | german_print2_15:  An mynem ſeyb ich draffter yeüch
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r2">
+			<Coords points="1401,678 1413,678 1413,987 1401,987" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r3">
+			<Coords points="1449,910 1470,910 1470,1709 1449,1709" />
+		</SeparatorRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="1042,1764 1417,1764 1417,1918 1042,1918" />
+			<TextLine id="r4l0" custom="readingOrder {index:0;}">
+				<Coords points="1042,1798 1099,1798 1101,1825 1160,1825 1161,1778 1236,1778 1236,1826 1258,1826 1258,1866 1284,1866 1369,1764 1417,1764 1417,1869 1369,1869 1284,1898 1258,1898 1258,1916 1223,1916 1223,1904 1161,1904 1101,1900 1099,1918 1042,1918" />
+				<Baseline points="1042,1901 1417,1901" />
+				<TextEquiv index="1">
+					<Unicode>hafft.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>hafft.</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="368,1911 1295,1911 1295,2186 368,2186" />
+			<!-- line left out: id="r5l0" points="368,1939 418,1939 438,1915 496,1915 497,1931 521,1931 561,1932 568,1918 628,1918 628,1932 656,1932 725,1933 725,1911 751,1911 751,1923 766,1922 820,1918 843,1918 843,1911 870,1911 870,1934 877,1934 932,1925 966,1925 976,1923 1012,1923 1014,1938 1052,1936 1083,1936 1135,1937 1156,1938 1157,1925 1182,1925 1182,1983 1157,1983 1156,1968 1135,1968 1109,1967 1098,1974 1084,1974 1083,1967 1052,1967 1014,1966 998,1965 998,1975 966,1975 932,1975 877,1963 870,1963 870,1987 843,1987 843,1965 820,1965 766,1964 751,1963 751,1987 725,1987 725,1964 628,1964 568,1964 497,1960 496,1967 438,1967 418,1961 368,1961" baseline="368,1961 560,1961 932,1964 1182,1968" reason: differs: "narß" against " ars By" | Wikisource:  | next_nc_e1: Frow Venus mit dem ſtroͤwen arß
+ | german_print2_15:  Frow Venus mit dem ſtroͤwen arß
+ -->
+			<!-- line left out: id="r5l1" points="383,2036 440,1980 494,1980 495,1995 546,1995 561,1984 564,1984 564,1995 589,1995 591,1984 660,1984 678,1985 678,1997 735,1997 790,1998 803,1999 807,1987 861,1986 876,1986 879,1998 905,1998 974,1999 974,1986 1000,1986 1000,2000 1010,2000 1048,2001 1073,2003 1089,1988 1114,1988 1114,2002 1133,2002 1156,2003 1180,2005 1180,2032 1156,2033 1114,2033 1114,2047 1089,2047 1073,2032 1049,2032 1009,2030 1000,2044 946,2044 945,2027 905,2028 879,2028 876,2040 840,2043 807,2043 803,2026 791,2026 790,2041 752,2041 750,2028 734,2028 707,2027 660,2026 633,2026 561,2025 546,2038 495,2038 494,2025 461,2025 461,2038 388,2040 383,2040" baseline="383,2024 561,2024 933,2027 1072,2031 1089,2031 1180,2033" reason: differs: "OByn" against "n ar" | Wikisource:  | next_nc_e1: O Byn nit die mynſt jm narren fars | german_print2_15: Byn nit die mynſt jm narren fars -->
+			<!-- line left out: id="r5l2" points="388,2041 393,2041 441,2048 477,2045 521,2045 528,2057 547,2057 548,2049 566,2049 566,2043 623,2043 628,2059 649,2059 651,2045 680,2045 688,2060 715,2060 733,2062 733,2048 777,2046 807,2046 810,2062 830,2062 886,2061 911,2061 974,2063 995,2061 1020,2053 1067,2050 1148,2050 1189,2104 1191,2104 1191,2106 1123,2106 1093,2094 1067,2095 1020,2095 807,2093 777,2093 733,2090 733,2098 716,2098 715,2089 680,2090 651,2090 649,2097 566,2097 566,2088 548,2088 547,2096 521,2098 478,2099 441,2099 388,2045" baseline="388,2086 858,2091 1191,2095" reason: differs: "Ichz" against "fars" | Wikisource:  | next_nc_e1: Ich züch zů mir der narren vite
+ | german_print2_15: Ich züch zů mir der narren vi
+ -->
+			<TextLine id="r5l3" custom="readingOrder {index:3;}">
+				<Coords points="439,2109 505,2109 505,2115 555,2115 566,2124 637,2123 638,2107 684,2107 690,2125 777,2121 799,2121 850,2125 850,2103 873,2103 873,2111 898,2111 920,2126 953,2126 956,2114 982,2114 1002,2130 1105,2129 1116,2118 1124,2118 1124,2103 1148,2103 1148,2115 1173,2115 1295,2155 1295,2157 1173,2174 1148,2174 1148,2186 1124,2186 1124,2163 1002,2163 982,2175 956,2175 953,2159 920,2159 898,2169 873,2169 873,2186 850,2186 850,2158 799,2157 799,2167 777,2167 746,2156 733,2156 732,2169 709,2169 709,2155 690,2155 684,2175 638,2175 610,2171 610,2155 594,2155 594,2175 566,2175 555,2157 505,2157 505,2175 439,2175" />
+				<Baseline points="439,2153 920,2158 1295,2166" />
+				<TextEquiv index="1">
+					<Unicode>Vnd mach eyn gouch vß wem ich wil</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Vnd mach eyn gouch vß wem ich wil</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="367,2029 382,2029 382,2036 367,2036" />
+			<!-- line left out: id="r6l0" points="367,2029 382,2029 382,2036 367,2036" baseline="367,2036 382,2036" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: D
+ | german_print2_15: S
+ -->
+		</TextRegion>
+		<GraphicRegion id="r7">
+			<Coords points="0,0 1803,0 1803,2561 0,2561" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+An mynem seyl ich draffter yeüch
+Vil narren / affen / esel / geüch
+Die ich verfuͤr betrüg vnd leych
+center|250px
+Von buͦlschafft.
+Frow Venus mit dem stroͤwen ars
+Byn nit die mynst jm narren fars
+Ich züch zuͦ mir der narren vil
+Vnd mach eyn gouch vß wem ich wil
+-->
+	</Page>
+</PcGts>

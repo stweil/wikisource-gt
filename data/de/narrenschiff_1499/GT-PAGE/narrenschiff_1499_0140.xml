@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:26:53</Created>
+		<LastChange>2026-11-24T05:26:53</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0140.jpg revision 2883915 of 2016-08-18T14:00:21Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0140.jpg" imageWidth="1930" imageHeight="2567">
+		<ReadingOrder>
+			<OrderedGroup id="ro9672507773782338975" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 1930,0 1930,351 0,351" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="377,252 1341,252 1341,458 377,458" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="403,276 497,276 510,252 583,252 584,266 699,268 707,257 725,257 725,265 769,267 769,257 830,257 830,269 861,269 861,257 910,257 954,267 985,263 996,259 1039,259 1077,262 1077,275 1127,277 1142,267 1170,267 1172,280 1191,280 1219,283 1231,269 1259,269 1259,286 1307,287 1307,318 1278,318 1077,308 1077,317 1055,317 1039,306 1002,306 1000,301 985,303 954,303 910,314 861,314 861,299 795,302 795,314 769,314 769,299 725,299 725,314 707,314 699,298 540,300 540,317 403,317" />
+				<Baseline points="403,289 624,297 954,302 1307,318" />
+				<TextEquiv index="1">
+					<Unicode>Wer on verdienſt/ will han den lon</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="377,318 566,318 616,321 616,309 647,309 647,330 673,330 673,309 698,309 698,318 741,318 741,333 765,331 809,331 821,317 889,317 889,335 912,335 912,317 943,317 943,334 960,334 960,323 987,323 987,317 1013,317 1013,337 1052,337 1127,342 1134,328 1159,328 1159,345 1177,345 1179,335 1194,332 1222,332 1261,337 1261,328 1287,328 1287,351 1327,352 1327,383 1299,383 1287,381 1287,401 1261,401 1240,397 1222,381 1194,381 1194,375 1159,374 1159,401 1134,401 1127,380 1109,380 1109,370 1013,369 1013,378 960,378 960,366 943,366 943,378 912,378 912,364 889,364 889,372 835,378 821,378 809,361 765,361 762,374 698,375 698,384 673,384 673,361 647,361 647,384 616,384 616,378 567,378 566,362 514,362 500,369 377,369" />
+				<Baseline points="377,341 697,356 1327,381" />
+				<TextEquiv index="1">
+					<Unicode>Vnd vff eym ſchwachen roꝛ will ſton</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l2" points="509,379 578,379 580,392 624,392 636,380 648,380 648,393 663,393 691,395 692,380 782,380 782,395 798,390 889,388 920,388 920,397 960,397 987,399 987,388 1044,386 1092,386 1092,406 1110,406 1110,392 1136,392 1153,394 1153,386 1177,386 1177,394 1199,394 1199,411 1216,410 1267,410 1267,375 1341,375 1341,458 1267,458 1216,453 1216,442 1199,442 1199,450 1177,454 1136,454 1136,437 1090,437 1068,435 1068,454 1049,454 1042,448 987,448 987,432 968,432 897,431 881,435 798,435 798,425 756,425 755,435 717,439 692,439 691,423 663,424 648,424 648,439 636,439 624,423 578,426 509,426" baseline="509,416 623,420 636,421 880,428 889,428 959,431 1041,435 1044,435 1267,445 1341,448" reason: differs: "lagwürt" against "lag/ wü" | Wikisource:  | next_nc_e1: Des anſchlag würt vff krebſchen gon
+ | german_print2_15: Des anſchlag würt vff krebſchen gon
+ -->
+			<TextEquiv index="1">
+				<Unicode>Wer on verdienſt/ will han den lon
+Vnd vff eym ſchwachen roꝛ will ſton</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r2">
+			<Coords points="0,219 1930,219 1930,550 0,550" />
+		</GraphicRegion>
+		<SeparatorRegion id="r3">
+			<Coords points="921,481 1501,481 1501,522 921,522" />
+		</SeparatorRegion>
+		<GraphicRegion id="r4">
+			<Coords points="0,416 1930,416 1930,691 0,691" />
+		</GraphicRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="526,613 606,613 606,690 526,690" />
+			<!-- line left out: id="r5l0" points="526,613 605,613 605,653 526,653" baseline="526,650 605,653" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 2 | german_print2_15: or. -->
+			<!-- line left out: id="r5l1" points="527,645 600,645 600,675 527,675" baseline="527,672 600,676" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 2 | german_print2_15: DW
+ -->
+			<!-- line left out: id="r5l2" points="537,671 606,671 606,690 537,690" baseline="537,686 606,690" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 3
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="0,654 1930,654 1930,766 0,766" />
+		</GraphicRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {3;}">
+			<Coords points="529,679 628,679 628,746 529,746" />
+			<!-- line left out: id="r7l0" points="590,697 628,697 628,731 590,731" baseline="619,731 627,697" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: )
+ | german_print2_15: ,
+ -->
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="0,691 1930,691 1930,806 0,806" />
+		</GraphicRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {3;}">
+			<Coords points="522,715 618,715 618,784 522,784" />
+			<!-- line left out: id="r9l0" points="522,715 573,715 573,784 522,784" baseline="562,784 570,715" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: U
+ | german_print2_15: W -->
+		</TextRegion>
+		<GraphicRegion id="r10">
+			<Coords points="0,765 1930,765 1930,2235 0,2235" />
+		</GraphicRegion>
+		<SeparatorRegion id="r11">
+			<Coords points="501,1812 1182,1812 1182,1835 501,1835" />
+		</SeparatorRegion>
+		<GraphicRegion id="r12">
+			<Coords points="433,2063 1930,2063 1930,2242 433,2242" />
+		</GraphicRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="356,2184 460,2184 460,2223 356,2223" />
+			<!-- line left out: id="r13l0" points="409,2184 457,2184 457,2204 409,2204" baseline="409,2200 457,2202" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: S | german_print2_15:  -->
+			<!-- line left out: id="r13l1" points="356,2208 364,2208 364,2196 460,2196 460,2223 364,2223 364,2216 356,2216" baseline="356,2212 460,2214" reason: differs: "ES" against "urwi" | Wikisource:  | next_nc_e1: ES
+ | german_print2_15:  R
+ -->
+		</TextRegion>
+		<GraphicRegion id="r14">
+			<Coords points="0,2208 38,2208 38,2358 0,2358" />
+		</GraphicRegion>
+		<GraphicRegion id="r15">
+			<Coords points="0,2478 386,2478 386,2567 0,2567" />
+		</GraphicRegion>
+		<SeparatorRegion id="r16">
+			<Coords points="33,2554 1570,2554 1570,2567 33,2567" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Wer on verdienst / will han den lon
+Vnd vff eym schwachen ror will ston
+Des anschlag / würt vff krebschen gon
+center|250px
+Furwissenheyt gottes
+Man fyndt gar manchen narren ouch
+Der ferbet vß der gschrifft den gouch
+Vnd duncket sich striffecht vnd gelert
+So er die buͤcher hat vmbkert
+-->
+	</Page>
+</PcGts>

@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:24:50</Created>
+		<LastChange>2026-11-24T05:24:50</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0050.jpg revision 5101429 of 2026-11-18T07:46:15Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0050.jpg" imageWidth="1824" imageHeight="2551">
+		<ReadingOrder>
+			<OrderedGroup id="ro1704635139224896571" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="68,0 411,0 411,14 68,14" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="358,231 1325,231 1325,428 358,428" />
+			<!-- line left out: id="r1l0" points="358,231 458,231 545,233 546,247 586,247 595,234 641,234 641,248 687,245 708,245 738,246 763,247 763,240 797,240 839,243 868,246 868,240 898,240 909,234 937,234 937,251 992,249 1036,249 1054,252 1054,244 1080,244 1080,253 1096,253 1096,244 1158,241 1187,241 1187,258 1205,258 1205,244 1233,241 1262,241 1265,257 1305,257 1305,291 1265,291 1234,289 1234,300 1205,300 1205,287 1158,287 1080,286 1054,286 1039,283 992,282 953,280 952,293 937,294 909,294 898,281 868,281 840,278 806,277 797,287 763,287 763,277 738,278 709,278 708,285 687,285 670,277 641,277 641,291 595,291 586,279 545,281 474,281 458,321 358,321" baseline="358,262 457,267 474,268 585,273 806,278 992,281 1146,285 1158,286 1305,292" reason: differs: "VWer" against "Wer " | Wikisource:  | next_nc_e1: V Wer ſyn zung vnd ſyn mundt behůt | german_print2_15:  -->
+			<!-- line left out: id="r1l1" points="419,318 430,318 461,297 544,297 546,311 586,311 594,294 600,294 658,294 672,297 672,310 692,309 735,306 754,306 807,310 869,311 869,300 896,300 905,307 940,307 940,300 975,300 978,309 989,309 997,301 1022,301 1022,315 1034,315 1036,302 1064,302 1064,313 1076,313 1110,317 1138,319 1139,311 1167,311 1216,316 1216,305 1242,305 1242,322 1274,322 1274,305 1304,305 1306,323 1325,323 1325,356 1306,356 1242,354 1242,360 1171,360 1167,352 1139,352 1076,351 1055,351 1022,346 1022,360 997,360 989,348 978,348 975,360 940,360 940,352 905,352 896,360 869,360 869,342 854,342 754,341 735,341 671,339 658,338 658,346 618,346 618,354 594,354 586,341 544,346 461,346 430,328 419,328" baseline="419,328 585,334 594,335 753,340 764,340 854,342 988,346 997,346 1075,350 1099,349 1171,351 1325,356" reason: second model: differs: "WDer" against "behuͤ" | Wikisource: Der schirmt vor angst/ sel/ vnd gemuͤt | next_nc_e1:  Der ſchirmt vor angſt/ ſel/ vnd gemũt | german_print2_15: WDer ſchirmt vor angſt / ſel / vnd gemůt -->
+			<!-- line left out: id="r1l2" points="472,361 535,361 535,374 580,374 590,357 599,357 616,359 616,373 636,372 655,372 656,357 702,357 702,371 719,371 728,362 753,362 753,375 770,373 800,373 809,364 823,364 826,375 856,375 880,376 880,370 924,367 945,367 945,376 969,376 971,367 1005,367 1010,375 1030,375 1030,366 1117,366 1117,382 1143,382 1207,383 1218,386 1218,376 1241,376 1241,388 1271,388 1272,376 1288,376 1288,387 1324,387 1324,420 1286,420 1271,418 1241,420 1218,420 1207,417 1175,417 1166,428 1142,428 1142,413 1117,413 1117,428 1095,428 1095,420 1069,425 1053,428 1030,428 1030,419 1010,419 1005,410 969,413 914,415 880,415 880,405 826,405 823,416 809,416 800,403 771,403 771,417 753,418 728,418 719,403 702,403 702,409 656,409 655,401 636,401 634,414 616,416 502,416 502,407 472,407" baseline="472,388 579,399 728,402 799,404 913,408 924,408 1010,410 1165,415 1175,415 1324,419" reason: second model has no such line | Wikisource: Eyn specht syn jung mit gschrey verriet | next_nc_e1: Eyn ſpecht ſyn jung mit gſchꝛey verriet
+ | german_print2_15:  -->
+		</TextRegion>
+		<SeparatorRegion id="r2">
+			<Coords points="468,429 1389,429 1389,462 468,462" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r3">
+			<Coords points="456,438 481,438 481,1308 456,1308" />
+		</SeparatorRegion>
+		<GraphicRegion id="r4">
+			<Coords points="598,503 1478,503 1478,1665 598,1665" />
+		</GraphicRegion>
+		<SeparatorRegion id="r5">
+			<Coords points="809,1393 825,1393 825,1653 809,1653" />
+		</SeparatorRegion>
+		<GraphicRegion id="r6">
+			<Coords points="815,1599 1478,1599 1478,1759 815,1759" />
+		</GraphicRegion>
+		<SeparatorRegion id="r7">
+			<Coords points="1469,457 1502,457 1502,1819 1469,1819" />
+		</SeparatorRegion>
+		<GraphicRegion id="r8">
+			<Coords points="319,494 457,494 457,1800 319,1800" />
+		</GraphicRegion>
+		<SeparatorRegion id="r9">
+			<Coords points="451,1484 461,1484 461,1807 451,1807" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r10">
+			<Coords points="452,1794 1475,1794 1475,1819 452,1819" />
+		</SeparatorRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="373,1484 1460,1484 1460,1805 373,1805" />
+			<!-- line left out: id="r11l0" points="457,1484 606,1484 606,1540 457,1540" baseline="457,1539 606,1539" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: E | german_print2_15: = -->
+			<!-- line left out: id="r11l1" points="373,1711 760,1711 760,1719 1173,1719 1173,1768 755,1768 755,1761 373,1761" baseline="373,1755 1173,1768" reason: differs: "VV" against "250p" | Wikisource:  | next_nc_e1: VV | german_print2_15:  -->
+			<!-- line left out: id="r11l2" points="516,1732 826,1732 835,1742 980,1742 1299,1766 1323,1766 1323,1739 1413,1739 1413,1761 1460,1761 1460,1805 1402,1805 1323,1800 1299,1796 980,1777 835,1777 826,1787 516,1787" baseline="516,1782 979,1789 1299,1796 1460,1801" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: EEE Eſ,
+ | german_print2_15: 6  —— WWA Wi,
+ -->
+		</TextRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="377,1836 1394,1836 1394,2158 377,2158" />
+			<!-- line left out: id="r12l0" points="409,1890 437,1890 533,1836 647,1836 648,1862 791,1862 847,1865 848,1840 907,1840 980,1842 980,1873 1004,1873 1004,1843 1063,1843 1067,1866 1125,1866 1125,1842 1181,1842 1181,1873 1217,1871 1286,1871 1394,1873 1394,1953 1330,1953 1288,1951 1286,1972 1217,1972 1217,1951 1181,1951 1181,1972 1125,1972 1125,1950 1067,1950 1063,1965 1004,1965 1004,1943 967,1943 933,1942 907,1961 848,1961 847,1943 788,1943 648,1938 647,1945 533,1945 437,1963 409,1963" baseline="409,1932 699,1939 906,1942 933,1943 1394,1953" reason: both models read another letter than Wikisource | Wikisource: Von vil schwetzen | next_nc_e1: Bon vil ſchwetzen | german_print2_15: Bon vil ſchwetzen -->
+			<!-- line left out: id="r12l1" points="377,1967 401,1967 445,1955 516,1955 518,1963 546,1963 546,1951 610,1951 610,1963 615,1963 632,1975 653,1975 706,1976 758,1972 815,1972 823,1964 871,1964 871,1978 894,1978 930,1979 930,1968 959,1968 1006,1968 1006,1980 1047,1975 1051,1971 1073,1971 1127,1971 1127,2014 1047,2014 1006,2013 959,2013 823,2010 744,2008 677,2006 676,2020 653,2020 653,2005 632,2005 615,2021 610,2021 610,2028 546,2028 546,2021 518,2021 516,2009 445,2009 401,2001 377,2001" baseline="377,2000 546,2003 632,2005 814,2009 823,2009 1037,2012 1127,2014" reason: second model: differs: "SDer" against "Der " | Wikisource: Der ist eyn narr der anden wil | next_nc_e1: Der iſt eyn narr der anden wil | german_print2_15: SDer iſt eyn narr der anden wil -->
+			<TextLine id="r12l2" custom="readingOrder {index:2;}">
+				<Coords points="436,2065 445,2022 517,2022 518,2037 567,2037 591,2040 594,2024 660,2026 660,2040 697,2040 697,2023 745,2023 754,2041 798,2042 798,2035 827,2035 828,2041 942,2042 969,2045 989,2033 1002,2029 1079,2029 1079,2037 1102,2037 1102,2029 1124,2029 1124,2043 1152,2043 1156,2030 1177,2030 1177,2038 1236,2037 1236,2082 1196,2082 1196,2100 1177,2104 1156,2104 1152,2094 1099,2094 1099,2086 1079,2086 1079,2094 1052,2094 1051,2086 1024,2085 1024,2094 1002,2094 1002,2087 989,2087 969,2075 798,2075 778,2071 778,2083 745,2086 697,2086 697,2071 660,2070 660,2084 635,2084 623,2070 594,2070 591,2080 572,2080 567,2069 436,2070" />
+				<Baseline points="436,2069 635,2070 989,2075 1236,2083" />
+				<TextEquiv index="1">
+					<Unicode>Dar ʒuͦ ſunſt yederman ſchwigt ſtil</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r12l3" points="443,2084 503,2084 503,2095 570,2090 585,2090 585,2105 608,2105 609,2090 648,2090 652,2104 678,2104 710,2105 803,2105 847,2106 868,2107 887,2108 887,2100 905,2095 953,2095 953,2109 1002,2109 1028,2111 1041,2098 1071,2098 1071,2112 1095,2112 1097,2100 1125,2100 1125,2158 1097,2158 1095,2142 1071,2142 1071,2153 1041,2153 1028,2140 928,2140 887,2140 848,2138 757,2137 561,2136 474,2136 443,2135" baseline="443,2135 647,2134 727,2135 1027,2140 1125,2143" reason: second model: differs: "Vndv" against "l Vn" | Wikisource: Vnd wil on not verdienen haß | next_nc_e1: Vnd wil on not verdienen haß
+ | german_print2_15: Vnd vwil on not verdienen haß
+ -->
+			<TextEquiv index="1">
+				<Unicode>Dar ʒuͦ ſunſt yederman ſchwigt ſtil</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="441,2150 1185,2150 1185,2227 441,2227" />
+			<TextLine id="r13l0" custom="readingOrder {index:0;}">
+				<Coords points="441,2150 528,2150 540,2166 580,2166 589,2156 609,2156 609,2167 634,2167 635,2156 669,2156 677,2168 775,2169 775,2155 868,2155 868,2170 883,2170 899,2159 918,2157 971,2157 971,2174 989,2174 989,2157 1013,2157 1013,2164 1037,2164 1037,2157 1061,2157 1061,2175 1093,2175 1103,2161 1131,2161 1131,2176 1155,2176 1155,2163 1185,2163 1185,2226 1155,2226 1155,2211 1061,2211 1061,2218 989,2218 989,2209 971,2209 971,2218 899,2218 883,2227 863,2227 863,2215 838,2215 838,2227 814,2227 814,2207 792,2207 775,2205 775,2220 717,2220 717,2202 694,2202 694,2220 677,2220 635,2216 634,2202 609,2202 609,2216 580,2220 540,2220 528,2200 441,2200" />
+				<Baseline points="441,2199 745,2203 882,2207 1185,2212" />
+				<TextEquiv index="1">
+					<Unicode>So er mit ere moͤcht ſchwigen baß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>So er mit ere moͤcht ſchwigen baß</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r14">
+			<Coords points="0,0 1824,0 1824,2551 0,2551" />
+		</GraphicRegion>
+		<SeparatorRegion id="r15">
+			<Coords points="22,1704 38,1704 38,2506 22,2506" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r16">
+			<Coords points="0,2210 13,2210 13,2525 0,2525" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r17">
+			<Coords points="43,2534 517,2534 517,2551 43,2551" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Wer syn zung vnd syn mundt behuͤt
+Der schirmt vor angst / sel / vnd gemuͤt
+Eyn specht syn jung mit gschrey verriet
+center|250px
+Von vil schwetzen
+Der ist eyn narr der anden wil
+Dar zuͦ sunst yederman schwigt still
+Vnd wil on not verdienen haß
+So er mit ere moͤcht schwigen baß
+-->
+	</Page>
+</PcGts>

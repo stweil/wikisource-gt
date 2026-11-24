@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:25:33</Created>
+		<LastChange>2026-11-24T05:25:33</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0082.jpg revision 5105661 of 2026-11-18T13:33:51Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0082.jpg" imageWidth="1850" imageHeight="2561">
+		<ReadingOrder>
+			<OrderedGroup id="ro12845963901819766847" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="87,0 1015,0 1015,39 87,39" />
+		</SeparatorRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="364,221 1304,221 1304,390 364,390" />
+			<!-- line left out: id="r1l0" points="386,243 471,243 485,221 562,221 563,234 603,234 616,223 628,223 645,224 648,235 676,232 699,232 699,223 747,223 792,224 891,228 891,240 908,240 908,233 942,233 942,240 961,240 981,242 1002,228 1027,228 1027,245 1040,245 1040,233 1086,233 1087,248 1103,248 1103,228 1115,228 1177,232 1178,252 1207,252 1301,270 1304,270 1304,272 1301,272 1207,281 1177,286 1115,288 1103,288 1103,278 1087,278 1086,287 1040,287 1040,274 1027,274 1027,288 1002,288 981,272 961,272 942,271 942,280 908,280 908,270 891,270 891,287 839,287 830,269 792,271 761,271 747,277 699,277 699,267 645,268 628,268 628,277 616,277 603,267 562,270 516,270 516,283 386,283" baseline="386,266 616,267 839,269 1114,273 1304,272" reason: second model: differs: "5Wer" against "Wer " | Wikisource: Wer durch die fynger sehen kan | next_nc_e1:  Wer durch die fynger ſehen kan | german_print2_15: 5 Wer durch die fynger ſehen kan -->
+			<!-- line left out: id="r1l1" points="364,284 390,284 541,287 598,292 610,285 638,285 638,302 657,302 660,287 706,287 757,289 758,302 785,302 798,291 822,291 822,303 836,303 861,304 933,305 1004,306 1039,308 1067,311 1068,303 1097,303 1099,312 1141,312 1169,313 1225,315 1252,316 1279,318 1279,355 1252,355 1252,348 1226,348 1179,346 1097,343 1068,343 1012,339 959,337 958,349 933,349 933,333 863,333 822,332 822,347 798,347 785,330 758,330 757,343 706,344 660,344 657,330 631,330 614,329 614,344 610,344 598,332 484,332 390,353 364,353" baseline="364,330 798,332 913,333 1003,338 1012,338 1168,343 1179,344 1279,349" reason: differs: "ſVnd" against "Vnd " | Wikisource:  | next_nc_e1: ſ Vnd loßt ſyn frow eym andern man | german_print2_15: ſ, Vnd loßt ſyn frow eym andern man -->
+			<!-- line left out: id="r1l2" points="418,383 435,383 435,390 418,390" baseline="418,390 435,390" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: E
+ | german_print2_15: E
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="582,341 1217,341 1217,435 582,435" />
+			<!-- line left out: id="r2l0" points="582,349 606,349 606,362 619,362 619,341 645,341 645,351 675,351 675,361 691,361 700,350 741,350 825,350 825,365 838,365 869,367 877,352 909,352 929,356 929,368 947,368 1003,370 1004,362 1063,362 1090,364 1090,358 1126,358 1152,363 1161,377 1188,377 1217,380 1217,409 1190,409 1161,408 1152,422 1105,422 1096,420 1071,420 1034,417 1034,403 1004,403 956,402 947,413 927,413 927,398 909,399 877,399 869,408 839,408 838,396 825,396 825,408 799,408 799,395 783,395 741,394 700,394 675,393 675,405 645,405 645,435 619,435 601,431 601,391 582,391" baseline="582,388 690,393 783,394 1217,400" reason: differs: "lach" against "an D" | Wikisource:  | next_nc_e1: lacht die katz die müß ſuͤß an
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="428,571 472,571 472,589 428,589" />
+			<!-- line left out: id="r3l0" points="428,571 472,571 472,589 428,589" baseline="428,589 472,589" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: v
+ | german_print2_15: N
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r4">
+			<Coords points="487,401 1497,401 1497,509 487,509" />
+		</SeparatorRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {3;}">
+			<Coords points="714,1234 733,1234 733,1337 714,1337" />
+			<!-- line left out: id="r5l0" points="714,1234 733,1234 733,1337 714,1337" baseline="732,1337 732,1234" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: σο⸗
+ | german_print2_15: er
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r6">
+			<Coords points="1448,477 1526,477 1526,1363 1448,1363" />
+		</SeparatorRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {3;}">
+			<Coords points="1450,1137 1470,1137 1470,1380 1450,1380" />
+			<!-- line left out: id="r7l0" points="1450,1137 1470,1137 1470,1380 1450,1380" baseline="1469,1380 1469,1137" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: i
+ | german_print2_15: /4 .
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r8">
+			<Coords points="536,1471 935,1471 935,1494 536,1494" />
+		</SeparatorRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {3;}">
+			<Coords points="1409,1376 1472,1376 1472,1499 1409,1499" />
+			<!-- line left out: id="r9l0" points="1409,1376 1472,1376 1472,1499 1409,1499" baseline="1468,1499 1469,1376" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: e
+ | german_print2_15: W
+ -->
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {3;}">
+			<Coords points="1387,1468 1468,1468 1468,1539 1387,1539" />
+			<!-- line left out: id="r10l0" points="1387,1468 1428,1468 1428,1528 1387,1528" baseline="1427,1528 1425,1468" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ES
+ | german_print2_15: Ey -->
+		</TextRegion>
+		<SeparatorRegion id="r11">
+			<Coords points="420,435 541,435 541,1778 420,1778" />
+		</SeparatorRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="372,1823 1256,1823 1256,2209 372,2209" />
+			<!-- line left out: id="r12l0" points="660,1823 793,1823 793,1849 898,1849 911,1830 927,1830 927,1851 956,1851 956,1830 1056,1830 1057,1858 1094,1857 1154,1857 1194,1862 1194,1835 1256,1835 1256,1957 1194,1957 1194,1934 1157,1934 1154,1947 1094,1947 1093,1941 1057,1941 1056,1932 956,1932 956,1926 927,1926 927,1957 911,1957 898,1926 793,1931 660,1931" baseline="660,1927 897,1926 911,1926 1256,1936" reason: second model: differs: "BVon" against "250p" | Wikisource: Von eebruch | next_nc_e1: Don eebꝛuch | german_print2_15: BVon eebꝛuch -->
+			<!-- line left out: id="r12l1" points="372,1967 391,1967 441,1938 500,1938 500,1958 519,1958 519,1944 545,1944 545,1958 561,1958 561,1948 582,1943 630,1943 630,1959 647,1959 675,1960 713,1962 713,1950 770,1950 770,1960 787,1960 832,1962 832,1934 859,1934 859,1962 877,1962 930,1965 930,1934 958,1934 958,1951 982,1951 1006,1963 1024,1963 1024,1957 1052,1957 1052,1969 1080,1969 1080,1957 1098,1957 1098,1971 1122,1967 1153,1967 1153,2009 1122,2009 1122,2000 1081,2000 1052,2000 1052,2009 1024,2009 1006,2008 982,1996 958,1996 958,2013 930,2013 930,1996 906,1996 859,1995 859,2013 832,2013 832,1993 787,1994 770,1994 770,2001 713,2001 713,1991 687,1991 630,1990 630,2005 582,2005 582,1989 545,1991 519,1991 500,1989 500,1998 441,1998 391,1992 372,1992" baseline="372,1986 674,1990 687,1990 786,1992 906,1995 981,1997 1153,2001" reason: second model: differs: "KEeb" against "bruc" | Wikisource: Eebrechen wigt man als gering | next_nc_e1: Eebꝛechen wigt man als gering | german_print2_15: KEebꝛechen wigt man als gering -->
+			<!-- line left out: id="r12l2" points="390,2029 424,2029 424,2009 461,2009 534,2009 546,2024 572,2024 574,2008 600,2008 609,2024 631,2023 709,2023 721,2010 730,2010 798,2010 798,2027 819,2027 819,2010 841,2010 878,2011 878,2029 907,2028 929,2028 970,2031 983,2016 1018,2016 1020,2033 1035,2033 1035,2016 1057,2016 1110,2019 1121,2023 1121,2035 1144,2030 1178,2030 1195,2032 1195,2069 1178,2069 1178,2075 1144,2075 1144,2064 1120,2064 1085,2063 1085,2077 1035,2077 1020,2076 1018,2070 953,2074 928,2074 928,2059 887,2061 841,2061 841,2070 819,2070 819,2057 798,2057 798,2070 747,2070 721,2070 709,2056 486,2056 424,2056 424,2033 390,2033" baseline="390,2052 721,2055 886,2060 907,2060 983,2061 1195,2069" reason: differs: "OAls" against "Als " | Wikisource:  | next_nc_e1: OAls ob man ſchnellt eyn kyſeling/ | german_print2_15: Als ob man ſchnellt eyn kyſeling/ -->
+			<!-- line left out: id="r12l3" points="396,2076 441,2072 498,2072 549,2072 549,2090 564,2089 591,2089 592,2075 657,2075 657,2068 723,2068 723,2075 742,2075 742,2068 843,2068 843,2075 852,2075 863,2094 887,2093 897,2093 897,2068 924,2068 924,2090 943,2089 975,2089 1002,2094 1015,2097 1104,2097 1126,2098 1171,2099 1191,2103 1192,2087 1221,2087 1221,2099 1238,2099 1238,2142 1221,2144 1192,2144 1191,2130 1145,2130 1125,2129 1106,2128 1104,2137 1058,2139 1033,2139 1031,2126 975,2126 975,2134 944,2136 924,2136 924,2148 897,2148 897,2123 887,2123 885,2134 852,2136 843,2136 843,2148 742,2148 742,2136 723,2136 723,2148 657,2148 657,2136 635,2136 592,2131 591,2120 564,2120 549,2119 549,2136 522,2136 522,2118 498,2119 441,2119 396,2079" baseline="396,2117 657,2122 722,2121 742,2121 842,2122 863,2123 1057,2127 1077,2128 1238,2132" reason: second model: differs: "EVebr" against "Eebru" | Wikisource: Eebruch/ das gsatz yetz gantz veracht | next_nc_e1: Eebruch/ das gſatz yetʒgantz veracht | german_print2_15: EVebruch / das gſatz yetz gantz veracht -->
+			<TextLine id="r12l4" custom="readingOrder {index:4;}">
+				<Coords points="417,2187 437,2137 511,2137 511,2151 564,2151 575,2136 604,2136 604,2154 620,2154 620,2141 635,2140 672,2140 672,2154 693,2154 701,2143 739,2143 739,2155 752,2155 752,2143 798,2143 798,2155 850,2155 860,2142 888,2142 889,2157 1015,2155 1015,2148 1043,2148 1043,2161 1095,2161 1116,2165 1116,2150 1202,2148 1202,2153 1197,2153 1166,2209 1116,2209 1116,2195 1043,2196 1043,2209 969,2209 954,2195 918,2194 889,2191 888,2204 860,2204 850,2189 775,2188 775,2198 752,2198 752,2187 739,2187 739,2198 701,2198 693,2187 672,2187 672,2201 635,2201 635,2184 578,2185 578,2201 575,2201 564,2185 511,2185 511,2200 437,2200 417,2189" />
+				<Baseline points="417,2182 701,2186 860,2190 953,2194 1202,2198" />
+				<TextEquiv index="1">
+					<Unicode>Das keiſer Julius hatt gemacht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Das keiſer Julius hatt gemacht</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r13">
+			<Coords points="1461,1691 1479,1691 1479,1815 1461,1815" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r14">
+			<Coords points="475,1756 1472,1756 1472,1837 475,1837" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r15">
+			<Coords points="0,461 99,461 99,2393 0,2393" />
+		</SeparatorRegion>
+		<GraphicRegion id="r16">
+			<Coords points="0,0 1850,0 1850,2561 0,2561" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Wer durch die fynger sehen kan
+Vnd loßt syn frow eym andern man
+Do lacht die katz die müß suͦß an
+center|250px
+Von eebruch
+Eebrechen wigt man als gering
+Als ob man schnellt eyn kyseling /
+Eebruch / das gsatz yetz gantz veracht
+Das keiser Julius hatt gemacht
+-->
+	</Page>
+</PcGts>

@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:25:39</Created>
+		<LastChange>2026-11-24T05:25:39</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0086.jpg revision 2883862 of 2016-08-18T13:58:58Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0086.jpg" imageWidth="1853" imageHeight="2564">
+		<ReadingOrder>
+			<OrderedGroup id="ro17624799630763395503" caption="Regions reading order">
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="2,130 12,130 12,468 2,468" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r1">
+			<Coords points="3,130 11,130 11,674 3,674" />
+		</SeparatorRegion>
+		<GraphicRegion id="r2">
+			<Coords points="0,251 73,251 73,570 0,570" />
+		</GraphicRegion>
+		<GraphicRegion id="r3">
+			<Coords points="0,679 45,679 45,792 0,792" />
+		</GraphicRegion>
+		<SeparatorRegion id="r4">
+			<Coords points="16,817 25,817 25,2240 16,2240" />
+		</SeparatorRegion>
+		<GraphicRegion id="r5">
+			<Coords points="336,0 1853,0 1853,316 336,316" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="260,175 1853,175 1853,2209 260,2209" />
+		</GraphicRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="341,204 1347,204 1347,412 341,412" />
+			<!-- line left out: id="r7l0" points="341,204 450,204 465,210 535,210 535,223 564,223 591,224 592,210 644,210 644,227 683,227 691,211 722,211 725,228 741,228 741,211 767,211 767,228 783,228 804,232 804,213 834,213 834,226 874,226 874,206 914,206 921,233 1003,233 1022,223 1038,223 1038,235 1061,235 1063,223 1081,223 1081,233 1110,233 1118,223 1153,223 1154,236 1190,236 1190,243 1209,243 1255,245 1255,275 1229,275 1208,274 1190,273 1190,281 1154,281 1118,278 1110,274 1079,274 1079,264 1038,264 1038,278 1022,278 1003,262 981,263 962,263 921,261 914,282 874,282 874,261 829,261 783,258 767,261 741,261 722,259 691,259 644,257 644,264 592,264 591,255 535,255 535,264 499,264 465,259 450,293 341,293" baseline="341,249 465,252 682,257 874,259 913,260 1022,263 1152,271 1154,271 1255,276" reason: differs: "MManc" against "Manch" | Wikisource:  | next_nc_e1: M Manchen dunckt/ er wer witzig gern | german_print2_15: 6 Manchen dunckt /er wer witzig gern -->
+			<TextLine id="r7l1" custom="readingOrder {index:1;}">
+				<Coords points="427,287 463,274 521,274 635,276 650,290 693,289 730,285 765,285 790,290 803,291 803,279 889,279 891,293 904,293 904,270 929,270 929,278 949,278 949,270 973,270 990,283 1015,283 1042,288 1043,300 1098,298 1098,288 1145,288 1157,305 1190,305 1257,309 1257,337 1157,335 1015,328 1015,338 973,342 949,342 949,333 929,333 929,342 904,342 904,322 861,322 850,334 803,334 803,319 765,320 765,328 730,328 723,319 695,319 693,329 670,329 670,318 650,318 635,334 602,334 602,315 590,315 590,334 587,334 576,317 521,319 463,319 427,291" />
+				<Baseline points="427,312 861,321 1257,338" />
+				<TextEquiv index="1">
+					<Unicode>Vnd iſt eyn ganß doch/ hür als vern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r7l2" custom="readingOrder {index:2;}">
+				<Coords points="440,335 533,336 534,350 673,350 681,334 709,334 709,352 808,353 812,339 828,335 850,335 850,341 871,341 871,335 893,335 893,354 916,354 1001,361 1087,365 1088,335 1110,335 1110,350 1139,350 1139,364 1147,364 1165,371 1211,370 1211,356 1259,356 1285,359 1285,373 1347,376 1347,408 1318,408 1259,404 1216,404 1214,398 1139,400 1139,407 1110,412 1088,412 1087,394 1043,394 959,390 893,391 893,412 871,412 871,394 850,394 850,412 828,412 828,385 812,385 808,394 789,394 778,382 751,382 751,394 726,394 725,380 560,380 533,382 462,382 458,366 440,366" />
+				<Baseline points="440,375 777,382 915,390 934,389 1347,409" />
+				<TextEquiv index="1">
+					<Unicode>Dann er keyn ʒuͦcht/ vernunfft/ will lern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Vnd iſt eyn ganß doch/ hür als vern
+Dann er keyn ʒuͦcht/ vernunfft/ will lern</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="372,325 394,325 394,344 372,344" />
+			<!-- line left out: id="r8l0" points="372,332 383,332 383,325 394,325 394,344 383,344 372,341" baseline="372,344 394,344" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: d₰
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="1277,1764 1445,1764 1445,1783 1277,1783" />
+			<!-- line left out: id="r9l0" points="1277,1764 1445,1764 1445,1783 1277,1783" baseline="1277,1782 1445,1782" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: —=
+ | german_print2_15: == SE
+ -->
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="294,1936 1157,1936 1157,2219 294,2219" />
+			<!-- line left out: id="r10l0" points="415,1936 472,1936 472,1953 496,1953 524,1954 571,1956 591,1957 625,1959 625,1940 649,1940 649,1949 655,1949 688,1950 691,1958 700,1958 718,1947 737,1947 739,1963 760,1963 806,1964 806,1946 830,1946 851,1950 865,1960 892,1960 892,1951 908,1946 938,1946 938,1964 961,1964 1004,1966 1016,1956 1035,1956 1035,1948 1056,1948 1056,1958 1070,1958 1072,1972 1089,1971 1113,1971 1113,2038 1089,2038 1089,2002 1072,2002 1056,2000 1056,2042 1035,2042 1035,2011 1016,2011 1004,1998 979,1998 979,2028 960,2028 960,1999 938,1999 938,2032 908,2032 908,1998 893,1998 893,2005 865,2005 851,1994 830,1994 830,2032 806,2032 806,2024 789,2024 779,1993 737,1994 700,1995 691,1995 688,2007 653,2007 649,2023 625,2023 547,2019 547,1987 531,1987 497,1984 496,1997 471,1997 471,1983 415,1983" baseline="415,1984 531,1986 627,1989 699,1994 778,1993 789,1993 850,1994 865,1995 1003,1999 1113,1999" reason: differs: "Eynn" against "vern" | Wikisource:  | next_nc_e1: Eyn narr iſt/ der vil gůttes hoͤꝛt | german_print2_15: Eyn narr iſt / der vil gůttes hoͤꝛt -->
+			<!-- line left out: id="r10l1" points="332,2011 354,2011 384,2032 392,2032 412,2001 471,2001 471,2011 527,2011 539,2021 556,2021 646,2021 653,2013 681,2013 681,2026 692,2026 763,2029 763,2013 787,2013 853,2013 855,2030 874,2028 917,2028 940,2031 992,2029 1026,2029 1026,2036 1045,2036 1072,2037 1090,2038 1118,2037 1136,2036 1154,2036 1154,2070 1117,2070 1091,2070 1072,2068 1046,2067 1026,2065 1026,2073 992,2073 987,2064 940,2064 924,2064 917,2072 874,2072 874,2059 855,2059 853,2072 826,2075 787,2075 763,2075 763,2057 694,2057 692,2066 681,2070 653,2070 646,2056 556,2056 539,2056 471,2052 412,2051 392,2066 384,2066 354,2030 332,2030" baseline="332,2050 526,2052 742,2056 916,2062 924,2062 1154,2065" reason: differs: "VVnd" against "hoͤrt" | Wikisource:  | next_nc_e1: VVnd würt ſyn wißheyt nit gemoͤꝛt
+ | german_print2_15:  Vnd würt ſyn wißheyt nit gemoͤꝛt
+ -->
+			<!-- line left out: id="r10l2" points="344,2046 402,2046 412,2067 483,2067 486,2084 525,2084 533,2072 549,2072 549,2086 561,2086 561,2072 616,2072 617,2090 642,2087 659,2087 667,2075 693,2075 693,2085 705,2085 705,2075 729,2075 729,2091 760,2090 778,2090 810,2093 830,2095 831,2082 853,2082 853,2094 871,2094 913,2095 981,2097 983,2087 998,2084 1021,2084 1021,2127 996,2128 983,2128 912,2127 871,2126 853,2126 853,2144 831,2144 830,2125 810,2125 789,2124 760,2123 729,2121 729,2131 689,2131 689,2121 667,2121 642,2120 639,2133 612,2133 593,2133 561,2128 561,2119 549,2119 549,2133 533,2133 525,2118 448,2118 412,2118 402,2160 344,2160" baseline="344,2117 401,2117 524,2118 658,2120 789,2123 939,2127 948,2127 1021,2128" reason: differs: "FDer" against "emoͤr" | Wikisource:  | next_nc_e1: F Der allʒyt bgert erfaren vil
+ | german_print2_15: 2 F Der allʒyt bgert erfaren vil
+ -->
+			<!-- line left out: id="r10l3" points="294,2141 374,2130 469,2130 469,2142 538,2138 563,2138 618,2138 653,2140 653,2154 683,2154 744,2156 772,2157 801,2160 815,2148 826,2148 826,2160 844,2160 846,2148 892,2146 929,2146 929,2161 939,2161 940,2147 969,2146 990,2146 990,2164 1057,2164 1102,2167 1102,2152 1157,2152 1157,2219 1102,2219 1102,2200 1078,2200 1057,2217 1029,2217 1029,2194 1011,2197 990,2197 990,2217 969,2217 940,2215 939,2191 929,2191 929,2217 908,2217 908,2192 892,2192 878,2214 846,2214 844,2193 826,2193 826,2214 815,2214 801,2193 772,2193 713,2191 704,2206 683,2210 649,2210 626,2208 618,2198 563,2199 527,2203 432,2203 374,2203 294,2143" baseline="294,2190 713,2191 892,2192 1157,2194" reason: differs: "VVnd" against "n vi" | Wikisource:  | next_nc_e1: VVnd ſich dar von nit beſſeren wil
+ | german_print2_15: VVnd ſich dar von nit beſſeren wil
+ -->
+		</TextRegion>
+		<GraphicRegion id="r11">
+			<Coords points="268,1696 380,1696 380,2045 268,2045" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="1388,2112 1853,2112 1853,2564 1388,2564" />
+		</GraphicRegion>
+		<SeparatorRegion id="r13">
+			<Coords points="188,2551 514,2551 514,2563 188,2563" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Manchen dunckt / er wer witzig gern
+Vnd ist eyn ganß doch / hür als vern
+Dann er keyn zuͦcht / vernunfft / will lern
+center|250px
+Narr hür als vern
+Eyn narr ist der vil guͦttes hoͤrt
+Vnd würt syn wißheyt nit gemoͤrt
+Der allzyt bgert erfaren vil
+Vnd sich dar von nit besseren wil
+-->
+	</Page>
+</PcGts>

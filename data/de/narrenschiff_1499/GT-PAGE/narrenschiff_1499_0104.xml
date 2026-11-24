@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:26:03</Created>
+		<LastChange>2026-11-24T05:26:03</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0104.jpg revision 2883879 of 2016-08-18T13:59:25Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0104.jpg" imageWidth="1826" imageHeight="2549">
+		<ReadingOrder>
+			<OrderedGroup id="ro7025029652920829147" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+				<RegionRefIndexed index="17" regionRef="r17" />
+				<RegionRefIndexed index="18" regionRef="r18" />
+				<RegionRefIndexed index="25" regionRef="r25" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="249,200 330,200 330,440 249,440" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="305,205 317,205 317,224 305,224" />
+			<!-- line left out: id="r1l0" points="305,205 317,205 317,224 305,224" baseline="305,224 317,224" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: *
+ | german_print2_15: 3
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="367,203 1283,203 1283,404 367,404" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="404,203 518,203 540,205 594,206 594,219 705,223 810,222 811,210 840,210 842,223 917,226 920,212 946,212 946,227 1029,228 1029,258 984,258 945,255 811,254 810,264 779,264 772,253 656,253 549,251 518,247 518,265 491,265 482,250 404,250" />
+				<Baseline points="404,250 491,248 1029,257" />
+				<TextEquiv index="1">
+					<Unicode>Es iſt der narren guͦt enberen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l1" points="367,295 381,295 400,269 458,269 518,269 518,283 530,283 531,269 585,269 587,286 612,282 629,282 684,285 685,274 767,274 767,287 807,287 881,288 910,288 931,289 931,275 971,275 971,291 1010,291 1026,284 1058,284 1058,290 1077,290 1123,291 1123,321 1097,321 1075,320 1058,319 1058,330 1026,330 1010,319 971,319 971,333 931,333 931,318 910,318 892,316 888,308 881,308 881,315 810,315 807,328 786,328 784,315 767,315 767,331 732,331 717,314 639,314 612,313 611,327 559,327 538,327 531,322 530,312 518,312 518,327 504,327 494,311 461,311 458,319 400,319 381,326 367,326" baseline="367,309 504,311 850,315 1009,319 1026,319 1123,321" reason: both models read another letter than Wikisource | Wikisource: Sie allzyt mit steyn werffen gern | next_nc_e1: Die allzyt mit ſteyn werffen gern | german_print2_15: Die allzyt mit ſteyn werffen gern -->
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="400,335 459,335 540,341 540,348 583,347 584,341 640,341 663,331 690,331 690,347 761,349 774,336 778,336 807,337 807,351 841,351 841,336 891,336 895,352 928,352 956,354 958,347 986,347 1003,358 1054,355 1054,342 1096,342 1124,343 1124,359 1184,358 1197,347 1221,347 1221,363 1283,364 1283,393 1197,392 1184,404 1142,404 1141,389 1124,389 1124,397 1096,399 1082,404 1054,404 1054,396 1044,396 1042,385 958,385 895,382 891,393 841,394 841,379 807,379 807,394 774,394 708,390 708,376 667,376 667,390 663,390 640,377 400,377" />
+				<Baseline points="400,372 774,378 1283,392" />
+				<TextEquiv index="1">
+					<Unicode>Vnd wend keyn ſtraff vnd wyßheyt lern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Es iſt der narren guͦt enberen
+Vnd wend keyn ſtraff vnd wyßheyt lern</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="495,271 1615,271 1615,1219 495,1219" />
+		</GraphicRegion>
+		<SeparatorRegion id="r4">
+			<Coords points="579,425 1104,425 1104,447 579,447" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r5">
+			<Coords points="1029,435 1039,435 1039,788 1029,788" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r6">
+			<Coords points="409,464 423,464 423,873 409,873" />
+		</SeparatorRegion>
+		<GraphicRegion id="r7">
+			<Coords points="412,888 486,888 486,1035 412,1035" />
+		</GraphicRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {3;}">
+			<Coords points="450,1028 467,1028 467,1080 450,1080" />
+			<!-- line left out: id="r8l0" points="450,1028 467,1028 467,1080 450,1080" baseline="464,1080 463,1028" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: gg
+ | german_print2_15: riie
+ -->
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {3;}">
+			<Coords points="468,1030 493,1030 493,1086 468,1086" />
+			<!-- line left out: id="r9l0" points="468,1030 493,1030 493,1086 468,1086" baseline="492,1086 492,1030" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: E
+ | german_print2_15:  -->
+		</TextRegion>
+		<SeparatorRegion id="r10">
+			<Coords points="1396,455 1416,455 1416,1189 1396,1189" />
+		</SeparatorRegion>
+		<GraphicRegion id="r11">
+			<Coords points="1135,1114 1615,1114 1615,1236 1135,1236" />
+		</GraphicRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {3;}">
+			<Coords points="1077,828 1144,828 1144,1218 1077,1218" />
+			<!-- line left out: id="r12l0" points="1077,828 1110,828 1110,1205 1077,1205" baseline="1103,1205 1102,828" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: S W | german_print2_15: ,  E
+ -->
+			<!-- line left out: id="r12l1" points="1086,882 1144,882 1144,1218 1086,1218" baseline="1142,1218 1142,882" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: MWME
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r13">
+			<Coords points="499,1219 1075,1219 1075,1255 499,1255" />
+		</GraphicRegion>
+		<GraphicRegion id="r14">
+			<Coords points="499,1236 1615,1236 1615,1278 499,1278" />
+		</GraphicRegion>
+		<GraphicRegion id="r15">
+			<Coords points="499,1264 1615,1264 1615,1803 499,1803" />
+		</GraphicRegion>
+		<SeparatorRegion id="r16">
+			<Coords points="467,1351 537,1351 537,1358 467,1358" />
+		</SeparatorRegion>
+		<TextRegion id="r17" custom="readingOrder {index:17;} orientation {3;}">
+			<Coords points="406,1292 543,1292 543,1442 406,1442" />
+			<!-- line left out: id="r17l0" points="406,1384 437,1384 437,1442 406,1442" baseline="426,1442 427,1230" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: V | german_print2_15:  -->
+			<!-- line left out: id="r17l1" points="461,1292 543,1292 543,1400 461,1400" baseline="531,1400 541,1292" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: e
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r18" custom="readingOrder {index:18;} orientation {3;}">
+			<Coords points="422,1438 542,1438 542,1526 422,1526" />
+			<!-- line left out: id="r18l0" points="422,1438 542,1438 542,1526 422,1526" baseline="503,1526 505,1438" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ſ
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r19">
+			<Coords points="226,434 381,434 381,1709 226,1709" />
+		</GraphicRegion>
+		<SeparatorRegion id="r20">
+			<Coords points="1388,1388 1402,1388 1402,1782 1388,1782" />
+		</SeparatorRegion>
+		<GraphicRegion id="r21">
+			<Coords points="1616,1727 1635,1727 1635,1753 1616,1753" />
+		</GraphicRegion>
+		<SeparatorRegion id="r22">
+			<Coords points="478,1766 1356,1766 1356,1795 478,1795" />
+		</SeparatorRegion>
+		<GraphicRegion id="r23">
+			<Coords points="222,1755 295,1755 295,1931 222,1931" />
+		</GraphicRegion>
+		<GraphicRegion id="r24">
+			<Coords points="1425,1820 1580,1820 1580,2184 1425,2184" />
+		</GraphicRegion>
+		<TextRegion id="r25" custom="readingOrder {index:25;} orientation {0;}">
+			<Coords points="209,1682 1588,1682 1588,2210 209,2210" />
+			<!-- line left out: id="r25l0" points="1062,1686 1110,1682 1219,1682 1442,1721 1506,1721 1506,1731 1527,1729 1572,1729 1572,1754 1527,1754 1518,1748 1506,1748 1506,1754 1442,1754 1110,1749 1102,1712 1062,1712" baseline="1062,1733 1218,1734 1572,1738" reason: differs: "IENa" against "lern" | Wikisource:  | next_nc_e1: IE  Na | german_print2_15: DN S, -->
+			<!-- line left out: id="r25l1" points="397,1751 470,1751 1383,1787 1453,1758 1535,1753 1558,1753 1576,1780 1588,1780 1588,1787 1576,1787 1558,1801 1535,1801 1502,1790 1453,1790 1383,1789 470,1782 397,1782" baseline="397,1781 1588,1781" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: . I K „ . | german_print2_15: d D. i 14. —, -->
+			<!-- line left out: id="r25l2" points="209,1872 433,1872 675,1821 708,1821 711,1827 773,1827 773,1817 829,1817 829,1852 859,1852 925,1853 968,1893 1579,1893 1579,1951 1395,1951 1307,1936 1228,1936 1228,1951 1065,1951 1060,1930 1001,1931 968,1931 864,1928 829,1927 829,1959 773,1959 773,1953 711,1953 708,1943 675,1943 209,1940" baseline="209,1919 432,1924 675,1924 924,1929 968,1930 1579,1937" reason: differs: "Vonſ" against "250p" | Wikisource:  | next_nc_e1: Von ſpott uogrien | german_print2_15:  VBonſpottvogren (AW. -->
+			<!-- line left out: id="r25l3" points="223,1948 370,1947 407,1947 407,1961 445,1958 460,1958 460,1943 489,1943 489,1958 500,1958 541,1960 561,1961 593,1957 600,1957 620,1965 650,1964 667,1964 667,1943 692,1943 739,1943 739,1965 770,1964 801,1964 898,1965 899,1956 933,1956 933,1967 952,1967 961,1952 999,1952 1000,1968 1040,1968 1068,1969 1077,1952 1119,1952 1138,1972 1170,1972 1170,1999 1077,1999 1000,1997 871,1995 801,1994 770,1994 739,1992 739,2012 715,2012 715,1994 692,1994 692,2012 667,2012 667,1992 600,1994 593,1994 560,1991 500,1990 489,1989 489,2012 460,2012 460,1988 426,1990 407,1990 407,1999 370,1999 287,2039 223,2039" baseline="223,1990 445,1989 599,1993 770,1993 1170,1997" reason: differs: "8Irn" against "elen" | Wikisource:  | next_nc_e1: 8 Ir narren/ wellen von mir leren | german_print2_15:  -->
+			<!-- line left out: id="r25l4" points="349,2035 506,2035 541,2010 576,2010 579,2025 598,2025 638,2024 668,2024 695,2028 697,2014 712,2014 712,2006 737,2006 737,2014 754,2014 754,2028 772,2028 796,2024 828,2024 868,2028 913,2029 915,2015 941,2015 945,2029 959,2029 969,2016 995,2016 998,2032 1018,2031 1041,2031 1055,2018 1102,2018 1103,2034 1123,2034 1194,2034 1202,2018 1253,2018 1293,2057 1427,2032 1443,2032 1495,2048 1501,2048 1501,2056 1495,2056 1443,2067 1427,2067 1293,2058 1253,2072 1202,2072 1194,2066 1142,2066 1123,2065 1103,2064 1102,2072 1055,2072 1041,2062 1018,2062 998,2061 969,2060 945,2059 941,2070 915,2070 913,2056 895,2058 828,2061 796,2061 794,2068 773,2068 772,2056 754,2056 754,2068 737,2068 737,2076 712,2076 697,2072 671,2070 668,2054 613,2055 579,2055 576,2063 541,2063 506,2039 349,2039" baseline="349,2055 505,2054 541,2054 638,2055 958,2059 1055,2062 1296,2067 1501,2067" reason: differs: "Anfa" against "lere" | Wikisource:  | next_nc_e1: Anfang der wyßheyt/ voꝛht des herren K) | german_print2_15:  -->
+			<!-- line left out: id="r25l5" points="219,2071 298,2071 392,2075 392,2066 419,2066 419,2074 452,2070 483,2070 483,2078 494,2078 494,2089 536,2089 537,2075 581,2074 601,2074 601,2066 623,2066 623,2090 634,2090 636,2078 682,2074 704,2074 704,2081 729,2077 755,2077 763,2074 784,2074 784,2091 825,2091 837,2080 846,2080 886,2080 895,2089 927,2089 938,2094 938,2078 1003,2078 1012,2096 1032,2096 1033,2084 1064,2084 1413,2120 1495,2120 1501,2084 1582,2084 1582,2144 1501,2144 1495,2150 1413,2150 1064,2128 1033,2128 1012,2126 1003,2137 938,2137 938,2122 928,2122 927,2131 895,2131 886,2121 863,2121 863,2133 837,2133 825,2121 784,2121 784,2138 763,2138 763,2129 746,2129 746,2119 727,2121 704,2121 704,2138 636,2138 634,2119 623,2119 623,2142 601,2142 601,2121 581,2121 560,2135 537,2135 536,2118 437,2120 419,2120 419,2142 392,2142 392,2132 368,2132 298,2169 219,2169" baseline="219,2116 368,2116 452,2117 837,2120 895,2121 1063,2126 1413,2127 1582,2128" reason: differs: "RAll" against "erre" | Wikisource:  | next_nc_e1: R All kunſt der heilgen iſt geſpꝛeit SE | german_print2_15:  -->
+			<!-- line left out: id="r25l6" points="218,2135 275,2135 299,2121 358,2121 367,2138 391,2134 417,2134 439,2140 462,2140 462,2134 489,2134 489,2152 509,2152 532,2154 574,2153 589,2153 589,2140 638,2140 638,2134 697,2134 697,2140 714,2140 747,2144 757,2140 779,2140 779,2156 790,2156 791,2143 819,2140 878,2140 878,2146 889,2146 889,2140 931,2140 947,2144 948,2160 967,2156 989,2156 989,2204 967,2204 948,2202 947,2187 931,2188 889,2189 878,2189 878,2206 857,2206 857,2198 840,2198 840,2206 819,2206 791,2202 790,2186 779,2186 779,2206 747,2206 720,2206 714,2195 697,2195 697,2210 638,2210 638,2195 589,2195 589,2183 573,2185 535,2185 510,2183 509,2192 489,2192 489,2210 462,2210 462,2186 439,2186 417,2210 391,2210 391,2203 367,2203 358,2181 299,2181 275,2200 218,2200" baseline="218,2181 367,2181 720,2186 989,2189" reason: differs: ".JIn" against "prei" | Wikisource:  | next_nc_e1: . J In den weg/ der fürſichtikeyt
+ | german_print2_15: V- D In den weg / der fürſichtikeyt
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r26">
+			<Coords points="369,2537 1254,2537 1254,2549 369,2549" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r27">
+			<Coords points="129,2537 1254,2537 1254,2549 129,2549" />
+		</SeparatorRegion>
+		<GraphicRegion id="r28">
+			<Coords points="1632,0 1826,0 1826,2549 1632,2549" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Es ist der narren guͦt enberen
+Sie allzyt mit steyn werffen gern
+Vnd wend keyn straff vnd wyßheyt lern
+center|250px
+Von spott vogelen.
+Ir narren / wellen von mir leren
+Anfang der wyßheyt / vorht des herren
+All kunst der heilgen ist gespreit
+In den weg / der fürsichtikeyt
+-->
+	</Page>
+</PcGts>

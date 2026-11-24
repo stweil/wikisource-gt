@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:28:07</Created>
+		<LastChange>2026-11-24T05:28:07</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0192.jpg revision 2883965 of 2016-08-18T14:01:41Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0192.jpg" imageWidth="1886" imageHeight="2564">
+		<ReadingOrder>
+			<OrderedGroup id="ro17399980550386556551" caption="Regions reading order">
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="15" regionRef="r15" />
+				<RegionRefIndexed index="17" regionRef="r17" />
+				<RegionRefIndexed index="20" regionRef="r20" />
+				<RegionRefIndexed index="21" regionRef="r21" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="1772,0 1886,0 1886,2564 1772,2564" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,864 0,864 0,1071 0,1071" />
+		</GraphicRegion>
+		<SeparatorRegion id="r2">
+			<Coords points="1490,505 1533,505 1533,1836 1490,1836" />
+		</SeparatorRegion>
+		<GraphicRegion id="r3">
+			<Coords points="0,1071 0,1071 0,1155 0,1155" />
+		</GraphicRegion>
+		<GraphicRegion id="r4">
+			<Coords points="0,1079 0,1079 0,1146 0,1146" />
+		</GraphicRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} readingDirection {top-to-bottom;} orientation {0;}">
+			<Coords points="1425,727 1506,727 1506,1256 1425,1256" />
+			<!-- line left out: id="r5l0" points="1506,727 1506,1208 1470,1208 1470,727" baseline="1473,727 1470,1208" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: n | german_print2_15: SEE f -->
+			<!-- line left out: id="r5l1" points="1485,769 1485,1070 1500,1094 1500,1138 1495,1256 1452,1256 1447,1138 1447,1094 1425,1070 1425,769" baseline="1446,769 1446,1094 1443,1256" reason: differs: "SS2" against "vil " | Wikisource:  | next_nc_e1: S S 2
+ | german_print2_15: H B S
+ -->
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="0,1108 0,1108 0,2104 0,2104" />
+		</GraphicRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="1188,1879 1444,1879 1444,2000 1188,2000" />
+			<TextLine id="r7l0" custom="readingOrder {index:0;}">
+				<Coords points="1188,1880 1217,1879 1277,1879 1341,1881 1387,1879 1444,1879 1444,1957 1343,1958 1341,2000 1275,2000 1275,1955 1217,1955 1215,1975 1188,1975" />
+				<Baseline points="1188,1955 1444,1958" />
+				<TextEquiv index="1">
+					<Unicode>jagen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>jagen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="473,1843 1240,1843 1240,2102 473,2102" />
+			<!-- line left out: id="r8l0" points="1191,1860 1213,1860 1232,1843 1240,1843 1240,1851 1232,1851 1213,1878 1191,1878" baseline="1191,1878 1240,1878" reason: differs: "cC" against "leyt" | Wikisource:  | next_nc_e1: cC | german_print2_15: C -->
+			<TextLine id="r8l1" custom="readingOrder {index:1;}">
+				<Coords points="473,2036 504,2036 504,2042 592,2040 592,2055 618,2050 698,2054 737,2052 756,2055 758,2043 777,2040 804,2040 804,2053 932,2055 990,2055 999,2042 1035,2042 1038,2056 1067,2053 1083,2053 1083,2042 1098,2042 1109,2056 1153,2056 1154,2043 1227,2045 1227,2096 1194,2096 1189,2087 1109,2086 1098,2094 1067,2094 1066,2086 877,2085 874,2094 831,2094 821,2085 618,2084 616,2098 592,2098 567,2094 544,2082 528,2086 504,2086 504,2102 473,2102" />
+				<Baseline points="473,2086 543,2083 944,2084 1227,2087" />
+				<TextEquiv index="1">
+					<Unicode>Vil ʒyt vertribt man on nutʒ mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Vil ʒyt vertribt man on nutʒ mit</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="1062,307 1285,307 1285,450 1062,450" />
+			<!-- line left out: id="r9l0" points="1107,307 1216,307 1216,322 1239,319 1258,319 1258,353 1240,353 1240,366 1209,366 1186,366 1186,353 1165,353 1165,366 1107,366" baseline="1107,366 1258,366" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ß dreyt | german_print2_15: ß dreyt -->
+			<!-- line left out: id="r9l1" points="1062,365 1091,365 1091,382 1109,382 1109,365 1134,365 1134,385 1151,385 1151,369 1175,369 1230,374 1237,365 1261,365 1261,383 1285,383 1285,430 1261,430 1261,450 1237,450 1230,431 1200,431 1175,425 1151,425 1151,416 1134,416 1134,450 1109,450 1109,425 1091,425 1091,450 1062,450" baseline="1062,431 1285,430" reason: differs: "pꝛuc" against "utz " | Wikisource:  | next_nc_e1: pꝛuch ſeyt
+ | german_print2_15: pꝛuch ſeyt
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r10">
+			<Coords points="929,1796 1348,1796 1348,1810 929,1810" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r11">
+			<Coords points="564,1821 1504,1821 1504,1851 564,1851" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r12">
+			<Coords points="502,462 1390,462 1390,500 502,500" />
+		</SeparatorRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="476,2099 1218,2099 1218,2230 476,2230" />
+			<TextLine id="r13l0" custom="readingOrder {index:0;}">
+				<Coords points="476,2106 582,2107 592,2119 611,2119 611,2104 679,2099 721,2099 744,2107 769,2107 769,2120 813,2119 826,2105 842,2104 919,2104 920,2120 971,2120 985,2104 1009,2104 1009,2121 1135,2121 1139,2111 1154,2106 1179,2106 1179,2149 1139,2148 1135,2155 1111,2155 1088,2161 1058,2161 1058,2167 1037,2167 1034,2150 945,2148 942,2162 920,2162 919,2148 848,2148 848,2163 826,2163 813,2148 788,2148 785,2162 744,2163 732,2149 721,2149 721,2171 679,2171 679,2149 476,2150" />
+				<Baseline points="476,2150 985,2147 1179,2148" />
+				<TextEquiv index="1">
+					<Unicode>Wie wol es ſyn ſol eyn kurtʒ wil</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r13l1" custom="readingOrder {index:1;}">
+				<Coords points="476,2167 560,2167 601,2169 602,2182 630,2182 652,2184 652,2168 687,2168 693,2181 736,2181 745,2167 778,2167 780,2182 892,2182 893,2169 918,2169 921,2182 966,2182 974,2168 1037,2168 1037,2174 1059,2174 1061,2184 1177,2184 1180,2173 1194,2171 1218,2171 1218,2215 1146,2216 1061,2214 1059,2230 1012,2230 1002,2215 921,2216 918,2228 893,2228 892,2215 745,2216 693,2213 687,2227 652,2227 652,2214 582,2215 582,2227 573,2227 560,2215 476,2215" />
+				<Baseline points="476,2215 693,2213 1218,2215" />
+				<TextEquiv index="1">
+					<Unicode>So darff es dannahat koſtens vil</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Wie wol es ſyn ſol eyn kurtʒ wil
+So darff es dannahat koſtens vil</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="483,1850 1174,1850 1174,1976 483,1976" />
+			<!-- line left out: id="r14l0" points="483,1850 627,1850 627,1875 717,1875 935,1876 1009,1878 1046,1877 1087,1877 1174,1881 1174,1955 1087,1955 1046,1953 1042,1976 1007,1976 1007,1954 935,1954 935,1976 881,1976 881,1953 850,1954 789,1959 732,1959 717,1951 627,1951 627,1957 483,1957" baseline="483,1957 716,1953 732,1953 1174,1955" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Hon unnutzem
+ | german_print2_15: BVonunnutzem
+ -->
+		</TextRegion>
+		<TextRegion id="r15" custom="readingOrder {index:15;} orientation {0;}">
+			<Coords points="402,1975 1111,1975 1111,2039 402,2039" />
+			<!-- line left out: id="r15l0" points="402,1976 473,1976 510,1979 510,1990 531,1985 565,1985 605,1991 620,1991 622,1980 638,1978 669,1978 680,1991 731,1991 731,1975 782,1975 788,1992 886,1990 902,1990 902,1978 922,1978 922,1992 953,1992 954,1978 981,1978 981,1992 1000,1990 1041,1990 1077,1993 1080,1980 1111,1980 1111,2022 1077,2027 1062,2027 1062,2021 1052,2021 1041,2033 1000,2033 1000,2020 981,2020 981,2031 954,2031 953,2021 933,2021 922,2020 922,2033 902,2033 902,2021 856,2021 843,2039 816,2039 814,2021 788,2021 782,2027 731,2027 731,2021 707,2021 680,2020 669,2037 638,2037 636,2020 622,2020 620,2035 605,2035 583,2014 402,2014" baseline="402,2019 1052,2021 1111,2022" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Jagen iſt ouch on narrheyt nit
+ | german_print2_15: dJagen iſt ouch on narrheyt nit
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r16">
+			<Coords points="486,464 519,464 519,1832 486,1832" />
+		</SeparatorRegion>
+		<TextRegion id="r17" custom="readingOrder {index:17;} orientation {0;}">
+			<Coords points="443,356 1074,356 1074,428 443,428" />
+			<!-- line left out: id="r17l0" points="443,356 489,356 565,359 565,366 607,363 626,363 626,378 646,378 648,363 699,363 703,377 743,377 753,364 781,364 801,365 801,379 819,379 819,361 845,361 853,378 874,378 925,379 996,380 1009,381 1009,369 1074,369 1074,428 1009,428 996,426 996,410 937,410 897,409 895,421 872,421 872,408 845,409 781,410 753,410 646,408 565,413 489,417 443,417" baseline="443,408 597,407 703,407 853,408 1074,410" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Wie wol er dick eyn weydſ
+ | german_print2_15: Wie wol er dick eyn weydſ
+ -->
+		</TextRegion>
+		<GraphicRegion id="r18">
+			<Coords points="383,301 1062,301 1062,2027 383,2027" />
+		</GraphicRegion>
+		<GraphicRegion id="r19">
+			<Coords points="0,2117 0,2117 0,2139 0,2139" />
+		</GraphicRegion>
+		<TextRegion id="r20" custom="readingOrder {index:20;} orientation {0;}">
+			<Coords points="430,231 1187,231 1187,305 430,305" />
+			<!-- line left out: id="r20l0" points="430,240 483,239 554,239 554,249 583,249 601,252 601,237 659,237 659,252 694,252 694,231 720,231 720,248 738,248 738,238 754,235 822,235 822,255 834,255 836,241 869,241 879,249 897,249 897,231 923,231 923,238 941,238 972,240 972,251 995,246 1030,246 1030,253 1047,253 1066,254 1082,241 1112,241 1112,256 1133,256 1133,241 1159,241 1159,248 1187,248 1187,288 1159,288 1159,301 1104,301 1104,285 1082,285 1030,284 1030,293 995,293 995,283 972,283 972,295 941,296 923,296 923,305 897,305 897,282 879,282 869,297 836,297 834,282 822,282 822,297 800,297 800,282 738,283 720,283 720,305 694,305 694,284 659,284 659,290 632,290 632,300 601,300 601,282 583,284 554,286 483,286 477,300 430,300" baseline="430,266 694,284 751,282 879,282 957,283 1082,285 1187,288" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Mancher vil koſt vff jagen leyt
+ | german_print2_15: 3 Mancher vil koſt vff jagen leyt
+ -->
+		</TextRegion>
+		<TextRegion id="r21" custom="readingOrder {index:21;} orientation {0;}">
+			<Coords points="421,295 1151,295 1151,363 421,363" />
+			<!-- line left out: id="r21l0" points="421,295 478,295 490,301 562,301 563,314 615,314 626,304 642,304 643,315 688,315 700,303 716,299 742,299 742,315 756,315 757,299 805,299 823,305 930,305 957,310 966,317 1056,317 1151,317 1151,349 1107,350 1068,350 1056,360 982,360 982,346 966,346 957,355 930,359 823,359 805,353 757,353 756,345 742,345 742,362 700,362 688,345 643,345 642,357 626,357 615,346 562,349 490,349 478,363 421,363" baseline="421,349 614,346 687,345 700,345 804,349 1151,349" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: Das jm doch wenig nutz vß
+ | german_print2_15:  Das jm doch wenig nntz vß
+ -->
+		</TextRegion>
+		<GraphicRegion id="r22">
+			<Coords points="0,0 449,0 449,2229 0,2229" />
+		</GraphicRegion>
+		<GraphicRegion id="r23">
+			<Coords points="0,2160 0,2160 0,2564 0,2564" />
+		</GraphicRegion>
+		<SeparatorRegion id="r24">
+			<Coords points="0,1752 20,1752 20,2290 0,2290" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Mancher vil kost vff jagen leyt
+Das jm doch wenig nutz vß dreyt
+Wie wol er dick eyn weydspruch seyt
+center|250px
+Von vnnutzem jagen
+Jagen ist ouch on narrheyt nit
+Vil zyt vertribt man on nutz mit
+Wie wol es syn sol eyn kurtz wil
+So darff es dannahat kostens vil
+-->
+	</Page>
+</PcGts>

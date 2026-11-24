@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:28:39</Created>
+		<LastChange>2026-11-24T05:28:39</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0214.jpg revision 2883985 of 2016-08-18T14:02:13Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0214.jpg" imageWidth="1897" imageHeight="2553">
+		<ReadingOrder>
+			<OrderedGroup id="ro13613375742196921687" caption="Regions reading order">
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="37" regionRef="r37" />
+				<RegionRefIndexed index="38" regionRef="r38" />
+				<RegionRefIndexed index="43" regionRef="r43" />
+				<RegionRefIndexed index="46" regionRef="r46" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="65,0 1099,0 1099,11 65,11" />
+		</SeparatorRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,0 1897,0 1897,158 0,158" />
+		</GraphicRegion>
+		<GraphicRegion id="r2">
+			<Coords points="321,249 330,249 330,381 321,381" />
+		</GraphicRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="328,193 1157,193 1157,348 328,348" />
+			<!-- line left out: id="r3l0" points="328,241 431,241 447,223 473,223 473,193 501,193 533,197 542,222 586,222 586,232 636,230 668,230 689,234 704,235 704,226 738,226 747,217 797,217 807,233 847,231 876,230 898,230 898,218 951,218 975,219 976,233 1005,232 1033,232 1111,233 1136,235 1136,264 1113,264 1111,275 1087,275 1087,263 1033,264 1005,264 1004,281 976,281 975,275 959,275 898,272 898,264 876,264 807,263 797,263 797,274 747,274 738,273 704,273 704,265 668,266 627,267 586,267 586,280 542,280 501,276 501,292 473,292 473,284 447,284 328,279" baseline="328,273 447,270 532,268 626,266 636,266 834,262 1136,259" reason: differs: "WIch" against "Ich " | Wikisource:  | next_nc_e1: W Ich hett vergeſſen nach jnn myr | german_print2_15: Ich hett vergeſſen nach jnn myr -->
+			<!-- line left out: id="r3l1" points="330,282 354,282 381,293 448,289 507,289 509,297 560,297 569,282 572,282 572,288 584,288 584,282 629,282 650,285 650,298 667,298 668,285 701,285 710,297 754,297 754,280 814,280 821,295 842,295 894,296 907,280 916,280 979,280 979,298 993,298 996,282 1033,282 1033,276 1071,276 1071,282 1080,282 1111,284 1137,288 1137,300 1157,300 1157,329 1137,329 1111,328 1111,342 1088,342 1071,341 1071,347 1033,347 1033,341 979,341 958,341 958,334 933,334 933,340 916,341 907,341 894,326 867,326 865,338 842,338 842,325 821,325 814,333 754,333 754,325 701,327 639,327 629,334 584,334 584,328 572,328 572,334 569,334 509,330 507,338 426,343 354,348 330,348" baseline="330,334 353,333 381,333 559,329 569,328 710,325 1033,321 1070,320 1157,319" reason: differs: "ſDas" against "n my" | Wikisource:  | next_nc_e1: ſ Das ich nit noch eyn ſchyff jn für
+ | german_print2_15: . G Das ich nit noch eyn ſchyff jn für
+ -->
+		</TextRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="330,343 1119,343 1119,405 330,405" />
+			<!-- line left out: id="r4l0" points="330,344 443,344 556,350 572,345 617,345 666,347 666,359 696,359 708,344 734,344 736,360 752,360 752,344 777,344 777,358 805,358 885,359 885,346 910,346 910,359 929,359 929,346 968,346 968,360 986,358 1030,358 1058,361 1059,343 1096,343 1096,361 1119,361 1119,391 1058,391 1037,391 1030,405 986,405 986,391 968,391 968,402 954,405 929,405 929,390 910,390 910,405 885,405 885,390 805,390 734,390 666,391 626,391 617,399 572,399 572,390 559,390 559,397 556,397 443,382 330,382" baseline="330,381 442,384 556,390 843,390 1119,391" reason: second model: differs: "(MιO" against "für " | Wikisource: Do ich der buren narrheyt ruͤr | next_nc_e1: Do ich der buren narrheyt ruͤr
+ | german_print2_15: (Mι Oo ich der buren narrheyt ruͤr
+ -->
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="375,221 1682,221 1682,381 375,381" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="353,249 363,249 363,327 353,327" />
+		</GraphicRegion>
+		<GraphicRegion id="r7">
+			<Coords points="306,371 1685,371 1685,597 306,597" />
+		</GraphicRegion>
+		<SeparatorRegion id="r8">
+			<Coords points="457,439 851,439 851,453 457,453" />
+		</SeparatorRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {3;}">
+			<Coords points="774,453 837,453 837,566 774,566" />
+			<!-- line left out: id="r9l0" points="774,453 837,453 837,566 774,566" baseline="805,566 805,453" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: —
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r10">
+			<Coords points="303,436 1685,436 1685,834 303,834" />
+		</GraphicRegion>
+		<SeparatorRegion id="r11">
+			<Coords points="1345,677 1477,677 1477,679 1345,679" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r12">
+			<Coords points="1398,677 1400,677 1400,793 1398,793" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r13">
+			<Coords points="1332,791 1412,791 1412,792 1332,792" />
+		</SeparatorRegion>
+		<GraphicRegion id="r14">
+			<Coords points="303,597 1685,597 1685,1099 303,1099" />
+		</GraphicRegion>
+		<SeparatorRegion id="r15">
+			<Coords points="1333,664 1337,664 1337,834 1333,834" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r16">
+			<Coords points="840,439 854,439 854,924 840,924" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r17">
+			<Coords points="601,601 603,601 603,915 601,915" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r18">
+			<Coords points="524,637 534,637 534,1057 524,1057" />
+		</SeparatorRegion>
+		<GraphicRegion id="r19">
+			<Coords points="303,834 1685,834 1685,1622 303,1622" />
+		</GraphicRegion>
+		<SeparatorRegion id="r20">
+			<Coords points="661,534 672,534 672,1342 661,1342" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r21">
+			<Coords points="637,579 650,579 650,1331 637,1331" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r22">
+			<Coords points="616,564 625,564 625,1371 616,1371" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r23">
+			<Coords points="587,565 603,565 603,1374 587,1374" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r24">
+			<Coords points="553,617 567,617 567,1369 553,1369" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r25">
+			<Coords points="571,664 583,664 583,1374 571,1374" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r26">
+			<Coords points="652,701 658,701 658,1342 652,1342" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r27">
+			<Coords points="508,706 531,706 531,1348 508,1348" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r28">
+			<Coords points="619,996 628,996 628,1371 619,1371" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r29">
+			<Coords points="631,540 641,540 641,1388 631,1388" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r30">
+			<Coords points="591,1001 607,1001 607,1387 591,1387" />
+		</SeparatorRegion>
+		<GraphicRegion id="r31">
+			<Coords points="1665,1557 1683,1557 1683,2042 1665,2042" />
+		</GraphicRegion>
+		<GraphicRegion id="r32">
+			<Coords points="1000,1622 1622,1622 1622,1727 1000,1727" />
+		</GraphicRegion>
+		<GraphicRegion id="r33">
+			<Coords points="303,1622 890,1622 890,2074 303,2074" />
+		</GraphicRegion>
+		<GraphicRegion id="r34">
+			<Coords points="1329,1635 1622,1635 1622,1687 1329,1687" />
+		</GraphicRegion>
+		<SeparatorRegion id="r35">
+			<Coords points="1463,525 1479,525 1479,1791 1463,1791" />
+		</SeparatorRegion>
+		<GraphicRegion id="r36">
+			<Coords points="303,1649 1597,1649 1597,2181 303,2181" />
+		</GraphicRegion>
+		<TextRegion id="r37" custom="readingOrder {index:37;} orientation {0;}">
+			<Coords points="402,1836 1478,1836 1478,2152 402,2152" />
+			<!-- line left out: id="r37l0" points="454,1869 519,1867 577,1866 636,1866 657,1844 712,1844 717,1866 777,1866 823,1867 825,1841 861,1840 957,1840 961,1866 1006,1864 1107,1862 1166,1862 1168,1836 1214,1836 1247,1837 1247,1864 1297,1859 1412,1859 1478,1863 1478,1964 1412,1964 1412,1941 1355,1941 1297,1940 1297,1965 1233,1965 1233,1947 1203,1947 1203,1938 1166,1942 1107,1942 1006,1941 961,1940 957,1961 861,1961 861,1941 823,1942 777,1943 712,1946 516,1949 454,1949" baseline="454,1949 635,1944 1094,1941 1478,1940" reason: models differ | Wikisource: von burschem vffgang | next_nc_e1: von burſchem uffgang
+ | german_print2_15: von burſchem vflgang
+ -->
+			<TextLine id="r37l1" custom="readingOrder {index:1;}">
+				<Coords points="402,1959 409,1959 455,1970 598,1968 598,1986 648,1981 779,1981 781,1969 811,1965 863,1965 871,1976 928,1976 1036,1979 1104,1977 1233,1977 1282,1979 1282,1981 1279,1981 1233,2009 838,2011 838,2028 781,2028 779,2009 752,2009 750,2025 725,2025 725,2011 525,2018 455,2018 409,1969 402,1969" />
+				<Baseline points="402,2018 561,2013 694,2011 1282,2007" />
+				<TextEquiv index="1">
+					<Unicode>Die buren eynfalt ettwann woꝛen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r37l2" points="455,2034 486,2030 519,2030 550,2030 550,2050 580,2050 581,2034 596,2034 610,2036 610,2030 657,2030 680,2033 680,2046 709,2045 736,2045 745,2029 774,2029 774,2045 787,2045 787,2029 812,2029 812,2045 824,2040 855,2040 935,2043 935,2037 969,2037 994,2041 1020,2043 1020,2037 1053,2037 1071,2042 1219,2042 1266,2043 1266,2075 1239,2075 1174,2074 1171,2087 1157,2087 1147,2074 1053,2074 1053,2083 1020,2083 1020,2074 994,2075 969,2075 969,2084 935,2084 935,2073 897,2074 866,2074 855,2083 824,2083 823,2075 812,2075 812,2083 787,2083 787,2075 736,2076 680,2076 680,2089 664,2089 610,2085 610,2076 596,2079 550,2079 550,2085 519,2085 486,2085 455,2084" baseline="455,2079 664,2076 854,2074 1157,2074 1266,2075" reason: differs: "Nüiwli" against "Nüwlic" | Wikisource:  | next_nc_e1: Nüiwlich jnn kurtz vergangenen joꝛen | german_print2_15: Nüwlich jnn kurtz vergangenen joꝛen -->
+			<TextLine id="r37l3" custom="readingOrder {index:3;}">
+				<Coords points="454,2096 482,2096 508,2098 508,2113 564,2113 564,2096 614,2096 614,2102 639,2102 641,2096 665,2096 665,2111 706,2108 827,2106 838,2093 867,2093 867,2109 889,2109 898,2095 925,2095 928,2108 974,2108 986,2094 1015,2094 1015,2108 1110,2109 1110,2138 898,2139 889,2152 864,2152 864,2138 706,2141 703,2152 682,2152 682,2141 614,2143 614,2152 590,2152 564,2148 508,2144 482,2144 482,2152 454,2152" />
+				<Baseline points="454,2144 888,2138 1110,2138" />
+				<TextEquiv index="1">
+					<Unicode>Gerechtikeyt was by den buren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Die buren eynfalt ettwann woꝛen
+Gerechtikeyt was by den buren</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r38" custom="readingOrder {index:38;} orientation {0;}">
+			<Coords points="453,2159 1240,2159 1240,2230 453,2230" />
+			<TextLine id="r38l0" custom="readingOrder {index:0;}">
+				<Coords points="453,2163 588,2162 588,2168 624,2163 641,2159 730,2159 739,2173 772,2173 773,2161 812,2159 853,2159 853,2172 888,2172 900,2160 935,2160 935,2172 953,2170 1032,2170 1056,2173 1058,2165 1087,2165 1143,2170 1240,2172 1240,2225 1211,2225 1211,2203 1194,2203 1194,2226 1143,2228 828,2228 773,2223 772,2209 739,2209 730,2230 624,2230 615,2206 588,2206 588,2225 551,2230 453,2230" />
+				<Baseline points="453,2225 1240,2225" />
+				<TextEquiv index="1">
+					<Unicode>Do ſie floch vß den ſtett vnd muren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Do ſie floch vß den ſtett vnd muren</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r39">
+			<Coords points="865,1734 1480,1734 1480,1814 865,1814" />
+		</GraphicRegion>
+		<GraphicRegion id="r40">
+			<Coords points="1000,1772 1016,1772 1016,1814 1000,1814" />
+		</GraphicRegion>
+		<GraphicRegion id="r41">
+			<Coords points="838,1798 856,1798 856,1819 838,1819" />
+		</GraphicRegion>
+		<SeparatorRegion id="r42">
+			<Coords points="465,1795 838,1795 838,1823 465,1823" />
+		</SeparatorRegion>
+		<TextRegion id="r43" custom="readingOrder {index:43;} orientation {0;}">
+			<Coords points="1618,1968 1638,1968 1638,1984 1618,1984" />
+			<!-- line left out: id="r43l0" points="1618,1968 1638,1968 1638,1984 1618,1984" baseline="1618,1984 1638,1984" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: D
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r44">
+			<Coords points="303,2042 1675,2042 1675,2212 303,2212" />
+		</GraphicRegion>
+		<SeparatorRegion id="r45">
+			<Coords points="3,1533 10,1533 10,2452 3,2452" />
+		</SeparatorRegion>
+		<TextRegion id="r46" custom="readingOrder {index:46;} orientation {0;}">
+			<Coords points="1539,1818 1715,1818 1715,1925 1539,1925" />
+			<!-- line left out: id="r46l0" points="1539,1826 1553,1826 1553,1818 1715,1818 1715,1925 1553,1925 1539,1922" baseline="1539,1922 1715,1925" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 44
+ | german_print2_15: .
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r47">
+			<Coords points="1861,635 1876,635 1876,1393 1861,1393" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r48">
+			<Coords points="1860,635 1875,635 1875,1749 1860,1749" />
+		</SeparatorRegion>
+		<GraphicRegion id="r49">
+			<Coords points="0,2506 1897,2506 1897,2553 0,2553" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Ich hett vergessen nach jnn myr
+Das ich nit noch eyn schyff jn für
+Do ich der buren narrheyt ruͤr
+center|250px
+von burschem vffgang
+Die buren eynfalt ettwann woren
+Nüwlich jnn kurtz vergangenen joren
+Gerechtikeyt was by den buren
+Do sie floch vß den stett vnd muren
+-->
+	</Page>
+</PcGts>

@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:26:08</Created>
+		<LastChange>2026-11-24T05:26:08</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0108.jpg revision 2883883 of 2016-08-18T13:59:32Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0108.jpg" imageWidth="1861" imageHeight="2531">
+		<ReadingOrder>
+			<OrderedGroup id="ro9710315740301580129" caption="Regions reading order">
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="19" regionRef="r19" />
+				<RegionRefIndexed index="20" regionRef="r20" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 129,0 129,369 0,369" />
+		</GraphicRegion>
+		<SeparatorRegion id="r1">
+			<Coords points="0,136 13,136 13,1003 0,1003" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r2">
+			<Coords points="0,136 14,136 14,1199 0,1199" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r3">
+			<Coords points="0,1695 7,1695 7,2205 0,2205" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r4">
+			<Coords points="907,0 1399,0 1399,13 907,13" />
+		</SeparatorRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="328,191 1201,191 1201,400 328,400" />
+			<!-- line left out: id="r5l0" points="328,215 426,215 438,198 510,198 511,213 552,213 555,191 584,191 584,212 599,212 600,202 626,202 626,208 658,208 658,215 678,215 678,201 705,201 749,202 750,215 779,215 796,216 796,191 820,191 820,208 859,206 876,206 876,218 904,217 919,217 941,202 972,202 1004,206 1004,222 1022,222 1022,207 1038,202 1061,202 1061,222 1098,222 1108,209 1172,209 1172,225 1199,225 1199,260 1172,260 1172,271 1108,271 1098,254 1061,254 1061,264 1022,264 1022,250 1003,250 956,249 956,264 941,264 919,248 904,248 876,247 876,260 859,260 837,249 820,249 820,275 796,275 796,246 779,247 750,247 749,260 728,260 705,246 658,246 658,255 623,255 623,246 599,247 584,247 584,275 555,275 552,245 510,248 438,248 426,262 328,262" baseline="328,229 551,236 555,237 704,241 836,245 918,248 941,249 1097,255 1108,255 1199,258" reason: second model: differs: "MWWe" against "Wer " | Wikisource: Wer vogel/ hund/ jnn kirchen fuͤrt | next_nc_e1: Wer vogel/ hund/ jnn kirchen furt | german_print2_15: MW Wer voͤgel / hund / jnn kirchen fuͤrt -->
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="343,261 426,261 493,265 495,271 571,271 571,278 619,279 619,271 649,271 651,278 692,278 702,264 755,264 755,276 803,275 803,257 847,257 847,275 867,275 886,266 912,266 912,281 931,279 953,279 953,266 974,266 974,282 1013,282 1024,272 1039,272 1042,286 1099,285 1099,319 1061,318 1042,315 1039,328 1024,328 1013,314 886,314 847,312 847,332 803,332 803,312 702,312 591,309 553,312 440,311 426,325 343,325" />
+				<Baseline points="343,307 552,311 691,309 886,311 1024,315 1099,319" />
+				<TextEquiv index="1">
+					<Unicode>Vnd ander lüt/ am betten jrrt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r5l2" points="387,321 426,321 439,327 511,327 512,340 553,340 564,328 588,328 588,341 603,341 604,328 676,326 696,326 699,342 743,342 756,336 788,336 788,343 807,343 807,328 831,328 831,344 843,344 845,328 891,328 901,346 921,346 921,333 996,333 1011,337 1033,338 1033,350 1054,350 1054,339 1068,337 1117,337 1117,353 1140,352 1173,352 1201,356 1201,388 1117,393 1092,393 1092,400 1068,400 1068,381 1055,381 1055,400 1011,400 999,400 996,378 921,378 901,376 891,386 845,386 843,374 831,374 831,386 807,386 807,374 788,374 788,382 756,382 743,372 696,374 676,374 656,386 633,386 633,373 604,373 588,370 588,386 564,386 553,371 512,371 511,377 439,377 426,358 387,358" baseline="387,357 552,367 564,368 655,373 756,373 901,376 995,379 999,380 1132,386 1201,390" reason: second model: differs: "SDer" against "Der " | Wikisource: Der selb/ den gouch wol stricht vn | next_nc_e1: Der ſelb/ den gouch wol ſtricht vn
+ | german_print2_15: SDer ſelb / den gouch wol ſtricht vn
+ -->
+			<TextEquiv index="1">
+				<Unicode>Vnd ander lüt/ am betten jrrt</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r6">
+			<Coords points="272,209 1663,209 1663,587 272,587" />
+		</GraphicRegion>
+		<GraphicRegion id="r7">
+			<Coords points="272,405 718,405 718,491 272,491" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="480,587 1663,587 1663,623 480,623" />
+		</GraphicRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {3;}">
+			<Coords points="462,456 485,456 485,628 462,628" />
+			<!-- line left out: id="r9l0" points="462,456 485,456 485,628 462,628" baseline="472,628 473,456" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: V
+ | german_print2_15: De
+ -->
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {3;}">
+			<Coords points="450,519 510,519 510,829 450,829" />
+			<!-- line left out: id="r10l0" points="450,519 510,519 510,829 450,829" baseline="496,829 499,519" reason: second model: no text of Wikisource found | Wikisource: sc | next_nc_e1: Sc
+ | german_print2_15: DYY
+ -->
+		</TextRegion>
+		<GraphicRegion id="r11">
+			<Coords points="272,587 1663,587 1663,1113 272,1113" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="422,719 1663,719 1663,1220 422,1220" />
+		</GraphicRegion>
+		<SeparatorRegion id="r13">
+			<Coords points="527,611 538,611 538,1104 527,1104" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r14">
+			<Coords points="579,785 587,785 587,1164 579,1164" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r15">
+			<Coords points="1166,628 1187,628 1187,1172 1166,1172" />
+		</SeparatorRegion>
+		<GraphicRegion id="r16">
+			<Coords points="422,1113 1663,1113 1663,1899 422,1899" />
+		</GraphicRegion>
+		<SeparatorRegion id="r17">
+			<Coords points="775,1183 1087,1183 1087,1195 775,1195" />
+		</SeparatorRegion>
+		<GraphicRegion id="r18">
+			<Coords points="1455,1700 1663,1700 1663,2202 1455,2202" />
+		</GraphicRegion>
+		<TextRegion id="r19" custom="readingOrder {index:19;} orientation {0;}">
+			<Coords points="191,1226 1580,1226 1580,1981 191,1981" />
+			<!-- line left out: id="r19l0" points="267,1236 370,1236 377,1226 409,1226 409,1289 377,1289 370,1280 267,1280" baseline="267,1272 409,1273" reason: differs: "S2" against "hmye" | Wikisource:  | next_nc_e1: S2 | german_print2_15:  -->
+			<!-- line left out: id="r19l1" points="368,1367 397,1367 397,1404 368,1404" baseline="368,1404 397,1404" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: C | german_print2_15: S -->
+			<!-- line left out: id="r19l2" points="191,1836 376,1836 415,1818 520,1818 526,1846 569,1846 569,1824 625,1824 629,1851 663,1848 722,1848 761,1853 761,1823 861,1823 883,1849 971,1849 992,1843 1048,1843 1097,1848 1143,1853 1166,1824 1224,1824 1224,1851 1300,1851 1334,1852 1334,1826 1397,1826 1400,1852 1464,1848 1580,1848 1580,1981 1464,1981 1445,1927 1400,1927 1397,1949 1334,1949 1334,1924 1300,1928 1254,1928 1253,1922 1224,1926 1143,1927 1048,1927 992,1927 883,1924 861,1943 761,1943 761,1923 662,1923 569,1923 526,1920 520,1926 415,1926 376,1957 191,1957" baseline="191,1924 860,1922 883,1922 1166,1927 1580,1918" reason: hyphen at the line end, but the word ends in Wikisource | Wikisource:  | next_nc_e1: Gebꝛacht in der kirchẽ⸗
+ | german_print2_15: MäBebꝛacht in der kirchẽ
+ -->
+		</TextRegion>
+		<TextRegion id="r20" custom="readingOrder {index:20;} orientation {0;}">
+			<Coords points="291,1941 1250,1941 1250,2203 291,2203" />
+			<!-- line left out: id="r20l0" points="378,1982 417,1946 490,1946 490,1957 545,1957 552,1945 581,1945 584,1958 611,1958 632,1959 633,1946 668,1946 675,1961 689,1961 689,1949 750,1948 769,1948 769,1960 784,1959 807,1955 840,1955 905,1957 920,1963 942,1963 942,1941 963,1941 963,1961 974,1961 1002,1948 1030,1948 1048,1949 1048,1962 1067,1962 1088,1948 1113,1948 1121,1951 1121,1959 1149,1959 1197,1963 1197,1994 1149,1994 1149,2002 1113,2002 1088,2002 1067,1992 1030,1993 1002,1993 963,1990 963,2011 942,2011 942,1990 905,1994 876,1994 874,1988 861,1989 840,1989 840,1999 807,1999 807,1990 784,1990 769,1989 769,2007 750,2007 736,1990 675,1990 668,2003 633,2003 632,1989 581,1990 565,1990 565,2003 552,2003 545,1989 490,1994 417,1994 378,1984" baseline="378,1984 544,1989 552,1989 973,1990 1088,1992 1197,1994" reason: differs: "Maanda" against "Man da" | Wikisource:  | next_nc_e1: Maan darff nit fragen/ wer die ſigen | german_print2_15: Man darff nit fragen / wer die ſigen -->
+			<TextLine id="r20l1" custom="readingOrder {index:1;}">
+				<Coords points="291,2009 534,2009 538,2022 586,2022 598,2009 626,2009 630,2023 663,2023 673,2010 702,2010 703,2024 723,2024 723,2010 748,2010 748,2016 792,2016 803,2023 879,2024 890,2007 931,2007 973,2007 997,2009 997,2029 1018,2026 1046,2026 1083,2010 1133,2010 1133,2028 1170,2030 1170,2023 1204,2023 1222,2027 1250,2028 1250,2060 1204,2059 1204,2068 1174,2071 1149,2071 1149,2056 1133,2056 1133,2065 1104,2065 1104,2071 1069,2071 1046,2056 997,2055 997,2064 948,2064 948,2054 906,2055 906,2064 890,2064 879,2052 820,2053 817,2067 803,2067 792,2055 748,2055 748,2065 723,2065 723,2054 703,2054 702,2065 673,2065 663,2052 626,2054 506,2054 496,2066 291,2068" />
+				<Baseline points="291,2053 1069,2055 1250,2060" />
+				<TextEquiv index="1">
+					<Unicode>By den die hund jnn kilchen ſchꝛygen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r20l2" points="419,2070 478,2070 485,2087 521,2086 539,2086 624,2086 663,2087 680,2088 683,2076 724,2076 724,2063 755,2063 755,2073 769,2073 771,2087 798,2086 824,2083 870,2083 889,2087 908,2089 908,2082 940,2078 955,2078 955,2085 981,2082 1010,2082 1010,2063 1077,2063 1077,2082 1107,2077 1134,2077 1138,2093 1160,2093 1160,2077 1186,2077 1186,2088 1214,2088 1214,2132 1186,2134 1160,2134 1160,2122 1138,2122 1134,2134 1107,2134 1092,2124 1077,2124 1077,2138 1010,2138 1010,2124 983,2129 949,2129 949,2118 937,2121 908,2121 889,2118 872,2117 870,2130 824,2130 817,2118 799,2119 771,2119 769,2132 755,2132 755,2138 724,2138 724,2130 683,2130 680,2118 624,2118 478,2120 419,2120" baseline="419,2116 509,2116 728,2117 1010,2121 1107,2121 1214,2122" reason: second model has no such line | Wikisource: So man meß hat/ predig/ vnd singt | next_nc_e1: So man meß hat/ pꝛedig/ vnd ſingt | german_print2_15:  -->
+			<!-- line left out: id="r20l3" points="301,2138 433,2138 540,2136 589,2136 616,2138 616,2132 641,2132 641,2151 649,2151 678,2136 700,2132 725,2132 725,2151 747,2151 766,2138 795,2138 795,2151 811,2151 811,2136 832,2136 848,2137 862,2136 907,2136 992,2138 992,2156 1018,2154 1068,2149 1099,2149 1119,2152 1119,2188 1099,2188 1099,2195 1068,2195 1068,2185 1043,2185 1041,2197 1018,2197 1015,2186 992,2186 992,2199 937,2199 913,2199 862,2196 862,2184 832,2184 832,2196 811,2196 811,2184 795,2184 795,2195 766,2195 747,2184 725,2184 725,2203 700,2203 700,2185 678,2185 641,2182 641,2203 616,2203 616,2185 599,2185 589,2194 483,2194 483,2181 460,2184 433,2184 433,2194 301,2194" baseline="301,2178 540,2181 906,2184 1119,2187" reason: second model: differs: "◻Ode" against "sing" | Wikisource: Oder by den der habich schwyngt | next_nc_e1:  Oder by den der habich ſchwyngt
+ | german_print2_15: ◻Oder by den der habich ſchwyngt
+ -->
+			<TextEquiv index="1">
+				<Unicode>By den die hund jnn kilchen ſchꝛygen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r21">
+			<Coords points="663,0 1861,0 1861,166 663,166" />
+		</GraphicRegion>
+		<SeparatorRegion id="r22">
+			<Coords points="1846,1385 1861,1385 1861,2263 1846,2263" />
+		</SeparatorRegion>
+		<GraphicRegion id="r23">
+			<Coords points="390,2228 1861,2228 1861,2531 390,2531" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Wer vogel / hund / jnn kirchen fuͤrt
+Vnd ander lüt / am betten jrrt
+Der selb / den gouch wol stricht vnd schmyert
+center|250px
+Gebracht in der kirchen
+Man darff nit fragen / wer die sigen
+By den die hund jnn kilchen schrygen
+So man meß hat / predig / vnd singt
+Oder by den der habich schwyngt
+-->
+	</Page>
+</PcGts>

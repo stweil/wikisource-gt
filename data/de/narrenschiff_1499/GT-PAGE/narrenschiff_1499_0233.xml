@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:29:07</Created>
+		<LastChange>2026-11-24T05:29:07</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0233.jpg revision 2889567 of 2016-08-18T17:06:53Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0233.jpg" imageWidth="1832" imageHeight="2533">
+		<ReadingOrder>
+			<OrderedGroup id="ro9764785159361472425" caption="Regions reading order">
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="16" regionRef="r16" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 1565,0 1565,1262 0,1262" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,291 115,291 115,297 0,297" />
+		</GraphicRegion>
+		<SeparatorRegion id="r2">
+			<Coords points="126,0 450,0 450,11 126,11" />
+		</SeparatorRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="297,189 1228,189 1228,384 297,384" />
+			<!-- line left out: id="r3l0" points="297,220 354,220 367,199 440,199 443,209 480,209 491,194 537,194 573,196 574,208 584,208 584,194 605,194 605,206 636,202 670,202 670,208 715,207 734,207 780,210 798,213 798,198 834,198 834,189 855,189 855,198 871,196 894,196 894,189 920,189 920,195 935,195 935,189 961,189 961,209 982,209 982,189 1002,189 1019,197 1060,197 1060,189 1086,189 1086,213 1107,213 1107,189 1133,189 1133,211 1153,211 1153,189 1179,189 1179,198 1202,198 1202,244 1179,244 1179,263 1153,263 1153,245 1133,245 1133,263 1107,263 1107,244 1086,244 1086,263 1060,263 1060,256 1039,259 1002,263 982,263 982,245 961,245 961,263 935,263 935,251 920,251 920,263 894,263 894,244 872,244 872,259 855,263 834,263 834,245 798,245 780,244 751,244 715,243 696,243 670,241 670,250 636,250 632,240 605,240 605,255 584,255 584,239 574,239 573,255 540,255 537,238 517,238 517,252 499,255 491,255 480,239 443,239 440,253 367,253 354,235 297,235" baseline="297,236 491,238 636,240 1202,245" reason: second model: differs: "VWer" against "Wer " | Wikisource: Wer laͤstert gott mit fluͦchen/ schweren | next_nc_e1: Wer laſtert gott mit flůchen/ ſchweren | german_print2_15: VWer laͤſtert gott mit flůchen / ſchweren -->
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="373,260 437,260 439,272 478,272 486,258 509,258 509,273 525,273 525,259 568,259 576,274 620,275 621,263 666,260 732,260 732,276 780,278 781,270 795,270 795,260 820,260 837,274 864,274 877,278 890,279 931,266 964,264 1038,264 1038,276 1101,278 1228,277 1228,309 1009,310 1009,324 931,324 890,308 864,311 837,311 820,320 795,320 795,310 781,310 755,306 755,320 706,320 706,312 691,312 691,320 666,320 655,305 493,304 437,307 373,307" />
+				<Baseline points="373,302 666,304 819,309 1228,308" />
+				<TextEquiv index="1">
+					<Unicode>Der lebt mit ſchand/ vnd ſtyrbt on eren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l2" points="370,329 392,326 469,322 496,322 499,337 545,333 578,333 585,325 612,325 615,339 654,339 664,328 687,328 687,343 702,343 702,326 793,326 793,339 816,339 869,341 869,329 928,329 935,342 952,342 952,333 1007,330 1035,330 1067,333 1067,341 1087,341 1224,342 1224,374 1177,374 1067,374 1038,373 1035,380 1007,380 997,374 952,374 935,373 928,383 869,383 869,373 854,373 852,382 826,382 816,370 793,370 793,382 788,384 745,384 702,384 702,370 687,370 687,384 664,384 654,369 612,370 578,372 545,372 496,369 482,372 469,372 402,370 370,370" baseline="370,370 459,368 469,368 826,371 935,372 1224,375" reason: second model: differs: "uͦtwvere" against "t weren" | Wikisource: We dem/ der sollchs ouch nit duͦt weren | next_nc_e1: We dem/ der ſollchs ouch nit důt weren
+ | german_print2_15: We dem / der ſollchs ouch nit důt wveren
+ -->
+			<TextEquiv index="1">
+				<Unicode>Der lebt mit ſchand/ vnd ſtyrbt on eren</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r4">
+			<Coords points="368,409 864,409 864,426 368,426" />
+		</SeparatorRegion>
+		<GraphicRegion id="r5">
+			<Coords points="1410,228 1605,228 1605,486 1410,486" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="210,1081 1589,1081 1589,1273 210,1273" />
+		</GraphicRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {3;}">
+			<Coords points="1270,1175 1339,1175 1339,1245 1270,1245" />
+			<!-- line left out: id="r7l0" points="1270,1175 1339,1175 1339,1245 1270,1245" baseline="1332,1245 1338,1175" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: E
+ | german_print2_15: O
+ -->
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="210,1262 1589,1262 1589,2193 210,2193" />
+		</GraphicRegion>
+		<SeparatorRegion id="r9">
+			<Coords points="516,1099 521,1099 521,1551 516,1551" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r10">
+			<Coords points="524,1099 531,1099 531,1557 524,1557" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r11">
+			<Coords points="597,1155 604,1155 604,1542 597,1542" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r12">
+			<Coords points="1374,1274 1387,1274 1387,1580 1374,1580" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r13">
+			<Coords points="650,1653 959,1653 959,1654 650,1654" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r14">
+			<Coords points="362,1762 1387,1762 1387,1774 362,1774" />
+		</SeparatorRegion>
+		<GraphicRegion id="r15">
+			<Coords points="205,1893 354,1893 354,2017 205,2017" />
+		</GraphicRegion>
+		<TextRegion id="r16" custom="readingOrder {index:16;} orientation {0;}">
+			<Coords points="220,1924 1092,1924 1092,2189 220,2189" />
+			<TextLine id="r16l0" custom="readingOrder {index:0;}">
+				<Coords points="220,1925 364,1924 427,1924 481,1928 481,1934 502,1934 504,1941 524,1941 524,1928 564,1928 583,1929 586,1940 784,1945 795,1931 810,1927 853,1927 863,1944 888,1944 890,1932 916,1929 1015,1927 1016,1945 1091,1946 1091,1975 971,1974 965,1983 916,1983 916,1975 863,1974 853,1982 810,1982 810,1972 784,1974 605,1972 586,1969 583,1986 539,1986 539,1969 504,1970 502,1980 481,1980 481,1986 470,1986 463,1969 427,1972 364,1972 358,1979 220,1979" />
+				<Baseline points="220,1967 1091,1975" />
+				<TextEquiv index="1">
+					<Unicode>Die groͤſten narren ich ouch kenn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r16l1" points="333,2012 360,1989 428,1989 471,1988 479,1988 532,1988 541,2005 551,2005 552,1993 586,1993 586,2003 599,2003 670,2005 670,1994 685,1994 710,1995 721,2009 760,2009 762,1995 777,1995 777,2008 806,2007 875,2007 906,2009 924,1994 955,1994 975,1996 986,2009 1015,2008 1033,2008 1073,2009 1092,2010 1092,2040 1033,2040 986,2039 955,2038 955,2053 924,2053 906,2038 806,2038 721,2037 710,2049 685,2049 685,2035 584,2035 552,2034 541,2033 532,2042 479,2042 471,2042 464,2034 428,2037 360,2037 333,2015" baseline="333,2032 471,2033 924,2038 1092,2040" reason: second model has no such line | Wikisource: Die ich nit weiß wie man sie nenn | next_nc_e1: Die ich nit weiß wie man ſie nenn | german_print2_15:  -->
+			<!-- line left out: id="r16l2" points="235,1989 461,1989 475,2070 487,2069 503,2069 503,2057 544,2054 569,2054 569,2069 588,2069 615,2070 618,2052 662,2052 662,2064 695,2064 702,2070 728,2070 781,2071 781,2056 837,2056 837,2072 870,2072 879,2059 909,2059 936,2063 937,2074 950,2074 952,2065 981,2065 981,2105 952,2105 910,2102 909,2116 879,2116 870,2101 837,2106 781,2106 766,2102 728,2101 702,2101 695,2109 637,2109 637,2098 569,2099 503,2099 487,2099 475,2098 461,2147 235,2147" baseline="235,2096 544,2098 879,2101 981,2104" reason: differs: "Snit" against "Die " | Wikisource:  | next_nc_e1: S nit benüͤgt an aller ſünd | german_print2_15: Se nit benuͤgt an aller ſünd -->
+			<!-- line left out: id="r16l3" points="236,2145 252,2145 252,2109 359,2109 359,2118 415,2118 415,2126 468,2126 468,2105 497,2105 497,2117 519,2117 523,2131 543,2131 604,2122 645,2119 669,2119 679,2122 679,2135 707,2132 725,2132 737,2122 763,2122 766,2136 784,2133 838,2133 838,2125 856,2122 930,2122 930,2136 948,2136 960,2119 989,2119 989,2137 1009,2135 1034,2135 1036,2127 1071,2127 1071,2186 1036,2186 1034,2166 1009,2166 1007,2179 984,2179 984,2167 930,2167 907,2167 906,2181 856,2181 856,2166 838,2170 763,2171 737,2171 707,2170 677,2166 669,2181 645,2181 636,2164 519,2167 497,2167 497,2189 468,2189 468,2168 359,2168 359,2185 252,2185 252,2162 236,2162" baseline="236,2167 542,2165 645,2165 724,2169 821,2167 947,2166 1071,2166" reason: differs: "EVnd" against "sünd" | Wikisource:  | next_nc_e1: EVnd das ſie ſint des tüfels kynd
+ | german_print2_15: VVnd das ſie ſint des tüfels kynd
+ -->
+			<TextEquiv index="1">
+				<Unicode>Die groͤſten narren ich ouch kenn</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r17">
+			<Coords points="0,2506 1832,2506 1832,2533 0,2533" />
+		</GraphicRegion>
+		<SeparatorRegion id="r18">
+			<Coords points="508,2522 1830,2522 1830,2532 508,2532" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Wer laͤstert gott mit fluͦchen / schweren
+Der lebt mit schand / vnd styrbt on eren
+We dem / der sollchs ouch nit duͦt weren
+center|250px
+Von gottes lesteren
+Die groͤsten narren ich ouch kenn
+Die ich nit weiß wie man sie nenn
+Die nit benuͤgt an aller sünd
+Vnd das sie sint des tüfels kynd
+-->
+	</Page>
+</PcGts>

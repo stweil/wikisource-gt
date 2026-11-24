@@ -1,0 +1,37 @@
+# Contributors of the Wikisource text
+
+Work: Sebastian Brant: Das Narrenschiff, Basel 1499 (de.wikisource.org)
+
+Users who edited the pages used here (number of pages), from the page
+histories as fetched:
+
+- Joergens.mi (324)
+- ThomasBot (324)
+- PDDbot (324)
+- ArndBot (323)
+- Rabe Socke (281)
+- AndreasPraefcke (199)
+- Xarax (169)
+- Paulis (125)
+- DivineDanteRay (110)
+- FrobenChristoph (75)
+- Balû (58)
+- Jonathan Groß (53)
+- Catrin (37)
+- Euphrosyne~dewikisource (24)
+- TenshiBot (24)
+- A. Wagner (20)
+- PAD~dewikisource (10)
+- Tosca (9)
+- Rudolph H (6)
+- ThomasKloiber (6)
+- WaldiWuff (4)
+- Gustavf (4)
+- Fkraus (2)
+- Tolanor (2)
+- Schaengel89 (1)
+- PDD (1)
+- Mapmarks (1)
+- AkBot (1)
+- Felistoria (1)
+- Beate (1)

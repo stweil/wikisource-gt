@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:28:14</Created>
+		<LastChange>2026-11-24T05:28:14</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0197.jpg revision 2883970 of 2016-08-18T14:01:49Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0197.jpg" imageWidth="1838" imageHeight="2541">
+		<ReadingOrder>
+			<OrderedGroup id="ro17612888942048027908" caption="Regions reading order">
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="20" regionRef="r20" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="501,0 814,0 814,8 501,8" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r1">
+			<Coords points="261,0 814,0 814,14 261,14" />
+		</SeparatorRegion>
+		<GraphicRegion id="r2">
+			<Coords points="0,0 1838,0 1838,172 0,172" />
+		</GraphicRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="250,201 1266,201 1266,456 250,456" />
+			<!-- line left out: id="r3l0" points="378,205 407,205 451,205 451,216 468,216 468,205 493,205 493,216 524,216 531,206 579,206 579,215 597,214 616,214 664,211 684,207 722,207 723,215 761,214 783,214 783,201 827,201 827,214 845,213 874,213 890,202 909,202 909,214 930,214 930,202 954,202 954,212 973,212 973,202 1001,202 1001,259 973,259 973,246 954,246 954,259 930,259 930,247 909,247 909,259 890,259 874,246 846,247 827,248 704,250 664,250 616,249 597,249 579,248 579,262 531,262 524,250 493,253 433,253 378,253" baseline="378,253 523,250 654,248 1001,246" reason: differs: "ervoͤnal" against "r von a" | Wikisource:  | next_nc_e1: Ritter Peter voͤn alten joꝛen
+ | german_print2_15: Ritter Peter von alten joꝛen
+ -->
+			<TextLine id="r3l1" custom="readingOrder {index:1;}">
+				<Coords points="382,272 464,271 469,282 498,282 498,266 574,266 600,268 681,266 691,266 711,269 711,281 731,281 731,269 746,266 783,266 783,279 889,280 897,266 925,266 944,267 944,279 999,277 1017,275 1064,276 1064,308 925,312 783,310 783,325 746,325 746,310 731,312 711,312 711,321 691,325 681,325 615,322 614,312 600,312 600,322 574,325 498,325 498,314 469,314 464,324 432,325 382,325" />
+				<Baseline points="382,315 1064,307" />
+				<TextEquiv index="1">
+					<Unicode>Ich muͦß üch griffen an die oꝛen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r3l2" points="250,324 404,324 404,335 488,335 514,340 514,327 541,327 541,338 554,338 555,344 575,344 602,345 623,347 623,327 666,327 694,331 694,314 759,314 759,331 773,330 858,329 887,329 887,342 906,342 929,344 929,333 958,333 969,342 999,340 1021,339 1048,339 1133,338 1167,334 1238,334 1266,335 1266,370 1238,372 1189,372 1115,374 1048,374 958,375 929,375 929,386 905,386 905,372 887,374 824,374 766,378 759,378 759,392 694,392 694,378 664,378 623,376 554,379 541,379 541,387 493,387 488,377 452,377 449,384 377,384 250,381" baseline="250,381 487,378 758,374 848,373 1133,373 1266,369" reason: second model: differs: "WMir" against "Mir " | Wikisource: Mir gdenckt/ das wir beyd narren woren | next_nc_e1:  Hir gdenckt/ das wir beyd narren woꝛen | german_print2_15: WMir gdenckt / das wir beyd narren woꝛen -->
+			<!-- line left out: id="r3l3" points="362,435 469,435 491,411 501,411 543,410 568,410 570,394 587,394 622,398 625,408 640,408 654,392 712,392 712,407 800,407 800,394 816,394 816,404 834,403 852,403 852,394 873,394 873,405 892,404 917,404 929,391 955,391 955,404 974,404 975,393 1002,393 1002,404 1040,404 1067,405 1067,436 1040,436 1040,445 1018,445 1018,435 1002,436 975,436 974,447 955,450 929,450 917,436 894,437 873,438 834,438 800,437 767,438 712,438 712,456 654,456 640,438 625,438 622,452 605,452 587,439 568,440 541,442 456,443 367,446 362,446" baseline="362,446 468,442 654,438 766,437 916,436 1067,435" reason: second model: differs: "Wiew" against "wore" | Wikisource: Wie wol/ jr fuͤren ritters sporen | next_nc_e1: Wie wol/ jr fůren ritters ſpoꝛen
+ | german_print2_15: Wie wol / jr fůren ritters ſpoꝛen
+ -->
+			<TextEquiv index="1">
+				<Unicode>Ich muͦß üch griffen an die oꝛen</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="240,228 380,228 380,409 240,409" />
+		</GraphicRegion>
+		<GraphicRegion id="r5">
+			<Coords points="237,228 1619,228 1619,424 237,424" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="227,293 378,293 378,505 227,505" />
+		</GraphicRegion>
+		<GraphicRegion id="r7">
+			<Coords points="349,296 379,296 379,409 349,409" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="227,409 1619,409 1619,637 227,637" />
+		</GraphicRegion>
+		<SeparatorRegion id="r9">
+			<Coords points="509,568 595,568 595,569 509,569" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r10">
+			<Coords points="487,605 595,605 595,609 487,609" />
+		</SeparatorRegion>
+		<GraphicRegion id="r11">
+			<Coords points="227,505 1620,505 1620,1928 227,1928" />
+		</GraphicRegion>
+		<SeparatorRegion id="r12">
+			<Coords points="587,550 595,550 595,705 587,705" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r13">
+			<Coords points="532,565 540,565 540,720 532,720" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r14">
+			<Coords points="1340,664 1348,664 1348,1020 1340,1020" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r15">
+			<Coords points="384,575 402,575 402,1143 384,1143" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r16">
+			<Coords points="923,1306 1370,1306 1370,1321 923,1321" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r17">
+			<Coords points="1001,1411 1363,1411 1363,1424 1001,1424" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r18">
+			<Coords points="824,1810 1313,1810 1313,1825 824,1825" />
+		</SeparatorRegion>
+		<GraphicRegion id="r19">
+			<Coords points="233,1928 392,1928 392,2178 233,2178" />
+		</GraphicRegion>
+		<TextRegion id="r20" custom="readingOrder {index:20;} orientation {0;}">
+			<Coords points="313,1954 1456,1954 1456,2218 313,2218" />
+			<!-- line left out: id="r20l0" points="392,1966 451,1966 487,1969 527,1973 527,1967 553,1967 559,1981 577,1981 578,1967 605,1967 605,1980 677,1975 700,1975 783,1978 783,1954 807,1954 807,1978 818,1978 841,1965 856,1961 902,1961 910,1978 939,1976 961,1976 961,1958 1050,1958 1050,1972 1066,1972 1066,1960 1083,1960 1083,1973 1105,1973 1105,1966 1139,1966 1139,2013 1105,2013 1105,2003 1067,2003 1050,2004 1022,2004 1013,2012 961,2012 961,2006 910,2006 902,2014 856,2014 841,2009 807,2007 807,2022 783,2022 783,2006 770,2008 700,2011 677,2011 625,2009 578,2009 527,2008 527,2018 494,2018 487,2010 451,2015 392,2015" baseline="392,2009 1012,2004 1139,2002" reason: both models read another letter than Wikisource | Wikisource: Die gaͤcken/ narren/ ich ouch bring | next_nc_e1: Die gacken/ narren/ ich ouch bꝛing | german_print2_15: Die gacken / narren / ich ouch bꝛing -->
+			<!-- line left out: id="r20l1" points="391,2029 464,2029 509,2028 515,2028 588,2028 626,2029 626,2043 663,2043 665,2023 695,2023 697,2042 725,2042 743,2041 788,2041 799,2028 827,2028 827,2042 852,2042 854,2025 893,2025 893,2040 922,2040 932,2026 978,2026 978,2039 1002,2039 1002,2031 1034,2031 1034,2077 1002,2077 1002,2068 959,2070 932,2070 893,2069 893,2085 854,2085 852,2069 827,2069 827,2080 799,2080 788,2070 743,2070 741,2083 724,2083 724,2071 663,2073 644,2073 598,2072 588,2081 543,2081 534,2087 509,2087 499,2075 464,2076 391,2076" baseline="391,2077 509,2073 587,2071 921,2068 1034,2067" reason: both models read another letter than Wikisource | Wikisource: Die sich beruͤmen hoher ding | next_nc_e1: Die ſich berumen hoher ding | german_print2_15: Die ſich beru men hoher ding -->
+			<!-- line left out: id="r20l2" points="313,2107 357,2107 375,2094 449,2094 451,2100 508,2100 520,2091 529,2091 529,2109 563,2108 575,2108 575,2091 627,2091 627,2107 638,2102 683,2102 686,2083 706,2083 706,2090 726,2090 726,2083 751,2083 751,2104 762,2104 783,2091 806,2091 806,2083 826,2083 826,2103 840,2103 877,2089 909,2089 909,2101 928,2101 966,2103 967,2089 1010,2087 1033,2087 1043,2088 1069,2091 1088,2096 1088,2128 1033,2128 1033,2144 1010,2144 1000,2130 950,2130 928,2129 909,2129 909,2145 877,2145 840,2132 826,2132 826,2154 806,2154 806,2137 783,2137 751,2133 751,2154 726,2154 726,2148 706,2148 706,2154 686,2154 683,2136 627,2138 529,2138 508,2141 414,2145 313,2145" baseline="313,2142 507,2139 520,2139 682,2135 686,2135 839,2131 939,2129 1088,2127" reason: differs: "VVndw" against "Vnd w" | Wikisource:  | next_nc_e1: VVnd wellent ſyn/ das ſie nit ſint | german_print2_15: Vnd wellent ſyn / das ſie nit ſint -->
+			<!-- line left out: id="r20l3" points="393,2160 421,2157 506,2157 506,2143 537,2143 537,2173 561,2173 563,2158 576,2158 576,2143 602,2143 602,2171 620,2170 640,2170 664,2171 689,2156 712,2156 715,2167 731,2167 731,2143 751,2143 773,2165 796,2165 796,2143 818,2143 818,2150 836,2150 853,2167 871,2167 871,2143 893,2143 893,2164 907,2164 908,2150 929,2150 975,2151 975,2165 1003,2163 1042,2163 1043,2147 1069,2147 1108,2148 1108,2161 1124,2161 1124,2147 1151,2147 1301,2157 1332,2157 1360,2143 1366,2143 1405,2143 1413,2165 1456,2165 1456,2192 1413,2192 1405,2200 1366,2200 1360,2200 1332,2188 1301,2188 1174,2194 1124,2194 1108,2191 1082,2192 1023,2193 1003,2193 992,2208 975,2210 951,2210 929,2194 893,2194 893,2218 871,2218 871,2196 853,2196 836,2202 818,2202 818,2218 796,2218 796,2198 773,2198 751,2218 731,2218 731,2200 712,2204 689,2204 619,2202 602,2202 602,2218 576,2218 576,2203 561,2204 537,2204 537,2218 506,2218 506,2206 421,2206 393,2205" baseline="393,2205 663,2201 689,2200 750,2198 835,2196 1003,2193 1301,2189 1331,2188 1456,2186" reason: differs: "Vndw" against "sint" | Wikisource:  | next_nc_e1: Vnd waͤnen/ das all welt ſy erblindt n iij.
+ | german_print2_15: Vnd waͤnen / das all welt ſy erblindt n iij.“
+ -->
+		</TextRegion>
+		<GraphicRegion id="r21">
+			<Coords points="233,2048 1623,2048 1623,2207 233,2207" />
+		</GraphicRegion>
+		<GraphicRegion id="r22">
+			<Coords points="0,2272 1780,2272 1780,2541 0,2541" />
+		</GraphicRegion>
+		<SeparatorRegion id="r23">
+			<Coords points="475,2528 1685,2528 1685,2541 475,2541" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Ritter Peter von alten joren
+Ich muͦß üch griffen an die oren
+Mir gdenckt / das wir beyd narren woren
+Wie wol / jr fuͤren ritters sporen
+center|250px
+Von grossem ruemen
+Die gaͤcken / narren / ich ouch bring
+Die sich beruͤmen hoher ding
+Vnd wellent syn / das sie nit sint
+Vnd waͤnen / das all welt sy erblindt
+-->
+	</Page>
+</PcGts>

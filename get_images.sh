@@ -2,7 +2,9 @@
 # Download the scan file of each work from Wikimedia Commons and write the
 # page images next to the PAGE files (data/<wikisource>/<work>/GT-PAGE/).
 # usage: get_images.sh [<wikisource>/<work> ...]
-# Needs curl, ImageMagick with DjVu support and pdftoppm. One request per work.
+# Needs curl, ImageMagick with DjVu support and pdftoppm. One request per work;
+# works with one image file per page: one request every 90 seconds, because
+# Wikimedia Commons refuses faster downloads of original files (HTTP 429).
 set -e
 cd "$(dirname "$0")/data"
 UA="wikisource-gt/0.1 (https://github.com/stweil/wikisource-gt)"
@@ -13,7 +15,13 @@ for w in "${works[@]}"; do
     while read -r url sha1 img; do
       f="$w/GT-PAGE/$img"
       [ -e "${f%.*}.xml" ] || continue
-      if [ ! -s "$f" ]; then curl -sS -L -A "$UA" -o "$f" "$url"; sleep 5; fi
+      if [ ! -s "$f" ]; then
+        for try in 1 2 3 4 5 6; do
+          curl -sS -f -L -A "$UA" -o "$f" "$url" && break
+          rm -f "$f"; echo "$img: refused, waiting 10 minutes" >&2; sleep 600
+        done
+        sleep 90
+      fi
       echo "$sha1  $f" | sha1sum -c --quiet -
     done < "$w/provenance/source.txt"
     continue

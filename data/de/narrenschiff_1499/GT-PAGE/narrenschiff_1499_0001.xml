@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T15:41:40</Created>
+		<LastChange>2026-11-23T15:41:40</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0001.jpg revision 2883793 of 2016-08-18T13:57:09Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0001.jpg" imageWidth="1855" imageHeight="2565">
+		<ReadingOrder>
+			<OrderedGroup id="ro8721011985098058926" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="3" regionRef="r3" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="485,90 1632,90 1632,163 485,163" />
+			<!-- line left out: id="r0l0" points="485,90 494,90 1292,101 1298,101 1298,108 1292,108 494,116 485,116" baseline="485,99 493,99 1292,104 1298,104" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: / . | german_print2_15: , . . . 2 r  s -->
+			<!-- line left out: id="r0l1" points="855,145 1614,145 1624,156 1632,156 1632,163 1571,163 855,149" baseline="855,162 859,162 1632,163" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: * V.
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="7,216 1430,216 1430,437 7,437" />
+			<!-- line left out: id="r1l0" points="7,255 82,255 109,268 203,268 209,288 263,288 306,291 306,255 365,255 365,292 419,292 472,229 527,229 527,216 586,216 586,292 638,292 638,216 696,216 696,291 756,290 806,290 834,273 959,273 959,298 1049,296 1163,296 1163,273 1207,273 1241,274 1301,273 1345,273 1430,274 1430,387 1359,387 1359,380 1345,380 1345,404 1228,404 1228,384 1207,384 1207,404 1163,404 1163,386 1095,386 1048,385 1004,385 959,383 959,404 900,404 900,384 834,384 756,381 756,373 696,373 696,437 638,437 638,374 586,374 586,437 527,437 472,433 419,375 365,375 365,407 306,407 306,373 203,378 109,378 82,407 7,407" baseline="7,402 418,384 472,382 805,381 834,382 1430,387" reason: differs: "Dort" against "| ce" | Wikisource:  | next_nc_e1: Dortor Brants Marrenſchiff
+ | german_print2_15: Dontor Brants Marrenlchiff
+ -->
+		</TextRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="606,409 867,409 867,464 606,464" />
+			<!-- line left out: id="r2l0" points="606,409 625,409 640,440 652,440 671,426 706,426 719,440 732,440 748,426 774,426 797,439 810,439 814,413 840,413 854,444 867,444 867,456 854,456 840,462 814,462 810,452 797,452 774,463 748,463 732,453 719,453 706,463 671,463 652,450 640,450 625,464 606,464" baseline="606,451 671,451 867,453" reason: differs: "j.4." against "ente" | Wikisource:  | next_nc_e1: j. 4. 9.9.
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r3" custom="readingOrder {index:3;} orientation {0;}">
+			<Coords points="573,485 916,485 916,549 573,549" />
+			<!-- line left out: id="r3l0" points="573,487 634,487 680,490 690,497 717,497 776,500 776,485 801,485 801,503 813,503 813,485 868,485 906,490 906,520 916,520 916,534 906,534 906,548 868,549 813,549 813,534 801,534 801,549 776,549 776,534 680,534 634,534 634,544 573,544" baseline="573,532 745,533 916,535" reason: differs: "Nüto" against "400p" | Wikisource:  | next_nc_e1: Nüt on vrſach.
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r4">
+			<Coords points="967,1421 1438,1421 1438,1666 967,1666" />
+		</GraphicRegion>
+		<SeparatorRegion id="r5">
+			<Coords points="52,694 616,694 616,711 52,711" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r6">
+			<Coords points="836,694 1419,694 1419,710 836,710" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r7">
+			<Coords points="1838,428 1846,428 1846,758 1838,758" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r8">
+			<Coords points="1843,428 1848,428 1848,758 1843,758" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r9">
+			<Coords points="45,699 70,699 70,984 45,984" />
+		</SeparatorRegion>
+		<GraphicRegion id="r10">
+			<Coords points="432,1421 441,1421 441,1581 432,1581" />
+		</GraphicRegion>
+		<GraphicRegion id="r11">
+			<Coords points="0,1705 308,1705 308,2564 0,2564" />
+		</GraphicRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="94,1482 1460,1482 1460,2193 94,2193" />
+			<!-- line left out: id="r12l0" points="142,1482 274,1482 279,1548 321,1548 322,1561 339,1561 353,1547 367,1547 450,1543 502,1543 502,1556 525,1556 538,1562 566,1560 594,1560 679,1560 689,1543 696,1543 754,1543 802,1545 802,1552 835,1552 835,1561 852,1561 852,1553 883,1548 899,1548 899,1561 917,1561 917,1546 945,1546 947,1559 967,1559 967,1593 947,1593 945,1607 917,1607 917,1594 882,1595 852,1595 835,1591 835,1602 802,1604 754,1605 714,1605 689,1605 679,1591 614,1591 594,1592 538,1592 502,1590 502,1599 450,1599 450,1589 433,1594 382,1594 382,1604 353,1604 339,1592 279,1592 274,1619 142,1619" baseline="142,1592 678,1590 802,1590 967,1593" reason: second model: differs: "6Oꝛh" against "00px" | Wikisource: VOr hab ichs narren schiff gedieht | next_nc_e1: C Oꝛ hab ichs narren ſchiff gedieht | german_print2_15: 6 Oꝛ hab ichs narren ſchiff gedieht -->
+			<!-- line left out: id="r12l1" points="94,1629 111,1629 152,1620 236,1615 338,1615 343,1622 360,1622 360,1612 385,1612 385,1628 422,1628 424,1612 465,1612 465,1626 504,1625 531,1625 552,1627 553,1612 578,1612 578,1627 591,1627 591,1612 612,1612 612,1623 641,1623 671,1626 671,1612 722,1612 732,1622 766,1622 785,1625 805,1626 805,1615 822,1615 822,1626 840,1626 840,1612 870,1612 870,1624 886,1624 886,1657 870,1657 870,1666 840,1666 840,1655 806,1657 785,1657 766,1655 766,1666 722,1671 671,1671 671,1657 652,1657 641,1671 591,1671 591,1657 552,1657 532,1657 465,1656 465,1674 424,1674 422,1657 397,1659 385,1659 385,1674 360,1674 343,1669 338,1662 236,1662 229,1674 152,1674 111,1652 94,1652" baseline="94,1654 337,1658 504,1655 732,1656 886,1657" reason: differs: "cMtg" against "Mit " | Wikisource:  | next_nc_e1: cMt groſſer arbeyt vff gerieht | german_print2_15: MWMWMWit groſſer arbeyt vff gerieht -->
+			<TextLine id="r12l2" custom="readingOrder {index:2;}">
+				<Coords points="218,1676 233,1676 294,1678 295,1685 353,1685 366,1679 393,1679 395,1691 447,1691 456,1676 473,1676 473,1690 502,1690 503,1676 535,1676 585,1678 585,1693 620,1691 706,1690 706,1679 721,1677 748,1677 748,1692 772,1687 806,1687 825,1690 826,1677 849,1677 849,1690 870,1690 871,1683 899,1683 900,1690 949,1690 949,1722 899,1725 871,1725 806,1721 806,1731 772,1731 765,1722 748,1722 748,1737 721,1737 720,1721 620,1725 456,1723 447,1729 366,1729 238,1725 233,1734 218,1734" />
+				<Baseline points="218,1725 664,1721 949,1722" />
+				<TextEquiv index="1">
+					<Unicode>Vnd das mit doꝛen alſo geladen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r12l3" custom="readingOrder {index:3;}">
+				<Coords points="224,1735 248,1735 248,1742 312,1742 314,1757 331,1757 360,1743 404,1743 404,1757 441,1755 489,1743 540,1745 550,1756 565,1756 565,1745 620,1742 667,1742 667,1756 705,1756 705,1742 753,1742 760,1756 817,1756 817,1748 847,1748 848,1756 914,1756 925,1741 954,1741 954,1755 978,1755 978,1747 1008,1747 1010,1754 1060,1755 1060,1788 1008,1792 760,1788 753,1800 705,1800 705,1787 667,1788 667,1800 645,1800 645,1788 513,1787 513,1802 489,1802 441,1789 312,1793 239,1793 239,1757 224,1757" />
+				<Baseline points="224,1793 440,1788 1060,1787" />
+				<TextEquiv index="1">
+					<Unicode>Das man ſie nit durfft anders baden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r12l4" custom="readingOrder {index:4;}">
+				<Coords points="239,1807 298,1807 298,1823 346,1823 357,1815 363,1815 363,1824 399,1823 399,1815 427,1815 480,1808 510,1808 510,1819 546,1819 555,1806 666,1807 666,1822 679,1822 679,1806 727,1806 727,1822 749,1822 753,1804 786,1804 786,1821 825,1822 825,1809 840,1806 870,1806 870,1821 917,1821 917,1853 840,1853 786,1851 786,1859 722,1861 703,1857 703,1865 679,1865 679,1851 666,1851 666,1865 604,1865 555,1865 546,1853 510,1853 510,1863 480,1863 424,1859 382,1852 380,1859 269,1857 269,1848 239,1848" />
+				<Baseline points="239,1848 345,1853 917,1852" />
+				<TextEquiv index="1">
+					<Unicode>Eyn yeder het ſich ſelbs geriben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r12l5" custom="readingOrder {index:5;}">
+				<Coords points="228,1896 243,1869 291,1865 316,1865 316,1881 408,1879 418,1871 465,1871 474,1865 502,1865 504,1880 553,1881 563,1867 589,1867 589,1883 651,1882 653,1870 670,1870 670,1880 687,1880 693,1867 793,1868 793,1884 822,1884 849,1890 862,1890 950,1910 950,1912 862,1917 624,1912 613,1926 589,1926 589,1913 533,1912 502,1917 474,1917 465,1929 427,1929 418,1929 408,1912 243,1912 228,1898" />
+				<Baseline points="228,1912 950,1912" />
+				<TextEquiv index="1">
+					<Unicode>Aber es iſt dar by nit bliben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r12l6" custom="readingOrder {index:6;}">
+				<Coords points="244,1930 340,1931 344,1945 367,1945 367,1929 398,1929 398,1945 440,1946 440,1929 488,1929 488,1945 526,1945 538,1931 580,1931 580,1943 610,1943 621,1935 650,1935 651,1947 664,1947 664,1930 724,1930 731,1936 753,1936 753,1948 823,1943 858,1943 874,1948 874,1939 903,1939 904,1948 963,1949 986,1951 986,1931 1015,1931 1015,1950 1059,1950 1059,1982 874,1981 858,1979 858,1989 823,1989 816,1979 771,1979 769,1990 753,1992 731,1992 724,1986 664,1986 664,1976 651,1976 650,1985 621,1985 580,1980 580,1987 538,1987 526,1975 488,1975 488,1985 440,1985 440,1976 398,1977 398,1985 367,1985 367,1976 244,1976" />
+				<Baseline points="244,1976 609,1976 1059,1982" />
+				<TextEquiv index="1">
+					<Unicode>Vil mancher hat noch ſym geduncken</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r12l7" custom="readingOrder {index:7;}">
+				<Coords points="241,1994 302,1994 302,2011 326,2011 327,1994 404,1994 409,2009 472,2009 483,1993 490,1993 490,2010 515,2010 516,1999 530,1999 530,1993 593,1993 628,1995 646,1998 646,1989 687,1989 687,1998 728,1997 729,2011 799,2007 831,2007 832,1997 856,1997 856,2010 875,2010 875,1997 918,1997 918,2014 967,2015 967,1998 996,1998 996,2015 1043,2016 1043,2047 899,2044 899,2053 875,2053 875,2044 856,2044 856,2053 799,2053 793,2044 775,2044 775,2053 756,2053 756,2043 729,2043 728,2054 701,2054 693,2042 687,2042 687,2058 646,2058 646,2042 628,2042 628,2048 569,2048 569,2042 554,2042 554,2048 530,2048 530,2039 515,2041 490,2041 490,2048 483,2048 472,2041 409,2041 404,2050 327,2050 326,2041 302,2045 241,2045" />
+				<Baseline points="241,2041 471,2040 1043,2046" />
+				<TextEquiv index="1">
+					<Unicode>Noch dem villicht er hatt getruncken</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r12l8" points="250,2060 316,2060 316,2074 393,2074 453,2074 520,2074 527,2060 546,2060 546,2076 568,2075 588,2075 589,2060 631,2060 631,2076 669,2076 678,2062 706,2062 708,2075 736,2075 791,2077 819,2078 831,2064 860,2064 860,2077 905,2077 926,2080 926,2061 955,2061 955,2079 1002,2079 1032,2104 1038,2104 1038,2106 1002,2110 971,2114 951,2114 951,2108 860,2108 860,2120 831,2120 819,2108 763,2108 736,2107 631,2109 546,2109 527,2109 425,2106 423,2118 284,2118 284,2107 250,2107" baseline="250,2107 370,2106 519,2105 527,2105 678,2106 1038,2107" reason: second model has no such line | Wikisource: Nuw rymen wellen dar an hencken | next_nc_e1: Nuw rymen wellen dar an hencken | german_print2_15:  -->
+			<!-- line left out: id="r12l9" points="246,2123 319,2123 374,2124 447,2124 447,2139 466,2139 493,2140 506,2126 530,2126 530,2140 550,2140 552,2124 586,2124 586,2137 606,2137 694,2141 694,2116 716,2116 716,2140 727,2140 730,2127 790,2127 790,2141 807,2141 807,2133 829,2133 829,2124 856,2124 856,2141 887,2141 906,2143 906,2124 935,2124 935,2143 959,2143 1450,2159 1460,2159 1460,2169 935,2169 907,2174 888,2174 856,2173 856,2189 829,2189 829,2176 807,2176 790,2172 790,2189 730,2189 727,2172 716,2172 716,2193 694,2193 670,2188 654,2172 606,2174 586,2174 586,2186 564,2186 564,2169 550,2170 530,2170 530,2186 506,2186 493,2171 447,2172 418,2172 418,2187 362,2187 356,2170 319,2175 246,2175" baseline="246,2175 355,2170 362,2170 1460,2170" reason: differs: "nck⸗„" against "ncken" | Wikisource:  | next_nc_e1: Die ſelben ſoltten wol gedenck⸗ „
+ | german_print2_15:  -->
+			<TextEquiv index="1">
+				<Unicode>Vnd das mit doꝛen alſo geladen
+Das man ſie nit durfft anders baden
+Eyn yeder het ſich ſelbs geriben
+Aber es iſt dar by nit bliben
+Vil mancher hat noch ſym geduncken
+Noch dem villicht er hatt getruncken</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r13">
+			<Coords points="1145,0 1855,0 1855,2009 1145,2009" />
+		</GraphicRegion>
+		<GraphicRegion id="r14">
+			<Coords points="1759,2018 1851,2018 1851,2116 1759,2116" />
+		</GraphicRegion>
+		<SeparatorRegion id="r15">
+			<Coords points="1825,1918 1841,1918 1841,2456 1825,2456" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r16">
+			<Coords points="1847,1928 1855,1928 1855,2457 1847,2457" />
+		</SeparatorRegion>
+		<GraphicRegion id="r17">
+			<Coords points="1719,2436 1855,2436 1855,2565 1719,2565" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+|
+center|400px
+VOr hab ichs narren schiff gedieht
+Mit grosser arbeyt vff gerieht
+Vnd das mit doren also geladen
+Das man sie nit durfft anders baden
+Eyn yeder het sich selbs geriben
+Aber es ist dar by nit bliben
+Vil mancher hat noch sym geduncken
+Noch dem villicht er hatt getruncken
+Nuw rymen wellen dar an hencken
+Die selben soltten wol gedencken
+-->
+	</Page>
+</PcGts>

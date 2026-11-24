@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:26:05</Created>
+		<LastChange>2026-11-24T05:26:05</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0106.jpg revision 2883881 of 2016-08-18T13:59:29Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0106.jpg" imageWidth="1883" imageHeight="2553">
+		<ReadingOrder>
+			<OrderedGroup id="ro18381296168901746676" caption="Regions reading order">
+				<RegionRefIndexed index="11" regionRef="r11" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+				<RegionRefIndexed index="15" regionRef="r15" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="2,261 6,261 6,613 2,613" />
+		</SeparatorRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,1153 46,1153 46,1260 0,1260" />
+		</GraphicRegion>
+		<GraphicRegion id="r2">
+			<Coords points="0,1446 51,1446 51,1491 0,1491" />
+		</GraphicRegion>
+		<GraphicRegion id="r3">
+			<Coords points="0,1706 36,1706 36,1885 0,1885" />
+		</GraphicRegion>
+		<SeparatorRegion id="r4">
+			<Coords points="15,2204 30,2204 30,2527 15,2527" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r5">
+			<Coords points="83,0 1015,0 1015,14 83,14" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r6">
+			<Coords points="592,617 602,617 602,760 592,760" />
+		</SeparatorRegion>
+		<GraphicRegion id="r7">
+			<Coords points="0,0 1883,0 1883,2552 0,2552" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="291,1607 415,1607 415,1673 291,1673" />
+		</GraphicRegion>
+		<SeparatorRegion id="r9">
+			<Coords points="1451,458 1467,458 1467,1773 1451,1773" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r10">
+			<Coords points="452,1368 467,1368 467,1783 452,1783" />
+		</SeparatorRegion>
+		<TextRegion id="r11" custom="readingOrder {index:11;} orientation {0;}">
+			<Coords points="290,1800 1115,1800 1115,2123 290,2123" />
+			<!-- line left out: id="r11l0" points="296,1800 432,1800 437,1829 496,1829 645,1829 648,1839 683,1839 683,1808 744,1808 747,1833 781,1831 843,1831 909,1835 968,1832 1065,1832 1065,1914 968,1914 919,1912 909,1933 841,1933 841,1910 747,1910 744,1930 683,1930 683,1909 645,1910 542,1910 496,1907 437,1907 432,1950 296,1950" baseline="296,1904 1065,1915" reason: differs: "vera" against "253p" | Wikisource:  | next_nc_e1: verachtügew | german_print2_15: Gverachtügem -->
+			<!-- line left out: id="r11l1" points="290,1925 366,1925 429,1928 492,1930 492,1944 561,1944 613,1944 653,1945 664,1934 681,1934 713,1934 725,1943 795,1943 824,1946 834,1933 860,1933 860,1947 890,1947 890,1928 931,1928 956,1928 956,1947 979,1945 1018,1945 1028,1935 1053,1935 1060,1932 1106,1932 1106,1986 1083,1986 1083,1992 1053,1992 1028,1992 1018,1979 956,1979 917,1979 890,1979 860,1978 795,1979 725,1979 713,1992 681,1992 681,1974 669,1974 669,1992 664,1992 653,1976 561,1976 556,1976 544,1984 492,1988 429,1989 392,1989 366,1943 290,1943" baseline="290,1962 543,1973 1017,1978 1028,1979 1106,1985" reason: differs: "(Eyn" against "frei" | Wikisource:  | next_nc_e1: (Eyn narr iſt/ wer beruͤmet ſich | german_print2_15: ¶VVREyn narr iſt / wer berümet ſich -->
+			<!-- line left out: id="r11l2" points="380,1990 437,1988 506,1988 510,2007 562,2007 622,2003 655,2003 655,2010 681,2007 716,2007 726,1995 763,1995 763,2010 781,2010 782,1997 808,1997 841,2000 841,2012 860,2010 887,2010 899,1996 926,1996 927,2012 954,2010 982,2010 1019,2012 1019,1999 1034,1999 1064,1996 1091,1996 1115,1999 1115,2054 1091,2055 1064,2055 1064,2042 1000,2042 982,2042 954,2041 953,2055 927,2055 899,2052 887,2039 860,2039 859,2054 841,2055 808,2056 782,2056 781,2038 763,2039 739,2039 739,2056 726,2056 716,2040 655,2040 655,2049 622,2049 612,2038 562,2039 510,2039 506,2055 437,2055 380,2054" baseline="380,2035 561,2039 572,2038 816,2038 899,2039 1115,2044" reason: second model: differs: "]Das" against "sich" | Wikisource: Das er gott ließ syn hymelrich | next_nc_e1: Das er gott ließ ſyn hymelrich | german_print2_15: ]Das er gott ließ ſyn hymelrich -->
+			<!-- line left out: id="r11l3" points="348,2024 407,2024 445,2056 497,2056 506,2067 540,2067 540,2073 614,2073 614,2056 639,2056 680,2058 680,2052 749,2052 749,2058 759,2058 770,2074 790,2074 810,2075 828,2061 856,2061 856,2075 869,2075 870,2059 895,2059 896,2074 944,2074 1024,2075 1024,2069 1058,2069 1058,2116 1024,2116 1024,2106 955,2106 869,2105 810,2107 791,2107 759,2106 749,2106 749,2123 680,2123 680,2106 639,2106 639,2119 614,2119 614,2103 579,2104 540,2104 540,2119 497,2119 472,2119 445,2058 407,2119 348,2119" baseline="348,2098 445,2101 680,2106 748,2104 955,2105 1058,2115" reason: differs: ".Beg" against "Bege" | Wikisource:  | next_nc_e1: . Begerend/ das er leben mag
+ | german_print2_15: . Begerend / das er leben mag
+ -->
+		</TextRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="874,1759 987,1759 987,1772 874,1772" />
+			<!-- line left out: id="r12l0" points="874,1759 987,1759 987,1772 874,1772" baseline="874,1763 987,1765" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: e
+ | german_print2_15: rr
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r13">
+			<Coords points="461,1762 866,1762 866,1783 461,1783" />
+		</SeparatorRegion>
+		<GraphicRegion id="r14">
+			<Coords points="329,1978 435,1978 435,2201 329,2201" />
+		</GraphicRegion>
+		<TextRegion id="r15" custom="readingOrder {index:15;} orientation {0;}">
+			<Coords points="406,2124 1154,2124 1154,2196 406,2196" />
+			<TextLine id="r15l0" custom="readingOrder {index:0;}">
+				<Coords points="406,2146 421,2146 436,2125 534,2125 536,2137 620,2138 620,2124 647,2124 648,2137 692,2139 693,2133 726,2133 731,2124 757,2124 800,2125 821,2138 877,2139 884,2126 902,2126 902,2139 925,2139 925,2126 949,2126 957,2134 989,2134 990,2128 1024,2128 1024,2141 1101,2138 1122,2134 1154,2134 1154,2183 1122,2183 1122,2173 1080,2175 1024,2172 1024,2190 990,2190 989,2181 957,2181 949,2190 925,2190 925,2171 902,2171 902,2183 884,2183 877,2171 821,2171 800,2185 773,2185 773,2167 757,2171 693,2172 692,2183 668,2183 668,2168 648,2168 647,2184 620,2184 620,2168 553,2170 536,2167 534,2196 436,2196 421,2182 406,2182" />
+				<Baseline points="406,2165 731,2171 1154,2184" />
+				<TextEquiv index="1">
+					<Unicode>In narrheyt/ biß an jungſten tag</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>In narrheyt/ biß an jungſten tag</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r16">
+			<Coords points="406,2093 435,2093 435,2163 406,2163" />
+		</GraphicRegion>
+		<SeparatorRegion id="r17">
+			<Coords points="52,2538 524,2538 524,2552 52,2552" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Das ich alleyn zyttlichs betracht
+Vnd vff das ewig hab keyn acht
+Das schafft / eyn aff hatt mich gemacht
+center|253px
+verachtung ewiger freid
+Eyn narr ist / wer beruͤmet sich
+Das er gott ließ syn hymelrich
+Begerend / das er leben mag
+In narrheyt / biß an jungsten tag
+-->
+	</Page>
+</PcGts>

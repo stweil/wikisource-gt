@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:24:23</Created>
+		<LastChange>2026-11-24T05:24:23</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0030.jpg revision 5098540 of 2026-11-18T04:01:55Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0030.jpg" imageWidth="1800" imageHeight="2560">
+		<ReadingOrder>
+			<OrderedGroup id="ro17529842808729666988" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="507,0 1024,0 1024,13 507,13" />
+		</SeparatorRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,25 1512,25 1512,2018 0,2018" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="488,229 1281,229 1281,425 488,425" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="497,229 570,229 571,242 612,242 623,234 635,234 635,243 649,243 649,234 714,234 789,240 919,241 927,235 961,235 961,229 984,229 984,244 1034,244 1037,230 1065,230 1065,245 1162,247 1162,235 1177,232 1225,232 1237,261 1239,261 1239,263 1237,263 1225,281 1177,281 1122,277 961,273 961,282 927,282 919,273 714,272 714,286 685,286 685,274 649,274 649,286 623,286 612,272 570,276 497,276" />
+				<Baseline points="497,271 774,271 1111,276 1239,280" />
+				<TextEquiv index="1">
+					<Unicode>Wer yedem narren glouben will</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l1" points="494,292 555,292 556,307 596,304 698,304 711,290 719,290 739,292 740,305 767,305 768,290 814,290 851,292 886,292 886,304 914,304 922,292 960,292 960,307 995,307 1003,291 1015,291 1071,291 1071,308 1082,308 1082,298 1098,295 1123,291 1145,291 1158,300 1185,300 1185,312 1213,309 1246,309 1247,299 1262,298 1281,298 1281,342 1246,344 1213,344 1185,343 1185,356 1158,356 1098,355 1098,338 1082,338 1071,337 1071,355 1049,355 1049,347 1030,352 1015,355 1003,355 995,337 960,338 922,338 886,337 886,346 864,346 864,335 851,335 851,346 814,347 768,347 767,334 739,335 719,335 719,347 711,347 698,335 555,339 494,339" baseline="494,335 711,335 922,336 1003,337 1147,340 1281,342" reason: differs: "derſchꝛ" against "er gsch" | Wikisource:  | next_nc_e1: So man doch hoͤꝛt der ſchꝛifft ſo vil | german_print2_15: So man doch hoͤꝛt der ſchꝛifft ſo vil -->
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="488,354 559,354 560,367 601,367 610,351 751,351 839,354 848,372 914,371 915,357 942,357 942,347 997,347 997,357 1012,357 1021,373 1165,375 1176,364 1201,364 1201,376 1222,376 1223,364 1239,361 1264,361 1264,405 1223,405 1222,418 1201,421 1176,421 1165,406 1064,406 1021,403 1012,415 997,415 997,425 942,425 942,415 915,415 914,400 848,399 839,414 820,414 820,407 803,407 803,414 762,414 751,399 720,399 720,412 698,412 698,397 681,397 681,412 654,412 654,405 637,405 637,412 610,412 601,398 559,401 488,401" />
+				<Baseline points="488,395 848,399 1264,406" />
+				<TextEquiv index="1">
+					<Unicode>Der ſchickt ſich wol jns narren ſpil</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Wer yedem narren glouben will
+Der ſchickt ſich wol jns narren ſpil</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r3">
+			<Coords points="802,424 1309,424 1309,436 802,436" />
+		</SeparatorRegion>
+		<GraphicRegion id="r4">
+			<Coords points="1076,452 1505,452 1505,508 1076,508" />
+		</GraphicRegion>
+		<SeparatorRegion id="r5">
+			<Coords points="1067,430 1080,430 1080,810 1067,810" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r6">
+			<Coords points="1154,838 1159,838 1159,983 1154,983" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r7">
+			<Coords points="1497,430 1530,430 1530,1526 1497,1526" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r8">
+			<Coords points="480,915 497,915 497,1790 480,1790" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r9">
+			<Coords points="478,1777 872,1777 872,1789 478,1789" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r10">
+			<Coords points="1104,1790 1502,1790 1502,1805 1104,1805" />
+		</SeparatorRegion>
+		<GraphicRegion id="r11">
+			<Coords points="319,1608 606,1608 606,2219 319,2219" />
+		</GraphicRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="368,1803 1509,1803 1509,2186 368,2186" />
+			<!-- line left out: id="r12l0" points="646,1826 703,1825 761,1825 764,1834 799,1834 799,1803 900,1803 900,1825 956,1825 957,1832 994,1832 994,1803 1041,1803 1041,1824 1108,1824 1108,1833 1214,1833 1214,1811 1385,1811 1385,1841 1443,1841 1443,1812 1509,1812 1509,1916 1413,1918 1385,1918 1385,1936 1307,1936 1307,1913 1253,1913 1253,1936 1214,1936 1174,1932 1153,1908 1108,1909 1041,1909 1041,1931 957,1931 956,1906 900,1906 900,1931 844,1931 844,1924 799,1924 799,1905 764,1905 646,1901" baseline="646,1901 1152,1910 1174,1911 1509,1917" reason: differs: "rach" against "cent" | Wikisource:  | next_nc_e1: rachtügder gſchritt | german_print2_15: rachtüg der glchritt -->
+			<!-- line left out: id="r12l1" points="470,1922 539,1922 542,1938 583,1938 591,1927 597,1927 641,1927 646,1939 667,1939 725,1939 793,1940 834,1941 845,1929 872,1929 874,1943 915,1943 925,1935 938,1935 938,1945 953,1945 953,1935 993,1930 1036,1930 1067,1933 1072,1942 1088,1942 1088,1930 1110,1930 1170,1930 1170,1947 1184,1947 1184,1940 1199,1936 1201,1930 1224,1930 1224,1936 1248,1936 1248,1993 1199,1993 1199,1976 1184,1977 1170,1977 1170,1993 1147,1993 1147,1986 1128,1991 1110,1993 1088,1993 1088,1985 1072,1985 1067,1974 1036,1976 993,1976 938,1974 925,1974 845,1972 780,1971 757,1971 696,1969 694,1983 670,1983 667,1969 646,1969 641,1986 597,1986 591,1986 583,1968 539,1970 470,1970" baseline="470,1970 582,1968 646,1968 736,1969 845,1971 1072,1974 1248,1977" reason: second model: differs: "Deri" against "hrif" | Wikisource: Der ist eyn narr der nit der gschrifft | next_nc_e1: Der iſt eyn narr der nit der gſchꝛifft | german_print2_15: Der iſt eyn narr der nit der gſchꝛifft L -->
+			<TextLine id="r12l2" custom="readingOrder {index:2;}">
+				<Coords points="469,1987 502,1987 542,1991 560,1987 601,1983 671,1983 818,1983 818,1992 902,1990 904,2006 918,2006 918,1983 944,1983 968,1994 1009,1994 1009,2008 1041,2008 1044,1995 1070,1995 1076,2010 1093,2010 1093,1999 1116,1999 1116,2012 1132,2012 1132,1999 1155,1999 1155,2008 1173,2008 1173,2001 1189,1999 1238,1999 1238,2057 1189,2057 1189,2041 1155,2042 1155,2057 1132,2057 1132,2041 1116,2041 1116,2057 1093,2057 1093,2041 1044,2039 1041,2053 986,2053 968,2049 944,2061 918,2061 918,2037 879,2038 831,2036 818,2036 818,2061 791,2061 791,2042 671,2042 671,2061 601,2061 601,2042 560,2042 560,2032 542,2035 502,2035 502,2042 469,2042" />
+				<Baseline points="469,2035 670,2032 1238,2043" />
+				<TextEquiv index="1">
+					<Unicode>Will glouben die das heyl antrifft</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r12l3" points="368,2098 470,2054 523,2054 526,2060 583,2060 596,2066 614,2066 666,2067 725,2066 761,2066 771,2055 797,2055 799,2069 849,2069 900,2070 911,2057 937,2057 937,2075 951,2075 951,2058 977,2058 977,2073 995,2073 1023,2074 1041,2060 1050,2060 1132,2060 1132,2108 1109,2108 1109,2118 1088,2118 1086,2104 1067,2104 1067,2118 1041,2118 1023,2103 951,2103 930,2103 911,2102 785,2101 771,2101 725,2099 694,2097 691,2111 668,2111 666,2096 644,2099 614,2099 614,2111 596,2111 583,2100 526,2100 523,2109 470,2109 368,2106" baseline="368,2095 771,2099 861,2100 911,2101 1022,2104 1132,2107" reason: differs: "VVndm" against "Vnd m" | Wikisource:  | next_nc_e1: V Vnd meynet das er leben ſoͤll
+ | german_print2_15: Vnd meynet das er leben ſoͤll
+ -->
+			<!-- line left out: id="r12l4" points="410,2168 443,2168 459,2118 486,2118 553,2118 565,2133 591,2133 594,2117 635,2116 662,2116 662,2132 680,2132 737,2128 784,2128 784,2135 798,2132 832,2132 840,2139 864,2134 891,2134 940,2134 995,2138 995,2122 1089,2122 1089,2133 1105,2133 1105,2141 1130,2140 1158,2140 1170,2127 1199,2127 1199,2141 1210,2141 1210,2125 1263,2125 1263,2176 1237,2176 1237,2183 1210,2183 1210,2172 1199,2172 1199,2183 1170,2183 1158,2171 1130,2171 1128,2186 1104,2186 1104,2169 1089,2171 1059,2171 1054,2182 995,2182 995,2170 940,2173 891,2173 864,2173 832,2169 798,2169 784,2166 784,2175 737,2175 732,2163 705,2163 703,2178 679,2178 679,2162 662,2163 618,2164 510,2164 486,2164 486,2178 410,2178" baseline="410,2163 737,2163 831,2169 939,2169 1059,2170 1170,2171 1263,2173" reason: differs: "Also" against "soͤll" | Wikisource:  | next_nc_e1:  Als ob keyn gott wer/ noch keyn helb
+ | german_print2_15: Als ob keyn gott wer / noch keyn helb
+ -->
+			<TextEquiv index="1">
+				<Unicode>Will glouben die das heyl antrifft</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r13">
+			<Coords points="0,0 1800,0 1800,2560 0,2560" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Wer yedem narren glouben will
+So man doch hoͤrt der gschrifft so vil
+Der schickt sich wol jns narren spil
+center|250px
+Verachtung der gschrift
+Der ist eyn narr der nit der gschrifft
+Will glouben die das heyl antrifft
+Vnd meynet das er leben soͤll
+Als ob keyn gott wer / noch keyn hell
+-->
+	</Page>
+</PcGts>

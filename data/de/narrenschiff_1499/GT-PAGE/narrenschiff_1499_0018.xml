@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T15:42:03</Created>
+		<LastChange>2026-11-23T15:42:03</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0018.jpg revision 5111936 of 2026-11-19T01:59:33Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0018.jpg" imageWidth="1814" imageHeight="2556">
+		<ReadingOrder>
+			<OrderedGroup id="ro3903067060839990708" caption="Regions reading order">
+				<RegionRefIndexed index="2" regionRef="r2" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 1814,0 1814,330 0,330" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,146 1814,146 1814,1650 0,1650" />
+		</GraphicRegion>
+		<TextRegion id="r2" custom="readingOrder {index:2;} orientation {0;}">
+			<Coords points="354,220 1361,220 1361,411 354,411" />
+			<TextLine id="r2l0" custom="readingOrder {index:0;}">
+				<Coords points="460,285 477,228 548,228 552,241 591,241 602,229 643,229 644,241 657,241 657,229 683,229 683,239 719,239 728,221 758,221 758,238 790,237 807,240 808,229 838,229 840,236 886,236 897,226 915,226 915,220 941,220 956,223 956,237 995,237 995,222 1023,220 1073,220 1073,234 1090,234 1090,266 1073,266 1073,273 1044,273 1044,280 995,280 995,266 941,266 941,280 915,280 915,266 838,268 808,268 781,266 778,280 754,280 754,267 683,268 683,284 657,284 657,269 644,269 643,284 602,284 591,271 548,274 477,274 464,287 460,287" />
+				<Baseline points="460,274 728,267 1090,266" />
+				<TextEquiv index="1">
+					<Unicode>Wer ſynen kynden überſicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r2l1" points="354,294 515,294 515,305 580,304 608,304 626,305 626,288 655,288 656,300 674,300 712,302 715,289 729,285 790,285 790,279 853,279 853,285 877,285 910,286 967,286 983,288 983,299 1020,299 1020,286 1067,286 1067,299 1080,297 1099,297 1135,299 1137,285 1146,283 1197,283 1197,297 1212,297 1212,329 1197,329 1197,338 1146,338 1146,327 1135,328 1067,328 1067,342 1037,346 1020,346 1020,329 1003,329 983,328 983,346 952,346 939,329 910,329 910,345 888,345 877,333 853,333 853,354 790,354 790,333 756,334 729,334 712,330 674,331 655,332 626,333 608,334 580,334 515,333 515,350 354,350" baseline="354,334 876,330 938,328 1108,328 1212,329" reason: second model: differs: "CIrn" against "Irn " | Wikisource: Irn muͦtwill/ vnd sie straffet nicht | next_nc_e1: Irn můtwill/ vnd ſie ſtraffet nicht | german_print2_15: CIrn můtwill / vnd ſie ſtraffet nicht -->
+			<TextLine id="r2l2" custom="readingOrder {index:2;}">
+				<Coords points="438,378 470,378 479,353 549,353 552,366 617,366 639,350 660,350 660,367 676,367 676,350 724,350 724,364 767,364 777,350 879,350 879,360 894,360 894,350 937,351 946,363 978,363 979,353 995,348 1019,348 1049,349 1049,363 1086,364 1087,355 1115,355 1117,362 1138,360 1191,359 1191,346 1212,346 1284,346 1344,346 1344,358 1361,358 1361,391 1344,391 1344,399 1317,399 1317,407 1291,407 1284,400 1245,400 1245,407 1191,407 1191,401 1170,401 1161,392 1138,392 1138,411 1117,411 1115,394 1087,394 1086,403 1064,403 1064,392 946,393 937,406 894,406 894,400 879,400 879,406 862,406 862,392 847,392 847,406 777,402 767,393 724,393 724,407 698,407 698,392 660,394 660,407 639,407 617,395 470,404 438,404" />
+				<Baseline points="438,392 1361,391" />
+				<TextEquiv index="1">
+					<Unicode>Dem ſelben ʒuͦ letʒſt vil leydes geſchicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Wer ſynen kynden überſicht
+Dem ſelben ʒuͦ letʒſt vil leydes geſchicht</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r3">
+			<Coords points="636,472 658,472 658,484 636,484" />
+		</GraphicRegion>
+		<SeparatorRegion id="r4">
+			<Coords points="1265,667 1272,667 1272,936 1265,936" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r5">
+			<Coords points="742,665 745,665 745,1109 742,1109" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r6">
+			<Coords points="760,675 767,675 767,1104 760,1104" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r7">
+			<Coords points="682,1102 761,1102 761,1105 682,1105" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r8">
+			<Coords points="1453,703 1461,703 1461,1115 1453,1115" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r9">
+			<Coords points="733,690 738,690 738,1136 733,1136" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r10">
+			<Coords points="1466,711 1473,711 1473,1175 1466,1175" />
+		</SeparatorRegion>
+		<GraphicRegion id="r11">
+			<Coords points="0,1927 1814,1927 1814,2556 0,2556" />
+		</GraphicRegion>
+		<SeparatorRegion id="r12">
+			<Coords points="33,1758 38,1758 38,2062 33,2062" />
+		</SeparatorRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="995,1922 1350,1922 1350,2110 995,2110" />
+			<!-- line left out: id="r13l0" points="995,1935 1023,1935 1023,1953 1031,1953 1036,1936 1077,1936 1077,1922 1102,1922 1128,1923 1128,1930 1146,1930 1148,1939 1173,1939 1175,1931 1204,1931 1206,1937 1223,1937 1223,1970 1204,1972 1175,1972 1148,1968 1146,1982 1121,1982 1121,1967 1102,1968 1077,1968 1036,1967 1031,1957 1020,1957 1020,1951 995,1951" baseline="995,1966 1223,1968" reason: differs: "verbly" against "center" | Wikisource:  | next_nc_e1: verblyndt | german_print2_15: verblyndt -->
+			<!-- line left out: id="r13l1" points="1089,1990 1114,1990 1114,2003 1128,2003 1157,2004 1174,1987 1204,1987 1204,2005 1226,2005 1255,2006 1255,1995 1310,1995 1345,2016 1350,2016 1350,2021 1345,2021 1310,2038 1255,2038 1227,2036 1226,2052 1201,2052 1201,2040 1174,2040 1157,2033 1129,2033 1128,2041 1107,2041 1107,2034 1089,2034" baseline="1089,2034 1156,2033 1174,2033 1350,2036" reason: differs: "ſynk" against "/ da" | Wikisource:  | next_nc_e1: ſyn kyndt | german_print2_15: ſyn kyndt -->
+			<!-- line left out: id="r13l2" points="1131,2058 1167,2058 1167,2070 1215,2070 1215,2110 1131,2110" baseline="1131,2110 1215,2110" reason: second model: differs: "ſßt" against "der " | Wikisource: ßt | next_nc_e1: ßt
+ | german_print2_15: ſßt
+ -->
+		</TextRegion>
+		<GraphicRegion id="r14">
+			<Coords points="0,2361 250,2361 250,2556 0,2556" />
+		</GraphicRegion>
+		<SeparatorRegion id="r15">
+			<Coords points="595,2531 1391,2531 1391,2547 595,2547" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r16">
+			<Coords points="610,2546 1391,2546 1391,2554 610,2554" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Wer synen kynden übersicht
+Irn muͦtwill / vnd sie straffet nicht
+Dem selben zuͦ letzst vil leydes geschicht
+center|250px
+Von ler der kynd
+Der ist jn narrheyt gantz erbliyndt
+Der nit mag acht han / das syn kynd
+Mit züchten werden vnder wißt
+Und er sich sunders dar vff flyßt⟦⟧
+-->
+	</Page>
+</PcGts>

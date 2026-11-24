@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:26:40</Created>
+		<LastChange>2026-11-24T05:26:40</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0130.jpg revision 2883905 of 2016-08-18T14:00:05Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0130.jpg" imageWidth="1879" imageHeight="2555">
+		<ReadingOrder>
+			<OrderedGroup id="ro232090915863822810" caption="Regions reading order">
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 1879,0 1879,310 0,310" />
+		</GraphicRegion>
+		<SeparatorRegion id="r1">
+			<Coords points="3,292 15,292 15,1299 3,1299" />
+		</SeparatorRegion>
+		<GraphicRegion id="r2">
+			<Coords points="0,1162 85,1162 85,2332 0,2332" />
+		</GraphicRegion>
+		<SeparatorRegion id="r3">
+			<Coords points="542,1 996,1 996,15 542,15" />
+		</SeparatorRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="372,208 1316,208 1316,409 372,409" />
+			<!-- line left out: id="r4l0" points="372,261 507,219 562,219 564,232 584,232 599,233 599,226 633,226 633,232 662,232 688,233 690,218 724,218 741,231 774,231 803,232 803,222 842,217 872,217 873,231 888,231 888,208 914,208 914,217 928,217 958,228 989,228 990,217 1006,217 1006,229 1042,229 1045,216 1048,216 1050,230 1083,230 1129,232 1131,220 1156,220 1169,216 1195,216 1195,235 1239,231 1271,231 1271,238 1293,238 1293,219 1316,219 1316,271 1293,271 1271,270 1271,278 1239,278 1232,268 1195,268 1195,279 1156,279 1156,265 1131,265 1042,264 989,264 958,264 928,277 914,277 914,283 888,283 888,261 873,261 872,272 842,272 832,263 803,263 774,262 741,262 724,278 690,278 688,261 662,262 633,262 633,272 599,272 599,263 584,264 562,266 510,266 510,277 507,277 372,263" baseline="372,244 376,244 507,249 723,259 741,259 831,263 958,262 1050,263 1231,268 1239,268 1316,271" reason: differs: "yVer" against "Verg" | Wikisource:  | next_nc_e1: y Vergunſt vnd haß/ witt vmbhar gat | german_print2_15:  Vergunſt vnd haß / witt vmbhar gat -->
+			<TextLine id="r4l1" custom="readingOrder {index:1;}">
+				<Coords points="505,288 575,288 577,295 633,295 645,282 670,282 670,295 713,295 714,288 802,289 824,294 848,295 850,280 876,280 888,292 916,292 928,296 928,283 990,283 990,274 1030,274 1030,283 1035,283 1047,296 1071,296 1071,282 1117,282 1117,298 1175,299 1186,290 1221,290 1221,300 1266,299 1266,332 1221,331 1221,346 1186,346 1175,328 1047,328 1035,338 1030,338 1030,350 990,350 990,338 928,338 916,336 916,323 888,323 876,339 850,339 848,322 802,322 802,332 770,332 763,325 714,325 687,323 686,336 670,339 645,339 633,326 577,326 575,336 505,336" />
+				<Baseline points="505,317 888,322 990,329 1047,327 1186,329 1266,332" />
+				<TextEquiv index="1">
+					<Unicode>Man fyndt groß nyd/ jn allem ſtat</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r4l2" points="414,339 437,339 507,346 577,346 579,358 619,358 640,344 644,344 644,358 693,354 712,354 712,344 740,344 740,356 765,356 785,357 785,344 821,344 821,335 879,335 879,344 893,344 935,346 949,347 962,359 990,359 1011,360 1011,344 1063,344 1071,362 1098,362 1100,350 1116,350 1116,360 1133,360 1150,346 1170,346 1173,364 1200,361 1218,361 1218,394 1170,394 1150,394 1098,392 1071,392 1063,399 1011,399 1011,391 990,391 962,390 949,405 914,405 914,387 893,390 879,390 879,409 821,409 821,390 785,390 740,385 740,396 712,396 712,386 693,386 692,398 669,398 667,385 644,385 644,398 640,398 619,387 577,392 507,392 437,359 414,359" baseline="414,376 507,379 618,383 640,384 821,388 878,387 901,387 1062,391 1071,391 1218,394" reason: differs: "VDer" against "Der " | Wikisource:  | next_nc_e1: V Der nythart/ der iſt noch nit dot
+ | german_print2_15: ÆꝘDer nythart / der iſt noch nit dot
+ -->
+			<TextEquiv index="1">
+				<Unicode>Man fyndt groß nyd/ jn allem ſtat</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="0,185 1879,185 1879,494 0,494" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="0,494 1879,494 1879,2027 0,2027" />
+		</GraphicRegion>
+		<GraphicRegion id="r7">
+			<Coords points="354,1897 489,1897 489,2034 354,2034" />
+		</GraphicRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="425,1929 1382,1929 1382,2131 425,2131" />
+			<!-- line left out: id="r8l0" points="425,1983 441,1983 456,1960 475,1943 552,1943 574,1946 574,1958 600,1958 601,1950 618,1950 618,1937 650,1937 651,1943 667,1942 703,1937 725,1937 725,1958 737,1958 737,1945 768,1945 768,1937 787,1937 795,1959 829,1958 857,1958 858,1951 886,1951 908,1959 934,1958 957,1958 958,1933 978,1929 999,1929 1018,1954 1043,1954 1043,1929 1070,1929 1070,1958 1083,1958 1084,1944 1108,1944 1108,1929 1134,1929 1157,1960 1234,1960 1272,1962 1299,1963 1342,1965 1344,1955 1359,1950 1382,1950 1382,1993 1358,1994 1342,1996 1311,1996 1273,1993 1272,2005 1254,2005 1254,1992 1200,1992 1200,2005 1178,2005 1178,1990 1157,1990 1134,2009 1108,2009 1108,1998 1084,1998 1083,1990 1070,1990 1070,2009 1043,2009 1043,1991 1018,1991 999,2009 978,2009 978,1990 958,1990 957,1998 934,1998 934,1987 886,1992 858,1992 828,1991 795,1991 787,2003 737,2003 737,1989 725,1989 725,2003 703,2003 703,1994 672,1994 672,2002 651,2002 650,1989 640,1989 640,2003 618,2003 618,1990 601,1990 572,1988 557,1987 552,2024 475,2024 456,1962 441,2002 425,2002" baseline="425,1987 475,1987 908,1988 1157,1990 1298,1994 1382,1993" reason: differs: "7,Vi" against "d ha" | Wikisource:  | next_nc_e1: 7, V indtſchafft vnd nyd/ macht narren vil | german_print2_15: / V indtſchafft vnd nyd / macht narren vil -->
+			<TextLine id="r8l1" custom="readingOrder {index:1;}">
+				<Coords points="484,2025 502,2010 557,2010 559,2023 614,2023 633,2009 660,2009 663,2021 710,2021 719,2005 729,2005 780,2005 787,2023 837,2023 837,2005 891,2005 950,2008 950,2021 985,2021 998,2008 1023,2008 1023,2021 1037,2018 1072,2018 1091,2022 1151,2024 1151,2010 1231,2010 1231,2021 1257,2021 1257,2059 1187,2057 1179,2063 1132,2063 1119,2053 1091,2053 1091,2060 1072,2062 1037,2062 1037,2051 1023,2051 1023,2065 926,2065 911,2063 837,2060 837,2054 787,2052 780,2061 719,2061 710,2052 660,2054 502,2055 484,2027" />
+				<Baseline points="484,2055 709,2051 787,2052 890,2057 911,2057 984,2052 1257,2054" />
+				<TextEquiv index="1">
+					<Unicode>Von den ich ouch hye ſagen will/</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r8l2" points="435,2055 468,2055 505,2072 574,2072 575,2087 614,2087 626,2069 633,2069 652,2072 654,2087 679,2087 680,2069 726,2069 743,2073 751,2083 788,2083 788,2073 811,2073 841,2074 842,2086 860,2086 860,2073 877,2073 877,2087 898,2087 898,2080 950,2080 977,2085 977,2072 1033,2072 1043,2087 1067,2086 1096,2086 1108,2075 1138,2075 1138,2088 1166,2088 1239,2089 1294,2091 1294,2126 1267,2126 1266,2120 1240,2120 1138,2119 1108,2119 1067,2117 1067,2125 1043,2125 1043,2116 1006,2116 1006,2125 977,2125 977,2115 958,2115 950,2131 898,2131 898,2115 860,2116 842,2116 841,2130 811,2131 788,2131 788,2117 751,2117 743,2131 731,2131 680,2129 679,2117 654,2117 633,2116 633,2129 626,2129 614,2117 574,2120 505,2120 468,2096 435,2096" baseline="435,2114 731,2115 958,2116 1095,2117 1294,2120" reason: differs: "DDeer" against "Der d" | Wikisource:  | next_nc_e1: D Deer doch entſpꝛingt alleyn dar von
+ | german_print2_15: SDer doch entſpꝛingt alleyn dar von
+ -->
+			<TextEquiv index="1">
+				<Unicode>Von den ich ouch hye ſagen will/</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="416,2104 1247,2104 1247,2213 416,2213" />
+			<TextLine id="r9l0" custom="readingOrder {index:0;}">
+				<Coords points="416,2108 490,2108 499,2136 623,2135 623,2104 679,2104 679,2135 696,2135 707,2150 725,2150 725,2135 780,2136 780,2146 800,2146 800,2135 823,2135 846,2140 846,2152 864,2152 864,2135 909,2135 909,2104 979,2104 979,2135 997,2135 997,2104 1061,2104 1061,2135 1077,2135 1094,2141 1106,2141 1106,2104 1130,2104 1130,2136 1195,2138 1195,2151 1247,2150 1247,2205 1193,2204 1193,2196 1165,2196 1149,2204 1130,2204 1130,2213 1106,2213 1106,2204 1061,2204 1061,2213 997,2213 997,2204 979,2204 979,2213 909,2213 909,2204 864,2204 864,2181 846,2183 823,2183 823,2204 800,2204 800,2192 774,2192 774,2181 748,2181 748,2204 679,2205 679,2213 623,2213 623,2205 573,2205 572,2188 499,2188 490,2157 416,2157" />
+				<Baseline points="416,2203 909,2202 1247,2205" />
+				<TextEquiv index="1">
+					<Unicode>Das du vergünſt mir das ich han</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Das du vergünſt mir das ich han</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r10">
+			<Coords points="357,2027 1879,2027 1879,2095 357,2095" />
+		</GraphicRegion>
+		<GraphicRegion id="r11">
+			<Coords points="354,2034 475,2034 475,2042 354,2042" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="0,2095 1879,2095 1879,2555 0,2555" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Vergunst vnd haß / witt vmbhar gat
+Man fyndt groß nyd / jn allem stat
+Der nythart / der ist noch nit dot
+center|250px
+Von nyd vnd haß
+Vindtschafft vnd nyd / macht narren vil
+Von den ich ouch hye sagen will /
+Der doch entspringt alleyn dar von
+Das du vergünst mir das ich han
+-->
+	</Page>
+</PcGts>

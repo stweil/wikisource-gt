@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:25:08</Created>
+		<LastChange>2026-11-24T05:25:08</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0064.jpg revision 2883843 of 2016-08-18T13:58:27Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0064.jpg" imageWidth="1849" imageHeight="2566">
+		<ReadingOrder>
+			<OrderedGroup id="ro14733439875561612040" caption="Regions reading order">
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="7" regionRef="r7" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<SeparatorRegion id="r0">
+			<Coords points="2,0 1592,0 1592,19 2,19" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r1">
+			<Coords points="0,922 16,922 16,2114 0,2114" />
+		</SeparatorRegion>
+		<GraphicRegion id="r2">
+			<Coords points="322,0 1849,0 1849,1862 322,1862" />
+		</GraphicRegion>
+		<GraphicRegion id="r3">
+			<Coords points="327,274 500,274 500,395 327,395" />
+		</GraphicRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="459,304 1287,304 1287,436 459,436" />
+			<!-- line left out: id="r4l0" points="474,352 491,352 525,312 595,312 600,326 666,326 678,307 681,307 681,324 692,324 692,307 739,307 739,324 750,320 798,320 807,306 828,306 828,324 848,324 848,308 865,306 935,306 976,307 979,320 993,320 993,304 1051,304 1066,321 1094,321 1094,308 1137,307 1162,307 1162,321 1238,321 1263,322 1264,307 1287,307 1287,351 1264,351 1263,365 1237,365 1217,363 1207,350 1180,350 1179,364 1162,365 1137,365 1127,351 1078,351 1066,349 1051,358 993,358 993,350 976,352 947,352 935,365 865,365 865,350 848,351 828,351 828,365 807,365 798,352 751,353 739,353 739,365 692,365 692,353 681,353 681,365 678,365 666,356 600,356 595,365 561,365 561,375 529,375 525,365 491,375 474,375" baseline="474,357 797,352 1050,350 1137,350 1287,351" reason: second model: differs: "EDem" against "vff " | Wikisource: Dem essent woͤlff doch nit syn zyl | next_nc_e1:  Dem eſſent woͤlff doch nit ſyn zyl | german_print2_15: EDem eſſent woͤlff doch nit ſyn zyl -->
+			<!-- line left out: id="r4l1" points="459,382 511,377 590,377 591,389 623,389 623,365 653,365 653,389 674,389 675,374 697,374 697,388 710,388 712,373 756,369 807,369 830,370 830,385 841,385 841,369 889,369 925,371 925,365 971,365 971,371 987,369 1212,369 1269,384 1271,384 1271,386 1269,386 1212,432 971,436 925,436 888,432 888,422 866,422 866,432 841,432 841,414 807,414 807,424 777,424 777,432 756,432 712,431 710,416 697,416 697,431 675,431 674,417 653,417 653,436 623,436 623,418 591,418 590,424 511,424 505,417 459,417" baseline="459,419 709,416 987,414 1271,412" reason: second model: differs: "Dere" against "n zy" | Wikisource: Der esel schlecht jn vnderwil | next_nc_e1: Der eſel ſchlecht jn vnderwil
+ | german_print2_15: Der eſel ſchlecht jn vnderwikt
+ -->
+		</TextRegion>
+		<SeparatorRegion id="r5">
+			<Coords points="557,449 1556,449 1556,469 557,469" />
+		</SeparatorRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {3;}">
+			<Coords points="1373,645 1558,645 1558,1059 1373,1059" />
+			<!-- line left out: id="r6l0" points="1426,645 1476,645 1476,1009 1426,1009" baseline="1471,1009 1468,648" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: S. | german_print2_15:  -->
+			<!-- line left out: id="r6l1" points="1521,965 1531,965 1531,986 1521,986" baseline="1530,986 1530,965" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: S | german_print2_15: S -->
+			<!-- line left out: id="r6l2" points="1536,801 1558,801 1558,1041 1536,1041" baseline="1558,1041 1554,801" reason: differs: "u2" against "ente" | Wikisource:  | next_nc_e1: u 2
+ | german_print2_15: Bl .7
+ -->
+		</TextRegion>
+		<TextRegion id="r7" custom="readingOrder {index:7;} orientation {0;}">
+			<Coords points="930,1239 1203,1239 1203,1333 930,1333" />
+			<!-- line left out: id="r7l0" points="930,1239 1118,1239 1118,1264 930,1264" baseline="930,1252 1118,1253" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: = | german_print2_15:  -->
+			<!-- line left out: id="r7l1" points="991,1298 1085,1298 1119,1305 1203,1305 1203,1333 1119,1333 991,1329" baseline="991,1327 1203,1331" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: NI
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r8">
+			<Coords points="344,1724 1849,1724 1849,2564 344,2564" />
+		</GraphicRegion>
+		<SeparatorRegion id="r9">
+			<Coords points="534,870 557,870 557,1816 534,1816" />
+		</SeparatorRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="463,1849 1685,1849 1685,2238 463,2238" />
+			<!-- line left out: id="r10l0" points="521,1906 532,1906 544,1860 665,1860 671,1884 784,1883 840,1880 872,1880 913,1855 969,1855 974,1877 1029,1877 1204,1878 1209,1849 1304,1849 1304,1877 1362,1877 1362,1849 1416,1849 1416,1875 1477,1873 1518,1873 1573,1874 1573,1950 1472,1952 1416,1952 1416,1979 1362,1979 1362,1952 1304,1952 1304,1979 1250,1979 1250,1955 1204,1956 1144,1956 1114,1977 1068,1977 1068,1954 969,1954 913,1954 872,1971 840,1971 835,1979 784,1979 723,1959 671,1959 665,1966 544,1966 532,1954 521,1954" baseline="521,1963 722,1957 913,1953 1144,1954 1573,1948" reason: second model: differs: "PBon" against "er|2" | Wikisource: Von zuͦ borg vffnemen | next_nc_e1: Don zů boꝛg uffnemen | german_print2_15: PBonzü boꝛg vffnemen α -->
+			<!-- line left out: id="r10l1" points="464,1974 544,1974 548,1983 620,1983 620,1997 659,1997 679,1985 728,1985 740,1995 805,1995 816,1981 844,1981 847,1992 874,1992 913,1991 934,1991 1021,1991 1048,1993 1049,1985 1079,1985 1081,1993 1116,1993 1141,1975 1167,1975 1169,1990 1196,1990 1237,1992 1642,1964 1683,1964 1683,1997 1642,1997 1237,2021 1216,2022 1079,2024 1049,2024 1021,2022 999,2022 957,2021 955,2036 933,2036 933,2021 901,2022 874,2024 766,2025 740,2025 728,2041 696,2041 696,2025 682,2025 682,2041 659,2043 619,2043 619,2031 548,2031 544,2022 464,2022" baseline="464,2028 740,2024 804,2023 975,2021 1642,2018 1683,2018" reason: differs: "daneyna" against "dann ey" | Wikisource:  | next_nc_e1: Der iſt me dan eyn ander narr . | german_print2_15:  Der iſt me dan eyn ander narr S5 -->
+			<TextLine id="r10l2" custom="readingOrder {index:2;}">
+				<Coords points="508,2075 514,2075 550,2050 627,2050 627,2057 665,2057 688,2045 770,2045 770,2057 827,2056 827,2042 877,2042 881,2058 981,2057 981,2042 1025,2042 1036,2057 1052,2057 1052,2035 1078,2035 1078,2041 1139,2041 1139,2057 1181,2056 1181,2050 1209,2050 1230,2056 1282,2057 1282,2048 1307,2048 1322,2039 1349,2039 1352,2052 1377,2052 1377,2084 1352,2084 1349,2099 1322,2099 1307,2088 1230,2087 1209,2095 1181,2095 1181,2085 1118,2087 1101,2100 1078,2100 1078,2110 1052,2110 1052,2087 936,2087 934,2101 911,2101 908,2086 881,2086 877,2101 827,2101 827,2088 736,2089 736,2106 688,2106 665,2091 627,2095 550,2095 514,2081 508,2081" />
+				<Baseline points="508,2094 792,2088 1377,2084" />
+				<TextEquiv index="1">
+					<Unicode>Wer ſtaͤts vff nymbt vff boꝛg vnd ha</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r10l3" points="517,2124 536,2124 549,2116 607,2113 659,2113 659,2102 705,2102 705,2113 735,2112 749,2112 752,2124 797,2123 817,2123 858,2124 860,2107 916,2107 916,2121 934,2119 953,2119 972,2122 972,2111 992,2106 1044,2106 1044,2121 1111,2121 1159,2123 1162,2110 1178,2106 1214,2106 1629,2100 1685,2100 1685,2176 1629,2176 1214,2149 1159,2149 1111,2150 1044,2150 1044,2158 1017,2158 1017,2167 992,2167 992,2151 953,2152 916,2152 860,2152 858,2166 835,2166 833,2152 817,2153 752,2153 749,2167 735,2167 705,2173 659,2173 607,2169 605,2161 536,2162 517,2162" baseline="517,2156 860,2151 1122,2149 1213,2149 1629,2144 1685,2143" reason: differs: "Vndj" against "r Vn" | Wikisource:  | next_nc_e1: Vnd jn jm nyt betrachten wil ſ | german_print2_15: Vnd jn jm nyt betrachten wil M , -->
+			<!-- line left out: id="r10l4" points="463,2176 537,2176 621,2178 624,2190 686,2188 701,2188 774,2188 774,2158 801,2158 801,2174 825,2174 825,2187 847,2186 864,2186 865,2176 879,2176 879,2169 909,2169 909,2158 931,2158 931,2184 969,2181 984,2181 984,2158 1006,2158 1006,2172 1024,2172 1024,2158 1061,2158 1061,2171 1080,2171 1099,2184 1116,2184 1116,2169 1152,2169 1152,2184 1164,2184 1193,2185 1212,2163 1240,2163 1240,2180 1320,2179 1339,2178 1363,2178 1367,2162 1392,2162 1392,2206 1367,2206 1363,2222 1339,2222 1320,2220 1308,2210 1281,2210 1280,2223 1257,2223 1257,2210 1240,2212 1193,2215 1178,2216 1164,2216 1152,2213 1152,2231 1116,2231 1116,2213 1099,2213 1080,2231 1061,2231 1061,2238 1024,2238 1024,2217 1006,2217 1006,2238 984,2238 984,2220 969,2220 931,2218 931,2238 909,2238 909,2227 879,2227 879,2216 847,2216 845,2229 825,2234 801,2238 774,2238 774,2221 732,2222 676,2223 621,2227 537,2230 463,2230" baseline="463,2224 774,2219 1079,2217 1212,2213 1307,2212 1392,2212" reason: second model: differs: "DDas" against "n wi" | Wikisource: Das man spricht/ woͤlff essen keyn zyl | next_nc_e1: Das man ſpꝛicht/ woͤlff eſſen keyn ʒyl
+ | german_print2_15: D Das man ſpꝛicht / woͤlff eſſen keyn zyl
+ -->
+			<TextEquiv index="1">
+				<Unicode>Wer ſtaͤts vff nymbt vff boꝛg vnd ha</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r11">
+			<Coords points="325,1724 528,1724 528,2071 325,2071" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Wer vil zuͦ borg vff nemen wil
+Dem essent woͤlff doch nit syn zyl
+Der esel schlecht jn vnderwil
+center|250px
+Von zuͦ borg vffnemen
+Der ist me dann eyn ander narr
+Wer staͤts vff nymbt vff borg vnd har
+Vnd jn jm nyt betrachten wil
+Das man spricht / woͤlff essen keyn zyl
+-->
+	</Page>
+</PcGts>

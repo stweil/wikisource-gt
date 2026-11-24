@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:27:10</Created>
+		<LastChange>2026-11-24T05:27:10</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0152.jpg revision 2883927 of 2016-08-18T14:00:39Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0152.jpg" imageWidth="1923" imageHeight="2557">
+		<ReadingOrder>
+			<OrderedGroup id="ro3505335695757466189" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="r0" />
+				<RegionRefIndexed index="8" regionRef="r8" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="r0" custom="readingOrder {index:0;} orientation {0;}">
+			<Coords points="352,236 1230,236 1230,451 352,451" />
+			<TextLine id="r0l0" custom="readingOrder {index:0;}">
+				<Coords points="393,283 413,283 480,259 554,259 556,273 596,273 606,260 616,260 616,272 638,272 640,260 726,259 726,276 739,276 742,261 797,260 797,236 821,236 821,273 836,273 836,240 872,240 876,268 889,268 915,273 915,259 970,259 981,272 1002,272 1002,260 1021,260 1030,243 1047,239 1072,239 1072,275 1084,275 1087,263 1118,263 1118,276 1155,277 1155,306 1118,306 1118,322 1087,322 1084,304 1072,304 1072,326 1047,326 1047,317 1030,317 1021,303 889,305 821,303 821,319 797,319 797,312 773,315 742,315 739,304 706,304 706,315 692,315 679,303 554,306 480,306 413,320 393,320" />
+				<Baseline points="393,307 678,303 969,302 1155,306" />
+				<TextEquiv index="1">
+					<Unicode>Wer vil luſt hatt/ wie er hofier</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r0l1" points="352,325 479,324 538,324 538,337 553,337 553,322 611,322 611,334 641,334 657,323 670,323 670,336 689,336 691,323 730,322 775,322 775,336 804,336 807,330 842,330 853,335 853,320 909,320 909,336 919,336 945,337 947,324 978,324 978,313 1039,313 1039,324 1053,324 1053,313 1114,313 1114,324 1124,324 1133,339 1152,339 1152,328 1173,323 1207,323 1211,343 1230,343 1230,373 1211,373 1185,371 1185,382 1152,382 1152,372 1114,372 1114,393 1053,393 1053,372 1039,372 1039,393 978,393 978,372 947,372 945,366 909,366 909,379 853,379 853,366 842,366 842,375 807,375 804,365 775,366 730,366 727,378 691,378 689,367 670,367 670,378 657,378 611,375 585,375 585,389 553,389 553,368 538,372 479,372 460,389 352,389" baseline="352,362 640,366 807,366 1038,368 1230,373" reason: differs: "rthuuͦr" against " thuͤr D" | Wikisource:  | next_nc_e1: Nachtʒ vff der gaſſen/ voꝛ der thuůr | german_print2_15: Vachtz vff der gaſſen / voꝛ der thuͦr -->
+			<!-- line left out: id="r0l2" points="411,403 465,403 480,386 538,386 540,400 587,400 606,386 614,386 614,396 639,396 639,386 664,386 664,400 687,396 696,396 696,388 742,385 767,385 770,399 796,397 821,397 852,400 872,401 938,401 938,385 1004,385 1004,403 1016,403 1016,397 1072,397 1084,388 1087,388 1087,405 1104,405 1125,406 1126,393 1148,393 1148,407 1163,407 1165,388 1194,388 1196,407 1216,407 1216,437 1196,437 1148,436 1148,451 1126,451 1125,435 1087,435 1087,451 1084,451 1072,436 1016,436 1004,432 1004,440 938,440 938,432 924,432 737,431 698,431 698,445 687,445 686,429 657,429 639,427 639,437 614,437 614,445 606,445 587,429 540,429 538,436 480,436 411,433" baseline="411,428 606,428 883,430 1071,434 1084,434 1216,437" reason: second model: differs: "RDen" against "Den " | Wikisource: Den glust/ das er wachend erfruͤr | next_nc_e1: Den gluſt/ das er wachend erfruͤr
+ | german_print2_15: RDen gluſt / das er wachend erfrur
+ -->
+			<TextEquiv index="1">
+				<Unicode>Wer vil luſt hatt/ wie er hofier</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r1">
+			<Coords points="644,893 658,893 658,1227 644,1227" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r2">
+			<Coords points="637,901 647,901 647,1227 637,1227" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r3">
+			<Coords points="692,886 697,886 697,1300 692,1300" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r4">
+			<Coords points="687,886 692,886 692,1500 687,1500" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r5">
+			<Coords points="666,878 671,878 671,1532 666,1532" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r6">
+			<Coords points="656,892 663,892 663,1541 656,1541" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r7">
+			<Coords points="693,886 718,886 718,1548 693,1548" />
+		</SeparatorRegion>
+		<TextRegion id="r8" custom="readingOrder {index:8;} orientation {0;}">
+			<Coords points="377,2039 1240,2039 1240,2246 377,2246" />
+			<TextLine id="r8l0" custom="readingOrder {index:0;}">
+				<Coords points="464,2048 487,2044 537,2044 537,2058 575,2058 581,2046 622,2046 622,2056 663,2056 675,2043 732,2043 732,2058 741,2058 743,2043 786,2043 793,2057 875,2057 885,2046 896,2046 896,2058 914,2058 914,2046 946,2046 957,2058 980,2058 980,2039 1001,2039 1023,2044 1039,2054 1058,2054 1058,2060 1112,2056 1142,2056 1142,2097 1112,2097 1110,2088 1058,2090 1058,2097 1039,2097 1023,2089 1001,2089 1001,2112 980,2112 980,2089 957,2089 946,2108 914,2108 914,2100 896,2100 896,2108 885,2108 875,2087 743,2087 741,2099 732,2100 675,2100 663,2088 622,2090 464,2090" />
+				<Baseline points="464,2090 785,2087 1142,2088" />
+				<TextEquiv index="1">
+					<Unicode>Aber das ſpyel wer nit all gantʒ</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r8l1" custom="readingOrder {index:1;}">
+				<Coords points="437,2152 446,2152 464,2111 536,2111 536,2120 620,2123 634,2109 637,2109 637,2122 659,2122 662,2109 715,2108 744,2108 776,2111 784,2123 826,2121 957,2120 986,2124 989,2110 1070,2111 1117,2109 1179,2109 1202,2111 1202,2126 1215,2126 1216,2111 1240,2111 1240,2156 1202,2155 1202,2169 1159,2169 1159,2152 1136,2152 1127,2169 1117,2169 1106,2152 1043,2153 1034,2163 989,2163 986,2153 744,2151 744,2164 715,2164 695,2153 464,2154 446,2161 437,2161" />
+				<Baseline points="437,2154 775,2151 1117,2152 1240,2156" />
+				<TextEquiv index="1">
+					<Unicode>Wann nit hie weren ouch die loͤffel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r8l2" points="377,2178 459,2178 463,2171 534,2171 593,2172 593,2183 609,2183 634,2186 634,2172 675,2172 675,2186 696,2186 712,2184 731,2184 806,2184 843,2187 843,2180 876,2180 876,2167 937,2167 937,2180 955,2180 965,2174 992,2174 1034,2173 1052,2173 1052,2183 1066,2183 1066,2176 1088,2173 1132,2173 1132,2188 1144,2188 1146,2173 1169,2173 1169,2217 1146,2217 1132,2216 1132,2232 1088,2232 1088,2219 1067,2219 1067,2228 1052,2232 1034,2232 1029,2218 992,2222 965,2222 955,2240 937,2240 937,2246 876,2246 876,2240 843,2240 806,2239 806,2220 771,2220 771,2239 751,2239 751,2218 732,2218 731,2239 712,2239 709,2217 675,2217 675,2234 657,2234 657,2240 634,2240 634,2217 609,2217 609,2228 593,2228 593,2240 575,2240 570,2218 534,2221 463,2221 459,2242 377,2242" baseline="377,2217 1169,2216" reason: second model: differs: "BDie" against "Die " | Wikisource: Die gassentretter/ vnd die goͤffel | next_nc_e1: Die gaſſentretter/ vnd die goͤffel
+ | german_print2_15: BDie gaſſentretter / vnd die goͤffel
+ -->
+			<TextEquiv index="1">
+				<Unicode>Aber das ſpyel wer nit all gantʒ
+Wann nit hie weren ouch die loͤffel</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r9">
+			<Coords points="0,0 1923,0 1923,2557 0,2557" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Wer vil lust hatt / wie er hofier
+Nachtz vff der gassen / vor der thuͤr
+Den glust / das er wachend erfruͤr
+center|250px
+Von nachtes hofyeren.
+Jetz wer schyer vß der narren dantz
+Aber das spyel wer nit all gantz
+Wann nit hie weren ouch die loͤffel
+Die gassentretter / vnd die goͤffel
+-->
+	</Page>
+</PcGts>

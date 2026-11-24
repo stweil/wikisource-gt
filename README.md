@@ -15,10 +15,12 @@ de.wikisource.org, `la` for la.wikisource.org, ...):
 
 | Directory | Work | Pages | Lines used | Lines left out |
 |---|---|---|---|---|
+| `de/narrenschiff_1499` | Sebastian Brant: Das Narrenschiff, Basel 1499 | 307 | 2,860 | 5,188 |
 | `de/rosengarten_1515` | Eucharius Rößlin: Der Swangern frawen vnd hebammen roszgarten, 1515 | 100 | 1,432 | 1,940 |
 | `de/vlenspiegel_1515` | Ein kurtzweilig lesen von Dyl Vlenspiegel, Straßburg 1515 | 252 | 2,376 | 3,019 |
 | `de/schachzabel_1520` | Jakob Köbel: Schachzabel Spiel, Oppenheim 1520 | 43 | 716 | 512 |
 | `de/bergbuechlin_1527` | Ein nützlich Bergbüchlin, 1527 | 46 | 675 | 489 |
+| `de/carolina_1533` | Keyser Karls des fünfften vnnd des heyligen Römischen Reichs peinlich gerichts ordnung (Constitutio criminalis Carolina), Mainz 1533 | 108 | 1,614 | 2,123 |
 | `de/teuffel_1589` | Hansen Schmidt Teuffel, 1589 | 23 | 429 | 314 |
 | `de/restitutionsedikt_1629` | Restitutionsedikt, 1629 | 28 | 330 | 726 |
 | `de/pralerey_1673` | Deß Weltberuffenen Simplicissimi Pralerey und Gepräng mit seinem Teutschen Michel, 1673 | 121 | 1,869 | 1,395 |
@@ -73,7 +75,7 @@ de.wikisource.org, `la` for la.wikisource.org, ...):
 | `de/freud_vorlesungen_1933` | Neue Folge der Vorlesungen zur Einführung in die Psychoanalyse | 30 | 828 | 109 |
 | `de/philo_traeume_1938` | Über die Träume (De somnis) übersetzt von Maximilian Adler | 30 | 709 | 520 |
 | `de/loos_schriften_1962` | Adolf Loos: Adolf Loos – Sämtliche Schriften | 30 | 829 | 120 |
-| | **Total** | **2,805** | **66,956** | **45,948** |
+| | **Total** | **3,220** | **71,430** | **53,259** |
 
 **Evaluation data:** the two volumes of the *Mitteilungen des Vereins für
 Chemnitzer Geschichte* (`de/chemnitz_1878`, `de/chemnitz_1883`, modern
@@ -125,7 +127,10 @@ print, so the text is processed (`scripts/ws-build.py`):
    r rotunda / r, vowel with bar / vowel + n or m, `ñ` / nn or nd, `ð` /
    der, ...). The text gets the letters of Wikisource and the print forms
    of the recognition. Where a model reads one plain letter as another, the
-   letter of Wikisource is taken (at most twice per line).
+   letter of Wikisource is taken (at most twice per line). With `STRICT=1`
+   (used for Narrenschiff 1499 and Carolina 1533) the line is left out
+   instead when both models read the same other letter there: in a sample
+   that was nearly always a place where Wikisource differs from the print.
 4. A line is used only if both models lead to exactly the same text. All
    other lines are left out.
 5. The layout analysis sometimes cuts a printed line into pieces. A piece
@@ -180,6 +185,10 @@ abbreviations, line breaks, the virgule.
 
 downloads the scan file of each work from Wikimedia Commons (one request per
 work, checked by SHA-1) and writes the page images next to the PAGE files.
+Two works have one image file per page (`de/narrenschiff_1499`,
+`de/carolina_1533`); Wikimedia Commons refuses fast downloads of original
+files, so these are fetched at one image every 90 seconds (about 8 and 3
+hours).
 It needs `curl`, ImageMagick with DjVu support and `pdftoppm`.
 
 ## Adding a work

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T15:41:53</Created>
+		<LastChange>2026-11-23T15:41:53</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0010.jpg revision 5099139 of 2026-11-18T04:51:37Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0010.jpg" imageWidth="1764" imageHeight="2539">
+		<ReadingOrder>
+			<OrderedGroup id="ro12916888384576732614" caption="Regions reading order">
+				<RegionRefIndexed index="1" regionRef="r1" />
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="12" regionRef="r12" />
+				<RegionRefIndexed index="13" regionRef="r13" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 1764,0 1764,384 0,384" />
+		</GraphicRegion>
+		<TextRegion id="r1" custom="readingOrder {index:1;} orientation {0;}">
+			<Coords points="251,220 1238,220 1238,420 251,420" />
+			<TextLine id="r1l0" custom="readingOrder {index:0;}">
+				<Coords points="382,227 459,227 459,242 500,242 508,228 532,230 541,228 587,228 597,242 618,242 618,220 644,220 644,228 662,228 683,235 701,235 701,241 729,241 729,220 755,220 755,239 770,239 770,227 797,227 834,230 834,240 910,239 939,234 969,234 970,240 1029,239 1069,243 1069,227 1093,227 1093,249 1113,249 1114,236 1162,237 1210,269 1237,269 1237,289 1210,289 1162,279 1142,279 1142,290 1114,290 1113,278 996,277 941,275 941,287 910,287 910,274 890,274 878,284 817,287 797,273 755,273 755,294 729,294 729,272 701,272 701,283 662,287 644,287 644,294 618,294 618,276 597,276 587,284 532,288 508,288 500,282 459,282 459,289 382,289" />
+				<Baseline points="382,277 877,273 996,276 1237,272" />
+				<TextEquiv index="1">
+					<Unicode>Wer ſich vff gwalt jm radt verloßt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r1l1" custom="readingOrder {index:1;}">
+				<Coords points="384,297 444,297 444,304 501,304 511,294 523,294 539,296 540,310 565,310 565,294 591,294 591,311 609,311 609,294 683,294 690,291 756,291 756,275 803,275 803,291 846,293 846,275 866,275 866,308 936,309 936,275 962,275 966,309 981,309 981,275 1006,275 1033,297 1074,297 1074,310 1108,310 1119,298 1145,298 1171,299 1171,316 1189,316 1191,299 1222,299 1222,311 1238,311 1238,345 1222,345 1222,360 1191,360 1189,343 1074,342 1074,348 1033,348 1006,365 981,365 981,337 966,337 965,351 962,351 962,365 936,365 936,351 908,351 888,337 866,337 866,365 846,365 846,344 803,343 803,365 756,365 756,343 714,343 714,350 694,350 690,343 683,350 658,350 651,337 591,338 591,352 565,352 565,339 540,339 539,352 511,352 501,342 444,345 384,345" />
+				<Baseline points="384,341 658,338 756,342 1033,341 1238,345" />
+				<TextEquiv index="1">
+					<Unicode>Vnd henckt ſich wo der wynd har bloßt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r1l2" points="251,359 374,359 466,359 487,373 506,373 508,359 533,359 533,372 546,372 546,357 597,356 638,356 698,356 698,370 723,370 760,373 768,358 804,358 804,372 847,372 854,354 865,354 950,354 975,357 1012,361 1012,373 1024,373 1024,361 1066,361 1066,374 1109,374 1109,406 1066,406 1066,420 1024,420 1024,402 1012,402 1012,420 977,420 975,401 950,401 950,413 878,413 878,401 865,401 865,413 854,413 847,401 804,401 804,413 768,413 760,400 723,401 698,401 698,416 675,416 665,401 638,403 597,403 546,402 533,401 533,416 508,416 506,403 487,403 466,386 251,386" baseline="251,401 977,401 1109,402" reason: differs: "ODer" against "Der " | Wikisource:  | next_nc_e1: ODer ſelb die ſuw jnn keſſel ſtoßt
+ | german_print2_15: SDer ſelb die ſuw jnn beſſel ſtoßt
+ -->
+			<TextEquiv index="1">
+				<Unicode>Wer ſich vff gwalt jm radt verloßt
+Vnd henckt ſich wo der wynd har bloßt</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r2">
+			<Coords points="397,446 1415,446 1415,459 397,459" />
+		</SeparatorRegion>
+		<GraphicRegion id="r3">
+			<Coords points="238,761 581,761 581,889 238,889" />
+		</GraphicRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} orientation {0;}">
+			<Coords points="571,764 612,764 612,824 571,824" />
+			<!-- line left out: id="r4l0" points="571,764 588,764 588,772 571,772" baseline="571,772 588,771" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 4 | german_print2_15: 4 -->
+			<!-- line left out: id="r4l1" points="581,769 610,769 610,790 581,790" baseline="581,789 610,790" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: D | german_print2_15: RR -->
+			<!-- line left out: id="r4l2" points="581,786 610,786 610,805 581,805" baseline="581,804 610,805" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: E | german_print2_15: SG -->
+			<!-- line left out: id="r4l3" points="587,804 612,804 612,824 587,824" baseline="587,824 612,824" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: —
+ | german_print2_15: =
+ -->
+		</TextRegion>
+		<GraphicRegion id="r5">
+			<Coords points="238,1689 444,1689 444,1907 238,1907" />
+		</GraphicRegion>
+		<GraphicRegion id="r6">
+			<Coords points="584,889 597,889 597,895 584,895" />
+		</GraphicRegion>
+		<SeparatorRegion id="r7">
+			<Coords points="1395,823 1411,823 1411,1149 1395,1149" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r8">
+			<Coords points="438,1685 760,1685 760,1689 438,1689" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r9">
+			<Coords points="1399,1354 1412,1354 1412,1737 1399,1737" />
+		</SeparatorRegion>
+		<GraphicRegion id="r10">
+			<Coords points="631,1689 1764,1689 1764,2539 631,2539" />
+		</GraphicRegion>
+		<SeparatorRegion id="r11">
+			<Coords points="397,704 419,704 419,1811 397,1811" />
+		</SeparatorRegion>
+		<TextRegion id="r12" custom="readingOrder {index:12;} orientation {0;}">
+			<Coords points="557,1761 604,1761 604,1800 557,1800" />
+			<!-- line left out: id="r12l0" points="557,1761 604,1761 604,1800 557,1800" baseline="557,1780 604,1780" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: —
+ | german_print2_15:  -->
+		</TextRegion>
+		<TextRegion id="r13" custom="readingOrder {index:13;} orientation {0;}">
+			<Coords points="0,1838 1201,1838 1201,2221 0,2221" />
+			<!-- line left out: id="r13l0" points="0,1903 373,1903 512,1838 633,1838 639,1861 691,1861 754,1862 830,1861 889,1859 927,1859 1028,1860 1085,1858 1128,1855 1201,1855 1201,1934 1083,1937 969,1937 887,1937 830,1937 829,1960 764,1960 754,1936 691,1937 639,1937 633,1945 512,1945 373,1963 0,1963" baseline="0,1941 1201,1934" reason: second model: differs: "IVon" against "250p" | Wikisource: Von guten rete | next_nc_e1: Bongutenrete | german_print2_15: IVongutenrete -->
+			<!-- line left out: id="r13l1" points="258,1962 304,1962 323,1983 329,1983 342,1969 384,1969 388,1962 444,1961 493,1961 569,1956 627,1956 650,1961 677,1966 685,1964 715,1960 745,1960 750,1975 797,1975 838,1974 857,1974 857,1960 910,1960 915,1969 950,1969 975,1973 1065,1970 1084,1970 1084,2002 1034,2003 996,2004 950,2004 950,2013 857,2013 857,2003 837,2004 777,2005 745,2006 706,2007 689,2007 689,2020 676,2020 676,2004 650,2007 627,2007 627,2026 569,2026 569,2007 532,2007 532,2022 488,2022 484,2006 444,2008 388,2008 384,1998 342,1998 329,1988 323,1988 304,2021 258,2021" baseline="258,2003 1084,2003" reason: differs: "VVVi" against "n. V" | Wikisource:  | next_nc_e1: VVVil ſint den iſt dar noch gar not | german_print2_15: WVRVil ſint den iſt dar noch gar not -->
+			<!-- line left out: id="r13l2" points="250,1976 385,1976 387,2030 506,2029 539,2029 539,2040 557,2040 566,2025 593,2025 593,2039 617,2039 617,2027 632,2027 659,2032 670,2022 699,2022 699,2039 753,2037 790,2037 816,2039 829,2025 844,2025 846,2038 874,2038 883,2021 952,2021 952,2038 977,2037 1023,2037 1024,2031 1047,2031 1100,2067 1120,2067 1120,2079 1100,2079 1047,2068 1023,2069 952,2069 883,2069 846,2068 844,2081 829,2081 816,2068 790,2070 699,2071 593,2071 566,2071 538,2070 536,2085 506,2085 496,2070 459,2074 387,2074 385,2111 250,2111" baseline="250,2073 495,2070 963,2067 1120,2069" reason: second model: differs: "MWwe" against "r no" | Wikisource: Wie sie bald kumen jn den rot | next_nc_e1: Wie ſie bald kumen jn den rot | german_print2_15: MWwe ſie bald kumen jn den rot -->
+			<!-- line left out: id="r13l3" points="252,2086 370,2086 459,2090 505,2089 519,2089 532,2092 535,2108 560,2108 561,2089 607,2089 646,2090 646,2104 696,2103 716,2102 726,2102 726,2086 790,2086 790,2101 817,2101 870,2102 870,2090 917,2090 925,2101 957,2101 1000,2102 1000,2091 1044,2091 1044,2103 1060,2101 1089,2101 1089,2131 1059,2132 1044,2132 1044,2147 1000,2147 1000,2132 980,2133 925,2133 895,2132 895,2138 852,2138 817,2134 790,2134 790,2140 726,2140 726,2133 684,2135 612,2135 607,2144 561,2144 560,2136 519,2136 519,2144 505,2144 496,2134 459,2138 389,2138 370,2184 252,2184" baseline="252,2131 369,2131 606,2135 683,2134 843,2132 1089,2131" reason: differs: "2Die" against "Die " | Wikisource:  | next_nc_e1: 2 Die doch des rechten nit verſton | german_print2_15:  -->
+			<!-- line left out: id="r13l4" points="388,2155 447,2155 447,2161 503,2161 514,2153 523,2153 584,2153 584,2170 600,2170 602,2157 647,2153 692,2153 699,2167 725,2167 754,2168 763,2154 791,2154 793,2166 813,2166 839,2167 892,2165 925,2165 939,2167 939,2157 968,2157 970,2166 1016,2166 1024,2148 1057,2148 1057,2165 1111,2165 1111,2195 1082,2197 1057,2197 1057,2208 1024,2208 1016,2197 968,2201 939,2201 925,2197 891,2198 853,2198 813,2197 793,2196 791,2202 763,2202 725,2200 699,2200 692,2211 647,2211 647,2198 635,2202 602,2202 584,2200 584,2211 561,2211 561,2200 523,2200 523,2211 514,2211 503,2202 447,2202 447,2221 388,2221" baseline="388,2199 838,2197 1111,2196" reason: second model has no such line | Wikisource: Vnd blintlich an den wenden gon | next_nc_e1: Vnd blintlich an den wenden gon
+ | german_print2_15:  -->
+		</TextRegion>
+		<SeparatorRegion id="r14">
+			<Coords points="406,1796 1395,1796 1395,1810 406,1810" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Wer sich vff gwalt jm radt verloßt
+Vnd henckt sich wo der wynd har bloßt
+Der selb die suw jnn kessel stoßt
+center|250px
+Von guten reten.
+Vil sint den ist dar noch gar not
+Wie sie bald kumen jn den rot
+Die doch des rechten nit verston
+Vnd blintlich an den wenden gon
+-->
+	</Page>
+</PcGts>

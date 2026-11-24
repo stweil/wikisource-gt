@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-23T15:41:58</Created>
+		<LastChange>2026-11-23T15:41:58</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0014.jpg revision 5105532 of 2026-11-18T13:22:59Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0014.jpg" imageWidth="1769" imageHeight="2561">
+		<ReadingOrder>
+			<OrderedGroup id="ro14971681706191023007" caption="Regions reading order">
+				<RegionRefIndexed index="4" regionRef="r4" />
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="9" regionRef="r9" />
+				<RegionRefIndexed index="10" regionRef="r10" />
+				<RegionRefIndexed index="15" regionRef="r15" />
+				<RegionRefIndexed index="16" regionRef="r16" />
+				<RegionRefIndexed index="19" regionRef="r19" />
+				<RegionRefIndexed index="20" regionRef="r20" />
+				<RegionRefIndexed index="21" regionRef="r21" />
+				<RegionRefIndexed index="28" regionRef="r28" />
+				<RegionRefIndexed index="30" regionRef="r30" />
+				<RegionRefIndexed index="31" regionRef="r31" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,42 99,42 99,1379 0,1379" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="1443,0 1769,0 1769,2561 1443,2561" />
+		</GraphicRegion>
+		<SeparatorRegion id="r2">
+			<Coords points="1420,422 1459,422 1459,1806 1420,1806" />
+		</SeparatorRegion>
+		<GraphicRegion id="r3">
+			<Coords points="0,1131 0,1131 0,1325 0,1325" />
+		</GraphicRegion>
+		<TextRegion id="r4" custom="readingOrder {index:4;} readingDirection {top-to-bottom;} orientation {0;}">
+			<Coords points="1340,1182 1448,1182 1448,1472 1340,1472" />
+			<!-- line left out: id="r4l0" points="1448,1182 1448,1472 1340,1472 1340,1182" baseline="1358,1182 1338,1472" reason: differs: "WW" against "Wer v" | Wikisource:  | next_nc_e1: WW
+ | german_print2_15: WWWENENE
+ -->
+		</TextRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} readingDirection {top-to-bottom;} orientation {0;}">
+			<Coords points="1390,1073 1427,1073 1427,1150 1390,1150" />
+			<!-- line left out: id="r5l0" points="1427,1073 1427,1150 1390,1150 1390,1073" baseline="1395,1073 1394,1150" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: N
+ | german_print2_15: W
+ -->
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} readingDirection {top-to-bottom;} orientation {0;}">
+			<Coords points="1249,928 1307,928 1307,1146 1249,1146" />
+			<!-- line left out: id="r6l0" points="1307,1012 1307,1146 1274,1146 1274,1012" baseline="1277,1012 1276,1146" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: —— | german_print2_15: DSS -->
+			<!-- line left out: id="r6l1" points="1262,928 1262,945 1249,945 1249,928" baseline="1253,928 1253,945" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 2
+ | german_print2_15: ,, -->
+		</TextRegion>
+		<GraphicRegion id="r7">
+			<Coords points="0,1131 0,1131 0,1278 0,1278" />
+		</GraphicRegion>
+		<SeparatorRegion id="r8">
+			<Coords points="918,663 920,663 920,750 918,750" />
+		</SeparatorRegion>
+		<TextRegion id="r9" custom="readingOrder {index:9;} orientation {0;}">
+			<Coords points="703,271 1230,271 1230,341 703,341" />
+			<!-- line left out: id="r9l0" points="703,271 740,271 749,280 784,280 830,285 830,271 857,271 857,287 878,287 878,273 950,273 950,288 977,288 979,281 1007,281 1027,275 1050,275 1090,274 1130,274 1130,293 1145,293 1145,284 1187,284 1227,275 1230,275 1230,280 1227,280 1187,325 1145,325 1130,321 1130,341 1090,341 1090,329 1050,333 1027,333 1007,320 979,320 950,318 916,318 907,331 857,331 830,331 830,315 784,315 784,325 749,325 740,331 718,331 718,314 703,314" baseline="703,314 916,317 1027,319 1230,323" reason: differs: "aͤrge" against "Wer " | Wikisource:  | next_nc_e1: aͤrgernyß vnd ſchand
+ | german_print2_15: aãrgernyß vnd ſchand
+ -->
+		</TextRegion>
+		<TextRegion id="r10" custom="readingOrder {index:10;} orientation {0;}">
+			<Coords points="454,201 1299,201 1299,404 454,404" />
+			<!-- line left out: id="r10l0" points="592,205 647,205 680,209 681,221 718,221 723,201 742,201 742,207 772,207 772,220 798,220 798,201 830,201 963,202 963,222 978,222 984,208 1002,205 1066,205 1111,208 1167,210 1167,228 1184,228 1193,213 1220,213 1220,227 1238,227 1238,212 1267,212 1299,213 1299,265 1264,265 1211,264 1193,261 1147,260 1119,260 1111,267 1064,267 1064,256 1044,257 1029,257 1029,267 1002,267 1002,256 984,256 963,255 963,262 841,262 830,254 798,254 772,251 772,269 723,269 718,253 592,253" baseline="592,252 829,253 984,255 1110,259 1119,259 1193,260 1299,266" reason: second model: differs: "bnüw" against "r vi" | Wikisource: nüw fünd macht durch die land | next_nc_e1: nüw fünd macht durch die kand | german_print2_15: bnüw fünd macht durch die kand -->
+			<!-- line left out: id="r10l1" points="454,388 478,340 535,340 547,332 587,332 587,347 607,347 608,334 645,334 684,335 686,348 706,348 792,348 792,338 816,338 816,350 866,350 866,338 905,334 934,334 934,353 956,353 966,333 994,333 1019,337 1019,354 1036,354 1045,340 1074,340 1074,354 1100,354 1127,356 1129,348 1158,348 1158,386 1129,386 1074,385 1074,404 1045,404 1036,383 994,383 966,383 956,396 932,396 932,382 905,382 816,380 792,380 706,378 645,379 608,379 587,378 587,397 547,397 478,394 454,390" baseline="454,376 746,378 905,380 1035,384 1045,384 1158,386" reason: piece of a line: starts inside a word | Wikisource:  | next_nc_e1: nd halt den narren by der hand
+ | german_print2_15: Ind halt den narren by der hand
+ -->
+		</TextRegion>
+		<GraphicRegion id="r11">
+			<Coords points="0,2063 0,2063 0,2082 0,2082" />
+		</GraphicRegion>
+		<GraphicRegion id="r12">
+			<Coords points="0,2026 0,2026 0,2115 0,2115" />
+		</GraphicRegion>
+		<GraphicRegion id="r13">
+			<Coords points="0,2063 0,2063 0,2102 0,2102" />
+		</GraphicRegion>
+		<GraphicRegion id="r14">
+			<Coords points="0,1967 0,1967 0,2139 0,2139" />
+		</GraphicRegion>
+		<TextRegion id="r15" custom="readingOrder {index:15;} readingDirection {top-to-bottom;} orientation {0;}">
+			<Coords points="1337,1476 1421,1476 1421,1642 1337,1642" />
+			<!-- line left out: id="r15l0" points="1421,1476 1421,1642 1337,1642 1337,1476" baseline="1347,1476 1341,1642" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: I
+ | german_print2_15: N
+ -->
+		</TextRegion>
+		<TextRegion id="r16" custom="readingOrder {index:16;} readingDirection {top-to-bottom;} orientation {0;}">
+			<Coords points="1334,1572 1346,1572 1346,1575 1334,1575" />
+			<!-- line left out: id="r16l0" points="1346,1572 1346,1575 1334,1575 1334,1572" baseline="1334,1572 1334,1575" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: D
+ | german_print2_15: 1
+ -->
+		</TextRegion>
+		<GraphicRegion id="r17">
+			<Coords points="0,1240 0,1240 0,2150 0,2150" />
+		</GraphicRegion>
+		<SeparatorRegion id="r18">
+			<Coords points="1085,1660 1090,1660 1090,1746 1085,1746" />
+		</SeparatorRegion>
+		<TextRegion id="r19" custom="readingOrder {index:19;} orientation {0;}">
+			<Coords points="872,1931 1191,1931 1191,1998 872,1998" />
+			<TextLine id="r19l0" custom="readingOrder {index:0;}">
+				<Coords points="872,1931 888,1931 888,1939 911,1939 911,1931 933,1931 933,1939 935,1939 935,1953 959,1953 973,1955 973,1931 996,1931 1006,1942 1035,1939 1036,1931 1058,1931 1058,1939 1082,1939 1134,1945 1134,1951 1191,1953 1191,1997 1157,1997 1157,1987 1088,1988 1082,1994 1058,1998 1036,1998 1035,1985 996,1985 996,1998 973,1998 973,1984 935,1984 935,1993 933,1998 888,1998 872,1998" />
+				<Baseline points="872,1983 1191,1987" />
+				<TextEquiv index="1">
+					<Unicode>ſchantlich ding</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>ſchantlich ding</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r20" custom="readingOrder {index:20;} orientation {0;}">
+			<Coords points="405,1997 1219,1997 1219,2063 405,2063" />
+			<!-- line left out: id="r20l0" points="405,1997 476,1997 478,2010 530,2010 537,2003 543,2003 543,2014 579,2014 605,2017 605,2011 653,2011 776,2015 847,2015 856,2006 871,2001 919,2001 934,2006 934,2018 946,2018 946,2001 968,2001 999,2002 999,2017 1014,2017 1056,2019 1083,2021 1086,2013 1119,2013 1141,2016 1141,1998 1163,1998 1163,2023 1175,2023 1176,1998 1219,1998 1219,2055 1176,2055 1163,2053 1163,2062 1124,2062 1119,2054 1086,2054 1057,2052 1025,2051 999,2050 999,2058 968,2063 946,2063 946,2048 934,2049 919,2049 919,2057 893,2057 893,2063 856,2063 847,2057 817,2057 817,2047 797,2047 794,2058 773,2058 762,2046 662,2046 653,2055 606,2056 581,2056 579,2044 541,2044 537,2005 530,2044 476,2045 405,2045" baseline="405,2044 529,2042 537,2042 652,2046 773,2046 856,2047 1013,2050 1219,2055" reason: piece of a line: ends inside a word | Wikisource:  | next_nc_e1: Das wygt man yetz ſchlecht vnd geri
+ | german_print2_15: Das wygt man yetz ſchlecht vnd geri/
+ -->
+		</TextRegion>
+		<TextRegion id="r21" custom="readingOrder {index:21;} orientation {0;}">
+			<Coords points="404,2063 1123,2063 1123,2125 404,2125" />
+			<TextLine id="r21l0" custom="readingOrder {index:0;}">
+				<Coords points="404,2063 464,2063 464,2078 685,2080 761,2079 816,2081 949,2077 967,2082 995,2084 1005,2069 1030,2069 1030,2084 1091,2083 1123,2092 1123,2094 1120,2094 1091,2116 968,2115 949,2113 949,2123 917,2123 917,2113 856,2113 844,2125 817,2125 816,2113 761,2111 761,2125 732,2125 732,2112 623,2112 545,2109 545,2124 526,2124 435,2121 435,2108 404,2108" />
+				<Baseline points="404,2108 513,2107 684,2111 1123,2116" />
+				<TextEquiv index="1">
+					<Unicode>Eyn ere was ettwan tragen bert</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Eyn ere was ettwan tragen bert</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<GraphicRegion id="r22">
+			<Coords points="0,2035 0,2035 0,2139 0,2139" />
+		</GraphicRegion>
+		<SeparatorRegion id="r23">
+			<Coords points="406,1792 1129,1792 1129,1812 406,1812" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r24">
+			<Coords points="407,506 437,506 437,1790 407,1790" />
+		</SeparatorRegion>
+		<GraphicRegion id="r25">
+			<Coords points="0,2150 0,2150 0,2295 0,2295" />
+		</GraphicRegion>
+		<GraphicRegion id="r26">
+			<Coords points="0,2162 0,2162 0,2187 0,2187" />
+		</GraphicRegion>
+		<GraphicRegion id="r27">
+			<Coords points="0,1038 0,1038 0,1244 0,1244" />
+		</GraphicRegion>
+		<TextRegion id="r28" custom="readingOrder {index:28;} orientation {0;}">
+			<Coords points="1221,2018 1268,2018 1268,2066 1221,2066" />
+			<!-- line left out: id="r28l0" points="1221,2018 1268,2018 1268,2066 1221,2066" baseline="1221,2066 1268,2066" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: g
+ | german_print2_15: 19
+ -->
+		</TextRegion>
+		<GraphicRegion id="r29">
+			<Coords points="0,2162 0,2162 0,2277 0,2277" />
+		</GraphicRegion>
+		<TextRegion id="r30" custom="readingOrder {index:30;} orientation {0;}">
+			<Coords points="308,2119 1191,2119 1191,2204 308,2204" />
+			<!-- line left out: id="r30l0" points="308,2123 418,2123 497,2123 508,2129 537,2129 537,2143 561,2143 574,2145 575,2136 630,2131 660,2131 678,2135 678,2145 696,2145 766,2147 766,2130 790,2130 868,2130 868,2148 911,2148 930,2133 952,2133 952,2149 969,2147 1007,2147 1021,2151 1047,2144 1074,2144 1074,2119 1098,2119 1098,2150 1109,2150 1110,2135 1136,2135 1136,2150 1172,2148 1191,2148 1191,2184 1172,2184 1131,2181 1098,2180 1098,2204 1074,2204 1074,2191 1047,2191 1021,2180 951,2180 930,2179 868,2178 868,2187 828,2187 828,2194 804,2194 801,2177 790,2177 790,2194 766,2194 750,2191 749,2177 711,2177 696,2198 676,2198 676,2175 660,2180 630,2180 575,2179 561,2175 537,2175 537,2185 508,2185 466,2180 466,2200 406,2200 400,2191 308,2191" baseline="308,2175 399,2165 406,2166 496,2171 508,2171 618,2178 695,2177 711,2177 1047,2180 1191,2182" reason: differs: "IJet" against "bert" | Wikisource:  | next_nc_e1: I Jetz hand die wybſchen mann gelert
+ | german_print2_15: Jetz hand die wybſchen mann gelert
+ -->
+		</TextRegion>
+		<TextRegion id="r31" custom="readingOrder {index:31;} readingDirection {top-to-bottom;} orientation {0;}">
+			<Coords points="406,200 844,200 844,1996 406,1996" />
+			<!-- line left out: id="r31l0" points="844,1932 844,1996 788,1996 788,1932" baseline="789,1932 788,1996" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 5 | german_print2_15: E
+ -->
+			<!-- line left out: id="r31l1" points="618,283 618,316 599,316 599,283" baseline="599,283 599,316" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 44 | german_print2_15:  -->
+			<!-- line left out: id="r31l2" points="591,203 591,252 579,1947 579,1979 564,1979 564,1947 575,252 575,203" baseline="575,203 575,251 564,1947 564,1979" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: — Q | german_print2_15:  -->
+			<!-- line left out: id="r31l3" points="574,200 574,282 563,1946 563,1980 546,1980 543,282 543,200" baseline="545,200 542,281 512,1946 512,1980" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: S* 8 | german_print2_15: S? 3 -->
+			<!-- line left out: id="r31l4" points="533,200 533,253 572,281 572,326 534,1373 534,1538 543,1948 543,1979 493,1979 493,1948 474,1538 474,1373 500,326 500,281 493,253 493,200" baseline="493,200 498,281 497,325 476,1373 476,1537 469,1948 469,1979" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 3 5 ſE 2 | german_print2_15: 8 5 CNSS 2
+ -->
+			<!-- line left out: id="r31l5" points="498,285 498,314 491,1948 491,1979 467,1979 467,1948 481,314 481,285" baseline="481,285 481,313 456,1948 455,1979" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 8 3 | german_print2_15:  -->
+			<!-- line left out: id="r31l6" points="491,202 491,383 474,1242 474,1545 463,1932 463,1984 406,1984 406,1932 414,1545 414,1242 417,202" baseline="442,202 438,382 423,1242 413,1544 407,1932 406,1984" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: 865 NNNANE Q
+ | german_print2_15: Z * WNNINIS R -->
+		</TextRegion>
+		<GraphicRegion id="r32">
+			<Coords points="0,2297 0,2297 0,2561 0,2561" />
+		</GraphicRegion>
+		<SeparatorRegion id="r33">
+			<Coords points="0,1114 14,1114 14,2124 0,2124" />
+		</SeparatorRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Wer vil nüw fünd macht durch die land
+Der gibt vil aͤrgernyß vnd schand
+Vnd halt den narren by der hand
+center|250px
+Von nüwen funden.
+Das ettwan was eyn schantlich ding
+Das wygt man yetz schlecht vnd gering
+Eyn ere was ettwan tragen bert
+Jetz hand die wybschen mann gelert
+-->
+	</Page>
+</PcGts>

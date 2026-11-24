@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>ws-build.py (Wikisource text, line coordinates from Tesseract)</Creator>
+		<Created>2026-11-24T05:28:10</Created>
+		<LastChange>2026-11-24T05:28:10</LastChange>
+		<Comments>Text: https://de.wikisource.org/wiki/Seite:Narrenschiff_(Brant)_1499_0194.jpg revision 2883967 of 2016-08-18T14:01:44Z, proofread level 4, licence CC BY-SA 4.0. Long s, r rotunda and abbreviation marks restored from the recognition with next_nc_e1 and german_print2_15; lines where the two disagree or differ from Wikisource are left out and kept as comments.</Comments>
+	</Metadata>
+	<Page imageFilename="narrenschiff_1499_0194.jpg" imageWidth="1900" imageHeight="2550">
+		<ReadingOrder>
+			<OrderedGroup id="ro9878489273207790396" caption="Regions reading order">
+				<RegionRefIndexed index="5" regionRef="r5" />
+				<RegionRefIndexed index="6" regionRef="r6" />
+				<RegionRefIndexed index="14" regionRef="r14" />
+				<RegionRefIndexed index="16" regionRef="r16" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<GraphicRegion id="r0">
+			<Coords points="0,0 1900,0 1900,1942 0,1942" />
+		</GraphicRegion>
+		<GraphicRegion id="r1">
+			<Coords points="0,196 1900,196 1900,716 0,716" />
+		</GraphicRegion>
+		<GraphicRegion id="r2">
+			<Coords points="0,1678 1900,1678 1900,2083 0,2083" />
+		</GraphicRegion>
+		<GraphicRegion id="r3">
+			<Coords points="44,1753 53,1753 53,1764 44,1764" />
+		</GraphicRegion>
+		<SeparatorRegion id="r4">
+			<Coords points="39,1160 60,1160 60,2149 39,2149" />
+		</SeparatorRegion>
+		<TextRegion id="r5" custom="readingOrder {index:5;} orientation {0;}">
+			<Coords points="434,245 1284,245 1284,452 434,452" />
+			<!-- line left out: id="r5l0" points="504,272 577,272 578,284 617,284 625,270 639,270 639,245 663,245 663,270 690,270 719,270 719,245 738,245 781,245 781,283 799,283 809,270 828,270 828,283 847,283 848,270 861,270 925,250 946,250 949,281 968,281 985,282 1000,268 1050,268 1050,276 1081,276 1123,281 1150,283 1150,276 1179,276 1191,283 1210,283 1230,285 1231,272 1284,272 1284,329 1241,329 1241,314 1179,316 1150,316 1123,315 1091,315 1081,323 1047,323 1047,312 1022,312 968,311 946,312 925,312 847,310 799,311 781,311 781,331 738,331 719,331 719,311 690,311 690,323 663,323 663,331 639,331 625,328 617,314 577,318 504,318" baseline="504,317 625,313 648,312 860,309 1000,311 1284,314" reason: differs: "erſ⸗chi" against "r schie" | Wikisource:  | next_nc_e1: Wer ſ⸗ chieſſen will/ der lůg vnd triff | german_print2_15: Wer ſe chieſſen will / der lůg vnd triff -->
+			<TextLine id="r5l1" custom="readingOrder {index:1;}">
+				<Coords points="493,378 500,378 510,335 574,335 575,348 660,347 673,331 750,331 760,344 836,344 840,332 878,329 908,329 911,345 992,345 992,330 1041,330 1041,345 1076,346 1132,344 1132,332 1152,332 1152,348 1164,348 1164,336 1179,332 1212,332 1212,389 1179,389 1179,376 1152,377 1152,389 1132,389 1112,386 1104,377 1041,376 1041,384 992,384 976,381 976,375 878,375 836,373 601,377 574,380 510,380 500,387 493,387" />
+				<Baseline points="493,377 659,373 854,373 1212,377" />
+				<TextEquiv index="1">
+					<Unicode>Dann duͦt er nit die rechten griff</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r5l2" custom="readingOrder {index:2;}">
+				<Coords points="434,391 521,391 521,397 603,392 667,392 667,399 695,396 741,396 752,407 771,407 790,404 831,406 831,392 898,393 902,411 965,410 965,439 869,442 833,438 833,445 820,445 752,435 741,450 695,450 695,436 667,436 667,444 628,444 628,452 603,452 590,443 487,443 460,402 434,402" />
+				<Baseline points="434,444 603,443 752,435 820,443 860,439 965,439" />
+				<TextEquiv index="1">
+					<Unicode>So ſchüßt er/ ʒuͦ dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextEquiv index="1">
+				<Unicode>Dann duͦt er nit die rechten griff
+So ſchüßt er/ ʒuͦ dem</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="r6" custom="readingOrder {index:6;} orientation {0;}">
+			<Coords points="512,479 991,479 991,508 512,508" />
+			<!-- line left out: id="r6l0" points="512,479 991,479 991,504 624,508 512,508" baseline="512,499 991,499" reason: differs: "EE" against "narr" | Wikisource:  | next_nc_e1: E E
+ | german_print2_15: — – =
+ -->
+		</TextRegion>
+		<GraphicRegion id="r7">
+			<Coords points="358,285 503,285 503,373 358,373" />
+		</GraphicRegion>
+		<GraphicRegion id="r8">
+			<Coords points="350,419 503,419 503,482 350,482" />
+		</GraphicRegion>
+		<SeparatorRegion id="r9">
+			<Coords points="507,463 1312,463 1312,484 507,484" />
+		</SeparatorRegion>
+		<GraphicRegion id="r10">
+			<Coords points="908,482 1726,482 1726,581 908,581" />
+		</GraphicRegion>
+		<SeparatorRegion id="r11">
+			<Coords points="757,505 932,505 932,514 757,514" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r12">
+			<Coords points="659,562 664,562 664,640 659,640" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r13">
+			<Coords points="757,632 839,632 839,637 757,637" />
+		</SeparatorRegion>
+		<TextRegion id="r14" custom="readingOrder {index:14;} orientation {0;}">
+			<Coords points="521,560 924,560 924,653 521,653" />
+			<!-- line left out: id="r14l0" points="521,560 570,560 570,636 521,636" baseline="521,590 570,586" reason: no text of Wikisource found | Wikisource:  | next_nc_e1: ſ | german_print2_15:  -->
+			<!-- line left out: id="r14l1" points="629,619 641,619 812,623 882,636 924,636 924,642 882,642 812,653 732,653 641,634 629,634" baseline="629,653 732,652 924,653" reason: differs: "*2—" against "ente" | Wikisource:  | next_nc_e1: * 2 —
+ | german_print2_15:  -->
+		</TextRegion>
+		<GraphicRegion id="r15">
+			<Coords points="1484,1678 1726,1678 1726,2043 1484,2043" />
+		</GraphicRegion>
+		<TextRegion id="r16" custom="readingOrder {index:16;} orientation {0;}">
+			<Coords points="348,1851 1445,1851 1445,2233 348,2233" />
+			<!-- line left out: id="r16l0" points="361,1886 493,1886 538,1851 648,1851 654,1877 770,1877 829,1854 832,1854 842,1876 895,1876 902,1854 947,1854 947,1879 1034,1879 1050,1854 1093,1854 1093,1885 1121,1885 1121,1855 1180,1855 1183,1877 1282,1877 1437,1877 1437,1854 1445,1854 1445,1977 1437,1977 1437,1953 1360,1956 1317,1956 1315,1977 1279,1977 1279,1953 1243,1958 1183,1958 1180,1974 1121,1974 1121,1955 1084,1955 1034,1954 934,1954 895,1951 832,1954 829,1954 654,1952 648,1963 538,1963 493,1980 361,1980" baseline="361,1950 829,1949 1033,1953 1445,1951" reason: second model: differs: "BVon" against "250p" | Wikisource: Von bosen schützen. | next_nc_e1: Hon bolen ſchützen. | german_print2_15: BVonboſen ſchützen. P -->
+			<!-- line left out: id="r16l1" points="481,1974 516,1974 554,1975 555,1988 579,1988 582,1974 613,1969 656,1969 734,1969 923,1974 934,1991 961,1991 963,1978 979,1978 979,1988 995,1988 1094,1988 1139,1991 1152,1992 1152,1973 1178,1973 1238,1975 1290,2005 1361,1973 1406,1973 1406,2015 1361,2015 1290,2008 1238,2038 1152,2038 1152,2021 1140,2021 1139,2036 1093,2036 1093,2023 1077,2023 1054,2021 1035,2020 1034,2029 998,2029 995,2021 978,2021 961,2020 934,2020 923,2033 734,2033 734,2042 673,2042 673,2033 656,2033 656,2042 613,2042 613,2033 582,2033 579,2017 554,2020 516,2020 516,2033 481,2033" baseline="481,2020 613,2018 733,2018 1406,2019" reason: differs: "yeſen" against "yessen " | Wikisource:  | next_nc_e1: Wolt es die ſchützen nit vertryeſen | german_print2_15: Wolt es die ſchützen nit vertryeſſen -->
+			<TextLine id="r16l2" custom="readingOrder {index:2;}">
+				<Coords points="377,2038 567,2039 574,2053 594,2053 594,2044 608,2044 608,2037 655,2037 655,2052 740,2053 740,2037 784,2037 793,2050 811,2050 812,2038 832,2033 851,2033 851,2048 885,2048 885,2054 1032,2052 1087,2055 1101,2042 1112,2037 1137,2037 1165,2039 1165,2056 1195,2054 1195,2037 1259,2037 1259,2055 1282,2055 1282,2085 1259,2085 1259,2099 1195,2099 1195,2083 1185,2083 1184,2096 1162,2096 1162,2090 1137,2090 1137,2099 1101,2099 1087,2084 945,2084 937,2091 908,2096 884,2096 884,2083 851,2083 851,2103 832,2103 832,2084 812,2084 811,2090 793,2090 784,2099 740,2099 740,2084 655,2082 655,2090 608,2090 608,2081 574,2082 567,2093 521,2096 481,2096 462,2113 377,2113" />
+				<Baseline points="377,2082 1282,2084" />
+				<TextEquiv index="1">
+					<Unicode>Ich richt ouch ʒuͦ/ eyn narren ſchyeſſen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="r16l3" custom="readingOrder {index:3;}">
+				<Coords points="348,2136 477,2136 481,2104 539,2104 594,2109 603,2101 617,2101 617,2117 667,2117 667,2101 740,2101 747,2116 818,2117 829,2105 841,2101 932,2101 932,2114 996,2117 996,2101 1021,2101 1021,2119 1045,2114 1076,2114 1076,2097 1122,2097 1128,2104 1159,2104 1161,2119 1182,2117 1223,2117 1234,2105 1270,2105 1270,2118 1293,2118 1293,2109 1320,2109 1323,2117 1370,2119 1370,2150 1270,2149 1270,2164 1234,2164 1223,2158 1182,2158 1182,2147 1159,2150 1128,2150 1122,2168 1076,2168 1076,2151 1045,2151 1021,2147 1021,2162 974,2162 974,2148 954,2148 953,2155 932,2155 932,2162 907,2162 907,2146 893,2146 893,2153 866,2153 866,2162 841,2162 829,2157 818,2145 792,2145 791,2161 747,2161 740,2155 693,2158 650,2158 649,2147 617,2147 617,2158 603,2158 594,2148 481,2147 477,2162 348,2162" />
+				<Baseline points="348,2146 1370,2150" />
+				<TextEquiv index="1">
+					<Unicode>Vnd macht eyn ſchütʒreyn/ an dem ſtaden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<!-- line left out: id="r16l4" points="374,2163 473,2163 550,2165 552,2179 595,2179 607,2165 621,2165 621,2180 654,2180 679,2181 701,2182 701,2165 755,2165 755,2181 792,2181 803,2167 852,2166 934,2166 951,2170 951,2180 968,2180 1003,2182 1004,2173 1044,2168 1072,2168 1072,2185 1088,2184 1115,2184 1127,2167 1154,2167 1201,2167 1201,2181 1216,2181 1216,2174 1244,2174 1247,2181 1265,2181 1302,2182 1302,2233 1265,2233 1265,2212 1247,2212 1244,2218 1216,2218 1201,2214 1201,2233 1174,2233 1127,2230 1115,2214 1088,2214 1087,2230 1072,2231 1044,2231 1033,2215 968,2217 949,2217 934,2216 852,2216 846,2229 842,2229 842,2212 824,2212 824,2229 803,2229 792,2213 755,2213 755,2225 701,2225 701,2214 679,2215 621,2215 621,2225 607,2225 595,2213 552,2213 550,2231 478,2231 473,2216 374,2216" baseline="374,2216 594,2213 845,2212 1302,2212" reason: second model: differs: "SDes" against "Des " | Wikisource: Des mancher faͤlt/ nit on syn schaden | next_nc_e1: Des mancher faͤlt/ nit on ſyn ſchaden
+ | german_print2_15: SDese mancher faͤlt / nit on ſyn ſchaden
+ -->
+			<TextEquiv index="1">
+				<Unicode>Ich richt ouch ʒuͦ/ eyn narren ſchyeſſen
+Vnd macht eyn ſchütʒreyn/ an dem ſtaden</Unicode>
+			</TextEquiv>
+		</TextRegion>
+		<SeparatorRegion id="r17">
+			<Coords points="1501,484 1534,484 1534,1839 1501,1839" />
+		</SeparatorRegion>
+		<SeparatorRegion id="r18">
+			<Coords points="481,547 516,547 516,1828 481,1828" />
+		</SeparatorRegion>
+		<GraphicRegion id="r19">
+			<Coords points="337,1722 538,1722 538,2083 337,2083" />
+		</GraphicRegion>
+		<SeparatorRegion id="r20">
+			<Coords points="485,1813 1513,1813 1513,1841 485,1841" />
+		</SeparatorRegion>
+		<GraphicRegion id="r21">
+			<Coords points="433,1992 460,1992 460,1999 433,1999" />
+		</GraphicRegion>
+		<GraphicRegion id="r22">
+			<Coords points="341,2043 1722,2043 1722,2243 341,2243" />
+		</GraphicRegion>
+		<GraphicRegion id="r23">
+			<Coords points="0,2043 1900,2043 1900,2323 0,2323" />
+		</GraphicRegion>
+		<GraphicRegion id="r24">
+			<Coords points="1507,2083 1722,2083 1722,2151 1507,2151" />
+		</GraphicRegion>
+		<!-- Wikisource text of the page (normalised spelling, see the README):
+Wer schiessen will / der luͦg vnd triff
+Dann duͦt er nit die rechten griff
+So schüßt er / zuͦ dem narren schiff
+center|250px
+Von bosen schützen.
+Wolt es die schützen nit vertryessen
+Ich richt ouch zuͦ / eyn narren schyessen
+Vnd macht eyn schützreyn / an dem staden
+Des mancher faͤlt / nit on syn schaden
+-->
+	</Page>
+</PcGts>
